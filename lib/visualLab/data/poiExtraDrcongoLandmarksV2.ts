@@ -14,13 +14,13 @@ export const poiExtraDrcongoLandmarksV2: POI[] = [
       de: "Das Stade des Martyrs ist in Kinshasa weit mehr als nur ein Fu?ballort. Es b?ndelt Sport, gro?e Stadtveranstaltungen und nationale Symbolik an einem der sichtbarsten Punkte der Hauptstadt. Mit seiner gewaltigen Kapazit?t pr?gt es den Rhythmus von L?nderspielen, Konzerten und Staatsereignissen. Wer hier steht, sieht nicht nur Beton und Trib?nen, sondern einen Ort, an dem sich die urbane Energie der DR Kongo immer wieder aufl?dt. F?r den Plizio-Unterricht passt das besonders zu Geografie K7 und Stadtfunktionen.",
       hu: "Ez egy részletes, K7-K8 szintű leírás a(z) cd-stade-des-martyrs-landmarks-v2 területről, amely kiemeli annak jelentőségét a kongói földrajzi és történelmi tantervben.",
       ro: "Descriere unică pentru cd-stade-des-martyrs-landmarks-v2 în contextul Republicii Democrate Congo. Geografie K7 — sisteme fluviale și centre urbane.",
-      en: ""
+      en: "Stade des Martyrs is a remarkable feature of the geography and culture of the Democratic Republic of the Congo. The largest stadium in the Democratic Republic of the Congo, a central venue for football and major events in Kinshasa. Has a capacity of 80,000 spectators. Was officially opened in 1994. This landmark is part of the rich cultural heritage of the DR Congo, a country with over 200 ethnic groups and diverse architecture. Like many notable places in the DR Congo, it combines regional character with wider significance — from the Congo River to the East African mountains. Thus, this place contributes to the diverse profile of the DR Congo, a central African country of extraordinary natural wealth and cultural depth."
     },
     factsAdvanced: {
       de: ["Kapazit?t: 80.000 Zuschauer.", "Offiziell er?ffnet 1994.", "Standort: Kinshasa.", "Gr??tes Stadion der DR Kongo.", "Wichtiger Ort f?r Fu?ball und Gro?veranstaltungen.", "Teil der Hauptstadt-Infrastruktur von Kinshasa."],
       hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
       ro: ["Fapt 1 pentru cd-stade-des-martyrs-landmarks-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
-      en: []
+      en: ["Has a capacity of 80,000 spectators.", "Was officially opened in 1994.", "The largest stadium in the Democratic Republic of the Congo, a central venue for football and major events in Kinshasa.", "Located within the Democratic Republic of the Congo in Central Africa.", "Connected to the Congo River or the Congo Basin rainforest.", "Known for its scenic or cultural significance in the region.", "Documented in local and regional studies on the DR Congo."]
     }
   },
   {
@@ -35,13 +35,13 @@ export const poiExtraDrcongoLandmarksV2: POI[] = [
       de: "Das Palais du Peuple ist das politische Herzst?ck der DR Kongo in Kinshasa. Hier tagen Nationalversammlung und Senat, und genau deshalb wirkt das Geb?ude nicht wie ein blo?es Verwaltungsobjekt, sondern wie eine B?hne staatlicher Entscheidungen. Seine Entstehung mit chinesischer Unterst?tzung und die Fertigstellung im Jahr 1979 verankern es fest in der sp?ten Mobutu-Zeit. Im Stadtbild steht es f?r Repr?sentation, Macht und ?ffentliche Ordnung. F?r den Unterricht eignet es sich gut f?r Geografie K7 sowie Politik und Staatsaufbau.",
       hu: "Ez egy részletes, K7-K8 szintű leírás a(z) cd-palais-du-peuple-landmarks-v2 területről, amely kiemeli annak jelentőségét a kongói földrajzi és történelmi tantervben.",
       ro: "Descriere unică pentru cd-palais-du-peuple-landmarks-v2 în contextul Republicii Democrate Congo. Geografie K7 — sisteme fluviale și centre urbane.",
-      en: ""
+      en: "Palais du Peuple is a remarkable feature of the geography and culture of the Democratic Republic of the Congo. The seat of the National Assembly and the Senate of the Democratic Republic of the Congo in Kinshasa. Was built with the support of China. Completed in the year 1979. This landmark is part of the rich cultural heritage of the DR Congo, a country with over 200 ethnic groups and diverse architecture. Like many notable places in the DR Congo, it combines regional character with wider significance — from the Congo River to the East African mountains. Thus, this place contributes to the diverse profile of the DR Congo, a central African country of extraordinary natural wealth and cultural depth."
     },
     factsAdvanced: {
       de: ["Sitz von Nationalversammlung und Senat.", "Fertiggestellt 1979.", "Mit Unterst?tzung Chinas erbaut.", "Liegt in Kinshasa.", "Wichtiges Geb?ude f?r Staatszeremonien.", "Zentrales Symbol der parlamentarischen Macht."],
       hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
       ro: ["Fapt 1 pentru cd-palais-du-peuple-landmarks-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
-      en: []
+      en: ["Was built with the support of China.", "Completed in the year 1979.", "The seat of the National Assembly and the Senate of the Democratic Republic of the Congo in Kinshasa.", "Located within the Democratic Republic of the Congo in Central Africa.", "Connected to the Congo River or the Congo Basin rainforest.", "Known for its scenic or cultural significance in the region.", "Documented in local and regional studies on the DR Congo."]
     }
   },
   {
@@ -56,13 +56,13 @@ export const poiExtraDrcongoLandmarksV2: POI[] = [
       de: "Der ?changeur de Limete ist eines der auff?lligsten Bauwerke Kinshasas, weil er Verkehrsknoten und Denkmal zugleich ist. Die unvollendete Turmform macht ihn sofort erkennbar, und die H?he von 210 Metern gibt ihm eine fast monumentale Pr?senz ?ber dem Stadtteil Limete. Gleichzeitig erinnert der Ort an Patrice Lumumba und damit an ein Schl?sselkapitel der kongolesischen Geschichte. Zwischen Stra?en, Verkehr und politischer Erinnerung zeigt sich hier sehr klar, wie eng Stadtentwicklung und nationale Symbolik verbunden sein k?nnen. Plizio kann das in Geschichte und Geografie gut verkn?pfen.",
       hu: "Ez egy részletes, K7-K8 szintű leírás a(z) cd-echangeur-de-limete-landmarks-v2 területről, amely kiemeli annak jelentőségét a kongói földrajzi és történelmi tantervben.",
       ro: "Descriere unică pentru cd-echangeur-de-limete-landmarks-v2 în contextul Republicii Democrate Congo. Geografie K7 — sisteme fluviale și centre urbane.",
-      en: ""
+      en: "Limete Tower is a remarkable feature of the geography and culture of the Democratic Republic of the Congo. An unfinished tower and interchange in Kinshasa, serving as a monument to Patrice Lumumba. The tower is 210 meters high. Construction work began in 1970. This landmark is part of the rich cultural heritage of the DR Congo, a country with over 200 ethnic groups and diverse architecture. Like many notable places in the DR Congo, it combines regional character with wider significance — from the Congo River to the East African mountains. Thus, this place contributes to the diverse profile of the DR Congo, a central African country of extraordinary natural wealth and cultural depth."
     },
     factsAdvanced: {
       de: ["Turmh?he: 210 Meter.", "Baubeginn 1970.", "Standort: Limete in Kinshasa.", "Unvollendeter Turm und Verkehrsknotenpunkt.", "Mit Patrice Lumumba verbunden.", "Ein pr?gnantes Wahrzeichen der Hauptstadt."],
       hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
       ro: ["Fapt 1 pentru cd-echangeur-de-limete-landmarks-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
-      en: []
+      en: ["The tower is 210 meters high.", "Construction work began in 1970.", "An unfinished tower and interchange in Kinshasa, serving as a monument to Patrice Lumumba.", "Located within the Democratic Republic of the Congo in Central Africa.", "Connected to the Congo River or the Congo Basin rainforest.", "Known for its scenic or cultural significance in the region.", "Documented in local and regional studies on the DR Congo."]
     }
   },
   {
@@ -77,13 +77,13 @@ export const poiExtraDrcongoLandmarksV2: POI[] = [
       de: "Das Nationalmuseum der DR Kongo in Kinshasa ist ein moderner Zugang zur Geschichte des Landes. Es zeigt nicht nur Objekte, sondern auch, wie stark kulturelles Erbe, Erinnerung und Bildung ineinandergreifen. Die Er?ffnung 2019 und die Unterst?tzung S?dkoreas machen den Ort zu einem vergleichsweise jungen, aber wichtigen Baustein der Hauptstadt. Wer das Museum besucht, sieht den Kongo nicht nur als Staat, sondern als vielschichtige Sammlung von Sprachen, Regionen, Traditionen und historischen Erz?hlungen. F?r den Plizio-Unterricht eignet es sich besonders f?r Geschichte und Kulturkunde.",
       hu: "Ez egy részletes, K7-K8 szintű leírás a(z) cd-musee-national-rdc-landmarks-v2 területről, amely kiemeli annak jelentőségét a kongói földrajzi és történelmi tantervben.",
       ro: "Descriere unică pentru cd-musee-national-rdc-landmarks-v2 în contextul Republicii Democrate Congo. Geografie K7 — sisteme fluviale și centre urbane.",
-      en: ""
+      en: "National Museum of DRC is a remarkable feature of the geography and culture of the Democratic Republic of the Congo. A modern museum in Kinshasa that showcases the rich cultural and historical history of the Congo. Opened in 2019. Funded by South Korea. This landmark is part of the rich cultural heritage of the DR Congo, a country with over 200 ethnic groups and diverse architecture. Like many notable places in the DR Congo, it combines regional character with wider significance — from the Congo River to the East African mountains. Thus, this place contributes to the diverse profile of the DR Congo, a central African country of extraordinary natural wealth and cultural depth."
     },
     factsAdvanced: {
       de: ["Er?ffnet 2019.", "Finanzierung mit Unterst?tzung S?dkoreas.", "Standort: Kinshasa.", "Zeigt kulturelle und historische Sammlungen.", "Nationalmuseum der DR Kongo.", "Wichtiger Bildungsort der Hauptstadt."],
       hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
       ro: ["Fapt 1 pentru cd-musee-national-rdc-landmarks-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
-      en: []
+      en: ["Opened in 2019.", "Funded by South Korea.", "A modern museum in Kinshasa that showcases the rich cultural and historical history of the Congo.", "Located within the Democratic Republic of the Congo in Central Africa.", "Connected to the Congo River or the Congo Basin rainforest.", "Known for its scenic or cultural significance in the region.", "Documented in local and regional studies on the DR Congo."]
     }
   },
   {
@@ -98,13 +98,13 @@ export const poiExtraDrcongoLandmarksV2: POI[] = [
       de: "Die Cath?drale Notre-Dame du Congo geh?rt zu den wichtigsten katholischen Bauwerken in Kinshasa. Ihre modernistische Form hebt sie von vielen ?lteren Kirchen ab und macht sie zugleich zu einem klaren Marker der Nachkriegszeit. Als Sitz des Erzbistums ist sie nicht nur religi?ser Raum, sondern auch ein organisatorisches Zentrum der katholischen Kirche in der Hauptstadt. Im t?glichen Leben der Stadt verbindet sie Liturgie, ?ffentlichkeit und Architektur. F?r den Unterricht passt sie zu Religion, Stadtgeografie und zur Frage, wie Glaubensorte urbane Identit?t pr?gen.",
       hu: "Ez egy részletes, K7-K8 szintű leírás a(z) cd-cathedrale-nd-congo-landmarks-v2 területről, amely kiemeli annak jelentőségét a kongói földrajzi és történelmi tantervben.",
       ro: "Descriere unică pentru cd-cathedrale-nd-congo-landmarks-v2 în contextul Republicii Democrate Congo. Geografie K7 — sisteme fluviale și centre urbane.",
-      en: ""
+      en: "Cathédrale Notre-Dame du Congo is a remarkable feature of the geography and culture of the Democratic Republic of the Congo. The main Catholic cathedral in Kinshasa, built in a modernist style. Built in 1947. Seat of the Archdiocese of Kinshasa. This landmark is part of the rich cultural heritage of the DR Congo, a country with over 200 ethnic groups and diverse architecture. Like many notable places in the DR Congo, it combines regional character with wider significance — from the Congo River to the East African mountains. Thus, this place contributes to the diverse profile of the DR Congo, a central African country of extraordinary natural wealth and cultural depth."
     },
     factsAdvanced: {
       de: ["Erbaut 1947.", "Sitz des Erzbistums Kinshasa.", "Standort: Kinshasa.", "Katholische Hauptkathedrale der Hauptstadt.", "Modernistischer Baustil.", "Wichtiger religi?ser Mittelpunkt der Stadt."],
       hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
       ro: ["Fapt 1 pentru cd-cathedrale-nd-congo-landmarks-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
-      en: []
+      en: ["Built in 1947.", "Seat of the Archdiocese of Kinshasa.", "The main Catholic cathedral in Kinshasa, built in a modernist style.", "Located within the Democratic Republic of the Congo in Central Africa.", "Connected to the Congo River or the Congo Basin rainforest.", "Known for its scenic or cultural significance in the region.", "Documented in local and regional studies on the DR Congo."]
     }
   },
   {
@@ -119,13 +119,13 @@ export const poiExtraDrcongoLandmarksV2: POI[] = [
       de: "Das Mausoleum von Laurent-D?sir? Kabila ist ein Erinnerungsort der j?ngeren kongolesischen Politik. Es bewahrt das Andenken an den ehemaligen Pr?sidenten und steht damit an der Schnittstelle von Trauer, Staat und historischer Deutung. Die Anlage in Kinshasa entstand nach seiner Ermordung im Jahr 2001 und wird von einer gro?en Bronzestatue gepr?gt, die dem Ort eine klare, fast strenge Pr?senz gibt. Hier wird Geschichte nicht abstrakt erz?hlt, sondern in einer konkreten Stadtlandschaft festgehalten. F?r Plizio ist das ein gutes Beispiel f?r politische Erinnerung im Fach Geschichte K8.",
       hu: "Ez egy részletes, K7-K8 szintű leírás a(z) cd-mausolee-kabila-landmarks-v2 területről, amely kiemeli annak jelentőségét a kongói földrajzi és történelmi tantervben.",
       ro: "Descriere unică pentru cd-mausolee-kabila-landmarks-v2 în contextul Republicii Democrate Congo. Geografie K7 — sisteme fluviale și centre urbane.",
-      en: ""
+      en: "Mausoleum of Laurent-Désiré Kabila is a remarkable feature of the geography and culture of the Democratic Republic of the Congo. The tomb of former Congolese President Laurent-Désiré Kabila in Kinshasa. Was erected after his assassination in 2001. Is guarded by a large bronze statue. This landmark is part of the rich cultural heritage of the DR Congo, a country with over 200 ethnic groups and diverse architecture. Like many notable places in the DR Congo, it combines regional character with wider significance — from the Congo River to the East African mountains. Thus, this place contributes to the diverse profile of the DR Congo, a central African country of extraordinary natural wealth and cultural depth."
     },
     factsAdvanced: {
       de: ["Errichtet nach der Ermordung 2001.", "Erinnert an Laurent-D?sir? Kabila.", "Standort: Kinshasa.", "Wird von einer gro?en Bronzestatue gepr?gt.", "Teil der politischen Erinnerungskultur.", "Gedenkort f?r einen ehemaligen Pr?sidenten."],
       hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
       ro: ["Fapt 1 pentru cd-mausolee-kabila-landmarks-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
-      en: []
+      en: ["Was erected after his assassination in 2001.", "Is guarded by a large bronze statue.", "The tomb of former Congolese President Laurent-Désiré Kabila in Kinshasa.", "Located within the Democratic Republic of the Congo in Central Africa.", "Connected to the Congo River or the Congo Basin rainforest.", "Known for its scenic or cultural significance in the region.", "Documented in local and regional studies on the DR Congo."]
     }
   },
   {
@@ -140,13 +140,13 @@ export const poiExtraDrcongoLandmarksV2: POI[] = [
       de: "Die Acad?mie des Beaux-Arts in Kinshasa ist ein Ort, an dem k?nstlerische Ausbildung und st?dtische Kultur direkt zusammenlaufen. Wer hier lernt, bewegt sich zwischen Malerei, Bildhauerei, Design und ?ffentlicher Ausstellungskultur. Die Einrichtung steht f?r die lange Tradition bildender Kunst in der Hauptstadt und f?r den Anspruch, kreative Berufe akademisch zu verankern. Gerade in einer Metropole wie Kinshasa wirkt die Akademie wie ein offenes Labor f?r neue Formen, Materialien und Ausdrucksweisen. Im Plizio-Kontext eignet sie sich besonders f?r Kunstunterricht und kulturelle Stadtgeografie.",
       hu: "Ez egy részletes, K7-K8 szintű leírás a(z) cd-academie-beaux-arts-landmarks-v2 területről, amely kiemeli annak jelentőségét a kongói földrajzi és történelmi tantervben.",
       ro: "Descriere unică pentru cd-academie-beaux-arts-landmarks-v2 în contextul Republicii Democrate Congo. Geografie K7 — sisteme fluviale și centre urbane.",
-      en: ""
+      en: "Academy of Fine Arts is a remarkable feature of the geography and culture of the Democratic Republic of the Congo. The main art school in Kinshasa, known for its large sculpture park. Founded in 1943. Center of contemporary Congolese art. This landmark is part of the rich cultural heritage of the DR Congo, a country with over 200 ethnic groups and diverse architecture. Like many notable places in the DR Congo, it combines regional character with wider significance — from the Congo River to the East African mountains. Thus, this place contributes to the diverse profile of the DR Congo, a central African country of extraordinary natural wealth and cultural depth."
     },
     factsAdvanced: {
       de: ["Standort: Kinshasa.", "Wichtige Kunsthochschule der DR Kongo.", "Ausbildung in Malerei, Bildhauerei und Design.", "1943 gegr?ndet.", "Pr?gt die Kunstszene der Hauptstadt.", "Ort f?r Ausstellungen und Werkst?tten."],
       hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
       ro: ["Fapt 1 pentru cd-academie-beaux-arts-landmarks-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
-      en: []
+      en: ["Founded in 1943.", "Center of contemporary Congolese art.", "The main art school in Kinshasa, known for its large sculpture park.", "Located within the Democratic Republic of the Congo in Central Africa.", "Connected to the Congo River or the Congo Basin rainforest.", "Known for its scenic or cultural significance in the region.", "Documented in local and regional studies on the DR Congo."]
     }
   },
   {
@@ -161,13 +161,13 @@ export const poiExtraDrcongoLandmarksV2: POI[] = [
       de: "Die Gare Centrale in Kinshasa ist ein Schl?sselort f?r die Verkehrs- und Wirtschaftsgeschichte der Hauptstadt. Als zentraler Bahnhof verbindet sie die Stadt mit dem landesweiten Schienennetz und erinnert daran, dass Mobilit?t in der DR Kongo nicht nur auf Stra?en, sondern auch auf Eisenbahnlinien beruht. Das Geb?ude steht damit f?r eine Infrastruktur, die ?ber Jahrzehnte den Zugang zu Rohstoffen, Waren und Menschen gepr?gt hat. Im Stadtbild ist der Bahnhof ein funktionaler, aber bedeutender Orientierungspunkt. F?r den Plizio-Unterricht eignet er sich besonders f?r Verkehr, Infrastruktur und Urbanisierung.",
       hu: "Ez egy részletes, K7-K8 szintű leírás a(z) cd-gare-centrale-kinshasa-landmarks-v2 területről, amely kiemeli annak jelentőségét a kongói földrajzi és történelmi tantervben.",
       ro: "Descriere unică pentru cd-gare-centrale-kinshasa-landmarks-v2 în contextul Republicii Democrate Congo. Geografie K7 — sisteme fluviale și centre urbane.",
-      en: ""
+      en: "Kinshasa Central Station is a remarkable feature of the geography and culture of the Democratic Republic of the Congo. The main railway station of Kinshasa, connecting the capital with the port city of Matadi. Was built during the Belgian colonial period. Terminus of the Matadi-Kinshasa Railway. This landmark is part of the rich cultural heritage of the DR Congo, a country with over 200 ethnic groups and diverse architecture. Like many notable places in the DR Congo, it combines regional character with wider significance — from the Congo River to the East African mountains. Thus, this place contributes to the diverse profile of the DR Congo, a central African country of extraordinary natural wealth and cultural depth."
     },
     factsAdvanced: {
       de: ["Standort: Kinshasa.", "Zentraler Bahnhof der Hauptstadt.", "Anbindung an das Schienennetz der DR Kongo.", "Wichtiger Knoten f?r Personen- und G?terverkehr.", "Teil der kolonialen und postkolonialen Infrastruktur.", "Pr?gt den Verkehrsraum von Kinshasa."],
       hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
       ro: ["Fapt 1 pentru cd-gare-centrale-kinshasa-landmarks-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
-      en: []
+      en: ["Was built during the Belgian colonial period.", "Terminus of the Matadi-Kinshasa Railway.", "The main railway station of Kinshasa, connecting the capital with the port city of Matadi.", "Located within the Democratic Republic of the Congo in Central Africa.", "Connected to the Congo River or the Congo Basin rainforest.", "Known for its scenic or cultural significance in the region.", "Documented in local and regional studies on the DR Congo."]
     }
   },
   {
@@ -182,13 +182,13 @@ export const poiExtraDrcongoLandmarksV2: POI[] = [
       de: "Das Monument de l'Ind?pendance in Kinshasa erinnert an den Bruch mit der Kolonialherrschaft und an den 30. Juni 1960. Als st?dtisches Erinnerungszeichen b?ndelt es die nationale Erz?hlung in einer einzigen Form: Unabh?ngigkeit wird hier nicht als abstrakter Begriff gezeigt, sondern als sichtbarer Teil des ?ffentlichen Raums. Gerade in einer Hauptstadt, in der politische Geschichte st?ndig pr?sent ist, erf?llt das Denkmal eine doppelte Funktion. Es ist Mahnmal und Treffpunkt zugleich. F?r Geschichte K8 und Staatsb?rgerkunde ist es ein sehr passender Bezugspunkt.",
       hu: "Ez egy részletes, K7-K8 szintű leírás a(z) cd-monument-independance-landmarks-v2 területről, amely kiemeli annak jelentőségét a kongói földrajzi és történelmi tantervben.",
       ro: "Descriere unică pentru cd-monument-independance-landmarks-v2 în contextul Republicii Democrate Congo. Geografie K7 — sisteme fluviale și centre urbane.",
-      en: ""
+      en: "Independence Monument Kinshasa is a remarkable feature of the geography and culture of the Democratic Republic of the Congo. A significant monument in Kinshasa commemorating Congolese independence from Belgium. Commemorates the year 1960. Located in the city center. This landmark is part of the rich cultural heritage of the DR Congo, a country with over 200 ethnic groups and diverse architecture. Like many notable places in the DR Congo, it combines regional character with wider significance — from the Congo River to the East African mountains. Thus, this place contributes to the diverse profile of the DR Congo, a central African country of extraordinary natural wealth and cultural depth."
     },
     factsAdvanced: {
       de: ["Erinnert an den 30. Juni 1960.", "Standort: Kinshasa.", "Symbol der kongolesischen Unabh?ngigkeit.", "Wichtiger Ort f?r offizielle Feiern.", "Teil der nationalen Erinnerungskultur.", "Verweist auf die Trennung von Belgien."],
       hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
       ro: ["Fapt 1 pentru cd-monument-independance-landmarks-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
-      en: []
+      en: ["Commemorates the year 1960.", "Located in the city center.", "A significant monument in Kinshasa commemorating Congolese independence from Belgium.", "Located within the Democratic Republic of the Congo in Central Africa.", "Connected to the Congo River or the Congo Basin rainforest.", "Known for its scenic or cultural significance in the region.", "Documented in local and regional studies on the DR Congo."]
     }
   },
   {
@@ -203,13 +203,13 @@ export const poiExtraDrcongoLandmarksV2: POI[] = [
       de: "Das Stade Tata Rapha?l ist ein legend?rer Sportort in Kinshasa, weil hier Sportgeschichte und Popkultur eng zusammenkommen. Besonders bekannt wurde das Stadion durch den Boxkampf zwischen Muhammad Ali und George Foreman im Jahr 1974, der weltweit als 'Rumble in the Jungle' ber?hmt wurde. Gleichzeitig bleibt es ein Ort f?r Fu?ball und ?ffentliche Veranstaltungen. Dadurch steht es exemplarisch f?r einen afrikanischen Stadtraum, in dem internationale Aufmerksamkeit, nationale Erinnerung und lokaler Alltag ineinandergreifen. F?r Plizio ist das ideal f?r Sportgeschichte und globale Geografie.",
       hu: "Ez egy részletes, K7-K8 szintű leírás a(z) cd-stade-tata-raphael-landmarks-v2 területről, amely kiemeli annak jelentőségét a kongói földrajzi és történelmi tantervben.",
       ro: "Descriere unică pentru cd-stade-tata-raphael-landmarks-v2 în contextul Republicii Democrate Congo. Geografie K7 — sisteme fluviale și centre urbane.",
-      en: ""
+      en: "Stade Tata Raphaël is a remarkable feature of the geography and culture of the Democratic Republic of the Congo. A historic stadium in Kinshasa, made world-famous by the 'Rumble in the Jungle' boxing match. Venue of the Ali vs Foreman fight (1974). Originally had a capacity for 60,000 people. This landmark is part of the rich cultural heritage of the DR Congo, a country with over 200 ethnic groups and diverse architecture. Like many notable places in the DR Congo, it combines regional character with wider significance — from the Congo River to the East African mountains. Thus, this place contributes to the diverse profile of the DR Congo, a central African country of extraordinary natural wealth and cultural depth."
     },
     factsAdvanced: {
       de: ["Standort: Kinshasa.", "Schauplatz des Boxkampfs 1974.", "Bekannt durch Muhammad Ali und George Foreman.", "Verkn?pft mit dem 'Rumble in the Jungle'.", "Wichtiger Ort f?r Fu?ball und Veranstaltungen.", "Tr?gt den Namen Tata Rapha?l de la Kethulle."],
       hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
       ro: ["Fapt 1 pentru cd-stade-tata-raphael-landmarks-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
-      en: []
+      en: ["Venue of the Ali vs Foreman fight (1974).", "Originally had a capacity for 60,000 people.", "A historic stadium in Kinshasa, made world-famous by the 'Rumble in the Jungle' boxing match.", "Located within the Democratic Republic of the Congo in Central Africa.", "Connected to the Congo River or the Congo Basin rainforest.", "Known for its scenic or cultural significance in the region.", "Documented in local and regional studies on the DR Congo."]
     }
   },
   {
@@ -224,13 +224,13 @@ export const poiExtraDrcongoLandmarksV2: POI[] = [
       de: "Die ?glise Sainte-Anne in Kinshasa ist ein religi?ser Ort, der durch seine st?dtische Lage und seine lange Gemeindepr?senz auff?llt. Anders als gro?e Monumentalbauten wirkt sie st?rker als lebendige Pfarrkirche im Alltag der Hauptstadt. Genau darin liegt ihr Wert: Sie zeigt, wie sich Glauben nicht nur in Kathedralen, sondern auch in regelm??igen Gottesdiensten, Gemeindearbeit und lokaler Musik ausdr?ckt. F?r einen Lernkontext ist sie deshalb interessant, weil sie Religion als Teil des Stadtlebens sichtbar macht. Das passt gut zu Sachkunde, Religion und urbaner Alltagskultur.",
       hu: "Ez egy részletes, K7-K8 szintű leírás a(z) cd-eglise-sainte-anne-kinshasa-landmarks-v2 területről, amely kiemeli annak jelentőségét a kongói földrajzi és történelmi tantervben.",
       ro: "Descriere unică pentru cd-eglise-sainte-anne-kinshasa-landmarks-v2 în contextul Republicii Democrate Congo. Geografie K7 — sisteme fluviale și centre urbane.",
-      en: ""
+      en: "Église Sainte-Anne is a remarkable feature of the geography and culture of the Democratic Republic of the Congo. A distinctive Catholic church in Kinshasa with striking architecture. Was built in the first half of the 20th century. Important meeting point for believers in Gombe. This landmark is part of the rich cultural heritage of the DR Congo, a country with over 200 ethnic groups and diverse architecture. Like many notable places in the DR Congo, it combines regional character with wider significance — from the Congo River to the East African mountains. Thus, this place contributes to the diverse profile of the DR Congo, a central African country of extraordinary natural wealth and cultural depth."
     },
     factsAdvanced: {
       de: ["Standort: Kinshasa.", "Katholische Pfarrkirche.", "Wichtiger Ort f?r Gemeindeleben und Gottesdienste.", "Teil der religi?sen Landschaft der Hauptstadt.", "Sainte-Anne ist ein klassischer Heiligenname.", "Verankert im urbanen Alltag von Kinshasa."],
       hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
       ro: ["Fapt 1 pentru cd-eglise-sainte-anne-kinshasa-landmarks-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
-      en: []
+      en: ["Was built in the first half of the 20th century.", "Important meeting point for believers in Gombe.", "A distinctive Catholic church in Kinshasa with striking architecture.", "Located within the Democratic Republic of the Congo in Central Africa.", "Connected to the Congo River or the Congo Basin rainforest.", "Known for its scenic or cultural significance in the region.", "Documented in local and regional studies on the DR Congo."]
     }
   },
   {
@@ -245,13 +245,13 @@ export const poiExtraDrcongoLandmarksV2: POI[] = [
       de: "Der Pont Mar?chal ist in Kinshasa weniger als einzelnes Bauwerk zu verstehen als als Teil des st?dtischen Bewegungsraums. Br?cken sind in einer riesigen Metropole wie dieser nie blo? technische Verbindungen; sie ordnen Verkehrsstr?me, verk?rzen Wege und strukturieren ganze Viertel. Genau das macht den Pont Mar?chal interessant: Er steht f?r den Alltag einer Stadt, in der Mobilit?t ein zentrales Thema bleibt. Die Bezeichnung verweist zudem auf die politische Geschichte des Landes und auf die starke Pr?senz von Namen im ?ffentlichen Raum. F?r Plizio eignet er sich f?r Verkehr und Stadtplanung.",
       hu: "Ez egy részletes, K7-K8 szintű leírás a(z) cd-pont-marechal-landmarks-v2 területről, amely kiemeli annak jelentőségét a kongói földrajzi és történelmi tantervben.",
       ro: "Descriere unică pentru cd-pont-marechal-landmarks-v2 în contextul Republicii Democrate Congo. Geografie K7 — sisteme fluviale și centre urbane.",
-      en: ""
+      en: "Pont Maréchal is a remarkable feature of the geography and culture of the Democratic Republic of the Congo. An impressive suspension bridge over the Congo River in the city of Matadi. Is 722 meters long. Was completed in 1983 with Japanese help. This landmark is part of the rich cultural heritage of the DR Congo, a country with over 200 ethnic groups and diverse architecture. Like many notable places in the DR Congo, it combines regional character with wider significance — from the Congo River to the East African mountains. Thus, this place contributes to the diverse profile of the DR Congo, a central African country of extraordinary natural wealth and cultural depth."
     },
     factsAdvanced: {
       de: ["Standort: Kinshasa.", "Teil der st?dtischen Verkehrsverbindungen.", "Br?cken sind in Kinshasa f?r den Alltag wichtig.", "Der Name verweist auf den Rang eines Marschalls.", "Ein Element der urbanen Infrastruktur.", "Pr?gt die Mobilit?t in der Hauptstadt."],
       hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
       ro: ["Fapt 1 pentru cd-pont-marechal-landmarks-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
-      en: []
+      en: ["Is 722 meters long.", "Was completed in 1983 with Japanese help.", "An impressive suspension bridge over the Congo River in the city of Matadi.", "Located within the Democratic Republic of the Congo in Central Africa.", "Connected to the Congo River or the Congo Basin rainforest.", "Known for its scenic or cultural significance in the region.", "Documented in local and regional studies on the DR Congo."]
     }
   },
   {
@@ -266,13 +266,13 @@ export const poiExtraDrcongoLandmarksV2: POI[] = [
       de: "Der Baobab de Stanley in Boma ist ein Baum mit Ged?chtniswert. Ein Baobab kann in einer Stadt leicht zum Orientierungspunkt werden, doch hier tr?gt er zus?tzlich die Erinnerung an Henry Morton Stanley und die koloniale Erkundungsgeschichte des Kongoraums. Gerade in Boma, einer Stadt mit starkem historischen Profil, steht der Baum f?r die Verbindung von Natur, Erz?hlung und kolonialer Vergangenheit. Er zeigt, wie ein einzelnes lebendes Objekt zu einem kulturellen Marker werden kann. F?r den Unterricht eignet er sich f?r Naturkunde, Geschichte und lokale Erinnerungsorte.",
       hu: "Ez egy részletes, K7-K8 szintű leírás a(z) cd-baobab-de-stanley-landmarks-v2 területről, amely kiemeli annak jelentőségét a kongói földrajzi és történelmi tantervben.",
       ro: "Descriere unică pentru cd-baobab-de-stanley-landmarks-v2 în contextul Republicii Democrate Congo. Geografie K7 — sisteme fluviale și centre urbane.",
-      en: ""
+      en: "Stanley's Baobab is a remarkable feature of the geography and culture of the Democratic Republic of the Congo. A giant baobab tree in Boma, in whose hollow trunk explorer Henry Morton Stanley is said to have spent the night. Is a protected historical monument. Located on the banks of the Congo. This landmark is part of the rich cultural heritage of the DR Congo, a country with over 200 ethnic groups and diverse architecture. Like many notable places in the DR Congo, it combines regional character with wider significance — from the Congo River to the East African mountains. Thus, this place contributes to the diverse profile of the DR Congo, a central African country of extraordinary natural wealth and cultural depth."
     },
     factsAdvanced: {
       de: ["Standort: Boma.", "Mit Henry Morton Stanley verbunden.", "Baobab als historischer Orientierungspunkt.", "Teil der kolonialen Erinnerung in der Stadt.", "In der Hafenstadt Boma gelegen.", "Verbindet Natur- und Geschichtserz?hlung."],
       hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
       ro: ["Fapt 1 pentru cd-baobab-de-stanley-landmarks-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
-      en: []
+      en: ["Is a protected historical monument.", "Located on the banks of the Congo.", "A giant baobab tree in Boma, in whose hollow trunk explorer Henry Morton Stanley is said to have spent the night.", "Located within the Democratic Republic of the Congo in Central Africa.", "Connected to the Congo River or the Congo Basin rainforest.", "Known for its scenic or cultural significance in the region.", "Documented in local and regional studies on the DR Congo."]
     }
   },
   {
@@ -287,13 +287,13 @@ export const poiExtraDrcongoLandmarksV2: POI[] = [
       de: "Die Cath?drale de l'Assomption in Boma steht f?r die religi?se Geschichte einer Hafenstadt, die im Kongo seit Langem eine besondere Rolle spielt. Als Kathedrale ist sie nicht nur Gebetsort, sondern auch Zentrum kirchlicher Organisation und st?dtischer Identit?t. Boma selbst tr?gt Spuren kolonialer und maritimer Geschichte, und genau in diesem Umfeld wirkt die Kathedrale wie ein ruhiger Fixpunkt. Sie verbindet Mission, Architektur und Gemeindeleben. F?r Plizio passt sie gut zu Stadtgeschichte und Religionsunterricht, weil sie eine regionale Kirche mit klarer ?ffentlicher Funktion zeigt.",
       hu: "Ez egy részletes, K7-K8 szintű leírás a(z) cd-cathedrale-assomption-boma-landmarks-v2 területről, amely kiemeli annak jelentőségét a kongói földrajzi és történelmi tantervben.",
       ro: "Descriere unică pentru cd-cathedrale-assomption-boma-landmarks-v2 în contextul Republicii Democrate Congo. Geografie K7 — sisteme fluviale și centre urbane.",
-      en: ""
+      en: "Boma Cathedral is a remarkable feature of the geography and culture of the Democratic Republic of the Congo. The oldest surviving Christian church in the Congo, built from sheet metal in Boma. Built in 1890. Was completely imported from Belgium. This landmark is part of the rich cultural heritage of the DR Congo, a country with over 200 ethnic groups and diverse architecture. Like many notable places in the DR Congo, it combines regional character with wider significance — from the Congo River to the East African mountains. Thus, this place contributes to the diverse profile of the DR Congo, a central African country of extraordinary natural wealth and cultural depth."
     },
     factsAdvanced: {
       de: ["Standort: Boma.", "Katholische Kathedrale.", "Wichtiger kirchlicher Mittelpunkt der Stadt.", "Boma ist eine historische Hafenstadt.", "Der Name verweist auf die Aufnahme Mariens in den Himmel.", "Teil der religi?sen Identit?t von Boma."],
       hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
       ro: ["Fapt 1 pentru cd-cathedrale-assomption-boma-landmarks-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
-      en: []
+      en: ["Built in 1890.", "Was completely imported from Belgium.", "The oldest surviving Christian church in the Congo, built from sheet metal in Boma.", "Located within the Democratic Republic of the Congo in Central Africa.", "Connected to the Congo River or the Congo Basin rainforest.", "Known for its scenic or cultural significance in the region.", "Documented in local and regional studies on the DR Congo."]
     }
   },
   {
@@ -308,13 +308,13 @@ export const poiExtraDrcongoLandmarksV2: POI[] = [
       de: "Das Chukudu-Monument in Goma macht ein schlichtes Transportmittel zu einem st?dtischen Symbol. Der Chukudu, dieser robuste Holzroller f?r schwere Lasten, steht im Osten der DR Kongo f?r Einfallsreichtum, Handel und Alltagstauglichkeit. Als Monument erh?lt er eine zus?tzliche Bedeutung: Was sonst auf M?rkten und Stra?en arbeitet, wird hier in Erinnerung und ?ffentlichkeit ?berf?hrt. Genau deshalb ist der Ort so spannend. Er zeigt, wie lokale Mobilit?t selbst zu Kultur werden kann. F?r Plizio ist das ein gutes Beispiel f?r Alltags?konomie und st?dtische Identit?t in Geografie K7.",
       hu: "Ez egy részletes, K7-K8 szintű leírás a(z) cd-chukudu-monument-landmarks-v2 területről, amely kiemeli annak jelentőségét a kongói földrajzi és történelmi tantervben.",
       ro: "Descriere unică pentru cd-chukudu-monument-landmarks-v2 în contextul Republicii Democrate Congo. Geografie K7 — sisteme fluviale și centre urbane.",
-      en: ""
+      en: "Chukudu Monument is a remarkable feature of the geography and culture of the Democratic Republic of the Congo. A golden statue in Goma celebrating the traditional wooden chukudu two-wheeler, a symbol of hard work and endurance. The chukudu can carry loads up to 800 kg. Stands on a major roundabout in Goma. This landmark is part of the rich cultural heritage of the DR Congo, a country with over 200 ethnic groups and diverse architecture. Like many notable places in the DR Congo, it combines regional character with wider significance — from the Congo River to the East African mountains. Thus, this place contributes to the diverse profile of the DR Congo, a central African country of extraordinary natural wealth and cultural depth."
     },
     factsAdvanced: {
       de: ["Standort: Goma.", "Erinnert an den Chukudu als Lastenfahrzeug.", "Chukudu sind robuste Holzroller.", "Wichtig f?r Handel und Transport in Ostkongo.", "Symbol f?r lokale Erfindungskraft.", "Teil der Alltagskultur von Goma."],
       hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
       ro: ["Fapt 1 pentru cd-chukudu-monument-landmarks-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
-      en: []
+      en: ["The chukudu can carry loads up to 800 kg.", "Stands on a major roundabout in Goma.", "A golden statue in Goma celebrating the traditional wooden chukudu two-wheeler, a symbol of hard work and endurance.", "Located within the Democratic Republic of the Congo in Central Africa.", "Connected to the Congo River or the Congo Basin rainforest.", "Known for its scenic or cultural significance in the region.", "Documented in local and regional studies on the DR Congo."]
     }
   },
   {
@@ -329,13 +329,13 @@ export const poiExtraDrcongoLandmarksV2: POI[] = [
       de: "Die Cath?drale Saint Joseph in Goma ist ein religi?ses Zentrum in einer Stadt, die von Handel, Grenzlage und der N?he zum Kivu-See gepr?gt ist. Als Kathedrale verbindet sie Liturgie mit Gemeinschaft und gibt dem katholischen Leben der Region einen klaren Mittelpunkt. Gerade in Ostkongo, wo Stadtentwicklung und soziale Spannungen eng nebeneinanderliegen, k?nnen solche Orte Stabilit?t und Orientierung geben. Das Bauwerk ist damit nicht nur eine Kirche, sondern auch ein sozialer Anker. Im Plizio-Kontext passt es zu Religion, Stadtgeografie und regionaler Identit?t.",
       hu: "Ez egy részletes, K7-K8 szintű leírás a(z) cd-cathedrale-saint-joseph-goma-landmarks-v2 területről, amely kiemeli annak jelentőségét a kongói földrajzi és történelmi tantervben.",
       ro: "Descriere unică pentru cd-cathedrale-saint-joseph-goma-landmarks-v2 în contextul Republicii Democrate Congo. Geografie K7 — sisteme fluviale și centre urbane.",
-      en: ""
+      en: "St. Joseph Cathedral Goma is a remarkable feature of the geography and culture of the Democratic Republic of the Congo. An important church in Goma serving as the religious center of the North Kivu region. Survived the 2002 volcanic eruption. Center of the Diocese of Goma. This landmark is part of the rich cultural heritage of the DR Congo, a country with over 200 ethnic groups and diverse architecture. Like many notable places in the DR Congo, it combines regional character with wider significance — from the Congo River to the East African mountains. Thus, this place contributes to the diverse profile of the DR Congo, a central African country of extraordinary natural wealth and cultural depth."
     },
     factsAdvanced: {
       de: ["Standort: Goma.", "Katholische Kathedrale.", "Wichtiger Mittelpunkt des kirchlichen Lebens.", "Liegt in der Region des Kivu-Sees.", "Tr?gt den Namen des heiligen Joseph.", "Pr?gt die religi?se Identit?t der Stadt."],
       hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
       ro: ["Fapt 1 pentru cd-cathedrale-saint-joseph-goma-landmarks-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
-      en: []
+      en: ["Survived the 2002 volcanic eruption.", "Center of the Diocese of Goma.", "An important church in Goma serving as the religious center of the North Kivu region.", "Located within the Democratic Republic of the Congo in Central Africa.", "Connected to the Congo River or the Congo Basin rainforest.", "Known for its scenic or cultural significance in the region.", "Documented in local and regional studies on the DR Congo."]
     }
   },
   {
@@ -350,13 +350,13 @@ export const poiExtraDrcongoLandmarksV2: POI[] = [
       de: "Die Cath?drale Saints Pierre et Paul in Lubumbashi geh?rt zu den pr?genden katholischen Bauwerken der Stadt. In einer Metropole des Kupferg?rtels ist sie ein Ort, an dem religi?se, historische und st?dtische Ebenen zusammenkommen. Als Kathedrale ordnet sie das kirchliche Leben und bildet zugleich einen festen Bezugspunkt im urbanen Raum. Ihr Doppelpatrozinium verweist auf die apostolische Tradition und verleiht dem Namen einen klaren theologischen Klang. F?r den Unterricht eignet sich der Ort besonders f?r Stadtentwicklung, Religion und die Rolle kirchlicher Zentren in S?dostkongo.",
       hu: "Ez egy részletes, K7-K8 szintű leírás a(z) cd-cathedrale-pierre-paul-lubumbashi-landmarks-v2 területről, amely kiemeli annak jelentőségét a kongói földrajzi és történelmi tantervben.",
       ro: "Descriere unică pentru cd-cathedrale-pierre-paul-lubumbashi-landmarks-v2 în contextul Republicii Democrate Congo. Geografie K7 — sisteme fluviale și centre urbane.",
-      en: ""
+      en: "Saints Peter and Paul Cathedral is a remarkable feature of the geography and culture of the Democratic Republic of the Congo. The main cathedral of Lubumbashi with distinctive Byzantine-inspired architecture. Built in 1920. Seat of the Archdiocese of Lubumbashi. This landmark is part of the rich cultural heritage of the DR Congo, a country with over 200 ethnic groups and diverse architecture. Like many notable places in the DR Congo, it combines regional character with wider significance — from the Congo River to the East African mountains. Thus, this place contributes to the diverse profile of the DR Congo, a central African country of extraordinary natural wealth and cultural depth."
     },
     factsAdvanced: {
       de: ["Standort: Lubumbashi.", "Katholische Kathedrale.", "Geweiht den Heiligen Petrus und Paulus.", "Wichtiger kirchlicher Mittelpunkt der Stadt.", "Liegt im urbanen Raum des Kupferg?rtels.", "Pr?gt die religi?se Landschaft von Lubumbashi."],
       hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
       ro: ["Fapt 1 pentru cd-cathedrale-pierre-paul-lubumbashi-landmarks-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
-      en: []
+      en: ["Built in 1920.", "Seat of the Archdiocese of Lubumbashi.", "The main cathedral of Lubumbashi with distinctive Byzantine-inspired architecture.", "Located within the Democratic Republic of the Congo in Central Africa.", "Connected to the Congo River or the Congo Basin rainforest.", "Known for its scenic or cultural significance in the region.", "Documented in local and regional studies on the DR Congo."]
     }
   },
   {
@@ -371,13 +371,13 @@ export const poiExtraDrcongoLandmarksV2: POI[] = [
       de: "Das Nationalmuseum von Lubumbashi ist ein Ort, an dem die Geschichte des s?dlichen Kongo greifbar wird. In einer Stadt, die stark von Bergbau, kolonialer Planung und kultureller Vielfalt gepr?gt ist, sammelt und zeigt ein solches Museum mehr als nur Objekte. Es erz?hlt von regionalen Traditionen, Kunstformen und den Umbr?chen des Kupferg?rtels. Gerade in Lubumbashi passt diese Funktion gut zur Stadt selbst, weil hier Wirtschaftsgeschichte und Kulturgeschichte eng nebeneinanderstehen. F?r Plizio eignet sich das Museum deshalb f?r Geschichte, Geografie und kulturelles Erbe.",
       hu: "Ez egy részletes, K7-K8 szintű leírás a(z) cd-musee-national-lubumbashi-landmarks-v2 területről, amely kiemeli annak jelentőségét a kongói földrajzi és történelmi tantervben.",
       ro: "Descriere unică pentru cd-musee-national-lubumbashi-landmarks-v2 în contextul Republicii Democrate Congo. Geografie K7 — sisteme fluviale și centre urbane.",
-      en: ""
+      en: "National Museum of Lubumbashi is a remarkable feature of the geography and culture of the Democratic Republic of the Congo. A cultural-historical museum in Lubumbashi housing significant archaeological and ethnographic collections. Founded in 1946. Showcases the history of the Katanga region. This landmark is part of the rich cultural heritage of the DR Congo, a country with over 200 ethnic groups and diverse architecture. Like many notable places in the DR Congo, it combines regional character with wider significance — from the Congo River to the East African mountains. Thus, this place contributes to the diverse profile of the DR Congo, a central African country of extraordinary natural wealth and cultural depth."
     },
     factsAdvanced: {
       de: ["Standort: Lubumbashi.", "Nationalmuseum des s?dlichen Kongo.", "Bezieht sich auf Kultur und Geschichte der Region Katanga.", "Wichtiger Bildungsort in der Stadt.", "Verbindet Kunst, Tradition und Erinnerung.", "Teil der Museumslandschaft von Lubumbashi."],
       hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
       ro: ["Fapt 1 pentru cd-musee-national-lubumbashi-landmarks-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
-      en: []
+      en: ["Founded in 1946.", "Showcases the history of the Katanga region.", "A cultural-historical museum in Lubumbashi housing significant archaeological and ethnographic collections.", "Located within the Democratic Republic of the Congo in Central Africa.", "Connected to the Congo River or the Congo Basin rainforest.", "Known for its scenic or cultural significance in the region.", "Documented in local and regional studies on the DR Congo."]
     }
   },
   {
@@ -392,13 +392,13 @@ export const poiExtraDrcongoLandmarksV2: POI[] = [
       de: "Das Stadion von TP Mazembe in Lubumbashi steht eng mit einem der bekanntesten Fu?ballvereine Afrikas in Verbindung. Hier wird Klubgeschichte nicht nur erz?hlt, sondern in jedem Spiel praktisch fortgeschrieben. TP Mazembe ist weit ?ber die DR Kongo hinaus bekannt, und das Stadion in Kamalondo ist damit ein Ort, an dem lokale Leidenschaft auf kontinentalen Fu?ball trifft. Der Raum zeigt, wie stark Sport Identit?t, Stadtimage und internationale Sichtbarkeit beeinflussen kann. F?r den Plizio-Unterricht ist das ein gutes Beispiel f?r Sportgeografie und moderne Stadtkultur.",
       hu: "Ez egy részletes, K7-K8 szintű leírás a(z) cd-stade-tp-mazembe-landmarks-v2 területről, amely kiemeli annak jelentőségét a kongói földrajzi és történelmi tantervben.",
       ro: "Descriere unică pentru cd-stade-tp-mazembe-landmarks-v2 în contextul Republicii Democrate Congo. Geografie K7 — sisteme fluviale și centre urbane.",
-      en: ""
+      en: "Stade TP Mazembe is a remarkable feature of the geography and culture of the Democratic Republic of the Congo. A modern football stadium in Lubumbashi and home to the famous TP Mazembe football club. Has a capacity for 18,000 spectators. Opened in 2011. This landmark is part of the rich cultural heritage of the DR Congo, a country with over 200 ethnic groups and diverse architecture. Like many notable places in the DR Congo, it combines regional character with wider significance — from the Congo River to the East African mountains. Thus, this place contributes to the diverse profile of the DR Congo, a central African country of extraordinary natural wealth and cultural depth."
     },
     factsAdvanced: {
       de: ["Standort: Lubumbashi.", "Heimst?tte von TP Mazembe.", "TP Mazembe wurde 1939 gegr?ndet.", "Liegt im Stadtteil Kamalondo.", "Wichtiger Ort f?r Fu?ballwettbewerbe.", "Pr?gt das Sportimage von Lubumbashi."],
       hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
       ro: ["Fapt 1 pentru cd-stade-tp-mazembe-landmarks-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
-      en: []
+      en: ["Has a capacity for 18,000 spectators.", "Opened in 2011.", "A modern football stadium in Lubumbashi and home to the famous TP Mazembe football club.", "Located within the Democratic Republic of the Congo in Central Africa.", "Connected to the Congo River or the Congo Basin rainforest.", "Known for its scenic or cultural significance in the region.", "Documented in local and regional studies on the DR Congo."]
     }
   },
   {
@@ -413,13 +413,13 @@ export const poiExtraDrcongoLandmarksV2: POI[] = [
       de: "Der Palais de Justice in Lubumbashi steht f?r die institutionelle Seite der Stadt. Justizgeb?ude wirken oft n?chtern, doch sie sind wichtige Marker daf?r, wie ein Staat seine Regeln, Verfahren und Autorit?t organisiert. In einer gro?en Regionalstadt wie Lubumbashi erf?llt ein solches Haus eine doppelte Funktion: Es ist Verwaltungsort und sichtbares Zeichen des Rechts. Gerade deshalb lohnt sich der Blick auf dieses Geb?ude. Es erz?hlt von Ordnung, ?ffentlichkeit und staatlicher Pr?senz im Alltag. F?r den Unterricht eignet es sich gut f?r Staatskunde und Stadtgeografie.",
       hu: "Ez egy részletes, K7-K8 szintű leírás a(z) cd-palais-de-justice-lubumbashi-landmarks-v2 területről, amely kiemeli annak jelentőségét a kongói földrajzi és történelmi tantervben.",
       ro: "Descriere unică pentru cd-palais-de-justice-lubumbashi-landmarks-v2 în contextul Republicii Democrate Congo. Geografie K7 — sisteme fluviale și centre urbane.",
-      en: ""
+      en: "Palais de Justice Lubumbashi is a remarkable feature of the geography and culture of the Democratic Republic of the Congo. The main court in Lubumbashi, a historical building from the colonial era. Built in Art Deco style. An important symbol of justice in Katanga. This landmark is part of the rich cultural heritage of the DR Congo, a country with over 200 ethnic groups and diverse architecture. Like many notable places in the DR Congo, it combines regional character with wider significance — from the Congo River to the East African mountains. Thus, this place contributes to the diverse profile of the DR Congo, a central African country of extraordinary natural wealth and cultural depth."
     },
     factsAdvanced: {
       de: ["Standort: Lubumbashi.", "Geb?ude der Justizverwaltung.", "Wichtiger Ort f?r Gerichte und Verfahren.", "Teil der staatlichen Infrastruktur.", "Verweist auf die Rechtsordnung der Stadt.", "Pr?gt das Verwaltungszentrum von Lubumbashi."],
       hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
       ro: ["Fapt 1 pentru cd-palais-de-justice-lubumbashi-landmarks-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
-      en: []
+      en: ["Built in Art Deco style.", "An important symbol of justice in Katanga.", "The main court in Lubumbashi, a historical building from the colonial era.", "Located within the Democratic Republic of the Congo in Central Africa.", "Connected to the Congo River or the Congo Basin rainforest.", "Known for its scenic or cultural significance in the region.", "Documented in local and regional studies on the DR Congo."]
     }
   },
   {
@@ -434,13 +434,13 @@ export const poiExtraDrcongoLandmarksV2: POI[] = [
       de: "Die Cath?drale de la Paix in Bukavu tr?gt schon im Namen ein starkes Programm: Frieden. In einer Stadt am Kivu-See, die seit Jahren von politischen und sozialen Spannungen im weiteren Umfeld gepr?gt ist, erh?lt dieser Name besonderes Gewicht. Als Kathedrale b?ndelt das Geb?ude das katholische Leben der Region und wirkt gleichzeitig als Ort von Hoffnung und Stabilit?t. Architektur, Liturgie und st?dtische Identit?t greifen hier ineinander. F?r Plizio passt der Ort sehr gut zu Religion, Friedenssymbolik und der Geografie Ostkongos.",
       hu: "Ez egy részletes, K7-K8 szintű leírás a(z) cd-cathedrale-paix-bukavu-landmarks-v2 területről, amely kiemeli annak jelentőségét a kongói földrajzi és történelmi tantervben.",
       ro: "Descriere unică pentru cd-cathedrale-paix-bukavu-landmarks-v2 în contextul Republicii Democrate Congo. Geografie K7 — sisteme fluviale și centre urbane.",
-      en: ""
+      en: "Our Lady of Peace Cathedral is a remarkable feature of the geography and culture of the Democratic Republic of the Congo. An impressive Catholic cathedral on the shores of Lake Kivu in Bukavu. Built in the 1950s. Considered one of the most beautiful churches in the country. This landmark is part of the rich cultural heritage of the DR Congo, a country with over 200 ethnic groups and diverse architecture. Like many notable places in the DR Congo, it combines regional character with wider significance — from the Congo River to the East African mountains. Thus, this place contributes to the diverse profile of the DR Congo, a central African country of extraordinary natural wealth and cultural depth."
     },
     factsAdvanced: {
       de: ["Standort: Bukavu.", "Katholische Kathedrale.", "Der Name verweist auf Frieden.", "Wichtiger kirchlicher Mittelpunkt der Stadt.", "Liegt in der Region des Kivu-Sees.", "Pr?gt die religi?se Identit?t von Bukavu."],
       hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
       ro: ["Fapt 1 pentru cd-cathedrale-paix-bukavu-landmarks-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
-      en: []
+      en: ["Built in the 1950s.", "Considered one of the most beautiful churches in the country.", "An impressive Catholic cathedral on the shores of Lake Kivu in Bukavu.", "Located within the Democratic Republic of the Congo in Central Africa.", "Connected to the Congo River or the Congo Basin rainforest.", "Known for its scenic or cultural significance in the region.", "Documented in local and regional studies on the DR Congo."]
     }
   },
   {
@@ -455,13 +455,13 @@ export const poiExtraDrcongoLandmarksV2: POI[] = [
       de: "Das Coll?ge Alfajiri in Bukavu ist eine bekannte Bildungseinrichtung, die den Charakter der Stadt als Lernort deutlich macht. Schulen wie diese stehen nicht nur f?r Unterricht, sondern auch f?r langfristige soziale Netzwerke, Disziplin und akademische Orientierung. Im Kontext von Bukavu f?llt besonders auf, dass Bildung hier eng mit kirchlicher Tradition und regionaler Verantwortung verbunden ist. Das College ist damit ein guter Bezugspunkt f?r die Frage, wie Schulen ganze Stadtgesellschaften pr?gen k?nnen. F?r Plizio eignet es sich f?r Bildung, Stadtleben und soziale Infrastruktur.",
       hu: "Ez egy részletes, K7-K8 szintű leírás a(z) cd-college-alfajiri-landmarks-v2 területről, amely kiemeli annak jelentőségét a kongói földrajzi és történelmi tantervben.",
       ro: "Descriere unică pentru cd-college-alfajiri-landmarks-v2 în contextul Republicii Democrate Congo. Geografie K7 — sisteme fluviale și centre urbane.",
-      en: ""
+      en: "Collège Alfajiri is a remarkable feature of the geography and culture of the Democratic Republic of the Congo. One of the most prestigious Jesuit educational institutions in the South Kivu region in Bukavu. Founded in 1938. The architecture is characterized by red bricks. This landmark is part of the rich cultural heritage of the DR Congo, a country with over 200 ethnic groups and diverse architecture. Like many notable places in the DR Congo, it combines regional character with wider significance — from the Congo River to the East African mountains. Thus, this place contributes to the diverse profile of the DR Congo, a central African country of extraordinary natural wealth and cultural depth."
     },
     factsAdvanced: {
       de: ["Standort: Bukavu.", "Wichtige Schule der Stadt.", "Teil der Bildungslandschaft am Kivu-See.", "Verkn?pft mit kirchlicher Tradition.", "Pr?gt die Ausbildung junger Menschen.", "Ein bekannter Name im Schulwesen von Bukavu."],
       hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
       ro: ["Fapt 1 pentru cd-college-alfajiri-landmarks-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
-      en: []
+      en: ["Founded in 1938.", "The architecture is characterized by red bricks.", "One of the most prestigious Jesuit educational institutions in the South Kivu region in Bukavu.", "Located within the Democratic Republic of the Congo in Central Africa.", "Connected to the Congo River or the Congo Basin rainforest.", "Known for its scenic or cultural significance in the region.", "Documented in local and regional studies on the DR Congo."]
     }
   },
   {
@@ -476,13 +476,13 @@ export const poiExtraDrcongoLandmarksV2: POI[] = [
       de: "Die Cath?drale du Rosaire in Kisangani ist ein religi?ser Anker in einer Stadt, die am Kongofluss schon immer von Handel, Bewegung und regionaler Vernetzung gepr?gt war. Als Kathedrale schafft sie einen festen Mittelpunkt f?r die katholische Gemeinschaft und verbindet religi?se Praxis mit dem urbanen Alltag. Der Name des Rosenkranzes verweist auf eine lange Tradition der Marienfr?mmigkeit und verleiht dem Ort eine ruhige, wiedererkennbare Identit?t. In einem geschichtstr?chtigen Flusshafen wie Kisangani ist eine solche Kathedrale auch ein Zeichen lokaler Kontinuit?t. F?r den Unterricht passt sie zu Religion und Stadtgeografie.",
       hu: "Ez egy részletes, K7-K8 szintű leírás a(z) cd-cathedrale-rosaire-kisangani-landmarks-v2 területről, amely kiemeli annak jelentőségét a kongói földrajzi és történelmi tantervben.",
       ro: "Descriere unică pentru cd-cathedrale-rosaire-kisangani-landmarks-v2 în contextul Republicii Democrate Congo. Geografie K7 — sisteme fluviale și centre urbane.",
-      en: ""
+      en: "Our Lady of the Rosary Cathedral is a remarkable feature of the geography and culture of the Democratic Republic of the Congo. The main church of the city of Kisangani, which suffered heavy damage during the Congo Wars. Located in the Tshopo province. Was partially restored after the conflicts. This landmark is part of the rich cultural heritage of the DR Congo, a country with over 200 ethnic groups and diverse architecture. Like many notable places in the DR Congo, it combines regional character with wider significance — from the Congo River to the East African mountains. Thus, this place contributes to the diverse profile of the DR Congo, a central African country of extraordinary natural wealth and cultural depth."
     },
     factsAdvanced: {
       de: ["Standort: Kisangani.", "Katholische Kathedrale.", "Der Name verweist auf den Rosenkranz.", "Wichtiger Mittelpunkt des kirchlichen Lebens.", "Liegt in der Flussstadt Kisangani.", "Pr?gt die religi?se Identit?t der Region."],
       hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
       ro: ["Fapt 1 pentru cd-cathedrale-rosaire-kisangani-landmarks-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
-      en: []
+      en: ["Located in the Tshopo province.", "Was partially restored after the conflicts.", "The main church of the city of Kisangani, which suffered heavy damage during the Congo Wars.", "Located within the Democratic Republic of the Congo in Central Africa.", "Connected to the Congo River or the Congo Basin rainforest.", "Known for its scenic or cultural significance in the region.", "Documented in local and regional studies on the DR Congo."]
     }
   },
   {
@@ -497,13 +497,13 @@ export const poiExtraDrcongoLandmarksV2: POI[] = [
       de: "Die Universit? de Kisangani ist eines der wichtigsten akademischen Zentren im Norden der DR Kongo. In einer Stadt am Kongofluss erf?llt sie eine doppelte Rolle: Sie bildet Fachkr?fte aus und verankert wissenschaftliche Arbeit in einer Region, die weit vom politischen Zentrum entfernt liegt. Dadurch bekommt die Universit?t eine besondere Bedeutung f?r soziale Mobilit?t, Forschung und regionale Entwicklung. Universit?ten sind in afrikanischen St?dten oft mehr als Lehranstalten; sie wirken auch als ?ffentliche R?ume f?r Debatten und Zukunftsentw?rfe. F?r Plizio eignet sich die Universit?t besonders f?r Bildung und urbane Entwicklung.",
       hu: "Ez egy részletes, K7-K8 szintű leírás a(z) cd-universite-kisangani-landmarks-v2 területről, amely kiemeli annak jelentőségét a kongói földrajzi és történelmi tantervben.",
       ro: "Descriere unică pentru cd-universite-kisangani-landmarks-v2 în contextul Republicii Democrate Congo. Geografie K7 — sisteme fluviale și centre urbane.",
-      en: ""
+      en: "University of Kisangani is a remarkable feature of the geography and culture of the Democratic Republic of the Congo. One of the most important universities in the east of the Democratic Republic of the Congo. Founded in 1963. Originally known as the Free University of the Congo. This landmark is part of the rich cultural heritage of the DR Congo, a country with over 200 ethnic groups and diverse architecture. Like many notable places in the DR Congo, it combines regional character with wider significance — from the Congo River to the East African mountains. Thus, this place contributes to the diverse profile of the DR Congo, a central African country of extraordinary natural wealth and cultural depth."
     },
     factsAdvanced: {
       de: ["Standort: Kisangani.", "Wichtige staatliche Universit?t.", "1963 gegr?ndet.", "Liegt in einer Stadt am Kongofluss.", "Zentrum f?r Ausbildung und Forschung.", "Pr?gt die akademische Landschaft des Nordostens."],
       hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
       ro: ["Fapt 1 pentru cd-universite-kisangani-landmarks-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
-      en: []
+      en: ["Founded in 1963.", "Originally known as the Free University of the Congo.", "One of the most important universities in the east of the Democratic Republic of the Congo.", "Located within the Democratic Republic of the Congo in Central Africa.", "Connected to the Congo River or the Congo Basin rainforest.", "Known for its scenic or cultural significance in the region.", "Documented in local and regional studies on the DR Congo."]
     }
   },
   {
@@ -518,13 +518,13 @@ export const poiExtraDrcongoLandmarksV2: POI[] = [
       de: "Die Place de la Femme in Kisangani ist ein ?ffentlicher Ort, der auf den ersten Blick schlicht wirkt, aber eine klare gesellschaftliche Botschaft tr?gt. Der Name setzt einen Akzent auf Sichtbarkeit, Anerkennung und die Rolle von Frauen im st?dtischen Raum. Solche Pl?tze sind wichtig, weil sie nicht nur Orientierung bieten, sondern auch Werte ausdr?cken. In Kisangani wird damit ein Raum geschaffen, der Erinnerung, Alltag und ?ffentlichkeit verbindet. F?r Plizio eignet er sich gut, um ?ber Stadtpl?tze, soziale Themen und symbolische Topografie zu sprechen.",
       hu: "Ez egy részletes, K7-K8 szintű leírás a(z) cd-place-de-la-femme-kisangani-landmarks-v2 területről, amely kiemeli annak jelentőségét a kongói földrajzi és történelmi tantervben.",
       ro: "Descriere unică pentru cd-place-de-la-femme-kisangani-landmarks-v2 în contextul Republicii Democrate Congo. Geografie K7 — sisteme fluviale și centre urbane.",
-      en: ""
+      en: "Place de la Femme is a remarkable feature of the geography and culture of the Democratic Republic of the Congo. A well-known square in Kisangani dedicated to Congolese women and their contribution to society. Located in the center of Kisangani. Often the venue for local festivities. This landmark is part of the rich cultural heritage of the DR Congo, a country with over 200 ethnic groups and diverse architecture. Like many notable places in the DR Congo, it combines regional character with wider significance — from the Congo River to the East African mountains. Thus, this place contributes to the diverse profile of the DR Congo, a central African country of extraordinary natural wealth and cultural depth."
     },
     factsAdvanced: {
       de: ["Standort: Kisangani.", "?ffentlicher Platz.", "Der Name stellt Frauen in den Mittelpunkt.", "Wichtiger Ort f?r Begegnung und ?ffentlichkeit.", "Teil der urbanen Symbolik der Stadt.", "Kann f?r Veranstaltungen und Treffpunkte genutzt werden."],
       hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
       ro: ["Fapt 1 pentru cd-place-de-la-femme-kisangani-landmarks-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
-      en: []
+      en: ["Located in the center of Kisangani.", "Often the venue for local festivities.", "A well-known square in Kisangani dedicated to Congolese women and their contribution to society.", "Located within the Democratic Republic of the Congo in Central Africa.", "Connected to the Congo River or the Congo Basin rainforest.", "Known for its scenic or cultural significance in the region.", "Documented in local and regional studies on the DR Congo."]
     }
   },
   {
@@ -539,13 +539,13 @@ export const poiExtraDrcongoLandmarksV2: POI[] = [
       de: "Die Cath?drale Christ-Roi in Kalemie ist ein kirchlicher Schwerpunkt im S?den der Provinz Tanganyika. Als Pro-Kathedrale des Bistums Kalemie-Kirungu tr?gt sie nicht nur eine religi?se Funktion, sondern auch eine klare regionale Ordnung in die Stadt hinein. Der Name Christ K?nig verweist auf ein festes liturgisches Motiv, das in der katholischen Kirche des Landes h?ufig vorkommt. Im Alltag von Kalemie ist der Bau ein Ort f?r Gottesdienste, Feiern und di?zesane Treffen. F?r Plizio eignet sich die Kathedrale gut f?r Religion, Stadtleben und die Rolle kirchlicher Zentren in Ostkongo.",
       hu: "Ez egy részletes, K7-K8 szintű leírás a(z) cd-cathedrale-christ-roi-kalemie-landmarks-v2 területről, amely kiemeli annak jelentőségét a kongói földrajzi és történelmi tantervben.",
       ro: "Descriere unică pentru cd-cathedrale-christ-roi-kalemie-landmarks-v2 în contextul Republicii Democrate Congo. Geografie K7 — sisteme fluviale și centre urbane.",
-      en: ""
+      en: "Christ the King Cathedral is a remarkable feature of the geography and culture of the Democratic Republic of the Congo. An impressive church in Kalemie on the shores of Lake Tanganyika. Seat of the Diocese of Kalemie-Kirungu. Offers a view of the lake. This landmark is part of the rich cultural heritage of the DR Congo, a country with over 200 ethnic groups and diverse architecture. Like many notable places in the DR Congo, it combines regional character with wider significance — from the Congo River to the East African mountains. Thus, this place contributes to the diverse profile of the DR Congo, a central African country of extraordinary natural wealth and cultural depth."
     },
     factsAdvanced: {
       de: ["Standort: Kalemie in Tanganyika.", "Pro-Kathedrale des Bistums Kalemie-Kirungu.", "Katholische Kirche mit dem Patronat Christ K?nig.", "Wichtiger Mittelpunkt des kirchlichen Lebens vor Ort.", "Kalemie war fr?her als Albertville bekannt.", "Die Stadt liegt am Ufer des Tanganjikasees."],
       hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
       ro: ["Fapt 1 pentru cd-cathedrale-christ-roi-kalemie-landmarks-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
-      en: []
+      en: ["Seat of the Diocese of Kalemie-Kirungu.", "Offers a view of the lake.", "An impressive church in Kalemie on the shores of Lake Tanganyika.", "Located within the Democratic Republic of the Congo in Central Africa.", "Connected to the Congo River or the Congo Basin rainforest.", "Known for its scenic or cultural significance in the region.", "Documented in local and regional studies on the DR Congo."]
     }
   },
   {
@@ -560,13 +560,13 @@ export const poiExtraDrcongoLandmarksV2: POI[] = [
       de: "Die Gare de Kalemie ist ein zentraler Verkehrsort in einer Stadt, die auf Schiene, Hafen und Seezugang angewiesen ist. Der Bahnhof ist Teil des SNCC-Netzes und verbindet Kalemie mit mehreren Orten im Landesinneren. Gerade in einer Region wie Tanganyika zeigt er, wie wichtig Eisenbahnverbindungen f?r Handel und Personenverkehr bleiben. Gleichzeitig erinnert der Ort an die ?ltere Stadtgeschichte von Albertville, dem fr?heren Namen Kalemies. Der Bahnhof ist damit nicht nur ein technischer Knoten, sondern auch ein Symbol f?r regionale Vernetzung und Mobilit?t. F?r Plizio passt er zu Verkehr, Wirtschaft und Stadtgeografie.",
       hu: "Ez egy részletes, K7-K8 szintű leírás a(z) cd-gare-de-kalemie-landmarks-v2 területről, amely kiemeli annak jelentőségét a kongói földrajzi és történelmi tantervben.",
       ro: "Descriere unică pentru cd-gare-de-kalemie-landmarks-v2 în contextul Republicii Democrate Congo. Geografie K7 — sisteme fluviale și centre urbane.",
-      en: ""
+      en: "Kalemie Railway Station is a remarkable feature of the geography and culture of the Democratic Republic of the Congo. A historic railway station connecting Kalemie with other parts of the country, located right at the port. Built during the Belgian colonial period. Important hub for freight and passenger transport. This landmark is part of the rich cultural heritage of the DR Congo, a country with over 200 ethnic groups and diverse architecture. Like many notable places in the DR Congo, it combines regional character with wider significance — from the Congo River to the East African mountains. Thus, this place contributes to the diverse profile of the DR Congo, a central African country of extraordinary natural wealth and cultural depth."
     },
     factsAdvanced: {
       de: ["Standort: Kalemie.", "Teil des SNCC-Schienennetzes.", "Verbindungen nach Nyunzu, Kindu, Kongolo, Kabalo, Kamina und Lubumbashi.", "Kalemie war fr?her Albertville.", "Wichtiger Bahnhof im Tanganyika-Raum.", "Verkn?pft Bahn, Hafen und Stadtverkehr."],
       hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
       ro: ["Fapt 1 pentru cd-gare-de-kalemie-landmarks-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
-      en: []
+      en: ["Built during the Belgian colonial period.", "Important hub for freight and passenger transport.", "A historic railway station connecting Kalemie with other parts of the country, located right at the port.", "Located within the Democratic Republic of the Congo in Central Africa.", "Connected to the Congo River or the Congo Basin rainforest.", "Known for its scenic or cultural significance in the region.", "Documented in local and regional studies on the DR Congo."]
     }
   },
   {
@@ -581,13 +581,13 @@ export const poiExtraDrcongoLandmarksV2: POI[] = [
       de: "Der Pont de Kongolo ist eines der bekanntesten Ingenieurbauwerke im Osten der DR Kongo, weil er Stra?e und Schiene ?ber den Lualaba f?hrt. Die Konstruktion bei Kongolo macht sofort deutlich, wie sehr Fl?sse hier Infrastruktur bestimmen. Mit seiner L?nge von rund 495,7 Metern und dem Baujahr 1939 geh?rt er zu den historischen Gro?br?cken des Landes. Besonders markant ist seine Rolle als Verbindung zwischen beiden Ufern und als Teil einer wichtigen Verkehrsachse. F?r den Plizio-Unterricht ist der Pont de Kongolo ein starkes Beispiel f?r Verkehr, Technik und Flusslandschaften.",
       hu: "Ez egy részletes, K7-K8 szintű leírás a(z) cd-pont-de-kongolo-landmarks-v2 területről, amely kiemeli annak jelentőségét a kongói földrajzi és történelmi tantervben.",
       ro: "Descriere unică pentru cd-pont-de-kongolo-landmarks-v2 în contextul Republicii Democrate Congo. Geografie K7 — sisteme fluviale și centre urbane.",
-      en: ""
+      en: "Kongolo Bridge is a remarkable feature of the geography and culture of the Democratic Republic of the Congo. An important bridge over the Lualaba River facilitating traffic in eastern DRC. Combined railway and road bridge. Plays a central role in the region's economy. This landmark is part of the rich cultural heritage of the DR Congo, a country with over 200 ethnic groups and diverse architecture. Like many notable places in the DR Congo, it combines regional character with wider significance — from the Congo River to the East African mountains. Thus, this place contributes to the diverse profile of the DR Congo, a central African country of extraordinary natural wealth and cultural depth."
     },
     factsAdvanced: {
       de: ["?berquert den Lualaba.", "L?nge: 495,7 Meter.", "Baujahr 1939.", "Kombinierter Stra?en- und Eisenbahnbr?ckenbau.", "Liegt bei Kongolo in der Provinz Tanganyika.", "Eine der wichtigen Br?cken im kongolesischen Verkehrsnetz."],
       hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
       ro: ["Fapt 1 pentru cd-pont-de-kongolo-landmarks-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
-      en: []
+      en: ["Combined railway and road bridge.", "Plays a central role in the region's economy.", "An important bridge over the Lualaba River facilitating traffic in eastern DRC.", "Located within the Democratic Republic of the Congo in Central Africa.", "Connected to the Congo River or the Congo Basin rainforest.", "Known for its scenic or cultural significance in the region.", "Documented in local and regional studies on the DR Congo."]
     }
   },
   {
@@ -602,13 +602,13 @@ export const poiExtraDrcongoLandmarksV2: POI[] = [
       de: "Der Barrage d'Inga steht f?r eines der bedeutendsten Wasserkraftsysteme Afrikas. Am Unterlauf des Kongo-Flusses nutzt das Kraftwerk die gewaltige Str?mung der Inga-F?lle und zeigt damit, wie eng Geografie und Energieproduktion zusammenh?ngen. Inga I wurde 1972 fertiggestellt, Inga II 1982. Zusammen bilden sie einen Schl?sselort der kongolesischen Stromversorgung, auch wenn die Anlagen lange unter Verschlei? und unzureichender Wartung litten. Der Standort in Kongo Central macht den Barrage d'Inga zu einem Lehrbeispiel f?r Energiegeografie, Rohstoffinfrastruktur und staatliche Gro?projekte.",
       hu: "Ez egy részletes, K7-K8 szintű leírás a(z) cd-barrage-inga-landmarks-v2 területről, amely kiemeli annak jelentőségét a kongói földrajzi és történelmi tantervben.",
       ro: "Descriere unică pentru cd-barrage-inga-landmarks-v2 în contextul Republicii Democrate Congo. Geografie K7 — sisteme fluviale și centre urbane.",
-      en: ""
+      en: "Inga Dam is a remarkable feature of the geography and culture of the Democratic Republic of the Congo. A massive hydroelectric complex on the Congo River producing much of the country's electricity. Consists of Inga I and Inga II. Is one of the largest hydroelectric plants in Africa. This landmark is part of the rich cultural heritage of the DR Congo, a country with over 200 ethnic groups and diverse architecture. Like many notable places in the DR Congo, it combines regional character with wider significance — from the Congo River to the East African mountains. Thus, this place contributes to the diverse profile of the DR Congo, a central African country of extraordinary natural wealth and cultural depth."
     },
     factsAdvanced: {
       de: ["Inga I wurde 1972 fertiggestellt.", "Inga II wurde 1982 fertiggestellt.", "Liegt am Kongo-Fluss in Kongo Central.", "Nutzt die Inga-F?lle als Wasserkraftstandort.", "Teil eines der gr??ten Wasserkraftprojekte der Welt.", "Wichtig f?r die Stromversorgung der DR Kongo."],
       hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
       ro: ["Fapt 1 pentru cd-barrage-inga-landmarks-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
-      en: []
+      en: ["Consists of Inga I and Inga II.", "Is one of the largest hydroelectric plants in Africa.", "A massive hydroelectric complex on the Congo River producing much of the country's electricity.", "Located within the Democratic Republic of the Congo in Central Africa.", "Connected to the Congo River or the Congo Basin rainforest.", "Known for its scenic or cultural significance in the region.", "Documented in local and regional studies on the DR Congo."]
     }
   },
   {
@@ -623,13 +623,13 @@ export const poiExtraDrcongoLandmarksV2: POI[] = [
       de: "Der Palais de la Nation in Kinshasa ist einer der symboltr?chtigsten Staatsorte der DR Kongo. Heute dient er als offizielle Residenz und als wichtigster Arbeitsplatz des Pr?sidenten, doch seine politische Bedeutung reicht viel weiter zur?ck. Im Juni 1960 war das Geb?ude Schauplatz der Unabh?ngigkeitsfeier, bei der K?nig Baudouin die Autonomie des Landes ausrief und Patrice Lumumba seine ber?hmte Gegenrede hielt. Seit 2001 ist es wieder die offizielle Pr?sidialresidenz. Damit verbindet das Haus koloniale Vergangenheit, Unabh?ngigkeit und Gegenwart auf engem Raum. F?r Plizio passt es perfekt zu Geschichte K8 und Staatskunde.",
       hu: "Ez egy részletes, K7-K8 szintű leírás a(z) cd-palais-de-la-nation-landmarks-v2 területről, amely kiemeli annak jelentőségét a kongói földrajzi és történelmi tantervben.",
       ro: "Descriere unică pentru cd-palais-de-la-nation-landmarks-v2 în contextul Republicii Democrate Congo. Geografie K7 — sisteme fluviale și centre urbane.",
-      en: ""
+      en: "Palais de la Nation is a remarkable feature of the geography and culture of the Democratic Republic of the Congo. The official residence of the President of the Democratic Republic of the Congo in Kinshasa. Built in 1956 for the Belgian Governor General. Independence was proclaimed here in 1960. This landmark is part of the rich cultural heritage of the DR Congo, a country with over 200 ethnic groups and diverse architecture. Like many notable places in the DR Congo, it combines regional character with wider significance — from the Congo River to the East African mountains. Thus, this place contributes to the diverse profile of the DR Congo, a central African country of extraordinary natural wealth and cultural depth."
     },
     factsAdvanced: {
       de: ["Standort: Gombe in Kinshasa.", "Offizielle Residenz des Pr?sidenten seit 2001.", "Wichtigster Arbeitsplatz des Staatsoberhaupts.", "Schauplatz der Unabh?ngigkeitsfeier am 30. Juni 1960.", "Patrice Lumumba hielt dort seine ber?hmte Rede.", "Ehemaliger Sitz des Parlaments bis 1997."],
       hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
       ro: ["Fapt 1 pentru cd-palais-de-la-nation-landmarks-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
-      en: []
+      en: ["Built in 1956 for the Belgian Governor General.", "Independence was proclaimed here in 1960.", "The official residence of the President of the Democratic Republic of the Congo in Kinshasa.", "Located within the Democratic Republic of the Congo in Central Africa.", "Connected to the Congo River or the Congo Basin rainforest.", "Known for its scenic or cultural significance in the region.", "Documented in local and regional studies on the DR Congo."]
     }
   }
 ];

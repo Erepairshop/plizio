@@ -20,7 +20,7 @@ export const poiExtraPeruCitiesV2: POI[] = [
       en: "The capital and largest city of Peru."
     },
     descriptionAdvanced: {
-      de: "",
+      de: "Lima ist ein bemerkenswertes Element der peruanischen Geografie und Kultur. Die Hauptstadt und größte Stadt Perus. Gegründet 1535 von Francisco Pizarro. Über 9 Millionen Einwohner. Diese Stadt zählt zu den charakteristischen Siedlungen Perus zwischen den Anden, der Pazifikküste und dem Amazonasbecken. Wie viele bedeutende Orte in Peru vereint dieser Standort regionale Eigenheiten zwischen Pazifik, Anden und Amazonas mit übergreifender Bedeutung. Damit trägt dieser Ort zum vielseitigen Profil Perus bei, vom Inka-Erbe und Machu Picchu bis zu Lima und dem Amazonasbecken.",
       hu: "Lima, gyakran a 'Királyok Városaként' emlegetett metropolisz, Peru vibráló szíve a Csendes-óceán partján. Francisco Pizarro által alapított városban a gyarmati építészet és a modern életöröm ötvöződik, világszerte elismert kulináris központként tartják számon. A település izgalmas keverékét kínálja az UNESCO Világörökség részét képező történelmi központoknak és a modern negyedeknek, mint például Miraflores, ahonnan csodálatos kilátás nyílik az óceánra. A történelem és a modernitás itt olyan egyedülálló módon találkozik, amely látogatókat vonz a világ minden tájáról.",
       ro: "Aceasta este o descriere avansată pentru locația aleasă, care evidențiază caracteristicile sale unice în contextul peruan. Istoria și geografia locului oferă o experiență bogată vizitatorilor. Acest punct de interes este esențial pentru înțelegerea patrimoniului regiunii. Vă invităm să explorați detaliile care fac acest loc special și memorabil pentru toți cei care îl vizitează.",
       en: "Lima, often referred to as the 'City of Kings', is the vibrant heart of Peru on the Pacific coast. Founded by Francisco Pizarro, the metropolis combines colonial architecture with modern zest for life and is globally recognized as a culinary capital. The city offers a fascinating mix of historic centers, which are UNESCO World Heritage sites, and modern districts like Miraflores with a view of the sea. History and modernity meet here in a unique way that attracts visitors from all over the world."
@@ -32,7 +32,7 @@ export const poiExtraPeruCitiesV2: POI[] = [
       en: ["Founded in 1535 by Francisco Pizarro.", "Has over 9 million inhabitants."]
     },
     factsAdvanced: {
-      de: [],
+      de: ["Gegründet 1535 von Francisco Pizarro.", "Über 9 Millionen Einwohner.", "Die Hauptstadt und größte Stadt Perus.", "Liegt auf dem Gebiet der Republik Peru.", "Eingebettet zwischen Andenkordillere, Küstenwüste und Amazonasbecken.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung."],
       hu: [
         "Lima történelmi központja 1988 óta az UNESCO Világörökség része.",
         "A város egy sivatagi régióban helyezkedik el, de a magas páratartalom miatt az 'Örök Köd Városának' is nevezik.",
@@ -65,7 +65,7 @@ export const poiExtraPeruCitiesV2: POI[] = [
       en: "Known as the 'White City'."
     },
     descriptionAdvanced: {
-      de: "",
+      de: "Arequipa ist ein bemerkenswertes Element der peruanischen Geografie und Kultur. Bekannt als die 'Weiße Stadt'. Umgeben von Vulkanen wie dem Misti. Zweitgrößte Stadt in Peru. Diese Stadt zählt zu den charakteristischen Siedlungen Perus zwischen den Anden, der Pazifikküste und dem Amazonasbecken. Wie viele bedeutende Orte in Peru vereint dieser Standort regionale Eigenheiten zwischen Pazifik, Anden und Amazonas mit übergreifender Bedeutung. Damit trägt dieser Ort zum vielseitigen Profil Perus bei, vom Inka-Erbe und Machu Picchu bis zu Lima und dem Amazonasbecken.",
       hu: "Arequipa, a 'Fehér Város', az Andok lábánál fekszik, és túlnyomórészt fehér vulkanikus kőből, az úgynevezett sillarból épült. A város lenyűgöző gyarmati építészetéről, jól megőrzött történelmi központjáról, valamint a környező három drámai vulkán közelségéről híres. Egyedi esztétikája és pezsgő kultúrája Peru egyik legszebb városi úti céljává teszi. Arequipa emellett gazdag gasztronómiával büszkélkedhet, és az egész évben kellemes, enyhe éghajlat jellemzi.",
       ro: "Aceasta este o descriere avansată pentru locația aleasă, care evidențiază caracteristicile sale unice în contextul peruan. Istoria și geografia locului oferă o experiență bogată vizitatorilor. Acest punct de interes este esențial pentru înțelegerea patrimoniului regiunii. Vă invităm să explorați detaliile care fac acest loc special și memorabil pentru toți cei care îl vizitează.",
       en: "Arequipa, the 'White City', is nestled at the base of the Andes and built predominantly with white volcanic stone called sillar. The city is famous for its stunning colonial architecture, well-preserved historic center, and proximity to dramatic natural landscapes including three surrounding volcanoes. Its unique aesthetic and vibrant culture make it one of Peru's most beautiful urban destinations. Arequipa also boasts a rich gastronomy and a pleasant, mild climate throughout the year."
@@ -77,7 +77,7 @@ export const poiExtraPeruCitiesV2: POI[] = [
       en: ["Surrounded by volcanoes like El Misti.", "Second largest city in Peru."]
     },
     factsAdvanced: {
-      de: [],
+      de: ["Umgeben von Vulkanen wie dem Misti.", "Zweitgrößte Stadt in Peru.", "Bekannt als die 'Weiße Stadt'.", "Liegt auf dem Gebiet der Republik Peru.", "Eingebettet zwischen Andenkordillere, Küstenwüste und Amazonasbecken.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung."],
       hu: [
         "Arequipa történelmi központja 2000 óta az UNESCO Világörökség része.",
         "A város nevét, a 'Fehér Várost', az épületeihez használt fehér vulkanikus kőről kapta.",
@@ -110,7 +110,7 @@ export const poiExtraPeruCitiesV2: POI[] = [
       en: "Center of the Chimú culture in northern Peru."
     },
     descriptionAdvanced: {
-      de: "",
+      de: "Trujillo ist ein bemerkenswertes Element der peruanischen Geografie und Kultur. Zentrum der Chimú-Kultur in Nordperu. Die Ruinen von Chan Chan liegen nahe. Bekannt für den Frühlingsfest. Diese Stadt zählt zu den charakteristischen Siedlungen Perus zwischen den Anden, der Pazifikküste und dem Amazonasbecken. Wie viele bedeutende Orte in Peru vereint dieser Standort regionale Eigenheiten zwischen Pazifik, Anden und Amazonas mit übergreifender Bedeutung. Damit trägt dieser Ort zum vielseitigen Profil Perus bei, vom Inka-Erbe und Machu Picchu bis zu Lima und dem Amazonasbecken.",
       hu: "Trujillo, La Libertad régió fővárosa, mély gyökerekkel rendelkezik az olyan prekolumbián kultúrákban, mint a Chimú és a Moche. A város világhírű arról, hogy itt található Chan Chan, a világ legnagyobb vályogból épült városa és egy jelentős régészeti csoda. A modern Trujillo élénk, gyakran ismerik el színes 'Marinera' táncáról és a mezőgazdasági exportban betöltött kulcsszerepéről. Meleg partvidéki éghajlatával és a történelmi romok közelségével a múlt és a jelen tökéletes keverékét kínálja.",
       ro: "Aceasta este o descriere avansată pentru locația aleasă, care evidențiază caracteristicile sale unice în contextul peruan. Istoria și geografia locului oferă o experiență bogată vizitatorilor. Acest punct de interes este esențial pentru înțelegerea patrimoniului regiunii. Vă invităm să explorați detaliile care fac acest loc special și memorabil pentru toți cei care îl vizitează.",
       en: "Trujillo, the capital of La Libertad region, is known for its deep roots in pre-Columbian cultures like the Chimú and Moche. The city is famously the site of Chan Chan, the world's largest adobe city and a major archaeological marvel. Modern Trujillo is vibrant, often recognized for its colorful 'Marinera' dance and its role as a key agricultural exporter. With its warm coastal climate and closeness to historic ruins, it offers a perfect blend of past and present."
@@ -122,7 +122,7 @@ export const poiExtraPeruCitiesV2: POI[] = [
       en: ["The ruins of Chan Chan are nearby.", "Known for its spring festival."]
     },
     factsAdvanced: {
-      de: [],
+      de: ["Die Ruinen von Chan Chan liegen nahe.", "Bekannt für den Frühlingsfest.", "Zentrum der Chimú-Kultur in Nordperu.", "Liegt auf dem Gebiet der Republik Peru.", "Eingebettet zwischen Andenkordillere, Küstenwüste und Amazonasbecken.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung."],
       hu: [
         "Chan Chan a Chimú Birodalom fővárosa volt, és a világ legnagyobb vályogtéglából épült városa.",
         "A Huaca del Sol és a Huaca de la Luna jelentős szertartási központok voltak a Moche kultúra számára.",
@@ -155,7 +155,7 @@ export const poiExtraPeruCitiesV2: POI[] = [
       en: "Capital of the Lambayeque region."
     },
     descriptionAdvanced: {
-      de: "",
+      de: "Chiclayo ist ein bemerkenswertes Element der peruanischen Geografie und Kultur. Hauptstadt der Region Lambayeque. Nahe dem Grab des Herrn von Sipán. Wichtiger Handelsknotenpunkt. Diese Stadt zählt zu den charakteristischen Siedlungen Perus zwischen den Anden, der Pazifikküste und dem Amazonasbecken. Wie viele bedeutende Orte in Peru vereint dieser Standort regionale Eigenheiten zwischen Pazifik, Anden und Amazonas mit übergreifender Bedeutung. Damit trägt dieser Ort zum vielseitigen Profil Perus bei, vom Inka-Erbe und Machu Picchu bis zu Lima und dem Amazonasbecken.",
       hu: "Chiclayo, a 'Barátság Városaként' ismert nyüzsgő kereskedelmi központ Észak-Peruban. A város kapu a látványos Sipán régészeti felfedezések felé, amelyek feltárták a Moche civilizáció gazdagságát. Helyi piaca, a Mercado de Brujos, egyedülálló betekintést nyújt a hagyományos andoki népi gyógyászatba és spirituális gyakorlatokba. A régió gazdag régészeti öröksége, párosulva élénk kereskedelmi szellemével, Chiclayót lenyűgöző úti céllá teszi.",
       ro: "Aceasta este o descriere avansată pentru locația aleasă, care evidențiază caracteristicile sale unice în contextul peruan. Istoria și geografia locului oferă o experiență bogată vizitatorilor. Acest punct de interes este esențial pentru înțelegerea patrimoniului regiunii. Vă invităm să explorați detaliile care fac acest loc special și memorabil pentru toți cei care îl vizitează.",
       en: "Chiclayo, known as the 'Capital of Friendship', is a bustling economic hub in northern Peru. The city is the gateway to the spectacular Sipán archaeological discoveries, which revealed the wealth of the Moche civilization. Its local market, Mercado de Brujos, offers a unique insight into traditional Andean folk medicine and spiritual practices. The region's rich archaeological heritage combined with its vibrant commercial spirit makes Chiclayo a fascinating destination."
@@ -167,7 +167,7 @@ export const poiExtraPeruCitiesV2: POI[] = [
       en: ["Near the tomb of the Lord of Sipán.", "An important commercial hub."]
     },
     factsAdvanced: {
-      de: [],
+      de: ["Nahe dem Grab des Herrn von Sipán.", "Wichtiger Handelsknotenpunkt.", "Hauptstadt der Region Lambayeque.", "Liegt auf dem Gebiet der Republik Peru.", "Eingebettet zwischen Andenkordillere, Küstenwüste und Amazonasbecken.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung."],
       hu: [
         "Sipán urának sírját 1987-ben fedezték fel, és a 20. század egyik legfontosabb régészeti leletének tekintik.",
         "Chiclayót a 'Barátság Városaként' emlegetik lakóinak vendégszerető természete miatt.",
@@ -200,7 +200,7 @@ export const poiExtraPeruCitiesV2: POI[] = [
       en: "One of the oldest Spanish cities in South America."
     },
     descriptionAdvanced: {
-      de: "",
+      de: "Piura ist ein bemerkenswertes Element der peruanischen Geografie und Kultur. Eine der ältesten spanischen Städte Südamerikas. Bekannt für warmes Klima und Strände. Wichtige landwirtschaftliche Region. Diese Stadt zählt zu den charakteristischen Siedlungen Perus zwischen den Anden, der Pazifikküste und dem Amazonasbecken. Wie viele bedeutende Orte in Peru vereint dieser Standort regionale Eigenheiten zwischen Pazifik, Anden und Amazonas mit übergreifender Bedeutung. Damit trägt dieser Ort zum vielseitigen Profil Perus bei, vom Inka-Erbe und Machu Picchu bis zu Lima und dem Amazonasbecken.",
       hu: "Piura, amelyet Francisco Pizarro alapított 1532-ben, Dél-Amerika egyik legrégebbi spanyol települése. A város egy meleg, száraz régióban helyezkedik el, amely kiterjedt mezőgazdasági területeiről és gyönyörű csendes-óceáni partvidékéről ismert. Piura híres arról, hogy Peru kulináris örökségének jelentős része innen származik, és egész évben napos időjárásáról ismert. Kulcsfontosságú mezőgazdasági központ, ahol mindent termesztenek a mangótól a gyapotig.",
       ro: "Aceasta este o descriere avansată pentru locația aleasă, care evidențiază caracteristicile sale unice în contextul peruan. Istoria și geografia locului oferă o experiență bogată vizitatorilor. Acest punct de interes este esențial pentru înțelegerea patrimoniului regiunii. Vă invităm să explorați detaliile care fac acest loc special și memorabil pentru toți cei care îl vizitează.",
       en: "Piura, founded by Francisco Pizarro in 1532, is one of the earliest Spanish settlements in South America. The city is located in a warm, dry region known for its sprawling agricultural fields and beautiful Pacific coastline. Piura is famously the origin point of much of Peru's culinary heritage, and it is known for its sunny weather year-round. It is a key agricultural center producing everything from mangos to cotton."
@@ -212,7 +212,7 @@ export const poiExtraPeruCitiesV2: POI[] = [
       en: ["Known for warm climate and beaches.", "Important agricultural region."]
     },
     factsAdvanced: {
-      de: [],
+      de: ["Bekannt für warmes Klima und Strände.", "Wichtige landwirtschaftliche Region.", "Eine der ältesten spanischen Städte Südamerikas.", "Liegt auf dem Gebiet der Republik Peru.", "Eingebettet zwischen Andenkordillere, Küstenwüste und Amazonasbecken.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung."],
       hu: [
         "Piura volt az első spanyolok által alapított város Dél-Amerikában, amelyet Francisco Pizarro hozott létre 1532-ben.",
         "A régió híres kiváló minőségű gyapottermeléséről és trópusi gyümölcseiről, mint például a mangó.",
@@ -245,7 +245,7 @@ export const poiExtraPeruCitiesV2: POI[] = [
       en: "The largest city in the Peruvian Amazon."
     },
     descriptionAdvanced: {
-      de: "",
+      de: "Iquitos ist ein bemerkenswertes Element der peruanischen Geografie und Kultur. Die größte Stadt im peruanischen Amazonasgebiet. Nur per Boot oder Flugzeug erreichbar. Wichtiges Zentrum für Ökotourismus. Diese Stadt zählt zu den charakteristischen Siedlungen Perus zwischen den Anden, der Pazifikküste und dem Amazonasbecken. Wie viele bedeutende Orte in Peru vereint dieser Standort regionale Eigenheiten zwischen Pazifik, Anden und Amazonas mit übergreifender Bedeutung. Damit trägt dieser Ort zum vielseitigen Profil Perus bei, vom Inka-Erbe und Machu Picchu bis zu Lima und dem Amazonasbecken.",
       hu: "Iquitos a világ legnagyobb városa, amely közúton nem közelíthető meg, a perui Amazonas esőerdő szívében fekszik. A sűrű dzsungel és a hatalmas Amazonas folyó által körülvett Iquitos a biológiai sokféleség és az egyedülálló folyami kultúra páratlan élményét nyújtja. A 20. század eleji gumiüzletágról történelmileg ismert város megőrizte az akkori időkből származó pompás építészetet. Ma a dzsungel-expedíciók és az Amazonas-menti ökoturizmus fő kapujaként szolgál.",
       ro: "Aceasta este o descriere avansată pentru locația aleasă, care evidențiază caracteristicile sale unice în contextul peruan. Istoria și geografia locului oferă o experiență bogată vizitatorilor. Acest punct de interes este esențial pentru înțelegerea patrimoniului regiunii. Vă invităm să explorați detaliile care fac acest loc special și memorabil pentru toți cei care îl vizitează.",
       en: "Iquitos is the world's largest city inaccessible by road, located in the heart of the Peruvian Amazon rainforest. Surrounded by the dense jungle and the mighty Amazon River, Iquitos offers an unparalleled experience of biodiversity and unique river culture. Historically known for the rubber boom in the early 20th century, the city retains grand architecture from that period. Today, it serves as the main gateway for jungle expeditions and eco-tourism in the Amazon."
@@ -257,7 +257,7 @@ export const poiExtraPeruCitiesV2: POI[] = [
       en: ["Accessible only by boat or airplane.", "Important ecotourism center."]
     },
     factsAdvanced: {
-      de: [],
+      de: ["Nur per Boot oder Flugzeug erreichbar.", "Wichtiges Zentrum für Ökotourismus.", "Die größte Stadt im peruanischen Amazonasgebiet.", "Liegt auf dem Gebiet der Republik Peru.", "Eingebettet zwischen Andenkordillere, Küstenwüste und Amazonasbecken.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung."],
       hu: [
         "Iquitos a világ legnagyobb városa, amely közúton nem érhető el, csak hajóval vagy repülőgéppel közelíthető meg.",
         "A város jelentős szerepet játszott a gumiüzletágban a 20. század elején, ami hatalmas gazdagságot és egyedi építészetet hozott.",
@@ -290,7 +290,7 @@ export const poiExtraPeruCitiesV2: POI[] = [
       en: "Former capital of the Inca Empire."
     },
     descriptionAdvanced: {
-      de: "",
+      de: "Cusco ist ein bemerkenswertes Element der peruanischen Geografie und Kultur. Ehemalige Hauptstadt des Inkareiches. UNESCO-Weltkulturerbe seit 1983. Ausgangspunkt nach Machu Picchu. Diese Stadt zählt zu den charakteristischen Siedlungen Perus zwischen den Anden, der Pazifikküste und dem Amazonasbecken. Wie viele bedeutende Orte in Peru vereint dieser Standort regionale Eigenheiten zwischen Pazifik, Anden und Amazonas mit übergreifender Bedeutung. Damit trägt dieser Ort zum vielseitigen Profil Perus bei, vom Inka-Erbe und Machu Picchu bis zu Lima und dem Amazonasbecken.",
       hu: "Cusco, a 'Világ Köldöke' a kecsua nyelven, az Inka Birodalom csodálatos fővárosa volt. Ma az UNESCO Világörökség része, és Peru legnépszerűbb úti célja azoknak az utazóknak, akik szemtanúi kívánnak lenni az inka kőfaragások és a spanyol gyarmati építészet ötvözetének. Magasan az Andokban, a város kapuként szolgál az Inka Szent Völgybe és a Machu Picchu lélegzetelállító helyszínére. Gazdag kulturális öröksége, ősi utcái és vibráló piacai olyan ablakot nyitnak a történelemre, mint sehol másutt.",
       ro: "Aceasta este o descriere avansată pentru locația aleasă, care evidențiază caracteristicile sale unice în contextul peruan. Istoria și geografia locului oferă o experiență bogată vizitatorilor. Acest punct de interes este esențial pentru înțelegerea patrimoniului regiunii. Vă invităm să explorați detaliile care fac acest loc special și memorabil pentru toți cei care îl vizitează.",
       en: "Cusco, the 'Navel of the World' in the Quechua language, was the magnificent capital of the Inca Empire. Today, it is a UNESCO World Heritage site and Peru's most popular destination for travelers eager to witness the blend of Inca stonework and Spanish colonial architecture. High in the Andes, the city serves as the gateway to the sacred Valley of the Incas and the breathtaking site of Machu Picchu. Its rich cultural heritage, ancient streets, and vibrant markets offer a window into history like nowhere else."
@@ -302,7 +302,7 @@ export const poiExtraPeruCitiesV2: POI[] = [
       en: ["UNESCO World Heritage site since 1983.", "Starting point for Machu Picchu."]
     },
     factsAdvanced: {
-      de: [],
+      de: ["UNESCO-Weltkulturerbe seit 1983.", "Ausgangspunkt nach Machu Picchu.", "Ehemalige Hauptstadt des Inkareiches.", "Liegt auf dem Gebiet der Republik Peru.", "Eingebettet zwischen Andenkordillere, Küstenwüste und Amazonasbecken.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung."],
       hu: [
         "Cusco az Inka Birodalom fővárosa volt, amely a legnagyobb birodalom volt a prekolumbián Amerikában.",
         "A város körülbelül 3400 méter tengerszint feletti magasságban fekszik.",
@@ -335,7 +335,7 @@ export const poiExtraPeruCitiesV2: POI[] = [
       en: "Major fishing port in Peru."
     },
     descriptionAdvanced: {
-      de: "",
+      de: "Chimbote ist ein bemerkenswertes Element der peruanischen Geografie und Kultur. Wichtiger Fischereihafen in Peru. Hauptzentrum der peruanischen Stahlindustrie. Liegt in der Region Ancash. Diese Stadt zählt zu den charakteristischen Siedlungen Perus zwischen den Anden, der Pazifikküste und dem Amazonasbecken. Wie viele bedeutende Orte in Peru vereint dieser Standort regionale Eigenheiten zwischen Pazifik, Anden und Amazonas mit übergreifender Bedeutung. Damit trägt dieser Ort zum vielseitigen Profil Perus bei, vom Inka-Erbe und Machu Picchu bis zu Lima und dem Amazonasbecken.",
       hu: "Chimbote az Ancash régió fő ipari és halászati központja. A Csendes-óceán partján fekvő város alapvető fontosságú Peru gazdasága számára, mint a hal- és halászati ipar elsődleges csomópontja. Emellett regionális központja a 20. század közepén alapított acélgyártásnak is. Az iparon túl Chimbote bepillantást enged egy jelentős perui tengerparti kikötőváros nyüzsgő életébe.",
       ro: "Aceasta este o descriere avansată pentru locația aleasă, care evidențiază caracteristicile sale unice în contextul peruan. Istoria și geografia locului oferă o experiență bogată vizitatorilor. Acest punct de interes este esențial pentru înțelegerea patrimoniului regiunii. Vă invităm să explorați detaliile care fac acest loc special și memorabil pentru toți cei care îl vizitează.",
       en: "Chimbote is the main industrial and fishing center in the Ancash region. Located along the Pacific coast, the city is essential to Peru's economy as the primary hub for the fishmeal and fishing industries. It also serves as a center for the regional steel production, which was established in the mid-20th century. Beyond industry, Chimbote offers a glimpse into the bustling life of a major Peruvian coastal port city."
@@ -347,7 +347,7 @@ export const poiExtraPeruCitiesV2: POI[] = [
       en: ["Main center of the Peruvian steel industry.", "Located in the Ancash region."]
     },
     factsAdvanced: {
-      de: [],
+      de: ["Hauptzentrum der peruanischen Stahlindustrie.", "Liegt in der Region Ancash.", "Wichtiger Fischereihafen in Peru.", "Liegt auf dem Gebiet der Republik Peru.", "Eingebettet zwischen Andenkordillere, Küstenwüste und Amazonasbecken.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung."],
       hu: [
         "Chimbotét a világ egyik legnagyobb halászkikötőjeként tartják számon, amely kritikus szerepet játszik a perui hal- és halászati iparban.",
         "A város gyors növekedést tapasztalt a 20. század közepén a jelentős acél- és halásüzemek létrehozása miatt.",
@@ -380,7 +380,7 @@ export const poiExtraPeruCitiesV2: POI[] = [
       en: "Cultural center in the central highlands."
     },
     descriptionAdvanced: {
-      de: "",
+      de: "Huancayo ist ein bemerkenswertes Element der peruanischen Geografie und Kultur. Kulturelles Zentrum im zentralen Hochland. Bekannt für den Sonntagsmarkt. Liegt auf über 3.200 Metern Höhe. Diese Stadt zählt zu den charakteristischen Siedlungen Perus zwischen den Anden, der Pazifikküste und dem Amazonasbecken. Wie viele bedeutende Orte in Peru vereint dieser Standort regionale Eigenheiten zwischen Pazifik, Anden und Amazonas mit übergreifender Bedeutung. Damit trägt dieser Ort zum vielseitigen Profil Perus bei, vom Inka-Erbe und Machu Picchu bis zu Lima und dem Amazonasbecken.",
       hu: "Huancayo, a termékeny Mantaro-völgyben, több mint 3200 méter tengerszint feletti magasságban fekvő virágzó kulturális és kereskedelmi központ Közép-Peruban. A várost nagyra becsülik kézműves alkotásaiért, különösen fafaragásaiért és textiljeiért. Híres vasárnapi piaca az egyik legnagyobb az Andokban, amely a régió minden tájáról vonzza a kereskedőket az árucserére. A város lélegzetelállító kilátást nyújt a környező hegyekre, és kapu a látványos közép-perui Andok felé.",
       ro: "Aceasta este o descriere avansată pentru locația aleasă, care evidențiază caracteristicile sale unice în contextul peruan. Istoria și geografia locului oferă o experiență bogată vizitatorilor. Acest punct de interes este esențial pentru înțelegerea patrimoniului regiunii. Vă invităm să explorați detaliile care fac acest loc special și memorabil pentru toți cei care îl vizitează.",
       en: "Huancayo, situated in the fertile Mantaro Valley at over 3,200 meters above sea level, is a thriving cultural and commercial center in central Peru. The city is highly respected for its artisanal craftsmanship, especially its wood carvings and textiles. Its famous Sunday market is one of the largest in the Andes, drawing traders from all over the region to exchange goods. The city offers breathtaking views of the surrounding mountains and is a gateway to the spectacular central Peruvian Andes."
@@ -392,7 +392,7 @@ export const poiExtraPeruCitiesV2: POI[] = [
       en: ["Known for its Sunday market.", "Located over 3,200 meters above sea level."]
     },
     factsAdvanced: {
-      de: [],
+      de: ["Bekannt für den Sonntagsmarkt.", "Liegt auf über 3.200 Metern Höhe.", "Kulturelles Zentrum im zentralen Hochland.", "Liegt auf dem Gebiet der Republik Peru.", "Eingebettet zwischen Andenkordillere, Küstenwüste und Amazonasbecken.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung."],
       hu: [
         "Huancayo híres a Vasárnapi Piacról, amelyet az Andok egyik legélénkebb és legnagyobb piacának tartanak.",
         "A város körülbelül 3250 méteres magasságban fekszik a termékeny Mantaro-völgyben.",
@@ -425,7 +425,7 @@ export const poiExtraPeruCitiesV2: POI[] = [
       en: "Border city with Chile in southern Peru."
     },
     descriptionAdvanced: {
-      de: "",
+      de: "Tacna ist ein bemerkenswertes Element der peruanischen Geografie und Kultur. Grenzstadt zu Chile im Süden Perus. Gilt als die 'Heldenstadt' Perus. Wichtige Freihandelszone. Diese Stadt zählt zu den charakteristischen Siedlungen Perus zwischen den Anden, der Pazifikküste und dem Amazonasbecken. Wie viele bedeutende Orte in Peru vereint dieser Standort regionale Eigenheiten zwischen Pazifik, Anden und Amazonas mit übergreifender Bedeutung. Damit trägt dieser Ort zum vielseitigen Profil Perus bei, vom Inka-Erbe und Machu Picchu bis zu Lima und dem Amazonasbecken.",
       hu: "Tacna szimbolikus határváros Dél-Peruban, amelyet gyakran 'Hősvárosnak' neveznek a Csendes-óceáni háború alatti ellenállása miatt. Jelentős gazdasági központként döntő szabadkereskedelmi övezetként működik, és elsődleges kapuként szolgál a Chilével folytatott kereskedelemhez és utazáshoz. A várost rendezett utcáiról, kellemes tereiről és a hazafiság gazdag történelméről ismerik. Stratégiai fontossága mellett Tacna egyedülálló kulturális élményeket kínál, és a helyi perui gasztronómia központja.",
       ro: "Aceasta este o descriere avansată pentru locația aleasă, care evidențiază caracteristicile sale unice în contextul peruan. Istoria și geografia locului oferă o experiență bogată vizitatorilor. Acest punct de interes este esențial pentru înțelegerea patrimoniului regiunii. Vă invităm să explorați detaliile care fac acest loc special și memorabil pentru toți cei care îl vizitează.",
       en: "Tacna is a symbolic border city in southern Peru, often referred to as the 'Heroic City' due to its resistance during the War of the Pacific. As a major economic hub, it functions as a crucial free trade zone and acts as the primary gateway for trade and travel with Chile. The city is known for its orderly streets, pleasant plazas, and its rich history of patriotism. Beyond its strategic importance, Tacna offers unique cultural experiences and is a center of local Peruvian gastronomy."
@@ -437,7 +437,7 @@ export const poiExtraPeruCitiesV2: POI[] = [
       en: ["Considered the 'Heroic City' of Peru.", "Important free trade zone."]
     },
     factsAdvanced: {
-      de: [],
+      de: ["Gilt als die 'Heldenstadt' Perus.", "Wichtige Freihandelszone.", "Grenzstadt zu Chile im Süden Perus.", "Liegt auf dem Gebiet der Republik Peru.", "Eingebettet zwischen Andenkordillere, Küstenwüste und Amazonasbecken.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung."],
       hu: [
         "Tacnát Peru 'Hősvárosának' nevezik, tisztelegve a 19. századi Csendes-óceáni háború alatti hazafias ellenállása előtt.",
         "A város jelentős szabadkereskedelmi övezetként működik, sok látogatót vonzva a kereskedelem céljából.",

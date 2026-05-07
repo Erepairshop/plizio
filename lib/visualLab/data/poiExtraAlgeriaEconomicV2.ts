@@ -26,16 +26,16 @@ export const poiExtraAlgeriaEconomicV2: POI[] = [
       en: ["Largest port in the country", "Vital for imports", "Close to the old city", "Offers passenger services", "Continuously modernized"]
     },
     descriptionAdvanced: {
-      de: "",
+      de: "Hafen von Algier ist ein bemerkenswertes Element der algerischen Geografie und Kultur. Der größte Seehafen Algeriens, ein wichtiges Zentrum für den internationalen Handel und Güterverkehr. Größter Hafen des Landes. Wichtig für Importe. Nahe der Altstadt. Dieser Standort spielt eine Rolle in der algerischen Wirtschaft, die stark von Erdöl- und Erdgasförderung geprägt ist. Wie viele bedeutende Orte in Algerien vereint dieser Ort berberisches Erbe, mediterrane und saharische Einflüsse. Damit trägt dieser Ort zum vielseitigen Profil Algeriens bei.",
       hu: "Az algíri kikötő Algéria legnagyobb és legfontosabb tengeri kapuja. A Földközi-tenger egyik legforgalmasabb kikötője. Hatalmas konténerterminálokkal és mélyvízi dokkokkal rendelkezik. Az ország importjának és exportjának jelentős része itt halad át. Fejlesztése folyamatosan zajlik. Gazdaságföldrajz K8 – Világkereskedelem.",
-      ro: "",
-      en: ""
+      ro: "Portul Alger este un element remarcabil al geografiei și culturii algeriene. Cel mai mare port maritim din Algeria, un hub crucial pentru comerțul internațional și traficul de mărfuri. Cel mai mare port din țară. Vital pentru importuri. Aproape de orașul vechi. Acest loc joacă un rol în economia Algeriei, puternic marcată de extracția de petrol și gaze naturale. Asemenea multor locuri importante din Algeria, acesta îmbină moștenirea berberă cu influențele mediteraneene și sahariene. Astfel, acest loc contribuie la profilul variat al Algeriei.",
+      en: "Port of Algiers is a remarkable feature of the geography and culture of Algeria. The largest seaport in Algeria, a crucial hub for international trade and freight traffic. Largest port in the country. Vital for imports. Close to the old city. This location plays a role in the economy of Algeria, strongly shaped by oil and natural gas extraction. Like many notable places in Algeria, it combines Berber heritage with Mediterranean and Saharan influences. Thus, this place contributes to the diverse profile of Algeria."
     },
     factsAdvanced: {
-      de: [],
+      de: ["Größter Hafen des Landes.", "Wichtig für Importe.", "Nahe der Altstadt.", "Bietet Passagierdienste.", "Stetig modernisiert.", "Der größte Seehafen Algeriens, ein wichtiges Zentrum für den internationalen Handel und Güterverkehr.", "Liegt im Gebiet der Demokratischen Volksrepublik Algerien."],
       hu: ["Éves forgalma meghaladja a 20 millió tonnát.", "Konténerforgalma évi több mint 1 millió TEU.", "Az oszmán korban a berber kalózok bázisa volt.", "A DP World dubaji cég üzemelteti a konténerterminált.", "Közvetlen vasúti és közúti összeköttetéssel rendelkezik.", "Jelentős az utasforgalom Franciaország felé."],
-      ro: [],
-      en: []
+      ro: ["Cel mai mare port din țară.", "Vital pentru importuri.", "Aproape de orașul vechi.", "Oferă servicii de pasageri.", "Modernizat continuu.", "Cel mai mare port maritim din Algeria, un hub crucial pentru comerțul internațional și traficul de mărfuri.", "Se află pe teritoriul Republicii Algeriene Democratice și Populare."],
+      en: ["Largest port in the country.", "Vital for imports.", "Close to the old city.", "Offers passenger services.", "Continuously modernized.", "The largest seaport in Algeria, a crucial hub for international trade and freight traffic.", "Located within the People's Democratic Republic of Algeria."]
     }, image: "/poi-images/port-of-algiers-economic-v2.webp"},
   {
     id: "hassi-messaoud-oil-field-economic-v2",
@@ -61,16 +61,16 @@ export const poiExtraAlgeriaEconomicV2: POI[] = [
       en: ["Discovered in 1956", "Largest Algerian oil field", "Located in the Sahara", "Attracts international firms", "Heart of the economy"]
     },
     descriptionAdvanced: {
-      de: "",
+      de: "Ölfeld Hassi Messaoud ist ein bemerkenswertes Element der algerischen Geografie und Kultur. Das wichtigste und größte Ölfeld in Algerien, das das Rückgrat der nationalen Wirtschaft bildet. 1956 entdeckt. Größtes Ölfeld Algeriens. Befindet sich in der Sahara. Dieser Standort spielt eine Rolle in der algerischen Wirtschaft, die stark von Erdöl- und Erdgasförderung geprägt ist. Wie viele bedeutende Orte in Algerien vereint dieser Ort berberisches Erbe, mediterrane und saharische Einflüsse. Damit trägt dieser Ort zum vielseitigen Profil Algeriens bei.",
       hu: "A Hassi Messaoud olajmező Algéria legnagyobb kőolajlelőhelye a Szaharában. 1956-os felfedezése átalakította az ország gazdaságát. Több ezer kút termeli a kiváló minőségű nyersolajat. A kitermelést a Sonatrach állami vállalat felügyeli. A mező köré egy modern város épült. Gazdaságföldrajz K8 – Energiaforrások.",
-      ro: "",
-      en: ""
+      ro: "Câmpul petrolier Hassi Messaoud este un element remarcabil al geografiei și culturii algeriene. Cel mai important și mare câmp petrolier din Algeria, formând coloana vertebrală a economiei naționale. Descoperit în 1956. Cel mai mare câmp petrolier algerian. Situat în Sahara. Acest loc joacă un rol în economia Algeriei, puternic marcată de extracția de petrol și gaze naturale. Asemenea multor locuri importante din Algeria, acesta îmbină moștenirea berberă cu influențele mediteraneene și sahariene. Astfel, acest loc contribuie la profilul variat al Algeriei.",
+      en: "Hassi Messaoud Oil Field is a remarkable feature of the geography and culture of Algeria. The most important and largest oil field in Algeria, forming the backbone of the national economy. Discovered in 1956. Largest Algerian oil field. Located in the Sahara. This location plays a role in the economy of Algeria, strongly shaped by oil and natural gas extraction. Like many notable places in Algeria, it combines Berber heritage with Mediterranean and Saharan influences. Thus, this place contributes to the diverse profile of Algeria."
     },
     factsAdvanced: {
-      de: [],
+      de: ["1956 entdeckt.", "Größtes Ölfeld Algeriens.", "Befindet sich in der Sahara.", "Zieht internationale Firmen an.", "Herzstück der Wirtschaft.", "Das wichtigste und größte Ölfeld in Algerien, das das Rückgrat der nationalen Wirtschaft bildet.", "Liegt im Gebiet der Demokratischen Volksrepublik Algerien."],
       hu: ["1956-ban egy francia konzorcium fedezte fel.", "Területe kb. 2000 négyzetkilométer.", "A kumulált kitermelés meghaladja a 8 milliárd hordót.", "Csővezetékeken szállítják a partra.", "A Sonatrach Afrika legnagyobb vállalata.", "A név arabul 'a boldog forrást' jelenti."],
-      ro: [],
-      en: []
+      ro: ["Descoperit în 1956.", "Cel mai mare câmp petrolier algerian.", "Situat în Sahara.", "Atrage companii internaționale.", "Inima economiei.", "Cel mai important și mare câmp petrolier din Algeria, formând coloana vertebrală a economiei naționale.", "Se află pe teritoriul Republicii Algeriene Democratice și Populare."],
+      en: ["Discovered in 1956.", "Largest Algerian oil field.", "Located in the Sahara.", "Attracts international firms.", "Heart of the economy.", "The most important and largest oil field in Algeria, forming the backbone of the national economy.", "Located within the People's Democratic Republic of Algeria."]
     },
   },
   {
@@ -97,16 +97,16 @@ export const poiExtraAlgeriaEconomicV2: POI[] = [
       en: ["Discovered in 1956", "Massive gas reserves", "Supplies pipelines to Europe", "Among the world's largest", "Gas extraction center"]
     },
     descriptionAdvanced: {
-      de: "",
+      de: "Gasfeld Hassi R'Mel ist ein bemerkenswertes Element der algerischen Geografie und Kultur. Eines der größten Erdgasfelder der Welt und eine zentrale Energiequelle für Europa. 1956 entdeckt. Riesige Gasreserven. Versorgt Pipelines nach Europa. Dieser Standort spielt eine Rolle in der algerischen Wirtschaft, die stark von Erdöl- und Erdgasförderung geprägt ist. Wie viele bedeutende Orte in Algerien vereint dieser Ort berberisches Erbe, mediterrane und saharische Einflüsse. Damit trägt dieser Ort zum vielseitigen Profil Algeriens bei.",
       hu: "A Hassi R'Mel gázmező a világ egyik legnagyobb földgázlelőhelye. 1956-os felfedezése a földgázt is Algéria gazdaságának pillérévé tette. Jelentős mennyiségű kondenzátumot is tartalmaz. Innen indulnak a legfontosabb transz-mediterrán gázvezetékek Európába. A kitermelést a Sonatrach irányítja. Gazdaságföldrajz K8 – Energiaellátó rendszerek.",
-      ro: "",
-      en: ""
+      ro: "Câmpul de gaze Hassi R'Mel este un element remarcabil al geografiei și culturii algeriene. Unul dintre cele mai mari zăcăminte de gaze naturale din lume și o sursă cheie de energie pentru Europa. Descoperit în 1956. Rezerve masive de gaz. Alimentează conducte spre Europa. Acest loc joacă un rol în economia Algeriei, puternic marcată de extracția de petrol și gaze naturale. Asemenea multor locuri importante din Algeria, acesta îmbină moștenirea berberă cu influențele mediteraneene și sahariene. Astfel, acest loc contribuie la profilul variat al Algeriei.",
+      en: "Hassi R'Mel Gas Field is a remarkable feature of the geography and culture of Algeria. One of the largest natural gas fields in the world and a key energy source for Europe. Discovered in 1956. Massive gas reserves. Supplies pipelines to Europe. This location plays a role in the economy of Algeria, strongly shaped by oil and natural gas extraction. Like many notable places in Algeria, it combines Berber heritage with Mediterranean and Saharan influences. Thus, this place contributes to the diverse profile of Algeria."
     },
     factsAdvanced: {
-      de: [],
+      de: ["1956 entdeckt.", "Riesige Gasreserven.", "Versorgt Pipelines nach Europa.", "Eines der größten weltweit.", "Zentrum der Gasförderung.", "Eines der größten Erdgasfelder der Welt und eine zentrale Energiequelle für Europa.", "Liegt im Gebiet der Demokratischen Volksrepublik Algerien."],
       hu: ["Becsült gázvagyona kb. 2400 milliárd köbméter.", "Algéria gáztermelésének több mint 60%-át adja.", "A Trans-Med gázvezeték 1983 óta működik.", "A Medgaz vezeték 2011-ben kezdte meg a szállítást Spanyolországba.", "A neve arabul 'a homokos forrást' jelenti.", "Jelentős propán- és butántermelés is folyik itt."],
-      ro: [],
-      en: []
+      ro: ["Descoperit în 1956.", "Rezerve masive de gaz.", "Alimentează conducte spre Europa.", "Printre cele mai mari global.", "Centru de extracție a gazelor.", "Unul dintre cele mai mari zăcăminte de gaze naturale din lume și o sursă cheie de energie pentru Europa.", "Se află pe teritoriul Republicii Algeriene Democratice și Populare."],
+      en: ["Discovered in 1956.", "Massive gas reserves.", "Supplies pipelines to Europe.", "Among the world's largest.", "Gas extraction center.", "One of the largest natural gas fields in the world and a key energy source for Europe.", "Located within the People's Democratic Republic of Algeria."]
     }, image: "/poi-images/hassi-r-mel-gas-field-economic-v2.webp"},
   {
     id: "arzew-petrochemical-port-economic-v2",
@@ -272,16 +272,16 @@ export const poiExtraAlgeriaEconomicV2: POI[] = [
       en: ["Major deepwater port", "Important oil terminal", "Gateway to Kabylia", "Increasing freight volume", "Located in a scenic bay"]
     },
     descriptionAdvanced: {
-    de: "",
+    de: "Hafen von Bejaia ist ein bemerkenswertes Element der algerischen Geografie und Kultur. Ein wichtiger Tiefwasserhafen, der viel Stückgut und Öl abwickelt und als Tor zur Kabylei dient. Großer Tiefwasserhafen. Wichtiges Ölterminal. Tor zur Kabylei. Dieser Standort spielt eine Rolle in der algerischen Wirtschaft, die stark von Erdöl- und Erdgasförderung geprägt ist. Wie viele bedeutende Orte in Algerien vereint dieser Ort berberisches Erbe, mediterrane und saharische Einflüsse. Damit trägt dieser Ort zum vielseitigen Profil Algeriens bei.",
     hu: "Béjaïa kikötője Algéria egyik legfontosabb mélyvízi kikötője, amely különösen a szénhidrogén-export és az élelmiszeripari alapanyagok kezelése terén tölt be meghatározó szerepet. A kikötő a végpontja a Hassi Messaoud-ból érkező olajvezetéknek, így az algériai nyersolaj egyik legfontosabb kiviteli kapuja. Stratégiai elhelyezkedése a Kabilia régió partján ideálissá teszi a belső országrészek ipari kiszolgálására. A kikötőben található az ország legnagyobb magánkézben lévő élelmiszeripari terminálja is, ahol cukrot és étolajat dolgoznak fel. A festői Gouraya-hegy lábánál fekvő öböl természetes védelmet nyújt a hajóknak. Gazdaságtan K8 — Energiaexport és ipari logisztika.",
-    ro: "",
-    en: ""
+    ro: "Portul Bejaia este un element remarcabil al geografiei și culturii algeriene. Un port de ape adânci important care manipulează mărfuri generale și petrol, servind ca poartă spre Kabylia. Port major de ape adânci. Terminal petrolier important. Poarta către Kabylia. Acest loc joacă un rol în economia Algeriei, puternic marcată de extracția de petrol și gaze naturale. Asemenea multor locuri importante din Algeria, acesta îmbină moștenirea berberă cu influențele mediteraneene și sahariene. Astfel, acest loc contribuie la profilul variat al Algeriei.",
+    en: "Port of Bejaia is a remarkable feature of the geography and culture of Algeria. An important deepwater port handling general cargo and oil, serving as the gateway to Kabylia. Major deepwater port. Important oil terminal. Gateway to Kabylia. This location plays a role in the economy of Algeria, strongly shaped by oil and natural gas extraction. Like many notable places in Algeria, it combines Berber heritage with Mediterranean and Saharan influences. Thus, this place contributes to the diverse profile of Algeria."
     },
     factsAdvanced: {
-    de: [],
+    de: ["Großer Tiefwasserhafen.", "Wichtiges Ölterminal.", "Tor zur Kabylei.", "Steigendes Frachtaufkommen.", "Lage in malerischer Bucht.", "Ein wichtiger Tiefwasserhafen, der viel Stückgut und Öl abwickelt und als Tor zur Kabylei dient.", "Liegt im Gebiet der Demokratischen Volksrepublik Algerien."],
     hu: ["Béjaïa kikötője az első helyen áll Algériában a darabáru-forgalom tekintetében.", "Itt található a Cevital csoport hatalmas finomító komplexuma.", "A kikötő olajterminálja évente több millió tonna nyersolajat kezel.", "Mélyvízi adottságai lehetővé teszik a 100 000 tonnás tankerek fogadását is.", "A konténerforgalom dinamikusan növekszik, meghaladva a 250 000 TEU-t.", "A kikötő fontos szerepet játszik a Kabilia régió parafatermékeinek exportjában.", "Közvetlen vasúti kapcsolata van az országos hálózattal.", "A kikötő bővítésére irányuló projekt egy új, külső kikötő építését is tartalmazza."],
-    ro: [],
-    en: []
+    ro: ["Port major de ape adânci.", "Terminal petrolier important.", "Poarta către Kabylia.", "Volum de marfă în creștere.", "Situat într-un golf pitoresc.", "Un port de ape adânci important care manipulează mărfuri generale și petrol, servind ca poartă spre Kabylia.", "Se află pe teritoriul Republicii Algeriene Democratice și Populare."],
+    en: ["Major deepwater port.", "Important oil terminal.", "Gateway to Kabylia.", "Increasing freight volume.", "Located in a scenic bay.", "An important deepwater port handling general cargo and oil, serving as the gateway to Kabylia.", "Located within the People's Democratic Republic of Algeria."]
     }, image: "/poi-images/port-of-bejaia-economic-v2.webp"},
   {
     id: "port-of-annaba-economic-v2",
@@ -307,16 +307,16 @@ export const poiExtraAlgeriaEconomicV2: POI[] = [
       en: ["Exports iron ore", "Connected to El Hadjar", "Important for heavy industry", "Eastern Algerian center", "Also offers passenger services"]
     },
     descriptionAdvanced: {
-    de: "",
+    de: "Hafen von Annaba ist ein bemerkenswertes Element der algerischen Geografie und Kultur. Einer der wichtigsten Häfen im Osten Algeriens, insbesondere für den Export von Eisenerz und Stahl. Exportiert Eisenerz. Verbunden mit El Hadjar. Wichtig für die Schwerindustrie. Dieser Standort spielt eine Rolle in der algerischen Wirtschaft, die stark von Erdöl- und Erdgasförderung geprägt ist. Wie viele bedeutende Orte in Algerien vereint dieser Ort berberisches Erbe, mediterrane und saharische Einflüsse. Damit trägt dieser Ort zum vielseitigen Profil Algeriens bei.",
     hu: "Annaba kikötője Kelet-Algéria legfontosabb ipari kikötője, amely szoros szimbiózisban él a közeli El Hadjar acélművel. Elsődleges feladata a vasérc, a foszfát és az acéltermékek szállítása, így a nemzeti ásványkincs-export egyik fő pillére. A kikötő emellett fontos kereskedelmi kapu az ország északkeleti része és Tunézia felé. Modernizált rakpartjai és daruparkja lehetővé teszi a nehézgépek és ipari berendezések hatékony kezelését. A személyszállító terminál rendszeres összeköttetést biztosít Európával, míg a halászati szektor a régió egyik legfontosabb munkaadója. Földrajz K7 — Ásványkincsek exportja és ipari infrastruktúra.",
-    ro: "",
-    en: ""
+    ro: "Portul Annaba este un element remarcabil al geografiei și culturii algeriene. Unul dintre principalele porturi din estul Algeriei, în special pentru exportul de minereu de fier și oțel. Exportă minereu de fier. Legat de El Hadjar. Important pentru industria grea. Acest loc joacă un rol în economia Algeriei, puternic marcată de extracția de petrol și gaze naturale. Asemenea multor locuri importante din Algeria, acesta îmbină moștenirea berberă cu influențele mediteraneene și sahariene. Astfel, acest loc contribuie la profilul variat al Algeriei.",
+    en: "Port of Annaba is a remarkable feature of the geography and culture of Algeria. One of the main ports in eastern Algeria, particularly for the export of iron ore and steel. Exports iron ore. Connected to El Hadjar. Important for heavy industry. This location plays a role in the economy of Algeria, strongly shaped by oil and natural gas extraction. Like many notable places in Algeria, it combines Berber heritage with Mediterranean and Saharan influences. Thus, this place contributes to the diverse profile of Algeria."
     },
     factsAdvanced: {
-    de: [],
+    de: ["Exportiert Eisenerz.", "Verbunden mit El Hadjar.", "Wichtig für die Schwerindustrie.", "Ost-algerisches Zentrum.", "Bietet auch Passagierdienste.", "Einer der wichtigsten Häfen im Osten Algeriens, insbesondere für den Export von Eisenerz und Stahl.", "Liegt im Gebiet der Demokratischen Volksrepublik Algerien."],
     hu: ["A kikötő a római kori Hippo Regius kikötőjének utódja.", "Ez az ország első számú kikötője az ásványi export (foszfát, vas) terén.", "A kikötő közvetlen ipari vágányokkal kapcsolódik az El Hadjar acélműhöz.", "Évente több mint 5 millió tonna árut mozgatnak meg a terminálokon.", "A személyszállító hajók főként Marseille irányába közlekednek.", "A kikötőben jelentős javítóbázis működik kereskedelmi hajók számára.", "Az Annaba-i kikötő az egyik legmélyebb természetes kikötő a keleti parton.", "A tartományban tervezett új foszfát-projekt jelentősen növelni fogja a forgalmát."],
-    ro: [],
-    en: []
+    ro: ["Exportă minereu de fier.", "Legat de El Hadjar.", "Important pentru industria grea.", "Centru est-algerian.", "Oferă și servicii pentru pasageri.", "Unul dintre principalele porturi din estul Algeriei, în special pentru exportul de minereu de fier și oțel.", "Se află pe teritoriul Republicii Algeriene Democratice și Populare."],
+    en: ["Exports iron ore.", "Connected to El Hadjar.", "Important for heavy industry.", "Eastern Algerian center.", "Also offers passenger services.", "One of the main ports in eastern Algeria, particularly for the export of iron ore and steel.", "Located within the People's Democratic Republic of Algeria."]
     }, image: "/poi-images/port-of-annaba-economic-v2.webp"},
   {
     id: "port-of-mostaganem-economic-v2",
@@ -342,16 +342,16 @@ export const poiExtraAlgeriaEconomicV2: POI[] = [
       en: ["Agricultural products export", "Near Oran", "Increasing ferry traffic", "Regional trade center", "Relieves Oran port"]
     },
     descriptionAdvanced: {
-    de: "",
+    de: "Hafen von Mostaganem ist ein bemerkenswertes Element der algerischen Geografie und Kultur. Ein mittelgroßer Hafen an der Westküste, der landwirtschaftliche Produkte und Güter abfertigt. Agrarprodukte-Export. Nahe bei Oran. Zunehmender Fährverkehr. Dieser Standort spielt eine Rolle in der algerischen Wirtschaft, die stark von Erdöl- und Erdgasförderung geprägt ist. Wie viele bedeutende Orte in Algerien vereint dieser Ort berberisches Erbe, mediterrane und saharische Einflüsse. Damit trägt dieser Ort zum vielseitigen Profil Algeriens bei.",
     hu: "Mostaganem kikötője egy dinamikusan fejlődő kereskedelmi csomópont Algéria nyugati partvidékén. Míg korábban főként mezőgazdasági termékek kivitelére specializálódott, mára fontos szerepet vállal az országos autóimport és a konténerforgalom tehermentesítésében Orán kikötőjétől. A kikötő modernizálása során új mólókat és raktárakat építettek, hogy kiszolgálják a növekvő ipari igényeket. A személyforgalom is jelentős; a Spanyolországba (Valencia) tartó kompjáratok az egyik leggyorsabb összeköttetést jelentik Európával. Mostaganem kikötője kulcsfontosságú a régió élelmiszeriparának és építőiparának ellátásában. Földrajz K7 — Regionális kikötők szerepe az áruszállításban.",
-    ro: "",
-    en: ""
+    ro: "Portul Mostaganem este un element remarcabil al geografiei și culturii algeriene. Un port de mărime medie pe coasta de vest, manipulând produse agricole și bunuri. Export de produse agricole. Aproape de Oran. Trafic de feribot în creștere. Acest loc joacă un rol în economia Algeriei, puternic marcată de extracția de petrol și gaze naturale. Asemenea multor locuri importante din Algeria, acesta îmbină moștenirea berberă cu influențele mediteraneene și sahariene. Astfel, acest loc contribuie la profilul variat al Algeriei.",
+    en: "Port of Mostaganem is a remarkable feature of the geography and culture of Algeria. A medium-sized port on the west coast, handling agricultural products and goods. Agricultural products export. Near Oran. Increasing ferry traffic. This location plays a role in the economy of Algeria, strongly shaped by oil and natural gas extraction. Like many notable places in Algeria, it combines Berber heritage with Mediterranean and Saharan influences. Thus, this place contributes to the diverse profile of Algeria."
     },
     factsAdvanced: {
-    de: [],
+    de: ["Agrarprodukte-Export.", "Nahe bei Oran.", "Zunehmender Fährverkehr.", "Regionales Handelszentrum.", "Entlastet den Hafen von Oran.", "Ein mittelgroßer Hafen an der Westküste, der landwirtschaftliche Produkte und Güter abfertigt.", "Liegt im Gebiet der Demokratischen Volksrepublik Algerien."],
     hu: ["A kikötő híres az algériai borok és citrusfélék exportjáról.", "2016 óta rendszeres kompjárat köti össze Valenciával.", "A kikötő medencéje alkalmas közepes méretű konténerhajók fogadására.", "Fontos bázisa az algériai parti őrségnek és a halászflottának.", "A kikötő közvetlen közelében új ipari parkot hoztak létre.", "A gabonaimport terminál kapacitását nemrégiben bővítették.", "Mostaganem kikötője az ország egyik legtisztább és legjobban szervezett kikötője.", "A kikötői forgalom jelentősen hozzájárul a tartomány adóbevételeihez."],
-    ro: [],
-    en: []
+    ro: ["Export de produse agricole.", "Aproape de Oran.", "Trafic de feribot în creștere.", "Centru comercial regional.", "Eliberează portul Oran.", "Un port de mărime medie pe coasta de vest, manipulând produse agricole și bunuri.", "Se află pe teritoriul Republicii Algeriene Democratice și Populare."],
+    en: ["Agricultural products export.", "Near Oran.", "Increasing ferry traffic.", "Regional trade center.", "Relieves Oran port.", "A medium-sized port on the west coast, handling agricultural products and goods.", "Located within the People's Democratic Republic of Algeria."]
     }, image: "/poi-images/port-of-mostaganem-economic-v2.webp"},
   {
     id: "djendjen-port-economic-v2",
@@ -377,16 +377,16 @@ export const poiExtraAlgeriaEconomicV2: POI[] = [
       en: ["Deepest port in Algeria", "Large container terminal", "Near Bellara steelworks", "Fast growth", "International investments"]
     },
     descriptionAdvanced: {
-    de: "",
+    de: "Hafen Djendjen ist ein bemerkenswertes Element der algerischen Geografie und Kultur. Ein moderner Tiefseehafen in Jijel, der für große Containerschiffe und Stahltransporte ausgelegt ist. Tiefster Hafen Algeriens. Großes Containerterminal. Nahe dem Stahlwerk Bellara. Dieser Standort spielt eine Rolle in der algerischen Wirtschaft, die stark von Erdöl- und Erdgasförderung geprägt ist. Wie viele bedeutende Orte in Algerien vereint dieser Ort berberisches Erbe, mediterrane und saharische Einflüsse. Damit trägt dieser Ort zum vielseitigen Profil Algeriens bei.",
     hu: "A Jijel mellett található Djendjen kikötője Algéria legmodernebb és legmélyebb tengeri kikötője. Kifejezetten a nagy kapacitású, legújabb generációs konténerhajók és ömlesztettáru-szállítók fogadására tervezték. A kikötő stratégiai szerepet tölt be a Bellara acélkomplexum kiszolgálásában, biztosítva a nyersanyagok behozatalát és a késztermékek kivitelét. 18 méteres vízmélységével egyedülálló a Maghreb-régióban, ami lehetővé teszi, hogy globális logisztikai csomóponttá váljon. A kikötő fejlesztése nemzetközi partnerségben (DP World) zajlik, célja az ázsiai és európai kereskedelmi útvonalak hatékonyabb összekapcsolása. Földrajz K7 — Mélyvízi kikötők és globális tengeri szállítás.",
-    ro: "",
-    en: ""
+    ro: "Portul Djendjen este un element remarcabil al geografiei și culturii algeriene. Un port modern de mare adâncime în Jijel, conceput pentru nave portcontainer mari și transport de oțel. Cel mai adânc port din Algeria. Terminal mare de containere. Aproape de oțelăria Bellara. Acest loc joacă un rol în economia Algeriei, puternic marcată de extracția de petrol și gaze naturale. Asemenea multor locuri importante din Algeria, acesta îmbină moștenirea berberă cu influențele mediteraneene și sahariene. Astfel, acest loc contribuie la profilul variat al Algeriei.",
+    en: "Djendjen Port is a remarkable feature of the geography and culture of Algeria. A modern deep-sea port in Jijel, designed for large container ships and steel transport. Deepest port in Algeria. Large container terminal. Near Bellara steelworks. This location plays a role in the economy of Algeria, strongly shaped by oil and natural gas extraction. Like many notable places in Algeria, it combines Berber heritage with Mediterranean and Saharan influences. Thus, this place contributes to the diverse profile of Algeria."
     },
     factsAdvanced: {
-    de: [],
+    de: ["Tiefster Hafen Algeriens.", "Großes Containerterminal.", "Nahe dem Stahlwerk Bellara.", "Schnelles Wachstum.", "Internationale Investitionen.", "Ein moderner Tiefseehafen in Jijel, der für große Containerschiffe und Stahltransporte ausgelegt ist.", "Liegt im Gebiet der Demokratischen Volksrepublik Algerien."],
     hu: ["A kikötő vízmélysége eléri a 18,2 métert, ami a legnagyobb Algériában.", "A konténerterminál tervezett kapacitása 2 millió TEU évente.", "Közvetlen, emelt szintű gyorsforgalmi út köti össze a Kelet-Nyugat autópályával.", "A kikötő speciális terminállal rendelkezik az autóimport kezelésére.", "Itt található Algéria legnagyobb acélexport-kapuja.", "A kikötő területén hatalmas szabadkereskedelmi zónát alakítottak ki.", "A projekt jelentős katari és emirátusi befektetésekkel valósult meg.", "Djendjen kulcsszerepet játszik az afrikai tranzitkereskedelemben."],
-    ro: [],
-    en: []
+    ro: ["Cel mai adânc port din Algeria.", "Terminal mare de containere.", "Aproape de oțelăria Bellara.", "Creștere rapidă.", "Investiții internaționale.", "Un port modern de mare adâncime în Jijel, conceput pentru nave portcontainer mari și transport de oțel.", "Se află pe teritoriul Republicii Algeriene Democratice și Populare."],
+    en: ["Deepest port in Algeria.", "Large container terminal.", "Near Bellara steelworks.", "Fast growth.", "International investments.", "A modern deep-sea port in Jijel, designed for large container ships and steel transport.", "Located within the People's Democratic Republic of Algeria."]
     }
   },
   {
@@ -413,16 +413,16 @@ export const poiExtraAlgeriaEconomicV2: POI[] = [
       en: ["Near the Moroccan border", "Significant fishing port", "Ferry connection to Almería", "Zinc ore export", "Important for Tlemcen region"]
     },
     descriptionAdvanced: {
-    de: "",
+    de: "Hafen von Ghazaouet ist ein bemerkenswertes Element der algerischen Geografie und Kultur. Ein wichtiger Fischer- und Handelshafen nahe der marokkanischen Grenze mit Verbindungen nach Spanien. Nahe der marokkanischen Grenze. Bedeutender Fischereihafen. Fährverbindung nach Almería. Dieser Standort spielt eine Rolle in der algerischen Wirtschaft, die stark von Erdöl- und Erdgasförderung geprägt ist. Wie viele bedeutende Orte in Algerien vereint dieser Ort berberisches Erbe, mediterrane und saharische Einflüsse. Damit trägt dieser Ort zum vielseitigen Profil Algeriens bei.",
     hu: "Ghazaouet kikötője Algéria legnyugatibb kereskedelmi kikötője, Tlemcen tartományban, a marokkói határ közelében. Elsődleges fontosságát a bányászati termékek, különösen a cink- és ólomérc exportja, valamint a mezőgazdasági termékek kivitele adja. A kikötő emellett az ország egyik legjelentősebb halászati központja, híres a szardínia- és szardellahalászatáról. A személyforgalom szempontjából is kiemelt jelentőségű, hiszen a Ghazaouet-Almería kompvonal az egyik legrövidebb és legnépszerűbb tengeri út Algéria és Spanyolország között. A kikötő szűk, dombok közé ékelt elhelyezkedése ellenére rendkívül magas hatékonysággal üzemel. Földrajz K7 — Határmenti kikötők és regionális integráció.",
-    ro: "",
-    en: ""
+    ro: "Portul Ghazaouet este un element remarcabil al geografiei și culturii algeriene. Un important port de pescuit și comercial aproape de granița cu Marocul, având conexiuni cu Spania. Aproape de granița cu Maroc. Port pescăresc important. Conexiune feribot cu Almería. Acest loc joacă un rol în economia Algeriei, puternic marcată de extracția de petrol și gaze naturale. Asemenea multor locuri importante din Algeria, acesta îmbină moștenirea berberă cu influențele mediteraneene și sahariene. Astfel, acest loc contribuie la profilul variat al Algeriei.",
+    en: "Ghazaouet Port is a remarkable feature of the geography and culture of Algeria. An important fishing and commercial port near the Moroccan border, with connections to Spain. Near the Moroccan border. Significant fishing port. Ferry connection to Almería. This location plays a role in the economy of Algeria, strongly shaped by oil and natural gas extraction. Like many notable places in Algeria, it combines Berber heritage with Mediterranean and Saharan influences. Thus, this place contributes to the diverse profile of Algeria."
     },
     factsAdvanced: {
-    de: [],
+    de: ["Nahe der marokkanischen Grenze.", "Bedeutender Fischereihafen.", "Fährverbindung nach Almería.", "Zinkerz-Export.", "Wichtig für die Region Tlemcen.", "Ein wichtiger Fischer- und Handelshafen nahe der marokkanischen Grenze mit Verbindungen nach Spanien.", "Liegt im Gebiet der Demokratischen Volksrepublik Algerien."],
     hu: ["A kikötőt a francia korszakban Nemours néven ismerték.", "Ez az ország legfontosabb kikötője a színesfémércek exportjára.", "A halászkikötő több száz családnak ad közvetlen megélhetést.", "A Spanyolországba tartó kompjárat mindössze 7-9 órát vesz igénybe.", "A kikötőben modern elektrolitikus cinkfeldolgozó üzem működik.", "A környékbeli hegyek miatt a kikötő bővítése komoly mérnöki kihívás.", "Ghazaouet híres a halpiacáról, amely a legfrissebb árut kínálja a régióban.", "A kikötő stratégiai pont az Orán és Tlemcen közötti partmenti logisztikában."],
-    ro: [],
-    en: []
+    ro: ["Aproape de granița cu Maroc.", "Port pescăresc important.", "Conexiune feribot cu Almería.", "Export de minereu de zinc.", "Important pentru regiunea Tlemcen.", "Un important port de pescuit și comercial aproape de granița cu Marocul, având conexiuni cu Spania.", "Se află pe teritoriul Republicii Algeriene Democratice și Populare."],
+    en: ["Near the Moroccan border.", "Significant fishing port.", "Ferry connection to Almería.", "Zinc ore export.", "Important for Tlemcen region.", "An important fishing and commercial port near the Moroccan border, with connections to Spain.", "Located within the People's Democratic Republic of Algeria."]
     }, image: "/poi-images/ghazaouet-port-economic-v2.webp"},
   {
     id: "ouenza-iron-mine-economic-v2",
@@ -448,16 +448,16 @@ export const poiExtraAlgeriaEconomicV2: POI[] = [
       en: ["Near the Tunisian border", "Open-pit mine", "High iron content", "Founded in the early 20th century", "Rail connection to Annaba"]
     },
     descriptionAdvanced: {
-    de: "",
+    de: "Eisenerzmine Ouenza ist ein bemerkenswertes Element der algerischen Geografie und Kultur. Eine der ältesten und größten Eisenerzminen Algeriens, die den Stahlkomplex El Hadjar versorgt. Nahe der tunesischen Grenze. Tagebau. Hoher Eisengehalt. Dieser Standort spielt eine Rolle in der algerischen Wirtschaft, die stark von Erdöl- und Erdgasförderung geprägt ist. Wie viele bedeutende Orte in Algerien vereint dieser Ort berberisches Erbe, mediterrane und saharische Einflüsse. Damit trägt dieser Ort zum vielseitigen Profil Algeriens bei.",
     hu: "Ouenza vasércbányája Algéria egyik legfontosabb bányászati telephelye, amely Tébessa tartományban, a tunéziai határ közelében található. Ez a külszíni fejtésű bánya évtizedek óta az ország vasércigényének döntő részét fedezi, és az El Hadjar acélmű elsődleges nyersanyagforrása. A kőzet magas vastartalma (átlagosan 50-60%) miatt az itt bányászott érc nemzetközi szinten is kiváló minőségűnek számít. A bányászat nagyüzemi módszerekkel, robbantással és hatalmas kotrógépekkel folyik. Az ércet speciális tehervonatokkal szállítják a 160 kilométerre lévő Annabába. Gazdaságtan K8 — Ásványkincsek kitermelése és feldolgozása.",
-    ro: "",
-    en: ""
+    ro: "Mina de fier Ouenza este un element remarcabil al geografiei și culturii algeriene. Una dintre cele mai vechi și mari mine de fier din Algeria, aprovizionând complexul siderurgic El Hadjar. Aproape de granița cu Tunisia. Mină de suprafață. Conținut ridicat de fier. Acest loc joacă un rol în economia Algeriei, puternic marcată de extracția de petrol și gaze naturale. Asemenea multor locuri importante din Algeria, acesta îmbină moștenirea berberă cu influențele mediteraneene și sahariene. Astfel, acest loc contribuie la profilul variat al Algeriei.",
+    en: "Ouenza Iron Mine is a remarkable feature of the geography and culture of Algeria. One of the oldest and largest iron ore mines in Algeria, supplying the El Hadjar steel complex. Near the Tunisian border. Open-pit mine. High iron content. This location plays a role in the economy of Algeria, strongly shaped by oil and natural gas extraction. Like many notable places in Algeria, it combines Berber heritage with Mediterranean and Saharan influences. Thus, this place contributes to the diverse profile of Algeria."
     },
     factsAdvanced: {
-    de: [],
+    de: ["Nahe der tunesischen Grenze.", "Tagebau.", "Hoher Eisengehalt.", "Gegründet Anfang des 20. Jhs.", "Schienenanbindung nach Annaba.", "Eine der ältesten und größten Eisenerzminen Algeriens, die den Stahlkomplex El Hadjar versorgt.", "Liegt im Gebiet der Demokratischen Volksrepublik Algerien."],
     hu: ["A bányát még 1921-ben kezdték el ipari méretekben művelni.", "Az Ouenza-hegy szinte teljes egészében vasércből áll.", "Éves termelése meghaladja a 2 millió tonnát.", "A bánya közvetlenül kapcsolódik az országos ércszállító vasúti hálózathoz.", "A kitermelés 24 órás műszakban zajlik a kereslet kielégítésére.", "A kőzetben található hematit és magnetit adják a vas alapját.", "A bánya több mint 1200 embert foglalkoztat a térségben.", "A készletek a becslések szerint még több évtizedre elegendőek."],
-    ro: [],
-    en: []
+    ro: ["Aproape de granița cu Tunisia.", "Mină de suprafață.", "Conținut ridicat de fier.", "Fondată la începutul sec. 20.", "Legătură feroviară spre Annaba.", "Una dintre cele mai vechi și mari mine de fier din Algeria, aprovizionând complexul siderurgic El Hadjar.", "Se află pe teritoriul Republicii Algeriene Democratice și Populare."],
+    en: ["Near the Tunisian border.", "Open-pit mine.", "High iron content.", "Founded in the early 20th century.", "Rail connection to Annaba.", "One of the oldest and largest iron ore mines in Algeria, supplying the El Hadjar steel complex.", "Located within the People's Democratic Republic of Algeria."]
     }, image: "/poi-images/ouenza-iron-mine-economic-v2.webp"},
   {
     id: "boukhadra-iron-mine-economic-v2",
@@ -483,16 +483,16 @@ export const poiExtraAlgeriaEconomicV2: POI[] = [
       en: ["Located in Tébessa", "Partner mine to Ouenza", "Extracts high-quality ore", "Significant for metallurgy", "Railway network connection"]
     },
     descriptionAdvanced: {
-    de: "",
+    de: "Eisenmine Boukhadra ist ein bemerkenswertes Element der algerischen Geografie und Kultur. Ein wichtiges Bergbaugebiet im Osten Algeriens, das zusammen mit Ouenza die nationale Stahlproduktion stützt. Liegt in Tébessa. Partner-Mine zu Ouenza. Fördert hochwertiges Erz. Dieser Standort spielt eine Rolle in der algerischen Wirtschaft, die stark von Erdöl- und Erdgasförderung geprägt ist. Wie viele bedeutende Orte in Algerien vereint dieser Ort berberisches Erbe, mediterrane und saharische Einflüsse. Damit trägt dieser Ort zum vielseitigen Profil Algeriens bei.",
     hu: "A Boukhadra vasbánya az Ouenza bánya kiegészítő egysége Tébessa tartományban. Bár kisebb méretű, mint testvérbányája, az itt található vasérc minősége kiemelkedő, alacsony szennyezőanyag-tartalma miatt különösen kedvelt a kohászatban. A két bánya együtt alkotja az algériai vasérc-termelés gerincét, ellátva az Annaba-i és a jijeli acélműveket. A kitermelés itt is külszíni fejtéssel zajlik, a legmodernebb biztonsági előírások betartása mellett. A bánya üzemeltetése alapvető fontosságú a régió foglalkoztatottsága szempontjából, és szerves része az ország nehézipari ellátási láncának. Földrajz K7 — Bányászati központok és ipari tájak.",
-    ro: "",
-    en: ""
+    ro: "Mina de fier Boukhadra este un element remarcabil al geografiei și culturii algeriene. O zonă minieră importantă din estul Algeriei care, alături de Ouenza, sprijină producția națională de oțel. Situată în Tébessa. Mină parteneră cu Ouenza. Extrage minereu de înaltă calitate. Acest loc joacă un rol în economia Algeriei, puternic marcată de extracția de petrol și gaze naturale. Asemenea multor locuri importante din Algeria, acesta îmbină moștenirea berberă cu influențele mediteraneene și sahariene. Astfel, acest loc contribuie la profilul variat al Algeriei.",
+    en: "Boukhadra Iron Mine is a remarkable feature of the geography and culture of Algeria. An important mining area in eastern Algeria which, alongside Ouenza, supports the national steel production. Located in Tébessa. Partner mine to Ouenza. Extracts high-quality ore. This location plays a role in the economy of Algeria, strongly shaped by oil and natural gas extraction. Like many notable places in Algeria, it combines Berber heritage with Mediterranean and Saharan influences. Thus, this place contributes to the diverse profile of Algeria."
     },
     factsAdvanced: {
-    de: [],
+    de: ["Liegt in Tébessa.", "Partner-Mine zu Ouenza.", "Fördert hochwertiges Erz.", "Bedeutend für die Metallurgie.", "Schienennetz-Anbindung.", "Ein wichtiges Bergbaugebiet im Osten Algeriens, das zusammen mit Ouenza die nationale Stahlproduktion stützt.", "Liegt im Gebiet der Demokratischen Volksrepublik Algerien."],
     hu: ["Boukhadra vasérce híres magas mangántartalmáról, ami javítja az acél minőségét.", "A bánya tengerszint feletti magassága meghaladja az 1000 métert.", "Az ércet vasúti kocsikba rakodják, és Annaba kikötőjébe vagy az acélműbe viszik.", "A területen végzett kutatások újabb mélyebben fekvő teléreket tártak fel.", "A bánya üzemeltetője az állami FERAAL vállalat.", "A környező települések élete szorosan összefonódik a bánya működésével.", "A kitermelt érc egy részét nemzetközi piacon is értékesítik.", "A technológiai fejlesztések célja a bányászat környezeti hatásainak csökkentése."],
-    ro: [],
-    en: []
+    ro: ["Situată în Tébessa.", "Mină parteneră cu Ouenza.", "Extrage minereu de înaltă calitate.", "Semnificativ pentru metalurgie.", "Conectată la rețeaua feroviară.", "O zonă minieră importantă din estul Algeriei care, alături de Ouenza, sprijină producția națională de oțel.", "Se află pe teritoriul Republicii Algeriene Democratice și Populare."],
+    en: ["Located in Tébessa.", "Partner mine to Ouenza.", "Extracts high-quality ore.", "Significant for metallurgy.", "Railway network connection.", "An important mining area in eastern Algeria which, alongside Ouenza, supports the national steel production.", "Located within the People's Democratic Republic of Algeria."]
     }, image: "/poi-images/boukhadra-iron-mine-economic-v2.webp"},
   {
     id: "djebel-onk-phosphate-mine-economic-v2",
@@ -518,16 +518,16 @@ export const poiExtraAlgeriaEconomicV2: POI[] = [
       en: ["Huge reserves", "Processed in Annaba", "Important for agriculture", "Open-pit operation", "One of the largest in Africa"]
     },
     descriptionAdvanced: {
-    de: "",
+    de: "Phosphatmine Djebel Onk ist ein bemerkenswertes Element der algerischen Geografie und Kultur. Die größte Phosphatlagerstätte Algeriens, von entscheidender Bedeutung für die Düngemittelindustrie und den Export. Riesige Reserven. Verarbeitet in Annaba. Wichtig für die Landwirtschaft. Dieser Standort spielt eine Rolle in der algerischen Wirtschaft, die stark von Erdöl- und Erdgasförderung geprägt ist. Wie viele bedeutende Orte in Algerien vereint dieser Ort berberisches Erbe, mediterrane und saharische Einflüsse. Damit trägt dieser Ort zum vielseitigen Profil Algeriens bei.",
     hu: "A Djebel Onk foszfátbánya Tébessa tartomány déli részén található, és a világ egyik legnagyobb foszfátlelőhelye. Algéria számára ez a bánya a műtrágyagyártás és a modern mezőgazdaság alapköve. Az itt kitermelt foszfátot nemcsak belföldön használják fel, hanem hatalmas mennyiségben exportálják is Annaba kikötőjén keresztül. A kormány egy nagyszabású projekt keretében integrált foszfát-komplexumot épít ki, amely a bányászattól a vegyipari feldolgozásig terjed. Ez a fejlesztés kulcsfontosságú a gázfüggő algériai gazdaság diverzifikálásában és a mezőgazdasági export növelésében. Gazdaságtan K8 — Nyersanyag-diverzifikáció és műtrágyagyártás.",
-    ro: "",
-    en: ""
+    ro: "Mina de fosfați Djebel Onk este un element remarcabil al geografiei și culturii algeriene. Cel mai mare zăcământ de fosfați din Algeria, esențial pentru industria îngrășămintelor și pentru export. Rezerve uriașe. Procesat în Annaba. Important pentru agricultură. Acest loc joacă un rol în economia Algeriei, puternic marcată de extracția de petrol și gaze naturale. Asemenea multor locuri importante din Algeria, acesta îmbină moștenirea berberă cu influențele mediteraneene și sahariene. Astfel, acest loc contribuie la profilul variat al Algeriei.",
+    en: "Djebel Onk Phosphate Mine is a remarkable feature of the geography and culture of Algeria. The largest phosphate deposit in Algeria, crucial for the fertilizer industry and export. Huge reserves. Processed in Annaba. Important for agriculture. This location plays a role in the economy of Algeria, strongly shaped by oil and natural gas extraction. Like many notable places in Algeria, it combines Berber heritage with Mediterranean and Saharan influences. Thus, this place contributes to the diverse profile of Algeria."
     },
     factsAdvanced: {
-    de: [],
+    de: ["Riesige Reserven.", "Verarbeitet in Annaba.", "Wichtig für die Landwirtschaft.", "Tagebaubetrieb.", "Eines der größten in Afrika.", "Die größte Phosphatlagerstätte Algeriens, von entscheidender Bedeutung für die Düngemittelindustrie und den Export.", "Liegt im Gebiet der Demokratischen Volksrepublik Algerien."],
     hu: ["A Djebel Onk lelőhely tartalékait 2 milliárd tonnára becsülik.", "A foszfátrétegek vastagsága helyenként eléri a 30 métert.", "Az ércet Annabába szállítják, ahol foszforsavat és műtrágyát készítenek belőle.", "Algéria a világ 5 legnagyobb foszfáttartalékkal rendelkező országa közé tartozik.", "A bánya modern dúsító üzemmel rendelkezik a helyszínen.", "Az új integrált projekt értéke meghaladja a 6 milliárd dollárt.", "A vasúti pályát Annaba és Djebel Onk között kifejezetten a foszfátszállításhoz erősítették meg.", "A kitermelés nagy gépesítettsége miatt a bánya rendkívül hatékony."],
-    ro: [],
-    en: []
+    ro: ["Rezerve uriașe.", "Procesat în Annaba.", "Important pentru agricultură.", "Operațiune de suprafață.", "Unul dintre cele mai mari din Africa.", "Cel mai mare zăcământ de fosfați din Algeria, esențial pentru industria îngrășămintelor și pentru export.", "Se află pe teritoriul Republicii Algeriene Democratice și Populare."],
+    en: ["Huge reserves.", "Processed in Annaba.", "Important for agriculture.", "Open-pit operation.", "One of the largest in Africa.", "The largest phosphate deposit in Algeria, crucial for the fertilizer industry and export.", "Located within the People's Democratic Republic of Algeria."]
     }, image: "/poi-images/djebel-onk-phosphate-mine-economic-v2.webp"},
   {
     id: "in-amenas-gas-plant-economic-v2",
@@ -553,16 +553,16 @@ export const poiExtraAlgeriaEconomicV2: POI[] = [
       en: ["Started in 2006", "Large production capacity", "Joint Venture", "Located deep in the desert", "Important for gas condensate"]
     },
     descriptionAdvanced: {
-    de: "",
+    de: "Gasanlage In Amenas ist ein bemerkenswertes Element der algerischen Geografie und Kultur. Ein bedeutendes Gasförderprojekt in der Sahara, das von Sonatrach und internationalen Partnern betrieben wird. Startete 2006. Große Produktionskapazität. Joint Venture. Dieser Standort spielt eine Rolle in der algerischen Wirtschaft, die stark von Erdöl- und Erdgasförderung geprägt ist. Wie viele bedeutende Orte in Algerien vereint dieser Ort berberisches Erbe, mediterrane und saharische Einflüsse. Damit trägt dieser Ort zum vielseitigen Profil Algeriens bei.",
     hu: "Az In Amenas gázüzem Algéria délkeleti részén, a líbiai határ közelében fekszik, és az ország egyik legnagyobb földgáz- és kondenzátum-kitermelő központja. A projektet a Sonatrach, a BP és az Equinor (korábban Statoil) közösen üzemelteti, ami a nemzetközi energetikai együttműködés mintapéldája. Az üzem négy hatalmas gázmezőről gyűjti össze a nyersanyagot, amelyet helyben dolgoznak fel, leválasztva a cseppfolyós gázokat és a kondenzátumot. A tisztított földgázt csővezetékeken szállítják az északi exportterminálokhoz. Az üzem elszigetelt, sivatagi elhelyezkedése ellenére csúcstechnológiát és szigorú biztonsági rendszereket alkalmaz. Földrajz K7 — Energiaforrások és távolsági szállítás.",
-    ro: "",
-    en: ""
+    ro: "Instalația de gaze In Amenas este un element remarcabil al geografiei și culturii algeriene. Un proiect major de extracție a gazelor în Sahara, operat de Sonatrach și parteneri internaționali. A început în 2006. Capacitate mare de producție. Societate mixtă. Acest loc joacă un rol în economia Algeriei, puternic marcată de extracția de petrol și gaze naturale. Asemenea multor locuri importante din Algeria, acesta îmbină moștenirea berberă cu influențele mediteraneene și sahariene. Astfel, acest loc contribuie la profilul variat al Algeriei.",
+    en: "In Amenas Gas Plant is a remarkable feature of the geography and culture of Algeria. A major gas extraction project in the Sahara, operated by Sonatrach and international partners. Started in 2006. Large production capacity. Joint Venture. This location plays a role in the economy of Algeria, strongly shaped by oil and natural gas extraction. Like many notable places in Algeria, it combines Berber heritage with Mediterranean and Saharan influences. Thus, this place contributes to the diverse profile of Algeria."
     },
     factsAdvanced: {
-    de: [],
+    de: ["Startete 2006.", "Große Produktionskapazität.", "Joint Venture.", "Liegt tief in der Wüste.", "Wichtig für Gaskondensat.", "Ein bedeutendes Gasförderprojekt in der Sahara, das von Sonatrach und internationalen Partnern betrieben wird.", "Liegt im Gebiet der Demokratischen Volksrepublik Algerien."],
     hu: ["Az üzem 2006-ban kezdte meg a termelést.", "Napi kapacitása eléri a 30 millió köbméter földgázt.", "Az itt termelt kondenzátumot (könnyűolajat) üzemanyag-finomításhoz használják.", "Az üzem saját lakóteleppel, kórházzal és repülőtérrel rendelkezik a dolgozók számára.", "A létesítmény az ország teljes gáztermelésének mintegy 10%-át adja.", "A sivatagi környezet miatt az üzem saját víztisztító és áramtermelő egységgel bír.", "A gázt több mint 500 km hosszú vezetéken továbbítják Hassi R'Mel irányába.", "A projekt kiemelt fontosságú Európa energiabiztonsága szempontjából."],
-    ro: [],
-    en: []
+    ro: ["A început în 2006.", "Capacitate mare de producție.", "Societate mixtă.", "Situat adânc în deșert.", "Important pentru condensatul de gaz.", "Un proiect major de extracție a gazelor în Sahara, operat de Sonatrach și parteneri internaționali.", "Se află pe teritoriul Republicii Algeriene Democratice și Populare."],
+    en: ["Started in 2006.", "Large production capacity.", "Joint Venture.", "Located deep in the desert.", "Important for gas condensate.", "A major gas extraction project in the Sahara, operated by Sonatrach and international partners.", "Located within the People's Democratic Republic of Algeria."]
     }
   },
   {
@@ -589,16 +589,16 @@ export const poiExtraAlgeriaEconomicV2: POI[] = [
       en: ["East of Algiers", "Produces trucks and buses", "Largest industrial park", "Numerous international companies", "Important employer"]
     },
     descriptionAdvanced: {
-    de: "",
+    de: "Industriezone Rouiba ist ein bemerkenswertes Element der algerischen Geografie und Kultur. Das größte Industriegebiet Algeriens, Heimat vieler Fabriken einschließlich der SNVI-Fahrzeugproduktion. Östlich von Algier. Produziert Lkw und Busse. Größtes Gewerbegebiet. Dieser Standort spielt eine Rolle in der algerischen Wirtschaft, die stark von Erdöl- und Erdgasförderung geprägt ist. Wie viele bedeutende Orte in Algerien vereint dieser Ort berberisches Erbe, mediterrane und saharische Einflüsse. Damit trägt dieser Ort zum vielseitigen Profil Algeriens bei.",
     hu: "A Rouiba ipari övezet Algír keleti külvárosában található, és az ország legrégebbi, egyben legnagyobb ipari parkja. Itt koncentrálódik az algériai gépgyártás és élelmiszeripar színe-java. Legismertebb üzeme az SNVI teherautó- és buszgyár, amely évtizedek óta ellátja az országot közlekedési eszközökkel. Az övezetben számos nemzetközi vállalat (mint a Nestlé, Coca-Cola, Henkel) is gyárat létesített, kihasználva a kiváló logisztikai adottságokat és a főváros közelségét. Rouiba nemcsak gazdasági központ, hanem több tízezer ember számára biztosít munkát, motorja az algériai városiasodásnak és a középosztály felemelkedésének. Gazdaságtan K8 — Ipari körzetek és a multunacionális vállalatok jelenléte.",
-    ro: "",
-    en: ""
+    ro: "Zona industrială Rouiba este un element remarcabil al geografiei și culturii algeriene. Cea mai mare zonă industrială din Algeria, găzduind multe fabrici, inclusiv producția de vehicule SNVI. La est de Alger. Produce camioane și autobuze. Cel mai mare parc industrial. Acest loc joacă un rol în economia Algeriei, puternic marcată de extracția de petrol și gaze naturale. Asemenea multor locuri importante din Algeria, acesta îmbină moștenirea berberă cu influențele mediteraneene și sahariene. Astfel, acest loc contribuie la profilul variat al Algeriei.",
+    en: "Rouiba Industrial Zone is a remarkable feature of the geography and culture of Algeria. The largest industrial zone in Algeria, home to many factories including SNVI vehicle production. East of Algiers. Produces trucks and buses. Largest industrial park. This location plays a role in the economy of Algeria, strongly shaped by oil and natural gas extraction. Like many notable places in Algeria, it combines Berber heritage with Mediterranean and Saharan influences. Thus, this place contributes to the diverse profile of Algeria."
     },
     factsAdvanced: {
-    de: [],
+    de: ["Östlich von Algier.", "Produziert Lkw und Busse.", "Größtes Gewerbegebiet.", "Zahlreiche internationale Firmen.", "Wichtiger Arbeitgeber.", "Das größte Industriegebiet Algeriens, Heimat vieler Fabriken einschließlich der SNVI-Fahrzeugproduktion.", "Liegt im Gebiet der Demokratischen Volksrepublik Algerien."],
     hu: ["Az ipari övezet területe meghaladja az 1000 hektárt.", "Itt gyártják az SNVI legendás 'L600' típusú teherautóit.", "Az övezet közvetlen összeköttetésben áll az algíri kikötővel és a repülőtérrel.", "Több mint 250 kisebb és nagyobb vállalat működik a park területén.", "A területen található az ország legnagyobb gyógyszergyártó üzemeinek egy része.", "Rouiba ipari zónája adja a fővárosi régió ipari termelésének közel 40%-át.", "A zóna saját vasúti terminállal rendelkezik az áruk mozgatásához.", "Folyamatos fejlesztések zajlanak a környezetvédelmi és hulladékkezelési rendszerek terén."],
-    ro: [],
-    en: []
+    ro: ["La est de Alger.", "Produce camioane și autobuze.", "Cel mai mare parc industrial.", "Multe companii internaționale.", "Angajator important.", "Cea mai mare zonă industrială din Algeria, găzduind multe fabrici, inclusiv producția de vehicule SNVI.", "Se află pe teritoriul Republicii Algeriene Democratice și Populare."],
+    en: ["East of Algiers.", "Produces trucks and buses.", "Largest industrial park.", "Numerous international companies.", "Important employer.", "The largest industrial zone in Algeria, home to many factories including SNVI vehicle production.", "Located within the People's Democratic Republic of Algeria."]
     }
   },
   {
@@ -625,16 +625,16 @@ export const poiExtraAlgeriaEconomicV2: POI[] = [
       en: ["Algerian-Qatari project", "Near Djendjen port", "Reduces import dependency", "Produces rebar", "Modern technology"]
     },
     descriptionAdvanced: {
-    de: "",
+    de: "Stahlkomplex Bellara ist ein bemerkenswertes Element der algerischen Geografie und Kultur. Ein modernes Stahlwerk in der Nähe von Jijel, erbaut zur Deckung der nationalen Stahlnachfrage. Algerisch-Katarisches Projekt. Nahe Hafen Djendjen. Reduziert Importabhängigkeit. Dieser Standort spielt eine Rolle in der algerischen Wirtschaft, die stark von Erdöl- und Erdgasförderung geprägt ist. Wie viele bedeutende Orte in Algerien vereint dieser Ort berberisches Erbe, mediterrane und saharische Einflüsse. Damit trägt dieser Ort zum vielseitigen Profil Algeriens bei.",
     hu: "A Jijel mellett található Bellara acélkomplexum Algéria legmodernebb nehézipari beruházása, amely az algériai állam és Katar partnerségével (AQS) jött létre. A gyár a legkorszerűbb közvetlen redukciós (DRI) technológiát alkalmazza, ami energiatakarékosabb és környezetkímélőbb a hagyományos módszereknél. Fő termékei a betonacél és a huzalok, amelyek elengedhetetlenek az ország nagyszabású lakásépítési és infrastruktúra-fejlesztési projektjeihez. Bellara stratégiai célja, hogy Algéria ne csak önellátó legyen acélból, hanem a felesleget exportálni is tudja a mediterrán és afrikai piacokra. Gazdaságtan K8 — Nemzetközi befektetések és technológiai modernizáció.",
-    ro: "",
-    en: ""
+    ro: "Complexul Siderurgic Bellara este un element remarcabil al geografiei și culturii algeriene. O oțelărie modernă lângă Jijel, construită pentru a satisface cererea națională de oțel. Proiect algeriano-qatarez. Aproape de portul Djendjen. Reduce dependența de importuri. Acest loc joacă un rol în economia Algeriei, puternic marcată de extracția de petrol și gaze naturale. Asemenea multor locuri importante din Algeria, acesta îmbină moștenirea berberă cu influențele mediteraneene și sahariene. Astfel, acest loc contribuie la profilul variat al Algeriei.",
+    en: "Bellara Steel Complex is a remarkable feature of the geography and culture of Algeria. A modern steel mill near Jijel, built to meet the national demand for steel. Algerian-Qatari project. Near Djendjen port. Reduces import dependency. This location plays a role in the economy of Algeria, strongly shaped by oil and natural gas extraction. Like many notable places in Algeria, it combines Berber heritage with Mediterranean and Saharan influences. Thus, this place contributes to the diverse profile of Algeria."
     },
     factsAdvanced: {
-    de: [],
+    de: ["Algerisch-Katarisches Projekt.", "Nahe Hafen Djendjen.", "Reduziert Importabhängigkeit.", "Produziert Betonstahl.", "Moderne Technologie.", "Ein modernes Stahlwerk in der Nähe von Jijel, erbaut zur Deckung der nationalen Stahlnachfrage.", "Liegt im Gebiet der Demokratischen Volksrepublik Algerien."],
     hu: ["A komplexum értéke meghaladja a 2 milliárd dollárt.", "Éves termelési kapacitása az első fázisban 2 millió tonna acél.", "Itt található a világ egyik legnagyobb közvetlen redukciós (DRI) kemencéje.", "Az üzem közvetlen összeköttetésben áll a szomszédos Djendjen mélyvízi kikötőjével.", "A gyár több mint 1500 közvetlen munkahelyet teremtett a régióban.", "A termelés során nagy hangsúlyt fektetnek a digitalizációra és az automatizálásra.", "A komplexum saját 1200 MW-os erőművel rendelkezik a zavartalan energiaellátáshoz.", "Bellara acéltermékei rendelkeznek a legfontosabb nemzetközi minőségi tanúsítványokkal."],
-    ro: [],
-    en: []
+    ro: ["Proiect algeriano-qatarez.", "Aproape de portul Djendjen.", "Reduce dependența de importuri.", "Produce oțel beton.", "Tehnologie modernă.", "O oțelărie modernă lângă Jijel, construită pentru a satisface cererea națională de oțel.", "Se află pe teritoriul Republicii Algeriene Democratice și Populare."],
+    en: ["Algerian-Qatari project.", "Near Djendjen port.", "Reduces import dependency.", "Produces rebar.", "Modern technology.", "A modern steel mill near Jijel, built to meet the national demand for steel.", "Located within the People's Democratic Republic of Algeria."]
     }, image: "/poi-images/bellara-steel-complex-economic-v2.webp"},
   {
     id: "ain-smara-tractor-plant-economic-v2",
@@ -660,16 +660,16 @@ export const poiExtraAlgeriaEconomicV2: POI[] = [
       en: ["Produces tractors", "Supports agriculture", "Near Constantine", "Important machinery manufacturing", "Algerian domestic production"]
     },
     descriptionAdvanced: {
-    de: "",
+    de: "Traktorenwerk Ain Smara ist ein bemerkenswertes Element der algerischen Geografie und Kultur. Ein bedeutender Industriestandort in der Nähe von Constantine, bekannt für die Herstellung von Landmaschinen. Produziert Traktoren. Stützt die Landwirtschaft. Nahe Constantine. Dieser Standort spielt eine Rolle in der algerischen Wirtschaft, die stark von Erdöl- und Erdgasförderung geprägt ist. Wie viele bedeutende Orte in Algerien vereint dieser Ort berberisches Erbe, mediterrane und saharische Einflüsse. Damit trägt dieser Ort zum vielseitigen Profil Algeriens bei.",
     hu: "Az Ain Smara traktorgyár Constantine mellett Algéria mezőgazdasági gépesítésének központja. Az ETRAG vállalat által üzemeltetett gyár híres a Massey Fergusonnal kötött vegyesvállalati megállapodásáról, amelynek keretében modern, világszínvonalú traktorokat szerelnek össze a helyi piacra. A gyár célja az ország élelmiszer-önrendelkezésének támogatása azáltal, hogy megfizethető és megbízható gépeket biztosít az algériai gazdák számára. Ain Smara ipari zónája emellett földmunkagépek és motorok gyártásával is foglalkozik, szoros együttműködésben európai partnerekkel (például a Liebherr-rel). Gazdaságtan K8 — Mezőgazdasági gépesítés és technológiatranszfer.",
-    ro: "",
-    en: ""
+    ro: "Fabrica de tractoare Ain Smara este un element remarcabil al geografiei și culturii algeriene. O facilitate industrială majoră lângă Constantine, cunoscută pentru fabricarea mașinilor agricole. Produce tractoare. Sprijină agricultura. Aproape de Constantine. Acest loc joacă un rol în economia Algeriei, puternic marcată de extracția de petrol și gaze naturale. Asemenea multor locuri importante din Algeria, acesta îmbină moștenirea berberă cu influențele mediteraneene și sahariene. Astfel, acest loc contribuie la profilul variat al Algeriei.",
+    en: "Ain Smara Tractor Plant is a remarkable feature of the geography and culture of Algeria. A major industrial site near Constantine, known for the manufacture of agricultural machinery. Produces tractors. Supports agriculture. Near Constantine. This location plays a role in the economy of Algeria, strongly shaped by oil and natural gas extraction. Like many notable places in Algeria, it combines Berber heritage with Mediterranean and Saharan influences. Thus, this place contributes to the diverse profile of Algeria."
     },
     factsAdvanced: {
-    de: [],
+    de: ["Produziert Traktoren.", "Stützt die Landwirtschaft.", "Nahe Constantine.", "Wichtiger Maschinenbau.", "Algerische Eigenproduktion.", "Ein bedeutender Industriestandort in der Nähe von Constantine, bekannt für die Herstellung von Landmaschinen.", "Liegt im Gebiet der Demokratischen Volksrepublik Algerien."],
     hu: ["A gyár évente több mint 5000 traktort képes kibocsátani.", "A Massey Ferguson modelleket (mint az MF 440) kifejezetten az algériai terepviszonyokra optimalizálták.", "A helyi beszállítói arány folyamatosan növekszik, elérve a 40%-ot.", "A gyár mellett modern oktatóközpont működik a szerelők és kezelők számára.", "Ain Smara-ban gyártják az SNVI teherautókhoz használt egyes alkatrészeket is.", "A vállalat exportálja is termékeit egyes szomszédos afrikai országokba.", "A technológiai partnerség része a precíziós mezőgazdasági eszközök bevezetése.", "A gyár jelentősen hozzájárul Constantine 'ipari főváros' státuszához."],
-    ro: [],
-    en: []
+    ro: ["Produce tractoare.", "Sprijină agricultura.", "Aproape de Constantine.", "Construcții de mașini importante.", "Producție națională algeriană.", "O facilitate industrială majoră lângă Constantine, cunoscută pentru fabricarea mașinilor agricole.", "Se află pe teritoriul Republicii Algeriene Democratice și Populare."],
+    en: ["Produces tractors.", "Supports agriculture.", "Near Constantine.", "Important machinery manufacturing.", "Algerian domestic production.", "A major industrial site near Constantine, known for the manufacture of agricultural machinery.", "Located within the People's Democratic Republic of Algeria."]
     }, image: "/poi-images/ain-smara-tractor-plant-economic-v2.webp"},
   {
     id: "enie-sidi-bel-abbes-economic-v2",
@@ -695,16 +695,16 @@ export const poiExtraAlgeriaEconomicV2: POI[] = [
       en: ["State electronic company", "Produces solar panels", "Manufactures home appliances", "Headquartered in Sidi Bel Abbes", "Innovation center"]
     },
     descriptionAdvanced: {
-    de: "",
+    de: "ENIE Sidi Bel Abbes ist ein bemerkenswertes Element der algerischen Geografie und Kultur. Das Zentrum der elektronischen Industrie in Algerien, das Fernsehgeräte und Solarmodule herstellt. Staatliches Elektronikunternehmen. Produziert Solarpaneele. Fertigt Haushaltsgeräte. Dieser Standort spielt eine Rolle in der algerischen Wirtschaft, die stark von Erdöl- und Erdgasförderung geprägt ist. Wie viele bedeutende Orte in Algerien vereint dieser Ort berberisches Erbe, mediterrane und saharische Einflüsse. Damit trägt dieser Ort zum vielseitigen Profil Algeriens bei.",
     hu: "Az ENIE (Entreprise Nationale des Industries Electroniques) Sidi Bel Abbès-ben az algériai elektronikai ipar bölcsője és központja. Az 1970-es években alapított vállalat mára modern technológiai parkká vált, amely televíziók, informatikai eszközök és napelemek gyártására szakosodott. Az ENIE kulcsszerepet játszik az ország digitális átállásában és a megújuló energiaforrások terjesztésében. Saját kutató-fejlesztő központtal rendelkezik, ahol helyi mérnökök dolgoznak az áramkörök és szoftverek fejlesztésén. A vállalat nemcsak a lakossági igényeket szolgálja ki, hanem fontos beszállítója az oktatási és állami intézményeknek is. Gazdaságtan K8 — High-tech ipar és elektronikai gyártás.",
-    ro: "",
-    en: ""
+    ro: "ENIE Sidi Bel Abbes este un element remarcabil al geografiei și culturii algeriene. Centrul industriei electronice din Algeria, producând televizoare și panouri solare. Companie electronică de stat. Produce panouri solare. Fabrică electrocasnice. Acest loc joacă un rol în economia Algeriei, puternic marcată de extracția de petrol și gaze naturale. Asemenea multor locuri importante din Algeria, acesta îmbină moștenirea berberă cu influențele mediteraneene și sahariene. Astfel, acest loc contribuie la profilul variat al Algeriei.",
+    en: "ENIE Sidi Bel Abbes is a remarkable feature of the geography and culture of Algeria. The center of the electronic industry in Algeria, producing televisions and solar panels. State electronic company. Produces solar panels. Manufactures home appliances. This location plays a role in the economy of Algeria, strongly shaped by oil and natural gas extraction. Like many notable places in Algeria, it combines Berber heritage with Mediterranean and Saharan influences. Thus, this place contributes to the diverse profile of Algeria."
     },
     factsAdvanced: {
-    de: [],
+    de: ["Staatliches Elektronikunternehmen.", "Produziert Solarpaneele.", "Fertigt Haushaltsgeräte.", "Sitz in Sidi Bel Abbes.", "Innovationszentrum.", "Das Zentrum der elektronischen Industrie in Algerien, das Fernsehgeräte und Solarmodule herstellt.", "Liegt im Gebiet der Demokratischen Volksrepublik Algerien."],
     hu: ["Az ENIE gyáraiban készülnek az ország első saját márkás okostelefonjai és táblagépei.", "A napelemgyár kapacitása évente több mint 25 MWp teljesítményű panel.", "A vállalat rendelkezik az egyik legmodernebb tiszta szobás (clean room) laboratóriummal Afrikában.", "Az ENIE termékei országos szervizhálózattal és garanciával rendelkeznek.", "Sidi Bel Abbès-ben a vállalat több mint 2000 embert foglalkoztat.", "Partnerségi megállapodásaik vannak dél-koreai és kínai technológiai óriásokkal.", "A gyár területén oktatási központ működik a diákok gyakorlati képzésére.", "Az ENIE televíziók az algériai háztartások egyik legismertebb márkája."],
-    ro: [],
-    en: []
+    ro: ["Companie electronică de stat.", "Produce panouri solare.", "Fabrică electrocasnice.", "Sediul în Sidi Bel Abbes.", "Centru de inovație.", "Centrul industriei electronice din Algeria, producând televizoare și panouri solare.", "Se află pe teritoriul Republicii Algeriene Democratice și Populare."],
+    en: ["State electronic company.", "Produces solar panels.", "Manufactures home appliances.", "Headquartered in Sidi Bel Abbes.", "Innovation center.", "The center of the electronic industry in Algeria, producing televisions and solar panels.", "Located within the People's Democratic Republic of Algeria."]
     }, image: "/poi-images/enie-sidi-bel-abbes-economic-v2.webp"},
   {
     id: "constantine-pharmaceutical-hub-economic-v2",
@@ -730,16 +730,16 @@ export const poiExtraAlgeriaEconomicV2: POI[] = [
       en: ["Focus on medicines", "Vaccine production", "Attracts investments", "High quality standards", "Important for healthcare"]
     },
     descriptionAdvanced: {
-    de: "",
+    de: "Pharmastandort Constantine ist ein bemerkenswertes Element der algerischen Geografie und Kultur. Ein schnell wachsender Sektor in Constantine mit Produktionsstätten für Arzneimittel und Impfstoffe. Fokus auf Medikamente. Impfstoffproduktion. Zieht Investitionen an. Dieser Standort spielt eine Rolle in der algerischen Wirtschaft, die stark von Erdöl- und Erdgasförderung geprägt ist. Wie viele bedeutende Orte in Algerien vereint dieser Ort berberisches Erbe, mediterrane und saharische Einflüsse. Damit trägt dieser Ort zum vielseitigen Profil Algeriens bei.",
     hu: "Constantine Algéria gyógyszergyártásának központja, ahol az állami Saidal mellett számos nemzetközi gyógyszeripari óriás hozott létre modern termelőbázist. A városban koncentrálódik az országos gyógyszertermelés jelentős része, beleértve az életmentő antibiotikumokat, inzulinokat és újabban a vakcinákat is. A kormány stratégiai célja, hogy Algéria a kontinens gyógyszeripari exportőrévé váljon, és Constantine ebben a törekvésben a motor szerepét tölti be. A biotechnológiai fejlesztések és a helyi egyetemekkel való együttműködés révén a város a tudásalapú gazdaság egyik legfontosabb bástyája az országban. Gazdaságtan K8 — Gyógyszeripar és egészségügyi önellátás.",
-    ro: "",
-    en: ""
+    ro: "Hubul Farmaceutic Constantine este un element remarcabil al geografiei și culturii algeriene. Un sector în creștere rapidă în Constantine cu facilități de producție pentru medicamente și vaccinuri. Concentrat pe medicamente. Producție de vaccinuri. Atrage investiții. Acest loc joacă un rol în economia Algeriei, puternic marcată de extracția de petrol și gaze naturale. Asemenea multor locuri importante din Algeria, acesta îmbină moștenirea berberă cu influențele mediteraneene și sahariene. Astfel, acest loc contribuie la profilul variat al Algeriei.",
+    en: "Constantine Pharmaceutical Hub is a remarkable feature of the geography and culture of Algeria. A rapidly growing sector in Constantine with production facilities for medicines and vaccines. Focus on medicines. Vaccine production. Attracts investments. This location plays a role in the economy of Algeria, strongly shaped by oil and natural gas extraction. Like many notable places in Algeria, it combines Berber heritage with Mediterranean and Saharan influences. Thus, this place contributes to the diverse profile of Algeria."
     },
     factsAdvanced: {
-    de: [],
+    de: ["Fokus auf Medikamente.", "Impfstoffproduktion.", "Zieht Investitionen an.", "Hohe Qualitätsstandards.", "Wichtig für das Gesundheitswesen.", "Ein schnell wachsender Sektor in Constantine mit Produktionsstätten für Arzneimittel und Impfstoffe.", "Liegt im Gebiet der Demokratischen Volksrepublik Algerien."],
     hu: ["Constantine-ban működik Afrika egyik legnagyobb inzulintermelő üzeme.", "A Saidal csoport itt gyártja az országos szükséglet nagy részét fedező generikus gyógyszereket.", "A városban nemzetközi cégek, mint a GSK és a Novartis is rendelkeznek gyárakkal.", "Itt zajlott az egyik első afrikai COVID-19 vakcina-összeszerelési projekt.", "A gyógyszeripari zóna közvetlen közelében található a tudományos és technológiai egyetem.", "A szektor több mint 5000 magasan képzett szakembert foglalkoztat a városban.", "A folyamatos kutatások célja a növényi alapú hatóanyagok kinyerése a helyi flórából.", "A termékek jelentős részét már a szomszédos afrikai országokba is exportálják."],
-    ro: [],
-    en: []
+    ro: ["Concentrat pe medicamente.", "Producție de vaccinuri.", "Atrage investiții.", "Standarde înalte de calitate.", "Important pentru sistemul de sănătate.", "Un sector în creștere rapidă în Constantine cu facilități de producție pentru medicamente și vaccinuri.", "Se află pe teritoriul Republicii Algeriene Democratice și Populare."],
+    en: ["Focus on medicines.", "Vaccine production.", "Attracts investments.", "High quality standards.", "Important for healthcare.", "A rapidly growing sector in Constantine with production facilities for medicines and vaccines.", "Located within the People's Democratic Republic of Algeria."]
     }, image: "/poi-images/constantine-pharmaceutical-hub-economic-v2.webp"},
   {
     id: "bethioua-petrochemical-zone-economic-v2",
@@ -765,16 +765,16 @@ export const poiExtraAlgeriaEconomicV2: POI[] = [
       en: ["Near Arzew port", "Large LNG facilities", "Produces fertilizers", "Export-oriented", "Heart of the oil industry"]
     },
     descriptionAdvanced: {
-    de: "",
+    de: "Petrochemiezone Bethioua ist ein bemerkenswertes Element der algerischen Geografie und Kultur. Ein riesiger Industriekomplex nahe Arzew, der LNG, Ammoniak und andere petrochemische Produkte verarbeitet. Nahe dem Hafen Arzew. Große LNG-Anlagen. Produziert Düngemittel. Dieser Standort spielt eine Rolle in der algerischen Wirtschaft, die stark von Erdöl- und Erdgasförderung geprägt ist. Wie viele bedeutende Orte in Algerien vereint dieser Ort berberisches Erbe, mediterrane und saharische Einflüsse. Damit trägt dieser Ort zum vielseitigen Profil Algeriens bei.",
     hu: "Az Orán mellett található Bethioua ipari övezet a világ egyik legjelentősebb petrolkémiai komplexuma, amely közvetlenül kapcsolódik az Arzew-i kikötőhöz. Itt összpontosul az algériai cseppfolyósított földgáz (LNG) gyártásának és a műtrágya-előállításnak a szíve. Az övezet hatalmas gázfeldolgozó egységeknek, metanol-üzemeknek és ammónia-gyáraknak ad otthont, amelyek a Hassi R'Mel-ből érkező gázt alakítják nagy értékű exporttermékekké. Bethioua stratégiai jelentőségű a globális energiapiacon, hiszen az innen induló LNG-tankerek látják el Európa és Amerika jelentős részét. A zóna folyamatos bővítése az algériai gázkincs magasabb szintű feldolgozását célozza. Gazdaságtan K8 — Gázfeldolgozás és globális exporttermékek.",
-    ro: "",
-    en: ""
+    ro: "Zona Petrochimică Bethioua este un element remarcabil al geografiei și culturii algeriene. Un complex industrial uriaș lângă Arzew care procesează GNL, amoniac și alte produse petrochimice. Lângă portul Arzew. Instalații mari de GNL. Produce îngrășăminte. Acest loc joacă un rol în economia Algeriei, puternic marcată de extracția de petrol și gaze naturale. Asemenea multor locuri importante din Algeria, acesta îmbină moștenirea berberă cu influențele mediteraneene și sahariene. Astfel, acest loc contribuie la profilul variat al Algeriei.",
+    en: "Bethioua Petrochemical Zone is a remarkable feature of the geography and culture of Algeria. A huge industrial complex near Arzew processing LNG, ammonia, and other petrochemical products. Near Arzew port. Large LNG facilities. Produces fertilizers. This location plays a role in the economy of Algeria, strongly shaped by oil and natural gas extraction. Like many notable places in Algeria, it combines Berber heritage with Mediterranean and Saharan influences. Thus, this place contributes to the diverse profile of Algeria."
     },
     factsAdvanced: {
-    de: [],
+    de: ["Nahe dem Hafen Arzew.", "Große LNG-Anlagen.", "Produziert Düngemittel.", "Exportorientiert.", "Herz der Ölindustrie.", "Ein riesiger Industriekomplex nahe Arzew, der LNG, Ammoniak und andere petrochemische Produkte verarbeitet.", "Liegt im Gebiet der Demokratischen Volksrepublik Algerien."],
     hu: ["Bethioua ad otthont a világ egyik első LNG-üzemének (GL1Z).", "A Fertial és a Sorfert műtrágyagyárak a zóna legfontosabb egységei közé tartoznak.", "Az övezet közvetlen gázvezeték-kapcsolattal rendelkezik a Szaharával.", "Itt található az ország legnagyobb acélcsőgyára is, amely az olajvezetékekhez szállít.", "A zóna területe több mint 2000 hektárt foglal el a tengerparton.", "Az itt működő finomítók üzemanyaggal látják el Nyugat-Algériát.", "A biztonsági előírások az egyik legszigorúbbak az ország ipari létesítményei közül.", "A projektben jelentős külföldi tőke (például OCI, Total) is jelen van."],
-    ro: [],
-    en: []
+    ro: ["Lângă portul Arzew.", "Instalații mari de GNL.", "Produce îngrășăminte.", "Orientat spre export.", "Inima industriei petroliere.", "Un complex industrial uriaș lângă Arzew care procesează GNL, amoniac și alte produse petrochimice.", "Se află pe teritoriul Republicii Algeriene Democratice și Populare."],
+    en: ["Near Arzew port.", "Large LNG facilities.", "Produces fertilizers.", "Export-oriented.", "Heart of the oil industry.", "A huge industrial complex near Arzew processing LNG, ammonia, and other petrochemical products.", "Located within the People's Democratic Republic of Algeria."]
     }
   },
   {
@@ -801,16 +801,16 @@ export const poiExtraAlgeriaEconomicV2: POI[] = [
       en: ["In Tindouf province", "Billions of tons of ore", "Strategic mega-project", "Requires new railways", "Future of the steel industry"]
     },
     descriptionAdvanced: {
-    de: "",
+    de: "Eisenmine Gara Djebilet ist ein bemerkenswertes Element der algerischen Geografie und Kultur. Eine der größten Eisenerzlagerstätten der Welt im Südwesten Algeriens, die vor Kurzem erschlossen wurde. In der Provinz Tindouf. Milliarden Tonnen Erz. Strategisches Mega-Projekt. Dieser Standort spielt eine Rolle in der algerischen Wirtschaft, die stark von Erdöl- und Erdgasförderung geprägt ist. Wie viele bedeutende Orte in Algerien vereint dieser Ort berberisches Erbe, mediterrane und saharische Einflüsse. Damit trägt dieser Ort zum vielseitigen Profil Algeriens bei.",
     hu: "Gara Djebilet Algéria délnyugati részén, Tindouf tartományban található, és a világ egyik legnagyobb, eddig kiaknázatlan vasérckészletével büszkélkedhet. A közelmúltban indított megaprojekt célja, hogy ez a távoli sivatagi lelőhely váljon az algériai acélipar fő nyersanyagforrásává, kiváltva az északi bányák kimerülő készleteit. A projekt részeként egy közel 1000 kilométer hosszú vasútvonalat építenek, amely összeköti a bányát az északi ipari övezetekkel. Gara Djebilet fejlesztése nemcsak gazdasági, hanem geopolitikai jelentőségű is, hiszen teljesen új életet lehel a nyugat-szaharai régióba és több ezer munkahelyet teremt. Gazdaságtan K8 — Új bányászati horizontok és infrastruktúra-fejlesztés.",
-    ro: "",
-    en: ""
+    ro: "Mina de fier Gara Djebilet este un element remarcabil al geografiei și culturii algeriene. Unul dintre cele mai mari zăcăminte de minereu de fier din lume, situat în sud-vestul Algeriei și dezvoltat recent. În provincia Tindouf. Miliarde de tone de minereu. Mega-proiect strategic. Acest loc joacă un rol în economia Algeriei, puternic marcată de extracția de petrol și gaze naturale. Asemenea multor locuri importante din Algeria, acesta îmbină moștenirea berberă cu influențele mediteraneene și sahariene. Astfel, acest loc contribuie la profilul variat al Algeriei.",
+    en: "Gara Djebilet Iron Mine is a remarkable feature of the geography and culture of Algeria. One of the largest iron ore deposits in the world, located in southwestern Algeria and recently developed. In Tindouf province. Billions of tons of ore. Strategic mega-project. This location plays a role in the economy of Algeria, strongly shaped by oil and natural gas extraction. Like many notable places in Algeria, it combines Berber heritage with Mediterranean and Saharan influences. Thus, this place contributes to the diverse profile of Algeria."
     },
     factsAdvanced: {
-    de: [],
+    de: ["In der Provinz Tindouf.", "Milliarden Tonnen Erz.", "Strategisches Mega-Projekt.", "Erfordert neue Eisenbahnen.", "Zukunft der Stahlindustrie.", "Eine der größten Eisenerzlagerstätten der Welt im Südwesten Algeriens, die vor Kurzem erschlossen wurde.", "Liegt im Gebiet der Demokratischen Volksrepublik Algerien."],
     hu: ["A vasérckészletet 3,5 milliárd tonnára becsülik, amivel a világ élvonalába tartozik.", "A bánya kitermeléséhez kínai konzorciummal kötöttek stratégiai megállapodást.", "A vasérc foszfortartalmának csökkentésére speciális metallurgiai eljárást alkalmaznak.", "A projekt várhatóan évi 40-50 millió tonna érc kitermelését teszi lehetővé hosszú távon.", "A bányához vezető vasútvonal az ország egyik legnagyobb mérnöki vállalkozása.", "A bánya üzemeltetése teljesen új várost hoz létre a sivatag mélyén.", "Az acélipar függetlenedése az importtól több milliárd dolláros megtakarítást jelent.", "A projekt 2022-ben lépett a konkrét kitermelési fázisba."],
-    ro: [],
-    en: []
+    ro: ["În provincia Tindouf.", "Miliarde de tone de minereu.", "Mega-proiect strategic.", "Necesită noi căi ferate.", "Viitorul industriei siderurgice.", "Unul dintre cele mai mari zăcăminte de minereu de fier din lume, situat în sud-vestul Algeriei și dezvoltat recent.", "Se află pe teritoriul Republicii Algeriene Democratice și Populare."],
+    en: ["In Tindouf province.", "Billions of tons of ore.", "Strategic mega-project.", "Requires new railways.", "Future of the steel industry.", "One of the largest iron ore deposits in the world, located in southwestern Algeria and recently developed.", "Located within the People's Democratic Republic of Algeria."]
     }, image: "/poi-images/gara-djebilet-iron-mine-economic-v2.webp"},
   {
     id: "el-borma-oil-field-economic-v2",
@@ -836,16 +836,16 @@ export const poiExtraAlgeriaEconomicV2: POI[] = [
       en: ["Shared with Tunisia", "In the Sahara Desert", "Long-standing extraction", "Important income source", "Near Hassi Messaoud"]
     },
     descriptionAdvanced: {
-    de: "",
+    de: "Ölfeld El Borma ist ein bemerkenswertes Element der algerischen Geografie und Kultur. Ein wichtiges Ölfeld an der Grenze zu Tunesien, das zur Ölproduktion des Landes beiträgt. Geteilt mit Tunesien. In der Sahara-Wüste. Langjährige Förderung. Dieser Standort spielt eine Rolle in der algerischen Wirtschaft, die stark von Erdöl- und Erdgasförderung geprägt ist. Wie viele bedeutende Orte in Algerien vereint dieser Ort berberisches Erbe, mediterrane und saharische Einflüsse. Damit trägt dieser Ort zum vielseitigen Profil Algeriens bei.",
     hu: "Az El Borma olajmező a Szahara keleti részén, közvetlenül a tunéziai határon található, és az egyik legrégebbi, ma is üzemelő szénhidrogén-lelőhely az országban. A mező érdekessége, hogy a két ország (Algéria és Tunézia) osztozik rajta, ami egyedülálló határon átnyúló energetikai együttműködést igényel. Bár a mező már túljutott a termelési csúcsán, a Sonatrach modern rétegnyomás-fenntartó eljárásokkal (víz- és gázvisszasajtolás) továbbra is jelentős mennyiségű könnyűolajat nyer ki belőle. El Borma fontos szerepet játszott az algériai olajipar hajnalán, és ma is stabil bevételi forrást jelent a nemzetgazdaság számára. Földrajz K7 — Határon átnyúló erőforrások és fenntartható kitermelés.",
-    ro: "",
-    en: ""
+    ro: "Câmpul petrolier El Borma este un element remarcabil al geografiei și culturii algeriene. Un câmp petrolier important la granița cu Tunisia, contribuind la producția de petrol a țării. Împărțit cu Tunisia. În deșertul Sahara. Extracție de lungă durată. Acest loc joacă un rol în economia Algeriei, puternic marcată de extracția de petrol și gaze naturale. Asemenea multor locuri importante din Algeria, acesta îmbină moștenirea berberă cu influențele mediteraneene și sahariene. Astfel, acest loc contribuie la profilul variat al Algeriei.",
+    en: "El Borma Oil Field is a remarkable feature of the geography and culture of Algeria. An important oil field on the border with Tunisia, contributing to the country's oil production. Shared with Tunisia. In the Sahara Desert. Long-standing extraction. This location plays a role in the economy of Algeria, strongly shaped by oil and natural gas extraction. Like many notable places in Algeria, it combines Berber heritage with Mediterranean and Saharan influences. Thus, this place contributes to the diverse profile of Algeria."
     },
     factsAdvanced: {
-    de: [],
+    de: ["Geteilt mit Tunesien.", "In der Sahara-Wüste.", "Langjährige Förderung.", "Wichtige Einnahmequelle.", "Nahe Hassi Messaoud.", "Ein wichtiges Ölfeld an der Grenze zu Tunesien, das zur Ölproduktion des Landes beiträgt.", "Liegt im Gebiet der Demokratischen Volksrepublik Algerien."],
     hu: ["A mezőt az 1950-es évek végén fedezték fel, és 1960-ban indult a termelés.", "Az itt található kőolaj rendkívül könnyű, magas piaci értékű típus.", "A mező infrastruktúrája szoros kapcsolatban áll a Hassi Messaoud-i hálózattal.", "El Borma térségében kiterjedt csővezeték-rendszer épült ki az elmúlt évtizedekben.", "A sivatagi körülmények miatt az állomást saját ivóvízellátó rendszerrel szerelték fel.", "A kitermelés csökkenését új, kisebb szatellitmezők bekötésével ellensúlyozzák.", "A területen szigorú környezetvédelmi ellenőrzés zajlik a talajvíz védelme érdekében.", "A mező munkásai 4 hetes váltott műszakokban dolgoznak az elszigetelt helyszínen."],
-    ro: [],
-    en: []
+    ro: ["Împărțit cu Tunisia.", "În deșertul Sahara.", "Extracție de lungă durată.", "Sursă importantă de venit.", "Aproape de Hassi Messaoud.", "Un câmp petrolier important la granița cu Tunisia, contribuind la producția de petrol a țării.", "Se află pe teritoriul Republicii Algeriene Democratice și Populare."],
+    en: ["Shared with Tunisia.", "In the Sahara Desert.", "Long-standing extraction.", "Important income source.", "Near Hassi Messaoud.", "An important oil field on the border with Tunisia, contributing to the country's oil production.", "Located within the People's Democratic Republic of Algeria."]
     }, image: "/poi-images/el-borma-oil-field-economic-v2.webp"},
   {
     id: "rhourde-nouss-gas-field-economic-v2",
@@ -871,16 +871,16 @@ export const poiExtraAlgeriaEconomicV2: POI[] = [
       en: ["South of Hassi Messaoud", "Massive gas reserves", "Modernized facilities", "Part of the Sonatrach network", "Also extracts condensate"]
     },
     descriptionAdvanced: {
-    de: "",
+    de: "Gasfeld Rhourde Nouss ist ein bemerkenswertes Element der algerischen Geografie und Kultur. Einer der größten Erdgas- und Kondensatkomplexe in Algerien, der den inländischen und internationalen Bedarf deckt. Südlich von Hassi Messaoud. Massive Gasreserven. Modernisierte Anlagen. Dieser Standort spielt eine Rolle in der algerischen Wirtschaft, die stark von Erdöl- und Erdgasförderung geprägt ist. Wie viele bedeutende Orte in Algerien vereint dieser Ort berberisches Erbe, mediterrane und saharische Einflüsse. Damit trägt dieser Ort zum vielseitigen Profil Algeriens bei.",
     hu: "A Rhourde Nouss gázmező-komplexum a Szahara szívében, Hassi Messaoud-tól délre található, és Algéria egyik legfontosabb földgáz- és kondenzátum-feldolgozó központja. A terület több egymáshoz kapcsolódó gázmezőt foglal magában, amelyek nyersanyagát egy központi üzemben tisztítják és készítik elő a távvezetékekbe való betáplálásra. Az üzem technológiája lehetővé teszi a földgázban lévő folyékony összetevők (LPG és kondenzátum) hatékony leválasztását, ami jelentős plusz bevételt jelent. Rhourde Nouss a Sonatrach gázhálózatának egyik kritikus csomópontja, amely biztosítja az exportfolyamatok folyamatosságát Európa felé. Gazdaságtan K8 — Gázfeldolgozás és a szénhidrogének értéklánca.",
-    ro: "",
-    en: ""
+    ro: "Câmpul de gaze Rhourde Nouss este un element remarcabil al geografiei și culturii algeriene. Unul dintre cele mai mari complexe de gaze naturale și condensat din Algeria, acoperind cererea internă și internațională. La sud de Hassi Messaoud. Rezerve masive de gaze. Instalații modernizate. Acest loc joacă un rol în economia Algeriei, puternic marcată de extracția de petrol și gaze naturale. Asemenea multor locuri importante din Algeria, acesta îmbină moștenirea berberă cu influențele mediteraneene și sahariene. Astfel, acest loc contribuie la profilul variat al Algeriei.",
+    en: "Rhourde Nouss Gas Field is a remarkable feature of the geography and culture of Algeria. One of the largest natural gas and condensate complexes in Algeria, supplying domestic and international needs. South of Hassi Messaoud. Massive gas reserves. Modernized facilities. This location plays a role in the economy of Algeria, strongly shaped by oil and natural gas extraction. Like many notable places in Algeria, it combines Berber heritage with Mediterranean and Saharan influences. Thus, this place contributes to the diverse profile of Algeria."
     },
     factsAdvanced: {
-    de: [],
+    de: ["Südlich von Hassi Messaoud.", "Massive Gasreserven.", "Modernisierte Anlagen.", "Teil des Sonatrach-Netzes.", "Fördert auch Kondensat.", "Einer der größten Erdgas- und Kondensatkomplexe in Algerien, der den inländischen und internationalen Bedarf deckt.", "Liegt im Gebiet der Demokratischen Volksrepublik Algerien."],
     hu: ["A komplexum napi feldolgozási kapacitása meghaladja a 40 millió köbmétert.", "Itt található Algéria egyik legmodernebb gázvisszasajtoló állomása.", "A mező több mint 250 aktív fúrólyukkal rendelkezik a térségben.", "Az üzem 2012-ben jelentős bővítésen esett át (Rhourde Nouss Central).", "A kondenzátum-termelés eléri a napi több ezer köbmétert.", "A gázt főként a Trans-Mediterranean (Enrico Mattei) vezetéken keresztül exportálják.", "A létesítmény saját távközlési hálózattal és biztonsági központtal bír.", "A terület geológiai szerkezete rendkívül komplex, mélyen fekvő tárolókkal."],
-    ro: [],
-    en: []
+    ro: ["La sud de Hassi Messaoud.", "Rezerve masive de gaze.", "Instalații modernizate.", "Parte a rețelei Sonatrach.", "Extrage și condensat.", "Unul dintre cele mai mari complexe de gaze naturale și condensat din Algeria, acoperind cererea internă și internațională.", "Se află pe teritoriul Republicii Algeriene Democratice și Populare."],
+    en: ["South of Hassi Messaoud.", "Massive gas reserves.", "Modernized facilities.", "Part of the Sonatrach network.", "Also extracts condensate.", "One of the largest natural gas and condensate complexes in Algeria, supplying domestic and international needs.", "Located within the People's Democratic Republic of Algeria."]
     }, image: "/poi-images/rhourde-nouss-gas-field-economic-v2.webp"},
   {
     id: "timimoun-gas-field-economic-v2",
@@ -906,16 +906,16 @@ export const poiExtraAlgeriaEconomicV2: POI[] = [
       en: ["Located in the southwest", "Cooperation with Total", "Develops tight gas", "New pipeline connection", "Strengthens exports"]
     },
     descriptionAdvanced: {
-    de: "",
+    de: "Gasprojekt Timimoun ist ein bemerkenswertes Element der algerischen Geografie und Kultur. Ein neueres Gasfeld im Südwesten Algeriens, das zur Erhöhung der nationalen Produktionskapazität entwickelt wurde. Im Südwesten gelegen. Kooperation mit Total. Erschließt Tight Gas. Dieser Standort spielt eine Rolle in der algerischen Wirtschaft, die stark von Erdöl- und Erdgasförderung geprägt ist. Wie viele bedeutende Orte in Algerien vereint dieser Ort berberisches Erbe, mediterrane und saharische Einflüsse. Damit trägt dieser Ort zum vielseitigen Profil Algeriens bei.",
     hu: "A Timimoun gázprojekt Algéria délnyugati régiójának egyik legújabb energetikai fejlesztése, amely a Sonatrach, a TotalEnergies és a Cepsa partnerségében jött létre. Ez a mező az úgynevezett 'szoros gáz' (tight gas) kitermelésére fókuszál, amelyhez speciális, vízszintes fúrási és rétegrepesztési technológiákra van szükség. A projekt célja a Szahara délnyugati részein rejlő hatalmas, korábban nehezen hozzáférhető gázkészletek kiaknázása. Az itt kitermelt gázt egy 800 kilométeres vezetéken (GR5) keresztül szállítják a Hassi R'Mel-i központba, bekötve a régiót a nemzeti exportvérkeringésbe. Földrajz K7 — Új technológiák az energiakitermelésben és sivatagi tájformálás.",
-    ro: "",
-    en: ""
+    ro: "Proiectul de gaze Timimoun este un element remarcabil al geografiei și culturii algeriene. Un zăcământ de gaze mai nou în sud-vestul Algeriei, dezvoltat pentru a crește capacitatea națională de producție. Situat în sud-vest. Cooperare cu Total. Dezvoltă gaze de șist. Acest loc joacă un rol în economia Algeriei, puternic marcată de extracția de petrol și gaze naturale. Asemenea multor locuri importante din Algeria, acesta îmbină moștenirea berberă cu influențele mediteraneene și sahariene. Astfel, acest loc contribuie la profilul variat al Algeriei.",
+    en: "Timimoun Gas Field is a remarkable feature of the geography and culture of Algeria. A newer gas field in southwestern Algeria, developed to increase national production capacity. Located in the southwest. Cooperation with Total. Develops tight gas. This location plays a role in the economy of Algeria, strongly shaped by oil and natural gas extraction. Like many notable places in Algeria, it combines Berber heritage with Mediterranean and Saharan influences. Thus, this place contributes to the diverse profile of Algeria."
     },
     factsAdvanced: {
-    de: [],
+    de: ["Im Südwesten gelegen.", "Kooperation mit Total.", "Erschließt Tight Gas.", "Neue Pipeline-Anbindung.", "Stärkt den Export.", "Ein neueres Gasfeld im Südwesten Algeriens, das zur Erhöhung der nationalen Produktionskapazität entwickelt wurde.", "Liegt im Gebiet der Demokratischen Volksrepublik Algerien."],
     hu: ["A mező 2018 tavaszán kezdte meg a kereskedelmi termelést.", "A központi feldolgozó üzem (CPF) napi 5 millió köbméter gáz kezelésére alkalmas.", "A projekt 37 fúrólyukat és egy több száz kilométeres gyűjtőhálózatot foglal magában.", "A GR5 vezeték lehetővé teszi a délnyugati gáz eljutását a tengerparti LNG-üzemekbe.", "A fejlesztés során nagy figyelmet fordítottak a helyi munkaerő képzésére.", "A mező geológiai adottságai miatt a kitermelés fenntartása folyamatos technikai innovációt igényel.", "A beruházás értéke meghaladja az 1,5 milliárd dollárt.", "Timimoun városa jelentős infrastrukturális fejlődésen ment keresztül a projekt hatására."],
-    ro: [],
-    en: []
+    ro: ["Situat în sud-vest.", "Cooperare cu Total.", "Dezvoltă gaze de șist.", "Nouă conexiune prin conductă.", "Consolidează exporturile.", "Un zăcământ de gaze mai nou în sud-vestul Algeriei, dezvoltat pentru a crește capacitatea națională de producție.", "Se află pe teritoriul Republicii Algeriene Democratice și Populare."],
+    en: ["Located in the southwest.", "Cooperation with Total.", "Develops tight gas.", "New pipeline connection.", "Strengthens exports.", "A newer gas field in southwestern Algeria, developed to increase national production capacity.", "Located within the People's Democratic Republic of Algeria."]
     }
   },
   {
@@ -942,16 +942,16 @@ export const poiExtraAlgeriaEconomicV2: POI[] = [
       en: ["Near Adrar", "Multiple wells", "Central processing facility", "Partnership with Neptune Energy", "Important gas resource"]
     },
     descriptionAdvanced: {
-    de: "",
+    de: "Gasfeld Touat ist ein bemerkenswertes Element der algerischen Geografie und Kultur. Ein bedeutendes Gasentwicklungsprojekt in der Provinz Adrar, das die Gasversorgung des Landes sicherstellt. Nahe Adrar. Mehrere Bohrlöcher. Zentrale Aufbereitungsanlage. Dieser Standort spielt eine Rolle in der algerischen Wirtschaft, die stark von Erdöl- und Erdgasförderung geprägt ist. Wie viele bedeutende Orte in Algerien vereint dieser Ort berberisches Erbe, mediterrane und saharische Einflüsse. Damit trägt dieser Ort zum vielseitigen Profil Algeriens bei.",
     hu: "A Touat gázmező Adrar tartományban található, és Algéria egyik legfontosabb stratégiai beruházása a délnyugati gázkészletek hasznosítására. A projekt a Sonatrach és a Neptune Energy együttműködésében valósult meg, és célja az Adrar-medence gázkincsének kiaknázása. Az üzem nemcsak az exportot szolgálja, hanem kulcsszerepet játszik a környékbeli erőművek és lakossági fogyasztók ellátásában is, stabilizálva a szaharai régió energiarendszerét. A Touat mező technológiája a legmagasabb környezetvédelmi sztenderdeket követi, minimalizálva a fáklyázást és a károsanyag-kibocsátást a sivatagi környezetben. Gazdaságtan K8 — Regionális energiabiztonság és belföldi gázfelhasználás.",
-    ro: "",
-    en: ""
+    ro: "Câmpul de gaze Touat este un element remarcabil al geografiei și culturii algeriene. Un proiect major de dezvoltare a gazelor în provincia Adrar, care asigură aprovizionarea cu gaze a țării. Aproape de Adrar. Mai multe puțuri. Instalație centrală de procesare. Acest loc joacă un rol în economia Algeriei, puternic marcată de extracția de petrol și gaze naturale. Asemenea multor locuri importante din Algeria, acesta îmbină moștenirea berberă cu influențele mediteraneene și sahariene. Astfel, acest loc contribuie la profilul variat al Algeriei.",
+    en: "Touat Gas Field is a remarkable feature of the geography and culture of Algeria. A major gas development project in Adrar province, ensuring the country's gas supply. Near Adrar. Multiple wells. Central processing facility. This location plays a role in the economy of Algeria, strongly shaped by oil and natural gas extraction. Like many notable places in Algeria, it combines Berber heritage with Mediterranean and Saharan influences. Thus, this place contributes to the diverse profile of Algeria."
     },
     factsAdvanced: {
-    de: [],
+    de: ["Nahe Adrar.", "Mehrere Bohrlöcher.", "Zentrale Aufbereitungsanlage.", "Partnerschaft mit Neptune Energy.", "Wichtige Gasressource.", "Ein bedeutendes Gasentwicklungsprojekt in der Provinz Adrar, das die Gasversorgung des Landes sicherstellt.", "Liegt im Gebiet der Demokratischen Volksrepublik Algerien."],
     hu: ["A mező teljes kapacitása évi 4,5 milliárd köbméter földgáz.", "A központi feldolgozó egység (CPF) Adrar várostól északra fekszik.", "A projektben több mint 25 fúrólyuk és egy komplex tisztítóüzem üzemel.", "A gázt az GR5 gyűjtővezetéken keresztül továbbítják észak felé.", "A Touat mező gáza biztosítja az üzemanyagot az Adrar-i villamosenergia-termeléshez.", "Az építkezés során több ezer helyi munkavállalót vontak be a kivitelezésbe.", "A mező kondenzátum-tartaléka is jelentős, amit helyben különítenek el.", "A Touat-medence gázkincse évtizedekre garantálja Algéria energia-függetlenségét."],
-    ro: [],
-    en: []
+    ro: ["Aproape de Adrar.", "Mai multe puțuri.", "Instalație centrală de procesare.", "Parteneriat cu Neptune Energy.", "Resursă importantă de gaz.", "Un proiect major de dezvoltare a gazelor în provincia Adrar, care asigură aprovizionarea cu gaze a țării.", "Se află pe teritoriul Republicii Algeriene Democratice și Populare."],
+    en: ["Near Adrar.", "Multiple wells.", "Central processing facility.", "Partnership with Neptune Energy.", "Important gas resource.", "A major gas development project in Adrar province, ensuring the country's gas supply.", "Located within the People's Democratic Republic of Algeria."]
     }, image: "/poi-images/touat-gas-field-economic-v2.webp"},
   {
     id: "adrar-oil-refinery-economic-v2",
@@ -977,16 +977,16 @@ export const poiExtraAlgeriaEconomicV2: POI[] = [
       en: ["Supplies the south", "Lower capacity than in the north", "Important for local logistics", "Chinese involvement", "Produces petrol and diesel"]
     },
     descriptionAdvanced: {
-    de: "",
+    de: "Raffinerie Adrar ist ein bemerkenswertes Element der algerischen Geografie und Kultur. Eine Raffinerie im Süden Algeriens, die den lokalen Markt in den Sahararegionen mit Kraftstoff versorgt. Versorgt den Süden. Geringere Kapazität als im Norden. Wichtig für die lokale Logistik. Dieser Standort spielt eine Rolle in der algerischen Wirtschaft, die stark von Erdöl- und Erdgasförderung geprägt ist. Wie viele bedeutende Orte in Algerien vereint dieser Ort berberisches Erbe, mediterrane und saharische Einflüsse. Damit trägt dieser Ort zum vielseitigen Profil Algeriens bei.",
     hu: "Az Adrar-i olajfinomító Algéria legdélebbi finomítója, amely stratégiai szerepet tölt be a Szahara középső és déli régióinak üzemanyag-ellátásában. Bár kapacitása elmarad az északi nagy finomítókétól, léte elengedhetetlen a szállítási költségek csökkentéséhez és a helyi gazdaság stabilitásához. A finomító a közeli Adrar-medence kis olajmezőiről kapja a nyersanyagot, és benzint, dízelt, valamint fűtőolajat állít elő a helyi lakosság és az ipari felhasználók számára. A létesítmény kínai-algériai együttműködésben épült, és a modern sivatagi iparosítás egyik legfontosabb eredménye. Földrajz K7 — Regionális ellátási láncok és a szállítási távolságok szerepe.",
-    ro: "",
-    en: ""
+    ro: "Rafinăria Adrar este un element remarcabil al geografiei și culturii algeriene. O rafinărie în sudul Algeriei care furnizează combustibil pieței locale din regiunile sahariene. Aprovizionează sudul. Capacitate mai mică decât în nord. Important pentru logistica locală. Acest loc joacă un rol în economia Algeriei, puternic marcată de extracția de petrol și gaze naturale. Asemenea multor locuri importante din Algeria, acesta îmbină moștenirea berberă cu influențele mediteraneene și sahariene. Astfel, acest loc contribuie la profilul variat al Algeriei.",
+    en: "Adrar Oil Refinery is a remarkable feature of the geography and culture of Algeria. A refinery in southern Algeria supplying fuel to the local market in the Saharan regions. Supplies the south. Lower capacity than in the north. Important for local logistics. This location plays a role in the economy of Algeria, strongly shaped by oil and natural gas extraction. Like many notable places in Algeria, it combines Berber heritage with Mediterranean and Saharan influences. Thus, this place contributes to the diverse profile of Algeria."
     },
     factsAdvanced: {
-    de: [],
+    de: ["Versorgt den Süden.", "Geringere Kapazität als im Norden.", "Wichtig für die lokale Logistik.", "Chinesische Beteiligung.", "Produziert Benzin und Diesel.", "Eine Raffinerie im Süden Algeriens, die den lokalen Markt in den Sahararegionen mit Kraftstoff versorgt.", "Liegt im Gebiet der Demokratischen Volksrepublik Algerien."],
     hu: ["A finomítót 2007-ben adták át, a kínai CNPC közreműködésével.", "Éves feldolgozási kapacitása körülbelül 600 000 tonna nyersolaj.", "Ez a finomító látja el üzemanyaggal a szomszédos Mali és Niger felé tartó kamionokat is.", "A létesítmény közvetlen közelében tárolóparkot alakítottak ki a stratégiai készleteknek.", "Az Adrar-i finomító csökkenti a déli régió függőségét az északról érkező szállítmányoktól.", "Az üzem technológiáját speciálisan a helyi, alacsony kéntartalmú olajhoz igazították.", "A finomító több mint 300 állandó munkahelyet biztosít Adrar tartományban.", "A projekt része volt egy aszfaltgyártó egység is az útépítések támogatására."],
-    ro: [],
-    en: []
+    ro: ["Aprovizionează sudul.", "Capacitate mai mică decât în nord.", "Important pentru logistica locală.", "Implicare chineză.", "Produce benzină și motorină.", "O rafinărie în sudul Algeriei care furnizează combustibil pieței locale din regiunile sahariene.", "Se află pe teritoriul Republicii Algeriene Democratice și Populare."],
+    en: ["Supplies the south.", "Lower capacity than in the north.", "Important for local logistics.", "Chinese involvement.", "Produces petrol and diesel.", "A refinery in southern Algeria supplying fuel to the local market in the Saharan regions.", "Located within the People's Democratic Republic of Algeria."]
     }
   },
   {
@@ -1013,16 +1013,16 @@ export const poiExtraAlgeriaEconomicV2: POI[] = [
       en: ["Built in the 1960s", "Modernized several times", "Supplies the capital region", "Produces various fuels", "Near the port"]
     },
     descriptionAdvanced: {
-    de: "",
+    de: "Raffinerie Algier ist ein bemerkenswertes Element der algerischen Geografie und Kultur. Eine der ältesten und wichtigsten Raffinerien des Landes, die die Hauptstadt und die Zentralregion versorgt. Erbaut in den 1960ern. Mehrfach modernisiert. Versorgt die Hauptstadtregion. Dieser Standort spielt eine Rolle in der algerischen Wirtschaft, die stark von Erdöl- und Erdgasförderung geprägt ist. Wie viele bedeutende Orte in Algerien vereint dieser Ort berberisches Erbe, mediterrane und saharische Einflüsse. Damit trägt dieser Ort zum vielseitigen Profil Algeriens bei.",
     hu: "Az Algíri finomító, ismertebb nevén a Sidi Rzine-i finomító, a fővárosi régió és Közép-Algéria energiabiztonságának oszlopa. Az 1960-as években épült létesítmény nemrégiben teljes modernizáción esett át, hogy megfeleljen a legújabb környezetvédelmi előírásoknak és a növekvő üzemanyag-igénynek. A finomító közvetlenül kapcsolódik az algíri kikötőhöz, így a feldolgozott termékek egy részét hajón, a többit pedig vezetéken és teherautón juttatják el a fogyasztókhoz. Fő termékei közé tartozik a kiváló minőségű ólommentes benzin és a gázolaj. A finomító központi elhelyezkedése miatt stratégiai célpont, amelynek zavartalan működése kulcsfontosságú a közlekedés és az ipar számára. Gazdaságtan K8 — Üzemanyag-finomítás és a nagyvárosi ellátás.",
-    ro: "",
-    en: ""
+    ro: "Rafinăria din Alger este un element remarcabil al geografiei și culturii algeriene. Una dintre cele mai vechi și importante rafinării din țară, aprovizionând capitala și regiunea centrală. Construită în anii 1960. Modernizată de mai multe ori. Aprovizionează regiunea capitalei. Acest loc joacă un rol în economia Algeriei, puternic marcată de extracția de petrol și gaze naturale. Asemenea multor locuri importante din Algeria, acesta îmbină moștenirea berberă cu influențele mediteraneene și sahariene. Astfel, acest loc contribuie la profilul variat al Algeriei.",
+    en: "Algiers Refinery is a remarkable feature of the geography and culture of Algeria. One of the oldest and most important refineries in the country, supplying the capital and the central region. Built in the 1960s. Modernized several times. Supplies the capital region. This location plays a role in the economy of Algeria, strongly shaped by oil and natural gas extraction. Like many notable places in Algeria, it combines Berber heritage with Mediterranean and Saharan influences. Thus, this place contributes to the diverse profile of Algeria."
     },
     factsAdvanced: {
-    de: [],
+    de: ["Erbaut in den 1960ern.", "Mehrfach modernisiert.", "Versorgt die Hauptstadtregion.", "Produziert diverse Kraftstoffe.", "Nahe dem Hafen.", "Eine der ältesten und wichtigsten Raffinerien des Landes, die die Hauptstadt und die Zentralregion versorgt.", "Liegt im Gebiet der Demokratischen Volksrepublik Algerien."],
     hu: ["A finomító éves kapacitása a modernizáció után elérte a 3,6 millió tonnát.", "A modernizációs projekt keretében új katalitikus krakkoló egységet építettek be.", "A finomító biztosítja Algír és környéke üzemanyagszükségletének nagy részét.", "Itt gyártják az országos légi közlekedéshez használt kerozin egy jelentős részét.", "A létesítmény szigorú biztonsági zónában található a lakott területek közelében.", "A finomító közvetlen vezetékkel kapcsolódik a Béjaïa-i olajkikötőhöz.", "Az üzemben folyamatosan figyelik a levegőminőséget a környező kerületek védelmében.", "Sidi Rzine az egyik legfontosabb adófizető egység Algír tartományban."],
-    ro: [],
-    en: []
+    ro: ["Construită în anii 1960.", "Modernizată de mai multe ori.", "Aprovizionează regiunea capitalei.", "Produce diverși combustibili.", "Aproape de port.", "Una dintre cele mai vechi și importante rafinării din țară, aprovizionând capitala și regiunea centrală.", "Se află pe teritoriul Republicii Algeriene Democratice și Populare."],
+    en: ["Built in the 1960s.", "Modernized several times.", "Supplies the capital region.", "Produces various fuels.", "Near the port.", "One of the oldest and most important refineries in the country, supplying the capital and the central region.", "Located within the People's Democratic Republic of Algeria."]
     }
   },
   {
@@ -1049,16 +1049,16 @@ export const poiExtraAlgeriaEconomicV2: POI[] = [
       en: ["Small commercial area", "Important fishing port", "Between Algiers and Oran", "Historic coastal town", "Supports Chlef"]
     },
     descriptionAdvanced: {
-    de: "",
+    de: "Hafen von Tenès ist ein bemerkenswertes Element der algerischen Geografie und Kultur. Ein regionaler Hafen in der Provinz Chlef, der dem lokalen Handel und dem Fischfang dient. Kleiner Handelsraum. Wichtiger Fischereihafen. Zwischen Algier und Oran. Dieser Standort spielt eine Rolle in der algerischen Wirtschaft, die stark von Erdöl- und Erdgasförderung geprägt ist. Wie viele bedeutende Orte in Algerien vereint dieser Ort berberisches Erbe, mediterrane und saharische Einflüsse. Damit trägt dieser Ort zum vielseitigen Profil Algeriens bei.",
     hu: "Ténès kikötője egy fontos regionális kereskedelmi és halászati bázis Chlef tartományban, Algír és Orán között félúton. A kikötő elsődleges feladata a környező mezőgazdasági és ipari területek kiszolgálása, különösen az építőanyagok és élelmiszerek szállítása terén. Ténès halászkikötője híres a gazdag tengeri élővilágáról, különösen a fehér húsú halakról, amelyek a helyi piacok mellett az algíri éttermekbe is eljutnak. A kikötő infrastruktúrája egy kisebb kereskedelmi terminált is magában foglal, amely tehermentesíti a nagyobb központi kikötőket. A város történelmi múltja és a kikötő gazdasági szerepe szorosan összefonódik. Földrajz K7 — Regionális partmenti központok és a kishalászat jelentősége.",
-    ro: "",
-    en: ""
+    ro: "Portul Tenes este un element remarcabil al geografiei și culturii algeriene. Un port regional în provincia Chlef, care deservește comerțul local și pescuitul. Zonă comercială mică. Port pescăresc important. Între Alger și Oran. Acest loc joacă un rol în economia Algeriei, puternic marcată de extracția de petrol și gaze naturale. Asemenea multor locuri importante din Algeria, acesta îmbină moștenirea berberă cu influențele mediteraneene și sahariene. Astfel, acest loc contribuie la profilul variat al Algeriei.",
+    en: "Port of Tenes is a remarkable feature of the geography and culture of Algeria. A regional port in Chlef province, serving local trade and fishing. Small commercial area. Important fishing port. Between Algiers and Oran. This location plays a role in the economy of Algeria, strongly shaped by oil and natural gas extraction. Like many notable places in Algeria, it combines Berber heritage with Mediterranean and Saharan influences. Thus, this place contributes to the diverse profile of Algeria."
     },
     factsAdvanced: {
-    de: [],
+    de: ["Kleiner Handelsraum.", "Wichtiger Fischereihafen.", "Zwischen Algier und Oran.", "Historische Küstenstadt.", "Unterstützt Chlef.", "Ein regionaler Hafen in der Provinz Chlef, der dem lokalen Handel und dem Fischfang dient.", "Liegt im Gebiet der Demokratischen Volksrepublik Algerien."],
     hu: ["A kikötő a föníciai idők óta fontos megállóhely a tengeri útvonalakon.", "A halászflotta több mint 100 modern bárkából és számos hagyományos csónakból áll.", "A kikötő mólói népszerű kirándulóhelyek a helyi lakosok számára.", "Ténès kikötője fontos szerepet játszik a Chlef-völgy gabonájának tengeri szállításában.", "A kikötő bővítésére vonatkozó tervek egy új gát építését is tartalmazzák.", "Itt található a régió egyik legfontosabb halhűtő- és feldolgozó üzeme.", "A kikötő alkalmas közepes méretű áruszállító hajók fogadására.", "A turizmus fellendítése érdekében jachtkikötő kialakítását is tervezik."],
-    ro: [],
-    en: []
+    ro: ["Zonă comercială mică.", "Port pescăresc important.", "Între Alger și Oran.", "Oraș de coastă istoric.", "Sprijină Chlef.", "Un port regional în provincia Chlef, care deservește comerțul local și pescuitul.", "Se află pe teritoriul Republicii Algeriene Democratice și Populare."],
+    en: ["Small commercial area.", "Important fishing port.", "Between Algiers and Oran.", "Historic coastal town.", "Supports Chlef.", "A regional port in Chlef province, serving local trade and fishing.", "Located within the People's Democratic Republic of Algeria."]
     }
   }
 ];

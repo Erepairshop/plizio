@@ -14,6 +14,18 @@ export const poiExtraEgyptLifeV2: POI[] = [
       hu: ["Híres vadvilág-megfigyelés", "Ködoázisok"],
       ro: ["Observarea faunei sălbatice", "Oaze de ceață"],
       en: ["Famous wildlife viewing", "Mist oases"]
+    },
+    descriptionAdvanced: {
+      de: "Gebel Elba Nationalpark ist ein bemerkenswertes Element der Geografie und Kultur Ägyptens. Ein bedeutendes Schutzgebiet mit einzigartiger Flora und Fauna. Berühmte Wildtierbeobachtung. Nebeloasen. Dieses Schutzgebiet ist Teil der Tier- und Pflanzenwelt Ägyptens, zwischen Nil, Wüste und Rotem Meer. Wie viele bedeutende Orte in Ägypten verbindet dieser Ort das Erbe der Pharaonen mit dem heutigen Leben am Nil. Damit trägt dieser Ort zum vielseitigen Profil Ägyptens zwischen Sahara, Nil, Suezkanal und Rotem Meer bei.",
+      hu: "A(z) Gebel Elba Nemzeti Park az egyiptomi földrajz és kultúra figyelemre méltó eleme. Jelentős védett terület egyedülálló növény- és állatvilággal. Híres vadvilág-megfigyelés. Ködoázisok. Ez a védett terület Egyiptom élővilágának része, a Nílus, a sivatag és a Vörös-tenger között. Egyiptom számos jelentős helyszínéhez hasonlóan ez is összeköti a fáraók örökségét a mai nílusi élettel. Ezzel a helyszín hozzájárul Egyiptom sokszínű arculatához a Szahara, a Nílus, a Szuezi-csatorna és a Vörös-tenger között.",
+      ro: "Parcul Național Gebel Elba este un element remarcabil al geografiei și culturii Egiptului. O arie protejată semnificativă cu o floră și faună unică. Observarea faunei sălbatice. Oaze de ceață. Această arie protejată face parte din fauna și flora Egiptului, între Nil, deșert și Marea Roșie. Asemenea multor locuri importante din Egipt, acesta îmbină moștenirea faraonilor cu viața de astăzi de pe Nil. Astfel, acest loc contribuie la profilul variat al Egiptului între Sahara, Nil, Canalul Suez și Marea Roșie.",
+      en: "Gebel Elba National Park is a remarkable feature of the geography and culture of Egypt. A significant protected area with unique flora and fauna. Famous wildlife viewing. Mist oases. This protected area is part of Egypt's wildlife and flora, between the Nile, desert and Red Sea. Like many notable places in Egypt, it links the pharaonic heritage with present-day life along the Nile. Thus, this place contributes to the diverse profile of Egypt between the Sahara, the Nile, the Suez Canal and the Red Sea.",
+    },
+    factsAdvanced: {
+      de: ["Berühmte Wildtierbeobachtung.", "Nebeloasen.", "Ein bedeutendes Schutzgebiet mit einzigartiger Flora und Fauna.", "Liegt im Gebiet der Arabischen Republik Ägypten.", "Steht in Verbindung mit dem Nil oder dem benachbarten Wüstenraum.", "Wird vom heißen Wüstenklima Nordostafrikas geprägt.", "Bekannt für seine landschaftliche oder kulturhistorische Bedeutung."],
+      hu: ["Híres vadvilág-megfigyelés.", "Ködoázisok.", "Jelentős védett terület egyedülálló növény- és állatvilággal.", "Az Egyiptomi Arab Köztársaság területén található.", "Kapcsolódik a Nílushoz vagy a környező sivatagi térséghez.", "Az északkelet-afrikai forró sivatagi éghajlat alakítja.", "Tájképi vagy kultúrtörténeti jelentőségéről ismert."],
+      ro: ["Observarea faunei sălbatice.", "Oaze de ceață.", "O arie protejată semnificativă cu o floră și faună unică.", "Se află pe teritoriul Republicii Arabe Egipt.", "Este legat de Nil sau de spațiul deșertic învecinat.", "Este modelat de clima caldă deșertică din nord-estul Africii.", "Este cunoscut pentru semnificația sa peisagistică sau cultural-istorică."],
+      en: ["Famous wildlife viewing.", "Mist oases.", "A significant protected area with unique flora and fauna.", "Located within the Arab Republic of Egypt.", "Connected with the Nile or the surrounding desert area.", "Shaped by the hot desert climate of northeastern Africa.", "Known for its scenic or cultural-historical significance."],
     }, image: "/poi-images/gabalba-national-park-life-v2.webp"},
   {
     id: "wadial-rayan-life-v2",
@@ -27,6 +39,18 @@ export const poiExtraEgyptLifeV2: POI[] = [
       hu: ["Dorkás gazellák", "Fontos pihenőhelyek a madaraknak"],
       ro: ["Gazele dorcas", "Locuri importante de odihnă pentru păsări"],
       en: ["Dorcas gazelles", "Important bird staging areas"]
+    },
+    descriptionAdvanced: {
+      de: "Wadi El Rayan Schutzgebiet ist ein bemerkenswertes Element der Geografie und Kultur Ägyptens. Lebensraum für die gefährdete Dünengazelle. Dünengazellen. Wichtige Vogelrastplätze. Dieses Schutzgebiet ist Teil der Tier- und Pflanzenwelt Ägyptens, zwischen Nil, Wüste und Rotem Meer. Wie viele bedeutende Orte in Ägypten verbindet dieser Ort das Erbe der Pharaonen mit dem heutigen Leben am Nil. Damit trägt dieser Ort zum vielseitigen Profil Ägyptens zwischen Sahara, Nil, Suezkanal und Rotem Meer bei.",
+      hu: "A(z) Wadi El Rayan Természetvédelmi Terület az egyiptomi földrajz és kultúra figyelemre méltó eleme. Élőhely a veszélyeztetett dorkás gazella számára. Dorkás gazellák. Fontos pihenőhelyek a madaraknak. Ez a védett terület Egyiptom élővilágának része, a Nílus, a sivatag és a Vörös-tenger között. Egyiptom számos jelentős helyszínéhez hasonlóan ez is összeköti a fáraók örökségét a mai nílusi élettel. Ezzel a helyszín hozzájárul Egyiptom sokszínű arculatához a Szahara, a Nílus, a Szuezi-csatorna és a Vörös-tenger között.",
+      ro: "Rezervația Wadi El Rayan este un element remarcabil al geografiei și culturii Egiptului. Habitat pentru gazela dorcas pe cale de dispariție. Gazele dorcas. Locuri importante de odihnă pentru păsări. Această arie protejată face parte din fauna și flora Egiptului, între Nil, deșert și Marea Roșie. Asemenea multor locuri importante din Egipt, acesta îmbină moștenirea faraonilor cu viața de astăzi de pe Nil. Astfel, acest loc contribuie la profilul variat al Egiptului între Sahara, Nil, Canalul Suez și Marea Roșie.",
+      en: "Wadi El Rayan Protected Area is a remarkable feature of the geography and culture of Egypt. Habitat for the endangered dorcas gazelle. Dorcas gazelles. Important bird staging areas. This protected area is part of Egypt's wildlife and flora, between the Nile, desert and Red Sea. Like many notable places in Egypt, it links the pharaonic heritage with present-day life along the Nile. Thus, this place contributes to the diverse profile of Egypt between the Sahara, the Nile, the Suez Canal and the Red Sea.",
+    },
+    factsAdvanced: {
+      de: ["Dünengazellen.", "Wichtige Vogelrastplätze.", "Lebensraum für die gefährdete Dünengazelle.", "Liegt im Gebiet der Arabischen Republik Ägypten.", "Steht in Verbindung mit dem Nil oder dem benachbarten Wüstenraum.", "Wird vom heißen Wüstenklima Nordostafrikas geprägt.", "Bekannt für seine landschaftliche oder kulturhistorische Bedeutung."],
+      hu: ["Dorkás gazellák.", "Fontos pihenőhelyek a madaraknak.", "Élőhely a veszélyeztetett dorkás gazella számára.", "Az Egyiptomi Arab Köztársaság területén található.", "Kapcsolódik a Nílushoz vagy a környező sivatagi térséghez.", "Az északkelet-afrikai forró sivatagi éghajlat alakítja.", "Tájképi vagy kultúrtörténeti jelentőségéről ismert."],
+      ro: ["Gazele dorcas.", "Locuri importante de odihnă pentru păsări.", "Habitat pentru gazela dorcas pe cale de dispariție.", "Se află pe teritoriul Republicii Arabe Egipt.", "Este legat de Nil sau de spațiul deșertic învecinat.", "Este modelat de clima caldă deșertică din nord-estul Africii.", "Este cunoscut pentru semnificația sa peisagistică sau cultural-istorică."],
+      en: ["Dorcas gazelles.", "Important bird staging areas.", "Habitat for the endangered dorcas gazelle.", "Located within the Arab Republic of Egypt.", "Connected with the Nile or the surrounding desert area.", "Shaped by the hot desert climate of northeastern Africa.", "Known for its scenic or cultural-historical significance."],
     }, image: "/poi-images/wadial-rayan-life-v2.webp"},
   {
     id: "aswan-botanical-life-v2",
@@ -40,6 +64,18 @@ export const poiExtraEgyptLifeV2: POI[] = [
       hu: ["Egzotikus növények", "Tökéletes gyermekeknek"],
       ro: ["Plante exotice", "Perfect pentru copii"],
       en: ["Exotic plants", "Perfect for children"]
+    },
+    descriptionAdvanced: {
+      de: "Kitchener-Insel Botanischer Garten ist ein bemerkenswertes Element der Geografie und Kultur Ägyptens. Ein üppiger Garten auf einer Nilinsel in Assuan. Exotische Pflanzen. Perfekt für Kinder. Dieses Schutzgebiet ist Teil der Tier- und Pflanzenwelt Ägyptens, zwischen Nil, Wüste und Rotem Meer. Wie viele bedeutende Orte in Ägypten verbindet dieser Ort das Erbe der Pharaonen mit dem heutigen Leben am Nil. Damit trägt dieser Ort zum vielseitigen Profil Ägyptens zwischen Sahara, Nil, Suezkanal und Rotem Meer bei.",
+      hu: "A(z) Kitchener-sziget Botanikus Kert az egyiptomi földrajz és kultúra figyelemre méltó eleme. Dús kert egy nílusi szigeten, Asszuanban. Egzotikus növények. Tökéletes gyermekeknek. Ez a védett terület Egyiptom élővilágának része, a Nílus, a sivatag és a Vörös-tenger között. Egyiptom számos jelentős helyszínéhez hasonlóan ez is összeköti a fáraók örökségét a mai nílusi élettel. Ezzel a helyszín hozzájárul Egyiptom sokszínű arculatához a Szahara, a Nílus, a Szuezi-csatorna és a Vörös-tenger között.",
+      ro: "Grădina Botanică de pe Insula Kitchener este un element remarcabil al geografiei și culturii Egiptului. O grădină luxuriantă pe o insulă de pe Nil în Assuan. Plante exotice. Perfect pentru copii. Această arie protejată face parte din fauna și flora Egiptului, între Nil, deșert și Marea Roșie. Asemenea multor locuri importante din Egipt, acesta îmbină moștenirea faraonilor cu viața de astăzi de pe Nil. Astfel, acest loc contribuie la profilul variat al Egiptului între Sahara, Nil, Canalul Suez și Marea Roșie.",
+      en: "Kitchener's Island Botanical Garden is a remarkable feature of the geography and culture of Egypt. A lush garden on a Nile island in Aswan. Exotic plants. Perfect for children. This protected area is part of Egypt's wildlife and flora, between the Nile, desert and Red Sea. Like many notable places in Egypt, it links the pharaonic heritage with present-day life along the Nile. Thus, this place contributes to the diverse profile of Egypt between the Sahara, the Nile, the Suez Canal and the Red Sea.",
+    },
+    factsAdvanced: {
+      de: ["Exotische Pflanzen.", "Perfekt für Kinder.", "Ein üppiger Garten auf einer Nilinsel in Assuan.", "Liegt im Gebiet der Arabischen Republik Ägypten.", "Steht in Verbindung mit dem Nil oder dem benachbarten Wüstenraum.", "Wird vom heißen Wüstenklima Nordostafrikas geprägt.", "Bekannt für seine landschaftliche oder kulturhistorische Bedeutung."],
+      hu: ["Egzotikus növények.", "Tökéletes gyermekeknek.", "Dús kert egy nílusi szigeten, Asszuanban.", "Az Egyiptomi Arab Köztársaság területén található.", "Kapcsolódik a Nílushoz vagy a környező sivatagi térséghez.", "Az északkelet-afrikai forró sivatagi éghajlat alakítja.", "Tájképi vagy kultúrtörténeti jelentőségéről ismert."],
+      ro: ["Plante exotice.", "Perfect pentru copii.", "O grădină luxuriantă pe o insulă de pe Nil în Assuan.", "Se află pe teritoriul Republicii Arabe Egipt.", "Este legat de Nil sau de spațiul deșertic învecinat.", "Este modelat de clima caldă deșertică din nord-estul Africii.", "Este cunoscut pentru semnificația sa peisagistică sau cultural-istorică."],
+      en: ["Exotic plants.", "Perfect for children.", "A lush garden on a Nile island in Aswan.", "Located within the Arab Republic of Egypt.", "Connected with the Nile or the surrounding desert area.", "Shaped by the hot desert climate of northeastern Africa.", "Known for its scenic or cultural-historical significance."],
     }, image: "/poi-images/aswan-botanical-life-v2.webp"},
   {
     id: "nile-delta-agriculture-life-v2",
@@ -53,6 +89,18 @@ export const poiExtraEgyptLifeV2: POI[] = [
       hu: ["Gyapottermesztés", "Rizs- és búzamezők"],
       ro: ["Cultivarea bumbacului", "Câmpuri de orez și grâu"],
       en: ["Cotton cultivation", "Rice and wheat fields"]
+    },
+    descriptionAdvanced: {
+      de: "Nildelta Landwirtschaftsregion ist ein bemerkenswertes Element der Geografie und Kultur Ägyptens. Das Herz der ägyptischen Landwirtschaft. Baumwollanbau. Reis- und Weizenfelder. Dieses Schutzgebiet ist Teil der Tier- und Pflanzenwelt Ägyptens, zwischen Nil, Wüste und Rotem Meer. Wie viele bedeutende Orte in Ägypten verbindet dieser Ort das Erbe der Pharaonen mit dem heutigen Leben am Nil. Damit trägt dieser Ort zum vielseitigen Profil Ägyptens zwischen Sahara, Nil, Suezkanal und Rotem Meer bei.",
+      hu: "A(z) Nílus-delta mezőgazdasági régió az egyiptomi földrajz és kultúra figyelemre méltó eleme. Az egyiptomi mezőgazdaság szíve. Gyapottermesztés. Rizs- és búzamezők. Ez a védett terület Egyiptom élővilágának része, a Nílus, a sivatag és a Vörös-tenger között. Egyiptom számos jelentős helyszínéhez hasonlóan ez is összeköti a fáraók örökségét a mai nílusi élettel. Ezzel a helyszín hozzájárul Egyiptom sokszínű arculatához a Szahara, a Nílus, a Szuezi-csatorna és a Vörös-tenger között.",
+      ro: "Regiunea agricolă a Deltei Nilului este un element remarcabil al geografiei și culturii Egiptului. Inima agriculturii egiptene. Cultivarea bumbacului. Câmpuri de orez și grâu. Această arie protejată face parte din fauna și flora Egiptului, între Nil, deșert și Marea Roșie. Asemenea multor locuri importante din Egipt, acesta îmbină moștenirea faraonilor cu viața de astăzi de pe Nil. Astfel, acest loc contribuie la profilul variat al Egiptului între Sahara, Nil, Canalul Suez și Marea Roșie.",
+      en: "Nile Delta Agricultural Region is a remarkable feature of the geography and culture of Egypt. The heart of Egyptian agriculture. Cotton cultivation. Rice and wheat fields. This protected area is part of Egypt's wildlife and flora, between the Nile, desert and Red Sea. Like many notable places in Egypt, it links the pharaonic heritage with present-day life along the Nile. Thus, this place contributes to the diverse profile of Egypt between the Sahara, the Nile, the Suez Canal and the Red Sea.",
+    },
+    factsAdvanced: {
+      de: ["Baumwollanbau.", "Reis- und Weizenfelder.", "Das Herz der ägyptischen Landwirtschaft.", "Liegt im Gebiet der Arabischen Republik Ägypten.", "Steht in Verbindung mit dem Nil oder dem benachbarten Wüstenraum.", "Wird vom heißen Wüstenklima Nordostafrikas geprägt.", "Bekannt für seine landschaftliche oder kulturhistorische Bedeutung."],
+      hu: ["Gyapottermesztés.", "Rizs- és búzamezők.", "Az egyiptomi mezőgazdaság szíve.", "Az Egyiptomi Arab Köztársaság területén található.", "Kapcsolódik a Nílushoz vagy a környező sivatagi térséghez.", "Az északkelet-afrikai forró sivatagi éghajlat alakítja.", "Tájképi vagy kultúrtörténeti jelentőségéről ismert."],
+      ro: ["Cultivarea bumbacului.", "Câmpuri de orez și grâu.", "Inima agriculturii egiptene.", "Se află pe teritoriul Republicii Arabe Egipt.", "Este legat de Nil sau de spațiul deșertic învecinat.", "Este modelat de clima caldă deșertică din nord-estul Africii.", "Este cunoscut pentru semnificația sa peisagistică sau cultural-istorică."],
+      en: ["Cotton cultivation.", "Rice and wheat fields.", "The heart of Egyptian agriculture.", "Located within the Arab Republic of Egypt.", "Connected with the Nile or the surrounding desert area.", "Shaped by the hot desert climate of northeastern Africa.", "Known for its scenic or cultural-historical significance."],
     }, image: "/poi-images/nile-delta-agriculture-life-v2.webp"},
   {
     id: "siwa-palm-agriculture-life-v2",
@@ -66,6 +114,18 @@ export const poiExtraEgyptLifeV2: POI[] = [
       hu: ["A legjobb datolyaminőség", "Régi öntözési módszerek"],
       ro: ["Cea mai bună calitate a curmalelor", "Metode vechi de irigare"],
       en: ["Best date quality", "Ancient irrigation methods"]
+    },
+    descriptionAdvanced: {
+      de: "Siwa Dattelplantagen ist ein bemerkenswertes Element der Geografie und Kultur Ägyptens. Berühmte Oasen-Gärten für Datteln und Oliven. Beste Dattelqualität. Alte Bewässerungsmethoden. Dieses Schutzgebiet ist Teil der Tier- und Pflanzenwelt Ägyptens, zwischen Nil, Wüste und Rotem Meer. Wie viele bedeutende Orte in Ägypten verbindet dieser Ort das Erbe der Pharaonen mit dem heutigen Leben am Nil. Damit trägt dieser Ort zum vielseitigen Profil Ägyptens zwischen Sahara, Nil, Suezkanal und Rotem Meer bei.",
+      hu: "A(z) Siwa datolyaplantázsok az egyiptomi földrajz és kultúra figyelemre méltó eleme. Híres oáziskertek datolyához és olajbogyóhoz. A legjobb datolyaminőség. Régi öntözési módszerek. Ez a védett terület Egyiptom élővilágának része, a Nílus, a sivatag és a Vörös-tenger között. Egyiptom számos jelentős helyszínéhez hasonlóan ez is összeköti a fáraók örökségét a mai nílusi élettel. Ezzel a helyszín hozzájárul Egyiptom sokszínű arculatához a Szahara, a Nílus, a Szuezi-csatorna és a Vörös-tenger között.",
+      ro: "Plantațiile de curmali Siwa este un element remarcabil al geografiei și culturii Egiptului. Celebre grădini de oază pentru curmale și măsline. Cea mai bună calitate a curmalelor. Metode vechi de irigare. Această arie protejată face parte din fauna și flora Egiptului, între Nil, deșert și Marea Roșie. Asemenea multor locuri importante din Egipt, acesta îmbină moștenirea faraonilor cu viața de astăzi de pe Nil. Astfel, acest loc contribuie la profilul variat al Egiptului între Sahara, Nil, Canalul Suez și Marea Roșie.",
+      en: "Siwa Date Plantations is a remarkable feature of the geography and culture of Egypt. Famous oasis gardens for dates and olives. Best date quality. Ancient irrigation methods. This protected area is part of Egypt's wildlife and flora, between the Nile, desert and Red Sea. Like many notable places in Egypt, it links the pharaonic heritage with present-day life along the Nile. Thus, this place contributes to the diverse profile of Egypt between the Sahara, the Nile, the Suez Canal and the Red Sea.",
+    },
+    factsAdvanced: {
+      de: ["Beste Dattelqualität.", "Alte Bewässerungsmethoden.", "Berühmte Oasen-Gärten für Datteln und Oliven.", "Liegt im Gebiet der Arabischen Republik Ägypten.", "Steht in Verbindung mit dem Nil oder dem benachbarten Wüstenraum.", "Wird vom heißen Wüstenklima Nordostafrikas geprägt.", "Bekannt für seine landschaftliche oder kulturhistorische Bedeutung."],
+      hu: ["A legjobb datolyaminőség.", "Régi öntözési módszerek.", "Híres oáziskertek datolyához és olajbogyóhoz.", "Az Egyiptomi Arab Köztársaság területén található.", "Kapcsolódik a Nílushoz vagy a környező sivatagi térséghez.", "Az északkelet-afrikai forró sivatagi éghajlat alakítja.", "Tájképi vagy kultúrtörténeti jelentőségéről ismert."],
+      ro: ["Cea mai bună calitate a curmalelor.", "Metode vechi de irigare.", "Celebre grădini de oază pentru curmale și măsline.", "Se află pe teritoriul Republicii Arabe Egipt.", "Este legat de Nil sau de spațiul deșertic învecinat.", "Este modelat de clima caldă deșertică din nord-estul Africii.", "Este cunoscut pentru semnificația sa peisagistică sau cultural-istorică."],
+      en: ["Best date quality.", "Ancient irrigation methods.", "Famous oasis gardens for dates and olives.", "Located within the Arab Republic of Egypt.", "Connected with the Nile or the surrounding desert area.", "Shaped by the hot desert climate of northeastern Africa.", "Known for its scenic or cultural-historical significance."],
     }, image: "/poi-images/siwa-palm-agriculture-life-v2.webp"},
   {
     id: "giza-zoo-life-v2",
@@ -79,6 +139,18 @@ export const poiExtraEgyptLifeV2: POI[] = [
       hu: ["Történelmi létesítmény", "Népszerű a családok körében"],
       ro: ["Facilitate istorică", "Populară pentru familii"],
       en: ["Historic facility", "Popular with families"]
+    },
+    descriptionAdvanced: {
+      de: "Giza Zoo ist ein bemerkenswertes Element der Geografie und Kultur Ägyptens. Einer der ältesten und größten Zoos in Afrika. Historische Anlage. Beliebt bei Familien. Dieses Schutzgebiet ist Teil der Tier- und Pflanzenwelt Ägyptens, zwischen Nil, Wüste und Rotem Meer. Wie viele bedeutende Orte in Ägypten verbindet dieser Ort das Erbe der Pharaonen mit dem heutigen Leben am Nil. Damit trägt dieser Ort zum vielseitigen Profil Ägyptens zwischen Sahara, Nil, Suezkanal und Rotem Meer bei.",
+      hu: "A(z) Gízai Állatkert az egyiptomi földrajz és kultúra figyelemre méltó eleme. Afrika egyik legrégebbi és legnagyobb állatkertje. Történelmi létesítmény. Népszerű a családok körében. Ez a védett terület Egyiptom élővilágának része, a Nílus, a sivatag és a Vörös-tenger között. Egyiptom számos jelentős helyszínéhez hasonlóan ez is összeköti a fáraók örökségét a mai nílusi élettel. Ezzel a helyszín hozzájárul Egyiptom sokszínű arculatához a Szahara, a Nílus, a Szuezi-csatorna és a Vörös-tenger között.",
+      ro: "Grădina Zoologică Giza este un element remarcabil al geografiei și culturii Egiptului. Una dintre cele mai vechi și mari grădini zoologice din Africa. Facilitate istorică. Populară pentru familii. Această arie protejată face parte din fauna și flora Egiptului, între Nil, deșert și Marea Roșie. Asemenea multor locuri importante din Egipt, acesta îmbină moștenirea faraonilor cu viața de astăzi de pe Nil. Astfel, acest loc contribuie la profilul variat al Egiptului între Sahara, Nil, Canalul Suez și Marea Roșie.",
+      en: "Giza Zoo is a remarkable feature of the geography and culture of Egypt. One of the oldest and largest zoos in Africa. Historic facility. Popular with families. This protected area is part of Egypt's wildlife and flora, between the Nile, desert and Red Sea. Like many notable places in Egypt, it links the pharaonic heritage with present-day life along the Nile. Thus, this place contributes to the diverse profile of Egypt between the Sahara, the Nile, the Suez Canal and the Red Sea.",
+    },
+    factsAdvanced: {
+      de: ["Historische Anlage.", "Beliebt bei Familien.", "Einer der ältesten und größten Zoos in Afrika.", "Liegt im Gebiet der Arabischen Republik Ägypten.", "Steht in Verbindung mit dem Nil oder dem benachbarten Wüstenraum.", "Wird vom heißen Wüstenklima Nordostafrikas geprägt.", "Bekannt für seine landschaftliche oder kulturhistorische Bedeutung."],
+      hu: ["Történelmi létesítmény.", "Népszerű a családok körében.", "Afrika egyik legrégebbi és legnagyobb állatkertje.", "Az Egyiptomi Arab Köztársaság területén található.", "Kapcsolódik a Nílushoz vagy a környező sivatagi térséghez.", "Az északkelet-afrikai forró sivatagi éghajlat alakítja.", "Tájképi vagy kultúrtörténeti jelentőségéről ismert."],
+      ro: ["Facilitate istorică.", "Populară pentru familii.", "Una dintre cele mai vechi și mari grădini zoologice din Africa.", "Se află pe teritoriul Republicii Arabe Egipt.", "Este legat de Nil sau de spațiul deșertic învecinat.", "Este modelat de clima caldă deșertică din nord-estul Africii.", "Este cunoscut pentru semnificația sa peisagistică sau cultural-istorică."],
+      en: ["Historic facility.", "Popular with families.", "One of the oldest and largest zoos in Africa.", "Located within the Arab Republic of Egypt.", "Connected with the Nile or the surrounding desert area.", "Shaped by the hot desert climate of northeastern Africa.", "Known for its scenic or cultural-historical significance."],
     }, image: "/poi-images/giza-zoo-life-v2.webp"},
   {
     id: "faiyum-agriculture-life-v2",
@@ -92,6 +164,18 @@ export const poiExtraEgyptLifeV2: POI[] = [
       hu: ["Egész éves termesztés", "Víz közelsége a csatornákon keresztül"],
       ro: ["Cultivare pe tot parcursul anului", "Apropierea de apă prin canale"],
       en: ["Year-round cultivation", "Proximity to water via canals"]
+    },
+    descriptionAdvanced: {
+      de: "Faiyum Oasen-Agrar ist ein bemerkenswertes Element der Geografie und Kultur Ägyptens. Fruchtbare Region mit umfangreichem Gemüseanbau. Ganzjähriger Anbau. Wassernähe durch Kanäle. Dieses Schutzgebiet ist Teil der Tier- und Pflanzenwelt Ägyptens, zwischen Nil, Wüste und Rotem Meer. Wie viele bedeutende Orte in Ägypten verbindet dieser Ort das Erbe der Pharaonen mit dem heutigen Leben am Nil. Damit trägt dieser Ort zum vielseitigen Profil Ägyptens zwischen Sahara, Nil, Suezkanal und Rotem Meer bei.",
+      hu: "A(z) Faiyum oázis mezőgazdaság az egyiptomi földrajz és kultúra figyelemre méltó eleme. Termékeny régió kiterjedt zöldségtermesztéssel. Egész éves termesztés. Víz közelsége a csatornákon keresztül. Ez a védett terület Egyiptom élővilágának része, a Nílus, a sivatag és a Vörös-tenger között. Egyiptom számos jelentős helyszínéhez hasonlóan ez is összeköti a fáraók örökségét a mai nílusi élettel. Ezzel a helyszín hozzájárul Egyiptom sokszínű arculatához a Szahara, a Nílus, a Szuezi-csatorna és a Vörös-tenger között.",
+      ro: "Agricultura Oazei Faiyum este un element remarcabil al geografiei și culturii Egiptului. Regiune fertilă cu cultivare extinsă de legume. Cultivare pe tot parcursul anului. Apropierea de apă prin canale. Această arie protejată face parte din fauna și flora Egiptului, între Nil, deșert și Marea Roșie. Asemenea multor locuri importante din Egipt, acesta îmbină moștenirea faraonilor cu viața de astăzi de pe Nil. Astfel, acest loc contribuie la profilul variat al Egiptului între Sahara, Nil, Canalul Suez și Marea Roșie.",
+      en: "Faiyum Oasis Agriculture is a remarkable feature of the geography and culture of Egypt. Fertile region with extensive vegetable cultivation. Year-round cultivation. Proximity to water via canals. This protected area is part of Egypt's wildlife and flora, between the Nile, desert and Red Sea. Like many notable places in Egypt, it links the pharaonic heritage with present-day life along the Nile. Thus, this place contributes to the diverse profile of Egypt between the Sahara, the Nile, the Suez Canal and the Red Sea.",
+    },
+    factsAdvanced: {
+      de: ["Ganzjähriger Anbau.", "Wassernähe durch Kanäle.", "Fruchtbare Region mit umfangreichem Gemüseanbau.", "Liegt im Gebiet der Arabischen Republik Ägypten.", "Steht in Verbindung mit dem Nil oder dem benachbarten Wüstenraum.", "Wird vom heißen Wüstenklima Nordostafrikas geprägt.", "Bekannt für seine landschaftliche oder kulturhistorische Bedeutung."],
+      hu: ["Egész éves termesztés.", "Víz közelsége a csatornákon keresztül.", "Termékeny régió kiterjedt zöldségtermesztéssel.", "Az Egyiptomi Arab Köztársaság területén található.", "Kapcsolódik a Nílushoz vagy a környező sivatagi térséghez.", "Az északkelet-afrikai forró sivatagi éghajlat alakítja.", "Tájképi vagy kultúrtörténeti jelentőségéről ismert."],
+      ro: ["Cultivare pe tot parcursul anului.", "Apropierea de apă prin canale.", "Regiune fertilă cu cultivare extinsă de legume.", "Se află pe teritoriul Republicii Arabe Egipt.", "Este legat de Nil sau de spațiul deșertic învecinat.", "Este modelat de clima caldă deșertică din nord-estul Africii.", "Este cunoscut pentru semnificația sa peisagistică sau cultural-istorică."],
+      en: ["Year-round cultivation.", "Proximity to water via canals.", "Fertile region with extensive vegetable cultivation.", "Located within the Arab Republic of Egypt.", "Connected with the Nile or the surrounding desert area.", "Shaped by the hot desert climate of northeastern Africa.", "Known for its scenic or cultural-historical significance."],
     }, image: "/poi-images/faiyum-agriculture-life-v2.webp"},
   {
     id: "alqanater-kid-life-v2",
@@ -105,6 +189,18 @@ export const poiExtraEgyptLifeV2: POI[] = [
       hu: ["Piknikhelyek", "Csónakázás gyermekeknek"],
       ro: ["Locuri de picnic", "Plimbări cu barca pentru copii"],
       en: ["Picnic areas", "Boat trips for children"]
+    },
+    descriptionAdvanced: {
+      de: "Al Qanater El Khairia Parks ist ein bemerkenswertes Element der Geografie und Kultur Ägyptens. Ein weitläufiges Parkgebiet am Nil, ideal für Familien. Picknickplätze. Bootsfahrten für Kinder. Dieses Schutzgebiet ist Teil der Tier- und Pflanzenwelt Ägyptens, zwischen Nil, Wüste und Rotem Meer. Wie viele bedeutende Orte in Ägypten verbindet dieser Ort das Erbe der Pharaonen mit dem heutigen Leben am Nil. Damit trägt dieser Ort zum vielseitigen Profil Ägyptens zwischen Sahara, Nil, Suezkanal und Rotem Meer bei.",
+      hu: "A(z) Al Qanater El Khairia parkok az egyiptomi földrajz és kultúra figyelemre méltó eleme. Kiterjedt parkterület a Nílus mentén, ideális családoknak. Piknikhelyek. Csónakázás gyermekeknek. Ez a védett terület Egyiptom élővilágának része, a Nílus, a sivatag és a Vörös-tenger között. Egyiptom számos jelentős helyszínéhez hasonlóan ez is összeköti a fáraók örökségét a mai nílusi élettel. Ezzel a helyszín hozzájárul Egyiptom sokszínű arculatához a Szahara, a Nílus, a Szuezi-csatorna és a Vörös-tenger között.",
+      ro: "Parcurile Al Qanater El Khairia este un element remarcabil al geografiei și culturii Egiptului. O zonă extinsă de parcuri pe malul Nilului, ideală pentru familii. Locuri de picnic. Plimbări cu barca pentru copii. Această arie protejată face parte din fauna și flora Egiptului, între Nil, deșert și Marea Roșie. Asemenea multor locuri importante din Egipt, acesta îmbină moștenirea faraonilor cu viața de astăzi de pe Nil. Astfel, acest loc contribuie la profilul variat al Egiptului între Sahara, Nil, Canalul Suez și Marea Roșie.",
+      en: "Al Qanater El Khairia Parks is a remarkable feature of the geography and culture of Egypt. A sprawling park area on the Nile, ideal for families. Picnic areas. Boat trips for children. This protected area is part of Egypt's wildlife and flora, between the Nile, desert and Red Sea. Like many notable places in Egypt, it links the pharaonic heritage with present-day life along the Nile. Thus, this place contributes to the diverse profile of Egypt between the Sahara, the Nile, the Suez Canal and the Red Sea.",
+    },
+    factsAdvanced: {
+      de: ["Picknickplätze.", "Bootsfahrten für Kinder.", "Ein weitläufiges Parkgebiet am Nil, ideal für Familien.", "Liegt im Gebiet der Arabischen Republik Ägypten.", "Steht in Verbindung mit dem Nil oder dem benachbarten Wüstenraum.", "Wird vom heißen Wüstenklima Nordostafrikas geprägt.", "Bekannt für seine landschaftliche oder kulturhistorische Bedeutung."],
+      hu: ["Piknikhelyek.", "Csónakázás gyermekeknek.", "Kiterjedt parkterület a Nílus mentén, ideális családoknak.", "Az Egyiptomi Arab Köztársaság területén található.", "Kapcsolódik a Nílushoz vagy a környező sivatagi térséghez.", "Az északkelet-afrikai forró sivatagi éghajlat alakítja.", "Tájképi vagy kultúrtörténeti jelentőségéről ismert."],
+      ro: ["Locuri de picnic.", "Plimbări cu barca pentru copii.", "O zonă extinsă de parcuri pe malul Nilului, ideală pentru familii.", "Se află pe teritoriul Republicii Arabe Egipt.", "Este legat de Nil sau de spațiul deșertic învecinat.", "Este modelat de clima caldă deșertică din nord-estul Africii.", "Este cunoscut pentru semnificația sa peisagistică sau cultural-istorică."],
+      en: ["Picnic areas.", "Boat trips for children.", "A sprawling park area on the Nile, ideal for families.", "Located within the Arab Republic of Egypt.", "Connected with the Nile or the surrounding desert area.", "Shaped by the hot desert climate of northeastern Africa.", "Known for its scenic or cultural-historical significance."],
     }, image: "/poi-images/alqanater-kid-life-v2.webp"},
   {
     id: "luxor-botanical-life-v2",
@@ -118,6 +214,18 @@ export const poiExtraEgyptLifeV2: POI[] = [
       hu: ["Árnyékos fák", "Nagyon pihentető"],
       ro: ["Copaci umbroși", "Foarte relaxant"],
       en: ["Shady trees", "Very relaxing"]
+    },
+    descriptionAdvanced: {
+      de: "Luxor Botanischer Garten ist ein bemerkenswertes Element der Geografie und Kultur Ägyptens. Grüne Oase im Zentrum von Luxor. Schattenreiche Bäume. Sehr entspannend. Dieses Schutzgebiet ist Teil der Tier- und Pflanzenwelt Ägyptens, zwischen Nil, Wüste und Rotem Meer. Wie viele bedeutende Orte in Ägypten verbindet dieser Ort das Erbe der Pharaonen mit dem heutigen Leben am Nil. Damit trägt dieser Ort zum vielseitigen Profil Ägyptens zwischen Sahara, Nil, Suezkanal und Rotem Meer bei.",
+      hu: "A(z) Luxor Botanikus Kert az egyiptomi földrajz és kultúra figyelemre méltó eleme. Zöld oázis Luxor központjában. Árnyékos fák. Nagyon pihentető. Ez a védett terület Egyiptom élővilágának része, a Nílus, a sivatag és a Vörös-tenger között. Egyiptom számos jelentős helyszínéhez hasonlóan ez is összeköti a fáraók örökségét a mai nílusi élettel. Ezzel a helyszín hozzájárul Egyiptom sokszínű arculatához a Szahara, a Nílus, a Szuezi-csatorna és a Vörös-tenger között.",
+      ro: "Grădina Botanică Luxor este un element remarcabil al geografiei și culturii Egiptului. Oază verde în centrul orașului Luxor. Copaci umbroși. Foarte relaxant. Această arie protejată face parte din fauna și flora Egiptului, între Nil, deșert și Marea Roșie. Asemenea multor locuri importante din Egipt, acesta îmbină moștenirea faraonilor cu viața de astăzi de pe Nil. Astfel, acest loc contribuie la profilul variat al Egiptului între Sahara, Nil, Canalul Suez și Marea Roșie.",
+      en: "Luxor Botanical Garden is a remarkable feature of the geography and culture of Egypt. Green oasis in the center of Luxor. Shady trees. Very relaxing. This protected area is part of Egypt's wildlife and flora, between the Nile, desert and Red Sea. Like many notable places in Egypt, it links the pharaonic heritage with present-day life along the Nile. Thus, this place contributes to the diverse profile of Egypt between the Sahara, the Nile, the Suez Canal and the Red Sea.",
+    },
+    factsAdvanced: {
+      de: ["Schattenreiche Bäume.", "Sehr entspannend.", "Grüne Oase im Zentrum von Luxor.", "Liegt im Gebiet der Arabischen Republik Ägypten.", "Steht in Verbindung mit dem Nil oder dem benachbarten Wüstenraum.", "Wird vom heißen Wüstenklima Nordostafrikas geprägt.", "Bekannt für seine landschaftliche oder kulturhistorische Bedeutung."],
+      hu: ["Árnyékos fák.", "Nagyon pihentető.", "Zöld oázis Luxor központjában.", "Az Egyiptomi Arab Köztársaság területén található.", "Kapcsolódik a Nílushoz vagy a környező sivatagi térséghez.", "Az északkelet-afrikai forró sivatagi éghajlat alakítja.", "Tájképi vagy kultúrtörténeti jelentőségéről ismert."],
+      ro: ["Copaci umbroși.", "Foarte relaxant.", "Oază verde în centrul orașului Luxor.", "Se află pe teritoriul Republicii Arabe Egipt.", "Este legat de Nil sau de spațiul deșertic învecinat.", "Este modelat de clima caldă deșertică din nord-estul Africii.", "Este cunoscut pentru semnificația sa peisagistică sau cultural-istorică."],
+      en: ["Shady trees.", "Very relaxing.", "Green oasis in the center of Luxor.", "Located within the Arab Republic of Egypt.", "Connected with the Nile or the surrounding desert area.", "Shaped by the hot desert climate of northeastern Africa.", "Known for its scenic or cultural-historical significance."],
     }, image: "/poi-images/luxor-botanical-life-v2.webp"},
   {
     id: "marsa-alam-habitat-life-v2",
@@ -131,6 +239,18 @@ export const poiExtraEgyptLifeV2: POI[] = [
       hu: ["Nagyon ritka állat", "Zátonyvédelem"],
       ro: ["Animal foarte rar", "Protecția recifelor"],
       en: ["Very rare animal", "Reef protection"]
+    },
+    descriptionAdvanced: {
+      de: "Marsa Alam Dugong-Habitat ist ein bemerkenswertes Element der Geografie und Kultur Ägyptens. Ein geschütztes Gebiet für Seekühe im Roten Meer. Sehr seltenes Tier. Riff-Schutz. Dieses Schutzgebiet ist Teil der Tier- und Pflanzenwelt Ägyptens, zwischen Nil, Wüste und Rotem Meer. Wie viele bedeutende Orte in Ägypten verbindet dieser Ort das Erbe der Pharaonen mit dem heutigen Leben am Nil. Damit trägt dieser Ort zum vielseitigen Profil Ägyptens zwischen Sahara, Nil, Suezkanal und Rotem Meer bei.",
+      hu: "A(z) Marsa Alam Dugong-élőhely az egyiptomi földrajz és kultúra figyelemre méltó eleme. Védett terület a tengeri tehenek számára a Vörös-tengerben. Nagyon ritka állat. Zátonyvédelem. Ez a védett terület Egyiptom élővilágának része, a Nílus, a sivatag és a Vörös-tenger között. Egyiptom számos jelentős helyszínéhez hasonlóan ez is összeköti a fáraók örökségét a mai nílusi élettel. Ezzel a helyszín hozzájárul Egyiptom sokszínű arculatához a Szahara, a Nílus, a Szuezi-csatorna és a Vörös-tenger között.",
+      ro: "Habitat de dugong Marsa Alam este un element remarcabil al geografiei și culturii Egiptului. O zonă protejată pentru dugongi în Marea Roșie. Animal foarte rar. Protecția recifelor. Această arie protejată face parte din fauna și flora Egiptului, între Nil, deșert și Marea Roșie. Asemenea multor locuri importante din Egipt, acesta îmbină moștenirea faraonilor cu viața de astăzi de pe Nil. Astfel, acest loc contribuie la profilul variat al Egiptului între Sahara, Nil, Canalul Suez și Marea Roșie.",
+      en: "Marsa Alam Dugong Habitat is a remarkable feature of the geography and culture of Egypt. A protected area for dugongs in the Red Sea. Very rare animal. Reef protection. This protected area is part of Egypt's wildlife and flora, between the Nile, desert and Red Sea. Like many notable places in Egypt, it links the pharaonic heritage with present-day life along the Nile. Thus, this place contributes to the diverse profile of Egypt between the Sahara, the Nile, the Suez Canal and the Red Sea.",
+    },
+    factsAdvanced: {
+      de: ["Sehr seltenes Tier.", "Riff-Schutz.", "Ein geschütztes Gebiet für Seekühe im Roten Meer.", "Liegt im Gebiet der Arabischen Republik Ägypten.", "Steht in Verbindung mit dem Nil oder dem benachbarten Wüstenraum.", "Wird vom heißen Wüstenklima Nordostafrikas geprägt.", "Bekannt für seine landschaftliche oder kulturhistorische Bedeutung."],
+      hu: ["Nagyon ritka állat.", "Zátonyvédelem.", "Védett terület a tengeri tehenek számára a Vörös-tengerben.", "Az Egyiptomi Arab Köztársaság területén található.", "Kapcsolódik a Nílushoz vagy a környező sivatagi térséghez.", "Az északkelet-afrikai forró sivatagi éghajlat alakítja.", "Tájképi vagy kultúrtörténeti jelentőségéről ismert."],
+      ro: ["Animal foarte rar.", "Protecția recifelor.", "O zonă protejată pentru dugongi în Marea Roșie.", "Se află pe teritoriul Republicii Arabe Egipt.", "Este legat de Nil sau de spațiul deșertic învecinat.", "Este modelat de clima caldă deșertică din nord-estul Africii.", "Este cunoscut pentru semnificația sa peisagistică sau cultural-istorică."],
+      en: ["Very rare animal.", "Reef protection.", "A protected area for dugongs in the Red Sea.", "Located within the Arab Republic of Egypt.", "Connected with the Nile or the surrounding desert area.", "Shaped by the hot desert climate of northeastern Africa.", "Known for its scenic or cultural-historical significance."],
     }, image: "/poi-images/marsa-alam-habitat-life-v2.webp"},
   {
     id: "alexandria-zoo-life-v2",
@@ -144,6 +264,18 @@ export const poiExtraEgyptLifeV2: POI[] = [
       hu: ["Családi attrakció", "Sok állatfaj"],
       ro: ["Atracție de familie", "Multe specii de animale"],
       en: ["Family attraction", "Many species of animals"]
+    },
+    descriptionAdvanced: {
+      de: "Alexandria Zoo ist ein bemerkenswertes Element der Geografie und Kultur Ägyptens. Beliebter Zoo an der Mittelmeerküste. Familienattraktion. Viele Tierarten. Dieses Schutzgebiet ist Teil der Tier- und Pflanzenwelt Ägyptens, zwischen Nil, Wüste und Rotem Meer. Wie viele bedeutende Orte in Ägypten verbindet dieser Ort das Erbe der Pharaonen mit dem heutigen Leben am Nil. Damit trägt dieser Ort zum vielseitigen Profil Ägyptens zwischen Sahara, Nil, Suezkanal und Rotem Meer bei.",
+      hu: "A(z) Alexandriai Állatkert az egyiptomi földrajz és kultúra figyelemre méltó eleme. Népszerű állatkert a Földközi-tenger partján. Családi attrakció. Sok állatfaj. Ez a védett terület Egyiptom élővilágának része, a Nílus, a sivatag és a Vörös-tenger között. Egyiptom számos jelentős helyszínéhez hasonlóan ez is összeköti a fáraók örökségét a mai nílusi élettel. Ezzel a helyszín hozzájárul Egyiptom sokszínű arculatához a Szahara, a Nílus, a Szuezi-csatorna és a Vörös-tenger között.",
+      ro: "Grădina Zoologică Alexandria este un element remarcabil al geografiei și culturii Egiptului. Grădină zoologică populară pe coasta Mediteranei. Atracție de familie. Multe specii de animale. Această arie protejată face parte din fauna și flora Egiptului, între Nil, deșert și Marea Roșie. Asemenea multor locuri importante din Egipt, acesta îmbină moștenirea faraonilor cu viața de astăzi de pe Nil. Astfel, acest loc contribuie la profilul variat al Egiptului între Sahara, Nil, Canalul Suez și Marea Roșie.",
+      en: "Alexandria Zoo is a remarkable feature of the geography and culture of Egypt. Popular zoo on the Mediterranean coast. Family attraction. Many species of animals. This protected area is part of Egypt's wildlife and flora, between the Nile, desert and Red Sea. Like many notable places in Egypt, it links the pharaonic heritage with present-day life along the Nile. Thus, this place contributes to the diverse profile of Egypt between the Sahara, the Nile, the Suez Canal and the Red Sea.",
+    },
+    factsAdvanced: {
+      de: ["Familienattraktion.", "Viele Tierarten.", "Beliebter Zoo an der Mittelmeerküste.", "Liegt im Gebiet der Arabischen Republik Ägypten.", "Steht in Verbindung mit dem Nil oder dem benachbarten Wüstenraum.", "Wird vom heißen Wüstenklima Nordostafrikas geprägt.", "Bekannt für seine landschaftliche oder kulturhistorische Bedeutung."],
+      hu: ["Családi attrakció.", "Sok állatfaj.", "Népszerű állatkert a Földközi-tenger partján.", "Az Egyiptomi Arab Köztársaság területén található.", "Kapcsolódik a Nílushoz vagy a környező sivatagi térséghez.", "Az északkelet-afrikai forró sivatagi éghajlat alakítja.", "Tájképi vagy kultúrtörténeti jelentőségéről ismert."],
+      ro: ["Atracție de familie.", "Multe specii de animale.", "Grădină zoologică populară pe coasta Mediteranei.", "Se află pe teritoriul Republicii Arabe Egipt.", "Este legat de Nil sau de spațiul deșertic învecinat.", "Este modelat de clima caldă deșertică din nord-estul Africii.", "Este cunoscut pentru semnificația sa peisagistică sau cultural-istorică."],
+      en: ["Family attraction.", "Many species of animals.", "Popular zoo on the Mediterranean coast.", "Located within the Arab Republic of Egypt.", "Connected with the Nile or the surrounding desert area.", "Shaped by the hot desert climate of northeastern Africa.", "Known for its scenic or cultural-historical significance."],
     }, image: "/poi-images/alexandria-zoo-life-v2.webp"},
   {
     id: "delta-bird-habitat-life-v2",
@@ -157,6 +289,18 @@ export const poiExtraEgyptLifeV2: POI[] = [
       hu: ["Megfigyelőtornyok", "Százezernyi madár"],
       ro: ["Turnuri de observație", "Sute de mii de păsări"],
       en: ["Observation towers", "Hundreds of thousands of birds"]
+    },
+    descriptionAdvanced: {
+      de: "Nildelta Vogelschutzgebiet ist ein bemerkenswertes Element der Geografie und Kultur Ägyptens. Ein wichtiges Ziel für Zugvögel. Beobachtungstürme. Hunderttausende Vögel. Dieses Schutzgebiet ist Teil der Tier- und Pflanzenwelt Ägyptens, zwischen Nil, Wüste und Rotem Meer. Wie viele bedeutende Orte in Ägypten verbindet dieser Ort das Erbe der Pharaonen mit dem heutigen Leben am Nil. Damit trägt dieser Ort zum vielseitigen Profil Ägyptens zwischen Sahara, Nil, Suezkanal und Rotem Meer bei.",
+      hu: "A(z) Nílus-delta madárvédelmi terület az egyiptomi földrajz és kultúra figyelemre méltó eleme. A vándormadarak fontos célpontja. Megfigyelőtornyok. Százezernyi madár. Ez a védett terület Egyiptom élővilágának része, a Nílus, a sivatag és a Vörös-tenger között. Egyiptom számos jelentős helyszínéhez hasonlóan ez is összeköti a fáraók örökségét a mai nílusi élettel. Ezzel a helyszín hozzájárul Egyiptom sokszínű arculatához a Szahara, a Nílus, a Szuezi-csatorna és a Vörös-tenger között.",
+      ro: "Rezervația de păsări din Delta Nilului este un element remarcabil al geografiei și culturii Egiptului. O destinație importantă pentru păsările migratoare. Turnuri de observație. Sute de mii de păsări. Această arie protejată face parte din fauna și flora Egiptului, între Nil, deșert și Marea Roșie. Asemenea multor locuri importante din Egipt, acesta îmbină moștenirea faraonilor cu viața de astăzi de pe Nil. Astfel, acest loc contribuie la profilul variat al Egiptului între Sahara, Nil, Canalul Suez și Marea Roșie.",
+      en: "Nile Delta Bird Sanctuary is a remarkable feature of the geography and culture of Egypt. An important destination for migratory birds. Observation towers. Hundreds of thousands of birds. This protected area is part of Egypt's wildlife and flora, between the Nile, desert and Red Sea. Like many notable places in Egypt, it links the pharaonic heritage with present-day life along the Nile. Thus, this place contributes to the diverse profile of Egypt between the Sahara, the Nile, the Suez Canal and the Red Sea.",
+    },
+    factsAdvanced: {
+      de: ["Beobachtungstürme.", "Hunderttausende Vögel.", "Ein wichtiges Ziel für Zugvögel.", "Liegt im Gebiet der Arabischen Republik Ägypten.", "Steht in Verbindung mit dem Nil oder dem benachbarten Wüstenraum.", "Wird vom heißen Wüstenklima Nordostafrikas geprägt.", "Bekannt für seine landschaftliche oder kulturhistorische Bedeutung."],
+      hu: ["Megfigyelőtornyok.", "Százezernyi madár.", "A vándormadarak fontos célpontja.", "Az Egyiptomi Arab Köztársaság területén található.", "Kapcsolódik a Nílushoz vagy a környező sivatagi térséghez.", "Az északkelet-afrikai forró sivatagi éghajlat alakítja.", "Tájképi vagy kultúrtörténeti jelentőségéről ismert."],
+      ro: ["Turnuri de observație.", "Sute de mii de păsări.", "O destinație importantă pentru păsările migratoare.", "Se află pe teritoriul Republicii Arabe Egipt.", "Este legat de Nil sau de spațiul deșertic învecinat.", "Este modelat de clima caldă deșertică din nord-estul Africii.", "Este cunoscut pentru semnificația sa peisagistică sau cultural-istorică."],
+      en: ["Observation towers.", "Hundreds of thousands of birds.", "An important destination for migratory birds.", "Located within the Arab Republic of Egypt.", "Connected with the Nile or the surrounding desert area.", "Shaped by the hot desert climate of northeastern Africa.", "Known for its scenic or cultural-historical significance."],
     }, image: "/poi-images/delta-bird-habitat-life-v2.webp"},
   {
     id: "giza-farm-agriculture-life-v2",
@@ -170,6 +314,18 @@ export const poiExtraEgyptLifeV2: POI[] = [
       hu: ["Bio-zöldségtermesztés", "Fenntartható módszerek"],
       ro: ["Cultivarea legumelor organice", "Metode durabile"],
       en: ["Organic vegetable farming", "Sustainable methods"]
+    },
+    descriptionAdvanced: {
+      de: "Giza Bio-Farmen ist ein bemerkenswertes Element der Geografie und Kultur Ägyptens. Moderne Landwirtschaft am Rande der Wüste. Bio-Gemüseanbau. Nachhaltige Methoden. Dieses Schutzgebiet ist Teil der Tier- und Pflanzenwelt Ägyptens, zwischen Nil, Wüste und Rotem Meer. Wie viele bedeutende Orte in Ägypten verbindet dieser Ort das Erbe der Pharaonen mit dem heutigen Leben am Nil. Damit trägt dieser Ort zum vielseitigen Profil Ägyptens zwischen Sahara, Nil, Suezkanal und Rotem Meer bei.",
+      hu: "A(z) Gízai biofarmok az egyiptomi földrajz és kultúra figyelemre méltó eleme. Modern mezőgazdaság a sivatag peremén. Bio-zöldségtermesztés. Fenntartható módszerek. Ez a védett terület Egyiptom élővilágának része, a Nílus, a sivatag és a Vörös-tenger között. Egyiptom számos jelentős helyszínéhez hasonlóan ez is összeköti a fáraók örökségét a mai nílusi élettel. Ezzel a helyszín hozzájárul Egyiptom sokszínű arculatához a Szahara, a Nílus, a Szuezi-csatorna és a Vörös-tenger között.",
+      ro: "Bio-ferme Giza este un element remarcabil al geografiei și culturii Egiptului. Agricultură modernă la marginea deșertului. Cultivarea legumelor organice. Metode durabile. Această arie protejată face parte din fauna și flora Egiptului, între Nil, deșert și Marea Roșie. Asemenea multor locuri importante din Egipt, acesta îmbină moștenirea faraonilor cu viața de astăzi de pe Nil. Astfel, acest loc contribuie la profilul variat al Egiptului între Sahara, Nil, Canalul Suez și Marea Roșie.",
+      en: "Giza Organic Farms is a remarkable feature of the geography and culture of Egypt. Modern farming at the edge of the desert. Organic vegetable farming. Sustainable methods. This protected area is part of Egypt's wildlife and flora, between the Nile, desert and Red Sea. Like many notable places in Egypt, it links the pharaonic heritage with present-day life along the Nile. Thus, this place contributes to the diverse profile of Egypt between the Sahara, the Nile, the Suez Canal and the Red Sea.",
+    },
+    factsAdvanced: {
+      de: ["Bio-Gemüseanbau.", "Nachhaltige Methoden.", "Moderne Landwirtschaft am Rande der Wüste.", "Liegt im Gebiet der Arabischen Republik Ägypten.", "Steht in Verbindung mit dem Nil oder dem benachbarten Wüstenraum.", "Wird vom heißen Wüstenklima Nordostafrikas geprägt.", "Bekannt für seine landschaftliche oder kulturhistorische Bedeutung."],
+      hu: ["Bio-zöldségtermesztés.", "Fenntartható módszerek.", "Modern mezőgazdaság a sivatag peremén.", "Az Egyiptomi Arab Köztársaság területén található.", "Kapcsolódik a Nílushoz vagy a környező sivatagi térséghez.", "Az északkelet-afrikai forró sivatagi éghajlat alakítja.", "Tájképi vagy kultúrtörténeti jelentőségéről ismert."],
+      ro: ["Cultivarea legumelor organice.", "Metode durabile.", "Agricultură modernă la marginea deșertului.", "Se află pe teritoriul Republicii Arabe Egipt.", "Este legat de Nil sau de spațiul deșertic învecinat.", "Este modelat de clima caldă deșertică din nord-estul Africii.", "Este cunoscut pentru semnificația sa peisagistică sau cultural-istorică."],
+      en: ["Organic vegetable farming.", "Sustainable methods.", "Modern farming at the edge of the desert.", "Located within the Arab Republic of Egypt.", "Connected with the Nile or the surrounding desert area.", "Shaped by the hot desert climate of northeastern Africa.", "Known for its scenic or cultural-historical significance."],
     }, image: "/poi-images/giza-farm-agriculture-life-v2.webp"},
   {
     id: "aswan-island-kid-life-v2",
@@ -183,6 +339,18 @@ export const poiExtraEgyptLifeV2: POI[] = [
       hu: ["Ideális sétákhoz", "Nagyszerű kilátás"],
       ro: ["Ideal pentru plimbări", "Priveliște minunată"],
       en: ["Ideal for walking", "Great views"]
+    },
+    descriptionAdvanced: {
+      de: "Elephantine Insel Park ist ein bemerkenswertes Element der Geografie und Kultur Ägyptens. Ein ruhiger Park auf einer historischen Nilinsel. Ideal zum Spazierengehen. Tolle Aussicht. Dieses Schutzgebiet ist Teil der Tier- und Pflanzenwelt Ägyptens, zwischen Nil, Wüste und Rotem Meer. Wie viele bedeutende Orte in Ägypten verbindet dieser Ort das Erbe der Pharaonen mit dem heutigen Leben am Nil. Damit trägt dieser Ort zum vielseitigen Profil Ägyptens zwischen Sahara, Nil, Suezkanal und Rotem Meer bei.",
+      hu: "A(z) Elephantine-sziget park az egyiptomi földrajz és kultúra figyelemre méltó eleme. Csendes park egy történelmi nílusi szigeten. Ideális sétákhoz. Nagyszerű kilátás. Ez a védett terület Egyiptom élővilágának része, a Nílus, a sivatag és a Vörös-tenger között. Egyiptom számos jelentős helyszínéhez hasonlóan ez is összeköti a fáraók örökségét a mai nílusi élettel. Ezzel a helyszín hozzájárul Egyiptom sokszínű arculatához a Szahara, a Nílus, a Szuezi-csatorna és a Vörös-tenger között.",
+      ro: "Insula Elephantine Parc este un element remarcabil al geografiei și culturii Egiptului. Un parc liniștit pe o insulă istorică pe Nil. Ideal pentru plimbări. Priveliște minunată. Această arie protejată face parte din fauna și flora Egiptului, între Nil, deșert și Marea Roșie. Asemenea multor locuri importante din Egipt, acesta îmbină moștenirea faraonilor cu viața de astăzi de pe Nil. Astfel, acest loc contribuie la profilul variat al Egiptului între Sahara, Nil, Canalul Suez și Marea Roșie.",
+      en: "Elephantine Island Park is a remarkable feature of the geography and culture of Egypt. A peaceful park on a historic Nile island. Ideal for walking. Great views. This protected area is part of Egypt's wildlife and flora, between the Nile, desert and Red Sea. Like many notable places in Egypt, it links the pharaonic heritage with present-day life along the Nile. Thus, this place contributes to the diverse profile of Egypt between the Sahara, the Nile, the Suez Canal and the Red Sea.",
+    },
+    factsAdvanced: {
+      de: ["Ideal zum Spazierengehen.", "Tolle Aussicht.", "Ein ruhiger Park auf einer historischen Nilinsel.", "Liegt im Gebiet der Arabischen Republik Ägypten.", "Steht in Verbindung mit dem Nil oder dem benachbarten Wüstenraum.", "Wird vom heißen Wüstenklima Nordostafrikas geprägt.", "Bekannt für seine landschaftliche oder kulturhistorische Bedeutung."],
+      hu: ["Ideális sétákhoz.", "Nagyszerű kilátás.", "Csendes park egy történelmi nílusi szigeten.", "Az Egyiptomi Arab Köztársaság területén található.", "Kapcsolódik a Nílushoz vagy a környező sivatagi térséghez.", "Az északkelet-afrikai forró sivatagi éghajlat alakítja.", "Tájképi vagy kultúrtörténeti jelentőségéről ismert."],
+      ro: ["Ideal pentru plimbări.", "Priveliște minunată.", "Un parc liniștit pe o insulă istorică pe Nil.", "Se află pe teritoriul Republicii Arabe Egipt.", "Este legat de Nil sau de spațiul deșertic învecinat.", "Este modelat de clima caldă deșertică din nord-estul Africii.", "Este cunoscut pentru semnificația sa peisagistică sau cultural-istorică."],
+      en: ["Ideal for walking.", "Great views.", "A peaceful park on a historic Nile island.", "Located within the Arab Republic of Egypt.", "Connected with the Nile or the surrounding desert area.", "Shaped by the hot desert climate of northeastern Africa.", "Known for its scenic or cultural-historical significance."],
     }, image: "/poi-images/aswan-island-kid-life-v2.webp"},
   {
     id: "sina-camel-habitat-life-v2",
@@ -196,6 +364,18 @@ export const poiExtraEgyptLifeV2: POI[] = [
       hu: ["Kulturális táj", "Tevemegfigyelés"],
       ro: ["Peisaj cultural", "Observarea cămilelor"],
       en: ["Cultural landscape", "Camel watching"]
+    },
+    descriptionAdvanced: {
+      de: "Sinai Kamel-Weiden ist ein bemerkenswertes Element der Geografie und Kultur Ägyptens. Traditionelle Weidegebiete der Beduinen. Kulturlandschaft. Kamele beobachten. Dieses Schutzgebiet ist Teil der Tier- und Pflanzenwelt Ägyptens, zwischen Nil, Wüste und Rotem Meer. Wie viele bedeutende Orte in Ägypten verbindet dieser Ort das Erbe der Pharaonen mit dem heutigen Leben am Nil. Damit trägt dieser Ort zum vielseitigen Profil Ägyptens zwischen Sahara, Nil, Suezkanal und Rotem Meer bei.",
+      hu: "A(z) Sínai tevelegelő az egyiptomi földrajz és kultúra figyelemre méltó eleme. A beduinok hagyományos legelőterületei. Kulturális táj. Tevemegfigyelés. Ez a védett terület Egyiptom élővilágának része, a Nílus, a sivatag és a Vörös-tenger között. Egyiptom számos jelentős helyszínéhez hasonlóan ez is összeköti a fáraók örökségét a mai nílusi élettel. Ezzel a helyszín hozzájárul Egyiptom sokszínű arculatához a Szahara, a Nílus, a Szuezi-csatorna és a Vörös-tenger között.",
+      ro: "Pășunile de cămile Sinai este un element remarcabil al geografiei și culturii Egiptului. Zone de pășunat tradiționale ale beduinilor. Peisaj cultural. Observarea cămilelor. Această arie protejată face parte din fauna și flora Egiptului, între Nil, deșert și Marea Roșie. Asemenea multor locuri importante din Egipt, acesta îmbină moștenirea faraonilor cu viața de astăzi de pe Nil. Astfel, acest loc contribuie la profilul variat al Egiptului între Sahara, Nil, Canalul Suez și Marea Roșie.",
+      en: "Sinai Camel Pastures is a remarkable feature of the geography and culture of Egypt. Traditional grazing areas of the Bedouin. Cultural landscape. Camel watching. This protected area is part of Egypt's wildlife and flora, between the Nile, desert and Red Sea. Like many notable places in Egypt, it links the pharaonic heritage with present-day life along the Nile. Thus, this place contributes to the diverse profile of Egypt between the Sahara, the Nile, the Suez Canal and the Red Sea.",
+    },
+    factsAdvanced: {
+      de: ["Kulturlandschaft.", "Kamele beobachten.", "Traditionelle Weidegebiete der Beduinen.", "Liegt im Gebiet der Arabischen Republik Ägypten.", "Steht in Verbindung mit dem Nil oder dem benachbarten Wüstenraum.", "Wird vom heißen Wüstenklima Nordostafrikas geprägt.", "Bekannt für seine landschaftliche oder kulturhistorische Bedeutung."],
+      hu: ["Kulturális táj.", "Tevemegfigyelés.", "A beduinok hagyományos legelőterületei.", "Az Egyiptomi Arab Köztársaság területén található.", "Kapcsolódik a Nílushoz vagy a környező sivatagi térséghez.", "Az északkelet-afrikai forró sivatagi éghajlat alakítja.", "Tájképi vagy kultúrtörténeti jelentőségéről ismert."],
+      ro: ["Peisaj cultural.", "Observarea cămilelor.", "Zone de pășunat tradiționale ale beduinilor.", "Se află pe teritoriul Republicii Arabe Egipt.", "Este legat de Nil sau de spațiul deșertic învecinat.", "Este modelat de clima caldă deșertică din nord-estul Africii.", "Este cunoscut pentru semnificația sa peisagistică sau cultural-istorică."],
+      en: ["Cultural landscape.", "Camel watching.", "Traditional grazing areas of the Bedouin.", "Located within the Arab Republic of Egypt.", "Connected with the Nile or the surrounding desert area.", "Shaped by the hot desert climate of northeastern Africa.", "Known for its scenic or cultural-historical significance."],
     }, image: "/poi-images/sina-camel-habitat-life-v2.webp"},
   {
     id: "nabq-protected-life-v2",
@@ -209,6 +389,18 @@ export const poiExtraEgyptLifeV2: POI[] = [
       hu: ["Mangrovék", "Víz alatti világ"],
       ro: ["Mangrove", "Lumea subacvatică"],
       en: ["Mangroves", "Underwater world"]
+    },
+    descriptionAdvanced: {
+      de: "Nabq Naturschutzgebiet ist ein bemerkenswertes Element der Geografie und Kultur Ägyptens. Schutzgebiet mit Mangrovenwäldern am Roten Meer. Mangroven. Unterwasserwelt. Dieses Schutzgebiet ist Teil der Tier- und Pflanzenwelt Ägyptens, zwischen Nil, Wüste und Rotem Meer. Wie viele bedeutende Orte in Ägypten verbindet dieser Ort das Erbe der Pharaonen mit dem heutigen Leben am Nil. Damit trägt dieser Ort zum vielseitigen Profil Ägyptens zwischen Sahara, Nil, Suezkanal und Rotem Meer bei.",
+      hu: "A(z) Nabq Természetvédelmi Terület az egyiptomi földrajz és kultúra figyelemre méltó eleme. Védett terület mangroveerdőkkel a Vörös-tengeren. Mangrovék. Víz alatti világ. Ez a védett terület Egyiptom élővilágának része, a Nílus, a sivatag és a Vörös-tenger között. Egyiptom számos jelentős helyszínéhez hasonlóan ez is összeköti a fáraók örökségét a mai nílusi élettel. Ezzel a helyszín hozzájárul Egyiptom sokszínű arculatához a Szahara, a Nílus, a Szuezi-csatorna és a Vörös-tenger között.",
+      ro: "Rezervația Nabq este un element remarcabil al geografiei și culturii Egiptului. Zonă protejată cu păduri de mangrove la Marea Roșie. Mangrove. Lumea subacvatică. Această arie protejată face parte din fauna și flora Egiptului, între Nil, deșert și Marea Roșie. Asemenea multor locuri importante din Egipt, acesta îmbină moștenirea faraonilor cu viața de astăzi de pe Nil. Astfel, acest loc contribuie la profilul variat al Egiptului între Sahara, Nil, Canalul Suez și Marea Roșie.",
+      en: "Nabq Protected Area is a remarkable feature of the geography and culture of Egypt. Protected area with mangrove forests on the Red Sea. Mangroves. Underwater world. This protected area is part of Egypt's wildlife and flora, between the Nile, desert and Red Sea. Like many notable places in Egypt, it links the pharaonic heritage with present-day life along the Nile. Thus, this place contributes to the diverse profile of Egypt between the Sahara, the Nile, the Suez Canal and the Red Sea.",
+    },
+    factsAdvanced: {
+      de: ["Mangroven.", "Unterwasserwelt.", "Schutzgebiet mit Mangrovenwäldern am Roten Meer.", "Liegt im Gebiet der Arabischen Republik Ägypten.", "Steht in Verbindung mit dem Nil oder dem benachbarten Wüstenraum.", "Wird vom heißen Wüstenklima Nordostafrikas geprägt.", "Bekannt für seine landschaftliche oder kulturhistorische Bedeutung."],
+      hu: ["Mangrovék.", "Víz alatti világ.", "Védett terület mangroveerdőkkel a Vörös-tengeren.", "Az Egyiptomi Arab Köztársaság területén található.", "Kapcsolódik a Nílushoz vagy a környező sivatagi térséghez.", "Az északkelet-afrikai forró sivatagi éghajlat alakítja.", "Tájképi vagy kultúrtörténeti jelentőségéről ismert."],
+      ro: ["Mangrove.", "Lumea subacvatică.", "Zonă protejată cu păduri de mangrove la Marea Roșie.", "Se află pe teritoriul Republicii Arabe Egipt.", "Este legat de Nil sau de spațiul deșertic învecinat.", "Este modelat de clima caldă deșertică din nord-estul Africii.", "Este cunoscut pentru semnificația sa peisagistică sau cultural-istorică."],
+      en: ["Mangroves.", "Underwater world.", "Protected area with mangrove forests on the Red Sea.", "Located within the Arab Republic of Egypt.", "Connected with the Nile or the surrounding desert area.", "Shaped by the hot desert climate of northeastern Africa.", "Known for its scenic or cultural-historical significance."],
     }, image: "/poi-images/nabq-protected-life-v2.webp"},
   {
     id: "azhar-park-kid-life-v2",
@@ -222,6 +414,18 @@ export const poiExtraEgyptLifeV2: POI[] = [
       hu: ["Játszóterek", "Családi kikapcsolódás"],
       ro: ["Locuri de joacă", "Relaxare în familie"],
       en: ["Playgrounds", "Family recreation"]
+    },
+    descriptionAdvanced: {
+      de: "Al-Azhar Park ist ein bemerkenswertes Element der Geografie und Kultur Ägyptens. Eine grüne Lunge in der Kairoer Altstadt. Spielplätze. Familien-Freizeit. Dieses Schutzgebiet ist Teil der Tier- und Pflanzenwelt Ägyptens, zwischen Nil, Wüste und Rotem Meer. Wie viele bedeutende Orte in Ägypten verbindet dieser Ort das Erbe der Pharaonen mit dem heutigen Leben am Nil. Damit trägt dieser Ort zum vielseitigen Profil Ägyptens zwischen Sahara, Nil, Suezkanal und Rotem Meer bei.",
+      hu: "A(z) Al-Azhar park az egyiptomi földrajz és kultúra figyelemre méltó eleme. Zöld oázis a kairói óvárosban. Játszóterek. Családi kikapcsolódás. Ez a védett terület Egyiptom élővilágának része, a Nílus, a sivatag és a Vörös-tenger között. Egyiptom számos jelentős helyszínéhez hasonlóan ez is összeköti a fáraók örökségét a mai nílusi élettel. Ezzel a helyszín hozzájárul Egyiptom sokszínű arculatához a Szahara, a Nílus, a Szuezi-csatorna és a Vörös-tenger között.",
+      ro: "Parcul Al-Azhar este un element remarcabil al geografiei și culturii Egiptului. Oază verde în orașul vechi din Cairo. Locuri de joacă. Relaxare în familie. Această arie protejată face parte din fauna și flora Egiptului, între Nil, deșert și Marea Roșie. Asemenea multor locuri importante din Egipt, acesta îmbină moștenirea faraonilor cu viața de astăzi de pe Nil. Astfel, acest loc contribuie la profilul variat al Egiptului între Sahara, Nil, Canalul Suez și Marea Roșie.",
+      en: "Al-Azhar Park is a remarkable feature of the geography and culture of Egypt. A green oasis in Cairo's old city. Playgrounds. Family recreation. This protected area is part of Egypt's wildlife and flora, between the Nile, desert and Red Sea. Like many notable places in Egypt, it links the pharaonic heritage with present-day life along the Nile. Thus, this place contributes to the diverse profile of Egypt between the Sahara, the Nile, the Suez Canal and the Red Sea.",
+    },
+    factsAdvanced: {
+      de: ["Spielplätze.", "Familien-Freizeit.", "Eine grüne Lunge in der Kairoer Altstadt.", "Liegt im Gebiet der Arabischen Republik Ägypten.", "Steht in Verbindung mit dem Nil oder dem benachbarten Wüstenraum.", "Wird vom heißen Wüstenklima Nordostafrikas geprägt.", "Bekannt für seine landschaftliche oder kulturhistorische Bedeutung."],
+      hu: ["Játszóterek.", "Családi kikapcsolódás.", "Zöld oázis a kairói óvárosban.", "Az Egyiptomi Arab Köztársaság területén található.", "Kapcsolódik a Nílushoz vagy a környező sivatagi térséghez.", "Az északkelet-afrikai forró sivatagi éghajlat alakítja.", "Tájképi vagy kultúrtörténeti jelentőségéről ismert."],
+      ro: ["Locuri de joacă.", "Relaxare în familie.", "Oază verde în orașul vechi din Cairo.", "Se află pe teritoriul Republicii Arabe Egipt.", "Este legat de Nil sau de spațiul deșertic învecinat.", "Este modelat de clima caldă deșertică din nord-estul Africii.", "Este cunoscut pentru semnificația sa peisagistică sau cultural-istorică."],
+      en: ["Playgrounds.", "Family recreation.", "A green oasis in Cairo's old city.", "Located within the Arab Republic of Egypt.", "Connected with the Nile or the surrounding desert area.", "Shaped by the hot desert climate of northeastern Africa.", "Known for its scenic or cultural-historical significance."],
     }, image: "/poi-images/azhar-park-kid-life-v2.webp"},
   {
     id: "rosseta-fruit-agriculture-life-v2",
@@ -235,6 +439,18 @@ export const poiExtraEgyptLifeV2: POI[] = [
       hu: ["Narancs és citrom", "Hagyományos"],
       ro: ["Portocale și lămâi", "Tradițional"],
       en: ["Oranges and lemons", "Traditional"]
+    },
+    descriptionAdvanced: {
+      de: "Rosetta Obstgärten ist ein bemerkenswertes Element der Geografie und Kultur Ägyptens. Bekannt für den Anbau von Zitrusfrüchten. Orangen und Zitronen. Traditionell. Dieses Schutzgebiet ist Teil der Tier- und Pflanzenwelt Ägyptens, zwischen Nil, Wüste und Rotem Meer. Wie viele bedeutende Orte in Ägypten verbindet dieser Ort das Erbe der Pharaonen mit dem heutigen Leben am Nil. Damit trägt dieser Ort zum vielseitigen Profil Ägyptens zwischen Sahara, Nil, Suezkanal und Rotem Meer bei.",
+      hu: "A(z) Rosetta gyümölcsöskertek az egyiptomi földrajz és kultúra figyelemre méltó eleme. Ismert a citrusfélék termesztéséről. Narancs és citrom. Hagyományos. Ez a védett terület Egyiptom élővilágának része, a Nílus, a sivatag és a Vörös-tenger között. Egyiptom számos jelentős helyszínéhez hasonlóan ez is összeköti a fáraók örökségét a mai nílusi élettel. Ezzel a helyszín hozzájárul Egyiptom sokszínű arculatához a Szahara, a Nílus, a Szuezi-csatorna és a Vörös-tenger között.",
+      ro: "Livezile Rosetta este un element remarcabil al geografiei și culturii Egiptului. Cunoscută pentru cultivarea citricelor. Portocale și lămâi. Tradițional. Această arie protejată face parte din fauna și flora Egiptului, între Nil, deșert și Marea Roșie. Asemenea multor locuri importante din Egipt, acesta îmbină moștenirea faraonilor cu viața de astăzi de pe Nil. Astfel, acest loc contribuie la profilul variat al Egiptului între Sahara, Nil, Canalul Suez și Marea Roșie.",
+      en: "Rosetta Orchards is a remarkable feature of the geography and culture of Egypt. Known for growing citrus fruits. Oranges and lemons. Traditional. This protected area is part of Egypt's wildlife and flora, between the Nile, desert and Red Sea. Like many notable places in Egypt, it links the pharaonic heritage with present-day life along the Nile. Thus, this place contributes to the diverse profile of Egypt between the Sahara, the Nile, the Suez Canal and the Red Sea.",
+    },
+    factsAdvanced: {
+      de: ["Orangen und Zitronen.", "Traditionell.", "Bekannt für den Anbau von Zitrusfrüchten.", "Liegt im Gebiet der Arabischen Republik Ägypten.", "Steht in Verbindung mit dem Nil oder dem benachbarten Wüstenraum.", "Wird vom heißen Wüstenklima Nordostafrikas geprägt.", "Bekannt für seine landschaftliche oder kulturhistorische Bedeutung."],
+      hu: ["Narancs és citrom.", "Hagyományos.", "Ismert a citrusfélék termesztéséről.", "Az Egyiptomi Arab Köztársaság területén található.", "Kapcsolódik a Nílushoz vagy a környező sivatagi térséghez.", "Az északkelet-afrikai forró sivatagi éghajlat alakítja.", "Tájképi vagy kultúrtörténeti jelentőségéről ismert."],
+      ro: ["Portocale și lămâi.", "Tradițional.", "Cunoscută pentru cultivarea citricelor.", "Se află pe teritoriul Republicii Arabe Egipt.", "Este legat de Nil sau de spațiul deșertic învecinat.", "Este modelat de clima caldă deșertică din nord-estul Africii.", "Este cunoscut pentru semnificația sa peisagistică sau cultural-istorică."],
+      en: ["Oranges and lemons.", "Traditional.", "Known for growing citrus fruits.", "Located within the Arab Republic of Egypt.", "Connected with the Nile or the surrounding desert area.", "Shaped by the hot desert climate of northeastern Africa.", "Known for its scenic or cultural-historical significance."],
     }, image: "/poi-images/rosseta-fruit-agriculture-life-v2.webp"},
   {
     id: "taba-habitat-life-v2",
@@ -248,6 +464,18 @@ export const poiExtraEgyptLifeV2: POI[] = [
       hu: ["Kőszáli kecskék", "Sivatagi növények"],
       ro: ["Capre negre", "Plante de deșert"],
       en: ["Ibex", "Desert plants"]
+    },
+    descriptionAdvanced: {
+      de: "Taba Schutzgebiet ist ein bemerkenswertes Element der Geografie und Kultur Ägyptens. Bergschutzgebiet mit seltener Wüstenflora. Steinböcke. Wüstenpflanzen. Dieses Schutzgebiet ist Teil der Tier- und Pflanzenwelt Ägyptens, zwischen Nil, Wüste und Rotem Meer. Wie viele bedeutende Orte in Ägypten verbindet dieser Ort das Erbe der Pharaonen mit dem heutigen Leben am Nil. Damit trägt dieser Ort zum vielseitigen Profil Ägyptens zwischen Sahara, Nil, Suezkanal und Rotem Meer bei.",
+      hu: "A(z) Taba Természetvédelmi Terület az egyiptomi földrajz és kultúra figyelemre méltó eleme. Hegyi védett terület ritka sivatagi növényzettel. Kőszáli kecskék. Sivatagi növények. Ez a védett terület Egyiptom élővilágának része, a Nílus, a sivatag és a Vörös-tenger között. Egyiptom számos jelentős helyszínéhez hasonlóan ez is összeköti a fáraók örökségét a mai nílusi élettel. Ezzel a helyszín hozzájárul Egyiptom sokszínű arculatához a Szahara, a Nílus, a Szuezi-csatorna és a Vörös-tenger között.",
+      ro: "Rezervația Taba este un element remarcabil al geografiei și culturii Egiptului. Zonă montană protejată cu vegetație deșertică rară. Capre negre. Plante de deșert. Această arie protejată face parte din fauna și flora Egiptului, între Nil, deșert și Marea Roșie. Asemenea multor locuri importante din Egipt, acesta îmbină moștenirea faraonilor cu viața de astăzi de pe Nil. Astfel, acest loc contribuie la profilul variat al Egiptului între Sahara, Nil, Canalul Suez și Marea Roșie.",
+      en: "Taba Protected Area is a remarkable feature of the geography and culture of Egypt. Mountainous protected area with rare desert flora. Ibex. Desert plants. This protected area is part of Egypt's wildlife and flora, between the Nile, desert and Red Sea. Like many notable places in Egypt, it links the pharaonic heritage with present-day life along the Nile. Thus, this place contributes to the diverse profile of Egypt between the Sahara, the Nile, the Suez Canal and the Red Sea.",
+    },
+    factsAdvanced: {
+      de: ["Steinböcke.", "Wüstenpflanzen.", "Bergschutzgebiet mit seltener Wüstenflora.", "Liegt im Gebiet der Arabischen Republik Ägypten.", "Steht in Verbindung mit dem Nil oder dem benachbarten Wüstenraum.", "Wird vom heißen Wüstenklima Nordostafrikas geprägt.", "Bekannt für seine landschaftliche oder kulturhistorische Bedeutung."],
+      hu: ["Kőszáli kecskék.", "Sivatagi növények.", "Hegyi védett terület ritka sivatagi növényzettel.", "Az Egyiptomi Arab Köztársaság területén található.", "Kapcsolódik a Nílushoz vagy a környező sivatagi térséghez.", "Az északkelet-afrikai forró sivatagi éghajlat alakítja.", "Tájképi vagy kultúrtörténeti jelentőségéről ismert."],
+      ro: ["Capre negre.", "Plante de deșert.", "Zonă montană protejată cu vegetație deșertică rară.", "Se află pe teritoriul Republicii Arabe Egipt.", "Este legat de Nil sau de spațiul deșertic învecinat.", "Este modelat de clima caldă deșertică din nord-estul Africii.", "Este cunoscut pentru semnificația sa peisagistică sau cultural-istorică."],
+      en: ["Ibex.", "Desert plants.", "Mountainous protected area with rare desert flora.", "Located within the Arab Republic of Egypt.", "Connected with the Nile or the surrounding desert area.", "Shaped by the hot desert climate of northeastern Africa.", "Known for its scenic or cultural-historical significance."],
     }, image: "/poi-images/taba-habitat-life-v2.webp"},
   {
     id: "minya-crops-agriculture-life-v2",
@@ -261,6 +489,18 @@ export const poiExtraEgyptLifeV2: POI[] = [
       hu: ["Cukornád", "Kukoricatermesztés"],
       ro: ["Trestie de zahăr", "Cultivarea porumbului"],
       en: ["Sugar cane", "Corn farming"]
+    },
+    descriptionAdvanced: {
+      de: "Minya Anbaugebiete ist ein bemerkenswertes Element der Geografie und Kultur Ägyptens. Wichtige Anbauregion im mittleren Ägypten. Zuckerrohr. Maisanbau. Dieses Schutzgebiet ist Teil der Tier- und Pflanzenwelt Ägyptens, zwischen Nil, Wüste und Rotem Meer. Wie viele bedeutende Orte in Ägypten verbindet dieser Ort das Erbe der Pharaonen mit dem heutigen Leben am Nil. Damit trägt dieser Ort zum vielseitigen Profil Ägyptens zwischen Sahara, Nil, Suezkanal und Rotem Meer bei.",
+      hu: "A(z) Minya művelési területek az egyiptomi földrajz és kultúra figyelemre méltó eleme. Fontos termesztési régió Közép-Egyiptomban. Cukornád. Kukoricatermesztés. Ez a védett terület Egyiptom élővilágának része, a Nílus, a sivatag és a Vörös-tenger között. Egyiptom számos jelentős helyszínéhez hasonlóan ez is összeköti a fáraók örökségét a mai nílusi élettel. Ezzel a helyszín hozzájárul Egyiptom sokszínű arculatához a Szahara, a Nílus, a Szuezi-csatorna és a Vörös-tenger között.",
+      ro: "Zone agricole Minya este un element remarcabil al geografiei și culturii Egiptului. Regiune agricolă importantă în Egiptul Central. Trestie de zahăr. Cultivarea porumbului. Această arie protejată face parte din fauna și flora Egiptului, între Nil, deșert și Marea Roșie. Asemenea multor locuri importante din Egipt, acesta îmbină moștenirea faraonilor cu viața de astăzi de pe Nil. Astfel, acest loc contribuie la profilul variat al Egiptului între Sahara, Nil, Canalul Suez și Marea Roșie.",
+      en: "Minya Agricultural Lands is a remarkable feature of the geography and culture of Egypt. Important agricultural region in central Egypt. Sugar cane. Corn farming. This protected area is part of Egypt's wildlife and flora, between the Nile, desert and Red Sea. Like many notable places in Egypt, it links the pharaonic heritage with present-day life along the Nile. Thus, this place contributes to the diverse profile of Egypt between the Sahara, the Nile, the Suez Canal and the Red Sea.",
+    },
+    factsAdvanced: {
+      de: ["Zuckerrohr.", "Maisanbau.", "Wichtige Anbauregion im mittleren Ägypten.", "Liegt im Gebiet der Arabischen Republik Ägypten.", "Steht in Verbindung mit dem Nil oder dem benachbarten Wüstenraum.", "Wird vom heißen Wüstenklima Nordostafrikas geprägt.", "Bekannt für seine landschaftliche oder kulturhistorische Bedeutung."],
+      hu: ["Cukornád.", "Kukoricatermesztés.", "Fontos termesztési régió Közép-Egyiptomban.", "Az Egyiptomi Arab Köztársaság területén található.", "Kapcsolódik a Nílushoz vagy a környező sivatagi térséghez.", "Az északkelet-afrikai forró sivatagi éghajlat alakítja.", "Tájképi vagy kultúrtörténeti jelentőségéről ismert."],
+      ro: ["Trestie de zahăr.", "Cultivarea porumbului.", "Regiune agricolă importantă în Egiptul Central.", "Se află pe teritoriul Republicii Arabe Egipt.", "Este legat de Nil sau de spațiul deșertic învecinat.", "Este modelat de clima caldă deșertică din nord-estul Africii.", "Este cunoscut pentru semnificația sa peisagistică sau cultural-istorică."],
+      en: ["Sugar cane.", "Corn farming.", "Important agricultural region in central Egypt.", "Located within the Arab Republic of Egypt.", "Connected with the Nile or the surrounding desert area.", "Shaped by the hot desert climate of northeastern Africa.", "Known for its scenic or cultural-historical significance."],
     }, image: "/poi-images/minya-crops-agriculture-life-v2.webp"},
   {
     id: "sohag-fields-agriculture-life-v2",
@@ -274,6 +514,18 @@ export const poiExtraEgyptLifeV2: POI[] = [
       hu: ["Öntözött földek", "Helyi termékek"],
       ro: ["Câmpuri irigate", "Produse locale"],
       en: ["Irrigated fields", "Local products"]
+    },
+    descriptionAdvanced: {
+      de: "Sohag Agrarland ist ein bemerkenswertes Element der Geografie und Kultur Ägyptens. Traditionelle Landwirtschaft entlang des Nils. Bewässerungsfelder. Lokale Produkte. Dieses Schutzgebiet ist Teil der Tier- und Pflanzenwelt Ägyptens, zwischen Nil, Wüste und Rotem Meer. Wie viele bedeutende Orte in Ägypten verbindet dieser Ort das Erbe der Pharaonen mit dem heutigen Leben am Nil. Damit trägt dieser Ort zum vielseitigen Profil Ägyptens zwischen Sahara, Nil, Suezkanal und Rotem Meer bei.",
+      hu: "A(z) Sohag mezőgazdasági földek az egyiptomi földrajz és kultúra figyelemre méltó eleme. Hagyományos mezőgazdaság a Nílus mentén. Öntözött földek. Helyi termékek. Ez a védett terület Egyiptom élővilágának része, a Nílus, a sivatag és a Vörös-tenger között. Egyiptom számos jelentős helyszínéhez hasonlóan ez is összeköti a fáraók örökségét a mai nílusi élettel. Ezzel a helyszín hozzájárul Egyiptom sokszínű arculatához a Szahara, a Nílus, a Szuezi-csatorna és a Vörös-tenger között.",
+      ro: "Terenuri agricole Sohag este un element remarcabil al geografiei și culturii Egiptului. Agricultură tradițională de-a lungul Nilului. Câmpuri irigate. Produse locale. Această arie protejată face parte din fauna și flora Egiptului, între Nil, deșert și Marea Roșie. Asemenea multor locuri importante din Egipt, acesta îmbină moștenirea faraonilor cu viața de astăzi de pe Nil. Astfel, acest loc contribuie la profilul variat al Egiptului între Sahara, Nil, Canalul Suez și Marea Roșie.",
+      en: "Sohag Agricultural Lands is a remarkable feature of the geography and culture of Egypt. Traditional farming along the Nile. Irrigated fields. Local products. This protected area is part of Egypt's wildlife and flora, between the Nile, desert and Red Sea. Like many notable places in Egypt, it links the pharaonic heritage with present-day life along the Nile. Thus, this place contributes to the diverse profile of Egypt between the Sahara, the Nile, the Suez Canal and the Red Sea.",
+    },
+    factsAdvanced: {
+      de: ["Bewässerungsfelder.", "Lokale Produkte.", "Traditionelle Landwirtschaft entlang des Nils.", "Liegt im Gebiet der Arabischen Republik Ägypten.", "Steht in Verbindung mit dem Nil oder dem benachbarten Wüstenraum.", "Wird vom heißen Wüstenklima Nordostafrikas geprägt.", "Bekannt für seine landschaftliche oder kulturhistorische Bedeutung."],
+      hu: ["Öntözött földek.", "Helyi termékek.", "Hagyományos mezőgazdaság a Nílus mentén.", "Az Egyiptomi Arab Köztársaság területén található.", "Kapcsolódik a Nílushoz vagy a környező sivatagi térséghez.", "Az északkelet-afrikai forró sivatagi éghajlat alakítja.", "Tájképi vagy kultúrtörténeti jelentőségéről ismert."],
+      ro: ["Câmpuri irigate.", "Produse locale.", "Agricultură tradițională de-a lungul Nilului.", "Se află pe teritoriul Republicii Arabe Egipt.", "Este legat de Nil sau de spațiul deșertic învecinat.", "Este modelat de clima caldă deșertică din nord-estul Africii.", "Este cunoscut pentru semnificația sa peisagistică sau cultural-istorică."],
+      en: ["Irrigated fields.", "Local products.", "Traditional farming along the Nile.", "Located within the Arab Republic of Egypt.", "Connected with the Nile or the surrounding desert area.", "Shaped by the hot desert climate of northeastern Africa.", "Known for its scenic or cultural-historical significance."],
     }, image: "/poi-images/sohag-fields-agriculture-life-v2.webp"},
   {
     id: "qena-farming-agriculture-life-v2",
@@ -287,6 +539,18 @@ export const poiExtraEgyptLifeV2: POI[] = [
       hu: ["Friss termékek", "Napos éghajlat"],
       ro: ["Produse proaspete", "Climat însorit"],
       en: ["Fresh products", "Sunny climate"]
+    },
+    descriptionAdvanced: {
+      de: "Qena Obst- und Gemüsefelder ist ein bemerkenswertes Element der Geografie und Kultur Ägyptens. Produktionsstätte für regionale Agrarerzeugnisse. Frische Produkte. Sonniges Klima. Dieses Schutzgebiet ist Teil der Tier- und Pflanzenwelt Ägyptens, zwischen Nil, Wüste und Rotem Meer. Wie viele bedeutende Orte in Ägypten verbindet dieser Ort das Erbe der Pharaonen mit dem heutigen Leben am Nil. Damit trägt dieser Ort zum vielseitigen Profil Ägyptens zwischen Sahara, Nil, Suezkanal und Rotem Meer bei.",
+      hu: "A(z) Qena gyümölcs- és zöldségföldek az egyiptomi földrajz és kultúra figyelemre méltó eleme. Termelőhely regionális mezőgazdasági termékek számára. Friss termékek. Napos éghajlat. Ez a védett terület Egyiptom élővilágának része, a Nílus, a sivatag és a Vörös-tenger között. Egyiptom számos jelentős helyszínéhez hasonlóan ez is összeköti a fáraók örökségét a mai nílusi élettel. Ezzel a helyszín hozzájárul Egyiptom sokszínű arculatához a Szahara, a Nílus, a Szuezi-csatorna és a Vörös-tenger között.",
+      ro: "Câmpuri de fructe și legume Qena este un element remarcabil al geografiei și culturii Egiptului. Loc de producție pentru produse agricole regionale. Produse proaspete. Climat însorit. Această arie protejată face parte din fauna și flora Egiptului, între Nil, deșert și Marea Roșie. Asemenea multor locuri importante din Egipt, acesta îmbină moștenirea faraonilor cu viața de astăzi de pe Nil. Astfel, acest loc contribuie la profilul variat al Egiptului între Sahara, Nil, Canalul Suez și Marea Roșie.",
+      en: "Qena Fruit and Vegetable Fields is a remarkable feature of the geography and culture of Egypt. Production site for regional agricultural products. Fresh products. Sunny climate. This protected area is part of Egypt's wildlife and flora, between the Nile, desert and Red Sea. Like many notable places in Egypt, it links the pharaonic heritage with present-day life along the Nile. Thus, this place contributes to the diverse profile of Egypt between the Sahara, the Nile, the Suez Canal and the Red Sea.",
+    },
+    factsAdvanced: {
+      de: ["Frische Produkte.", "Sonniges Klima.", "Produktionsstätte für regionale Agrarerzeugnisse.", "Liegt im Gebiet der Arabischen Republik Ägypten.", "Steht in Verbindung mit dem Nil oder dem benachbarten Wüstenraum.", "Wird vom heißen Wüstenklima Nordostafrikas geprägt.", "Bekannt für seine landschaftliche oder kulturhistorische Bedeutung."],
+      hu: ["Friss termékek.", "Napos éghajlat.", "Termelőhely regionális mezőgazdasági termékek számára.", "Az Egyiptomi Arab Köztársaság területén található.", "Kapcsolódik a Nílushoz vagy a környező sivatagi térséghez.", "Az északkelet-afrikai forró sivatagi éghajlat alakítja.", "Tájképi vagy kultúrtörténeti jelentőségéről ismert."],
+      ro: ["Produse proaspete.", "Climat însorit.", "Loc de producție pentru produse agricole regionale.", "Se află pe teritoriul Republicii Arabe Egipt.", "Este legat de Nil sau de spațiul deșertic învecinat.", "Este modelat de clima caldă deșertică din nord-estul Africii.", "Este cunoscut pentru semnificația sa peisagistică sau cultural-istorică."],
+      en: ["Fresh products.", "Sunny climate.", "Production site for regional agricultural products.", "Located within the Arab Republic of Egypt.", "Connected with the Nile or the surrounding desert area.", "Shaped by the hot desert climate of northeastern Africa.", "Known for its scenic or cultural-historical significance."],
     }, image: "/poi-images/qena-farming-agriculture-life-v2.webp"},
   {
     id: "hurghada-marine-habitat-life-v2",
@@ -300,6 +564,18 @@ export const poiExtraEgyptLifeV2: POI[] = [
       hu: ["Zátonymerülés", "Színes élővilág"],
       ro: ["Scufundări la recif", "Viață marină colorată"],
       en: ["Reef diving", "Colorful marine life"]
+    },
+    descriptionAdvanced: {
+      de: "Hurghada Korallen-Habitat ist ein bemerkenswertes Element der Geografie und Kultur Ägyptens. Geschützte Korallenriffe vor der Küste. Rifftauchen. Bunte Meereswelt. Dieses Schutzgebiet ist Teil der Tier- und Pflanzenwelt Ägyptens, zwischen Nil, Wüste und Rotem Meer. Wie viele bedeutende Orte in Ägypten verbindet dieser Ort das Erbe der Pharaonen mit dem heutigen Leben am Nil. Damit trägt dieser Ort zum vielseitigen Profil Ägyptens zwischen Sahara, Nil, Suezkanal und Rotem Meer bei.",
+      hu: "A(z) Hurghada Korall-élőhely az egyiptomi földrajz és kultúra figyelemre méltó eleme. Védett korallzátonyok a part mentén. Zátonymerülés. Színes élővilág. Ez a védett terület Egyiptom élővilágának része, a Nílus, a sivatag és a Vörös-tenger között. Egyiptom számos jelentős helyszínéhez hasonlóan ez is összeköti a fáraók örökségét a mai nílusi élettel. Ezzel a helyszín hozzájárul Egyiptom sokszínű arculatához a Szahara, a Nílus, a Szuezi-csatorna és a Vörös-tenger között.",
+      ro: "Habitat de corali Hurghada este un element remarcabil al geografiei și culturii Egiptului. Recife de corali protejate lângă coastă. Scufundări la recif. Viață marină colorată. Această arie protejată face parte din fauna și flora Egiptului, între Nil, deșert și Marea Roșie. Asemenea multor locuri importante din Egipt, acesta îmbină moștenirea faraonilor cu viața de astăzi de pe Nil. Astfel, acest loc contribuie la profilul variat al Egiptului între Sahara, Nil, Canalul Suez și Marea Roșie.",
+      en: "Hurghada Coral Habitat is a remarkable feature of the geography and culture of Egypt. Protected coral reefs off the coast. Reef diving. Colorful marine life. This protected area is part of Egypt's wildlife and flora, between the Nile, desert and Red Sea. Like many notable places in Egypt, it links the pharaonic heritage with present-day life along the Nile. Thus, this place contributes to the diverse profile of Egypt between the Sahara, the Nile, the Suez Canal and the Red Sea.",
+    },
+    factsAdvanced: {
+      de: ["Rifftauchen.", "Bunte Meereswelt.", "Geschützte Korallenriffe vor der Küste.", "Liegt im Gebiet der Arabischen Republik Ägypten.", "Steht in Verbindung mit dem Nil oder dem benachbarten Wüstenraum.", "Wird vom heißen Wüstenklima Nordostafrikas geprägt.", "Bekannt für seine landschaftliche oder kulturhistorische Bedeutung."],
+      hu: ["Zátonymerülés.", "Színes élővilág.", "Védett korallzátonyok a part mentén.", "Az Egyiptomi Arab Köztársaság területén található.", "Kapcsolódik a Nílushoz vagy a környező sivatagi térséghez.", "Az északkelet-afrikai forró sivatagi éghajlat alakítja.", "Tájképi vagy kultúrtörténeti jelentőségéről ismert."],
+      ro: ["Scufundări la recif.", "Viață marină colorată.", "Recife de corali protejate lângă coastă.", "Se află pe teritoriul Republicii Arabe Egipt.", "Este legat de Nil sau de spațiul deșertic învecinat.", "Este modelat de clima caldă deșertică din nord-estul Africii.", "Este cunoscut pentru semnificația sa peisagistică sau cultural-istorică."],
+      en: ["Reef diving.", "Colorful marine life.", "Protected coral reefs off the coast.", "Located within the Arab Republic of Egypt.", "Connected with the Nile or the surrounding desert area.", "Shaped by the hot desert climate of northeastern Africa.", "Known for its scenic or cultural-historical significance."],
     }, image: "/poi-images/hurghada-marine-habitat-life-v2.webp"},
   {
     id: "heliopolis-park-kid-life-v2",
@@ -313,6 +589,18 @@ export const poiExtraEgyptLifeV2: POI[] = [
       hu: ["Zöldterületek", "Családi tevékenységek"],
       ro: ["Spații verzi", "Activități de familie"],
       en: ["Green areas", "Family activities"]
+    },
+    descriptionAdvanced: {
+      de: "Heliopolis Park ist ein bemerkenswertes Element der Geografie und Kultur Ägyptens. Großer Stadtpark mit Freizeitmöglichkeiten. Grünanlagen. Familienaktivitäten. Dieses Schutzgebiet ist Teil der Tier- und Pflanzenwelt Ägyptens, zwischen Nil, Wüste und Rotem Meer. Wie viele bedeutende Orte in Ägypten verbindet dieser Ort das Erbe der Pharaonen mit dem heutigen Leben am Nil. Damit trägt dieser Ort zum vielseitigen Profil Ägyptens zwischen Sahara, Nil, Suezkanal und Rotem Meer bei.",
+      hu: "A(z) Heliopolisz park az egyiptomi földrajz és kultúra figyelemre méltó eleme. Nagy városi park szabadidős lehetőségekkel. Zöldterületek. Családi tevékenységek. Ez a védett terület Egyiptom élővilágának része, a Nílus, a sivatag és a Vörös-tenger között. Egyiptom számos jelentős helyszínéhez hasonlóan ez is összeköti a fáraók örökségét a mai nílusi élettel. Ezzel a helyszín hozzájárul Egyiptom sokszínű arculatához a Szahara, a Nílus, a Szuezi-csatorna és a Vörös-tenger között.",
+      ro: "Parcul Heliopolis este un element remarcabil al geografiei și culturii Egiptului. Parc urban mare cu facilități de recreere. Spații verzi. Activități de familie. Această arie protejată face parte din fauna și flora Egiptului, între Nil, deșert și Marea Roșie. Asemenea multor locuri importante din Egipt, acesta îmbină moștenirea faraonilor cu viața de astăzi de pe Nil. Astfel, acest loc contribuie la profilul variat al Egiptului între Sahara, Nil, Canalul Suez și Marea Roșie.",
+      en: "Heliopolis Park is a remarkable feature of the geography and culture of Egypt. Large city park with recreational opportunities. Green areas. Family activities. This protected area is part of Egypt's wildlife and flora, between the Nile, desert and Red Sea. Like many notable places in Egypt, it links the pharaonic heritage with present-day life along the Nile. Thus, this place contributes to the diverse profile of Egypt between the Sahara, the Nile, the Suez Canal and the Red Sea.",
+    },
+    factsAdvanced: {
+      de: ["Grünanlagen.", "Familienaktivitäten.", "Großer Stadtpark mit Freizeitmöglichkeiten.", "Liegt im Gebiet der Arabischen Republik Ägypten.", "Steht in Verbindung mit dem Nil oder dem benachbarten Wüstenraum.", "Wird vom heißen Wüstenklima Nordostafrikas geprägt.", "Bekannt für seine landschaftliche oder kulturhistorische Bedeutung."],
+      hu: ["Zöldterületek.", "Családi tevékenységek.", "Nagy városi park szabadidős lehetőségekkel.", "Az Egyiptomi Arab Köztársaság területén található.", "Kapcsolódik a Nílushoz vagy a környező sivatagi térséghez.", "Az északkelet-afrikai forró sivatagi éghajlat alakítja.", "Tájképi vagy kultúrtörténeti jelentőségéről ismert."],
+      ro: ["Spații verzi.", "Activități de familie.", "Parc urban mare cu facilități de recreere.", "Se află pe teritoriul Republicii Arabe Egipt.", "Este legat de Nil sau de spațiul deșertic învecinat.", "Este modelat de clima caldă deșertică din nord-estul Africii.", "Este cunoscut pentru semnificația sa peisagistică sau cultural-istorică."],
+      en: ["Green areas.", "Family activities.", "Large city park with recreational opportunities.", "Located within the Arab Republic of Egypt.", "Connected with the Nile or the surrounding desert area.", "Shaped by the hot desert climate of northeastern Africa.", "Known for its scenic or cultural-historical significance."],
     }, image: "/poi-images/heliopolis-park-kid-life-v2.webp"},
   {
     id: "cairo-delta-animal-life-v2",
@@ -326,6 +614,18 @@ export const poiExtraEgyptLifeV2: POI[] = [
       hu: ["Kis emlősök", "Őshonos madarak"],
       ro: ["Mamifere mici", "Păsări native"],
       en: ["Small mammals", "Native birds"]
+    },
+    descriptionAdvanced: {
+      de: "Delta Naturreservat ist ein bemerkenswertes Element der Geografie und Kultur Ägyptens. Reservat für einheimische Tierarten im Nildelta. Kleine Säugetiere. Einheimische Vögel. Dieses Schutzgebiet ist Teil der Tier- und Pflanzenwelt Ägyptens, zwischen Nil, Wüste und Rotem Meer. Wie viele bedeutende Orte in Ägypten verbindet dieser Ort das Erbe der Pharaonen mit dem heutigen Leben am Nil. Damit trägt dieser Ort zum vielseitigen Profil Ägyptens zwischen Sahara, Nil, Suezkanal und Rotem Meer bei.",
+      hu: "A(z) Delta természetvédelmi terület az egyiptomi földrajz és kultúra figyelemre méltó eleme. Rezervátum őshonos állatfajok számára a Nílus-deltában. Kis emlősök. Őshonos madarak. Ez a védett terület Egyiptom élővilágának része, a Nílus, a sivatag és a Vörös-tenger között. Egyiptom számos jelentős helyszínéhez hasonlóan ez is összeköti a fáraók örökségét a mai nílusi élettel. Ezzel a helyszín hozzájárul Egyiptom sokszínű arculatához a Szahara, a Nílus, a Szuezi-csatorna és a Vörös-tenger között.",
+      ro: "Rezervația naturală Delta este un element remarcabil al geografiei și culturii Egiptului. Rezervație pentru specii native în Delta Nilului. Mamifere mici. Păsări native. Această arie protejată face parte din fauna și flora Egiptului, între Nil, deșert și Marea Roșie. Asemenea multor locuri importante din Egipt, acesta îmbină moștenirea faraonilor cu viața de astăzi de pe Nil. Astfel, acest loc contribuie la profilul variat al Egiptului între Sahara, Nil, Canalul Suez și Marea Roșie.",
+      en: "Delta Nature Reserve is a remarkable feature of the geography and culture of Egypt. Reserve for native species in the Nile Delta. Small mammals. Native birds. This protected area is part of Egypt's wildlife and flora, between the Nile, desert and Red Sea. Like many notable places in Egypt, it links the pharaonic heritage with present-day life along the Nile. Thus, this place contributes to the diverse profile of Egypt between the Sahara, the Nile, the Suez Canal and the Red Sea.",
+    },
+    factsAdvanced: {
+      de: ["Kleine Säugetiere.", "Einheimische Vögel.", "Reservat für einheimische Tierarten im Nildelta.", "Liegt im Gebiet der Arabischen Republik Ägypten.", "Steht in Verbindung mit dem Nil oder dem benachbarten Wüstenraum.", "Wird vom heißen Wüstenklima Nordostafrikas geprägt.", "Bekannt für seine landschaftliche oder kulturhistorische Bedeutung."],
+      hu: ["Kis emlősök.", "Őshonos madarak.", "Rezervátum őshonos állatfajok számára a Nílus-deltában.", "Az Egyiptomi Arab Köztársaság területén található.", "Kapcsolódik a Nílushoz vagy a környező sivatagi térséghez.", "Az északkelet-afrikai forró sivatagi éghajlat alakítja.", "Tájképi vagy kultúrtörténeti jelentőségéről ismert."],
+      ro: ["Mamifere mici.", "Păsări native.", "Rezervație pentru specii native în Delta Nilului.", "Se află pe teritoriul Republicii Arabe Egipt.", "Este legat de Nil sau de spațiul deșertic învecinat.", "Este modelat de clima caldă deșertică din nord-estul Africii.", "Este cunoscut pentru semnificația sa peisagistică sau cultural-istorică."],
+      en: ["Small mammals.", "Native birds.", "Reserve for native species in the Nile Delta.", "Located within the Arab Republic of Egypt.", "Connected with the Nile or the surrounding desert area.", "Shaped by the hot desert climate of northeastern Africa.", "Known for its scenic or cultural-historical significance."],
     }, image: "/poi-images/cairo-delta-animal-life-v2.webp"},
   {
     id: "benisuef-farms-agriculture-life-v2",
@@ -339,6 +639,18 @@ export const poiExtraEgyptLifeV2: POI[] = [
       hu: ["Zöldségtermesztés", "Fontos a régió számára"],
       ro: ["Cultivarea legumelor", "Importantă pentru regiune"],
       en: ["Vegetable farming", "Important for the region"]
+    },
+    descriptionAdvanced: {
+      de: "Beni Suef Farmen ist ein bemerkenswertes Element der Geografie und Kultur Ägyptens. Landwirtschaftliche Zone am Nil. Gemüseanbau. Wichtig für die Region. Dieses Schutzgebiet ist Teil der Tier- und Pflanzenwelt Ägyptens, zwischen Nil, Wüste und Rotem Meer. Wie viele bedeutende Orte in Ägypten verbindet dieser Ort das Erbe der Pharaonen mit dem heutigen Leben am Nil. Damit trägt dieser Ort zum vielseitigen Profil Ägyptens zwischen Sahara, Nil, Suezkanal und Rotem Meer bei.",
+      hu: "A(z) Beni Suef farmok az egyiptomi földrajz és kultúra figyelemre méltó eleme. Mezőgazdasági övezet a Nílus mentén. Zöldségtermesztés. Fontos a régió számára. Ez a védett terület Egyiptom élővilágának része, a Nílus, a sivatag és a Vörös-tenger között. Egyiptom számos jelentős helyszínéhez hasonlóan ez is összeköti a fáraók örökségét a mai nílusi élettel. Ezzel a helyszín hozzájárul Egyiptom sokszínű arculatához a Szahara, a Nílus, a Szuezi-csatorna és a Vörös-tenger között.",
+      ro: "Ferme Beni Suef este un element remarcabil al geografiei și culturii Egiptului. Zonă agricolă pe malul Nilului. Cultivarea legumelor. Importantă pentru regiune. Această arie protejată face parte din fauna și flora Egiptului, între Nil, deșert și Marea Roșie. Asemenea multor locuri importante din Egipt, acesta îmbină moștenirea faraonilor cu viața de astăzi de pe Nil. Astfel, acest loc contribuie la profilul variat al Egiptului între Sahara, Nil, Canalul Suez și Marea Roșie.",
+      en: "Beni Suef Farms is a remarkable feature of the geography and culture of Egypt. Agricultural zone along the Nile. Vegetable farming. Important for the region. This protected area is part of Egypt's wildlife and flora, between the Nile, desert and Red Sea. Like many notable places in Egypt, it links the pharaonic heritage with present-day life along the Nile. Thus, this place contributes to the diverse profile of Egypt between the Sahara, the Nile, the Suez Canal and the Red Sea.",
+    },
+    factsAdvanced: {
+      de: ["Gemüseanbau.", "Wichtig für die Region.", "Landwirtschaftliche Zone am Nil.", "Liegt im Gebiet der Arabischen Republik Ägypten.", "Steht in Verbindung mit dem Nil oder dem benachbarten Wüstenraum.", "Wird vom heißen Wüstenklima Nordostafrikas geprägt.", "Bekannt für seine landschaftliche oder kulturhistorische Bedeutung."],
+      hu: ["Zöldségtermesztés.", "Fontos a régió számára.", "Mezőgazdasági övezet a Nílus mentén.", "Az Egyiptomi Arab Köztársaság területén található.", "Kapcsolódik a Nílushoz vagy a környező sivatagi térséghez.", "Az északkelet-afrikai forró sivatagi éghajlat alakítja.", "Tájképi vagy kultúrtörténeti jelentőségéről ismert."],
+      ro: ["Cultivarea legumelor.", "Importantă pentru regiune.", "Zonă agricolă pe malul Nilului.", "Se află pe teritoriul Republicii Arabe Egipt.", "Este legat de Nil sau de spațiul deșertic învecinat.", "Este modelat de clima caldă deșertică din nord-estul Africii.", "Este cunoscut pentru semnificația sa peisagistică sau cultural-istorică."],
+      en: ["Vegetable farming.", "Important for the region.", "Agricultural zone along the Nile.", "Located within the Arab Republic of Egypt.", "Connected with the Nile or the surrounding desert area.", "Shaped by the hot desert climate of northeastern Africa.", "Known for its scenic or cultural-historical significance."],
     }, image: "/poi-images/benisuef-farms-agriculture-life-v2.webp"},
   {
     id: "giza-green-kid-life-v2",
@@ -352,6 +664,18 @@ export const poiExtraEgyptLifeV2: POI[] = [
       hu: ["Játszóterek", "Árnyékos helyek"],
       ro: ["Locuri de joacă", "Zone umbrite"],
       en: ["Playgrounds", "Shaded spots"]
+    },
+    descriptionAdvanced: {
+      de: "Giza Stadtpark ist ein bemerkenswertes Element der Geografie und Kultur Ägyptens. Großer Erholungspark für Familien. Spielplätze. Schattenplätze. Dieses Schutzgebiet ist Teil der Tier- und Pflanzenwelt Ägyptens, zwischen Nil, Wüste und Rotem Meer. Wie viele bedeutende Orte in Ägypten verbindet dieser Ort das Erbe der Pharaonen mit dem heutigen Leben am Nil. Damit trägt dieser Ort zum vielseitigen Profil Ägyptens zwischen Sahara, Nil, Suezkanal und Rotem Meer bei.",
+      hu: "A(z) Gízai városi park az egyiptomi földrajz és kultúra figyelemre méltó eleme. Nagy pihenőpark családoknak. Játszóterek. Árnyékos helyek. Ez a védett terület Egyiptom élővilágának része, a Nílus, a sivatag és a Vörös-tenger között. Egyiptom számos jelentős helyszínéhez hasonlóan ez is összeköti a fáraók örökségét a mai nílusi élettel. Ezzel a helyszín hozzájárul Egyiptom sokszínű arculatához a Szahara, a Nílus, a Szuezi-csatorna és a Vörös-tenger között.",
+      ro: "Parc urban Giza este un element remarcabil al geografiei și culturii Egiptului. Parc de recreere mare pentru familii. Locuri de joacă. Zone umbrite. Această arie protejată face parte din fauna și flora Egiptului, între Nil, deșert și Marea Roșie. Asemenea multor locuri importante din Egipt, acesta îmbină moștenirea faraonilor cu viața de astăzi de pe Nil. Astfel, acest loc contribuie la profilul variat al Egiptului între Sahara, Nil, Canalul Suez și Marea Roșie.",
+      en: "Giza City Park is a remarkable feature of the geography and culture of Egypt. Large recreation park for families. Playgrounds. Shaded spots. This protected area is part of Egypt's wildlife and flora, between the Nile, desert and Red Sea. Like many notable places in Egypt, it links the pharaonic heritage with present-day life along the Nile. Thus, this place contributes to the diverse profile of Egypt between the Sahara, the Nile, the Suez Canal and the Red Sea.",
+    },
+    factsAdvanced: {
+      de: ["Spielplätze.", "Schattenplätze.", "Großer Erholungspark für Familien.", "Liegt im Gebiet der Arabischen Republik Ägypten.", "Steht in Verbindung mit dem Nil oder dem benachbarten Wüstenraum.", "Wird vom heißen Wüstenklima Nordostafrikas geprägt.", "Bekannt für seine landschaftliche oder kulturhistorische Bedeutung."],
+      hu: ["Játszóterek.", "Árnyékos helyek.", "Nagy pihenőpark családoknak.", "Az Egyiptomi Arab Köztársaság területén található.", "Kapcsolódik a Nílushoz vagy a környező sivatagi térséghez.", "Az északkelet-afrikai forró sivatagi éghajlat alakítja.", "Tájképi vagy kultúrtörténeti jelentőségéről ismert."],
+      ro: ["Locuri de joacă.", "Zone umbrite.", "Parc de recreere mare pentru familii.", "Se află pe teritoriul Republicii Arabe Egipt.", "Este legat de Nil sau de spațiul deșertic învecinat.", "Este modelat de clima caldă deșertică din nord-estul Africii.", "Este cunoscut pentru semnificația sa peisagistică sau cultural-istorică."],
+      en: ["Playgrounds.", "Shaded spots.", "Large recreation park for families.", "Located within the Arab Republic of Egypt.", "Connected with the Nile or the surrounding desert area.", "Shaped by the hot desert climate of northeastern Africa.", "Known for its scenic or cultural-historical significance."],
     }, image: "/poi-images/giza-green-kid-life-v2.webp"},
   {
     id: "suez-canal-agri-agriculture-life-v2",
@@ -365,6 +689,18 @@ export const poiExtraEgyptLifeV2: POI[] = [
       hu: ["Új öntözés", "Helyi betakarítás"],
       ro: ["Irigare nouă", "Recoltă locală"],
       en: ["New irrigation", "Local harvests"]
+    },
+    descriptionAdvanced: {
+      de: "Suez Agrarzone ist ein bemerkenswertes Element der Geografie und Kultur Ägyptens. Anbaubereiche in der Nähe des Kanals. Neue Bewässerung. Lokale Ernten. Dieses Schutzgebiet ist Teil der Tier- und Pflanzenwelt Ägyptens, zwischen Nil, Wüste und Rotem Meer. Wie viele bedeutende Orte in Ägypten verbindet dieser Ort das Erbe der Pharaonen mit dem heutigen Leben am Nil. Damit trägt dieser Ort zum vielseitigen Profil Ägyptens zwischen Sahara, Nil, Suezkanal und Rotem Meer bei.",
+      hu: "A(z) Szuezi agrárzóna az egyiptomi földrajz és kultúra figyelemre méltó eleme. Termesztési területek a csatorna közelében. Új öntözés. Helyi betakarítás. Ez a védett terület Egyiptom élővilágának része, a Nílus, a sivatag és a Vörös-tenger között. Egyiptom számos jelentős helyszínéhez hasonlóan ez is összeköti a fáraók örökségét a mai nílusi élettel. Ezzel a helyszín hozzájárul Egyiptom sokszínű arculatához a Szahara, a Nílus, a Szuezi-csatorna és a Vörös-tenger között.",
+      ro: "Zonă agricolă Suez este un element remarcabil al geografiei și culturii Egiptului. Zone de cultivare lângă canal. Irigare nouă. Recoltă locală. Această arie protejată face parte din fauna și flora Egiptului, între Nil, deșert și Marea Roșie. Asemenea multor locuri importante din Egipt, acesta îmbină moștenirea faraonilor cu viața de astăzi de pe Nil. Astfel, acest loc contribuie la profilul variat al Egiptului între Sahara, Nil, Canalul Suez și Marea Roșie.",
+      en: "Suez Agricultural Zone is a remarkable feature of the geography and culture of Egypt. Farming areas near the canal. New irrigation. Local harvests. This protected area is part of Egypt's wildlife and flora, between the Nile, desert and Red Sea. Like many notable places in Egypt, it links the pharaonic heritage with present-day life along the Nile. Thus, this place contributes to the diverse profile of Egypt between the Sahara, the Nile, the Suez Canal and the Red Sea.",
+    },
+    factsAdvanced: {
+      de: ["Neue Bewässerung.", "Lokale Ernten.", "Anbaubereiche in der Nähe des Kanals.", "Liegt im Gebiet der Arabischen Republik Ägypten.", "Steht in Verbindung mit dem Nil oder dem benachbarten Wüstenraum.", "Wird vom heißen Wüstenklima Nordostafrikas geprägt.", "Bekannt für seine landschaftliche oder kulturhistorische Bedeutung."],
+      hu: ["Új öntözés.", "Helyi betakarítás.", "Termesztési területek a csatorna közelében.", "Az Egyiptomi Arab Köztársaság területén található.", "Kapcsolódik a Nílushoz vagy a környező sivatagi térséghez.", "Az északkelet-afrikai forró sivatagi éghajlat alakítja.", "Tájképi vagy kultúrtörténeti jelentőségéről ismert."],
+      ro: ["Irigare nouă.", "Recoltă locală.", "Zone de cultivare lângă canal.", "Se află pe teritoriul Republicii Arabe Egipt.", "Este legat de Nil sau de spațiul deșertic învecinat.", "Este modelat de clima caldă deșertică din nord-estul Africii.", "Este cunoscut pentru semnificația sa peisagistică sau cultural-istorică."],
+      en: ["New irrigation.", "Local harvests.", "Farming areas near the canal.", "Located within the Arab Republic of Egypt.", "Connected with the Nile or the surrounding desert area.", "Shaped by the hot desert climate of northeastern Africa.", "Known for its scenic or cultural-historical significance."],
     }, image: "/poi-images/suez-canal-agri-agriculture-life-v2.webp"},
   {
     id: "damanhur-fields-agriculture-life-v2",
@@ -378,6 +714,18 @@ export const poiExtraEgyptLifeV2: POI[] = [
       hu: ["Rizstermelés", "Nagyon hozamgazdag"],
       ro: ["Producția de orez", "Foarte productiv"],
       en: ["Rice production", "Very productive"]
+    },
+    descriptionAdvanced: {
+      de: "Damanhur Agrarflächen ist ein bemerkenswertes Element der Geografie und Kultur Ägyptens. Fruchtbares Agrarland im Delta. Reis-Produktion. Sehr ertragreich. Dieses Schutzgebiet ist Teil der Tier- und Pflanzenwelt Ägyptens, zwischen Nil, Wüste und Rotem Meer. Wie viele bedeutende Orte in Ägypten verbindet dieser Ort das Erbe der Pharaonen mit dem heutigen Leben am Nil. Damit trägt dieser Ort zum vielseitigen Profil Ägyptens zwischen Sahara, Nil, Suezkanal und Rotem Meer bei.",
+      hu: "A(z) Damanhur mezőgazdasági területek az egyiptomi földrajz és kultúra figyelemre méltó eleme. Termékeny mezőgazdasági földek a Deltában. Rizstermelés. Nagyon hozamgazdag. Ez a védett terület Egyiptom élővilágának része, a Nílus, a sivatag és a Vörös-tenger között. Egyiptom számos jelentős helyszínéhez hasonlóan ez is összeköti a fáraók örökségét a mai nílusi élettel. Ezzel a helyszín hozzájárul Egyiptom sokszínű arculatához a Szahara, a Nílus, a Szuezi-csatorna és a Vörös-tenger között.",
+      ro: "Terenuri agricole Damanhur este un element remarcabil al geografiei și culturii Egiptului. Teren agricol fertil în Deltă. Producția de orez. Foarte productiv. Această arie protejată face parte din fauna și flora Egiptului, între Nil, deșert și Marea Roșie. Asemenea multor locuri importante din Egipt, acesta îmbină moștenirea faraonilor cu viața de astăzi de pe Nil. Astfel, acest loc contribuie la profilul variat al Egiptului între Sahara, Nil, Canalul Suez și Marea Roșie.",
+      en: "Damanhur Agricultural Lands is a remarkable feature of the geography and culture of Egypt. Fertile agricultural land in the Delta. Rice production. Very productive. This protected area is part of Egypt's wildlife and flora, between the Nile, desert and Red Sea. Like many notable places in Egypt, it links the pharaonic heritage with present-day life along the Nile. Thus, this place contributes to the diverse profile of Egypt between the Sahara, the Nile, the Suez Canal and the Red Sea.",
+    },
+    factsAdvanced: {
+      de: ["Reis-Produktion.", "Sehr ertragreich.", "Fruchtbares Agrarland im Delta.", "Liegt im Gebiet der Arabischen Republik Ägypten.", "Steht in Verbindung mit dem Nil oder dem benachbarten Wüstenraum.", "Wird vom heißen Wüstenklima Nordostafrikas geprägt.", "Bekannt für seine landschaftliche oder kulturhistorische Bedeutung."],
+      hu: ["Rizstermelés.", "Nagyon hozamgazdag.", "Termékeny mezőgazdasági földek a Deltában.", "Az Egyiptomi Arab Köztársaság területén található.", "Kapcsolódik a Nílushoz vagy a környező sivatagi térséghez.", "Az északkelet-afrikai forró sivatagi éghajlat alakítja.", "Tájképi vagy kultúrtörténeti jelentőségéről ismert."],
+      ro: ["Producția de orez.", "Foarte productiv.", "Teren agricol fertil în Deltă.", "Se află pe teritoriul Republicii Arabe Egipt.", "Este legat de Nil sau de spațiul deșertic învecinat.", "Este modelat de clima caldă deșertică din nord-estul Africii.", "Este cunoscut pentru semnificația sa peisagistică sau cultural-istorică."],
+      en: ["Rice production.", "Very productive.", "Fertile agricultural land in the Delta.", "Located within the Arab Republic of Egypt.", "Connected with the Nile or the surrounding desert area.", "Shaped by the hot desert climate of northeastern Africa.", "Known for its scenic or cultural-historical significance."],
     }, image: "/poi-images/damanhur-fields-agriculture-life-v2.webp"},
   {
     id: "elminya-habitat-life-v2",
@@ -391,6 +739,18 @@ export const poiExtraEgyptLifeV2: POI[] = [
       hu: ["Sivatagi rókák", "Kis gyíkok"],
       ro: ["Vulpi de deșert", "Șopârle mici"],
       en: ["Desert foxes", "Small lizards"]
+    },
+    descriptionAdvanced: {
+      de: "Minya Wildtier-Zuflucht ist ein bemerkenswertes Element der Geografie und Kultur Ägyptens. Schutzgebiet für bedrohte Wüstentiere. Wüstenfüchse. Kleine Eidechsen. Dieses Schutzgebiet ist Teil der Tier- und Pflanzenwelt Ägyptens, zwischen Nil, Wüste und Rotem Meer. Wie viele bedeutende Orte in Ägypten verbindet dieser Ort das Erbe der Pharaonen mit dem heutigen Leben am Nil. Damit trägt dieser Ort zum vielseitigen Profil Ägyptens zwischen Sahara, Nil, Suezkanal und Rotem Meer bei.",
+      hu: "A(z) Minya vadvilág-menedék az egyiptomi földrajz és kultúra figyelemre méltó eleme. Védett terület veszélyeztetett sivatagi állatok számára. Sivatagi rókák. Kis gyíkok. Ez a védett terület Egyiptom élővilágának része, a Nílus, a sivatag és a Vörös-tenger között. Egyiptom számos jelentős helyszínéhez hasonlóan ez is összeköti a fáraók örökségét a mai nílusi élettel. Ezzel a helyszín hozzájárul Egyiptom sokszínű arculatához a Szahara, a Nílus, a Szuezi-csatorna és a Vörös-tenger között.",
+      ro: "Refugiul faunei sălbatice Minya este un element remarcabil al geografiei și culturii Egiptului. Zonă protejată pentru animalele deșertice amenințate. Vulpi de deșert. Șopârle mici. Această arie protejată face parte din fauna și flora Egiptului, între Nil, deșert și Marea Roșie. Asemenea multor locuri importante din Egipt, acesta îmbină moștenirea faraonilor cu viața de astăzi de pe Nil. Astfel, acest loc contribuie la profilul variat al Egiptului între Sahara, Nil, Canalul Suez și Marea Roșie.",
+      en: "Minya Wildlife Refuge is a remarkable feature of the geography and culture of Egypt. Protected area for threatened desert animals. Desert foxes. Small lizards. This protected area is part of Egypt's wildlife and flora, between the Nile, desert and Red Sea. Like many notable places in Egypt, it links the pharaonic heritage with present-day life along the Nile. Thus, this place contributes to the diverse profile of Egypt between the Sahara, the Nile, the Suez Canal and the Red Sea.",
+    },
+    factsAdvanced: {
+      de: ["Wüstenfüchse.", "Kleine Eidechsen.", "Schutzgebiet für bedrohte Wüstentiere.", "Liegt im Gebiet der Arabischen Republik Ägypten.", "Steht in Verbindung mit dem Nil oder dem benachbarten Wüstenraum.", "Wird vom heißen Wüstenklima Nordostafrikas geprägt.", "Bekannt für seine landschaftliche oder kulturhistorische Bedeutung."],
+      hu: ["Sivatagi rókák.", "Kis gyíkok.", "Védett terület veszélyeztetett sivatagi állatok számára.", "Az Egyiptomi Arab Köztársaság területén található.", "Kapcsolódik a Nílushoz vagy a környező sivatagi térséghez.", "Az északkelet-afrikai forró sivatagi éghajlat alakítja.", "Tájképi vagy kultúrtörténeti jelentőségéről ismert."],
+      ro: ["Vulpi de deșert.", "Șopârle mici.", "Zonă protejată pentru animalele deșertice amenințate.", "Se află pe teritoriul Republicii Arabe Egipt.", "Este legat de Nil sau de spațiul deșertic învecinat.", "Este modelat de clima caldă deșertică din nord-estul Africii.", "Este cunoscut pentru semnificația sa peisagistică sau cultural-istorică."],
+      en: ["Desert foxes.", "Small lizards.", "Protected area for threatened desert animals.", "Located within the Arab Republic of Egypt.", "Connected with the Nile or the surrounding desert area.", "Shaped by the hot desert climate of northeastern Africa.", "Known for its scenic or cultural-historical significance."],
     }
   }
 ];

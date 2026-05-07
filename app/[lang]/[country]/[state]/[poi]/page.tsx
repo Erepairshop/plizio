@@ -118,8 +118,8 @@ export default async function PoiPage({
     ...((poi.facts as Record<string, string[]> | undefined)?.[resolved.lang as Lang] || poi.facts?.de || []),
     ...(((poi.factsAdvanced as Record<string, string[]> | undefined)?.[resolved.lang as Lang] || (poi.factsAdvanced as Record<string, string[]> | undefined)?.de || []) as string[]),
   ];
-  const regionName = (region.name as Record<string, string | undefined>)[resolved.lang as Lang] || region.name.de || "";
-  const poiName = (poi.name as Record<string, string | undefined>)[resolved.lang as Lang] || poi.name.de || "";
+  const regionName = (region.name as Record<string, string | undefined> | undefined)?.[resolved.lang as Lang] || (region.name as Record<string, string | undefined> | undefined)?.de || region.id || "";
+  const poiName = (poi.name as Record<string, string | undefined> | undefined)?.[resolved.lang as Lang] || (poi.name as Record<string, string | undefined> | undefined)?.de || poi.id || "";
 
   return (
     <main className="min-h-screen bg-[#020408] text-white">
@@ -150,13 +150,13 @@ export default async function PoiPage({
                 {poi.coa ? <img src={poi.coa} alt="" loading="lazy" className="h-16 w-16 rounded-2xl border border-white/10 bg-white/5 object-contain p-2" /> : null}
                 <div className="min-w-0 flex-1">
                   <p className="text-xs uppercase tracking-[0.28em] text-cyan-300/80">Plizio Visual Lab</p>
-                  <h1 className="mt-2 text-3xl font-semibold tracking-tight sm:text-5xl">{poi.name[resolved.lang as Lang] || poi.name.de}</h1>
+                  <h1 className="mt-2 text-3xl font-semibold tracking-tight sm:text-5xl">{poiName}</h1>
                 </div>
               </div>
 
               <div className="mt-5 flex flex-wrap gap-3">
                 {poi.audio ? (
-                  <audio controls preload="none" aria-label={`${poi.name[resolved.lang as Lang] || poi.name.de} pronunciation`} className="max-w-full">
+                  <audio controls preload="none" aria-label={`${poiName} pronunciation`} className="max-w-full">
                     <source src={poi.audio} />
                   </audio>
                 ) : null}

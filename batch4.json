@@ -1,56 +1,218 @@
 {
   "lang": "en",
-  "country": "usa",
+  "country": "elsalvador",
   "files": [
-    "lib/visualLab/data/poiExtraUsaCitiesV2.ts"
+    "lib/visualLab/data/poiExtraElsalvadorCitiesV2.ts",
+    "lib/visualLab/data/poiExtraElsalvadorEconomicV2.ts",
+    "lib/visualLab/data/poiExtraElsalvadorHistoryV2.ts",
+    "lib/visualLab/data/poiExtraElsalvadorLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraElsalvadorLifeV2.ts",
+    "lib/visualLab/data/poiExtraElsalvadorNatureV2.ts",
+    "lib/visualLab/data/poiExtraElsalvadorReliefV2.ts"
   ],
   "items": [
     {
-      "id": "austin-cities-v2",
-      "descriptionAdvanced": "Austin, the capital of Texas, is widely known as the 'Live Music Capital of the World' and a major hub for technology and higher education. Nestled in the Texas Hill Country, the city is home to the University of Texas at Austin, which fuels a vibrant research and startup ecosystem. Austin has become one of the fastest-growing cities in the U.S., attracting tech giants and a creative, youthful population. Its unique culture is defined by outdoor activities, such as swimming in Barton Springs Pool, and a legendary music scene centered on Sixth Street. The city's geography offers a blend of rolling hills and urban parks. Geography K7 — education, innovation, and cultural identity.",
+      "id": "san-luis-talpa-cities-v2",
+      "descriptionAdvanced": "San Luis Talpa is a rapidly developing municipality in the La Paz Department, situated on the coastal plain. Its geography and economy are defined by its immediate proximity to El Salvador International Airport, the country's primary aviation hub. This location has spurred significant industrial and logistics development, transforming the town from a purely agricultural community into a critical component of the national transit infrastructure. Despite this modernization, the surrounding areas still support sugarcane cultivation and cattle ranching. The town represents the intersection of globalized transit networks with traditional coastal agriculture.",
       "factsAdvanced": [
-        "Austin became the capital of Texas in 1839.",
-        "The University of Texas at Austin, established in 1883, is a major research university.",
-        "Austin is known as the 'Live Music Capital of the World' due to its high concentration of music venues.",
-        "Barton Springs Pool is a natural limestone pool fed by underground springs, maintaining a year-round temperature.",
-        "The city is a significant technology hub, often called 'Silicon Hills'.",
-        "Austin is home to the largest urban bat colony in North America, found under the Congress Avenue Bridge."
+        "Located in the La Paz Department.",
+        "Elevation is close to sea level.",
+        "Adjacent to El Salvador International Airport.",
+        "Economy is a mix of logistics, services, and agriculture.",
+        "Experiences a hot, tropical savanna climate.",
+        "Rapidly growing industrial and commercial center."
       ]
     },
     {
-      "id": "jacksonville-cities-v2",
-      "descriptionAdvanced": "Jacksonville, the largest city by area in the contiguous United States, is located on the Atlantic coast of Florida and serves as a major deep-water port. It is known for its extensive park system, which is one of the largest municipal park systems in the nation, and its vibrant riverfront along the St. Johns River. Jacksonville is an important center for logistics, financial services, and the military. Its proximity to the ocean and numerous waterways provides diverse recreational opportunities, from surfing to boating. The city’s economy is well-diversified, bolstered by major corporate headquarters and international trade. Geography K7 — coastal geography and logistics.",
+      "id": "chilanga-cities-v2",
+      "descriptionAdvanced": "Chilanga is a quiet, historically indigenous municipality situated in the Morazán Department. Characterized by its rolling, pine-covered hills, the town offers a cool climate typical of the eastern highlands. Historically, Chilanga has strong roots in the Lenca culture, which is still reflected in local customs and fragmented traditions. The local economy relies predominantly on subsistence agriculture, including corn, beans, and small-scale coffee cultivation. The town was significantly affected during the civil war but has since returned to its peaceful agrarian roots. It provides a glimpse into the enduring rural indigenous legacy of the Morazán highlands.",
       "factsAdvanced": [
-        "Jacksonville is the largest city in the contiguous U.S. by land area.",
-        "The St. Johns River is the longest river in Florida, flowing northward through the city.",
-        "The city’s park system includes more than 80,000 acres of parks and preserves.",
-        "Jacksonville serves as a major port for the import and export of automobiles in the U.S.",
-        "The U.S. Navy has a large presence in the region, including two major naval air stations.",
-        "The city hosts the annual Florida-Georgia college football game, a major regional event."
+        "Located in the Morazán Department.",
+        "Elevation is approximately 350 meters.",
+        "Economy is based primarily on subsistence agriculture.",
+        "Has deep historical roots in Lenca indigenous culture.",
+        "Characterized by rolling, pine-covered terrain.",
+        "Heavily impacted during the civil conflict of the 1980s."
       ]
     },
     {
-      "id": "fort-worth-cities-v2",
-      "descriptionAdvanced": "Fort Worth, the sister city to Dallas, embodies the 'Cowboy Culture' of Texas while being a major center for aerospace and defense. Historically an important stop on the Chisholm Trail, it maintains its heritage through the Fort Worth Stockyards, where the daily cattle drive is still held. Fort Worth is known for its world-class art institutions, such as the Kimbell Art Museum, housed in architecturally significant buildings. The city's economy is strongly supported by the aerospace industry, with major manufacturing facilities for the Lockheed Martin F-35 fighter jet. Fort Worth offers a blend of historic charm and modern industrial capability. Geography K7 — cultural history and industrial specialization.",
+      "id": "san-rafael-cedros-cities-v2",
+      "descriptionAdvanced": "San Rafael Cedros is a strategic municipality located in the Cuscatlán Department. Positioned directly along the Pan-American Highway, the town serves as a vital transit and commercial node connecting the capital, San Salvador, with the eastern regions of the country. This geographic advantage has fueled its growth as a hub for regional trade and services. The surrounding landscape consists of fertile valleys supporting sugarcane, coffee, and basic grains. San Rafael Cedros is an excellent example of how major transport infrastructure dictates urban growth and economic diversification in central El Salvador.",
       "factsAdvanced": [
-        "Fort Worth was founded as a U.S. Army outpost in 1849.",
-        "The Stockyards National Historic District preserves the city's legacy as a cattle trade hub.",
-        "The Kimbell Art Museum is globally renowned for its exceptional collection and architecture.",
-        "Fort Worth is a major center for aerospace and defense, including F-35 production.",
-        "The city hosts the annual Fort Worth Stock Show and Rodeo, one of the largest in the U.S.",
-        "Fort Worth is part of the Dallas-Fort Worth-Arlington metropolitan area, the fourth most populous in the nation."
+        "Located in the Cuscatlán Department.",
+        "Elevation is approximately 700 meters.",
+        "Positioned on the vital Pan-American Highway.",
+        "Functions as a major transit and commercial hub.",
+        "Economy blends highway-based commerce with agriculture.",
+        "Surrounded by fertile valleys producing grains and sugarcane."
       ]
     },
     {
-      "id": "columbus-cities-v2",
-      "descriptionAdvanced": "Columbus, the capital of Ohio, is one of the fastest-growing cities in the Midwest and a major center for higher education, government, and industry. Home to the Ohio State University, one of the largest universities in the nation, the city benefits from a strong research environment that supports diverse sectors like insurance, fashion, and technology. Located at the confluence of the Scioto and Olentangy rivers, Columbus has a strong emphasis on urban revitalisation and civic projects. The city is known for its diverse neighborhoods, such as German Village, and a thriving arts scene. Columbus plays a key role in the economic development of the Ohio region. Geography K7 — state capitals and higher education clusters.",
+      "id": "san-sebastian-sv-cities-v2",
+      "descriptionAdvanced": "San Sebastián is a culturally significant municipality in the San Vicente Department, renowned nationally and internationally for its vibrant textile industry. The town is most famous for producing high-quality, brightly colored hammocks, blankets, and fabrics using traditional wooden handlooms. This artisanal craft is the primary economic engine of the community, involving hundreds of local families whose skills have been passed down for generations. Set within a warm, agricultural landscape, the town seamlessly blends its textile economy with small-scale farming. It is a premier location for studying traditional artisanal economies and Salvadoran cultural exports.",
       "factsAdvanced": [
-        "Columbus is the capital and the most populous city in Ohio.",
-        "The Ohio State University, established in 1870, is one of the largest universities in the United States.",
-        "The city was named after explorer Christopher Columbus and founded in 1812.",
-        "German Village is a historic residential neighborhood known for its red-brick architecture.",
-        "Columbus is a significant center for the insurance and logistics industries.",
-        "The Scioto Mile is a collection of parks and pathways along the Scioto River in the heart of the city."
+        "Located in the San Vicente Department.",
+        "Elevation is approximately 530 meters.",
+        "Nationally famous for its traditional textile production.",
+        "Primary producer of traditional Salvadoran hammocks.",
+        "Textiles are woven using historic wooden handlooms.",
+        "Economy is heavily reliant on this specialized artisanal craft."
+      ]
+    },
+    {
+      "id": "jicalapa-cities-v2",
+      "descriptionAdvanced": "Jicalapa is an isolated, rugged municipality in the La Libertad Department, perched high in the Balsam Coast mountain range overlooking the Pacific Ocean. Because of its steep topography and historical lack of infrastructure, the town has remained relatively undeveloped, preserving a deeply traditional way of life. The local economy is largely based on subsistence agriculture and the historic extraction of Balsam of Peru from the surrounding forests. The area is known for its spectacular coastal views and strong religious traditions, particularly the veneration of the Black Christ. Jicalapa is a fascinating study in geographic isolation and cultural preservation.",
+      "factsAdvanced": [
+        "Located in the La Libertad Department.",
+        "Elevation is approximately 800 meters.",
+        "Situated on the steep coastal ridges of the Balsam range.",
+        "Economy relies on subsistence farming and balsam extraction.",
+        "Famous locally for the sanctuary of the Black Christ.",
+        "Geographically isolated due to rugged, mountainous terrain."
+      ]
+    },
+    {
+      "id": "tejutla-cities-v2",
+      "descriptionAdvanced": "Tejutla is a historic municipality in the Chalatenango Department, boasting origins that predate the Spanish conquest. During the colonial era, it was an important administrative and commercial center for the northern region, serving as a hub for indigo production and cattle ranching. The town's colonial legacy is still visible in its central architecture and layout. Today, the economy remains largely agricultural, focusing on livestock and basic grains. Surrounded by a mountainous landscape, Tejutla is representative of the historical development and subsequent stabilization of the northern highland communities in El Salvador.",
+      "factsAdvanced": [
+        "Located in the Chalatenango Department.",
+        "Elevation is approximately 350 meters.",
+        "Roots trace back to pre-Columbian indigenous settlements.",
+        "Historically an important center for indigo production.",
+        "Economy is predominantly based on cattle and agriculture.",
+        "Features remnants of colonial-era architectural influence."
+      ]
+    },
+    {
+      "id": "cinquera-cities-v2",
+      "descriptionAdvanced": "Cinquera is a remarkable municipality in the Cabañas Department, celebrated as an international model for post-conflict ecological restoration. The town was entirely destroyed and abandoned during the Salvadoran Civil War due to heavy bombing. Upon returning in the 1990s, the community decided to protect the surrounding forest—which had naturally regenerated during their absence—creating the Cinquera Ecological Park. Today, the town's economy is increasingly supported by ecotourism and historical tours that combine war history with environmental education. Cinquera is a critical case study in resilience, historical memory, and community-led conservation.",
+      "factsAdvanced": [
+        "Located in the Cabañas Department.",
+        "Elevation is approximately 400 meters.",
+        "Completely destroyed and abandoned during the civil war.",
+        "Home to the community-managed Cinquera Ecological Park.",
+        "Economy heavily incorporates ecotourism and history tours.",
+        "A global model for post-conflict environmental restoration."
+      ]
+    },
+    {
+      "id": "caluco-cities-v2",
+      "descriptionAdvanced": "Caluco is a historically profound municipality located in the Sonsonate Department. Before the Spanish arrival, it was a major center for the indigenous Pipil people and highly prized for its immense cacao production. During the colonial era, this wealth funded the construction of one of the region's most magnificent churches. Today, the dramatic brick ruins of this 16th-century church, destroyed by an earthquake in 1773, stand as a major local landmark. The town is also famous for its natural hot springs, which drive a local tourism economy. It is a vital site for studying colonial economics and architectural history.",
+      "factsAdvanced": [
+        "Located in the Sonsonate Department.",
+        "Elevation is roughly 350 meters.",
+        "Historically a major center for indigenous cacao wealth.",
+        "Features the massive ruins of a 16th-century colonial church.",
+        "Famous for local natural hot springs and water parks.",
+        "Name translates to 'city of crows' in Nahuat."
+      ]
+    },
+    {
+      "id": "san-julian-nonualco-cities-v2",
+      "descriptionAdvanced": "San Pedro Nonualco, part of the broader Nonualco indigenous region in the La Paz Department, is deeply rooted in the historical culture of the Nonualco people. This region is famous for its fierce resistance against colonial and post-colonial rule, most notably the 1833 uprising of Anastasio Aquino. The area is characterized by its rolling hills and fertile soil, primarily used for cultivating fruit, particularly citrus, and basic grains. The community actively preserves its unique cultural heritage, visible in its distinct religious festivals and traditional dances. The region is indispensable for understanding the enduring legacy of El Salvador's indigenous populations.",
+      "factsAdvanced": [
+        "Located in the La Paz Department.",
+        "Part of the historic indigenous Nonualco region.",
+        "Elevation varies across the rolling foothills.",
+        "Culturally tied to the 1833 Anastasio Aquino rebellion.",
+        "Economy focuses heavily on fruit cultivation and agriculture.",
+        "Maintains unique syncretic religious and cultural traditions."
+      ]
+    },
+    {
+      "id": "sacacoyo-cities-v2",
+      "descriptionAdvanced": "Sacacoyo is a rapidly expanding municipality in the La Libertad Department, positioned within the fertile Zapotitán valley. Historically an agricultural town focused on coffee and basic grains, its proximity to the expanding San Salvador metropolitan area and major western highways has spurred recent residential and commercial development. Despite this growth, Sacacoyo retains much of its rural charm, with surrounding hills still dedicated to farming. The town's name has Nahuat origins relating to the local flora. It serves as an excellent example of the transition from traditional agriculture to peri-urban development in modern El Salvador.",
+      "factsAdvanced": [
+        "Located in the La Libertad Department.",
+        "Elevation is approximately 600 meters.",
+        "Situated in the fertile agricultural Zapotitán valley.",
+        "Experiencing rapid residential and peri-urban growth.",
+        "Economy mixes agriculture with new commercial development.",
+        "Name has indigenous Nahuat origins."
+      ]
+    },
+    {
+      "id": "teotepeque-cities-v2",
+      "descriptionAdvanced": "Teotepeque is a picturesque municipality in the La Libertad Department, dramatically situated in the coastal Balsam mountain range. The town overlooks the Pacific Ocean, though the terrain is highly mountainous and rugged. Its economy has historically been tied to the extraction of Balsam of Peru, alongside coffee and subsistence agriculture. Due to its challenging topography, Teotepeque has remained somewhat isolated, allowing it to preserve a quiet, traditional lifestyle. Its coastal proximity combined with high elevation gives it a unique microclimate, making it a fascinating area for geographic and agricultural study.",
+      "factsAdvanced": [
+        "Located in the La Libertad Department.",
+        "Elevation is approximately 650 meters.",
+        "Situated in the rugged Balsam coastal mountain range.",
+        "Historically important for Balsam of Peru extraction.",
+        "Economy includes coffee, agriculture, and local commerce.",
+        "Features sweeping views of the Pacific coastline."
+      ]
+    },
+    {
+      "id": "san-antonio-pajonal-cities-v2",
+      "descriptionAdvanced": "San Antonio Pajonal is a small, remote border municipality in the Santa Ana Department. Tucked into the northwestern corner of the country, it shares a direct border with Guatemala. The local geography is relatively flat, and the economy is almost entirely dependent on agriculture, particularly the cultivation of corn, beans, and livestock farming, supplemented by cross-border trade. The town is known for its peaceful, slow-paced rural lifestyle, largely disconnected from the major urban centers. It provides a clear snapshot of life in El Salvador's remote, agrarian borderlands.",
+      "factsAdvanced": [
+        "Located in the Santa Ana Department.",
+        "Shares an international border with Guatemala.",
+        "Elevation is approximately 500 meters.",
+        "Economy relies heavily on agriculture and livestock.",
+        "Engages in localized cross-border commerce.",
+        "Characterized by a quiet, remote rural lifestyle."
+      ]
+    },
+    {
+      "id": "el-coyolito-cities-v2",
+      "descriptionAdvanced": "El Coyolito is a critical transit and commercial junction located in the Chalatenango Department. It is not an independent municipality but a highly significant urban center within Tejutla, functioning as the primary gateway to the northern half of the country. Situated near the Cerrón Grande hydroelectric dam and Lake Suchitlán, its geography is defined by its transit importance. The local economy is driven by logistics, transport services, and informal commerce serving travelers heading to Chalatenango. It is an excellent example of how highway infrastructure and regional geography create vital economic chokepoints.",
+      "factsAdvanced": [
+        "Located within the Chalatenango Department.",
+        "Functions as a major transit gateway to northern El Salvador.",
+        "Situated near the massive Cerrón Grande hydroelectric dam.",
+        "Economy is heavily driven by transport and transit commerce.",
+        "Elevation is roughly 300 meters.",
+        "Serves as a primary intersection on the Troncal del Norte highway."
+      ]
+    },
+    {
+      "id": "san-pablo-tacachico-cities-v2",
+      "descriptionAdvanced": "San Pablo Tacachico is a dynamic agricultural municipality in the La Libertad Department, located in a broad, fertile valley. The region is highly productive, focusing heavily on large-scale cattle ranching, dairy production, and sugarcane cultivation. The Lempa River, El Salvador's largest river, borders the municipality, providing vital irrigation but also posing seasonal flood risks. The town is characterized by a hot, lowland climate. San Pablo Tacachico's robust agricultural output makes it a significant contributor to the national dairy and grain supply, representing the core of Salvadoran commercial farming.",
+      "factsAdvanced": [
+        "Located in the La Libertad Department.",
+        "Elevation is approximately 300 meters.",
+        "A major national center for cattle ranching and dairy.",
+        "Bordered by the vital Lempa River system.",
+        "Economy is heavily reliant on commercial agriculture.",
+        "Experiences a hot, tropical savanna climate."
+      ]
+    },
+    {
+      "id": "tenancingo-cities-v2",
+      "descriptionAdvanced": "Tenancingo is a historically rich municipality in the Cuscatlán Department, renowned nationwide for its artisanal production of high-quality palm hats. This traditional craft forms the backbone of the local economy and cultural identity. The town is nestled in a rugged, mountainous area, which historically made it a strategic and heavily contested location during the Salvadoran Civil War. It suffered severe damage and depopulation in 1983 but has since been rebuilt. Tenancingo is a profound case study in the resilience of artisanal traditions in the face of modern conflict and displacement.",
+      "factsAdvanced": [
+        "Located in the Cuscatlán Department.",
+        "Elevation is approximately 600 meters.",
+        "Nationally famous for artisanal palm hat production.",
+        "Severely impacted and briefly abandoned during the civil war.",
+        "Rebuilt post-conflict with a focus on traditional crafts.",
+        "Surrounded by rugged, steep topography."
+      ]
+    },
+    {
+      "id": "santa-clara-cities-v2",
+      "descriptionAdvanced": "Santa Clara is a small, traditional municipality located in the San Vicente Department. Situated in the rolling hills of central El Salvador, the town is primarily agricultural, dedicated to the cultivation of basic grains, sugarcane, and small-scale livestock. The community is known for its strong Catholic traditions, centering social life around its historic church and annual patron saint festivals. The town has remained relatively untouched by large-scale industrialization, providing a peaceful representation of the enduring agrarian lifestyle that characterizes the central Salvadoran interior.",
+      "factsAdvanced": [
+        "Located in the San Vicente Department.",
+        "Elevation is approximately 600 meters.",
+        "Economy is based almost entirely on traditional agriculture.",
+        "Produces corn, beans, and sugarcane.",
+        "Features a quiet, tightly-knit rural community structure.",
+        "Maintains strong traditional religious festivals."
+      ]
+    },
+    {
+      "id": "san-alejo-cities-v2",
+      "descriptionAdvanced": "San Alejo is a historic municipality in the La Unión Department, characterized by its warm climate and deep roots in the eastern Salvadoran culture. Historically, the area was significant for cattle ranching and indigo production during the colonial era. Today, the economy relies on livestock, basic agriculture, and significantly, remittances from a large diaspora community living abroad. The town is spread out over varied terrain, from plains to small hills, and features a distinctive colonial-style central plaza. San Alejo provides valuable insight into the modern economic reliance on migration in rural Central America.",
+      "factsAdvanced": [
+        "Located in the La Unión Department.",
+        "Elevation is approximately 150 meters.",
+        "Economy relies heavily on agriculture, cattle, and remittances.",
+        "Historically significant for colonial-era indigo production.",
+        "Features a warm, tropical lowland climate.",
+        "Has a notably large diaspora population abroad."
       ]
     }
   ]

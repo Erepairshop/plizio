@@ -15,12 +15,10 @@ export const poiExtraGhanaEconomicV2: POI[] = [
       ro: ["Deschis în 1962.", "Cel mai mare port din țară.", "Important pentru exporturile de cacao și aluminiu."],
       en: ["Opened in 1962.", "Largest port in the country.", "Important for cocoa and aluminum exports."]
     },
-    descriptionAdvanced: {
-      en: "The Port of Tema is the largest and most critical maritime logistical hub in Ghana, handling approximately 80% of the nation's total import and export cargo. Officially opened in 1962, the deep-water facility was a cornerstone of President Kwame Nkrumah's industrialization masterplan, physically transforming a small fishing village into a global maritime gateway. Recently expanded through the massive Meridian Port Services (MPS) Terminal 3 project, the port now accommodates the world's largest container vessels. It serves as the primary import entry point for refined petroleum, vehicles, and consumer goods, while facilitating the massive export of national cocoa. Geography K7 — global maritime logistics."
-    },
-    factsAdvanced: {
-      en: ["Handles approximately 80% of Ghana's total national import and export cargo.", "Officially commissioned and opened for commercial operations in 1962.", "Recently underwent a $1.5 billion expansion via the MPS Terminal 3 project.", "Situated precisely on the Prime Meridian (0 degrees longitude).", "Primary national gateway for imported petroleum, vehicles, and machinery.", "Facilitates massive bulk exports of Ghanaian cocoa and processed aluminum."]
-    },
+    
+    
+    
+     image: "/poi-images/ghana-tema-port.webp",
     descriptionAdvanced: {
       de: "Der Tema-Hafen, eröffnet 1962, ist der wichtigste und modernste Seehafen Ghanas und fertigt fast 70 Prozent des nationalen Seehandels ab. Gelegen auf dem Nullmeridian, wurde der Hafen in den letzten Jahren massiv ausgebaut, einschließlich eines neuen Containerterminals, das riesige Frachtschiffe aufnehmen kann. Er dient nicht nur der ghanaischen Wirtschaft, sondern ist auch ein lebenswichtiger Transitpunkt für die Binnenländer Burkina Faso, Mali und Niger, die auf diese maritime Anbindung angewiesen sind. Wirtschaft K8 — globale Handelswege.",
       hu: "A Tema Kikötő Ghána legnagyobb és legfontosabb mélyvízi tengeri kapuja, amelyet Kwame Nkrumah építtetett a 60-as években. Nyugat-Afrika egyik legforgalmasabb teherkikötőjeként működik, ahol hatalmas konténerhajók, olajszállítók és ömlesztettáru-szállítók cserélnek árut nap mint nap. Jelentősen bővítették, hogy a modern világkereskedelem igényeinek megfeleljen. Gazdaság K8 — nemzetközi tengeri logisztika.",
@@ -32,7 +30,8 @@ export const poiExtraGhanaEconomicV2: POI[] = [
       hu: ["1962-ben nyitották meg hivatalosan", "Ghána tengeri kereskedelmének több mint 80%-át bonyolítja le", "12 mélyvízi kikötőhellyel és hatalmas konténerterminállal rendelkezik", "A landlocked (tengerpart nélküli) afrikai országok, mint Burkina Faso fontos tranzitkapuja", "Az MPS Terminal 3 projekt keretében jelentősen modernizálták 2019-ben", "A Greenwichi délkör (0 hosszúsági fok) vonalán helyezkedik el"],
       ro: ["A fost inaugurat oficial în luna februarie a anului 1962.", "Gestionează anual peste 70% din totalul importurilor și exporturilor Ghanei.", "Terminalul său modern MPS Terminal 3 a costat aproximativ 1,5 miliarde de dolari.", "Construcția sa a impus relocarea completă a unui sat pescăresc antic.", "Oferă un traseu de tranzit esențial pentru națiunile africane izolate terestru.", "Deține diguri masive care pătrund peste 3 kilometri în largul Oceanului Atlantic."],
       en: ["Annual traffic exceeds 1 million TEU.", "Covers an area of approx 3.9 million m².", "Serves over 20 international shipping lines.", "Employs thousands directly and indirectly.", "Main hub for cocoa bean exports.", "Built as part of the Volta River Project."]
-    }, image: "/poi-images/ghana-tema-port.webp"},
+    }
+  },
   {
     id: "ghana-takoradi-port",
     type: "port",
@@ -45,12 +44,6 @@ export const poiExtraGhanaEconomicV2: POI[] = [
       hu: ["1928-ban épült.", "Ghána második legnagyobb kikötője.", "Fontos a bányászati szektor számára."],
       ro: ["Construit în 1928.", "Al doilea port ca mărime din Ghana.", "Important pentru sectorul minier."],
       en: ["Built in 1928.", "Second largest port in Ghana.", "Important for the mining sector."]
-    },
-    descriptionAdvanced: {
-      en: "The Port of Takoradi is Ghana's oldest commercial deep-water seaport, officially completed by the British colonial administration in 1928. Located in the Western Region, it was strategically built to extract raw materials from the resource-rich interior, primarily connected via a newly constructed railway network. Historically dominating the export of timber, bauxite, and manganese, the port's role evolved dramatically following the 2007 discovery of offshore oil. Today, Takoradi Port functions as the indispensable logistical and supply base for Ghana's entire offshore petroleum and gas industry, undergoing continuous modernization to support deep-water drilling operations. History K8 — colonial resource extraction."
-    },
-    factsAdvanced: {
-      en: ["Ghana's first commercial deep-water seaport, officially opened in 1928.", "Historically built specifically to export inland timber, gold, and manganese.", "Serves as the primary logistics and supply base for Ghana's offshore oil industry.", "Handles the vast majority of the nation's bulk mineral exports.", "Connected directly to the mining interior via the historical western railway.", "Currently undergoing major expansion to increase its bulk handling capacity."]
     },
     descriptionAdvanced: {
       de: "Als ältester kommerzieller Seehafen Ghanas wurde der Hafen von Takoradi 1928 in Betrieb genommen, ursprünglich konzipiert für den Export von Kakao, Holz und Mineralien aus dem rohstoffreichen Hinterland. Heute erlebt der Hafen eine Renaissance als logistisches Zentrum für Ghanas aufstrebende Offshore-Öl- und Gasindustrie im Golf von Guinea. Trotz der Modernisierung ist er immer noch der primäre Umschlagplatz für Bauxit- und Manganerze, die per Bahn aus den umliegenden Minen herantransportiert werden. Geografie K7 — Hafenlogistik.",
@@ -78,12 +71,10 @@ export const poiExtraGhanaEconomicV2: POI[] = [
       ro: ["Minerit subteran.", "Produce aur de peste un secol.", "Adâncime de până la aproape 1.500 de metri."],
       en: ["Underground mining.", "Producing gold for over a century.", "Depth reaches almost 1,500 meters."]
     },
-    descriptionAdvanced: {
-      en: "The AngloGold Ashanti Obuasi Mine is one of the most famous and historically productive gold mining operations in the world, located in the Ashanti Region. Commercial, mechanized extraction began here in 1897, fundamentally shaping the regional economy and demographics. Operating primarily as a massive, deep-level underground mine, it accesses extremely rich, narrow quartz veins. After a period of suspended operations for restructuring, the mine underwent a massive redevelopment project and reopened as a highly mechanized, modern facility. It remains a colossal contributor to Ghana's foreign exchange earnings and a symbol of the country's vast mineral wealth. Geography K7 — industrial deep-shaft mining."
-    },
-    factsAdvanced: {
-      en: ["Located in Obuasi, recognized as one of the world's largest gold deposits.", "Commercial, large-scale mining operations officially commenced in 1897.", "Operates primarily as a deep-shaft underground mining facility.", "Underwent a massive, multi-million dollar redevelopment project recently.", "A major contributor to Ghana's national gross domestic product and exports.", "Historically catalyzed massive internal migration to the Ashanti Region."]
-    },
+    
+    
+    
+     image: "/poi-images/ghana-anglogold-ashanti.webp",
     descriptionAdvanced: {
       de: "Die AngloGold Ashanti Mine in Obuasi ist eine der ältesten und tiefsten Goldminen der Welt und ein Symbol für Ghanas historischen Reichtum als Goldküste. Seit über hundert Jahren wird hier massiv Gold gefördert, wobei die Schächte teilweise mehrere Kilometer in die Erde reichen. Obwohl der Bergbau der Region enormen wirtschaftlichen Reichtum brachte, hat er auch tiefgreifende soziale und ökologische Spuren in Form von Wasserverschmutzung und massiven Abraumhalden hinterlassen. Umwelt K8 — Bergbau und Nachhaltigkeit.",
       hu: "Az Obuasi Aranybánya (AngloGold Ashanti) a világ egyik legrégebbi és legmélyebb bányászati létesítménye, amely az Ashanti Régió gazdasági motorja. Az 1897 óta folyamatosan, nagyrészt a föld alatt működő komplexum hatalmas vájat- és aknarendszerrel rendelkezik. A bánya mélyéről évtizedek óta hozzák felszínre a nemesfémet. Földrajz K8 — mélyszinti bányászat.",
@@ -95,7 +86,8 @@ export const poiExtraGhanaEconomicV2: POI[] = [
       hu: ["Több mint 120 éve, 1897 óta folyamatosan művelés alatt áll", "A bányavágatok mélysége meghaladja a felszín alatti 1500 métert", "Az AngloGold Ashanti vállalatcsoport egyik legfontosabb zászlóshajója", "Ghána egyik legtöbb aranyat termelő komplexuma volt a történelem során", "2014-ben átmenetileg felfüggesztették, majd modernizálás után 2019-ben újraindították", "A komplexum teljes egészében saját energia- és vízellátó rendszerrel rendelkezik"],
       ro: ["Primele operațiuni miniere moderne au început aici în anul 1897.", "Este una dintre cele mai profunde mine operaționale din lume.", "A produs zeci de milioane de uncii de aur de la deschiderea sa.", "Este pivotul economic și ocupațional pentru orașul Obuasi.", "Procesele de extragere presupun provocări extreme legate de ventilare și stabilitate.", "A trecut recent printr-o pauză operațională pentru modernizarea completă a utilajelor."],
       en: ["Over 30 million ounces of gold extracted already.", "One of the largest reserves in West Africa.", "Includes both underground and surface areas.", "Employs thousands of local specialists.", "Important engine of the local economy in Obuasi.", "Investments in modern processing technologies."]
-    }, image: "/poi-images/ghana-anglogold-ashanti.webp"},
+    }
+  },
   {
     id: "ghana-tarkwa-mine",
     type: "industry",
@@ -110,22 +102,16 @@ export const poiExtraGhanaEconomicV2: POI[] = [
       en: ["Open-pit operation.", "Located in the Tarkwa-Nsuaem area.", "High annual gold yield."]
     },
     descriptionAdvanced: {
-      en: "The Tarkwa Gold Mine, operated by Gold Fields Ghana, is a massive, world-class open-pit mining operation located in the Western Region. Unlike the deep underground shafts of Obuasi, Tarkwa utilizes large-scale surface mining techniques to extract gold from extensive, low-grade conglomerate rock formations similar to the Witwatersrand basin in South Africa. The scale of the operation is immense, utilizing fleets of massive haul trucks and heavy excavators that have drastically reshaped the local topography. Tarkwa is consistently one of the highest-producing single gold mines in West Africa, driving heavy industrialization in the surrounding district. Geography K7 — large-scale open-pit mining."
-    },
-    factsAdvanced: {
-      en: ["Operated by Gold Fields Ghana, primarily as a massive open-pit facility.", "Extracts gold from extensive paleoplacer conglomerate rock formations.", "Consistently ranks among the highest-producing gold mines in West Africa.", "Utilizes massive, heavy industrial earth-moving equipment and haul trucks.", "The operations have radically altered the local topography of the Tarkwa area.", "Employs thousands of workers and drives the local municipal economy."]
-    },
-    descriptionAdvanced: {
       de: "Die Tarkwa Goldmine, betrieben in der Western Region, ist der größte Goldbergbaubetrieb Ghanas und zeichnet sich durch ihren massiven Tagebau aus. Im Gegensatz zu den tiefen Schächten von Obuasi wird das goldhaltige Gestein hier großflächig an der Oberfläche abgetragen, was die Landschaft dauerhaft umgestaltet hat. Der Abbau konzentriert sich auf die Tarkwaian-Konglomerate, geologische Formationen, die denen im südafrikanischen Witwatersrand-Becken stark ähneln. Geografie K8 — Geologie und Bodenschätze.",
       hu: "A Gold Fields Tarkwa bánya Nyugat-Afrika egyik legnagyobb nyílt színi aranybányája a Nyugati Régióban. Hatalmas kotrógépekkel, teherautókkal és feldolgozóüzemekkel rendelkezik, a tájat gigantikus teraszos kráterek borítják. Az aranytartalmú kvarcitos kőzetből ciános kioldással nyerik ki a fémet. Gazdaság K8 — felszíni fejtések.",
       ro: "Mina Tarkwa Gold Fields este epicentrul extracției aurifere de suprafață (open-pit) din Africa de Vest. Amplasată printre dealurile din Regiunea de Vest a Ghanei, mina se extinde pe zone masive de unde roca este escavată cu mașinării de mărimea unor clădiri. Spre deosebire de exploatările subterane adânci, acest sit utilizează tehnici gigantice de mutare a pământului pentru a accesa straturile fine de minereu răspândite aproape de suprafață. Eficiența și amploarea sa au transformat orașul din apropiere, Tarkwa. Economie K7 — extracția minieră de suprafață.",
-      en: ""
+      en: "The Tarkwa Gold Mine, operated by Gold Fields Ghana, is a massive, world-class open-pit mining operation located in the Western Region. Unlike the deep underground shafts of Obuasi, Tarkwa utilizes large-scale surface mining techniques to extract gold from extensive, low-grade conglomerate rock formations similar to the Witwatersrand basin in South Africa. The scale of the operation is immense, utilizing fleets of massive haul trucks and heavy excavators that have drastically reshaped the local topography. Tarkwa is consistently one of the highest-producing single gold mines in West Africa, driving heavy industrialization in the surrounding district. Geography K7 — large-scale open-pit mining."
     },
     factsAdvanced: {
       de: ["Größter Goldbergbaubetrieb in Ghana", "Massiver Tagebau", "Liegt in der Western Region", "Baut Tarkwaian-Konglomerate ab", "Goldhaltiges Gestein wird großflächig abgetragen", "Landschaft massiv umgestaltet"],
       hu: ["Afrika egyik legkiterjedtebb nyílt színi (open-pit) aranybányája", "A Gold Fields vállalatcsoport üzemelteti", "A bányászott érc főként 2 milliárd éves kvarcit-konglomerátum (banket)", "Évente több mint 500 ezer uncia aranyat termelnek ki", "A bányaterület szorosan egybeépült Tarkwa történelmi városával", "A kitermelés nagy kapacitású, több száz tonnás dömper-flottával történik"],
       ro: ["Reprezintă cea mai extinsă mină de suprafață administrată de compania Gold Fields.", "Producția sa anuală a depășit frecvent 500.000 de uncii de aur.", "Are zeci de utilaje imense, inclusiv basculante ce pot căra peste 200 de tone.", "Procesează straturi specifice de rocă sedimentară faimoase pe plan global (Tarkwaian).", "Atragerea masivă de forță de muncă a extins rapid așezările locale limitrofe.", "Posedă programe ecologice dedicate refacerii zonelor de pădure decopertate."],
-      en: []
+      en: ["Operated by Gold Fields Ghana, primarily as a massive open-pit facility.", "Extracts gold from extensive paleoplacer conglomerate rock formations.", "Consistently ranks among the highest-producing gold mines in West Africa.", "Utilizes massive, heavy industrial earth-moving equipment and haul trucks.", "The operations have radically altered the local topography of the Tarkwa area.", "Employs thousands of workers and drives the local municipal economy."]
     }
   },
   {
@@ -148,13 +134,10 @@ export const poiExtraGhanaEconomicV2: POI[] = [
       en: "The Awaso Bauxite Mine, located in the Western North Region, is Ghana's sole operational commercial bauxite extraction facility. Mining operations commenced here in the 1940s, initially driven by the massive demand for aluminum by the Allied forces during World War II. The bauxite is extracted via open-cast surface mining from lateritic caps on the local hills. The raw ore is then transported via a dedicated railway line down to the port of Takoradi for international export. This mine forms the foundational step of Ghana's integrated aluminum industry strategy, highlighting the nation's immense reserves of this critical industrial mineral. Geography K7 — bauxite extraction and logistics."
     },
     factsAdvanced: {
-      en: ["Currently the only commercially active bauxite mine operating in Ghana.", "Operations began in the 1940s to supply Allied forces during World War II.", "Utilizes open-cast surface mining techniques on elevated lateritic hills.", "Raw bauxite ore is transported via a dedicated railway to Takoradi Port.", "Operated by the Ghana Bauxite Company (GBC).", "Forms the foundational extraction step for the national aluminum industry."]
-    },
-    factsAdvanced: {
       de: ["Einziger aktiver Bauxit-Abbauort in Ghana", "Abbau begann in den 1940er Jahren", "Liefert Rohstoff für Aluminiumproduktion", "Transport per Bahn nach Takoradi", "Große Mengen an rötlichem Staub", "Liegt in der Western North Region"],
       hu: ["A bauxitkitermelés az 1940-es évek elején, brit irányítás alatt kezdődött", "Ghána legnagyobb működő bauxitbányája (Ghana Bauxite Company)", "Több mint 80 kilométeres, különálló vasútvonal köti össze Takoradi kikötőjével", "A nyersércet nem helyben finomítják, hanem exportálják", "A bánya körüli talaj és kőzet mélyvörös, laterites jellegű", "Éves kitermelése rendszeresen meghaladja az 1 millió tonnát"],
       ro: ["Este cea mai veche mină de bauxită funcțională de pe teritoriul național.", "Operațiunile de extracție masivă au demarat în timpul anilor 1940.", "Minereul brut extras este de o culoare roșiatică intensă, bogat în fier.", "Este administrată în prezent de corporația Ghana Bauxite Company.", "Exportul depinde puternic de o linie de cale ferată învechită spre ocean.", "Este esențială pentru visul Ghanei de a avea o industrie a aluminiului completă."],
-      en: []
+      en: ["Currently the only commercially active bauxite mine operating in Ghana.", "Operations began in the 1940s to supply Allied forces during World War II.", "Utilizes open-cast surface mining techniques on elevated lateritic hills.", "Raw bauxite ore is transported via a dedicated railway to Takoradi Port.", "Operated by the Ghana Bauxite Company (GBC).", "Forms the foundational extraction step for the national aluminum industry."]
     }
   },
   {
@@ -177,13 +160,10 @@ export const poiExtraGhanaEconomicV2: POI[] = [
       en: "The Nsuta Manganese Mine is a critical, long-standing extraction operation located near Tarkwa in the Western Region. Discovered in 1914, it is one of the most significant sources of high-grade manganese carbonate ore in the world. Manganese is an essential alloy component in global steel production, making Nsuta a vital asset to Ghana's export economy. The ore is mined using open-pit methods and then transported via the western railway network directly to the port of Takoradi. Operated by the Ghana Manganese Company, the facility has consistently operated for over a century, reflecting the geological wealth of the Tarkwaian rock system. Geography K7 — industrial alloy minerals."
     },
     factsAdvanced: {
-      en: ["Located near Tarkwa, representing one of the world's major manganese deposits.", "Commercial exploitation of the manganese ore officially began in 1916.", "Produces high-grade manganese carbonate, crucial for global steel manufacturing.", "Extracted primarily through large-scale open-pit surface mining methods.", "The raw ore is transported directly by rail to the Takoradi export terminal.", "Operated continuously for over a century by the Ghana Manganese Company."]
-    },
-    factsAdvanced: {
       de: ["Seit 1916 in Betrieb", "Liegt in der Nähe von Tarkwa", "Abbau von Manganerz", "Wichtig für die Stahlherstellung", "Ghana ist ein globaler Top-Exporteur von Mangan", "Starke Belastung durch Schwerlastverkehr"],
       hu: ["Afrika egyik legnagyobb múltú, ma is működő mangánércbányája (1916 óta)", "A mangán karbonát- és oxid-érc formájában található itt", "A Ghana Manganese Company LLC (GMC) birtokolja", "A kitermelt érc mintegy felét mangán-ötvözetek gyártására használják a nagyvilágban", "Rövid vasúti szárnyvonal kapcsolja a tarkwai fővonalhoz", "Ghána éves mangánexportja zömében ebből az egyetlen hegyből származik"],
       ro: ["Singurul sit major de extracție a manganului de pe cuprinsul Ghanei.", "Zăcământul a fost descoperit oficial și recunoscut în anul 1914.", "Manganul extras aici conține adesea o puritate foarte ridicată de carbonat.", "Mina a furnizat resurse cruciale pentru industria oțelului în cel de-al Doilea Război Mondial.", "Peste o sută de mii de tone sunt încărcate și exportate lunar prin tren.", "Utilizează exclusiv tehnici masive de terasare și excavare la suprafață."],
-      en: []
+      en: ["Located near Tarkwa, representing one of the world's major manganese deposits.", "Commercial exploitation of the manganese ore officially began in 1916.", "Produces high-grade manganese carbonate, crucial for global steel manufacturing.", "Extracted primarily through large-scale open-pit surface mining methods.", "The raw ore is transported directly by rail to the Takoradi export terminal.", "Operated continuously for over a century by the Ghana Manganese Company."]
     }
   },
   {
@@ -206,13 +186,10 @@ export const poiExtraGhanaEconomicV2: POI[] = [
       en: "The Akwatia Diamond Field, located in the Eastern Region along the Birim River valley, was historically the premier center of diamond extraction in West Africa. Commercial operations began in the 1920s under the Consolidated African Selection Trust, focusing on highly productive alluvial deposits that yielded predominantly industrial-grade diamonds. While corporate, mechanized extraction has significantly declined from its mid-20th-century peak, the area remains a massive hub for informal artisanal miners (galamsey) who sift through the riverbed gravels. The legacy of a century of mining has left the landscape profoundly altered by vast tracts of turned earth and water-filled pits. Geography K7 — alluvial diamond extraction."
     },
     factsAdvanced: {
-      en: ["Historically the largest and most productive diamond mining area in Ghana.", "Commercial, corporate extraction of alluvial diamonds began in the 1920s.", "Yields predominantly industrial-grade diamonds rather than gem-quality stones.", "Located within the gravel deposits of the highly fertile Birim River valley.", "Currently dominated by intense, informal artisanal mining activities.", "The local landscape is heavily scarred by a century of continuous dredging."]
-    },
-    factsAdvanced: {
       de: ["Herz der ghanaischen Diamantenindustrie", "Diamanten in den 1920er Jahren entdeckt", "Liegt in Akwatia", "Förderte vor allem Industriediamanten", "Kommerzielle Minen weitgehend erschöpft", "Heute viel illegaler Kleinstbergbau (Galamsey)"],
       hu: ["A 20. század közepén évente millió karátnyi ipari gyémántot termelt", "A kövek nagyrészt hordalékos (alluviális) agyag- és kavicsrétegekben találhatók", "A Ghana Consolidated Diamonds egykor mintegy ezer embert foglalkoztatott itt", "A talált gyémántok több mint 80 százaléka csiszolásra alkalmatlan, ipari (bort) minőségű", "A terület mára erősen degradálódott a szabályozatlan kisüzemi ásások (galamsey) miatt", "A Birim folyó vízgyűjtője a fő drágakő-csapda"],
       ro: ["A dominat complet producția ghaneză de diamante încă din anul 1924.", "Marea majoritate a diamantelor extrase (peste 70%) sunt de uz strict industrial.", "Nu există „tuburi” de rocă kimberlit, extracția depinzând de straturi aluviale spălate.", "Mii de excavatori neoficiali obțin permise temporare de la consiliile tradiționale.", "Zonă masivă este plină de gropi deschise umplute cu apă stătătoare.", "Punctul istoric de referință al regiunii este compania defunctă GCD."],
-      en: []
+      en: ["Historically the largest and most productive diamond mining area in Ghana.", "Commercial, corporate extraction of alluvial diamonds began in the 1920s.", "Yields predominantly industrial-grade diamonds rather than gem-quality stones.", "Located within the gravel deposits of the highly fertile Birim River valley.", "Currently dominated by intense, informal artisanal mining activities.", "The local landscape is heavily scarred by a century of continuous dredging."]
     }
   },
   {
@@ -235,13 +212,10 @@ export const poiExtraGhanaEconomicV2: POI[] = [
       en: "The Jubilee Oil Field is a massive, world-class offshore petroleum and natural gas field located in the deep waters of the Gulf of Guinea, roughly 60 kilometers off the coast of the Western Region. Discovered in 2007 by Kosmos Energy and named to commemorate Ghana's 50th independence anniversary, its discovery transformed the nation's economic trajectory. Commercial production commenced in 2010 utilizing a massive Floating Production Storage and Offloading (FPSO) vessel named after Kwame Nkrumah. The field's output of high-quality 'sweet' crude oil and associated natural gas provides a massive influx of national revenue and fuels domestic power generation. Geography K7 — deep-water offshore petroleum."
     },
     factsAdvanced: {
-      en: ["A massive offshore oil and gas field discovered in 2007.", "Located approximately 60 kilometers offshore in the Gulf of Guinea.", "Commercial extraction officially commenced in December 2010.", "Utilizes the massive FPSO Kwame Nkrumah for processing and storage.", "Produces highly valuable, low-sulfur 'sweet' crude petroleum.", "Associated natural gas is piped onshore to power domestic thermal plants."]
-    },
-    factsAdvanced: {
       de: ["Entdeckt im Jahr 2007", "Liegt vor der Küste von Cape Three Points", "Beginn der ghanaischen Öl-Ära", "Mehrere hundert Millionen Barrel Reserven", "Förderung durch hochmoderne FPSO-Schiffe", "Tragende Säule der nationalen Wirtschaft"],
       hu: ["A 2007-es felfedezés Ghánát Afrika jelentős olajkitermelőjévé tette", "Az első hordó olajat 2010 decemberében (First Oil) hozták a felszínre", "Több mint 1000 méter mély vizekben, a parttól mintegy 60 km-re található", "Az olajat az 'FPSO Kwame Nkrumah' nevű óriáshajó dolgozza fel és tárolja", "A mező naponta több mint 100 ezer hordó nyersolajat képes kitermelni", "A kísérő földgázt csővezetéken juttatják az Atuabo-i gázfeldolgozóba"],
       ro: ["A fost prima descoperire comercială majoră de petrol din istoria statului (2007).", "Primele barili de țiței brut au fost pompate oficial în anul 2010.", "Nava sa de producție poartă numele primului președinte, Kwame Nkrumah.", "Este administrat central de consorțiul internațional Tullow Oil.", "Produce peste 100.000 de barili de petrol brut ușor zilnic, extrem de căutat.", "Include zeci de puțuri conectate prin conducte la mare adâncime marină."],
-      en: []
+      en: ["A massive offshore oil and gas field discovered in 2007.", "Located approximately 60 kilometers offshore in the Gulf of Guinea.", "Commercial extraction officially commenced in December 2010.", "Utilizes the massive FPSO Kwame Nkrumah for processing and storage.", "Produces highly valuable, low-sulfur 'sweet' crude petroleum.", "Associated natural gas is piped onshore to power domestic thermal plants."]
     }
   },
   {
@@ -264,13 +238,10 @@ export const poiExtraGhanaEconomicV2: POI[] = [
       en: "The Tema Oil Refinery (TOR) is Ghana's first and only commercial petroleum refinery, situated in the heavy industrial zone of Tema. Commissioned in 1963 by President Kwame Nkrumah, it was initially built to process imported crude oil to secure the newly independent nation's energy independence. The massive facility is designed to refine crude into critical products including gasoline, diesel, aviation fuel, and liquefied petroleum gas (LPG) for the domestic market. Although TOR has historically faced severe operational and financial challenges leading to intermittent shutdowns, it remains a strategic national asset central to Ghana's downstream petroleum infrastructure. Geography K7 — petroleum downstream processing."
     },
     factsAdvanced: {
-      en: ["Ghana's first and currently only commercial crude oil refinery.", "Commissioned in 1963 as a central pillar of early national industrialization.", "Located within the designated heavy industrial zone of Tema.", "Designed to refine crude oil into gasoline, diesel, and aviation fuel.", "Features a maximum processing capacity of 45,000 barrels of stream per day.", "Functions as a critical asset for national energy security and distribution."]
-    },
-    factsAdvanced: {
       de: ["Einzige Erdölraffinerie in Ghana", "In Betrieb seit 1963", "Liegt in Tema", "Produziert Benzin, Diesel und Flüssiggas (LPG)", "Ziel war Unabhängigkeit von Importen", "Kämpft oft mit finanziellen Engpässen"],
       hu: ["1963-ban kezdték meg az építését, eredetileg olasz együttműködéssel (GHAIP)", "Ghána első és egyetlen jelentős kapacitású finomítója", "Kapacitása nagyjából napi 45 ezer hordó nyersolaj feldolgozása", "Benzint, gázolajat, kerozint és propán-bután gázt állít elő", "Az üzem történetét gyakori műszaki leállások és adósságproblémák nehezítik", "Egy közvetlen csővezeték köti össze a Tema kikötő olajtermináljával"],
       ro: ["Este singura rafinărie de stat operativă din toate granițele Ghanei.", "Piatra de temelie a fost pusă și producția a început în anul 1963.", "Are o capacitate oficială de procesare estimată la 45.000 de barili pe zi.", "Prezintă o vastă rețea de stocare formată din zeci de rezervoare sferice gigantice.", "Incapacitatea financiară a blocat uneori funcționarea ei luni de zile.", "Se conectează direct la docurile portuare pentru descărcarea din petroliere."],
-      en: []
+      en: ["Ghana's first and currently only commercial crude oil refinery.", "Commissioned in 1963 as a central pillar of early national industrialization.", "Located within the designated heavy industrial zone of Tema.", "Designed to refine crude oil into gasoline, diesel, and aviation fuel.", "Features a maximum processing capacity of 45,000 barrels of stream per day.", "Functions as a critical asset for national energy security and distribution."]
     }
   },
   {
@@ -293,13 +264,10 @@ export const poiExtraGhanaEconomicV2: POI[] = [
       en: "The Volta Aluminium Company (VALCO) is a colossal aluminum smelting facility located in the industrial city of Tema. Established in the 1960s as a joint venture involving Kaiser Aluminum, it was the primary industrial anchor project that justified the construction of the massive Akosombo Hydroelectric Dam. The smelter requires immense, continuous amounts of electricity to run its reduction potlines, converting imported alumina into high-purity aluminum ingots for export and local manufacturing. While its operational capacity has fluctuated widely due to national power shortages, VALCO remains a monumental symbol of Ghana's ambitious mid-century heavy industrialization strategy. History K8 — post-colonial heavy industry."
     },
     factsAdvanced: {
-      en: ["A massive industrial aluminum smelting facility located in Tema.", "Its creation was the financial justification for building the Akosombo Dam.", "Requires colossal, continuous amounts of electricity to operate its potlines.", "Originally a joint venture led by the American firm Kaiser Aluminum.", "Converts processed alumina powder into solid, high-purity aluminum ingots.", "Currently wholly owned by the Government of Ghana."]
-    },
-    factsAdvanced: {
       de: ["Flaggschiffprojekt zur Industrialisierung", "Gigantische Schmelzanlage in Tema", "Nutzt Energie des Akosombo-Staudamms", "Schmilzt importiertes Aluminiumoxid", "Versuch der lokalen Rohstoffveredelung", "Produziert hochwertige Aluminiumbarren"],
       hu: ["1967-ben nyílt meg, amerikai (Kaiser) érdekeltségként indult", "Működése szorosan összefügg az Akosombo Gát olcsó vízienergiájával", "Eredetileg öt hatalmas gyártósoron (potlines) folyt a fémolvasztás", "Éves termelési kapacitása elméletileg 200 ezer tonna alumínium", "Az alapanyagul szolgáló timföldet (alumina) évtizedekig külföldről importálták", "Jelenleg az üzem Ghána állami tulajdonában van, és a regionális fémipar bázisa"],
       ro: ["A fost inaugurată ca un simbol uriaș al industrializării în anul 1967.", "Topirea prin electroliză se bazează puternic pe prezența hidroenergiei ieftine.", "Este în mod curent deținută în totalitate de guvernul ghanez (după achiziția din 2008).", "Dispune de sute de „celule” masive (potlines) pentru separarea metalului din alumină.", "Fluctuațiile în nivelul apei de pe Lacul Volta cauzează dese opriri de producție.", "A fost proiectată pentru a procesa resursele enorme de bauxită ale Ghanei."],
-      en: []
+      en: ["A massive industrial aluminum smelting facility located in Tema.", "Its creation was the financial justification for building the Akosombo Dam.", "Requires colossal, continuous amounts of electricity to operate its potlines.", "Originally a joint venture led by the American firm Kaiser Aluminum.", "Converts processed alumina powder into solid, high-purity aluminum ingots.", "Currently wholly owned by the Government of Ghana."]
     }
   },
   {
@@ -322,13 +290,10 @@ export const poiExtraGhanaEconomicV2: POI[] = [
       en: "The Takoradi Thermal Power Station, commonly referred to as the Aboadze Thermal Plant, is a critical energy generation facility located near Takoradi in the Western Region. Commissioned in the late 1990s, it marked Ghana's strategic shift away from total reliance on hydroelectric power, which had become vulnerable to droughts. The massive complex utilizes combined-cycle gas turbines, initially running on light crude oil before transitioning to cheaper, cleaner natural gas piped from offshore fields like Jubilee and Atuabo. Operating continuously, this plant provides essential baseload electricity, stabilizing the national grid and powering the heavy industries of the coast. Geography K7 — thermal energy infrastructure."
     },
     factsAdvanced: {
-      en: ["Located at Aboadze, near the industrial city of Takoradi.", "Represented Ghana's first major diversification away from hydroelectric power.", "Utilizes massive, highly efficient combined-cycle gas turbines.", "Fueled primarily by natural gas piped from Ghana's offshore petroleum fields.", "A critical baseload provider, ensuring stability for the national power grid.", "Operated jointly by the Volta River Authority and independent power producers."]
-    },
-    factsAdvanced: {
       de: ["Wärmekraftwerk in der Aboadze-Enklave", "Gebaut in den späten 1990er Jahren", "Stabilisiert schwankende Stromversorgung", "Wird mit Erdgas und Rohöl betrieben", "Teil von Ghanas hybridem Energiemix", "Liegt nahe Takoradi"],
       hu: ["Ghána legelső és legnagyobb hőerőmű-komplexuma (1997-ben indult)", "Az Aboadze nevű tengerparti kisváros közelében található", "Egyesített ciklusú (kombinált) turbinákkal rendelkezik (gáz- és gőzturbina)", "A beépített teljesítmény meghaladja a 330 megawattot (VRA és TICO blokkok)", "Földgázt (Tano medencéből és nigériai vezetéken) és könnyűolajat is képes égetni", "Gyakran a helyi tenger vizét használják a hatalmas gőzturbinák hűtésére"],
       ro: ["Este un complex energetic imens operat în mare măsură de autoritatea de stat VRA.", "Inaugurarea și prima etapă au pornit turbinele în anul 1997.", "Utilizează direct gaz natural livrat de conducta vest-africană (WAGP) și gaz autohton.", "Are o putere operațională maximă combinată ce depășește adesea 330 de Megawați.", "Se sprijină pe un sistem cu ciclu combinat, recuperând excesul de căldură pentru eficiență.", "Localizarea de coastă a ușurat enorm importurile masive de combustibil pe mare."],
-      en: []
+      en: ["Located at Aboadze, near the industrial city of Takoradi.", "Represented Ghana's first major diversification away from hydroelectric power.", "Utilizes massive, highly efficient combined-cycle gas turbines.", "Fueled primarily by natural gas piped from Ghana's offshore petroleum fields.", "A critical baseload provider, ensuring stability for the national power grid.", "Operated jointly by the Volta River Authority and independent power producers."]
     }
   },
   {
@@ -351,13 +316,10 @@ export const poiExtraGhanaEconomicV2: POI[] = [
       en: "The Chirano Gold Mine is a significant modern mining operation located in the Western North Region, nestled within the highly prospective Sefwi gold belt. Operated by Kinross Gold, the facility is unique as it heavily utilizes a combination of both open-pit and highly mechanized underground mining techniques to maximize extraction from complex ore bodies. Commissioned in 2005, the mine has brought substantial infrastructure and employment to the remote Bibiani-Anhwiaso-Bekwai district. However, its operations are situated perilously close to local forest reserves, necessitating stringent environmental monitoring to balance massive economic output with critical tropical forest conservation. Geography K7 — modern combined mining methods."
     },
     factsAdvanced: {
-      en: ["Located within the highly prospective Sefwi gold belt in the Western North Region.", "Operated by Kinross Gold, officially commencing commercial production in 2005.", "Utilizes a complex combination of open-pit and mechanized underground mining.", "A major economic anchor and employer for the surrounding rural district.", "Operations are situated in close proximity to sensitive tropical forest reserves.", "Processes millions of tonnes of gold-bearing ore annually."]
-    },
-    factsAdvanced: {
       de: ["Liegt in der südwestlichen Region", "Betreibt Tagebau und Untertagebau", "Hoher Automatisierungsgrad", "Modell für moderne Bergbaupraktiken", "Strenge Umweltauflagen", "Intensive Aufforstungsprogramme"],
       hu: ["Egyike Ghána fiatalabb nagyüzemi bányáinak, 2005-ben indult", "Kanadai (Kinross) tulajdonból nemrég került a ghánai Asante Gold kezébe", "Egyszerre rendelkezik felszíni kráterekkel és modern földalatti aknákkal", "Környezete nagyrészt természetvédelmi oltalom alá eső esőerdő", "Kiemelkedő szerepet vállal az országos 'okos-bányászati' és fenntarthatósági programokban", "Évente több mint 150 ezer uncia aranyat dolgoznak fel a helyi üzemében"],
       ro: ["Include operațiuni moderne combinate de suprafață deschisă și adâncime (underground).", "Poziționarea geografică traversează coridorul forestier Bibiani dens și productiv.", "Piatra prețioasă este măcinată și prelucrată folosind metoda lixivierii din rezervoare mari.", "A fost integrată în portofoliul masiv al corporației internaționale Asante Gold.", "Furnizează zeci de mii de locuri de muncă sigure populației adiacente din Sefwi.", "Susține un nivel foarte ridicat de proiecte de ecologizare în comunitățile locale."],
-      en: []
+      en: ["Located within the highly prospective Sefwi gold belt in the Western North Region.", "Operated by Kinross Gold, officially commencing commercial production in 2005.", "Utilizes a complex combination of open-pit and mechanized underground mining.", "A major economic anchor and employer for the surrounding rural district.", "Operations are situated in close proximity to sensitive tropical forest reserves.", "Processes millions of tonnes of gold-bearing ore annually."]
     }
   },
   {
@@ -380,13 +342,10 @@ export const poiExtraGhanaEconomicV2: POI[] = [
       en: "The Iduapriem Gold Mine, fully owned by AngloGold Ashanti, is a massive open-pit mining operation situated just south of the mining hub of Tarkwa in the Western Region. It targets the same extensive, gold-bearing Tarkwaian conglomerate reef formations that dominate the area. Known for its high-volume, low-grade extraction strategy, the mine moves colossal amounts of earth using heavy industrial fleets and processes the ore through a large carbon-in-pulp (CIP) plant. Iduapriem is consistently recognized for its strict adherence to modern safety and environmental reclamation standards, attempting to mitigate the severe landscape alterations inherent to large surface mines. Geography K7 — surface mining reclamation."
     },
     factsAdvanced: {
-      en: ["A massive open-pit gold mining operation located near Tarkwa.", "Wholly owned and operated by AngloGold Ashanti.", "Extracts gold from the extensive, low-grade Tarkwaian conglomerate reefs.", "Utilizes a large-scale carbon-in-pulp (CIP) processing plant.", "Recognized within the industry for advanced environmental reclamation efforts.", "A critical contributor to the heavy industrial economy of the Western Region."]
-    },
-    factsAdvanced: {
       de: ["Riesiger Tagebaubetrieb nahe Tarkwa", "Gigantische Gesteinsmühlen im Einsatz", "Nutzt chemische Cyanidlaugung", "Erstreckt sich über ausgedehntes Gebiet", "Hoher Flächenverbrauch", "Investitionen in lokale Infrastruktur"],
       hu: ["Kizárólag nyílt színi (open-pit) fejtéssel operál", "A tarkwai arany-öv déli meghosszabbításán helyezkedik el", "Az AngloGold Ashanti második legfontosabb ghánai létesítménye Obuasi mellett", "Gyakori, nagy volumenű robbantásokkal törik meg a kemény kvarcitot", "Hatalmas víztározó gátak és iszaptárolók (tailings dams) veszik körül", "Évente több mint 200 ezer uncia aranyat juttat a világpiacra"],
       ro: ["Operează masiv doar prin tehnica excavării sedimentare deschise (open-pit).", "Geologia minereului conține structuri sedimentare tari, similare cu Tarkwa.", "Zilnic sunt manipulate, zdrobite și separate mii de tone de piatră inferioară.", "Comunitățile rurale din regiune depind aproape exclusiv de locurile ei de muncă.", "A fost lăudată constant pentru sistemele de siguranță la nivel de excelență.", "Este capabilă să producă zeci de lingouri (dore) uriașe complet neprelucrate pe săptămână."],
-      en: []
+      en: ["A massive open-pit gold mining operation located near Tarkwa.", "Wholly owned and operated by AngloGold Ashanti.", "Extracts gold from the extensive, low-grade Tarkwaian conglomerate reefs.", "Utilizes a large-scale carbon-in-pulp (CIP) processing plant.", "Recognized within the industry for advanced environmental reclamation efforts.", "A critical contributor to the heavy industrial economy of the Western Region."]
     }
   },
   {
@@ -409,13 +368,10 @@ export const poiExtraGhanaEconomicV2: POI[] = [
       en: "The Bogoso Gold Mine, closely integrated with the neighboring Prestea operations, is a prominent surface mining complex located in the Western Region. Situated along the rich Ashanti gold belt, Bogoso historically transitioned from underground shafts to massive open-pit operations in the late 20th century. The mine is particularly noted for its complex, refractory ore bodies, which require advanced bio-oxidation (BIOX) processing plants to successfully extract the gold—a highly technical and expensive metallurgical process. Operated by Golden Star Resources, the facility dramatically anchors the local economy, drawing a massive labor force to the Prestea-Huni Valley district. Geography K7 — complex metallurgical processing."
     },
     factsAdvanced: {
-      en: ["Located in the Prestea-Huni Valley district along the Ashanti gold belt.", "Functions primarily as a large-scale open-pit surface mining operation.", "Noted for containing highly complex, refractory gold-bearing ore.", "Utilizes advanced bio-oxidation (BIOX) technology to extract the gold.", "Historically operated by Golden Star Resources.", "Deeply integrated with the infrastructure of the adjacent Prestea mine."]
-    },
-    factsAdvanced: {
       de: ["Verarbeitet schwer lösliches (refraktäres) Gestein", "Nutzt spezielle biologische Oxidationsverfahren", "Wechselvolle Geschichte von Stilllegungen", "Gigantische Abraumhalden", "Liegt in der Western Region", "Stark abhängig vom globalen Goldpreis"],
       hu: ["Kiterjedt koncessziós terület a Nyugati Régió szívében", "Ritka, 'tűzálló' (refractory) aranyércet bányásznak itt", "Különleges bio-oxidációs (BIOX) technológiát használnak a fém kinyerésére", "Felszíni (Bogoso) és mélyszinti (Prestea) vágatokat is magában foglal", "Az 1990-es évektől modernizálták a kanadai Golden Star égisze alatt", "Gyakoriak a helyi közösségi konfliktusok a földek használata miatt"],
       ro: ["Include faimoasele tunele miniere subterane adiacente ale rețelei Prestea.", "Utilizează frecvent instalații complexe și foarte rare de oxidare biologică (BIOX).", "Posedă o concentrație mare de stâncă ce necesită metode chimice grele de purificare.", "Calea de acces principală și rețeaua electrică au fost create datorită existenței minei.", "Mina a schimbat numeroși proprietari internaționali din dorința obținerii de randament.", "Se luptă în zonele de suprafață cu prezența unor tabere imense de mineri ilegali (galamsey)."],
-      en: []
+      en: ["Located in the Prestea-Huni Valley district along the Ashanti gold belt.", "Functions primarily as a large-scale open-pit surface mining operation.", "Noted for containing highly complex, refractory gold-bearing ore.", "Utilizes advanced bio-oxidation (BIOX) technology to extract the gold.", "Historically operated by Golden Star Resources.", "Deeply integrated with the infrastructure of the adjacent Prestea mine."]
     }
   },
   {
@@ -438,13 +394,10 @@ export const poiExtraGhanaEconomicV2: POI[] = [
       en: "The Ahafo Gold Mine, operated by the American mining giant Newmont Corporation, is a colossal surface mining operation located in the Ahafo Region. Commissioned in 2006, it represents one of the largest foreign direct investments in Ghana's modern mining sector. The operation consists of multiple massive open pits and a highly advanced centralized processing plant that handles millions of tonnes of ore annually. Ahafo has fundamentally transformed the previously agrarian local economy around the towns of Kenyasi and Yamfo, bringing extensive modern infrastructure but also typical social challenges related to land displacement and rapid rural urbanization. Geography K7 — modern corporate mining impacts."
     },
     factsAdvanced: {
-      en: ["Located in the Ahafo Region, primarily near the towns of Kenyasi and Yamfo.", "Operated by Newmont Corporation, commencing commercial production in 2006.", "Consists of multiple large-scale open-pit mining sites feeding a central plant.", "Represents one of the largest single foreign investments in Ghana.", "Processes extremely high volumes of ore utilizing modern cyanide leaching.", "Its development necessitated the significant relocation of local farming communities."]
-    },
-    factsAdvanced: {
       de: ["Eine der profitabelsten Minen Westafrikas", "Liegt tief in der waldreichen Ahafo Region", "Produktionsbeginn im Jahr 2006", "Herzstück von Newmonts Aktivitäten", "Eigener Entwicklungsfonds für die Region", "Transformation der Agrarregion"],
       hu: ["A Newmont cég első jelentős bányája az afrikai kontinensen (2006)", "Ghána legbővizűbb mezőgazdasági térségében, Kenyasi közelében fekszik", "A projekt miatt több ezer embert kellett áttelepíteni újonnan épült falvakba", "Felszíni kráterekkel és 2018-tól egy új földalatti aknával (Subika) működik", "Az egyik legmagasabb biztonsági és környezetvédelmi standarddal dolgozó bánya Afrikában", "Évente több mint 600 ezer uncia (közel 20 tonna) aranyat képes előállítani"],
       ro: ["Producția inițială și turnarea primelor volume de aur a luat startul în anul 2006.", "Acest complex masiv este administrat oficial de corporația Newmont Corporation.", "Zăcămintele variază și sunt concentrate pe mai multe puțuri și exploatări de adâncime.", "Deține recorduri de rentabilitate financiară uriașe comparativ cu minele vest-africane.", "Găzduiește un amplu program de bursieri ce favorizează rezidenții locali dezavantajați.", "Se remarcă printre toate exploatările naționale prin investițiile sale majore în drumuri locale."],
-      en: []
+      en: ["Located in the Ahafo Region, primarily near the towns of Kenyasi and Yamfo.", "Operated by Newmont Corporation, commencing commercial production in 2006.", "Consists of multiple large-scale open-pit mining sites feeding a central plant.", "Represents one of the largest single foreign investments in Ghana.", "Processes extremely high volumes of ore utilizing modern cyanide leaching.", "Its development necessitated the significant relocation of local farming communities."]
     }
   },
   {
@@ -467,13 +420,10 @@ export const poiExtraGhanaEconomicV2: POI[] = [
       en: "The Akyem Gold Mine, operated by Newmont Corporation, is a highly productive open-pit mining operation located in the Birim North District of the Eastern Region. Commissioned in 2013, it rapidly became one of the lowest-cost and most efficient gold-producing assets in Newmont's global portfolio. The mine targets significant gold mineralization situated within the heavily forested Birim River basin. Because the site lies in a highly sensitive ecological zone, its development required unprecedented environmental management plans and significant community resettlement programs. It serves as a major driver of economic growth and infrastructure development in the otherwise agrarian Akyem district. Geography K7 — modern corporate mining."
     },
     factsAdvanced: {
-      en: ["Located in the Birim North District of the Eastern Region.", "Operated by Newmont Corporation, with commercial production starting in 2013.", "Functions as a highly efficient, large-scale open-pit surface mine.", "Noted globally within the industry for low operational costs.", "Situated in a sensitive ecological zone requiring strict environmental management.", "Contributes significantly to national corporate tax revenues."]
-    },
-    factsAdvanced: {
       de: ["Gilt als extrem effizient verwaltete Mine", "Liegt im dichten Birim North Distrikt", "Rodung im Ajenjua Bepo Forest Reserve", "Strengste Umweltauflagen", "Ehrgeizige Wiederaufforstungsprogramme", "Konflikte mit Umweltschützern vor Start"],
       hu: ["A Newmont második nagy ghánai beruházása az Ahafo után", "Kereskedelmi termelése 2013 végén kezdődött meg", "Közvetlenül a Bena erdőrezervátum (Bena Forest Reserve) határán fekszik", "Folyamatos újraerdősítési programokkal igyekeznek kompenzálni a fakivágást", "Nyílt színi (open-pit) fejtési technológiát alkalmaznak", "Éves aranytermelése megközelíti a 400 ezer unciát"],
       ro: ["A fost deschisă oficial pentru producția de aur în anul 2013.", "Este recunoscută frecvent pentru respectarea strictă a normelor de mediu globale.", "Administrează o rată foarte ridicată de replantare a copacilor indigeni.", "Mii de hectare de teren sunt gestionate zilnic pentru extracție.", "Programul său comunitar alocă anual milioane de dolari spre educația locală.", "Include facilități de procesare avansată CIL (Carbon in Leach)."],
-      en: []
+      en: ["Located in the Birim North District of the Eastern Region.", "Operated by Newmont Corporation, with commercial production starting in 2013.", "Functions as a highly efficient, large-scale open-pit surface mine.", "Noted globally within the industry for low operational costs.", "Situated in a sensitive ecological zone requiring strict environmental management.", "Contributes significantly to national corporate tax revenues."]
     }
   },
   {
@@ -496,13 +446,10 @@ export const poiExtraGhanaEconomicV2: POI[] = [
       en: "The Damang Gold Mine is a significant surface mining complex located in the Western Region, situated just north of the massive Tarkwa mine. Owned and operated by Gold Fields Ghana, Damang processes a mix of paleoplacer conglomerate and hydrothermal gold ores. Although it is an older operation that faced depletion challenges, it recently underwent a massive reinvestment and pit-expansion project, significantly extending its operational life. The mine utilizes a conventional gravity and carbon-in-leach (CIL) processing circuit. It plays a critical role in sustaining employment and the industrial economy in the Prestea-Huni Valley municipality alongside its sister mine in Tarkwa. Geography K7 — mining lifecycle and expansion."
     },
     factsAdvanced: {
-      en: ["Located in the Prestea-Huni Valley municipality, north of Tarkwa.", "Wholly owned and operated by the South African firm Gold Fields.", "Extracts gold from both conglomerate reefs and hydrothermal rock sources.", "Recently underwent a massive reinvestment to deepen the main open pit.", "Processes millions of tonnes of ore using a conventional CIL plant.", "A critical industrial employer within the Western Region's mining belt."]
-    },
-    factsAdvanced: {
       de: ["Liegt nördlich von Tarkwa", "Abbau tief liegender Gesteinsschichten", "Enorme Bohrtiefen im Tagebau", "Spektakulärer Krater (Damang Pit)", "Hunderte Millionen Dollar in Maschinen investiert", "Zeigt stratigrafische Schichten"],
       hu: ["A Gold Fields vállalat üzemelteti, akárcsak a szomszédos Tarkwát", "Tarkwától mindössze körülbelül 30 kilométerre északra helyezkedik el", "A paleoproterozoikum korabeli Tarkwaian kőzetekből nyerik az aranyat", "A 2017-es újraberuházási program 340 millió dollárba került", "Jelentős mennyiségű nehéz munkagéppel és teherautó-flottával működik", "A környéken gyakori a helyi ('galamsey') illegális bányászok jelenléte"],
       ro: ["Include mai multe gropi satelit care alimentează o moară centrală unică.", "În anul 2016 a suferit o reinventare totală pentru prelungirea vieții de operare.", "Geologia sa se bazează pe vene complexe de cuarț cu incluziuni de aur vizibile.", "Prezintă o colaborare extrem de strânsă cu mina vecină, Tarkwa.", "Susține construcția spitalelor rurale și a drumurilor de asfalt din district.", "A fost anterior vizată pentru vânzare, dar a fost revitalizată cu succes masiv."],
-      en: []
+      en: ["Located in the Prestea-Huni Valley municipality, north of Tarkwa.", "Wholly owned and operated by the South African firm Gold Fields.", "Extracts gold from both conglomerate reefs and hydrothermal rock sources.", "Recently underwent a massive reinvestment to deepen the main open pit.", "Processes millions of tonnes of ore using a conventional CIL plant.", "A critical industrial employer within the Western Region's mining belt."]
     }
   },
   {
@@ -525,13 +472,10 @@ export const poiExtraGhanaEconomicV2: POI[] = [
       en: "The Asanko Gold Mine is a prominent multi-pit mining operation located in the Ashanti Region, positioned along the highly mineralized Asankrangwa gold belt. Jointly owned by Galiano Gold and Gold Fields, the complex was formed by consolidating several adjacent, historically fragmented mining concessions into a single, cohesive, large-scale operation. Commercial production officially commenced in 2016. The mine utilizes a massive central processing plant fed by ore trucked in from various satellite open pits spread across the concession. It represents the ongoing trend of corporate consolidation in the modern West African mining sector. Geography K7 — corporate mining consolidation."
     },
     factsAdvanced: {
-      en: ["Situated within the prospective Asankrangwa gold belt in the Ashanti Region.", "Operated as a joint venture between Galiano Gold and Gold Fields.", "Formed by the strategic consolidation of multiple smaller historic concessions.", "Commercial production at the centralized facility began in 2016.", "Relies on a 'hub and spoke' model, trucking ore from satellite open pits.", "Processes ore using a massive, modern gravity and CIL plant."]
-    },
-    factsAdvanced: {
       de: ["Zusammenschluss zweier Goldvorkommen", "Liegt im Amansie West Distrikt", "Zentrale hochmoderne Aufbereitungsanlage", "Täglich Tausende Tonnen Gestein verarbeitet", "Wichtiger regionaler Arbeitgeber", "Fördert im großflächigen Tagebau"],
       hu: ["Az Asanko Gold és a Gold Fields vegyesvállalata üzemelteti", "A kitermelés 2016-ban kezdődött meg hivatalosan", "Egy hosszú teherhordó futószalag (overland conveyor) köti össze az aknákat a feldolgozóval", "A bánya az Asankrangwa aranyövön fekszik", "Rendkívül modern, automatizált ciános kioldó (CIL) üzemet használnak", "A környező közösségeknek (pl. Manso Nkran) jelentős munkalehetőséget biztosít"],
       ro: ["Exploatează multiple puțuri de suprafață dispersate în zona faliei Asankrangwa.", "Capacitatea sa de procesare a morilor ajunge frecvent la 5 milioane de tone anual.", "Utilizează rețele interne de drumuri miniere cu acces strict restricționat.", "Produce lingouri din aliaj de aur (dore) care sunt rafinate apoi în străinătate.", "Oferă training gratuit intens tinerilor ingineri din satele învecinate.", "A luat naștere din unirea a două mari licențe de exploatare adiacente (Obotan și Esaase)."],
-      en: []
+      en: ["Situated within the prospective Asankrangwa gold belt in the Ashanti Region.", "Operated as a joint venture between Galiano Gold and Gold Fields.", "Formed by the strategic consolidation of multiple smaller historic concessions.", "Commercial production at the centralized facility began in 2016.", "Relies on a 'hub and spoke' model, trucking ore from satellite open pits.", "Processes ore using a massive, modern gravity and CIL plant."]
     }
   },
   {
@@ -554,13 +498,10 @@ export const poiExtraGhanaEconomicV2: POI[] = [
       en: "The Edikan Gold Mine is a major surface mining operation located near Ayanfuri in the Central Region, distinguishing it from the dense clusters of mines in the Ashanti and Western regions. Owned and operated by the Australian firm Perseus Mining, Edikan commenced commercial production in 2012. The operation targets large, relatively low-grade granitic gold deposits utilizing bulk open-pit mining methods. The facility features a substantial processing plant capable of handling over 7 million tonnes of hard rock ore annually. Its presence has fundamentally transformed the local agrarian economy of the Upper Denkyira West district into an industrial hub. Geography K7 — regional economic transformation."
     },
     factsAdvanced: {
-      en: ["Located near the town of Ayanfuri in the Central Region of Ghana.", "Owned and operated by the Australian company Perseus Mining.", "Commercial gold production officially commenced in January 2012.", "Extracts gold from massive, low-grade granitic rock formations.", "Features a processing plant with a capacity exceeding 7 million tonnes annually.", "The primary industrial anchor for the Upper Denkyira West district."]
-    },
-    factsAdvanced: {
       de: ["Früher als Central Ashanti Gold Project bekannt", "Geologisch extrem komplexes Gebiet", "Fördert aus mehreren kleineren Tagebaugruben", "Umfangreiche Umsiedlungsprogramme", "Netzwerk von Transportstraßen zur Mühle", "Abbau unterhalb alter Siedlungen"],
       hu: ["Az ausztrál Perseus Mining vállalat ghánai zászlóshajója", "Kereskedelmi termelését 2012-ben kezdte meg", "Korábban a területen az Ashanti Goldfields végzett felszíni kutatásokat", "Nagyüzemi, nyílt színi technológiát használ", "Évi több mint 7 millió tonna kőzetet képes feldolgozni a zúzóüzeme", "A bánya várható élettartama a 2020-as évek végéig tart"],
       ro: ["Inițial cunoscută sub denumirea istorică de Central Ashanti Gold Project.", "Operată și deținută majoritar de compania australiană Perseus Mining.", "Produce și procesează volume uluitoare de peste 6 milioane de tone de steril.", "Se concentrează pe o serie de corpuri de minereu masive, însă de calitate inferioară.", "Programul său de reducere a amprentei de carbon include stații electrice proprii.", "Este esențială pentru taxele și redevențele districtului Ayanfuri."],
-      en: []
+      en: ["Located near the town of Ayanfuri in the Central Region of Ghana.", "Owned and operated by the Australian company Perseus Mining.", "Commercial gold production officially commenced in January 2012.", "Extracts gold from massive, low-grade granitic rock formations.", "Features a processing plant with a capacity exceeding 7 million tonnes annually.", "The primary industrial anchor for the Upper Denkyira West district."]
     }
   },
   {
@@ -583,13 +524,10 @@ export const poiExtraGhanaEconomicV2: POI[] = [
       en: "The Nzema Gold Mine, situated in the Ellembelle District of the Western Region, is notable for its proximity to the coast, operating far south of the traditional inland gold belts. Historically operated by Endeavour Mining, it extracts gold from multiple open pits utilizing standard carbon-in-leach technology. The mine is located in an area with a deep history of indigenous and colonial-era mining but brought modern, large-scale mechanized extraction to the district. While smaller than the mega-mines of Tarkwa or Obuasi, Nzema has been a crucial economic driver in a region that is simultaneously navigating the impacts of the emerging offshore oil industry. Geography K7 — coastal mining operations."
     },
     factsAdvanced: {
-      en: ["Located in the Ellembelle District of the Western Region, near the coast.", "Historically operated by the international firm Endeavour Mining.", "Consists of a central processing plant supplied by multiple local open pits.", "Extracts gold utilizing conventional carbon-in-leach (CIL) processing.", "Brought large-scale mechanization to a historically artisanal mining area.", "Operates in a region increasingly dominated by the offshore petroleum sector."]
-    },
-    factsAdvanced: {
       de: ["Liegt im äußersten Südwesten Ghanas", "Nahe der ivorischen Grenze", "Region mit extrem hohem Niederschlag", "Komplexe Entwässerungssysteme nötig", "Wirtschaftliche Lebensader für die Küstenregion", "Benannt nach der lokalen ethnischen Gruppe"],
       hu: ["Eredetileg az Endeavour Mining nyitotta meg, majd eladták", "Az aranyércet több kisebb felszíni 'szatellit' kráterből hozzák a központba", "A bánya az ősi Nzema Királyság területén található", "Jelentős szerepet játszott a helyi infrastruktúra (utak) fejlesztésében", "Folyamatosan kutatnak újabb földalatti vénák után a területen", "Az 1990-es évektől modern technológiával aknázzák ki a maradék aranyat"],
       ro: ["A fost vândută și și-a schimbat de mai multe ori proprietarul în deceniul trecut.", "Este situată în regiunea fertilă Ellembelle, departe de bazinul clasic Ashanti.", "Produce aur din formațiuni stâncoase complexe specifice fâșiei continentale sudice.", "A demonstrat eforturi considerabile în reabilitarea post-minieră a terenurilor.", "Comunitatea s-a bazat prea mult timp pe ea, cauzând declin social post-închidere.", "Are instalații care prelucrează roci reziduale (steril) pentru ultimele grame de aur."],
-      en: []
+      en: ["Located in the Ellembelle District of the Western Region, near the coast.", "Historically operated by the international firm Endeavour Mining.", "Consists of a central processing plant supplied by multiple local open pits.", "Extracts gold utilizing conventional carbon-in-leach (CIL) processing.", "Brought large-scale mechanization to a historically artisanal mining area.", "Operates in a region increasingly dominated by the offshore petroleum sector."]
     }
   },
   {
@@ -612,13 +550,10 @@ export const poiExtraGhanaEconomicV2: POI[] = [
       en: "The Prestea Underground Mine is one of the most historic and famous deep-shaft gold mines in West Africa, located in the Western Region. Operations here date back to the late 19th century, tapping into incredibly rich, narrow quartz veins that plunge deep beneath the surface. Over its lifespan, it has produced millions of ounces of gold but has faced numerous closures and changes in ownership due to the high costs and technical difficulties of deep-level extraction. Recently re-mechanized by Golden Star Resources, the mine operates alongside surface operations, representing the complex, multi-generational lifecycle of Ghana's richest mineral assets. Geography K7 — historic deep-shaft mining."
     },
     factsAdvanced: {
-      en: ["A highly historic deep-shaft gold mine located in the Western Region.", "Industrial extraction operations originally commenced in the late 1800s.", "Targets high-grade, extremely narrow quartz veins deep underground.", "Has experienced multiple closures and re-openings over a century.", "Recently modernized and re-mechanized by Golden Star Resources.", "Shares surface infrastructure with the adjacent Bogoso open-pit mine."]
-    },
-    factsAdvanced: {
       de: ["Schächte über einen Kilometer tief", "Stammt teilweise aus dem frühen 20. Jh.", "Nach jahrelangem Stillstand reaktiviert", "Nutzt ferngesteuerte Bohrmaschinen", "Extreme Hitze und Luftfeuchtigkeit in der Tiefe", "Technisches Meisterwerk unter Tage"],
       hu: ["Több mint százéves múltra visszatekintő mélyszinti aranybánya", "Az aknák közvetlenül Prestea városa alatt is húzódnak", "Hosszú ideig zárva volt, majd a 2010-es évek végén részben újraindították", "Rendkívül nehéz, keskeny-vénás (narrow vein) bányászati technikát igényel", "Korábban az állami tulajdonú State Gold Mining Corporation (SGMC) üzemeltette", "Az arany dúsítását a szomszédos Bogoso feldolgozójában végzik"],
       ro: ["Mina a produs inițial aur pe o durată incredibilă de peste o sută de ani.", "Tunelele sale coboară mult mai mult de 1.000 de metri sub nivelul solului.", "Include lifturi hidraulice (shafts) uriașe, din oțel nituit masiv.", "A fost complet inundată și abandonată parțial în anii 2000, fiind relansată ulterior.", "Concentrația (grade-ul) minereului subteran depășește adesea mediile globale.", "Venele de aur se suprapun peste rețeaua vecină a minei Bogoso."],
-      en: []
+      en: ["A highly historic deep-shaft gold mine located in the Western Region.", "Industrial extraction operations originally commenced in the late 1800s.", "Targets high-grade, extremely narrow quartz veins deep underground.", "Has experienced multiple closures and re-openings over a century.", "Recently modernized and re-mechanized by Golden Star Resources.", "Shares surface infrastructure with the adjacent Bogoso open-pit mine."]
     }
   },
   {
@@ -641,13 +576,10 @@ export const poiExtraGhanaEconomicV2: POI[] = [
       en: "The Savanna Diamond Cement factory in Buipe is a critical industrial facility located in the Savannah Region. Positioned strategically on the banks of the Black Volta River, the plant is the only major cement manufacturing facility serving northern Ghana. It significantly reduces the immense logistical costs of transporting heavy cement from the coastal factories in Tema and Takoradi to the northern infrastructure projects. The plant utilizes local limestone deposits combined with imported clinker. By anchoring industrial manufacturing in the rural north, the Buipe cement plant plays an indispensable role in bridging the nation's north-south developmental divide. Geography K7 — regional industrialization."
     },
     factsAdvanced: {
-      en: ["Located in Buipe, the capital of the Central Gonja District in the Savannah Region.", "The primary cement manufacturing facility serving the northern half of Ghana.", "Strategically situated along the navigable Black Volta River.", "Utilizes nearby indigenous limestone deposits to supplement imported clinker.", "Drastically reduces construction costs for northern infrastructure projects.", "Operated under the Diamond Cement Group."]
-    },
-    factsAdvanced: {
       de: ["Große Industrieanlage im Norden Ghanas", "Liegt in der Savannah Region am Volta-See", "Nutzt lokale Kalksteinvorkommen", "Kostengünstiger Schiffstransport", "Senkte Baukosten im Norden dramatisch", "Wichtig für lokale Bauwirtschaft"],
       hu: ["A Savanna Diamond Cement Ltd. (SDCL) tulajdonában áll", "Ghána ritka északi ipari létesítményeinek egyike", "Közvetlenül a Buipe melletti mészkőbányára támaszkodik", "Kapacitása évente több mint 400 ezer tonna cement", "Jelentősen csökkentette az északi építőanyagok (cement) árát", "A Black Volta vizét használják a hűtési folyamatokhoz"],
       ro: ["Singura sursă majoră și stabilă de ciment industrial produs în nordul Ghanei.", "Utilizează depozitele bogate și izolate de calcar din zona limitrofă Buipe.", "Compania care administrează situl se numește Savannah Diamond Cement.", "Materialul finit permite construirea noilor școli și spitale din zonele saheliene.", "Oferă o platformă unică de locuri de muncă sigure într-o regiune predominant agricolă.", "Posedă capacitatea de prelucrare de aproape o jumătate de milion de tone anual."],
-      en: []
+      en: ["Located in Buipe, the capital of the Central Gonja District in the Savannah Region.", "The primary cement manufacturing facility serving the northern half of Ghana.", "Strategically situated along the navigable Black Volta River.", "Utilizes nearby indigenous limestone deposits to supplement imported clinker.", "Drastically reduces construction costs for northern infrastructure projects.", "Operated under the Diamond Cement Group."]
     }
   },
   {
@@ -670,13 +602,10 @@ export const poiExtraGhanaEconomicV2: POI[] = [
       en: "GHACEM's Tema facility is the flagship and oldest cement manufacturing plant in Ghana, established in 1967 by the government in partnership with Norway's Norcem. Located within the heavy industrial zone of the Tema port, the factory was designed to crush and grind imported clinker and gypsum, packaging it into the iconic GHACEM bags that have built the majority of the nation's modern infrastructure. Relying heavily on the deep-water port to receive bulk raw materials, the massive facility operates continuously, dominating the domestic construction materials market and anchoring the industrial output of the Greater Accra Region. Geography K7 — heavy port industries."
     },
     factsAdvanced: {
-      en: ["Established in 1967 as Ghana's first domestic cement manufacturing plant.", "Located in the heavy industrial zone adjacent to the Tema deep-water port.", "Originally a joint venture between the Ghanaian government and Norcem.", "Operates primarily by grinding and blending imported clinker and gypsum.", "The largest single producer of Portland cement in the country.", "Relies fundamentally on the Tema port for bulk raw material imports."]
-    },
-    factsAdvanced: {
       de: ["Gegründet 1967 vom ghanaischen Staat", "Dominierender Zementhersteller des Landes", "Liegt direkt am Seehafen Tema", "Klinkerimport und lokaler Kalkstein", "Milliarden Tonnen Zement produziert", "Fundament des nationalen Baubooms"],
       hu: ["1967-ben alapították a norvég Norcem és a ghánai állam együttműködésével", "A Ghacem a 'Ghana Cement' rövidítése (jelenleg a HeidelbergCement csoport tagja)", "Éves kapacitása meghaladja a 2 millió tonnát", "A nyersanyagot (klinkert) hajókon importálják Európából és Ázsiából", "Ghána cementigényének jelentős részét ez az üzem fedezi", "A Tema kikötő közvetlen közelében, az ipari negyedben található"],
       ro: ["Constituie pilonul de bază al expansiunii arhitecturale a capitalei Accra din 1967.", "Importă materie primă (clincher) direct din navele andocate în portul Tema.", "Numele GHACEM provine de la Ghana Cement Works, un brand recunoscut de toți cetățenii.", "Este responsabilă pentru construirea majorității infrastructurii din beton a țării.", "Extrage praful cu sisteme moderne masive de filtrare, atenuând impactul asupra aerului.", "Compania mamă HeidelbergCement deține majoritatea uriașă a acțiunilor."],
-      en: []
+      en: ["Established in 1967 as Ghana's first domestic cement manufacturing plant.", "Located in the heavy industrial zone adjacent to the Tema deep-water port.", "Originally a joint venture between the Ghanaian government and Norcem.", "Operates primarily by grinding and blending imported clinker and gypsum.", "The largest single producer of Portland cement in the country.", "Relies fundamentally on the Tema port for bulk raw material imports."]
     }
   },
   {
@@ -699,13 +628,10 @@ export const poiExtraGhanaEconomicV2: POI[] = [
       en: "The GHACEM Takoradi plant is the second major cement manufacturing facility established by the company in Ghana, strategically located near the Takoradi deep-water port in the Western Region. Commissioned to support the rapidly expanding construction demands of the mining and timber industries in the country's interior, the plant operates similarly to the Tema facility by processing massive volumes of imported clinker. It serves as the primary supplier of cement for the western and central corridors of Ghana, and its expansion has been heavily driven by the recent boom in infrastructure required for the offshore petroleum sector. Geography K7 — regional construction supply."
     },
     factsAdvanced: {
-      en: ["Located near the Takoradi deep-water port in the Western Region.", "The second major facility operated by Ghana Cement (GHACEM).", "Processes millions of tonnes of imported clinker and gypsum annually.", "Supplies the vast majority of cement for the western mining districts.", "Expanded operations significantly to support the regional offshore oil boom.", "Crucial for reducing inland transport costs for heavy construction materials."]
-    },
-    factsAdvanced: {
       de: ["Sichert Baustoffversorgung der Westküste", "Liegt direkt am Hafen von Takoradi", "Schwesternwerk der Anlage in Tema", "Exportiert Zement in Nachbarländer", "Profitierte stark vom regionalen Ölboom", "Importiert Klinker und Gips per Schiff"],
       hu: ["A Ghacem második legnagyobb őrlőüzeme (grinding plant) Ghánában", "Közvetlenül Takoradi mélyvízi kikötőjének szomszédságába telepítették", "Kulcsszerepe van a Nyugati és Ashanti régiók építőanyag-ellátásában", "Folyamatosan bővítették, hogy kiszolgálja az olajipar (Sekondi-Takoradi) növekedését", "Éves őrlési kapacitása több mint 1 millió tonna", "Védjegye a piros-fehér-fekete festésű gyárkémény"],
       ro: ["Alimentează masiv toate marile operațiuni de extracție din Regiunea de Vest.", "Materiile prime secundare, cum ar fi gipsul fin, se preiau direct de pe mare.", "Uzina este legată de infrastructura de cale ferată locală pentru a livra ciment vrac.", "Construcția acesteia a accelerat considerabil dezvoltarea economică postcolonială a orașului.", "Oferă suport comunitar consistent fermierilor cu materiale la cost redus.", "Funcționează ca partener logistic direct pentru mina Tarkwa."],
-      en: []
+      en: ["Located near the Takoradi deep-water port in the Western Region.", "The second major facility operated by Ghana Cement (GHACEM).", "Processes millions of tonnes of imported clinker and gypsum annually.", "Supplies the vast majority of cement for the western mining districts.", "Expanded operations significantly to support the regional offshore oil boom.", "Crucial for reducing inland transport costs for heavy construction materials."]
     }
   },
   {
@@ -728,13 +654,10 @@ export const poiExtraGhanaEconomicV2: POI[] = [
       en: "Blue Skies is a massive, highly successful agro-processing facility located near Nsawam in the Eastern Region. Founded in 1997, the company revolutionized the local agricultural economy by exporting fresh-cut tropical fruit—such as pineapples, mangoes, and papaya—directly to European supermarkets within 48 hours of harvest. The facility employs thousands of local workers and relies on a vast network of smallholder farmers across the region. By processing the fruit locally rather than exporting it whole, Blue Skies adds immense value within Ghana, making it a premier textbook example of successful, sustainable agricultural value-addition in West Africa. Geography K7 — agricultural value addition."
     },
     factsAdvanced: {
-      en: ["Located near Nsawam in the Eastern Region of Ghana.", "Established in 1997, pioneering the export of fresh-cut tropical fruits.", "Products reach major European supermarket shelves within 48 hours.", "Directly employs thousands of factory workers, mostly from local communities.", "Sources fruit from a massive network of Ghanaian smallholder farmers.", "A premier national model for adding value to raw agricultural exports."]
-    },
-    factsAdvanced: {
       de: ["Pionierprojekt für agro-industrielle Entwicklung", "Exportiert in 48 Stunden nach Europa", "Verpackt frische Früchte (Ananas, Mango) vor Ort", "Liegt nahe Nsawam", "Kooperiert mit Hunderten Kleinbauern", "Hält Wertschöpfung im Land"],
       hu: ["1998-ban alapította egy brit vállalkozó, Anthony Pile", "Az egyik legnagyobb magánmunkáltató a Keleti Régióban", "Több mint 3000 embert foglalkoztat, zömében nőket a feldolgozósorokon", "A frissen vágott gyümölcsöt repülőgéppel (Air Cargo) exportálják Európába", "A 'Fairtrade' (Méltányos Kereskedelem) minősítés egyik zászlóshajója Ghánában", "Hatalmas ananászültetvények hálózatát integrálja Nsawam környékén"],
       ro: ["A fost fondată cu succes masiv în anul 1998 de antreprenorul Anthony Pile.", "Angajează o pondere dominantă de femei în faza meticuloasă a tăierii fructelor.", "Zborurile zilnice către Uniunea Europeană garantează prospețimea uimitoare.", "Politica sa refuză importul și depinde exclusiv de fermierii ghanezi de ananas.", "Prezintă standarde uluitoare de igienă care rivalizează cu clinicile medicale.", "Sucurile sale artizanale au dominat complet piața magazinelor interne din Ghana."],
-      en: []
+      en: ["Located near Nsawam in the Eastern Region of Ghana.", "Established in 1997, pioneering the export of fresh-cut tropical fruits.", "Products reach major European supermarket shelves within 48 hours.", "Directly employs thousands of factory workers, mostly from local communities.", "Sources fruit from a massive network of Ghanaian smallholder farmers.", "A premier national model for adding value to raw agricultural exports."]
     }
   },
   {
@@ -757,13 +680,10 @@ export const poiExtraGhanaEconomicV2: POI[] = [
       en: "Twifo Oil Palm Plantations (TOPP) is one of the largest commercial agricultural estates in Ghana, located in the Twifo Hemang Lower Denkyira District of the Central Region. The estate covers thousands of hectares of dense forest land converted into highly organized grids of oil palm trees. It features a massive central milling facility that processes the harvested fresh fruit bunches into crude palm oil and palm kernel oil, which are critical raw materials for domestic soap and cooking oil manufacturing. TOPP is a major rural employer and represents the industrial scale of cash crop monoculture in the Ghanaian forest belt. Geography K7 — commercial monoculture farming."
     },
     factsAdvanced: {
-      en: ["Located in the Twifo Hemang Lower Denkyira District of the Central Region.", "One of the largest commercial oil palm estates operating in Ghana.", "Features an extensive, mechanized central milling facility on site.", "Produces vast quantities of crude palm oil and palm kernel oil.", "Supplies crucial raw materials to domestic soap and food manufacturers.", "Represents large-scale, corporate monoculture in the tropical forest zone."]
-    },
-    factsAdvanced: {
       de: ["Riesige kommerzielle Palmölplantage", "Erstreckt sich über Tausende Hektar", "Liegt in der Central Region", "Verfügt über eigene Öl-Raffinerie", "Produziert Speiseöl und Seifenrohstoffe", "Oft Kritik wegen Monokultur-Anbau"],
       hu: ["Több mint 4000 hektáros saját, egybefüggő pálmaültetvénnyel rendelkezik", "Több ezer környékbeli kisgazda (outgrower) termését is felvásárolja", "A vörös pálmaolaj (CPO) és pálmamagolaj (PKO) fő előállítója", "A Unilever egyik fő beszállítója a nyugat-afrikai szappan- és kozmetikai ipar számára", "Az 1970-es évek végén állami projektként indult, ma magántulajdonban van", "A komplexum saját faluval, iskolával és kórházzal rendelkezik a dolgozók számára"],
       ro: ["Domeniul este alcătuit din mii de hectare continue de palmier de ulei hibrid (Tenera).", "A fost deținută temporar de consorțiul corporativ internațional Unilever.", "Procesează peste un milion de tone de ciorchini de fructe de palmier în sezoanele de vârf.", "Susține mii de ferme satelit gestionate de locuitorii autohtoni din preajmă.", "Posedă propriile sisteme private complete de locuințe și educație medicală.", "Uleiul de miez extras reprezintă un export industrial global uriaș."],
-      en: []
+      en: ["Located in the Twifo Hemang Lower Denkyira District of the Central Region.", "One of the largest commercial oil palm estates operating in Ghana.", "Features an extensive, mechanized central milling facility on site.", "Produces vast quantities of crude palm oil and palm kernel oil.", "Supplies crucial raw materials to domestic soap and food manufacturers.", "Represents large-scale, corporate monoculture in the tropical forest zone."]
     }
   },
   {
@@ -786,13 +706,10 @@ export const poiExtraGhanaEconomicV2: POI[] = [
       en: "The Cargill Cocoa Processing facility, located within the Tema Free Zones Enclave, is a state-of-the-art industrial plant that processes raw Ghanaian cocoa beans into high-value cocoa liquor, butter, and powder for global export. Commissioned in 2008 by the American agricultural giant Cargill, the facility represents a strategic shift in Ghana's economy towards processing its raw materials domestically rather than exporting them entirely unrefined. The highly automated plant utilizes advanced technology to meet strict international food safety standards, drawing on the immense cocoa output of the interior and the logistical advantages of the adjacent deep-water port. Geography K7 — industrial agro-processing."
     },
     factsAdvanced: {
-      en: ["Located inside the secure Tema Free Zones Enclave.", "Commissioned in 2008 by the global agricultural corporation Cargill.", "Processes raw cocoa beans into liquor, cocoa butter, and cocoa powder.", "Represents a major foreign investment in domestic value-addition.", "Highly automated facility adhering to strict international food safety standards.", "Relies on the adjacent Tema Port for rapid, high-volume global export."]
-    },
-    factsAdvanced: {
       de: ["Hochmoderne Kakaoverarbeitungsanlage", "Liegt in der Freihandelszone von Tema", "Milliarden-Dollar-Investition von Cargill", "Produziert Kakaomasse und -butter", "Erhöht nationale Wertschöpfung enorm", "Schafft technische Arbeitsplätze"],
       hu: ["2008-ban nyitotta meg a nemzetközi Cargill vállalatcsoport", "Tema kikötővárosának Szabadkereskedelmi Zónájában (Free Zone) működik", "Évente több mint 80 ezer tonna nyers kakaóbabot képes feldolgozni", "Kakaóvajat, kakaólikőrt (masszát) és kakaóport állít elő", "Az üzem nagymértékben automatizált, zárt csőrendszerekkel dolgozik", "Ghána kormányának egyik fő célja, hogy a kakaó értékének nagyobb része maradjon az országban"],
       ro: ["Investiția inițială a reprezentat o injecție financiară enormă de 100 de milioane de dolari.", "Are capacitatea tehnologică uriașă de a zdrobi aproape 100.000 de tone de boabe.", "Exportă pudră și unt de cacao de nivel fin direct spre piețele vestice.", "Funcționează ca o unitate de înaltă tehnologie controlată complet automatizat.", "Situată strategic în vecinătatea imediată a portului pentru ușurința expedierilor navale.", "Face parte din zonele cu statut scutit de taxe vamale pentru stimularea exportului."],
-      en: []
+      en: ["Located inside the secure Tema Free Zones Enclave.", "Commissioned in 2008 by the global agricultural corporation Cargill.", "Processes raw cocoa beans into liquor, cocoa butter, and cocoa powder.", "Represents a major foreign investment in domestic value-addition.", "Highly automated facility adhering to strict international food safety standards.", "Relies on the adjacent Tema Port for rapid, high-volume global export."]
     }
   },
   {
@@ -815,13 +732,10 @@ export const poiExtraGhanaEconomicV2: POI[] = [
       en: "The Cocoa Processing Company (CPC), also situated in the industrial hub of Tema, is a historic, state-owned enterprise established in 1965 by President Kwame Nkrumah. It was designed to ensure Ghana retained control over the value chain of its most prized agricultural export. The massive complex is actually two factories in one: a processing plant that converts raw beans into semi-finished products (liquor, butter, powder), and a confectionery plant that produces the famous 'Golden Tree' brand of chocolates. Despite historical financial and operational struggles, CPC remains an iconic symbol of national industrial pride and agricultural sovereignty. Geography K7 — state-owned enterprises."
     },
     factsAdvanced: {
-      en: ["Established in 1965 as a fully state-owned enterprise in Tema.", "Built under the industrialization policies of President Kwame Nkrumah.", "Consists of both a primary cocoa processing plant and a confectionery factory.", "Manufactures the nationally famous 'Golden Tree' brand of chocolate bars.", "Designed to retain industrial value within the country's borders.", "Historically operated to process beans that fall short of export export standards."]
-    },
-    factsAdvanced: {
       de: ["Gegründet 1965 von Kwame Nkrumah", "Staatliches Kakaoverarbeitungsunternehmen", "Produziert die berühmte Golden Tree Schokolade", "Komplette Wertschöpfung in Afrika", "Symbol für wirtschaftliche Unabhängigkeit", "Liegt in Tema"],
       hu: ["1965-ben alapította Kwame Nkrumah, hogy Ghána saját csokoládét gyártson", "Itt készül a híres 'Golden Tree' prémium ghánai csokoládé márka", "Tema kikötőjének vonzáskörzetében épült fel", "Két fő egységből áll: egy kakaó-őrlő és egy édesipari (csokoládé) gyárból", "A világ egyik legtisztább, prémium minőségű kakaóbabját dolgozza fel", "Folyamatos kihívást jelent számukra a modernizáció és az államadósság kezelése"],
       ro: ["Singurul producător la scară vastă capabil să scoată pe piață tablete sub brand complet ghanez.", "Brandul intern de referință se numește oficial Golden Tree Chocolate.", "Operează pe trei linii distincte majore (extragere de lichior, fabricare pudră și cofetărie).", "Fabrica se află în portul industrial Tema, dominată de arome puternice.", "Compania suferă cronic de provocări uriașe legate de obținerea lichidităților.", "Produce mărci celebre de băuturi pe bază de pudră, precum Royal și Alltime."],
-      en: []
+      en: ["Established in 1965 as a fully state-owned enterprise in Tema.", "Built under the industrialization policies of President Kwame Nkrumah.", "Consists of both a primary cocoa processing plant and a confectionery factory.", "Manufactures the nationally famous 'Golden Tree' brand of chocolate bars.", "Designed to retain industrial value within the country's borders.", "Historically operated to process beans that fall short of export export standards."]
     }
   },
   {
@@ -844,13 +758,10 @@ export const poiExtraGhanaEconomicV2: POI[] = [
       en: "The Atuabo Gas Processing Plant, located in the Ellembelle District of the Western Region, is a highly critical energy infrastructure facility operated by the Ghana National Gas Company. Commissioned in 2015, the plant receives 'wet' natural gas piped directly from the offshore Jubilee oil field. Atuabo processes this raw gas, stripping out valuable Liquefied Petroleum Gas (LPG) for domestic cooking and condensates, before sending the remaining 'lean' dry gas via pipeline to power the thermal electricity plants at Aboadze. This facility effectively ended the flaring of offshore gas, drastically reducing carbon emissions and securing domestic energy supplies. Geography K7 — natural gas processing."
     },
     factsAdvanced: {
-      en: ["Located at Atuabo in the Ellembelle District of the Western Region.", "Operated by the state-owned Ghana National Gas Company (Ghana Gas).", "Commissioned in 2015 to process 'wet' natural gas from offshore fields.", "Produces massive quantities of Liquefied Petroleum Gas (LPG) for domestic use.", "Pipes processed 'lean' gas directly to the Aboadze thermal power enclave.", "Its operation significantly reduced environmentally harmful offshore gas flaring."]
-    },
-    factsAdvanced: {
       de: ["Liegt in Atuabo in der Western Region", "Empfängt Offshore-Gas per Unterseepipeline", "Verarbeitet rohes Erdgas zu trockenem Gas", "Reduzierte Abhängigkeit von Ölimporten", "Produziert LPG für Haushaltskocher", "Beendete schwere nationale Stromausfälle"],
       hu: ["A Ghana National Gas Company (Ghana Gas) üzemelteti", "2015-ben adták át, hogy megszüntessék a drága külföldi (nigériai) gázfüggőséget", "Naponta mintegy 150 millió köbláb földgázt képes feldolgozni", "A cseppfolyósított PB-gáz (LPG) termelésével csökkenti az erdőirtást (faszén használatát)", "A Jubilee és a TEN tengeri olajmezőkkel van összeköttetésben", "Közvetlen csővezeték köti össze a Takoradi (Aboadze) hőerőművel"],
       ro: ["Finalizarea cu succes a avut loc în mod monumental în anul 2014.", "Procesează complet tot gazul natural emanat de câmpurile petroliere ghaneze.", "Fără existența acestei instalații masive, gazul nociv era adesea ars direct în atmosferă (flaring).", "Ea produce jumătate din necesarul casnic național de butelii de gaz lichefiat.", "Garanția de energie pe care o aduce previne așa-numitul 'Dumsor' (pana de curent cronică).", "Conductele subacvatice gigantice sunt operate de societatea de stat Ghana Gas."],
-      en: []
+      en: ["Located at Atuabo in the Ellembelle District of the Western Region.", "Operated by the state-owned Ghana National Gas Company (Ghana Gas).", "Commissioned in 2015 to process 'wet' natural gas from offshore fields.", "Produces massive quantities of Liquefied Petroleum Gas (LPG) for domestic use.", "Pipes processed 'lean' gas directly to the Aboadze thermal power enclave.", "Its operation significantly reduced environmentally harmful offshore gas flaring."]
     }
   },
   {
@@ -867,22 +778,16 @@ export const poiExtraGhanaEconomicV2: POI[] = [
       en: ["Founded by Kwadwo Safo.", "Assembles vehicles in the country.", "Promotes local engineering."]
     },
     descriptionAdvanced: {
-      en: "The Kantanka Automobile manufacturing plant, situated in Gomoa Mpota in the Central Region, is Ghana's premier indigenous automotive assembly facility. Founded by the inventor and religious leader Apostle Kwadwo Safo, the company designs and assembles a range of SUVs, pickup trucks, and sedans specifically engineered to withstand harsh West African road conditions. While it heavily relies on imported knock-down kits from international partners, the factory actively integrates locally manufactured components, including custom wood trims and proprietary electronic systems. Kantanka represents a bold, ongoing attempt to establish a viable, homegrown heavy manufacturing sector in Ghana. Geography K7 — indigenous manufacturing."
-    },
-    factsAdvanced: {
-      en: ["Located in Gomoa Mpota in the Central Region of Ghana.", "Founded by Ghanaian inventor and religious leader Apostle Kwadwo Safo.", "The only indigenous commercial automobile assembly plant in the country.", "Produces a range of SUVs and pickup trucks designed for local road conditions.", "Integrates specific locally crafted components like wood trim into the vehicles.", "Represents a major initiative to reduce reliance on imported foreign vehicles."]
-    },
-    descriptionAdvanced: {
       de: "Kantanka Automobile ist Ghanas erster und einziger heimischer Automobilhersteller, gegründet von dem Erfinder und Geistlichen Kwadwo Safo Kantanka. Die Fabrik in der Central Region montiert Geländewagen, Pick-ups und Limousinen, die oft mit innovativen, lokalen Features wie Bedienungsanleitungen in ghanaischen Sprachen ausgestattet sind. Obwohl das Unternehmen stark mit asiatischen Importen konkurriert, gilt es als leuchtendes Beispiel für afrikanische Ingenieurskunst und Erfindergeist. Technologie K7 — Maschinenbau in Afrika.",
       hu: "A Kantanka Automobilgyár a Középső Régióban, Gomoa Mpota településen működő, egyedülálló ghánai járműipari vállalkozás. Az Apostle Kwadwo Safo által alapított cég helyben összeszerelt, strapabíró SUV-okat és pickupokat gyárt (Kínából importált alkatrészekből és helyi innovációkból), az 'Afrikai önellátás' és mérnöki leleményesség szimbólumaként. Gazdaság K8 — afrikai járműipar.",
       ro: "Kantanka Automobile reprezintă povestea ambițioasă a primului vehicul comercial fabricat pe sol ghanez, o demonstrație de viziune uimitoare lansată de apostolul Kwadwo Safo. Situată la marginea liniștită a Gomoa Mpota, linia de asamblare folosește o combinație vastă de piese internaționale completată de panouri groase de caroserie din lemn autohton sculptate manual și unelte forjate din fier local vechi. Mașinile off-road imense cu tracțiune 4x4 ies pe ușa fabricii adresându-se explicit guvernelor și forțelor de securitate locale, visând la oprirea importurilor toxice de rable uzate. Economie K7 — industria mecanică africană.",
-      en: ""
+      en: "The Kantanka Automobile manufacturing plant, situated in Gomoa Mpota in the Central Region, is Ghana's premier indigenous automotive assembly facility. Founded by the inventor and religious leader Apostle Kwadwo Safo, the company designs and assembles a range of SUVs, pickup trucks, and sedans specifically engineered to withstand harsh West African road conditions. While it heavily relies on imported knock-down kits from international partners, the factory actively integrates locally manufactured components, including custom wood trims and proprietary electronic systems. Kantanka represents a bold, ongoing attempt to establish a viable, homegrown heavy manufacturing sector in Ghana. Geography K7 — indigenous manufacturing."
     },
     factsAdvanced: {
       de: ["Erster heimischer Automobilhersteller Ghanas", "Gegründet von Erfinder Kwadwo Safo Kantanka", "Fabrik in der Central Region", "Montiert Geländewagen und Pick-ups", "Bietet Bedienungsanleitungen in lokalen Sprachen", "Konkurriert mit asiatischen Importen"],
       hu: ["Ghána egyetlen hazai fejlesztésű autómárkája", "Apostle Kwadwo Safo Kantanka ghánai feltaláló és vallási vezető alapította", "Főként masszív terepjárókat (SUV) és pickupokat szerelnek össze a helyi utakra", "Népszerű modelljeik közé tartozik a Kantanka Onantefo és az Omama", "Sok modelljük ghánai famotívumokat és helyi nyelveken beszélő fedélzeti rendszert kap", "A ghánai rendőrség és a kormányzati szervek gyakori vásárlói a márkának"],
       ro: ["A fost asamblat cu entuziasm sub viziunea antreprenorului și liderului religios Kwadwo Safo.", "Situl lor de construcție se extinde rapid în locația principală din Gomoa Mpota.", "A luat decizia curajoasă de a oferi comenzi cu volane de pe piața stângă exclusiv pentru Ghana.", "Multe garnituri și detalii ale interioarelor se bazează adesea pe lemn reciclat ecologic autohton.", "O mică parte din gama lor masivă de automobile intră pe stocurile forțelor de poliție de stat.", "Oferă pregătiri de specialitate extrem de complexe pentru inginerii tehnici tineri."],
-      en: []
+      en: ["Located in Gomoa Mpota in the Central Region of Ghana.", "Founded by Ghanaian inventor and religious leader Apostle Kwadwo Safo.", "The only indigenous commercial automobile assembly plant in the country.", "Produces a range of SUVs and pickup trucks designed for local road conditions.", "Integrates specific locally crafted components like wood trim into the vehicles.", "Represents a major initiative to reduce reliance on imported foreign vehicles."]
     }
   }
 ];

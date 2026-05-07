@@ -450,7 +450,7 @@ en: [
       en: ["Served as the temporary capital of the Indonesian Republic from 1946 to 1950.", "The Kraton Yogyakarta was founded in 1755 by Sultan Hamengkubuwono I.", "Home to Gadjah Mada University, the oldest and largest university in Indonesia.", "Malioboro Street is the city's most famous shopping and cultural thoroughfare.", "The Taman Sari Water Castle served as a royal garden for the Sultanate.", "Located just 30 kilometers from the highly active Mount Merapi volcano.", "The Tugu monument is the iconic symbol of the city's geographical alignment.", "Recognized as a UNESCO City of Crafts and Folk Art."]
     }
   },
-{
+  {
 id: "pontianak-cities-v2",
 type: "state-capital",
 parent: "ID-KB",
@@ -506,7 +506,7 @@ en: [
       en: ["Founded on October 23, 1771, by Sultan Syarif Abdurrahman Alkadrie.", "The Equator Monument (Tugu Khatulistiwa) was first established in 1928.", "The Kapuas River is 1,143 kilometers long, the longest in Indonesia.", "The shadowless phenomenon occurs every March 21 and September 23.", "Home to the Kadriyah Palace, the seat of the former Pontianak Sultanate.", "The Jami Mosque is one of the oldest and largest wooden mosques in the region.", "A major center for the production of Aloe Vera and Siantan oranges.", "The city sits at an elevation of only 0 to 1 meter above sea level."]
     }
   },
-{
+  {
 id: "banjarmasin-cities-v2",
 type: "state-capital",
 parent: "ID-KS",
@@ -562,7 +562,7 @@ en: [
       en: ["The Sultanate of Banjar was officially established on September 24, 1526.", "The Lok Baintan floating market has been active for over 400 years.", "Sabilal Muhtadin Mosque is the second largest mosque in Indonesia after Istiqlal.", "Martapura, near the city, is a world-renowned center for diamond polishing.", "The city's life is centered on the 900-kilometer long Barito River.", "Proboscis monkeys, endemic to Borneo, can be found in the nearby river islands.", "Traditional houses, called 'Rumah Bubungan Tinggi,' feature high-pitched roofs.", "The city is a major hub for coal, timber, and rubber exports from Borneo."]
     }
   },
-{
+  {
 id: "balikpapan-cities-v2",
 type: "city",
 parent: "ID-KI",
@@ -618,7 +618,7 @@ en: [
       en: ["The first oil well, named 'Mathilda,' was drilled on February 10, 1897.", "Home to the Sultan Aji Muhammad Sulaiman Airport, a top-rated facility in Asia.", "The Pertamina refinery in Balikpapan processes about 260,000 barrels of oil daily.", "Won the 'Adipura Kencana' award multiple times for its environmental cleanliness.", "The Samboja Lestari sanctuary nearby protects endangered Sun Bears and Orangutans.", "Strategically located on the Makassar Strait, a vital international shipping lane.", "The Bangkirai Hill canopy bridge offers a unique view of the tropical rainforest.", "Serves as the main gateway to the new Indonesian capital city, Nusantara."]
     }
   },
-{
+  {
 id: "pekanbaru-cities-v2",
 type: "state-capital",
 parent: "ID-RI",
@@ -674,7 +674,7 @@ en: [
       en: ["Officially founded as a trading market on June 23, 1784.", "The Siak River, which bisects the city, is the deepest river in Indonesia.", "The An-Nur Great Mosque, completed in 1968, features five distinctive domes.", "Riau province produces about one-quarter of Indonesia's total crude oil.", "Home to Chevron Pacific Indonesia, one of the nation's largest oil producers.", "A major global hub for the export of palm oil and paper products.", "The Idrus Tintin Cultural Center is a landmark for Malay arts and performances.", "The city's population skyrocketed from 300,000 to over 1.1 million in 30 years."]
     }
   },
-{
+  {
 id: "manado-cities-v2",
 type: "state-capital",
 parent: "ID-SA",
@@ -730,7 +730,7 @@ en: [
       en: ["Bunaken National Marine Park covers 89,000 hectares and 390 coral species.", "The 'Christ Blessing' (Kristus Memberkati) statue stands 50 meters tall.", "The city was a major colonial outpost for the Dutch spice trade in the 17th century.", "Manado cuisine is famous for its extreme spiciness and unique ingredients.", "Hosted the World Ocean Conference in 2009 to discuss climate change.", "Approximately 63% of the city's population is Christian.", "The city was almost entirely destroyed in WWII and rebuilt in the 1950s.", "Surrounded by active volcanoes, including Mount Lokon and Mount Mahawu."]
     }
   },
-{
+  {
 id: "kuta-cities-v2",
 type: "city",
 parent: "ID-BA",
@@ -786,7 +786,7 @@ en: [
       en: ["First gained international fame in the 1970s as part of the 'Hippy Trail'.", "Kuta Beach stretches for about 2.5 kilometers of continuous sand.", "Home to the 'Ground Zero' Memorial, honoring the victims of the 2002 bombings.", "Waterbom Bali in Kuta is consistently ranked as Asia's top water park.", "Located only 15 minutes away from Ngurah Rai International Airport.", "The area was historically a major export port for Balinese rice and slaves.", "Kuta has the highest density of tourist accommodation in Indonesia.", "Suffers from seasonal plastic pollution washed up during the monsoon season."]
     }
   },
-{
+  {
 id: "bogor-cities-v2",
 type: "city",
 parent: "ID-JB",
@@ -842,7 +842,7 @@ en: [
       en: ["Founded as 'Buitenzorg' in 1745 by Governor-General van Imhoff.", "The Bogor Botanical Gardens (Kebun Raya) was established in 1817.", "The botanical gardens house over 13,000 different plant species.", "The Presidential Palace (Istana Bogor) grounds are home to 800 spotted deer.", "Bogor records an average of 320 thunderstorm days per year.", "Home to IPB University, Indonesia's leading agricultural sciences institution.", "Sits at an elevation of 265 meters, offering a temperate tropical climate.", "Headquarters of the Center for International Forestry Research (CIFOR)."]
     }
   },
-{
+  {
 id: "jayapura-cities-v2",
 type: "state-capital",
 parent: "ID-PA",
@@ -898,7 +898,7 @@ en: [
       en: ["Founded on March 7, 1910, by the Dutch under the name Hollandia.", "The name Jayapura is derived from Sanskrit, meaning 'City of Victory'.", "Served as the headquarters for the 1944 Allied invasion of the Philippines.", "Lake Sentani, near the city, contains 21 small islands and stilt villages.", "The Base-G Beach is named after the WWII Allied base 'Base G'.", "The Cyclops Mountains Nature Reserve borders the city to the north.", "Jayapura hosted the 20th Indonesian National Sports Week (PON) in 2021.", "The city is the main export hub for Papuan cocoa and timber."]
     }
   },
-{
+  {
 id: "padang-cities-v2",
 type: "state-capital",
 parent: "ID-SB",
@@ -954,7 +954,7 @@ en: [
       en: ["Capital of West Sumatra and the heart of the world's largest matrilineal society.", "Padang's Rendang was voted the #1 dish in CNN's 'World's 50 Best Foods'.", "Suffered a major 7.6 magnitude earthquake on September 30, 2009.", "The Grand Mosque of West Sumatra features a roof inspired by Minangkabau style.", "Air Manis Beach is home to the 'Malin Kundang' stone, a local legend.", "Teluk Bayur Port, opened in 1888, is a key export hub for cement and coal.", "The Minangkabau International Airport features traditional 'Rumah Gadang' roofs.", "The city's name 'Padang' means 'field' or 'plain' in the local language."]
     }
   },
-{
+  {
 id: "solo-surakarta-cities-v2",
 type: "city",
 parent: "ID-JT",
@@ -1010,7 +1010,7 @@ en: [
       en: ["Founded in 1745 as the new capital of the Mataram Sultanate.", "Home to two active royal palaces: Keraton Kasunanan and Pura Mangkunegaran.", "The Klewer Market is the largest Batik trading center in all of Indonesia.", "The Bengawan Solo is the longest river on the island of Java (600 km).", "Birthplace of the 7th Indonesian President, Joko Widodo.", "The Sangiran Early Man Site, a UNESCO World Heritage site, is located nearby.", "The annual 'Solo Batik Carnival' is a major cultural and tourist event.", "Known for its polite social etiquette and refined Javanese dialect."]
     }
   },
-{
+  {
 id: "batam-cities-v2",
 type: "city",
 parent: "ID-KR",
@@ -1066,7 +1066,7 @@ en: [
       en: ["Declared a strategic industrial zone by the Indonesian government in 1971.", "The Barelang Bridge is a system of 6 bridges connecting Batam to 5 other islands.", "Has the status of a Free Trade Zone (FTZ), exempt from many taxes and duties.", "Hang Nadim International Airport has the longest runway in Indonesia (4,025 m).", "The city's population grew from 6,000 in 1970 to over 1.2 million today.", "The third busiest gateway for international tourists entering Indonesia.", "Home to hundreds of electronics factories and major ship repair yards.", "The Maha Vihara Duta Maitreya is one of the largest Buddhist temples in SE Asia."]
     }
   },
-{
+  {
 id: "ambon-cities-v2",
 type: "state-capital",
 parent: "ID-MA",
@@ -1122,7 +1122,7 @@ en: [
       en: ["Founded by the Portuguese in 1575 as Fort Nossa Senhora da Anunciada.", "Recognized by UNESCO as a 'City of Music' in 2019 for its creative culture.", "Ambon Bay is one of the deepest and most biodiverse natural harbors in Indonesia.", "Cloves and nutmeg were historically endemic only to the Maluku islands.", "The Siwa Lima Museum houses the region's largest collection of Moluccan artifacts.", "The Merah Putih Bridge is the longest bridge in eastern Indonesia (1.1 km).", "Home to the monument of Martha Christina Tiahahu, a famous national heroine.", "Historically served as the primary administrative center for the Dutch VOC."]
     }
   },
-{
+  {
 id: "cirebon-cities-v2",
 type: "city",
 parent: "ID-JB",
@@ -1178,7 +1178,7 @@ en: [
       en: ["Known as the 'Shrimp City' (Kota Udang) due to its historic seafood trade.", "Home to three royal palaces: Keraton Kasepuhan, Kanoman, and Kacirebonan.", "The 'Mega Mendung' cloud pattern is the iconic cultural symbol of Cirebon.", "Sunyaragi Cave is a 17th-century meditation site built entirely of coral stones.", "The tomb of Sunan Gunung Jati is a major site of religious pilgrimage.", "The city's name is derived from 'Cai-Rebon' (Shrimp Water) in the local dialect.", "A major producer of 'Terasi,' a traditional Indonesian fermented shrimp paste.", "Historically acted as the primary buffer zone between the Sunda and Mataram empires."]
     }
   },
-{
+  {
 id: "malang-cities-v2",
 type: "city",
 parent: "ID-JI",
@@ -1234,7 +1234,7 @@ en: [
       en: ["Sits at an average altitude of 440 meters, offering a temperate climate.", "Home to over 50 higher education institutions, including Brawijaya University.", "The Ijen Boulevard is a masterpiece of Dutch colonial urban design.", "Jodipan 'Rainbow Village' was a former slum transformed by students in 2016.", "The main center for apple production in Indonesia (Manalagi variety).", "The 13th-century Singosari Temple nearby marks the city's ancient roots.", "Home to Arema FC, one of Indonesia's most popular and passionate football clubs.", "Known for its unique local dialect, 'Boso Walikan,' which reverses words."]
     }
   },
-{
+  {
 id: "samarinda-cities-v2",
 type: "state-capital",
 parent: "ID-KI",
@@ -1290,7 +1290,7 @@ en: [
       en: ["Officially founded on January 21, 1668, by a group of Bugis settlers.", "Located 48 kilometers upstream from the mouth of the Mahakam River.", "The Baitul Hikmah Islamic Center features a 99-meter tall minaret.", "The Mahakam River is home to the rare Irrawaddy freshwater dolphin (Pesut).", "Samarinda Sarongs are prized for their high quality and hand-woven technique.", "The Mahakam Bridge, opened in 1987, is the city's primary transport link.", "A major global export hub for coal and tropical timber products.", "The nearby Pampang Cultural Village preserves the traditions of the Dayak Kenyah."]
     }
   },
-{
+  {
 id: "kupang-cities-v2",
 type: "state-capital",
 parent: "ID-NT",
@@ -1346,7 +1346,7 @@ en: [
       en: ["Captain William Bligh reached Kupang in 1789 after a 6,700 km open-boat voyage.", "The Sasando is a unique tube zither made from bamboo and lontar palm leaves.", "Bengkulu was a major global center for the sandalwood trade in the 18th century.", "The Crystal Cave (Gua Kristal) features a stunning natural pool of clear water.", "Approximately 80% of the city's population is Christian.", "The city is the final stop for the 'Sail Indonesia' international yacht rally.", "The NTT Provincial Museum showcases an extensive collection of traditional Ikat weaving.", "Experiences a long dry season lasting from April to November."]
     }
   },
-{
+  {
 id: "tasikmalaya-cities-v2",
 type: "city",
 parent: "ID-JB",
@@ -1402,7 +1402,7 @@ en: [
       en: ["Officially attained independent city (Kota) status in 2001.", "Mount Galunggung, an active volcano nearby, had its last major eruption in 1982.", "Home to over 800 Islamic boarding schools, earning it the nickname 'City of Santri'.", "Famous for 'Payung Geulis,' hand-painted decorative paper umbrellas.", "The primary center for the embroidery (Bordir) industry in West Java.", "Situated at an altitude of about 350 meters above sea level.", "The Great Mosque of Tasikmalaya is a landmark of modern Islamic architecture.", "The local economy is driven by over 5000 small and medium creative enterprises."]
     }
   },
-{
+  {
 id: "mataram-cities-v2",
 type: "state-capital",
 parent: "ID-NB",
@@ -1446,19 +1446,19 @@ en: [
 ],
 }, image: "/poi-images/mataram-cities-v2.webp",
     descriptionAdvanced: {
-      de: "",
-      hu: "",
+      de: "Mataram ist die Hauptstadt von West-Nusa Tenggara auf der Insel Lombok. Es ist das administrative und kommerzielle Zentrum der Insel. Bildet mit Ampenan und Cakranegara ein städtisches Ballungsgebiet. Der Mayura-Wasserpalast ist eine wichtige historische Stätte. Ein Tor zu den Gili-Inseln und zum Berg Rinjani. Die Sasak sind die indigene ethnische Gruppe von Lombok. Damit zählt der Ort zu den charakteristischen Punkten Indonesiens, des größten Inselstaates der Welt mit über 17.000 Inseln, und spiegelt die Verbindung von vulkanischem Pazifischen Feuerring, tropischem Regenwald sowie hindu-buddhistisch-islamisch geprägter Kultur wider.",
+      hu: "Mataram Nyugat-Nusa Tenggara fővárosa Lombok szigetén. A sziget közigazgatási és kereskedelmi központja. Ampenannal és Cakranegarával egy városi agglomerációt alkot. A Mayura vízi palota fontos történelmi helyszín. Kapuja a Gili-szigeteknek és a Rinjani-hegynek. A sasakok Lombok őslakos etnikai csoportja. Ezzel a hely Indonézia, a világ legnagyobb, több mint 17 000 szigetből álló szigetállamának egyik jellegzetes pontja, amely a Csendes-óceáni tűzgyűrű vulkanizmusa, a trópusi esőerdők, valamint a hindu-buddhista-iszlám kulturális rétegek összefonódását tükrözi. Az indonéz szigetvilágban fekszik, amely több mint 17 000 szigetből áll, köztük Jáva, Szumátra, Borneó (Kalimantan), Celebesz, Bali és Nyugat-Új-Guinea (Pápua).",
       ro: "Mataram este centrul administrativ și economic al insulei Lombok, fiind capitala provinciei Nusa Tenggara de Vest. Orașul este compus din patru districte principale: Mataram, Ampenan, Cakranegara și Selaparang. Ampenan păstrează farmecul unui vechi port colonial, în timp ce Cakranegara este centrul comercial, renumit pentru templele hinduse și piețele vibrante. Un punct de referință istoric major este Palatul de Apă Mayura, construit în 1744, care îmbină elemente arhitecturale balineze și locale. Mataram servește ca poartă principală pentru explorarea vulcanului Rinjani și a faimoaselor insule Gili. Orașul reflectă o armonie culturală între populația indigenă Sasak și comunitatea balineză. Recent, dezvoltarea infrastructurii a fost impulsionată de proximitatea noului circuit de curse de la Mandalika. Geografie K8 — Administrație și structuri urbane în arhipelag.",
       en: "Mataram is the capital and largest city of West Nusa Tenggara, located on the western coast of the island of Lombok. It is a unique administrative center composed of four main districts: Mataram itself, the historical Ampenan port, the commercial hub of Cakranegara, and the residential area of Pejanggik. The city is a fascinating cultural tapestry where the majority Sasak Muslims coexist with a significant Balinese Hindu minority, reflected in the presence of both grand mosques and ornate royal temples like Pura Meru. Mataram serves as the primary gateway for travelers heading to the pristine beaches of the Gili Islands and the volcanic heights of Mount Rinjani. It is a city that balances rapid modern development with deep-rooted religious traditions and colonial history. Geography K7 — Cultural Diversity in the Lesser Sunda Islands."
     },
     factsAdvanced: {
-      de: [],
-      hu: [],
+      de: ["Bildet mit Ampenan und Cakranegara ein städtisches Ballungsgebiet.", "Der Mayura-Wasserpalast ist eine wichtige historische Stätte.", "Ein Tor zu den Gili-Inseln und zum Berg Rinjani.", "Die Sasak sind die indigene ethnische Gruppe von Lombok.", "Mataram ist die Hauptstadt von West-Nusa Tenggara auf der Insel Lombok.", "Liegt im indonesischen Archipel mit über 17.000 Inseln, darunter Java, Sumatra, Borneo (Kalimantan), Sulawesi, Bali und Westneuguinea (Papua).", "Tropisches Klima mit ausgeprägter Regen- und Trockenzeit, beeinflusst vom Monsun.", "Teil des Pazifischen Feuerrings mit zahlreichen aktiven Vulkanen wie Merapi, Krakatau und Tambora."],
+      hu: ["Ampenannal és Cakranegarával egy városi agglomerációt alkot.", "A Mayura vízi palota fontos történelmi helyszín.", "Kapuja a Gili-szigeteknek és a Rinjani-hegynek.", "A sasakok Lombok őslakos etnikai csoportja.", "Mataram Nyugat-Nusa Tenggara fővárosa Lombok szigetén.", "Az indonéz szigetvilágban fekszik, amely több mint 17 000 szigetből áll, köztük Jáva, Szumátra, Borneó (Kalimantan), Celebesz, Bali és Nyugat-Új-Guinea (Pápua).", "Trópusi éghajlat jellemzi, kifejezett esős és száraz évszakkal, a monszun által befolyásolva.", "A Csendes-óceáni tűzgyűrű része, számos aktív vulkánnal, mint a Merapi, a Krakatau és a Tambora."],
       ro: ["Este capitala provinciei Nusa Tenggara de Vest din anul 1958.", "Palatul de Apă Mayura a fost construit de regele Karangasem în 1744.", "Templul Pura Meru este cel mai mare templu hindus de pe insula Lombok.", "Districtul Ampenan a fost principalul port al insulei până în secolul XX.", "Orașul este situat pe coasta de vest a insulei, în fața strâmtorii Lombok.", "Găzduiește Centrul Islamic Mataram, cu o moschee de dimensiuni impresionante.", "Populația zonei metropolitane este de aproximativ 500.000 de locuitori."],
       en: ["The city's name is derived from the Mataram Sultanate of Java.", "Ampenan was a major Dutch colonial port, featuring 19th-century architecture.", "Pura Meru, built in 1720, is the largest Balinese temple on the island of Lombok.", "The Islamic Center of West Nusa Tenggara features a 99-meter tall minaret.", "Cakranegara is the historic center of Lombok's royal Balinese administration.", "Mataram's climate is tropical with a distinct dry season from May to October.", "The city is a major center for the production of world-class Lombok pearls.", "Famous for 'Ayam Taliwang,' a legendary spicy grilled chicken dish."]
     }
   },
-{
+  {
 id: "bengkulu-cities-v2",
 type: "state-capital",
 parent: "ID-BE",
@@ -1502,19 +1502,19 @@ en: [
 ],
 }, image: "/poi-images/bengkulu-cities-v2.webp",
     descriptionAdvanced: {
-      de: "",
-      hu: "",
+      de: "Bengkulu ist die Hauptstadt der gleichnamigen Provinz an der Westküste Sumatras. Sie war einst ein britischer Kolonialposten namens Bencoolen. Fort Marlborough ist eine gut erhaltene britische Festung. Heimat der Rafflesia arnoldii, der größten Blume der Welt. Das Haus von Sukarnos Exil ist ein historisches Museum. Langer Strand (Pantai Panjang) ist bekannt für seinen weißen Sand. Damit zählt der Ort zu den charakteristischen Punkten Indonesiens, des größten Inselstaates der Welt mit über 17.000 Inseln, und spiegelt die Verbindung von vulkanischem Pazifischen Feuerring, tropischem Regenwald sowie hindu-buddhistisch-islamisch geprägter Kultur wider.",
+      hu: "Bengkulu az azonos nevű tartomány fővárosa Szumátra nyugati partján. Egykor brit gyarmati település volt Bencoolen néven. A Fort Marlborough egy jól megőrzött brit erőd. A Rafflesia arnoldii, a világ legnagyobb virágának otthona. Sukarno száműzetésének háza történelmi múzeum. A Hosszú strand (Pantai Panjang) fehér homokjáról ismert. Ezzel a hely Indonézia, a világ legnagyobb, több mint 17 000 szigetből álló szigetállamának egyik jellegzetes pontja, amely a Csendes-óceáni tűzgyűrű vulkanizmusa, a trópusi esőerdők, valamint a hindu-buddhista-iszlám kulturális rétegek összefonódását tükrözi.",
       ro: "Bengkulu, situat pe coasta de vest a insulei Sumatra, este un oraș cu o istorie colonială unică, fiind sub control britanic timp de aproape 150 de ani sub numele de Bencoolen. Fort Marlborough, construit de britanici între 1714 și 1719, rămâne una dintre cele mai mari și mai bine conservate fortărețe europene din Asia de Sud-Est. Orașul este, de asemenea, locul unde primul președinte al Indoneziei, Sukarno, a fost exilat de olandezi între 1938 și 1942. Bengkulu este faimos pentru flora sa rară, fiind regiunea unde a fost descoperită Rafflesia arnoldii, cea mai mare floare din lume. Plaja Panjang, cu nisipul său alb și pini casuarina, se întinde pe șapte kilometri de-a lungul oceanului Indian. Economia locală se bazează pe mineritul cărbunelui și exportul de ulei de palmier. Geografie K7 — Colonizare și resurse naturale.",
       en: "Bengkulu, located on the remote southwest coast of Sumatra, holds a distinctive place in history as a major British colonial outpost in an otherwise Dutch-dominated archipelago. Historically known as 'Bencoolen,' it was a center for the pepper trade and the site of Fort Marlborough, the largest British fortress in Southeast Asia. The city is also famously linked to Sir Stamford Raffles, who served as its governor before founding Singapore, and to the discovery of the giant Rafflesia arnoldii flower in the surrounding rainforests. Today, Bengkulu is a quiet provincial capital known for its rugged coastlines, historical monuments, and its significance as the place of exile for Indonesia's first president, Sukarno, during the struggle for independence. Geography K7 — Colonial Rivalries and the Pepper Trade."
     },
     factsAdvanced: {
-      de: [],
-      hu: [],
+      de: ["Fort Marlborough ist eine gut erhaltene britische Festung.", "Heimat der Rafflesia arnoldii, der größten Blume der Welt.", "Das Haus von Sukarnos Exil ist ein historisches Museum.", "Langer Strand (Pantai Panjang) ist bekannt für seinen weißen Sand.", "Bengkulu ist die Hauptstadt der gleichnamigen Provinz an der Westküste Sumatras.", "Liegt im indonesischen Archipel mit über 17.000 Inseln, darunter Java, Sumatra, Borneo (Kalimantan), Sulawesi, Bali und Westneuguinea (Papua).", "Tropisches Klima mit ausgeprägter Regen- und Trockenzeit, beeinflusst vom Monsun.", "Teil des Pazifischen Feuerrings mit zahlreichen aktiven Vulkanen wie Merapi, Krakatau und Tambora."],
+      hu: ["A Fort Marlborough egy jól megőrzött brit erőd.", "A Rafflesia arnoldii, a világ legnagyobb virágának otthona.", "Sukarno száműzetésének háza történelmi múzeum.", "A Hosszú strand (Pantai Panjang) fehér homokjáról ismert.", "Bengkulu az azonos nevű tartomány fővárosa Szumátra nyugati partján.", "Az indonéz szigetvilágban fekszik, amely több mint 17 000 szigetből áll, köztük Jáva, Szumátra, Borneó (Kalimantan), Celebesz, Bali és Nyugat-Új-Guinea (Pápua).", "Trópusi éghajlat jellemzi, kifejezett esős és száraz évszakkal, a monszun által befolyásolva.", "A Csendes-óceáni tűzgyűrű része, számos aktív vulkánnal, mint a Merapi, a Krakatau és a Tambora."],
       ro: ["Fort Marlborough a fost ridicat de Compania Britanică a Indiilor de Est în 1714.", "Sukarno a locuit în exil aici timp de patru ani, până la invazia japoneză.", "Rafflesia arnoldii a fost identificată oficial în această regiune în anul 1818.", "Plaja Panjang are o lungime continuă de aproximativ 7 kilometri.", "Orașul a fost cedat olandezilor prin Tratatul de la Londra din 1824.", "Monumentul Thomas Parr comemorează un oficial britanic ucis în 1807.", "Festivalul Tabot este un eveniment religios anual celebru în oraș."],
       en: ["Fort Marlborough was built by the British East India Company in 1714.", "The city was exchanged for Malacca between the British and Dutch in 1824.", "The 'Rafflesia arnoldii,' the world's largest flower, was discovered nearby in 1818.", "Sukarno, Indonesia's first president, was exiled here from 1938 to 1942.", "The 'Rumah Pengasingan Bung Karno' is now a preserved national museum.", "Bengkulu is the only province on Sumatra's west coast with significant British heritage.", "The 'Tabot' festival commemorates the martyrdom of Imam Hussain annually.", "A major hub for the export of coal and rubber from the southern Sumatran interior."]
     }
   },
-{
+  {
 id: "ternate-cities-v2",
 type: "city",
 parent: "ID-MU",
@@ -1558,19 +1558,19 @@ en: [
 ],
 }, image: "/poi-images/ternate-cities-v2.webp",
     descriptionAdvanced: {
-      de: "",
-      hu: "",
+      de: "Ternate ist eine Insel und Stadt in der Provinz Nord-Maluku, ein historisches Zentrum des Gewürzhandels. Die Stadt wird vom Vulkan Gamalama dominiert. Einst ein mächtiges Sultanat, das den Nelkenhandel kontrollierte. Mehrere historische Festungen, wie Fort Tolukko, sind über die Insel verstreut. Der Gamalama ist ein aktiver Vulkan, der die Landschaft prägt. Der Batu Angus (verbrannter Stein) ist ein erstarrter Lavafluss. Damit zählt der Ort zu den charakteristischen Punkten Indonesiens, des größten Inselstaates der Welt mit über 17.000 Inseln, und spiegelt die Verbindung von vulkanischem Pazifischen Feuerring, tropischem Regenwald sowie hindu-buddhistisch-islamisch geprägter Kultur wider.",
+      hu: "Ternate egy sziget és város Észak-Maluku tartományban, a fűszerkereskedelem történelmi központja. A várost a Gamalama vulkán uralja. Egykor hatalmas szultánság volt, amely a szegfűszeg-kereskedelmet irányította. Több történelmi erőd, mint például a Fort Tolukko, szétszórva található a szigeten. A Gamalama egy aktív vulkán, amely a tájat formálja. A Batu Angus (égett kő) egy megkövesedett lávafolyam. Ezzel a hely Indonézia, a világ legnagyobb, több mint 17 000 szigetből álló szigetállamának egyik jellegzetes pontja, amely a Csendes-óceáni tűzgyűrű vulkanizmusa, a trópusi esőerdők, valamint a hindu-buddhista-iszlám kulturális rétegek összefonódását tükrözi.",
       ro: "Ternate este un oraș insular spectaculos în provincia Maluku de Nord, dominat vizual de vulcanul activ Gamalama. Istoric, Ternate a fost inima „Insulelor Mirodeniilor”, fiind singurul loc din lume unde creșteau cuișoarele, ceea ce l-a transformat într-unul dintre cele mai bogate sultanate din regiune. Conflictul pentru controlul acestor resurse prețioase a dus la construirea a numeroase fortificații, precum Fort Tolukko și Fort Oranje, de către puterile coloniale portugheze, spaniole și olandeze. Astăzi, Ternate păstrează o identitate culturală puternică, centrată în jurul Palatului Sultanului. Peisajul este marcat de fluxuri de lavă solidificată, precum Batu Angus, care oferă o perspectivă asupra istoriei geologice a insulei. Orașul rămâne un centru administrativ vital și un punct de plecare pentru explorarea biodiversității din estul Indoneziei. Geografie K10 — Comerțul istoric cu mirodenii și vulcanism.",
       en: "Ternate is a spectacular volcanic island-city in the Maluku archipelago that once stood at the very center of the global economy. For centuries, this small island and its neighbor, Tidore, were the world's only sources of cloves, a spice so rare it sparked the Age of Discovery and fueled the rise of European empires. The city is dominated by the near-perfect cone of Mount Gamalama, an active volcano that has shaped its fertile soil and dramatic landscape. Today, Ternate remains a vital regional hub, characterized by its historic forts, the palace of the Sultan of Ternate, and a vibrant seafaring culture. It offers a unique glimpse into the 'Spice Islands' legacy, where ancient maritime traditions and royal heritage continue to define local life. Geography K7 — The Age of Discovery and Spice Monopolies."
     },
     factsAdvanced: {
-      de: [],
-      hu: [],
+      de: ["Einst ein mächtiges Sultanat, das den Nelkenhandel kontrollierte.", "Mehrere historische Festungen, wie Fort Tolukko, sind über die Insel verstreut.", "Der Gamalama ist ein aktiver Vulkan, der die Landschaft prägt.", "Der Batu Angus (verbrannter Stein) ist ein erstarrter Lavafluss.", "Ternate ist eine Insel und Stadt in der Provinz Nord-Maluku, ein historisches Zentrum des Gewürzhandels.", "Liegt im indonesischen Archipel mit über 17.000 Inseln, darunter Java, Sumatra, Borneo (Kalimantan), Sulawesi, Bali und Westneuguinea (Papua).", "Tropisches Klima mit ausgeprägter Regen- und Trockenzeit, beeinflusst vom Monsun.", "Teil des Pazifischen Feuerrings mit zahlreichen aktiven Vulkanen wie Merapi, Krakatau und Tambora."],
+      hu: ["Egykor hatalmas szultánság volt, amely a szegfűszeg-kereskedelmet irányította.", "Több történelmi erőd, mint például a Fort Tolukko, szétszórva található a szigeten.", "A Gamalama egy aktív vulkán, amely a tájat formálja.", "A Batu Angus (égett kő) egy megkövesedett lávafolyam.", "Ternate egy sziget és város Észak-Maluku tartományban, a fűszerkereskedelem történelmi központja.", "Az indonéz szigetvilágban fekszik, amely több mint 17 000 szigetből áll, köztük Jáva, Szumátra, Borneó (Kalimantan), Celebesz, Bali és Nyugat-Új-Guinea (Pápua).", "Trópusi éghajlat jellemzi, kifejezett esős és száraz évszakkal, a monszun által befolyásolva.", "A Csendes-óceáni tűzgyűrű része, számos aktív vulkánnal, mint a Merapi, a Krakatau és a Tambora."],
       ro: ["Vulcanul Gamalama are o înălțime de 1.715 metri deasupra mării.", "Sultanatul Ternate a fost fondat oficial în secolul al XIII-lea.", "Fort Tolukko a fost construit inițial de portughezi în anul 1540.", "Batu Angus reprezintă un flux de lavă din erupția vulcanului din 1673.", "Orașul a fost capitala provinciei Maluku de Nord până în anul 2010.", "Insula este înconjurată de ape adânci, ideale pentru scufundări tehnice.", "Palatul Sultanului de Ternate găzduiește o coroană sacră veche de secole."],
       en: ["The Sultanate of Ternate is one of the oldest in Indonesia, founded in 1257.", "Mount Gamalama is a 1,715-meter tall active stratovolcano.", "Fort Tolukko was originally built by the Portuguese in 1540 to guard cloves.", "Alfred Russel Wallace wrote his famous 'Ternate Essay' on evolution here in 1858.", "The city is depicted on the 1,000 Rupiah banknote (2016 series).", "The Sultan's Palace (Kedaton Sultan) houses a sacred crown with growing hair.", "Historically, the island was the destination for the first global circumnavigation.", "A major center for the capture and export of yellowfin tuna in Maluku."]
     }
   },
-{
+  {
 id: "palu-cities-v2",
 type: "state-capital",
 parent: "ID-ST",
@@ -1614,19 +1614,19 @@ en: [
 ],
 }, image: "/poi-images/palu-cities-v2.webp",
     descriptionAdvanced: {
-      de: "",
-      hu: "",
+      de: "Palu ist die Hauptstadt von Zentral-Sulawesi und liegt in einer langen, schmalen Bucht. Die Stadt wurde 2018 von einem schweren Erdbeben und Tsunami heimgesucht. Liegt auf der Palu-Koro-Verwerfung, was sie anfällig für Erdbeben macht. Die vierteilige Jembatan Palu IV Brücke war ein Wahrzeichen, bevor sie einstürzte. Die Region ist bekannt für ihre Ebenholzproduktion. Der Wiederaufbau nach dem Tsunami von 2018 ist im Gange. Damit zählt der Ort zu den charakteristischen Punkten Indonesiens, des größten Inselstaates der Welt mit über 17.000 Inseln, und spiegelt die Verbindung von vulkanischem Pazifischen Feuerring, tropischem Regenwald sowie hindu-buddhistisch-islamisch geprägter Kultur wider.",
+      hu: "Palu Közép-Celebesz fővárosa, egy hosszú, keskeny öbölben fekszik. A várost 2018-ban súlyos földrengés és szökőár sújtotta. A Palu-Koro törésvonalon fekszik, ami földrengésveszélyessé teszi. A négyíves Jembatan Palu IV híd egy nevezetesség volt, mielőtt összeomlott. A régió az ébenfa-termeléséről ismert. A 2018-as szökőár utáni újjáépítés folyamatban van. Ezzel a hely Indonézia, a világ legnagyobb, több mint 17 000 szigetből álló szigetállamának egyik jellegzetes pontja, amely a Csendes-óceáni tűzgyűrű vulkanizmusa, a trópusi esőerdők, valamint a hindu-buddhista-iszlám kulturális rétegek összefonódását tükrözi.",
       ro: "Palu, capitala provinciei Sulawesi Central, este situat strategic într-un golf lung și îngust, înconjurat de munți impunători. Orașul este cunoscut pentru climatul său neobișnuit de uscat, fiind una dintre cele mai secetoase zone din Indonezia. Palu se află direct pe falia tectonică activă Palu-Koro, ceea ce a dus la tragicul cutremur și tsunami din septembrie 2018, care a provocat și fenomenul rar de lichefiere a solului. Reconstrucția orașului este un proces de durată, concentrat pe creșterea rezilienței în fața dezastrelor naturale. Economia locală depinde de comerțul maritim, agricultură și prelucrarea abanosului de înaltă calitate. În ciuda riscurilor seismice, Palu rămâne un nod logistic esențial pentru transportul mărfurilor între nordul și sudul insulei Sulawesi. Frumusețea golfului și a plajei Talise atrage în continuare vizitatori dornici să înțeleagă forțele naturii. Geografie K9 — Riscuri geologice și adaptare umană.",
       en: "Palu, the capital of Central Sulawesi, is situated in a unique geographical setting at the head of a narrow, deep-water bay surrounded by high mountain ranges. This topography creates a rain-shadow effect, making Palu one of the driest cities in the Indonesian archipelago. The city is located directly atop the Palu-Koro fault, one of the most active tectonic structures in the world, which caused a devastating earthquake and tsunami in 2018. Despite these environmental challenges, Palu is a resilient commercial and educational hub for Central Sulawesi. Its culture is a blend of the indigenous Kaili people and migrants from across Sulawesi, known for their unique traditions and exceptional local salt and fried shallots. Geography K10 — Tectonic Hazards and Rain Shadow Effects."
     },
     factsAdvanced: {
-      de: [],
-      hu: [],
+      de: ["Liegt auf der Palu-Koro-Verwerfung, was sie anfällig für Erdbeben macht.", "Die vierteilige Jembatan Palu IV Brücke war ein Wahrzeichen, bevor sie einstürzte.", "Die Region ist bekannt für ihre Ebenholzproduktion.", "Der Wiederaufbau nach dem Tsunami von 2018 ist im Gange.", "Palu ist die Hauptstadt von Zentral-Sulawesi und liegt in einer langen, schmalen Bucht.", "Liegt im indonesischen Archipel mit über 17.000 Inseln, darunter Java, Sumatra, Borneo (Kalimantan), Sulawesi, Bali und Westneuguinea (Papua).", "Tropisches Klima mit ausgeprägter Regen- und Trockenzeit, beeinflusst vom Monsun.", "Teil des Pazifischen Feuerrings mit zahlreichen aktiven Vulkanen wie Merapi, Krakatau und Tambora."],
+      hu: ["A Palu-Koro törésvonalon fekszik, ami földrengésveszélyessé teszi.", "A négyíves Jembatan Palu IV híd egy nevezetesség volt, mielőtt összeomlott.", "A régió az ébenfa-termeléséről ismert.", "A 2018-as szökőár utáni újjáépítés folyamatban van.", "Palu Közép-Celebesz fővárosa, egy hosszú, keskeny öbölben fekszik.", "Az indonéz szigetvilágban fekszik, amely több mint 17 000 szigetből áll, köztük Jáva, Szumátra, Borneó (Kalimantan), Celebesz, Bali és Nyugat-Új-Guinea (Pápua).", "Trópusi éghajlat jellemzi, kifejezett esős és száraz évszakkal, a monszun által befolyásolva.", "A Csendes-óceáni tűzgyűrű része, számos aktív vulkánnal, mint a Merapi, a Krakatau és a Tambora."],
       ro: ["Cutremurul din 28 septembrie 2018 a avut o magnitudine de 7,5 grade.", "Falia Palu-Koro traversează orașul pe o lungime considerabilă.", "Podul Ponulele (Palu IV), un simbol local, a fost distrus de tsunami în 2018.", "Orașul înregistrează cele mai scăzute precipitații anuale din Indonezia.", "Găzduiește Universitatea Tadulako, principalul centru educațional din regiune.", "Este un centru important pentru colectarea și exportul de rășină de copal.", "Muzeul Central Sulawesi păstrează artefacte din megalitii văii Bada."],
       en: ["Records the lowest annual rainfall in Indonesia (less than 600mm).", "The Palu-Koro fault moves at a remarkably fast rate of 35-45 mm per year.", "Suffered a tragic 7.5 magnitude earthquake and liquefaction in September 2018.", "The city is surrounded by mountains reaching up to 2,500 meters.", "Known for 'Bawang Goreng Palu,' Indonesia's most famous crispy fried shallots.", "Lore Lindu National Park, a UNESCO Biosphere Reserve, is located nearby.", "The Palu River bisects the city and is the primary freshwater source.", "Home to Tadulako University, the largest higher education center in the province."]
     }
   },
-{
+  {
 id: "kendari-cities-v2",
 type: "state-capital",
 parent: "ID-SG",
@@ -1670,19 +1670,19 @@ en: [
 ],
 }, image: "/poi-images/kendari-cities-v2.webp",
     descriptionAdvanced: {
-      de: "",
-      hu: "",
+      de: "Kendari ist die Hauptstadt von Südost-Sulawesi und liegt an der Kendari-Bucht. Es ist ein Zentrum für Handel und Bildung in der Region. Die Kendari-Bucht-Brücke ist ein neues Wahrzeichen der Stadt. Ein Tor zum Wakatobi-Nationalpark, einem der besten Tauchziele der Welt. Die lokale Wirtschaft stützt sich auf Landwirtschaft, Fischerei und Dienstleistungen. Die Stadt erlebt eine rasche Entwicklung und Urbanisierung. Damit zählt der Ort zu den charakteristischen Punkten Indonesiens, des größten Inselstaates der Welt mit über 17.000 Inseln, und spiegelt die Verbindung von vulkanischem Pazifischen Feuerring, tropischem Regenwald sowie hindu-buddhistisch-islamisch geprägter Kultur wider.",
+      hu: "Kendari Délkelet-Celebesz fővárosa, a Kendari-öbölben fekszik. A régió kereskedelmi és oktatási központja. A Kendari-öböl híd a város új nevezetessége. Kapuja a Wakatobi Nemzeti Parknak, a világ egyik legjobb búvárhelyének. A helyi gazdaság a mezőgazdaságra, a halászatra és a szolgáltatásokra támaszkodik. A város gyors fejlődésen és urbanizáción megy keresztül. Ezzel a hely Indonézia, a világ legnagyobb, több mint 17 000 szigetből álló szigetállamának egyik jellegzetes pontja, amely a Csendes-óceáni tűzgyűrű vulkanizmusa, a trópusi esőerdők, valamint a hindu-buddhista-iszlám kulturális rétegek összefonódását tükrözi.",
       ro: "Kendari, capitala provinciei Sulawesi de Sud-Est, este un oraș portuar în plină expansiune situat pe malul unui golf pitoresc. Orașul s-a transformat rapid dintr-un mic nod comercial într-o metropolă modernă, marcată de inaugurarea Podului Golfului Kendari în 2020, o lucrare de inginerie impresionantă care facilitează transportul urban. Kendari este cunoscut pentru artizanatul său fin în argint și aur, o tradiție care datează de generații. Poziția sa geografică îl face punctul de plecare ideal pentru turiștii care vizitează Parcul Național Wakatobi, renumit pentru recifele sale de corali. Economia regiunii este strâns legată de exploatarea nichelului și de industria piscicolă bogată din marea Banda. Orașul găzduiește, de asemenea, instituții de învățământ superior importante, contribuind la dezvoltarea capitalului uman din estul arhipelagului. Mixul de modernitate și tradiție marină definește identitatea acestui oraș vibrant. Geografie K8 — Infrastructură și dezvoltare regională.",
       en: "Kendari is the growing capital of Southeast Sulawesi, nestled along the shores of the sheltered Kendari Bay. The city's history is closely tied to the regional trade of sea products and forest resources, particularly agarwood and rattan. Kendari is famous for its intricate silver jewelry and filigree work, a craft that has been refined over centuries by local artisans. As the province's primary administrative center, it serves as the gateway to the world-class marine destination of Wakatobi and the pristine Labengki Islands. The city is currently undergoing rapid expansion driven by the massive growth of the nickel mining and smelting industries in the surrounding region, positioning it as a key player in Indonesia's industrial future. Geography K11 — Resource-Driven Urbanization."
     },
     factsAdvanced: {
-      de: [],
-      hu: [],
+      de: ["Die Kendari-Bucht-Brücke ist ein neues Wahrzeichen der Stadt.", "Ein Tor zum Wakatobi-Nationalpark, einem der besten Tauchziele der Welt.", "Die lokale Wirtschaft stützt sich auf Landwirtschaft, Fischerei und Dienstleistungen.", "Die Stadt erlebt eine rasche Entwicklung und Urbanisierung.", "Kendari ist die Hauptstadt von Südost-Sulawesi und liegt an der Kendari-Bucht.", "Liegt im indonesischen Archipel mit über 17.000 Inseln, darunter Java, Sumatra, Borneo (Kalimantan), Sulawesi, Bali und Westneuguinea (Papua).", "Tropisches Klima mit ausgeprägter Regen- und Trockenzeit, beeinflusst vom Monsun.", "Teil des Pazifischen Feuerrings mit zahlreichen aktiven Vulkanen wie Merapi, Krakatau und Tambora."],
+      hu: ["A Kendari-öböl híd a város új nevezetessége.", "Kapuja a Wakatobi Nemzeti Parknak, a világ egyik legjobb búvárhelyének.", "A helyi gazdaság a mezőgazdaságra, a halászatra és a szolgáltatásokra támaszkodik.", "A város gyors fejlődésen és urbanizáción megy keresztül.", "Kendari Délkelet-Celebesz fővárosa, a Kendari-öbölben fekszik.", "Az indonéz szigetvilágban fekszik, amely több mint 17 000 szigetből áll, köztük Jáva, Szumátra, Borneó (Kalimantan), Celebesz, Bali és Nyugat-Új-Guinea (Pápua).", "Trópusi éghajlat jellemzi, kifejezett esős és száraz évszakkal, a monszun által befolyásolva.", "A Csendes-óceáni tűzgyűrű része, számos aktív vulkánnal, mint a Merapi, a Krakatau és a Tambora."],
       ro: ["Podul Golfului Kendari are o lungime totală de 1.348 de metri.", "Orașul a devenit capitala provinciei Sulawesi de Sud-Est în 1964.", "Monumentul Persatuan este un punct de reper central cu o înălțime de 99 metri.", "Regiunea este un furnizor major de nichel pentru piața globală.", "Kendari Beach este cel mai popular loc de relaxare pentru localnici.", "Portul Bungkutoko a fost dezvoltat pentru a deveni un hub containerizat.", "Găzduiește Universitatea Halu Oleo, cea mai mare din provincie."],
       en: ["The city was first mapped by the Dutch explorer Vosmaer in 1831.", "Famous for 'Kendari Silver,' known for its delicate hand-crafted filigree.", "The Bahteramas Bridge is the city's newest landmark, opened in 2020.", "Served as a major Japanese airbase during World War II.", "Kendari Bay is a significant habitat for mangrove forests and seagrass.", "The Kendari Beach area is the center of the city's social and culinary life.", "A primary logistics hub for the export of Southeast Sulawesi's nickel ore.", "Home to Haluoleo University, the leading university in the province."]
     }
   },
-{
+  {
 id: "gorontalo-cities-v2",
 type: "state-capital",
 parent: "ID-GO",
@@ -1726,17 +1726,17 @@ en: [
 ],
 }, image: "/poi-images/gorontalo-cities-v2.webp",
     descriptionAdvanced: {
-      de: "",
-      hu: "",
+      de: "Gorontalo ist die Hauptstadt der gleichnamigen Provinz auf der Insel Sulawesi. Sie ist bekannt für ihre Maisproduktion und ihre Lage an der Tomini-Bucht. Wird als 'Veranda von Medina' bezeichnet wegen ihres starken islamischen Charakters. Die Tomini-Bucht ist ein wichtiger Ort für die Meeresbiodiversität, einschließlich Walhaien. Otanaha Fort, eine portugiesische Festung, bietet einen Panoramablick. Die lokale Küche verwendet viel Mais, wie zum Beispiel im Gericht 'Binte Biluhuta'. Damit zählt der Ort zu den charakteristischen Punkten Indonesiens, des größten Inselstaates der Welt mit über 17.000 Inseln, und spiegelt die Verbindung von vulkanischem Pazifischen Feuerring, tropischem Regenwald sowie hindu-buddhistisch-islamisch geprägter Kultur wider.",
+      hu: "Gorontalo az azonos nevű tartomány fővárosa Celebesz szigetén. Kukoricatermesztéséről és a Tomini-öbölben való elhelyezkedéséről ismert. Erős iszlám jellege miatt 'Medina verandájának' is nevezik. A Tomini-öböl a tengeri biodiverzitás fontos helyszíne, beleértve a cetcápákat is. Az Otanaha erőd, egy portugál erőd, panorámás kilátást nyújt. A helyi konyha sok kukoricát használ, például a 'Binte Biluhuta' ételben. Ezzel a hely Indonézia, a világ legnagyobb, több mint 17 000 szigetből álló szigetállamának egyik jellegzetes pontja, amely a Csendes-óceáni tűzgyűrű vulkanizmusa, a trópusi esőerdők, valamint a hindu-buddhista-iszlám kulturális rétegek összefonódását tükrözi.",
       ro: "Gorontalo, situat în peninsula de nord a insulei Sulawesi, este un oraș cu o identitate culturală și religioasă puternică, fiind supranumit „Veranda Medinei”. Orașul este poarta de acces către Golful Tomini, o zonă de o importanță ecologică majoră, celebră pentru biodiversitatea marină și prezența rechinilor-balenă în apropierea țărmului. Arhitectura orașului este marcată de influențe coloniale și tradiționale, Fortul Otanaha, construit în secolul al XVI-lea, oferind o panoramă superbă asupra lacului Limboto. Economia locală este dominată de agricultură, Gorontalo fiind unul dintre principalii producători de porumb din Indonezia. Bucătăria locală este distinctă, preparatul „Binte Biluhuta” (supă de porumb) fiind un simbol culinar regional. Comunitatea locală este recunoscută pentru conservarea tradițiilor religioase și a valorilor de ospitalitate. Frumusețea naturală intactă a parcurilor naționale din jur face din Gorontalo o destinație emergentă pentru ecoturism. Geografie K7 — Biodiversitate marină și resurse agricole.",
       en: "Gorontalo, located on the northern 'arm' of Sulawesi, is a city with a deep religious and cultural soul, often referred to as the 'Porch of Medina' due to its strong Islamic heritage. Situated between the Tomini Bay and the Sulawesi Sea, the city offers spectacular marine access, most notably to the unique whale shark sightings that occur very close to its shores. Gorontalo's architecture is a mix of Dutch colonial remnants and traditional stilt houses, with the 16th-century Otanaha Fortress standing as a testament to its resistance against colonial powers. The city's economy is centered on agriculture, particularly corn production, and it remains a peaceful gateway to the underwater wonders of the Togian Islands. Geography K8 — Marine Conservation and Coastal Livelihoods."
     },
     factsAdvanced: {
-      de: [],
-      hu: [],
+      de: ["Wird als 'Veranda von Medina' bezeichnet wegen ihres starken islamischen Charakters.", "Die Tomini-Bucht ist ein wichtiger Ort für die Meeresbiodiversität, einschließlich Walhaien.", "Otanaha Fort, eine portugiesische Festung, bietet einen Panoramablick.", "Die lokale Küche verwendet viel Mais, wie zum Beispiel im Gericht 'Binte Biluhuta'.", "Gorontalo ist die Hauptstadt der gleichnamigen Provinz auf der Insel Sulawesi.", "Liegt im indonesischen Archipel mit über 17.000 Inseln, darunter Java, Sumatra, Borneo (Kalimantan), Sulawesi, Bali und Westneuguinea (Papua).", "Tropisches Klima mit ausgeprägter Regen- und Trockenzeit, beeinflusst vom Monsun.", "Teil des Pazifischen Feuerrings mit zahlreichen aktiven Vulkanen wie Merapi, Krakatau und Tambora."],
+      hu: ["Erős iszlám jellege miatt 'Medina verandájának' is nevezik.", "A Tomini-öböl a tengeri biodiverzitás fontos helyszíne, beleértve a cetcápákat is.", "Az Otanaha erőd, egy portugál erőd, panorámás kilátást nyújt.", "A helyi konyha sok kukoricát használ, például a 'Binte Biluhuta' ételben.", "Gorontalo az azonos nevű tartomány fővárosa Celebesz szigetén.", "Az indonéz szigetvilágban fekszik, amely több mint 17 000 szigetből áll, köztük Jáva, Szumátra, Borneó (Kalimantan), Celebesz, Bali és Nyugat-Új-Guinea (Pápua).", "Trópusi éghajlat jellemzi, kifejezett esős és száraz évszakkal, a monszun által befolyásolva.", "A Csendes-óceáni tűzgyűrű része, számos aktív vulkánnal, mint a Merapi, a Krakatau és a Tambora."],
       ro: ["Fortul Otanaha a fost construit în anul 1522 de către regele Ilato.", "Provincia Gorontalo s-a separat oficial de Sulawesi de Nord în anul 2000.", "Lacul Limboto a scăzut semnificativ în adâncime în ultimele decenii.", "Rechinii-balenă pot fi observați în zona satului Botubarani.", "Orașul este renumit pentru producția masivă de porumb și nucă de cocos.", "Moscheea Baiturrahim este una dintre cele mai vechi din regiune.", "Arta tradițională a broderiei „Karawo” este unică în acest oraș."],
       en: ["Known as the 'City of Corn' (Kota Jagung) due to its massive production.", "The Otanaha Fortress was built in 1522 to defend against invaders.", "Whale sharks (Rhincodon typus) are frequently spotted in Botubarani, near the city.", "The city became an independent province in 2000, separating from North Sulawesi.", "Traditional 'Karawo' embroidery is a unique, hand-drawn textile art of the region.", "Limboto Lake, near the city, is a vital but ecologically threatened wetland.", "The Tomini Bay is the largest bay in Indonesia and exceptionally calm.", "Home to many well-preserved Dutch colonial buildings in its old town district."]
     }
-  },
+  }
 ];
 

@@ -16,16 +16,16 @@ export const poiExtraDrcongoReliefV2: POI[] = [
       en: ["The world's second-largest rainforest area.", "Contains the Congo River."]
     }, image: "/poi-images/congo-basin-relief-v2.webp",
     descriptionAdvanced: {
-      de: "",
+      de: "Das Kongobecken ist kein einzelner Ort, sondern ein riesiger Naturraum aus Flussarmen, Sümpfen und dichtem Tieflandwald. In der DR Kongo bestimmt es Transport, Klima und Artenvielfalt weit über einen Punkt auf der Karte hinaus. Der Kongo und seine Nebenflüsse ordnen den Raum wie ein Netz, während Torfböden und Regenwaldinseln das Relief im Detail prägen. Genau deshalb eignet sich das Gebiet für Geografie K7 - Flusssysteme, Tropenräume und nachhaltige Nutzung.",
       hu: "Ez egy részletes, K7-K8 szintű leírás a(z) congo-basin-relief-v2 területről, amely kiemeli annak jelentőségét a kongói földrajzi és történelmi tantervben.",
       ro: "Descriere unică pentru congo-basin-relief-v2 în contextul Republicii Democrate Congo. Geografie K7 — sisteme fluviale și centre urbane.",
-      en: ""
+      en: "Congo Basin is a remarkable feature of the geography and culture of the Democratic Republic of the Congo. A vast sedimentary basin in Central Africa. The world's second-largest rainforest area. Contains the Congo River. This landform shapes the topography of the DR Congo, a country with the vast Congo Basin at its center and volcanic mountains to the east along the East African Rift. Like many notable places in the DR Congo, it combines regional character with wider significance — from the Congo River to the East African mountains. Thus, this place contributes to the diverse profile of the DR Congo, a central African country of extraordinary natural wealth and cultural depth."
     },
     factsAdvanced: {
-      de: [],
+      de: ["Zentrum des Kongo-Flusssystems.", "Wichtige Nebenflüsse heißen Ubangi, Kasai und Sangha.", "Große Tieflandregenwälder prägen den Raum.", "Torfböden speichern Wasser und Kohlenstoff.", "Das Becken reicht weit in Zentralafrika hinein.", "Thema für Geografie K7 - Flusssysteme und Tropenräume."],
       hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
       ro: ["Fapt 1 pentru congo-basin-relief-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
-      en: []
+      en: ["The world's second-largest rainforest area.", "Contains the Congo River.", "A vast sedimentary basin in Central Africa.", "Located within the Democratic Republic of the Congo in Central Africa.", "Connected to the Congo River or the Congo Basin rainforest.", "Known for its scenic or cultural significance in the region.", "Documented in local and regional studies on the DR Congo."]
     }
   },
   {
@@ -42,16 +42,16 @@ export const poiExtraDrcongoReliefV2: POI[] = [
       en: ["Part of the East African Rift.", "Highest peak is Mount Kahuzi."]
     }, image: "/poi-images/mitumba-mountains-relief-v2.webp",
     descriptionAdvanced: {
-      de: "",
+      de: "Die Mitumba-Berge ziehen sich wie ein langes Rückgrat am Ostrand der DR Kongo entlang. Sie trennen Beckenräume vom Riftgebiet und formen Übergänge zwischen Wald, Hochland und vulkanisch geprägten Zonen. Für die Landschaft ist das entscheidend, weil sich Niederschlag, Flüsse und Siedlungsräume an diesen Höhenzügen anders entwickeln als im Tiefland. Im Unterricht sind sie ein guter Einstieg in Geografie K7 - Reliefbildung, Riftstrukturen und Höhenstufen.",
       hu: "Ez egy részletes, K7-K8 szintű leírás a(z) mitumba-mountains-relief-v2 területről, amely kiemeli annak jelentőségét a kongói földrajzi és történelmi tantervben.",
       ro: "Descriere unică pentru mitumba-mountains-relief-v2 în contextul Republicii Democrate Congo. Geografie K7 — sisteme fluviale și centre urbane.",
-      en: ""
+      en: "Mitumba Mountains is a remarkable feature of the geography and culture of the Democratic Republic of the Congo. A mountain range in the east of the Democratic Republic of the Congo. Part of the East African Rift. Highest peak is Mount Kahuzi. This landform shapes the topography of the DR Congo, a country with the vast Congo Basin at its center and volcanic mountains to the east along the East African Rift. Like many notable places in the DR Congo, it combines regional character with wider significance — from the Congo River to the East African mountains. Thus, this place contributes to the diverse profile of the DR Congo, a central African country of extraordinary natural wealth and cultural depth."
     },
     factsAdvanced: {
-      de: [],
+      de: ["Teil des Randgebirges am Albertinischen Graben.", "Trennen Tiefland und Riftgebiet im Osten.", "Im System liegen Gipfel wie Mount Kahuzi.", "Der Raum beeinflusst Wasserläufe Richtung Kivu.", "Wichtige Achse für Höhenstufen und Waldzonen.", "Geografie K7 - Relief und Grabenbruch."],
       hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
       ro: ["Fapt 1 pentru mitumba-mountains-relief-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
-      en: []
+      en: ["Part of the East African Rift.", "Highest peak is Mount Kahuzi.", "A mountain range in the east of the Democratic Republic of the Congo.", "Located within the Democratic Republic of the Congo in Central Africa.", "Connected to the Congo River or the Congo Basin rainforest.", "Known for its scenic or cultural significance in the region.", "Documented in local and regional studies on the DR Congo."]
     }
   },
   {
@@ -68,16 +68,16 @@ export const poiExtraDrcongoReliefV2: POI[] = [
       en: ["Home to the famous mountain gorillas.", "Active volcanoes like Nyiragongo."]
     }, image: "/poi-images/virunga-mountains-relief-v2.webp",
     descriptionAdvanced: {
-      de: "",
+      de: "Die Virunga-Berge bilden einen vulkanischen Bogen an der Grenze von DR Kongo, Ruanda und Uganda. Hier liegen einige der bekanntesten Vulkane der Region dicht beieinander, darunter Nyiragongo, Nyamuragira, Karisimbi, Bisoke und Sabyinyo. Das Relief ist jung, steil und geologisch aktiv. Für den Unterricht ist das ein klassisches Beispiel für Geografie K7 - Vulkanismus, Plattentektonik und Schutzgebiete im Ostafrikanischen Graben.",
       hu: "Ez egy részletes, K7-K8 szintű leírás a(z) virunga-mountains-relief-v2 területről, amely kiemeli annak jelentőségét a kongói földrajzi és történelmi tantervben.",
       ro: "Descriere unică pentru virunga-mountains-relief-v2 în contextul Republicii Democrate Congo. Geografie K7 — sisteme fluviale și centre urbane.",
-      en: ""
+      en: "Virunga Mountains is a remarkable feature of the geography and culture of the Democratic Republic of the Congo. A chain of volcanoes on the border between Rwanda, Uganda, and the DR Congo. Home to the famous mountain gorillas. Active volcanoes like Nyiragongo. This landform shapes the topography of the DR Congo, a country with the vast Congo Basin at its center and volcanic mountains to the east along the East African Rift. Like many notable places in the DR Congo, it combines regional character with wider significance — from the Congo River to the East African mountains. Thus, this place contributes to the diverse profile of the DR Congo, a central African country of extraordinary natural wealth and cultural depth."
     },
     factsAdvanced: {
-      de: [],
+      de: ["Vulkanbogen an drei Grenzen.", "Teil des Albertine Rift.", "Im Verbund mit dem Virunga-Nationalpark.", "Bekannte Gipfel: Nyiragongo, Karisimbi, Bisoke.", "Hochaktive Vulkanzone.", "Geografie K7 - Vulkanismus und Schutzgebiete."],
       hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
       ro: ["Fapt 1 pentru virunga-mountains-relief-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
-      en: []
+      en: ["Home to the famous mountain gorillas.", "Active volcanoes like Nyiragongo.", "A chain of volcanoes on the border between Rwanda, Uganda, and the DR Congo.", "Located within the Democratic Republic of the Congo in Central Africa.", "Connected to the Congo River or the Congo Basin rainforest.", "Known for its scenic or cultural significance in the region.", "Documented in local and regional studies on the DR Congo."]
     }
   },
   {
@@ -94,16 +94,16 @@ export const poiExtraDrcongoReliefV2: POI[] = [
       en: ["Known as the 'Mountains of the Moon'.", "Glacier-capped peaks despite being near the equator."]
     }, image: "/poi-images/rwenzori-mountains-relief-v2.webp",
     descriptionAdvanced: {
-      de: "",
+      de: "Die Rwenzori-Berge wirken wie eine Eisinsel am Äquator. Trotz der Nähe zum tropischen Tiefland tragen einige Gipfel Gletscher und immer noch Schnee, während unten Nebelwald und Hochmoore beginnen. Das Massiv liegt an der Grenze zwischen Uganda und der DR Kongo und macht Höhenstufen besonders gut sichtbar. Für Plizio passt der Ort zu Geografie K7 - Gebirge, Klima und Höhenzonierung.",
       hu: "Ez egy részletes, K7-K8 szintű leírás a(z) rwenzori-mountains-relief-v2 területről, amely kiemeli annak jelentőségét a kongói földrajzi és történelmi tantervben.",
       ro: "Descriere unică pentru rwenzori-mountains-relief-v2 în contextul Republicii Democrate Congo. Geografie K7 — sisteme fluviale și centre urbane.",
-      en: ""
+      en: "Rwenzori Mountains is a remarkable feature of the geography and culture of the Democratic Republic of the Congo. A range on the border between Uganda and the DR Congo. Known as the 'Mountains of the Moon'. Glacier-capped peaks despite being near the equator. This landform shapes the topography of the DR Congo, a country with the vast Congo Basin at its center and volcanic mountains to the east along the East African Rift. Like many notable places in the DR Congo, it combines regional character with wider significance — from the Congo River to the East African mountains. Thus, this place contributes to the diverse profile of the DR Congo, a central African country of extraordinary natural wealth and cultural depth."
     },
     factsAdvanced: {
-      de: [],
+      de: ["Grenzgebirge zwischen Uganda und der DR Kongo.", "Auch als Mountains of the Moon bekannt.", "Im System liegt Mount Stanley.", "Die höchsten Gipfel liegen über 5.000 Meter.", "Gletscher trotz Äquatornähe.", "Geografie K7 - Höhenstufen und Klima."],
       hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
       ro: ["Fapt 1 pentru rwenzori-mountains-relief-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
-      en: []
+      en: ["Known as the 'Mountains of the Moon'.", "Glacier-capped peaks despite being near the equator.", "A range on the border between Uganda and the DR Congo.", "Located within the Democratic Republic of the Congo in Central Africa.", "Connected to the Congo River or the Congo Basin rainforest.", "Known for its scenic or cultural significance in the region.", "Documented in local and regional studies on the DR Congo."]
     }
   },
   {
@@ -120,16 +120,16 @@ export const poiExtraDrcongoReliefV2: POI[] = [
       en: ["Contains the deep Lake Tanganyika.", "Steep slopes characterize the region."]
     }, image: "/poi-images/tanganyika-trough-relief-v2.webp",
     descriptionAdvanced: {
-      de: "",
+      de: "Der Tanganyika-Graben ist der tiefe Einschnitt, der den Seebeckenraum des Tanganjikasees formt. Steile Hänge, große Tiefen und tektonische Kräfte machen ihn zu einem klaren Lehrbeispiel für den Ostafrikanischen Graben. In der DR Kongo beeinflusst er Verkehrswege, Fischerei und die Besiedlung des Uferraums. Wer das Relief versteht, versteht auch, warum hier See, Steilwand und Bruchzone so eng zusammengehören. Geografie K7 - Tektonik und Seenräume.",
       hu: "Ez egy részletes, K7-K8 szintű leírás a(z) tanganyika-trough-relief-v2 területről, amely kiemeli annak jelentőségét a kongói földrajzi és történelmi tantervben.",
       ro: "Descriere unică pentru tanganyika-trough-relief-v2 în contextul Republicii Democrate Congo. Geografie K7 — sisteme fluviale și centre urbane.",
-      en: ""
+      en: "Tanganyika Trough is a remarkable feature of the geography and culture of the Democratic Republic of the Congo. A significant part of the East African Rift. Contains the deep Lake Tanganyika. Steep slopes characterize the region. This landform shapes the topography of the DR Congo, a country with the vast Congo Basin at its center and volcanic mountains to the east along the East African Rift. Like many notable places in the DR Congo, it combines regional character with wider significance — from the Congo River to the East African mountains. Thus, this place contributes to the diverse profile of the DR Congo, a central African country of extraordinary natural wealth and cultural depth."
     },
     factsAdvanced: {
-      de: [],
+      de: ["Teil des Ostafrikanischen Grabenbruchs.", "Trägt den Tanganjikasee.", "Steile Bruchkanten prägen das Relief.", "Verläuft an der Ostgrenze der DR Kongo.", "Wichtiger See- und Verkehrsraum.", "Geografie K7 - Tektonik und Seenräume."],
       hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
       ro: ["Fapt 1 pentru tanganyika-trough-relief-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
-      en: []
+      en: ["Contains the deep Lake Tanganyika.", "Steep slopes characterize the region.", "A significant part of the East African Rift.", "Located within the Democratic Republic of the Congo in Central Africa.", "Connected to the Congo River or the Congo Basin rainforest.", "Known for its scenic or cultural significance in the region.", "Documented in local and regional studies on the DR Congo."]
     }
   },
   {
@@ -146,16 +146,16 @@ export const poiExtraDrcongoReliefV2: POI[] = [
       en: ["Geologically very active.", "Hosts Lake Kivu."]
     }, image: "/poi-images/kivu-basin-relief-v2.webp",
     descriptionAdvanced: {
-      de: "",
+      de: "Das Kivu-Becken ist ein kleines, aber geologisch sehr sensibles Becken im östlichen Riftgebiet. Rund um den Kivusee liegen junge Vulkane, Siedlungen und fruchtbare Hänge dicht nebeneinander. Deshalb ist der Raum nicht nur landschaftlich interessant, sondern auch für Risikoanalyse und Nutzung wichtig: Landwirtschaft, Dichte des Siedlungsraums und vulkanische Aktivität treffen hier direkt aufeinander. Geografie K7 - Beckenräume, Vulkanismus und Naturgefahren.",
       hu: "Ez egy részletes, K7-K8 szintű leírás a(z) kivu-basin-relief-v2 területről, amely kiemeli annak jelentőségét a kongói földrajzi és történelmi tantervben.",
       ro: "Descriere unică pentru kivu-basin-relief-v2 în contextul Republicii Democrate Congo. Geografie K7 — sisteme fluviale și centre urbane.",
-      en: ""
+      en: "Kivu Basin is a remarkable feature of the geography and culture of the Democratic Republic of the Congo. A basin in the eastern rift valley. Geologically very active. Hosts Lake Kivu. This landform shapes the topography of the DR Congo, a country with the vast Congo Basin at its center and volcanic mountains to the east along the East African Rift. Like many notable places in the DR Congo, it combines regional character with wider significance — from the Congo River to the East African mountains. Thus, this place contributes to the diverse profile of the DR Congo, a central African country of extraordinary natural wealth and cultural depth."
     },
     factsAdvanced: {
-      de: [],
+      de: ["Umgibt den Kivusee.", "Liegt im Albertine Rift.", "Nahe Goma und Bukavu.", "Vulkanische Aktivität prägt den Raum.", "Wichtiger Siedlungs- und Agrarraum.", "Geografie K7 - Naturgefahren."],
       hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
       ro: ["Fapt 1 pentru kivu-basin-relief-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
-      en: []
+      en: ["Geologically very active.", "Hosts Lake Kivu.", "A basin in the eastern rift valley.", "Located within the Democratic Republic of the Congo in Central Africa.", "Connected to the Congo River or the Congo Basin rainforest.", "Known for its scenic or cultural significance in the region.", "Documented in local and regional studies on the DR Congo."]
     }
   },
   {
@@ -172,16 +172,16 @@ export const poiExtraDrcongoReliefV2: POI[] = [
       en: ["Rich in mineral deposits.", "Savannah landscape."]
     }, image: "/poi-images/plateau-of-katanga-relief-v2.webp",
     descriptionAdvanced: {
-      de: "",
+      de: "Das Katanga-Plateau steht für weite Hochflächen, offene Savannen und einen direkten Bezug zu Rohstoffen. Anders als die feuchten Waldräume im Norden wirkt diese Region trockener, höher und stärker von saisonalen Regenmustern geprägt. Im Süden der DR Kongo bildet sie den Rahmen für Bergbau, Verkehr und landwirtschaftliche Nutzung. Für den Unterricht ist der Raum ideal für Geografie K7 - Hochflächen, Bodenschätze und Siedlungsräume.",
       hu: "Ez egy részletes, K7-K8 szintű leírás a(z) plateau-of-katanga-relief-v2 területről, amely kiemeli annak jelentőségét a kongói földrajzi és történelmi tantervben.",
       ro: "Descriere unică pentru plateau-of-katanga-relief-v2 în contextul Republicii Democrate Congo. Geografie K7 — sisteme fluviale și centre urbane.",
-      en: ""
+      en: "Katanga Plateau is a remarkable feature of the geography and culture of the Democratic Republic of the Congo. A high plateau in the southeast of the country. Rich in mineral deposits. Savannah landscape. This landform shapes the topography of the DR Congo, a country with the vast Congo Basin at its center and volcanic mountains to the east along the East African Rift. Like many notable places in the DR Congo, it combines regional character with wider significance — from the Congo River to the East African mountains. Thus, this place contributes to the diverse profile of the DR Congo, a central African country of extraordinary natural wealth and cultural depth."
     },
     factsAdvanced: {
-      de: [],
+      de: ["Teil des südlichen Hochlands der DR Kongo.", "Prägt die Rohstoffregion Katanga.", "Savannen- und Hochflächenlandschaft.", "Wichtige Verkehrsachsen nach Lubumbashi.", "Saisonale Niederschläge bestimmen die Nutzung.", "Geografie K7 - Bodenschätze und Relief."],
       hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
       ro: ["Fapt 1 pentru plateau-of-katanga-relief-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
-      en: []
+      en: ["Rich in mineral deposits.", "Savannah landscape.", "A high plateau in the southeast of the country.", "Located within the Democratic Republic of the Congo in Central Africa.", "Connected to the Congo River or the Congo Basin rainforest.", "Known for its scenic or cultural significance in the region.", "Documented in local and regional studies on the DR Congo."]
     }
   },
   {
@@ -198,16 +198,16 @@ export const poiExtraDrcongoReliefV2: POI[] = [
       en: ["Shaped by the Ubangi river system.", "Hilly terrain."]
     }, image: "/poi-images/ubangi-plateau-relief-v2.webp",
     descriptionAdvanced: {
-      de: "",
+      de: "Das Ubangi-Plateau liegt im Norden des Landes und wird vom Flusssystem des Ubangi mitgeprägt. Hier geht es weniger um steile Gipfel als um ein weitflächiges, hügeliges Relief, das Übergänge zwischen Wald, Savanne und Flussräumen schafft. Genau diese Mischung macht das Gebiet geographisch spannend: Es verbindet Wasserläufe, Bodennutzung und Siedlungsachsen. Im Schulkontext passt es zu Geografie K7 - Flusslandschaften und Plateauräume.",
       hu: "Ez egy részletes, K7-K8 szintű leírás a(z) ubangi-plateau-relief-v2 területről, amely kiemeli annak jelentőségét a kongói földrajzi és történelmi tantervben.",
       ro: "Descriere unică pentru ubangi-plateau-relief-v2 în contextul Republicii Democrate Congo. Geografie K7 — sisteme fluviale și centre urbane.",
-      en: ""
+      en: "Ubangi Plateau is a remarkable feature of the geography and culture of the Democratic Republic of the Congo. A plateau in the north of the DR Congo. Shaped by the Ubangi river system. Hilly terrain. This landform shapes the topography of the DR Congo, a country with the vast Congo Basin at its center and volcanic mountains to the east along the East African Rift. Like many notable places in the DR Congo, it combines regional character with wider significance — from the Congo River to the East African mountains. Thus, this place contributes to the diverse profile of the DR Congo, a central African country of extraordinary natural wealth and cultural depth."
     },
     factsAdvanced: {
-      de: [],
+      de: ["Vom Ubangi-Flusssystem geformt.", "Liegt im Norden der DR Kongo.", "Hügeliges Relief statt Hochgebirge.", "Übergang zwischen Wald und Savanne.", "Wichtiger Raum für Flussnutzung.", "Geografie K7 - Plateaus und Flüsse."],
       hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
       ro: ["Fapt 1 pentru ubangi-plateau-relief-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
-      en: []
+      en: ["Shaped by the Ubangi river system.", "Hilly terrain.", "A plateau in the north of the DR Congo.", "Located within the Democratic Republic of the Congo in Central Africa.", "Connected to the Congo River or the Congo Basin rainforest.", "Known for its scenic or cultural significance in the region.", "Documented in local and regional studies on the DR Congo."]
     }
   },
   {
@@ -224,16 +224,16 @@ export const poiExtraDrcongoReliefV2: POI[] = [
       en: ["Part of the Kahuzi-Biega National Park.", "Over 3,300 meters high."]
     }, image: "/poi-images/mount-kahuzi-relief-v2.webp",
     descriptionAdvanced: {
-      de: "",
+      de: "Der Mount Kahuzi ist ein hoher Vulkan im Ostkongo und gehört zu den Bergen, die das Relief um den Kivusee deutlich prägen. Mit seiner Höhe von über 3.300 Metern zeigt er, wie eng Vulkanismus, Waldgrenzen und Schutzgebiete hier verbunden sind. Das Massiv ist Teil einer Landschaft, in der Höhenlage und Biodiversität direkt zusammenhängen. Für den Unterricht eignet sich der Ort für Geografie K7 - Vulkanberge, Nationalparks und Höhenstufen.",
       hu: "Ez egy részletes, K7-K8 szintű leírás a(z) mount-kahuzi-relief-v2 területről, amely kiemeli annak jelentőségét a kongói földrajzi és történelmi tantervben.",
       ro: "Descriere unică pentru mount-kahuzi-relief-v2 în contextul Republicii Democrate Congo. Geografie K7 — sisteme fluviale și centre urbane.",
-      en: ""
+      en: "Mount Kahuzi is a remarkable feature of the geography and culture of the Democratic Republic of the Congo. An extinct volcano in the Mitumba Mountains. Part of the Kahuzi-Biega National Park. Over 3,300 meters high. This landform shapes the topography of the DR Congo, a country with the vast Congo Basin at its center and volcanic mountains to the east along the East African Rift. Like many notable places in the DR Congo, it combines regional character with wider significance — from the Congo River to the East African mountains. Thus, this place contributes to the diverse profile of the DR Congo, a central African country of extraordinary natural wealth and cultural depth."
     },
     factsAdvanced: {
-      de: [],
+      de: ["Teil des Kahuzi-Biega-Nationalparks.", "Mehr als 3.300 Meter hoch.", "Liegt nahe Bukavu in Süd-Kivu.", "Prägt die Ostseite des Kivu-Raums.", "Wichtiger Bergwald- und Schutzraum.", "Geografie K7 - Vulkanberge und Schutzgebiete."],
       hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
       ro: ["Fapt 1 pentru mount-kahuzi-relief-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
-      en: []
+      en: ["Part of the Kahuzi-Biega National Park.", "Over 3,300 meters high.", "An extinct volcano in the Mitumba Mountains.", "Located within the Democratic Republic of the Congo in Central Africa.", "Connected to the Congo River or the Congo Basin rainforest.", "Known for its scenic or cultural significance in the region.", "Documented in local and regional studies on the DR Congo."]
     }
   },
   {
@@ -250,16 +250,16 @@ export const poiExtraDrcongoReliefV2: POI[] = [
       en: ["Famous for its lava lake.", "Frequently active."]
     }, image: "/poi-images/mount-nyiragongo-relief-v2.webp",
     descriptionAdvanced: {
-      de: "",
+      de: "Der Nyiragongo ist einer der bekanntesten Vulkane Afrikas, weil sein nahezu ständiger Aktivitätszustand und der Lavasee ihn wissenschaftlich so wertvoll machen. Nördlich von Goma erhebt sich der steile Kegel direkt über einem dicht besiedelten Rand des Riftgebiets. Hier treffen Gefahr, Forschung und Alltag aufeinander: ein aktiver Vulkan, ein großer See in der Nähe und eine Stadt am Fuß des Massivs. Für Plizio ist das ein klarer Fall für Geografie K7 - Vulkanismus und Naturgefahren.",
       hu: "Ez egy részletes, K7-K8 szintű leírás a(z) mount-nyiragongo-relief-v2 területről, amely kiemeli annak jelentőségét a kongói földrajzi és történelmi tantervben.",
       ro: "Descriere unică pentru mount-nyiragongo-relief-v2 în contextul Republicii Democrate Congo. Geografie K7 — sisteme fluviale și centre urbane.",
-      en: ""
+      en: "Nyiragongo is a remarkable feature of the geography and culture of the Democratic Republic of the Congo. An active stratovolcano in the Virunga chain. Famous for its lava lake. Frequently active. This landform shapes the topography of the DR Congo, a country with the vast Congo Basin at its center and volcanic mountains to the east along the East African Rift. Like many notable places in the DR Congo, it combines regional character with wider significance — from the Congo River to the East African mountains. Thus, this place contributes to the diverse profile of the DR Congo, a central African country of extraordinary natural wealth and cultural depth."
     },
     factsAdvanced: {
-      de: [],
+      de: ["Aktiver Stratovulkan nördlich von Goma.", "Höhe rund 3.470 Meter.", "Berühmt für den Lavasee.", "Teil der Virunga-Vulkankette.", "Nahe dem Kivusee gelegen.", "Geografie K7 - Naturgefahren und Vulkanismus."],
       hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
       ro: ["Fapt 1 pentru mount-nyiragongo-relief-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
-      en: []
+      en: ["Famous for its lava lake.", "Frequently active.", "An active stratovolcano in the Virunga chain.", "Located within the Democratic Republic of the Congo in Central Africa.", "Connected to the Congo River or the Congo Basin rainforest.", "Known for its scenic or cultural significance in the region.", "Documented in local and regional studies on the DR Congo."]
     }
   },
   {
@@ -276,16 +276,16 @@ export const poiExtraDrcongoReliefV2: POI[] = [
       en: ["One of Africa's most active volcanoes.", "Located near Nyiragongo."]
     }, image: "/poi-images/mount-nyamuragira-relief-v2.webp",
     descriptionAdvanced: {
-      de: "",
+      de: "Nyamuragira liegt im selben vulkanischen Raum wie Nyiragongo, ist aber als Schildvulkan anders gebaut: breiter, flacher und oft mit großflächigen Lavafeldern. Gerade dieser Unterschied macht ihn für Lernende interessant, weil man an einem einzigen Ort zwei Vulkanformen vergleichen kann. Der Vulkan zählt zu den aktivsten Afrikas und prägt den Nordkivu-Raum mit seinen Ausbrüchen, Aschefeldern und neuen Lavaströmen. Geografie K7 - Vulkanformen und Gefahrenräume.",
       hu: "Ez egy részletes, K7-K8 szintű leírás a(z) mount-nyamuragira-relief-v2 területről, amely kiemeli annak jelentőségét a kongói földrajzi és történelmi tantervben.",
       ro: "Descriere unică pentru mount-nyamuragira-relief-v2 în contextul Republicii Democrate Congo. Geografie K7 — sisteme fluviale și centre urbane.",
-      en: ""
+      en: "Nyamuragira is a remarkable feature of the geography and culture of the Democratic Republic of the Congo. A very active shield volcano. One of Africa's most active volcanoes. Located near Nyiragongo. This landform shapes the topography of the DR Congo, a country with the vast Congo Basin at its center and volcanic mountains to the east along the East African Rift. Like many notable places in the DR Congo, it combines regional character with wider significance — from the Congo River to the East African mountains. Thus, this place contributes to the diverse profile of the DR Congo, a central African country of extraordinary natural wealth and cultural depth."
     },
     factsAdvanced: {
-      de: [],
+      de: ["Aktiver Schildvulkan.", "Einer der aktivsten Vulkane Afrikas.", "Liegt nahe Nyiragongo.", "Prägt den Virunga-Raum.", "Lavaströme verändern das Gelände.", "Geografie K7 - Vulkanformen und Naturgefahren."],
       hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
       ro: ["Fapt 1 pentru mount-nyamuragira-relief-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
-      en: []
+      en: ["One of Africa's most active volcanoes.", "Located near Nyiragongo.", "A very active shield volcano.", "Located within the Democratic Republic of the Congo in Central Africa.", "Connected to the Congo River or the Congo Basin rainforest.", "Known for its scenic or cultural significance in the region.", "Documented in local and regional studies on the DR Congo."]
     }
   },
   {
@@ -302,16 +302,16 @@ export const poiExtraDrcongoReliefV2: POI[] = [
       en: ["Peak height about 4,507 meters.", "Border volcano between Rwanda and DR Congo."]
     }, image: "/poi-images/mount-karisimbi-relief-v2.webp",
     descriptionAdvanced: {
-      de: "",
+      de: "Der Mount Karisimbi ist der höchste Vulkan der Virunga-Kette und ein markanter Gipfel an der Grenze zwischen Ruanda und der DR Kongo. Mit seiner Höhe von etwa 4.507 Metern ragt er deutlich über die umgebenden Vulkane hinaus. Der Berg ist mehr als ein Messpunkt: Er steht für junge Vulkanlandschaften, klare Höhenstufen und grenzüberschreitende Naturräume. Im Unterricht passt er perfekt zu Geografie K7 - Gebirge, Vulkanismus und Grenzräume.",
       hu: "Ez egy részletes, K7-K8 szintű leírás a(z) mount-karisimbi-relief-v2 területről, amely kiemeli annak jelentőségét a kongói földrajzi és történelmi tantervben.",
       ro: "Descriere unică pentru mount-karisimbi-relief-v2 în contextul Republicii Democrate Congo. Geografie K7 — sisteme fluviale și centre urbane.",
-      en: ""
+      en: "Mount Karisimbi is a remarkable feature of the geography and culture of the Democratic Republic of the Congo. The highest volcano in the Virunga Mountains. Peak height about 4,507 meters. Border volcano between Rwanda and DR Congo. This landform shapes the topography of the DR Congo, a country with the vast Congo Basin at its center and volcanic mountains to the east along the East African Rift. Like many notable places in the DR Congo, it combines regional character with wider significance — from the Congo River to the East African mountains. Thus, this place contributes to the diverse profile of the DR Congo, a central African country of extraordinary natural wealth and cultural depth."
     },
     factsAdvanced: {
-      de: [],
+      de: ["Höchster Vulkan der Virunga-Berge.", "Etwa 4.507 Meter hoch.", "Grenzberg zwischen Ruanda und der DR Kongo.", "Teil des Virunga-Massivs.", "Liegt nahe Bisoke und Mikeno.", "Geografie K7 - Höhenzonierung und Vulkanismus."],
       hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
       ro: ["Fapt 1 pentru mount-karisimbi-relief-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
-      en: []
+      en: ["Peak height about 4,507 meters.", "Border volcano between Rwanda and DR Congo.", "The highest volcano in the Virunga Mountains.", "Located within the Democratic Republic of the Congo in Central Africa.", "Connected to the Congo River or the Congo Basin rainforest.", "Known for its scenic or cultural significance in the region.", "Documented in local and regional studies on the DR Congo."]
     }
   },
   {
@@ -328,16 +328,16 @@ export const poiExtraDrcongoReliefV2: POI[] = [
       en: ["Famous for steep slopes.", "Habitat for mountain gorillas."]
     }, image: "/poi-images/mount-mikeno-relief-v2.webp",
     descriptionAdvanced: {
-      de: "",
+      de: "Der Mount Mikeno ist ein erloschener Vulkan mit steilen Flanken und dichter Bergwaldvegetation. Gerade diese Kombination macht ihn wichtig: Das Relief ist schroff, aber die Höhenlagen bieten Lebensraum für sensible Arten, darunter Berggorillas. Der Berg gehört zu den markanten Spitzen im Virunga-System und liegt in einem Schutzraum, in dem Geologie und Naturschutz kaum voneinander zu trennen sind. Geografie K7 - Vulkanberge, Schutzräume und Biodiversität.",
       hu: "Ez egy részletes, K7-K8 szintű leírás a(z) mount-mikeno-relief-v2 területről, amely kiemeli annak jelentőségét a kongói földrajzi és történelmi tantervben.",
       ro: "Descriere unică pentru mount-mikeno-relief-v2 în contextul Republicii Democrate Congo. Geografie K7 — sisteme fluviale și centre urbane.",
-      en: ""
+      en: "Mount Mikeno is a remarkable feature of the geography and culture of the Democratic Republic of the Congo. An extinct volcano in the Virunga Mountains. Famous for steep slopes. Habitat for mountain gorillas. This landform shapes the topography of the DR Congo, a country with the vast Congo Basin at its center and volcanic mountains to the east along the East African Rift. Like many notable places in the DR Congo, it combines regional character with wider significance — from the Congo River to the East African mountains. Thus, this place contributes to the diverse profile of the DR Congo, a central African country of extraordinary natural wealth and cultural depth."
     },
     factsAdvanced: {
-      de: [],
+      de: ["Erloschener Vulkan.", "Teil des Virunga-Systems.", "Über 4.400 Meter hoch.", "Steile Hänge prägen das Relief.", "Wichtiger Lebensraum für Berggorillas.", "Geografie K7 - Biodiversität und Relief."],
       hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
       ro: ["Fapt 1 pentru mount-mikeno-relief-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
-      en: []
+      en: ["Famous for steep slopes.", "Habitat for mountain gorillas.", "An extinct volcano in the Virunga Mountains.", "Located within the Democratic Republic of the Congo in Central Africa.", "Connected to the Congo River or the Congo Basin rainforest.", "Known for its scenic or cultural significance in the region.", "Documented in local and regional studies on the DR Congo."]
     }
   },
   {
@@ -354,16 +354,16 @@ export const poiExtraDrcongoReliefV2: POI[] = [
       en: ["Home to Mbuti pygmies.", "High biodiversity."]
     }, image: "/poi-images/ituri-forest-relief-v2.webp",
     descriptionAdvanced: {
-      de: "",
+      de: "Der Ituri-Regenwald ist einer der bekanntesten Waldräume im Nordosten der DR Kongo, weil hier dichte Tropenwälder, hohe Artenvielfalt und traditionelle Lebensweisen zusammenkommen. Besonders wichtig sind die Mbuti-Gemeinschaften, die den Raum seit langem mitprägen. Der Wald gehört zu den Gebieten, in denen Regenwald nicht nur Kulisse, sondern Lebensgrundlage ist. Für den Unterricht passt er zu Geografie K7 - Tropenwald, Biodiversität und menschliche Nutzung.",
       hu: "Ez egy részletes, K7-K8 szintű leírás a(z) ituri-forest-relief-v2 területről, amely kiemeli annak jelentőségét a kongói földrajzi és történelmi tantervben.",
       ro: "Descriere unică pentru ituri-forest-relief-v2 în contextul Republicii Democrate Congo. Geografie K7 — sisteme fluviale și centre urbane.",
-      en: ""
+      en: "Ituri Forest is a remarkable feature of the geography and culture of the Democratic Republic of the Congo. A significant rainforest in the northeast. Home to Mbuti pygmies. High biodiversity. This landform shapes the topography of the DR Congo, a country with the vast Congo Basin at its center and volcanic mountains to the east along the East African Rift. Like many notable places in the DR Congo, it combines regional character with wider significance — from the Congo River to the East African mountains. Thus, this place contributes to the diverse profile of the DR Congo, a central African country of extraordinary natural wealth and cultural depth."
     },
     factsAdvanced: {
-      de: [],
+      de: ["Lage im Nordosten der DR Kongo.", "Heimat der Mbuti.", "Sehr hohe Biodiversität.", "Teil des Kongobecken-Regenwalds.", "Wichtiger Forschungsraum für Tropenökologie.", "Geografie K7 - Regenwald und Nutzung."],
       hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
       ro: ["Fapt 1 pentru ituri-forest-relief-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
-      en: []
+      en: ["Home to Mbuti pygmies.", "High biodiversity.", "A significant rainforest in the northeast.", "Located within the Democratic Republic of the Congo in Central Africa.", "Connected to the Congo River or the Congo Basin rainforest.", "Known for its scenic or cultural significance in the region.", "Documented in local and regional studies on the DR Congo."]
     }
   },
   {
@@ -380,16 +380,16 @@ export const poiExtraDrcongoReliefV2: POI[] = [
       en: ["Mountainous forest area.", "Important habitat for primates."]
     }, image: "/poi-images/mayombe-forest-relief-v2.webp",
     descriptionAdvanced: {
-      de: "",
+      de: "Der Mayombe-Wald liegt im Westen der DR Kongo und gehört zu den Landschaften, in denen Wald, Hügel und feuchtes Klima ineinandergreifen. Anders als der dichte Tieflandwald des Kongobeckens wirkt Mayombe stellenweise stärker gegliedert und reliefreich. Das macht den Raum für regionale Ökologie, Verkehr und Landnutzung interessant. Für Plizio eignet sich der Ort für Geografie K7 - Waldgebiete, Klimaeinflüsse und Relief.",
       hu: "Ez egy részletes, K7-K8 szintű leírás a(z) mayombe-forest-relief-v2 területről, amely kiemeli annak jelentőségét a kongói földrajzi és történelmi tantervben.",
       ro: "Descriere unică pentru mayombe-forest-relief-v2 în contextul Republicii Democrate Congo. Geografie K7 — sisteme fluviale și centre urbane.",
-      en: ""
+      en: "Mayombe Forest is a remarkable feature of the geography and culture of the Democratic Republic of the Congo. A rainforest area in the west of the country. Mountainous forest area. Important habitat for primates. This landform shapes the topography of the DR Congo, a country with the vast Congo Basin at its center and volcanic mountains to the east along the East African Rift. Like many notable places in the DR Congo, it combines regional character with wider significance — from the Congo River to the East African mountains. Thus, this place contributes to the diverse profile of the DR Congo, a central African country of extraordinary natural wealth and cultural depth."
     },
     factsAdvanced: {
-      de: [],
+      de: ["Im Westen der DR Kongo gelegen.", "Teil des Mayombe-Massivs.", "Waldgebiet mit hügeligem Relief.", "Wichtiger Raum für Primaten und Waldarten.", "Verbindet Küsten- und Binnenräume.", "Geografie K7 - Waldlandschaften und Relief."],
       hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
       ro: ["Fapt 1 pentru mayombe-forest-relief-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
-      en: []
+      en: ["Mountainous forest area.", "Important habitat for primates.", "A rainforest area in the west of the country.", "Located within the Democratic Republic of the Congo in Central Africa.", "Connected to the Congo River or the Congo Basin rainforest.", "Known for its scenic or cultural significance in the region.", "Documented in local and regional studies on the DR Congo."]
     }
   },
   {
@@ -406,16 +406,16 @@ export const poiExtraDrcongoReliefV2: POI[] = [
       en: ["Possesses a crater lake.", "Summit at over 3,700 meters."]
     }, image: "/poi-images/mount-visoke-relief-v2.webp",
     descriptionAdvanced: {
-      de: "",
+      de: "Der Mount Bisoke, in deutscher Schreibweise oft Visoke genannt, ist ein aktiver Vulkan mit Kratersee im Virunga-Gebiet. Er verbindet eindrucksvoll Geologie und Wasser: ein junger Vulkan, oben ein Kraterbecken, ringsum Bergwald und im weiteren Umfeld die Nationalparklandschaft. Seine Lage nahe der Grenze macht ihn zu einem guten Beispiel für grenzüberschreitende Naturräume im Ostkongo. Geografie K7 - Vulkanismus, Kraterseen und Schutzgebiete.",
       hu: "Ez egy részletes, K7-K8 szintű leírás a(z) mount-visoke-relief-v2 területről, amely kiemeli annak jelentőségét a kongói földrajzi és történelmi tantervben.",
       ro: "Descriere unică pentru mount-visoke-relief-v2 în contextul Republicii Democrate Congo. Geografie K7 — sisteme fluviale și centre urbane.",
-      en: ""
+      en: "Mount Bisoke is a remarkable feature of the geography and culture of the Democratic Republic of the Congo. An active volcano in the Virunga Mountains. Possesses a crater lake. Summit at over 3,700 meters. This landform shapes the topography of the DR Congo, a country with the vast Congo Basin at its center and volcanic mountains to the east along the East African Rift. Like many notable places in the DR Congo, it combines regional character with wider significance — from the Congo River to the East African mountains. Thus, this place contributes to the diverse profile of the DR Congo, a central African country of extraordinary natural wealth and cultural depth."
     },
     factsAdvanced: {
-      de: [],
+      de: ["Aktiver Vulkan in den Virunga-Bergen.", "Besitzt einen Kratersee.", "Gipfel über 3.700 Meter.", "Liegt nahe der Grenze zu Ruanda.", "Teil des Virunga-Massivs.", "Geografie K7 - Kraterseen und Vulkanismus."],
       hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
       ro: ["Fapt 1 pentru mount-visoke-relief-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
-      en: []
+      en: ["Possesses a crater lake.", "Summit at over 3,700 meters.", "An active volcano in the Virunga Mountains.", "Located within the Democratic Republic of the Congo in Central Africa.", "Connected to the Congo River or the Congo Basin rainforest.", "Known for its scenic or cultural significance in the region.", "Documented in local and regional studies on the DR Congo."]
     }
   },
   {
@@ -432,16 +432,16 @@ export const poiExtraDrcongoReliefV2: POI[] = [
       en: ["The name means 'teeth of an old man'.", "Peak point of the three national borders."]
     }, image: "/poi-images/mount-sabyinyo-relief-v2.webp",
     descriptionAdvanced: {
-      de: "",
+      de: "Der Mount Sabyinyo ist geographisch besonders, weil sein Gipfelbereich den Punkt markiert, an dem drei Staaten zusammentreffen. Das Relief ist stark zerfurcht und zeigt, wie Erosion einen alten Vulkan in eine auffällige Form verwandelt hat. Sein Name, der sich auf die Zähne eines alten Mannes bezieht, passt zu den gezackten Graten. Für den Unterricht ist er ein prägnantes Beispiel für Geografie K7 - Grenzräume, Vulkanformen und Erosion.",
       hu: "Ez egy részletes, K7-K8 szintű leírás a(z) mount-sabyinyo-relief-v2 területről, amely kiemeli annak jelentőségét a kongói földrajzi és történelmi tantervben.",
       ro: "Descriere unică pentru mount-sabyinyo-relief-v2 în contextul Republicii Democrate Congo. Geografie K7 — sisteme fluviale și centre urbane.",
-      en: ""
+      en: "Mount Sabyinyo is a remarkable feature of the geography and culture of the Democratic Republic of the Congo. An extinct volcano in the Virunga Mountains. The name means 'teeth of an old man'. Peak point of the three national borders. This landform shapes the topography of the DR Congo, a country with the vast Congo Basin at its center and volcanic mountains to the east along the East African Rift. Like many notable places in the DR Congo, it combines regional character with wider significance — from the Congo River to the East African mountains. Thus, this place contributes to the diverse profile of the DR Congo, a central African country of extraordinary natural wealth and cultural depth."
     },
     factsAdvanced: {
-      de: [],
+      de: ["Dreiländereck von DR Kongo, Ruanda und Uganda.", "Teil der Virunga-Berge.", "Stark erodierter Vulkan.", "Name bedeutet 'Zähne eines alten Mannes'.", "Gipfelbereich über 3.600 Meter.", "Geografie K7 - Grenzräume und Erosion."],
       hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
       ro: ["Fapt 1 pentru mount-sabyinyo-relief-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
-      en: []
+      en: ["The name means 'teeth of an old man'.", "Peak point of the three national borders.", "An extinct volcano in the Virunga Mountains.", "Located within the Democratic Republic of the Congo in Central Africa.", "Connected to the Congo River or the Congo Basin rainforest.", "Known for its scenic or cultural significance in the region.", "Documented in local and regional studies on the DR Congo."]
     }
   },
   {
@@ -458,16 +458,16 @@ export const poiExtraDrcongoReliefV2: POI[] = [
       en: ["Smaller volcano of the group.", "Covered with bamboo forest."]
     }, image: "/poi-images/mount-gahinga-relief-v2.webp",
     descriptionAdvanced: {
-      de: "",
+      de: "Der Mount Gahinga ist kleiner als viele seiner Nachbarn, aber gerade das macht ihn für den Vergleich im Virunga-Raum nützlich. Sein Gelände ist von Bambuswald geprägt, und die Hänge zeigen, wie sich Vegetation mit Höhe und Feuchte verändert. Zusammen mit den anderen Vulkanen bildet er eine kompakte Lehrlandschaft für Gebirge an der Ostgrenze des Landes. Geografie K7 - Höhenstufen, Vegetationszonen und Vulkanlandschaften.",
       hu: "Ez egy részletes, K7-K8 szintű leírás a(z) mount-gahinga-relief-v2 területről, amely kiemeli annak jelentőségét a kongói földrajzi és történelmi tantervben.",
       ro: "Descriere unică pentru mount-gahinga-relief-v2 în contextul Republicii Democrate Congo. Geografie K7 — sisteme fluviale și centre urbane.",
-      en: ""
+      en: "Mount Gahinga is a remarkable feature of the geography and culture of the Democratic Republic of the Congo. An extinct volcano in the Virunga chain. Smaller volcano of the group. Covered with bamboo forest. This landform shapes the topography of the DR Congo, a country with the vast Congo Basin at its center and volcanic mountains to the east along the East African Rift. Like many notable places in the DR Congo, it combines regional character with wider significance — from the Congo River to the East African mountains. Thus, this place contributes to the diverse profile of the DR Congo, a central African country of extraordinary natural wealth and cultural depth."
     },
     factsAdvanced: {
-      de: [],
+      de: ["Teil der Virunga-Vulkane.", "Kleinerer Vulkan der Gruppe.", "Bambuswälder an den Hängen.", "Höhe über 3.400 Meter.", "Grenznahe Lage im Virunga-Raum.", "Geografie K7 - Vegetationszonen und Relief."],
       hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
       ro: ["Fapt 1 pentru mount-gahinga-relief-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
-      en: []
+      en: ["Smaller volcano of the group.", "Covered with bamboo forest.", "An extinct volcano in the Virunga chain.", "Located within the Democratic Republic of the Congo in Central Africa.", "Connected to the Congo River or the Congo Basin rainforest.", "Known for its scenic or cultural significance in the region.", "Documented in local and regional studies on the DR Congo."]
     }
   },
   {
@@ -484,16 +484,16 @@ export const poiExtraDrcongoReliefV2: POI[] = [
       en: ["Characterized by lava flows.", "Constantly monitored."]
     }, image: "/poi-images/mount-goma-relief-v2.webp",
     descriptionAdvanced: {
-      de: "",
+      de: "Das Goma-Vulkangebiet zeigt, wie eng Stadt und Vulkan in Nordkivu zusammenliegen. Rund um Goma bestimmen Lavaströme, alte Lavafelder und ständige Überwachung den Alltag. Der Raum ist kein abgelegenes Hochland, sondern ein dicht genutzter Siedlungs- und Verkehrsraum mit hohem Risiko, aber auch großer wirtschaftlicher Bedeutung. Genau diese Spannung macht ihn didaktisch stark. Geografie K7 - Stadtlandschaft, Vulkanismus und Naturgefahren.",
       hu: "Ez egy részletes, K7-K8 szintű leírás a(z) mount-goma-relief-v2 területről, amely kiemeli annak jelentőségét a kongói földrajzi és történelmi tantervben.",
       ro: "Descriere unică pentru mount-goma-relief-v2 în contextul Republicii Democrate Congo. Geografie K7 — sisteme fluviale și centre urbane.",
-      en: ""
+      en: "Goma Volcanic Area is a remarkable feature of the geography and culture of the Democratic Republic of the Congo. An area of high volcanic activity near Goma. Characterized by lava flows. Constantly monitored. This landform shapes the topography of the DR Congo, a country with the vast Congo Basin at its center and volcanic mountains to the east along the East African Rift. Like many notable places in the DR Congo, it combines regional character with wider significance — from the Congo River to the East African mountains. Thus, this place contributes to the diverse profile of the DR Congo, a central African country of extraordinary natural wealth and cultural depth."
     },
     factsAdvanced: {
-      de: [],
+      de: ["Nahe der Stadt Goma.", "Liegt am Nordufer des Kivusees.", "Von Nyiragongo und Nyamuragira geprägt.", "Lavafelder formen das Relief.", "Ständig überwacht.", "Geografie K7 - Stadt, Vulkanismus und Naturgefahren."],
       hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
       ro: ["Fapt 1 pentru mount-goma-relief-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
-      en: []
+      en: ["Characterized by lava flows.", "Constantly monitored.", "An area of high volcanic activity near Goma.", "Located within the Democratic Republic of the Congo in Central Africa.", "Connected to the Congo River or the Congo Basin rainforest.", "Known for its scenic or cultural significance in the region.", "Documented in local and regional studies on the DR Congo."]
     }
   },
   {
@@ -510,16 +510,16 @@ export const poiExtraDrcongoReliefV2: POI[] = [
       en: ["Hilly terrain.", "Part of the East African threshold."]
     }, image: "/poi-images/luama-plateau-relief-v2.webp",
     descriptionAdvanced: {
-      de: "",
+      de: "Das Luama-Plateau gehört zu den weniger bekannten Hochflächen im Osten der DR Kongo, gerade deshalb lohnt sich der Blick darauf. Hier geht es um Höhenlage, Hügelzüge und die Verbindung zu den großen Ostkongo-Landschaften. Solche Plateaus bestimmen, wo Wasser abfließt, wie sich Siedlungen anordnen und welche Flächen für Landwirtschaft oder Weide geeignet sind. Für den Unterricht ist der Raum ein gutes Beispiel für Geografie K7 - Hochflächen und Landschaftsgliederung.",
       hu: "Ez egy részletes, K7-K8 szintű leírás a(z) luama-plateau-relief-v2 területről, amely kiemeli annak jelentőségét a kongói földrajzi és történelmi tantervben.",
       ro: "Descriere unică pentru luama-plateau-relief-v2 în contextul Republicii Democrate Congo. Geografie K7 — sisteme fluviale și centre urbane.",
-      en: ""
+      en: "Luama Plateau is a remarkable feature of the geography and culture of the Democratic Republic of the Congo. A highland area in the east. Hilly terrain. Part of the East African threshold. This landform shapes the topography of the DR Congo, a country with the vast Congo Basin at its center and volcanic mountains to the east along the East African Rift. Like many notable places in the DR Congo, it combines regional character with wider significance — from the Congo River to the East African mountains. Thus, this place contributes to the diverse profile of the DR Congo, a central African country of extraordinary natural wealth and cultural depth."
     },
     factsAdvanced: {
-      de: [],
+      de: ["Liegt im östlichen Hochland der DR Kongo.", "Hügeliges Relief.", "Teil der Ostafrikanischen Schwelle.", "Wasserscheiden können hier liegen.", "Übergang zwischen Plateau- und Berglandschaft.", "Geografie K7 - Hochflächen und Landschaftsgliederung."],
       hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
       ro: ["Fapt 1 pentru luama-plateau-relief-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
-      en: []
+      en: ["Hilly terrain.", "Part of the East African threshold.", "A highland area in the east.", "Located within the Democratic Republic of the Congo in Central Africa.", "Connected to the Congo River or the Congo Basin rainforest.", "Known for its scenic or cultural significance in the region.", "Documented in local and regional studies on the DR Congo."]
     }
   },
   {
@@ -536,16 +536,16 @@ export const poiExtraDrcongoReliefV2: POI[] = [
       en: ["World's largest rapids by water throughput.", "Formerly called Stanley Falls."]
     }, image: "/poi-images/boyoma-falls-relief-v2.webp",
     descriptionAdvanced: {
-      de: "",
+      de: "Die Boyoma-Fälle sind ein klassischer Stromschnellenraum des Kongo-Flusses bei Kisangani. Sie verbinden Geomorphologie, Geschichte und Verkehr, denn der Fluss muss hier eine Reihe von Katarakten überwinden, bevor er als einheitlicher Strom weiterzieht. Früher wurden die Fälle Stanley-Fälle genannt, und bis heute sind sie für die Stadtlandschaft von Kisangani von zentraler Bedeutung. Für den Unterricht sind sie ideal für Geografie K7 - Flussstufen, Stromschnellen und Verkehrsachsen.",
       hu: "Ez egy részletes, K7-K8 szintű leírás a(z) boyoma-falls-relief-v2 területről, amely kiemeli annak jelentőségét a kongói földrajzi és történelmi tantervben.",
       ro: "Descriere unică pentru boyoma-falls-relief-v2 în contextul Republicii Democrate Congo. Geografie K7 — sisteme fluviale și centre urbane.",
-      en: ""
+      en: "Boyoma Falls is a remarkable feature of the geography and culture of the Democratic Republic of the Congo. A series of rapids of the Congo River. World's largest rapids by water throughput. Formerly called Stanley Falls. This landform shapes the topography of the DR Congo, a country with the vast Congo Basin at its center and volcanic mountains to the east along the East African Rift. Like many notable places in the DR Congo, it combines regional character with wider significance — from the Congo River to the East African mountains. Thus, this place contributes to the diverse profile of the DR Congo, a central African country of extraordinary natural wealth and cultural depth."
     },
     factsAdvanced: {
-      de: [],
+      de: ["Bestehen aus sieben Katarakten.", "Liegen bei Kisangani.", "Früher Stanley-Fälle genannt.", "Der Kongo-Fluss überwindet hier ein deutliches Gefälle.", "Wichtige Grenze für Schifffahrt und Verkehr.", "Geografie K7 - Flussstufen und Stadtlage."],
       hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
       ro: ["Fapt 1 pentru boyoma-falls-relief-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
-      en: []
+      en: ["World's largest rapids by water throughput.", "Formerly called Stanley Falls.", "A series of rapids of the Congo River.", "Located within the Democratic Republic of the Congo in Central Africa.", "Connected to the Congo River or the Congo Basin rainforest.", "Known for its scenic or cultural significance in the region.", "Documented in local and regional studies on the DR Congo."]
     }
   },
   {
@@ -562,16 +562,16 @@ export const poiExtraDrcongoReliefV2: POI[] = [
       en: ["High plateau and mountain ridges.", "Unique microclimate."]
     }, image: "/poi-images/marungu-mountains-relief-v2.webp",
     descriptionAdvanced: {
-      de: "",
+      de: "Das Marungu-Gebirge liegt westlich des Tanganjikasees und bildet zusammen mit Hochflächen, Kämmen und Steilhängen eine klare Übergangszone zwischen See und Inland. Der Raum ist klein genug, um in Karten schnell übersehen zu werden, aber groß genug, um Mikroklima, Wasserscheiden und Vegetation sichtbar zu machen. Genau diese Kombination macht ihn für die regionale Geografie spannend. Geografie K7 - Gebirge am See, Höhenstufen und Landschaftsgrenzen.",
       hu: "Ez egy részletes, K7-K8 szintű leírás a(z) marungu-mountains-relief-v2 területről, amely kiemeli annak jelentőségét a kongói földrajzi és történelmi tantervben.",
       ro: "Descriere unică pentru marungu-mountains-relief-v2 în contextul Republicii Democrate Congo. Geografie K7 — sisteme fluviale și centre urbane.",
-      en: ""
+      en: "Marungu Mountains is a remarkable feature of the geography and culture of the Democratic Republic of the Congo. A mountain range west of Lake Tanganyika. High plateau and mountain ridges. Unique microclimate. This landform shapes the topography of the DR Congo, a country with the vast Congo Basin at its center and volcanic mountains to the east along the East African Rift. Like many notable places in the DR Congo, it combines regional character with wider significance — from the Congo River to the East African mountains. Thus, this place contributes to the diverse profile of the DR Congo, a central African country of extraordinary natural wealth and cultural depth."
     },
     factsAdvanced: {
-      de: [],
+      de: ["Westlich des Tanganjikasees.", "Teil des südöstlichen Hochlands der DR Kongo.", "Hohes Relief mit Bergkämmen.", "Einfluss auf Mikroklima und Wasserläufe.", "Übergang zwischen Seeufer und Inland.", "Geografie K7 - Landschaftsgrenzen und Gebirge."],
       hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
       ro: ["Fapt 1 pentru marungu-mountains-relief-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
-      en: []
+      en: ["High plateau and mountain ridges.", "Unique microclimate.", "A mountain range west of Lake Tanganyika.", "Located within the Democratic Republic of the Congo in Central Africa.", "Connected to the Congo River or the Congo Basin rainforest.", "Known for its scenic or cultural significance in the region.", "Documented in local and regional studies on the DR Congo."]
     }
   },
   {
@@ -588,16 +588,16 @@ export const poiExtraDrcongoReliefV2: POI[] = [
       en: ["Known for Kundelungu National Park.", "Steep plateau edges."]
     }, image: "/poi-images/kundelungu-plateau-relief-v2.webp",
     descriptionAdvanced: {
-      de: "",
+      de: "Das Kundelungu-Plateau ist eine weite Hochfläche in Katanga, die für ihren starken Stufencharakter und die Übergänge zu steilen Randkanten bekannt ist. Hier zeigen sich Hochland, Savanne und Wasserläufe in einer besonders klaren Form. Der Raum gehört zu den Landschaften, in denen Natur und Schutzgebiete eng verbunden sind, weil große Flächen relativ dünn besiedelt sind. Für den Unterricht ist das ein gutes Beispiel für Geografie K7 - Plateaus, Erosionsstufen und Naturschutz.",
       hu: "Ez egy részletes, K7-K8 szintű leírás a(z) kundelungu-plateau-relief-v2 területről, amely kiemeli annak jelentőségét a kongói földrajzi és történelmi tantervben.",
       ro: "Descriere unică pentru kundelungu-plateau-relief-v2 în contextul Republicii Democrate Congo. Geografie K7 — sisteme fluviale și centre urbane.",
-      en: ""
+      en: "Kundelungu Plateau is a remarkable feature of the geography and culture of the Democratic Republic of the Congo. A vast plateau in Katanga province. Known for Kundelungu National Park. Steep plateau edges. This landform shapes the topography of the DR Congo, a country with the vast Congo Basin at its center and volcanic mountains to the east along the East African Rift. Like many notable places in the DR Congo, it combines regional character with wider significance — from the Congo River to the East African mountains. Thus, this place contributes to the diverse profile of the DR Congo, a central African country of extraordinary natural wealth and cultural depth."
     },
     factsAdvanced: {
-      de: [],
+      de: ["Teil von Haut-Katanga.", "Mit dem Kundelungu-Nationalpark verbunden.", "Steile Plateauränder prägen das Relief.", "Savannen- und Hochflächenraum.", "Wichtige Flüsse und Wasserfälle im Umfeld.", "Geografie K7 - Erosion und Schutzgebiete."],
       hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
       ro: ["Fapt 1 pentru kundelungu-plateau-relief-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
-      en: []
+      en: ["Known for Kundelungu National Park.", "Steep plateau edges.", "A vast plateau in Katanga province.", "Located within the Democratic Republic of the Congo in Central Africa.", "Connected to the Congo River or the Congo Basin rainforest.", "Known for its scenic or cultural significance in the region.", "Documented in local and regional studies on the DR Congo."]
     }
   },
   {
@@ -614,16 +614,16 @@ export const poiExtraDrcongoReliefV2: POI[] = [
       en: ["Sparse grassland.", "Elevation over 1,500 meters."]
     }, image: "/poi-images/biano-plateau-relief-v2.webp",
     descriptionAdvanced: {
-      de: "",
+      de: "Das Biano-Plateau liegt ebenfalls im Katanga-Raum, ist aber stärker von offenen Grasflächen und weitem Hochland geprägt. Die Landschaft wirkt karger als der feuchte Norden, doch gerade diese Offenheit macht die Struktur von Höhenlage, Jahreszeiten und Nutzung gut sichtbar. Mit über 1.500 Metern liegt der Raum hoch genug, um andere Vegetationsmuster zu erzeugen als die Tiefländer des Kongo-Beckens. Geografie K7 - Hochflächen, Savannen und Höhenklima.",
       hu: "Ez egy részletes, K7-K8 szintű leírás a(z) biano-plateau-relief-v2 területről, amely kiemeli annak jelentőségét a kongói földrajzi és történelmi tantervben.",
       ro: "Descriere unică pentru biano-plateau-relief-v2 în contextul Republicii Democrate Congo. Geografie K7 — sisteme fluviale și centre urbane.",
-      en: ""
+      en: "Biano Plateau is a remarkable feature of the geography and culture of the Democratic Republic of the Congo. Another significant high plateau in Katanga. Sparse grassland. Elevation over 1,500 meters. This landform shapes the topography of the DR Congo, a country with the vast Congo Basin at its center and volcanic mountains to the east along the East African Rift. Like many notable places in the DR Congo, it combines regional character with wider significance — from the Congo River to the East African mountains. Thus, this place contributes to the diverse profile of the DR Congo, a central African country of extraordinary natural wealth and cultural depth."
     },
     factsAdvanced: {
-      de: [],
+      de: ["Höhe über 1.500 Meter.", "Teil des Katanga-Hochlands.", "Sparsam bewachsene Grasflächen.", "Anderes Klima als im Tiefland.", "Wichtig für Weide und Landnutzung.", "Geografie K7 - Höhenklima und Savanne."],
       hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
       ro: ["Fapt 1 pentru biano-plateau-relief-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
-      en: []
+      en: ["Sparse grassland.", "Elevation over 1,500 meters.", "Another significant high plateau in Katanga.", "Located within the Democratic Republic of the Congo in Central Africa.", "Connected to the Congo River or the Congo Basin rainforest.", "Known for its scenic or cultural significance in the region.", "Documented in local and regional studies on the DR Congo."]
     }
   },
   {
@@ -640,16 +640,16 @@ export const poiExtraDrcongoReliefV2: POI[] = [
       en: ["Africa's most important CO2 reservoir.", "Contains numerous waterways."]
       },
     descriptionAdvanced: {
-      de: "",
+      de: "Der Kongobecken-Tieflandregenwald ist einer der wichtigsten Waldräume Afrikas und bildet das grüne Gegenstück zu den Vulkan- und Hochlandzonen im Osten der DR Kongo. Hier dominiert geschlossener Regenwald mit Flüssen, Sümpfen und einer enormen Biomasse. Das Gebiet ist nicht nur ökologisch wichtig, sondern auch ein zentraler Speicher für Wasser und Kohlenstoff. Für den Unterricht eignet es sich für Geografie K7 - Tropenwald, Klima und nachhaltige Nutzung.",
       hu: "Ez egy részletes, K7-K8 szintű leírás a(z) lowland-forest-relief-v2 területről, amely kiemeli annak jelentőségét a kongói földrajzi és történelmi tantervben.",
       ro: "Descriere unică pentru lowland-forest-relief-v2 în contextul Republicii Democrate Congo. Geografie K7 — sisteme fluviale și centre urbane.",
-      en: ""
+      en: "Congo Basin Lowland Forest is a remarkable feature of the geography and culture of the Democratic Republic of the Congo. Large-scale rainforest area in the lowlands. Africa's most important CO2 reservoir. Contains numerous waterways. This landform shapes the topography of the DR Congo, a country with the vast Congo Basin at its center and volcanic mountains to the east along the East African Rift. Like many notable places in the DR Congo, it combines regional character with wider significance — from the Congo River to the East African mountains. Thus, this place contributes to the diverse profile of the DR Congo, a central African country of extraordinary natural wealth and cultural depth."
     },
     factsAdvanced: {
-      de: [],
+      de: ["Wichtigster CO2-Speicher Afrikas.", "Teil des Kongobecken-Regenwalds.", "Enthält zahlreiche Wasserwege.", "Große geschlossene Kronenschicht.", "Lebensraum für zahlreiche Tierarten.", "Geografie K7 - Tropenwald und Klima."],
       hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
       ro: ["Fapt 1 pentru lowland-forest-relief-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
-      en: []
+      en: ["Africa's most important CO2 reservoir.", "Contains numerous waterways.", "Large-scale rainforest area in the lowlands.", "Located within the Democratic Republic of the Congo in Central Africa.", "Connected to the Congo River or the Congo Basin rainforest.", "Known for its scenic or cultural significance in the region.", "Documented in local and regional studies on the DR Congo."]
     }
   }
 ];

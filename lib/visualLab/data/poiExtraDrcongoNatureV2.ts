@@ -343,13 +343,13 @@ export const poiExtraDrcongoNatureV2: POI[] = [
       de: "Das Ruwenzori-Gebirge liegt an der Grenze zwischen der DR Kongo und Uganda und ist f?r seine stark vergletscherten Gipfel trotz der N?he zum ?quator bekannt. Der h?chste Punkt, der Margherita Peak im Stanley-Massiv, erreicht 5.109 Meter. In wenigen H?henstufen wechseln Regenwald, Bambusg?rtel, Moore und afroalpine Riesenpflanzen. Genau dieser Kontrast macht die Kette zu einem Lehrbeispiel f?r Klima- und Vegetationszonen in Ostafrika. Geografie K8 ? Hochgebirge, Gletscher und H?henstufen am ?quator.",
       hu: "Ez egy részletes, K7-K8 szintű leírás a(z) ruwenzori-mountains-nature-v2 területről, amely kiemeli annak jelentőségét a kongói földrajzi és történelmi tantervben.",
       ro: "Descriere unică pentru ruwenzori-mountains-nature-v2 în contextul Republicii Democrate Congo. Geografie K7 — sisteme fluviale și centre urbane.",
-      en: ""
+      en: "Ruwenzori Mountains is a remarkable feature of the geography and culture of the Democratic Republic of the Congo. The 'Mountains of the Moon' with ice-capped peaks. High mountains. Ice-capped peaks. Mountains of the Moon. This natural area reflects the scenic diversity of the DR Congo, from the dense Congo Basin rainforest to the eastern volcanoes and the great lakes. Like many notable places in the DR Congo, it combines regional character with wider significance — from the Congo River to the East African mountains. Thus, this place contributes to the diverse profile of the DR Congo, a central African country of extraordinary natural wealth and cultural depth."
     },
     factsAdvanced: {
       de: ["H?chster Gipfel: Margherita Peak mit 5.109 m.", "Lage an der Grenze zwischen DR Kongo und Uganda.", "Teil eines ?quatorialen Hochgebirges mit Gletschern.", "Starkes Beispiel f?r H?henstufen der Vegetation.", "Wichtiger Teil des Ruwenzori-Nationalpark-?kosystems.", "Bekannt f?r Moore, Bambuszonen und afroalpine Pflanzen."],
       hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
       ro: ["Fapt 1 pentru ruwenzori-mountains-nature-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
-      en: []
+      en: ["High mountains.", "Ice-capped peaks.", "Mountains of the Moon.", "Border mountains.", "The 'Mountains of the Moon' with ice-capped peaks.", "Located within the Democratic Republic of the Congo in Central Africa.", "Connected to the Congo River or the Congo Basin rainforest."]
     }
   },
   {
@@ -369,13 +369,13 @@ export const poiExtraDrcongoNatureV2: POI[] = [
       de: "Das Kongobecken ist kein einzelner Fluss, sondern das gewaltige Einzugs- und Regenwaldsystem rund um den Kongo. Mit rund 3,7 Millionen Quadratkilometern geh?rt es zu den gr??ten tropischen Wald- und Feuchtgebietsr?umen der Erde. In ihm sammeln sich Tausende Nebenfl?sse, Moore und S?mpfe, die das Klima der gesamten Region mitpr?gen. F?r den Naturschutz ist das Becken entscheidend, weil es Kohlenstoff speichert, Regenkreisl?ufe stabilisiert und Lebensraum f?r Gorillas, Okapis und unz?hlige Vogelarten bietet. Geografie K8 ? Tropische Gro?r?ume und Klimafunktionen.",
       hu: "Ez egy részletes, K7-K8 szintű leírás a(z) congo-basin-nature-v2 területről, amely kiemeli annak jelentőségét a kongói földrajzi és történelmi tantervben.",
       ro: "Descriere unică pentru congo-basin-nature-v2 în contextul Republicii Democrate Congo. Geografie K7 — sisteme fluviale și centre urbane.",
-      en: ""
+      en: "Congo Basin is a remarkable feature of the geography and culture of the Democratic Republic of the Congo. The world's second-largest tropical rainforest area. Large rainforest. High biodiversity. Important climate factor. This natural area reflects the scenic diversity of the DR Congo, from the dense Congo Basin rainforest to the eastern volcanoes and the great lakes. Like many notable places in the DR Congo, it combines regional character with wider significance — from the Congo River to the East African mountains. Thus, this place contributes to the diverse profile of the DR Congo, a central African country of extraordinary natural wealth and cultural depth."
     },
     factsAdvanced: {
       de: ["Rund 3,7 Millionen km? gro?es Einzugsgebiet.", "Zweitgr??ter tropischer Regenwaldraum der Erde.", "Enth?lt unz?hlige Nebenfl?sse, S?mpfe und Moore.", "Zentral f?r den Klimahaushalt Zentralafrikas.", "Wichtiger Speicher f?r Kohlenstoff und Regenwasser.", "Lebensraum f?r Gorillas, Okapis und viele Vogelarten."],
       hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
       ro: ["Fapt 1 pentru congo-basin-nature-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
-      en: []
+      en: ["Large rainforest.", "High biodiversity.", "Important climate factor.", "Huge basin.", "The world's second-largest tropical rainforest area.", "Located within the Democratic Republic of the Congo in Central Africa.", "Connected to the Congo River or the Congo Basin rainforest."]
     }
   },
   {
@@ -395,13 +395,13 @@ export const poiExtraDrcongoNatureV2: POI[] = [
       de: "Der Salonga-Nationalpark sch?tzt einen der gr??ten zusammenh?ngenden tropischen Waldkomplexe Afrikas. Das Schutzgebiet liegt tief im Kongobecken und ist nur schwer zug?nglich, weil Fl?sse, S?mpfe und dichter Prim?rwald das Gel?nde dominieren. Gerade diese Abgeschiedenheit hat gro?e Teile der Tierwelt bewahrt, darunter Bonobos und der Kongopfau. 1984 wurde der Park als UNESCO-Welterbe anerkannt. F?r den Naturschutz ist er ein Schl?sselraum, weil hier Wald, Wasser und Schutzpolitik direkt zusammenh?ngen. Natur K8 ? Schutzgebiete des Kongobeckens.",
       hu: "Ez egy részletes, K7-K8 szintű leírás a(z) salonga-forest-nature-v2 területről, amely kiemeli annak jelentőségét a kongói földrajzi és történelmi tantervben.",
       ro: "Descriere unică pentru salonga-forest-nature-v2 în contextul Republicii Democrate Congo. Geografie K7 — sisteme fluviale și centre urbane.",
-      en: ""
+      en: "Salonga National Park is a remarkable feature of the geography and culture of the Democratic Republic of the Congo. The largest tropical rainforest national park in Africa. Huge national park. Primary forest. Home to endangered species. This natural area reflects the scenic diversity of the DR Congo, from the dense Congo Basin rainforest to the eastern volcanoes and the great lakes. Like many notable places in the DR Congo, it combines regional character with wider significance — from the Congo River to the East African mountains. Thus, this place contributes to the diverse profile of the DR Congo, a central African country of extraordinary natural wealth and cultural depth."
     },
     factsAdvanced: {
       de: ["Schutzgebiet von rund 36.000 km?.", "Seit 1984 UNESCO-Welterbe.", "Liegt tief im zentralen Kongobecken.", "Zerf?llt in einen Nord- und einen S?dteil.", "Wichtiger Lebensraum f?r Bonobos und Kongopfau.", "Nur schwer zug?nglich wegen Fl?ssen und S?mpfen."],
       hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
       ro: ["Fapt 1 pentru salonga-forest-nature-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
-      en: []
+      en: ["Huge national park.", "Primary forest.", "Home to endangered species.", "Rainforest protection.", "The largest tropical rainforest national park in Africa.", "Located within the Democratic Republic of the Congo in Central Africa.", "Connected to the Congo River or the Congo Basin rainforest."]
     }
   },
   {
@@ -421,13 +421,13 @@ export const poiExtraDrcongoNatureV2: POI[] = [
       de: "Der Lukuga ist der einzige bekannte Abfluss des Tanganjikasees und damit ein hydrologischer Schl?sselfluss im Osten der DR Kongo. Er verbindet den See bei Kalemie mit dem Lualaba-System und steuert so den Wasserstand des gro?en Rift-Sees. Der Fluss ist f?r die regionale Schifffahrt und f?r die Entw?sserung der Beckenlandschaft wichtig. Seine wechselhafte Wasserf?hrung macht ihn in trockenen und nassen Jahren besonders interessant f?r die Geografie. Erdkunde K8 ? Seenabfluss, Drainage und Flusssysteme.",
       hu: "Ez egy részletes, K7-K8 szintű leírás a(z) lukuga-river-nature-v2 területről, amely kiemeli annak jelentőségét a kongói földrajzi és történelmi tantervben.",
       ro: "Descriere unică pentru lukuga-river-nature-v2 în contextul Republicii Democrate Congo. Geografie K7 — sisteme fluviale și centre urbane.",
-      en: ""
+      en: "Lukuga River is a remarkable feature of the geography and culture of the Democratic Republic of the Congo. The only outlet of Lake Tanganyika. Lake outlet. Tributary of the Congo. Important drainage. This natural area reflects the scenic diversity of the DR Congo, from the dense Congo Basin rainforest to the eastern volcanoes and the great lakes. Like many notable places in the DR Congo, it combines regional character with wider significance — from the Congo River to the East African mountains. Thus, this place contributes to the diverse profile of the DR Congo, a central African country of extraordinary natural wealth and cultural depth."
     },
     factsAdvanced: {
       de: ["Einziger Abfluss des Tanganjikasees.", "Verbindet Kalemie mit dem Lualaba-System.", "Wichtiger Steuerfaktor f?r den Wasserstand des Sees.", "Bedeutend f?r regionale Schifffahrt und Entw?sserung.", "Teil des ?stlichen Kongobeckens.", "Seine Wasserf?hrung schwankt je nach Jahreszeit stark."],
       hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
       ro: ["Fapt 1 pentru lukuga-river-nature-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
-      en: []
+      en: ["Lake outlet.", "Tributary of the Congo.", "Important drainage.", "Watershed.", "The only outlet of Lake Tanganyika.", "Located within the Democratic Republic of the Congo in Central Africa.", "Connected to the Congo River or the Congo Basin rainforest."]
     }
   },
   {
@@ -447,13 +447,13 @@ export const poiExtraDrcongoNatureV2: POI[] = [
       de: "Der Eduardsee liegt auf der Grenze zwischen der DR Kongo und Uganda und ist einer der gro?en Seen des westlichen Rift-Systems. Ber?hmt ist er, weil sein Wasser ?ber die Semliki in Richtung Nil abflie?t. Rund um den See treffen Fischerei, Schutzgebiete und wirtschaftliche Nutzung aufeinander, was die Region geologisch und gesellschaftlich spannend macht. Trotz seiner Gr??e bleibt der See ein klassischer Unterrichtsfall f?r Grenzseen, Flusswege und Ostafrikanische Grabenstrukturen. Geografie K8 ? Seen, Nilsystem und Relief.",
       hu: "Ez egy részletes, K7-K8 szintű leírás a(z) edward-lake-nature-v2 területről, amely kiemeli annak jelentőségét a kongói földrajzi és történelmi tantervben.",
       ro: "Descriere unică pentru edward-lake-nature-v2 în contextul Republicii Democrate Congo. Geografie K7 — sisteme fluviale și centre urbane.",
-      en: ""
+      en: "Lake Edward is a remarkable feature of the geography and culture of the Democratic Republic of the Congo. A lake in Virunga National Park. National park lake. In Rift Valley. Diverse life. This natural area reflects the scenic diversity of the DR Congo, from the dense Congo Basin rainforest to the eastern volcanoes and the great lakes. Like many notable places in the DR Congo, it combines regional character with wider significance — from the Congo River to the East African mountains. Thus, this place contributes to the diverse profile of the DR Congo, a central African country of extraordinary natural wealth and cultural depth."
     },
     factsAdvanced: {
       de: ["Grenzsee zwischen der DR Kongo und Uganda.", "Teil des Albertine Rift Systems.", "Wasser flie?t ?ber die Semliki in Richtung Nil-System.", "Wichtige Fischereiregion f?r lokale Gemeinden.", "Umgeben von Feuchtgebieten und Schutzr?umen.", "Klassisches Beispiel f?r Rift-Seen in Ostafrika."],
       hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
       ro: ["Fapt 1 pentru edward-lake-nature-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
-      en: []
+      en: ["National park lake.", "In Rift Valley.", "Diverse life.", "Worth protecting.", "A lake in Virunga National Park.", "Located within the Democratic Republic of the Congo in Central Africa.", "Connected to the Congo River or the Congo Basin rainforest."]
     }
   },
   {
@@ -473,13 +473,13 @@ export const poiExtraDrcongoNatureV2: POI[] = [
       de: "Der Ubangi ist ein m?chtiger rechter Nebenfluss des Kongo und zugleich eine wichtige nat?rliche Grenzlinie im Nordwesten der DR Kongo. Er entsteht aus dem Zusammenfluss von Uele und Mbomou und flie?t ?ber weite Strecken an der Zentralafrikanischen Republik und der Republik Kongo vorbei. F?r Handel, Grenzverkehr und ?kologie ist er eine Schl?sselachse, weil er Siedlungen, M?rkte und Regenwaldgebiete miteinander verbindet. Geografie K8 ? Grenzfl?sse und gro?e Stromsysteme.",
       hu: "Ez egy részletes, K7-K8 szintű leírás a(z) ubangi-river-nature-v2 területről, amely kiemeli annak jelentőségét a kongói földrajzi és történelmi tantervben.",
       ro: "Descriere unică pentru ubangi-river-nature-v2 în contextul Republicii Democrate Congo. Geografie K7 — sisteme fluviale și centre urbane.",
-      en: ""
+      en: "Ubangi River is a remarkable feature of the geography and culture of the Democratic Republic of the Congo. A major right tributary of the Congo River. Tributary of the Congo. Border river. Large drainage basin. This natural area reflects the scenic diversity of the DR Congo, from the dense Congo Basin rainforest to the eastern volcanoes and the great lakes. Like many notable places in the DR Congo, it combines regional character with wider significance — from the Congo River to the East African mountains. Thus, this place contributes to the diverse profile of the DR Congo, a central African country of extraordinary natural wealth and cultural depth."
     },
     factsAdvanced: {
       de: ["Entsteht aus Uele und Mbomou.", "Wichtiger rechter Nebenfluss des Kongo.", "Bildet lange Grenzabschnitte im Nordwesten.", "Verbindet die DR Kongo mit der Zentralafrikanischen Republik.", "Schl?sselachse f?r Handel und Grenzverkehr.", "Durchzieht Wald- und Savannenr?ume des Kongobeckens."],
       hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
       ro: ["Fapt 1 pentru ubangi-river-nature-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
-      en: []
+      en: ["Tributary of the Congo.", "Border river.", "Large drainage basin.", "Water-rich.", "A major right tributary of the Congo River.", "Located within the Democratic Republic of the Congo in Central Africa.", "Connected to the Congo River or the Congo Basin rainforest."]
     }
   },
   {
@@ -499,13 +499,13 @@ export const poiExtraDrcongoNatureV2: POI[] = [
       de: "Der Niari ist ein Flusssystem im S?dwesten des Kongobeckens und pr?gt das fruchtbare Niari-Tal in der Republik Kongo. Obwohl er au?erhalb der DR Kongo liegt, geh?rt er zur gr??eren Natur- und Verkehrsgeografie der Kongoregion. Sein Tal ist ein klassischer Korridor zwischen K?ste, Hochland und Binnenland, weshalb hier Landwirtschaft, Stra?en und Siedlungen eng zusammenh?ngen. F?r den Unterricht eignet er sich gut, um Entw?sserung, Relief und Nutzung in einem tropischen Raum zu verbinden. Geografie K7 ? Flusst?ler und Landschaftsnutzung.",
       hu: "Ez egy részletes, K7-K8 szintű leírás a(z) niari-river-nature-v2 területről, amely kiemeli annak jelentőségét a kongói földrajzi és történelmi tantervben.",
       ro: "Descriere unică pentru niari-river-nature-v2 în contextul Republicii Democrate Congo. Geografie K7 — sisteme fluviale și centre urbane.",
-      en: ""
+      en: "Niari River is a remarkable feature of the geography and culture of the Democratic Republic of the Congo. A river in the west of the region. Western river. Important drainage. Flows through valleys. This natural area reflects the scenic diversity of the DR Congo, from the dense Congo Basin rainforest to the eastern volcanoes and the great lakes. Like many notable places in the DR Congo, it combines regional character with wider significance — from the Congo River to the East African mountains. Thus, this place contributes to the diverse profile of the DR Congo, a central African country of extraordinary natural wealth and cultural depth."
     },
     factsAdvanced: {
       de: ["Fluss im S?dwesten der Republik Kongo.", "Pr?gt das Niari-Tal als wichtigen Landschaftskorridor.", "Verbindet K?ste, Hochland und Binnenland.", "Bedeutend f?r Landwirtschaft und Siedlungsentwicklung.", "Teil der gr??eren Kongoregion.", "Gut geeignet f?r Themen zu Relief und Nutzung."],
       hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
       ro: ["Fapt 1 pentru niari-river-nature-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
-      en: []
+      en: ["Western river.", "Important drainage.", "Flows through valleys.", "Short course.", "A river in the west of the region.", "Located within the Democratic Republic of the Congo in Central Africa.", "Connected to the Congo River or the Congo Basin rainforest."]
     }
   },
   {
@@ -525,13 +525,13 @@ export const poiExtraDrcongoNatureV2: POI[] = [
       de: "Der Albertsee liegt auf der Grenze zwischen der DR Kongo und Uganda und ist einer der gro?en Seen des westlichen Rift-Systems. Ber?hmt ist er als Teil des Nil-Systems, weil seine Gew?sser ?ber den Semliki und den Albert-Nil weitergeleitet werden. Rund um den See treffen Fischerei, Schutzgebiete und wirtschaftliche Interessen aufeinander, was die Region geologisch und gesellschaftlich spannend macht. Trotz seiner Gr??e bleibt der See ein klassischer Unterrichtsfall f?r Grenzseen, Flusswege und Ostafrikanische Grabenstrukturen. Geografie K8 ? Seen, Nilsystem und Relief.",
       hu: "Ez egy részletes, K7-K8 szintű leírás a(z) albert-lake-nature-v2 területről, amely kiemeli annak jelentőségét a kongói földrajzi és történelmi tantervben.",
       ro: "Descriere unică pentru albert-lake-nature-v2 în contextul Republicii Democrate Congo. Geografie K7 — sisteme fluviale și centre urbane.",
-      en: ""
+      en: "Lake Albert is a remarkable feature of the geography and culture of the Democratic Republic of the Congo. A large lake near the Ugandan border. Large lake. In Rift Valley. Fish-rich. This natural area reflects the scenic diversity of the DR Congo, from the dense Congo Basin rainforest to the eastern volcanoes and the great lakes. Like many notable places in the DR Congo, it combines regional character with wider significance — from the Congo River to the East African mountains. Thus, this place contributes to the diverse profile of the DR Congo, a central African country of extraordinary natural wealth and cultural depth."
     },
     factsAdvanced: {
       de: ["Grenzsee zwischen der DR Kongo und Uganda.", "Teil des westlichen Rift-Systems.", "Wichtiger Baustein des Nil-Systems.", "Rund um den See liegen Fischereiorte und Schutzfl?chen.", "Geologisch enger Bezug zu Semliki und Albertine Rift.", "Schl?sselbeispiel f?r Grenzseen in Ostafrika."],
       hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
       ro: ["Fapt 1 pentru albert-lake-nature-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
-      en: []
+      en: ["Large lake.", "In Rift Valley.", "Fish-rich.", "Nature reserve.", "A large lake near the Ugandan border.", "Located within the Democratic Republic of the Congo in Central Africa.", "Connected to the Congo River or the Congo Basin rainforest."]
     }
   },
   {
@@ -551,13 +551,13 @@ export const poiExtraDrcongoNatureV2: POI[] = [
       de: "Der Lomami schl?ngelt sich durch den zentralen Teil der DR Kongo und ist einer der wichtigen Nebenfl?sse des Kongo. In seinem Einzugsgebiet liegen dichte Regenw?lder, S?mpfe und gro?e Schutzr?ume, darunter das Lomami-Nationalparkgebiet. Der Fluss ist f?r Forschungen zur Biodiversit?t besonders spannend, weil hier Arten vorkommen, die lange kaum dokumentiert wurden. Gleichzeitig verbindet er Waldlandschaften mit Siedlungsr?umen und zeigt, wie empfindlich das Gleichgewicht zwischen Erschlie?ung und Naturschutz ist. Geografie K7 ? Tropische Flusssysteme und Biodiversit?t.",
       hu: "Ez egy részletes, K7-K8 szintű leírás a(z) lomami-river-nature-v2 területről, amely kiemeli annak jelentőségét a kongói földrajzi és történelmi tantervben.",
       ro: "Descriere unică pentru lomami-river-nature-v2 în contextul Republicii Democrate Congo. Geografie K7 — sisteme fluviale și centre urbane.",
-      en: ""
+      en: "Lomami River is a remarkable feature of the geography and culture of the Democratic Republic of the Congo. A major tributary of the Congo River. Tributary of the Congo. Flows parallel to the Congo. Long river. This natural area reflects the scenic diversity of the DR Congo, from the dense Congo Basin rainforest to the eastern volcanoes and the great lakes. Like many notable places in the DR Congo, it combines regional character with wider significance — from the Congo River to the East African mountains. Thus, this place contributes to the diverse profile of the DR Congo, a central African country of extraordinary natural wealth and cultural depth."
     },
     factsAdvanced: {
       de: ["Wichtiger Nebenfluss des Kongo im zentralen Tiefland.", "Verl?uft durch dichte Regenwald- und Sumpfr?ume.", "Lomami-Nationalpark liegt in seinem Einzugsgebiet.", "F?r Biodiversit?tsforschung besonders wichtig.", "Verbindet Waldgebiete mit vereinzelten Siedlungen.", "Typischer Fluss des zentralen Kongobeckens."],
       hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
       ro: ["Fapt 1 pentru lomami-river-nature-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
-      en: []
+      en: ["Tributary of the Congo.", "Flows parallel to the Congo.", "Long river.", "Important waterway.", "A major tributary of the Congo River.", "Located within the Democratic Republic of the Congo in Central Africa.", "Connected to the Congo River or the Congo Basin rainforest."]
     }
   },
   {
@@ -577,13 +577,13 @@ export const poiExtraDrcongoNatureV2: POI[] = [
       de: "Der Kwango ist ein gro?er Nebenfluss des Kasai und verl?uft ?ber weite Strecken als Grenz- und ?bergangsraum zwischen der DR Kongo und Angola. Sein Tal ist gepr?gt von Sandfl?chen, Savanneninseln und Waldst?cken, die je nach Niederschlag stark wechseln. F?r die regionale Landwirtschaft und f?r die Siedlungsentwicklung ist der Fluss wichtig, weil er Wasser, Boden und Verkehrswege b?ndelt. Der Kwango zeigt exemplarisch, wie ein tropischer Fluss zugleich Naturraum und Lebensader ist. Geografie K7 ? Nebenfl?sse und Nutzungsr?ume.",
       hu: "Ez egy részletes, K7-K8 szintű leírás a(z) kwango-river-nature-v2 területről, amely kiemeli annak jelentőségét a kongói földrajzi és történelmi tantervben.",
       ro: "Descriere unică pentru kwango-river-nature-v2 în contextul Republicii Democrate Congo. Geografie K7 — sisteme fluviale și centre urbane.",
-      en: ""
+      en: "Kwango River is a remarkable feature of the geography and culture of the Democratic Republic of the Congo. An important tributary of the Kasai River. Tributary of the Kasai. Water-rich. Navigation. This natural area reflects the scenic diversity of the DR Congo, from the dense Congo Basin rainforest to the eastern volcanoes and the great lakes. Like many notable places in the DR Congo, it combines regional character with wider significance — from the Congo River to the East African mountains. Thus, this place contributes to the diverse profile of the DR Congo, a central African country of extraordinary natural wealth and cultural depth."
     },
     factsAdvanced: {
       de: ["Gro?er Nebenfluss des Kasai.", "Verl?uft abschnittsweise als Grenzfluss zu Angola.", "Tal mit Sandfl?chen, Savannen und Waldinseln.", "Wichtig f?r Landwirtschaft und Siedlungen.", "Teil des weiten Kongobecken-Systems.", "Zeigt starke saisonale Unterschiede im Wasserstand."],
       hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
       ro: ["Fapt 1 pentru kwango-river-nature-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
-      en: []
+      en: ["Tributary of the Kasai.", "Water-rich.", "Navigation.", "Large basin.", "An important tributary of the Kasai River.", "Located within the Democratic Republic of the Congo in Central Africa.", "Connected to the Congo River or the Congo Basin rainforest."]
     }
   },
   {
@@ -603,13 +603,13 @@ export const poiExtraDrcongoNatureV2: POI[] = [
       de: "Der Tshuapa-Fluss entw?ssert gro?e Regenwaldgebiete im Nordwesten der DR Kongo und ist einer der wichtigsten Zufl?sse des Kongo in der Cuvette Centrale. Sein Lauf f?hrt durch sehr d?nn besiedelte Wald- und Sumpfr?ume, in denen Wasserstand und Jahreszeiten das Leben stark bestimmen. Weil Stra?en selten sind, bleiben viele Orte nur per Boot erreichbar. Genau das macht den Fluss zu einem guten Beispiel f?r Mobilit?t, Isolation und ?kologische Abh?ngigkeiten im tropischen Tiefland. Geografie K7/K8 ? Fl?sse in Regenwaldlandschaften.",
       hu: "Ez egy részletes, K7-K8 szintű leírás a(z) tshuapa-river-nature-v2 területről, amely kiemeli annak jelentőségét a kongói földrajzi és történelmi tantervben.",
       ro: "Descriere unică pentru tshuapa-river-nature-v2 în contextul Republicii Democrate Congo. Geografie K7 — sisteme fluviale și centre urbane.",
-      en: ""
+      en: "Tshuapa River is a remarkable feature of the geography and culture of the Democratic Republic of the Congo. An important river in the rainforest area. Rainforest river. Tributary of the Congo. Large drainage basin. This natural area reflects the scenic diversity of the DR Congo, from the dense Congo Basin rainforest to the eastern volcanoes and the great lakes. Like many notable places in the DR Congo, it combines regional character with wider significance — from the Congo River to the East African mountains. Thus, this place contributes to the diverse profile of the DR Congo, a central African country of extraordinary natural wealth and cultural depth."
     },
     factsAdvanced: {
       de: ["Entw?ssert weite Regenwaldgebiete im Nordwesten.", "Wichtiger Zufluss des Kongo in der Cuvette Centrale.", "Viele Orte sind nur per Boot erreichbar.", "L?uft durch Wald-, S?mpfe- und Niedrigsiedlungsr?ume.", "Stark saisonabh?ngige Wasserf?hrung.", "Typisches Beispiel f?r Isolation im Tropenwald."],
       hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
       ro: ["Fapt 1 pentru tshuapa-river-nature-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
-      en: []
+      en: ["Rainforest river.", "Tributary of the Congo.", "Large drainage basin.", "Water-rich.", "An important river in the rainforest area.", "Located within the Democratic Republic of the Congo in Central Africa.", "Connected to the Congo River or the Congo Basin rainforest."]
     }
   },
   {
@@ -629,13 +629,13 @@ export const poiExtraDrcongoNatureV2: POI[] = [
       de: "Der Mwerusee liegt im Grenzgebiet zwischen der DR Kongo und Sambia und wird vor allem vom Luapula-Fluss gespeist. Der See ist fischreich, liegt in einer langen Senke und geh?rt zu den wichtigen Wasser- und Lebensr?umen des s?d?stlichen Kongobeckens. In seiner Umgebung verbinden sich Fischerei, Kleinsiedlungen und grenz?berschreitende Mobilit?t. F?r den Geografieunterricht ist er interessant, weil sich an ihm Zufluss, Abfluss, Grenzlage und Nutzung sehr gut erkl?ren lassen. Geografie K7/K8 ? Grenzseen und Wasserwirtschaft.",
       hu: "Ez egy részletes, K7-K8 szintű leírás a(z) mweru-lake-nature-v2 területről, amely kiemeli annak jelentőségét a kongói földrajzi és történelmi tantervben.",
       ro: "Descriere unică pentru mweru-lake-nature-v2 în contextul Republicii Democrate Congo. Geografie K7 — sisteme fluviale și centre urbane.",
-      en: ""
+      en: "Lake Mweru is a remarkable feature of the geography and culture of the Democratic Republic of the Congo. A large lake on the border with Zambia. Large lake. Fish-rich. Border lake. This natural area reflects the scenic diversity of the DR Congo, from the dense Congo Basin rainforest to the eastern volcanoes and the great lakes. Like many notable places in the DR Congo, it combines regional character with wider significance — from the Congo River to the East African mountains. Thus, this place contributes to the diverse profile of the DR Congo, a central African country of extraordinary natural wealth and cultural depth."
     },
     factsAdvanced: {
       de: ["Grenzsee zwischen der DR Kongo und Sambia.", "Hauptzufluss ist der Luapula-Fluss.", "Wichtiger Fischereiraum des s?d?stlichen Kongobeckens.", "Liegt in einer langen tektonischen Senke.", "Bedeutend f?r lokale Siedlungen und Mobilit?t.", "Gut geeignet f?r Themen zu Zu- und Abfluss von Seen."],
       hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
       ro: ["Fapt 1 pentru mweru-lake-nature-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
-      en: []
+      en: ["Large lake.", "Fish-rich.", "Border lake.", "Beautiful nature.", "A large lake on the border with Zambia.", "Located within the Democratic Republic of the Congo in Central Africa.", "Connected to the Congo River or the Congo Basin rainforest."]
     }
   },
   {
@@ -655,13 +655,13 @@ export const poiExtraDrcongoNatureV2: POI[] = [
       de: "Der Sankuru geh?rt zu den gro?en Zufl?ssen des Kasai und durchzieht weite Teile des zentralen Kongobeckens. Sein Lauf ist lang, m?andrierend und von Regenwald, S?mpfen und saisonal ?berfluteten Fl?chen begleitet. F?r viele Orte entlang des Flusses ist er die wichtigste Verbindung nach au?en, weil Stra?en in der Regenzeit oft unzuverl?ssig sind. Gleichzeitig bildet er einen ?kologischen Korridor f?r Fische, V?gel und Uferwald. Geografie K7 ? Fl?sse als Verkehrs- und Lebensr?ume.",
       hu: "Ez egy részletes, K7-K8 szintű leírás a(z) sankuru-river-nature-v2 területről, amely kiemeli annak jelentőségét a kongói földrajzi és történelmi tantervben.",
       ro: "Descriere unică pentru sankuru-river-nature-v2 în contextul Republicii Democrate Congo. Geografie K7 — sisteme fluviale și centre urbane.",
-      en: ""
+      en: "Sankuru River is a remarkable feature of the geography and culture of the Democratic Republic of the Congo. An important tributary of the Kasai River. Tributary of the Kasai. Water-rich. Navigation. This natural area reflects the scenic diversity of the DR Congo, from the dense Congo Basin rainforest to the eastern volcanoes and the great lakes. Like many notable places in the DR Congo, it combines regional character with wider significance — from the Congo River to the East African mountains. Thus, this place contributes to the diverse profile of the DR Congo, a central African country of extraordinary natural wealth and cultural depth."
     },
     factsAdvanced: {
       de: ["Gro?er Nebenfluss des Kasai.", "Durchzieht das zentrale Kongobecken.", "M?andrierender Lauf mit ?berschwemmungsfl?chen.", "Wichtige Verbindung f?r Orte entlang des Flusses.", "?kologischer Korridor f?r Tiere und Uferwald.", "Transportweg in einer Region mit wenig Stra?en."],
       hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
       ro: ["Fapt 1 pentru sankuru-river-nature-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
-      en: []
+      en: ["Tributary of the Kasai.", "Water-rich.", "Navigation.", "Important waterway.", "An important tributary of the Kasai River.", "Located within the Democratic Republic of the Congo in Central Africa.", "Connected to the Congo River or the Congo Basin rainforest."]
     }
   },
   {
@@ -681,13 +681,13 @@ export const poiExtraDrcongoNatureV2: POI[] = [
       de: "Der Kwilu-Fluss ist ein wichtiger Wasserlauf im Westen der DR Kongo und pr?gt die gleichnamige Provinz ebenso wie das l?ndliche Leben entlang seiner Ufer. Er sammelt Regenwasser aus einem Mosaik von Savanne, Galeriewald und Ackerfl?chen, sodass sein Abfluss im Jahreslauf deutlich schwankt. F?r M?rkte, Landwirtschaft und lokale Wege ist er von gro?er Bedeutung. Im Unterricht l?sst sich an ihm gut zeigen, wie Fl?sse in tropischen R?umen zugleich Transport, Ern?hrung und Landnutzung beeinflussen. Geografie K7 ? Flusssysteme und Agrarr?ume.",
       hu: "Ez egy részletes, K7-K8 szintű leírás a(z) kwilu-river-nature-v2 területről, amely kiemeli annak jelentőségét a kongói földrajzi és történelmi tantervben.",
       ro: "Descriere unică pentru kwilu-river-nature-v2 în contextul Republicii Democrate Congo. Geografie K7 — sisteme fluviale și centre urbane.",
-      en: ""
+      en: "Kwilu River is a remarkable feature of the geography and culture of the Democratic Republic of the Congo. A tributary of the Kwango River. Tributary of the Kwango. Water-rich. Important river course. This natural area reflects the scenic diversity of the DR Congo, from the dense Congo Basin rainforest to the eastern volcanoes and the great lakes. Like many notable places in the DR Congo, it combines regional character with wider significance — from the Congo River to the East African mountains. Thus, this place contributes to the diverse profile of the DR Congo, a central African country of extraordinary natural wealth and cultural depth."
     },
     factsAdvanced: {
       de: ["Wichtiger Fluss im Westen der DR Kongo.", "Namensgeber der Kwilu-Provinz.", "Verbindet Savanne, Galeriewald und Ackerfl?chen.", "Abfluss schwankt deutlich im Jahreslauf.", "Bedeutend f?r M?rkte und Landwirtschaft.", "Gut geeignet f?r Themen zu Agrarr?umen und Wasser."],
       hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
       ro: ["Fapt 1 pentru kwilu-river-nature-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
-      en: []
+      en: ["Tributary of the Kwango.", "Water-rich.", "Important river course.", "Rainforest region.", "A tributary of the Kwango River.", "Located within the Democratic Republic of the Congo in Central Africa.", "Connected to the Congo River or the Congo Basin rainforest."]
     }
   },
   {
@@ -707,13 +707,13 @@ export const poiExtraDrcongoNatureV2: POI[] = [
       de: "Der Sangha ist ein grenz?berschreitender Fluss im nordwestlichen Kongobecken und markiert Abschnitte zwischen der DR Kongo, der Republik Kongo und Kamerun. Sein Einzugsgebiet geh?rt zu den artenreichsten Waldregionen Zentralafrikas. F?r Naturschutz und Forschung ist er deshalb wichtig, weil hier W?lder, S?mpfe und Flusslandschaften eng verzahnt sind. Zugleich dient der Fluss als Verkehrsader f?r kleinere Orte und Waldsiedlungen. Geografie K8 ? Grenzfl?sse und Regenwald?kosysteme.",
       hu: "Ez egy részletes, K7-K8 szintű leírás a(z) sangha-river-nature-v2 területről, amely kiemeli annak jelentőségét a kongói földrajzi és történelmi tantervben.",
       ro: "Descriere unică pentru sangha-river-nature-v2 în contextul Republicii Democrate Congo. Geografie K7 — sisteme fluviale și centre urbane.",
-      en: ""
+      en: "Sangha River is a remarkable feature of the geography and culture of the Democratic Republic of the Congo. A river marking the border between Congo-Brazzaville and the DRC. Border river. Tributary of the Congo. Water-rich. This natural area reflects the scenic diversity of the DR Congo, from the dense Congo Basin rainforest to the eastern volcanoes and the great lakes. Like many notable places in the DR Congo, it combines regional character with wider significance — from the Congo River to the East African mountains. Thus, this place contributes to the diverse profile of the DR Congo, a central African country of extraordinary natural wealth and cultural depth."
     },
     factsAdvanced: {
       de: ["Grenzfluss zwischen der DR Kongo, der Republik Kongo und Kamerun.", "Wichtiger Nebenfluss des Kongo.", "Einzugsgebiet in einer sehr artenreichen Waldregion.", "Wald-, Sumpf- und Flusslandschaften eng verflochten.", "Bedeutend f?r kleinere Orte und Waldsiedlungen.", "Gut geeignet f?r Themen zu Schutz und Grenzr?umen."],
       hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
       ro: ["Fapt 1 pentru sangha-river-nature-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
-      en: []
+      en: ["Border river.", "Tributary of the Congo.", "Water-rich.", "Rainforest.", "A river marking the border between Congo-Brazzaville and the DRC.", "Located within the Democratic Republic of the Congo in Central Africa.", "Connected to the Congo River or the Congo Basin rainforest."]
     }
   },
   {
@@ -733,13 +733,13 @@ export const poiExtraDrcongoNatureV2: POI[] = [
       de: "Der Luapula verbindet die Feuchtgebiete von Bangweulu mit dem Mwerusee und bildet auf weiten Strecken die nat?rliche Grenze zwischen der DR Kongo und Sambia. Er ist ein klassischer Tropenfluss: viel Wasser, weite Auen, saisonale ?berschwemmungen und eine hohe Bedeutung f?r Fischerei und kleine Siedlungen. Gleichzeitig zeigt er, wie eng Flusslauf, Grenzbildung und Alltagswirtschaft im s?d?stlichen Afrika zusammenh?ngen. Geografie K7/K8 ? Grenzfl?sse, Seenketten und Feuchtgebiete.",
       hu: "Ez egy részletes, K7-K8 szintű leírás a(z) luapula-river-nature-v2 területről, amely kiemeli annak jelentőségét a kongói földrajzi és történelmi tantervben.",
       ro: "Descriere unică pentru luapula-river-nature-v2 în contextul Republicii Democrate Congo. Geografie K7 — sisteme fluviale și centre urbane.",
-      en: ""
+      en: "Luapula River is a remarkable feature of the geography and culture of the Democratic Republic of the Congo. A river on the border with Zambia. Border river. Important drainage. Water-rich. This natural area reflects the scenic diversity of the DR Congo, from the dense Congo Basin rainforest to the eastern volcanoes and the great lakes. Like many notable places in the DR Congo, it combines regional character with wider significance — from the Congo River to the East African mountains. Thus, this place contributes to the diverse profile of the DR Congo, a central African country of extraordinary natural wealth and cultural depth."
     },
     factsAdvanced: {
       de: ["Nat?rliche Grenze zwischen der DR Kongo und Sambia.", "Verbindet Bangweulu-Feuchtgebiete mit dem Mwerusee.", "Starke saisonale ?berschwemmungen und Auen.", "Wichtiger Raum f?r Fischerei und Kleinsiedlungen.", "Teil der Seen- und Flusskette im s?d?stlichen Afrika.", "Klassisches Beispiel f?r einen tropischen Grenzfluss."],
       hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
       ro: ["Fapt 1 pentru luapula-river-nature-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
-      en: []
+      en: ["Border river.", "Important drainage.", "Water-rich.", "Flows through lakes.", "A river on the border with Zambia.", "Located within the Democratic Republic of the Congo in Central Africa.", "Connected to the Congo River or the Congo Basin rainforest."]
     }
   },
   {
@@ -759,13 +759,13 @@ export const poiExtraDrcongoNatureV2: POI[] = [
       de: "Der Ituri-Fluss durchzieht das nord?stliche Regenwaldgebiet der DR Kongo und gibt dem Ituri-Wald seinen Namen mit. In seinem Umfeld liegen dichter Prim?rwald, kleine Siedlungen und Wege, die oft nur in der Trockenzeit zuverl?ssig nutzbar sind. Der Fluss ist Teil eines hochkomplexen ?kosystems, in dem Wasser, Wald und traditionelle Nutzung miteinander verflochten sind. F?r Biodiversit?t und Alltagsleben ist er deshalb weit mehr als nur ein Nebenfluss. Geografie K7 ? Regenwaldfl?sse und ?kosysteme.",
       hu: "Ez egy részletes, K7-K8 szintű leírás a(z) ituri-river-nature-v2 területről, amely kiemeli annak jelentőségét a kongói földrajzi és történelmi tantervben.",
       ro: "Descriere unică pentru ituri-river-nature-v2 în contextul Republicii Democrate Congo. Geografie K7 — sisteme fluviale și centre urbane.",
-      en: ""
+      en: "Ituri River is a remarkable feature of the geography and culture of the Democratic Republic of the Congo. A river in the Ituri Rainforest. Rainforest river. Water-rich. Important ecosystem. This natural area reflects the scenic diversity of the DR Congo, from the dense Congo Basin rainforest to the eastern volcanoes and the great lakes. Like many notable places in the DR Congo, it combines regional character with wider significance — from the Congo River to the East African mountains. Thus, this place contributes to the diverse profile of the DR Congo, a central African country of extraordinary natural wealth and cultural depth."
     },
     factsAdvanced: {
       de: ["Namensgebender Fluss des Ituri-Waldes.", "Durchzieht den nord?stlichen Regenwald der DR Kongo.", "Umfeld aus Prim?rwald und kleinen Siedlungen.", "Wege sind oft nur saisonal zuverl?ssig nutzbar.", "Wichtiger Teil eines komplexen Regenwald?kosystems.", "Mehr als nur ein Nebenfluss: Lebensader f?r lokale R?ume."],
       hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
       ro: ["Fapt 1 pentru ituri-river-nature-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
-      en: []
+      en: ["Rainforest river.", "Water-rich.", "Important ecosystem.", "Part of the Congo system.", "A river in the Ituri Rainforest.", "Located within the Democratic Republic of the Congo in Central Africa.", "Connected to the Congo River or the Congo Basin rainforest."]
     }
   },
   {
@@ -785,13 +785,13 @@ export const poiExtraDrcongoNatureV2: POI[] = [
       de: "Der Wamba-Fluss ist ein kleinerer, aber regional wichtiger Wasserlauf im s?dlichen Randbereich des Kongobeckens. Er zeigt, wie auch Nebenfl?sse mit kurzerem Lauf gro?e Bedeutung f?r Waldgebiete, Regenzeiten und lokale Wege haben k?nnen. Entlang seines Verlaufs dominieren Wald, Feuchtfl?chen und verstreute Siedlungen, die stark von der Wasserf?hrung abh?ngen. F?r den Unterricht ist er ein guter Einstieg in das Thema Nebenfl?sse und kleinr?umige Hydrographie. Geografie K7 ? Lokale Flusssysteme im Tropenraum.",
       hu: "Ez egy részletes, K7-K8 szintű leírás a(z) wamba-river-nature-v2 területről, amely kiemeli annak jelentőségét a kongói földrajzi és történelmi tantervben.",
       ro: "Descriere unică pentru wamba-river-nature-v2 în contextul Republicii Democrate Congo. Geografie K7 — sisteme fluviale și centre urbane.",
-      en: ""
+      en: "Wamba River is a remarkable feature of the geography and culture of the Democratic Republic of the Congo. A tributary of the Kwango River. Tributary of the Kwango. Water-rich. Flows through rainforest. This natural area reflects the scenic diversity of the DR Congo, from the dense Congo Basin rainforest to the eastern volcanoes and the great lakes. Like many notable places in the DR Congo, it combines regional character with wider significance — from the Congo River to the East African mountains. Thus, this place contributes to the diverse profile of the DR Congo, a central African country of extraordinary natural wealth and cultural depth."
     },
     factsAdvanced: {
       de: ["Kleinerer Nebenfluss im Randbereich des Kongobeckens.", "Regional wichtig f?r Waldgebiete und Regenzeiten.", "Entlang des Flusses liegen Feuchtfl?chen und Siedlungen.", "Wasserf?hrung beeinflusst den Alltag stark.", "Gut als Beispiel f?r kleinr?umige Hydrographie.", "Zeigt die Bedeutung kleiner Fl?sse im Tropenraum."],
       hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
       ro: ["Fapt 1 pentru wamba-river-nature-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
-      en: []
+      en: ["Tributary of the Kwango.", "Water-rich.", "Flows through rainforest.", "Short course.", "A tributary of the Kwango River.", "Located within the Democratic Republic of the Congo in Central Africa.", "Connected to the Congo River or the Congo Basin rainforest."]
     }
   },
   {
@@ -811,13 +811,13 @@ export const poiExtraDrcongoNatureV2: POI[] = [
       de: "Der Lufira ist ein wichtiger Nebenfluss des Lualaba und damit Teil des riesigen Kongo-Flusssystems. Sein Lauf f?hrt durch das s?d?stliche Hochland der DR Kongo und durch R?ume, in denen Wasser, Bergbau und Landwirtschaft eng nebeneinanderliegen. Besonders bekannt ist der Fluss im Zusammenhang mit den Feuchtgebieten rund um Upemba und mit technischen Eingriffen in den Wasserhaushalt. Er eignet sich gut, um den Zusammenhang zwischen Relief, Energiegewinnung und Flussregime zu erkl?ren. Geografie K8 ? Fl?sse, Staud?mme und Rohstoffr?ume.",
       hu: "Ez egy részletes, K7-K8 szintű leírás a(z) lufira-river-nature-v2 területről, amely kiemeli annak jelentőségét a kongói földrajzi és történelmi tantervben.",
       ro: "Descriere unică pentru lufira-river-nature-v2 în contextul Republicii Democrate Congo. Geografie K7 — sisteme fluviale și centre urbane.",
-      en: ""
+      en: "Lufira River is a remarkable feature of the geography and culture of the Democratic Republic of the Congo. A tributary of the Lualaba River. Tributary of the Lualaba. Water-rich. Flows through a valley. This natural area reflects the scenic diversity of the DR Congo, from the dense Congo Basin rainforest to the eastern volcanoes and the great lakes. Like many notable places in the DR Congo, it combines regional character with wider significance — from the Congo River to the East African mountains. Thus, this place contributes to the diverse profile of the DR Congo, a central African country of extraordinary natural wealth and cultural depth."
     },
     factsAdvanced: {
       de: ["Wichtiger Nebenfluss des Lualaba.", "L?uft durch das s?d?stliche Hochland der DR Kongo.", "Verkn?pft Feuchtgebiete, Landwirtschaft und Bergbau.", "Steht in enger Beziehung zu den Upemba-R?umen.", "Gut geeignet f?r Themen zu Wasserhaushalt und Energie.", "Teil des gro?en Kongo-Flusssystems."],
       hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
       ro: ["Fapt 1 pentru lufira-river-nature-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
-      en: []
+      en: ["Tributary of the Lualaba.", "Water-rich.", "Flows through a valley.", "Important waterway.", "A tributary of the Lualaba River.", "Located within the Democratic Republic of the Congo in Central Africa.", "Connected to the Congo River or the Congo Basin rainforest."]
     }
   },
   {
@@ -837,13 +837,13 @@ export const poiExtraDrcongoNatureV2: POI[] = [
       de: "Der zweite Luapula-Eintrag kann den Fluss als Raum der ?berg?nge zeigen: vom Bangweulu-System bis zum Mwerusee, von den Feuchtgebieten bis zur Grenzlinie. Hier wird sichtbar, dass ein Fluss nicht nur Wasser transportiert, sondern auch Fischerei, Bewegung und politische Grenzen organisiert. Die Uferzonen ver?ndern sich je nach Jahreszeit, und genau das macht den Luapula zu einem guten Beispiel f?r die Dynamik tropischer Wasserlandschaften. Geografie K7 ? Seenketten und Grenzr?ume.",
       hu: "Ez egy részletes, K7-K8 szintű leírás a(z) luapula-river-2-nature-v2 területről, amely kiemeli annak jelentőségét a kongói földrajzi és történelmi tantervben.",
       ro: "Descriere unică pentru luapula-river-2-nature-v2 în contextul Republicii Democrate Congo. Geografie K7 — sisteme fluviale și centre urbane.",
-      en: ""
+      en: "Luapula River is a remarkable feature of the geography and culture of the Democratic Republic of the Congo. An important river in the southeastern region. Tributary. Important drainage. Water-rich. This natural area reflects the scenic diversity of the DR Congo, from the dense Congo Basin rainforest to the eastern volcanoes and the great lakes. Like many notable places in the DR Congo, it combines regional character with wider significance — from the Congo River to the East African mountains. Thus, this place contributes to the diverse profile of the DR Congo, a central African country of extraordinary natural wealth and cultural depth."
     },
     factsAdvanced: {
       de: ["Teil desselben Luapula-Flusssystems wie der Haupteintrag.", "Verbindet Bangweulu-Feuchtgebiete und Mwerusee.", "Pr?gt Grenzr?ume zwischen der DR Kongo und Sambia.", "Saisonale Uferzonen und ?berschwemmungsfl?chen.", "Wichtige Rolle f?r Fischerei und Bewegung.", "Gutes Beispiel f?r Dynamik tropischer Wasserlandschaften."],
       hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
       ro: ["Fapt 1 pentru luapula-river-2-nature-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
-      en: []
+      en: ["Tributary.", "Important drainage.", "Water-rich.", "Border river.", "An important river in the southeastern region.", "Located within the Democratic Republic of the Congo in Central Africa.", "Connected to the Congo River or the Congo Basin rainforest."]
     }
   },
   {
@@ -863,13 +863,13 @@ export const poiExtraDrcongoNatureV2: POI[] = [
       de: "Der Lukenie ist ein weit geschwungener Regenwaldfluss im zentralen Kongobecken und ein Nebenfluss des Kasai. Seine Ufer liegen in einem Raum, in dem D?rfer oft nur ?ber Wasserwege miteinander verbunden sind. Der Fluss schl?ngelt sich durch dichte W?lder, Sumpfgebiete und flache Alluviallandschaften, die im Jahreslauf stark auf Regen und Hochwasser reagieren. Gerade diese Mischung aus Isolation und Wasserreichtum macht den Lukenie f?r die Geografie des Tropenraums so aussagekr?ftig. Geografie K7 ? Regenwaldfl?sse und Siedlungsr?ume.",
       hu: "Ez egy részletes, K7-K8 szintű leírás a(z) lukenie-river-nature-v2 területről, amely kiemeli annak jelentőségét a kongói földrajzi és történelmi tantervben.",
       ro: "Descriere unică pentru lukenie-river-nature-v2 în contextul Republicii Democrate Congo. Geografie K7 — sisteme fluviale și centre urbane.",
-      en: ""
+      en: "Lukenie River is a remarkable feature of the geography and culture of the Democratic Republic of the Congo. A major tributary of the Kasai River. Tributary of the Kasai. Flows through rainforest. Navigation. This natural area reflects the scenic diversity of the DR Congo, from the dense Congo Basin rainforest to the eastern volcanoes and the great lakes. Like many notable places in the DR Congo, it combines regional character with wider significance — from the Congo River to the East African mountains. Thus, this place contributes to the diverse profile of the DR Congo, a central African country of extraordinary natural wealth and cultural depth."
     },
     factsAdvanced: {
       de: ["Weit geschwungener Fluss im zentralen Kongobecken.", "Nebenfluss des Kasai.", "D?rfer sind oft nur per Wasserweg verbunden.", "L?uft durch W?lder, S?mpfe und Alluvialfl?chen.", "Stark von Regen und Hochwasser gepr?gt.", "Gutes Beispiel f?r Isolation im tropischen Tiefland."],
       hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
       ro: ["Fapt 1 pentru lukenie-river-nature-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
-      en: []
+      en: ["Tributary of the Kasai.", "Flows through rainforest.", "Navigation.", "Large basin.", "A major tributary of the Kasai River.", "Located within the Democratic Republic of the Congo in Central Africa.", "Connected to the Congo River or the Congo Basin rainforest."]
     }
   }
 ];
