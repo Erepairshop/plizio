@@ -1,6 +1,8 @@
 // @ts-nocheck
 import { POI } from "./poi";
 import { luxembourgExtraCities } from "./poiExtraLuxembourgCities";
+import { luxembourgExtraHistory } from "./poiExtraLuxembourgHistory";
+import { luxembourgExtraOther } from "./poiExtraLuxembourgOther";
 
 export const luxembourgAllPoi: POI[] = [
   {
