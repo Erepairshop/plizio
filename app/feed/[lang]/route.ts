@@ -30,8 +30,9 @@ const FEED_DESC: Record<Lang, string> = {
   en: "Discover historical sites, natural wonders and cultural treasures across Europe.",
 };
 
-function escape(s: string): string {
-  return s
+function escape(s: unknown): string {
+  const str = typeof s === "string" ? s : (s == null ? "" : String(s));
+  return str
     .replace(/&/g, "&amp;")
     .replace(/</g, "&lt;")
     .replace(/>/g, "&gt;")
