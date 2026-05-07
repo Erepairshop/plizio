@@ -19,7 +19,20 @@ export const poiExtraHondurasLifeV2: POI[] = [
       hu: ["Nepszeru turazohely.", "Fontos vizforrasokat ved.", "A fovaros kozeleben van."],
       ro: ["Destinatie populara de drumetie.", "Protejeaza izvoare de apa.", "Aproape de capitala."],
       en: ["Popular hiking area.", "Protects key water sources.", "Close to the capital."]
-    }, image: "/poi-images/la-tigra-national-park-life-v2.webp"},
+    }, image: "/poi-images/la-tigra-national-park-life-v2.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "A La Tigra Nemzeti Park (Parque Nacional La Tigra) volt Honduras első hivatalosan kijelölt nemzeti parkja 1980-ban, és a mai napig az ország egyik legfontosabb ökológiai kincse. Francisco Morazán megyében, mindössze 15 kilométerre Tegucigalpától helyezkedik el. A park egy 2200 méteres magasságot is elérő, buja trópusi felhőerdő (bosque nublado), amely létfontosságú szerepet játszik a főváros ivóvízellátásában (a vízigény közel 30%-át adja). A rendkívül gazdag biodiverzitás otthont ad ocelotoknak, pumáknak, tukánoknak, és a ritka, színpompás quetzál madárnak is. A park kiterjedt, jól karbantartott túraútvonal-hálózattal rendelkezik, amelyek a sűrű, epifitákkal és páfrányokkal borított erdei ösvényeken régi spanyol bányászati romokhoz és rejtett vízesésekhez vezetnek. Élővilág K8 — felhőerdők.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: ["Honduras elsőként (1980-ban) alapított hivatalos nemzeti parkja.", "Tegucigalpától csupán 15 km-re fekvő magaslati trópusi felhőerdő.", "A park biztosítja a főváros ivóvízellátásának közel 30%-át.", "Gazdag élővilága van, többek között quetzál, puma és ocelot él itt.", "Jól kiépített, történelmi bányászútvonalakat követő túraösvényei vannak.", "A sűrű erdőt hatalmas páfrányok, mohák és orchideák (epifiták) borítják.", "Népszerű ökoturisztikai célpont a fővárosiak és a külföldiek számára."],
+      ro: [],
+      en: []
+    }
+  },
   {
     id: "uyuca-biological-reserve-life-v2",
     type: "forest",
@@ -37,7 +50,20 @@ export const poiExtraHondurasLifeV2: POI[] = [
       hu: ["Koderdo es fenyves.", "Fontos viztarolo terulet.", "Kedvelt a kutatok koreben."],
       ro: ["Padure de ceata si pini.", "Rezervor important de apa.", "Populara printre cercetatori."],
       en: ["Cloud forest and pine woods.", "Important water reservoir.", "Popular with researchers."]
-    }, image: "/poi-images/uyuca-biological-reserve-life-v2.webp"},
+    }, image: "/poi-images/uyuca-biological-reserve-life-v2.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "Az Uyuca Biológiai Rezervátum (Reserva Biológica Uyuca) egy szigorúan védett trópusi hegyi felhőerdő Francisco Morazán megyében, a Zamorano Pánamerikai Mezőgazdasági Iskola (EAP Zamorano) felügyelete alatt. A több mint 2000 méteres magaslaton fekvő erdő szinte állandóan ködfelhőkbe burkolózik, ami egyedülálló, állandóan nedves mikroklímát teremt. A rezervátum elsősorban tudományos és oktatási kutatások célpontja: kivételes az endémikus növényfajok – különösen a broméliák és orchideák –, valamint a kétéltűek sokfélesége. Az Uyuca sűrű dzsungele menedéket nyújt a ritka szarvasoknak, lajhároknak és a színpompás trópusi madaraknak. Bár a turizmus szigorúan szabályozott a törékeny ökoszisztéma miatt, az egyetem által szervezett vezetett túrák páratlan betekintést engednek a közép-amerikai hegyvidéki dzsungelek intakt élővilágába. Élővilág K8 — tudományos rezervátumok.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: ["Szigorúan védett felhőerdő Francisco Morazán megyében (2000+ méter).", "A neves Zamorano Mezőgazdasági Iskola kezeli és kutatja.", "Az állandó köd miatt rendkívül gazdag orchideákban és broméliákban.", "Elsődlegesen tudományos és ökológiai oktatási célokat szolgál.", "Ritka kétéltűek, trópusi madarak és kisebb emlősök élőhelye.", "A látogatás a törékeny ökoszisztéma védelmében szigorúan korlátozott.", "Kulcsszerepet játszik a régió mikroklímájának és vízháztartásának fenntartásában."],
+      ro: [],
+      en: []
+    }
+  },
   {
     id: "cerro-azul-meambar-life-v2",
     type: "forest",
@@ -55,7 +81,20 @@ export const poiExtraHondurasLifeV2: POI[] = [
       hu: ["Huvos levego es kilatas.", "Turazas es madarmegfigyeles.", "A nemzeti park resze."],
       ro: ["Aer racoros si privelisti.", "Drumetii si birdwatching.", "Parte din parc national."],
       en: ["Cool air and views.", "Hiking and birdwatching.", "Part of a national park."]
-    }, image: "/poi-images/cerro-azul-meambar-life-v2.webp"},
+    }, image: "/poi-images/cerro-azul-meambar-life-v2.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "A Cerro Azul Meámbar Nemzeti Park (PANACAM) egy lenyűgöző biodiverzitású felhő- és esőerdő Comayagua és Cortés megyék határán, közvetlenül a Yojoa-tó keleti partjának szomszédságában. Nevét (Kék Hegy) a távolról kéknek tűnő, magasba nyúló hegycsúcsairól kapta, amelyek folyamatosan ködfelhőkbe burkolóznak. A park Honduras egyik legjobban kiépített ökoturisztikai infrastruktúrájával rendelkezik, több kilométernyi gondozott túraösvénnyel, amelyek kristálytiszta vízesésekhez és kilátópontokhoz vezetnek. Az erdő sűrű lombkoronája alatt számtalan ritka faj él, köztük tukánok, motmotok, ocelotok és többféle majomfaj. A PANACAM nemcsak a turisták számára fontos, hanem ökológiailag is: a hegyvidéki források táplálják a Yojoa-tavat, és biztosítják a közeli El Cajón vízerőmű vízgyűjtő területének stabilitását. Élővilág K8 — nemzeti parkok.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: ["A Yojoa-tó keleti oldalán magasodó nemzeti park, Comayagua és Cortés megyékben.", "Nevét ('Kék Hegy') a távolból kékes színűnek ható hegycsúcsokról kapta.", "Kiváló ökoturisztikai infrastruktúrával és túraösvényekkel rendelkezik.", "A park vízesései és forrásai táplálják a Yojoa-tavat és az El Cajón gátat.", "Rendkívül gazdag a madárvilága, ideális célpont madármegfigyelőknek.", "A területen esőerdő és magaslati trópusi felhőerdő is található.", "A látogatóközpont interaktív kiállításokkal mutatja be a helyi ökoszisztémát."],
+      ro: [],
+      en: []
+    }
+  },
   {
     id: "celaque-national-park-life-v2",
     type: "forest",
@@ -73,7 +112,20 @@ export const poiExtraHondurasLifeV2: POI[] = [
       hu: ["Nagyon fajgazdag.", "Sok folyo forrasterulete.", "Magas csucsok es mely vorgyek."],
       ro: ["Foarte bogat in specii.", "Sursa pentru multe rauri.", "Varfuri inalte si vai adanci."],
       en: ["Very species-rich.", "Source of many rivers.", "High peaks and deep valleys."]
-    }, image: "/poi-images/celaque-national-park-life-v2.webp"},
+    }, image: "/poi-images/celaque-national-park-life-v2.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "A Celaque Nemzeti Park (Parque Nacional Montaña de Celaque) Honduras legmagasabb hegyvonulatát, a 2849 méter magas Cerro Las Minast foglalja magában Lempira megyében, Gracias városa felett. A 'Celaque' szó lenca nyelven „vizek dobozát” jelenti, ami hűen tükrözi a park ökológiai funkcióját: a hegy sűrű felhőerdei több tucat folyót és patakot táplálnak, amelyek a nyugati országrész vízellátását biztosítják. A sziklás, rendkívül nehezen megmászható hegyvidék a közép-amerikai flóra és fauna egyik legfontosabb menedéke. Itt él a puma, a jaguár, az ocelot, és itt található Honduras endémikus szalamandráinak legnagyobb populációja. A park hatalmas kiterjedésű, sűrű broméliákkal, mohákkal és páfrányfákkal borított, misztikus hangulatú esőerdei igazi kihívást jelentenek az ökoturisták számára. Élővilág K8 — legmagasabb hegycsúcs.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: ["Itt található Honduras legmagasabb pontja, a 2849 méteres Cerro Las Minas.", "A Lempira megyei Gracias városa mellett helyezkedik el.", "Nevének jelentése a lenca nyelvben: 'vizek doboza'.", "Több mint egy tucat folyó forrásvidéke, kritikus a régió vízellátásában.", "Közép-Amerika egyik legérintetlenebb és legsűrűbb hegyi felhőerdeje.", "Jaguárok, pumák és számos endémikus kétéltű (szalamandra) élőhelye.", "A hegymászók számára az ország egyik legnehezebb, de legszebb terepe."],
+      ro: [],
+      en: []
+    }
+  },
   {
     id: "cusuco-national-park-life-v2",
     type: "forest",
@@ -91,7 +143,20 @@ export const poiExtraHondurasLifeV2: POI[] = [
       hu: ["Sok endemikus faj.", "Kedvelt a biologusok koreben.", "Suru koderdo."],
       ro: ["Multe specii endemice.", "Popular printre biologi.", "Padure de ceata deasa."],
       en: ["Many endemic species.", "Popular with biologists.", "Dense cloud forest."]
-    }, image: "/poi-images/cusuco-national-park-life-v2.webp"},
+    }, image: "/poi-images/cusuco-national-park-life-v2.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "A Cusuco Nemzeti Park (Parque Nacional Cusuco) a San Pedro Sula közelében magasodó Merendón hegység trópusi felhőerdeit védi, Cortés megyében. A park különlegessége a rendkívüli endemizmus, vagyis az itt élő fajok jelentős része a világon sehol máshol nem található meg, beleértve több ritka béka- és szalamandrafajt. Az erdő a 'cusuco', vagyis a helyi quetzál madár és a tapírok menedéke is. Bár a park fantasztikus természeti értékkel bír, és folyamatos nemzetközi kutatások – például az Operation Wallacea expedíciói – helyszíne, egyben az ország egyik legveszélyeztetettebb természetvédelmi területe is. A kávéültetvények illegális terjeszkedése, a fakitermelés és a klímaváltozás (a ködfelhők emelkedése) komoly fenyegetést jelent a park törékeny, nedvességfüggő ökoszisztémájára. Élővilág K8 — veszélyeztetett ökoszisztémák.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: ["A Merendón hegységben, San Pedro Sulától nyugatra található.", "A világ egyik leggazdagabb területe endémikus (csak itt élő) kétéltű fajokban.", "Az 'Operation Wallacea' nemzetközi kutatócsoport állandó bázisa.", "Ritka trópusi madarak (quetzál, tukán) és tapírok otthona.", "Hatalmas, ősi páfrányfák (helechos arborescentes) borítják.", "Folyamatosan fenyegeti az illegális fakitermelés és a kávéfarmok terjeszkedése.", "Hűvös felhőerdei klímája drasztikusan különbözik az alatta lévő forró völgytől."],
+      ro: [],
+      en: []
+    }
+  },
   {
     id: "pico-bonito-national-park-life-v2",
     type: "forest",
@@ -109,7 +174,20 @@ export const poiExtraHondurasLifeV2: POI[] = [
       hu: ["Nepszeru turazashoz.", "Gazdag madarvilag.", "Hegyeket es folyokat egyesit."],
       ro: ["Popular pentru drumetii.", "Fauna de pasari bogata.", "Imbina munti si rauri."],
       en: ["Popular for hiking.", "Rich birdlife.", "Combines mountains and rivers."]
-    }, image: "/poi-images/pico-bonito-national-park-life-v2.webp"},
+    }, image: "/poi-images/pico-bonito-national-park-life-v2.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "A Pico Bonito Nemzeti Park (Parque Nacional Pico Bonito) Atlántida megye, és egyben Honduras északi partvidékének legikonikusabb természeti képződménye. A La Ceiba városa fölé tornyosuló, drámai, 2435 méter magas csúcs a Karib-tenger felől nézve lenyűgöző, áthatolhatatlannak tűnő zöld falként hat. A park egyedülálló domborzata miatt számos klímaövet ölel fel, a trópusi esőerdőtől a magaslati felhőerdőig, ezáltal elképesztő faji diverzitást biztosítva. Itt honos a jaguár, a puma, a tapír és a világ egyik legritkább madara, a hondurasi smaragdkolibri (Amazilia luciae). Számtalan, a hegyből lezúduló sebes vizű folyó – köztük a Cangrejal – szeli át az erdőt, amelyek Közép-Amerika legjobb vadvízi evezős (rafting) helyszínei közé tartoznak. Élővilág K8 — extrém biodiverzitás.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: ["Honduras északi partvidékének, La Ceiba városának szimbóluma.", "Rendkívül meredek hegység, a tengerszintről hirtelen emelkedik 2435 méterre.", "Több klímazónát (trópusi esőerdőtől a felhőerdőig) foglal magában.", "A hondurasi smaragdkolibri, az egyetlen endémikus madárfaj élőhelye.", "Nagytestű emlősök, mint a jaguár, a tapír és a hangyász otthona.", "A parkot átszelő Cangrejal folyó világszínvonalú vadvízi evezős (rafting) helyszín.", "Több tucat feltáratlan vízesést és szurdokot rejt a sűrű dzsungel."],
+      ro: [],
+      en: []
+    }
+  },
   {
     id: "lancetilla-botanical-garden-life-v2",
     type: "forest",
@@ -127,7 +205,20 @@ export const poiExtraHondurasLifeV2: POI[] = [
       hu: ["Palmakorol hires.", "Fontos tanulasi hely.", "Nagyon fajgazdag novenyvilag."],
       ro: ["Faimos pentru palmieri.", "Loc important de invatare.", "Flora foarte bogata."],
       en: ["Famous for palms.", "Important learning site.", "Very rich plant life."]
-    }, image: "/poi-images/lancetilla-botanical-garden-life-v2.webp"},
+    }, image: "/poi-images/lancetilla-botanical-garden-life-v2.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "A Lancetilla Botanikus Kert (Jardín Botánico Lancetilla) Tela városa mellett, Atlántida megyében található, és a világ második legnagyobb, illetve Latin-Amerika legnagyobb trópusi botanikus kertje. Az 1925-ben, William Popenoe amerikai botanikus (a United Fruit Company megbízásából) által alapított intézmény eredetileg egy hatalmas, kísérleti mezőgazdasági kutatóállomás volt. Célja az volt, hogy a világ minden tájáról származó trópusi gyümölcsöket és gazdasági növényeket (pl. ázsiai rambután, afrikai pálma, mahagóni) akklimatizáljon Közép-Amerikában. Ma a 16,8 négyzetkilométeres terület egy csodálatos arborétumot és egy érintetlen biológiai rezervátumot is magában foglal. Kiterjedt bambuszerdei, fafaj-gyűjteményei és a virágok miatt hihetetlenül gazdag madárvilága miatt a kutatók és az ökoturisták zarándokhelye. Élővilág K7 — botanikai kutatások.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: ["A világ második legnagyobb trópusi botanikus kertje Tela városa mellett.", "1925-ben alapította William Popenoe a United Fruit Company megbízásából.", "Eredeti célja a világ trópusi gyümölcseinek (pl. rambután) meghonosítása volt.", "Hatalmas arborétuma ázsiai, afrikai és óceániai növényfajokat is bemutat.", "Az ország egyik legfontosabb ornitológiai (madármegfigyelő) területe.", "Növénytani gyűjteményén túl egy hatalmas, érintetlen erdei rezervátumot is magában foglal.", "Kutatási bázisként szolgál hondurasi és nemzetközi biológusok számára."],
+      ro: [],
+      en: []
+    }
+  },
   {
     id: "jeannette-kawas-national-park-life-v2",
     type: "forest",
@@ -145,7 +236,20 @@ export const poiExtraHondurasLifeV2: POI[] = [
       hu: ["Tela kozeleben.", "Fontos a madaraknak.", "Parti elelothelyeket ved."],
       ro: ["Aproape de Tela.", "Important pentru pasari.", "Protejeaza habitatele de coasta."],
       en: ["Near Tela.", "Important for birds.", "Protects coastal habitats."]
-    }, image: "/poi-images/jeannette-kawas-national-park-life-v2.webp"},
+    }, image: "/poi-images/jeannette-kawas-national-park-life-v2.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "A Punta Sal Nemzeti Park, hivatalos és jelenlegi nevén Parque Nacional Jeannette Kawas, egy páratlan szépségű, tengerparti és vizes élőhely Tela (Atlántida megye) nyugati részén. A park nevét Jeannette Kawas hondurasi környezetvédő tiszteletére kapta, akit 1995-ben gyilkoltak meg, miután hevesen küzdött a park területének pálmaolaj-ültetvényekké és illegális fakitermeléssé történő átalakítása ellen. A rezervátum elképesztő sokszínűséggel bír: találhatók itt fehér homokos, pálmafás karibi strandok, kiterjedt mangroveerdők (Los Micos lagúna), sziklás félszigetek és korallzátonyok. A park otthont ad tengeri teheneknek (manátusz), több tengeri teknősfajnak, bőgőmajmoknak és több száz madárfajnak. A Jeannette Kawas Park Honduras egyik leglátogatottabb ökoturisztikai célpontja, a természetvédelemért hozott áldozat szimbóluma. Élővilág K8 — tengerparti természetvédelem.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: ["Karibi tengerparti és mangroveerdő rezervátum Tela városa mellett.", "Nevét a meggyilkolt környezetvédő aktivistáról, Jeannette Kawasról kapta.", "Korábban Punta Sal Nemzeti Park néven volt ismert.", "Magában foglalja a Los Micos lagúnát, Honduras egyik legnagyobb vizes élőhelyét.", "Tengeri tehenek (manátuszok) és tengeri teknősök kritikus menedékhelye.", "Gyakori konfliktusövezet az illegális afrikai pálma ültetvények terjeszkedése miatt.", "Fehér homokos strandjai a legszebbek közé tartoznak az ország szárazföldi részén."],
+      ro: [],
+      en: []
+    }
+  },
   {
     id: "punta-izopo-national-park-life-v2",
     type: "forest",
@@ -163,7 +267,20 @@ export const poiExtraHondurasLifeV2: POI[] = [
       hu: ["Nepszeru a hajotura.", "Gazdag vizi madarakban.", "A karibi part resze."],
       ro: ["Tururile cu barca sunt populare.", "Bogata in pasari de apa.", "Parte din coasta caraibiana."],
       en: ["Boat tours are popular.", "Rich in waterbirds.", "Part of the Caribbean coast."]
-    }, image: "/poi-images/punta-izopo-national-park-life-v2.webp"},
+    }, image: "/poi-images/punta-izopo-national-park-life-v2.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "A Punta Izopo Nemzeti Park egy vad és érintetlen parti rezervátum, amely Tela városától (Atlántida megye) keletre található, kiegészítve a régió tengerparti ökológiai folyosóját. A park főként sűrű, mocsaras mangroveerdőkből, trópusi dzsungelből és keskeny folyótorkolatokból áll, amelyek a Karib-tengerbe ömlenek. Punta Izopo az ökoturizmus egy csendesebb, intimebb formáját kínálja: a látogatók általában csendes kajakokon (sea kayak) evezve fedezik fel a mangrove csatornákat, miközben bőgőmajmokat, fehérképű kapucinus majmokat, lajhárokat, valamint kajmánokat és színes madarakat, például jégmadarakat figyelhetnek meg a lombkoronában. A terület fontos 'óvoda' a tengeri halak és a rákfélék számára, így a park védelme kulcsfontosságú a helyi garifuna halászközösségek megélhetése szempontjából is. Élővilág K7 — mangroveerdők.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: ["Tela városától keletre fekvő, sűrű mangroveerdőkkel borított nemzeti park.", "A területet leginkább kajakos vagy csónakos ökotúrákon lehet felfedezni.", "Kiváló helyszín a bőgőmajmok és kapucinus majmok megfigyelésére.", "A mocsaras, folyótorkolati környezet otthont ad kajmánoknak is.", "Ökológiai 'óvoda' a tengeri élővilág, különösen a halak és rákok számára.", "Kevésbé látogatott és csendesebb, mint a szomszédos Jeannette Kawas (Punta Sal) park.", "Szorosan kötődik a közeli garifuna falvak (pl. Triunfo de la Cruz) életéhez."],
+      ro: [],
+      en: []
+    }
+  },
   {
     id: "cuero-y-salado-wildlife-refuge-life-v2",
     type: "animal-habitat",
@@ -181,7 +298,20 @@ export const poiExtraHondurasLifeV2: POI[] = [
       hu: ["Fontos a lamantinoknak.", "Hajokazas a csatornakon.", "Nagyon csendes termeszetes terulet."],
       ro: ["Important pentru lamantini.", "Plimbare cu barca pe canale.", "Zona naturala foarte linistita."],
       en: ["Important for manatees.", "Boat rides through canals.", "Very quiet nature zone."]
-    }, image: "/poi-images/cuero-y-salado-wildlife-refuge-life-v2.webp"},
+    }, image: "/poi-images/cuero-y-salado-wildlife-refuge-life-v2.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "A Cuero y Salado Vadvédelmi Rezervátum (Refugio de Vida Silvestre Cuero y Salado) egy különleges, mocsaras, folyótorkolati ökoszisztéma La Ceiba közelében, Atlántida megyében. A rezervátum a Cuero és a Salado folyók találkozásánál fekszik, és kizárólag egy régi, a Standard Fruit Company által hátrahagyott keskeny nyomtávú vasúton (burra) közelíthető meg. Ez az izoláció hozzájárult az élővilág megőrzéséhez. A terület Honduras legfontosabb menedéke a kihalás szélén álló nyugat-indiai tengeri tehén (manátusz) számára, amelyek a nyugodt, tengerrel keveredő brakkvizekben (félsós vizek) táplálkoznak. A mocsárvidéken ezen kívül krokodilok, majmok és rengeteg vízimadár, például gémfélék élnek. Az ökoturizmust szigorúan szabályozzák, a látogatók csak engedéllyel rendelkező csónakokból csodálhatják meg a természetet. Élővilág K8 — tengeri tehenek.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: ["Mocsaras, brakkvízi (félsós) rezervátum a Cuero és Salado folyók torkolatánál.", "La Ceiba városából indulva egy régi banánipari kisvasúton közelíthető meg.", "Honduras legfontosabb védett területe a ritka tengeri tehenek (manátusz) számára.", "Amerikai krokodilok, kajmánok és bőgőmajmok természetes élőhelye.", "Csak csónakos szafarikon (pangas) látogatható a szigorú védelem miatt.", "Kritikus jelentőségű a vándormadarak és a helyi vízimadarak költése szempontjából.", "Kezelését helyi alapítványok (pl. FUCSA) végzik a garifuna közösségek bevonásával."],
+      ro: [],
+      en: []
+    }
+  },
   {
     id: "cayos-cochinos-marine-reserve-life-v2",
     type: "animal-habitat",
@@ -199,7 +329,20 @@ export const poiExtraHondurasLifeV2: POI[] = [
       hu: ["Koralljairol ismert.", "Kis szigetek es tiszta viz.", "Nepszeru a sznorkelezoknek."],
       ro: ["Cunoscuta pentru corali.", "Insule mici si apa limpede.", "Populara pentru snorkeling."],
       en: ["Known for coral reefs.", "Small islands and clear water.", "Popular with snorkelers."]
-    }, image: "/poi-images/cayos-cochinos-marine-reserve-life-v2.webp"},
+    }, image: "/poi-images/cayos-cochinos-marine-reserve-life-v2.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "A Cayos Cochinos Tengeri Természetvédelmi Terület (Monumento Natural Marino Archipiélago Cayos Cochinos) egy lélegzetelállító szigetcsoport a Karib-tengeren, La Ceiba partjaitól mintegy 30 kilométerre északra. A két kisebb szigetből (Cayo Menor, Cayo Mayor) és 13 apró korallzátonyból álló terület a Mezoamerikai Korallzátony-rendszer (a világ második legnagyobbja) része. A szigetek szigorúan védettek, a kereskedelmi halászat betiltása miatt a tengeri biodiverzitás itt az egyik leggazdagabb az egész régióban. A szárazföldön a legkülönlegesebb élőlény az endémikus, rózsaszín boa (Boa constrictor imperator), amely csak ezen a szigetcsoporton honos. A Cayos Cochinos a tudományos kutatások, a fenntartható turizmus és egy kis, izolált garifuna halászközösség harmonikus együttélésének mintapéldája, kristálytiszta vizei pedig a világ legjobb búvárhelyei közé tartoznak. Élővilág K8 — korallzátonyok.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: ["A hondurasi északi part (La Ceiba) közelében fekvő, szigorúan védett szigetcsoport.", "A világ második legnagyobb korallzátony-rendszerének, a Mezoamerikainak a része.", "Az ipari és kereskedelmi halászat teljes egészében tilos a területén.", "Itt él az endémikus rózsaszín boa (rózsaszín óriáskígyó), amely sehol máshol nem található.", "Tudományos tengerbiológiai kutatóbázis működik a szigeten.", "A hagyományos garifuna közösségek (pl. Chachahuate falu) fenntartható halászatot folytatnak.", "Világhírű és exkluzív célpont könnyű- és mélytengeri búvárkodáshoz."],
+      ro: [],
+      en: []
+    }
+  },
   {
     id: "roatan-marine-science-center-life-v2",
     type: "animal-habitat",
@@ -217,7 +360,20 @@ export const poiExtraHondurasLifeV2: POI[] = [
       hu: ["A zatonyallatokrol szol.", "Jo csaladoknak.", "A West Bay kozeleben."],
       ro: ["Ofera informatii despre vietuitoarele recifului.", "Bun pentru familii.", "Aproape de West Bay."],
       en: ["Teaches about reef animals.", "Good for families.", "Near West Bay."]
-    }, image: "/poi-images/roatan-marine-science-center-life-v2.webp"},
+    }, image: "/poi-images/roatan-marine-science-center-life-v2.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "A Roatáni Tengerbiológiai Intézet (Roatán Institute for Marine Sciences - RIMS) Anthony's Key Resort mellett, Roatán szigetén található, és Közép-Amerika egyik legelismertebb tengeri kutató és edukációs központja. Az 1989-ben alapított intézet elsődleges célja a Karib-tenger, és különösen a Mezoamerikai Korallzátony megóvása, valamint a tengeri ökoszisztémák tudományos vizsgálata. A RIMS legnépszerűbb, és egyben leginkább vitatott része a palackorrú delfinekkel (Tursiops truncatus) foglalkozó részleg. Itt a delfinek egy természetes, nyitott vizű, hatalmas elkerített öbölben élnek, és a látogatók oktatóprogramok keretében úszhatnak velük. Bár a turisztikai célú delfin-interakciók globálisan vitatottak, a RIMS komoly hangsúlyt fektet az állatorvosi kutatásokra, a korallzátonyok helyreállítására (coral restoration) és a helyi iskolások környezeti nevelésére. Élővilág K7 — tengerbiológia.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: ["Közép-Amerika egyik vezető tengerbiológiai és oktatási központja Roatánon.", "Központi szerepet játszik a Mezoamerikai Korallzátony kutatásában és védelmében.", "A világ minden tájáról fogad egyetemi hallgatókat és kutatókat.", "Híres a palackorrú delfinekkel végzett viselkedéskutatási programjáról.", "A delfinek nem medencékben, hanem egy nagy, tengerből elkerített természetes öbölben élnek.", "A központ jelentős korall-visszatelepítési (coral restoration) projekteket vezet.", "Ingyenes környezeti oktatást biztosít az Öböl-szigetek helyi iskolásainak."],
+      ro: [],
+      en: []
+    }
+  },
   {
     id: "archs-iguana-and-marine-park-life-v2",
     type: "animal-habitat",
@@ -235,7 +391,20 @@ export const poiExtraHondurasLifeV2: POI[] = [
       hu: ["Allatkozeli elmeny.", "Rovid setak es sok arnyek.", "Nepszeru gyerekeknek."],
       ro: ["Interactiuni cu animale.", "Trasee scurte si multa umbra.", "Popular pentru copii."],
       en: ["Close animal encounters.", "Short paths and plenty of shade.", "Popular with children."]
-    }, image: "/poi-images/archs-iguana-and-marine-park-life-v2.webp"},
+    }, image: "/poi-images/archs-iguana-and-marine-park-life-v2.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "Az Arch's Iguana and Marine Park egy egyedülálló, magántulajdonban lévő természetvédelmi projekt Roatán szigetén (French Key közelében), amely a sziget hüllőinek, különösen a zöld leguánoknak (Iguana iguana) a megmentésére jött létre. A zöld leguánok populációja a vadászat (húsuk a helyi gasztronómia része) és az élőhelyük elvesztése miatt kritikusan lecsökkent a szigeten. A Sherman Arch által alapított menedékhely ma több ezer leguánnak ad szabad, biztonságos otthont egy mangroveerdős területen. A látogatók a fák lombkoronájában és a padlókon szó szerint százával láthatják a napozó hüllőket, és etethetik is őket. Az Iguana Park emellett egy tengeri rehabilitációs központként is funkcionál, ahol tengeri teknősöket és a halászok hálójából megmentett halakat, például tarponokat ápolnak, bizonyítva a helyi közösség elkötelezettségét az élővilág iránt. Élővilág K7 — állatmentés.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: ["Magántulajdonban lévő állatmenhely Roatán szigetén (French Key).", "Több mint 4000 szabadon élő zöld leguán (Iguana iguana) védett otthona.", "Az alapítás célja a leguánok megmentése volt az intenzív vadászat elől.", "A leguánok Honduras karibi részén gyakran esnek áldozatul a helyi gasztronómiának.", "A látogatók közvetlen közelről figyelhetik meg és etethetik az állatokat.", "A park tengeri mentőközpontként is működik teknősök és tarpon halak számára.", "Fontos szerepet játszik a turisták környezettudatosságának növelésében."],
+      ro: [],
+      en: []
+    }
+  },
   {
     id: "daniel-johnson-sloth-and-monkey-hangout-life-v2",
     type: "animal-habitat",
@@ -253,7 +422,20 @@ export const poiExtraHondurasLifeV2: POI[] = [
       hu: ["Kis es csaladbarat.", "Kozeli kapcsolat az allatokkal.", "Fontos az oktatas szempontjabol."],
       ro: ["Mic si potrivit pentru familii.", "Contact apropiat cu animalele.", "Important pentru educatie."],
       en: ["Small and family-friendly.", "Close contact with animals.", "Important for education."]
-    }, image: "/poi-images/daniel-johnson-sloth-and-monkey-hangout-life-v2.webp"},
+    }, image: "/poi-images/daniel-johnson-sloth-and-monkey-hangout-life-v2.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "A Daniel Johnson's Sloth and Monkey Hangout egy kis, családi tulajdonban lévő állatmenhely Roatán szigetén (French Cay), amely az utóbbi években az egyik legnépszerűbb turisztikai látványossággá nőtte ki magát. A központ eredetileg azzal a céllal jött létre, hogy sérült, árván maradt vagy az illegális kisállat-kereskedelemből elkobzott őshonos állatokat (lajhárokat, kapucinus majmokat, pókmajmokat, valamint arapapagájokat és ormányosmedvéket) fogadjon be és rehabilitáljon. Bár a menhely népszerűsége (lehetőség a lajhárok óvatos megérintésére) időnként etikai vitákat vált ki a túlzott turisztikai interakció miatt, a létesítmény szigorú szabályokat követ az állatok jóléte érdekében. Daniel Johnson és csapata aktívan dolgozik a szigetlakók és a turisták edukációján, hogy megállítsák a trópusi állatok házikedvencként történő tartását. Élővilág K7 — turisztikai menhelyek.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: ["Népszerű, családi tulajdonú állatmenhely Roatán szigetén.", "Főként az illegális kisállat-kereskedelemből mentett állatokat rehabilitál.", "Otthont ad két- és háromujjú lajhároknak, majmoknak és egzotikus madaraknak.", "A látogatók megismerkedhetnek a hondurasi dzsungel állatvilágával.", "Célja a felvilágosítás: a vadállatok nem tarthatók háziállatként.", "A turisztikai bevételt a mentett állatok élelmezésére és orvosi ellátására fordítják.", "A kis méret ellenére a sziget egyik legkeresettebb állatkert-szerű látványossága."],
+      ro: [],
+      en: []
+    }
+  },
   {
     id: "iguana-research-breeding-station-copan-life-v2",
     type: "animal-habitat",
@@ -271,7 +453,20 @@ export const poiExtraHondurasLifeV2: POI[] = [
       hu: ["Hullo vedi.", "Iskolai csoportok kedvence.", "A maja romok kozeleben."],
       ro: ["Protejeaza reptilele.", "Popular printre grupurile scolare.", "Aproape de ruinele maya."],
       en: ["Protects reptiles.", "Popular with school groups.", "Near the Maya ruins."]
-    }, image: "/poi-images/iguana-research-breeding-station-copan-life-v2.webp"},
+    }, image: "/poi-images/iguana-research-breeding-station-copan-life-v2.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "Az Iguana Kutató- és Tenyésztő Állomás (Estación Científica de Investigación y Crianza de Iguanas) Copán megyében, a hondurasi szárazföld nyugati részén található természetvédelmi projekt. A létesítmény nem turisztikai látványosságként, hanem szigorú tudományos és ökológiai célból jött létre. Honduras szárazföldi részén a zöld leguánok élőhelye drasztikusan csökkent az erdőirtás, az éghajlatváltozás és a túlzott vadászat miatt. Az állomás szakemberei inkubátorokban keltetik a tojásokat, és a fiatal egyedeket addig nevelik védett környezetben, amíg kellően megerősödnek ahhoz, hogy a Copán környéki védett erdőkbe szabadon engedhessék őket (repopuláció). A projekt jelentős mértékben hozzájárul a régió biodiverzitásának helyreállításához, és edukációs programokat szervez a helyi iskolák számára az állatvédelem fontosságáról. Élővilág K8 — fajmegőrzés.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: ["Tudományos és ökológiai kutatóállomás Nyugat-Hondurasban (Copán).", "A veszélyeztetett zöld leguánok megmentésére és tenyésztésére fókuszál.", "Védett környezetben keltetik és nevelik a fiatal egyedeket (repopuláció).", "Céljuk a szabadon engedés a természetes, de megtizedelt populációjú élőhelyeken.", "Küzdenek a leguánok vadászata és élőhelyük elvesztése ellen.", "Fontos oktatási feladatot lát el a helyi közösségek és iskolák számára.", "Nem tipikus turisztikai látványosság, a kutatás és a fajmegőrzés az elsődleges."],
+      ro: [],
+      en: []
+    }
+  },
   {
     id: "el-picacho-park-life-v2",
     type: "kid-landmark",
@@ -289,7 +484,20 @@ export const poiExtraHondurasLifeV2: POI[] = [
       hu: ["Nepszeru hetvegen.", "Nagy varospanorama.", "Csaladbarat setanyok."],
       ro: ["Popular in weekend.", "Panorama mare asupra orasului.", "Trasee potrivite pentru familii."],
       en: ["Popular on weekends.", "Wide city panorama.", "Family-friendly paths."]
-    }, image: "/poi-images/el-picacho-park-life-v2.webp"},
+    }, image: "/poi-images/el-picacho-park-life-v2.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "A Parque Nacional Naciones Unidas El Picacho Tegucigalpa legismertebb városi-hegyvidéki parkja, amely a főváros északi részén, egy több mint 1300 méter magas hegycsúcson terül el. A park a város tüdejeként funkcionál, hatalmas fenyő- és tölgyfaerdeivel, gondozott kertjeivel és hűvös, friss levegőjével. A park legikonikusabb látványossága a Cristo del Picacho, egy gigantikus (közel 30 méter magas) Krisztus-szobor, amely éjszaka kivilágítva az egész városból látható, hasonlóan a riói Megváltó Krisztushoz. Az El Picacho emellett otthont ad a Rosy Walther Állatkertnek (Zoológico Rosy Walther) is, ahol őshonos hondurasi állatfajokat, például jaguárokat, tapírokat és pókmajmokat gondoznak. A kilátópontokról nyíló látványos panoráma és a biztonságos környezet miatt a tegucigalpai családok kedvenc hétvégi kirándulóhelye. Élővilág K7 — városi parkok.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: ["Tegucigalpa fölé magasodó, 1300 méter magasan fekvő hegyi park.", "Itt áll a híres 'Cristo del Picacho', egy 30 méteres kivilágított Krisztus-szobor.", "A park ad otthont a Rosy Walther Állatkertnek, amely őshonos fajokat mutat be.", "Sűrű fenyőerdői miatt a főváros fontos 'tüdeje' és rekreációs zónája.", "Lenyűgöző panorámát nyújt az egész fővárosra és a völgyre.", "Gyakori helyszíne szabadtéri koncerteknek, esküvőknek és rendezvényeknek.", "A 20. század közepén hozták létre (Parque Naciones Unidas néven)."],
+      ro: [],
+      en: []
+    }
+  },
   {
     id: "chiminike-life-v2",
     type: "kid-landmark",
@@ -307,7 +515,20 @@ export const poiExtraHondurasLifeV2: POI[] = [
       hu: ["Tanulas jatekkal.", "Iskolai osztalyok kedvence.", "Minden idoben jo program."],
       ro: ["Invatare prin joc.", "Popular printre clasele scolare.", "Atractie indoor in orice vreme."],
       en: ["Learning through play.", "Popular with school classes.", "Indoor attraction in any weather."]
-    }, image: "/poi-images/chiminike-life-v2.webp"},
+    }, image: "/poi-images/chiminike-life-v2.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "A Chiminike (Centro Interactivo de Enseñanza Chiminike) Tegucigalpa modern kormányzati negyede mellett található, és Honduras legnagyobb és legfejlettebb interaktív gyermekmúzeuma. A 2003-ban megnyitott, színes és futurisztikus épület célja, hogy a gyerekek játékos és interaktív formában (hands-on) tanuljanak a tudományról, a test működéséről, az űrről, és kiemelten a hondurasi történelemről és környezetvédelemről. A múzeumban található egy szimulált maja romváros, egy energiatermelést bemutató terem, és egy virtuális őserdő, amely a természetvédelem fontosságára tanítja a legfiatalabb generációt. A Chiminike név egy hagyományos hondurasi gyermekjátékra utal. Az intézmény állami és magán adományokból működik, és évente több tízezer, köztük sok hátrányos helyzetű gyermek számára biztosít ingyenes hozzáférést a tudományos edukációhoz. Élővilág K8 — oktatás.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: ["Honduras legnagyobb és legfejlettebb interaktív gyermekmúzeuma Tegucigalpában.", "A 'hands-on' (érintsd meg és próbáld ki) oktatási filozófiát követi.", "2003-ban nyitották meg a kormányzati negyed (Centro Cívico) közelében.", "Kiállításai a tudomány, biológia, kultúra és történelem témáit dolgozzák fel.", "Hatalmas hangsúlyt fektet a környezetvédelem és a nemzeti identitás oktatására.", "Alapítványi formában működik, támogatva a szegényebb iskolák látogatását.", "Nevét egy hagyományos, elfeledett hondurasi gyerekjátékról kapta."],
+      ro: [],
+      en: []
+    }
+  },
   {
     id: "tegucigalpa-central-park-life-v2",
     type: "kid-landmark",
@@ -325,7 +546,20 @@ export const poiExtraHondurasLifeV2: POI[] = [
       hu: ["Talalkozasi pont a kozpontban.", "Gyarmati epuletek veszik korul.", "Eleven varosi ter."],
       ro: ["Punct de intalnire central.", "Inconjurat de cladiri coloniale.", "Spatiu urban animat."],
       en: ["Central meeting point.", "Surrounded by colonial buildings.", "Lively urban space."]
-    }, image: "/poi-images/tegucigalpa-central-park-life-v2.webp"},
+    }, image: "/poi-images/tegucigalpa-central-park-life-v2.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "A Parque Central de Tegucigalpa (Plaza Morazán) a hondurasi főváros lüktető, történelmi szíve, a mindennapi élet, a vallás és a politika tradicionális metszéspontja. A teret keletről a lenyűgöző San Miguel Katedrális (Catedral Metropolitana) határolja, közepén pedig Francisco Morazán, a közép-amerikai függetlenség hősének 19. századi bronz lovasszobra áll. A tér egy klasszikus spanyol gyarmati elrendezésű 'Plaza Mayor', amelyet a 20. század során modern sétálóutcákkal kötöttek össze. A Parque Central sosem alszik: a cipőtisztítók (limpiabotas), az utcai prédikátorok, a fagyit árusító kocsik, a galambokat etető gyerekek és az élénk vitákat folytató nyugdíjasok állandó szereplői a térnek. Bár a modern bevásárlóközpontok elszívták a tehetősebb lakosságot a peremkerületekbe, a park továbbra is a fővárosi tömegek legautentikusabb találkozóhelye. Élővilág K7 — városi központok.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: ["Tegucigalpa történelmi, vallási és társadalmi központja (Plaza Morazán).", "A teret a gyönyörű San Miguel Főszékesegyház dominálja.", "Középpontjában Francisco Morazán lovasszobra áll, amely Párizsban készült.", "Hagyományos spanyol gyarmati 'Plaza Mayor' elrendezést követ.", "A társadalmi élet sűrűsödési pontja: árusok, zenészek és politikai viták helyszíne.", "Az ünnepek, tüntetések és kulturális fesztiválok fő kiindulópontja.", "Sétálóutcák (Paseo Liquidámbar) kötik össze a környező múzeumokkal."],
+      ro: [],
+      en: []
+    }
+  },
   {
     id: "cerro-juana-lainez-park-life-v2",
     type: "kid-landmark",
@@ -343,7 +577,20 @@ export const poiExtraHondurasLifeV2: POI[] = [
       hu: ["Rovid setanyok.", "Jo piknikre.", "Ismert kilatohelyek."],
       ro: ["Trasee scurte.", "Bun pentru picnic.", "Puncte de belvedere cunoscute."],
       en: ["Short walking paths.", "Good for picnics.", "Known viewpoints."]
-    }, image: "/poi-images/cerro-juana-lainez-park-life-v2.webp"},
+    }, image: "/poi-images/cerro-juana-lainez-park-life-v2.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "A Parque Cerro Juana Laínez egy ikonikus, dombtetőn elterülő városi park és zöld oázis Tegucigalpa szívében. A nevét egy gyarmati kori földbirtokos nőről kapta, és a terület legszembetűnőbb építménye az 1948-ban épült, fehér, oszlopszerű Monumento a la Paz (Béke Emlékmű). Az elmúlt években a parkot egy átfogó, díjnyertes ökológiai és építészeti projekt keretében teljesen revitalizálták: új, biztonságos túraútvonalakat, modern játszótereket, kerékpárutakat és őshonos növényekkel beültetett botanikus kerteket alakítottak ki. A Cerro Juana Laínez ma a fenntartható városi tértervezés mintapéldája Hondurasban, amely biztonságos, tiszta és zöld menedéket kínál a szmogos és forgalmas fővárosban. A parkból nyíló 360 fokos panoráma páratlan, lehetővé teszi Tegucigalpa és Comayagüela együttes megtekintését. Élővilág K8 — városi ökológia.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: ["Tegucigalpa központjában magasodó ökológiai és rekreációs városi park.", "Nevét egy 16. századi befolyásos hondurasi földbirtokosnőről kapta.", "Itt található a híres Monumento a la Paz (Béke Emlékmű).", "A közelmúltban teljesen felújították fenntartható ökológiai alapelvek szerint.", "Több ezer őshonos trópusi fát és cserjét telepítettek a területére.", "Biztonságos futó- és kerékpárutakkal, valamint piknikező helyekkel rendelkezik.", "Tökéletes 360 fokos kilátást nyújt a főváros mindkét nagy völgyére."],
+      ro: [],
+      en: []
+    }
+  },
   {
     id: "san-pedro-sula-zoo-life-v2",
     type: "kid-landmark",
@@ -361,7 +608,20 @@ export const poiExtraHondurasLifeV2: POI[] = [
       hu: ["Nepszeru gyerekeknek.", "Varoskozeli elhelyezkedes.", "Allatmegfigyeles rovid uton."],
       ro: ["Popular pentru copii.", "Locatie aproape de oras.", "Observarea animalelor fara drum lung."],
       en: ["Popular with children.", "Close to the city center.", "Animal viewing without a long trip."]
-    }, image: "/poi-images/san-pedro-sula-zoo-life-v2.webp"},
+    }, image: "/poi-images/san-pedro-sula-zoo-life-v2.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "A Joya Grande Állatkert és Ökopark (Zoológico Joya Grande) egy hatalmas, magántulajdonban lévő egzotikus állatpark, amely San Pedro Sula közelében, Santa Cruz de Yojoa térségében fekszik. Bár története ellentmondásos – eredetileg egy drogkartell vezetőjének extravagáns magángyűjteményeként indult –, az állam általi elkobzás után átalakították és megnyitották a nagyközönség számára. Joya Grande ma Közép-Amerika egyik legnagyobb állatkertje, ahol nemcsak hondurasi őshonos állatok (jaguárok, tapírok, majmok) élnek, hanem olyan egzotikus fajok is, mint afrikai oroszlánok, tigrisek, vízilovak, zebrák és zsiráfok. Az ökopark a vadvilág bemutatásán túl extrém sportokat (canopy/zipline) és víziparkot is kínál. Az intézmény jelentős erőfeszítéseket tesz az állatok jólétének biztosítására és a látogatók környezettudatos nevelésére. Élővilág K7 — állatkertek.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: ["Közép-Amerika egyik legnagyobb, egzotikus fajokat is bemutató állatkertje.", "San Pedro Sulától délre, Santa Cruz de Yojoa közelében található.", "Eredetileg egy drogbáró magángyűjteménye volt, amelyet az állam elkobzott.", "Több mint 500 állatnak, köztük oroszlánoknak, tigriseknek és vízilovaknak ad otthont.", "Az őshonos hondurasi fajok (jaguárok, majmok) rehabilitációját is végzi.", "Számos rekreációs tevékenységet, például drótkötélpályát (zipline) is kínál.", "Fenntartása és az állatok ellátása a turisztikai bevételekből származik."],
+      ro: [],
+      en: []
+    }
+  },
   {
     id: "lago-de-yojoa-life-v2",
     type: "lake",
@@ -379,7 +639,20 @@ export const poiExtraHondurasLifeV2: POI[] = [
       hu: ["Top madarmegfigyelo hely.", "Nepszeru hetvegi kirandulocel.", "Hegyek veszik korul."],
       ro: ["Loc de top pentru birdwatching.", "Popular pentru excursii de weekend.", "Inconjurat de munti."],
       en: ["Top birdwatching site.", "Popular for weekend trips.", "Surrounded by mountains."]
-    }, image: "/poi-images/lago-de-yojoa-life-v2.webp"},
+    }, image: "/poi-images/lago-de-yojoa-life-v2.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "A Yojoa-tó (Lago de Yojoa) Honduras egyetlen természetes, vulkanikus eredetű édesvizű tava, amely három megye (Comayagua, Cortés, Santa Bárbara) találkozásánál fekszik. A tengerszint felett 700 méterrel elterülő tó az ország egyik legfontosabb ökológiai és turisztikai csomópontja. Két hatalmas hegyvonulat és nemzeti park – a Cerro Azul Meámbar és a Santa Bárbara Nemzeti Park – fogja közre. A Yojoa-tó biológiai sokfélesége megdöbbentő: több mint 400 madárfajt azonosítottak a partvidékén, így Közép-Amerika egyik legjobb madármegfigyelő helyszíne. A tó gazdaságilag is kritikus, különösen a halászat és az éttermek számára, amelyek a híres helyi sült halat (pescado frito con tajadas) kínálják. A tavat azonban súlyos környezeti veszélyek, például a környező bányászat, a fakitermelés és az elburjánzó vízililiomok fenyegetik. Élővilág K8 — vulkanikus tavak.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: ["Honduras legnagyobb és egyetlen természetes édesvizű tava.", "Kialakulása vulkanikus eredetű, 700 méteres tengerszint feletti magasságban.", "Több mint 400 regisztrált madárfaj él itt, ornitológiai paradicsom.", "Két nemzeti park, a Cerro Azul Meámbar és a Santa Bárbara öleli körbe.", "A helyi gasztronómia (sült hal útifűvel) miatt népszerű hétvégi célpont.", "Gyakori ökológiai kihívás az invazív vízinövények és a szennyezés.", "Az ország főútvonala, a Pánamerikai autópálya halad el a keleti partján."],
+      ro: [],
+      en: []
+    }
+  },
   {
     id: "laguna-de-caratasca-life-v2",
     type: "lake",
@@ -397,7 +670,20 @@ export const poiExtraHondurasLifeV2: POI[] = [
       hu: ["Fontos a halaszatban.", "Gazdag madarakban es halakban.", "Nagyon tavoli videk."],
       ro: ["Importanta pentru pescuit.", "Bogata in pasari si pesti.", "Regiune foarte izolata."],
       en: ["Important for fishing.", "Rich in birds and fish.", "Very remote region."]
-    }, image: "/poi-images/laguna-de-caratasca-life-v2.webp"},
+    }, image: "/poi-images/laguna-de-caratasca-life-v2.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "A Caratasca-lagúna (Laguna de Caratasca) Honduras legnagyobb lagúnarendszere, amely a távoli, keleti La Mosquitia régióban (Gracias a Dios megye) fekszik. A név miszkító nyelven „a krokodilok lagúnáját” jelenti, ami hűen tükrözi a terület vad és érintetlen jellegét. Ez a sekély, tengerrel összeköttetésben lévő hatalmas sós és édesvízi medence a helyi őslakos miszkító közösségek élete és közlekedése szempontjából kritikus: utak hiányában a lagúna és az abba ömlő folyók az egyetlen közlekedési artériák (csónakkal, 'pipante'-vel). A lagúna gazdag tengeri élővilággal rendelkezik, beleértve a tengeri teheneket (manátuszokat), számtalan halfajt és homárt, amelyek a helyiek fő táplálék- és bevételi forrását jelentik. Ez az érintetlen vadvilág Honduras legelzártabb ökoszisztémája. Élővilág K8 — keleti vizes élőhelyek.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: ["Honduras legnagyobb kiterjedésű lagúnarendszere a La Mosquitia régióban.", "A neve a helyi miszkító őslakos nyelven 'a krokodilok lagúnáját' jelenti.", "Sekély brakkvíz, amely közvetlen kapcsolatban áll a Karib-tengerrel.", "A régió egyetlen közlekedési hálózata, mivel aszfaltozott utak nincsenek.", "A miszkító őslakosok elsődleges halászati és élelmiszerforrása.", "Otthont ad a veszélyeztetett nyugat-indiai tengeri tehénnek (manátusz).", "A környező területet kiterjedt mangroveerdők és trópusi mocsarak borítják."],
+      ro: [],
+      en: []
+    }
+  },
   {
     id: "laguna-de-guaimoreto-life-v2",
     type: "lake",
@@ -418,13 +704,13 @@ export const poiExtraHondurasLifeV2: POI[] = [
     },
     descriptionAdvanced: {
       de: "Die Laguna de Guaimoreto ist ein bedeutendes Wildschutzgebiet nahe der Stadt Trujillo an der Nordküste von Honduras. Die Lagune wird durch eine schmale Verbindung zum Meer gespeist und bildet ein komplexes Oekosystem aus Mangrovenwaeldern und Feuchtgebieten. Sie ist ein wichtiger Rueckzugsort fuer zahlreiche Wasservoegel, darunter Reiher, Pelikane und Eisvoegel. In den ruhigen Gewaessern leben auch verschiedene Fischarten, die sowohl fuer die oekologische Balance als auch fuer die lokale Fischerei von Bedeutung sind. Besucher koennen die Lagune mit kleinen Booten erkunden und dabei die dichte Vegetation der Mangroven aus naechster Naehe erleben. Die Berge des Nationalparks Capiro und Calentura bilden eine malerische Kulisse fuer das Gewaesser. Guaimoreto spielt eine wichtige Rolle beim Schutz der Kueste vor Stuermen und dient als biologischer Filter fuer die Region. Es ist ein ruhiger Ort für Naturbeobachtungen abseits der bekannteren Touristenpfade. Biologie K7 — Ökosysteme.",
-      hu: "A Guaimoreto-lagúna egy fontos vadrezervátum Trujillo városa közelében, Honduras északi partján. A lagúnát egy keskeny csatorna köti össze a tengerrel, összetett ökoszisztémát alkotva mangroveerdőkből és vizes élőhelyekből. Számos vízi madár, például kócsagok, pelikánok és jégmadarak fontos menedékhelye. A nyugodt vizekben különféle halfajok élnek, amelyek az ökológiai egyensúly és a helyi halászat szempontjából is jelentősek. A látogatók kis csónakokkal fedezhetik fel a lagúnát, közelről tapasztalva meg a mangrove sűrű növényzetét. A Capiro és Calentura Nemzeti Park hegyei festői hátteret biztosítanak az állóvíznek. A Guaimoreto fontos szerepet játszik a partvonal viharok elleni védelmében, és biológiai szűrőként szolgál a régió számára. Csendes hely a természetmegfigyelésre, távol a legismertebb turistaútvonalaktól. Természetismeret K7 – tengerparti lagúnák és biodiverzitás.",
+      hu: "A Guaimoreto-lagúna (Laguna de Guaimoreto) egy gyönyörű, védett vizes élőhely Colón megyében, közvetlenül Trujillo városának hátterében. A Karib-tengerrel összeköttetésben lévő, brakkvízi (félsós) lagúnát sűrű vörös, fekete és fehér mangroveerdők szegélyezik, amelyek labirintusai ideális menedéket nyújtanak a tengeri és szárazföldi állatoknak egyaránt. A terület madármegfigyelők paradicsoma: kócsagok, íbiszek, pelikánok és kárókatonák ezrei költenek itt, a vizekben pedig kajmánok és iguánák rejtőznek. A lagúna gazdaságilag is fontos a helyi garifuna és ladino halászok számára, akik hagyományos módszerekkel rákásznak és halásznak. Kenuval vagy csendes csónakkal végzett ökotúrák lehetővé teszik a trópusi vizes élőhelyek érintetlen nyugalmának megtapasztalását. Élővilág K7 — mangrove ökoszisztémák.",
       ro: "Laguna Guaimoreto este o rezervație de viață sălbatică importantă situată lângă orașul Trujillo, pe coasta de nord a Hondurasului. Laguna este alimentată printr-o conexiune îngustă cu marea și formează un ecosistem complex de păduri de mangrove și zone umede. Este un refugiu important pentru numeroase păsări acvatice, inclusiv egrete, pelicani și pescăruși albaștri. În apele liniștite trăiesc diverse specii de pești, importanți atât pentru echilibrul ecologic, cât și pentru pescuitul local. Vizitatorii pot explora laguna cu bărci mici și pot experimenta de aproape vegetația densă a mangrovelor. Munții din Parcul Național Capiro și Calentura formează un decor pitoresc pentru acest corp de apă. Guaimoreto joacă un rol important în protejarea coastei împotriva furtunilor și servește ca filtru biologic pentru regiune. Este un loc liniștit pentru observarea naturii, departe de traseele turistice mai cunoscute. Biologie K7 – ecosisteme.",
       en: "Guaimoreto Lagoon is a significant wildlife refuge located near the city of Trujillo on Honduras's northern coast. The lagoon is fed through a narrow connection to the sea, forming a complex ecosystem of mangrove forests and wetlands. It is a vital sanctuary for numerous water birds, including herons, pelicans, and kingfishers. The calm waters also support various fish species important for both ecological balance and local fisheries. Visitors can explore the lagoon by small boat, experiencing the dense mangrove vegetation up close. The mountains of Capiro and Calentura National Park provide a picturesque backdrop to the water. Guaimoreto plays an essential role in protecting the coast from storms and serves as a biological filter for the region. It is a peaceful location for nature observation, off the more well-trodden tourist paths. Science K7 – ecosystems."
     },
     factsAdvanced: {
       de: ["Wildschutzgebiet seit 1992 zum Schutz der Mangroven.", "Umfasst eine Fläche von etwa 50 Quadratkilometern.", "Beherbergt über 100 verschiedene Vogelarten.", "Wichtiger Laichplatz für zahlreiche Meeresfische und Garnelen.", "Befindet sich direkt westlich der Bucht von Trujillo.", "Wird von der lokalen NGO FUCAGUA verwaltet."],
-      hu: ["1992 óta vadrezervátum a mangroveerdők védelmére.", "Körülbelül 50 négyzetkilométer területet foglal magában.", "Több mint 100 különböző madárfaj otthona.", "Számos tengeri hal és rák fontos ívóhelye.", "Trujillo öblétől közvetlenül nyugatra található.", "A FUCAGUA helyi civil szervezet kezeli."],
+      hu: ["Trujillo városa mögött elterülő, Karib-tengerrel érintkező lagúna.", "Sűrű mangroveerdők (vörös, fekete, fehér) veszik körbe.", "A helyi garifuna halászközösségek hagyományos halászterülete.", "Kiemelkedő ornitológiai (madármegfigyelő) helyszín (pelikánok, íbiszek).", "A mangrovegyökerek között kajmánok és leguánok élnek.", "Brakkvíz (édes és sós víz keveréke) biztosítja a biológiai sokszínűséget.", "Kajakos és csónakos ökotúrák népszerű és csendes célpontja."],
       ro: ["Refugiu de viață sălbatică din 1992 pentru protecția mangrovelor.", "Acoperă o suprafață de aproximativ 50 kilometri pătrați.", "Găzduiește peste 100 de specii diferite de păsări.", "Loc important de depunere a icrelor pentru pești și creveți.", "Situată direct la vest de Golful Trujillo.", "Administrată de ONG-ul local FUCAGUA."],
       en: ["Wildlife refuge established in 1992 to protect mangroves.", "Covers an area of approximately 50 square kilometers.", "Home to over 100 documented bird species.", "Crucial spawning ground for numerous marine fish and shrimp.", "Located directly west of the Bay of Trujillo.", "Managed by the local NGO FUCAGUA."]
     }, image: "/poi-images/laguna-de-guaimoreto-life-v2.webp"},
@@ -475,7 +761,20 @@ export const poiExtraHondurasLifeV2: POI[] = [
       hu: ["Nepszeru termeszetjarasra.", "Sok madarfajt ved.", "Az eszaki part resze."],
       ro: ["Popular pentru tururi in natura.", "Protejeaza multe specii de pasari.", "Parte din coasta de nord."],
       en: ["Popular for nature trips.", "Protects many bird species.", "Part of the north coast."]
-    }, image: "/poi-images/punta-sal-national-park-life-v2.webp"},
+    }, image: "/poi-images/punta-sal-national-park-life-v2.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "A Punta Sal Nemzeti Park (Park Nacional Jeannette Kawas) egy páratlan szépségű, tengerparti és vizes élőhely Tela (Atlántida megye) nyugati részén. A park nevét Jeannette Kawas hondurasi környezetvédő tiszteletére kapta, akit 1995-ben gyilkoltak meg, miután hevesen küzdött a park területének pálmaolaj-ültetvényekké és illegális fakitermeléssé történő átalakítása ellen. A rezervátum elképesztő sokszínűséggel bír: találhatók itt fehér homokos, pálmafás karibi strandok, kiterjedt mangroveerdők (Los Micos lagúna), sziklás félszigetek és korallzátonyok. A park otthont ad tengeri teheneknek (manátusz), több tengeri teknősfajnak, bőgőmajmoknak és több száz madárfajnak. A Jeannette Kawas Park Honduras egyik leglátogatottabb ökoturisztikai célpontja, a természetvédelemért hozott áldozat szimbóluma. Élővilág K8 — tengerparti természetvédelem.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: ["Karibi tengerparti és mangroveerdő rezervátum Tela városa mellett.", "Nevét a meggyilkolt környezetvédő aktivistáról, Jeannette Kawasról kapta.", "Korábban Punta Sal Nemzeti Park néven volt ismert.", "Magában foglalja a Los Micos lagúnát, Honduras egyik legnagyobb vizes élőhelyét.", "Tengeri tehenek (manátuszok) és tengeri teknősök kritikus menedékhelye.", "Gyakori konfliktusövezet az illegális afrikai pálma ültetvények terjeszkedése miatt.", "Fehér homokos strandjai a legszebbek közé tartoznak az ország szárazföldi részén."],
+      ro: [],
+      en: []
+    }
+  },
   {
     id: "reserva-biologica-el-chile-life-v2",
     type: "forest",
@@ -493,7 +792,20 @@ export const poiExtraHondurasLifeV2: POI[] = [
       hu: ["Fontos elelothely.", "Csendes es kevesbe fejlett.", "Jo termeszetfigyeleshez."],
       ro: ["Habitat important.", "Linistit si putin exploatat.", "Bun pentru observarea naturii."],
       en: ["Important habitat.", "Quiet and lightly developed.", "Good for nature observation."]
-    }, image: "/poi-images/reserva-biologica-el-chile-life-v2.webp"},
+    }, image: "/poi-images/reserva-biologica-el-chile-life-v2.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "Az El Chile Biológiai Rezervátum (Reserva Biológica El Chile) egy viszonylag elszigetelt és kevéssé ismert magaslati felhőerdő Francisco Morazán és El Paraíso megyék határán. A terület több mint 2000 méteres csúcsai kulcsfontosságú vízgyűjtő területeket jelentenek, amelyek tucatnyi helyi közösség és mezőgazdasági terület ivó- és öntözővíz-ellátását biztosítják. A sűrű, epifitákkal, páfrányokkal és orchideákkal borított erdő menedéket nyújt a kihalás szélén álló trópusi állatoknak, köztük a jaguárnak, a quetzál madárnak és a ritka hegyi szalamandráknak. Mivel az infrastruktúra hiányos, a park nehezen megközelíthető, ami paradox módon megvédi a tömegturizmustól, ugyanakkor kiszolgáltatottá teszi az illegális fakitermelésnek és a peremterületeken terjeszkedő mezőgazdaságnak. Élővilág K8 — érintetlen felhőerdők.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: ["Magaslati felhőerdő Francisco Morazán és El Paraíso megyék határán.", "Több mint 2000 méteres csúcsokkal és rendkívül dús növényzettel rendelkezik.", "Kritikus vízgyűjtő terület, amely tucatnyi falut lát el friss vízzel.", "Endémikus kétéltűek, quetzál madarak és nagymacskák élőhelye.", "Infrastruktúra szinte alig van, nehezen megközelíthető a turisták számára.", "Állandó veszélyt jelent az illegális fakitermelés és az agrárium terjeszkedése.", "A tudományos kutatások egyik ígéretes, még feltáratlan központja."],
+      ro: [],
+      en: []
+    }
+  },
   {
     id: "montana-de-yoro-national-park-life-v2",
     type: "forest",
@@ -511,7 +823,20 @@ export const poiExtraHondurasLifeV2: POI[] = [
       hu: ["Nepszeru a satorozoknek.", "Friss hegyi klima.", "Vedett vadonelohely."],
       ro: ["Popular pentru campare.", "Climat montan racoros.", "Arie protejata pentru fauna."],
       en: ["Popular for camping.", "Fresh mountain climate.", "Protected wildlife area."]
-    }, image: "/poi-images/montana-de-yoro-national-park-life-v2.webp"},
+    }, image: "/poi-images/montana-de-yoro-national-park-life-v2.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "A Yoro-hegység Nemzeti Park (Parque Nacional Montaña de Yoro) Yoro megye szívében, egy hatalmas, fenyő- és felhőerdőkkel borított hegyvonulaton terül el. A több mint 2200 méteres magasságot is elérő park az ország északi részének egyik legfontosabb ökológiai tüdeje és vízgyűjtője. Területén élnek a jicaque (tolupán) őslakos közösségek utolsó csoportjai, akiknek kultúrája és túlélése szorosan összefonódik az erdő egészségével. A park flóráját a hatalmas mahagóni- és fenyőfák dominálják, míg faunája magában foglalja a jaguárokat, ocelotokat és a Közép-Amerikában ritka hárpiákat. Bár a turizmus minimális, a park az ország egyik legfontosabb erdészet-védelmi övezete, ahol a helyi őslakosok bevonásával próbálják megfékezni az illegális erdőirtást. Élővilág K7 — őslakosok és természetvédelem.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: ["Hatalmas fenyő- és felhőerdő rezervátum Yoro megyében.", "Csúcsai elérik a 2200 méteres tengerszint feletti magasságot.", "Területén élnek a tolupán (jicaque) őslakos törzs maradékai.", "Fontos menedék a jaguárok és a ritka hárpiasasmadarak számára.", "A park megóvja a régió vízbázisát a fakitermeléstől.", "Az ökoturizmus szinte egyáltalán nincs jelen a nehéz megközelíthetőség miatt.", "Az őslakosok túlélése közvetlenül az erdő fennmaradásától függ."],
+      ro: [],
+      en: []
+    }
+  },
   {
     id: "montana-de-comayagua-life-v2",
     type: "forest",
@@ -529,7 +854,20 @@ export const poiExtraHondurasLifeV2: POI[] = [
       hu: ["Huvosabb, mint a sik.", "Fontos vizgyujto teruletek.", "Nepszeru turazashoz."],
       ro: ["Mai racoros decat campia.", "Zone hidrografice importante.", "Popular pentru drumetii."],
       en: ["Cooler than the lowlands.", "Important watershed area.", "Popular for hikes."]
-    }, image: "/poi-images/montana-de-comayagua-life-v2.webp"},
+    }, image: "/poi-images/montana-de-comayagua-life-v2.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "A Comayagua-hegység Nemzeti Park (Parque Nacional Montaña de Comayagua - PANACO) a hatalmas Comayagua-völgy keleti oldalán magasodó, lenyűgöző felhőerdő. A 2405 méter magas 'Portillo de los Encinos' csúcs köré épülő park drámai éghajlati kontrasztot alkot az alatta elterülő, forró és száraz mezőgazdasági völggyel. A hegyvidék sűrű, állandóan nedves erdei számtalan patakot táplálnak, amelyek létfontosságúak a lenti öntözéses földművelés és Comayagua városának vízellátása szempontjából. A park rendkívül gazdag orchideákban, páfrányfákban és a csak Közép-Amerikában élő ritka madárfajokban (például a quetzálban). A hegyre felvezető ösvények meredekek és kihívást jelentenek, de a kilátópontokról az egész völgy és a korábbi főváros belátható. Élővilág K8 — klímakontrasztok.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: ["A Comayagua-völgy fölé tornyosuló hegyvidéki nemzeti park.", "Legmagasabb pontja a 2405 méteres Portillo de los Encinos.", "Éles klímakontrasztot alkot az alatta lévő forró, száraz völggyel.", "A völgyi öntözéses mezőgazdaság (zöldségek) fő vízszolgáltatója.", "A sűrű felhőerdő orchideáknak és a quetzál madárnak ad otthont.", "Túraútvonalai nehezek, de páratlan panorámát nyújtanak Comayaguára.", "A park kezelése jelentős kihívás a környékbeli agrárterjeszkedés miatt."],
+      ro: [],
+      en: []
+    }
+  },
   {
     id: "reserva-biologica-opalaca-life-v2",
     type: "forest",
@@ -547,7 +885,20 @@ export const poiExtraHondurasLifeV2: POI[] = [
       hu: ["Keves ut vezet ide.", "Csendes hegyvidek.", "Fontos a viz es az allatok szempontjabol."],
       ro: ["Putine drumuri.", "Peisaj montan linistit.", "Important pentru apa si animale."],
       en: ["Few roads reach it.", "Quiet mountain landscape.", "Important for water and wildlife."]
-    }, image: "/poi-images/reserva-biologica-opalaca-life-v2.webp"},
+    }, image: "/poi-images/reserva-biologica-opalaca-life-v2.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "Az Opalaca Biológiai Rezervátum (Reserva Biológica Opalaca) egy kiterjedt, vad hegyvidéki ökoszisztéma, amely Lempira és Intibucá megyék határán húzódik. Ez a régió a lenca őslakosok ősi földje, akik hagyományosan védelmezik a környező, 2300 métert is meghaladó felhőerdőket. A rezervátum az egyik utolsó menedéke a pumának, a tapírnak és számos endémikus közép-amerikai rovarnak és kétéltűnek. Az Opalaca különös jelentőségét a folyók adják: az itt eredő patakok táplálják a térség nagy folyóit, amelyek a helyi mezőgazdaság számára létfontosságúak. Bár a turisztikai infrastruktúra hiányos, az egyre inkább fenyegető klímaváltozás és az illegális fakitermelés miatt a tudósok és a helyi lenca közösségek szorosan együttműködnek a rezervátum megmentéséért. Élővilág K8 — őslakos területvédelem.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: ["Lempira és Intibucá megyék határán elterülő magaslati biológiai rezervátum.", "A 2300 méteres hegyvonulatok sűrű trópusi felhőerdőket rejtenek.", "A terület a lenca őslakos közösségek történelmi és kulturális otthona.", "Kritikus vízgyűjtő terület a nyugati hondurasi folyók számára.", "Pumák, tapírok és számos endémikus kétéltű élőhelye.", "A lenca közösségek aktívan küzdenek a terület fakitermelés elleni védelméért.", "Minimális turisztikai kiépítettségű, elsősorban tudományos kutatási terep."],
+      ro: [],
+      en: []
+    }
+  },
   {
     id: "reserva-biologica-la-muralla-life-v2",
     type: "forest",
@@ -565,6 +916,19 @@ export const poiExtraHondurasLifeV2: POI[] = [
       hu: ["Suru erdok boritjak.", "Vadallatok elelotere.", "Fontos vedelmi terulet."],
       ro: ["Acoperire forestiera densa.", "Habitat pentru fauna salbatica.", "Arie importanta de protectie."],
       en: ["Dense forest cover.", "Habitat for wildlife.", "Important protection area."]
-    }, image: "/poi-images/reserva-biologica-la-muralla-life-v2.webp"},
+    }, image: "/poi-images/reserva-biologica-la-muralla-life-v2.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "A La Muralla Biológiai Rezervátum (Refugio de Vida Silvestre La Muralla) Olancho megye északi részén (La Unión közelében) egy érintetlen, misztikus felhőerdő, amelyet a világ egyik legfajgazdagabb területeként tartanak számon Közép-Amerikában. Neve (A Fal) a meredek, falként emelkedő szikláira és hegyoldalaira utal. A park különösen híres a quetzál madarakról, amelyek a fák magasan lévő odvaiban fészkelnek, valamint a lenyűgözően változatos orchideákról és mohákról. Honduras első ökoturisztikai célpontjainak egyikeként viszonylag jól karbantartott látogatóközponttal és ösvényekkel (pl. El Pizote ösvény) rendelkezik, ahol a túrázók jaguár- és ocelotnyomokra is bukkanhatnak. Az 1990-es évek hurrikánjai és a kávéültetvények közelsége ellenére az erdő megőrizte ősi, sűrű dzsungel karakterét. Élővilág K7 — ökoturizmus.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: ["Olancho megye északi részén található sűrű hegyi felhőerdő.", "Nevét (A Fal) a meredek, szinte áthatolhatatlan hegyoldalairól kapta.", "Honduras egyik legkiválóbb helyszíne a ritka quetzál madár megfigyelésére.", "Híres a hihetetlenül gazdag orchidea- és bromélia-flórájáról.", "Kiépített ösvényhálózata van, ami ritkaság a hondurasi rezervátumok közt.", "Jaguárok, ocelotok és tapírok is élnek a park háborítatlan részein.", "A közeli La Unión település biztosítja a turisztikai szolgáltatásokat."],
+      ro: [],
+      en: []
+    }
+  },
 ];
 

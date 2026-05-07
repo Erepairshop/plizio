@@ -9,27 +9,27 @@ export const poiExtraSenegalEconomicV2: POI[] = [
     coords: [-17.43, 14.675],
     name: {
       de: "Hafen von Dakar",
-      hu: "Dakar KikÃ¶tÅ‘je",
+      hu: "Dakar Kikötője",
       ro: "Portul Dakar",
       en: "Port of Dakar"
     },
     description: {
       de: "Der autonome Hafen von Dakar ist der wichtigste Seehafen des Senegals.",
-      hu: "Dakar autonÃ³m kikÃ¶tÅ‘je SzenegÃ¡l legfontosabb tengeri kikÃ¶tÅ‘je.",
+      hu: "Dakar autonóm kikötője Szenegál legfontosabb tengeri kikötője.",
       ro: "Portul autonom Dakar este principalul port maritim al Senegalului.",
       en: "The Autonomous Port of Dakar is the most important seaport in Senegal."
     },
     facts: {
       de: [
         "Tiefwasserhafen",
-        "Wichtiger Knotenpunkt fÃ¼r Westafrika"
+        "Wichtiger Knotenpunkt für Westafrika"
       ],
       hu: [
-        "MÃ©lyvÃ­zi kikÃ¶tÅ‘",
-        "Fontos nyugat-afrikai csomÃ³pont"
+        "Mélyvízi kikötő",
+        "Fontos nyugat-afrikai csomópont"
       ],
       ro: [
-        "Port de apÄƒ adÃ¢ncÄƒ",
+        "Port de apă adâncă",
         "Nod important pentru Africa de Vest"
       ],
       en: [
@@ -44,31 +44,31 @@ export const poiExtraSenegalEconomicV2: POI[] = [
     coords: [-12.023, 13.185],
     name: {
       de: "Goldmine Sabodala",
-      hu: "Sabodala AranybÃ¡nya",
+      hu: "Sabodala Aranybánya",
       ro: "Mina de Aur Sabodala",
       en: "Sabodala Gold Mine"
     },
     description: {
-      de: "Die Sabodala-Goldmine ist das grÃ¶ÃŸte produzierende Goldbergwerk im Senegal.",
-      hu: "A Sabodala aranybÃ¡nya SzenegÃ¡l legnagyobb termelÅ‘ aranybÃ¡nyÃ¡ja.",
-      ro: "Mina de aur Sabodala este cea mai mare minÄƒ de aur Ã®n producÈ›ie din Senegal.",
+      de: "Die Sabodala-Goldmine ist das größte produzierende Goldbergwerk im Senegal.",
+      hu: "A Sabodala aranybánya Szenegál legnagyobb termelő aranybányája.",
+      ro: "Mina de aur Sabodala este cea mai mare mină de aur în producție din Senegal.",
       en: "The Sabodala Gold Mine is the largest producing gold mine in Senegal."
     },
     facts: {
       de: [
-        "Befindet sich in der Region KÃ©dougou",
+        "Befindet sich in der Region Kédougou",
         "Wirtschaftlicher Motor der Region"
       ],
       hu: [
-        "KÃ©dougou rÃ©giÃ³ban talÃ¡lhatÃ³",
-        "A rÃ©giÃ³ gazdasÃ¡gi motorja"
+        "Kédougou régióban található",
+        "A régió gazdasági motorja"
       ],
       ro: [
-        "SituatÄƒ Ã®n regiunea KÃ©dougou",
+        "Situată în regiunea Kédougou",
         "Motorul economic al regiunii"
       ],
       en: [
-        "Located in the KÃ©dougou region",
+        "Located in the Kédougou region",
         "Economic engine of the region"
       ]
     }, image: "/poi-images/sabodala-gold-mine-economic-v2.webp"},
@@ -79,27 +79,27 @@ export const poiExtraSenegalEconomicV2: POI[] = [
     coords: [-16.275, 12.585],
     name: {
       de: "Hafen von Ziguinchor",
-      hu: "Ziguinchor KikÃ¶tÅ‘",
+      hu: "Ziguinchor Kikötő",
       ro: "Portul Ziguinchor",
       en: "Port of Ziguinchor"
     },
     description: {
-      de: "Ein wichtiger Handelshafen am Casamance-Fluss im SÃ¼den des Senegals.",
-      hu: "Fontos kereskedelmi kikÃ¶tÅ‘ a Casamance folyÃ³n, SzenegÃ¡l dÃ©li rÃ©szÃ©n.",
-      ro: "Un port comercial important pe rÃ¢ul Casamance Ã®n sudul Senegalului.",
+      de: "Ein wichtiger Handelshafen am Casamance-Fluss im Süden des Senegals.",
+      hu: "Fontos kereskedelmi kikötő a Casamance folyón, Szenegál déli részén.",
+      ro: "Un port comercial important pe râul Casamance în sudul Senegalului.",
       en: "An important commercial port on the Casamance River in southern Senegal."
     },
     facts: {
       de: [
         "Verbindet die Casamance mit Dakar",
-        "Wichtig fÃ¼r den Export von Agrarprodukten"
+        "Wichtig für den Export von Agrarprodukten"
       ],
       hu: [
-        "Ã–sszekÃ¶ti a Casamance-t Dakarral",
-        "Fontos a mezÅ‘gazdasÃ¡gi export szÃ¡mÃ¡ra"
+        "Összeköti a Casamance-t Dakarral",
+        "Fontos a mezőgazdasági export számára"
       ],
       ro: [
-        "ConecteazÄƒ Casamance cu Dakar",
+        "Conectează Casamance cu Dakar",
         "Important pentru exportul de produse agricole"
       ],
       en: [
@@ -114,14 +114,14 @@ export const poiExtraSenegalEconomicV2: POI[] = [
     coords: [-16.082, 14.136],
     name: {
       de: "Hafen von Kaolack",
-      hu: "Kaolack KikÃ¶tÅ‘",
+      hu: "Kaolack Kikötő",
       ro: "Portul Kaolack",
       en: "Port of Kaolack"
     },
     description: {
-      de: "Der Hafen von Kaolack liegt am Fluss Saloum und ist bekannt fÃ¼r den Erdnussexport.",
-      hu: "A Kaolack kikÃ¶tÅ‘ a Saloum folyÃ³n talÃ¡lhatÃ³, Ã©s a fÃ¶ldimogyorÃ³ exportjÃ¡rÃ³l ismert.",
-      ro: "Portul Kaolack este situat pe rÃ¢ul Saloum È™i este cunoscut pentru exportul de arahide.",
+      de: "Der Hafen von Kaolack liegt am Fluss Saloum und ist bekannt für den Erdnussexport.",
+      hu: "A Kaolack kikötő a Saloum folyón található, és a földimogyoró exportjáról ismert.",
+      ro: "Portul Kaolack este situat pe râul Saloum și este cunoscut pentru exportul de arahide.",
       en: "The Port of Kaolack is located on the Saloum River and is known for peanut exports."
     },
     facts: {
@@ -130,8 +130,8 @@ export const poiExtraSenegalEconomicV2: POI[] = [
         "Zentrum der Erdnussindustrie"
       ],
       hu: [
-        "Folyami kikÃ¶tÅ‘",
-        "A fÃ¶ldimogyorÃ³-ipar kÃ¶zpontja"
+        "Folyami kikötő",
+        "A földimogyoró-ipar központja"
       ],
       ro: [
         "Port fluvial",
@@ -149,32 +149,32 @@ export const poiExtraSenegalEconomicV2: POI[] = [
     coords: [-16.657, 15.309],
     name: {
       de: "Mineralsandmine Diogo",
-      hu: "Diogo ÃsvÃ¡nyi HomokbÃ¡nya",
+      hu: "Diogo Ásványi Homokbánya",
       ro: "Mina de Nisip Mineral Diogo",
       en: "Diogo Mineral Sand Mine"
     },
     description: {
-      de: "Die Anlage der Grande CÃ´te Operations in Diogo fÃ¶rdert Zirkon und Ilmenit.",
-      hu: "A Grande CÃ´te Operations diogÃ³i lÃ©tesÃ­tmÃ©nye cirkont Ã©s ilmenitet bÃ¡nyÃ¡sz.",
-      ro: "InstalaÈ›ia Grande CÃ´te Operations din Diogo extrage zircon È™i ilmenit.",
-      en: "The Grande CÃ´te Operations facility in Diogo extracts zircon and ilmenite."
+      de: "Die Anlage der Grande Côte Operations in Diogo fördert Zirkon und Ilmenit.",
+      hu: "A Grande Côte Operations diogói létesítménye cirkont és ilmenitet bányász.",
+      ro: "Instalația Grande Côte Operations din Diogo extrage zircon și ilmenit.",
+      en: "The Grande Côte Operations facility in Diogo extracts zircon and ilmenite."
     },
     facts: {
       de: [
         "Produziert Titandioxid-Rohstoffe",
-        "Befindet sich in der Region ThiÃ¨s"
+        "Befindet sich in der Region Thiès"
       ],
       hu: [
-        "TitÃ¡n-dioxid alapanyagokat termel",
-        "A ThiÃ¨s rÃ©giÃ³ban talÃ¡lhatÃ³"
+        "Titán-dioxid alapanyagokat termel",
+        "A Thiès régióban található"
       ],
       ro: [
         "Produce materii prime de dioxid de titan",
-        "SituatÄƒ Ã®n regiunea ThiÃ¨s"
+        "Situată în regiunea Thiès"
       ],
       en: [
         "Produces titanium dioxide feedstocks",
-        "Located in the ThiÃ¨s region"
+        "Located in the Thiès region"
       ]
     }, image: "/poi-images/gco-diogo-mine-economic-v2.webp"},
   {
@@ -184,28 +184,28 @@ export const poiExtraSenegalEconomicV2: POI[] = [
     coords: [-17.272, 14.716],
     name: {
       de: "Zementfabrik SOCOCIM",
-      hu: "SOCOCIM CementgyÃ¡r",
+      hu: "SOCOCIM Cementgyár",
       ro: "Fabrica de Ciment SOCOCIM",
       en: "SOCOCIM Cement Factory"
     },
     description: {
-      de: "Das SOCOCIM-Werk in Rufisque ist einer der grÃ¶ÃŸten Zementproduzenten in Westafrika.",
-      hu: "A rufisque-i SOCOCIM gyÃ¡r Nyugat-Afrika egyik legnagyobb cementtermelÅ‘je.",
-      ro: "Uzina SOCOCIM din Rufisque este unul dintre cei mai mari producÄƒtori de ciment din Africa de Vest.",
+      de: "Das SOCOCIM-Werk in Rufisque ist einer der größten Zementproduzenten in Westafrika.",
+      hu: "A rufisque-i SOCOCIM gyár Nyugat-Afrika egyik legnagyobb cementtermelője.",
+      ro: "Uzina SOCOCIM din Rufisque este unul dintre cei mai mari producători de ciment din Africa de Vest.",
       en: "The SOCOCIM plant in Rufisque is one of the largest cement producers in West Africa."
     },
     facts: {
       de: [
-        "GegrÃ¼ndet 1948",
-        "Wichtig fÃ¼r die Bauwirtschaft des Senegals"
+        "Gegründet 1948",
+        "Wichtig für die Bauwirtschaft des Senegals"
       ],
       hu: [
-        "1948-ban alapÃ­tottÃ¡k",
-        "Fontos SzenegÃ¡l Ã©pÃ­tÅ‘ipara szÃ¡mÃ¡ra"
+        "1948-ban alapították",
+        "Fontos Szenegál építőipara számára"
       ],
       ro: [
-        "FondatÄƒ Ã®n 1948",
-        "ImportantÄƒ pentru industria construcÈ›iilor din Senegal"
+        "Fondată în 1948",
+        "Importantă pentru industria construcțiilor din Senegal"
       ],
       en: [
         "Founded in 1948",
@@ -219,27 +219,27 @@ export const poiExtraSenegalEconomicV2: POI[] = [
     coords: [-16.852, 15.074],
     name: {
       de: "Phosphatwerk Darou Khoudoss",
-      hu: "Darou Khoudoss FoszfÃ¡tgyÃ¡r",
+      hu: "Darou Khoudoss Foszfátgyár",
       ro: "Uzina de Fosfat Darou Khoudoss",
       en: "Darou Khoudoss Phosphate Plant"
     },
     description: {
-      de: "Die Industries Chimiques du SÃ©nÃ©gal betreiben hier eine groÃŸe Phosphatanlage.",
-      hu: "Az Industries Chimiques du SÃ©nÃ©gal nagy foszfÃ¡tÃ¼zemet mÅ±kÃ¶dtet itt.",
-      ro: "Industries Chimiques du SÃ©nÃ©gal opereazÄƒ aici o mare instalaÈ›ie de fosfaÈ›i.",
-      en: "The Industries Chimiques du SÃ©nÃ©gal operates a large phosphate plant here."
+      de: "Die Industries Chimiques du Sénégal betreiben hier eine große Phosphatanlage.",
+      hu: "Az Industries Chimiques du Sénégal nagy foszfátüzemet működtet itt.",
+      ro: "Industries Chimiques du Sénégal operează aici o mare instalație de fosfați.",
+      en: "The Industries Chimiques du Sénégal operates a large phosphate plant here."
     },
     facts: {
       de: [
-        "Produziert DÃ¼ngemittel",
+        "Produziert Düngemittel",
         "Wichtiger Exportartikel"
       ],
       hu: [
-        "MÅ±trÃ¡gyÃ¡t Ã¡llÃ­t elÅ‘",
+        "Műtrágyát állít elő",
         "Fontos exportcikk"
       ],
       ro: [
-        "Produce Ã®ngrÄƒÈ™Äƒminte",
+        "Produce îngrășăminte",
         "Un articol de export important"
       ],
       en: [
@@ -253,29 +253,29 @@ export const poiExtraSenegalEconomicV2: POI[] = [
     parent: "SN-TH",
     coords: [-17.065, 14.653],
     name: {
-      de: "Zementwerk KirÃ¨ne",
-      hu: "KirÃ¨ne CementgyÃ¡r",
-      ro: "Fabrica de Ciment KirÃ¨ne",
-      en: "KirÃ¨ne Cement Plant"
+      de: "Zementwerk Kirène",
+      hu: "Kirène Cementgyár",
+      ro: "Fabrica de Ciment Kirène",
+      en: "Kirène Cement Plant"
     },
     description: {
-      de: "Ein bedeutendes Zementwerk der Ciments du Sahel in KirÃ¨ne, Region ThiÃ¨s.",
-      hu: "A Ciments du Sahel jelentÅ‘s cementgyÃ¡ra a ThiÃ¨s rÃ©giÃ³beli KirÃ¨ne-ben.",
-      ro: "O importantÄƒ fabricÄƒ de ciment aparÈ›inÃ¢nd Ciments du Sahel Ã®n KirÃ¨ne, regiunea ThiÃ¨s.",
-      en: "A major cement plant belonging to Ciments du Sahel in KirÃ¨ne, ThiÃ¨s region."
+      de: "Ein bedeutendes Zementwerk der Ciments du Sahel in Kirène, Region Thiès.",
+      hu: "A Ciments du Sahel jelentős cementgyára a Thiès régióbeli Kirène-ben.",
+      ro: "O importantă fabrică de ciment aparținând Ciments du Sahel în Kirène, regiunea Thiès.",
+      en: "A major cement plant belonging to Ciments du Sahel in Kirène, Thiès region."
     },
     facts: {
       de: [
-        "UnterstÃ¼tzt den lokalen Bauboom",
+        "Unterstützt den lokalen Bauboom",
         "Moderne Produktionsanlagen"
       ],
       hu: [
-        "TÃ¡mogatja a helyi Ã©pÃ­tÅ‘ipari fellendÃ¼lÃ©st",
-        "Modern termelÅ‘lÃ©tesÃ­tmÃ©nyek"
+        "Támogatja a helyi építőipari fellendülést",
+        "Modern termelőlétesítmények"
       ],
       ro: [
-        "SprijinÄƒ boom-ul local al construcÈ›iilor",
-        "FacilitÄƒÈ›i moderne de producÈ›ie"
+        "Sprijină boom-ul local al construcțiilor",
+        "Facilități moderne de producție"
       ],
       en: [
         "Supports the local construction boom",
@@ -289,28 +289,28 @@ export const poiExtraSenegalEconomicV2: POI[] = [
     coords: [-17.05, 14.77],
     name: {
       de: "Dangote Zementfabrik Pout",
-      hu: "Dangote CementgyÃ¡r Pout",
+      hu: "Dangote Cementgyár Pout",
       ro: "Fabrica de Ciment Dangote Pout",
       en: "Dangote Cement Factory Pout"
     },
     description: {
       de: "Die Dangote-Zementfabrik in Pout ist Teil des expandierenden Bausektors im Senegal.",
-      hu: "A pout-i Dangote cementgyÃ¡r a bÅ‘vÃ¼lÅ‘ szenegÃ¡li Ã©pÃ­tÅ‘ipari Ã¡gazat rÃ©sze.",
-      ro: "Fabrica de ciment Dangote din Pout face parte din sectorul construcÈ›iilor Ã®n expansiune din Senegal.",
+      hu: "A pout-i Dangote cementgyár a bővülő szenegáli építőipari ágazat része.",
+      ro: "Fabrica de ciment Dangote din Pout face parte din sectorul construcțiilor în expansiune din Senegal.",
       en: "The Dangote cement factory in Pout is part of Senegal's expanding construction sector."
     },
     facts: {
       de: [
-        "KapazitÃ¤t von Ã¼ber 1,5 Millionen Tonnen",
-        "GehÃ¶rt zur Dangote Group"
+        "Kapazität von über 1,5 Millionen Tonnen",
+        "Gehört zur Dangote Group"
       ],
       hu: [
-        "TÃ¶bb mint 1,5 milliÃ³ tonnÃ¡s kapacitÃ¡s",
+        "Több mint 1,5 millió tonnás kapacitás",
         "A Dangote Csoporthoz tartozik"
       ],
       ro: [
         "Capacitate de peste 1,5 milioane de tone",
-        "AparÈ›ine grupului Dangote"
+        "Aparține grupului Dangote"
       ],
       en: [
         "Capacity of over 1.5 million tons",
@@ -323,29 +323,29 @@ export const poiExtraSenegalEconomicV2: POI[] = [
     parent: "SN-DK",
     coords: [-17.337, 14.739],
     name: {
-      de: "Ã–lraffinerie Mbao",
-      hu: "Mbao OlajfinomÃ­tÃ³",
-      ro: "RafinÄƒria de Petrol Mbao",
+      de: "Ölraffinerie Mbao",
+      hu: "Mbao Olajfinomító",
+      ro: "Rafinăria de Petrol Mbao",
       en: "Mbao Oil Refinery"
     },
     description: {
-      de: "Die SociÃ©tÃ© Africaine de Raffinage in Mbao ist die einzige Ã–lraffinerie des Landes.",
-      hu: "A SociÃ©tÃ© Africaine de Raffinage Mbao-ban az orszÃ¡g egyetlen olajfinomÃ­tÃ³ja.",
-      ro: "SociÃ©tÃ© Africaine de Raffinage din Mbao este singura rafinÄƒrie de petrol din È›arÄƒ.",
-      en: "The SociÃ©tÃ© Africaine de Raffinage in Mbao is the country's only oil refinery."
+      de: "Die Société Africaine de Raffinage in Mbao ist die einzige Ölraffinerie des Landes.",
+      hu: "A Société Africaine de Raffinage Mbao-ban az ország egyetlen olajfinomítója.",
+      ro: "Société Africaine de Raffinage din Mbao este singura rafinărie de petrol din țară.",
+      en: "The Société Africaine de Raffinage in Mbao is the country's only oil refinery."
     },
     facts: {
       de: [
-        "Verarbeitet importiertes RohÃ¶l",
+        "Verarbeitet importiertes Rohöl",
         "Versorgt den Inlandsmarkt mit Treibstoff"
       ],
       hu: [
-        "ImportÃ¡lt kÅ‘olajat dolgoz fel",
-        "Ãœzemanyaggal lÃ¡tja el a hazai piacot"
+        "Importált kőolajat dolgoz fel",
+        "Üzemanyaggal látja el a hazai piacot"
       ],
       ro: [
-        "ProceseazÄƒ È›iÈ›ei importat",
-        "AprovizioneazÄƒ piaÈ›a internÄƒ cu combustibil"
+        "Procesează țiței importat",
+        "Aprovizionează piața internă cu combustibil"
       ],
       en: [
         "Processes imported crude oil",
@@ -359,14 +359,14 @@ export const poiExtraSenegalEconomicV2: POI[] = [
     coords: [-16.914, 15.016],
     name: {
       de: "Windpark Taiba Ndiaye",
-      hu: "Taiba Ndiaye SzÃ©lerÅ‘mÅ±",
+      hu: "Taiba Ndiaye Szélerőmű",
       ro: "Parcul Eolian Taiba Ndiaye",
       en: "Taiba Ndiaye Wind Farm"
     },
     description: {
-      de: "Der Windpark in Taiba Ndiaye ist das grÃ¶ÃŸte Windenergieprojekt in Westafrika.",
-      hu: "A Taiba Ndiaye szÃ©lerÅ‘mÅ± Nyugat-Afrika legnagyobb szÃ©lenergia-projektje.",
-      ro: "Parcul eolian de la Taiba Ndiaye este cel mai mare proiect de energie eolianÄƒ din Africa de Vest.",
+      de: "Der Windpark in Taiba Ndiaye ist das größte Windenergieprojekt in Westafrika.",
+      hu: "A Taiba Ndiaye szélerőmű Nyugat-Afrika legnagyobb szélenergia-projektje.",
+      ro: "Parcul eolian de la Taiba Ndiaye este cel mai mare proiect de energie eoliană din Africa de Vest.",
       en: "The wind farm in Taiba Ndiaye is the largest wind energy project in West Africa."
     },
     facts: {
@@ -375,12 +375,12 @@ export const poiExtraSenegalEconomicV2: POI[] = [
         "Besteht aus 46 Windkraftanlagen"
       ],
       hu: [
-        "158,7 MW teljesÃ­tmÃ©ny",
-        "46 szÃ©lturbinÃ¡bÃ³l Ã¡ll"
+        "158,7 MW teljesítmény",
+        "46 szélturbinából áll"
       ],
       ro: [
         "Capacitate de 158,7 MW",
-        "ConstÄƒ din 46 de turbine eoliene"
+        "Constă din 46 de turbine eoliene"
       ],
       en: [
         "Capacity of 158.7 MW",
@@ -395,28 +395,28 @@ export const poiExtraSenegalEconomicV2: POI[] = [
     coords: [-17.295, 14.711],
     name: {
       de: "Kraftwerk Cap des Biches",
-      hu: "Cap des Biches ErÅ‘mÅ±",
-      ro: "Centrala ElectricÄƒ Cap des Biches",
+      hu: "Cap des Biches Erőmű",
+      ro: "Centrala Electrică Cap des Biches",
       en: "Cap des Biches Power Station"
     },
     description: {
-      de: "Das WÃ¤rmekraftwerk Cap des Biches in Rufisque ist eine wichtige Stromquelle fÃ¼r Dakar.",
-      hu: "A rufisque-i Cap des Biches hÅ‘erÅ‘mÅ± fontos Ã¡ramforrÃ¡s Dakar szÃ¡mÃ¡ra.",
-      ro: "Centrala termoelectricÄƒ Cap des Biches din Rufisque este o sursÄƒ importantÄƒ de energie pentru Dakar.",
+      de: "Das Wärmekraftwerk Cap des Biches in Rufisque ist eine wichtige Stromquelle für Dakar.",
+      hu: "A rufisque-i Cap des Biches hőerőmű fontos áramforrás Dakar számára.",
+      ro: "Centrala termoelectrică Cap des Biches din Rufisque este o sursă importantă de energie pentru Dakar.",
       en: "The Cap des Biches thermal power station in Rufisque is a major source of electricity for Dakar."
     },
     facts: {
       de: [
         "Wird von Senelec betrieben",
-        "Nutzt SchwerÃ¶l zur Stromerzeugung"
+        "Nutzt Schweröl zur Stromerzeugung"
       ],
       hu: [
-        "A Senelec Ã¼zemelteti",
-        "NehÃ©zolajat hasznÃ¡l Ã¡ramtermelÃ©sre"
+        "A Senelec üzemelteti",
+        "Nehézolajat használ áramtermelésre"
       ],
       ro: [
-        "OperatÄƒ de Senelec",
-        "FoloseÈ™te pÄƒcurÄƒ grea pentru a genera electricitate"
+        "Operată de Senelec",
+        "Folosește păcură grea pentru a genera electricitate"
       ],
       en: [
         "Operated by Senelec",
@@ -430,28 +430,28 @@ export const poiExtraSenegalEconomicV2: POI[] = [
     coords: [-15.698, 16.458],
     name: {
       de: "Zuckerfabrik Richard Toll",
-      hu: "Richard Toll CukorgyÃ¡r",
-      ro: "Fabrica de ZahÄƒr Richard Toll",
+      hu: "Richard Toll Cukorgyár",
+      ro: "Fabrica de Zahăr Richard Toll",
       en: "Richard Toll Sugar Factory"
     },
     description: {
-      de: "Die Compagnie SucriÃ¨re SÃ©nÃ©galaise (CSS) betreibt diese groÃŸe Zuckerrohrplantage und Fabrik.",
-      hu: "A Compagnie SucriÃ¨re SÃ©nÃ©galaise (CSS) Ã¼zemelteti ezt a nagy cukornÃ¡dÃ¼ltetvÃ©nyt Ã©s gyÃ¡rat.",
-      ro: "Compagnie SucriÃ¨re SÃ©nÃ©galaise (CSS) opereazÄƒ aceastÄƒ mare plantaÈ›ie de trestie de zahÄƒr È™i fabricÄƒ.",
-      en: "The Compagnie SucriÃ¨re SÃ©nÃ©galaise (CSS) operates this large sugarcane plantation and factory."
+      de: "Die Compagnie Sucrière Sénégalaise (CSS) betreibt diese große Zuckerrohrplantage und Fabrik.",
+      hu: "A Compagnie Sucrière Sénégalaise (CSS) üzemelteti ezt a nagy cukornádültetvényt és gyárat.",
+      ro: "Compagnie Sucrière Sénégalaise (CSS) operează această mare plantație de trestie de zahăr și fabrică.",
+      en: "The Compagnie Sucrière Sénégalaise (CSS) operates this large sugarcane plantation and factory."
     },
     facts: {
       de: [
-        "GrÃ¶ÃŸter Arbeitgeber der Region",
-        "Deckte einen GroÃŸteil des nationalen Zuckerbedarfs"
+        "Größter Arbeitgeber der Region",
+        "Deckte einen Großteil des nationalen Zuckerbedarfs"
       ],
       hu: [
-        "A rÃ©giÃ³ legnagyobb munkÃ¡ltatÃ³ja",
-        "A nemzeti cukoridÃ©ny nagy rÃ©szÃ©t fedezi"
+        "A régió legnagyobb munkáltatója",
+        "A nemzeti cukoridény nagy részét fedezi"
       ],
       ro: [
         "Cel mai mare angajator din regiune",
-        "AcoperÄƒ o mare parte din nevoile naÈ›ionale de zahÄƒr"
+        "Acoperă o mare parte din nevoile naționale de zahăr"
       ],
       en: [
         "Largest employer in the region",
@@ -465,14 +465,14 @@ export const poiExtraSenegalEconomicV2: POI[] = [
     coords: [-16.505, 16.023],
     name: {
       de: "Hafen von Saint-Louis",
-      hu: "Saint-Louis KikÃ¶tÅ‘",
+      hu: "Saint-Louis Kikötő",
       ro: "Portul Saint-Louis",
       en: "Port of Saint-Louis"
     },
     description: {
-      de: "Ein historischer Hafen an der MÃ¼ndung des Senegal-Flusses, der hauptsÃ¤chlich fÃ¼r die Fischerei genutzt wird.",
-      hu: "TÃ¶rtÃ©nelmi kikÃ¶tÅ‘ a SzenegÃ¡l-folyÃ³ torkolatÃ¡nÃ¡l, amelyet fÅ‘leg halÃ¡szatra hasznÃ¡lnak.",
-      ro: "Un port istoric la gura rÃ¢ului Senegal, folosit Ã®n principal pentru pescuit.",
+      de: "Ein historischer Hafen an der Mündung des Senegal-Flusses, der hauptsächlich für die Fischerei genutzt wird.",
+      hu: "Történelmi kikötő a Szenegál-folyó torkolatánál, amelyet főleg halászatra használnak.",
+      ro: "Un port istoric la gura râului Senegal, folosit în principal pentru pescuit.",
       en: "A historic port at the mouth of the Senegal River, used mainly for fishing."
     },
     facts: {
@@ -481,8 +481,8 @@ export const poiExtraSenegalEconomicV2: POI[] = [
         "Befindet sich auf der Insel Guet Ndar"
       ],
       hu: [
-        "A kÃ©zmÅ±ves halÃ¡szat kÃ¶zpontja",
-        "A Guet Ndar szigeten talÃ¡lhatÃ³"
+        "A kézműves halászat központja",
+        "A Guet Ndar szigeten található"
       ],
       ro: [
         "Centrul pescuitului artizanal",
@@ -505,26 +505,26 @@ export const poiExtraSenegalEconomicV2: POI[] = [
       en: "Diamniadio Industrial Park"
     },
     description: {
-      de: "Eine Sonderwirtschaftszone, die Investoren anziehen und die Industrialisierung fÃ¶rdern soll.",
-      hu: "KÃ¼lÃ¶nleges gazdasÃ¡gi Ã¶vezet, amelynek cÃ©lja a befektetÅ‘k vonzÃ¡sa Ã©s az iparosÃ­tÃ¡s elÅ‘segÃ­tÃ©se.",
-      ro: "O zonÄƒ economicÄƒ specialÄƒ menitÄƒ sÄƒ atragÄƒ investitori È™i sÄƒ promoveze industrializarea.",
+      de: "Eine Sonderwirtschaftszone, die Investoren anziehen und die Industrialisierung fördern soll.",
+      hu: "Különleges gazdasági övezet, amelynek célja a befektetők vonzása és az iparosítás elősegítése.",
+      ro: "O zonă economică specială menită să atragă investitori și să promoveze industrializarea.",
       en: "A special economic zone designed to attract investors and promote industrialization."
     },
     facts: {
       de: [
-        "Teil des 'Plan SÃ©nÃ©gal Emergent'",
+        "Teil des 'Plan Sénégal Emergent'",
         "Bietet steuerliche Anreize"
       ],
       hu: [
-        "A 'Plan SÃ©nÃ©gal Emergent' rÃ©sze",
-        "AdÃ³kedvezmÃ©nyeket kÃ­nÃ¡l"
+        "A 'Plan Sénégal Emergent' része",
+        "Adókedvezményeket kínál"
       ],
       ro: [
-        "Face parte din 'Plan SÃ©nÃ©gal Emergent'",
-        "OferÄƒ stimulente fiscale"
+        "Face parte din 'Plan Sénégal Emergent'",
+        "Oferă stimulente fiscale"
       ],
       en: [
-        "Part of the 'Plan SÃ©nÃ©gal Emergent'",
+        "Part of the 'Plan Sénégal Emergent'",
         "Offers tax incentives"
       ]
     }, image: "/poi-images/diamniadio-industrial-park-economic-v2.webp"},
@@ -535,28 +535,28 @@ export const poiExtraSenegalEconomicV2: POI[] = [
     coords: [-13.31, 15.65],
     name: {
       de: "Phosphatmine Matam",
-      hu: "Matam FoszfÃ¡tbÃ¡nya",
+      hu: "Matam Foszfátbánya",
       ro: "Mina de Fosfat Matam",
       en: "Matam Phosphate Mine"
     },
     description: {
-      de: "Ein groÃŸes Phosphatabbaugebiet in der Region Matam zur Herstellung von DÃ¼ngemitteln.",
-      hu: "Nagy foszfÃ¡tbÃ¡nyÃ¡szati terÃ¼let a Matam rÃ©giÃ³ban mÅ±trÃ¡gya elÅ‘Ã¡llÃ­tÃ¡sÃ¡ra.",
-      ro: "O mare zonÄƒ de extracÈ›ie a fosfaÈ›ilor Ã®n regiunea Matam pentru producÈ›ia de Ã®ngrÄƒÈ™Äƒminte.",
+      de: "Ein großes Phosphatabbaugebiet in der Region Matam zur Herstellung von Düngemitteln.",
+      hu: "Nagy foszfátbányászati terület a Matam régióban műtrágya előállítására.",
+      ro: "O mare zonă de extracție a fosfaților în regiunea Matam pentru producția de îngrășăminte.",
       en: "A large phosphate mining area in the Matam region for fertilizer production."
     },
     facts: {
       de: [
-        "FÃ¶rdert die landwirtschaftliche Entwicklung",
+        "Fördert die landwirtschaftliche Entwicklung",
         "Bedeutende Vorkommen in der Region Ndendory"
       ],
       hu: [
-        "ElÅ‘segÃ­ti a mezÅ‘gazdasÃ¡gi fejlÅ‘dÃ©st",
-        "JelentÅ‘s lelÅ‘helyek a Ndendory rÃ©giÃ³ban"
+        "Elősegíti a mezőgazdasági fejlődést",
+        "Jelentős lelőhelyek a Ndendory régióban"
       ],
       ro: [
-        "PromoveazÄƒ dezvoltarea agricolÄƒ",
-        "Depozite semnificative Ã®n regiunea Ndendory"
+        "Promovează dezvoltarea agricolă",
+        "Depozite semnificative în regiunea Ndendory"
       ],
       en: [
         "Promotes agricultural development",
@@ -570,28 +570,28 @@ export const poiExtraSenegalEconomicV2: POI[] = [
     coords: [-15.011, 16.516],
     name: {
       de: "Solarpark Bokhol",
-      hu: "Bokhol NaperÅ‘mÅ±",
+      hu: "Bokhol Naperőmű",
       ro: "Parcul Solar Bokhol",
       en: "Bokhol Solar Plant"
     },
     description: {
-      de: "Das Senergy 2-Projekt in Bokhol war eine der ersten groÃŸen Solaranlagen im Senegal.",
-      hu: "A bokholi Senergy 2 projekt SzenegÃ¡l egyik elsÅ‘ nagy naperÅ‘mÅ±ve volt.",
+      de: "Das Senergy 2-Projekt in Bokhol war eine der ersten großen Solaranlagen im Senegal.",
+      hu: "A bokholi Senergy 2 projekt Szenegál egyik első nagy naperőműve volt.",
       ro: "Proiectul Senergy 2 din Bokhol a fost una dintre primele mari centrale solare din Senegal.",
       en: "The Senergy 2 project in Bokhol was one of the first major solar plants in Senegal."
     },
     facts: {
       de: [
-        "20 MW KapazitÃ¤t",
-        "ErÃ¶ffnet im Jahr 2016"
+        "20 MW Kapazität",
+        "Eröffnet im Jahr 2016"
       ],
       hu: [
-        "20 MW kapacitÃ¡s",
-        "2016-ban nyÃ­lt meg"
+        "20 MW kapacitás",
+        "2016-ban nyílt meg"
       ],
       ro: [
         "Capacitate de 20 MW",
-        "Deschis Ã®n 2016"
+        "Deschis în 2016"
       ],
       en: [
         "20 MW capacity",
@@ -605,28 +605,28 @@ export const poiExtraSenegalEconomicV2: POI[] = [
     coords: [-16.983, 14.372],
     name: {
       de: "Solarkraftwerk Malicounda",
-      hu: "Malicounda NaperÅ‘mÅ±",
-      ro: "Centrala SolarÄƒ Malicounda",
+      hu: "Malicounda Naperőmű",
+      ro: "Centrala Solară Malicounda",
       en: "Malicounda Solar Power Plant"
     },
     description: {
-      de: "Eine 22-Megawatt-Photovoltaikanlage, die grÃ¼ne Energie in das nationale Netz einspeist.",
-      hu: "22 megawattos fotovoltaikus erÅ‘mÅ±, amely zÃ¶ld energiÃ¡t tÃ¡plÃ¡l az orszÃ¡gos hÃ¡lÃ³zatba.",
-      ro: "O centralÄƒ fotovoltaicÄƒ de 22 de megawaÈ›i care injecteazÄƒ energie verde Ã®n reÈ›eaua naÈ›ionalÄƒ.",
+      de: "Eine 22-Megawatt-Photovoltaikanlage, die grüne Energie in das nationale Netz einspeist.",
+      hu: "22 megawattos fotovoltaikus erőmű, amely zöld energiát táplál az országos hálózatba.",
+      ro: "O centrală fotovoltaică de 22 de megawați care injectează energie verde în rețeaua națională.",
       en: "A 22-megawatt photovoltaic plant that feeds green energy into the national grid."
     },
     facts: {
       de: [
-        "TrÃ¤gt zur Senkung der Stromkosten bei",
+        "Trägt zur Senkung der Stromkosten bei",
         "Teil der erneuerbaren Energiestrategie"
       ],
       hu: [
-        "HozzÃ¡jÃ¡rul az Ã¡ramkÃ¶ltsÃ©gek csÃ¶kkentÃ©sÃ©hez",
-        "A megÃºjulÃ³ energia stratÃ©gia rÃ©sze"
+        "Hozzájárul az áramköltségek csökkentéséhez",
+        "A megújuló energia stratégia része"
       ],
       ro: [
         "Contribuie la reducerea costurilor cu electricitatea",
-        "Face parte din strategia de energie regenerabilÄƒ"
+        "Face parte din strategia de energie regenerabilă"
       ],
       en: [
         "Helps reduce electricity costs",
@@ -641,31 +641,31 @@ export const poiExtraSenegalEconomicV2: POI[] = [
     coords: [-12.288, 12.871],
     name: {
       de: "Goldmine Mako",
-      hu: "Mako AranybÃ¡nya",
+      hu: "Mako Aranybánya",
       ro: "Mina de Aur Mako",
       en: "Mako Gold Mine"
     },
     description: {
-      de: "Die Mako-Goldmine wird von Resolute Mining betrieben und liegt in der NÃ¤he des Niokolo-Koba-Nationalparks.",
-      hu: "A Mako aranybÃ¡nyÃ¡t a Resolute Mining Ã¼zemelteti, Ã©s a Niokolo-Koba Nemzeti Park kÃ¶zelÃ©ben talÃ¡lhatÃ³.",
-      ro: "Mina de aur Mako este operatÄƒ de Resolute Mining È™i este situatÄƒ Ã®n apropierea Parcului NaÈ›ional Niokolo-Koba.",
+      de: "Die Mako-Goldmine wird von Resolute Mining betrieben und liegt in der Nähe des Niokolo-Koba-Nationalparks.",
+      hu: "A Mako aranybányát a Resolute Mining üzemelteti, és a Niokolo-Koba Nemzeti Park közelében található.",
+      ro: "Mina de aur Mako este operată de Resolute Mining și este situată în apropierea Parcului Național Niokolo-Koba.",
       en: "The Mako gold mine is operated by Resolute Mining and is located near the Niokolo-Koba National Park."
     },
     facts: {
       de: [
-        "Wichtiger Beitrag zur Wirtschaft von KÃ©dougou",
+        "Wichtiger Beitrag zur Wirtschaft von Kédougou",
         "Strikte Umweltauflagen"
       ],
       hu: [
-        "Fontos hozzÃ¡jÃ¡rulÃ¡s KÃ©dougou gazdasÃ¡gÃ¡hoz",
-        "SzigorÃº kÃ¶rnyezetvÃ©delmi elÅ‘Ã­rÃ¡sok"
+        "Fontos hozzájárulás Kédougou gazdaságához",
+        "Szigorú környezetvédelmi előírások"
       ],
       ro: [
-        "ContribuÈ›ie importantÄƒ la economia din KÃ©dougou",
-        "CerinÈ›e stricte de mediu"
+        "Contribuție importantă la economia din Kédougou",
+        "Cerințe stricte de mediu"
       ],
       en: [
-        "Important contribution to the KÃ©dougou economy",
+        "Important contribution to the Kédougou economy",
         "Strict environmental requirements"
       ]
     }
@@ -676,29 +676,29 @@ export const poiExtraSenegalEconomicV2: POI[] = [
     parent: "SN-KL",
     coords: [-16.075, 14.148],
     name: {
-      de: "ErdnussÃ¶lfabrik Sonacos",
-      hu: "Sonacos FÃ¶ldimogyorÃ³olaj-gyÃ¡r",
+      de: "Erdnussölfabrik Sonacos",
+      hu: "Sonacos Földimogyoróolaj-gyár",
       ro: "Fabrica de Ulei de Arahide Sonacos",
       en: "Sonacos Peanut Oil Factory"
     },
     description: {
-      de: "Ein bedeutendes Verarbeitungszentrum fÃ¼r die senegalesische Erdnussernte in Kaolack.",
-      hu: "A szenegÃ¡li fÃ¶ldimogyorÃ³-termÃ©s jelentÅ‘s feldolgozÃ³ kÃ¶zpontja Kaolackban.",
+      de: "Ein bedeutendes Verarbeitungszentrum für die senegalesische Erdnussernte in Kaolack.",
+      hu: "A szenegáli földimogyoró-termés jelentős feldolgozó központja Kaolackban.",
       ro: "Un important centru de procesare pentru recolta de arahide din Senegal, la Kaolack.",
       en: "A major processing center for the Senegalese peanut harvest in Kaolack."
     },
     facts: {
       de: [
-        "Produziert raffiniertes SpeiseÃ¶l",
+        "Produziert raffiniertes Speiseöl",
         "Ehemalige SUNEOR"
       ],
       hu: [
-        "FinomÃ­tott Ã©tolajat Ã¡llÃ­t elÅ‘",
-        "KorÃ¡bbi SUNEOR"
+        "Finomított étolajat állít elő",
+        "Korábbi SUNEOR"
       ],
       ro: [
         "Produce ulei comestibil rafinat",
-        "FostÄƒ SUNEOR"
+        "Fostă SUNEOR"
       ],
       en: [
         "Produces refined cooking oil",
@@ -712,28 +712,28 @@ export const poiExtraSenegalEconomicV2: POI[] = [
     coords: [-16.485, 14.12],
     name: {
       de: "Hafen von Ndakhonga",
-      hu: "Ndakhonga KikÃ¶tÅ‘",
+      hu: "Ndakhonga Kikötő",
       ro: "Portul Ndakhonga",
       en: "Port of Ndakhonga"
     },
     description: {
-      de: "Ein Flusshafen in der NÃ¤he von Foundiougne, der die maritime Infrastruktur im Zentrum des Landes stÃ¤rkt.",
-      hu: "Folyami kikÃ¶tÅ‘ Foundiougne kÃ¶zelÃ©ben, amely erÅ‘sÃ­ti az orszÃ¡g kÃ¶zpontjÃ¡nak tengeri infrastruktÃºrÃ¡jÃ¡t.",
-      ro: "Un port fluvial lÃ¢ngÄƒ Foundiougne care consolideazÄƒ infrastructura maritimÄƒ din centrul È›Äƒrii.",
+      de: "Ein Flusshafen in der Nähe von Foundiougne, der die maritime Infrastruktur im Zentrum des Landes stärkt.",
+      hu: "Folyami kikötő Foundiougne közelében, amely erősíti az ország központjának tengeri infrastruktúráját.",
+      ro: "Un port fluvial lângă Foundiougne care consolidează infrastructura maritimă din centrul țării.",
       en: "A river port near Foundiougne that strengthens the maritime infrastructure in the center of the country."
     },
     facts: {
       de: [
-        "Erleichtert den Personen- und GÃ¼terverkehr",
+        "Erleichtert den Personen- und Güterverkehr",
         "Am Fluss Saloum gelegen"
       ],
       hu: [
-        "MegkÃ¶nnyÃ­ti a szemÃ©ly- Ã©s Ã¡ruforgalmat",
-        "A Saloum folyÃ³n talÃ¡lhatÃ³"
+        "Megkönnyíti a személy- és áruforgalmat",
+        "A Saloum folyón található"
       ],
       ro: [
-        "FaciliteazÄƒ traficul de pasageri È™i mÄƒrfuri",
-        "Situat pe rÃ¢ul Saloum"
+        "Facilitează traficul de pasageri și mărfuri",
+        "Situat pe râul Saloum"
       ],
       en: [
         "Facilitates passenger and freight traffic",
@@ -746,29 +746,29 @@ export const poiExtraSenegalEconomicV2: POI[] = [
     parent: "SN-DK",
     coords: [-17.445, 14.655],
     name: {
-      de: "Sangomar Ã–lfeld Versorgungsbasis",
-      hu: "Sangomar OlajmezÅ‘ EllÃ¡tÃ³bÃ¡zis",
-      ro: "Baza de Aprovizionare a CÃ¢mpului Petrolier Sangomar",
+      de: "Sangomar Ölfeld Versorgungsbasis",
+      hu: "Sangomar Olajmező Ellátóbázis",
+      ro: "Baza de Aprovizionare a Câmpului Petrolier Sangomar",
       en: "Sangomar Oil Field Supply Base"
     },
     description: {
-      de: "Die logistische Basis in Dakar zur UnterstÃ¼tzung der Offshore-Ã–lfÃ¶rderung im Sangomar-Feld.",
-      hu: "A dakari logisztikai bÃ¡zis a Sangomar mezÅ‘ offshore olajkitermelÃ©sÃ©nek tÃ¡mogatÃ¡sÃ¡ra.",
-      ro: "Baza logisticÄƒ din Dakar pentru a sprijini producÈ›ia offshore de petrol din cÃ¢mpul Sangomar.",
+      de: "Die logistische Basis in Dakar zur Unterstützung der Offshore-Ölförderung im Sangomar-Feld.",
+      hu: "A dakari logisztikai bázis a Sangomar mező offshore olajkitermelésének támogatására.",
+      ro: "Baza logistică din Dakar pentru a sprijini producția offshore de petrol din câmpul Sangomar.",
       en: "The logistical base in Dakar to support offshore oil production in the Sangomar field."
     },
     facts: {
       de: [
-        "Sicherung der nationalen EnergieunabhÃ¤ngigkeit",
-        "FÃ¶rderung begann 2024"
+        "Sicherung der nationalen Energieunabhängigkeit",
+        "Förderung begann 2024"
       ],
       hu: [
-        "A nemzeti energiafÃ¼ggetlensÃ©g biztosÃ­tÃ¡sa",
-        "A kitermelÃ©s 2024-ben kezdÅ‘dÃ¶tt"
+        "A nemzeti energiafüggetlenség biztosítása",
+        "A kitermelés 2024-ben kezdődött"
       ],
       ro: [
-        "Asigurarea independenÈ›ei energetice naÈ›ionale",
-        "ProducÈ›ia a Ã®nceput Ã®n 2024"
+        "Asigurarea independenței energetice naționale",
+        "Producția a început în 2024"
       ],
       en: [
         "Securing national energy independence",
@@ -782,16 +782,16 @@ export const poiExtraSenegalEconomicV2: POI[] = [
     parent: "SN-TH",
     coords: [-16.486, 15.111],
     name: {
-      de: "Solaranlage Santhiou MÃ©khÃ©",
-      hu: "Santhiou MÃ©khÃ© NaperÅ‘mÅ±",
-      ro: "Centrala SolarÄƒ Santhiou MÃ©khÃ©",
-      en: "Santhiou MÃ©khÃ© Solar Plant"
+      de: "Solaranlage Santhiou Mékhé",
+      hu: "Santhiou Mékhé Naperőmű",
+      ro: "Centrala Solară Santhiou Mékhé",
+      en: "Santhiou Mékhé Solar Plant"
     },
     description: {
-      de: "Die Anlage Ten Merina in Santhiou MÃ©khÃ© ist ein groÃŸer Photovoltaikpark in der Region ThiÃ¨s.",
-      hu: "A Santhiou MÃ©khÃ©-i Ten Merina lÃ©tesÃ­tmÃ©ny egy nagy fotovoltaikus park a ThiÃ¨s rÃ©giÃ³ban.",
-      ro: "InstalaÈ›ia Ten Merina din Santhiou MÃ©khÃ© este un mare parc fotovoltaic Ã®n regiunea ThiÃ¨s.",
-      en: "The Ten Merina facility in Santhiou MÃ©khÃ© is a large photovoltaic park in the ThiÃ¨s region."
+      de: "Die Anlage Ten Merina in Santhiou Mékhé ist ein großer Photovoltaikpark in der Region Thiès.",
+      hu: "A Santhiou Mékhé-i Ten Merina létesítmény egy nagy fotovoltaikus park a Thiès régióban.",
+      ro: "Instalația Ten Merina din Santhiou Mékhé este un mare parc fotovoltaic în regiunea Thiès.",
+      en: "The Ten Merina facility in Santhiou Mékhé is a large photovoltaic park in the Thiès region."
     },
     facts: {
       de: [
@@ -799,12 +799,12 @@ export const poiExtraSenegalEconomicV2: POI[] = [
         "Deckung des Strombedarfs von Tausenden von Haushalten"
       ],
       hu: [
-        "30 megawattos teljesÃ­tmÃ©ny",
-        "TÃ¶bb ezer hÃ¡ztartÃ¡s Ã¡ramszÃ¼ksÃ©gletÃ©nek fedezÃ©se"
+        "30 megawattos teljesítmény",
+        "Több ezer háztartás áramszükségletének fedezése"
       ],
       ro: [
-        "Capacitate de 30 megawaÈ›i",
-        "Acoperirea necesarului de energie electricÄƒ a mii de gospodÄƒrii"
+        "Capacitate de 30 megawați",
+        "Acoperirea necesarului de energie electrică a mii de gospodării"
       ],
       en: [
         "30 megawatt capacity",
@@ -817,33 +817,33 @@ export const poiExtraSenegalEconomicV2: POI[] = [
     parent: "SN-TH",
     coords: [-16.918, 14.896],
     name: {
-      de: "Kraftwerk TobÃ¨ne",
-      hu: "TobÃ¨ne ErÅ‘mÅ±",
-      ro: "Centrala ElectricÄƒ TobÃ¨ne",
-      en: "TobÃ¨ne Power Plant"
+      de: "Kraftwerk Tobène",
+      hu: "Tobène Erőmű",
+      ro: "Centrala Electrică Tobène",
+      en: "Tobène Power Plant"
     },
     description: {
-      de: "Ein unabhÃ¤ngiges Kraftwerksprojekt, das SchwerÃ¶l zur Stabilisierung des senegalesischen Stromnetzes verwendet.",
-      hu: "FÃ¼ggetlen erÅ‘mÅ±projekt, amely nehÃ©zolajat hasznÃ¡l a szenegÃ¡li villamosenergia-hÃ¡lÃ³zat stabilizÃ¡lÃ¡sÃ¡ra.",
-      ro: "Un proiect de centralÄƒ electricÄƒ independentÄƒ care utilizeazÄƒ pÄƒcurÄƒ grea pentru a stabiliza reÈ›eaua electricÄƒ senegalezÄƒ.",
+      de: "Ein unabhängiges Kraftwerksprojekt, das Schweröl zur Stabilisierung des senegalesischen Stromnetzes verwendet.",
+      hu: "Független erőműprojekt, amely nehézolajat használ a szenegáli villamosenergia-hálózat stabilizálására.",
+      ro: "Un proiect de centrală electrică independentă care utilizează păcură grea pentru a stabiliza rețeaua electrică senegaleză.",
       en: "An independent power project that uses heavy fuel oil to stabilize the Senegalese electricity grid."
     },
     facts: {
       de: [
-        "Liefert Ã¼ber 100 MW",
-        "Befindet sich in der Region ThiÃ¨s"
+        "Liefert über 100 MW",
+        "Befindet sich in der Region Thiès"
       ],
       hu: [
-        "TÃ¶bb mint 100 MW-ot szolgÃ¡ltat",
-        "A ThiÃ¨s rÃ©giÃ³ban talÃ¡lhatÃ³"
+        "Több mint 100 MW-ot szolgáltat",
+        "A Thiès régióban található"
       ],
       ro: [
-        "FurnizeazÄƒ peste 100 MW",
-        "Situat Ã®n regiunea ThiÃ¨s"
+        "Furnizează peste 100 MW",
+        "Situat în regiunea Thiès"
       ],
       en: [
         "Provides over 100 MW",
-        "Located in the ThiÃ¨s region"
+        "Located in the Thiès region"
       ]
     }, image: "/poi-images/tobene-power-plant-economic-v2.webp"},
   {
@@ -858,23 +858,23 @@ export const poiExtraSenegalEconomicV2: POI[] = [
       en: "Massawa Gold Project"
     },
     description: {
-      de: "Eines der hochwertigsten unerschlossenen Goldprojekte in Afrika, das in der NÃ¤he von Sabodala liegt.",
-      hu: "Afrika egyik legjobb minÅ‘sÃ©gÅ±, kiaknÃ¡zatlan aranyprojektje, amely Sabodala kÃ¶zelÃ©ben talÃ¡lhatÃ³.",
-      ro: "Unul dintre proiectele de aur de cea mai Ã®naltÄƒ calitate neexploatate din Africa, situat Ã®n apropiere de Sabodala.",
+      de: "Eines der hochwertigsten unerschlossenen Goldprojekte in Afrika, das in der Nähe von Sabodala liegt.",
+      hu: "Afrika egyik legjobb minőségű, kiaknázatlan aranyprojektje, amely Sabodala közelében található.",
+      ro: "Unul dintre proiectele de aur de cea mai înaltă calitate neexploatate din Africa, situat în apropiere de Sabodala.",
       en: "One of the highest-grade undeveloped gold projects in Africa, located near Sabodala."
     },
     facts: {
       de: [
         "In die Sabodala-Mine integriert",
-        "Sichert langfristige GoldfÃ¶rderung"
+        "Sichert langfristige Goldförderung"
       ],
       hu: [
-        "IntegrÃ¡lva a Sabodala bÃ¡nyÃ¡ba",
-        "HosszÃº tÃ¡vÃº aranybÃ¡nyÃ¡szatot biztosÃ­t"
+        "Integrálva a Sabodala bányába",
+        "Hosszú távú aranybányászatot biztosít"
       ],
       ro: [
-        "Integrat Ã®n mina Sabodala",
-        "AsigurÄƒ producÈ›ia de aur pe termen lung"
+        "Integrat în mina Sabodala",
+        "Asigură producția de aur pe termen lung"
       ],
       en: [
         "Integrated into the Sabodala mine",
@@ -889,27 +889,27 @@ export const poiExtraSenegalEconomicV2: POI[] = [
     coords: [-17.228, 14.693],
     name: {
       de: "Mineralhafen Sendou",
-      hu: "Sendou ÃsvÃ¡nykikÃ¶tÅ‘",
+      hu: "Sendou Ásványkikötő",
       ro: "Portul Mineralier Sendou",
       en: "Sendou Mineral Port"
     },
     description: {
-      de: "Ein neuer Hafen, der speziell fÃ¼r den Export von MassengÃ¼tern wie Erzen und Mineralien ausgebaut wird.",
-      hu: "Egy Ãºj kikÃ¶tÅ‘, amelyet kifejezetten Ã¶mlesztett Ã¡ruk, pÃ©ldÃ¡ul Ã©rcek Ã©s Ã¡svÃ¡nyok exportjÃ¡ra fejlesztenek.",
-      ro: "Un port nou, dezvoltat special pentru exportul de mÄƒrfuri Ã®n vrac, cum ar fi minereurile È™i mineralele.",
+      de: "Ein neuer Hafen, der speziell für den Export von Massengütern wie Erzen und Mineralien ausgebaut wird.",
+      hu: "Egy új kikötő, amelyet kifejezetten ömlesztett áruk, például ércek és ásványok exportjára fejlesztenek.",
+      ro: "Un port nou, dezvoltat special pentru exportul de mărfuri în vrac, cum ar fi minereurile și mineralele.",
       en: "A new port being developed specifically for the export of bulk goods such as ores and minerals."
     },
     facts: {
       de: [
         "Entlastet den Hafen von Dakar",
-        "Wichtig fÃ¼r die Schwerindustrie"
+        "Wichtig für die Schwerindustrie"
       ],
       hu: [
-        "TehermentesÃ­ti a dakari kikÃ¶tÅ‘t",
-        "Fontos a nehÃ©zipar szÃ¡mÃ¡ra"
+        "Tehermentesíti a dakari kikötőt",
+        "Fontos a nehézipar számára"
       ],
       ro: [
-        "ElibereazÄƒ portul Dakar",
+        "Eliberează portul Dakar",
         "Important pentru industria grea"
       ],
       en: [
@@ -925,28 +925,28 @@ export const poiExtraSenegalEconomicV2: POI[] = [
     coords: [-17.23, 14.69],
     name: {
       de: "Kraftwerk Sendou",
-      hu: "Sendou ErÅ‘mÅ±",
-      ro: "Centrala ElectricÄƒ Sendou",
+      hu: "Sendou Erőmű",
+      ro: "Centrala Electrică Sendou",
       en: "Sendou Power Plant"
     },
     description: {
       de: "Ein umstrittenes Kohlekraftwerksprojekt in Bargny/Sendou zur Sicherung der Grundlast.",
-      hu: "VitathatÃ³ szÃ©nerÅ‘mÅ±-projekt Bargny/Sendou-ban az alapterhelÃ©s biztosÃ­tÃ¡sÃ¡ra.",
-      ro: "Un proiect controversat de centralÄƒ pe cÄƒrbune Ã®n Bargny/Sendou pentru a asigura sarcina de bazÄƒ.",
+      hu: "Vitatható szénerőmű-projekt Bargny/Sendou-ban az alapterhelés biztosítására.",
+      ro: "Un proiect controversat de centrală pe cărbune în Bargny/Sendou pentru a asigura sarcina de bază.",
       en: "A controversial coal power plant project in Bargny/Sendou to secure baseload power."
     },
     facts: {
       de: [
-        "Sollte Senegals EnergiekapazitÃ¤t erhÃ¶hen",
+        "Sollte Senegals Energiekapazität erhöhen",
         "Aufgrund von Umweltbedenken kritisiert"
       ],
       hu: [
-        "SzenegÃ¡l energiakapacitÃ¡sÃ¡nak nÃ¶velÃ©sÃ©t cÃ©lozta",
-        "KÃ¶rnyezetvÃ©delmi aggÃ¡lyok miatt kritizÃ¡ltÃ¡k"
+        "Szenegál energiakapacitásának növelését célozta",
+        "Környezetvédelmi aggályok miatt kritizálták"
       ],
       ro: [
-        "Menit sÄƒ creascÄƒ capacitatea energeticÄƒ a Senegalului",
-        "Criticat din cauza preocupÄƒrilor de mediu"
+        "Menit să crească capacitatea energetică a Senegalului",
+        "Criticat din cauza preocupărilor de mediu"
       ],
       en: [
         "Intended to increase Senegal's energy capacity",
@@ -961,28 +961,28 @@ export const poiExtraSenegalEconomicV2: POI[] = [
     coords: [-17.275, 14.711],
     name: {
       de: "Hafen von Rufisque",
-      hu: "Rufisque KikÃ¶tÅ‘",
+      hu: "Rufisque Kikötő",
       ro: "Portul Rufisque",
       en: "Port of Rufisque"
     },
     description: {
       de: "Ein historischer Hafen, der einst das Zentrum des senegalesischen Erdnussexports war, bevor Dakar an Bedeutung gewann.",
-      hu: "TÃ¶rtÃ©nelmi kikÃ¶tÅ‘, amely egykor a szenegÃ¡li fÃ¶ldimogyorÃ³-export kÃ¶zpontja volt, mielÅ‘tt Dakar jelentÅ‘sÃ©ge megnÅ‘tt.",
-      ro: "Un port istoric, care a fost odatÄƒ centrul exporturilor senegaleze de arahide Ã®nainte ca Dakarul sÄƒ devinÄƒ important.",
+      hu: "Történelmi kikötő, amely egykor a szenegáli földimogyoró-export központja volt, mielőtt Dakar jelentősége megnőtt.",
+      ro: "Un port istoric, care a fost odată centrul exporturilor senegaleze de arahide înainte ca Dakarul să devină important.",
       en: "A historic port that was once the center of Senegalese peanut exports before Dakar gained importance."
     },
     facts: {
       de: [
         "Heute von lokaler Bedeutung",
-        "Historische LagerhÃ¤user am Ufer"
+        "Historische Lagerhäuser am Ufer"
       ],
       hu: [
-        "Ma helyi jelentÅ‘sÃ©gÅ±",
-        "TÃ¶rtÃ©nelmi raktÃ¡rak a parton"
+        "Ma helyi jelentőségű",
+        "Történelmi raktárak a parton"
       ],
       ro: [
-        "AstÄƒzi de importanÈ›Äƒ localÄƒ",
-        "Depozite istorice pe È›Äƒrm"
+        "Astăzi de importanță locală",
+        "Depozite istorice pe țărm"
       ],
       en: [
         "Today of local importance",
@@ -996,28 +996,28 @@ export const poiExtraSenegalEconomicV2: POI[] = [
     coords: [-16.9, 15.15],
     name: {
       de: "Phosphatmine Mboro",
-      hu: "Mboro FoszfÃ¡tbÃ¡nya",
+      hu: "Mboro Foszfátbánya",
       ro: "Mina de Fosfat Mboro",
       en: "Mboro Phosphate Mine"
     },
     description: {
-      de: "Ein wichtiges Abbaugebiet fÃ¼r Kalziumphosphate, das zur senegalesischen DÃ¼ngemittelproduktion beitrÃ¤gt.",
-      hu: "A kalcium-foszfÃ¡tok fontos bÃ¡nyÃ¡szati terÃ¼lete, amely hozzÃ¡jÃ¡rul a szenegÃ¡li mÅ±trÃ¡gyagyÃ¡rtÃ¡shoz.",
-      ro: "O zonÄƒ importantÄƒ de extracÈ›ie a fosfaÈ›ilor de calciu, contribuind la producÈ›ia de Ã®ngrÄƒÈ™Äƒminte din Senegal.",
+      de: "Ein wichtiges Abbaugebiet für Kalziumphosphate, das zur senegalesischen Düngemittelproduktion beiträgt.",
+      hu: "A kalcium-foszfátok fontos bányászati területe, amely hozzájárul a szenegáli műtrágyagyártáshoz.",
+      ro: "O zonă importantă de extracție a fosfaților de calciu, contribuind la producția de îngrășăminte din Senegal.",
       en: "An important mining area for calcium phosphates, contributing to Senegalese fertilizer production."
     },
     facts: {
       de: [
-        "Nahe der KÃ¼ste gelegen",
+        "Nahe der Küste gelegen",
         "Langer industrieller Betrieb"
       ],
       hu: [
-        "A part kÃ¶zelÃ©ben talÃ¡lhatÃ³",
-        "HosszÃº ipari mÅ±kÃ¶dÃ©s"
+        "A part közelében található",
+        "Hosszú ipari működés"
       ],
       ro: [
-        "SituatÄƒ aproape de coastÄƒ",
-        "FuncÈ›ionare industrialÄƒ Ã®ndelungatÄƒ"
+        "Situată aproape de coastă",
+        "Funcționare industrială îndelungată"
       ],
       en: [
         "Located near the coast",
@@ -1031,28 +1031,28 @@ export const poiExtraSenegalEconomicV2: POI[] = [
     coords: [-17.07, 14.62],
     name: {
       de: "Tiefwasserhafen Ndayane",
-      hu: "Ndayane MÃ©lyvÃ­zi KikÃ¶tÅ‘",
-      ro: "Portul de ApÄƒ AdÃ¢ncÄƒ Ndayane",
+      hu: "Ndayane Mélyvízi Kikötő",
+      ro: "Portul de Apă Adâncă Ndayane",
       en: "Ndayane Deepwater Port"
     },
     description: {
-      de: "Ein im Bau befindlicher Mega-Hafen sÃ¼dlich von Dakar, der den alten Hafen entlasten soll.",
-      hu: "Dakar-tÃ³l dÃ©lre Ã©pÃ¼lÅ‘ megakikÃ¶tÅ‘, amelynek cÃ©lja a rÃ©gi kikÃ¶tÅ‘ tehermentesÃ­tÃ©se.",
-      ro: "Un mega-port Ã®n construcÈ›ie la sud de Dakar, menit sÄƒ elibereze vechiul port.",
+      de: "Ein im Bau befindlicher Mega-Hafen südlich von Dakar, der den alten Hafen entlasten soll.",
+      hu: "Dakar-tól délre épülő megakikötő, amelynek célja a régi kikötő tehermentesítése.",
+      ro: "Un mega-port în construcție la sud de Dakar, menit să elibereze vechiul port.",
       en: "A mega-port under construction south of Dakar, intended to relieve the old port."
     },
     facts: {
       de: [
         "Entwickelt von DP World",
-        "GrÃ¶ÃŸtes Hafenprojekt der Landesgeschichte"
+        "Größtes Hafenprojekt der Landesgeschichte"
       ],
       hu: [
         "A DP World fejleszti",
-        "Az orszÃ¡g tÃ¶rtÃ©netÃ©nek legnagyobb kikÃ¶tÅ‘projektje"
+        "Az ország történetének legnagyobb kikötőprojektje"
       ],
       ro: [
         "Dezvoltat de DP World",
-        "Cel mai mare proiect portuar din istoria È›Äƒrii"
+        "Cel mai mare proiect portuar din istoria țării"
       ],
       en: [
         "Developed by DP World",

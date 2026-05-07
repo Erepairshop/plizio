@@ -1342,7 +1342,7 @@ export const poiExtraMaltaOther: POI[] = [
       de: "Ein Geschäft, das traditionelle gozitanische Produkte wie Käse (Ġbejna), Honig und Marmeladen verkauft.",
       hu: "Hagyományos gozói termékeket, például sajtot (Ġbejna), mézet és lekvárokat árusító üzlet.",
       ro: "Un magazin care vinde produse tradiționale gozitane, cum ar fi brânză (Ġbejna), miere și gemuri.",
-      en: "A shop selling traditional Gozitan products like cheese (Ä bejna), honey, and jams."
+      en: "A shop selling traditional Gozitan products like cheese (Ġbejna), honey, and jams."
     },
     descriptionAdvanced: { de: "", hu: "Plizio tanterv: Földrajz 7. évfolyam. Málta egyéb látnivalói, mint a természetvédelmi területek és kertek, fontos szerepet játszanak a szigetek ökológiai egyensúlyának megorzésében, és remek lehetoséget kínálnak a környezeti nevelésre.", ro: "TODO", en: "" },
     factsAdvanced: { de: [], hu: ["Málta természeti értékei különösen érzékenyek a turizmus hatásaira.", "A Ghadira-rezervátum fontos állomás a vándormadarak számára.", "A Buskett-kertek az egyetlen nagyobb erdos terület a szigeten.", "A természetvédelmi területek védelme elengedhetetlen a fajok megmaradásához.", "A szigetország száraz éghajlata miatt a vizes élohelyek ritkaságszámba mennek.", "Málta kormánya számos projektet indított a biodiverzitás növelésére.", "A helyi növényvilág számos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }

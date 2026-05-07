@@ -1,0 +1,295 @@
+{
+  "lang": "hu",
+  "country": "southkorea",
+  "files": [
+    "lib/visualLab/data/poiExtraSouthkoreaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraSouthkoreaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraSouthkoreaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraSouthkoreaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraSouthkoreaLifeV2.ts",
+    "lib/visualLab/data/poiExtraSouthkoreaNatureV2.ts",
+    "lib/visualLab/data/poiExtraSouthkoreaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "jecheon-city-cities-v2",
+      "descriptionAdvanced": "Jecheon egy festői hegyvidéki város Észak-Chungcheong tartományban, amely a tiszta környezetéről és a gyógyító turizmusáról ismert. A város legismertebb látványossága az Urimji-víztározó, Korea egyik legrégebbi mezőgazdasági öntözőrendszere, amelyet gyönyörű fenyőerdők és pavilonok vesznek körül. Jecheon híres a gyógynövényiparáról is, itt rendezik meg az éves Nemzetközi Gyógynövény és Bioipari Kiállítást. A várost körülölelő hegyek és a közeli Cheongpung-tó (Chungju-tó) lenyűgöző panorámát nyújtanak, különösen a libegőből vagy a tóparti sétányokról szemlélve.",
+      "factsAdvanced": [
+        "Az Urimji-víztározó a Csoszon-dinasztia előtti időkből származik.",
+        "Jecheon Dél-Korea egyik vezető központja a tradicionális orvoslásnak.",
+        "Itt rendezik meg a Jecheon Nemzetközi Zenei és Filmfesztivált (JIMFF).",
+        "A város híres a gyógynövényes ételeiről, például a gyógynövényes rizsről.",
+        "A Cheongpung Kulturális Örökség Komplexum számos megmentett műemléket őriz.",
+        "A várost gyakran nevezik 'Gyógyító Városnak' (Healing City).",
+        "Jecheon fontos vasúti csomópont a Jungang és Chungbuk vonalakon.",
+        "A közeli Woraksan Nemzeti Park népszerű túracélpont."
+      ]
+    },
+    {
+      "id": "naju-city-cities-v2",
+      "descriptionAdvanced": "Naju egy ősi történelmi város Dél-Dzsolla tartományban, amely évszázadokon át a régió közigazgatási és gazdasági központja volt. A város leghíresebb terménye a Naju-körte, amelynek édessége és lédússága világszerte elismert. Naju modern arculatát a Bitgaram Innovációs Város határozza meg, ahová olyan óriásvállalatok központját helyezték át, mint a KEPCO (Koreai Elektromos Művek). A város gazdag építészeti örökséggel rendelkezik, beleértve az ősi városkapukat és a királyi rezidenciát, miközben a Youngsan-folyó partján fekvő táj békés kikapcsolódást nyújt.",
+      "factsAdvanced": [
+        "Naju körtefajtája Korea legkeresettebb és legkiválóbb gyümölcse.",
+        "Itt található a KEPCO, Dél-Korea legnagyobb áramszolgáltatójának központja.",
+        "A város egykor a tartomány névadója volt (Jeolla = Jeonju + Naju).",
+        "Híres a Naju Gomtang-ról, egy tradicionális marhahúslevesről.",
+        "A városban található a Naju Nemzeti Múzeum, amely az ősi sírleleteket őrzi.",
+        "Itt található a Bitgaram kilátótorony, az innovációs város jelképe.",
+        "Naju fontos selyem- és textilfestő központ (Indigo festés).",
+        "A Youngsan-folyó mentén népszerű kerékpárutak futnak."
+      ]
+    },
+    {
+      "id": "gwangyang-city-cities-v2",
+      "descriptionAdvanced": "Gwangyang egy vibráló ipari és kikötőváros Dél-Korea déli partján, amely globális jelentőségét a POSCO hatalmas acélművének és az ország egyik legmodernebb konténerkikötőjének köszönheti. A nehézipari túlsúly ellenére Gwangyang elkötelezett a természetvédelem és a kultúra mellett; minden tavasszal itt rendezik meg a híres Maehwa (szilvavirág) fesztivált, amely fehérbe borítja a Baegunsan-hegy lábát. A város stratégiai kapu a Sárga-tenger és a Csendes-óceán között, sikeresen ötvözve a globális logisztikai szerepkört a hagyományos mezőgazdasági értékekkel és a tengerparti szépséggel.",
+      "factsAdvanced": [
+        "Gwangyang ad otthont a világ egyik legnagyobb acélgyárának (POSCO).",
+        "Itt található Korea egyik legforgalmasabb és legmodernebb konténerkikötője.",
+        "Híres a Gwangyang Bulgogi-ról, amely egy speciális helyi grillezett húsétel.",
+        "A Maehwa-falu az ország legnagyobb szilvafa-ültetvényével rendelkezik.",
+        "A várost a monumentális Yi Sun-sin híd köti össze Yeosu városával.",
+        "Baegunsan-hegy híres a gyógyhatású juharszirup-gyűjtésről (Gorosoe).",
+        "Gwangyang fontos logisztikai központ a szabadkereskedelmi zónában.",
+        "A város éghajlata enyhe, ideális a gyümölcstermesztéshez."
+      ]
+    },
+    {
+      "id": "mungyeong-city-cities-v2",
+      "descriptionAdvanced": "Mungyeong egy történelmileg jelentős város Észak-Kjongszang tartományban, amely egykor a Szöul és Busan közötti legfontosabb átjáró (Mungyeong Saejae) felett őrködött. A város híres érintetlen természeti környezetéről és kulturális értékeiről, különösen a hagyományos kerámiakészítésről. A Mungyeong Saejae tartományi park nemcsak a túrázók kedvence, hanem népszerű filmforgatási helyszín is, ahol hatalmas történelmi díszletvárosokat építettek fel. A város modern gazdaságában fontos szerepet játszik a turizmus mellett az almatermesztés és a bányászat történetének bemutatása.",
+      "factsAdvanced": [
+        "Mungyeong Saejae volt a legfontosabb hágó a Csoszon-dinasztia idején.",
+        "A városban található Dél-Korea egyik legnagyobb történelmi filmdíszlete.",
+        "Híres a Mungyeong-i almáról és az omija (ötízű bogyó) termesztéséről.",
+        "Itt működik a Mungyeong Bányászati Múzeum egy egykori szénbányában.",
+        "A város híres a hagyományos, fatüzelésű kemencékben készült kerámiáiról.",
+        "Mungyeong Saejae az ország egyik legszebb sétaútvonalával rendelkezik.",
+        "Itt található Korea első sín-kerékpár (rail-bike) pályája.",
+        "A város népszerű hely a siklóernyőzés és az extrém sportok kedvelőinek."
+      ]
+    },
+    {
+      "id": "hanam-city-cities-v2",
+      "descriptionAdvanced": "Hanam egy gyorsan növekvő és modern város Szöul keleti határán, amely a Han-folyó mentén terül el. A város az ősi Pekcse Királyság egyik feltételezett korai fővárosa, így gazdag régészeti múlttal rendelkezik. Hanam ma leginkább kiterjedt lakónegyedeiről és a hatalmas Starfield Hanam bevásárlóközpontról ismert, amely az ország egyik legnagyobb ilyen jellegű komplexuma. A város környezetét a fenséges Geomdansan-hegy és a folyóparti parkok határozzák meg, így ideális lakóhely azok számára, akik vágynak a természet közelségére, de Szöul közvetlen közelében szeretnének maradni.",
+      "factsAdvanced": [
+        "Hanam a Pekcse Királyság korai fővárosa (Hanam Wiryeseong) lehetett.",
+        "Itt található a Starfield Hanam, Korea egyik legnagyobb bevásárlókomplexuma.",
+        "A város közvetlenül határos Szöul Gangdong kerületével.",
+        "Geomdansan-hegy népszerű túracélpont a fővárosi régióban.",
+        "A város ad otthont a Misari Evezős Versenypályának (1988-as olimpia).",
+        "Hanam híres az ökológiai parkjairól és a Han-folyó menti sétányairól.",
+        "A város népessége az elmúlt évtizedben megduplázódott az új lakóparkok miatt.",
+        "Gyakran rendeznek itt kulturális és zenei fesztiválokat a folyóparton."
+      ]
+    },
+    {
+      "id": "yeongju-city-cities-v2",
+      "descriptionAdvanced": "Yeongju a koreai szellemi kultúra és konfuciánus hagyományok egyik központja Észak-Kjongszang tartományban. A város büszke ékköve a Buseoksa-templom, amely az UNESCO Világörökség része, és híres gyönyörű faépítészetéről és naplementéiről. Yeongju ad otthont a Sosu Seowon-nak is, amely Korea első királyilag elismert konfuciánus akadémiája volt. A város gazdasága híres a prémium minőségű ginzengjéről (Punggi Ginzeng) és almájáról, miközben a modern vasúti hálózat fontos központjaként is szolgál, összekötve a keleti és középső országrészeket.",
+      "factsAdvanced": [
+        "A Buseoksa-templom a Csoszon-kori építészet egyik legszebb példája.",
+        "Sosu Seowon volt az első konfuciánus akadémia (Seowon) Koreában.",
+        "A Punggi Ginzeng nemzetközileg elismert magas minősége miatt.",
+        "Yeongju híres a 'Seonbi' (nemes tudós) szellemiség megőrzéséről.",
+        "A városban található a Seonbi Világ kulturális élménypark.",
+        "Yeongju alma az egyik legédesebb és legnépszerűbb az országban.",
+        "Fontos vasúti csomópont a Jungang, Gyeongbuk és Yeongdong vonalakon.",
+        "A közeli Sobaeksan Nemzeti Park lenyűgöző túraútvonalakat kínál."
+      ]
+    },
+    {
+      "id": "tongyeong-city-cities-v2",
+      "descriptionAdvanced": "Tongyeong egy lélegzetelállító kikötőváros Dél-Korea déli partján, amelyet gyakran 'Korea Nápolyának' neveznek csodálatos tengerparti tájai és szigetvilága miatt. A város történelmileg Yi Sun-sin admirális hadiszállásaként ismert, ahol stratégiai győzelmeket arattak a japán flotta felett. Tongyeong a művészetek városa is, itt született a világhírű zeneszerző, Isang Yun és az írónő, Park Kyung-ni. A város vibráló kulturális életét a Dongpirang falfestményes falu, a modern libegő és a különleges gasztronómia (például a Chungmu Kimbap és a friss osztriga) teszi teljessé.",
+      "factsAdvanced": [
+        "Tongyeong neve Yi Sun-sin admirális 'Samdo Sugun Tongyeyeong' parancsnokságából ered.",
+        "Gyakran 'Korea Nápolyának' hívják a gyönyörű kikötője miatt.",
+        "Itt található a Dongpirang falu, egy híres színes falfestményes negyed.",
+        "A Tongyeong-i libegő panorámás kilátást nyújt a Hallyeohaesang tengeri parkra.",
+        "A város híres az Isang Yun Nemzetközi Zenei Fesztiválról.",
+        "Tongyeong Korea osztrigatermelésének központja.",
+        "Itt készítik a Chungmu Kimbap-ot, egy speciális helyi ételt.",
+        "A város több mint 150 szigetből álló szigetvilág központja."
+      ]
+    },
+    {
+      "id": "sacheon-city-cities-v2",
+      "descriptionAdvanced": "Sacheon egy jelentős tengerparti város Dél-Kjongszang tartományban, amely Dél-Korea repülőgépgyártásának és űrkutatásának központja. Itt található a Korea Aerospace Industries (KAI) székhelye, ahol az ország saját fejlesztésű vadászgépeit és műholdjait gyártják. Sacheon azonban természeti szépségekben is gazdag; a várost és a közeli szigeteket összekötő Sacheon-tengeri libegő lenyűgöző kilátást nyújt a kék tengerre és a környező hegyekre. A város híres a friss tengeri ételeiről, különösen a halpiacáról, valamint történelmi emlékeiről, köztük a japán invázió elleni védekezés helyszíneiről.",
+      "factsAdvanced": [
+        "Sacheon Dél-Korea repülőgépgyártásának és űriparának szive.",
+        "Itt található a Korea Aerospace Industries (KAI) főhadiszállása.",
+        "A Sacheon-tengeri libegő az egyik leghosszabb és leglátványosabb az országban.",
+        "A városban rendezik meg az éves Sacheon Airshow-t.",
+        "Híres a Sacheon Jjueorigi-ról, amely egy speciális helyi halétel.",
+        "Itt található az Aerospace Museum, ahol számos repülőgép látható.",
+        "A város tengerpartja népszerű a horgászat és a vízi sportok kedvelői körében.",
+        "Sacheon történelmi hadikikötő volt a teknőshajók korában."
+      ]
+    },
+    {
+      "id": "miryang-city-cities-v2",
+      "descriptionAdvanced": "Miryang egy történelmi és kulturális kincsekkel teli város Dél-Kjongszang tartományban, amely a fenséges Yeongnam-Alpok lábánál fekszik. A város legfontosabb látványossága a Yeongnamnu pavilon, amely Korea három legszebb pavilonjának egyike, és a Miryang-folyó partján állva lenyűgöző panorámát nyújt. Miryang híres az 'Arirang' népdal helyi változatáról és a 'Jeges-völgyről' (Eorumgol), ahol nyáron is jég képződik a sziklák között. A város modern gazdaságában a mezőgazdaság dominál, különösen a jujuba és a paprika termesztéséről ismert, miközben fontos közlekedési csomópont a Szöul-Busan tengelyen.",
+      "factsAdvanced": [
+        "A Yeongnamnu pavilon a koreai tradicionális építészet remekműve.",
+        "Miryang az otthona az egyik legismertebb koreai népdalnak, a Miryang Arirang-nak.",
+        "A Jeges-völgyben (Eorumgol) a különleges mikroklíma miatt nyáron is jég fagy.",
+        "Itt található a Pyochungsa templom, amely a japán invázió elleni küzdelem fontos helyszíne volt.",
+        "Miryang Korea legnagyobb jujuba-termelő vidéke.",
+        "A várost gyakran használják filmforgatási helyszínként (pl. Secret Sunshine).",
+        "A Miryang-i nyári színházi fesztivál az egyik legjelentősebb művészeti esemény.",
+        "Fontos KTX megállóhely a Szöul és Busan közötti vonalon."
+      ]
+    },
+    {
+      "id": "ulsan-hyundai-heavy-industries-economic-v2",
+      "descriptionAdvanced": "Az ulsani Hyundai Heavy Industries (HHI) a világ egyik legnagyobb és legmodernebb hajógyára, amely a globális hajóépítési ipar egyik központja. A hatalmas komplexum több kilométer hosszan nyúlik el a tengerpart mentén, és itt építik a világ legbonyolultabb konténerszállítóit, tartályhajóit és tengeri olajfúró platformjait. A gyár nemcsak Ulsan gazdaságának motorja, hanem Dél-Korea ipari felemelkedésének is egyik legfontosabb szimbóluma. A modern technológia, az óriási daruk és a futurisztikus gyártósorok látványa lenyűgöző, tükrözve az ország mérnöki tudását és globális piaci dominanciáját.",
+      "factsAdvanced": [
+        "Ez a világ legnagyobb egybefüggő hajógyári komplexuma.",
+        "A Hyundai Heavy Industries építi a világ hajóinak jelentős százalékát.",
+        "Itt készülnek a világ legnagyobb LNG-szállító és konténerhajói.",
+        "A gyárterület akkora, hogy saját buszhálózata és tűzoltósága van.",
+        "Naponta több ezer tonna acélt használnak fel a gyártáshoz.",
+        "A komplexum tengeri szélerőmű-platformokat és motorokat is gyárt.",
+        "Ulsan városa és a gyár szorosan összenőtt az elmúlt évtizedekben.",
+        "A gyár fontos szerepet játszik a hidrogén-alapú hajózás fejlesztésében."
+      ]
+    },
+    {
+      "id": "busan-port-economic-v2",
+      "descriptionAdvanced": "A Busani kikötő Dél-Korea legnagyobb és a világ egyik legforgalmasabb tengeri kapuja, amely kulcsszerepet játszik a globális kereskedelemben. Stratégiai elhelyezkedése a Csendes-óceán kapujában ideális transzferközponttá teszi Ázsia, Amerika és Európa között. A kikötő modern termináljai teljesen automatizáltak, hatalmas daruk és futurisztikus logisztikai rendszerek biztosítják a konténerek gyors és hatékony mozgatását. Busan nemcsak egy kikötő, hanem egy hatalmas gazdasági motor, amely körül egy egész ökoszisztéma épült ki, beleértve a hajójavítást, a logisztikát és a nemzetközi üzleti szolgáltatásokat.",
+      "factsAdvanced": [
+        "A Busani kikötő a világ hatodik legforgalmasabb konténerkikötője.",
+        "Ez kezeli Dél-Korea tengeri export-import forgalmának közel 80%-át.",
+        "A kikötő két fő részből áll: a Régi Kikötőből és a modern Új Kikötőből (Busan New Port).",
+        "Teljesen automatizált terminálokkal rendelkezik a maximális hatékonyság érdekében.",
+        "Fontos csomópont a transz-szibériai vasútvonal távlati terveiben.",
+        "A kikötő mélysége alkalmas a világ legnagyobb teherhajóinak fogadására.",
+        "Busan a világ egyik vezető hajóellátási és logisztikai központja.",
+        "A kikötő fejlesztése folyamatos, alkalmazkodva a globális kereskedelmi igényekhez."
+      ]
+    },
+    {
+      "id": "posco-pohang-steel-works-economic-v2",
+      "descriptionAdvanced": "A pohangi POSCO acélmű a modern dél-koreai ipar egyik tartóoszlopa, a világ egyik leghatékonyabb és legnagyobb integrált acélgyártó komplexuma. Az 1960-as évek végén alapított gyár alapozta meg az ország gyors gazdasági fejlődését, acélt biztosítva az autógyártás, a hajóépítés és az építőipar számára. A komplexum hatalmas területet foglal el Pohang partjainál, saját kikötővel és kiterjedt gyártósorokkal, ahol a legmodernebb környezetvédelmi technológiákat alkalmazzák. A POSCO nemcsak egy vállalat, hanem a koreaiak számára a nemzeti büszkeség szimbóluma, amely megmutatta, hogyan válhat egy erőforrásokban szegény ország globális ipari vezetővé.",
+      "factsAdvanced": [
+        "A POSCO a világ egyik legértékesebb és legelismertebb acélgyártója.",
+        "Pohangban található a vállalat első és legnagyobb gyárkomplexuma.",
+        "Évente több tízmillió tonna nyersacélt állítanak elő itt.",
+        "A gyár biztosítja az alapanyagot a Hyundai és Kia autókhoz.",
+        "Saját kutatóegyetemmel (POSTECH) rendelkezik, amely a világ élvonalába tartozik.",
+        "A komplexum éjszakai kivilágítása Pohang városának egyik fő látványossága.",
+        "A POSCO úttörő a környezetbarát 'zöld acél' technológiák fejlesztésében.",
+        "A gyár alapítása a dél-koreai 'Han-folyó csodájának' egyik kulcseleme volt."
+      ]
+    },
+    {
+      "id": "incheon-international-airport-economic-v2",
+      "descriptionAdvanced": "Az Incshoni nemzetközi repülőtér Dél-Korea első számú légiközlekedési központja és a világ egyik legmagasabban értékelt repülőtere. Egy mesterségesen feltöltött szigeten épült fel, és 2001-es megnyitása óta folyamatosan a globális élvonalba tartozik szolgáltatási minőség, hatékonyság és technológiai innováció terén. A repülőtér nemcsak egy közlekedési csomópont, hanem egy 'repülőtér-város' (aerotropolis), amely bevásárlóközpontokkal, luxushotelekkel, kulturális múzeumokkal és golfpályákkal várja az utazókat. Stratégiai kapu Északkelet-Ázsia és a világ többi része között, a koreai gazdaság egyik legfontosabb motorja.",
+      "factsAdvanced": [
+        "Az Incheon repülőtér többször is elnyerte a 'Világ legjobb repülőtere' címet.",
+        "Két mesterségesen összekapcsolt szigeten (Yeongjong és Yongyu) épült.",
+        "A világ egyik legnagyobb teherforgalmát bonyolító repülőtere.",
+        "Híres a rendkívül gyors útlevélkezeléséről és csomagkiadásáról.",
+        "A terminálokon belül ingyenes kulturális előadások és múzeumok találhatók.",
+        "Saját jégpályája, mozi-komplexuma és botanikus kertje is van.",
+        "Az Incheon Bridge, Korea leghosszabb hídja köti össze a szárazfölddel.",
+        "A repülőtér fontos szerepet játszik a Hallyu (koreai hullám) terjesztésében."
+      ]
+    },
+    {
+      "id": "gwangyang-port-economic-v2",
+      "descriptionAdvanced": "A Gwangyang-i kikötő Dél-Korea második legfontosabb konténerkikötője, amely a félsziget déli részén, egy védett öbölben helyezkedik el. A kikötő különlegessége a mély víz és a modern, nagy teljesítményű terminálok, amelyek lehetővé teszik a legújabb generációs óriáshajók fogadását is. Gwangyang fontos szerepet játszik a regionális logisztikában, különösen az acél- és vegyipari termékek exportjában, köszönhetően a szomszédos POSCO acélműnek. A kikötő köré épült szabadkereskedelmi zóna számos nemzetközi vállalatot vonz, hozzájárulva a térség és az ország gazdasági versenyképességéhez.",
+      "factsAdvanced": [
+        "Gwangyang a Sárga-tengeri térség egyik legfontosabb átszállító (transshipment) központja.",
+        "A kikötő vize elég mély ahhoz, hogy a világ legnagyobb teherhajói is kiköthessenek.",
+        "Stratégiai elhelyezkedése miatt ideális kapu Kína és Japán felé.",
+        "A kikötő termináljai jelentős részben automatizáltak.",
+        "Szoros gazdasági szimbiózisban él a POSCO gwangyangi acélművével.",
+        "A kikötő területe folyamatosan bővül mesterséges feltöltésekkel.",
+        "Fontos szerepet játszik a folyékony földgáz (LNG) importjában is.",
+        "A szabadkereskedelmi zóna adókedvezményeket kínál a külföldi befektetőknek."
+      ]
+    },
+    {
+      "id": "samsung-digital-city-economic-v2",
+      "descriptionAdvanced": "A Samsung Digital City Suwonban a világ egyik legjelentősebb technológiai és innovációs központja, a Samsung Electronics globális kutatási és fejlesztési (K+F) bázisa. Ez a hatalmas campus olyan, mint egy önálló város, ahol több tízezer mérnök és kutató dolgozik a jövő technológiáin, beleértve az okostelefonokat, a félvezetőket és a mesterséges intelligenciát. A terület nemcsak irodákból áll, hanem sportpályákat, éttermeket, parkokat és saját egészségügyi központot is magában foglal, biztosítva a legmagasabb színvonalú munkakörnyezetet. Ez a komplexum a koreai innovációs erő és a globális technológiai vezetés szíve.",
+      "factsAdvanced": [
+        "A Samsung Digital City közel 1,6 millió négyzetméteren terül el Suwonban.",
+        "Több mint 35 000 alkalmazott dolgozik ezen az egyetlen campuson.",
+        "Itt található a Samsung Innovációs Múzeum (SIM), amely az elektronika történetét mutatja be.",
+        "A campuson 13 kutatóközpont és tucatnyi laboratórium működik.",
+        "Saját buszhálózata és kiterjedt sportlétesítményei (pl. uszoda) vannak.",
+        "A látogatók számára a terület nagy része zárt a biztonsági előírások miatt.",
+        "Itt születtek a világ legnépszerűbb Galaxy okostelefonjai.",
+        "A komplexum élen jár a fenntartható és okos irodai megoldások alkalmazásában."
+      ]
+    },
+    {
+      "id": "hanul-nuclear-power-plant-economic-v2",
+      "descriptionAdvanced": "A Hanul atomerőmű Uljinban Dél-Korea egyik legnagyobb és legfontosabb energiatermelő létesítménye, amely alapvető szerepet játszik az ország stabil és alacsony szén-dioxid-kibocsátású áramellátásában. A tengerparton elhelyezkedő komplexum több reaktorból áll, amelyek az ország teljes villamosenergia-szükségletének jelentős részét fedezik. Az erőmű a legmagasabb biztonsági sztenderdek szerint üzemel, és fontos központja a koreai nukleáris technológiai kutatásoknak is. A létesítmény nemcsak energetikai szempontból kulcsfontosságú, hanem jelentős adóbevételt és munkalehetőséget is biztosít a régió számára, hozzájárulva a helyi infrastruktúra fejlődéséhez.",
+      "factsAdvanced": [
+        "A Hanul atomerőmű a világ egyik legnagyobb beépített kapacitású atomerőműve.",
+        "Jelenleg hat aktív reaktorral rendelkezik, és továbbiak épülnek.",
+        "Az erőmű tengerparti elhelyezkedése a hűtővíz biztosítása miatt ideális.",
+        "Az itt termelt energia Szöul és a környező ipari parkok ellátásában is fontos.",
+        "A Korea Hydro & Nuclear Power (KHNP) üzemelteti a létesítményt.",
+        "Az erőmű látogatóközpontja bemutatja a nukleáris energia működését és biztonságát.",
+        "Szigorú környezetvédelmi és sugárvédelmi ellenőrzés alatt áll.",
+        "Fontos szerepet játszik Korea energiafüggetlenségi törekvéseiben."
+      ]
+    },
+    {
+      "id": "sk-hynix-icheon-plant-economic-v2",
+      "descriptionAdvanced": "Az SK Hynix icheoni gyára a globális memória-félvezető ipar egyik legfontosabb központja, ahol a legmodernebb DRAM és NAND flash chipeket gyártják. A hatalmas ipari komplexum az SK Hynix központjaként is szolgál, és itt található a világ egyik legfejlettebb félvezetőgyártó sora (a 'M16' gyáregység). A precíziós gyártás, a tiszta szobák és az automatizált robotrendszerek a technológiai fejlődés csúcsát képviselik. Icheon gazdasága szorosan összefonódott a gyár sikerével, amely nemcsak Dél-Korea exportjának egyik fő motorja, hanem a globális digitális infrastruktúra nélkülözhetetlen beszállítója is.",
+      "factsAdvanced": [
+        "Icheon az SK Hynix globális központja és fő félvezetőgyártó bázisa.",
+        "Itt található az M16 gyár, amely a legmodernebb EUV litográfiai technológiát használja.",
+        "A gyár éjjel-nappal üzemel a globális chipkereslet kielégítése érdekében.",
+        "Az SK Hynix a világ második legnagyobb memóriachip-gyártója.",
+        "A komplexum több mint 20 000 embernek ad közvetlenül munkát.",
+        "A félvezetőgyártáshoz rendkívül tiszta vízre és stabil áramellátásra van szükség.",
+        "A gyár folyamatos fejlesztései hozzájárulnak Korea technológiai fölényéhez.",
+        "Icheon városában az SK Hynix jelentős támogatást nyújt a helyi oktatásnak."
+      ]
+    },
+    {
+      "id": "dangjin-thermal-power-plant-economic-v2",
+      "descriptionAdvanced": "A Dangjin-i hőerőmű Dél-Korea egyik legnagyobb széntüzelésű erőműve, amely alapvető bázisenergiát biztosít a fővárosi régió és az ország ipari parkjai számára. A hatalmas létesítmény Dangjin tengerpartján helyezkedik el, saját szénrakodó kikötővel rendelkezik, és több blokkból áll, amelyek együttesen hatalmas teljesítményt nyújtanak. Az elmúlt években az erőmű jelentős technológiai fejlesztéseken esett át a károsanyag-kibocsátás csökkentése és a hatékonyság növelése érdekében. Bár a fosszilis energia fokozatos kivezetése a cél, a Dangjin-i erőmű jelenleg még megkerülhetetlen szereplője az ország stabil energiarendszerének.",
+      "factsAdvanced": [
+        "Ez az egyik legnagyobb beépített teljesítményű hőerőmű Dél-Koreában.",
+        "Az erőmű tíz generátorblokkból áll, amelyek összesen több ezer megawattot termelnek.",
+        "Közvetlen szénszállító kikötővel rendelkezik az importált szén fogadására.",
+        "Az itt termelt áram jelentős része a Szöuli Nemzeti Fővárosi Területre irányul.",
+        "Az erőmű üzemeltetője a Korea East-West Power (EWP).",
+        "A létesítményben modern kéntelenítő és porszűrő berendezések működnek.",
+        "A területen napenergia- és szélenergia-parkokat is kialakítottak.",
+        "Fontos szerepet játszik a hálózati stabilitás fenntartásában a csúcsidőszakokban."
+      ]
+    },
+    {
+      "id": "lg-chem-yeosu-plant-economic-v2",
+      "descriptionAdvanced": "Az LG Chem joszui gyára a koreai petrolkémiai ipar egyik zászlóshajója, a világ egyik legversenyképesebb vegyipari komplexuma. A Joszu Petrolkémiai Ipari Parkban elhelyezkedő gyár alapanyagok széles skáláját állítja elő, beleértve az etilént, a polietilént és különböző speciális műanyagokat, amelyek az autóipartól a háztartási eszközökig mindenhol jelen vannak. Az LG Chem itt alkalmazza a legfejlettebb gyártási technológiákat és folyamatautomatizálást, miközben nagy hangsúlyt fektet a fenntarthatóságra és a szén-dioxid-kibocsátás csökkentésére. A gyár kulcsszerepet játszik abban, hogy Dél-Korea globális vezető maradjon a vegyiparban.",
+      "factsAdvanced": [
+        "Az LG Chem joszui bázisa a vállalat legnagyobb és legfontosabb gyáregysége.",
+        "Itt található Korea egyik legnagyobb etilén-repedő (NCC) üzeme.",
+        "A gyár több mint 30 különböző vegyipari egységből épül fel.",
+        "Az itt készült alapanyagokat a világ szinte minden tájára exportálják.",
+        "LG Chem piacvezető a speciális műanyagok és akkumulátor-alapanyagok terén.",
+        "A komplexum éjjel-nappal, az év 365 napján üzemel.",
+        "Szigorú biztonsági és környezetvédelmi monitoring rendszer működik a területen.",
+        "Joszu gazdaságának egyik legfontosabb adófizetője és munkáltatója."
+      ]
+    },
+    {
+      "id": "gumi-electronics-complex-economic-v2",
+      "descriptionAdvanced": "A gumi elektronikai komplexum Dél-Korea első és egyik legnagyobb ipari parkja, amely az 1970-es évek óta az ország technológiai felemelkedésének motorja. A Gyeongbuk tartományban fekvő hatalmas területen olyan globális óriások gyártóegységei találhatók meg, mint a Samsung Electronics és az LG Display. A komplexum a televíziók, kijelzők, okostelefonok és elektronikai alkatrészek gyártásának globális központja. Gumi városa az ipari park köré épült fel, és ma is az ország egyik legfontosabb exportbázisa, ahol a hagyományos gyártás és a modern kutatás-fejlesztés szoros egységben működik.",
+      "factsAdvanced": [
+        "A Gumi komplexumot 1969-ben alapították, Korea első elektronikai központjaként.",
+        "Több mint 2000 vállalat működik a különböző ipari zónákban.",
+        "Itt gyártják a Samsung csúcskategóriás okostelefonjainak jelentős részét.",
+        "Az LG Display itt működteti a világ egyik legnagyobb panelgyárát.",
+        "A komplexum Korea elektronikai exportjának közel 20%-át adja.",
+        "Gumi városa Dél-Korea legmagasabb egy főre jutó exportteljesítményével büszkélkedhet.",
+        "Az ipari park folyamatosan átalakul, a 3D nyomtatás és a robotika felé nyitva.",
+        "A Nakdong-folyó közelsége biztosítja az ipari termeléshez szükséges vizet."
+      ]
+    }
+  ]
+}

@@ -11,7 +11,7 @@ export const poiExtraHondurasEconomicV2: POI[] = [
     description: { de: "Der bedeutendste Hafen von Honduras am Atlantik.", hu: "Honduras legfontosabb kikötője az Atlanti-óceánon.", ro: "Cel mai important port al Hondurasului la Oceanul Atlantic.", en: "The most important port of Honduras on the Atlantic coast." },
     descriptionAdvanced: {
       de: "Puerto Cortés ist der wichtigste Seehafen Zentralamerikas an der Karibikküste und dient als primäres Tor für den honduranischen Außenhandel. Dank modernster Infrastruktur und einer strategisch günstigen Lage in einer geschützten Bucht können hier riesige Containerschiffe abgefertigt werden. Der Hafen spielt eine entscheidende Rolle für den Export von Kaffee, Bananen und Textilien in die Weltmärkte. Neben seiner wirtschaftlichen Bedeutung bietet die Stadt auch reizvolle Strände und eine lebendige maritime Atmosphäre.",
-      hu: "Puerto Cortés Honduras legfontosabb tengeri kikötője a karibi partvidéken, és Közép-Amerika egyik legforgalmasabb logisztikai csomópontja. A kikötő stratégiai elhelyezkedése egy védett öbölben lehetővé teszi a hatalmas konténerszállító hajók fogadását az év minden szakában. Itt halad át az ország külkereskedelmének nagy része, különösen a kávé, a banán és a textiláruk exportja az észak-amerikai és európai piacokra. A város nemcsak ipari központ, hanem kedvelt turisztikai célpont is, köszönhetően gyönyörű strandjainak és élénk éjszakai életének. Puerto Cortés kulcsszerepet játszik az ország gazdasági stabilitásában és a regionális kereskedelemben.",
+      hu: "Puerto Cortés Honduras legnagyobb és legfontosabb tengeri kikötője, egyben Közép-Amerika egyik legforgalmasabb teherkikötője a Karib-tengeren. A Cortés megyében található infrastruktúra a hondurasi gazdaság köldökzsinórja; az ország exportjának (banán, kávé, textilipari termékek) és importjának több mint fele itt halad át. A kikötőt a 16. században alapították Puerto Caballos néven, de modern, mélyvízi kapacitását az 1970-es években építették ki. Jelenleg a legkorszerűbb konténerterminálokkal, ömlesztettáru-rakodókkal és kőolajfinomító létesítményekkel rendelkezik. A kikötő az Egyesült Államok által minősített „Mega-Port” státusszal bír, amely biztosítja a közvetlen, szigorú vámvizsgálat nélküli exportot Észak-Amerikába. Gazdaság K8 — tengeri kereskedelem.",
       ro: "",
       en: ""
     },
@@ -23,7 +23,7 @@ export const poiExtraHondurasEconomicV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Besitzt eine der modernsten Containeranlagen der Region", "Früher unter dem Namen Puerto de Caballos bekannt", "Tiefster natürlicher Hafen in Mittelamerika", "Umschlagplatz für über 80% des honduranischen Seehandels"],
-      hu: ["A kikötő rendelkezik a régió egyik legmodernebb konténertermináljával.", "Eredetileg Puerto de Caballos néven alapította Gil González Dávila.", "Ez Közép-Amerika legmélyebb természetes kikötője, ami hatalmas előnyt jelent a hajózásban.", "Honduras tengeri kereskedelmének több mint 80%-át itt bonyolítják le."],
+      hu: ["Honduras és Közép-Amerika egyik legnagyobb tengeri kikötője.", "Az ország nemzetközi kereskedelmének (export/import) legfőbb központja.", "Eredetileg 1524-ben alapították Puerto Caballos néven.", "Rendelkezik az Egyesült Államok 'Mega-Port' biztonsági minősítésével.", "Modern konténer- és kőolaj-terminálokkal van felszerelve.", "A kikötő mellett hatalmas szabadkereskedelmi (maquiladora) zónák működnek.", "Tengerpartja és az Alvarado-lagúna fontos ökológiai terület is."],
       ro: [],
       en: []
     }, image: "/poi-images/puerto-cortes-economic-v2.webp"},
@@ -61,7 +61,7 @@ export const poiExtraHondurasEconomicV2: POI[] = [
     description: { de: "Ein bedeutendes Zentrum der Textilindustrie und Maquila-Produktion.", hu: "A textilipar és a Maquila-termelés jelentős központja.", ro: "Un centru important al industriei textile și al producției Maquila.", en: "A major hub for the textile industry and Maquila production." },
     descriptionAdvanced: {
       de: "Der Industriepark von Choloma ist einer der dynamischsten Wirtschaftsbereiche in ganz Mittelamerika. Er beherbergt zahlreiche 'Maquilas', Fabriken, die Rohstoffe importieren und fertige Textilien für den Weltmarkt exportieren. Tausende von Menschen finden hier Beschäftigung, was Choloma zu einer der am schnellsten wachsenden Städte des Landes macht. Die Region ist ein Paradebeispiel für die industrielle Transformation und die Integration von Honduras in die globale Lieferkette.",
-      hu: "A Choloma Ipari Park Közép-Amerika egyik legdinamikusabb gazdasági övezete, ahol a textil- és feldolgozóipar dominál. Az itt működő számos 'maquila' gyárban világszerte ismert márkák termékeit állítják elő exportra, hatalmas bevételt generálva az országnak. A park több tízezer embernek ad munkát, ami Cholomát az ország egyik leggyorsabban fejlődő városává tette. Az ipari park modern logisztikai megoldásai és kedvező adózási feltételei folyamatosan vonzzák a külföldi befektetéseket. Ez a terület a hondurasi ipari forradalom és a globális piacokba való integráció ékes példája.",
+      hu: "A Choloma Ipari Zóna Honduras legfontosabb és legkiterjedtebb gyártó- és összeszerelő központja (maquiladora), amely Cortés megyében, San Pedro Sula agglomerációjában helyezkedik el. A terület az 1990-es évektől kezdve robbanásszerűen fejlődött a nemzetközi szabadkereskedelmi egyezmények és az adókedvezmények hatására. Jelenleg több tucat hatalmas ipari park található itt (ZIP - Zonas Industriales de Procesamiento), ahol több mint 100 000 munkás dolgozik. Az üzemek túlnyomórészt amerikai és ázsiai tulajdonban vannak, és elsősorban textilipari termékeket, ruházatot, valamint autóipari kábelkötegeket állítanak elő exportra. Choloma ipari boomja jelentős belső migrációt indított el Hondurasban, a várost az ország gazdasági motorjává téve. Gazdaság K8 — ipari parkok.",
       ro: "",
       en: ""
     },
@@ -73,7 +73,7 @@ export const poiExtraHondurasEconomicV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Größte Konzentration von Textilbetrieben im Land", "Trägt massiv zum Bruttoinlandsprodukt bei", "Verfügt über moderne Logistik- und Lagerhallen", "Zentrum für internationale Investitionen im Industriesektor"],
-      hu: ["Itt található az ország legnagyobb koncentrációjú textilipari üzemeinek csoportja.", "Az ipari park termelése jelentős százalékban járul hozzá Honduras GDP-jéhez.", "A terület közvetlen összeköttetésben áll Puerto Cortés kikötőjével a gyors export érdekében.", "Számos multinacionális vállalat választotta Cholomát közép-amerikai bázisául."],
+      hu: ["Honduras legnagyobb 'maquiladora' (összeszerelő üzem) központja.", "Több mint 100 000 ember számára biztosít közvetlen munkahelyet.", "Az itt gyártott ruházati és textilipari termékek fő piaca az USA.", "Az ipari zónák (ZIP) különleges adókedvezményekkel működnek.", "A textil mellett jelentős az autóipari alkatrészek gyártása is.", "A gazdasági fejlődés hatalmas belső migrációt okozott a városba.", "Az ipar stratégiailag közel fekszik Puerto Cortés kikötőjéhez."],
       ro: [],
       en: []
     }, image: "/poi-images/choloma-industry-economic-v2.webp"},
@@ -111,7 +111,7 @@ export const poiExtraHondurasEconomicV2: POI[] = [
     description: { de: "Historischer Hafen, der einst für den Bananentransport zentral war.", hu: "Történelmi kikötő, amely egykor központi szerepet játszott a banánszállításban.", ro: "Port istoric care a fost odată central pentru transportul bananelor.", en: "Historic port once central to banana transport." },
     descriptionAdvanced: {
       de: "Tela war zu Beginn des 20. Jahrhunderts einer der geschäftigsten Häfen der Welt, als die United Fruit Company hier ihren Hauptsitz hatte. Über die riesigen Docks wurden Millionen Tonnen Bananen nach Nordamerika und Europa verschifft, was der Region einen beispiellosen Bauboom bescherte. Heute hat der Hafen seine rein kommerzielle Bedeutung zugunsten des Tourismus verloren, bleibt aber ein wichtiges historisches Denkmal. Die alten Gleisanlagen und die koloniale Architektur am Hafen erzählen noch immer von der Ära der Bananenbarone.",
-      hu: "Tela kikötője a 20. század elején a világ egyik legforgalmasabb pontja volt, amikor a United Fruit Company innen irányította a globális banánkereskedelmet. A hatalmas mólókról millió tonna gyümölcs indult útjára az észak-amerikai és európai piacok felé, megalapozva a város korabeli gazdagságát. Bár mára a nagyüzemi banánexport más kikötőkbe helyeződött át, Tela megőrizte történelmi jelentőségét és egyedi, koloniális hangulatát. A régi vasúti sínek és a kikötői épületek ma is emlékeztetnek a 'banánköztársaság' korszakának gazdasági hatalmára. Napjainkban a kikötő elsősorban turisztikai és kulturális központként éli újjászületését.",
+      hu: "A Telai Kikötő és Dokk (Muelle de Tela) Atlántida megye egyik történelmi jelentőségű gazdasági létesítménye a Karib-tenger partján. Bár ma a kikötő kereskedelmi forgalma elenyésző, a 20. század első felében a Tela Railroad Company (később United Fruit) legfőbb banánexportáló központja volt. A hatalmas fa- és vasdokkon egykor napi szinten rakták meg a 'Nagy Fehér Flotta' hajóit, amelyek a hondurasi banánt az Egyesült Államokba szállították. A banánipar válsága és a kikötői forgalom Puerto Cortésbe terelődése után a dokk funkciót váltott. Ma a Telai Kikötő maradványai elsősorban turisztikai látványosságok és a helyi halászok kedvelt találkozóhelyei, a város gazdasága pedig az agráripartól a szolgáltató szektor és az idegenforgalom felé fordult. Gazdaság K7 — gazdaságtörténet.",
       ro: "",
       en: ""
     },
@@ -123,7 +123,7 @@ export const poiExtraHondurasEconomicV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Einstiger Sitz der Tela Railroad Company", "Wichtiger Ort für die Erforschung tropischer Früchte", "Besitzt einen der längsten historischen Holzpiere der Region", "Zentrum für die Entwicklung des modernen Tourismus in Honduras"],
-      hu: ["Tela volt a Tela Railroad Company, a United Fruit Company egyik legfontosabb leányvállalatának székhelye.", "A kikötő melletti kutatóállomásokon fejlesztették ki az első betegségeknek ellenálló banánfajtákat.", "A város büszkélkedhet a régió egyik leghosszabb és leglátványosabb történelmi fapiérjével.", "Mára a kikötő környéke Honduras egyik legexkluzívabb üdülőövezetévé alakult át."],
+      hu: ["A 20. században Honduras egyik legfontosabb banánexportáló kikötője volt.", "A Tela Railroad Company (United Fruit) építette és üzemeltette.", "A kikötő látta el a híres 'Nagy Fehér Flotta' hajóit terménnyel.", "Ma a tengeri teherszállítás megszűnt, Puerto Cortés vette át a szerepét.", "A régi móló maradványai népszerű turisztikai fotópontok.", "A város gazdasága az ipari kikötőből a strandturizmus felé tolódott.", "A dokk környéke jelenleg a helyi halászok kiindulópontja."],
       ro: [],
       en: []
     }, image: "/poi-images/tela-port-economic-v2.webp"},
@@ -161,7 +161,7 @@ export const poiExtraHondurasEconomicV2: POI[] = [
     description: { de: "Wichtiger Hafen für den Fährverkehr zu den Inseln.", hu: "Fontos kikötő a szigetekre irányuló kompforgalom számára.", ro: "Port important pentru traficul de feribot către insule.", en: "Important port for ferry traffic to the islands." },
     descriptionAdvanced: {
       de: "Der Hafen von La Ceiba, bekannt als 'Muelle de Cabotaje', ist der zentrale Knotenpunkt für Reisende, die zu den Bay Islands Roatán und Utila aufbrechen. Neben dem regen Fährverkehr spielt der Hafen eine wesentliche Rolle bei der regionalen Versorgung der Inseln mit frischen Lebensmitteln und Treibstoff. Historisch gesehen war La Ceiba ein bedeutender Standort für den Export von Ananas und Bananen durch die Standard Fruit Company. Heute ist der Hafen ein lebendiger ort, an dem sich wirtschaftliche Logistik und touristische Abenteuer mischen.",
-      hu: "La Ceiba kikötője, amely 'Muelle de Cabotaje' néven is ismert, a legfontosabb kiindulópont az öböl-szigetekre (Roatán és Utila) utazók számára. A rendszeres kompforgalom mellett a kikötő kulcsfontosságú szerepet tölt be a szigetek napi ellátásában élelmiszerrel, üzemanyaggal és árucikkekkel. Történelmileg La Ceiba a Standard Fruit Company bázisa volt, innen indult útjára a híres hondurasi ananász- és banánexport nagy része. Napjainkban a kikötő a régió kereskedelmi lüktetésének központja, ahol a hagyományos halászhajók és a modern teherhajók jól megférnek egymás mellett. A város tengeri kapujaként La Ceiba alapvető fontosságú Honduras északi partvidékének fejlődése szempontjából.",
+      hu: "La Ceiba kikötője (Muelle de Cabotaje) Atlántida megye északi partvidékének logisztikai és turisztikai központja. A 20. század elején a Standard Fruit Company (később Dole) banánipari műveletei révén vált jelentőssé, de mára a kikötő gazdasági profilja teljesen megváltozott. Bár teherforgalma eltörpül Puerto Cortés mellett, La Ceiba kikötője kulcsfontosságú a belföldi és nemzetközi turizmusban: innen indulnak a kompok az Islas de la Bahía (Roatán, Utila, Guanaja) szigeteire, valamint a környező karibi szigetvilágba. A kikötő ezen felül a környező hatalmas ananász-, afrikai pálma- és citrusültetvények kisebb volumenű tengeri szállítási pontja, és a helyi halászflották bázisa. A tengerparti város gazdasága egyre inkább a szolgáltatásokra és a kikötői turizmusra épít. Gazdaság K7 — kikötői turizmus.",
       ro: "",
       en: ""
     },
@@ -173,7 +173,7 @@ export const poiExtraHondurasEconomicV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Wichtigster Verbindungspunkt für den 'Galaxy Wave' Fährservice", "Zentrum für den regionalen Küstenhandel", "Historischer Standort der Standard Fruit Company", "Ausgangspunkt für viele ökologische Touren an der Küste"],
-      hu: ["Innen indul a 'Galaxy Wave' és a 'Utila Dream' komp, az elsődleges összeköttetés a szigetekkel.", "A kikötő az északi partvidék kis- és nagykereskedelmi áruforgalmának fő elosztópontja.", "A közelben található a Cuero y Salado vadvédelmi terület, amely vízi úton érhető el.", "A kikötői mólóról fantasztikus kilátás nyílik a karibi partvidéket uraló Pico Bonito hegycsúcsra."],
+      hu: ["A Karib-tenger partján, Atlántida megye székhelyén található.", "Központi indulási pont a hondurasi Öböl-szigetekre tartó kompoknak.", "A 20. században a Standard Fruit Company banánkikötője volt.", "Jelentős szerepet játszik az ananász és a pálmaolaj exportjában.", "Az ország egyik legfontosabb turisztikai és utaskikötője.", "Otthont ad a régió kereskedelmi és kézműves halászflottájának.", "Infrastruktúrája folyamatosan bővül a növekvő turizmus miatt."],
       ro: [],
       en: []
     }, image: "/poi-images/ceiba-port-economic-v2.webp"},
@@ -211,7 +211,7 @@ export const poiExtraHondurasEconomicV2: POI[] = [
     description: { de: "Ein bedeutender Standort für die Extraktion mineralischer Rohstoffe.", hu: "Jelentős helyszín ásványi nyersanyagok kitermelésére.", ro: "Un sit important pentru extracția resurselor minerale.", en: "A significant site for the extraction of mineral resources." },
     descriptionAdvanced: {
       de: "Die Region Santa Bárbara ist bekannt für ihre reichen Vorkommen an Metallen wie Zink, Blei und Silber. Das Bergwerk El Mochito ist eines der ältesten und produktivsten des Landes und spielt seit Jahrzehnten eine zentrale Rolle in der honduranischen Exportwirtschaft. Die Minenarbeiten finden unter strengen Sicherheitsauflagen statt und stellen eine der wichtigsten Einnahmequellen für die lokale Bevölkerung dar. Neben der industriellen Bedeutung ist der Bergbau hier auch ein Motor für die Entwicklung der lokalen Infrastruktur und technisches Know-how.",
-      hu: "Santa Bárbara régiója Honduras egyik leggazdagabb ásványkincsekkel rendelkező területe, ahol különösen a cink, az ólom és az ezüst kitermelése jelentős. Itt található az El Mochito bánya, amely évtizedek óta az ország egyik legfontosabb és legtermelékenyebb ipari létesítménye. A bányászat nemcsak a nemzeti export alapját képezi, hanem a helyi lakosság elsődleges bevételi forrása is, közvetve és közvetlenül több ezer embernek adva munkát. A modern bányászati technológiák alkalmazása mellett nagy hangsúlyt fektetnek a környezetvédelmi előírások betartására is. A bánya körüli infrastruktúra fejlesztése motorja a régió fejlődésének, elősegítve a technikai tudás átadását és a helyi gazdaság diverzifikálását.",
+      hu: "A Santa Bárbara megyében található El Mochito nevű bányakomplexum Honduras legfontosabb és leghosszabb ideje (több mint 70 éve) megszakítás nélkül működő földalatti bányája. A San Pedro Sula közelében, a Yojoa-tó nyugati oldalán fekvő létesítmény elsősorban cinket, ólmot és ezüstöt termel ki. A bánya az ország bányászati exportjának jelentős részét adja, és több ezer helyi lakosnak biztosít közvetlen vagy közvetett megélhetést a környező településeken, mint Las Vegas. A modernizált földalatti technológiák ellenére a bányászat továbbra is folyamatos kihívások elé állítja a helyi környezetvédőket, különösen a vízgyűjtő területek védelme kapcsán. A kitermelt ércet általában teherautókkal szállítják Puerto Cortés kikötőjébe, ahonnan a világpiacra kerül. Gazdaság K8 — fémbányászat.",
       ro: "",
       en: ""
     },
@@ -223,7 +223,7 @@ export const poiExtraHondurasEconomicV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Sitz der berühmten El Mochito Mine", "Produziert signifikante Mengen an Zink- und Bleikonzentraten", "Wichtigster industrieller Arbeitgeber im Departement Santa Bárbara", "Verfügt über tiefe unterirdische Stollenanlagen"],
-      hu: ["Itt található a híres El Mochito bánya, Honduras legrégebbi aktív bányája.", "A bánya jelentős mennyiségű cink- és ólomkoncentrátumot állít elő a világpiac számára.", "Ez Santa Bárbara megye legnagyobb ipari foglalkoztatója.", "A bánya mélytengeri tárolókapacitásokkal is rendelkezik Puerto Cortés kikötőjében."],
+      hu: ["Honduras legrégebbi és legnagyobb folyamatosan működő földalatti bányája.", "Elsősorban cink-, ólom- és ezüstércet termel ki.", "A Las Vegas nevű település közelében fekszik, Santa Bárbara megyében.", "Az ország bányászati exportbevételeinek egyik fő forrása.", "Több mint hét évtizede biztosít munkalehetőséget a térségben.", "A bányászat jelentős környezetvédelmi szabályozásokat és vitákat generál.", "A nyersércet a Puerto Cortés kikötőn keresztül exportálják."],
       ro: [],
       en: []
     }, image: "/poi-images/santa-barbara-mine-economic-v2.webp"},
@@ -261,7 +261,7 @@ export const poiExtraHondurasEconomicV2: POI[] = [
     description: { de: "Ein Zentrum für landwirtschaftliche Verarbeitung und Logistik.", hu: "A mezőgazdasági feldolgozás és logisztika központja.", ro: "Un centru pentru procesare agricolă și logistică.", en: "A hub for agricultural processing and logistics." },
     descriptionAdvanced: {
       de: "Die Stadt El Progreso im Departement Yoro ist ein entscheidendes Glied in der landwirtschaftlichen Wertschöpfungskette von Honduras. Hier konzentriert sich die industrielle Verarbeitung von Produkten aus dem fruchtbaren Sula-Tal, insbesondere Bananen, Palmöl und Reis. Zahlreiche Logistikunternehmen haben hier ihren Sitz, um den Warenfluss zwischen dem Landesinneren und den Atlantikhäfen zu steuern. Die Stadt hat sich in den letzten Jahrzehnten von einer reinen Bahnstation zu einem bedeutenden regionalen Industriezentrum entwickelt, das eine Schlüsselrolle für die Ernährungssicherheit des Landes spielt.",
-      hu: "El Progreso városa a hondurasi mezőgazdasági értéklánc egyik legfontosabb láncszeme, ahol a termények feldolgozása és elosztása zajlik. A Sula-völgy szélén elhelyezkedő város a banán, a pálmaolaj és a rizs feldolgozásának központja, számos üzemmel és raktárbázissal rendelkezik. El Progreso stratégiai közlekedési csomópont, amely összeköti az ország északi partvidékét a belső területeket Trujillo kikötőjével és a karibi régióval. A város ipari fejlődése szorosan kapcsolódik a logisztikához, biztosítva az áruk gyors eljutását Puerto Cortés kikötőjébe. Lakossága és gazdasági súlya miatt a várost gyakran 'a fejlődés gyöngyszemének' nevezik Hondurasban.",
+      hu: "El Progreso Yoro megye gazdasági központja, amely a hatalmas és termékeny Sula-völgy (Valle de Sula) keleti kapujában fekszik, és amelyet sokszor a 'Gyöngyszemnek' (La Perla del Ulúa) is neveznek. Bár történelmileg az ország banántermelésének epicentruma volt, az elmúlt évtizedekben robbanásszerű iparosodáson ment keresztül. Ma El Progreso egy élénk ipari és kereskedelmi csomópont, ahol hatalmas textilipari maquiladorák, élelmiszer-feldolgozó üzemek és pálmaolaj-finomítók működnek. A város stratégiai fekvése San Pedro Sula, Tela és a keleti megyék között tökéletes logisztikai bázissá teszi. A gyors gazdasági növekedés és a folyamatosan épülő bevásárlóközpontok ellenére az Ulúa-folyó közelsége miatt a város ipari és lakóövezetei gyakran néznek szembe árvízveszéllyel. Gazdaság K8 — feldolgozóipar.",
       ro: "",
       en: ""
     },
@@ -273,7 +273,7 @@ export const poiExtraHondurasEconomicV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Wichtigster Knotenpunkt für den Schienengüterverkehr in der Vergangenheit", "Zentrum für die Extraktion und Veredelung von Palmöl", "Beherbergt große Reismühlen und Maissilos", "Strategischer Verbindungspunkt zwischen San Pedro Sula und Tela"],
-      hu: ["Itt találhatók az ország legnagyobb rizsmalmai és gabonasilói.", "A város a pálmaolaj finomításának és elosztásának egyik legfontosabb regionális központja.", "Történelmileg El Progreso volt a vasúti áruszállítás legfontosabb elágazási pontja.", "Számos nagykereskedelmi elosztó központ bázisa, amelyek az egész országot ellátják."],
+      hu: ["Yoro megye legfontosabb ipari és kereskedelmi városa.", "A Sula-völgy keleti peremén, az Ulúa-folyó közelében fekszik.", "A banánipart nagyrészt felváltották a textilipari maquiladorák.", "Jelentős afrikai pálmaolaj- és élelmiszer-feldolgozó központ.", "Kereskedelmi híd San Pedro Sula és az északi partvidék között.", "A gyors urbanizáció miatt Honduras egyik legdinamikusabb városa.", "A folyó közelsége komoly árvízvédelmi infrastruktúrát követel meg."],
       ro: [],
       en: []
     }
@@ -312,7 +312,7 @@ export const poiExtraHondurasEconomicV2: POI[] = [
     description: { de: "Wichtiger Grenzübergang und Handelsplatz für den Austausch mit El Salvador und Guatemala.", hu: "Jelentős határátkelő és kereskedelmi hely az Salvadorral és Guatemalával való cseréhez.", ro: "Punct de trecere a frontierei important și loc comercial pentru schimbul cu El Salvador și Guatemala.", en: "Important border crossing and trade point for exchange with El Salvador and Guatemala." },
     descriptionAdvanced: {
       de: "Ocotepeque liegt strategisch im 'Trifinio', dem Dreiländereck von Honduras, El Salvador und Guatemala. Dies macht die Stadt zu einem der bedeutendsten Handelszentren für den grenzüberschreitenden Warenverkehr in Zentralamerika. Hier werden täglich große Mengen an landwirtschaftlichen Produkten, Konsumgütern und Industriegütern zwischen den drei Nationen ausgetauscht. Der Handel ist der Motor der lokalen Wirtschaft und hat zu einer modernen Infrastruktur mit Banken, Hotels und Speditionen geführt. Ocotepeque ist ein lebendiges Beispiel für die wirtschaftliche Integration der Region.",
-      hu: "Ocotepeque stratégiai helyen, a 'Trifinio' nevű hármashatárnál (Honduras, Salvador és Guatemala) fekszik, ami Közép-Amerika egyik legfontosabb kereskedelmi csomópontjává teszi. A város a nemzetközi áruforgalom kapuja, ahol naponta hatalmas mennyiségű mezőgazdasági termék, iparcikk és fogyasztási cikk cserél gazdát a három nemzet között. A kereskedelem dominanciája modern infrastruktúra kiépüléséhez vezetett, beleértve a speciális logisztikai központokat és a fejlett pénzügyi szolgáltatásokat. Ocotepeque nemcsak tranzitpont, hanem a régió gazdasági stabilitásának záloga is, elősegítve a szomszédos országok közötti integrációt. A helyi gazdaság rugalmassága és a vállalkozói szellem tette a várost a határmenti jólét példájává.",
+      hu: "A Nueva Ocotepeque-i kereskedelmi zóna Honduras legnyugatibb gazdasági csomópontja, amely kiemelt jelentőséggel bír a nemzetközi áruforgalomban. A város mindössze néhány kilométerre fekszik az El Poy (El Salvador) és Agua Caliente (Guatemala) határátkelőktől, ami Közép-Amerika egyik legforgalmasabb tranzitterületévé teszi. A helyi gazdaság nemcsak a hatalmas kamionforgalomra, vámszolgáltatásokra és a logisztikára épül, hanem az ezen az útvonalon áthaladó prémium minőségű kávé és mezőgazdasági termékek (káposzta, hagyma) kereskedelmére is. A határmenti pozíció élénk helyi cserekereskedelmet és kétnyelvű/kétvalutás mikroökonómiát hozott létre, ahol a hondurasi lempira, a salvadori dollár és a guatemalai quetzal egyaránt jelen van a mindennapi életben. Gazdaság K7 — tranzitkereskedelem.",
       ro: "",
       en: ""
     },
@@ -324,7 +324,7 @@ export const poiExtraHondurasEconomicV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Knotenpunkt des internationalen Transports durch Zentralamerika", "Zentrum für den Export von hochwertigem Bergkaffee", "Wichtiger Standort für Devisenwechsel und Finanzdienstleistungen", "Austragungsort regelmäßiger binationaler Handelsmessen"],
-      hu: ["Ocotepeque a legfontosabb belépési pont a Salvadorból érkező kamionforgalom számára.", "A város környéke a kiváló minőségű, magashegyi kávé egyik legfontosabb exportbázisa.", "Itt található Közép-Amerika egyik legforgalmasabb és legmodernebb határátkelője (El Poy).", "A településen rendszeresen tartanak regionális kereskedelmi expókat és vásárokat."],
+      hu: ["Honduras, Guatemala és El Salvador hármas határának gazdasági központja.", "A legfontosabb szárazföldi vámszolgáltatási csomópont Nyugat-Hondurasban.", "Az országos kávéexport jelentős része itt hagyja el Hondurast.", "A helyi piacokon intenzív zöldség- és gyümölcskereskedelem zajlik.", "Hatalmas logisztikai, kamionos és szállítmányozási forgalmat bonyolít.", "Élénk határmenti mikrogazdaság működik több valuta használatával.", "A tranzitkereskedelem biztosítja a város lakosságának fő megélhetését."],
       ro: [],
       en: []
     }
@@ -364,7 +364,7 @@ export const poiExtraHondurasEconomicV2: POI[] = [
     description: { de: "Ein bedeutendes Zentrum für Gemüse- und Obstanbau.", hu: "A zöldség- és gyümölcstermesztés jelentős központja.", ro: "Un centru important pentru cultivarea legumelor și fructelor.", en: "A significant center for vegetable and fruit cultivation." },
     descriptionAdvanced: {
       de: "Das Comayagua-Tal ist als 'Gemüsegarten von Honduras' bekannt und liefert einen Großteil der frischen Produkte für den heimischen Markt und den Export. Dank moderner Bewässerungssysteme und eines günstigen Klimas können hier das ganze Jahr über Tomaten, Zwiebeln, Gurken und Melonen geerntet werden. In den letzten Jahren hat sich das Tal auch zu einem Zentrum für den Anbau orientalischer Gemüse für den US-amerikanischen Markt entwickelt. Die Landwirtschaft ist hochgradig mechanisiert und bildet die Grundlage für den wirtschaftlichen Aufschwung der gesamten Region.",
-      hu: "A Comayagua-völgy Honduras 'veteményeskertjeként' ismert, és ez a régió látja el friss zöldséggel az ország nagy részét, valamint jelentős exportot is bonyolít. A modern öntözőrendszereknek és a kedvező éghajlatnak köszönhetően egész évben folyamatos a termelés, legyen szó paradicsomról, hagymáról, uborkáról vagy dinnyéről. Az elmúlt években a völgy Közép-Amerika egyik legfontosabb bázisává vált az USA-ba exportált speciális keleti zöldségek termesztésében. A mezőgazdaság itt magas fokon gépesített, ami biztosítja a versenyképességet és a termésbiztonságot. Comayagua agrárereje az alapja a régió látványos gazdasági felemelkedésének és az új logisztikai beruházásoknak.",
+      hu: "A Comayagua-völgy Honduras egyik legtermékenyebb és mezőgazdaságilag legfejlettebb régiója az ország középső részén. A völgy gazdasága egyedülálló, mert az országban ritkán látott mértékben alkalmaz modern, gépesített öntözőrendszereket, ami egész évben lehetővé teszi az intenzív növénytermesztést. Comayagua a hondurasi agrárexport új motorjává vált: a hagyományos kukorica és bab mellett itt termesztik a legtöbb exportra szánt zöldséget, különösen padlizsánt, uborkát, paprikát, paradicsomot és egzotikus gyümölcsöket. Emellett a völgyben kiterjedt kávéfeldolgozó üzemek és mangóültetvények is találhatók. Az új Palmerola (Soto Cano) nemzetközi repülőtér megnyitása a régióban tovább gyorsította a friss mezőgazdasági áruk légi exportját Észak-Amerikába és Európába. Gazdaság K8 — intenzív agrárium.",
       ro: "",
       en: ""
     },
@@ -376,7 +376,7 @@ export const poiExtraHondurasEconomicV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Größte Konzentration von Gewächshäusern in Honduras", "Hauptlieferant für frisches Gemüse in die Hauptstadt Tegucigalpa", "Zentrum für den Export von Melonen nach Europa und Nordamerika", "Verfügt über moderne Agrarforschungseinrichtungen"],
-      hu: ["Hondurasban itt található a legmagasabb koncentrációban technológiai üvegház-hálózat.", "A völgy a főváros, Tegucigalpa elsődleges frissáru-beszállítója.", "Innen indul a legtöbb közép-amerikai dinnye az európai és észak-amerikai piacokra.", "A terület ad otthont számos modern agrárkutatási és fejlesztési intézménynek."],
+      hu: ["Honduras legfontosabb gépesített, öntözéses mezőgazdasági völgye.", "Az exportra szánt zöldségek (padlizsán, paprika, uborka) fő termőterülete.", "Modern agrártechnológiákat és üvegházi termesztést alkalmaznak.", "Jelentős kávéfeldolgozó és csomagoló üzemek működnek a régióban.", "A Palmerola repülőtér fellendítette a friss áruk légi exportját.", "Éghajlata meleg és száraz, de a fejlett öntözés ellensúlyozza ezt.", "A völgy agrárvállalatai több ezer helyi számára biztosítanak munkát."],
       ro: [],
       en: []
     }, image: "/poi-images/comayagua-agri-economic-v2.webp"},
@@ -414,7 +414,7 @@ export const poiExtraHondurasEconomicV2: POI[] = [
     description: { de: "Ein Handelszentrum für Viehzucht und landwirtschaftliche Produkte.", hu: "Kereskedelmi központ állattenyésztés és mezőgazdasági termékek számára.", ro: "Centru comercial pentru creșterea animalelor și produse agricole.", en: "A trading center for livestock and agricultural products." },
     descriptionAdvanced: {
       de: "Juticalpa ist das unangefochtene wirtschaftliche Zentrum von Olancho, dem flächenmäßig größten Departement von Honduras. Die Stadt dient als riesiger Marktplatz für die Viehzüchter der Region, wobei Fleisch und Milchprodukte von hier aus im ganzen Land verteilt werden. Neben der Viehwirtschaft floriert der Handel mit landwirtschaftlichen Maschinen und Saatgut, was die Bedeutung der Region als 'Kornkammer von Honduras' unterstreicht. Die lokale Geschäftswelt ist geprägt von traditionsreichen Familienunternehmen und einer stetig wachsenden Dienstleistungsbranche.",
-      hu: "Juticalpa Olancho megye vitathatatlan gazdasági központja, amely az ország legnagyobb területű közigazgatási egységét szolgálja ki. A város hatalmas piacként funkcionál a régió állattenyésztői számára, innen indul útjára a legtöbb hús- és tejtermék az ország többi részébe. Az állattenyésztés mellett virágzik a mezőgazdasági gépekkel és vetőmagokkal való kereskedelem is, ami megerősíti a térség 'Honduras magtára' státuszát. Juticalpa üzleti életét a nagy múltú családi vállalkozások és a gyorsan fejlődő szolgáltató szektor határozza meg. A város gazdasági stabilitása alapvető fontosságú Honduras élelmiszerbiztonsága szempontjából.",
+      hu: "Juticalpa Olancho megye fővárosaként és gazdasági központjaként a keleti országrész legfontosabb mezőgazdasági és kereskedelmi elosztója. Olancho Honduras legnagyobb megyéje, és Juticalpa piaca (mercado) szolgál találkozási pontként a hatalmas területen élő farmerek, állattenyésztők és fakitermelők számára. A város gazdasága dominánsan a szarvasmarha-tenyésztésre, a hús- és tejfeldolgozásra (különösen a híres olanchoi sajtok készítésére), valamint a kukorica- és babkereskedelemre épül. Juticalpa az elmúlt évtizedben gyors fejlődésnek indult, új bevásárlóközpontok, agrár-logisztikai raktárak és vágóhidak nyíltak, hogy kiszolgálják a Tegucigalpa felé irányuló hatalmas keresletet. A város a keleti hondurasi vidék gazdasági kapuja. Gazdaság K7 — hús- és tejipar.",
       ro: "",
       en: ""
     },
@@ -426,7 +426,7 @@ export const poiExtraHondurasEconomicV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Wichtigster Marktplatz für Rinder in ganz Mittelamerika", "Zentrum für die Produktion von traditionellem Käse und Molkereiprodukten", "Größter Handelsplatz für Getreide im Osten des Landes", "Sitz bedeutender Agrarkooperativen"],
-      hu: ["Juticalpa Közép-Amerika egyik legjelentősebb marhavásárának helyszíne.", "A város a hagyományos olanchoi sajtok és tejtermékek gyártásának központja.", "Ez Kelet-Honduras legnagyobb gabonakereskedelmi csomópontja.", "Itt találhatóak a régió legbefolyásosabb agrár-szövetkezeteinek központjai."],
+      hu: ["Olancho megye közigazgatási és kereskedelmi székhelye.", "A keleti régió legfőbb agrár-logisztikai elosztóközpontja.", "A gazdaság mozgatórugója a hatalmas volumenű szarvasmarha-tenyésztés.", "Híres az országos piacra szánt olanchoi kézműves sajtokról és tejtermékekről.", "Fontos szerepe van a fakitermelés és a fafeldolgozás kereskedelmében.", "A vágóhidak és feldolgozóüzemek jelentős munkaadók a városban.", "A Tegucigalpa felé vezető út mentén a legfontosabb gazdasági megálló."],
       ro: [],
       en: []
     }, image: "/poi-images/juticalpa-trade-economic-v2.webp"},
@@ -464,7 +464,7 @@ export const poiExtraHondurasEconomicV2: POI[] = [
     description: { de: "Zentrum für handgefertigte Textilien und traditionelle Waren.", hu: "Kézzel készített textilek és hagyományos áruk központja.", ro: "Centru pentru textile lucrate manual și bunuri tradiționale.", en: "Center for handmade textiles and traditional goods." },
     descriptionAdvanced: {
       de: "La Esperanza, das Herz der Lenca-Kultur, ist berühmt für seine farbenfrohen Webereien, die auf traditionellen Webstühlen hergestellt werden. Die indigenen Frauen der Region haben die Kunst der 'Telas Lencas' bewahrt und zu einem international gefragten Modeartikel entwickelt. Neben Textilien ist die Stadt auch für die Verarbeitung von Ton und die Herstellung von Naturprodukten wie Honig und Beerenweinen bekannt. Dieses Handwerk ist die primäre Einnahmequelle für viele indigene Gemeinschaften und trägt wesentlich zur Bewahrung des kulturellen Erbes von Honduras bei.",
-      hu: "",
+      hu: "La Esperanza, Intibucá megye magaslati városa Honduras legfontosabb kézműves és textilipari központja, amely a lenca őslakos gazdaságra épül. Míg az ország más ipari zónáiban a tömeggyártás dominál, La Esperanza gazdasága a hagyományos, kézi szövőszékeken (telares) készített lenca textilekre, valamint az agyagművességre fókuszál. A helyi nők által készített élénk színű, geometriai mintás sálak, terítők és ruhák országszerte keresettek, és egyre nagyobb az exportjuk is. A kézműipar mellett a város jelentős mezőgazdasági piaccal rendelkezik, ahol a hegyvidéki, hűvös klímában termett burgonyát, epret, szedret és gombát árusítják. A szövetkezetekbe tömörült őslakos nők gazdasági ereje folyamatosan nő, támogatva az ökoturizmus és a kulturális turizmus fejlődését. Gazdaság K8 — hagyományos kézművesség.",
       ro: "",
       en: ""
     },
@@ -476,7 +476,7 @@ export const poiExtraHondurasEconomicV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Weltweit bekannt für die einzigartigen Lenca-Webereien", "Basis für zahlreiche Frauenkooperativen in der Region Intibucá", "Produziert hochwertige Naturweine aus einheimischen Früchten", "Wichtiger Anziehungspunkt für Kulturtouristen"],
-      hu: [],
+      hu: ["Honduras legjelentősebb lenca őslakos kézműipari központja.", "A gazdaság egyik alappillére a hagyományos, kézi szövésű lenca textil.", "Az itt készült színes textilek nemzeti és nemzetközi piacra is eljutnak.", "A kézműves műhelyeket és szövetkezeteket nagyrészt nők vezetik.", "Jelentős kereskedelmi központja a magaslati gyümölcsöknek (eper, szeder).", "A kézműves piacok és az agroturizmus egyre több látogatót vonzanak.", "A helyi gazdaság szorosan összefonódik az őslakos kulturális identitással."],
       ro: [],
       en: []
     }, image: "/poi-images/la-esperanza-craft-economic-v2.webp"},
@@ -489,7 +489,7 @@ export const poiExtraHondurasEconomicV2: POI[] = [
     description: { de: "Eine Region mit starkem Fokus auf Viehzucht und Ackerbau.", hu: "Az állattenyésztésre és a növénytermesztésre erősen fókuszáló régió.", ro: "O regiune cu un accent puternic pe creșterea animalelor și agricultură.", en: "A region with a strong focus on livestock and farming." },
     descriptionAdvanced: {
       de: "Das Departement Yoro ist geprägt von weitläufigen Ebenen und fruchtbaren Tälern, die eine intensive landwirtschaftliche Nutzung ermöglichen. Die Region ist einer der Hauptproduzenten von Grundnahrungsmitteln wie Mais und Bohnen für die nationale Versorgung. Darüber hinaus gibt es große Viehzuchtbetriebe, die sowohl Fleisch als auch Milch für die lokale Industrie liefern. In den letzten Jahren hat auch der Anbau von Palmöl und Zitrusfrüchten an Bedeutung gewonnen, was zu einer Diversifizierung der lokalen Wirtschaft geführt hat. Yoro bleibt ein fundamentales Standbein der honduranischen Agrarproduktion.",
-      hu: "",
+      hu: "Yoro városának és a környező megyének a gazdasága elsősorban a sokszínű, hegyvidéki és völgyi mezőgazdaságra támaszkodik. A régió kiterjedt fenyőerdei miatt a fafeldolgozás és erdészet történelmileg fontos volt, de ma a magaslati kávétermesztés és az állattenyésztés vette át a vezető szerepet. Yoro gazdái hagyományos módszerekkel, nagyrészt árnyékban termesztik az Arabica kávét, amelyet helyi szövetkezeteken keresztül exportálnak. A völgyekben kukoricát, babot és egyre növekvő mértékben afrikai pálmát termesztenek. A város mezőgazdasági piacai lüktető életet élnek, ahol a helyi ladino lakosság és az őslakos tolupán közösségek értékesítik terményeiket. A közlekedési infrastruktúra hiányosságai ellenére Yoro agrárpotenciálja stabilan fenntartja a régió gazdaságát. Gazdaság K7 — vegyes agrárium.",
       ro: "",
       en: ""
     },
@@ -501,7 +501,7 @@ export const poiExtraHondurasEconomicV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Hauptproduktionszone für Mais im Landesinneren", "Standort bedeutender Molkereigenossenschaften", "Große Flächen für den nachhaltigen Anbau von Nutzhölzern", "Wichtiger Lieferant für die Märkte im Sula-Tal"],
-      hu: [],
+      hu: ["Yoro megye kiterjedt mezőgazdasági és erdészeti központja.", "A magasabb hegyoldalakon minőségi árnyékkávét termesztenek.", "A völgyekben egyre nagyobb teret hódít az afrikai pálma termesztése.", "A fafeldolgozás és asztalosipar továbbra is jelentős munkaadó.", "A helyi őslakos tolupán közösségek is részt vesznek a terménykereskedelemben.", "Gazdaságát a kistermelői szövetkezetek és a marhatartás dominálja.", "A nehézkes úthálózat ellenére fontos élelmiszer-beszállító régió."],
       ro: [],
       en: []
     }, image: "/poi-images/yoro-agri-economic-v2.webp"},
@@ -514,7 +514,7 @@ export const poiExtraHondurasEconomicV2: POI[] = [
     description: { de: "Zentrum für Zwiebel- und Gemüseanbau.", hu: "Hagyma- és zöldségtermesztés központja.", ro: "Centru pentru cultivarea cepei și legumelor.", en: "Center for onion and vegetable cultivation." },
     descriptionAdvanced: {
       de: "Lejamani ist eine kleine, aber hochproduktive Gemeinde im Comayagua-Tal, die landesweit für ihre erstklassigen Zwiebeln bekannt ist. Die Bauern hier haben sich auf intensive Landwirtschaft spezialisiert und nutzen moderne Bewässerungstechniken, um hohe Erträge auf begrenzter Fläche zu erzielen. Neben Zwiebeln werden auch Tomaten, Paprika und andere Gemüsesorten für die Märkte in Tegucigalpa und Comayagua angebaut. Der Erfolg der lokalen Landwirtschaft hat Lejamani zu einer florierenden Gemeinde gemacht, in der die bäuerliche Tradition mit moderner Technik verschmilzt.",
-      hu: "",
+      hu: "Lejamaní egy termékeny síkságon fekvő, történelmi mezőgazdasági település Comayagua megyében, amely a Comayagua-völgy intenzív agrárgazdaságának egyik fontos bázisa. A városka gazdasága a spanyol gyarmati idők óta a földműveléshez kötődik. Ma a lakosság nagyrészt zöldségtermesztésből (hagyma, uborka, paradicsom) és kávétermesztésből él. Lejamaní különösen híres a mangóültetvényeiről és a hagyományos helyi piacokról. Mivel a település része az öntözött, modernizált völgyrendszernek, a terméshozamok magasak, és az itt megtermelt javak jelentős része a fővárosba, Tegucigalpába, illetve exportra kerül. A város csendes, vidéki jellege ellenére a lakosok szorosan integrálódnak Honduras modern élelmiszer-ellátási láncába. Gazdaság K7 — öntözéses földművelés.",
       ro: "",
       en: ""
     },
@@ -526,7 +526,7 @@ export const poiExtraHondurasEconomicV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Honduras' wichtigstes Anbaugebiet für Speisezwiebeln", "Hoher Anteil an exportorientierter Produktion", "Vorreiter bei der Anwendung von Tröpfchenbewässerung", "Wirtschaftliches Zentrum für die umliegenden Agrardörfer"],
-      hu: [],
+      hu: ["A Comayagua-völgy intenzíven öntözött mezőgazdasági zónájában fekszik.", "Kiemelkedő a hagyma, paradicsom és egyéb exportzöldségek termesztése.", "A települést hatalmas, termékeny mangóültetvények övezik.", "Terményeinek jelentős része Tegucigalpába vagy külföldre kerül.", "A lakosság túlnyomó többsége a mezőgazdasági szektorban dolgozik.", "Része a régió fejlett élelmiszer-ellátási és feldolgozási láncának.", "A modern agrártechnika és a vidéki tradíciók ötvöződnek a városban."],
       ro: [],
       en: []
     }, image: "/poi-images/lejamani-agri-economic-v2.webp"},
@@ -539,7 +539,7 @@ export const poiExtraHondurasEconomicV2: POI[] = [
     description: { de: "Ein bedeutender Handelsplatz für landwirtschaftliche Erzeugnisse im Osten.", hu: "Jelentős kereskedelmi hely mezőgazdasági termékek számára keleten.", ro: "Un loc comercial important pentru produse agricole în est.", en: "An important trading place for agricultural products in the east." },
     descriptionAdvanced: {
       de: "Catacamas ist eine der flächenmäßig größten Städte Zentralamerikas und ein pulsierendes Zentrum für die Agrarwirtschaft von Olancho. Hier treffen sich Produzenten aus dem riesigen Hinterland, um Vieh, Getreide und Holz zu handeln. Die Stadt beherbergt auch eine renommierte Landwirtschaftsuniversität, die als Innovationsmotor für die gesamte Region dient. Dank der Nähe zum Río Plátano Biosphärenreservat ist Catacamas auch ein wichtiges logistisches Zentrum für die ökologische Forschung und den nachhaltigen Handel mit Waldprodukten.",
-      hu: "",
+      hu: "Catacamas, Honduras egyik legnagyobb kiterjedésű önkormányzata, Olancho megye gazdasági fellegvára. A város a hatalmas Guayape-völgyben helyezkedik el, és az ország legfőbb hús- és tejtermelő régiójának kereskedelmi központja. A település határában hatalmas szarvasmarha-farmok, vágóhidak és modern tejfeldolgozó üzemek működnek, amelyek a nemzeti piac meghatározó beszállítói. Catacamas ezen felül a kávé-, gabona- (kukorica és bab) és fakitermelésből származó bevételeknek is köszönheti dinamikus fejlődését. Az elmúlt években megnyílt regionális repülőtér és a felújított úthálózat révén a város kereskedelmi befolyása jelentősen megnőtt, új üzletláncokat és bankokat vonzva a korábban elszigeteltnek számító kelet-hondurasi térségbe. Gazdaság K8 — húsipar és logisztika.",
       ro: "",
       en: ""
     },
@@ -551,7 +551,7 @@ export const poiExtraHondurasEconomicV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Sitz der Universidad Nacional de Agricultura (UNAG)", "Wichtigster Handelsplatz für Rindfleischexporte im Osten", "Zentrum für die Holzverarbeitung in der Region Olancho", "Strategisches Tor zur Region La Mosquitia"],
-      hu: [],
+      hu: ["Olancho megye leggyorsabban fejlődő kereskedelmi és agrárvárosa.", "Az ország legnagyobb volumenű szarvasmarha- és húsfeldolgozó központja.", "Hatalmas tejüzemek működnek a város vonzáskörzetében.", "A Guayape-völgy kiterjedt gabona- és kávékereskedelmét irányítja.", "A regionális repülőtér fellendítette a város logisztikai szerepét.", "Az építőipar és a kereskedelem robbanásszerűen növekszik a településen.", "A keleti régió gazdasági és pénzügyi szolgáltató központjává vált."],
       ro: [],
       en: []
     }, image: "/poi-images/catacamas-trade-economic-v2.webp"},
@@ -564,7 +564,7 @@ export const poiExtraHondurasEconomicV2: POI[] = [
     description: { de: "Zentrum für kunsthandwerkliche Holzarbeiten und Geschenkartikel.", hu: "Művészi fafaragások és ajándéktárgyak központja.", ro: "Centru pentru sculpturi artistice în lemn și cadouri.", en: "Center for artistic woodwork and gift items." },
     descriptionAdvanced: {
       de: "Valle de Ángeles ist das Schaufenster für honduranisches Kunsthandwerk und ein beliebtes Ausflugsziel nahe der Hauptstadt Tegucigalpa. Die Stadt ist weltbekannt für ihre detaillierten Holzschnitzereien, handgefertigten Ledermöbel und filigranen Schmuckstücke. Zahlreiche Ateliers und Galerien säumen die kopfsteingepflasterten Gassen und laden Besucher ein, den Künstlern bei der Arbeit über die Schulter zu schauen. Diese Industrie verbindet Tradition mit modernem Design und ist ein entscheidender Wirtschaftsfaktor, der Arbeitsplätze für hunderte von Handwerkern und Verkäufern schafft.",
-      hu: "",
+      hu: "Valle de Ángeles gazdasága kivételes Hondurasban, mivel szinte teljes egészében a kulturális turizmusra és a kézműves iparra épül. A Tegucigalpa közelében fekvő hegyvidéki falu a fővárosiak kedvelt hétvégi célpontja. A város utcáit megszámlálhatatlanul sok kis műhely, galéria és piac szegélyezi, ahol a helyi mesterek fafaragásokat, dombornyomott bőrárukat, kerámiákat és fonott kosarakat készítenek és árulnak. Az 1990-es évektől kezdve a kormány és nemzetközi szervezetek célzottan fejlesztették itt a kézműves képzést, így Valle de Ángeles ma az ország turisztikai ajándéktárgyainak első számú gyártó- és elosztóközpontja. A gasztronómiai szektor (kávézók, tradicionális éttermek) szintén kulcsfontosságú munkaadó a város lüktető gazdaságában. Gazdaság K7 — kézműves turizmus.",
       ro: "",
       en: ""
     },
@@ -576,7 +576,7 @@ export const poiExtraHondurasEconomicV2: POI[] = [
     },
     factsAdvanced: {
       de: ["National bekannt für handgeschnitzte Truhen und Möbel", "Zentrum für die Ausbildung im Bereich traditionelles Kunsthandwerk", "Hauptmarkt für Souvenirs und Geschenkartikel im Zentrum des Landes", "Bietet Arbeitsplätze für zahlreiche lokale Künstlerfamilien"],
-      hu: [],
+      hu: ["Honduras legfontosabb kézműves- és turisztikai elosztóközpontja.", "Gazdasága a fafaragásokra, bőrdíszművekre és kerámiákra épül.", "Tegucigalpa közelsége miatt a hétvégi belföldi turizmus motorja.", "Számos kézműves iskola és szövetkezet működik a településen.", "A vendéglátóipar (kávézók, éttermek) a második legfőbb bevételi forrás.", "Az itt készült termékek az ország legtöbb szuvenírboltjába eljutnak.", "A város megőrizte gyarmati arculatát a gazdasági növekedés ellenére."],
       ro: [],
       en: []
     }, image: "/poi-images/valle-de-angeles-craft-economic-v2.webp"},
@@ -589,7 +589,7 @@ export const poiExtraHondurasEconomicV2: POI[] = [
     description: { de: "Region mit Fokus auf Kaffee- und Maisanbau.", hu: "Régió kávé- és kukoricatermesztéssel.", ro: "Regiune cu accent pe cultivarea cafelei și porumbului.", en: "Region with a focus on coffee and corn farming." },
     descriptionAdvanced: {
       de: "Teupasenti liegt in einer malerischen Gebirgslandschaft im Departement El Paraíso und ist ein wichtiger Produzent von hochwertigem Kaffee und Mais. Die lokale Wirtschaft basiert fast ausschließlich auf der Landwirtschaft, wobei die Kaffeeproduktion in den kühleren Höhenlagen den wichtigsten Exportartikel darstellt. Die Bauern hier pflegen traditionelle Anbaumethoden, die im Einklang mit der Natur stehen und den Erhalt der lokalen Wälder fördern. Teupasenti ist ein Beispiel für eine florierende ländliche Gemeinde, die durch harte landwirtschaftliche Arbeit ihren Wohlstand sichert.",
-      hu: "",
+      hu: "Teupasenti egy gazdag mezőgazdasági település El Paraíso megye hegyvidéki területén. A helyi gazdaság legfontosabb alappillére a magaslati kávétermesztés, amely a megye exportbevételeinek jelentős részét adja. A Jalán-folyó völgyében elterülő lankás hegyoldalak tökéletes árnyékos környezetet biztosítanak a prémium kávécserjéknek. A kávé mellett a régió egyre nagyobb hangsúlyt fektet a zöldségtermesztésre, a fakitermelésre és a kistermelői állattenyésztésre. Teupasenti gazdasági élete erős szezonalitást mutat: a kávészüret (októbertől márciusig) idején a település megtelik vendégmunkásokkal és kereskedőkkel, ami felpörgeti a helyi szolgáltatásokat és a piacokat, míg az év többi részében nyugodt vidéki életmód jellemzi. Gazdaság K8 — hegyvidéki kávéközpontok.",
       ro: "",
       en: ""
     },
@@ -601,7 +601,7 @@ export const poiExtraHondurasEconomicV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Produziert erstklassigen Arabica-Kaffee für den Weltmarkt", "Zentrum für den lokalen Handel mit Grundgetreide", "Wachsende Bedeutung für den ökologischen Landbau", "Wichtigster Wirtschaftsfaktor der umliegenden Bergdörfer"],
-      hu: [],
+      hu: ["El Paraíso megye egyik legtermékenyebb hegyvidéki mezőgazdasági városa.", "Gazdasága szinte teljesen az exportra szánt kávétermesztésre épül.", "A Jalán-folyó biztosítja a térség vízellátását.", "A kávészüret idején drasztikusan megnő a helyi gazdaság forgalma.", "Erős kistermelői és szövetkezeti modell jellemzi a gazdálkodást.", "Az erdészet és állattenyésztés kiegészítő bevételi források.", "Infrastruktúrája lassan fejlődik a kávébevételeknek köszönhetően."],
       ro: [],
       en: []
     }, image: "/poi-images/teupasenti-agri-economic-v2.webp"},
@@ -614,7 +614,7 @@ export const poiExtraHondurasEconomicV2: POI[] = [
     description: { de: "Handelsort an der Grenze zu El Salvador.", hu: "Kereskedelmi hely Salvador határán.", ro: "Loc comercial la granița cu El Salvador.", en: "Trading town at the border with El Salvador." },
     descriptionAdvanced: {
       de: "Goascorán, am gleichnamigen Grenzfluss gelegen, ist ein kritischer Knotenpunkt für den Handel zwischen Honduras und El Salvador. Hier befindet sich der Grenzübergang El Amatillo, über den ein Großteil des Warenverkehrs zwischen den beiden Nationen abgewickelt wird. Die Stadt hat sich zu einem lebhaften Handelsplatz entwickelt, auf dem Devisen gewechselt und Güter aller Art umgeschlagen werden. Die strategische Lage an der wichtigsten Pazifikroute Zentralamerikas macht Goascorán zu einem unverzichtbaren Standort für die regionale Logistik und den grenzüberschreitenden Austausch.",
-      hu: "",
+      hu: "Goascorán egy stratégiai fekvésű határváros Valle megyében, közvetlenül a Goascorán-folyó partján, amely természetes határt képez Honduras és El Salvador között. A város gazdasága évtizedek óta a határon átnyúló kereskedelemre, logisztikára és a vámszolgáltatásokra épül. A hivatalos El Amatillo határátkelőhely közelsége miatt Goascorán a nemzetközi áruforgalom fontos tranzitpontja, ami számos munkahelyet teremt a fuvarozás, a raktározás és az utazókat kiszolgáló vendéglátás területén. A kereskedelem mellett a város körüli sík és forró területeken intenzív dinnye-, szezám- és ciroktermesztés zajlik, valamint a szarvasmarha-tenyésztés is számottevő. Goascorán gazdaságát a két ország közötti diplomáciai és kereskedelmi kapcsolatok dinamikája határozza meg. Gazdaság K7 — határmenti szolgáltatások.",
       ro: "",
       en: ""
     },
@@ -626,7 +626,7 @@ export const poiExtraHondurasEconomicV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Standort des wichtigsten Grenzübergangs nach El Salvador (El Amatillo)", "Zentrum für internationale Speditions- und Zolldienstleistungen", "Knotenpunkt für den Personen- und Warenverkehr auf der Panamericana", "Wirtschaftliches Tor zum Pazifikraum für das südwestliche Honduras"],
-      hu: [],
+      hu: ["Valle megye határvárosa az El Salvador-i határt képző folyó mentén.", "Az El Amatillo határátkelő közelsége miatt logisztikai csomópont.", "Gazdasága a tranzitkereskedelemre és vámszolgáltatásokra épül.", "Jelentős szerepet játszik az éttermek és szálláshelyek üzemeltetése.", "A forró klímájú környéken szezámot, dinnyét és cirokot termesztenek.", "A nemzetközi fuvarozás az egyik legnagyobb munkaadó a településen.", "A helyi gazdaság erősen függ az El Salvador-i kereskedelmi forgalomtól."],
       ro: [],
       en: []
     }, image: "/poi-images/goascoran-trade-economic-v2.webp"},
@@ -639,7 +639,7 @@ export const poiExtraHondurasEconomicV2: POI[] = [
     description: { de: "Zentrum für Gartenbau und Milchwirtschaft.", hu: "Kertészet és tejgazdaság központja.", ro: "Centru pentru horticultură și industria lactatelor.", en: "Center for horticulture and dairy farming." },
     descriptionAdvanced: {
       de: "Talanga liegt nordöstlich von Tegucigalpa und ist ein wesentlicher Lieferant von Lebensmitteln für die Hauptstadt. Die fruchtbaren Täler der Region eignen sich hervorragend für den Anbau von Zuckerrohr, Mais und verschiedenen Gemüsesorten. Zudem gibt es eine ausgeprägte Milchwirtschaft, wobei die frischen Erzeugnisse täglich in die umliegenden städtischen Zentren transportiert werden. Die Stadt dient als lokaler Marktplatz, wo Bauern ihre Waren direkt an Zwischenhändler und Endverbraucher verkaufen können, was Talanga zu einem stabilen wirtschaftlichen Pfeiler der Region macht.",
-      hu: "",
+      hu: "Talanga gazdasági profilja Francisco Morazán megyében az intenzív mezőgazdaságra és a főváros, Tegucigalpa közelségéből adódó élelmiszer-beszállításra épül. A tágas Talanga-völgy lehetővé teszi a gépesített földművelést, így a régió a cukornád, a kukorica és a bab egyik fő termőterületévé vált. A mezőgazdaság mellett a szarvasmarha-tenyésztés és a hozzá kapcsolódó tejipar biztosítja a lakosság megélhetését; több helyi tejüzem látja el friss tejtermékkel és sajttal a hondurasi piacot. Mivel a település a fővárost Olancho megyével összekötő főút mentén fekszik, a kereskedelmi szolgáltatások, az autójavító műhelyek és az agrár-logisztika is egyre nagyobb részt hasít ki a város gazdaságából, fokozatosan urbanizálva a korábban tisztán vidékies települést. Gazdaság K7 — agrár-logisztika.",
       ro: "",
       en: ""
     },
@@ -651,7 +651,7 @@ export const poiExtraHondurasEconomicV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Bedeutender Produzent von Zuckerrohr für die regionale Industrie", "Hauptlieferant von frischer Milch für die Molkereien der Hauptstadt", "Wichtiges Handelszentrum an der Straße nach Olancho", "Zentrum für den traditionellen Anbau von Grundgetreide"],
-      hu: [],
+      hu: ["A Tegucigalpát ellátó egyik legfontosabb élelmiszer-termelő völgy.", "Gazdaságának motorja a cukornád-, kukorica- és babtermesztés.", "A régióban jelentős tejipari és sajtgyártó kapacitás épült ki.", "Stratégiai elhelyezkedése miatt agrár-logisztikai központtá vált.", "A gépesített mezőgazdaság egyre inkább felváltja a kistermelői munkát.", "A kereskedelem és az utazók kiszolgálása új bevételi forrás a városnak.", "A lakosság száma a gazdasági lehetőségek miatt folyamatosan nő."],
       ro: [],
       en: []
     }, image: "/poi-images/talanga-agri-economic-v2.webp"},
@@ -664,7 +664,7 @@ export const poiExtraHondurasEconomicV2: POI[] = [
     description: { de: "Region mit Fokus auf Melonenzucht und Viehhaltung.", hu: "Régió dinnye- és állattenyésztéssel.", ro: "Regiune cu accent pe cultivarea pepenilor și creșterea animalelor.", en: "Region with a focus on melon farming and livestock." },
     descriptionAdvanced: {
       de: "Die Region um Nacaome im Süden von Honduras ist ein Kraftzentrum für den Agrarexport. Dank des heißen Klimas und intensiver Bewässerung werden hier Melonen von Weltklasse-Qualität für Märkte in Europa und den USA angebaut. Neben dem Obstanbau ist die Viehhaltung ein traditioneller und wichtiger Wirtschaftszweig, der die trockenen Ebenen des Südens optimal nutzt. In den letzten Jahren hat auch die Produktion von erneuerbarer Energie, insbesondere Solarenergie, an Bedeutung gewonnen und die wirtschaftliche Basis der Region neben der Landwirtschaft modernisiert.",
-      hu: "",
+      hu: "Nacaome, Valle megye székhelye, Honduras déli gazdasági régiójának egyik legmeghatározóbb központja. A forró és száraz klíma, valamint a Csendes-óceán közelsége különleges agrárprofilt alakított ki: a város környéke az ország legnagyobb dinnye- és görögdinnye-termesztő területe, amelyet hatalmas, modern öntözőrendszerekkel és melegházakkal támogatnak, és főként az európai, illetve észak-amerikai piacokra exportálnak. Emellett a Nacaome-folyó és a Fonseca-öböl közelsége fellendítette az ipari méretű garnélarák-tenyésztést (akvakultúra) és a sólepárlást, amelyek szintén kulcsfontosságú exportágazatok. A Pánamerikai főútvonal jelenléte garantálja, hogy a város kereskedelmi bankjai, logisztikai vállalatai és mezőgazdasági beszállítói folyamatosan prosperáljanak. Gazdaság K8 — export-agrárium és akvakultúra.",
       ro: "",
       en: ""
     },
@@ -676,7 +676,7 @@ export const poiExtraHondurasEconomicV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Zentrum für die Produktion von Exportmelonen (Cantaloupe und Honeydew)", "Hauptstandort für großflächige Solarparks in Honduras", "Wichtige Zone für die Fleischrinderzucht im Süden", "Strategischer Handelsplatz nahe dem Golf von Fonseca"],
-      hu: [],
+      hu: ["Honduras egyik legfőbb exportorientált dinnyetermesztő régiója.", "Gazdaságának alappillére a parti garnélarák-tenyésztés (akvakultúra).", "A térségben jelentős ipari sólepárló telepek működnek.", "Fejlett mezőgazdasági technológiát (csepegtető öntözés) alkalmaznak.", "A Pánamerikai főútvonal mentén logisztikai és banki központ.", "A szezám, az okra és a cukornád termesztése is domináns.", "A megye adminisztratív székhelyeként a szolgáltató szektor is erős."],
       ro: [],
       en: []
     }, image: "/poi-images/nacaome-agri-economic-v2.webp"},
@@ -689,7 +689,7 @@ export const poiExtraHondurasEconomicV2: POI[] = [
     description: { de: "Wichtigster Handelsort im Westen von Honduras.", hu: "A legfontosabb kereskedelmi hely Honduras nyugati részén.", ro: "Cel mai important loc comercial în vestul Hondurasului.", en: "Most important trading place in western Honduras." },
     descriptionAdvanced: {
       de: "Santa Rosa de Copán ist das pulsierende kommerzielle Herz des westlichen Honduras. Die Stadt dient als logistischer Knotenpunkt für den Handel mit Kaffee, Tabak und landwirtschaftlichen Produkten der umliegenden Departements. Dank ihrer gut erhaltenen kolonialen Struktur und einer modernen Dienstleistungsgesellschaft hat sich Santa Rosa zu einem Zentrum für Banken, Bildung und Gesundheitsversorgung entwickelt. Die Stadt zieht Geschäftsleute und Touristen gleichermaßen an, was eine dynamische Wirtschaft schafft, die tief in den Traditionen des Westens verwurzelt ist.",
-      hu: "",
+      hu: "Santa Rosa de Copán Nyugat-Honduras gazdasági, kulturális és kereskedelmi fővárosa. A történelmi város leginkább a 18. század óta működő, világhírű szivargyártásáról ismert; az itt sodort prémium dohánytermékek nemzetközi elismertségnek örvendenek. A dohány mellett a város a régió hatalmas kávéiparának logisztikai, pénzügyi és pörkölési központja is; a környező megyék kávétermelői mind itt értékesítik vagy dolgozzák fel terményeiket. Az utóbbi évtizedekben Santa Rosa gazdasága erősen diverzifikálódott: egyre jelentősebb a turizmus (a Copán romok felé tartók bázisaként), a vendéglátás és a felsőoktatás. A város pezsgő üzleti negyeddel, történelmi piacokkal és fejlett szolgáltató szektorral rendelkezik, ami Nyugat-Honduras legstabilabb gazdaságává teszi. Gazdaság K8 — dohányipar és szolgáltatások.",
       ro: "",
       en: ""
     },
@@ -701,7 +701,7 @@ export const poiExtraHondurasEconomicV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Finanzielles Zentrum des westlichen Honduras", "Wichtigster Handelsplatz für Tabakprodukte und Zigarren in der Region", "Zentrum für den Export von Spezialitätenkaffees", "Sitz bedeutender Bildungseinrichtungen und Spitäler"],
-      hu: [],
+      hu: ["Nyugat-Honduras adminisztratív, kereskedelmi és gazdasági fővárosa.", "Világhírű a prémium kategóriás kézműves szivarok gyártásáról.", "A nyugati megyék magaslati kávéjának fő feldolgozó és elosztó központja.", "Fejlett szolgáltatói, banki és felsőoktatási szektorral rendelkezik.", "Jelentős turisztikai csomópont a maja romok felé vezető úton.", "Történelmi központja vonzza a gasztronómiai és kulturális turizmust.", "A környező régiók mezőgazdasági termékeinek elsődleges piaca."],
       ro: [],
       en: []
     }, image: "/poi-images/santa-rosa-trade-economic-v2.webp"},
@@ -714,7 +714,7 @@ export const poiExtraHondurasEconomicV2: POI[] = [
     description: { de: "Wichtiger Ankerpunkt in der isolierten La Mosquitia Region.", hu: "Fontos horgonyzóhely az elszigetelt La Mosquitia régióban.", ro: "Punct de ancorare important în regiunea izolată La Mosquitia.", en: "Important anchor point in the isolated La Mosquitia region." },
     descriptionAdvanced: {
       de: "Puerto Lempira, an der Caratasca-Lagune gelegen, ist der einzige nennenswerte Hafen in der abgeschiedenen Region Gracias a Dios. Da es keine Straßenverbindung zum restlichen Honduras gibt, ist der Hafen die überlebenswichtige Nabelschnur für die Versorgung der lokalen Miskito-Bevölkerung mit Waren aller Art. Hier werden Lebensmittel, Medikamente und Treibstoff angelandet, während Fischereiprodukte den wichtigsten Exportartikel bilden. Der Hafen ist ein Ort ständiger Aktivität, wo kleine Boote und größere Versorgungsschiffe das Bild einer Region prägen, die vollständig vom Wasserweg abhängt.",
-      hu: "",
+      hu: "Puerto Lempira a Caratasca-lagúna partján fekszik, és bár méretében kicsi, Gracias a Dios megye (La Mosquitia) legfontosabb gazdasági és logisztikai bázisa. A régió elszigeteltsége miatt (nincs szárazföldi útkapcsolata az ország többi részével) a város apró kikötője és repülőtere életmentő funkciót tölt be; itt rakodják ki a régióba szánt összes alapvető árut. A város gazdasága szinte teljes egészében a tengerből él: a kereskedelmi halászat és a tengeri mélyvízi búvárkodás révén gyűjtött homár (langosta) Honduras egyik legértékesebb exportcikke. Bár a homáripar jelentős bevételeket generál, súlyos egészségügyi válságot (dekompressziós betegség) is okoz a helyi miszkító búvárok körében. A város ezen kívül az ökoturizmus és a nemzetközi segélyszervezetek bázisaként funkcionál. Gazdaság K8 — halászat és elzárt gazdaság.",
       ro: "",
       en: ""
     },
@@ -726,7 +726,7 @@ export const poiExtraHondurasEconomicV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Einziger logistischer Knotenpunkt in der Region La Mosquitia", "Zentrum für den handwerklichen Fischfang und den Hummerhandel", "Primärer Anlandungspunkt für alle Hilfsgüter und Konsumwaren", "Wichtiger Stützpunkt für den Wassertransport entlang der Lagunen"],
-      hu: [],
+      hu: ["A szárazföldön elzárt La Mosquitia régió fő gazdasági elosztóközpontja.", "Gazdaságának motorja az exportra szánt karibi homár (langosta) kitermelése.", "A homárbúvárkodás komoly társadalmi és egészségügyi kihívást jelent.", "A város ellátása szinte kizárólag vízi és légi úton történik.", "Kereskedelmében a halászat és a faanyag cserekereskedelme dominál.", "Számos nemzetközi NGO és ökoturisztikai vállalkozás bázisa.", "A lagúna és a folyók a legfőbb közlekedési és gazdasági artériák."],
       ro: [],
       en: []
     }, image: "/poi-images/puerto-lempira-port-economic-v2.webp"},
@@ -739,7 +739,7 @@ export const poiExtraHondurasEconomicV2: POI[] = [
     description: { de: "Zentrum für Rinderzucht und landwirtschaftliche Produktion.", hu: "Szarvasmarha-tenyésztés és mezőgazdasági termelés központja.", ro: "Centru pentru creșterea vitelor și producție agricolă.", en: "Center for cattle farming and agricultural production." },
     descriptionAdvanced: {
       de: "Olanchito, gelegen im fruchtbaren Aguán-Tal, ist ein bedeutender Pfeiler der honduranischen Landwirtschaft, insbesondere in der Viehzucht und der Milchproduktion. Die Region verfügt über weitläufige Weideflächen, auf denen Rinder von hoher Qualität gezüchtet werden, was Olanchito zu einem wichtigen Lieferanten für die nationale Fleischindustrie macht. Neben der Viehwirtschaft werden hier auch Bananen und Zitrusfrüchte in großem Stil angebaut, oft von internationalen Konzernen verwaltet. Die Stadt dient als administratives und logistisches Zentrum für die umliegenden Plantagen und Farmen.",
-      hu: "",
+      hu: "Olanchito, amelyet a 'Polgári Városként' (Ciudad Cívica) is tisztelnek kulturális öröksége miatt, Yoro megye legfontosabb mezőgazdasági központja az Aguán-völgy felső szakaszán. A város történelmileg a Standard Fruit Company (Dole) hatalmas banánültetvényeinek árnyékában fejlődött, és bár a banán ma is fontos exportcikk, a gazdaság jelentősen átalakult. Az utóbbi években az afrikai pálma, a citrusfélék és a tejtermelő szarvasmarha-tenyésztés vette át a vezető szerepet a hatalmas síkságokon. Olanchito a régió hús- és tejiparának központja lett, miközben a városi kereskedelem és logisztika egyre több embert foglalkoztat. A város ipari és agrárpotenciálját azonban gyakran visszavetik a folyami áradások és a trópusi viharok. Gazdaság K7 — völgyi mezőgazdaság.",
       ro: "",
       en: ""
     },
@@ -751,7 +751,7 @@ export const poiExtraHondurasEconomicV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Zentrum der Viehzucht im Aguán-Tal", "Bedeutender Produzent von Milchprodukten für den Norden des Landes", "Wichtiger Standort für die Verarbeitung von Zitrusfrüchten", "Historisch gewachsenes Zentrum der Bananenarbeiterbewegung"],
-      hu: [],
+      hu: ["Yoro megye mezőgazdasági központja az Aguán-folyó völgyében.", "Történelmileg a Standard Fruit Company banántermelő központja volt.", "A gazdaságban ma az afrikai pálma és a citrusfélék dominálnak.", "Jelentős szereplője a hondurasi tej- és húsipari ágazatnak.", "Számos élelmiszer-feldolgozó üzem és pálmaolaj-finomító működik itt.", "Kereskedelmi csomópont Yoro és Colón megyék határvidékén.", "Sík fekvése miatt fokozottan kitett az időjárási szélsőségeknek."],
       ro: [],
       en: []
     }

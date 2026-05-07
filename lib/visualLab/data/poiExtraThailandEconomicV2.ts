@@ -13,6 +13,12 @@ export const poiExtraThailandEconomicV2: POI[] = [
       ro: "Portul Laem Chabang",
       en: "Laem Chabang Port"
     },
+    descriptionAdvanced: {
+      en: "Laem Chabang Port is the primary engine of Thailand's international trade and one of the most significant maritime hubs in Southeast Asia. Located in Chonburi province, this deep-sea port was specifically designed to handle the world's largest container vessels, facilitating the massive exports of automobiles, electronics, and agricultural products. The port is the heart of the Eastern Economic Corridor (EEC), a strategic initiative aimed at transforming the region into an advanced technological and industrial center. Its modern infrastructure includes automated container terminals, cold storage facilities, and a dedicated passenger terminal for cruise ships, connecting Thailand with over 100 ports globally. Since its opening in 1991, Laem Chabang has largely replaced the river-bound Bangkok Port as the nation's main shipping gateway, consistently ranking among the top 20 busiest container ports in the world."
+    },
+    factsAdvanced: {
+      en: ["Laem Chabang is the largest and busiest deep-sea port in Thailand.", "It handles approximately 70% of Thailand's total maritime trade volume.", "The port consists of seven container terminals and a major RO-RO terminal for vehicle exports.", "Laem Chabang is ranked within the top 20 busiest container ports globally.", "The port is currently undergoing a massive 'Phase 3' expansion to increase its annual capacity.", "It is a vital global hub for the export of pickup trucks and automotive parts.", "A dedicated rail link connects the port directly to inland cargo terminals in Lat Krabang.", "The port serves as the primary gateway for international cruise lines visiting Bangkok and Pattaya."]
+    },
     description: {
       de: "Thailands größter und wichtigster internationaler Hafen, ein wichtiger Knotenpunkt für den globalen Handel und die Logistik in Südostasien.",
       hu: "Thaiföld legnagyobb és legfontosabb nemzetközi kikötője, a globális kereskedelem és logisztika kulcsfontosságú csomópontja Délkelet-Ázsiában.",
@@ -35,6 +41,12 @@ export const poiExtraThailandEconomicV2: POI[] = [
       hu: "Keleti Parti Ipari Zóna",
       ro: "Zona Industrială Eastern Seaboard",
       en: "Eastern Seaboard Industrial Zone"
+    },
+    descriptionAdvanced: {
+      en: "The Eastern Seaboard Industrial Zone is the cornerstone of Thailand's heavy industry and a global hub for automotive manufacturing, often referred to as the 'Detroit of Asia.' Spanning the provinces of Chonburi and Rayong, this massive industrial cluster was established in the 1980s to capitalize on the natural gas finds in the Gulf of Thailand. It hosts hundreds of factories from multinational giants, including Toyota, Ford, General Motors, and Mitsubishi, creating a sophisticated supply chain for the automotive and electronics sectors. The zone's success is driven by its strategic proximity to Laem Chabang Port and a robust infrastructure network. Beyond manufacturing, the Eastern Seaboard has transformed the local economy, creating millions of jobs and driving Thailand's status as the leading automotive exporter in Southeast Asia. It remains a primary target for foreign direct investment under the current Eastern Economic Corridor (EEC) development plan."
+    },
+    factsAdvanced: {
+      en: ["The Eastern Seaboard is the leading automotive production hub in Southeast Asia.", "It earned the nickname 'Detroit of the East' due to the high density of car factories.", "The zone was a key part of Thailand's shift from an agrarian to an industrial economy.", "Major global players like Ford, Toyota, and Isuzu have their primary ASEAN plants here.", "The area is the center of Thailand's electronics and petrochemical manufacturing sectors.", "It is supported by a comprehensive network of specialized industrial estates.", "The zone contributes a significant percentage to Thailand's national GDP and exports.", "It is a major employment center, attracting workers from all over the country."]
     },
     description: {
       de: "Ein bedeutendes Industriegebiet, das als 'Detroit Asiens' bekannt ist und ein wichtiges Zentrum für die Automobil- und Elektronikfertigung darstellt.",
@@ -60,6 +72,12 @@ export const poiExtraThailandEconomicV2: POI[] = [
       ro: "Parcul Industrial Map Ta Phut",
       en: "Map Ta Phut Industrial Estate"
     },
+    descriptionAdvanced: {
+      en: "Map Ta Phut Industrial Estate is Thailand's largest and most technologically advanced industrial park, specializing in petrochemicals, energy, and heavy industries. Located in Rayong province, it is a key component of the Eastern Economic Corridor (EEC). The estate was established to add value to the natural gas extracted from the Gulf of Thailand, housing massive refineries and chemical plants that produce raw materials for plastics, fertilizers, and textiles. Map Ta Phut features its own deep-sea port, dedicated to the handling of liquid and bulk chemicals. While a massive driver of economic growth and national energy security, the estate has also been a focal point for environmental discussions, leading to the implementation of some of the country's strictest pollution monitoring and community health programs. It remains a vital pillar of the Thai economy, supporting thousands of downstream industries."
+    },
+    factsAdvanced: {
+      en: ["Map Ta Phut is the largest petrochemical hub in Southeast Asia and the 8th largest in the world.", "The estate was founded in 1989 as part of the Eastern Seaboard Development Program.", "It hosts over 150 industrial plants, including massive oil refineries and gas separation plants.", "The Map Ta Phut Port is Thailand's largest industrial port for liquid cargo and bulk materials.", "The estate is a primary producer of raw materials for the global plastics and chemical industries.", "It plays a crucial role in Thailand's energy security by processing offshore natural gas.", "The area is subject to intensive environmental monitoring under the 'Eco-Industrial Town' initiative.", "Major international companies like PTT, Dow Chemical, and SCG have massive operations here."]
+    },
     description: {
       de: "Thailands größtes Industriegebiet, das sich auf die Petrochemie- und Schwerindustrie konzentriert, mit einem eigenen Tiefseehafen.",
       hu: "Thaiföld legnagyobb ipari parkja, amely a petrolkémiai és nehéziparra összpontosít, saját mélytengeri kikötővel.",
@@ -82,6 +100,12 @@ export const poiExtraThailandEconomicV2: POI[] = [
       hu: "Sriracha Tigris Állatkert (Mezőgazdaság)",
       ro: "Grădina Zoologică de Tigri Sriracha (Agricultură)",
       en: "Sriracha Tiger Zoo (Agriculture)"
+    },
+    descriptionAdvanced: {
+      en: "The Sriracha Tiger Zoo, located in Chonburi province, was historically a unique and controversial agro-industrial enterprise that blended wildlife tourism with large-scale animal husbandry. While primarily known to the public for its spectacular tiger and crocodile shows, the zoo functioned as a massive breeding facility for Bengal tigers and saltwater crocodiles. At its peak, it housed one of the largest populations of tigers in captivity worldwide. The facility also served as an economic hub for the trade of animal-related products and was a major employer in the Sriracha district. The zoo became famous for its 'cross-species' social experiments, such as sows nursing tiger cubs, which were a hallmark of its marketing. However, following the global pandemic and increasing scrutiny over animal welfare and international trade regulations, the zoo closed its doors in 2021, marking the end of an era for Thailand's traditional animal-based tourism industry."
+    },
+    factsAdvanced: {
+      en: ["At its peak, Sriracha Tiger Zoo housed over 400 Bengal tigers and 10,000 crocodiles.", "The facility was a major producer of crocodile leather and meat for the international market.", "It was famous for the 'Tiger Cub and Piglet' nursery, a major tourist draw.", "The zoo was established in 1997 and operated for nearly 24 years.", "It was one of the largest private tiger breeding facilities in the world.", "The zoo hosted an annual 'Crocodile Egg Breaking Festival' to celebrate new hatchlings.", "It was a major stop for international tour groups visiting Pattaya and Bangkok.", "The zoo's closure in 2021 led to the relocation of its animals to various wildlife sanctuaries."]
     },
     description: {
       de: "Neben den Tiershows war der Zoo auch ein Wirtschaftsunternehmen, das in die Zucht von Tigern und Krokodilen für den Handel involviert war, was ihn zu einem umstrittenen Agrar-/Industriestandort machte.",
@@ -107,6 +131,12 @@ export const poiExtraThailandEconomicV2: POI[] = [
       ro: "Mina de lignit Mae Moh",
       en: "Mae Moh Lignite Mine"
     },
+    descriptionAdvanced: {
+      en: "The Mae Moh Lignite Mine, located in Lampang province, is the largest open-pit coal mine in Southeast Asia and a critical pillar of Thailand's energy infrastructure. Operated by the Electricity Generating Authority of Thailand (EGAT), the mine produces millions of tons of lignite (brown coal) annually to fuel the adjacent Mae Moh Power Plant. This integrated complex provides approximately 10-15% of the country's total electricity supply, powering much of Northern and Central Thailand. The mine's scale is immense, spanning over 135 square kilometers and reaching depths of several hundred meters. While essential for national energy security and low-cost power, the mine has historically faced challenges related to air quality and local health, leading to the installation of advanced emission control systems and extensive environmental rehabilitation projects, including the creation of a massive botanical garden on former mining sites."
+    },
+    factsAdvanced: {
+      en: ["Mae Moh is the largest open-pit coal mine in Southeast Asia, operating since 1954.", "The mine provides nearly all the fuel for the 2,400 MW Mae Moh Power Plant.", "It is operated entirely by the Electricity Generating Authority of Thailand (EGAT).", "The mining pit is several hundred meters deep and covers an area larger than many cities.", "Mae Moh has some of the world's largest earth-moving machinery for coal extraction.", "A large part of the reclaimed land has been turned into a public park and botanical garden.", "The site features a famous viewpoint over the massive mining operations.", "The mine is a major economic driver for the Lampang province, providing thousands of jobs."]
+    },
     description: {
       de: "Thailands größter Tagebau für Braunkohle, der das angrenzende Kraftwerk versorgt und ein wichtiger Bestandteil der Energieinfrastruktur des Landes ist.",
       hu: "Thaiföld legnagyobb lignitbányája, amely a szomszédos erőművet látja el, és az ország energiainfrastruktúrájának fontos része.",
@@ -129,6 +159,12 @@ export const poiExtraThailandEconomicV2: POI[] = [
       hu: "Bangkok kikötő (Khlong Toei)",
       ro: "Portul Bangkok (Khlong Toei)",
       en: "Bangkok Port (Khlong Toei)"
+    },
+    descriptionAdvanced: {
+      en: "Bangkok Port, commonly known as Khlong Toei Port, is the historic gateway for Thailand's international trade, situated on the banks of the Chao Phraya River in the heart of the capital. Established in 1947, it served as the nation's primary shipping hub for decades before the development of the deep-sea port at Laem Chabang. Despite the shift of large container vessels to the coast, Khlong Toei remains a vital logistics center, handling nearly 1.5 million TEUs annually. Its location within the city allows for efficient distribution of consumer goods and raw materials directly to the Bangkok metropolitan market. The port is a complex ecosystem of terminals, warehouses, and customs facilities, managed by the Port Authority of Thailand. It plays a dual role as an economic engine and a major employer, while also being a central part of the urban landscape and ongoing discussions about Bangkok's future waterfront development."
+    },
+    factsAdvanced: {
+      en: ["Bangkok Port is located in the Khlong Toei district, approximately 28 km from the river mouth.", "It was Thailand's only international container port until the 1990s.", "The port handles mainly consumer products, machinery, and agricultural exports.", "It is operated by the Port Authority of Thailand (PAT), a state-owned enterprise.", "The river's depth limits the size of vessels that can access the port to 12,000 DWT.", "Constant dredging of the Chao Phraya River is required to maintain shipping access.", "The port is a major hub for the local logistics and trucking industries.", "Portions of the port are being planned for conversion into a modern 'Smart Community' and green space."]
     },
     description: {
       de: "Ein großer Seehafen am Chao Phraya Fluss, der historisch der wichtigste internationale Hafen Thailands war, bevor Laem Chabang gebaut wurde.",
@@ -154,6 +190,12 @@ export const poiExtraThailandEconomicV2: POI[] = [
       ro: "Piața de Weekend Chatuchak",
       en: "Chatuchak Weekend Market"
     },
+    descriptionAdvanced: {
+      en: "The Chatuchak Weekend Market, also known as 'JJ Market,' is the ultimate symbol of Thailand's vibrant retail economy and the largest outdoor market in the world. Spanning over 35 acres and housing more than 15,000 stalls, it is an economic powerhouse that attracts over 200,000 visitors every weekend. The market is organized into 27 sections, offering an overwhelming variety of goods, including fashion, home decor, plants, antiques, books, and even exotic pets. Chatuchak is a vital incubator for Thailand's small and medium-sized enterprises (SMEs), where many local designers and artists launch their careers. It serves as a major export hub, with many international buyers sourcing unique Thai products for global distribution. Beyond its economic impact, Chatuchak is a cultural phenomenon, offering a sensory-rich experience that reflects the entrepreneurial spirit and diverse creative output of the Thai people."
+    },
+    factsAdvanced: {
+      en: ["Chatuchak is the largest weekend market in the world, with over 15,000 individual stalls.", "The market is divided into 27 sections based on the type of goods sold.", "It attracts roughly 200,000 visitors per day every Saturday and Sunday.", "The market was originally located at Sanam Luang before moving to its current site in 1982.", "Chatuchak is a major source for international home decor and fashion wholesalers.", "The iconic Clock Tower in the center serves as the main orientation point for shoppers.", "An estimated 30% of visitors to Chatuchak are international tourists.", "The market features several on-site shipping agents for international freight delivery."]
+    },
     description: {
       de: "Einer der größten Märkte der Welt, ein riesiger Handelsplatz, der eine unglaubliche Vielfalt an Waren von Kleidung bis hin zu Antiquitäten und Haustieren anbietet.",
       hu: "A világ egyik legnagyobb piaca, egy hatalmas kereskedelmi központ, amely a ruháktól az régiségekig és a háziállatokig hihetetlenül sokféle árut kínál.",
@@ -178,6 +220,12 @@ export const poiExtraThailandEconomicV2: POI[] = [
       ro: "Satul de umbrele Bo Sang",
       en: "Bo Sang Umbrella Village"
     },
+    descriptionAdvanced: {
+      en: "Bo Sang Umbrella Village, located just outside Chiang Mai, is a world-renowned center for traditional Thai handicrafts and a prime example of a successful community-based industry. The village has specialized in the production of hand-painted paper umbrellas for over 200 years, a craft allegedly introduced by a monk who learned the technique in neighboring Burma. The umbrellas are made from 'Saa' paper (derived from the bark of the mulberry tree) and locally sourced bamboo and silk. Bo Sang is a unique economic ecosystem where nearly every household is involved in a specific part of the production process, from frame making to intricate floral painting. Today, the village is a major cultural tourism destination where visitors can witness the entire manufacturing cycle. Its products are exported globally, representing the artistic heritage of the Lanna Kingdom and providing a sustainable livelihood for hundreds of local families."
+    },
+    factsAdvanced: {
+      en: ["Bo Sang is famous for umbrellas made from 'Saa' (mulberry) paper and silk.", "The village holds the Bo Sang Umbrella & Sankamphaeng Craft Festival every January.", "The craft was brought to the village over 200 years ago by a monk named Phra Intha.", "The paper is naturally waterproofed using a special oil-based lacquer.", "Bo Sang umbrellas are entirely handmade, from the bamboo frame to the final painting.", "The village is a major center for the Lanna-style handicraft industry.", "The 'Saa' paper is made by boiling mulberry bark and spreading the fibers on screens.", "Bo Sang umbrellas are recognized as a 'One Tambon One Product' (OTOP) premium handicraft."]
+    },
     description: {
       de: "Ein Handwerksdorf in der Nähe von Chiang Mai, das für die Herstellung handgefertigter Sonnenschirme aus Saa-Papier und Seide bekannt ist, ein Beispiel für lokale, auf Tourismus ausgerichtete Industrie.",
       hu: "Egy kézműves falu Chiang Mai közelében, amely a saa papírból és selyemből készült kézzel készített napernyők gyártásáról ismert, a helyi, turizmusra épülő ipar példája.",
@@ -200,6 +248,12 @@ export const poiExtraThailandEconomicV2: POI[] = [
       hu: "Songkhla mélytengeri kikötő",
       ro: "Portul de Mare Adâncime Songkhla",
       en: "Songkhla Deep Sea Port"
+    },
+    descriptionAdvanced: {
+      en: "Songkhla Deep Sea Port is the most critical maritime gateway for Southern Thailand, facilitating the region's vast exports of rubber, seafood, and agricultural products. Situated at the mouth of the Songkhla Lake, the port was developed in the late 1980s to support the economic growth of the southern provinces and reduce reliance on transport to Bangkok. It serves as a vital link for trade with neighboring Malaysia, Singapore, and East Asian markets. The port features modern container and general cargo terminals and is a primary hub for the export of concentrated latex and smoked rubber sheets, for which the region is world-famous. Beyond trade, the port is an essential logistics base for the offshore oil and gas industry in the Gulf of Thailand. Its presence has transformed Songkhla into a major maritime services center, driving local employment and supporting the industrial development of the Southern Seaboard."
+    },
+    factsAdvanced: {
+      en: ["Songkhla Deep Sea Port is the primary export hub for Southern Thailand's rubber industry.", "It was opened in 1988 to promote the Southern Seaboard Development Program.", "The port handles a significant portion of Thailand's frozen and canned seafood exports.", "It serves as a major support base for offshore petroleum exploration in the Gulf of Thailand.", "The port is located at the outer mouth of the Songkhla Lake, facing the Gulf of Thailand.", "It handles over 150,000 TEUs of container traffic annually.", "The port is a key transshipment point for goods entering Northern Malaysia.", "Ongoing dredging is necessary to maintain a depth of 9 meters for cargo vessels."]
     },
     description: {
       de: "Ein wichtiger Hafen im Süden Thailands, der den Handel mit Malaysia und anderen südostasiatischen Ländern erleichtert, insbesondere für Gummiexporte.",
@@ -224,6 +278,12 @@ export const poiExtraThailandEconomicV2: POI[] = [
       hu: "A Thai-öböl gázmezői",
       ro: "Câmpurile de gaze din Golful Thailandei",
       en: "Gulf of Thailand Gas Fields"
+    },
+    descriptionAdvanced: {
+      en: "The Gulf of Thailand Gas Fields are the literal powerhouse of the Thai economy, providing the natural gas that generates more than half of the country's electricity. Since the first major discovery of natural gas in the 1970s, the offshore basins, particularly the Erawan and Bongkot fields, have transformed Thailand into a regional energy leader. This domestic resource was the primary catalyst for the development of the Eastern Seaboard's heavy industry and petrochemical sectors. Hundreds of offshore platforms are connected by a vast network of subsea pipelines to processing plants on the coast, particularly in Rayong and Songkhla. These fields not only provide fuel for power plants but also raw materials for a wide range of industries, from plastics to fertilizers. As these mature fields face natural decline, they continue to be a focus of strategic investment and a driver for the development of Thailand's advanced offshore engineering and service industries."
+    },
+    factsAdvanced: {
+      en: ["Natural gas from the Gulf of Thailand fuels over 50% of the country's electricity generation.", "The Erawan field was the first to start production, beginning in 1981.", "Thailand has some of the world's most complex offshore gas reservoirs due to geological faulting.", "The Bongkot field is the largest single gas field in the Gulf of Thailand.", "Offshore gas is transported to the mainland via subsea pipelines hundreds of kilometers long.", "The industry is a major source of high-tech employment and tax revenue for Thailand.", "The PTT Exploration and Production (PTTEP) is the leading domestic operator in the Gulf.", "Gas from the Gulf is also used as fuel for NGV (Natural Gas Vehicle) transport across Thailand."]
     },
     description: {
       de: "Ein riesiges Gebiet im Golf von Thailand mit zahlreichen Offshore-Erdgasfeldern, die das Rückgrat der thailändischen Energieversorgung bilden.",

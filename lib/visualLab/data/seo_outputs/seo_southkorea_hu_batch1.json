@@ -1,0 +1,295 @@
+{
+  "lang": "hu",
+  "country": "southkorea",
+  "files": [
+    "lib/visualLab/data/poiExtraSouthkoreaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraSouthkoreaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraSouthkoreaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraSouthkoreaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraSouthkoreaLifeV2.ts",
+    "lib/visualLab/data/poiExtraSouthkoreaNatureV2.ts",
+    "lib/visualLab/data/poiExtraSouthkoreaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "hwaseong-city-cities-v2",
+      "descriptionAdvanced": "Hvaszong egy dinamikusan fejlődő nagyváros Kjonggi tartományban, amely a Szöuli Nemzeti Fővárosi Terület része. A város gazdasága rendkívül erős, itt található a Samsung Electronics és a Kia Motors több kulcsfontosságú gyártóegysége is. Történelmi szempontból kiemelkedő a Hvaszong erőd, amely UNESCO Világörökségi helyszín, és a 18. század végi koreai hadi építészet remekműve. A város modern lakónegyedei és kiterjedt ipari parkjai tökéletes példái Dél-Korea gyors urbanizációjának és technológiai előretörésének.",
+      "factsAdvanced": [
+        "A város ad otthont a Kia Motors legnagyobb koreai gyárának.",
+        "Hvaszong területe több mint kétszerese Szöulénak.",
+        "Itt található a Samsung Electronics egyik legnagyobb félvezetőgyára.",
+        "A város tengerparti része népszerű a sárhajózás és a dűnék miatt.",
+        "A Hvaszong-erőd a város legfontosabb történelmi látványossága.",
+        "Népessége az elmúlt két évtizedben ugrásszerűen megnőtt.",
+        "Fontos oktatási központ számos egyetemmel és kutatóintézettel.",
+        "A város gazdasága jelentős mértékben hozzájárul Korea GDP-jéhez."
+      ]
+    },
+    {
+      "id": "namyangju-city-cities-v2",
+      "descriptionAdvanced": "Namjangdzsu egy festői környezetben fekvő város Szöultól keletre, amely híres ökológiai tudatosságáról és kulturális örökségéről. A város jelentős része hegyvidéki terület, ami ideális hellyé teszi a túrázók és a természetkedvelők számára. Namjangdzsu ad otthont a Dasan Heritage Site-nak, amely a híres konfuciánus tudós, Jeong Yak-yong szülőhelye és sírhelye. A város emellett fontos mezőgazdasági terület is, különösen a körte- és epertermesztéséről ismert, miközben modern lakónegyedei kényelmes életteret biztosítanak a fővárosba ingázók számára.",
+      "factsAdvanced": [
+        "A város Dél-Korea egyik vezető 'öko-városa'.",
+        "Itt található a Kofic Namyangju Studios, az ország egyik legnagyobb filmstúdiója.",
+        "Híres a 'Dasan' becenevű körtefajtáról, amely nemzetközi hírű.",
+        "A város területének több mint 70%-át erdők borítják.",
+        "A Dasan Jeong Yak-yong múzeum a város fő kulturális vonzereje.",
+        "Namjangdzsu fontos csomópont a Szöul-Cshuncshon vasútvonalon.",
+        "Számos királyi sírhely (Tombs of the Joseon Dynasty) található itt.",
+        "A város népszerű hely a biogazdálkodás és a fenntartható életmód iránt érdeklődőknek."
+      ]
+    },
+    {
+      "id": "uijeongbu-city-cities-v2",
+      "descriptionAdvanced": "Uidzsongbu történelmileg fontos katonai város volt Szöultól északra, amely mára modern kereskedelmi és közigazgatási központtá alakult át. A város neve a Csoszon-dinasztia idején a legfőbb államtanácsra utalt, jelezve stratégiai jelentőségét. Uidzsongbu világszerte ismertté vált a koreai háború után született 'Budae Jjigae' (hadseregi pörkölt) nevű ételről, amely a helyi amerikai katonai bázisokról származó alapanyagokból készült. A Pukhanszan Nemzeti Park közelsége és a város vibráló élete egyaránt vonzza a látogatókat és a természetbarátokat.",
+      "factsAdvanced": [
+        "A város a Budae Jjigae (Army Base Stew) szülőhelye.",
+        "Hosszú ideig számos amerikai katonai bázisnak adott otthont.",
+        "A város neve a Csoszon-kori legfelsőbb kormányzati szervre utal.",
+        "Itt található a Kjonggi tartomány északi közigazgatási hivatala.",
+        "A Pukhanszan Nemzeti Park északi kapujaként is ismerik.",
+        "Uidzsongbu híres a hagyományos piacáról és modern bevásárlóközpontjairól.",
+        "A város a szöuli metróhálózat több vonalával is össze van kötve.",
+        "Jelentős jégkorong- és téli sportközponttal rendelkezik."
+      ]
+    },
+    {
+      "id": "gwangmyeong-city-cities-v2",
+      "descriptionAdvanced": "Kvangmjong egy gyorsan fejlődő város Szöul délnyugati határán, amely mára fontos közlekedési és turisztikai csomóponttá vált. A város legismertebb látványossága a Kvangmjong-barlang, egy egykori aranybánya, amelyet látványos tematikus parkká és bormúzeummá alakítottak át. Kvangmjong ad otthont az IKEA legnagyobb koreai áruházának és egy hatalmas KTX gyorsvasúti állomásnak, amely összeköti a térséget az ország többi részével. A város sikeresen ötvözi az ipari múltat a modern városi kényelemmel és a környezetbarát fejlesztésekkel.",
+      "factsAdvanced": [
+        "A Kvangmjong-barlang az ország egyik legnépszerűbb tematikus barlangja.",
+        "Itt található a világ egyik legnagyobb IKEA áruháza.",
+        "Kvangmjong KTX állomása az egyik legfontosabb gyorsvasúti csomópont.",
+        "A város korábban bányászati központ volt, aranyat és ezüstöt termeltek itt.",
+        "Híres a hagyományos piacáról, amely az egyik legnagyobb a régióban.",
+        "A város ad otthont a Kia Motors Sohari gyárának.",
+        "Kvangmjong elkötelezett a fenntartható városfejlesztés mellett.",
+        "Számos kulturális fesztivált rendeznek itt, köztük a Barlangművészeti Fesztivált."
+      ]
+    },
+    {
+      "id": "mokpo-city-cities-v2",
+      "descriptionAdvanced": "Mokpho egy hangulatos kikötőváros Dél-Korea délnyugati csücskében, amely gazdag tengeri örökséggel és történelmi jelentőséggel bír. A város a Judál-hegy lábánál fekszik, ahonnan lenyűgöző kilátás nyílik a sárga-tengeri szigetekre. Mokpho fontos szerepet játszott a japán gyarmati korszakban, mint kereskedelmi kikötő, aminek emlékeit ma is őrzik az óváros épületei. A város híres különleges gasztronómiájáról, különösen a tenger gyümölcseiről, és kiindulópontként szolgál a környező szigetvilág felfedezéséhez, beleértve a híres Csedzsu-szigetet is.",
+      "factsAdvanced": [
+        "Mokpho a 19. század végén nyílt meg a nemzetközi kereskedelem előtt.",
+        "Híres a 'kilenc ízéről', amelyek különleges helyi tengeri ételek.",
+        "Itt található a Nemzeti Tengeri Kulturális Örökségkutató Intézet.",
+        "A Judál-hegyi libegő Dél-Korea leghosszabb kötélpályái közé tartozik.",
+        "A város híres az 1930-as években született 'Mokpho könnyei' című dalról.",
+        "Mokpho volt a kiindulópontja az ország első országútjának (Route 1).",
+        "Fontos komp- és hajózási csomópont a Sárga-tengeren.",
+        "A város óvárosában számos japán stílusú épület maradt fent."
+      ]
+    },
+    {
+      "id": "yeosu-city-cities-v2",
+      "descriptionAdvanced": "Joszu egy lenyűgöző tengerparti város a Koreai-félsziget déli részén, amely 2012-ben a Világkiállítás (Expo) helyszíneként vált nemzetközileg ismertté. A város több mint 300 szigetből álló szigetvilág veszi körül, ami páratlan természeti szépséget kölcsönöz neki. Joszu történelmileg Yi Sun-sin admirális hadiszállásaként ismert, ahol a híres teknőshajókat építették. Modern látványosságai közé tartozik az Aqua Planet akvárium és az óceán felett átívelő libegő, miközben a város éjszakai fényei és tengerparti sétányai romantikus hangulatot árasztanak.",
+      "factsAdvanced": [
+        "Joszu rendezte meg a 2012-es Nemzetközi Világkiállítást (EXPO).",
+        "A város híres a 'Busker Busker' együttes 'Joszu éjszakai tengere' című daláról.",
+        "Itt építették Yi Sun-sin admirális legendás teknőshajóit.",
+        "A Joszu-tengeri libegő az első a maga nemében Koreában.",
+        "A város tengeri akváriuma, az Aqua Planet az egyik legnagyobb az országban.",
+        "Joszu több mint 300 kisebb-nagyobb szigetet foglal magában.",
+        "Híres a különleges, csípős mustárlevél-kimchiéről (Gat-kimchi).",
+        "A város fontos petrolkémiai ipari központ is egyben."
+      ]
+    },
+    {
+      "id": "suncheon-city-cities-v2",
+      "descriptionAdvanced": "Szuncshon egy ökológiai ékszerdoboz Dél-Dzsolla tartományban, amely világszerte elismert fenntartható városfejlesztéséről és természeti értékeiről. A város legismertebb vonzereje a Szuncshon-öböl vizes élőhelye, amely a világ egyik legjelentősebb part menti ökoszisztémája és vándormadarak paradicsoma. Szuncshon adott otthont a Nemzetközi Kertészeti Világkiállításnak is, amelynek helyszíne ma állandó nemzeti kertként funkcionál. A város sikeresen ötvözi a modern városi életet a természetvédelemmel, emellett gazdag történelmi emlékekkel, például a Szonggvansza templommal is büszkélkedhet.",
+      "factsAdvanced": [
+        "A Szuncshon-öböl a világ egyik legszebb vizes élőhelyeként ismert.",
+        "Itt található Korea első számú nemzeti kertje, a Szuncshon-öböl Nemzeti Kert.",
+        "A város ad otthont a történelmi Naganeupseong népi falunak.",
+        "Szuncshon híres a buddhista templomairól, köztük a Szonggvanszáról.",
+        "A város Dél-Korea egyik vezető 'zöld városa'.",
+        "A Szuncshon-öböl a ritka csuklyás darvak egyik fontos telelőhelye.",
+        "A város gazdasága jelentős részben az ökoturizmusra épül.",
+        "Itt található a Seonamsa templom, amely UNESCO Világörökségi helyszín."
+      ]
+    },
+    {
+      "id": "gyeongju-city-cities-v2",
+      "descriptionAdvanced": "Kjongdzsu, amelyet gyakran 'falak nélküli múzeumnak' neveznek, a Silla Királyság egykori fővárosa volt közel ezer éven át. A város minden szegletét történelmi emlékek, királyi sírhalmok, templomok és palotaromok díszítik, amelyek közül sok az UNESCO Világörökség része. Kjongdzsu nemcsak Korea történelmi szívét jelenti, hanem modern kulturális központ is, ahol a hagyományok és a mai élet szervesen összefonódnak. A Pulguksza-templom és a Szokkuram-barlang a koreai buddhista művészet csúcspontjai, míg a város központjában található hatalmas füves sírhalmok misztikus hangulatot árasztanak.",
+      "factsAdvanced": [
+        "Kjongdzsu 992 éven át volt a Silla Királyság fővárosa.",
+        "A város teljes történelmi negyede az UNESCO Világörökség része.",
+        "Itt található a Cshomszongde, a világ egyik legrégebbi obszervatóriuma.",
+        "A várost hatalmas, füves királyi sírhalmok (tumulusok) jellemzik.",
+        "A Pulguksza-templom Korea egyik legfontosabb buddhista emléke.",
+        "Híres a 'Kjongdzsu kenyérről', egy hagyományos vörösbabbal töltött süteményről.",
+        "A város a koreai nemzeti identitás és kultúra egyik bölcsője.",
+        "Évente milliók látogatják a cseresznyevirágzás idején."
+      ]
+    },
+    {
+      "id": "geoje-city-cities-v2",
+      "descriptionAdvanced": "Kodzse egy gyönyörű szigetváros Dél-Korea déli partjainál, amely egyszerre jelentős ipari központ és népszerű turisztikai célpont. A várost a világ legnagyobb hajógyárai (például a Hanwha Ocean és a Samsung Heavy Industries) teszik globális jelentőségűvé a nehéziparban. Ezzel szemben Kodzse partvonala lélegzetelállító természeti szépségeket rejt, sziklás partokkal, smaragdzöld tengerrel és egzotikus szigetekkel, mint például Oedo Botanikus Kert. A város gazdag történelmi múlttal is rendelkezik, többek között itt működött a koreai háború idején az egyik legnagyobb hadifogolytábor.",
+      "factsAdvanced": [
+        "Kodzse szigete Dél-Korea második legnagyobb szigete Csedzsu után.",
+        "Itt találhatók a világ legnagyobb és legmodernebb hajógyárai.",
+        "A várost a szárazfölddel a monumentális Kodzse-Busan híd köti össze.",
+        "Híres az Oedo Botanikus Kertről, amely egy külön kis szigeten található.",
+        "Itt működött a koreai háború legnagyobb ENSZ hadifogolytábora.",
+        "A város tengerpartja népszerű a túrázók és a horgászok körében.",
+        "Kodzse híres a friss tengeri ételeiről és az osztrigatenyésztéséről.",
+        "A 'Szél dombja' (Windy Hill) a város egyik legtöbbet fotózott helyszíne."
+      ]
+    },
+    {
+      "id": "gimpo-city-cities-v2",
+      "descriptionAdvanced": "Gimpo egy stratégiai fekvésű város Szöul északnyugati határán, amely a történelmi Gimpo-síkságon terül el. A város leginkább a Gimpo Nemzetközi Repülőtérről ismert, amely évtizedekig Korea fő kapuja volt, és ma is az egyik legforgalmasabb belföldi és regionális légi csomópont. Gimpo gyorsan fejlődő 'új városaival' és modern lakóparkjaival vonzza a fővárosból kitelepülőket, miközben mezőgazdasági gyökereit is őrzi, híres kiváló minőségű rizséről. A város határos az Észak-Koreát elválasztó folyókkal, ami különleges határmenti hangulatot és fontos védelmi jelentőséget kölcsönöz neki.",
+      "factsAdvanced": [
+        "A Gimpo Nemzetközi Repülőtér korábban Korea egyetlen nemzetközi repülőtere volt.",
+        "Híres a Gimpo rizséről, amelyet már a királyi udvarnak is beszállítottak.",
+        "A város Szöul és Incheon között helyezkedik el, ideális ingázó központ.",
+        "Itt található a Gimpo Goldline, egy teljesen automatizált metróvonal.",
+        "A város északi része közvetlenül a DMZ közelében fekszik.",
+        "Gimpo jelentős csatornahálózattal rendelkezik, amelyet 'Venice of Korea'-nak is neveznek.",
+        "A városban található a Munsu erőd, amely a francia támadás elleni védelem helyszíne volt.",
+        "Gimpo népessége az egyik leggyorsabban növekvő Dél-Koreában."
+      ]
+    },
+    {
+      "id": "andong-city-cities-v2",
+      "descriptionAdvanced": "Andong a koreai konfuciánus hagyományok és a nemesi kultúra spirituális központja Észak-Kjongszang tartományban. A város híres arról, hogy hűen őrzi a múlt értékeit, aminek legfényesebb példája a Hahoe Népi Falu, amely az UNESCO Világörökség része. Andong a koreai szellemi örökség egyik bástyája, ahol a hagyományos maszkos táncok, a konfuciánus akadémiák és a helyi gasztronómia (például az Andong Jjimdak és a Soju) egyedülálló élményt nyújtanak. A város a 'Koreai Lelki Kultúra Fővárosaként' határozza meg magát, vonzva azokat, akik a valódi, ősi Korea mélységeit keresik.",
+      "factsAdvanced": [
+        "Andong a koreai konfuciánus kultúra legfontosabb központja.",
+        "A Hahoe Népi Falu az UNESCO Világörökség része és ma is lakott.",
+        "Híres az Andong maszkos táncfesztiválról (Hahoe Byeolsingut Talnori).",
+        "A város ad otthont a Dosan Seowon-nak, a híres konfuciánus akadémiának.",
+        "Itt készül a híres Andong Soju, egy tradicionális égetett szeszesital.",
+        "Andong Jjimdak (párolt csirke) a város legismertebb helyi étele.",
+        "Erzsébet brit királynő 1999-es látogatása nemzetközileg is ismertté tette a várost.",
+        "A város határában található az Andong-gát, amely hatalmas mesterséges tavat alkot."
+      ]
+    },
+    {
+      "id": "seogwipo-city-cities-v2",
+      "descriptionAdvanced": "Seogwipo a Csedzsu-sziget déli részének legnagyobb városa, amely szubtrópusi klímájáról, drámai vulkanikus tengerpartjairól és lenyűgöző vízeséseiről ismert. A város ideális célpont a természetkedvelőknek, hiszen itt találhatók a híres Jeongbang és Cheonjiyeon vízesések, valamint a különleges oszlopos bazaltképződmények (Jusangjeolli). Seogwipo fontos kulturális központ is, modern múzeumokkal, művészeti galériákkal és vibráló piacaival. A város környezete ideális a mandarin termesztéséhez, és számos luxusszálloda és üdülőhely teszi az ország egyik legnépszerűbb nyaralóhelyévé.",
+      "factsAdvanced": [
+        "Seogwipo adott otthont a 2002-es labdarúgó-világbajnokság több mérkőzésének.",
+        "Itt található a Jeongbang vízesés, az egyetlen Ázsiában, amely közvetlenül a tengerbe ömlik.",
+        "A város környéke Korea első számú mandarin- és citrusfélék-termelő vidéke.",
+        "A Jusangjeolli-sziklák látványos hatszögletű bazaltoszlopai a város jelképei.",
+        "Seogwipo kikötője népszerű a tengeralattjárós túrák és a búvárkodás miatt.",
+        "A város ad otthont a Lee Jung-seop művészeti utcának és múzeumnak.",
+        "A Hallasan Nemzeti Park déli bejárata is a város közelében található.",
+        "Seogwipo éghajlata a legenyhébb egész Dél-Koreában."
+      ]
+    },
+    {
+      "id": "icheon-city-cities-v2",
+      "descriptionAdvanced": "Icheon a koreai kerámiaművészet és a mezőgazdasági kiválóság városa Kjonggi tartományban. A város évszázadok óta a fazekasság központja, ahol a Csoszon-dinasztia idején a királyi udvar számára készítettek edényeket; ma az UNESCO Kézműves és Népművészeti Városa címet viseli. Icheon emellett híres kiváló minőségű rizséről és őszibarackjáról, amelyek az ország legjobbjai közé tartoznak. A város modern gazdaságának tartóoszlopa az SK Hynix, a világ egyik vezető félvezetőgyártója, amely itt tartja fenn központját, így Icheon sikeresen ötvözi az ősi kézművességet a legmodernebb csúcstechnológiával.",
+      "factsAdvanced": [
+        "Icheon az UNESCO 'Kézműves és Népművészeti Városok' hálózatának tagja.",
+        "A városban több mint 300 kerámiaműhely and stúdió működik.",
+        "Itt található az SK Hynix globális központja és fő gyártóbázisa.",
+        "Az Icheon rizs évszázadokon át a koreai királyok asztalára került.",
+        "A városban rendezik meg az éves Icheon Kerámiafesztivált.",
+        "Híres gyógyvizes forrásairól és modern wellness-központjairól.",
+        "Icheon ad otthont a Cinnus Mozen Parknak, amely egy különleges művészeti park.",
+        "A város fontos logisztikai központ a Szöul környéki autópályák mentén."
+      ]
+    },
+    {
+      "id": "guri-city-cities-v2",
+      "descriptionAdvanced": "Guri egy kisméretű, de rendkívül sűrűn lakott város közvetlenül Szöul keleti határán, a Han-folyó partján. A város történelmi jelentőségét a Donggu-neung adja, amely Korea legnagyobb királyi sírcsoportja, ahol a Csoszon-dinasztia kilenc királya nyugszik, és az UNESCO Világörökség része. Guri modern arculatát a kiterjedt parkok, mint például a Han-folyó menti virágpark, és a vibráló kereskedelmi negyedek határozzák meg. Stratégiai elhelyezkedése miatt fontos közlekedési csomópont, amely zökkenőmentes kapcsolatot biztosít a főváros és Kjonggi tartomány keleti részei között.",
+      "factsAdvanced": [
+        "Guri területe az egyik legkisebb a koreai városok között.",
+        "Itt található a Donggu-neung, a legnagyobb Csoszon-kori királyi sírcsoport.",
+        "A Guri Hangang Park híres az évente megrendezett Repcefesztiválról és Kozmoszfesztiválról.",
+        "A város ad otthont a Guri Toronynak, amely egy szemétégető kéményéből kialakított kilátó.",
+        "Guri híres a friss termények piacáról, amely a régió egyik fő ellátója.",
+        "A város nevének jelentése 'Kilenc Falu' (九里).",
+        "Közvetlen metrókapcsolattal (Gyeongui-Jungang vonal) rendelkezik Szöul felé.",
+        "A város területének jelentős része zöldövezet (Green Belt) védelem alatt áll."
+      ]
+    },
+    {
+      "id": "sokcho-city-cities-v2",
+      "descriptionAdvanced": "Sokcho egy bájos kikötőváros Dél-Korea északkeleti partvidékén, amely a Japán-tenger (Keleti-tenger) és a fenséges Seoraksan Nemzeti Park között fekszik. A város az ország egyik legnépszerűbb turisztikai célpontja, köszönhetően a tengerparti kikapcsolódás és a hegyi túrázás tökéletes kombinációjának. Sokcho híres a friss tengeri ételeiről, különösen a halpiacáról és a különleges 'Abai Sundae' (töltött tintahal) ételéről, amelyet az északról menekült családok honosítottak meg. A város kikötője fontos kapu az oroszországi és japán kompjáratok számára, miközben a közeli strandok és tavak minden évszakban vonzzák a látogatókat.",
+      "factsAdvanced": [
+        "Sokcho a Seoraksan Nemzeti Park fő kapujaként ismert.",
+        "A városban található az Abai-falu, amelyet észak-koreai menekültek alapítottak.",
+        "Híres a Sokcho Központi Piacról, ahol a legjobb tengeri ételeket lehet kóstolni.",
+        "A várost két nagy tó, a Yeonggeunjeong és a Cheongchoho határolja.",
+        "Sokcho népszerű hely a napfelkelte megtekintésére az újév első napján.",
+        "A város kikötője nemzetközi tengeri kompközpont.",
+        "Itt található a Sokcho Eye, egy hatalmas óriáskerék közvetlenül a parton.",
+        "A város híres a sós vízben főzött tofu különlegességéről is."
+      ]
+    },
+    {
+      "id": "gimcheon-city-cities-v2",
+      "descriptionAdvanced": "Gimcheon egy fontos közlekedési és mezőgazdasági központ Észak-Kjongszang tartományban, amely az ország középső részén helyezkedik el. A város nevét az egykori aranybányáiról és tiszta vizeiről kapta, ma pedig modern 'Innovációs Városként' (Gimcheon Innovation City) definiálja magát, ahová számos állami vállalat központját helyezték át. Gimcheon legfontosabb kulturális látványossága a Jikjisza-templom, amely Korea egyik legrégebbi és legtekintélyesebb buddhista temploma. A város híres kiváló minőségű gyümölcseiről, különösen a szőlő- és szilvatermesztéséről, miközben modern sportlétesítményei számos nemzetközi versenynek adnak otthont.",
+      "factsAdvanced": [
+        "Gimcheon neve 'Arany Forrást' vagy 'Arany Patakot' jelent.",
+        "Itt található a Jikjisza-templom, amelyet 418-ban alapítottak.",
+        "A város fontos KTX gyorsvasúti megállóval rendelkezik (Gimcheon-Gumi állomás).",
+        "Gimcheon az egyik vezető szőlőtermelő vidék Dél-Koreában.",
+        "A város ad otthont a Koreai Útkezelő Társaságnak (Korea Expressway Corporation).",
+        "Híres a hagyományos sárgaréz edényeiről (Gimcheon Brassware).",
+        "A város sportparkja Korea egyik legjobb atlétikai és úszókomplexuma.",
+        "Gimcheon fekvése miatt fontos logisztikai központ az ország észak-déli tengelyén."
+      ]
+    },
+    {
+      "id": "chungju-city-cities-v2",
+      "descriptionAdvanced": "Chungju egy történelmi város Észak-Chungcheong tartományban, amely a Koreai-félsziget központi részén fekszik, és stratégiai jelentősége miatt évszázadok óta fontos szerepet játszik. A város a Han-folyó mentén terül el, és itt található a Chungju-tó, Korea legnagyobb többcélú víztározója, amely festői vízi utakat és rekreációs lehetőségeket kínál. Chungju híres a hagyományos harcművészetéről, a Taekkyeon-ról, amely az UNESCO szellemi örökség része, valamint kiváló minőségű almájáról. A város büszke sportmúltjára is, különösen az evezésben, amit a 2013-as Evezős Világbajnokság megrendezése is igazolt.",
+      "factsAdvanced": [
+        "Chungju a Taekkyeon, egy ősi koreai harcművészet szülőhelye.",
+        "A Chungju-tó az ország legnagyobb mesterséges tava, gyakran nevezik 'szárazföldi tengernek'.",
+        "A város Korea egyik vezető almatermesztő vidéke.",
+        "Itt található a Jungangtap (Központi Pagoda), amely a Silla-korban az ország közepét jelölte.",
+        "Chungju rendezte meg a 2013-as Evezős Világbajnokságot a Tangeum-tavon.",
+        "A város híres a Suanbo hőforrásokról, amelyek gyógyhatású vizükről ismertek.",
+        "Chungju fontos szerepet játszott az ősi három királyság közötti rivalizálásban.",
+        "A városban található a Koreai Nemzeti Harcművészeti Múzeum."
+      ]
+    },
+    {
+      "id": "yangsan-city-cities-v2",
+      "descriptionAdvanced": "Yangsan egy dinamikus ipari és kulturális város Dél-Kjongszang tartományban, amely Busan és Ulsan közvetlen szomszédságában fekszik. A város legismertebb spirituális helyszíne a Tongdosa-templom, Korea egyik 'három drágakő temploma' közé tartozik, és az UNESCO Világörökség része, mivel itt őrzik Buddha ereklyéit. Yangsan modern része az egyik leggyorsabban növekvő település a régióban, köszönhetően a kiterjedt lakóparkoknak és a Busan metróhálózatához való csatlakozásnak. A város természeti szépségeit a környező hegyek és völgyek, például a Naewonsa-völgy biztosítják, amelyek népszerűek a kirándulók körében.",
+      "factsAdvanced": [
+        "A Tongdosa-templom az UNESCO Világörökség része és Buddha ereklyéit őrzi.",
+        "Yangsan Busan egyik legfontosabb elővárosa és népessége folyamatosan nő.",
+        "Itt található a Yangsan Tower, ahonnan panorámás kilátás nyílik a régióra.",
+        "A város híres az Eden Valley Resort-ról, amely a legdélebbi sípálya Koreában.",
+        "Yangsan fontos ipari parkokkal rendelkezik, különösen az autóalkatrész-gyártásban.",
+        "A város északi részén található a fenséges Wonhyosan-hegy.",
+        "Yangsan keresztülfolyik a Nakdong-folyó egyik fontos ága.",
+        "A városban található a Busan Egyetem Yangsan kampusza és orvosi központja."
+      ]
+    },
+    {
+      "id": "seosan-city-cities-v2",
+      "descriptionAdvanced": "Seosan egy fejlődő kikötő- és ipari város Dél-Chungcheong tartomány északnyugati részén, amely gazdag tengeri erőforrásokkal és történelmi emlékekkel rendelkezik. A város fontos szerepet játszik a petrolkémiai iparban a Daesan komplexum révén, miközben partvidéke a Sárga-tenger egyik leggazdagabb halászterülete. Seosan történelmi kincsei közé tartozik a Haemieupseong erőd, amely Korea egyik legjobb állapotban fennmaradt kőerődje, valamint a sziklába vésett Seosan Buddha (Maae Yeorae Samjonbisang), a 'Pekcse mosolya'. A város híres a fokhagymájáról és az osztrigájáról, valamint kiterjedt madárrezervátumáról a Cheonsu-öbölben.",
+      "factsAdvanced": [
+        "Seosan ad otthont a Daesan Petrolkémiai Komplexumnak, az ország egyik legnagyobbnak.",
+        "Itt található a sziklába vésett Seosan Buddha, amelyet 'Pekcse mosolyaként' ismernek.",
+        "A Haemieupseong erőd az egyik legépebben maradt Csoszon-kori városfal.",
+        "A Cheonsu-öböl nemzetközileg elismert vándormadár-megfigyelő hely.",
+        "Seosan híres a kiváló minőségű fokhagymájáról (Yukjjok-manul).",
+        "A város partjainál kiterjedt sólepárlók működnek.",
+        "Itt található a Gan-wor-am nevű remetelak, amely dagálykor szigetté válik.",
+        "Seosan fontos kikötő a Kínával való tengeri kereskedelemben."
+      ]
+    },
+    {
+      "id": "dangjin-city-cities-v2",
+      "descriptionAdvanced": "Dangjin egy dinamikus ipari és logisztikai központ Dél-Chungcheong tartományban, amely stratégiai elhelyezkedése miatt a Sárga-tengeri kereskedelem egyik kulcsszereplője. A város gazdaságát a hatalmas acélművek (mint a Hyundai Steel) és a modern kikötői létesítmények határozzák meg, amelyek a koreai nehézipar tartóoszlopai. Dangjin azonban nemcsak az iparról híres; tengerparti tájai, mint a Waemok-falu, ahol a napfelkelte és a naplemente is megfigyelhető a tenger felett, valamint a Solmoe-szentély, a koreai katolicizmus bölcsője, rengeteg látogatót vonzanak. A várost a monumentális Seohae-híd köti össze az ország északi részével.",
+      "factsAdvanced": [
+        "Dangjin Dél-Korea egyik legnagyobb acélgyártó központja.",
+        "Itt található a Solmoe-szentély, Szent Kim Taegon, az első koreai pap szülőhelye.",
+        "A Waemok-falu az egyetlen hely Koreában, ahol a tenger felett kél és nyugszik is a nap.",
+        "A Seohae-híd az ország egyik leghosszabb és leglátványosabb ferdekábeles hídja.",
+        "Dangjin híres az ezer éves hagyományokkal rendelkező Gijisi kötélhúzó fesztiválról.",
+        "A város partjainál jelentős tengeri szélenergia-parkok épülnek.",
+        "Itt található a Sapgyoho Tengeri Park, amely egy haditengerészeti múzeumnak is otthont ad.",
+        "Dangjin fontos mezőgazdasági termelő is, különösen híres a rizstermesztéséről."
+      ]
+    }
+  ]
+}

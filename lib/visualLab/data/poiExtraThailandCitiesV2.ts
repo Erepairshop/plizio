@@ -473,6 +473,12 @@ export const poiExtraThailandCitiesV2: POI[] = [
       ro: "Trang",
       en: "Trang",
     },
+    descriptionAdvanced: {
+      en: "Trang is a hidden gem in Southern Thailand, located on the mainland near the Andaman Sea. Historically a significant port for international trade, it was the first place in Thailand where rubber trees were planted, a legacy of the visionary governor Phraya Ratsadanupradit. Today, Trang is most famous for its vibrant culinary scene, often called the 'food capital of the South.' The city is renowned for its unique breakfast culture, where residents and visitors feast on dim sum and the legendary Trang roasted pork (moo yang). Beyond its streets, Trang serves as a gateway to several breathtaking and relatively untouched islands, such as Koh Kradan and Koh Mook, famous for the Emerald Cave. The city's charm lies in its slow pace, well-preserved colonial-style architecture, and its iconic three-wheeled 'frog' tuk-tuks, which are found only in this province."
+    },
+    factsAdvanced: {
+      en: ["Trang was the first place in Thailand to plant rubber trees, imported from Malaysia in 1899.", "The city is famous for its unique 'Frog' tuk-tuks (Tuk-Tuk Hua Gob) with a distinctive rounded front.", "Trang roasted pork (Moo Yang) is a protected geographical indication product.", "The city's Kantang railway station is one of the oldest and most beautiful wooden stations in Thailand.", "The Tham Morakot (Emerald Cave) on Koh Mook is a world-famous natural tunnel leading to a hidden beach.", "Trang was once a major trading port for tin and spices during the 19th century.", "The city hosts an underwater wedding ceremony every year around Valentine's Day.", "Trang's botanical garden features a canopy walkway through a lowland tropical forest."]
+    },
     description: {
       de: "Trang ist eine Stadt in Südthailand nahe der Andamanenseeküste, bekannt für ihre kulinarische Szene.",
       hu: "Trang egy város Dél-Thaiföldön, az Andamán-tenger partjának közelében, amely kulináris színteréről ismert.",
@@ -495,6 +501,12 @@ export const poiExtraThailandCitiesV2: POI[] = [
       hu: "Lampang",
       ro: "Lampang",
       en: "Lampang",
+    },
+    descriptionAdvanced: {
+      en: "Lampang, often referred to as 'Mueang Rot Ma' or the Horse Carriage City, is a peaceful provincial capital in Northern Thailand that feels like a journey back in time. It is the only city in the country where horse-drawn carriages are still used as a regular form of local transportation, a tradition preserved from the era of King Rama V. Situated in the fertile valley of the Wang River, Lampang was once an important center for the Lanna Kingdom and a major hub for the teak timber industry. The city is famous for its exquisite teakwood temples, such as Wat Phra That Lampang Luang, which is considered one of the most perfectly preserved Lanna-style temples in existence. Lampang is also the ceramic capital of Thailand, renowned for its 'Rooster Brand' bowls. The city offers a relaxed, authentic atmosphere, far from the mass tourism of its neighbor Chiang Mai."
+    },
+    factsAdvanced: {
+      en: ["Lampang is the only city in Thailand that still uses horse-drawn carriages for transport.", "Wat Phra That Lampang Luang features a rare camera obscura effect showing an inverted image of the stupa.", "The city is the center of Thailand's ceramic industry, famous for the 'Chicken Bowl' (Cham Ka).", "Lampang was a major hub for the British teak companies during the late 19th century.", "The city is home to the Thai Elephant Conservation Center, the first of its kind in the country.", "The Ratsadapisek Bridge is a historic white bridge that survived World War II bombings.", "Lampang's Kad Kong Ta walking street features beautiful century-old merchant houses.", "The province is home to the Mae Moh Mine, the largest lignite mine in Southeast Asia."]
     },
     description: {
       de: "Lampang ist eine Stadt im Norden Thailands, die für ihre Pferdekutschen und die traditionelle Lanna-Kultur bekannt ist.",
@@ -519,6 +531,12 @@ export const poiExtraThailandCitiesV2: POI[] = [
       ro: "Samut Prakan",
       en: "Samut Prakan",
     },
+    descriptionAdvanced: {
+      en: "Samut Prakan, located at the mouth of the Chao Phraya River where it meets the Gulf of Thailand, is a vital industrial and historical gateway to Bangkok. Historically known as 'Pak Nam' (River Mouth), it served as a primary naval defense for the capital, evidenced by the numerous forts and the iconic Phra Samut Chedi temple located on the riverbank. Today, Samut Prakan is a major manufacturing hub and home to the Suvarnabhumi International Airport. Despite its industrial nature, the city boasts significant cultural attractions. The Ancient City (Muang Boran) is the world's largest outdoor museum, featuring scaled-down replicas of Thailand's most famous monuments. Another highlight is the Erawan Museum, housed inside a colossal three-headed bronze elephant. The city's Bang Pu Recreation Center is a popular spot for watching thousands of migrating seagulls during the winter months."
+    },
+    factsAdvanced: {
+      en: ["Samut Prakan is home to Suvarnabhumi Airport, one of the busiest in Southeast Asia.", "The Ancient City (Muang Boran) is a 320-acre park shaped like the map of Thailand.", "The Erawan Museum's three-headed elephant statue weighs 250 tons and is 43 meters high.", "Phra Samut Chedi is a sacred riverside pagoda that used to sit on an island.", "The city hosts the Bang Nam Phueng Floating Market in a 'green lung' area of the river.", "Samut Prakan has a significant Mon community, especially in the Phra Pradaeng district.", "The Navy Museum in the city showcases Thailand's naval history and historic vessels.", "The Samut Prakan Crocodile Farm and Zoo is one of the largest in the world."]
+    },
     description: {
       de: "Samut Prakan ist eine Stadt an der Mündung des Flusses Chao Phraya in den Golf von Thailand, bekannt für ihre Industrie und historischen Stätten.",
       hu: "Szamutprakan egy város a Chao Phraya folyó torkolatánál, a Thai-öbölben, iparáról és történelmi helyszíneiről ismert.",
@@ -541,6 +559,12 @@ export const poiExtraThailandCitiesV2: POI[] = [
       hu: "Szakonnakhon",
       ro: "Sakon Nakhon",
       en: "Sakon Nakhon",
+    },
+    descriptionAdvanced: {
+      en: "Sakon Nakhon is a culturally rich city in the upper Northeast of Thailand, situated on the shores of Nong Han, the country's largest freshwater lake. It is a major center for the 'Forest Tradition' of Theravada Buddhism, having been the home of several highly revered monks, including Ajahn Mun Bhuridatta. The city's spiritual landmark is Wat Phra That Choeng Chum, an ancient stupa built over a site believed to contain footprints of four Buddhas. Sakon Nakhon is famous for its unique 'Wax Castle' festival, where intricately carved wax models of temples are paraded through the city. The region is also renowned for its traditional indigo-dyed fabrics (Kram), which are hand-woven by local communities. The city serves as a gateway to the Phu Phan Mountains, which offer lush forests and historical significance as a former stronghold for the Free Thai Movement during World War II."
+    },
+    factsAdvanced: {
+      en: ["Nong Han Lake in Sakon Nakhon is the largest natural freshwater lake in Thailand.", "The city is the heart of Thailand's hand-woven indigo-dyed (Kram) fabric industry.", "Wat Phra That Choeng Chum features an unusual 24-meter-high rectangular stupa.", "The Wax Castle Festival marks the end of Buddhist Lent with stunning wax sculptures.", "The city has a strong Catholic presence, particularly in the village of Tha Rae.", "Tha Rae is famous for its French-influenced colonial architecture and Christmas Star Parade.", "The Phu Phan National Park nearby contains the 'Phu Phan Palace,' a royal residence.", "The city is a major center for the study of Forest Monk meditation traditions."]
     },
     description: {
       de: "Sakon Nakhon ist eine Stadt im Nordosten Thailands am Nong Han See, dem größten Süßwassersee Thailands.",
@@ -565,6 +589,12 @@ export const poiExtraThailandCitiesV2: POI[] = [
       ro: "Lopburi",
       en: "Lopburi",
     },
+    descriptionAdvanced: {
+      en: "Lopburi is one of Thailand's oldest continuously inhabited cities, offering a fascinating blend of ancient history and modern urban life. Located in the central plains, it rose to prominence during the Dvaravati period and later became a secondary capital for the Ayutthaya Kingdom under King Narai the Great. The city is famous for its Khmer-influenced ruins, such as the three-spired Prang Sam Yod, which reflects the architectural style of Angkor. However, Lopburi is most widely known for its massive population of crab-eating macaque monkeys that roam freely through the historic district. These monkeys are considered a local blessing and are the stars of the annual Monkey Buffet Festival, where tons of food are laid out for them. The city's 'King Narai's Palace' is now a museum, showcasing a unique mix of Thai and European architectural styles from the 17th century, when Lopburi was a hub for international diplomacy."
+    },
+    factsAdvanced: {
+      en: ["Lopburi is famously known as the 'Monkey City' due to the thousands of macaques living there.", "The Prang Sam Yod temple is a 13th-century Khmer monument and a major landmark.", "King Narai the Great made Lopburi the second capital of Siam in 1666.", "The city hosts the Monkey Buffet Festival every November to thank the monkeys for tourism.", "Wat Phra Sri Rattana Mahathat is one of the largest and oldest temple ruins in the city.", "Lopburi's architecture shows early European influence from French diplomats in the 1600s.", "The province is home to some of Thailand's largest sunflower fields, blooming in winter.", "The monkeys are believed by locals to be descendants of the Hindu monkey god Hanuman."]
+    },
     description: {
       de: "Lopburi ist eine der ältesten Städte Thailands, die für ihre große Population an Makaken bekannt ist, die in der Mitte der Stadt leben.",
       hu: "Lopburi Thaiföld egyik legrégebbi városa, amely a város közepén élő nagy makákópopulációjáról ismert.",
@@ -587,6 +617,12 @@ export const poiExtraThailandCitiesV2: POI[] = [
       hu: "Nongkhaj",
       ro: "Nong Khai",
       en: "Nong Khai",
+    },
+    descriptionAdvanced: {
+      en: "Nong Khai is a serene and atmospheric city stretched along the southern bank of the mighty Mekong River. It serves as a primary gateway between Thailand and Laos, connected to the Laotian capital, Vientiane, by the First Thai-Lao Friendship Bridge. The city is famous for its riverside promenade, where locals and visitors enjoy stunning views of the river at sunset. Nong Khai's most unusual attraction is Sala Keoku, a surreal sculpture park featuring massive, fantastical statues depicting Buddhist and Hindu mythologies, created by a mystic in the 1970s. The city is also a focal point for the 'Naga Fireballs' phenomenon, where mysterious glowing orbs are said to rise from the river during the end of Buddhist Lent. Nong Khai offers a peaceful, multicultural environment with a mix of Thai, Lao, and Vietnamese influences, making it a popular destination for those seeking a slower pace of life."
+    },
+    factsAdvanced: {
+      en: ["Nong Khai is connected to Laos via the First Thai-Lao Friendship Bridge, opened in 1994.", "Sala Keoku sculpture park contains concrete statues over 25 meters tall.", "The city is a major site for viewing the Naga Fireballs (Bang Fai Phaya Nak) in October.", "Nong Khai was once ranked as one of the best places in the world to retire.", "Tha Sadet Market is a famous indoor-outdoor market selling goods from across the border.", "Wat Pho Chai is the city's main temple, housing the sacred Luang Pho Phra Sai image.", "The city has a significant Vietnamese community that settled there during the 1950s.", "The Mekong River at Nong Khai is at its widest point during the rainy season."]
     },
     description: {
       de: "Nong Khai ist eine Stadt am Ufer des Mekong-Flusses, gegenüber der laotischen Hauptstadt Vientiane.",
@@ -611,6 +647,12 @@ export const poiExtraThailandCitiesV2: POI[] = [
       ro: "Hua Hin",
       en: "Hua Hin",
     },
+    descriptionAdvanced: {
+      en: "Hua Hin is Thailand's oldest and most prestigious beach resort, located on the western coast of the Gulf of Thailand. Once a quiet fishing village, it gained royal favor in the 1920s when King Rama VII built a summer palace there, transforming it into a getaway for the Thai elite. Today, Hua Hin maintains a refined and family-friendly atmosphere, distinct from the more boisterous beach towns in the south. The city is famous for its long, white-sand beach, world-class golf courses, and its iconic red-and-white railway station, which is considered the most beautiful in the country. Hua Hin is also a culinary destination, renowned for its fresh seafood and vibrant night markets like Cicada Market. Despite its growth, the city retains its royal charm, centered around the Klai Kangwon Palace ('Far from Worries'), which remains a residence for the Thai royal family."
+    },
+    factsAdvanced: {
+      en: ["Hua Hin became Thailand's first seaside resort following the arrival of the railway in the 1920s.", "The Hua Hin Railway Station features a unique Royal Waiting Room in traditional Thai style.", "Klai Kangwon Palace was built in 1929 by King Rama VII as a summer residence.", "The city is a premier golfing destination, hosting several international-standard courses.", "Cicada Market is a popular weekend open-air market focusing on arts, crafts, and food.", "Hua Hin is famous for its 'Khao Takiab' (Chopstick Hill), which offers great coastal views.", "The city hosts the annual Hua Hin Jazz Festival on the beach.", "It is located just three hours south of Bangkok, making it a favorite weekend escape."]
+    },
     description: {
       de: "Hua Hin ist ein Seebad am Golf von Thailand, das als königlicher Ferienort beliebt wurde.",
       hu: "Huahin egy tengerparti üdülőhely a Thai-öböl partján, amely királyi üdülőhelyként vált népszerűvé.",
@@ -633,6 +675,12 @@ export const poiExtraThailandCitiesV2: POI[] = [
       hu: "Krabi",
       ro: "Krabi",
       en: "Krabi",
+    },
+    descriptionAdvanced: {
+      en: "Krabi is a stunning coastal town that serves as the administrative capital and main gateway to one of Thailand's most beautiful provinces. Situated at the mouth of the Krabi River on the Andaman Sea, the town is characterized by its dramatic limestone karsts that rise vertically from the surrounding plains and sea. While often treated as a stopover for the world-famous Phi Phi Islands and Railay Beach, Krabi Town itself has a charming, local feel with a lively riverfront and authentic markets. Notable attractions include Wat Tham Suea (Tiger Cave Temple), where visitors can climb 1,237 steps for a panoramic view of the province. The town is also famous for its prehistoric theme, seen in the 'Khao Khanab Nam' mountains that frame the river mouth and the unique caveman-themed traffic lights in the town center, celebrating the ancient human remains found in the area."
+    },
+    factsAdvanced: {
+      en: ["Krabi province is home to over 150 islands, including the iconic Koh Phi Phi.", "Wat Tham Suea (Tiger Cave Temple) is named after tiger paw prints found in the cave.", "The town's landmark is Khao Khanab Nam, two 100-meter-high limestone hills in the river.", "Prehistoric human remains and tools dating back 25,000 years were discovered in Krabi.", "The Krabi Town night market is a major hub for authentic southern Thai street food.", "Krabi is a world-renowned destination for rock climbing, especially at Railay and Tonsai.", "The town features traffic lights held by sculptures of prehistoric men and elephants.", "The nearby Emerald Pool (Sa Morakot) is a famous natural hot spring in the jungle."]
     },
     description: {
       de: "Krabi ist eine Stadt an der Westküste Südthailands an der Andamanensee, die als Basis für die Erkundung der Provinz dient.",
@@ -657,6 +705,12 @@ export const poiExtraThailandCitiesV2: POI[] = [
       ro: "Tak",
       en: "Tak",
     },
+    descriptionAdvanced: {
+      en: "Tak is a historic and mountainous province in Western Thailand that borders Myanmar. The city of Tak, situated on the banks of the Ping River, has historically served as a vital strategic outpost and trading post between the central Thai kingdoms and the Burmese empires. It is famously associated with King Taksin the Great, who was the governor of Tak before liberating the country and becoming king after the fall of Ayutthaya. Today, the city is a quiet administrative center known for its traditional wooden architecture and the beautiful 'Loi Krathong Sai' festival, where thousands of coconut shells containing candles are floated down the Ping River in a single line. Tak is the gateway to some of Thailand's most rugged and untouched wilderness, including the massive Bhumibol Dam and the remote, mist-shrouded peaks of Umphang, home to the spectacular Thi Lo Su Waterfall."
+    },
+    factsAdvanced: {
+      en: ["King Taksin the Great was the governor of Tak before he founded the Thonburi Kingdom.", "Tak hosts the unique 'Loi Krathong Sai' festival using coconut shells instead of banana leaves.", "The Bhumibol Dam in Tak is the largest dam in Thailand and the first multi-purpose dam.", "Tak is a major trade gateway to Myanmar through the border town of Mae Sot.", "The province is home to Thi Lo Su, the highest and most beautiful waterfall in Thailand.", "Tak's Lan Sang National Park features a historic trail used by ancient Siamese armies.", "The city contains many well-preserved wooden houses from the early 20th century.", "The Western Forest Complex in Tak is one of the largest protected areas in Southeast Asia."]
+    },
     description: {
       de: "Tak ist eine Stadt im Westen Thailands, die an Myanmar grenzt und als wichtiger Handelsposten dient.",
       hu: "Tak egy város Nyugat-Thaiföldön, amely Mianmarral határos és fontos kereskedelmi állomásként szolgál.",
@@ -679,6 +733,12 @@ export const poiExtraThailandCitiesV2: POI[] = [
       hu: "Ratcsaburi",
       ro: "Ratchaburi",
       en: "Ratchaburi",
+    },
+    descriptionAdvanced: {
+      en: "Ratchaburi is a culturally diverse province located just 80 kilometers west of Bangkok, offering a rich tapestry of history, agriculture, and art. The city of Ratchaburi is situated on the banks of the Mae Klong River and has been a significant settlement since the Dvaravati period over a thousand years ago. Ratchaburi is most famous for its 'Damnoen Saduak' Floating Market, an iconic symbol of traditional Thai life on the water. The city is also the heart of Thailand's ceramic production, renowned for its 'Dragon Jars' (Ong Mongkorn)—massive terracotta water jars decorated with hand-painted dragons. In recent years, Ratchaburi has reinvented itself as a center for contemporary art and eco-tourism, with trendy galleries, scenic vineyards in the Suan Phueng highlands, and the surreal 'Khao Bin' limestone cave. The province's name, meaning 'The Land of the King,' reflects its long-standing importance to the Thai monarchy."
+    },
+    factsAdvanced: {
+      en: ["Ratchaburi is the source of the famous 'Dragon Jars,' a staple of Thai households for decades.", "The Damnoen Saduak Floating Market is the oldest and most famous of its kind in Thailand.", "The city was a major center for the ancient Dvaravati civilization in the 6th-11th centuries.", "Suan Phueng in Ratchaburi is known as the 'Switzerland of Thailand' for its rolling hills.", "Wat Khanon in the province is one of the last places practicing 'Nang Yai' shadow puppetry.", "Khao Bin Cave features stunning stalactite formations and is over 300 meters deep.", "The Ratchaburi National Museum is housed in a beautiful pink colonial-style building.", "The province is a major producer of grapes, pineapples, and high-quality milk."]
     },
     description: {
       de: "Ratchaburi ist eine Stadt westlich von Bangkok, die für ihre schwimmenden Märkte und Keramikprodukte bekannt ist.",

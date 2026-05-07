@@ -1,0 +1,295 @@
+{
+  "lang": "hu",
+  "country": "southkorea",
+  "files": [
+    "lib/visualLab/data/poiExtraSouthkoreaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraSouthkoreaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraSouthkoreaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraSouthkoreaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraSouthkoreaLifeV2.ts",
+    "lib/visualLab/data/poiExtraSouthkoreaNatureV2.ts",
+    "lib/visualLab/data/poiExtraSouthkoreaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "pyeongtaek-port-economic-v2",
+      "descriptionAdvanced": "Pyeongtaek kikötője Dél-Korea egyik leggyorsabban fejlődő tengeri csomópontja, amely a Sárga-tenger partján, Szöultól délre helyezkedik el. A kikötő az ország autóexportjának és -importjának legfontosabb központja, ahol évente több millió jármű fordul meg. Stratégiai elhelyezkedése miatt kulcsfontosságú kapu Kína felé, és jelentős szerepet játszik a regionális logisztikában is. A kikötő körül hatalmas ipari parkok és szabadkereskedelmi zónák épültek ki, amelyek vonzzák a nemzetközi befektetéseket, és elősegítik a térség gazdasági integrációját a globális piacba.",
+      "factsAdvanced": [
+        "Pyeongtaek a legnagyobb gépjármű-kezelő kikötő Dél-Koreában.",
+        "Stratégiai elhelyezkedése miatt ez a legközelebbi nagy kikötő Kínához.",
+        "A kikötő jelentős mennyiségű földgázt (LNG) és olajat is fogad.",
+        "Kiterjedt szabadkereskedelmi zónával rendelkezik a külföldi befektetők számára.",
+        "Modern Ro-Ro (roll-on/roll-off) termináljai rendkívül hatékonyak.",
+        "A kikötő fejlesztése szorosan kapcsolódik a közeli Samsung-gyárhoz.",
+        "Pyeongtaek fontos bázisa az amerikai katonai logisztikának is (Camp Humphreys).",
+        "A kikötő kapacitását folyamatosan bővítik az egyre növekvő forgalom miatt."
+      ]
+    },
+    {
+      "id": "seosan-petrochemical-complex-economic-v2",
+      "descriptionAdvanced": "A Seosan petrolkémiai komplexum, ismertebb nevén a Daesan komplexum, Dél-Korea egyik legnagyobb vegyipari központja. A tartomány északnyugati részén fekvő hatalmas ipari területen olyan globális vállalatok működtetnek finomítókat és gyárakat, mint a Hyundai Oilbank, a Hanwha Total és az LG Chem. A komplexum az ország etilén- és műanyaggyártásának egyik tartóoszlopa, termékei a világ minden tájára eljutnak. A modern kikötői létesítmények és a magas szintű technológiai integráció biztosítja a hatékony termelést, miközben a vállalatok egyre nagyobb hangsúlyt fektetnek a környezetbarát fejlesztésekre.",
+      "factsAdvanced": [
+        "Ez Dél-Korea egyik 'három nagy' petrolkémiai komplexumának egyike.",
+        "Több tucat vegyipari vállalat osztozik a kiterjedt infrastruktúrán.",
+        "A komplexum saját mélyvízi kikötővel rendelkezik az olajszállítók számára.",
+        "Itt állítják elő a koreai műanyagexport jelentős részét.",
+        "A területen magas szintű biztonsági és környezetvédelmi rendszerek működnek.",
+        "A komplexum folyamatosan bővül a hidrogénenergia-fejlesztések irányába.",
+        "Seosan városának ez a legfontosabb gazdasági bevételi forrása.",
+        "A gyártási folyamatok jelentős része automatizált és digitálisan felügyelt."
+      ]
+    },
+    {
+      "id": "kori-nuclear-power-plant-economic-v2",
+      "descriptionAdvanced": "A Kori atomerőmű Busan és Ulsan határán az ország első és egyik legnagyobb nukleáris energia-komplexuma. 1978-as megnyitásával indult el Dél-Korea atomenergia-programja, amely mára a világ egyik legfejlettebbjévé vált. Az erőmű alapvető fontosságú a délkeleti ipari régió (Busan, Ulsan, Changwon) hatalmas áramigényének kielégítésében. Bár az idősebb blokkokat (például a Kori-1-et) már leállították, az újabb generációs reaktorok továbbra is stabil és tiszta energiát biztosítanak. A létesítmény a koreai mérnöki tudás szimbóluma, amely lehetővé tette az ország gyors iparosodását.",
+      "factsAdvanced": [
+        "A Kori-1 volt Dél-Korea első kereskedelmi atomerőműve (1978).",
+        "A komplexum Busan és Ulsan sűrűn lakott régióinak határán fekszik.",
+        "A Kori-1 blokk leállítása volt az ország első nukleáris leszerelési projektje.",
+        "Az újabb blokkok (Shin Kori) a világ legbiztonságosabb reaktorai közé tartoznak.",
+        "A létesítmény az ország teljes villamosenergia-termelésének jelentős részét adja.",
+        "Kiterjedt tengerparti hűtőrendszerrel rendelkezik.",
+        "A látogatóközpont bemutatja az atomenergia történetét és jövőjét.",
+        "Fontos szerepet játszik a szén-dioxid-mentes energiaellátási célok elérésében."
+      ]
+    },
+    {
+      "id": "changwon-machinery-industrial-complex-economic-v2",
+      "descriptionAdvanced": "A Changwon gépipari komplexum Dél-Korea nehéziparának és gépgyártásának központi bázisa, amelyet az 1970-es években alapítottak a honvédelem és a nehézipar fejlesztésére. A hatalmas ipari parkban olyan óriásvállalatok találhatók, mint a Doosan Enerbility, a Hanwha Aerospace és a Hyundai Rotem. Itt gyártják az ország legmodernebb tankjait, vonat szerelvényeit, repülőgép-hajtóműveit és erőművi berendezéseit. A komplexum nemcsak gyártóközpont, hanem a precíziós mérnöki tudás és az innováció fellegvára is, amely meghatározó szerepet játszik Korea globális exportképességében és védelmi iparában.",
+      "factsAdvanced": [
+        "Changwon a 'koreai gépipar bölcsőjeként' ismert.",
+        "Itt készülnek a világhírű K2 Black Panther tankok és K9 önjáró lövegek.",
+        "A komplexum ad otthont a Doosan hatalmas erőművi turbina-gyárának.",
+        "Itt gyártják a koreai gyorsvasutak (KTX) és metrók szerelvényeit.",
+        "A területen több mint 2000 gépipari vállalat működik.",
+        "A Changwon ipari park volt az ország első tervezett iparvárosa.",
+        "Fontos szerepet játszik a megújuló energia (pl. szélturbinák) gyártásában.",
+        "A komplexum folyamatosan modernizálódik az 'Okos Gyár' (Smart Factory) program keretében."
+      ]
+    },
+    {
+      "id": "taean-mine-economic-v2",
+      "descriptionAdvanced": "A Taean-i bányászati és energetikai központ elsősorban a hatalmas hőerőművéről és a kapcsolódó logisztikai hálózatáról ismert. A Taean-félszigeten elhelyezkedő komplexum az egyik legnagyobb széntüzelésű erőmű Dél-Koreában, amely alapvető fontosságú a nemzeti hálózat stabilitása szempontjából. A terület gazdasági jelentőségét növelik a tengerparti sólepárlók és a dűnék környékén zajló homokbányászat is, bár ez utóbbit ma már szigorú környezetvédelmi korlátozások övezik. Taean gazdasága sikeresen ötvözi az energiatermelést a tengeri erőforrások kiaknázásával és az egyre növekvő ökoturizmussal.",
+      "factsAdvanced": [
+        "Taean ad otthont az ország egyik legnagyobb kapacitású hőerőművének.",
+        "A terület híres a hagyományos tengeri sólepárlásról (Seosandul).",
+        "A félsziget partjainál jelentős homokbányászat folyt az építőipar számára.",
+        "Az erőmű saját kikötővel rendelkezik a szénszállító hajók fogadására.",
+        "A térségben kísérleti jelleggel tiszta szén-technológiákat is tesztelnek.",
+        "Taean gazdaságában a halászat és az energetika szorosan összefonódik.",
+        "A területen jelentős napelemparkok épültek az elmúlt években.",
+        "Az erőmű fontos bevételi forrást és munkát jelent a helyi közösségnek."
+      ]
+    },
+    {
+      "id": "pangyo-techno-valley-economic-v2",
+      "descriptionAdvanced": "A Pangyo Techno Valley, amelyet gyakran 'Korea Szilícium-völgyének' neveznek, az ország első számú informatikai és szoftverfejlesztési központja Seongnam városában. Ez a modern üzleti negyed ad otthont a legnagyobb koreai tech-óriásoknak, mint a Kakao, a Naver, az NCSoft és a Nexon, valamint több száz innovatív startupnak. A Techno Valley a digitális gazdaság, a játékfejlesztés, a mesterséges intelligencia és a biotechnológia szíve. A futurisztikus épületek, a kreatív munkakörnyezet és a kiváló közlekedési kapcsolatok Szöullal ideális ökoszisztémát teremtenek a globális technológiai vezetéshez.",
+      "factsAdvanced": [
+        "Pangyo a koreai IT- és játékipar (gaming) központja.",
+        "A Techno Valley-ben működő cégek éves bevétele vetekszik Dél-Korea GDP-jének 10%-ával.",
+        "Itt található a Kakao és a Naver, Korea domináns internetes platformjainak központja.",
+        "A területen több mint 1200 vállalat és 70 000 munkavállaló tevékenykedik.",
+        "Kiválóan tervezett, modern városi infrastruktúra jellemzi, sok zöldterülettel.",
+        "Közvetlen gyorsvasúti (Shinbundang vonal) kapcsolata van Szöul belvárosával.",
+        "Itt található a Global Startup Campus, amely nemzetközi cégeket segít.",
+        "A Techno Valley folyamatosan bővül (Pangyo 2 és 3), tovább erősítve K+F szerepét."
+      ]
+    },
+    {
+      "id": "daesan-petrochemical-complex-economic-v2",
+      "descriptionAdvanced": "A Daesan petrolkémiai komplexum Seosan városában a koreai vegyipar egyik legfontosabb globális bázisa, ahol a kőolaj-finomítás és a polimerek gyártása integrált módon valósul meg. A komplexum ad otthont a Hyundai Oilbank, a Hanwha TotalEnergies és a Lotte Chemical hatalmas üzemeinek. Ez a terület a koreai export egyik legfőbb forrása, ahol a legmodernebb aromás vegyületeket, műanyag alapanyagokat és üzemanyagokat állítják elő. A Daesan komplexum stratégiai fekvése a Sárga-tenger partján közvetlen hozzáférést biztosít a kínai és a délkelet-ázsiai piacokhoz, folyamatosan növelve Korea nemzetközi versenyképességét.",
+      "factsAdvanced": [
+        "A Daesan komplexum az egyik legnagyobb integrált vegyipari park Ázsiában.",
+        "Itt található Korea egyik legjelentősebb olajfinomítója (Hyundai Oilbank).",
+        "A komplexum saját kikötője a világ legnagyobb tartályhajóit is fogadja.",
+        "Az itt termelt etilén és propilén a globális műanyagipar alapkövei.",
+        "A területen folyamatosak a beruházások a bio-üzemanyagok irányába.",
+        "A komplexum éjszakai kivilágítása messziről is jól látható a tenger felől.",
+        "Több mint 10 000 szakember dolgozik a területen található különböző gyárakban.",
+        "Szigorú környezetvédelmi előírások és automatizált monitoring rendszerek védik a térséget."
+      ]
+    },
+    {
+      "id": "sihwa-lake-tidal-power-station-economic-v2",
+      "descriptionAdvanced": "A Sihwa-tavi árapály-erőmű a világ legnagyobb ilyen típusú megújuló energiaforrása, amely a tenger szintingadozását használja fel elektromos áram termelésére. Az Ansan közelében található gátrendszeren kialakított erőmű nemcsak tiszta energiát biztosít több százezer háztartás számára, hanem döntő szerepet játszott a korábban súlyosan szennyezett Sihwa-tó ökológiai állapotának javításában is azáltal, hogy biztosítja a rendszeres vízcserét a tengerrel. Ez a mérnöki csúcsteljesítmény a fenntartható energiatermelés globális példaképe, amely bemutatja, hogyan lehet a természet erőit környezetbarát módon hasznosítani.",
+      "factsAdvanced": [
+        "Ez a világ legnagyobb árapály-erőműve, megelőzve a franciaországi Rance erőművet.",
+        "Az erőmű évi 552 GWh tiszta energiát állít elő.",
+        "Segített megoldani a Sihwa-tó vízminőségi problémáit a vízáramlás szabályozásával.",
+        "Tíz hatalmas turbinával rendelkezik, amelyek a dagály idején termelnek áramot.",
+        "A gát tetején futó út népszerű kirándulóhely panorámás kilátással a tengerre.",
+        "Itt található a 'Moon Light' kilátótorony, a létesítmény turisztikai jelképe.",
+        "Az erőmű csökkenti Korea függőségét az importált fosszilis tüzelőanyagoktól.",
+        "A projekt sikere óta Korea több hasonló árapály-erőmű építését is tervezi."
+      ]
+    },
+    {
+      "id": "kia-hwaseong-plant-economic-v2",
+      "descriptionAdvanced": "A Kia Motors hvaszongi gyára, más néven az Autoland Hwaseong, a vállalat legnagyobb és legfontosabb gyártóbázisa Dél-Koreában. A kiterjedt komplexum magában foglalja a teljes gyártási folyamatot az acéllemez-megmunkálástól a végső összeszerelésig és tesztelésig. Itt készülnek a Kia legnépszerűbb modelljei, mint a Sorento és a K-sorozat tagjai, amelyeket a világ minden tájára exportálnak. A gyár saját tesztpályával és kikötővel rendelkezik, ami rendkívül hatékony logisztikát tesz lehetővé. A hvaszongi üzem a modern autógyártás és az automatizált robottechnológia egyik legfejlettebb példája a régióban.",
+      "factsAdvanced": [
+        "Az Autoland Hwaseong a Kia Motors legnagyobb globális gyártóegysége.",
+        "A gyár éves kapacitása meghaladja a 600 000 járművet.",
+        "Itt található Korea egyik legnagyobb autóipari tesztpályája.",
+        "A gyár közvetlen tengeri kikötővel rendelkezik az autók exportálásához.",
+        "A gyártósorokon több száz robot dolgozik a precíz összeszerelésért.",
+        "Hvaszong városa az autógyár köré épült ipari beszállítói hálózatra épül.",
+        "A gyár élen jár az elektromos járművek (EV) gyártásának átállásában.",
+        "Saját kutatási és fejlesztési részleggel rendelkezik a helyszínen."
+      ]
+    },
+    {
+      "id": "gyeongbokgung-palace-history-v2",
+      "descriptionAdvanced": "A Kjongbokkung palota a Csoszon-dinasztia által épített Öt Nagy Palota közül a legelső és legnagyobb, Szöul történelmi szívének legfontosabb ékköve. Az 1395-ben, az új főváros alapításakor emelt épületegyüttes a királyi hatalom és a koreai építészet pompájának szimbóluma. Bár a történelem során többször lerombolták – legutóbb a japán gyarmatosítás idején –, a folyamatos rekonstrukcióknak köszönhetően ma ismét régi fényében ragyog. A palota kertjei, a díszes Gyeonghoeru pavilon és a trónterem (Geunjeongjeon) lenyűgöző példái a konfuciánus esztétikának, ahol az épületek és a természet tökéletes harmóniában élnek egymással.",
+      "factsAdvanced": [
+        "A palota neve 'Ragyogó boldogság palotáját' jelenti.",
+        "1395-ben épült, a Csoszon-dinasztia alapítója, I Szonggje király parancsára.",
+        "Itt látható naponta többször a látványos királyi őrségváltási ceremónia.",
+        "A palota területén található a Koreai Nemzeti Népművészeti Múzeum.",
+        "A Gyeonghoeru pavilon egy mesterséges tó közepén áll, és királyi lakomák helyszíne volt.",
+        "A palota nagy részét a japán megszállás alatt (1910–1945) szisztematikusan lebontották.",
+        "A Geunjeongjeon trónterem Korea legnagyobb fából készült épülete.",
+        "A Bugaksan-hegy fenséges hátteret biztosít a palota északi oldalán."
+      ]
+    },
+    {
+      "id": "dmz-panmunjom-history-v2",
+      "descriptionAdvanced": "A koreai demilitarizált övezet (DMZ) és azon belül Panmindzson a hidegháború utolsó fennmaradt bástyája, a kettészakadt Koreai-félsziget legdrámaibb pontja. A 250 kilométer hosszú pufferzónát az 1953-as fegyverszüneti megállapodás után hozták létre, hogy elválassza az északi és déli erőket. Panmindzson, az úgynevezett 'közös biztonsági terület' (JSA) az egyetlen hely, ahol a két oldal katonái farkasszemet néznek egymással, és ahol a diplomáciai tárgyalások zajlanak. Ez a feszültséggel teli helyszín egyszerre emlékeztet a testvérháború tragédiájára és a béke iránti törékeny reményre, miközben az érintetlen természet szokatlan menedékévé is vált.",
+      "factsAdvanced": [
+        "A DMZ 4 kilométer széles és 250 kilométer hosszú választóvonal.",
+        "Panmindzson volt az 1953-as fegyverszünet aláírásának helyszíne.",
+        "A JSA-ban található kék barakkok fele északon, fele délen fekszik.",
+        "Itt található a 'Vissza nem térés hídja', ahol fogolycseréket hajtottak végre.",
+        "A DMZ-n belül nincsenek állandó lakosok, kivéve két speciális falut.",
+        "Az emberi beavatkozás hiánya miatt ritka állatfajok (pl. mandzsu daru) élnek itt.",
+        "Panmindzsonban történt a híres 'baltás incidens' 1976-ban.",
+        "A látogatóknak szigorú biztonsági előírásokat és öltözködési szabályokat kell betartaniuk."
+      ]
+    },
+    {
+      "id": "bulguksa-temple-history-v2",
+      "descriptionAdvanced": "A Pulguksza-templom a Silla Királyság aranykorának legjelentősebb buddhista emléke, a koreai művészet és hitvilág egyik legszebb megnyilvánulása. A 8. században épült templomkomplexum a buddhista tiszta földet hivatott megjeleníteni a földön, építészete a precizitás és a spirituális mélység tökéletes ötvözete. A templom udvarán álló két ikonikus kőpagoda, a díszes Dabotap és az egyszerűbb Seokgatap, Korea nemzeti kincsei és a világörökség részei. Pulguksza nemcsak egy vallási helyszín, hanem a koreaiak számára a nemzeti identitás és a történelmi folytonosság szimbóluma, amely Kjongdzsu hegyei között őrzi a múlt dicsőségét.",
+      "factsAdvanced": [
+        "A templom az UNESCO Világörökség része 1995 óta.",
+        "751-ben kezdték építeni Kim Dae-seong miniszter vezetésével.",
+        "A Dabotap pagoda a koreai 10 vonos érmén is szerepel.",
+        "A templom hét nemzeti kincset (National Treasure) foglal magában.",
+        "A kőteraszok és lépcsők (Kék Sárkány és Fehér Sárkány híd) az építészet remekei.",
+        "A japán invázió során 1593-ban a faépületek nagy része leégett.",
+        "A templom neve 'A Buddha országának templomát' jelenti.",
+        "A közeli Szokkuram-barlanggal együtt alkot egy szellemi egységet."
+      ]
+    },
+    {
+      "id": "hwaseong-fortress-history-v2",
+      "descriptionAdvanced": "A Hvaszong erőd Suwon városában a Csoszon-dinasztia végének egyik legzseniálisabb építészeti alkotása, amelyet Jeongjo király emeltetett a 18. század végén. Az erőd nemcsak katonai védmű, hanem egy tudományosan megtervezett városfal is, amely egyesítette a keleti és nyugati erődépítési technikákat. A közel 6 kilométer hosszú falrendszer kapui, bástyái és titkos átjárói a kor legmodernebb technológiájával, többek között emelők (geojunggi) segítségével épültek. Hvaszong egyszerre tisztelgés a király apja előtt és egy modern közigazgatási központ alapköve volt, amely ma az UNESCO Világörökség részeként vonzza a történelem szerelmeseit.",
+      "factsAdvanced": [
+        "Az erőd 1794 és 1796 között, rekordidő alatt épült fel.",
+        "Jeongjo király apja, Sado herceg tiszteletére építtette a várost.",
+        "A fal hossza pontosan 5,74 kilométer, 48 különböző építménnyel.",
+        "Építésénél használták először Korea-szerte a 'geojunggi' nevű emelődárut.",
+        "A Hwaseong Seongyeok Uigwe dokumentum részletesen leírja az építés minden lépését.",
+        "A falak kombinálják a követ és a téglát, ami egyedülálló volt a korban.",
+        "Az erődrendszer sétaútvonala éjszakai kivilágításban különösen látványos.",
+        "Itt látható a Hwaseong Haenggung, a királyi pihenőpalota."
+      ]
+    },
+    {
+      "id": "seokguram-grotto-history-v2",
+      "descriptionAdvanced": "A Szokkuram-barlang egy mesterségesen kialakított buddhista barlangtemplom a Tohamsan-hegyen, amely a Silla-kori szobrászat és mérnöki tudás abszolút csúcspontja. A barlang központjában egy fenséges, fehér gránitból faragott Buddha-szobor ül, amely kelet felé, a Japán-tenger (Keleti-tenger) irányába tekint, védelmezve az országot. A szentély belső falait díszítő bódhiszattvák és védőistenek domborművei olyan finomsággal készültek, mintha nem is kőből lennének. Szokkuram a spirituális nyugalom és a matematikai pontosság remekműve, ahol a kupola szerkezete és a fények játéka évezredek óta ámulatba ejti a látogatókat.",
+      "factsAdvanced": [
+        "A barlangot az UNESCO Világörökség részévé nyilvánították 1995-ben.",
+        "751-ben alapították, ugyanabban az időben, mint a Pulguksza-templomot.",
+        "A Buddha-szobor 3,5 méter magas és egyetlen hatalmas gránittömbből faragták.",
+        "A barlangot mesterségesen építették gránitból, majd földdel fedték be.",
+        "A szobor tekintete pontosan a napfelkelte irányába mutat a téli napfordulón.",
+        "A barlang szellőzését és páratartalmát eredetileg természetes módon szabályozták.",
+        "A japán megszállás alatt rosszul végzett restaurálás miatt ma üvegfal védi.",
+        "Korea 24. számú nemzeti kincse (National Treasure No. 24)."
+      ]
+    },
+    {
+      "id": "changdeokgung-palace-history-v2",
+      "descriptionAdvanced": "A Cshangdokkung palota Szöul palotái közül a legkedveltebb a koreaiak körében, mivel ez őrizte meg leginkább eredeti, természetközeli formáját. A palotát 1405-ben építették mint 'másodlagos palotát', de több mint 270 éven át ez szolgált a Csoszon-királyok tényleges lakhelyeként és a kormányzat székhelyeként. Különlegessége a Huwon, vagyis a Titkos Kert, amely a palota területének több mint felét elfoglalja, és ahol a pavilonok, tavak és hidak szinte észrevétlenül simulnak bele a dombos tájba. Cshangdokkung a konfuciánus mértéktartás és a természet iránti alázat legszebb építészeti példája Koreában.",
+      "factsAdvanced": [
+        "Cshangdokkung volt az első koreai palota, amely felkerült az UNESCO Világörökségi listára.",
+        "A palota neve 'A virágzó erény palotáját' jelenti.",
+        "A Titkos Kertbe (Huwon) csak vezetett túra keretében lehet belépni.",
+        "Itt található a Donhwamun kapu, Szöul legrégebbi fennmaradt palotakapuja (1412).",
+        "A palota sokkal kevésbé szimmetrikus, mint a Kjongbokkung, alkalmazkodva a domborzathoz.",
+        "Itt élt az utolsó koreai trónörökös és családja egészen 1989-ig.",
+        "A Huwon kertben található egy 300 évesnél is idősebb fenyőfa.",
+        "Az épületek díszítése (dancheong) itt különösen finom és részletgazdag."
+      ]
+    },
+    {
+      "id": "gochang-dolmen-sites-history-v2",
+      "descriptionAdvanced": "Kocshang dolmenjei a világ egyik legfontosabb megalitikus lelőhelyét alkotják, ahol az őskori ember temetkezési szokásai és társadalmi szerkezete elevenedik meg. A területen több száz különböző típusú dolmen (kősír) található, amelyek sűrűsége és változatossága páratlan a világon. Ezek a hatalmas kőtömbök nemcsak síremlékek voltak, hanem rituális helyszínek is, amelyek a bronzkori közösségek erejét és hitvilágát szimbolizálták. A kocshangi lelőhely az UNESCO Világörökség része, és egyedülálló ablakot nyit az emberiség hajnalára, amikor az első tartós építmények megjelentek a koreai tájon.",
+      "factsAdvanced": [
+        "A Kocshang, Hvaszun és Kanghva dolmenek együtt alkotják a világörökségi helyszínt.",
+        "Kocshangban található a legtöbb dolmen egy helyen Dél-Koreában (több mint 440).",
+        "A sírok a Kr. e. 7. és 3. század közötti időszakból származnak.",
+        "Itt látható mindhárom fő dolmen-típus: az asztal, a sakktábla és a kőtömb stílusú.",
+        "A legnagyobb fedőkő súlya eléri a 300 tonnát.",
+        "A területen egy modern Dolmen Múzeum is működik az érdeklődőknek.",
+        "A kövek megmunkálása és mozgatása magas szintű közösségi szervezést igényelt.",
+        "A dolmeneket gyakran 'Gindol'-nak (hosszú kő) hívják a helyiek."
+      ]
+    },
+    {
+      "id": "jongmyo-shrine-history-v2",
+      "descriptionAdvanced": "A Csongmjo-szentély a koreai konfuciánus államvallás legszentebb helyszíne, ahol a Csoszon-dinasztia királyainak és királynőinek emléktábláit őrzik. Ez a spirituális központ az uralkodói legitimitás és az ősök tiszteletének szimbóluma volt évszázadokon át. Az épületek szigorú, puritán vonalvezetése és a végtelennek tűnő vörös oszlopcsarnokok a halál utáni örökkévalóságot és a méltóságot sugározzák. Csongmjo különlegessége, hogy a mai napig itt tartják a Jongmyo Jerye szertartást, amely a világ egyik legrégebbi, folyamatosan gyakorolt rituális ceremóniája, és amely UNESCO szellemi kulturális örökség védettséget élvez.",
+      "factsAdvanced": [
+        "Csongmjo az UNESCO Világörökség része 1995 óta.",
+        "A főcsarnok, a Jeongjeon, Ázsia egyik leghosszabb fából készült épülete.",
+        "Itt 19 király és 30 királyné emléktábláját őrzik.",
+        "A szentélyben zajló rituális zene és tánc külön UNESCO-védettséget élvez.",
+        "Az épületkomplexumot 1394-ben alapították, de 1608-ban újjáépítették.",
+        "A szentély udvarán a középső út csak a szellemek (ősök) számára fenntartott.",
+        "A szertartásokat évente egyszer, május első vasárnapján tartják.",
+        "A szentély kialakítása a konfuciánus világrend tökéletes mása."
+      ]
+    },
+    {
+      "id": "war-memorial-of-korea-history-v2",
+      "descriptionAdvanced": "A Koreai Háborús Emlékmű Szöulban nem csupán egy múzeum, hanem egy monumentális kegyhely, amely Korea viharos hadtörténelmének és az ország védelmében hozott áldozatoknak állít emléket. A hatalmas komplexum részletesen dokumentálja a koreai háború (1950-1953) eseményeit, de bemutatja az ország küzdelmeit a prehisztorikus kortól egészen a modern időkig. A belső kiállítóterek interaktív módon repítik vissza a látogatókat a múltba, míg a külső parkban repülőgépek, tankok és hadihajók tucatjai sorakoznak. Az emlékmű legmegindítóbb része az áldozatok neveit őrző oszlopcsarnok, amely a nemzeti egység és a béke fontosságára figyelmeztet.",
+      "factsAdvanced": [
+        "A múzeum több mint 33 000 tárgyi emléket őriz és állít ki.",
+        "A külső téren több mint 100 valódi katonai jármű és repülőgép látható.",
+        "Itt található a 'Testvérek szobra', amely a háború családi tragédiáját szimbolizálja.",
+        "A neveket tartalmazó falakon a koreai és az ENSZ katonák nevei is szerepelnek.",
+        "A komplexum a hadsereg egykori főhadiszállásának helyén épült fel.",
+        "Ingyenesen látogatható, és Szöul egyik legnépszerűbb oktatási központja.",
+        "A múzeumban külön szekció foglalkozik Yi Sun-sin admirális tengeri csatáival.",
+        "Az épület előtt minden pénteken látványos katonai díszszemlét tartanak."
+      ]
+    },
+    {
+      "id": "haedong-yonggungsa-temple-history-v2",
+      "descriptionAdvanced": "A Hedong Jonggungsza-templom Busan keleti partvidékén egyedülálló látványosság Koreában, hiszen a legtöbb buddhista templommal ellentétben nem a hegyekben, hanem közvetlenül a sziklás tengerparton épült. Az 1376-ban alapított szentély a tenger és a vallási építészet drámai találkozása, ahol a hullámok morajlása kíséri az imádságokat. A templomhoz vezető 108 lépcsőfok az emberi gyarlóságokat szimbolizálja, a parton álló arany Buddha-szobrok és a díszes pavilonok pedig különleges spirituális élményt nyújtanak. A helyiek úgy tartják, hogy az itt elmondott őszinte kívánságok közül legalább egy valóra válik, ami miatt hívők és turisták ezrei látogatják nap mint nap.",
+      "factsAdvanced": [
+        "A templomot Naong nagy mester alapította a Korjo-dinasztia idején.",
+        "A neve 'Koreai Sárkánypalota Templomot' jelent.",
+        "Dél-Korea egyik legjobb helye az újévi napfelkelte megtekintésére.",
+        "Itt látható a 12 állatövi jegy kőszobra a templom bejáratánál.",
+        "A templom nagy része a japán invázió alatt elpusztult, az 1970-es években állították helyre.",
+        "A Haesu Gwaneum Daebul (Tengeri Istennő) szobor a tengerre tekint.",
+        "A szentély népszerű zarándokhely a vizsgákra készülő diákok és családjaik körében.",
+        "Buddha születésnapján ezer színes lámpás világítja meg a tengerparti sziklákat."
+      ]
+    },
+    {
+      "id": "seodaemun-prison-history-v2",
+      "descriptionAdvanced": "A Szodemun börtön Szöulban a koreai függetlenségi harc és a modern demokrácia megszületésének sötét, de hősies emlékműve. Az 1908-ban, a japán gyarmati uralom idején épült börtönben tartották fogva és kínozták meg azokat az aktivistákat, akik Korea szabadságáért küzdöttek. A vörös téglás épületek, a szűk cellák és a kivégzőhelyek ma múzeumként működnek, hiteles és megrázó képet festve a múltbeli szenvedésekről. Szodemun nemcsak a gyász helye, hanem a nemzeti ellenállás és az emberi méltóság szimbóluma is, ahol a látogatók fejet hajthatnak azok előtt, akik életüket adták a hazájukért.",
+      "factsAdvanced": [
+        "A börtön eredeti neve Gyeongseong Gamok volt.",
+        "Itt hunyt el Ryu Gwansun, a 19 éves függetlenségi mártírnő.",
+        "A komplexum területén látható a 'Siralomház' és a megőrzött kínzókamrák.",
+        "A börtön udvarán egy hatalmas koreai zászló áll az áldozatok emlékére.",
+        "A japán megszállás után a koreai diktatúrák idején is politikai börtönként szolgált.",
+        "1987-ben zárták be véglegesen, és 1992-ben nyílt meg emlékmúzeumként.",
+        "Az épületkomplexum fontos helyszíne a március 1-jei függetlenségi ünnepségeknek.",
+        "Számos koreai film és dráma használta hiteles forgatási helyszínként."
+      ]
+    }
+  ]
+}

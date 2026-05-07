@@ -21,7 +21,7 @@ export const poiExtraHondurasLandmarksV2: POI[] = [
     },
     descriptionAdvanced: {
       de: "Die Kathedrale St. Michael Erzengel ist das spirituelle Herz von Tegucigalpa und eines der bedeutendsten Beispiele kolonialer Barockarchitektur in Honduras. Ihr imposanter weißer Bau dominiert den Parque Central und beeindruckt durch eine reich verzierte Fassade und prächtige goldene Altäre im Inneren. Über Jahrhunderte hinweg war sie Zeugin der politischen und sozialen Umbrüche des Landes. Heute ist sie nicht nur ein Ort des Gebets, sondern auch ein nationales Denkmal, das die tief verwurzelte katholische Tradition und die kunstvolle Handwerkskunst der Kolonialzeit widerspiegelt.",
-      hu: "",
+      hu: "A Szent Mihály Arkangyal Főszékesegyház (Catedral Metropolitana de San Miguel Arcángel) Tegucigalpa szívében, a Parque Centralon magasodik, és Honduras egyik legjelentősebb barokk építészeti remekműve. Az építkezést 1765-ben kezdték meg José de Simón Celaya atya vezetésével, és a grandiózus épületet 1782-ben szentelték fel. A katedrális lenyűgöző homlokzata gazdagon faragott stukkókkal, oszlopokkal és szobrokkal díszített. Belső terének fénypontja a lenyűgöző, aranyfüsttel bevont központi faoltár (retablo mayor), amelyet egy guatemalai mester, Vicente Gálvez készített, és amely Közép-Amerika egyik legszebb gyarmati oltára. A katedrális nemcsak az ország legfőbb vallási központja, hanem a főváros történelmi és kulturális identitásának szimbóluma is. Látványosság K7 — gyarmati építészet.",
       ro: "",
       en: ""
     },
@@ -33,7 +33,7 @@ export const poiExtraHondurasLandmarksV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Beherbergt ein wunderschönes Retabel aus Blattgold", "Die Kanzel ist ein Meisterwerk der Holzschnitzerei", "Wurde nach einem schweren Erdbeben im 19. Jahrhundert aufwendig restauriert", "Sitz des Erzbistums von Tegucigalpa"],
-      hu: [],
+      hu: ["Tegucigalpa központi terén, a Parque Centralon áll.", "Építése 1765-ben kezdődött és 1782-ben fejeződött be.", "Honduras egyik legkiválóbb spanyol barokk stílusú épülete.", "Belső terét egy grandiózus, aranyfüstös faoltár (retablo mayor) uralja.", "Az oltárt a híres guatemalai fafaragó, Vicente Gálvez készítette.", "Szent Mihály arkangyalnak, a város védőszentjének szentelték.", "1967-ben a kormány hivatalosan is Nemzeti Műemlékké nyilvánította."],
       ro: [],
       en: []
     }, image: "/poi-images/catedral-metropolitana-tegucigalpa-landmarks-v2.webp"},
@@ -56,7 +56,7 @@ export const poiExtraHondurasLandmarksV2: POI[] = [
     },
     descriptionAdvanced: {
       de: "Die Basilika von Suyapa ist der Nationalheiligtum von Honduras und beherbergt die winzige, aber mächtige Statue der Jungfrau von Suyapa, der Schutzpatronin des Landes. Das moderne, monumentale Gebäude beeindruckt durch seine enorme Größe und die wunderschönen Buntglasfenster, die das Innere in ein farbenfrohes Licht tauchen. Jedes Jahr im Februar strömen Hunderttausende Pilger aus allen Teilen des Landes hierher, um ihre Versprechen einzulösen oder um Segen zu bitten. Die Basilika ist ein Symbol der nationalen Einheit und ein beeindruckendes Zeugnis des honduranischen Glaubens im 20. Jahrhundert.",
-      hu: "",
+      hu: "A Suyapai Miasszonyunk Bazilika (Basílica de Nuestra Señora de Suyapa) Honduras legfontosabb katolikus zarándokhelye, amely Tegucigalpa keleti részén található. A modern, gigantikus méretű, gótikus beütésű épületet 1954-ben kezdték építeni, hogy méltó otthont adjanak Honduras védőszentjének, a Suyapai Szűz Máriának (La Morenita). A legenda szerint a mindössze 6 cm magas, cédrusfából faragott szobrocskát 1747-ben találta meg egy helyi parasztember, Alejandro Colindres. A hatalmas bazilikát lenyűgöző ólomüveg ablakok díszítik, amelyek bibliai jeleneteket és a szűz megtalálását ábrázolják. Minden év február 3-án zarándokok milliói (sokan gyalog) érkeznek az ország minden pontjáról a bazilikába, hogy tiszteletüket tegyék a nemzeti ünnepélyen. Látványosság K8 — nemzeti zarándokhelyek.",
       ro: "",
       en: ""
     },
@@ -68,7 +68,7 @@ export const poiExtraHondurasLandmarksV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Die Statue der Jungfrau ist nur ca. 6 cm groß", "Der Bau dauerte mehrere Jahrzehnte und wurde durch Spenden finanziert", "Wurde von Papst Franziskus in den Rang einer Basilica Minor erhoben", "Verfügt über eine beeindruckende Akustik für religiöse Konzerte"],
-      hu: [],
+      hu: ["Honduras legnagyobb és legfontosabb katolikus zarándokhelye.", "A Suyapai Szűz Máriának (La Morenita), Honduras védőszentjének otthona.", "A hatalmas bazilika építése 1954-ben kezdődött.", "Az eredeti szobor mindössze 6 cm magas, cédrusfából faragott.", "A szobrot a legenda szerint 1747-ben találta egy helyi paraszt.", "Hatalmas ólomüveg ablakai a hondurasi vallási történelem jeleneteit ábrázolják.", "Minden év február 3-án zarándokok milliói látogatnak el ide."],
       ro: [],
       en: []
     }, image: "/poi-images/basilica-de-suyapa-landmarks-v2.webp"},
@@ -91,7 +91,7 @@ export const poiExtraHondurasLandmarksV2: POI[] = [
     },
     descriptionAdvanced: {
       de: "Das Estadio Olímpico Metropolitano in San Pedro Sula ist der 'Tempel des honduranischen Fußballs' und die gefürchtete Heimstätte der Nationalmannschaft 'La H'. Mit einer Kapazität von über 37.000 Zuschauern bietet es eine elektrisierende Atmosphäre, die besonders bei internationalen Qualifikationsspielen spürbar ist. Das Stadion wurde für die Zentralamerikaspiele 1997 erbaut und erfüllt moderne Standards für Sportgroßveranstaltungen. Neben Fußball dient es auch als Bühne für große Musikfestivals und kulturelle Events, die Menschen aus dem ganzen Land in die Industriehauptstadt ziehen.",
-      hu: "",
+      hu: "Az Estadio Olímpico Metropolitano (Metropolitán Olimpiai Stadion) San Pedro Sula hatalmas, modern sportlétesítménye, amely több mint 37 000 néző befogadására alkalmas, így Honduras legnagyobb stadionja. Az arénát az 1997-es hatodik Közép-Amerikai Játékokra építették, és azóta a hondurasi labdarúgó-válogatott (La H) de facto otthonaként szolgál a világbajnoki selejtezőkön. Az itteni trópusi hőség, a magas páratartalom és a szurkolók ('catrachos') félelmetes, fülsiketítő hangulata miatt az ellenfelek számára az egyik legrettegettebb stadion a CONCACAF zónában, gyakran nevezik az \"El Coloso del Norte\"-nak (Az Észak Kolosszusa). A stadion emellett nagyszabású nemzetközi koncerteknek, vallási eseményeknek és atlétikai versenyeknek is helyt ad. Látványosság K7 — modern sportinfrastruktúra.",
       ro: "",
       en: ""
     },
@@ -103,7 +103,7 @@ export const poiExtraHondurasLandmarksV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Gilt als eines der stimmungsvollsten Stadien in Mittelamerika", "Verfügt über eine professionelle Leichtathletik-Laufbahn", "Häufiger Austragungsort für Spiele der CONCACAF Champions League", "Wurde komplett für moderne Sicherheitsstandards modernisiert"],
-      hu: [],
+      hu: ["Honduras legnagyobb stadionja, befogadóképessége 37 000 fő.", "San Pedro Sula városában található.", "Az 1997-es Közép-Amerikai Játékokra (Juegos Centroamericanos) épült.", "A hondurasi nemzeti labdarúgó-válogatott (La H) első számú otthona.", "A szurkolók intenzív atmoszférája miatt hírhedt a riválisok körében.", "A stadion teljes atlétikai futópályával is rendelkezik.", "Beceneve 'El Coloso del Norte' (Az Északi Kolosszus)."],
       ro: [],
       en: []
     }, image: "/poi-images/estadio-olimpico-metropolitano-landmarks-v2.webp"},
@@ -126,7 +126,7 @@ export const poiExtraHondurasLandmarksV2: POI[] = [
     },
     descriptionAdvanced: {
       de: "Die Kathedrale St. Peter Apostel ist das architektonische Wahrzeichen im Herzen von San Pedro Sula. Der Bau aus der Mitte des 20. Jahrhunderts besticht durch seine klare, symmetrische Struktur und die zwei charakteristischen Glockentürme, die den Parque Central überragen. Im Inneren herrscht eine ruhige, andächtige Atmosphäre, die einen starken Kontrast zum geschäftigen Treiben der umliegenden Industriestadt bildet. Die Kathedrale ist nicht nur ein religiöses Zentrum, sondern auch ein wichtiger Orientierungspunkt für Besucher und Einheimische in der dynamischsten Stadt des Landes.",
-      hu: "",
+      hu: "A Szent Péter Apostol Katedrális (Catedral de San Pedro Apóstol) San Pedro Sula lüktető központjában található, és az északi országrész legfontosabb katolikus vallási épülete. Bár a város 1536-os alapítású, a jelenlegi neokoloniális stílusú, világossárga színű katedrális építése csak 1949-ben kezdődött, és hosszú évtizedekig tartott a befejezése. A homlokzatot a két magas, kupolás harangtorony és a központi boltíves bejárat dominálja. A belső teret lenyűgöző, kézzel festett freskók és gazdag fafaragások díszítik. A katedrális előtti téren (Parque Central) nap mint nap találkoznak az árusok, a diákok és az üzletemberek, így a templom nemcsak vallási központ, hanem a gyorsan forgó iparváros békés, kulturális menedéke is. Látványosság K7 — városi központok.",
       ro: "",
       en: ""
     },
@@ -138,7 +138,7 @@ export const poiExtraHondurasLandmarksV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Die Fassade ist mit Statuen der Apostel geschmückt", "Beherbergt wertvolle religiöse Kunstwerke aus verschiedenen Epochen", "Zentraler Punkt für die Osterprozessionen der Stadt", "Eines der meistfotografierten Gebäude im Norden von Honduras"],
-      hu: [],
+      hu: ["San Pedro Sula, Honduras ipari fővárosának központi katedrálisa.", "A jelenlegi neokoloniális épület alapkövét 1949-ben rakták le.", "Két magas harangtornya és világossárga homlokzata ikonikus a városban.", "Szent Péter apostolnak, a város névadó védőszentjének szentelték.", "A belső teret látványos, színes freskók és faragott fa részletek díszítik.", "A nyüzsgő Parque Central (Központi Park) mellett áll.", "Az északi régió katolikus közösségének legfontosabb találkozási pontja."],
       ro: [],
       en: []
     }, image: "/poi-images/catedral-de-san-pedro-apostol-landmarks-v2.webp"},
@@ -161,7 +161,7 @@ export const poiExtraHondurasLandmarksV2: POI[] = [
     },
     descriptionAdvanced: {
       de: "Das Nationaltheater Manuel Bonilla ist das kulturelle Juwel von Tegucigalpa und ein prachtvolles Beispiel neoklassizistischer Architektur. Inspiriert vom Athenäum in Paris, bietet es einen eleganten Rahmen für Opern, Konzerte und Theateraufführungen von nationalem Rang. Der prächtige Zuschauerraum mit seinen Logen und dem kunstvoll bemalten Deckengewölbe entführt die Besucher in eine Ära glanzvoller Kulturabende. Seit über einem Jahrhundert ist es die wichtigste Bühne des Landes und bewahrt das künstlerische Erbe von Honduras in einer sich ständig wandelnden Hauptstadt.",
-      hu: "",
+      hu: "A Manuel Bonilla Nemzeti Színház (Teatro Nacional Manuel Bonilla) Tegucigalpa legfontosabb kulturális és előadó-művészeti központja. Az 1915-ben, Manuel Bonilla elnök kezdeményezésére megnyitott épület a párizsi 'Athénée' színház mintájára készült, neoreneszánsz stílusban. A külső, rózsaszínes homlokzat elegáns oszlopokkal díszített, de az igazi csoda a belső térben várja a látogatókat: a nézőtér plafonját a hondurasi festő, Carlos Zúñiga Figueroa csodálatos freskója díszíti, amely az ország tájait és allegorikus alakjait ábrázolja, míg a nézőteret vörös bársony és kristálycsillárok ékesítik. A színház több mint egy évszázada ad otthont operáknak, szimfonikus zenekari koncerteknek, balettelőadásoknak és a legfontosabb nemzeti ünnepségeknek. Látványosság K8 — kulturális örökség.",
       ro: "",
       en: ""
     },
@@ -173,7 +173,7 @@ export const poiExtraHondurasLandmarksV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Verfügt über eine hervorragende natürliche Akustik", "Das Interieur ist mit Kristalllüstern und rotem Samt ausgestattet", "Wurde zur Feier des hundertjährigen Bestehens der Republik geplant", "Überlebte mehrere politische Unruhen unbeschadet"],
-      hu: [],
+      hu: ["Tegucigalpa legkiemelkedőbb kulturális és előadó-művészeti épülete.", "1915-ben nyitotta meg kapuit, neoreneszánsz stílusban épült.", "Nevét az építését elrendelő Manuel Bonilla elnökről kapta.", "A párizsi Athénée színház belsőépítészeti mintájára tervezték.", "Mennyezetét Carlos Zúñiga Figueroa lenyűgöző freskója díszíti.", "A belső teret vörös bársony, arany díszítések és kristálycsillárok uralják.", "A hondurasi színház, opera és klasszikus zene legfőbb otthona."],
       ro: [],
       en: []
     }, image: "/poi-images/teatro-nacional-manuel-bonilla-landmarks-v2.webp"},
@@ -196,7 +196,7 @@ export const poiExtraHondurasLandmarksV2: POI[] = [
     },
     descriptionAdvanced: {
       de: "Die Choluteca-Brücke, auch bekannt als Carías-Brücke, ist weit mehr als nur ein Verkehrsweg; sie ist ein nationales Symbol für Stärke und Ingenieurskunst. Ursprünglich in den 1930er Jahren erbaut, wurde eine moderne Version in den 1990er Jahren fertiggestellt. Berühmt wurde sie weltweit nach dem Hurrikan Mitch, als sie zwar unbeschadet stehen blieb, der Fluss darunter jedoch seinen Lauf änderte und die Brücke im Nirgendwo hinterließ. Heute ist sie ein mahnendes Beispiel für die Macht der Natur und die Notwendigkeit flexibler Planung in einer sich verändernden Welt.",
-      hu: "",
+      hu: "A Choluteca-híd (Puente de Choluteca), vagy más néven Puente Carías de Choluteca, egy lenyűgöző függőhíd, amely a Choluteca-folyó felett ível át Dél-Hondurasban. A Golden Gate hídra emlékeztető szerkezetet 1935 és 1937 között építette az amerikai hadsereg mérnöki alakulata (US Army Corps of Engineers), és a Pánamerikai főútvonal kulcsfontosságú elemeként szolgált, összekötve Hondurast Nicaraguával. Bár a modern közlekedés egy új, elkerülő hidat (Új Choluteca-híd) használ, a Régi Híd továbbra is a város ikonikus szimbóluma. Különös hírnevet szerzett 1998-ban, amikor a Mitch hurrikán pusztítása során az új japán híd alól a folyó teljesen elvitte a medret, míg ez az 1937-es régi, masszív függőhíd szinte karcolás nélkül állta az évezred viharát. Látványosság K7 — mérnöki csodák.",
       ro: "",
       en: ""
     },
@@ -208,7 +208,7 @@ export const poiExtraHondurasLandmarksV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Die Brücke ist eine exakte Replik der Golden Gate Bridge in kleinerem Maßstab", "Wurde von japanischen Ingenieuren entworfen, um schwersten Stürmen zu trotzen", "Gilt als Metapher für starre Strukturen in dynamischen Umgebungen", "Ist ein wichtiger Teil der Panamericana-Route im Süden"],
-      hu: [],
+      hu: ["A Choluteca-folyót íveli át Dél-Honduras legnagyobb városában.", "1935 és 1937 között épült, amerikai mérnökök tervezésével.", "Az amerikai Golden Gate híd stílusát idéző függőhíd.", "Eredetileg a Pánamerikai főútvonal legfontosabb láncszeme volt délen.", "Sértetlenül túlélte az 1998-as, pusztító Mitch hurrikánt.", "Ma már csak könnyű forgalomra és gyalogosok számára nyitott.", "Choluteca városának legkönnyebben felismerhető történelmi szimbóluma."],
       ro: [],
       en: []
     }, image: "/poi-images/puente-choluteca-landmarks-v2.webp"},
@@ -231,7 +231,7 @@ export const poiExtraHondurasLandmarksV2: POI[] = [
     },
     descriptionAdvanced: {
       de: "Die Kirche La Merced in Gracias ist ein bezauberndes Zeugnis der spanischen Kolonialzeit im Westen von Honduras. Mit ihrer charakteristischen Fassade, die mit filigranen Stuckarbeiten und religiösen Motiven verziert ist, fängt sie den Geist des 17. Jahrhunderts perfekt ein. Gracias war einst der Sitz der Audiencia de los Confines, und die Kirche spiegelt den damaligen Reichtum und die Bedeutung der Stadt wider. Besucher schätzen besonders die friedliche Atmosphäre auf dem vorgelagerten Platz und die historische Patina der dicken Adobe-Mauern, die kühle Zuflucht vor der tropischen Sonne bieten.",
-      hu: "",
+      hu: "A La Merced templom (Iglesia de La Merced) Lempira megyében, Gracias történelmi városában található, és az ország egyik legrégebbi fennmaradt vallási épülete. A 17. század elején (1611 körül) épült templom a spanyol reneszánsz és a korai barokk egyszerűségét tükrözi. Legkiemelkedőbb látványossága a rendkívül díszes, aprólékosan faragott kőhomlokzat, amelyen a domborművek (növényi motívumok és angyalok) a helyi őslakos kőfaragók és a spanyol szerzetesek művészeti szintézisét mutatják. A templom belső tere puritán, de a vastag vályogfalak különleges békét árasztanak. A La Merced épülete nem a főtéren áll, ami a kolostori rendek elkülönülési törekvéseire utal a gyarmati korban. A műemlék a lenca turisztikai útvonal egyik fő megállója. Látványosság K8 — barokk homlokzatok.",
       ro: "",
       en: ""
     },
@@ -243,7 +243,7 @@ export const poiExtraHondurasLandmarksV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Besitzt eine der schönsten barocken Fassaden des Landes", "Beherbergt wertvolle Holzskulpturen aus der Kolonialzeit", "War Teil eines größeren mönchischen Komplexes", "Gilt als Herzstück des historischen Viertels von Gracias"],
-      hu: [],
+      hu: ["Gracias történelmi óvárosában található a 17. század elejéről.", "Honduras egyik legszebb faragott kőhomlokzatával büszkélkedhet.", "A díszítések a spanyol és a helyi lenca művészet találkozását tükrözik.", "Eredetileg a Mercedárius rend (Ordo de la Merced) alapította.", "Vastag vályogfalai és fa tetőszerkezete a korai gyarmati építészet példái.", "Az épület elhelyezkedése eltér a hagyományos főtéri (Parque Central) elrendezéstől.", "Nemzeti műemléki védelem alatt áll, népszerű turisztikai célpont."],
       ro: [],
       en: []
     }, image: "/poi-images/iglesia-la-merced-gracias-landmarks-v2.webp"},
@@ -266,7 +266,7 @@ export const poiExtraHondurasLandmarksV2: POI[] = [
     },
     descriptionAdvanced: {
       de: "Das Museum für Nationale Identität (MIN) ist eine der renommiertesten Kultureinrichtungen Zentralamerikas und befindet sich im wunderschön restaurierten Palast des ehemaligen 'Hospital General'. Es bietet eine umfassende Reise durch die Geschichte von Honduras, von den geologischen Ursprüngen über die präkolumbianische Ära bis hin zur modernen Kunst. Ein besonderes Highlight ist die virtuelle Tour durch die Maya-Ruinen von Copán, die modernste Technik nutzt. Das MIN ist nicht nur ein Museum, sondern ein lebendiger Treffpunkt für Künstler und ein Ort, der den Stolz auf das honduranische Erbe fördert.",
-      hu: "",
+      hu: "A Nemzeti Identitás Múzeuma (Museo para la Identidad Nacional - MIN) Honduras legmodernebb és legátfogóbb múzeuma, amely Tegucigalpa szívében, a lenyűgöző, 19. századi egykori Minisztériumok Palotájában (Palacio de los Ministerios) kapott helyet. A 2006-ban megnyitott intézmény interaktív és vizuálisan lenyűgöző kiállításokon keresztül mutatja be Honduras történelmét, földrajzát, etnikai sokszínűségét és kultúráját a geológiai kialakulástól a prekolumbián korokon át (köztük egy virtuális Copán-romok 3D túrával) egészen a modern köztársaságig. A múzeum belső udvarát gyakran használják koncertek, kortárs művészeti performanszok és filmvetítések helyszíneként, így a MIN nem csupán történelmi archívum, hanem a főváros legdinamikusabb kortárs kulturális központja is. Látványosság K8 — múzeumok és oktatás.",
       ro: "",
       en: ""
     },
@@ -278,7 +278,7 @@ export const poiExtraHondurasLandmarksV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Das Gebäude diente ursprünglich als Krankenhaus und später als Ministerium", "Beherbergt eine der besten Sammlungen honduranischer Malerei", "Bietet regelmäßig Workshops für Kinder und Jugendliche an", "Wurde mit internationalen Preisen für seine museale Gestaltung ausgezeichnet"],
-      hu: [],
+      hu: ["Tegucigalpában, az 1882-ben épült egykori Minisztériumok Palotájában található.", "Honduras leglátogatottabb és legmodernebb történelmi múzeuma.", "Kiállításai átfogják az ország történelmét az ősidőktől a jelenkorig.", "Leghíresebb attrakciója a Copán maja romjait bemutató virtuális 3D túra.", "Kiemelten foglalkozik a hondurasi őslakos és afro-karibi kultúrákkal.", "Belső udvara koncertek, kortárs kiállítások és fesztiválok helyszíne.", "A kulturális nevelés és a nemzeti öntudat erősítésének fő központja."],
       ro: [],
       en: []
     }, image: "/poi-images/museo-para-la-identidad-nacional-landmarks-v2.webp"},
@@ -301,7 +301,7 @@ export const poiExtraHondurasLandmarksV2: POI[] = [
     },
     descriptionAdvanced: {
       de: "Das Estadio Nacional Chelato Uclés ist der pulsierende Mittelpunkt des sportlichen Lebens in Tegucigalpa und Schauplatz zahlreicher historischer Momente. Benannt nach José de la Paz Herrera, dem Trainer, der Honduras zur ersten WM 1982 führte, ist es die Heimstätte der beliebtesten Clubs des Landes, Olimpia und Motagua. Neben dem Fußball war das Stadion auch Zeuge bedeutender politischer Ereignisse, wie der Amtseinführung honduranischer Präsidenten. Trotz der neueren Stadien im Norden bleibt das 'Nacional' aufgrund seiner zentralen Lage und Geschichte das emotionale Herz der Fans in der Hauptstadt.",
-      hu: "",
+      hu: "Az Estadio Nacional 'Chelato Uclés' (korábban Estadio Nacional Tiburcio Carías Andino) Tegucigalpa ikonikus sportlétesítménye és a hondurasi labdarúgás bölcsője. Az 1948-ban, Tiburcio Carías Andino diktátor uralma alatt felavatott, több mint 34 000 nézőt befogadó stadion a főváros két legnépszerűbb futballcsapatának, az Olimpia és a Motagua kluboknak az otthona, amelyek közötti derbik (Clásico Nacional) az ország legfontosabb sporteseményei. A stadiont a hegyek lábánál, a városközponthoz közel építették, jellegzetes, körkörös építészeti stílusban. 2022-ben a létesítményt átnevezték a legendás hondurasi futballedző, José de la Paz Herrera ('Chelato Uclés') tiszteletére, aki 1982-ben először juttatta ki a válogatottat a világbajnokságra. A sporton kívül elnöki beiktatások és hatalmas zenei koncertek helyszíne. Látványosság K7 — történelmi sportarénák.",
       ro: "",
       en: ""
     },
@@ -313,7 +313,7 @@ export const poiExtraHondurasLandmarksV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Wurde auf dem Gelände eines ehemaligen Flugplatzes errichtet", "Die markante Betonstruktur ist ein Wahrzeichen der Stadt", "Bietet Platz für ca. 35.000 leidenschaftliche Fans", "Wurde mehrfach modernisiert, um internationalen Standards zu entsprechen"],
-      hu: [],
+      hu: ["Tegucigalpa legnagyobb stadionja, 1948-ban avatták fel.", "Két nagy rivális klub, az Olimpia és a Motagua otthona.", "Befogadóképessége körülbelül 34 000-35 000 fő.", "2022-ben átnevezték a legendás hondurasi edző, 'Chelato Uclés' emlékére.", "Történelmileg az összes hondurasi elnök beiktatási ceremóniájának helyszíne.", "Körkörös, masszív betonszerkezete a Carías-korszak építészetét idézi.", "A fővárosi társadalmi és sportélet legfontosabb közösségi tere."],
       ro: [],
       en: []
     }, image: "/poi-images/estadio-nacional-chelato-ucles-landmarks-v2.webp"},
@@ -336,7 +336,7 @@ export const poiExtraHondurasLandmarksV2: POI[] = [
     },
     descriptionAdvanced: {
       de: "Das Parlamentsgebäude von Honduras, bekannt als Palacio Legislativo, ist das Machtzentrum des Landes und ein markantes Beispiel moderner Architektur in der Altstadt von Tegucigalpa. Das Gebäude ruht auf imposanten Säulen, die einen öffentlichen Platz freigeben und so symbolisch die Nähe zum Volk demonstrieren sollen. Hier finden die Debatten und Entscheidungen statt, die die Zukunft von Honduras prägen. Es ist oft Ausgangspunkt oder Ziel von politischen Kundgebungen und bildet zusammen mit dem nahegelegenen Zentralpark das politische Herz der Hauptstadt.",
-      hu: "",
+      hu: "A Hondurasi Törvényhozási Palota (Palacio Legislativo) a Nemzeti Kongresszus (Congreso Nacional) székhelye Tegucigalpa szívében, közvetlenül a Choluteca-folyó és a Parque Merced mellett. Az 1950-es évek elején, modernista stílusban épült komplexum éles építészeti kontrasztot alkot a környező gyarmati és 19. századi épületekkel. A betonból, üvegből és fémből emelt épület egy masszív, oszlopokon nyugvó struktúra, amelynek alsó szintje nyitott teret alkot. Történelmileg és politikailag ez Honduras legfontosabb épülete, ahol az ország törvényeit megvitatják és elfogadják. A palota előtti teret gyakran használják tüntetések, politikai gyűlések és szakszervezeti felvonulások helyszíneként, így az épület a modern hondurasi demokrácia lüktető, gyakran viharos központja. Látványosság K8 — modern államigazgatás.",
       ro: "",
       en: ""
     },
@@ -348,7 +348,7 @@ export const poiExtraHondurasLandmarksV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Das Gebäude ist im brutalistischen Stil der 1950er Jahre entworfen", "Beherbergt den Plenarsaal mit 128 Abgeordnetensitzen", "Die offene Bauweise im Erdgeschoss ermöglichte früher freien Durchgang", "Wurde zum Kulturerbe der Nation erklärt"],
-      hu: [],
+      hu: ["A Hondurasi Nemzeti Kongresszus hivatalos ülésterme és székhelye.", "Tegucigalpa belvárosában, a Choluteca-folyó mellett található.", "Az 1950-es években épült, funkcionalista-modernista építészeti stílusban.", "A beton és üveg struktúra kontrasztban áll a történelmi belvárossal.", "A földszinti nyitott oszlopcsarnok (bajos del Congreso) ikonikus találkozóhely.", "A politikai tüntetések és társadalmi megmozdulások állandó helyszíne.", "Honduras törvényhozási és politikai hatalmának szimbóluma."],
       ro: [],
       en: []
     }, image: "/poi-images/palacio-legislativo-honduras-landmarks-v2.webp"},
@@ -371,7 +371,7 @@ export const poiExtraHondurasLandmarksV2: POI[] = [
     },
     descriptionAdvanced: {
       de: "Die Kirche Los Dolores ist ein farbenfrohes und kunstvolles Wahrzeichen von Tegucigalpa, das für seine einzigartige Fassade mit religiösen Symbolen und Terrakotta-Figuren bekannt ist. Sie wurde auf dem Gelände einer ehemaligen indigenen Kapelle errichtet und spiegelt den Volksbarock-Stil wider, der in der Region verbreitet war. Der davor liegende Platz ist ein lebendiger Treffpunkt, auf dem oft Märkte und religiöse Feste stattfinden. Die Kirche mit ihren charakteristischen Türmen und der detailreichen Dekoration ist ein unverzichtbarer Teil des historischen Stadtbildes und ein Zeugnis der tiefen Volksfrömmigkeit.",
-      hu: "",
+      hu: "A Los Dolores templom (Iglesia de Santa María de los Dolores) Tegucigalpa egyik legszebb és legkülönlegesebb gyarmati kori épülete, amely az azonos nevű téren (Plaza Los Dolores) található. Az 1732 és 1815 között épült templom a hondurasi népi barokk építészet mesterműve. A lenyűgöző homlokzaton egyedülálló módon nemcsak katolikus szenteket ábrázoló domborművek találhatók, hanem prehispán, őslakos szimbólumok, napmotívumok és helyi növények faragásai is, amelyeket a mesztic és őslakos építőmesterek alkottak. A templom a történelmi pardo (afrikai-spanyol keverék) és őslakos negyed szellemi központja volt, szemben a spanyol elit által preferált katedrálissal. Ma a Los Dolores tér a főváros egyik legnyüzsgőbb, kulturálisan legsokszínűbb találkozóhelye. Látványosság K8 — népi barokk.",
       ro: "",
       en: ""
     },
@@ -383,7 +383,7 @@ export const poiExtraHondurasLandmarksV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Die Fassade zeigt Symbole der Passion Christi", "Das Innere beherbergt prächtige Retabel aus der Kolonialzeit", "War historisch die Kirche für die Mestizen-Bevölkerung der Stadt", "Besitzt eine der markantesten Silhouetten in der Altstadt"],
-      hu: [],
+      hu: ["Tegucigalpa egyik legfontosabb történelmi temploma, 1732-ben kezdték építeni.", "A 'népi barokk' stílus lenyűgöző példája Közép-Amerikában.", "Homlokzatán katolikus szimbólumok és őslakos (nap, növény) motívumok keverednek.", "A gyarmati korban a szegényebb, mesztic és pardo lakosság temploma volt.", "Ikonikus, kétszínű (fehér és terrakotta) díszes elülső fallal rendelkezik.", "A templom előtti Plaza Los Dolores a város egyik legélettelibb tere.", "A hondurasi kulturális szinkretizmus (keveredés) építészeti jelképe."],
       ro: [],
       en: []
     }, image: "/poi-images/iglesia-los-dolores-tegucigalpa-landmarks-v2.webp"},
@@ -406,7 +406,7 @@ export const poiExtraHondurasLandmarksV2: POI[] = [
     },
     descriptionAdvanced: {
       de: "Die Zentralbank von Honduras ist nicht nur das finanzielle Rückgrat des Landes, sondern auch ein architektonisches Statement der Moderne in Tegucigalpa. Das massive Gebäude aus Sichtbeton ist ein herausragendes Beispiel für den Brutalismus und spiegelt die Stabilität und Autorität der Institution wider. Neben den Tresoren beherbergt das Gebäude auch bedeutende kulturelle Einrichtungen, darunter ein numismatisches Museum und eine Kunstgalerie, die der Öffentlichkeit zugänglich sind. Es ist ein zentrales Wahrzeichen im Bankenviertel und ein Zeugnis der wirtschaftlichen Entwicklung des Landes im späten 20. Jahrhundert.",
-      hu: "",
+      hu: "A Hondurasi Központi Bank (Banco Central de Honduras - BCH) új épületkomplexuma Tegucigalpa kormányzati negyedében (Centro Cívico Gubernamental) található, és az ország egyik legmodernebb, legimpozánsabb építménye. A 2016-ban átadott üveg- és acéltorony Honduras pénzügyi stabilitását és 21. századi modernizációs törekvéseit szimbolizálja. A szigorúan őrzött komplexum nemcsak az ország monetáris politikájának irányítóközpontja, hanem itt kapott helyet a Numizmatikai Múzeum (Museo Numismático) is, amely a prehispán cserekereskedelemtől a gyarmati ezüstérméken át a mai lempira történetét mutatja be. Az épület kortárs dizájnja, energiahatékony megoldásai és hatalmas kiterjedése éles építészeti váltást jelez a főváros hagyományos építkezési stílusához képest. Látványosság K7 — modern építészet.",
       ro: "",
       en: ""
     },
@@ -418,7 +418,7 @@ export const poiExtraHondurasLandmarksV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Besitzt eine umfangreiche Sammlung honduranischer Banknoten und Münzen", "Das Gebäude ist so konstruiert, dass es hohen seismischen Belastungen standhält", "Verfügt über einen großen Veranstaltungssaal für wirtschaftliche Kongresse", "Wurde von führenden honduranischen Architekten der Moderne entworfen"],
-      hu: [],
+      hu: ["A Hondurasi Központi Bank (BCH) új, ultramodern székhelye Tegucigalpában.", "2016-ban adták át, a Centro Cívico Gubernamental része.", "Honduras pénzügyi stabilitásának és modernizációjának szimbóluma.", "Kortárs üveg és acél architektúra, energiahatékony technológiákkal.", "Az épületben kapott helyet az ország Numizmatikai Múzeuma is.", "A múzeum bemutatja a hondurasi pénz (Lempira) történelmi fejlődését.", "Az ország egyik legszigorúbban őrzött, csúcstechnológiás intézménye."],
       ro: [],
       en: []
     }, image: "/poi-images/banco-central-honduras-landmarks-v2.webp"},
@@ -441,7 +441,7 @@ export const poiExtraHondurasLandmarksV2: POI[] = [
     },
     descriptionAdvanced: {
       de: "Das Alte Präsidentenhaus in Tegucigalpa ist ein prächtiger Palast, der die Opulenz und den Stil der frühen 20. Jahrhunderts widerspiegelt. Mit seinen maurischen Einflüssen, neoklassizistischen Details und wunderschönen Gärten direkt am Choluteca-Fluss ist es eines der ästhetisch ansprechendsten Gebäude der Stadt. Jahrzehntelang diente es als Residenz und Büro der honduranischen Präsidenten und war Schauplatz wichtiger diplomatischer Empfänge. Heute beherbergt es das Nationalarchiv und bietet Besuchern die Möglichkeit, in die politische Geschichte und die prunkvolle Architektur vergangener Zeiten einzutauchen.",
-      hu: "",
+      hu: "A Régi Elnöki Palota (Antigua Casa Presidencial) Tegucigalpa történelmi központjában, a Choluteca-folyó partján fekvő ikonikus, kastélyszerű épület. Az 1916 és 1922 között, egy olasz építész vezetésével épült palota a neogótikus, reneszánsz és mór stílusjegyek lenyűgöző, eklektikus ötvözete, amelyet lőrésekkel ellátott kőfalak és bástyák díszítenek. Több mint hét évtizeden át (1922–1994) ez volt a hondurasi elnökök hivatalos rezidenciája és az ország politikai hatalmának központja, túlélt forradalmakat, katonai puccsokat és hurrikánokat. Ma már nem lát el kormányzati funkciót; az épület a Hondurasi Történeti Archívumnak (Archivo Nacional) és múzeumnak ad otthont, ahol a látogatók bejárhatják az egykori elnöki lakosztályokat és a díszes fogadótermeket. Látványosság K8 — politikai örökség.",
       ro: "",
       en: ""
     },
@@ -453,7 +453,7 @@ export const poiExtraHondurasLandmarksV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Verfügt über prächtige Deckenmalereien und Intarsienböden", "Die Türme bieten einen strategischen Blick auf die Brücken der Stadt", "Wurde unter der Präsidentschaft von Rafael López Gutiérrez begonnen", "Gilt als eines der romantischsten Gebäude in der Hauptstadt"],
-      hu: [],
+      hu: ["1916 és 1922 között épült Tegucigalpa történelmi központjában.", "1922 és 1994 között a hondurasi elnökök hivatalos rezidenciája volt.", "Kastélyszerű megjelenésű, neogótikus, mór és reneszánsz elemekkel.", "Masszív kőfalai és lőrései erődítmény jelleget kölcsönöznek neki.", "A Choluteca-folyó partján, a jelenlegi Nemzeti Kongresszus közelében áll.", "Ma múzeumként és a Hondurasi Történeti Archívumként funkcionál.", "Belső udvarait és dísztermeit a korabeli elegancia jellemzi."],
       ro: [],
       en: []
     }, image: "/poi-images/antigua-casa-presidencial-landmarks-v2.webp"},
@@ -476,7 +476,7 @@ export const poiExtraHondurasLandmarksV2: POI[] = [
     },
     descriptionAdvanced: {
       de: "Die Kathedrale der Unbefleckten Empfängnis ist das historische Juwel der Stadt Choluteca im Süden von Honduras. Dieses koloniale Bauwerk beeindruckt durch seine dicken Mauern, die eleganten weißen Fassaden und die ruhige, schlichte Schönheit des Interieurs. Sie liegt am Rande des zentralen Parks und bildet den Mittelpunkt des religiösen und gesellschaftlichen Lebens in der 'Metropolis des Südens'. Über die Jahrhunderte wurde sie sorgfältig erhalten und bleibt ein stolzes Symbol für das spanische Erbe und die Beständigkeit des Glaubens in einer der heißesten Regionen des Landes.",
-      hu: "",
+      hu: "A Szeplőtelen Fogantatás Katedrális (Catedral de la Inmaculada Concepción) Choluteca városának legfontosabb vallási és építészeti emléke, és egyben Dél-Honduras legnagyobb katolikus temploma. A 17. században (körülbelül az 1640-es években) alapított templom klasszikus spanyol gyarmati stílusban épült, puritán, fehérre meszelt homlokzatát két egyforma harangtorony és egy kupola egészíti ki. A katedrális a város gyönyörűen megőrzött, macskaköves központi terét uralja. A belső térben kiemelt figyelmet érdemel a mahagóniból faragott ősi oltár és a Szeplőtelen Szűz tiszteletére állított szentély. Decemberben a város védőszentjének ünnepén a katedrális és a tér a hatalmas, színes Feria Patronal (Védőszent Fesztivál) központjává válik, ahol hagyományos dél-hondurasi (chorotega) kultúra találkozik a spanyol tradíciókkal. Látványosság K7 — déli gyarmati építészet.",
       ro: "",
       en: ""
     },
@@ -488,7 +488,7 @@ export const poiExtraHondurasLandmarksV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Besitzt einen der besterhaltenen kolonialen Altaraufsätze der Region", "Ist bekannt für ihre exzellente Erhaltung trotz des extremen Klimas", "Zentraler Punkt für die Feierlichkeiten zur Unbefleckten Empfängnis im Dezember", "Wurde im 18. Jahrhundert durch lokale Handwerker erweitert"],
-      hu: [],
+      hu: ["Choluteca, Dél-Honduras legnagyobb városának központi katedrálisa.", "A 17. század közepén (kb. 1640) épült spanyol gyarmati stílusban.", "Fehérre meszelt, robusztus homlokzattal és két harangtoronnyal rendelkezik.", "A Szeplőtelen Fogantatásnak (Inmaculada Concepción) van szentelve.", "Belső terét egy gyönyörű, mahagóniból faragott oltár díszíti.", "Decemberben a régió legnagyobb vallási fesztiváljának helyszíne.", "A város történelmi, macskaköves óvárosának (Casco Histórico) szíve."],
       ro: [],
       en: []
     }, image: "/poi-images/catedral-inmaculada-concepcion-choluteca-landmarks-v2.webp"},
@@ -511,7 +511,7 @@ export const poiExtraHondurasLandmarksV2: POI[] = [
     },
     descriptionAdvanced: {
       de: "Die Festung Santa Bárbara in Trujillo ist ein stummer Zeuge der turbulenten Kolonialgeschichte und der Kämpfe gegen Piraten in der Karibik. Auf einem Hügel mit strategischem Blick über die Bucht von Trujillo gelegen, schützte sie einst die wertvollen spanischen Galeonen. Ihre Steinmauern und alten Kanonen erzählen Geschichten von Eroberungen, Belagerungen und dem berüchtigten Abenteurer William Walker, der hier hingerichtet wurde. Heute ist sie ein faszinierendes Freilichtmuseum, das Besuchern nicht nur historische Einblicke, sondern auch einen atemberaubenden Panoramablick auf das türkisfarbene Meer bietet.",
-      hu: "",
+      hu: "A Santa Bárbara Erőd (Fuerte de Santa Bárbara) Trujillo karibi kikötővárosában található, és az egyik legrégebbi spanyol katonai létesítmény Közép-Amerikában. Az építkezést a 16. század közepén (1550 körül) kezdték meg a Trujillo-öböl fölé magasodó dombon, hogy megvédjék a spanyol gyarmatot a Karib-tengeren portyázó angol, francia és holland kalózok – köztük a hírhedt Henry Morgan – ismétlődő támadásaitól. Bár az évszázadok során többször megrongálódott és kalózok is elfoglalták, masszív kőfalai és egykori ágyúi ma is lenyűgöző látványt nyújtanak. Az erődhöz kötődik egy másik történelmi esemény is: 1860-ban itt végezték ki William Walkert, az amerikai 'filibustert' (kalandort), aki megpróbálta fegyverrel meghódítani Közép-Amerikát. Ma az erőd a hondurasi történelem egyik legnépszerűbb tengerparti műemléke. Látványosság K8 — kalózok és erődök.",
       ro: "",
       en: ""
     },
@@ -523,7 +523,7 @@ export const poiExtraHondurasLandmarksV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Beherbergt ein kleines Museum mit kolonialen Artefakten", "Wurde mehrfach von Piraten wie Henry Morgan angegriffen", "Die Kanonen sind noch immer auf das Meer gerichtet", "Gilt als einer der historisch wichtigsten Orte an der Nordküste"],
-      hu: [],
+      hu: ["Közép-Amerika egyik legrégebbi spanyol erődítménye (kb. 1550-es alapítás).", "Trujillo városában, a Karib-tenger és az öböl feletti dombon helyezkedik el.", "Célja a város védelme volt a kalózok (pl. Henry Morgan) támadásai ellen.", "Történelme során a kalózok többször sikeresen kifosztották és felégették.", "Fennmaradt kőfalai között ma is láthatók az eredeti spanyol ágyúk.", "1860-ban itt végezték ki William Walker amerikai kalandort.", "1990-ben a hondurasi kormány hivatalosan Nemzeti Műemlékké nyilvánította."],
       ro: [],
       en: []
     }, image: "/poi-images/fuerte-santa-barbara-trujillo-landmarks-v2.webp"},
@@ -546,7 +546,7 @@ export const poiExtraHondurasLandmarksV2: POI[] = [
     },
     descriptionAdvanced: {
       de: "Das Estadio Francisco Morazán ist eine legendäre Sportstätte in San Pedro Sula und bekannt für seine intime, fast 'englische' Atmosphäre, da die Tribünen sehr nah am Spielfeld liegen. Es ist tief in der lokalen Fußballkultur verwurzelt und war Schauplatz unzähliger packender Derbys zwischen den lokalen Giganten Real España und Marathón. Die Fans schätzen die zentrale Lage in der Stadt, die es zu einem leicht zugänglichen Treffpunkt für Sportbegeisterte macht. Trotz modernerer Arenen bleibt das 'Morazán' aufgrund seiner Tradition und der intensiven Stimmung ein absoluter Favorit unter den honduranischen Fußballliebhabern.",
-      hu: "",
+      hu: "Az Estadio Francisco Morazán San Pedro Sula egyik legfontosabb és legrégebbi sportlétesítménye. Az 1938-ban épült, és a hondurasi nemzeti hősről, Francisco Morazánról elnevezett stadion körülbelül 18 000 néző befogadására alkalmas. Bár méretében elmarad az újabb Estadio Olímpico Metropolitanótól, a Morazán a város futballtörténelmének szíve: otthont ad a Real España és alkalmanként a Marathón helyi rivális csapatoknak. Angol stílusú építészete (nincs futópálya, a lelátók közvetlenül a pálya mellett vannak) rendkívül intenzív, szoros atmoszférát teremt a mérkőzéseken, ami miatt a helyi szurkolók különösen kedvelik. A stadion a városközpontban fekszik, és a futball mellett gyakran ad otthont nagy koncerteknek (például Vicente Fernández vagy a Los Tigres del Norte) és társadalmi eseményeknek. Látványosság K7 — városi sport.",
       ro: "",
       en: ""
     },
@@ -558,7 +558,7 @@ export const poiExtraHondurasLandmarksV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Bietet Platz für ca. 18.000 Zuschauer", "Wurde nach dem zentralamerikanischen Nationalhelden Francisco Morazán benannt", "Ist berühmt für die grüne 'Wand' seiner treuesten Fans", "Dient auch als Veranstaltungsort für lokale Messen und religiöse Events"],
-      hu: [],
+      hu: ["San Pedro Sula történelmi, városközponti stadionja.", "1938-ban alapították, befogadóképessége nagyjából 18 000 fő.", "Angol stílusú elrendezése van, a lelátók rendkívül közel vannak a pályához.", "A helyi Real España labdarúgócsapat hagyományos otthona.", "Nevét a közép-amerikai nemzeti hősről, Francisco Morazánról kapta.", "Intim és tüzes atmoszférája miatt a szurkolók egyik kedvence.", "Számos nemzetközi zenei koncert és fesztivál helyszíneként is szolgál."],
       ro: [],
       en: []
     }, image: "/poi-images/estadio-francisco-morazan-landmarks-v2.webp"},
@@ -581,7 +581,7 @@ export const poiExtraHondurasLandmarksV2: POI[] = [
     },
     descriptionAdvanced: {
       de: "Die Kathedrale von La Ceiba ist ein markantes religiöses Zentrum in der 'Braut von Honduras' und dem Heiligen Isidor gewidmet. Der moderne Bau besticht durch seine elegante Fassade und bildet den Mittelpunkt des religiösen Lebens während des berühmten Karnevals von La Ceiba im Mai. Im Inneren finden Besucher eine kühle und andächtige Umgebung mit kunstvollen Buntglasfenstern, die biblische Szenen darstellen. Die Kathedrale liegt direkt am Zentralpark und ist ein unverzichtbarer Anlaufpunkt für Einheimische und Touristen, die die spirituelle Seite dieser lebhaften Küstenstadt kennenlernen möchten.",
-      hu: "",
+      hu: "A Szent Izidor Katedrális (Catedral de San Isidro Labrador) La Ceiba lüktető karibi városának legfontosabb katolikus központja. Az épület a város szívében, a Parque Central szomszédságában található. A jelenlegi, klasszikus spanyol elemekkel díszített, világos színekre festett templomépület a 20. század közepén nyerte el mai formáját, miután az eredeti, fából készült kápolna már nem tudta kiszolgálni a banánipar fellendülése miatt rohamosan növekvő lakosságot. A katedrális igazi kulturális jelentősége májusban, a város védőszentjének, San Isidro Labradornak (Földműves Szent Izidor) ünnepén mutatkozik meg: ekkor a templom körüli utcák adnak otthont a Gran Carnaval Internacional de La Ceiba-nak, Közép-Amerika legnagyobb és legszínesebb karneváljának, amely több százezer látogatót vonz a zenés, táncos felvonulásokra. Látványosság K7 — karibi vallás és karnevál.",
       ro: "",
       en: ""
     },
@@ -593,7 +593,7 @@ export const poiExtraHondurasLandmarksV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Spielt eine zentrale Rolle beim großen Umzug der Feria Isidra", "Wurde mehrfach erweitert, um der wachsenden Bevölkerung gerecht zu werden", "Besitzt eine beeindruckende Statue des Schutzpatrons San Isidro", "Ist ein wichtiger Orientierungspunkt für Besucher der Innenstadt"],
-      hu: [],
+      hu: ["La Ceiba városának főtemploma, a Parque Central mellett áll.", "Földműves Szent Izidornak (San Isidro Labrador), a város védőszentjének szentelték.", "A jelenlegi kőépület a 20. században épült, felváltva egy korábbi fakápolnát.", "Világos, egyszerű, mégis elegáns karibi-spanyol építészeti stílus jellemzi.", "Májusban a templom ünnepe nyitja meg a híres La Ceiba-i Karnevált.", "A karnevál idején a templom környéke a zenei és táncos események központja.", "A helyi katolikus közösség és a garifuna hívők fontos találkozóhelye."],
       ro: [],
       en: []
     }, image: "/poi-images/catedral-de-la-ceiba-landmarks-v2.webp"},
@@ -616,7 +616,7 @@ export const poiExtraHondurasLandmarksV2: POI[] = [
     },
     descriptionAdvanced: {
       de: "Der Pier von Tela ist ein nostalgisches Wahrzeichen, das weit in das azurblaue Wasser der Karibik ragt und an die goldene Ära der Bananenindustrie erinnert. Einst legten hier riesige Dampfer der United Fruit Company an, um die 'grünen Goldstücke' in alle Welt zu verschiffen. Heute dient er Einheimischen als beliebter Ort zum Angeln und Touristen als malerischer Fotospot für Sonnenuntergänge. Der alte Holzpier atmet Geschichte und ist ein stiller Zeuge der wirtschaftlichen Transformation einer Stadt, die heute vor allem für ihre traumhaften Strände und ihre entspannte Atmosphäre bekannt ist.",
-      hu: "",
+      hu: "A Telai Régi Móló (Muelle Viejo de Tela) Atlántida megye egyik leghíresebb fotópontja és történelmi mementója a Karib-tenger partján. Ezt az egykor gigantikus, masszív favázas kikötői dokkot a 20. század elején építette a Tela Railroad Company (később United Fruit Company), és évtizedekig a hondurasi banánexport legfőbb csomópontja volt. Itt rakták a vagonokból a hajókra a zöld aranyként emlegetett gyümölcsöt. Mára a móló tengerbe nyúló része nagyrészt elpusztult a hurrikánok (különösen a Mitch hurrikán) és az időjárás viszontagságai miatt, a megmaradt romos fa- és betonoszlopok azonban ikonikus, nosztalgikus látványt nyújtanak a fehér homokos parton. A helyszín ma a naplementét csodáló turisták, a helyi fiatalok és a kézműves halászok kedvelt gyülekezőhelye. Látványosság K8 — banánipari műemlékek.",
       ro: "",
       en: ""
     },
@@ -628,7 +628,7 @@ export const poiExtraHondurasLandmarksV2: POI[] = [
     },
     factsAdvanced: {
       de: ["War einst einer der längsten Güterpiere Mittelamerikas", "Wurde nach Sturmschäden mehrfach historisch getreu restauriert", "Bietet einen exzellenten Blick auf die Bucht von Tela", "Wichtiger Treffpunkt für die lokale Fischergemeinschaft"],
-      hu: [],
+      hu: ["Tela városának tengerpartján található, történelmi jelentőségű móló.", "A 20. század elején a Tela Railroad Company (United Fruit) építette.", "Évtizedeken át a hondurasi banánexport legfontosabb tengeri kapuja volt.", "Mára nagyrészt elpusztult az erózió és a karibi hurrikánok (pl. Mitch) miatt.", "A tengerből kiálló régi fa- és betonoszlopok ikonikus fotótémát nyújtanak.", "Nem lát el ipari funkciót, a turisták és helyi halászok kedvelt találkozóhelye.", "A hondurasi 'Banánköztársaság' korszak romantikus és szomorú mementója."],
       ro: [],
       en: []
     }, image: "/poi-images/muelle-de-tela-landmarks-v2.webp"},
@@ -651,7 +651,7 @@ export const poiExtraHondurasLandmarksV2: POI[] = [
     },
     descriptionAdvanced: {
       de: "Der Zentralpark von Gracias ist das malerische Wohnzimmer dieser geschichtsträchtigen Kolonialstadt im Westen von Honduras. Mit seinen schattigen Bäumen, den klassischen Brunnen und den umliegenden Gebäuden aus der spanischen Ära versprüht er einen unvergleichlichen Charme. Hier können Besucher das gemächliche Tempo des ländlichen Lebens beobachten, während sie den Blick auf die nahegelegenen Berge von Celaque genießen. Der Park ist nicht nur ein Ort der Erholung, sondern auch der Ausgangspunkt für die Erkundung der zahlreichen kolonialen Schätze, die Gracias zu einem der attraktivsten Ziele für Kulturreisende machen.",
-      hu: "",
+      hu: "A Parque Central de Gracias (Központi Park) a gyönyörű hegyvidéki gyarmati város, Gracias szívében helyezkedik el, Lempira megyében. A négyzet alakú teret gondozott kertek, hatalmas, árnyékot adó fák (köztük évszázados ceibák) és egy elegáns központi pavilon díszíti. A parkot minden irányból a 16. és 17. században épült spanyol gyarmati építészet remekei szegélyezik, beleértve a San Marcos templomot és az egykori spanyol Királyi Törvényszék (Audiencia de los Confines) épületét. A téren található egy emlékmű, amelyet Lempira kacikának, a spanyolok ellen küzdő hősies őslakos vezérnek állítottak. A Parque Central nemcsak a turisták, hanem a helyiek számára is a mindennapi élet, a pihenés és a társadalmi események (például a Lempira-napi ünnepségek) legfőbb színtere. Látványosság K7 — gyarmati terek.",
       ro: "",
       en: ""
     },
@@ -663,7 +663,7 @@ export const poiExtraHondurasLandmarksV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Beherbergt oft traditionelle Musikaufführungen am Wochenende", "Direkt gegenüber befindet sich das historische Gebäude der Audiencia de los Confines", "Ein idealer Ort, um die lokale Spezialität 'Atol de Elote' zu probieren", "Wurde sorgfältig restauriert, um seinen kolonialen Charakter zu bewahren"],
-      hu: [],
+      hu: ["Gracias történelmi városának földrajzi és kulturális középpontja.", "Hatalmas ősfák és gondozott trópusi növényzet árnyékolja.", "A teret épségben maradt 16-17. századi gyarmati kőépületek veszik körül.", "Közvetlen szomszédságában áll a San Marcos templom és a városháza.", "Egy szobor állít emléket Lempirának, a lenca őslakosok nemzeti hősének.", "A 16. században (amikor Gracias főváros volt) Közép-Amerika politikai centruma volt.", "A városi fesztiválok, kézműves vásárok és a mindennapi társasélet központja."],
       ro: [],
       en: []
     }, image: "/poi-images/parque-central-gracias-landmarks-v2.webp"},
@@ -686,7 +686,7 @@ export const poiExtraHondurasLandmarksV2: POI[] = [
     },
     descriptionAdvanced: {
       de: "Die Kirche San Francisco in Comayagua ist ein Juwel der frühen Kolonialzeit und bekannt für ihren schlichten, aber imposanten Renaissancestil. Sie wurde im 16. Jahrhundert von den Franziskanern gegründet und beherbergt eine der faszinierendsten Reliquien des Kontinents: eine Kirchenglocke aus dem Jahr 1460, die ursprünglich aus Spanien stammt. Die dicken Lehmmauern und die schlichte Fassade atmen die Geschichte der ersten Siedler und Missionare in Honduras. In ihrem Schatten scheint die Zeit stillzustehen, was sie zu einem der andächtigsten und historisch wertvollsten Orte in der ehemaligen Hauptstadt macht.",
-      hu: "",
+      hu: "Az Iglesia de San Francisco Comayagua városában Közép-Amerika egyik legelsőként épült katolikus temploma, amelynek történelme 1560-ig nyúlik vissza. A ferences rend által alapított épület a korai gyarmati építészet klasszikus példája: vastag vályogfalakkal, egyszerű, puritán fa mennyezettel és egy aszimmetrikusan elhelyezett, zömök harangtoronnyal rendelkezik. A templom igazi nevezetessége az „Antonina” nevű harang, amelyet 1350-ben öntöttek az ibériai-félszigeten (Alcalá de Henares), és amelyet a spanyol hódítók hoztak magukkal; ez Amerika egyik legősibb, ma is létező harangja. A templom belső terében spanyol mesterek által készített, aranyfüsttel bevont gyönyörű barokk retablók (oltárképek) láthatók. A templom a comayaguai vallási turizmus kihagyhatatlan állomása. Látványosság K8 — korai templomok és harangok.",
       ro: "",
       en: ""
     },
@@ -698,7 +698,7 @@ export const poiExtraHondurasLandmarksV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Die Glocke wurde vermutlich von den Mauren in Spanien erbeutet", "Beherbergt wunderschöne Altäre aus handgeschnitztem Zedernholz", "War das erste Kloster in Zentralhonduras", "Gilt als ein Muss für Geschichtsliebhaber in Comayagua"],
-      hu: [],
+      hu: ["1560-ban alapították, Közép-Amerika egyik legrégebbi katolikus temploma.", "A ferences rend szerzetesei építették Comayagua óvárosában.", "Vastag vályogfalai és puritán kialakítása a korai gyarmati időket idézik.", "Itt található az 'Antonina' (1350), az amerikai kontinens egyik legrégebbi harangja.", "Belső terét eredeti spanyol gyarmati barokk faoltárok díszítik.", "Aszimmetrikus, robusztus harangtornya egyedi építészeti megoldás.", "A comayaguai 'nagyhéten' (Semana Santa) tartott körmenetek fontos állomása."],
       ro: [],
       en: []
     }, image: "/poi-images/iglesia-de-san-francisco-comayagua-landmarks-v2.webp"},
@@ -721,7 +721,7 @@ export const poiExtraHondurasLandmarksV2: POI[] = [
     },
     descriptionAdvanced: {
       de: "Das Archäologische Museum von Comayagua ist in einem prachtvollen Kolonialhaus untergebracht und bietet einen tiefen Einblick in die Jahrtausende alte Geschichte der Region. Die Ausstellungen reichen von prähispanischen Keramiken der Lenca-Kultur bis hin zu Artefakten aus der spanischen Eroberung und der Unabhängigkeitszeit. Besonders beeindruckend sind die gut erhaltenen Jadeobjekte und Steinmonumente, die die hohe Kunstfertigkeit der frühen Bewohner des Tals belegen. Das Museum ist ein wichtiges Zentrum für Forschung und Bewahrung und ein idealer Ausgangspunkt für jeden, der die Wurzeln der honduranischen Identität besser verstehen möchte.",
-      hu: "",
+      hu: "A Comayaguai Régészeti és Történeti Múzeum (Museo Arqueológico de Comayagua) Honduras egyik legfontosabb kulturális intézménye, amely a város történelmi központjában, egy gyönyörűen felújított 16. századi spanyol gyarmati kúriában található. Az épület egykor a spanyol adminisztráció (Casa Presidencial) központjaként is szolgált, amikor Comayagua volt az ország fővárosa. A múzeum gyűjteménye átfogóan bemutatja a Comayagua-völgy történetét: a földszinten a prekolumbián (lenca) őslakos kultúrák páratlan kerámia- és kőfaragvány-leletei (polikróm edények) láthatók, míg az emeleti termek a spanyol hódítás, a gyarmati kor és a függetlenség relikviáit, köztük fegyvereket, vallási tárgyakat és történelmi dokumentumokat mutatnak be. A múzeum elengedhetetlen a hondurasi történelmi folytonosság megértéséhez. Látványosság K8 — régészet és történelem.",
       ro: "",
       en: ""
     },
@@ -733,7 +733,7 @@ export const poiExtraHondurasLandmarksV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Beherbergt seltene polychrome Keramik der Lenca", "Das Gebäude selbst ist ein geschütztes historisches Denkmal", "Bietet geführte Touren für Schulgruppen und Touristen an", "Dokumentiert die Rolle Comayaguas als erste Hauptstadt von Honduras"],
-      hu: [],
+      hu: ["Comayagua történelmi óvárosában, egy felújított 16. századi épületben található.", "Az épület egykor elnöki palotaként (Casa Presidencial) funkcionált.", "Honduras egyik leggazdagabb prekolumbián lenca kerámiagyűjteményét őrzi.", "Bemutatja a Comayagua-völgy történelmét az őskortól a köztársaságig.", "A gyarmati kori szekcióban spanyol fegyverek és egyházi relikviák is helyet kaptak.", "Az épület belső udvara a hagyományos andalúz építészet stílusjegyeit viseli.", "A város kulturális és oktatási turizmusának legfőbb központja."],
       ro: [],
       en: []
     }, image: "/poi-images/museo-de-comayagua-landmarks-v2.webp"},
@@ -756,7 +756,7 @@ export const poiExtraHondurasLandmarksV2: POI[] = [
     },
     descriptionAdvanced: {
       de: "Das Denkmal des Friedens thront majestätisch auf dem Gipfel des Juana-Lainez-Hügels und ist von fast überall in Tegucigalpa aus sichtbar. Der markante weiße Turm wurde errichtet, um den Wunsch nach Harmonie und nationaler Einheit zu symbolisieren. Der umliegende Park wurde in den letzten Jahren aufwendig renoviert und bietet heute moderne Wanderwege, Sportmöglichkeiten und die wohl besten Aussichtspunkte auf die Skyline der Hauptstadt. Es ist ein beliebter Ort für Familien und Paare, die hier die kühle Brise und den spektakulären Sonnenuntergang über den umliegenden Bergen genießen möchten.",
-      hu: "",
+      hu: "A Monumento a la Paz (A Béke Emlékműve) Tegucigalpa egyik legikonikusabb és leglátványosabb szimbóluma, amely a Cerro Juana Laínez domb tetején magasodik, ahonnan 360 fokos, lélegzetelállító panoráma nyílik az egész fővárosra. A monumentális, hengeres formájú építményt 1948-ban emelték Tiburcio Carías Andino elnök uralma alatt, a második világháború befejezésének és a nemzetek közötti békének a tiszteletére. Az emlékmű építészete a maja kultúra motívumait ötvözi a modernista art deco stílussal. Különleges jellemzője, hogy a torony lábánál rendszeresen megkongatnak egy hatalmas japán békeharangot. A környező ökológiai park gondozott kertjeivel, sétányaival és biztonságos környezetével a tegucigalpai családok legnépszerűbb hétvégi kirándulóhelye. Látványosság K7 — panoráma és emlékművek.",
       ro: "",
       en: ""
     },
@@ -768,7 +768,7 @@ export const poiExtraHondurasLandmarksV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Bietet einen 360-Grad-Blick über das gesamte Tal von Tegucigalpa", "Ist Teil eines ökologischen Schutzgebietes mitten in der Stadt", "Das Denkmal wird nachts hell beleuchtet", "Ein wichtiger Ort für nationale Feierlichkeiten und Gedenktage"],
-      hu: [],
+      hu: ["A Cerro Juana Laínez domb tetején magasodik Tegucigalpában.", "1948-ban épült a második világháború utáni világbéke tiszteletére.", "Tiburcio Carías Andino diktátor idején emelték.", "Az art deco és a prehispán (maja) építészeti motívumokat ötvözi.", "Tetejéről páratlan, 360 fokos panoráma nyílik a fővárosra.", "Az emlékmű mellett található egy hatalmas japán békeharang.", "A dombot körülölelő ökológiai park a helyiek kedvelt rekreációs zónája."],
       ro: [],
       en: []
     }, image: "/poi-images/monumento-a-la-paz-tegucigalpa-landmarks-v2.webp"},
@@ -791,7 +791,7 @@ export const poiExtraHondurasLandmarksV2: POI[] = [
     },
     descriptionAdvanced: {
       de: "Die Kirche von Santa Lucía ist das Schmuckstück eines der malerischsten 'Pueblos Encantados' von Honduras. Das im 16. Jahrhundert gegründete Bauwerk beherbergt den 'Schwarzen Christus', ein Geschenk des spanischen Königs Philipp II., der von den Einheimischen tief verehrt wird. Die Kirche liegt auf einer Anhöhe und bietet von ihrem Vorplatz aus einen atemberaubenden Blick über die kopfsteingepflasterten Gassen des Dorfes bis hin zur Hauptstadt im Tal. Mit ihren weiß getünchten Mauern und der friedlichen Ausstrahlung ist sie ein perfektes Beispiel für die koloniale Sakralarchitektur in den Bergen von Francisco Morazán.",
-      hu: "",
+      hu: "A Santa Lucía templom (Iglesia de Santa Lucía) a Tegucigalpa közelében fekvő azonos nevű, festői hegyvidéki bányászfalu ékköve Francisco Morazán megyében. A 17. században épült kisméretű, hófehér gyarmati kápolna a falu legmagasabb pontján áll, ahonnan varázslatos kilátás nyílik a fenyőerdőkre és a völgyben elterülő fővárosra. A templom legnagyobb kincse egy Krisztus-szobor (El Cristo de las Mercedes), amelyet a hagyomány szerint maga IV. Fülöp spanyol király adományozott a településnek 1572-ben, hálából a helyi ezüstbányák bőséges hozamáért. Az épület egyszerű, faragott fa tetőszerkezettel (artesonado) és macskaköves előtérrel rendelkezik. A hűvös, gyakran ködös klíma és az érintetlen gyarmati környezet miatt Santa Lucía és temploma az egyik legromantikusabb belföldi turisztikai célpont. Látványosság K7 — hegyi kápolnák.",
       ro: "",
       en: ""
     },
@@ -803,7 +803,7 @@ export const poiExtraHondurasLandmarksV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Beherbergt den verehrten 'Señor de las Mercedes'", "Die Kanzel und die Altäre sind reich mit Gold überzogen", "Wurde auf den Ruinen einer indigenen Kultstätte errichtet", "Zentraler Punkt für die traditionellen Patronatsfeste im Dezember"],
-      hu: [],
+      hu: ["A festői Santa Lucía bányászfaluban, Tegucigalpától 15 km-re található.", "A 17. században épült spanyol gyarmati stílusban, hegyvidéki környezetben.", "A falu legmagasabb pontján áll, panorámát nyújtva a völgyre és a fenyvesekre.", "Legnagyobb kincse az 1572-es 'El Cristo de las Mercedes' faszobor.", "A szobrot a legenda szerint IV. Fülöp spanyol király adományozta az ezüstért cserébe.", "Egyszerű fehér homlokzata és faragott fa tetőszerkezete (artesonado) van.", "A falu a fővárosiak egyik legnépszerűbb és leghangulatosabb hétvégi menedéke."],
       ro: [],
       en: []
     }, image: "/poi-images/iglesia-santa-lucia-landmarks-v2.webp"},
@@ -826,7 +826,7 @@ export const poiExtraHondurasLandmarksV2: POI[] = [
     },
     descriptionAdvanced: {
       de: "Die Nationale Kunstgalerie befindet sich in dem beeindruckenden ehemaligen Kloster La Merced und ist die wichtigste Institution für die Bewahrung und Präsentation des künstlerischen Erbes von Honduras. Die Sammlung führt die Besucher durch Jahrhunderte kreativen Schaffens, von den Steinplastiken der Maya über sakrale Kolonialkunst bis hin zu den mutigen Werken moderner honduranischer Meister. Das historische Gebäude mit seinem kühlen Innenhof bietet eine würdevolle Kulisse für die Meisterwerke. Die Galerie ist nicht nur ein Ort der Betrachtung, sondern auch ein Zentrum für die Kunsterziehung und ein Symbol für die kulturelle Kontinuität des Landes.",
-      hu: "",
+      hu: "A Hondurasi Nemzeti Művészeti Galéria (Galería Nacional de Arte - GNA) az ország legfontosabb képzőművészeti múzeuma. Érdekesség, hogy az intézmény eredetileg Tegucigalpa egyik lenyűgöző gyarmati épületében, a Paraninfóban működött, de később székhelyét Comayagua városába helyezte át egy gyönyörűen felújított történelmi épületbe, majd egy másik része visszatért a fővárosba (két helyszínes működés). A galéria gyűjteménye páratlan utazást kínál Honduras vizuális művészetében: a prehispán sziklarajzoktól és polikróm majakerámiáktól kezdve, a spanyol gyarmati idők ezüstművességén és vallási festményein át a 20. századi és kortárs hondurasi festők (mint Pablo Zelaya Sierra vagy José Antonio Velásquez) remekműveiig. A GNA nemcsak kiállítótér, hanem az oktatás és a kulturális identitás megőrzésének egyik legfőbb bástyája az országban. Látványosság K8 — nemzeti képzőművészet.",
       ro: "",
       en: ""
     },
@@ -838,7 +838,7 @@ export const poiExtraHondurasLandmarksV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Das Gebäude stammt aus der Mitte des 17. Jahrhunderts", "Beherbergt Originalwerke von José Antonio Velásquez, dem berühmtesten naiven Maler des Landes", "Regelmäßiger Austragungsort für kulturelle Foren und Buchvorstellungen", "Verfügt über eine Fachbibliothek für Kunstgeschichte"],
-      hu: [],
+      hu: ["Honduras legfontosabb és legátfogóbb képzőművészeti intézménye.", "Gyűjteménye a prekolumbián korszaktól a kortárs művészetekig terjed.", "Eredetileg Tegucigalpában (Paraninfo) alapították, jelenleg Comayaguában is működik.", "Kiemelt gyűjteménye van a spanyol gyarmati ezüstművességből és egyházi festményekből.", "Bemutatja a 20. századi hondurasi modernista festők (pl. Zelaya Sierra) munkáit.", "A múzeum otthonául szolgáló épületek maguk is kiemelt történelmi műemlékek.", "Rendszeresen szervez kulturális edukációs programokat iskolásoknak."],
       ro: [],
       en: []
     }, image: "/poi-images/galeria-nacional-de-arte-landmarks-v2.webp"},
@@ -861,7 +861,7 @@ export const poiExtraHondurasLandmarksV2: POI[] = [
     },
     descriptionAdvanced: {
       de: "Das Militärhistorische Museum ist in der historischen San-Francisco-Kaserne untergebracht, einem der ältesten Steingebäude von Tegucigalpa. Es dokumentiert die Entwicklung der honduranischen Streitkräfte von den Unabhängigkeitskriegen bis zur Gegenwart. Besucher können eine beeindruckende Sammlung von Waffen, Uniformen, Orden und historischen Dokumenten bestaunen, die die oft turbulente Geschichte des Landes illustrieren. Besonders sehenswert ist der Innenhof mit seinen alten Mauern, der einen starken Kontrast zur modernen Stadt bildet. Das Museum bietet einen tiefen Einblick in die militärische Identität und die strategische Bedeutung von Honduras in der Region.",
-      hu: "",
+      hu: "A Hondurasi Hadtörténeti Múzeum (Museo de Historia Militar) Tegucigalpa történelmi negyedének (Parque Valle mellett) egyik egyedülálló látványossága, amely az egykori San Francisco kolostor és kaszárnya hatalmas kőépületében kapott helyet. A múzeum bemutatja Honduras hadtörténetét a spanyol gyarmati időktől és a függetlenségi háborúktól kezdve, a 20. századi belső konfliktusokon és az 1969-es, El Salvador elleni 'Futballháborún' át egészen a modern békefenntartó missziókig. A gyűjteményben egyenruhák, korabeli lőfegyverek, tüzérségi eszközök, Francisco Morazán tábornok személyes tárgyai, valamint lenyűgöző történelmi fotóarchívum található. Az épület udvarán kiállított régi vadászrepülőgépek és katonai járművek különösen népszerűek. A múzeum a hondurasi hadsereg és a fegyveres erők nemzetépítő szerepét hivatott megörökíteni. Látványosság K7 — katonai örökség.",
       ro: "",
       en: ""
     },
@@ -873,7 +873,7 @@ export const poiExtraHondurasLandmarksV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Das Gebäude diente früher als Franziskanerkloster", "Beherbergt Flugzeuge und schwere Ausrüstung im Außenbereich", "Bietet detaillierte Informationen zum 'Fußballkrieg' von 1969", "Wichtigster Ort für die militärhistorische Forschung des Landes"],
-      hu: [],
+      hu: ["Tegucigalpában, a történelmi San Francisco egykori kaszárnyaépületében található.", "Honduras hadtörténetét mutatja be a gyarmati kortól napjainkig.", "Fontos relikviákat őriz Francisco Morazán tábornoktól, a nemzeti hőstől.", "Külön részleget szentelnek az 1969-es 'Futballháborúnak' (Guerra del Fútbol).", "A gyűjteményben antik fegyverek, egyenruhák és térképek szerepelnek.", "A belső udvaron történelmi vadászrepülőgépek és katonai járművek láthatók.", "Az épület maga is műemlék, masszív kőfalakkal és kolostori múlttal."],
       ro: [],
       en: []
     }, image: "/poi-images/museo-de-history-militar-honduras-landmarks-v2.webp"},
@@ -896,7 +896,7 @@ export const poiExtraHondurasLandmarksV2: POI[] = [
     },
     descriptionAdvanced: {
       de: "Der Parque La Leona ist einer der traditionsreichsten und charmantesten Orte in der Oberstadt von Tegucigalpa. Inmitten eines Viertels mit engen Gassen und kolonialen Häusern bietet der Park Ruhe und einen unvergleichlichen Ausblick auf das Stadtzentrum und die umliegenden Berge. Er ist bekannt für seine schattigen Terrassen, die oft von Künstlern und Studenten aufgesucht werden, um Inspiration zu finden. Mit seinen alten Bäumen und den klassischen Parkbänken ist er ein Stück lebendige Stadtgeschichte und bietet eine willkommene Abkühlung über dem geschäftigen Treiben der tiefer liegenden Stadtteile.",
-      hu: "",
+      hu: "A Parque La Leona Tegucigalpa egyik legromantikusabb, legrégebbi és legszebb kilátást nyújtó közparkja, amely a város történelmi magja felett, a La Leona nevű meredek domboldalon fekszik. A 19. század végén (a Marco Aurelio Soto-korszakban) kialakított parkot buja trópusi kertek, árnyékot adó fák, kanyargós kőösvények és klasszikus stílusú padok díszítik. A nevét ('A Nőstényoroszlán') a legendák szerint azokról a vadmacskákról kapta, amelyek egykor ezen a hegyoldalon kóboroltak. A park közepén egy szobor áll Francisco Morazán tiszteletére, de a legfőbb vonzerő a kőből épült kilátóterasz (mirador), ahonnan zavartalan, festői panoráma nyílik Tegucigalpa óvárosára, a katedrális kupoláira és a távoli hegyekre. Különösen népszerű találkozóhely a szerelmespárok és a fotósok körében naplemente idején. Látványosság K7 — városi panoráma.",
       ro: "",
       en: ""
     },
@@ -908,7 +908,7 @@ export const poiExtraHondurasLandmarksV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Das Viertel La Leona war früher das exklusivste Wohngebiet der Stadt", "Der Park wurde im frühen 20. Jahrhundert angelegt", "Bekannt für seine exzellenten Fotomöglichkeiten beim Sonnenuntergang", "Ein beliebter Ort für kleine kulturelle Darbietungen im Freien"],
-      hu: [],
+      hu: ["Tegucigalpa egyik legrégebbi, a 19. század végén alapított közparkja.", "A La Leona nevű meredek domboldalon, a történelmi városközpont felett terül el.", "Nevét a legenda szerint az egykor itt vadászó pumákról/vadmacskákról kapta.", "Kilátóteraszáról lenyűgöző panoráma nyílik a főváros óvárosára.", "Buja növényzet, kőösvények és klasszikus vaspadok biztosítják a romantikus atmoszférát.", "A park közepén Francisco Morazán nemzeti hős szobra található.", "A helyi fiatalok, művészek és fotósok egyik legkedveltebb találkozóhelye."],
       ro: [],
       en: []
     }, image: "/poi-images/parque-la-leona-tegucigalpa-landmarks-v2.webp"},
@@ -931,7 +931,7 @@ export const poiExtraHondurasLandmarksV2: POI[] = [
     },
     descriptionAdvanced: {
       de: "Die Mallol-Brücke ist ein unverzichtbares bauliches Erbe von Tegucigalpa und eine der wenigen Steinbrücken aus der Kolonialzeit, die bis heute erhalten geblieben sind. Erbaut zu Beginn des 19. Jahrhunderts unter der Leitung des Bürgermeisters Narciso Mallol, überstand sie zahlreiche Hochwasser des Choluteca-Flusses, darunter auch die Zerstörungskraft des Hurrikans Mitch. Ihre sieben Steinbögen sind ein Meisterwerk der damaligen Ingenieurskunst und verbinden das administrative Zentrum der Hauptstadt mit dem geschäftigen Stadtteil Comayagüela. Sie ist nicht nur ein Verkehrsweg, sondern ein Symbol für die Beständigkeit der Stadt über zwei Jahrhunderte hinweg.",
-      hu: "",
+      hu: "A Puente Mallol Tegucigalpa legrégebbi és legikonikusabb hídja, amely a Choluteca-folyót átívelve köti össze a történelmi fővárost, Tegucigalpát a szomszédos, egykori ikervárossal, Comayagüelával. Építését még a spanyol gyarmati időszak legvégén, 1817-ben kezdték meg Narciso Mallol utolsó spanyol polgármester megbízásából, és 1821-ben fejezték be, éppen a közép-amerikai függetlenség hajnalán. A hét masszív, tömör kőből rakott ívből álló építmény a korabeli spanyol mérnöki tudás remekműve. Több mint két évszázada dacol a természettel: túlélte az ország történetének összes nagy árvizét és hurrikánját, köztük a pusztító 1998-as Mitch hurrikánt is, miközben körülötte a modern betonhidak összeomlottak. Ma is aktív forgalmat bonyolít, a fővárosi ellenállóképesség szimbóluma. Látványosság K8 — történelmi hidak.",
       ro: "",
       en: ""
     },
@@ -943,7 +943,7 @@ export const poiExtraHondurasLandmarksV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Wurde vollständig aus behauenen Steinquadern errichtet", "Ist ein nationales Denkmal von hohem historischem Wert", "Hielt dem extremen Hochwasser von 1998 stand, während modernere Brücken einstürzten", "Ein beliebtes Motiv für historische Postkarten der Stadt"],
-      hu: [],
+      hu: ["Tegucigalpa legrégebbi hídja, 1817 és 1821 között épült.", "A Choluteca-folyó felett köti össze Tegucigalpát és Comayagüelát.", "Építését Narciso Mallol, a város utolsó spanyol polgármestere rendelte el.", "Hét masszív, kőből rakott ívből álló gyarmati mérnöki mestermű.", "Túlélte az elmúlt 200 év összes nagy áradását, beleértve a Mitch hurrikánt (1998).", "A gyarmati és a modern független Honduras közötti fizikai kapocs.", "Ma is aktívan használják mind gyalogos, mind járműforgalomra."],
       ro: [],
       en: []
     }, image: "/poi-images/puente-mallol-tegucigalpa-landmarks-v2.webp"},
@@ -966,7 +966,7 @@ export const poiExtraHondurasLandmarksV2: POI[] = [
     },
     descriptionAdvanced: {
       de: "Die Nationale Autonome Universität von Honduras (UNAH) ist das intellektuelle Kraftzentrum des Landes und der wichtigste Ort für höhere Bildung und Forschung. Der weitläufige Campus 'Ciudad Universitaria' in Tegucigalpa beherbergt Zehntausende Studenten in einer Vielzahl von Fakultäten, von Medizin bis hin zu Ingenieurwissenschaften. Die Universität genießt Autonomie und spielt eine entscheidende Rolle im gesellschaftlichen Diskurs von Honduras. Mit ihren modernen Bibliotheken, Sportanlagen und dem Astronomischen Observatorium ist sie ein Ort der Exzellenz und Hoffnung für die zukünftigen Generationen des Landes.",
-      hu: "",
+      hu: "A Hondurasi Nemzeti Autonóm Egyetem (Universidad Nacional Autónoma de Honduras - UNAH) a legnagyobb, legrégebbi és legjelentősebb felsőoktatási intézmény az országban. A Ciudad Universitaria (Egyetemi Város) nevű hatalmas, modern főcampusa Tegucigalpa keleti részén található. Az 1847-ben alapított egyetem központi szerepet játszott Honduras politikai, tudományos és kulturális fejlődésében. A kampuszon található épületek a 20. század második felének brutalista és modernista építészetét képviselik, kiegészítve hatalmas falfestményekkel, kertekkel és sportlétesítményekkel. Kiemelkedő látványossága a Palacio de los Deportes (Sportpalota) és a Csillagvizsgáló (Observatorio Astronómico). Az UNAH nemcsak a több tízezer hallgató miatt lüktető közösségi tér, hanem az intellektuális és politikai viták hagyományos hondurasi központja is. Látványosság K8 — felsőoktatás.",
       ro: "",
       en: ""
     },
@@ -978,7 +978,7 @@ export const poiExtraHondurasLandmarksV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Beherbergt das modernste Sportzentrum Mittelamerikas", "Verfügt über ein eigenes Planetarium und Observatorium", "Ist die einzige Universität im Land mit einem Kernforschungsreaktor zu Forschungszwecken", "Wichtigster Motor für die wissenschaftliche Entwicklung in Honduras"],
-      hu: [],
+      hu: ["Honduras legrégebbi és legnagyobb egyeteme, amelyet 1847-ben alapítottak.", "Főcampusa, a Ciudad Universitaria Tegucigalpa keleti részén található.", "A komplexum a brutalista és modernista betonépítészet példáit vonultatja fel.", "Az ország tudományos, politikai és társadalmi életének legfőbb intellektuális központja.", "Kiemelkedő létesítménye az egyetemi Csillagvizsgáló és a Palacio de los Deportes.", "A campust jelentős kortárs falfestmények (murales) díszítik.", "Több tízezer diákjával önálló, pezsgő városként működik a fővároson belül."],
       ro: [],
       en: []
     }, image: "/poi-images/universidad-nacional-autonoma-honduras-landmarks-v2.webp"},
@@ -1001,7 +1001,7 @@ export const poiExtraHondurasLandmarksV2: POI[] = [
     },
     descriptionAdvanced: {
       de: "Der Zentralpark von San Pedro Sula ist das pulsierende Herz der wirtschaftlichen Metropole von Honduras. Umgeben von der Kathedrale St. Peter, dem Rathaus und zahlreichen historischen Bankgebäuden, ist er der Ort, an dem das tägliche Leben der Sampedranos zusammenfließt. Mit seinem markanten zentralen Kiosk und den schattigen Gehwegen bietet er eine kurze Atempause in der sonst so geschäftigen Stadt. Er ist ein Schmelztiegel der Kulturen und Schauplatz für politische Debatten, religiöse Zusammenkünfte und den informellen Handel, der die Dynamik dieser Industriestadt widerspiegelt.",
-      hu: "",
+      hu: "A San Pedro Sula-i Parque Central a város legnyüzsgőbb, legdinamikusabb társadalmi és földrajzi központja. A hatalmas, trópusi fákkal árnyékolt tér éles ellentétben áll Honduras ipari fővárosának zajával és forgalmával. A parkot kelet felől a tekintélyes Szent Péter Apostol Katedrális, más oldalairól pedig a Városháza (Municipalidad) és forgalmas kereskedelmi utcák határolják. A tér közepén egy elegáns pavilon (kiosko) található, ahol gyakran tartanak zenei előadásokat. A Parque Central igazi kulturális olvasztótégely: itt találkoznak a cipőtisztítók, a helyi politizáló nyugdíjasok, az utcai árusok és a turisták. A zöld oázis egyben az országos méretű tüntetések, ünneplések és a karácsonyi kivilágítás hagyományos központja is az északi régióban. Látványosság K7 — modern városi terek.",
       ro: "",
       en: ""
     },
@@ -1013,7 +1013,7 @@ export const poiExtraHondurasLandmarksV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Der Kiosk im Zentrum ist ein beliebter Treffpunkt für Musiker", "In der Nähe befinden sich die wichtigsten Einkaufsstraßen der Stadt", "Wurde mehrfach modernisiert, um mehr Grünflächen zu schaffen", "Zentraler Ausgangspunkt für Stadttouren im Norden"],
-      hu: [],
+      hu: ["San Pedro Sula, az ipari főváros lüktető társadalmi központja.", "A parkot a Szent Péter Apostol Katedrális és a Városháza határolja.", "Hatalmas trópusi fák és gondozott pázsit nyújt menedéket a városi hőség elől.", "Központjában egy hagyományos pavilon (kiosko) áll zenei rendezvényekhez.", "A helyi cipőtisztítók, utcai árusok és járókelők kedvelt találkozóhelye.", "Az északi országrész legfontosabb színtere a politikai megmozdulásoknak.", "Ünnepekkor (különösen karácsonykor) látványos díszkivilágítást kap."],
       ro: [],
       en: []
     }, image: "/poi-images/parque-central-san-pedro-sula-landmarks-v2.webp"},
@@ -1036,7 +1036,7 @@ export const poiExtraHondurasLandmarksV2: POI[] = [
     },
     descriptionAdvanced: {
       de: "Das Coca-Cola-Schild in den Merendón-Bergen ist für San Pedro Sula das, was das Hollywood-Schild für Los Angeles ist – ein unverwechselbares Wahrzeichen, das über der Stadt thront. Es ist nachts hell beleuchtet und dient den Bewohnern als Orientierungspunkt in der weitläufigen Metropole. Der Aufstieg zum Schild ist eine der beliebtesten Outdoor-Aktivitäten der Stadt, bei der Sportbegeisterte den steilen Pfad erklimmen, um mit einer spektakulären Aussicht belohnt zu werden. Trotz seines kommerziellen Ursprungs ist es zu einem festen Bestandteil der kulturellen Identität von San Pedro Sula geworden und symbolisiert den modernen, geschäftigen Charakter der Stadt.",
-      hu: "",
+      hu: "A Coca-Cola-felirat (El Rótulo de la Coca-Cola) San Pedro Sula egyik legismertebb, leginkább ikonikus és egyben legszokatlanabb látványossága. A hatalmas, Hollywood-stílusú világító betűk a várostól nyugatra magasodó El Merendón hegység oldalában találhatók (a Cusuco Nemzeti Park határán), és az egész városból jól láthatók. Bár eredetileg egy egyszerű kereskedelmi óriásplakátnak készült, a helyiek az évtizedek során teljesen kisajátították, és a város nem hivatalos szimbólumává vált. A felirathoz vezető meredek, kanyargós hegyi ösvény San Pedro Sula legnépszerűbb szabadtéri fitnesz- és túraútvonala; kora reggel és késő délután százak másznak fel ide sportolni. A felirat alatti kilátópontról (Mirador) páratlan panoráma nyílik az egész Sula-völgyre. Látványosság K7 — városi kilátók.",
       ro: "",
       en: ""
     },
@@ -1048,7 +1048,7 @@ export const poiExtraHondurasLandmarksV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Der Wanderweg zum Schild ist ein beliebter Trainingsspot für Einheimische", "Von oben hat man einen Panoramablick bis weit in das Sula-Tal", "Wurde vor Jahrzehnten als Marketing-Gag installiert und blieb dauerhaft", "Ein Symbol für die industrielle Dynamik der Region"],
-      hu: [],
+      hu: ["Hatalmas, Hollywood-stílusú világító felirat az El Merendón hegység oldalában.", "San Pedro Sula egyik legismertebb, nem hivatalos vizuális szimbóluma.", "Eredetileg kereskedelmi reklám volt, de a városkép szerves részévé vált.", "A felirathoz vezető meredek ösvény a város legnépszerűbb fitneszútvonala.", "A kilátópontról (Mirador) teljes panoráma nyílik San Pedro Sulára.", "Kora reggel és naplemente után a leglátogatottabb a sportolók körében.", "Az ösvény a Cusuco Nemzeti Park trópusi erdejének határán fut."],
       ro: [],
       en: []
     }

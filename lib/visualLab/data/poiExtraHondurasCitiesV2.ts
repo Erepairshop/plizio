@@ -1170,7 +1170,20 @@ ro: ["Comunitate rurală", "Cultivarea cafelei", "Cascade în apropiere", "Mediu
       hu: ["Állattenyésztés", "Faipar", "Mezőgazdasági közösség", "Aguan folyó"],
       ro: ["Creșterea vitelor", "Industria lemnului", "Comunitate agricolă", "Râul Aguan"],
       en: ["Cattle ranching", "Timber industry", "Agricultural municipality", "Aguan River"]
-    }, image: "/poi-images/san-esteban-cities-v2.webp"},
+    }, image: "/poi-images/san-esteban-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "San Esteban egy festői szépségű, völgyben fekvő város Olancho megye szívében, amelyet északról és délről is hatalmas, érintetlen hegyvonulatok – köztük a Sierra de Agalta – ölelnek körbe. A város életét évszázadok óta a mezőgazdaság, különösen a kiterjedt szarvasmarha-tenyésztés, a tejfeldolgozás és a fakitermelés határozza meg, így a helyiek kultúrájában erősen él a hagyományos olanchoi lovasélet (cultura olanchana). A környék sűrű fenyő- és felhőerdői nemcsak az ipar számára fontosak, hanem egyre jelentősebb ökoturisztikai célpontokká is válnak a belföldi és külföldi látogatók számára. Bár a város megközelítése néha nehézkes a hegyi utak miatt, a közösség vendégszeretete és a vidék nyugalma kárpótolja az utazókat. Földrajz K8 — hegyvidéki állattenyésztés.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: ["Olancho megye középső, völgyben fekvő települése.", "Közvetlen közelében húzódik a Sierra de Agalta hegyvonulat.", "Gazdasága nagyrészt szarvasmarha-tenyésztésre és fakitermelésre épül.", "Erősen él a hagyományos 'olanchoi' lovas és állattartó kultúra.", "Környezetét sűrű fenyő- és felhőerdők borítják.", "A helyi sajtok és tejtermékek keresettek a nemzeti piacon.", "A túrázás és az ökoturizmus egyre nagyobb szerepet kap."],
+      ro: [],
+      en: []
+    }
+  },
   {
     id: "la-campa-cities-v2",
     type: "city",
@@ -1183,7 +1196,20 @@ ro: ["Comunitate rurală", "Cultivarea cafelei", "Cascade în apropiere", "Mediu
       hu: ["Lenca fazekasság", "Extrém kötélpálya", "Hegyvidéki táj", "Erős őslakos kultúra"],
       ro: ["Olărit Lenca", "Tiroliană extremă", "Peisaj montan", "Cultură indigenă puternică"],
       en: ["Lenca pottery", "Extreme zip-line", "Mountainous landscape", "Strong indigenous culture"]
-    }, image: "/poi-images/la-campa-cities-v2.webp"},
+    }, image: "/poi-images/la-campa-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "La Campa egy lélegzetelállító, sziklákra épült kisváros Lempira megyében, amely a lenca őslakos kultúra egyik legtisztább és leghitelesebb megőrzője Hondurasban. A település elsősorban az országosan híres, egyedi lenca kerámiájáról ismert, amelyet a helyi asszonyok nemzedékről generációra szálló hagyományos módszerekkel, vörös agyagból és fenyőfa égetésével készítenek fazekaskorong nélkül. A falu központját egy lenyűgöző, kőből épült spanyol gyarmati templom (Iglesia de San Matías) uralja, amely éles kontrasztban áll az alatta elterülő hatalmas kanyonnal és a Celaque Nemzeti Park magaslataival. A látogatókat nemcsak a kultúra, hanem Közép-Amerika egyik legmagasabb és leghosszabb drótkötélpályája (zipline) is vonzza ide. Földrajz K7 — őslakos kézművesség.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: ["Lempira megyében, egy mély kanyon peremén fekszik.", "Honduras leghíresebb lenca kerámiakészítő központja.", "A kerámiákat hagyományos módon, fazekaskorong nélkül készítik.", "Központjában áll a történelmi, kőből épült San Matías templom.", "A Celaque Nemzeti Park sziklás hegyvonulatai ölelik körbe.", "Itt működik Közép-Amerika egyik legextrém drótkötélpályája (canopy).", "A lakosság szigorúan őrzi lenca őslakos hagyományait."],
+      ro: [],
+      en: []
+    }
+  },
   {
     id: "pespire-cities-v2",
     type: "city",
@@ -1196,7 +1222,20 @@ ro: ["Comunitate rurală", "Cultivarea cafelei", "Cascade în apropiere", "Mediu
       hu: ["\"A mangók városa\"", "Forró, száraz éghajlat", "Gyarmati építészet", "Mezőgazdasági központ"],
       ro: ["\"Orașul mangoului\"", "Climă caldă și uscată", "Arhitectură colonială", "Centru agricol"],
       en: ["'City of Mangoes'", "Hot, dry climate", "Colonial architecture", "Agricultural center"]
-    }, image: "/poi-images/pespire-cities-v2.webp"},
+    }, image: "/poi-images/pespire-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "Pespire egy rendkívül forró, ám történelmileg gazdag kisváros Choluteca megyében, Dél-Hondurasban. A település neve az őslakos lenca nyelvből származik, ami „a piritek (egyfajta kőzet) folyóját” jelenti, utalva a várost átszelő Pespire-folyóra, amely az aszályos időszakokban gyakran kiszárad, de az esős évszakban életet lehel a környékbe. Pespire legfőbb vonzereje az érintetlen gyarmati építészet: macskaköves utcái, a San Francisco de Asís történelmi templom és a háromkupolás, gyönyörűen faragott faházak sora ritkaságszámba megy a régióban. A gazdaság főként a szezám, az okra és a dinnye termesztésére, valamint a mangó exportjára támaszkodik, a nyári hőség ellenére a helyiek büszkék kulturális örökségükre. Földrajz K8 — történelmi építészet.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: ["Choluteca megye déli, száraz klímájú régiójában helyezkedik el.", "Neve lenca eredetű, 'a piritek folyóját' jelenti.", "Honduras egyik legszebben megőrzött gyarmati stílusú városa.", "Háromkupolás San Francisco de Asís temploma műemlék.", "Gazdaságát a szezám, dinnye és az okra exportja határozza meg.", "Utcáit eredeti macskakő és fehér vályogházak díszítik.", "Kiemelkedő a helyi mangótermesztés a nyári szezonban."],
+      ro: [],
+      en: []
+    }
+  },
   {
     id: "oros-cities-v2",
     type: "city",
@@ -1209,7 +1248,20 @@ ro: ["Comunitate rurală", "Cultivarea cafelei", "Cascade în apropiere", "Mediu
       hu: ["Határközeli község", "Mezőgazdaság", "Hegyvidéki régió", "Száraz éghajlat"],
       ro: ["Comunitate de frontieră", "Agricultură", "Regiune muntoasă", "Climă uscată"],
       en: ["Border municipality", "Agriculture", "Mountainous region", "Dry climate"]
-    }, image: "/poi-images/oros-cities-v2.webp"},
+    }, image: "/poi-images/oros-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "Oropolí (gyakran csak Oros) egy eldugott, békés település El Paraíso megye déli részén, közel a nicaraguai határhoz. A város nevét az őslakos nyelvből eredeztetik, ami „Nagy folyó” vagy „Sziklás folyó” jelentéssel bírhat, és szorosan kötődik a közeli vízhálózathoz. Oropolí hagyományos mezőgazdasági közösség, amelynek gazdasága az önellátó termelésen – kukorica, bab, cirok – és a kistermelői állattenyésztésen alapul. Az extrém meleg és száraz nyarak gyakran próbára teszik a gazdákat, ezért sokan a határon átnyúló mikorkereskedelemből egészítik ki jövedelmüket. A falu elzártsága ellenére a közösségi élet élénk, a helyi vallási fesztiválok pedig fontos találkozási pontot jelentenek a szétszórt tanyákon élők számára. Földrajz K7 — határmenti agrárium.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: ["El Paraíso megye déli részén, a nicaraguai határ mentén fekszik.", "Nevének őslakos jelentése a környező folyóvízhez kötődik.", "Hagyományos, kistermelői mezőgazdaságból (kukorica, bab) élő közösség.", "A régióban a forró és száraz klíma a jellemző.", "A helyiek gyakran folytatnak helyi cserekereskedelmet a határ mentén.", "Elzártsága miatt a modern infrastruktúra csak lassan épül ki.", "Kulturálisan erős vallási hagyományokkal és fesztiválokkal bír."],
+      ro: [],
+      en: []
+    }
+  },
   {
     id: "san-jose-de-colinas-cities-v2",
     type: "city",
@@ -1222,7 +1274,20 @@ ro: ["Comunitate rurală", "Cultivarea cafelei", "Cascade în apropiere", "Mediu
       hu: ["Kávékereskedelmi központ", "Mezőgazdasági közösség", "Hegyvidéki környezet", "Helyi piac"],
       ro: ["Centru comercial pentru cafea", "Comunitate agricolă", "Mediu montan", "Piață locală"],
       en: ["Commercial center for coffee", "Agricultural municipality", "Mountainous surroundings", "Local market"]
-    }, image: "/poi-images/san-jose-de-colinas-cities-v2.webp"},
+    }, image: "/poi-images/san-jose-de-colinas-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "San José de Colinas, ahogy neve is sugallja, dombokkal és hegyekkel körülvett festői település Santa Bárbara megyében. A várost a 19. század elején alapították, és hagyományosan a magaslati kávétermesztés, valamint a szarvasmarha-tenyésztés jelentette a megélhetés fő forrását. A meredek terep és a csapadékos mikroklíma kiváló feltételeket teremt a minőségi, árnyékban nevelt Arabica kávécserjék számára. San José de Colinas gazdag kulturális élettel is büszkélkedhet; a város macskaköves utcái, a helyi kézműves fafaragók műhelyei és a hagyományos vallási körmenetek (például a védőszent ünnepe) jelentős turisztikai vonzerőt képviselnek a belföldi utazók körében, akik a vidéki Honduras hiteles arcát keresik. Földrajz K8 — dombvidéki mezőgazdaság.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: ["Santa Bárbara megye hegyes-dombos területén helyezkedik el.", "A város nevét ('A Dombok Szent Józsefe') a környező domborzat ihlette.", "Gazdasága szorosan kötődik a kiváló minőségű kávétermesztéshez.", "Jelentős szerepet kap a helyi fafaragás és a kézműipar.", "Hűvös és csapadékos mikroklímája segíti a növénytermesztést.", "A város macskaköves történelmi központja vonzó a látogatóknak.", "Az éves vallási körmenetek a közösség kulturális pillérei."],
+      ro: [],
+      en: []
+    }
+  },
   {
     id: "gualala-cities-v2",
     type: "city",
@@ -1235,7 +1300,20 @@ ro: ["Comunitate rurală", "Cultivarea cafelei", "Cascade în apropiere", "Mediu
       hu: ["Pálmakalap-készítés", "Kézműves közösség", "Vidéki hagyományok", "Ilama közelében"],
       ro: ["Producția de pălării de palmier", "Comunitate artizanală", "Tradiții rurale", "Aproape de Ilama"],
       en: ["Palm hat production", "Artisan community", "Rural traditions", "Near Ilama"]
-    }, image: "/poi-images/gualala-cities-v2.webp"},
+    }, image: "/poi-images/gualala-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "Gualala egy ősi, lenca eredetű település Santa Bárbara megyében, az Ulúa-folyó termékeny völgye felett elterülő dombokon. A város neve a lenca nyelvből származik, ami „sok víz helyét” jelenti, ami nem véletlen, hiszen a térség gazdag hegyi forrásokban és patakokban. Gualala gazdaságilag elsősorban a kávétermesztésre, a kukoricára és a babra fókuszál, miközben megőrizte békés, vidéki atmoszféráját. A falu főterén található gyarmati stílusú templom Honduras egyik legrégebbi építészeti emléke a régióban. A helyi közösség híres vendégszeretetéről és arról, hogy a modernizáció dacára is szigorúan ragaszkodnak a tradicionális kistermelői és kézműves életmódjukhoz. Földrajz K7 — történelmi őslakos települések.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: ["Santa Bárbara megyében, az Ulúa-folyó völgye felett található.", "Neve lenca eredetű, jelentése 'sok víz helye'.", "Kiemelkedő a kistermelői kávé- és kukoricatermesztés.", "A falu történelmi gyarmati temploma a régió egyik legrégebbi épülete.", "A lakosság szorosan kötődik a tradicionális mezőgazdasági módszerekhez.", "A térség vízforrásokban és hegyi patakokban rendkívül gazdag.", "Békés és viszonylag elzárt település a megyeszékhely közelében."],
+      ro: [],
+      en: []
+    }
+  },
   {
     id: "nueva-arcadia-cities-v2",
     type: "city",
@@ -1248,7 +1326,20 @@ ro: ["Comunitate rurală", "Cultivarea cafelei", "Cascade în apropiere", "Mediu
       hu: ["Magában foglalja La Entrada városát", "Fontos közlekedési csomópont", "Kereskedelem és mezőgazdaság", "A kávé- és dohányrégió kapuja"],
       ro: ["Include orașul La Entrada", "Nod de transport important", "Comerț și agricultură", "Poarta către regiunea cafelei și a tutunului"],
       en: ["Includes the city of La Entrada", "Important transportation hub", "Commerce and agriculture", "Gateway to coffee and tobacco region"]
-    }, image: "/poi-images/nueva-arcadia-cities-v2.webp"},
+    }, image: "/poi-images/nueva-arcadia-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "Nueva Arcadia egy lendületes kereskedelmi és tranzitváros Copán megyében, amelynek legnépesebb és gazdaságilag legfontosabb része a 'La Entrada' nevű városmag. Míg a terület hivatalos neve Nueva Arcadia, a mindennapi szóhasználatban szinte mindenki La Entrada (A Bejárat) néven ismeri, mivel a város a copáni maja romokhoz és a guatemalai határ felé vezető főutak találkozásánál fekszik. A település az elmúlt évtizedekben jelentős demográfiai és gazdasági robbanást élt át, a kávé-, dohány- és gabonatermelők elsődleges felvásárló piacává válva a nyugati országrészben. Annak ellenére, hogy a városkép modern és funkcionális, a környező dombok továbbra is a hagyományos agrárium uralma alatt állnak. Földrajz K8 — kereskedelem és logisztika.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: ["Copán megye egyik legfontosabb önkormányzata.", "Központját a köznyelvben leginkább 'La Entrada' néven ismerik.", "Stratégiai útelágazás a maja romok és Guatemala irányába.", "Gazdasága a kávé és a dohány regionális kereskedelmére épül.", "Gyors urbanizáción és népességnövekedésen ment keresztül.", "Számos bank, hotel és logisztikai cég központja Nyugat-Hondurasban.", "A völgyet kávé- és kukoricaföldek veszik körül."],
+      ro: [],
+      en: []
+    }
+  },
   {
     id: "san-nicolas-cities-v2",
     type: "city",
@@ -1261,7 +1352,20 @@ ro: ["Comunitate rurală", "Cultivarea cafelei", "Cascade în apropiere", "Mediu
       hu: ["Kávétermesztés", "Nádból készült kézművesség", "Gyarmati templom", "Hegyvidéki táj"],
       ro: ["Cultivarea cafelei", "Artizanat din papură (Tule)", "Biserică colonială", "Peisaj montan"],
       en: ["Coffee cultivation", "Handicrafts from Tule (reed)", "Colonial church", "Mountainous landscape"]
-    }, image: "/poi-images/san-nicolas-cities-v2.webp"},
+    }, image: "/poi-images/san-nicolas-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "San Nicolás (gyakran San Nicolás de Santa Bárbara) egy történelmi múltra visszatekintő, festői város Santa Bárbara megye középső részén. A települést 1840-ben alapították, és a gyarmati időkben fontos pihenőhely volt a kávészállító öszvérkaravánok számára. A város a mai napig az ország egyik legszebb macskaköves utcájú települése, amelyet hatalmas, több száz éves Ceiba fák árnyékolnak a főtéren. San Nicolás gazdasága a magaslati kávétermesztésen kívül a kosárfonáson és az egyedi lenca kalapok (sombreros de junco) készítésén alapszik. A település békés atmoszférája, a színes vályogházak és a hatalmas, zöldellő hegycsúcsok tökéletes hátteret biztosítanak az egyre növekvő kulturális turizmus számára. Földrajz K7 — kulturális örökség.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: ["Santa Bárbara megye hegyvidéki részén, 1840-ben alapított város.", "Központi terét egy ikonikus, több száz éves Ceiba fa uralja.", "Híres az eredeti, macskaköves utcáiról és színes vályogházairól.", "Gazdaságának fontos része a 'sombreros de junco' (hagyományos kalap) készítése.", "A környező hegyekben kiváló minőségű kávét termesztenek.", "Történelmileg az öszvérkaravánok fontos pihenőállomása volt.", "Békés atmoszférája miatt népszerű a belföldi turizmusban."],
+      ro: [],
+      en: []
+    }
+  },
   {
     id: "atima-cities-v2",
     type: "city",
@@ -1274,7 +1378,20 @@ ro: ["Comunitate rurală", "Cultivarea cafelei", "Cascade în apropiere", "Mediu
       hu: ["Hegyvidéki község", "Kávétermesztés", "Természeti tájak", "Vidéki légkör"],
       ro: ["Comunitate montană", "Cultivarea cafelei", "Peisaje naturale", "Atmosferă rurală"],
       en: ["Mountainous municipality", "Coffee cultivation", "Natural landscapes", "Rural atmosphere"]
-    }, image: "/poi-images/atima-cities-v2.webp"},
+    }, image: "/poi-images/atima-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "Atima egy hegyek között megbúvó kisváros Santa Bárbara megye déli részén, amelyet buja esőerdők, folyók és titokzatos barlangrendszerek vesznek körül. A város Honduras egyik legfontosabb és legkiválóbb minőségű kávétermelő területe, a helyi gazdaság szinte teljesen az Arabica cserjék művelésétől függ. Atima ugyanakkor a kalandturizmus egyik ígéretes célpontja is: a település közelében található a San Vicente barlang, amely a földalatti folyóiról és hatalmas mészkőképződményeiről ismert. A város nehezen megközelíthető meredek terepviszonyai miatt sokáig elzárt volt, de a kávé iránti nemzetközi kereslet fellendítette az infrastruktúrát és a közösség életszínvonalát. Földrajz K8 — hegyvidéki barlangok és kávé.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: ["Santa Bárbara megye hegyvidéki, sűrű erdővel borított részén található.", "A hondurasi kávéipar egyik legmagasabb minőséget adó régiója.", "A helyi gazdaság szinte teljes egészében az agráriumra fókuszál.", "A közelben húzódik a San Vicente mészkőbarlang-rendszer.", "Meredek, nehezen megközelíthető terepen fekszik.", "A lakosság a kávészüret idején ideiglenesen jelentősen megnő.", "A turizmus a barlangászatra és a kávétúrákra épül."],
+      ro: [],
+      en: []
+    }
+  },
   {
     id: "el-triunfo-de-la-cruz-cities-v2",
     type: "city",
@@ -1287,7 +1404,20 @@ ro: ["Comunitate rurală", "Cultivarea cafelei", "Cascade în apropiere", "Mediu
       hu: ["Garifuna kultúra", "Karib-tenger partja", "Halászat és turizmus", "Hagyományos zene és tánc"],
       ro: ["Cultura Garifuna", "Coasta Caraibelor", "Pescuit și turism", "Muzică și dansuri tradiționale"],
       en: ["Garifuna culture", "Caribbean coast", "Fishing and tourism", "Traditional music and dance"]
-    }, image: "/poi-images/el-triunfo-de-la-cruz-cities-v2.webp"},
+    }, image: "/poi-images/el-triunfo-de-la-cruz-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "Triunfo de la Cruz egy történelmi jelentőségű garifuna tengerparti település Atlántida megyében, közvetlenül Tela városa mellett. Ezen a ponton alapította Cristobal de Olid 1524-ben Honduras első spanyol települését, azonban a mai falu kulturálisan teljesen a garifunák (afro-karibi őslakosok) örökségét tükrözi. A lakosság hagyományos halászatból, kókuszolaj-készítésből és kistermelői manióka (yuca) termesztésből él, amiből a híres 'casabe' kenyeret sütik. A település gyönyörű, fehér homokos tengerpartja és a Punta Izopo Nemzeti Park közelsége miatt az ökoturizmus és a kulturális turizmus egyik központja. A falut gyakran érintik a földtulajdonjogi viták, mivel a közösség küzd az ősi földjeik védelméért a modern ingatlanfejlesztőkkel szemben. Földrajz K7 — afro-karibi kultúra.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: ["Tela városa mellett fekvő, karibi tengerparti település.", "Itt alapították Honduras első spanyol városát 1524-ben.", "A falu lakossága hagyományosan garifuna (afro-karibi) származású.", "A gazdaság a halászatra és a manióka (casabe kenyér) termesztésére épül.", "Közvetlen közelében található a Punta Izopo Nemzeti Park.", "Az afro-karibi zene (punta) és gasztronómia központja.", "A közösség gyakran küzd a területeik megőrzéséért a befektetőkkel."],
+      ro: [],
+      en: []
+    }
+  },
   {
     id: "balfate-cities-v2",
     type: "city",
@@ -1300,6 +1430,18 @@ ro: ["Comunitate rurală", "Cultivarea cafelei", "Cascade în apropiere", "Mediu
       hu: ["Garifuna közösség", "Karibi partvidék", "Mezőgazdaság és halászat", "Strandok és lagúnák"],
       ro: ["Comunitate Garifuna", "Coasta Caraibelor", "Agricultură și pescuit", "Plaje și lagune"],
       en: ["Garifuna community", "Caribbean coast", "Agriculture and fishing", "Beaches and lagoons"]
+    },
+    descriptionAdvanced: {
+      de: "",
+      hu: "Balfate egy elszigetelt, de gyönyörű partvidéki település Colón megye északi részén, amely az érintetlen karibi tengerpartokat sűrű dzsungelekkel és folyótorkolatokkal ötvözi. A városka gazdasága történelmileg a banán- és kókuszültetvényekre épült, mára azonban a halászat, a homárgyűjtés és a kistermelői mezőgazdaság jelenti a fő megélhetést. Balfate és a környező falvak az afro-karibi garifuna kultúra fontos bástyái, ahol a hagyományos 'punta' zene és a tengeri alapanyagokra épülő gasztronómia határozza meg a mindennapokat. Az infrastruktúra, különösen a La Ceiba felé vezető utak gyakran nehezen járhatók az esős évszakban, ami növeli a régió izoláltságát, de egyben meg is óvja természeti kincseit a tömegturizmustól. Földrajz K8 — partvidéki halászat.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: ["Colón megye elszigetelt, nyugati partvidéki települése.", "A lakosság jelentős részét a garifuna afro-karibi közösség adja.", "Gazdaságának alapját a kézműves halászat és kókuszfeldolgozás jelenti.", "A karibi tengerpart közvetlenül találkozik a sűrű dzsungellel.", "Nehézkes megközelíthetősége megóvja a tömegturizmustól.", "A hagyományos 'punta' zene és tánc szerves része a mindennapoknak.", "A folyótorkolatok gyakran okoznak közlekedési fennakadásokat."],
+      ro: [],
+      en: []
     }
   },
   {
@@ -1314,7 +1456,20 @@ ro: ["Comunitate rurală", "Cultivarea cafelei", "Cascade în apropiere", "Mediu
       hu: ["Garifuna kultúra", "Trujillo közelében", "Halászat", "Karibi strandok"],
       ro: ["Cultura Garifuna", "Aproape de Trujillo", "Pescuit", "Plaje caraibiene"],
       en: ["Garifuna culture", "Near Trujillo", "Fishing", "Caribbean beaches"]
-    }, image: "/poi-images/santa-fe-cities-v2.webp"},
+    }, image: "/poi-images/santa-fe-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "Santa Fe egy festői garifuna falu Colón megye északi partvidékén, mindössze néhány kilométerre nyugatra Trujillo történelmi kikötőjétől. A település közvetlenül a Karib-tenger fehér homokos partján fekszik, hátterében a lenyűgöző Capiro és Calentura Nemzeti Park sűrű, zöld hegycsúcsai magasodnak. Santa Fe lakossága hűen őrzi afro-karibi (garifuna) gyökereit: a helyiek halászatból, kókusz- és maniókatermesztésből élnek, a nők pedig hagyományosan a 'casabe' (maniókakenyér) sütésével foglalkoznak. A falu turisztikai jelentősége egyre nő, mivel nyugodt tengerpartja, kristálytiszta vizei és a közeli korallzátonyok ideálisak a pihenésre, miközben elkerülik a nagyobb városok zaját. A helyi tengeri gasztronómia országszerte híres. Földrajz K7 — karibi falvak.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: ["Trujillo városa mellett fekvő tengerparti garifuna település.", "A falu hátterében a Capiro és Calentura Nemzeti Park hegyei magasodnak.", "A helyiek hagyományos kézműves halászatból és kókuszfeldolgozásból élnek.", "Híres a 'casabe', a garifunák tradicionális maniókakenyerének készítéséről.", "Fehér homokos strandjai békés turisztikai célpontok.", "A falu őrzi az afro-karibi zenei és kulturális hagyományokat.", "Az elmúlt években megindult a fenntartható ökoturizmus fejlődése."],
+      ro: [],
+      en: []
+    }
+  },
   {
     id: "la-masica-cities-v2",
     type: "city",
@@ -1327,7 +1482,20 @@ ro: ["Comunitate rurală", "Cultivarea cafelei", "Cascade în apropiere", "Mediu
       hu: ["Mezőgazdasági közösség", "Citrusfélék és banán", "Állattenyésztés", "A CA-13-as autópálya mentén"],
       ro: ["Comunitate agricolă", "Citrice și banane", "Creșterea vitelor", "Pe autostrada CA-13"],
       en: ["Agricultural municipality", "Citrus and bananas", "Cattle ranching", "On the CA-13 highway"]
-    }, image: "/poi-images/la-masica-cities-v2.webp"},
+    }, image: "/poi-images/la-masica-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "La Masica egy élénk mezőgazdasági város Atlántida megyében, amely a La Ceiba és Tela közötti forgalmas északi parti főútvonal mentén fekszik. A települést a 20. század elején alapították a banánipar fellendülése idején, amikor a Standard Fruit Company kiépítette a régió vasúthálózatát. Noha a banán szerepe csökkent, a város gazdaságát ma is a pálmaolaj, a citrusfélék, a kakaó és a tejtermelő állattenyésztés uralja. A város kiterjedt síkságokon fekszik, de délről a Nombre de Dios hegység drámai csúcsai és a Pico Bonito Nemzeti Park sűrű erdei határolják. La Masica fontos tranzitállomás a mezőgazdasági termékek tengeri kikötőkbe történő szállításakor. Földrajz K8 — partmenti síkságok.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: ["Atlántida megyében, La Ceiba és Tela között helyezkedik el.", "Történelmileg az országos banánipar egyik kulcsfontosságú állomása volt.", "Ma az afrikai pálma, kakaó és citrusfélék termesztésére fókuszál.", "A Nombre de Dios hegység és a Pico Bonito Nemzeti Park határolja.", "Jelentős állattenyésztési (tej és hús) központ az északi parton.", "A parti főútvonal miatt fontos regionális áruszállítási csomópont.", "A régiót a nyári hurrikánszezon idején gyakran fenyegetik árvizek."],
+      ro: [],
+      en: []
+    }
+  },
   {
     id: "arada-cities-v2",
     type: "city",
@@ -1340,7 +1508,20 @@ ro: ["Comunitate rurală", "Cultivarea cafelei", "Cascade în apropiere", "Mediu
       hu: ["Mezőgazdaság", "Kávétermesztés", "Vidéki környezet", "Hagyományos életmód"],
       ro: ["Agricultură", "Cultivarea cafelei", "Mediu rural", "Mod de viață tradițional"],
       en: ["Agriculture", "Coffee cultivation", "Rural surroundings", "Traditional way of life"]
-    }, image: "/poi-images/arada-cities-v2.webp"},
+    }, image: "/poi-images/arada-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "Arada egy festői, dombokra épült mezőgazdasági település Santa Bárbara megye déli részén. A város nevét onnan kapta, hogy az alapítók először ezen a területen kezdték meg a föld szántását („arar” spanyolul szántani jelent). Arada gazdaságának szíve-lelke a magaslati kávétermesztés, amely a falu lankás, vulkanikus talajú domboldalain virágzik. A lakosok ezen kívül a kosárfonásról és a pálmalevélből készült kézműves termékeikről is ismertek. A település egy gyönyörű, békés völgyben fekszik, mentes a nagyvárosok zajától, ami lehetővé teszi, hogy megőrizze hagyományos andoki-jellegű falusi báját. A közelmúltban falfestményekkel (murales) díszítették a falu utcáit, így egyre népszerűbb célpontja lett a helyi kulturális turizmusnak. Földrajz K7 — dombvidéki agrárium.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: ["Santa Bárbara megye déli, dombos területén található.", "Nevének jelentése a terület első felszántásához ('arar') kötődik.", "A helyi gazdaság szinte teljes egészében a prémium kávétermesztésre épül.", "Utcáit az elmúlt években színes falfestményekkel (mural) díszítették.", "A helyiek híresek a pálmalevélből font kézműves termékeikről.", "Csendes, hagyományos vidéki életmód jellemzi a falut.", "A környező hegyi források biztosítják a mezőgazdaság vízellátását."],
+      ro: [],
+      en: []
+    }
+  },
   {
     id: "san-luis-cities-v2",
     type: "city",
@@ -1353,7 +1534,20 @@ ro: ["Comunitate rurală", "Cultivarea cafelei", "Cascade în apropiere", "Mediu
       hu: ["Kávétermesztés", "Hegyvidéki táj", "Vidéki közösség", "Természeti ösvények"],
       ro: ["Cultivarea cafelei", "Peisaj montan", "Comunitate rurală", "Poteci naturale"],
       en: ["Coffee cultivation", "Mountainous landscape", "Rural municipality", "Nature trails"]
-    }, image: "/poi-images/san-luis-cities-v2.webp"},
+    }, image: "/poi-images/san-luis-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "San Luis egy magasan a hegyekben fekvő, izolált, ám gazdaságilag aktív város Santa Bárbara megye nyugati részén. A települést mély völgyek és rendkívül meredek, erdővel borított hegycsúcsok veszik körül, ami megnehezíti a közlekedést, de páratlan mikroklímát biztosít a magaslati kávé termesztéséhez. San Luis a hondurasi kávéöv egyik legfontosabb láncszeme; a helyi Arabica kávé többször is kiemelkedően szerepelt nemzetközi versenyeken. A kávén túl a város az erdőgazdálkodásból és az állattenyésztésből is jelentős bevételre tesz szert. Építészetében a hagyományos fafeldolgozás nyomai látszanak, a központi tér pedig a kávészüret idején valóságos logisztikai és társadalmi központtá válik a hegyvidéken élők számára. Földrajz K8 — hegyvidéki kávéközpontok.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: ["Santa Bárbara megye magas hegyvidéki régiójában épült fel.", "A hondurasi prémium kávétermelés egyik legelismertebb helyszíne.", "A meredek és nehezen járható terep miatt elszigetelt település.", "Hűvös és csapadékos mikroklímája ideális a kávécserjék számára.", "A kávészüret időszakában a város lakossága és forgalma megsokszorozódik.", "Gazdaságában jelentős a fakitermelés és fafeldolgozás is.", "A település utcáin számos fából és vályogból készült hagyományos ház áll."],
+      ro: [],
+      en: []
+    }
+  },
   {
     id: "san-marcos-cities-v2",
     type: "city",
@@ -1366,7 +1560,20 @@ ro: ["Comunitate rurală", "Cultivarea cafelei", "Cascade în apropiere", "Mediu
       hu: ["Guatemalai határ közelében", "Kávétermesztés", "Kereskedelem", "Hegyvidéki régió"],
       ro: ["Aproape de granița cu Guatemala", "Cultivarea cafelei", "Comerț", "Regiune muntoasă"],
       en: ["Near the Guatemalan border", "Coffee cultivation", "Commerce", "Mountainous region"]
-    }, image: "/poi-images/san-marcos-cities-v2.webp"},
+    }, image: "/poi-images/san-marcos-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "San Marcos (gyakran San Marcos de Santa Bárbara) egy történelmi kisváros Santa Bárbara megye középső részén, amely az ország egyik legjelentősebb kézműves- és kávétermelő központja. A várost a hegyoldalakba építették, és híres a macskaköves utcáiról, amelyeket gondosan karbantartott, virágokkal teli spanyol gyarmati stílusú házak szegélyeznek. San Marcos a hondurasi kultúrában az egyedi kézműves termékeiről, a 'petate' (pálmalevél) kalapokról és a táskákról a legismertebb, amelyeket az asszonyok generációk óta ugyanazzal a technikával készítenek. A város minden évben megrendezi az ország egyik legnagyobb kávé- és hagyományőrző fesztiválját, ami ezreket vonz a békés hegyvidéki faluba. Földrajz K7 — kézművesség.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: ["Santa Bárbara megye dombos, történelmi települése.", "A hagyományos 'petate' pálmalevél kalapok és táskák hazája.", "Macskaköves utcái és gyarmati házai turisztikai látványosságok.", "A kávétermesztés a helyi gazdaság legfontosabb oszlopa.", "A helyiek évente nagyszabású kávé- és kulturális fesztivált rendeznek.", "Élénk közösségi élet és erős hagyománytisztelet jellemzi.", "A város egy meredek hegyoldalba illeszkedve épült fel."],
+      ro: [],
+      en: []
+    }
+  },
   {
     id: "guayape-cities-v2",
     type: "city",
@@ -1379,6 +1586,18 @@ ro: ["Comunitate rurală", "Cultivarea cafelei", "Cascade în apropiere", "Mediu
       hu: ["A Guayape folyó partján", "Mezőgazdaság és állattenyésztés", "Vidéki közösség", "Aranymosás a történelemben"],
       ro: ["Pe râul Guayape", "Agricultură și creșterea vitelor", "Comunitate rurală", "Spălarea aurului în istorie"],
       en: ["On the Guayape River", "Agriculture and livestock", "Rural municipality", "History of gold panning"]
+    },
+    descriptionAdvanced: {
+      de: "",
+      hu: "Guayape egy kiterjedt mezőgazdasági város Olancho megye szívében, amely a Guayape-folyó lenyűgöző, termékeny völgyében helyezkedik el. A várost és a folyót a spanyol gyarmati időktől kezdve legendák övezik, mivel a folyómeder hatalmas mennyiségű hordalékos aranyat rejtett, amely évszázadokon át vonzotta az aranymosókat. Ma Guayape gazdasága teljesen a mezőgazdaságra támaszkodik: a völgy Honduras egyik legfontosabb gabonatermesztő területe, hatalmas kukorica-, bab- és cirokföldekkel, valamint extenzív szarvasmarha-tenyésztéssel. A város elszigetelt fekvése és az 'olanchoi' (vidéki, lovas) kultúra erőssége miatt a mindennapi élet ritmusa békés és tradicionális, amelyet gyakran csak a folyó szezonális áradásai szakítanak meg. Földrajz K8 — folyóvölgyek gazdasága.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: ["Olancho megye központjában, a Guayape-folyó völgyében fekszik.", "Történelmileg híres a folyó hordalékából mosott aranyról.", "Ma az ország egyik legfontosabb kukorica- és gabonatermesztő régiója.", "Erősen kötődik az olanchoi hagyományos, lovas állattartó kultúrához.", "Sík, rendkívül termékeny alluviális talaj veszi körül.", "A helyi tej- és hústermelés jelentős beszállítója a nemzeti piacnak.", "A Guayape-folyó gyakori áradásai rendszeresen megújítják a termőföldet."],
+      ro: [],
+      en: []
     }
   }
 ];

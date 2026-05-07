@@ -449,7 +449,7 @@ export const poiExtraEthiopiaEconomicV2: POI[] = [
     facts: {
       de: ["Gegründet in den 1930er Jahren.", "Versorgt primär den östlichen Markt."],
       hu: ["Az 1930-as években alapították.", "ElsŰ'sorban a keleti piacot látja el."],
-      ro: ["ÃŽnfiinÈâۼată în anii 1930.", "Aprovizionează în principal piaÈâۼa de est."],
+      ro: ["ÎnfiinÈâۼată în anii 1930.", "Aprovizionează în principal piaÈâۼa de est."],
       en: ["Established in the 1930s.", "Primarily supplies the eastern market."]
     }, image: "/poi-images/national-cement-share-company-economic-v2.webp"},
   {
@@ -600,7 +600,7 @@ export const poiExtraEthiopiaEconomicV2: POI[] = [
     name: {
       de: "Huajian Schuhfabrik",
       hu: "Huajian CipŰ'gyár",
-      ro: "Fabrica de ÃŽncălÈâۼăminte Huajian",
+      ro: "Fabrica de ÎncălÈâۼăminte Huajian",
       en: "Huajian Shoe Factory"
     },
     description: {
