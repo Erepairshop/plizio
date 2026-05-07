@@ -19,7 +19,18 @@ export const poiExtraUsaCitiesV2: POI[] = [
       hu: ["Beceneve 'A Nagy Alma'", "Öt kerületből áll", "A Szabadság-szobor otthona", "Több mint 8 millió lakos"],
       ro: ["Poreclit 'Marele Măr'", "Compus din cinci burguri", "Gazda Statuii Libertății", "Peste 8 milioane de locuitori"],
       en: ["Nicknamed 'The Big Apple'", "Composed of five boroughs", "Home to the Statue of Liberty", "Over 8 million residents"]
-    }, image: "/poi-images/new-york-city-cities-v2.webp"},
+    }, image: "/poi-images/new-york-city-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "New York City ist ein Schmelztiegel der Kulturen und der Dreh- und Angelpunkt der Weltwirtschaft. Mit über 8,4 Millionen Einwohnern und berühmten Wahrzeichen wie dem Central Park und dem Times Square, spielt die Stadt eine zentrale Rolle im globalen Finanzsektor. Bildungsplan-Bezug: Geschichte K8 – Einwanderung und Urbanisierung. New York City, das oft als 'The Big Apple' bezeichnet, fungiert als das unvergleichliche Epizentrum für Weltfinanzen, globale Medien und kulturelle Innovationen. Die Stadt beherbergt bedeutende Institutionen wie die Vereinten Nationen und die New York Stock Exchange, was ihre fundamentale Rolle in der internationalen Politik und Wirtschaft unterstreicht. Mit markanten Wahrzeichen wie dem Central Park und dem Empire State Building bietet die Metropole eine Architektur, die den Übergang von historischer Bedeutung zur modernen urbanen Skyline symbolisiert. Ihre demografische Vielfalt, die sich besonders in der kulinarischen Szene und in Stadtteilen wie Chinatown entfaltet, prägt das gesellschaftliche Leben. Geografie K7 — urbane Zentren in den USA.",
+      hu: "New York City, a 'Nagy Alma', az Egyesült Államok gazdasági és kulturális központja. A város számtalan nevezetessége, mint az Empire State Building és a Szabadság-szobor, világszerte ismert. A pénzügyi központja, a Wall Street, meghatározó a globális gazdaság számára. A város sokszínűsége a különböző kultúrák és nyelvek keveredésében érhető tetten, amely a gasztronómiában is megmutatkozik. Földrajz K7 — urbánus központok és világgazdaság.",
+      ro: "New York City, supranumit „Marele Măr”, este inima financiară și culturală a Statelor Unite. Situat la vărsarea râului Hudson în Oceanul Atlantic, orașul este format din cinci cartiere distincte: Manhattan, Brooklyn, Queens, Bronx și Staten Island. Fondat de coloniști olandezi în 1624 sub numele de Noul Amsterdam, a devenit rapid un centru comercial vital. Astăzi, Wall Street dictează tendințele economice globale, în timp ce Broadway și Times Square definesc industria de divertisment. Orizontul său inconfundabil este dominat de zgârie-nori precum Empire State Building și One World Trade Center, care atrag anual milioane de vizitatori. Metropola este un creuzet cultural, unde se vorbesc peste 800 de limbi, făcându-l cel mai diversificat oraș din lume din punct de vedere lingvistic. Geografie K7 — așezări urbane."
+    },
+    factsAdvanced: {
+      de: ["Gründung durch Niederländer als Neu-Amsterdam 1624.", "Börse an der Wall Street gilt als weltweit wichtigstes Handelszentrum.", "Das Empire State Building war bis 1970 das höchste Gebäude der Welt.", "Der Central Park umfasst eine Fläche von ca. 3,4 Quadratkilometern.", "Die Stadt besteht aus fünf eigenständigen Bezirken (Boroughs).", "Über 800 Sprachen werden in New York gesprochen."],
+      hu: ["1624-ben alapították Nieuw Amsterdam néven", "Öt kerületből áll: Manhattan, Brooklyn, Queens, Bronx és Staten Island", "A Times Square-en naponta 300 000 ember fordul meg", "Több mint 800 nyelvet beszélnek a városban", "A Szabadság-szobor 1886-ban épült", "A Central Park 3,41 km²-es területen helyezkedik el"],
+      ro: ["A fost fondat în 1624 de coloniști olandezi.", "Sistemul său de metrou are 472 de stații funcționale.", "Peste 800 de limbi sunt vorbite în cele cinci cartiere.", "Central Park acoperă o suprafață de 341 de hectare.", "Statuia Libertății a fost inaugurată în anul 1886.", "One World Trade Center are o înălțime de 541 de metri."]
+    }
+  },
   {
     id: "los-angeles-cities-v2",
     type: "city",
@@ -37,7 +48,18 @@ export const poiExtraUsaCitiesV2: POI[] = [
       hu: ["Hollywoodról ismert", "Változatos kulturális táj", "Kiterjedt autópálya-hálózat", "Olimpiai játékok házigazdája"],
       ro: ["Cunoscut pentru Hollywood", "Peisaj cultural divers", "Rețea extinsă de autostrăzi", "Gazdă a Jocurilor Olimpice"],
       en: ["Known for Hollywood", "Diverse cultural landscape", "Extensive freeway system", "Host of the Olympic Games"]
-    }, image: "/poi-images/los-angeles-cities-v2.webp"},
+    }, image: "/poi-images/los-angeles-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Los Angeles, die größte Stadt Kaliforniens, ist das weltweite Zentrum der Film- und Unterhaltungsindustrie. Bekannt für das Hollywood-Sign und die unzähligen Filmstudios, bietet die Stadt eine kulturelle Vielfalt, die durch ihre Lage am Pazifik und ihr mildes Klima geprägt ist. Bildungsplan-Bezug: Geografie K7 – Wirtschaftszentren.",
+      hu: "Los Angeles, Kalifornia legnagyobb városa, a világ szórakoztatóiparának központja, különösen Hollywood révén. A Csendes-óceán partján fekvő metropolisz hatalmas kiterjedésű, és a repülőgépgyártás, valamint a technológia egyik bástyája. Mediterrán éghajlata ideális az egész éves szabadtéri tevékenységekhez. A város a latin-amerikai és ázsiai kultúrák olvasztótégelye, ami jelentősen befolyásolja a helyi életmódot. Történelem K8 — a 20. századi szórakoztatóipar fejlődése.",
+      ro: "Los Angeles, cunoscut sub acronimul L.A., este cel mai mare oraș din California și centrul mondial al industriei cinematografice. Fondat în 1781 de guvernatorul spaniol Felipe de Neve, a crescut exponențial datorită descoperirii petrolului și dezvoltării rețelei feroviare la sfârșitul secolului al XIX-lea. Astăzi, Hollywood-ul găzduiește cele mai mari studiouri de film, iar orașul este pionier în domeniul aerospațial și tehnologic. Bazinul Los Angeles este înconjurat de munții San Gabriel și Santa Monica, oferind un climat mediteranean ideal, dar și riscuri de incendii și cutremure. Observatorul Griffith oferă o perspectivă uimitoare asupra metropolei și a celebrului semn Hollywood, ridicat în 1923. Orașul este recunoscut și pentru infrastructura sa imensă de autostrăzi, care conectează cartierele extinse. Geografie K8 — megalopolisuri."
+    },
+    factsAdvanced: {
+      de: ["Los Angeles wurde 1781 als 'El Pueblo de la Reina de los Angeles' gegründet.", "Die Stadt hat über 80 Kilometer Küstenlinie am Pazifik.", "Hollywood ist seit Anfang des 20. Jahrhunderts das Zentrum des US-Films.", "L.A. beherbergt das Griffith Observatory mit Blick auf das Hollywood Sign.", "Das Autobahnnetz der Stadt ist eines der meistbefahrenen weltweit.", "Los Angeles war bereits zweimal (1932, 1984) Gastgeber der Olympischen Sommerspiele."],
+      hu: ["1781-ben alapították spanyol telepesek", "A Hollywood feliratot 1923-ban helyezték el", "A város 1932-ben és 1984-ben is rendezett olimpiát", "Kiterjedt autópálya-rendszer jellemzi", "A Griffith Obszervatórium az egyik legismertebb csillagászati központ", "A város lakossága meghaladja a 3,8 millió főt"],
+      ro: ["A fost fondat oficial la 4 septembrie 1781.", "Semnul Hollywood a fost ridicat inițial în anul 1923.", "Găzduiește anual ceremonia de decernare a premiilor Oscar din 1929.", "Portul Los Angeles este cel mai aglomerat din SUA din anul 2000.", "Regiunea este străbătută de falia San Andreas, activă seismic.", "Populația zonei metropolitane depășește 13 milioane de locuitori."]
+    }
+  },
   {
     id: "chicago-cities-v2",
     type: "city",
@@ -55,7 +77,18 @@ export const poiExtraUsaCitiesV2: POI[] = [
       hu: ["Beceneve 'A szeles város'", "A felhőkarcoló szülőhelye", "Willis Tower, korábban Sears Tower", "Fontos közlekedési csomópont"],
       ro: ["Poreclit 'Orașul Vânturilor'", "Locul de naștere al zgârie-norilor", "Willis Tower, fost Sears Tower", "Nod important de transport"],
       en: ["Nicknamed 'The Windy City'", "Birthplace of the skyscraper", "Willis Tower, formerly Sears Tower", "Major transportation hub"]
-    }, image: "/poi-images/chicago-cities-v2.webp"},
+    }, image: "/poi-images/chicago-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Chicago, bekannt als 'Windy City', liegt am Ufer des Lake Michigan und ist eine historische Architektur-Hochburg. Die Skyline am Lakefront Trail ist ikonisch und spiegelt den Aufstieg der Stadt zum Logistik- und Industriezentrum im 19. Jahrhundert wider. Bildungsplan-Bezug: Geografie K7 – Städte und wirtschaftliche Zentren.",
+      hu: "Chicago a Michigan-tó partján fekszik, és a modern felhőkarcolók bölcsőjeként tartják számon. A város stratégiai logisztikai csomópont, erős ipari bázissal és világhírű zenei örökséggel, különösen a jazz és blues terén. Építészeti öröksége, köztük a Willis Tower, évtizedekig a világ legmagasabb épülete volt. Chicago az urbanitás és a tavi parkok egyedülálló ötvözete. Földrajz K6 — vízi utak és városfejlődés.",
+      ro: "Chicago, supranumit „Orașul Vânturilor”, este a treia cea mai populată metropolă din Statele Unite și un nod crucial de transport pe malul sud-vestic al lacului Michigan. După devastatorul Mare Incendiu din 1871, orașul a fost reconstruit, devenind locul de naștere al primului zgârie-nori din lume în 1885, Home Insurance Building. Astăzi, arhitectura sa este o atracție majoră, dominată de turnuri emblematice precum Willis Tower și John Hancock Center. Chicago este renumit pentru diversitatea sa culturală, influențele sale profunde în muzica jazz și blues, precum și pentru preparatele culinare specifice, cum ar fi pizza deep-dish. Râul Chicago a fost un miracol ingineresc în 1900, când i s-a inversat cursul pentru a proteja calitatea apei potabile. Istorie K8 — industrializare și urbanizare."
+    },
+    factsAdvanced: {
+      de: ["Chicago wurde 1837 offiziell als Stadt eingemeindet.", "Der Willis Tower (ehemals Sears Tower) ist 442 Meter hoch.", "Hier wurde das erste Riesenrad der Welt auf der Weltausstellung 1893 präsentiert.", "Die Stadt beheimatet über 50 Museen.", "Die Fließrichtung des Chicago River wurde für die Kanalisation umgekehrt.", "Chicago ist Geburtsort des modernen Wolkenkratzers nach dem Großen Brand 1871."],
+      hu: ["1833-ban alapították a várost", "A Willis Tower 442 méter magas", "A Chicago Loop a város történelmi központja", "Frank Lloyd Wright építészeti stílusa meghatározó itt", "Deep Dish pizza az egyik legnépszerűbb ételkülönlegesség", "Fontos összekötő pont a Nagy-tavak és a Mississippi-rendszer között"],
+      ro: ["Marele Incendiu din Chicago a distrus o mare parte din oraș în 1871.", "Primul zgârie-nori din lume a fost construit aici în 1885.", "Cursul râului Chicago a fost inversat oficial în anul 1900.", "Willis Tower a deținut titlul de cea mai înaltă clădire din lume timp de 25 de ani.", "Aeroportul O'Hare este unul dintre cele mai tranzitate la nivel global.", "Sistemul de transport feroviar elevat este cunoscut sub numele de „L”."]
+    }
+  },
   {
     id: "houston-cities-v2",
     type: "city",
@@ -73,7 +106,18 @@ export const poiExtraUsaCitiesV2: POI[] = [
       hu: ["A NASA Johnson Űrközpontjának otthona", "Nagy nemzetközi kikötő", "Változatos lakosság", "Múzeumi negyed 19 múzeummal"],
       ro: ["Gazda Centrului Spațial Johnson al NASA", "Port internațional major", "Populație diversă", "District muzeal cu 19 muzee"],
       en: ["Home to NASA's Johnson Space Center", "Major international port", "Diverse population", "Museum District with 19 museums"]
-    }, image: "/poi-images/houston-cities-v2.webp"},
+    }, image: "/poi-images/houston-cities-v2.webp",
+    descriptionAdvanced: {
+      hu: "Houston Texas legnépesebb városa, az olaj- és gázipar, valamint a NASA űrkutatási tevékenységeinek központja. A város egyedi múzeumi negyeddel és élénk kulturális élettel rendelkezik. A város a nemzetközi kereskedelem fontos központja a jelentős kikötői infrastruktúrája miatt. Houston lakossága kifejezetten sokszínű, ami az ételei és közösségei változatosságában is megmutatkozik. Földrajz K8 — energiaipar és technológiai innováció.",
+      de: "Houston ist die größte Stadt in Texas und ein bedeutendes Zentrum für die Energie- und Luftfahrtindustrie. Als Sitz des Johnson Space Center der NASA ist Houston zentral für die amerikanische Weltraumforschung. Bildungsplan-Bezug: Geografie K7 – Industrielle Zentren.",
+      ro: "Houston este cea mai mare metropolă din Texas și un gigant global în industria energetică, aerospațială și medicală. Fondat în 1836 pe malurile Buffalo Bayou, orașul a prosperat odată cu descoperirea petrolului în Spindletop în 1901. Este sediul Centrului Spațial Johnson al NASA, locul de unde s-au coordonat misiunile Apollo, dând naștere celebrei fraze „Houston, avem o problemă”. În plus, Texas Medical Center este cel mai mare complex de asistență medicală din lume, angajând peste 100.000 de profesioniști. Deși nu are reglementări stricte de zonare, orașul se remarcă printr-o dezvoltare urbană vastă și o economie diversificată, fiind un port maritim esențial datorită Canalului Navigabil Houston. Geografie K7 — centre economice."
+    },
+    factsAdvanced: {
+      hu: ["1836-ban alapították", "A NASA Johnson Űrközpontjának otthona", "A Museum District 19 múzeumnak ad otthont", "Jelentős nemzetközi kikötőváros", "Texas legnagyobb városa", "A város területén több mint 10 000 étterem található"],
+      de: ["Houston ist die viertgrößte Stadt der Vereinigten Staaten.", "Der Hafen von Houston ist einer der größten Seehäfen der Welt.", "Das Lyndon B. Johnson Space Center steuert alle US-Bemannten Weltraummissionen.", "Die Stadt hat ein ausgedehntes unterirdisches Tunnelsystem in der Innenstadt.", "Houston wurde 1836 an den Ufern des Buffalo Bayou gegründet.", "Die Metropolregion beherbergt mehr als 10.000 Energieunternehmen."],
+      ro: ["Orașul a fost fondat la 30 august 1836 de frații Allen.", "Canalul Navigabil Houston a fost deschis oficial în 1914.", "Centrul Spațial Johnson gestionează zborurile spațiale umane din 1961.", "Texas Medical Center găzduiește anual peste 10 milioane de pacienți.", "A fost prima capitală a Republicii Texas între 1837 și 1839.", "Zona metropolitană cuprinde peste 7 milioane de locuitori."]
+    }
+  },
   {
     id: "phoenix-cities-v2",
     type: "state-capital",
@@ -91,7 +135,18 @@ export const poiExtraUsaCitiesV2: POI[] = [
       hu: ["Beceneve 'A Nap Völgye'", "Hegyláncok veszik körül", "Egész évben meleg időjárás", "Fontos gazdasági központ a délnyugaton"],
       ro: ["Poreclit 'Valea Soarelui'", "Înconjurat de lanțuri montane", "Vreme caldă pe tot parcursul anului", "Centru economic important în sud-vest"],
       en: ["Nicknamed 'Valley of the Sun'", "Surrounded by mountain ranges", "Year-round warm weather", "Major economic hub in the Southwest"]
-    }, image: "/poi-images/phoenix-cities-v2.webp"},
+    }, image: "/poi-images/phoenix-cities-v2.webp",
+    descriptionAdvanced: {
+      hu: "Phoenix, Arizona fővárosa, a sivatagi környezetben elterülő 'Nap Völgye' központja. A város robbanásszerű fejlődésen ment keresztül a 20. század második felében, és ma a délnyugati régió egyik vezető gazdasági és kulturális központja. A város körüli hegyek rengeteg lehetőséget kínálnak a túrázáshoz és a szabadtéri kikapcsolódásra. Klímája az év nagy részében forró és száraz, ami meghatározza az építészetét és az életmódot is. Földrajz K8 — sivatagi ökoszisztémák és urbanizáció.",
+      de: "Phoenix, die Hauptstadt Arizonas, liegt im Herzen der Sonora-Wüste und ist eine der am schnellsten wachsenden Städte der USA. Bekannt für ihr heißes Klima und ihre architektonische Bedeutung, zieht die Stadt Outdoor-Enthusiasten und Naturliebhaber an. Bildungsplan-Bezug: Geografie K7 – Klimazonen und Stadtentwicklung. 'Valley of the Sun' inmitten der rauen Wüstenlandschaft. Die Stadt verzeichnete im späten 20. Jahrhundert ein beispielloses Bevölkerungswachstum und entwickelte sich zu einem der führenden Wirtschafts- und Dienstleistungszentren des amerikanischen Südwestens. Die umliegenden Bergketten bieten ideale Bedingungen für Outdoor-Aktivitäten wie Wandern, während das heiß-trockene Klima maßgeblich die Architektur und den Lebensrhythmus bestimmt. Als Zentrum der technologischen Industrie spielt Phoenix eine wichtige Rolle in der regionalen wirtschaftlichen Dynamik. Geografie K8 — sivatagi ökoszisztémák és urbanizáció (Wüstenökosysteme und Urbanisierung).",
+      ro: "Phoenix, situat în inima Deșertului Sonoran, este capitala și cel mai populat oraș din Arizona. Dezvoltat pe ruinele sistemelor de irigații construite de vechiul popor Hohokam, orașul modern a fost fondat în 1867 ca o comunitate agricolă. Climatul său arid, cu peste 300 de zile cu soare pe an, atrage numeroși pensionari și turiști, transformând turismul și tehnologia în piloni economici majori. Numele său simbolizează renașterea orașului din cenușa civilizațiilor anterioare, asemenea păsării mitologice. Expansiunea rapidă după cel de-al Doilea Război Mondial a fost impulsionată de invenția aerului condiționat, făcând locuibile veri cu temperaturi de peste 40°C. Astăzi, Valea Soarelui este un hub important pentru industria semiconductoarelor. Geografie K6 — adaptarea la mediul deșertic."
+    },
+    factsAdvanced: {
+      hu: ["1867-ben alapították", "Beceneve 'A Nap Völgye' (Valley of the Sun)", "Arizona legnépesebb városa", "Az Egyesült Államok ötödik legnagyobb városa", "Több mint 300 napsütéses nap van évente", "Fontos központja a repülőgép- és csúcstechnológiai iparnak"],
+      de: ["Phoenix liegt im 'Valley of the Sun'.", "Die Stadt wurde 1867 auf dem Gelände einer antiken Hohokam-Siedlung gegründet.", "Phoenix hat jährlich über 300 Sonnentage.", "Der South Mountain Park ist einer der größten städtischen Parks weltweit.", "Die Stadt umfasst über 1.300 Quadratkilometer Fläche.", "Phoenix ist der wirtschaftliche und politische Mittelpunkt von Arizona."],
+      ro: ["Sistemele de irigații Hohokam au funcționat cu peste 1000 de ani în urmă.", "Orașul a fost încorporat oficial în anul 1881.", "Phoenix este singura capitală de stat cu o populație de peste un milion.", "Canalul Arizona, finalizat în 1885, a stimulat agricultura locală.", "În timpul verii, temperaturile depășesc frecvent 43 de grade Celsius.", "Găzduiește Muzeul Heard, dedicat culturilor nativilor americani."]
+    }
+  },
   {
     id: "philadelphia-cities-v2",
     type: "city",
@@ -109,7 +164,18 @@ export const poiExtraUsaCitiesV2: POI[] = [
       hu: ["Beceneve 'Philly' vagy 'A testvéri szeretet városa'", "A Szabadság-harang otthona", "Híres a Philly cheesesteakről", "Az USA első fővárosa"],
       ro: ["Poreclit 'Philly' sau 'Orașul Iubirii Frățești'", "Gazda Clopotului Libertății", "Cunoscut pentru cheesesteak-urile Philly", "Prima capitală a SUA"],
       en: ["Nicknamed 'Philly' or 'City of Brotherly Love'", "Home of the Liberty Bell", "Known for Philly cheesesteaks", "First capital of the U.S."]
-    }, image: "/poi-images/philadelphia-cities-v2.webp"},
+    }, image: "/poi-images/philadelphia-cities-v2.webp",
+    descriptionAdvanced: {
+      hu: "Philadelphia történelmi jelentősége megkérdőjelezhetetlen az Egyesült Államok számára, hiszen itt írták alá a Függetlenségi Nyilatkozatot és az Alkotmányt. A 'Testvéri Szeretet Városa' gazdag kulturális örökséggel bír, amely múzeumaiban és történelmi emlékhelyeiben ölt testet. A város a sportrajongók körében is ismert, de a Philly cheesesteak gasztronómiai ikonja is Philadelphia világhírnevét öregbíti. Történelem K8 — az amerikai függetlenségi mozgalmak gyökerei.",
+      de: "Philadelphia, bekannt als 'Stadt der brüderlichen Liebe', war ein zentraler Ort während der amerikanischen Revolution. Die Liberty Bell und die Independence Hall sind historische Symbole der amerikanischen Unabhängigkeit. Bildungsplan-Bezug: Geschichte K8 – Amerikanische Revolution.",
+      ro: "Philadelphia este locul unde s-a născut democrația americană, fiind scena adoptării Declarației de Independență în 1776 și a Constituției Statelor Unite în 1787. Fondat în 1682 de William Penn, numele orașului înseamnă „dragoste frățească” în limba greacă, reflectând idealurile sale de toleranță religioasă. Philadelphia a servit drept prima capitală a națiunii înainte de construirea Washington, D.C. Vizitatorii pot explora Independence Hall și pot admira Clopotul Libertății, simboluri puternice ale luptei pentru libertate. Situat pe râul Delaware, este, de asemenea, un centru educațional și medical major, găzduind Universitatea din Pennsylvania, fondată de Benjamin Franklin în 1740. Orașul îmbină armonios arhitectura colonială cu inovația modernă. Istorie K7 — Revoluția Americană."
+    },
+    factsAdvanced: {
+      hu: ["Az Egyesült Államok első fővárosa volt 1790 és 1800 között", "A Szabadság-harang (Liberty Bell) itt található", "Az Alkotmányos Egyezmény helyszíne", "Az egyik legnagyobb történelmi városközpont az USA-ban", "A Philly cheesesteak szülőhelye", "Több mint 600 nyilvános falfestmény (mural) található a városban"],
+      de: ["Philadelphia war von 1790 bis 1800 die Hauptstadt der USA.", "Die Unabhängigkeitserklärung wurde hier 1776 unterzeichnet.", "Die Liberty Bell ist ein Symbol für Freiheit und Gerechtigkeit.", "Das Philadelphia Museum of Art ist berühmt für seine 'Rocky Steps'.", "Die Stadt wurde 1682 von William Penn gegründet.", "Philadelphia ist bekannt für das traditionelle Cheesesteak-Sandwich."],
+      ro: ["William Penn a fondat orașul în anul 1682.", "Declarația de Independență a fost semnată aici la 4 iulie 1776.", "Constituția SUA a fost redactată la Independence Hall în 1787.", "A fost capitala Statelor Unite între 1790 și 1800.", "Prima bibliotecă publică din America a fost înființată aici în 1731.", "Găzduiește cel mai vechi spital din țară, fondat în 1751."]
+    }
+  },
   {
     id: "san-antonio-cities-v2",
     type: "city",
@@ -127,7 +193,18 @@ export const poiExtraUsaCitiesV2: POI[] = [
       hu: ["Az Alamo, egykori spanyol misszió", "River Walk éttermekkel és üzletekkel", "Erős spanyol kultúra", "Texas legrégebbi települése"],
       ro: ["Alamo, o fostă misiune spaniolă", "River Walk cu restaurante și magazine", "Cultură hispanică puternică", "Cea mai veche municipalitate din Texas"],
       en: ["The Alamo, a former Spanish mission", "River Walk lined with restaurants and shops", "Strong Hispanic culture", "Oldest municipality in Texas"]
-    }, image: "/poi-images/san-antonio-cities-v2.webp"},
+    }, image: "/poi-images/san-antonio-cities-v2.webp",
+    descriptionAdvanced: {
+      hu: "San Antonio Texas egyik történelmileg legfontosabb városa, ahol a spanyol gyarmati örökség és a modern városfejlődés különleges találkozása figyelhető meg. A város leghíresebb pontja az Alamo misszió, amely a texasi szabadságharc szimbólumává vált. A River Walk, a város központján átkanyargó csatornarendszer, a turizmus és a helyi élet központi eleme. San Antonio gazdag spanyol kultúrája és mexikói hatásai mélyen áthatják a város mindennapjait. Történelem K7 — a texasi forradalom és gyarmati múlt.",
+      de: "San Antonio, eine historische Stadt in Texas, ist berühmt für die Alamo-Mission und ihren malerischen River Walk. Die Stadt spiegelt ein reiches kulturelles Erbe aus spanischer Kolonialzeit und texanischer Geschichte wider. Bildungsplan-Bezug: Geschichte K8 – Koloniale Einflüsse.",
+      ro: "San Antonio, situat în regiunea sud-centrală a statului Texas, este un oraș definit de moștenirea sa colonială spaniolă și de importanța sa istorică profundă. Piesa sa de rezistență este Alamo, o misiune spaniolă din secolul al XVIII-lea, devenită faimoasă pentru asediul din 1836, un moment definitoriu în Revoluția Texană. O altă atracție majoră este River Walk (Paseo del Río), o rețea pitorească de alei pietonale de-a lungul râului San Antonio, mărginită de cafenele și magazine. Orașul găzduiește, de asemenea, o prezență militară considerabilă, cu baze importante precum Fort Sam Houston. Misiunile din San Antonio au fost desemnate în 2015 drept Patrimoniu Mondial UNESCO, recunoscând influența lor durabilă asupra culturii texane. Istorie K8 — expansiunea teritorială."
+    },
+    factsAdvanced: {
+      hu: ["1718-ban alapították spanyol misszióként", "Az Alamo a legfontosabb történelmi emlékhely Texasban", "A River Walk több kilométeres belvárosi sétány", "Texas legrégebbi települései közé tartozik", "Erős katonai jelenlét jellemzi", "A Fiesta San Antonio a város legnagyobb éves ünnepsége"],
+      de: ["Das Alamo ist ein historisches Symbol für die Unabhängigkeit von Texas.", "Der San Antonio River Walk ist ein beliebtes urbanes Naherholungsgebiet.", "San Antonio wurde 1718 als spanische Mission gegründet.", "Die Stadt beherbergt mehrere historische Missionen, die zum UNESCO-Welterbe gehören.", "Der Tower of the Americas wurde für die Weltausstellung 1968 gebaut.", "San Antonio ist eine der am schnellsten wachsenden Städte der USA."],
+      ro: ["Misiunea Alamo a fost fondată de exploratorii spanioli în 1718.", "Bătălia de la Alamo s-a desfășurat în februarie-martie 1836.", "River Walk atrage milioane de vizitatori anual pe o distanță de 24 km.", "Turnul Americilor a fost construit pentru expoziția HemisFair din 1968.", "Este sediul celei mai mari baze de pregătire medicală a Armatei SUA.", "Misiunile din San Antonio au devenit Patrimoniu UNESCO în 2015."]
+    }
+  },
   {
     id: "san-diego-cities-v2",
     type: "city",
@@ -145,7 +222,18 @@ export const poiExtraUsaCitiesV2: POI[] = [
       hu: ["A világhírű San Diego-i Állatkert otthona", "Balboa Park számos múzeummal", "Erős amerikai haditengerészeti jelenlét", "Népszerű turisztikai célpont"],
       ro: ["Gazda faimoasei Grădini Zoologice din San Diego", "Parcul Balboa cu numeroase muzee", "Prezență puternică a Marinei SUA", "Destinație turistică populară"],
       en: ["Home to the world-famous San Diego Zoo", "Balboa Park with numerous museums", "Strong U.S. Navy presence", "Popular tourist destination"]
-    }, image: "/poi-images/san-diego-cities-v2.webp"},
+    }, image: "/poi-images/san-diego-cities-v2.webp",
+    descriptionAdvanced: {
+      hu: "San Diego Dél-Kalifornia legdélibb nagyvárosa, amely kellemes, mediterrán klímájáról, strandjairól és parkjairól ismert. A Balboa Park a város kulturális szíve, amely számos múzeumnak és a világhírű San Diego-i Állatkertnek ad otthont. A város gazdasága szorosan kötődik az amerikai haditengerészethez és a tengerészeti kutatásokhoz. San Diego az életminősége és a természeti szépségei miatt az egyik legnépszerűbb turisztikai célpont az Egyesült Államokban. Földrajz K6 — partvidéki éghajlat és rekreáció.",
+      de: "San Diego, gelegen an der Pazifikküste nahe der mexikanischen Grenze, ist bekannt für seinen bedeutenden Hafen und seine Militärpräsenz. Mit dem berühmten San Diego Zoo im Balboa Park ist die Stadt ein wichtiges touristisches Zentrum in Kalifornien. Bildungsplan-Bezug: Geografie K7 – Hafenstädte.",
+      ro: "San Diego, cunoscut ca „Locul de naștere al Californiei”, este renumit pentru portul său natural adânc, plajele extinse și un climat idilic pe tot parcursul anului. Fondat în 1769 odată cu stabilirea Misiunii San Diego de Alcalá, a fost prima așezare europeană de pe Coasta de Vest a Statelor Unite. Astăzi, economia sa este puternic susținută de activități navale, fiind sediul Flotei Pacificului a Marinei SUA, și de un sector biotehnologic înfloritor. Parcul Balboa, unul dintre cele mai mari spații verzi urbane din țară, găzduiește muzee și faimoasa Grădină Zoologică din San Diego, recunoscută mondial pentru eforturile sale de conservare. Apropierea sa de granița cu Mexicul, prin Tijuana, facilitează schimburi culturale și economice vitale. Geografie K7 — orașe de coastă."
+    },
+    factsAdvanced: {
+      hu: ["1769-ben alapították az első spanyol missziót Kaliforniában", "A San Diego-i Állatkert több mint 3500 állatnak ad otthont", "A Balboa Park 4,9 km²-es területen helyezkedik el", "Az amerikai Csendes-óceáni Flotta főhadiszállása", "Számos híres strand, mint a La Jolla Cove", "Fontos biotechnológiai és technológiai központ"],
+      de: ["San Diego ist der Geburtsort von Kalifornien.", "Die Stadt hat eine der größten Marinebasen der Vereinigten Staaten.", "Der Balboa Park beherbergt 17 Museen und den San Diego Zoo.", "Die USS Midway ist heute ein bekanntes Museumsschiff.", "San Diego wurde 1769 durch spanische Entdecker gegründet.", "Das milde, mediterrane Klima macht es zu einem ganzjährigen Reiseziel."],
+      ro: ["Misiunea San Diego de Alcalá a fost înființată în anul 1769.", "Grădina Zoologică din San Diego găzduiește peste 3.500 de animale.", "Baza Navală din San Diego este cea mai mare de pe Coasta de Vest.", "Parcul Balboa a fost principalul loc de desfășurare al Expoziției din 1915.", "Zborul istoric al lui Charles Lindbergh din 1927 a început cu o aeronavă construită aici.", "Podul Coronado, inaugurat în 1969, conectează orașul de insula Coronado."]
+    }
+  },
   {
     id: "dallas-cities-v2",
     type: "city",
@@ -163,7 +251,18 @@ export const poiExtraUsaCitiesV2: POI[] = [
       hu: ["Híres a Dallas Cowboys (NFL) csapatáról", "Az Arts District az USA legnagyobb városi művészeti negyede", "Történelmi West End", "John F. Kennedy meggyilkolásának helyszíne"],
       ro: ["Cunoscut pentru Dallas Cowboys (NFL)", "Districtul Artelor este cel mai mare district urban de artă din SUA", "West End istoric", "Locul asasinării lui John F. Kennedy"],
       en: ["Known for the Dallas Cowboys (NFL)", "Arts District is the largest urban arts district in the U.S.", "Historic West End", "Site of the assassination of John F. Kennedy"]
-    }, image: "/poi-images/dallas-cities-v2.webp"},
+    }, image: "/poi-images/dallas-cities-v2.webp",
+    descriptionAdvanced: {
+      hu: "Dallas Észak-Texas gazdasági és kulturális központja, amely a kereskedelem és az üzleti élet egyik legfontosabb amerikai városa. A város művészeti negyede, az Arts District, a legnagyobb városi művészeti negyed az országban. Történelmileg is ismert, de sajnálatos módon a Kennedy-merénylet helyszíneként is bevonult a köztudatba. Dallas dinamikus városa, amely folyamatosan fejlődik a technológia és az üzleti innováció terén. Földrajz K8 — kereskedelmi csomópontok és városépítészet.",
+      de: "Dallas, eine bedeutende Metropole in Nordtexas, ist ein wichtiges Zentrum für Handel, Telekommunikation und Finanzdienstleistungen. Die Stadt ist weltweit durch ihre moderne Architektur und die historische Bedeutung während der Ära um die Ermordung von Präsident Kennedy bekannt. Bildungsplan-Bezug: Geografie K7 – Wirtschaftsregionen.",
+      ro: "Dallas, o metropolă vibrantă situată în nordul statului Texas, este inima unui vast conglomerat economic care combină tehnologia, telecomunicațiile și finanțele. Inițial un centru important pentru industria bumbacului și a petrolului după expansiunea rețelei feroviare în anii 1870, orașul a evoluat într-un hub corporativ major, găzduind numeroase companii din topul Fortune 500. Dallas este, din păcate, cunoscut și ca locul asasinării președintelui John F. Kennedy în noiembrie 1963, eveniment comemorat la muzeul The Sixth Floor. Orizontul său arhitectural este punctat de clădiri moderne și de emblematicul Reunion Tower. Aeroportul Internațional Dallas/Fort Worth, unul dintre cele mai mari și mai aglomerate din lume, susține rolul său de nod logistic esențial. Istorie K8 — Statele Unite în secolul XX."
+    },
+    factsAdvanced: {
+      hu: ["1841-ben alapították", "Az Arts District az USA legnagyobb városon belüli művészeti negyede", "A Dallas Cowboys (NFL) otthona", "John F. Kennedy meggyilkolásának helyszíne (Dealey Plaza)", "A DFW Repülőtér a világ egyik legforgalmasabb repülőtere", "Jelentős pénzügyi és banki központ"],
+      de: ["Dallas wurde 1841 gegründet.", "Der Dallas/Fort Worth International Airport ist einer der größten der Welt.", "Das Sixth Floor Museum am Dealey Plaza dokumentiert die Ära Kennedy.", "Die Stadt beherbergt eine der größten Kunstsammlungen im Dallas Arts District.", "Dallas war ein wichtiges Zentrum für die Öl- und Baumwollindustrie.", "Die Skyline von Dallas ist durch den Reunion Tower weithin erkennbar."],
+      ro: ["Așezarea originală a fost fondată de John Neely Bryan în 1841.", "Președintele John F. Kennedy a fost asasinat aici la 22 noiembrie 1963.", "Aeroportul DFW a fost inaugurat oficial în anul 1974.", "Reunion Tower are o înălțime de 171 de metri și domină orizontul orașului.", "Găzduiește Târgul de Stat din Texas, organizat anual din 1886.", "Economia sa este susținută de peste 20 de companii din Fortune 500."]
+    }
+  },
   {
     id: "san-jose-cities-v2",
     type: "city",
@@ -181,7 +280,20 @@ export const poiExtraUsaCitiesV2: POI[] = [
       hu: ["A 'Szilícium-völgy fővárosának' tartják", "Magas a technológiai vállalatok koncentrációja", "Winchester Mystery House", "Innovációs Technológiai Múzeum"],
       ro: ["Considerat 'Capitala Silicon Valley'", "Concentrație mare de companii de tehnologie", "Casa Misterelor Winchester", "Muzeul de Tehnologie al Inovației"],
       en: ["Considered the 'Capital of Silicon Valley'", "High concentration of tech companies", "Winchester Mystery House", "Tech Museum of Innovation"]
-    }, image: "/poi-images/san-jose-cities-v2.webp"},
+    }, image: "/poi-images/san-jose-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "San Jose ist das wirtschaftliche Herz des Silicon Valley, weltbekannt als Zentrum für Technologie und Innovation. Die Stadt ist Hauptsitz zahlreicher Tech-Giganten und prägt mit ihrer Entwicklung die moderne digitale Wirtschaft. Bildungsplan-Bezug: Wirtschaft K8 – Technologischer Fortschritt.",
+      hu: "",
+      ro: "San Jose, situat la extremitatea sudică a Golfului San Francisco, este considerat centrul cultural, financiar și politic al renumitei regiuni Silicon Valley. Ceea ce a fost odinioară o comunitate agricolă prosperă, denumită „Valea Deliciului Inimii” pentru livezile sale, s-a transformat după anii 1950 într-un colos al inovației tehnologice. Companii de renume mondial, precum Cisco și eBay, își au sediul aici, atrase de spiritul antreprenorial susținut de apropierea de Universitatea Stanford. Orașul se distinge prin sustenabilitatea sa urbană și un nivel de trai ridicat. San Jose a fost, de asemenea, prima capitală a statului California în 1850. Muzeul de Inovație Tech Interactive și misterioasa Casă Winchester se numără printre atracțiile sale notabile. Geografie K8 — inovație tehnologică.",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["San Jose ist die drittgrößte Stadt Kaliforniens.", "Die Stadt gilt als die Hauptstadt des Silicon Valley.", "Im Tech Interactive Museum werden technologische Innovationen erlebbar gemacht.", "San Jose wurde 1777 als erste zivile Siedlung Kaliforniens gegründet.", "Die Stadt hat eine sehr hohe Konzentration an Patentanmeldungen.", "San Jose ist Sitz von namhaften Unternehmen wie Adobe und Cisco Systems."],
+      hu: [],
+      ro: ["A fost fondat ca Pueblo de San José de Guadalupe în 1777.", "A servit drept prima capitală a Californiei între 1850 și 1851.", "Tranziția de la agricultură la tehnologie a început masiv în anii 1950.", "Universitatea de Stat din San Jose, fondată în 1857, este cea mai veche din vest.", "Winchester Mystery House are 160 de camere și o arhitectură neobișnuită.", "Peste 35% din populația orașului este născută în afara Statelor Unite."],
+      en: []
+    }
+  },
   {
     id: "austin-cities-v2",
     type: "state-capital",
@@ -199,7 +311,20 @@ export const poiExtraUsaCitiesV2: POI[] = [
       hu: ["'A világ élőzenei fővárosa'", "South by Southwest (SXSW) fesztivál", "'Keep Austin Weird' (Tartsd meg Austint furcsának) mottó", "Növekvő 'Silicon Hills' technológiai központ"],
       ro: ["'Capitala mondială a muzicii live'", "Festivalul South by Southwest (SXSW)", "Motto-ul 'Păstrează Austinul ciudat'", "Centru tehnologic în creștere 'Silicon Hills'"],
       en: ["'Live Music Capital of the World'", "South by Southwest (SXSW) festival", "'Keep Austin Weird' motto", "Growing 'Silicon Hills' tech hub"]
-    }, image: "/poi-images/austin-cities-v2.webp"},
+    }, image: "/poi-images/austin-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Austin, die Hauptstadt von Texas, ist bekannt für ihre lebendige Musikszene, ihre Rolle in der aufstrebenden Tech-Industrie und als Sitz bedeutender staatlicher Institutionen. Die Stadt verbindet eine lockere, kreative Atmosphäre – oft unter dem Motto 'Keep Austin Weird' bekannt – mit einem rasanten wirtschaftlichen Wachstum, das Unternehmen aus aller Welt anzieht. Als Bildungsstandort, insbesondere durch die University of Texas, fördert Austin eine dynamische Umgebung für Innovation und Forschung. Die landschaftliche Lage nahe der Texas Hill Country-Region bietet zudem attraktive Erholungsmöglichkeiten am Lady Bird Lake. Geografie K7 — Bildungszentren und urbane Lifestyle-Trends.",
+      hu: "Austin, Texas fővárosa, az 'élő zene világfővárosaként' ismert. A város dinamikusan fejlődő technológiai központ, amelyet gyakran 'Silicon Hills'-ként emlegetnek. A South by Southwest (SXSW) fesztivál évről évre látogatók tömegeit vonzza a városba. Austin a 'Keep Austin Weird' mottójával a kreativitást és az egyediséget ünnepli, miközben természeti szépségei, mint a Colorado folyó és a környező dombvidék, kiváló rekreációs lehetőségeket nyújtanak. Földrajz K8 — technológiai innováció és városi kultúra.",
+      ro: "Austin este capitala statului Texas și o enclavă culturală vibrantă, cunoscută oficial ca „Capitala Mondială a Muzicii Live”. Situat de-a lungul râului Colorado, pe care sunt amenajate mai multe lacuri pitorești precum Lady Bird Lake, orașul îmbină politica de stat cu inovația și educația. Aici se află Universitatea Texas din Austin, fondată în 1883, care joacă un rol crucial în furnizarea de talente pentru ecosistemul tehnologic local, denumit „Silicon Hills”. Festivalul anual South by Southwest (SXSW) adună profesioniști din tehnologie, film și muzică din întreaga lume. Capitoliul Statului Texas, finalizat în 1888, din granit roz, este o emblemă arhitecturală care domină orizontul orașului, reflectând mândria și spiritul independent texan. Geografie K7 — capitale de stat.",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Wurde 1839 als Hauptstadt der Republik Texas ausgewählt", "Heimat der University of Texas at Austin mit einer großen Forschungsabteilung", "International bekannt als 'Live Music Capital of the World'", "Zentrum des populären South by Southwest (SXSW) Festivals", "Verfügt über einen der größten städtischen Fledermausbestände in Nordamerika", "Erlebt ein kontinuierliches und schnelles Wirtschaftswachstum im Tech-Sektor"],
+      hu: ["1839-ben alapították", "Texas fővárosa", "A 'Silicon Hills' technológiai központ", "Híres az élőzenei színteréről", "A South by Southwest fesztivál otthona", "A 'Keep Austin Weird' mottó a város jelképe"],
+      ro: ["A devenit capitala Republicii Texas în anul 1839.", "Clădirea Capitoliului a fost finalizată în 1888 folosind granit roz.", "Universitatea Texas din Austin a fost fondată oficial în 1883.", "Festivalul SXSW se desfășoară anual începând din anul 1987.", "Zeci de mii de lilieci își au habitatul sub podul Congress Avenue.", "Numele inițial al așezării a fost Waterloo, înainte de a fi redenumit."],
+      en: []
+    }
+  },
   {
     id: "jacksonville-cities-v2",
     type: "city",
@@ -217,7 +342,20 @@ export const poiExtraUsaCitiesV2: POI[] = [
       hu: ["Nagy katonai és polgári kikötő", "Kiterjedt parkrendszer", "Jacksonville Jaguars (NFL)", "A St. Johns folyó áthalad a városon"],
       ro: ["Port militar și civil mare", "Sistem extins de parcuri", "Jacksonville Jaguars (NFL)", "Râul St. Johns traversează orașul"],
       en: ["Large military and civilian deepwater port", "Extensive park system", "Jacksonville Jaguars (NFL)", "St. Johns River flows through the city"]
-    }, image: "/poi-images/jacksonville-cities-v2.webp"},
+    }, image: "/poi-images/jacksonville-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Jacksonville in Florida ist die flächenmäßig größte Stadt der kontinentalen Vereinigten Staaten und zeichnet sich durch seine strategische Lage am St. Johns River sowie den Zugang zum Atlantischen Ozean aus. Die Stadt verbindet eine bedeutende wirtschaftliche Basis in der Logistik- und Finanzbranche mit einem hohen Freizeitwert durch ausgedehnte Küstenabschnitte. Durch die Integration zahlreicher Stadtviertel und eine weitläufige Stadtplanung bietet Jacksonville eine vielfältige urbane Struktur, die sowohl urbanes Leben als auch naturnahe Erholung ermöglicht. Ihre Bedeutung als logistischer Umschlagplatz im Südosten der USA ist ein wesentlicher Faktor für ihr stetiges Wachstum. Geografie K7 — küstennahe Infrastruktur und urbane Flächennutzung.",
+      hu: "Jacksonville Florida legnagyobb kiterjedésű városa, a St. Johns folyó partján fekszik, és közvetlen hozzáférést biztosít az Atlanti-óceánhoz. A város fontos katonai és polgári kikötőhely, gazdag parkrendszerrel rendelkezik. A város a sportok terén is aktív, többek között a Jacksonville Jaguars NFL-csapat otthona. A folyó és az óceán közelsége meghatározza a város életmódját és rekreációs lehetőségeit. Földrajz K7 — tengerparti városok és logisztika.",
+      ro: "Jacksonville, situat în nord-estul Floridei, este cel mai mare oraș ca suprafață din partea continentală a Statelor Unite, acoperind un teritoriu vast de-a lungul râului St. Johns. Această expansiune geografică a fost rezultatul consolidării dintre oraș și comitatul Duval în 1968. Portul său de apă adâncă este un centru logistic civil și militar esențial, servind drept hub major pentru comerțul internațional și găzduind mai multe baze ale Marinei SUA. Climatul subtropical umed și kilometrii de plaje nisipoase la Oceanul Atlantic atrag numeroși turiști și pasionați de golf. Orașul este recunoscut pentru parcurile sale urbane imense, oferind oportunități excelente pentru ecoturism, și pentru podurile sale impunătoare care traversează cursul larg al râului. Geografie K6 — administrare urbană.",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Wurde 1822 offiziell gegründet", "Flächenmäßig größte Stadt der kontinentalen USA", "Bedeutender Knotenpunkt für den Güterverkehr und die Logistikbranche", "Die Küstenlinie umfasst über 30 Kilometer an Sandstränden", "Die Jacksonville Landing war ein zentraler Ort für lokale Events am Fluss", "Wichtiger Standort für die Finanzdienstleistungsbranche und die US-Marine"],
+      hu: ["Az Egyesült Államok legnagyobb kiterjedésű városa", "A St. Johns folyó keresztezi a várost", "Jelentős katonai és polgári kikötő", "A Jacksonville Jaguars (NFL) otthona", "Kiterjedt városi parkrendszer jellemzi", "Atlantai partvidék központi szereplője"],
+      ro: ["Așezarea a fost numită în onoarea președintelui Andrew Jackson în 1822.", "Consolidarea cu comitatul Duval a avut loc la 1 octombrie 1968.", "Acoperă o suprafață totală de aproximativ 2.265 kilometri pătrați.", "Marele Incendiu din 1901 a distrus o mare parte din centrul orașului.", "Portul său manevrează anual milioane de tone de mărfuri containerizate.", "Sistemul său de parcuri urbane este cel mai extins din Statele Unite."],
+      en: []
+    }
+  },
   {
     id: "fort-worth-cities-v2",
     type: "city",
@@ -235,7 +373,20 @@ export const poiExtraUsaCitiesV2: POI[] = [
       hu: ["Történelmi vágóhidak", "Kimbell Művészeti Múzeum", "A Dallas-Fort Worth Metroplex része", "Kulturális negyed világszínvonalú múzeumokkal"],
       ro: ["Târguri de vite istorice", "Muzeul de Artă Kimbell", "Parte a Metroplexului Dallas-Fort Worth", "District cultural cu muzee de clasă mondială"],
       en: ["Historic Stockyards", "Kimbell Art Museum", "Part of the Dallas-Fort Worth metroplex", "Cultural District with world-class museums"]
-    }, image: "/poi-images/fort-worth-cities-v2.webp"},
+    }, image: "/poi-images/fort-worth-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Fort Worth, oft als Ort bezeichnet, an dem der 'Westen beginnt', ist tief in der Geschichte der Viehzucht und des Rodeo-Sports verwurzelt. Heute präsentiert sich die Stadt als kulturell reiches Zentrum mit einem weltbekannten Museumsviertel, das unter anderem das Kimbell Art Museum beherbergt. Während Fort Worth ein bedeutendes Wachstum in industriellen Bereichen wie der Luft- und Raumfahrt verzeichnet, bewahrt es seinen historischen Charme, der besonders im 'Stockyards'-Viertel erlebbar ist. Diese Balance zwischen moderner wirtschaftlicher Dynamik und der Bewahrung des 'Wild-West'-Erbes macht Fort Worth zu einem einzigartigen Bestandteil der texanischen Identität. Geschichte K8 — Viehzucht und industrieller Wandel.",
+      hu: "Fort Worth, Texas északi részén, a Dallas-Fort Worth Metroplex részeként ismert. A város őrzi vadnyugati hagyományait a történelmi Stockyards negyedében, ahol a marhahajtás története elevenedik meg. Ugyanakkor Fort Worth kulturális központ is, világszínvonalú múzeumokkal, mint a Kimbell Művészeti Múzeum. A város a texasi történelem és a modern élet egyedi keveréke. Történelem K7 — marhahajtás és amerikai határvidék.",
+      ro: "Fort Worth, supranumit „Orașul Vacilor”, și-a păstrat cu mândrie moștenirea de centru major al comerțului cu vite, o componentă esențială a identității texane. Înființat în 1849 ca un post militar pentru protecția coloniștilor de pe frontieră, a devenit rapid o oprire vitală pe legendarul traseu de vite Chisholm Trail. Astăzi, cartierul istoric Stockyards găzduiește de două ori pe zi o paradă a vacilor din rasa Longhorn, păstrând vie atmosfera Vestului Sălbatic. Cu toate acestea, Fort Worth este o metropolă modernă cu o economie diversificată, excelând în industria aviației și apărării. Orașul se remarcă, de asemenea, prin complexul său cultural, care include muzee de artă de clasă mondială, precum Muzeul de Artă Kimbell, proiectat de arhitecți renumiți. Istorie K7 — expansiunea spre vest.",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Ursprünglich 1849 als Armeeposten gegründet", "Das Stockyards-Viertel bewahrt den Charakter der Rinderhandels-Ära", "Heimat des Kimbell Art Museums mit einer erstklassigen Kunstsammlung", "Wichtiger Standort für die Rüstungs- und Luftfahrtindustrie", "Das 'Fort Worth Zoo' ist der älteste Zoo in Texas", "Veranstaltet das jährlich stattfindende Fort Worth Stock Show & Rodeo"],
+      hu: ["A Dallas-Fort Worth Metroplex része", "Történelmi marhahajtó központ (Stockyards)", "A Kimbell Művészeti Múzeum híres gyűjteménye", "Világszínvonalú kulturális negyed", "Észak-Texas egyik gazdasági motorja", "Gazdag vadnyugati örökség"],
+      ro: ["A fost înființat inițial ca avanpost militar al Armatei în 1849.", "Stockyards a fost deschis oficial ca piață de vite în 1890.", "Ruta Chisholm Trail transporta milioane de vite spre nord în secolul XIX.", "Muzeul de Artă Kimbell a fost deschis publicului în anul 1972.", "Uzina Lockheed Martin construiește avioane militare avansate în oraș.", "Împarte al doilea cel mai aglomerat aeroport din SUA cu Dallas."],
+      en: []
+    }
+  },
   {
     id: "columbus-cities-v2",
     type: "state-capital",
@@ -253,7 +404,20 @@ export const poiExtraUsaCitiesV2: POI[] = [
       hu: ["Nagy és változatos gazdaság", "German Village, egy történelmi negyed", "Scioto Mile, egy folyóparti városi park", "Ohio State Buckeyes futball"],
       ro: ["Economie mare și diversificată", "German Village, un cartier istoric", "Scioto Mile, un parc urban pe malul râului", "Fotbalul Ohio State Buckeyes"],
       en: ["Large and diverse economy", "German Village, a historic neighborhood", "Scioto Mile, a riverfront urban park", "Ohio State Buckeyes football"]
-    }, image: "/poi-images/columbus-cities-v2.webp"},
+    }, image: "/poi-images/columbus-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Columbus, die Hauptstadt von Ohio, fungiert als zentraler Wirtschafts- und Bildungsstandort im Mittleren Westen, unter anderem durch den Sitz der Ohio State University. Die Stadt zeichnet sich durch eine vielfältige ökonomische Basis aus, die von der Forschung und Entwicklung bis hin zur Versicherungsbranche reicht. Mit einem modernen Stadtbild und einer ausgeprägten Architektur am Scioto River bietet Columbus eine hohe Lebensqualität und eine zunehmend dynamische urbane Kulturszene. Durch strategische Investitionen in die lokale Infrastruktur und Wissenschaftsstandorte hat sich die Stadt als wichtiger Wachstumsmotor in der Region etabliert. Geografie K7 — Bildungslandschaften und regionale Wirtschaftsstruktur.",
+      hu: "Columbus, Ohio állam fővárosa, az Ohio State University otthona, amely jelentős szerepet játszik a város életében. A város gazdasága sokszínű, és a Scioto folyó mentén kialakított Scioto Mile egy modern, városi parkrendszer. A történelmi German Village negyed megőrizte 19. századi karakterét, míg a város folyamatosan fejlődik a technológia és az innováció terén. Földrajz K6 — középnyugati városfejlődés és oktatási központok.",
+      ro: "Columbus este capitala și cel mai mare oraș al statului Ohio, situat la confluența râurilor Scioto și Olentangy. Fondat în 1812 special pentru a servi drept centru administrativ al statului, orașul s-a dezvoltat inițial datorită construcției Drumului Național și a Canalului Ohio-Erie. Inima intelectuală și sportivă a metropolei este Universitatea de Stat din Ohio, fondată în 1870, una dintre cele mai mari și mai bine finanțate instituții de învățământ superior din Statele Unite. Economia sa este puternic diversificată, nefiind dependentă de un singur sector industrial, cu puncte forte în educație, asigurări, bănci, modă, logistică și cercetare medicală. Orizontul orașului este dominat de clădiri moderne, alături de cartiere istorice restaurate precum German Village. Geografie K7 — planificare urbană.",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Gegründet im Jahr 1812 als neue Hauptstadt des Bundesstaates", "Beheimatet die Ohio State University, eine der größten Universitäten der USA", "Das historische German Village bewahrt die deutsche Architektur des 19. Jahrhunderts", "Zentraler Wirtschaftsstandort im Mittleren Westen", "Bedeutender Hub für Versicherungs- und Finanzdienstleistungen", "Das Columbus Museum of Art ist ein bedeutender kultureller Anker"],
+      hu: ["Ohio fővárosa", "Az Ohio State University székhelye", "German Village történelmi negyede", "A Scioto Mile parkrendszer a folyó mentén", "Sokszínű és erős gazdaság", "Az Ohio State Buckeyes csapat sikereiről ismert"],
+      ro: ["A fost desemnat capitala statului Ohio în anul 1812.", "Drumul Național a ajuns în Columbus în anul 1833, stimulând creșterea.", "Universitatea de Stat din Ohio și-a deschis porțile în 1873.", "German Village a fost construit de imigranți în mijlocul secolului al XIX-lea.", "Este sediul institutului de cercetare științifică Battelle Memorial Institute.", "Parcul Scioto Mile oferă zeci de hectare de spațiu verde riveran."],
+      en: []
+    }
+  },
   {
     id: "charlotte-cities-v2",
     type: "city",
@@ -271,7 +435,20 @@ export const poiExtraUsaCitiesV2: POI[] = [
       hu: ["Az USA második legnagyobb bankközpontja", "A Carolina Panthers (NFL) otthona", "NASCAR Hírességek Csarnoka", "Beceneve 'A Királynő Városa'"],
       ro: ["Al doilea cel mai mare centru bancar din SUA", "Gazda Carolina Panthers (NFL)", "NASCAR Hall of Fame", "Poreclit 'Orașul Regină'"],
       en: ["Second-largest banking center in the U.S.", "Home to the Carolina Panthers (NFL)", "NASCAR Hall of Fame", "Nicknamed the 'Queen City'"]
-    }, image: "/poi-images/charlotte-cities-v2.webp"},
+    }, image: "/poi-images/charlotte-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Charlotte in North Carolina hat sich zu einem der bedeutendsten Finanzzentren der Vereinigten Staaten entwickelt und spielt eine Schlüsselrolle im wirtschaftlichen Gefüge der südöstlichen Bundesstaaten. Die Stadt verbindet eine florierende Finanzindustrie mit einem dynamischen Wachstum in Technologie- und Energiebereichen, was sie zu einem attraktiven Standort für junge Fachkräfte macht. Mit einer ausgeprägten städtischen Identität, die durch Sportbegeisterung (insbesondere für NASCAR und das NFL-Team Panthers) und eine lebendige kulturelle Szene geprägt ist, bietet Charlotte eine moderne urbane Erfahrung. Die stetige Investition in urbane Infrastruktur unterstützt das rasante Bevölkerungswachstum. Geografie K8 — Finanzzentren und regionales Wirtschaftswachstum.",
+      hu: "Charlotte, Észak-Karolina legnagyobb városa, az Egyesült Államok második legnagyobb pénzügyi központja. A 'Queen City'-ként emlegetett metropolisz dinamikus növekedésen ment keresztül, különösen a pénzügyi szektorban. A város a sportrajongók számára is vonzó, hiszen a Carolina Panthers (NFL) otthona. Charlotte emellett fontos szerepet játszik a NASCAR világában, a Hírességek Csarnoka is itt található. Földrajz K8 — pénzügyi központok és városi növekedés.",
+      ro: "Charlotte, cel mai populat oraș din Carolina de Nord, este un colos financiar, clasându-se printre cele mai importante centre bancare din Statele Unite, după New York City. Supranumit „Orașul Regină” în onoarea Charlottei de Mecklenburg-Strelitz, soția regelui George al III-lea al Marii Britanii, așezarea a prosperat inițial datorită primei goane după aur documentate în America, începută în 1799. În prezent, orizontul dominat de zgârie-nori corporativi subliniază prosperitatea sa economică. Dincolo de finanțe, orașul este inima sporturilor cu motor din SUA, găzduind sediile majorității echipelor de curse NASCAR și faimosul circuit Charlotte Motor Speedway. Regiunea atrage o forță de muncă tânără și dinamică, susținută de o dezvoltare rapidă a infrastructurii urbane. Geografie K8 — centre economice.",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["1768 gegründet und nach der britischen Königin Charlotte benannt", "Zweitgrößtes Finanzzentrum der USA nach New York City", "Beheimatet das NASCAR Hall of Fame, ein Symbol der regionalen Rennsportkultur", "Hauptsitz des NFL-Teams Carolina Panthers", "Die Wirtschaft ist stark durch Banken- und Finanzdienstleistungen geprägt", "Verzeichnete in den letzten Jahrzehnten ein außerordentliches Bevölkerungswachstum"],
+      hu: ["Észak-Karolina legnagyobb városa", "Az USA második legnagyobb bankközpontja", "A Carolina Panthers (NFL) székhelye", "A NASCAR Hírességek Csarnokának otthona", "Beceneve 'Queen City'", "Fontos pénzügyi és kereskedelmi központ"],
+      ro: ["A fost fondat în 1768 și numit după Regina Charlotte a Marii Britanii.", "Prima mină de aur comercială din SUA a fost deschisă aici în 1799.", "Bank of America și-a stabilit sediul central corporativ în oraș.", "Charlotte Motor Speedway găzduiește curse de automobile din 1960.", "Hall of Fame-ul NASCAR a fost inaugurat oficial în anul 2010.", "Aeroportul Internațional Charlotte Douglas are sute de zboruri zilnice."],
+      en: []
+    }
+  },
   {
     id: "indianapolis-cities-v2",
     type: "state-capital",
@@ -289,7 +466,20 @@ export const poiExtraUsaCitiesV2: POI[] = [
       hu: ["Indianapolis Motor Speedway", "Indiana legnagyobb városa", "Beceneve 'Indy' és 'Amerika Kereszteződése'", "Kiterjedt kerékpárút-hálózat"],
       ro: ["Indianapolis Motor Speedway", "Cel mai mare oraș din Indiana", "Poreclit 'Indy' și 'Răscrucea Americii'", "Rețea extinsă de piste pentru biciclete"],
       en: ["Indianapolis Motor Speedway", "Largest city in Indiana", "Nicknamed 'Indy' and the 'Crossroads of America'", "Extensive network of bike trails"]
-    }, image: "/poi-images/indianapolis-cities-v2.webp"},
+    }, image: "/poi-images/indianapolis-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Indianapolis, bekannt als 'Indy', ist die Hauptstadt von Indiana und weltweit berühmt für den Indianapolis Motor Speedway, der jährlich das berühmte Indy 500-Rennen beheimatet. Die Stadt dient als ein wichtiger Knotenpunkt für Logistik, Sport-Tourismus und zunehmend für die Biowissenschaftsbranche. Indianapolis verbindet eine überschaubare, stadtnahe Infrastruktur mit einer ausgeprägten Architektur und einem starken Fokus auf die Förderung sportlicher Großereignisse. Ihre Lage inmitten des sogenannten 'Corn Belt' unterstreicht die historische Verbindung zur Agrarwirtschaft, während die moderne Stadtentwicklung die Stadt zu einem dynamischen Zentrum für den Mittleren Westen macht. Geografie K7 — Infrastruktur und Sporttourismus.",
+      hu: "Indianapolis, Indiana fővárosa, világszerte ismert a legendás autóversenyéről, az Indianapolis 500-ról. A város az állam legnagyobb központja, amely kiterjedt kerékpárút-hálózattal és élénk belvárossal rendelkezik. A város a sportesemények és közösségi találkozók kedvelt helyszíne, amit az elhelyezkedése miatt 'Amerika Kereszteződésének' is hívnak. Földrajz K6 — autóipar és városi infrastruktúra.",
+      ro: "Indianapolis, capitala și cel mai populat oraș din Indiana, este recunoscut la nivel global pentru moștenirea sa în sporturile cu motor. În fiecare an, la sfârșitul lunii mai, orașul găzduiește legendarul Indianapolis 500 la Indianapolis Motor Speedway, una dintre cele mai vechi și mai prestigioase curse auto din lume, care adună sute de mii de spectatori. Planificat în 1821 pe malurile râului White, orașul are o dispunere urbană inspirată de Washington, D.C., cu un cerc central de unde radiază străzile. Monument Circle, situat în inima orașului, este dominat de impunătorul Monument al Soldaților și Marinarilor. Astăzi, economia metropolei se bazează pe producție, asistență medicală și farmaceutică, găzduind gigantul Eli Lilly and Company. Geografie K7 — cultură sportivă.",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["1821 gegründet und als Hauptstadt geplant", "Heimat des 'Indianapolis 500' Automobilrennens", "Besitzt ein ausgedehntes unterirdisches Tunnelsystem in der Innenstadt", "Wichtiger Hub für Logistik und Transportunternehmen", "Starker Fokus auf die Entwicklung der Biowissenschaftsindustrie", "Das Indiana State Capitol im Neoklassizismus-Stil ist ein markantes Bauwerk"],
+      hu: ["Indiana fővárosa", "Az Indianapolis 500 autóverseny helyszíne", "Az 'Amerika Kereszteződése' (Crossroads of America) becenév", "Kiterjedt kerékpárút-hálózat", "A város legnagyobb sport- és kulturális központja", "Folyamatosan növekvő gazdaság"],
+      ro: ["A fost ales drept capitală a statului Indiana în anul 1821.", "Prima cursă Indianapolis 500 s-a desfășurat în anul 1911.", "Indianapolis Motor Speedway are o capacitate de peste 250.000 de locuri.", "Monumentul Soldaților și Marinarilor a fost finalizat în 1901.", "Compania farmaceutică Eli Lilly a fost fondată aici în 1876.", "Muzeul de Artă din Indianapolis dispune de vaste colecții internaționale."],
+      en: []
+    }
+  },
   {
     id: "seattle-cities-v2",
     type: "city",
@@ -307,7 +497,20 @@ export const poiExtraUsaCitiesV2: POI[] = [
       hu: ["A Microsoft és az Amazon otthona (a nagyvárosi területen)", "Space Needle, az 1962-es világkiállítás jelképe", "Pike Place Market", "A grunge zene szülőhelye"],
       ro: ["Sediul Microsoft și Amazon (în zona metropolitană)", "Space Needle, un simbol al Expoziției Mondiale din 1962", "Piața Pike Place", "Locul de naștere al muzicii grunge"],
       en: ["Home to Microsoft and Amazon (in metro area)", "Space Needle, a landmark from the 1962 World's Fair", "Pike Place Market", "Birthplace of grunge music"]
-    }, image: "/poi-images/seattle-cities-v2.webp"},
+    }, image: "/poi-images/seattle-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Seattle, malerisch zwischen dem Puget Sound und dem Lake Washington gelegen, ist ein globales Zentrum für Innovation, Technologie und Musik. Als Heimat von Giganten wie Amazon und Microsoft hat die Stadt die moderne digitale Wirtschaft maßgeblich geprägt. Die kulturelle Identität Seattles ist tief verwurzelt in einer starken Kaffeekultur – als Ursprungsort von Starbucks – sowie einer ausgeprägten Musikszene, die die Grunge-Welle der 1990er hervorbrachte. Umgeben von atemberaubender Natur, einschließlich der Cascade Mountains, bietet Seattle eine weltweit einzigartige Kombination aus urbanem Hightech-Lifestyle und direkter Anbindung an die Wildnis. Geografie K7 — globale Technologiezentren und Naturräume.",
+      hu: "Seattle, a Csendes-óceáni északnyugati régió technológiai és gazdasági központja, amelyet lenyűgöző természeti tájak vesznek körül. A város a Microsoft és az Amazon otthona (a nagyvárosi területen), ami meghatározó a globális technológiai szektorban. A Space Needle, amely az 1962-es világkiállítás emléke, máig Seattle szimbóluma. A város kulturális életét a grunge zene születése és a nyüzsgő Pike Place Market határozza meg. Földrajz K7 — technológia és természeti környezet.",
+      ro: "Seattle, denumit „Orașul de Smarald” pentru abundența pădurilor perene din jur, este situat pe un istm îngust între Puget Sound și Lacul Washington. Evoluând de la un centru forestier la o destinație majoră în timpul Goanei după Aur din Klondike în 1897, orașul a devenit astăzi un gigant al tehnologiei, găzduind sediile centrale ale Amazon și Microsoft (în Redmond). Este, de asemenea, locul de naștere al culturii moderne a cafenelelor, odată cu fondarea Starbucks în 1971, și a muzicii grunge în anii '90. Orizontul său este dominat de Space Needle, construit pentru Târgul Mondial din 1962, iar în zilele senine, fundalul este asigurat de impunătorul vulcan Muntele Rainier. Seattle combină inovația corporativă cu un angajament profund față de conservarea mediului. Geografie K8 — inovație și mediu.",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Wurde 1851 gegründet", "Globaler Hauptsitz von Unternehmen wie Amazon und Microsoft", "Das Wahrzeichen Space Needle wurde für die Weltausstellung 1962 erbaut", "Bekannt für den Pike Place Market, einen der ältesten öffentlichen Märkte der USA", "Ursprungsort der Grunge-Musik und der ersten Starbucks-Filiale", "Umgeben von Bergen und Wasser (Puget Sound und Cascade Mountains)"],
+      hu: ["A Microsoft és az Amazon központja", "A Space Needle az 1962-es világkiállítás jelképe", "A Pike Place Market az egyik legrégebbi nyilvános piac", "A grunge zene szülőhelye", "A vízi utak és hegyek ölelésében fekszik", "Fontos tengeri kikötőváros"],
+      ro: ["A fost numit după Căpetenia Seattle a triburilor Suquamish și Duwamish.", "Primul magazin Starbucks s-a deschis în Pike Place Market în 1971.", "Space Needle, înalt de 184 metri, a fost inaugurat în anul 1962.", "Compania Boeing a fost fondată în oraș în anul 1916.", "Goana după aur din 1897 a transformat rapid economia locală.", "Regiunea metropolitană depășește 4 milioane de locuitori."],
+      en: []
+    }
+  },
   {
     id: "denver-cities-v2",
     type: "state-capital",
@@ -325,7 +528,20 @@ export const poiExtraUsaCitiesV2: POI[] = [
       hu: ["Beceneve 'Az egy mérföld magas város'", "Pontosan egy mérföldre a tengerszint felett", "Kapu a Sziklás-hegység síterepeihez", "Négy különböző évszak"],
       ro: ["Poreclit 'Orașul de o milă înălțime'", "Exact o milă deasupra nivelului mării", "Poarta de acces către stațiunile de schi din Munții Stâncoși", "Patru anotimpuri distincte"],
       en: ["Nicknamed 'The Mile-High City'", "Exactly one mile above sea level", "Gateway to the ski resorts of the Rockies", "Four distinct seasons"]
-    }, image: "/poi-images/denver-cities-v2.webp"},
+    }, image: "/poi-images/denver-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Denver, auch 'Mile High City' genannt, liegt unmittelbar an den östlichen Ausläufern der Rocky Mountains und fungiert als das wichtigste urbane Zentrum in der Region der High Plains. Die Stadt verbindet eine ausgeprägte Outdoor-Kultur, die von den umliegenden Wintersport- und Wandergebieten profitiert, mit einer lebendigen urbanen Wirtschaft, die stark auf Energie, Luftfahrt und Luft- und Raumfahrt basiert. Denver hat in den letzten Jahren ein signifikantes urbanes Erneuerungsprogramm durchlaufen, das zu einer modernen Innenstadt mit lebendigen Vierteln wie dem LoDo (Lower Downtown) führte. Als politisches und wirtschaftliches Zentrum des Bundesstaates Colorado zieht Denver weiterhin ein stetig wachsendes Publikum an. Geografie K8 — Hochgebirgsregionen und regionale Metropolen.",
+      hu: "Denver, Colorado fővárosa, a Sziklás-hegység lábánál fekvő 'Mile-High City', azaz egy mérföld magas város. A város a kapu a Rockies síterepeihez és a természeti szépségekhez, így a szabadtéri sportok szerelmeseinek paradicsoma. Denver négy évszakon átívelő klímája és dinamikus városi élete vonzó a fiatalok és szakemberek számára. Földrajz K6 — hegyvidéki életmód és rekreáció.",
+      ro: "Denver, supranumit „Mile High City” deoarece altitudinea sa oficială este exact o milă deasupra nivelului mării, este capitala statului Colorado. Situat la confluența Văii Râului South Platte cu Munții Stâncoși Front Range, orașul a fost fondat în 1858 ca o așezare de mineri în timpul Pike's Peak Gold Rush. Astăzi, Denver se remarcă printr-o economie dinamică, susținută de telecomunicații, energie și o comunitate antreprenorială în creștere. Datorită apropierii de Munții Stâncoși, orașul servește drept poartă de acces pentru entuziaștii sporturilor de iarnă și ai drumețiilor. Are un sistem vast de parcuri urbane și montane și un nucleu cultural înfloritor, axat pe artele spectacolului și berăriile artizanale. Geografie K7 — așezări montane.",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Gegründet 1858 während des Pikes Peak-Goldrausches", "Liegt auf exakt einer Meile Höhe (1609 Meter) über dem Meeresspiegel", "Das Colorado State Capitol wurde mit einer Kuppel aus echtem Blattgold versehen", "Wichtiger logistischer Knotenpunkt für den Westen der USA", "Die Wirtschaft basiert stark auf Energie, Raumfahrt und Technologie", "Bekannt als Tor zu den Rocky Mountains und zahlreichen Wintersportorten"],
+      hu: ["'A mérföld magas város' (Mile-High City)", "Kapu a Sziklás-hegység síterepeihez", "Pontosan egy mérföldre (1609 m) a tengerszint felett", "Négy különböző évszak jellemzi", "Fontos gazdasági központ a régióban", "Élénk szabadtéri kultúra"],
+      ro: ["Orașul a fost fondat în noiembrie 1858 de căutătorii de aur.", "Altitudinea treptei 13 a Capitoliului este exact de 1.609 metri.", "Aeroportul Internațional Denver are a doua cea mai mare suprafață din lume.", "S-a interconectat la rețeaua feroviară transcontinentală în anul 1870.", "Găzduiește anual Great American Beer Festival, cel mai mare din SUA.", "Peste 300 de zile pe an beneficiază de vreme însorită."],
+      en: []
+    }
+  },
   {
     id: "washington-dc-cities-v2",
     type: "city",
@@ -343,7 +559,20 @@ export const poiExtraUsaCitiesV2: POI[] = [
       hu: ["Az amerikai kormány székhelye", "A Fehér Ház, a Capitolium és a Legfelsőbb Bíróság", "Számos ingyenes múzeum (Smithsonian)", "Nem állam, hanem kerület"],
       ro: ["Sediul guvernului SUA", "Casa Albă, Capitoliul și Curtea Supremă", "Numeroase muzee gratuite (Smithsonian)", "Nu este un stat, ci un district"],
       en: ["Seat of the U.S. government", "The White House, the Capitol, and the Supreme Court", "Numerous free museums (Smithsonian)", "Not a state, but a District"]
-    }, image: "/poi-images/washington-dc-cities-v2.webp"},
+    }, image: "/poi-images/washington-dc-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Washington, D.C. ist die Hauptstadt der Vereinigten Staaten und dient als das politische Zentrum der amerikanischen Macht. Hier sind die wichtigsten Institutionen der US-Regierung, darunter das Weiße Haus, das Kapitol und der Oberste Gerichtshof, sowie zahlreiche internationale Vertretungen ansässig. Die Stadt ist zudem bekannt für ihre beeindruckende Dichte an Museen, Denkmälern und kulturellen Einrichtungen, die größtenteils im National Mall-Gebiet konzentriert sind. Mit einer einzigartigen Mischung aus historischen Denkmälern, neoklassizistischer Architektur und bedeutenden politischen Entscheidungsprozessen bietet Washington, D.C. eine Einblicke in die Grundfesten der US-amerikanischen Demokratie und Geschichte. Geschichte K8 — Staatsgründung und politische Institutionen.",
+      hu: "Washington D.C., az Amerikai Egyesült Államok fővárosa, a politikai hatalom és az amerikai történelem szimbóluma. A város ad otthont a Fehér Háznak, a Capitoliumnak és a Legfelsőbb Bíróságnak. A Smithsonian Intézet által fenntartott számos ingyenes múzeum a világ egyik leggazdagabb kulturális és tudományos gyűjteményét kínálja. A monumentális emlékművek és a Potomac folyó mentén húzódó parkok egyedi atmoszférát biztosítanak a városnak. Történelem K8 — kormányzat és politikai intézmények.",
+      ro: "Washington, D.C., districtul federal și capitala Statelor Unite, a fost fondat în 1790 pe malul râului Potomac, pe terenuri cedate de Maryland și Virginia. Proiectat special pentru a găzdui guvernul național, orașul a fost planificat de arhitectul Pierre Charles L'Enfant, oferind străzi largi și monumente maiestuoase. Este centrul puterii politice americane, adăpostind Casa Albă, Capitoliul și Curtea Supremă. Dincolo de politică, National Mall este presărat cu monumente naționale, precum Memorialul Lincoln, și cu impresionantele muzee Smithsonian, care sunt gratuite pentru public. Deși rezidenții săi plătesc taxe federale, ei nu au o reprezentare cu drept de vot depline în Congres, un subiect continuu de dezbatere constituțională. Istorie K7 — sistemul guvernamental american.",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Planmäßige Gründung als neue Hauptstadt im Jahr 1790", "Sitz der US-Regierung mit Kapitol und Weißem Haus", "Die National Mall beherbergt zahlreiche Smithsonian-Museen", "Washington, D.C. gehört zu keinem Bundesstaat, sondern ist ein District", "Bekannt für die vielen Denkmäler, darunter das Lincoln Memorial", "Ein Zentrum für internationale Politik und Diplomatie"],
+      hu: ["Az Egyesült Államok kormányzati székhelye", "A Fehér Ház, a Capitolium és a Legfelsőbb Bíróság otthona", "Smithsonian Intézet múzeumai ingyenesek", "Nem állam, hanem önálló kerület (District of Columbia)", "Ikonikus emlékművek városa (pl. Washington-emlékmű)", "A Potomac folyó partján fekszik"],
+      ro: ["A fost fondat oficial la data de 16 iulie 1790.", "Constituția americană prevede ca districtul să nu depășească 100 mile pătrate.", "Britanicii au incendiat Capitoliul și Casa Albă în august 1814.", "Monumentul lui Washington a fost finalizat în anul 1884.", "Institutul Smithsonian operează 19 muzee diferite în zona capitalei.", "Amendamentul 23 din 1961 le-a acordat cetățenilor dreptul de vot prezidențial."],
+      en: []
+    }
+  },
   {
     id: "boston-cities-v2",
     type: "state-capital",
@@ -361,7 +590,20 @@ export const poiExtraUsaCitiesV2: POI[] = [
       hu: ["Freedom Trail, egy történelmi sétaút", "Bostoni teadélután", "Neves egyetemek, mint a Harvard és az MIT", "Fontos kikötő és gazdasági központ"],
       ro: ["Freedom Trail, un traseu istoric pietonal", "Revolta Ceaiului de la Boston", "Universități renumite precum Harvard și MIT", "Port important și centru economic"],
       en: ["Freedom Trail, a historic walking path", "Boston Tea Party", "Renowned universities like Harvard and MIT", "Major port and economic hub"]
-    }, image: "/poi-images/boston-cities-v2.webp"},
+    }, image: "/poi-images/boston-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Boston, eine der ältesten Städte der USA, ist das Herz der Neuengland-Region und tief in der Geschichte der amerikanischen Revolution verwurzelt. Mit Institutionen wie der Harvard University und dem MIT in der direkten Umgebung gilt Boston weltweit als eines der bedeutendsten Zentren für Bildung, Forschung und wissenschaftliche Exzellenz. Die Stadt bewahrt ihr historisches Erbe entlang des 'Freedom Trail', während moderne urbane Entwicklungen wie der 'Big Dig' die Infrastruktur für das 21. Jahrhundert angepasst haben. Boston vereint eine lange akademische Tradition mit einer innovativen Wirtschaftsstruktur in den Bereichen Biotechnologie und Finanzen. Geschichte K5 — Revolution und akademische Tradition.",
+      hu: "Boston, Massachusetts fővárosa, az Amerikai Forradalom bölcsője és az ország egyik legrégebbi városa. A Freedom Trail történelmi sétaútja több mint 16 jelentős történelmi helyszínt érint, köztük a Bostoni teadélután eseményeinek színhelyét is. A város világszínvonalú oktatási központ olyan intézményekkel, mint a Harvard és az MIT. Boston az európai báj és az amerikai modernitás sajátos keveréke. Történelem K8 — az amerikai függetlenség kezdetei.",
+      ro: "Boston, capitala statului Massachusetts, este unul dintre cele mai vechi orașe din Statele Unite și un epicentru al Revoluției Americane. Fondat în 1630 de coloniști puritani, orașul a fost scena unor evenimente istorice cruciale, precum Masacrul din Boston (1770) și Partida de Ceai din Boston (1773). Traseul Freedom Trail, o potecă marcată cu cărămizi roșii, ghidează vizitatorii prin 16 repere istorice vitale pentru fondarea națiunii. Astăzi, zona metropolitană Greater Boston este un gigant academic și de cercetare mondial, găzduind zeci de colegii și universități, inclusiv Harvard și MIT în orașul vecin Cambridge. De asemenea, este recunoscut pentru performanțele sale medicale și farmaceutice de top. Istorie K7 — fondarea națiunii americane.",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Wurde 1630 von puritanischen Siedlern gegründet", "Die Boston Tea Party fand 1773 als Vorbote der amerikanischen Revolution statt", "Beheimatet prestigeträchtige Universitäten wie Harvard und das MIT", "Der 'Freedom Trail' verbindet 16 historische Sehenswürdigkeiten", "Ein weltweit führender Hub in der Biotechnologie und Medizintechnik", "Kulturelles Zentrum mit dem Boston Symphony Orchestra"],
+      hu: ["Massachusetts fővárosa", "A Freedom Trail 16 történelmi pontot köt össze", "A Harvard és az MIT otthona", "Híres a bostoni teadélutánról", "Gazdasági és kikötői jelentősége nagy", "Az egyik legrégebbi amerikai nagyváros"],
+      ro: ["Orașul a fost fondat de puritanii englezi în septembrie 1630.", "Partida de Ceai din Boston a avut loc în anul 1773.", "Freedom Trail are o lungime de aproximativ 4 kilometri.", "Primul sistem public de metrou din America a fost deschis aici în 1897.", "Universitatea Harvard, situată în Cambridge, a fost fondată în 1636.", "Spitalul General Massachusetts este unul dintre cele mai vechi din SUA."],
+      en: []
+    }
+  },
   {
     id: "el-paso-cities-v2",
     type: "city",
@@ -379,7 +621,20 @@ export const poiExtraUsaCitiesV2: POI[] = [
       hu: ["A Rio Grande folyó mentén fekszik", "A mexikói Ciudad Juárez-szel határos", "Napos éghajlat", "Franklin Mountains Állami Park"],
       ro: ["Situat pe Rio Grande", "Se învecinează cu Ciudad Juárez, Mexic", "Climă însorită", "Parcul Statal Franklin Mountains"],
       en: ["Located on the Rio Grande", "Borders Ciudad Juárez, Mexico", "Sunny climate", "Franklin Mountains State Park"]
-    }, image: "/poi-images/el-paso-cities-v2.webp"},
+    }, image: "/poi-images/el-paso-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "El Paso, direkt an der Grenze zu Mexiko gelegen, ist eine strategisch bedeutsame Stadt im äußersten Westen von Texas. Die enge kulturelle und wirtschaftliche Verflechtung mit der mexikanischen Nachbarstadt Ciudad Juárez prägt den Charakter der Stadt maßgeblich und macht sie zu einem bedeutenden Zentrum des grenzüberschreitenden Handels. Mit einem trockenen Wüstenklima und den nahegelegenen Franklin Mountains bietet El Paso eine einzigartige geografische Umgebung für Aktivitäten in der Natur. Die Stadt ist ein wichtiger logistischer Hub und beherbergt eine bedeutende militärische Präsenz, die ihre lokale Wirtschaft stützt. Geografie K7 — Grenzregionen und binationaler Handel.",
+      hu: "El Paso, Texas legnyugatibb csücskében, a Rio Grande folyó mentén, közvetlenül a mexikói határon fekszik. A város kulturális élete szorosan összefonódik a mexikói hagyományokkal, ami a gasztronómiában és a mindennapi életben is megjelenik. A Franklin Mountains State Park a város szívében nyújt kiváló lehetőségeket a túrázásra és a természet megismerésére. El Paso a határ menti kereskedelem és az egyedi kultúrák találkozási pontja. Földrajz K7 — határmenti régiók és kulturális sokszínűség.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Offizielle Gründung im Jahr 1873", "Bildet mit Ciudad Juárez die größte grenzüberschreitende Metropolregion der Welt", "Die Franklin Mountains durchziehen das Stadtgebiet und bieten Wanderwege", "Ein wesentlicher Knotenpunkt für den Handel mit Mexiko", "Die wirtschaftliche Basis ist stark durch Logistik und Militär geprägt", "Bekannt für die 'Mission Trail'-Route mit historischen Kirchen aus dem 17. Jahrhundert"],
+      hu: ["A Rio Grande folyó partján fekszik", "Közvetlen határ a mexikói Ciudad Juárez-zel", "Erős spanyol és mexikói hatású kultúra", "Franklin Mountains Állami Park", "Napos és száraz éghajlat", "Határ menti kereskedelem központja"],
+      ro: [],
+      en: []
+    }
+  },
   {
     id: "detroit-cities-v2",
     type: "city",
@@ -397,7 +652,20 @@ export const poiExtraUsaCitiesV2: POI[] = [
       hu: ["Beceneve 'Motorváros'", "A 'három nagy' autógyártó székhelye", "Motown Múzeum", "Gazdasági újjáéledésen megy keresztül"],
       ro: ["Poreclit 'Orașul Motoarelor'", "Sediul central al producătorilor auto 'Cei Trei Mari'", "Muzeul Motown", "Trece printr-o revitalizare economică"],
       en: ["Nicknamed 'Motor City'", "Headquarters of the 'Big Three' auto manufacturers", "Motown Museum", "Undergoing an economic revival"]
-    }, image: "/poi-images/detroit-cities-v2.webp"},
+    }, image: "/poi-images/detroit-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Detroit, einst bekannt als 'Motor City', ist das historische Zentrum der amerikanischen Automobilindustrie und hat die industrielle Entwicklung des 20. Jahrhunderts maßgeblich geprägt. Trotz wirtschaftlicher Herausforderungen in den letzten Jahrzehnten erlebt Detroit eine bemerkenswerte kulturelle und urbane Renaissance, die durch kreative Umnutzung von Industriebrachen und eine lebendige Kunstszene getragen wird. Die Stadt ist weiterhin ein bedeutendes Zentrum für Fertigung und Design, während die historische Bedeutung für die Musik (Motown) international Bestand hat. Detroits Entwicklung spiegelt die transformative Kraft industrieller Ballungsräume in den USA wider. Geschichte K8 — industrieller Aufstieg und Wandel der Metropolen.",
+      hu: "Detroit, a 'Motorváros', történelmileg az amerikai autóipar központja és a Motown zenei hangzás szülőhelye. A város a 20. században vált az ipari fejlődés jelképévé, mára pedig gazdasági revitalizációjával új kulturális és technológiai területeket fedez fel. A város kulturális öröksége, beleértve a zenei és ipari történelmét, mély hatást gyakorolt az Egyesült Államok fejlődésére. Történelem K8 — ipari forradalom és zenei kultúra.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Gründung im Jahr 1701 durch französische Siedler", "Historisches Zentrum der US-Automobilindustrie (Ford, GM, Chrysler)", "Wiegen der Motown-Musikgeschichte", "Erlebt derzeit eine urbane Erneuerung der Innenstadt", "Die Architektur zeigt bedeutende Bauten im Art-déco-Stil", "Wichtiger Standort für die moderne Fertigungstechnik"],
+      hu: ["Beceneve 'Motorváros' (Motor City)", "A 'három nagy' autógyártó (Ford, GM, Chrysler) bölcsője", "A Motown Múzeum zenei öröksége", "Gazdasági megújulás folyamatában", "Gazdag ipari történelmi háttér", "A Huron-tó és az Erie-tó közötti vízrendszer mentén fekszik"],
+      ro: [],
+      en: []
+    }
+  },
   {
     id: "nashville-cities-v2",
     type: "state-capital",
@@ -415,7 +683,20 @@ export const poiExtraUsaCitiesV2: POI[] = [
       hu: ["Beceneve 'Zeneváros'", "Grand Ole Opry, egy híres country zenei színpad", "Country Zenei Hírességek Csarnoka és Múzeuma", "Számos honky-tonk bár"],
       ro: ["Poreclit 'Orașul Muzicii'", "Grand Ole Opry, o faimoasă scenă de muzică country", "Country Music Hall of Fame and Museum", "Numeroase baruri honky-tonk"],
       en: ["Nicknamed 'Music City'", "Grand Ole Opry, a famous country music stage", "Country Music Hall of Fame and Museum", "Numerous honky-tonk bars"]
-    }, image: "/poi-images/nashville-cities-v2.webp"},
+    }, image: "/poi-images/nashville-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Nashville, die Hauptstadt von Tennessee, ist weltweit als das Epizentrum der Country-Musik bekannt, was ihr den Spitznamen 'Music City' einbrachte. Die Stadt verbindet eine pulsierende musikalische Identität mit einem robusten wirtschaftlichen Wachstum in den Bereichen Gesundheitswesen, Verlagswesen und Technologie. Mit zahlreichen Studios, Veranstaltungsorten wie dem Grand Ole Opry und einem florierenden Nachtleben in der Innenstadt zieht Nashville Besucher aus der ganzen Welt an. Als Bildungsstandort und Verwaltungssitz bietet Nashville zudem eine hohe Lebensqualität für eine stetig wachsende Bevölkerung. Geografie K7 — musikalische Metropolen und kulturelle Tourismuszentren.",
+      hu: "Nashville, Tennessee fővárosa, világszerte ismert mint az 'Music City', azaz a zene városa, amely a country zeneipar központja. A város egyedülálló módon ötvözi a zenei identitást a gazdasági növekedéssel, különösen az egészségügy, a könyvkiadás és a technológia területén. A Grand Ole Opry színpad és a belváros élénk éjszakai élete, a híres honky-tonk bárokkal, turisták millióit vonzza. Nashville oktatási és adminisztratív központként is jelentős. Földrajz K7 — zenei központok és kulturális turizmus.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["1806 offiziell als Stadt gegründet", "Weltweite Hauptstadt der Country-Musik", "Der 'Grand Ole Opry' ist die längste Radiosendung der Welt", "Bedeutender Standort für das Verlagswesen und die Gesundheitsindustrie", "Nashville besitzt eine Nachbildung des Parthenon in Originalgröße", "Wirtschaftliches Wachstum durch eine junge und kreative Fachkräftebasis"],
+      hu: ["'Music City' - a zene városa", "A Grand Ole Opry egy világhírű country zenei színpad", "A Country Zenei Hírességek Csarnoka és Múzeuma itt található", "Az egészségügyi ágazat egyik legfontosabb központja az USA-ban", "A város belvárosa híres a zenés bárokról", "Tennessee közigazgatási központja"],
+      ro: [],
+      en: []
+    }
+  },
   {
     id: "portland-or-cities-v2",
     type: "city",
@@ -433,7 +714,20 @@ export const poiExtraUsaCitiesV2: POI[] = [
       hu: ["'Keep Portland Weird' (Tartsd meg Portlandet furcsának) mottó", "Kiterjedt kerékpárutak", "Powell's City of Books, egy hatalmas könyvesbolt", "Virágzó food truck szcéna"],
       ro: ["Motto-ul 'Păstrează Portlandul ciudat'", "Piste extinse pentru biciclete", "Powell's City of Books, o librărie uriașă", "Scenă înfloritoare a camioanelor cu mâncare"],
       en: ["'Keep Portland Weird' motto", "Extensive bike paths", "Powell's City of Books, a massive bookstore", "Thriving food truck scene"]
-    }, image: "/poi-images/portland-or-cities-v2.webp"},
+    }, image: "/poi-images/portland-or-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Portland in Oregon zeichnet sich durch eine einzigartige Mischung aus innovativer Stadtplanung, starkem Fokus auf ökologische Nachhaltigkeit und einer lebendigen, alternativen Kultur aus. Die Stadt liegt in einer landschaftlich reizvollen Region nahe den Cascade Mountains und dem pazifischen Nordwesten, was Outdoor-Aktivitäten zu einem festen Bestandteil des Lebensstils macht. Mit ihrer Vorreiterrolle bei öffentlichen Verkehrsmitteln, einer florierenden lokalen Gastronomie und einem starken Fokus auf lokale Produkte zieht Portland eine kreative Fachkräftebasis an. Diese Kombination aus urbanem Lebensstil und enger Verbundenheit zur umliegenden Natur prägt das Bild einer zukunftsorientierten Stadt. Geografie K6 — ökologische Stadtplanung und Naturraum.",
+      hu: "Portland Oregon legnagyobb városa, amely a természetközeli életmódjáról, az ökotudatosságáról és élénk kávékultúrájáról ismert. A város rengeteg parkkal és zöldterülettel rendelkezik, mint például a Washington Park. A Powell's City of Books a világ egyik legnagyobb független könyvesboltja, ami a város intellektuális légkörét tükrözi. A food truck szcéna rendkívül fejlett, ami egyedülálló gasztronómiai élményt nyújt. Földrajz K6 — fenntartható városfejlesztés és természet.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Offizielle Gründung im Jahr 1851", "Bekannt für den 'International Rose Test Garden'", "Vorreiter bei der Förderung öffentlicher Verkehrsmittel", "Zentrum für ökologische Nachhaltigkeit und umweltfreundliche Urbanisierung", "Lebendige lokale Szene für Handwerk, Brauereien und Gastronomie", "Die Stadt verfügt über ein ausgeprägtes Netzwerk an Parks und Fahrradwegen"],
+      hu: ["'Keep Portland Weird' mottó", "Extrém környezettudatosság és zöldterületek", "A Powell's City of Books a világ egyik legnagyobb könyvesboltja", "Virágzó food truck közösség", "Oregon legnagyobb városa", "Kiváló kerékpáros infrastruktúra"],
+      ro: [],
+      en: []
+    }
+  },
   {
     id: "memphis-cities-v2",
     type: "city",
@@ -451,7 +745,20 @@ export const poiExtraUsaCitiesV2: POI[] = [
       hu: ["Graceland, Elvis Presley birtoka", "Sun Studio, ahol sok legenda készített felvételt", "Beale Street, a blues zene központja", "Nemzeti Polgárjogi Múzeum"],
       ro: ["Graceland, domeniul lui Elvis Presley", "Sun Studio, unde au înregistrat multe legende", "Beale Street, centrul muzicii blues", "Muzeul Național al Drepturilor Civile"],
       en: ["Graceland, Elvis Presley's estate", "Sun Studio, where many legends recorded", "Beale Street, the heart of blues music", "National Civil Rights Museum"]
-    }, image: "/poi-images/memphis-cities-v2.webp"},
+    }, image: "/poi-images/memphis-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Memphis am Mississippi River ist ein zentraler Ort für die amerikanische Musik- und Kulturgeschichte, insbesondere als Geburtsort des Rock 'n' Roll und des Blues. Mit Sehenswürdigkeiten wie Graceland, dem ehemaligen Wohnsitz von Elvis Presley, und der legendären Beale Street zieht die Stadt Musikliebhaber aus der ganzen Welt an. Wirtschaftlich spielt Memphis als bedeutender Logistik-Hub eine Schlüsselrolle, unter anderem durch den Hauptsitz von FedEx. Die Stadt verbindet ihre reiche kulturelle Vergangenheit mit einer modernen Rolle als industrielles Drehkreuz im Süden der Vereinigten Staaten. Geschichte K8 — musikalische Entwicklung und logistische Bedeutung.",
+      hu: "Memphis a Mississippi folyó partján fekszik, és történelmileg a blues és a rock 'n' roll szülőhelyeként vált híressé. A város zenei öröksége, mint a Sun Studio és a Beale Street, mélyen meghatározza a turizmusát. Graceland, Elvis Presley egykori otthona, a zene történetének egyik legikonikusabb helyszíne. Memphis a polgárjogi mozgalom szempontjából is jelentős, amit a Nemzeti Polgárjogi Múzeum mutat be. Történelem K8 — zeneipar és társadalmi mozgalmak.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["1819 am Mississippi River gegründet", "Geburtsort des Rock 'n' Roll und Epizentrum des Blues (Beale Street)", "Graceland ist die weltweit meistbesuchte historische Wohnstätte", "Wichtiger internationaler Logistikknotenpunkt (Hauptsitz von FedEx)", "Das National Civil Rights Museum befindet sich am Ort der Ermordung von Martin Luther King Jr.", "Kulturelles und wirtschaftliches Zentrum am Mississippi"],
+      hu: ["A blues és a rock 'n' roll bölcsője", "Graceland, Elvis Presley egykori otthona", "A Sun Studio számos zenei legenda felvevőhelye", "Beale Street: a blues zene központja", "Nemzeti Polgárjogi Múzeum", "Fontos kikötőváros a Mississippi mentén"],
+      ro: [],
+      en: []
+    }
+  },
   {
     id: "oklahoma-city-cities-v2",
     type: "state-capital",
@@ -469,7 +776,20 @@ export const poiExtraUsaCitiesV2: POI[] = [
       hu: ["Nemzeti Cowboy és Nyugati Örökség Múzeum", "Stockyards City, egy történelmi szarvasmarha-vásár negyed", "Oklahoma City Nemzeti Emlékhely és Múzeum", "Bricktown szórakoztató negyed"],
       ro: ["Muzeul Național al Cowboy-ilor și al Patrimoniului Vestic", "Stockyards City, un cartier istoric al târgurilor de vite", "Memorialul și Muzeul Național Oklahoma City", "Districtul de divertisment Bricktown"],
       en: ["National Cowboy & Western Heritage Museum", "Stockyards City, a historic livestock market district", "Oklahoma City National Memorial & Museum", "Bricktown entertainment district"]
-    }, image: "/poi-images/oklahoma-city-cities-v2.webp"},
+    }, image: "/poi-images/oklahoma-city-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Oklahoma City, die Hauptstadt Oklahomas, ist tief in der Geschichte des sogenannten 'Land Run' verwurzelt und hat sich von einer Siedlung am Rande der Frontier zu einem modernen Zentrum für Energie und Handel entwickelt. Die Stadt bietet eine einzigartige Mischung aus westlichem Erbe, das in der Western-Kultur und den zahlreichen Museen sichtbar ist, und einer dynamischen modernen Innenstadt. Mit dem Oklahoma River-Entwicklungsprogramm hat die Stadt ihre Uferbereiche erfolgreich für Freizeit und Sport erschlossen. Als Verwaltungssitz des Bundesstaates spielt Oklahoma City eine zentrale Rolle in der regionalen wirtschaftlichen Dynamik und Infrastruktur. Geografie K7 — frontier-Geschichte und moderne Energieökonomie.",
+      hu: "Oklahoma City, Oklahoma állam fővárosa, a modern cowboy-kultúra és a szarvasmarha-kereskedelem központja. A város történelmi Stockyards negyede máig őrzi a régi vadnyugati hangulatot. A Bricktown szórakoztató negyed a modern városfejlesztés kiváló példája, míg az Oklahoma City Nemzeti Emlékhely a város történelmének tragikus, de fontos részét mutatja be. Földrajz K8 — sztyeppei városfejlődés.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Gegründet am 22. April 1889 nach dem historischen 'Land Run'", "Zentrum der US-Energieindustrie", "Das National Cowboy & Western Heritage Museum bewahrt das Erbe des Westens", "Der Oklahoma River ist heute ein bedeutendes Zentrum für Wassersport", "Die Stadt verfügt über eine ausgeprägte moderne Stadtverwaltung", "Wichtiger logistischer Standort im Zentrum der Vereinigten Staaten"],
+      hu: ["Oklahoma fővárosa", "Nemzeti Cowboy és Nyugati Örökség Múzeum", "Stockyards City történelmi negyed", "Bricktown szórakoztató központ", "Az Oklahoma City Nemzeti Emlékhely emléke", "Jelentős mezőgazdasági és olajipari központ"],
+      ro: [],
+      en: []
+    }
+  },
   {
     id: "las-vegas-cities-v2",
     type: "city",
@@ -487,7 +807,20 @@ export const poiExtraUsaCitiesV2: POI[] = [
       hu: ["A Las Vegas Strip hatalmas üdülőhelyeivel", "Beceneve 'A Bűn Városa'", "A világ házassági fővárosa", "Fremont Street Experience a belvárosban"],
       ro: ["Las Vegas Strip cu stațiunile sale masive", "Poreclit 'Orașul Păcatelor'", "Capitala mondială a căsătoriilor", "Experiența Fremont Street în centrul orașului"],
       en: ["The Las Vegas Strip with its massive resorts", "Nicknamed 'Sin City'", "Marriage Capital of the World", "Fremont Street Experience downtown"]
-    }, image: "/poi-images/las-vegas-cities-v2.webp"},
+    }, image: "/poi-images/las-vegas-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Las Vegas, mitten in der Wüste Nevadas gelegen, ist weltweit als das Zentrum für Unterhaltung, Glücksspiel und Gastgewerbe bekannt. Der berühmte 'Las Vegas Strip' bietet eine enorme Dichte an Kasinos, luxuriösen Hotels und atemberaubenden Shows, die die Stadt zu einem der weltweit meistbesuchten Reiseziele machen. Neben dem Tourismus spielt die Stadt eine wachsende Rolle als Standort für Konferenzen und große Wirtschaftsveranstaltungen. Die ständige Neuerfindung ihres Unterhaltungsangebots sorgt dafür, dass Las Vegas ein unvergleichliches Phänomen urbaner Entwicklung in einer extremen klimatischen Umgebung bleibt. Geografie K7 — Unterhaltungsindustrie und Ressourcenmanagement in Wüsten.",
+      hu: "Las Vegas, Nevada sivatagának szívében, a világ szórakoztatóipari központjaként ismert. A híres 'Las Vegas Strip' a kaszinók, luxusszállodák és lenyűgöző show-műsorok otthona, amelyek miatt a város az egyik leglátogatottabb turisztikai célpont. A kaszinók mellett a konferenciaturizmus is óriási szerepet játszik a város gazdaságában. Las Vegas a sivatagi környezetben megvalósított urbanizáció egyedülálló, folyamatosan megújuló jelensége. Földrajz K7 — szórakoztatóipar és erőforrás-gazdálkodás sivatagi környezetben.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["1905 gegründet, rasantes Wachstum ab den 1930er Jahren", "Weltzentrum für Glücksspiel, Unterhaltung und Luxushotellerie", "Der 'Las Vegas Strip' ist eine der bekanntesten Straßen der Welt", "Die Stadt beherbergt bedeutende Konferenzzentren für internationale Events", "Kritisches Ressourcenmanagement (insbesondere Wasser) ist zentral für den Betrieb", "Bedeutender wirtschaftlicher Akteur im Südwesten der USA"],
+      hu: ["A 'Las Vegas Strip' a kaszinók és luxusszállodák központja", "Világhírű show-műsorok és éjszakai élet", "A 'Bűn Városa' (Sin City) becenév", "A konferenciaturizmus egyik legfontosabb helyszíne", "Folyamatosan megújuló szórakoztatóipari kínálat", "Sivatagi környezetben épült metropolisz"],
+      ro: [],
+      en: []
+    }
+  },
   {
     id: "louisville-cities-v2",
     type: "city",
@@ -505,7 +838,14 @@ export const poiExtraUsaCitiesV2: POI[] = [
       hu: ["Churchill Downs, a Kentucky Derby otthona", "Urban Bourbon Trail", "Louisville Slugger Múzeum és Gyár", "Muhammad Ali szülőhelye"],
       ro: ["Churchill Downs, gazda Derby-ului Kentucky", "Traseul Urban al Bourbonului", "Muzeul și Fabrica Louisville Slugger", "Locul de naștere al lui Muhammad Ali"],
       en: ["Churchill Downs, home of the Kentucky Derby", "Urban Bourbon Trail", "Louisville Slugger Museum & Factory", "Birthplace of Muhammad Ali"]
-    }, image: "/poi-images/louisville-cities-v2.webp"},
+    }, image: "/poi-images/louisville-cities-v2.webp",
+    descriptionAdvanced: {
+      hu: "Louisville Kentucky legnagyobb városa, amely a Kentucky Derby lóversenyről és a világhírű bourbon lepárlóiról ismert. A Churchill Downs versenypálya a lovassportok egyik fellegvára. A város emellett a boxlegendák közül a legnagyobb, Muhammad Ali szülőhelye, akinek öröksége mély nyomott hagyott a városban. Az 'Urban Bourbon Trail' egyedi élményt nyújt az ital szerelmeseinek. Történelem K8 — lótenyésztés és hagyományos iparágak."
+    },
+    factsAdvanced: {
+      hu: ["Churchill Downs: a Kentucky Derby otthona", "A bourbon lepárlás egyik legfontosabb központja", "Muhammad Ali szülőhelye", "Az Urban Bourbon Trail élményút", "Louisville Slugger baseballütő-gyár", "Kentucky állam legnagyobb városa"]
+    }
+  },
   {
     id: "baltimore-cities-v2",
     type: "city",
@@ -523,7 +863,14 @@ export const poiExtraUsaCitiesV2: POI[] = [
       hu: ["Inner Harbor üzletekkel és látnivalókkal", "Nemzeti Akvárium", "Fort McHenry, a nemzeti himnusz szülőhelye", "Edgar Allan Poe otthona"],
       ro: ["Inner Harbor cu magazine și atracții", "Acvariul Național", "Fort McHenry, locul de naștere al imnului național", "Casa lui Edgar Allan Poe"],
       en: ["Inner Harbor with shops and attractions", "National Aquarium", "Fort McHenry, birthplace of the national anthem", "Home of Edgar Allan Poe"]
-    }, image: "/poi-images/baltimore-cities-v2.webp"},
+    }, image: "/poi-images/baltimore-cities-v2.webp",
+    descriptionAdvanced: {
+      hu: "Baltimore történelmi kikötőváros Marylandben, amely az Egyesült Államok tengerészeti történelmében játszott kulcsszerepet. Az Inner Harbor modern üzletekkel, múzeumokkal, például a Nemzeti Akváriummal várja a látogatókat. A Fort McHenry erőd, a nemzeti himnusz születési helye, a város történelmi jelentőségét hangsúlyozza. Edgar Allan Poe élete és művészete is szorosan kötődik Baltimore-hoz. Történelem K8 — tengerészeti örökség és polgárháborús emlékek."
+    },
+    factsAdvanced: {
+      hu: ["Inner Harbor: turisztikai és kereskedelmi központ", "A Nemzeti Akvárium otthona", "Fort McHenry: a nemzeti himnusz születési helye", "Edgar Allan Poe egykori lakóhelye", "Gazdag tengerészeti múlt", "Maryland egyik kulturális fellegvára"]
+    }
+  },
   {
     id: "milwaukee-cities-v2",
     type: "city",
@@ -541,7 +888,14 @@ export const poiExtraUsaCitiesV2: POI[] = [
       hu: ["Történelmi sörfőző örökség (Miller, Pabst, Schlitz)", "Milwaukee Művészeti Múzeum jellegzetes építészetével", "Harley-Davidson Múzeum", "Summerfest, a 'világ legnagyobb zenei fesztiválja'"],
       ro: ["Moștenire istorică a berăriilor (Miller, Pabst, Schlitz)", "Muzeul de Artă Milwaukee cu arhitectura sa distinctivă", "Muzeul Harley-Davidson", "Summerfest, 'cel mai mare festival de muzică din lume'"],
       en: ["Historic brewing heritage (Miller, Pabst, Schlitz)", "Milwaukee Art Museum with its distinctive architecture", "Harley-Davidson Museum", "Summerfest, 'The World's Largest Music Festival'"]
-    }, image: "/poi-images/milwaukee-cities-v2.webp"},
+    }, image: "/poi-images/milwaukee-cities-v2.webp",
+    descriptionAdvanced: {
+      hu: "Milwaukee a Michigan-tó partján fekszik, Wisconsin legnagyobb városa, amely történelmi sörfőző örökségéről híres. A Miller, Pabst és Schlitz sörfőzdék megalapozták a város hírnevét. A város ma a Milwaukee Művészeti Múzeum jellegzetes építészetével és a világhírű Summerfest zenei fesztivállal vonzza a látogatókat. A Harley-Davidson Múzeum szintén a város ipari és kulturális büszkeségei közé tartozik. Földrajz K7 — ipari örökség és középnyugati életmód."
+    },
+    factsAdvanced: {
+      hu: ["Történelmi sörfőző központ", "A Milwaukee Művészeti Múzeum építészeti remekműve", "A Harley-Davidson Múzeum otthona", "Summerfest: a világ legnagyobb zenei fesztiválja", "A Michigan-tó partvidéki központja", "Erős ipari örökség"]
+    }
+  },
   {
     id: "albuquerque-cities-v2",
     type: "city",
