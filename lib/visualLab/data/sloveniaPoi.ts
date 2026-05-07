@@ -88,7 +88,7 @@ export const sloveniaCountry: POI = {
       "Slovenia are peste 10.000 de peșteri înregistrate.",
       "Triglav este cel mai înalt munte (2.864 m) și simbolul național.",
       "În Maribor crește cea mai bătrână viță de vie din lume (peste 400 de ani).",
-      "Slovenia a fost prima țară declarată în întregime „Destinație Verde a Lumii”.",
+      "Slovenia a fost prima țară declarată în întregime \"Destinație Verde a Lumii\".",
       "Caii lipițani provin inițial din satul sloven Lipica."
     ],
     en: [

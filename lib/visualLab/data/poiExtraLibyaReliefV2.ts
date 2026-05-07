@@ -328,7 +328,7 @@ export const poiExtraLibyaReliefV2: POI[] = [
     parent: "LY-JU",
     coords: [16.0, 29.0],
     name: { de: "Dschabal Aswad", hu: "Dzsebel Aszwad", ro: "Jebel Aswad", en: "Jebel Aswad" },
-    description: { de: "Das 'Schwarze Gebirge'.", hu: "A 'fekete hegység'.", ro: "„Muntele Negru”.", en: "The 'Black Mountain'." },
+    description: { de: "Das 'Schwarze Gebirge'.", hu: "A 'fekete hegység'.", ro: "\"Muntele Negru\".", en: "The 'Black Mountain'." },
     facts: {
       de: ["Vulkanisches Gestein.", "Dunkle Gesteinsfärbung.", "Abgelegene Lage."],
       hu: ["Vulkáni kőzet.", "Sötét kőzetszín.", "Félreeső fekvés."],

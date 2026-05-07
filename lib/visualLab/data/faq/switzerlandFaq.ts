@@ -144,7 +144,7 @@ export const switzerlandFaq: CountryFaqMap = {
       { q: "Welche bedeutende gotische Kathedrale steht in Lausanne?", a: "Die Kathedrale Notre-Dame aus dem 13. Jahrhundert." }
     ],
     hu: [
-      { q: "Miért nevezik Lausanne-t „olimpiai fővárosnak”?", a: "Mert itt található a Nemzetközi Olimpiai Bizottság (NOB) székhelye." },
+      { q: "Miért nevezik Lausanne-t \"olimpiai fővárosnak\"?", a: "Mert itt található a Nemzetközi Olimpiai Bizottság (NOB) székhelye." },
       { q: "Melyik tó partján fekszik Lausanne?", a: "Lausanne a Genfi-tó partján található." },
       { q: "Mi a különlegessége Lausanne tömegközlekedésének?", a: "Ez az egyetlen svájci város, amely teljes értékű metróhálózattal rendelkezik." },
       { q: "Melyik jelentős gótikus katedrális található Lausanne-ban?", a: "A 13. századi Notre-Dame székesegyház." }
@@ -380,8 +380,8 @@ export const switzerlandFaq: CountryFaqMap = {
     hu: [
       { q: "Mi Thun jelképe?", a: "A 12. századi Thuni vár a jellegzetes négy tornyával." },
       { q: "Hol található Thun?", a: "A Thuni-tó alsó végénél, ahol az Aare folyó kifolyik a tóból." },
-      { q: "Miért nevezik Thunt a „Berner Oberland kapujának”?", a: "Mert ideális kiindulópont a magashegyi Alpok (Eiger, Mönch, Jungfrau) felé." },
-      { q: "Mik azok a thuni „magasjárdák”?", a: "Egyedülálló, emelt szintű gyalogosjárdák az Oberen Hauptgasse utcában." }
+      { q: "Miért nevezik Thunt a \"Berner Oberland kapujának\"?", a: "Mert ideális kiindulópont a magashegyi Alpok (Eiger, Mönch, Jungfrau) felé." },
+      { q: "Mik azok a thuni \"magasjárdák\"?", a: "Egyedülálló, emelt szintű gyalogosjárdák az Oberen Hauptgasse utcában." }
     ],
     ro: [
       { q: "Care este simbolul orașului Thun?", a: "Castelul Thun din secolul al XII-lea, cu cele patru turnuri distincte ale sale." },
@@ -873,7 +873,7 @@ export const switzerlandFaq: CountryFaqMap = {
     ],
     hu: [
       { q: "Mi az a Sihlwald?", a: "Egy nagy természeti élménypark és erdő Zürichtől délre." },
-      { q: "Miért áll különleges védelem alatt?", a: "Ez Svájc első minősített „Nemzeti Természeti Élményparkja”." },
+      { q: "Miért áll különleges védelem alatt?", a: "Ez Svájc első minősített \"Nemzeti Természeti Élményparkja\"." },
       { q: "Hagyják az erdőt természetes módon fejlődni?", a: "Igen, a központi területen az erdő erdészeti beavatkozás nélkül fejlődhet." },
       { q: "Mit kínál a Sihlwald a látogatóknak?", a: "Kiterjedt túra- és kerékpárút-hálózatot, valamint egy természetrajzi múzeumot." }
     ],
@@ -1395,7 +1395,7 @@ export const switzerlandFaq: CountryFaqMap = {
       { q: "Mit jelent a CERN rövidítés?", a: "Conseil Européen pour la Recherche Nucléaire (Európai Nukleáris Kutatási Szervezet)." },
       { q: "Hol található a CERN?", a: "Svájc és Franciaország határán, Meyrinben (Genf közelében)." },
       { q: "Mi az a LHC a CERN-ben?", a: "A Large Hadron Collider (Nagy Hadronütköztető), a világ legnagyobb és legerősebb részecskegyorsítója." },
-      { q: "Milyen áttörő felfedezés történt 2012-ben a CERN-ben?", a: "A Higgs-bozon (az „isteni részecske”) felfedezése." }
+      { q: "Milyen áttörő felfedezés történt 2012-ben a CERN-ben?", a: "A Higgs-bozon (az \"isteni részecske\") felfedezése." }
     ],
     ro: [
       { q: "Ce înseamnă abrevierea CERN?", a: "Conseil Européen pour la Recherche Nucléaire (Organizația Europeană pentru Cercetare Nucleară)." },
@@ -1473,7 +1473,7 @@ export const switzerlandFaq: CountryFaqMap = {
       { q: "Miért olyan tagolt a Vierwaldstätti-tó?", a: "Ez egy tipikus fjordtó, amelyet a jégkorszakban gleccserek formáltak." },
       { q: "Melyik tóparti helyet tartják Svájc születési helyének?", a: "A Rütli-rétet, ahol 1291-ben megkötötték a svájci kantonok szövetségét." },
       { q: "Lehet lapátkerekes gőzhajóval utazni a tavon?", a: "Igen, a hajózási társaság rendelkezik a világ egyik legnagyobb nosztalgia-gőzhajó flottájával." },
-      { q: "Melyik hegyet nevezik gyakran a „hegyek királynőjének” a tóparton?", a: "A Rigi-t." }
+      { q: "Melyik hegyet nevezik gyakran a \"hegyek királynőjének\" a tóparton?", a: "A Rigi-t." }
     ],
     ro: [
       { q: "De ce este lacul Lucerna atât de neregulat?", a: "Este un lac tipic de tip fiord, format de ghețari în timpul epocii glaciare." },
@@ -1496,7 +1496,7 @@ export const switzerlandFaq: CountryFaqMap = {
       { q: "Welcher Wasserfall ist direkt im Dorf zu sehen?", a: "Der Staubbachfall, der fast 300 Meter in die Tiefe stürzt." }
     ],
     hu: [
-      { q: "Miért hívják a települést Lauterbrunnennek?", a: "A név jelentése „sok forrás”, ami a völgyben található 72 vízesésre utal." },
+      { q: "Miért hívják a települést Lauterbrunnennek?", a: "A név jelentése \"sok forrás\", ami a völgyben található 72 vízesésre utal." },
       { q: "Mi az a Trümmelbach-vízesés?", a: "Egyedülálló gleccservízesések egy hegy belsejében, amelyek lépcsőkön és liften keresztül látogathatók." },
       { q: "El lehet jutni Lauterbrunnenből Mürrenbe?", a: "Igen, vagy felvonóval és vonattal, vagy gyalogosan a látványos tájon keresztül." },
       { q: "Melyik vízesés látható közvetlenül a faluban?", a: "A Staubbach-vízesés, amely majdnem 300 méter magasból zúdul alá." }
@@ -1524,7 +1524,7 @@ export const switzerlandFaq: CountryFaqMap = {
     hu: [
       { q: "Melyik két tó határolja Interlakent?", a: "A Thuni-tó és a Brienzi-tó." },
       { q: "Mi az a Höhematte?", a: "Egy nagy, zöld rét Interlaken központjában, ahonnan remek kilátás nyílik a Jungfrau-ra." },
-      { q: "Fel lehet jutni Interlakenből a Harder Kulmra?", a: "Igen, egy siklóval elérhető a Harder Kulm, amelyet „Interlaken tetejeként” is emlegetnek." },
+      { q: "Fel lehet jutni Interlakenből a Harder Kulmra?", a: "Igen, egy siklóval elérhető a Harder Kulm, amelyet \"Interlaken tetejeként\" is emlegetnek." },
       { q: "Milyen outdoor sportok népszerűek itt?", a: "Siklóernyőzés, ejtőernyőzés, kanyoning és rafting." }
     ],
     ro: [

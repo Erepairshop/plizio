@@ -28,7 +28,7 @@ export const poiExtraCanadaCitiesV2: POI[] = [
     parent: "CA-ON",
     coords: [-79.7629, 43.7315],
     name: { de: "Brampton", hu: "Brampton", ro: "Brampton", en: "Brampton" },
-    description: { de: "Eine vielfältige Stadt in der Greater Toronto Area, bekannt als 'Blumenstadt Kanadas'.", hu: "Sokszínű város a Greater Toronto Area-ban, 'Kanada virágvárosaként' is ismert.", ro: "Un oraș divers din zona metropolitană Toronto, cunoscut ca „Orașul Florilor din Canada”.", en: "A diverse city in the Greater Toronto Area, known as the 'Flower City of Canada'." },
+    description: { de: "Eine vielfältige Stadt in der Greater Toronto Area, bekannt als 'Blumenstadt Kanadas'.", hu: "Sokszínű város a Greater Toronto Area-ban, 'Kanada virágvárosaként' is ismert.", ro: "Un oraș divers din zona metropolitană Toronto, cunoscut ca \\\"Orașul Florilor din Canada\\\".", en: "A diverse city in the Greater Toronto Area, known as the 'Flower City of Canada'." },
     facts: {
       de: ["Schnell wachsende Bevölkerung", "Große südasiatische Gemeinschaft", "Wichtiges Zentrum für Logistik", "Umfangreiches Parksystem"],
       hu: ["Gyorsan növekvő népesség", "Jelentős dél-ázsiai közösség", "Fontos logisztikai központ", "Kiterjedt parkrendszer"],
@@ -51,7 +51,7 @@ export const poiExtraCanadaCitiesV2: POI[] = [
     facts: {
       de: ["Spitzname 'Stahlstadt'", "Über 100 Wasserfälle", "Royal Botanical Gardens", "Wichtiger Binnenhafen"],
       hu: ["'Acélváros' a beceneve", "Több mint 100 vízesés", "Királyi Botanikus Kertek", "Fontos folyami kikötő"],
-      ro: ["Poreclit „Orașul Oțelului”", "Peste 100 de cascade", "Grădinile Botanice Regale", "Port interior important"],
+      ro: ["Poreclit \\\"Orașul Oțelului\\\"", "Peste 100 de cascade", "Grădinile Botanice Regale", "Port interior important"],
       en: ["Nicknamed 'Steel City'", "Over 100 waterfalls", "Royal Botanical Gardens", "Major inland port"]
     },
     descriptionAdvanced: {
@@ -66,7 +66,7 @@ export const poiExtraCanadaCitiesV2: POI[] = [
     parent: "CA-ON",
     coords: [-81.2453, 42.9849],
     name: { de: "London", hu: "London", ro: "London", en: "London" },
-    description: { de: "Eine Stadt im Südwesten von Ontario, bekannt für ihre Universität und den Spitznamen 'Waldstadt'.", hu: "Város Ontario délnyugati részén, egyeteméről és 'Erdőváros' becenevéről ismert.", ro: "Un oraș în sud-vestul Ontario, cunoscut pentru universitatea sa și porecla „Orașul Pădure”.", en: "A city in southwestern Ontario, known for its university and its nickname 'The Forest City'." },
+    description: { de: "Eine Stadt im Südwesten von Ontario, bekannt für ihre Universität und den Spitznamen 'Waldstadt'.", hu: "Város Ontario délnyugati részén, egyeteméről és 'Erdőváros' becenevéről ismert.", ro: "Un oraș în sud-vestul Ontario, cunoscut pentru universitatea sa și porecla \\\"Orașul Pădure\\\".", en: "A city in southwestern Ontario, known for its university and its nickname 'The Forest City'." },
     facts: {
       de: ["Heimat der Western University", "Am Thames River gelegen", "Medizinisches Forschungszentrum", "Viele Parks und Grünflächen"],
       hu: ["A Western University otthona", "A Thames folyó partján fekszik", "Orvosi kutatási központ", "Számos park és zöldterület"],
@@ -127,7 +127,7 @@ export const poiExtraCanadaCitiesV2: POI[] = [
     facts: {
       de: ["Jährliches Oktoberfest", "Teil des 'Technologie-Dreiecks'", "Früher Berlin genannt", "Starkes produzierendes Gewerbe"],
       hu: ["Évenkénti Oktoberfest", "A 'Technológiai Háromszög' része", "Korábban Berlinnek hívták", "Erős feldolgozóipar"],
-      ro: ["Oktoberfest anual", "Parte a „Triunghiului Tehnologic”", "Anterior numit Berlin", "Industrie prelucrătoare puternică"],
+      ro: ["Oktoberfest anual", "Parte a \\\"Triunghiului Tehnologic\\\"", "Anterior numit Berlin", "Industrie prelucrătoare puternică"],
       en: ["Annual Oktoberfest celebration", "Part of the 'Technology Triangle'", "Formerly named Berlin", "Strong manufacturing sector"]
     },
     descriptionAdvanced: {
@@ -146,7 +146,7 @@ export const poiExtraCanadaCitiesV2: POI[] = [
     facts: {
       de: ["'Automobilhauptstadt Kanadas'", "Grenzübergang zu den USA", "Milder als der Rest Kanadas", "Uferpromenade am Detroit River"],
       hu: ["'Kanada autóipari fővárosa'", "Határátkelő az USA-ba", "Enyhébb éghajlatú, mint Kanada többi része", "Sétány a Detroit-folyó partján"],
-      ro: ["„Capitala auto a Canadei”", "Punct de trecere a frontierei cu SUA", "Climă mai blândă decât restul Canadei", "Promenadă pe malul râului Detroit"],
+      ro: ["\\\"Capitala auto a Canadei\\\"", "Punct de trecere a frontierei cu SUA", "Climă mai blândă decât restul Canadei", "Promenadă pe malul râului Detroit"],
       en: ["'Automotive Capital of Canada'", "Busiest international border crossing", "Milder climate than rest of Canada", "Waterfront on the Detroit River"]
     },
     descriptionAdvanced: {
@@ -165,7 +165,7 @@ export const poiExtraCanadaCitiesV2: POI[] = [
     facts: {
       de: ["'Stadt der Parks'", "Eine der am schnellsten wachsenden Städte", "Vielfältige Gemeinschaften", "Starke Landwirtschaft in ländlichen Gebieten"],
       hu: ["'A parkok városa'", "Az egyik leggyorsabban növekvő város", "Sokszínű közösségek", "Erős mezőgazdaság a vidéki területeken"],
-      ro: ["„Orașul Parcurilor”", "Unul dintre orașele cu cea mai rapidă creștere", "Comunități diverse", "Agricultură puternică în zonele rurale"],
+      ro: ["\\\"Orașul Parcurilor\\\"", "Unul dintre orașele cu cea mai rapidă creștere", "Comunități diverse", "Agricultură puternică în zonele rurale"],
       en: ["'The City of Parks'", "One of the fastest-growing cities", "Diverse communities", "Strong agriculture in rural areas"]
     },
     descriptionAdvanced: {
@@ -317,7 +317,7 @@ export const poiExtraCanadaCitiesV2: POI[] = [
     facts: {
       de: ["'Königin der Eastern Townships'", "Zwei Universitäten", "Zusammenfluss zweier Flüsse", "Starkes Bildungswesen"],
       hu: ["'Az Eastern Townships királynője'", "Két egyetem", "Két folyó összefolyásánál fekszik", "Erős oktatási rendszer"],
-      ro: ["„Regina regiunii Eastern Townships”", "Două universități", "La confluența a două râuri", "Sector educațional puternic"],
+      ro: ["\\\"Regina regiunii Eastern Townships\\\"", "Două universități", "La confluența a două râuri", "Sector educațional puternic"],
       en: ["'Queen of the Eastern Townships'", "Two universities", "Confluence of two rivers", "Strong educational sector"]
     },
     descriptionAdvanced: {
@@ -450,7 +450,7 @@ export const poiExtraCanadaCitiesV2: POI[] = [
     facts: {
       de: ["'Die Gasstadt'", "Eine der sonnigsten Städte Kanadas", "Historisches Töpferhandwerk", "Am South Saskatchewan River"],
       hu: ["'A gázváros'", "Kanada egyik legnaposabb városa", "Történelmi fazekasság", "A Dél-Saskatchewan folyó partján"],
-      ro: ["„Orașul Gazului”", "Unul dintre cele mai însorite orașe din Canada", "Olărit istoric", "Pe râul South Saskatchewan"],
+      ro: ["\\\"Orașul Gazului\\\"", "Unul dintre cele mai însorite orașe din Canada", "Olărit istoric", "Pe râul South Saskatchewan"],
       en: ["'The Gas City'", "One of Canada's sunniest cities", "Historic pottery industry", "On the South Saskatchewan River"]
     },
     descriptionAdvanced: {
@@ -469,7 +469,7 @@ export const poiExtraCanadaCitiesV2: POI[] = [
     facts: {
       de: ["'Schwanenstadt'", "Wirtschaftszentrum des Nordens", "Junge Bevölkerung", "Land- und Forstwirtschaft"],
       hu: ["'Hattyúváros'", "Az északi régió gazdasági központja", "Fiatal lakosság", "Mezőgazdaság és erdészet"],
-      ro: ["„Orașul Lebedelor”", "Centru economic al nordului", "Populație tânără", "Agricultură și silvicultură"],
+      ro: ["\\\"Orașul Lebedelor\\\"", "Centru economic al nordului", "Populație tânără", "Agricultură și silvicultură"],
       en: ["'Swan City'", "Economic hub of the north", "Young population", "Agriculture and forestry"]
     },
     descriptionAdvanced: {
@@ -488,7 +488,7 @@ export const poiExtraCanadaCitiesV2: POI[] = [
     facts: {
       de: ["'Hub City'", "Zweisprachige Stadt (Englisch/Französisch)", "Magnetic Hill Phänomen", "Zentrum der Maritimes"],
       hu: ["'Csomópontváros'", "Kétnyelvű város (angol/francia)", "Magnetic Hill jelenség", "A tengeri tartományok központja"],
-      ro: ["„Orașul Nod”", "Oraș bilingv (engleză/franceză)", "Fenomenul Magnetic Hill", "Centrul Maritimelor"],
+      ro: ["\\\"Orașul Nod\\\"", "Oraș bilingv (engleză/franceză)", "Fenomenul Magnetic Hill", "Centrul Maritimelor"],
       en: ["'Hub City'", "Bilingual city (English/French)", "Magnetic Hill phenomenon", "Center of the Maritimes"]
     },
     descriptionAdvanced: {
@@ -583,7 +583,7 @@ export const poiExtraCanadaCitiesV2: POI[] = [
     facts: {
       de: ["'The Royal City'", "Niedrige Arbeitslosenquote", "University of Guelph (Agrar- und Veterinärwissenschaft)", "Basilica of Our Lady Immaculate"],
       hu: ["'A királyi város'", "Alacsony munkanélküliségi ráta", "Guelphi Egyetem (agrár- és állatorvostudomány)", "Basilica of Our Lady Immaculate"],
-      ro: ["„Orașul Regal”", "Rată scăzută a șomajului", "Universitatea din Guelph (agronomie și veterinară)", "Bazilica Maicii Domnului Imaculate"],
+      ro: ["\\\"Orașul Regal\\\"", "Rată scăzută a șomajului", "Universitatea din Guelph (agronomie și veterinară)", "Bazilica Maicii Domnului Imaculate"],
       en: ["'The Royal City'", "Low unemployment rate", "University of Guelph (agriculture and veterinary)", "Basilica of Our Lady Immaculate"]
     },
     descriptionAdvanced: {
@@ -602,7 +602,7 @@ export const poiExtraCanadaCitiesV2: POI[] = [
     facts: {
       de: ["Erste Hauptstadt Kanadas (Provinz)", "Queen's University", "Spitzname 'Kalksteinstadt'", "UNESCO-Weltkulturerbe Fort Henry"],
       hu: ["Kanada (tartományának) első fővárosa", "Queen's University", "'Mészkőváros' a beceneve", "Fort Henry UNESCO világörökség"],
-      ro: ["Prima capitală a Canadei (Provincia)", "Universitatea Queen's", "Poreclit „Orașul de calcar”", "Fort Henry, patrimoniu UNESCO"],
+      ro: ["Prima capitală a Canadei (Provincia)", "Universitatea Queen's", "Poreclit \\\"Orașul de calcar\\\"", "Fort Henry, patrimoniu UNESCO"],
       en: ["First capital of the Province of Canada", "Queen's University", "Nickname 'The Limestone City'", "Fort Henry UNESCO World Heritage Site"]
     },
     descriptionAdvanced: {
@@ -621,7 +621,7 @@ export const poiExtraCanadaCitiesV2: POI[] = [
     facts: {
       de: ["'Turnierhauptstadt Kanadas'", "Trockenes, sonniges Klima", "Wichtiger Verkehrsknotenpunkt", "Thompson Rivers University"],
       hu: ["'Kanada bajnoki fővárosa'", "Száraz, napos éghajlat", "Fontos közlekedési csomópont", "Thompson Rivers University"],
-      ro: ["„Capitala Turneelor din Canada”", "Climă uscată și însorită", "Nod de transport important", "Universitatea Thompson Rivers"],
+      ro: ["\\\"Capitala Turneelor din Canada\\\"", "Climă uscată și însorită", "Nod de transport important", "Universitatea Thompson Rivers"],
       en: ["'Tournament Capital of Canada'", "Dry, sunny climate", "Major transportation junction", "Thompson Rivers University"]
     },
     descriptionAdvanced: {
@@ -640,7 +640,7 @@ export const poiExtraCanadaCitiesV2: POI[] = [
     facts: {
       de: ["'Hafenstadt'", "Heimat des Nanaimo-Riegels", "Fährhafen nach Vancouver", "Historische Bastion"],
       hu: ["'Kikötőváros'", "A Nanaimo szelet otthona", "Kikötő kompokkal Vancouverbe", "Történelmi bástya"],
-      ro: ["„Orașul Port”", "Originea prăjiturii Nanaimo", "Port de feribot spre Vancouver", "Bastionul istoric"],
+      ro: ["\\\"Orașul Port\\\"", "Originea prăjiturii Nanaimo", "Port de feribot spre Vancouver", "Bastionul istoric"],
       en: ["'The Harbour City'", "Origin of the Nanaimo bar", "Ferry terminal to Vancouver", "Historic Bastion"]
     },
     descriptionAdvanced: {
@@ -659,7 +659,7 @@ export const poiExtraCanadaCitiesV2: POI[] = [
     facts: {
       de: ["'Hauptstadt des Nordens von BC'", "Am Zusammenfluss von Fraser und Nechako River", "Wichtige Forstwirtschaft", "University of Northern British Columbia"],
       hu: ["'BC északi fővárosa'", "A Fraser és a Nechako folyók összefolyásánál", "Fontos erdőgazdálkodás", "University of Northern British Columbia"],
-      ro: ["„Capitala de nord a BC”", "La confluența râurilor Fraser și Nechako", "Industrie forestieră importantă", "Universitatea din nordul Columbiei Britanice"],
+      ro: ["\\\"Capitala de nord a BC\\\"", "La confluența râurilor Fraser și Nechako", "Industrie forestieră importantă", "Universitatea din nordul Columbiei Britanice"],
       en: ["'BC's Northern Capital'", "At the confluence of Fraser and Nechako Rivers", "Major forestry industry", "University of Northern British Columbia"]
     },
     descriptionAdvanced: {
@@ -735,7 +735,7 @@ export const poiExtraCanadaCitiesV2: POI[] = [
     facts: {
       de: ["'Nickel-Hauptstadt der Welt'", "Big Nickel Wahrzeichen", "Science North Wissenschaftszentrum", "Über 300 Seen in der Stadt"],
       hu: ["'A világ nikkel fővárosa'", "Big Nickel emlékmű", "Science North tudományos központ", "Több mint 300 tó a városban"],
-      ro: ["„Capitala Mondială a Nichelului”", "Monumentul Big Nickel", "Centrul de știință Science North", "Peste 300 de lacuri în oraș"],
+      ro: ["\\\"Capitala Mondială a Nichelului\\\"", "Monumentul Big Nickel", "Centrul de știință Science North", "Peste 300 de lacuri în oraș"],
       en: ["'Nickel Capital of the World'", "The Big Nickel landmark", "Science North science centre", "Over 300 lakes within the city"]
     },
     descriptionAdvanced: {
@@ -750,7 +750,7 @@ export const poiExtraCanadaCitiesV2: POI[] = [
     parent: "CA-ON",
     coords: [-80.2669, 43.1400],
     name: { de: "Brantford", hu: "Brantford", ro: "Brantford", en: "Brantford" },
-    description: { de: "Bekannt als 'Telefonstadt', da Alexander Graham Bell hier das Telefon erfand.", hu: "'Telefonvárosként' ismert, mivel Alexander Graham Bell itt találta fel a telefont.", ro: "Cunoscut ca „Orașul Telefonului”, deoarece Alexander Graham Bell a inventat aici telefonul.", en: "Known as 'The Telephone City' as Alexander Graham Bell invented the telephone here." },
+    description: { de: "Bekannt als 'Telefonstadt', da Alexander Graham Bell hier das Telefon erfand.", hu: "'Telefonvárosként' ismert, mivel Alexander Graham Bell itt találta fel a telefont.", ro: "Cunoscut ca \\\"Orașul Telefonului\\\", deoarece Alexander Graham Bell a inventat aici telefonul.", en: "Known as 'The Telephone City' as Alexander Graham Bell invented the telephone here." },
     facts: {
       de: ["Erfindung des Telefons", "Heimat von Wayne Gretzky", "Am Grand River gelegen", "Historisches Industriezentrum"],
       hu: ["A telefon feltalálásának helye", "Wayne Gretzky szülővárosa", "A Grand River partján fekszik", "Történelmi ipari központ"],
@@ -826,7 +826,7 @@ export const poiExtraCanadaCitiesV2: POI[] = [
     parent: "CA-ON",
     coords: [-79.2431, 43.1593],
     name: { de: "St. Catharines", hu: "St. Catharines", ro: "St. Catharines", en: "St. Catharines" },
-    description: { de: "Die größte Stadt in der Niagara-Region, bekannt als 'Gartenstadt'.", hu: "A Niagara régió legnagyobb városa, 'Kertvárosként' ismert.", ro: "Cel mai mare oraș din regiunea Niagara, cunoscut ca „Orașul Grădină”.", en: "The largest city in the Niagara Region, known as 'The Garden City'." },
+    description: { de: "Die größte Stadt in der Niagara-Region, bekannt als 'Gartenstadt'.", hu: "A Niagara régió legnagyobb városa, 'Kertvárosként' ismert.", ro: "Cel mai mare oraș din regiunea Niagara, cunoscut ca \\\"Orașul Grădină\\\".", en: "The largest city in the Niagara Region, known as 'The Garden City'." },
     facts: {
       de: ["Welland-Kanal", "Wein- und Obstanbau", "Brock University", "Royal Canadian Henley Regatta"],
       hu: ["Welland-csatorna", "Bor- és gyümölcstermesztés", "Brock University", "Royal Canadian Henley Evezős Regatta"],
@@ -849,7 +849,7 @@ export const poiExtraCanadaCitiesV2: POI[] = [
     facts: {
       de: ["Wichtige Landwirtschaftsregion", "Historische Stätte des 'Underground Railroad'", "Günstige Immobilien", "An den Seen Erie und St. Clair gelegen"],
       hu: ["Fontos mezőgazdasági régió", "A 'Földalatti Vasút' történelmi helyszíne", "Megfizethető ingatlanok", "Az Erie- és St. Clair-tavaknál fekszik"],
-      ro: ["Regiune agricolă importantă", "Sit istoric al „Underground Railroad”", "Imobiliare accesibile", "Situat pe lacurile Erie și St. Clair"],
+      ro: ["Regiune agricolă importantă", "Sit istoric al \\\"Underground Railroad\\\"", "Imobiliare accesibile", "Situat pe lacurile Erie și St. Clair"],
       en: ["Major agricultural region", "Historic site for the 'Underground Railroad'", "Affordable real estate", "Located on Lakes Erie and St. Clair"]
     },
     descriptionAdvanced: {
@@ -868,7 +868,7 @@ export const poiExtraCanadaCitiesV2: POI[] = [
     facts: {
       de: ["'The Royal City'", "Erste Hauptstadt von BC", "Am Fraser River gelegen", "Gut erhaltene historische Architektur"],
       hu: ["'A királyi város'", "BC első fővárosa", "A Fraser-folyó partján fekszik", "Jól megőrzött történelmi építészet"],
-      ro: ["„Orașul Regal”", "Prima capitală a BC", "Situat pe râul Fraser", "Arhitectură istorică bine conservată"],
+      ro: ["\\\"Orașul Regal\\\"", "Prima capitală a BC", "Situat pe râul Fraser", "Arhitectură istorică bine conservată"],
       en: ["'The Royal City'", "First capital of BC", "Located on the Fraser River", "Well-preserved heritage architecture"]
     },
     descriptionAdvanced: {
@@ -985,7 +985,7 @@ export const poiExtraCanadaCitiesV2: POI[] = [
     parent: "CA-QC",
     coords: [-72.4833, 45.8833],
     name: { de: "Drummondville", hu: "Drummondville", ro: "Drummondville", en: "Drummondville" },
-    description: { de: "Eine Stadt in Zentral-Quebec, bekannt für ihr Sommerfestival 'Mondial des Cultures'.", hu: "Város Közép-Quebecben, a 'Mondial des Cultures' nyári fesztiválról ismert.", ro: "Un oraș în centrul Quebecului, cunoscut pentru festivalul său de vară „Mondial des Cultures”.", en: "A city in central Quebec, known for its 'Mondial des Cultures' summer festival." },
+    description: { de: "Eine Stadt in Zentral-Quebec, bekannt für ihr Sommerfestival 'Mondial des Cultures'.", hu: "Város Közép-Quebecben, a 'Mondial des Cultures' nyári fesztiválról ismert.", ro: "Un oraș în centrul Quebecului, cunoscut pentru festivalul său de vară \\\"Mondial des Cultures\\\".", en: "A city in central Quebec, known for its 'Mondial des Cultures' summer festival." },
     facts: {
       de: ["Mondial des Cultures Festival", "Wichtiger Verkehrsknotenpunkt", "Starkes produzierendes Gewerbe", "Village Québécois d'Antan (historisches Dorf)"],
       hu: ["Mondial des Cultures Fesztivál", "Fontos közlekedési csomópont", "Erős feldolgozóipar", "Village Québécois d'Antan (történelmi falu)"],
@@ -1050,7 +1050,7 @@ export const poiExtraCanadaCitiesV2: POI[] = [
     parent: "CA-SK",
     coords: [-105.7606, 53.2001],
     name: { de: "Prince Albert", hu: "Prince Albert", ro: "Prince Albert", en: "Prince Albert" },
-    description: { de: "Die drittgrößte Stadt in Saskatchewan, das 'Tor zum Norden'.", hu: "Saskatchewan harmadik legnagyobb városa, 'az észak kapuja'.", ro: "Al treilea oraș ca mărime din Saskatchewan, „Poarta spre Nord”.", en: "The third-largest city in Saskatchewan, the 'Gateway to the North'." },
+    description: { de: "Die drittgrößte Stadt in Saskatchewan, das 'Tor zum Norden'.", hu: "Saskatchewan harmadik legnagyobb városa, 'az észak kapuja'.", ro: "Al treilea oraș ca mărime din Saskatchewan, \\\"Poarta spre Nord\\\".", en: "The third-largest city in Saskatchewan, the 'Gateway to the North'." },
     facts: {
       de: ["Tor zu den nördlichen Seen und Wäldern", "Prince Albert National Park in der Nähe", "Historisches Handelszentrum", "Wichtige Holzwirtschaft"],
       hu: ["Kapu az északi tavakhoz és erdőkhöz", "Prince Albert Nemzeti Park a közelben", "Történelmi kereskedelmi központ", "Fontos faipar"],
@@ -1067,7 +1067,7 @@ export const poiExtraCanadaCitiesV2: POI[] = [
     facts: {
       de: ["'Die Weizenstadt'", "Brandon University", "Royal Manitoba Winter Fair", "Wichtiger Eisenbahnknotenpunkt"],
       hu: ["'A búza városa'", "Brandon University", "Royal Manitoba Téli Vásár", "Fontos vasúti csomópont"],
-      ro: ["„Orașul Grâului”", "Universitatea Brandon", "Târgul de Iarnă Regal Manitoba", "Nod feroviar important"],
+      ro: ["\\\"Orașul Grâului\\\"", "Universitatea Brandon", "Târgul de Iarnă Regal Manitoba", "Nod feroviar important"],
       en: ["'The Wheat City'", "Brandon University", "Royal Manitoba Winter Fair", "Major railway hub"]
     }, image: "/poi-images/brandon-cities-v2.webp"},
   {
@@ -1080,7 +1080,7 @@ export const poiExtraCanadaCitiesV2: POI[] = [
     facts: {
       de: ["'Tor zum Norden'", "An den Seen Nipissing und Trout gelegen", "Wichtige Luftwaffenbasis (CFB North Bay)", "Tourismus und Bildung"],
       hu: ["'Az észak kapuja'", "A Nipissing és Trout tavaknál fekszik", "Fontos légibázis (CFB North Bay)", "Turizmus és oktatás"],
-      ro: ["„Poarta spre Nord”", "Situat între lacurile Nipissing și Trout", "Bază aeriană importantă (CFB North Bay)", "Turism și educație"],
+      ro: ["\\\"Poarta spre Nord\\\"", "Situat între lacurile Nipissing și Trout", "Bază aeriană importantă (CFB North Bay)", "Turism și educație"],
       en: ["'Gateway of the North'", "On Lakes Nipissing and Trout", "Major air force base (CFB North Bay)", "Tourism and education"]
     }, image: "/poi-images/north-bay-cities-v2.webp"},
   {
@@ -1093,7 +1093,7 @@ export const poiExtraCanadaCitiesV2: POI[] = [
     facts: {
       de: ["'Die schöne Stadt'", "Wichtiger Verkehrskorridor (Highway 401)", "Loyalist College", "Historische Innenstadt"],
       hu: ["'A szép város'", "Fontos közlekedési folyosó (401-es autópálya)", "Loyalist College", "Történelmi belváros"],
-      ro: ["„Orașul Frumos”", "Coridor de transport important (Autostrada 401)", "Colegiul Loyalist", "Centru istoric"],
+      ro: ["\\\"Orașul Frumos\\\"", "Coridor de transport important (Autostrada 401)", "Colegiul Loyalist", "Centru istoric"],
       en: ["'The Beautiful City'", "Major transportation corridor (Highway 401)", "Loyalist College", "Historic downtown"]
     }, image: "/poi-images/belleville-cities-v2.webp"},
   {
@@ -1119,7 +1119,7 @@ export const poiExtraCanadaCitiesV2: POI[] = [
     facts: {
       de: ["'Cottage Country'", "Über 250 Seen", "Teil des Trent-Severn-Wasserwegs", "Tourismus und Landwirtschaft"],
       hu: ["'Nyaralóvidék'", "Több mint 250 tó", "A Trent-Severn vízi út része", "Turizmus és mezőgazdaság"],
-      ro: ["„Țara Căsuțelor de Vacanță”", "Peste 250 de lacuri", "Parte a căii navigabile Trent-Severn", "Turism și agricultură"],
+      ro: ["\\\"Țara Căsuțelor de Vacanță\\\"", "Peste 250 de lacuri", "Parte a căii navigabile Trent-Severn", "Turism și agricultură"],
       en: ["'Cottage Country'", "Over 250 lakes", "Part of the Trent-Severn Waterway", "Tourism and agriculture"]
     }, image: "/poi-images/kawartha-lakes-cities-v2.webp"},
   {
@@ -1362,7 +1362,7 @@ export const poiExtraCanadaCitiesV2: POI[] = [
     parent: "CA-QC",
     coords: [-71.9569, 46.0567],
     name: { de: "Victoriaville", hu: "Victoriaville", ro: "Victoriaville", en: "Victoriaville" },
-    description: { de: "Bekannt als 'Wiege der nachhaltigen Entwicklung' in Quebec.", hu: "'A fenntartható fejlődés bölcsőjeként' ismert Quebecben.", ro: "Cunoscut ca „Leagănul dezvoltării durabile” în Quebec.", en: "Known as the 'Cradle of Sustainable Development' in Quebec." },
+    description: { de: "Bekannt als 'Wiege der nachhaltigen Entwicklung' in Quebec.", hu: "'A fenntartható fejlődés bölcsőjeként' ismert Quebecben.", ro: "Cunoscut ca \\\"Leagănul dezvoltării durabile\\\" în Quebec.", en: "Known as the 'Cradle of Sustainable Development' in Quebec." },
     facts: {
       de: ["Fokus auf nachhaltige Entwicklung", "Wichtige Holz- und Möbelindustrie", "Mount Arthabaska Park", "Käseherstellung"],
       hu: ["Fókuszban a fenntartható fejlődés", "Fontos fa- és bútoripar", "Mount Arthabaska Park", "Sajtgyártás"],
@@ -1388,11 +1388,11 @@ export const poiExtraCanadaCitiesV2: POI[] = [
     parent: "CA-QC",
     coords: [-74.0, 45.7833],
     name: { de: "Saint-Jérôme", hu: "Saint-Jérôme", ro: "Saint-Jérôme", en: "Saint-Jérôme" },
-    description: { de: "Bekannt als das 'Tor zu den Laurentinischen Bergen'.", hu: "'A Laurentian-hegység kapujaként' ismert.", ro: "Cunoscut ca „Poarta către Munții Laurentieni”.", en: "Known as the 'Gateway to the Laurentians'." },
+    description: { de: "Bekannt als das 'Tor zu den Laurentinischen Bergen'.", hu: "'A Laurentian-hegység kapujaként' ismert.", ro: "Cunoscut ca \\\"Poarta către Munții Laurentieni\\\".", en: "Known as the 'Gateway to the Laurentians'." },
     facts: {
       de: ["Ausgangspunkt für den 'P'tit Train du Nord' Radweg", "Wirtschaftszentrum der Laurentides-Region", "Université du Québec en Outaouais Campus", "Historische Kathedrale"],
       hu: ["A 'P'tit Train du Nord' kerékpárút kiindulópontja", "A Laurentides régió gazdasági központja", "Université du Québec en Outaouais kampusz", "Történelmi katedrális"],
-      ro: ["Punct de plecare pentru pista de biciclete „P'tit Train du Nord”", "Centru economic al regiunii Laurentides", "Campusul Universității din Quebec în Outaouais", "Catedrală istorică"],
+      ro: ["Punct de plecare pentru pista de biciclete \\\"P'tit Train du Nord\\\"", "Centru economic al regiunii Laurentides", "Campusul Universității din Quebec în Outaouais", "Catedrală istorică"],
       en: ["Starting point of the 'P'tit Train du Nord' bike path", "Economic hub of the Laurentides region", "Université du Québec en Outaouais campus", "Historic cathedral"]
     }, image: "/poi-images/saint-jerome-cities-v2.webp"},
   {
@@ -1518,7 +1518,7 @@ export const poiExtraCanadaCitiesV2: POI[] = [
     parent: "CA-NS",
     coords: [-63.2833, 45.3667],
     name: { de: "Truro", hu: "Truro", ro: "Truro", en: "Truro" },
-    description: { de: "Bekannt als das 'Zentrum von Nova Scotia'.", hu: "'Új-Skócia központjaként' ismert.", ro: "Cunoscut ca „Centrul Noii Scoții”.", en: "Known as the 'Hub of Nova Scotia'." },
+    description: { de: "Bekannt als das 'Zentrum von Nova Scotia'.", hu: "'Új-Skócia központjaként' ismert.", ro: "Cunoscut ca \\\"Centrul Noii Scoții\\\".", en: "Known as the 'Hub of Nova Scotia'." },
     facts: {
       de: ["Zentraler Verkehrsknotenpunkt", "Dalhousie University Agricultural Campus", "Victoria Park", "Gezeitenbohrung am Salmon River"],
       hu: ["Központi közlekedési csomópont", "Dalhousie University Mezőgazdasági Kampusz", "Victoria Park", "Árapály-furat a Salmon folyón"],

@@ -408,15 +408,15 @@ export const poiExtraZimbabweHistoryV2: POI[] = [
     facts: {
       de: [
         "Die Kunstwerke stammen von den San-Jägern.",
-        "Der Name bedeutet in Shona „roter Felsen“."
+        "Der Name bedeutet in Shona \"roter Felsen\"."
       ],
       hu: [
         "A műalkotásokat San vadászok készítették.",
-        "A neve shona nyelven „piros sziklát” jelent."
+        "A neve shona nyelven \"piros sziklát\" jelent."
       ],
       ro: [
         "Operele de artă au fost create de vânătorii San.",
-        "Numele înseamnă „stâncă roșie” în Shona."
+        "Numele înseamnă \"stâncă roșie\" în Shona."
       ],
       en: [
         "The artwork was created by San hunters.",
@@ -820,9 +820,9 @@ export const poiExtraZimbabweHistoryV2: POI[] = [
       en: "Cecil Rhodes Grave"
     },
     description: {
-      de: "Das Grab des britischen Imperialisten befindet sich auf einem Hügel, den er „World's View“ nannte.",
-      hu: "A brit imperialista sírja egy dombon található, amelyet ő „A Világ Látképének” nevezett el.",
-      ro: "Mormântul imperialistului britanic este situat pe un deal pe care l-a numit „World's View”.",
+      de: "Das Grab des britischen Imperialisten befindet sich auf einem Hügel, den er \"World's View\" nannte.",
+      hu: "A brit imperialista sírja egy dombon található, amelyet ő \"A Világ Látképének\" nevezett el.",
+      ro: "Mormântul imperialistului britanic este situat pe un deal pe care l-a numit \"World's View\".",
       en: "The grave of the British imperialist is located on a hill he named 'World's View'."
     },
     facts: {

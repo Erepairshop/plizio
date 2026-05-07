@@ -383,7 +383,7 @@ export const poiExtraMaltaCities: POI[] = [
     facts: {
       de: ["Nach dem italienischen Militäringenieur Pietro Paolo Florani benannt.", "Beherbergt viele Regierungsgebäude.", "Der 'Fosos' (Graben) ist ein beliebter Veranstaltungsort für Konzerte."],
       hu: ["Pietro Paolo Florani olasz hadmérnökről nevezték el.", "Számos kormányzati épületnek ad otthont.", "A 'Fosos' (árok) népszerű koncerthelyszín."],
-      ro: ["Numit după inginerul militar italian Pietro Paolo Florani.", "Găzduiește multe clădiri guvernamentale.", "„Fosos” (șanțul) este un loc popular pentru concerte."],
+      ro: ["Numit după inginerul militar italian Pietro Paolo Florani.", "Găzduiește multe clădiri guvernamentale.", "\"Fosos\" (șanțul) este un loc popular pentru concerte."],
       en: ["Named after the Italian military engineer Pietro Paolo Florani.", "Hosts many government buildings.", "The 'Fosos' (ditch) is a popular concert venue."]
     },
     factsAdvanced: {
@@ -1142,7 +1142,7 @@ export const poiExtraMaltaCities: POI[] = [
       en: ["Awarded the title 'Città Pinto' by Grand Master Pinto.", "Two parishes, dedicated to St. George and St. Sebastian.", "Hosts an annual wine festival and bread festival."]
     },
     factsAdvanced: {
-      de: ["Das Brot-Fest (Lejl f’Casal Fornaro) ist sehr populär.", "Qormi hat zwei bedeutende Pfarreien.", "Die Stadt ist wirtschaftlich sehr aktiv.", "Es gibt viele sehr historische Backöfen in der Altstadt.", "Die Stadtarchitektur ist sehr dicht.", "Qormi hat eine sehr reiche soziale Struktur.", "Die Stadt spielt eine wichtige Rolle in der maltesischen Kultur."],
+      de: ["Das Brot-Fest (Lejl f'Casal Fornaro) ist sehr populär.", "Qormi hat zwei bedeutende Pfarreien.", "Die Stadt ist wirtschaftlich sehr aktiv.", "Es gibt viele sehr historische Backöfen in der Altstadt.", "Die Stadtarchitektur ist sehr dicht.", "Qormi hat eine sehr reiche soziale Struktur.", "Die Stadt spielt eine wichtige Rolle in der maltesischen Kultur."],
       hu: ["Málta területe és elhelyezkedése egyedi a földközi-tengeri térségben.", "A szigetek történelme több mint 7000 évre nyúlik vissza.", "A lovagrendek hagyatéka ma is minden városban tetten érhető.", "Az éghajlat egész évben kedvező a turizmus számára.", "A szigetország infrastruktúrája folyamatosan fejlődik.", "Málta közlekedése és hajózása évszázadok óta meghatározó.", "A helyi kultúra keveredik a mediterrán és európai elemekkel."],
       ro: [],
       en: []

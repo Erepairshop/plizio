@@ -257,7 +257,7 @@ export const poiExtraItalyCitiesC1: POI[] = [
         ro: ["Găzduiește capodopera lui Giotto, Capela Scrovegni", "Una dintre cele mai vechi universități din Italia", "Prato della Valle este o piață eliptică masivă", "Important loc de pelerinaj (Bazilica Sf. Anton)"],
         en: ["Home to Giotto's masterpiece, the Scrovegni Chapel", "One of Italy's oldest universities", "Prato della Valle is a massive elliptical square", "Major pilgrimage site (Basilica of St. Anthony)"]
     }
-  }
+  },
   // NOTE: This is a truncated list for brevity. The full list would contain 100 cities.
   // The generation will continue to add cities like:
   // Bari, Cagliari, Messina, Brescia, Taranto, Parma, Modena, Reggio Calabria, Reggio Emilia,

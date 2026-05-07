@@ -330,9 +330,9 @@ export const jamaicaCities: POI[] = [
     coords: [-76.84, 17.93],
     name: { de: "Port Royal", hu: "Port Royal", ro: "Port Royal", en: "Port Royal" },
     description: {
-      de: "Einst die „sündigste Stadt der Welt“, heute ein ruhiges Fischerdorf.",
-      hu: "Egykor a „világ legbűnösebb városa”, ma csendes halászfalu.",
-      ro: "Odinioară „cel mai păcătos oraș de pe pământ”, acum un sat pescăresc liniștit.",
+      de: "Einst die \\\"sündigste Stadt der Welt\\\", heute ein ruhiges Fischerdorf.",
+      hu: "Egykor a \\\"világ legbűnösebb városa\\\", ma csendes halászfalu.",
+      ro: "Odinioară \\\"cel mai păcătos oraș de pe pământ\\\", acum un sat pescăresc liniștit.",
       en: "Once the 'wickedest city on earth', now a quiet fishing village."
     },
     descriptionAdvanced: {
@@ -698,7 +698,7 @@ export const jamaicaLandmarks: POI[] = [
       de: ["Der Ort diente als Kulisse für Szenen in Filmen wie 'Cocktail' und 'Die blaue Lagune'", "Es gibt eine versteckte Unterwasserhöhle, die man durchschwimmen kann", "Die Wasserfälle wurden ursprünglich von entflohenen Sklaven entdeckt"],
       hu: ["A helyszín olyan filmek hátteréül szolgált, mint a 'Koktél' és a 'Kék lagúna'", "Van egy rejtett vízalatti barlang, amelyen keresztül lehet úszni", "A vízesést eredetileg szökött rabszolgák fedezték fel"],
       ro: ["Locul a servit drept decor pentru scene din filme precum 'Cocktail' și 'Laguna Albastră'", "Există o peșteră subacvatică ascunsă prin care se poate înota", "Cascadele au fost descoperite inițial de sclavi fugari"],
-      en: ["The falls have been featured in major films, including Tom Cruise’s 'Cocktail'", "It features a legendary 'Rabbit Hole'—a small tunnel through the limestone into a pool", "The surrounding area is home to over 20 species of rare endemic ferns"]
+      en: ["The falls have been featured in major films, including Tom Cruise's 'Cocktail'", "It features a legendary 'Rabbit Hole'—a small tunnel through the limestone into a pool", "The surrounding area is home to over 20 species of rare endemic ferns"]
     }, image: "/poi-images/jm-reachfalls.webp"},
   {
     id: "jm-spanishtown",
@@ -728,7 +728,7 @@ export const jamaicaLandmarks: POI[] = [
       de: ["Der Platz beherbergt das Rodney Memorial zu Ehren eines britischen Admirals", " Spanish Town wurde von den Spaniern als 'Villa de la Vega' gegründet", "Hier wurde 1838 die Proklamation zur vollständigen Abschaffung der Sklaverei verlesen"],
       hu: ["A téren található a Rodney-emlékmű egy brit admirális tiszteletére", "Spanish Town-t a spanyolok alapították 'Villa de la Vega' néven", "1838-ban itt olvasták fel a rabszolgaság teljes eltörléséről szóló nyilatkozatot"],
       ro: ["Piața găzduiește Memorialul Rodney în cinstea unui amiral britanic", "Spanish Town a fost fondat de spanioli sub numele de 'Villa de la Vega'", "Aici a fost citită proclamația pentru abolirea completă a sclaviei în 1838"],
-      en: ["The square is anchored by the Rodney Memorial, celebrating Admiral George Rodney’s 1782 naval victory", "Spanish Town served as the island's capital for over 300 years until 1872", "The site features the Old King's House, the former residence of British Governors"]
+      en: ["The square is anchored by the Rodney Memorial, celebrating Admiral George Rodney's 1782 naval victory", "Spanish Town served as the island's capital for over 300 years until 1872", "The site features the Old King's House, the former residence of British Governors"]
     },
     historyYear: 1534, image: "/poi-images/jm-spanishtown.webp"},
   {

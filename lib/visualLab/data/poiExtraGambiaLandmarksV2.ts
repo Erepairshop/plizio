@@ -29,13 +29,13 @@ export const poiExtraGambiaLandmarksV2: POI[] = [
       de: "Arch 22 wurde 1996 zu Ehren der am 22. Juli 1994 erfolgten Machtübernahme durch Yahya Jammeh errichtet. Das 35 Meter hohe Bauwerk markiert den Haupteingang zur gambischen Hauptstadt Banjul. Das Monument besteht aus acht Säulen, die das Bogen-Design stützen, und beherbergt ein kleines Museum sowie eine Aussichtsplattform, von der aus der Blick über die Atlantikküste und das Stadtzentrum von Banjul reicht. Geografie K7 — städtebauliche Wahrzeichen.",
       hu: "A 22-es diadalív (Arch 22) 1996-ban épült a Yahya Jammeh által 1994. július 22-én végrehajtott hatalomátvétel tiszteletére. A 35 méter magas építmény Banjul, Gambia fővárosának fő bejáratát jelzi. A nyolc oszlopon nyugvó boltíves emlékmű belsejében egy kis múzeum és egy kilátó található, ahonnan páratlan panoráma nyílik az Atlanti-óceán partvidékére és a főváros belvárosára. Földrajz K7 — városépítészeti nevezetességek.",
       ro: "Arcul 22 a fost construit în 1996 în onoarea preluării puterii de către Yahya Jammeh la 22 iulie 1994. Structura de 35 de metri înălțime marchează intrarea principală în capitala gambiană, Banjul. Monumentul constă din opt coloane care susțin designul arcului și găzduiește un mic muzeu, precum și o platformă de observare de unde vizitatorii pot admira coasta Atlanticului și centrul orașului. Geografie K7 — repere urbane.",
-      en: "Arch 22 was built in 1996 to commemorate the takeover of power by Yahya Jammeh on July 22, 1994. The 35-meter-tall structure marks the main gateway into the Gambian capital, Banjul. The monument consists of eight columns supporting the arched design and houses a small museum, as well as a viewing platform from which visitors can see the Atlantic coast and the city center of Banjul. Geography K7 — urban landmarks."
+      en: "Arch 22 is an unmistakable architectural landmark towering over the entrance to Banjul, standing an impressive 35 meters high. Built in 1996, it was designed as a triumphal arch to commemorate the 1994 military coup, though its historical context has evolved significantly since the change of government in 2017. Structurally, it is one of the tallest buildings in The Gambia, supported by eight colossal columns and housing a small museum on its upper floors. For tourists and locals alike, its primary draw is the sweeping, panoramic view it offers from the top, encompassing the dense capital city, the sprawling river estuary, and the Atlantic Ocean. (Geography K6 — national monuments and urban topography)"
     },
     factsAdvanced: {
       de: ["Errichtet 1996 als Triumphbogen.", "Höhe von genau 35 Metern.", "Befindet sich am Banjul-Highway.", "Beherbergt ein Nationalmuseum-Dependance.", "Acht massive Säulen stützen das Bauwerk.", "Symbolisiert den politischen Wendepunkt von 1994."],
       hu: ["1996-ban épült diadalívként.", "Pontosan 35 méter magas.", "A Banjul-országúton található.", "Egy kis nemzeti múzeumi részlegnek ad otthont.", "Nyolc masszív oszlop tartja az építményt.", "Az 1994-es politikai fordulópontot jelképezi."],
       ro: ["Construit în 1996 ca arc de triumf.", "Înălțime exactă de 35 de metri.", "Situat pe autostrada Banjul.", "Găzduiește o secție a muzeului național.", "Opt coloane masive susțin structura.", "Simbolizează punctul de cotitură politică din 1994."],
-      en: ["Built in 1996 as a triumphal arch.", "Exactly 35 meters high.", "Located on the Banjul Highway.", "Houses a national museum annex.", "Eight massive columns support the structure.", "Symbolizes the political turning point of 1994."]
+      en: ["A monumental triumphal arch standing 35 meters (114 feet) tall in Banjul.", "Constructed in 1996 to commemorate the July 22, 1994 military coup.", "One of the tallest and most prominent architectural structures in The Gambia.", "Supported by eight massive columns and features a textile museum inside.", "Offers unparalleled panoramic views of the capital, river estuary, and ocean.", "Its historical and political significance has evolved since the 2017 democratic transition."]
     }, image: "/poi-images/arch-22-landmarks-v2.webp"},
   {
     id: "wassu-stone-circles-landmarks-v2",
@@ -64,13 +64,13 @@ export const poiExtraGambiaLandmarksV2: POI[] = [
       de: "Die Steinkreise von Wassu gehören zu den bedeutendsten Megalith-Stätten in Westafrika und sind seit 2006 UNESCO-Welterbe. Diese kreisförmigen Anordnungen aus Lateritsteinen dienten als Grabstätten, deren Ursprung bis auf das 3. Jahrhundert vor Christus zurückgeht. Die Steine variieren in ihrer Höhe zwischen einem und zweieinhalb Metern. Archäologische Untersuchungen deuten darauf hin, dass die Stätte eine komplexe rituelle und gesellschaftliche Geschichte der senegambischen Völker widerspiegelt. Geschichte K6 — antike Kulturen.",
       hu: "A Wassu kőkörök Nyugat-Afrika egyik legfontosabb megalitikus lelőhelye, amely 2006 óta az UNESCO világörökség része. Ezek a lateritkövekből álló kör alakú elrendezések temetkezési helyként szolgáltak, eredetük a Kr. e. 3. századra nyúlik vissza. A kövek magassága egy és két és fél méter között váltakozik. A régészeti feltárások arra utalnak, hogy a helyszín a szenegambiai népek komplex rituális és társadalmi történelmét tükrözi. Történelem K6 — ókori kultúrák.",
       ro: "Cercurile de piatră de la Wassu reprezintă unul dintre cele mai importante situri megalitice din Africa de Vest, fiind parte a Patrimoniului Mondial UNESCO din 2006. Aceste aranjamente circulare din piatră lateritică au servit drept locuri de înmormântare, originea lor datând încă din secolul al III-lea î.Hr. Înălțimea pietrelor variază între unu și doi metri și jumătate. Investigațiile arheologice sugerează că situl reflectă istoria socială și rituală complexă a popoarelor senegambiene. Istorie K6 — culturi antice.",
-      en: "The Wassu Stone Circles are among the most significant megalithic sites in West Africa, listed as a UNESCO World Heritage site since 2006. These circular arrangements of laterite stones served as burial grounds with origins dating back to the 3rd century BC. The height of the stones varies between one and two and a half meters. Archaeological research suggests that the site reflects the complex ritual and social history of the Senegambian peoples. History K6 — ancient cultures."
+      en: "The Wassu Stone Circles are the most famous and visually striking megalithic landmark in The Gambia, located in the Central River Region. Designated as a UNESCO World Heritage Site, this specific complex features 11 distinct circles of massive, reddish laterite pillars, some standing over two meters tall and weighing several tons. These mysterious stones, erected between 1,200 and 2,000 years ago, are believed to mark the burial sites of ancient kings and warriors. As a landmark, Wassu draws significant international tourism and archaeological interest, serving as a powerful, enduring symbol of the highly organized, ancient civilizations that thrived in the Senegambian region long before written history. (History K7 — ancient landmarks and UNESCO World Heritage Sites)"
     },
     factsAdvanced: {
       de: ["Seit 2006 Teil des UNESCO-Welterbes.", "Bestehend aus 11 Steinkreisen an der Wassu-Stätte.", "Material ist lokaler Laterit.", "Steine bis zu 10 Tonnen schwer.", "Grabungen enthielten oft Grabbeigaben.", "Nutzen der Astronomie wird vermutet."],
       hu: ["2006 óta az UNESCO világörökség része.", "11 kőkört tartalmaz a Wassu lelőhely.", "Anyaga helyi laterit.", "A kövek súlya elérheti a 10 tonnát.", "Az ásatások gyakran tartalmaztak sírmellékleteket.", "Csillagászati felhasználását feltételezik."],
       ro: ["Parte a Patrimoniului Mondial UNESCO din 2006.", "Cuprinde 11 cercuri de piatră în situl Wassu.", "Materialul este laterit local.", "Pietrele pot cântări până la 10 tone.", "Săpăturile au scos adesea la iveală ofrande funerare.", "Se presupune utilizarea în scopuri astronomice."],
-      en: ["Part of the UNESCO World Heritage since 2006.", "Comprises 11 stone circles at the Wassu site.", "Material is local laterite.", "Stones can weigh up to 10 tons.", "Excavations often yielded burial goods.", "Astronomical use is hypothesized."]
+      en: ["The most famous megalithic site in The Gambia, located in the Central River Region.", "Recognized globally as a core part of a UNESCO World Heritage Site.", "Features 11 distinct circles comprised of massive, carved laterite pillars.", "The stones are estimated to have been erected between 1,200 and 2,000 years ago.", "Some individual pillars stand over two meters tall and weigh several tons.", "Functions as a major draw for international tourism and archaeological research."]
     }, image: "/poi-images/wassu-stone-circles-landmarks-v2.webp"},
   {
     id: "fort-bullen-landmarks-v2",
@@ -99,13 +99,13 @@ export const poiExtraGambiaLandmarksV2: POI[] = [
       de: "Fort Bullen wurde 1826 am Nordufer der Gambia-Mündung in Barra errichtet, um den Sklavenhandel in der Region aktiv zu unterbinden. Zusammen mit dem Fort James auf der Kunta Kinteh Insel bildete es eine strategische Verteidigungslinie der Briten. Die Befestigungsanlage sollte den Zugang für Schiffe kontrollieren und illegale Aktivitäten auf dem Fluss stoppen. Heute ist das Fort Teil des Kunta Kinteh UNESCO-Welterbes und zeugt vom harten Kampf gegen die Sklaverei im 19. Jahrhundert. Geschichte K8 — Kolonialgeschichte.",
       hu: "A Bullen-erődöt (Fort Bullen) 1826-ban építették a Gambia-folyó torkolatának északi partján, Barrában, hogy aktívan felszámolják a régióban zajló rabszolga-kereskedelmet. A Kunta Kinteh szigeten található James-erőddel együtt a britek stratégiai védelmi vonalát alkotta. Az erődítmény feladata a hajók mozgásának ellenőrzése és a folyón zajló illegális tevékenységek megállítása volt. Ma az erőd a Kunta Kinteh UNESCO-világörökségi helyszín része, és a 19. századi rabszolgaság elleni kemény küzdelem tanúja. Történelem K8 — gyarmati korszak.",
       ro: "Fortul Bullen a fost construit în 1826 pe malul nordic al estuarului fluviului Gambia, în Barra, pentru a suprima activ comerțul cu sclavi din regiune. Împreună cu Fortul James de pe insula Kunta Kinteh, acesta forma o linie defensivă strategică a britanicilor. Fortificația a fost menită să controleze accesul navelor și să oprească activitățile ilegale pe râu. Astăzi, fortul face parte din situl Patrimoniului Mondial UNESCO Kunta Kinteh și mărturisește lupta dură împotriva sclaviei din secolul al XIX-lea. Istorie K8 — epoca colonială.",
-      en: "Fort Bullen was built in 1826 on the north bank of the Gambia River estuary in Barra to actively abolish the slave trade in the region. Together with Fort James on Kunta Kinteh Island, it formed a strategic defense line for the British. The fortification was meant to control ship access and stop illegal activities on the river. Today, the fort is part of the Kunta Kinteh UNESCO World Heritage site and stands as a testament to the hard fight against slavery in the 19th century. History K8 — colonial history."
+      en: "Fort Bullen stands as a prominent historical landmark at Barra Point, strategically overlooking the wide mouth of the Gambia River. Built by the British in 1826, its distinctive, star-shaped bastions and thick laterite walls were designed specifically to mount heavy artillery capable of intercepting illegal slave ships entering the estuary. Today, the fort is remarkably well-preserved, complete with several original, rusting cannons still pointing out to sea. As a landmark, it offers a stark visual reminder of the transatlantic slave trade era and provides sweeping, strategic views across the water to the capital city of Banjul, essentially acting as the historical gatekeeper to the nation. (History K8 — military fortifications and maritime chokepoints)"
     },
     factsAdvanced: {
       de: ["Erbaut im Jahre 1826.", "Strategische Lage am 'Point Barra'.", "Teil des Kunta Kinteh Welterbes.", "Diente zur Kontrolle des Schiffsverkehrs.", "Britische Militärarchitektur des 19. Jhs.", "Heute ein Ort der Erinnerungskultur."],
       hu: ["1826-ban épült.", "Stratégiai elhelyezkedés a 'Point Barra'-nál.", "A Kunta Kinteh világörökség része.", "A hajóforgalom ellenőrzésére szolgált.", "19. századi brit katonai építészet.", "Ma az emlékezetkultúra helyszíne."],
       ro: ["Construit în anul 1826.", "Poziție strategică la 'Point Barra'.", "Parte a patrimoniului mondial Kunta Kinteh.", "Utilizat pentru controlul traficului naval.", "Arhitectură militară britanică din secolul al XIX-lea.", "Astăzi un loc al memoriei culturale."],
-      en: ["Built in 1826.", "Strategic position at 'Point Barra'.", "Part of the Kunta Kinteh World Heritage site.", "Used to control ship traffic.", "19th-century British military architecture.", "Today a site of cultural remembrance."]
+      en: ["A prominent, star-shaped military fortification located at Barra Point.", "Built by the British in 1826 specifically to combat the illegal transatlantic slave trade.", "Features thick, highly durable laterite stone walls and bastions.", "Several original, heavy iron cannons remain in their firing positions pointing seaward.", "Provides strategic, sweeping views across the river estuary to Banjul.", "Designated as a highly significant UNESCO World Heritage landmark."]
     }, image: "/poi-images/fort-bullen-landmarks-v2.webp"},
   {
     id: "senegambia-bridge-landmarks-v2",
@@ -129,7 +129,20 @@ export const poiExtraGambiaLandmarksV2: POI[] = [
       hu: ["2019 januárjában adták át.", "Felváltotta az időigényes farafenni kompközlekedést."],
       ro: ["Deschis în ianuarie 2019.", "Înlocuiește serviciul de feribot consumator de timp de la Farafenni."],
       en: ["Opened in January 2019.", "Replaces the time-consuming ferry service at Farafenni."]
-    }, image: "/poi-images/senegambia-bridge-landmarks-v2.webp"},
+    }, image: "/poi-images/senegambia-bridge-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "",
+      ro: "Podul Senegambia, inaugurat cu mare fast în ianuarie 2019, reprezintă una dintre cele mai monumentale realizări de infrastructură din Africa de Vest modernă. Cu o lungime de aproape doi kilometri, acest pod cu taxă traversează fluviul Gambia între orașele Farafenni (nord) și Soma (sud). Anterior construcției sale, traversarea se făcea prin feriboturi extrem de lente, cauzând întârzieri de zile întregi pentru camioanele de marfă care călătoreau între nordul și sudul Senegalului. Podul a transformat radical economia regională, a facilitat comerțul transfrontalier, a redus izolarea malului nordic al Gambiei și a devenit un simbol vizual al integrării economice și al unității (ECOWAS) între statele vecine din regiunea Senegambiană. [Geografie K8 — infrastructură majoră și integrare regională]",
+      en: "The Senegambia Bridge is a colossal feat of modern engineering and arguably the most economically significant new landmark in the region. Spanning an impressive 1.9 kilometers across the Gambia River near Farafenni, it was inaugurated in 2019 to replace the notoriously slow and unreliable ferry crossing. The towering concrete structure not only physically unites the northern and southern halves of The Gambia but critically connects the northern and southern regions of neighboring Senegal. As a landmark, its massive, swooping spans dominate the flat riverine landscape, symbolizing a new era of rapid regional integration and modern West African infrastructural development. (Geography K8 — modern infrastructure and regional integration)"
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [],
+      ro: ["Măsoară aproximativ 1,9 kilometri lungime, traversând fluviul Gambia.", "Conectează Farafenni (North Bank) cu Soma (Lower River).", "A fost inaugurat în ianuarie 2019, după decenii de amânări politice și financiare.", "Finanțat majoritar prin împrumuturi de la Banca Africană de Dezvoltare.", "Este un pod rutier cu taxă, vital pentru traficul de marfă din Africa de Vest.", "Are o porțiune înălțată pentru a permite navigația navelor fluviale pe dedesubt."],
+      en: ["A massive, modern concrete bridge spanning 1.9 kilometers across the Gambia River.", "Inaugurated in 2019, located near the central commercial town of Farafenni.", "Replaced a notoriously slow, historic ferry crossing that bottlenecked trade.", "Critically connects the northern and southern regions of both The Gambia and Senegal.", "One of the largest and most expensive engineering projects in Gambian history.", "A highly visible symbol of modern West African infrastructural development."]
+    }
+  },
   {
     id: "independence-stadium-landmarks-v2",
     type: "landmark",
@@ -152,7 +165,20 @@ export const poiExtraGambiaLandmarksV2: POI[] = [
       hu: ["Körülbelül 30 000 néző befogadására alkalmas.", "A gambiai nemzeti válogatott otthona."],
       ro: ["Capacitate de aproximativ 30.000 de spectatori.", "Locul de desfășurare a meciurilor de acasă ale echipei naționale a Gambiei."],
       en: ["Capacity of approximately 30,000 spectators.", "Home ground for the Gambia national football team."]
-    }, image: "/poi-images/independence-stadium-landmarks-v2.webp"},
+    }, image: "/poi-images/independence-stadium-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "",
+      ro: "Stadionul Independenței (Independence Stadium) din Bakau este epicentrul evenimentelor sportive și culturale din Gambia, fiind cel mai mare stadion național polivalent. Inaugurat în anul 1984, acest colos de beton are o capacitate oficială de aproximativ 30.000 de spectatori și găzduiește meciurile echipei naționale de fotbal (Scorpionii). Dincolo de sport, stadionul este un simbol al mândriei civice, aici având loc aniversările anuale ale Zilei Independenței, concerte masive ale artiștilor internaționali, evenimente religioase uriașe și festivaluri culturale. Recent, stadionul a făcut obiectul unor proiecte majore de modernizare pentru a respecta reglementările internaționale FIFA/CAF privind siguranța și confortul, reafirmându-și rolul de suflet al adunărilor naționale. [Sociologie K7 — infrastructură sportivă și evenimente naționale]",
+      en: "The Independence Stadium, located in Bakau, is the premier sporting and cultural arena in The Gambia, acting as a massive concrete landmark in the urban coastal zone. With a capacity of approximately 30,000 spectators, it was constructed with Chinese assistance in the early 1980s. The stadium is the spiritual home of Gambian football, hosting intensely passionate national team matches (the Scorpions) and major domestic cup finals. Beyond sports, the venue serves as the primary location for massive national events, including political rallies, major music concerts, and the country's annual Independence Day celebrations, making it a focal point of national unity. (Social Studies K6 — national civic spaces and sports culture)"
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [],
+      ro: ["Situat în orașul Bakau, municipalitatea Kanifing.", "Este cel mai mare și singurul stadion național polivalent din țară (cca. 30.000 locuri).", "Construit la începutul anilor 1980 prin colaborare tehnică internațională.", "Aici joacă echipa națională de fotbal, denumită 'Scorpions'.", "Servește ca locație principală pentru marile evenimente politice și concerte muzicale.", "A intrat într-un proces de renovare completă în anul 2023 pentru a obține certificarea CAF."],
+      en: ["The premier national sporting and cultural arena, located in the town of Bakau.", "Features a maximum seating capacity of approximately 30,000 spectators.", "Constructed in the early 1980s through an international development partnership with China.", "The primary home venue for the Gambian national football team (the Scorpions).", "Hosts the majority of the nation's massive political rallies and music concerts.", "The traditional site for the country's official annual Independence Day celebrations."]
+    }
+  },
   {
     id: "kachikally-pool-landmarks-v2",
     type: "landmark",
@@ -175,7 +201,20 @@ export const poiExtraGambiaLandmarksV2: POI[] = [
       hu: ["Több mint 100 krokodilnak ad otthont.", "Hagyományos imádságok szent helyének tekintik."],
       ro: ["Găzduiește peste 100 de crocodili.", "Considerat un loc sacru pentru rugăciunile tradiționale."],
       en: ["Home to over 100 crocodiles.", "Considered a sacred site for traditional prayers."]
-    }, image: "/poi-images/kachikally-pool-landmarks-v2.webp"},
+    }, image: "/poi-images/kachikally-pool-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "",
+      ro: "Bazinul Sacru Kachikally este situat în Bakau și este unul dintre cele mai iconice și vizitate repere turistice și spirituale din Gambia. Pe lângă zecile de crocodili care se plimbă liberi și care pot fi adesea mângâiați de vizitatori (datorită naturii lor neobișnuit de docile), situl prezintă o pădure tropicală miniaturală uimitor de verde. Semnificația locului este adânc înrădăcinată în cultura Mandinka, apa bazinului fiind considerată miraculoasă pentru vindecarea infertilității. Muzeul însoțitor a fost înființat pentru a proteja istoria și pentru a explica ritualurile vizitatorilor internaționali, incluzând artefacte legate de inițierile tradiționale (circumcizie), medicină populară și instrumente istorice, transformând locul într-un reper educațional complet. [Sociologie K7 — sincretism între turism și tradiție religioasă]",
+      en: "The Kachikally Sacred Crocodile Pool is a prominent natural and cultural landmark nestled within the bustling coastal town of Bakau. Covered by a dense canopy of tropical trees, the pool provides a stark, tranquil contrast to the surrounding urban environment. It is famous nationwide for its population of heavily habituated Nile crocodiles, which visitors can approach and touch. As a landmark, Kachikally represents the enduring strength of traditional Mandinka spiritual beliefs—specifically regarding fertility and ancestral spirits—coexisting seamlessly alongside modern, international tourism, making it one of the most photographed and recognizable sites in the country. (Social Studies K6 — cultural landmarks and eco-tourism)"
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [],
+      ro: ["O piscină antică acoperită de lemne de balsa, ferigă și nuferi în Bakau.", "Se află sub tutela clanului istoric Bojang de sute de ani.", "Cel mai faimos crocodil rezident a fost legendarul 'Charlie'.", "Vizitatorii au voie (sub supraveghere) să mângâie pe spate crocodilii adulți.", "Femeile care doresc copii continuă să efectueze ritualuri de baie aici în zori.", "Este cel mai popular reper etnografic și faunistic din zona Marelui Banjul."],
+      en: ["A highly recognizable natural and cultural landmark located in Bakau.", "Consists of a natural freshwater spring completely enveloped by dense tropical forest.", "Famous for hosting a large population of highly habituated, approachable Nile crocodiles.", "Deeply revered by locals as a sacred site holding powerful fertility blessings.", "Managed continuously for generations by the traditional Bojang family.", "One of the most heavily visited and photographed tourist attractions in The Gambia."]
+    }
+  },
   {
     id: "king-fahad-mosque-landmarks-v2",
     type: "landmark",
@@ -198,7 +237,20 @@ export const poiExtraGambiaLandmarksV2: POI[] = [
       hu: ["Lenyűgöző minaretjeiről ismert.", "A banjuli muszlim közösség központja."],
       ro: ["Cunoscută pentru minaretele sale impresionante.", "Centrul comunității musulmane din Banjul."],
       en: ["Known for its impressive minarets.", "Center of the Muslim community in Banjul."]
-    }, image: "/poi-images/king-fahad-mosque-landmarks-v2.webp"},
+    }, image: "/poi-images/king-fahad-mosque-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "",
+      ro: "Moscheea King Fahad este cel mai proeminent și impozant lăcaș de cult musulman din capitala Banjul, capabil să găzduiască aproximativ 6.000 de credincioși. Finanțată majoritar printr-un grant oferit de regele Fahad al Arabiei Saudite, clădirea a fost inaugurată în 1988, impunându-se imediat pe linia orizontului prin cele două minarete înalte ale sale, care pot fi văzute și dinspre estuarul fluviului. Arhitectura sa combină linii islamice moderne și robustețe, adaptată spațiului de pe insula St. Mary. Aici se desfășoară principalele rugăciuni de vineri (Jumu'ah) și marile sărbători de Eid, frecventate de președinte și oficialitățile statului, fiind nu doar un reper arhitectural, ci și centrul autorității religioase din Gambia, unde Consiliul Islamic Suprem are o influență majoră. [Geografie K7 — repere arhitecturale religioase]",
+      en: "The King Fahad Mosque, located in the capital city of Banjul, is the largest and most architecturally magnificent religious building in The Gambia. Financed largely by the Saudi Arabian government and completed in 1988, its towering twin minarets and massive central dome dominate the city's skyline and serve as a navigational beacon for ships in the estuary. The mosque can accommodate roughly 6,000 worshippers and features intricate, modern Islamic architectural designs, sweeping marble floors, and expansive courtyards. It stands as the ultimate symbol of the nation's deeply rooted Islamic faith, hosting the most significant national Friday prayers and Eid celebrations. (Social Studies K6 — religious architecture and urban landmarks)"
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [],
+      ro: ["Cea mai mare și importantă moschee din capitala Banjul (insulă).", "Construită cu fonduri generoase din partea Regatului Arabiei Saudite.", "A fost deschisă oficial în anul 1988.", "Poate găzdui confortabil peste 6.000 de persoane în timpul rugăciunilor de Eid.", "Cele două minarete gemene sunt cele mai înalte structuri religioase din zonă.", "Este vizitată regulat de liderii politici de vârf pentru rugăciunile comunitare majore."],
+      en: ["The largest and most prominent religious building in The Gambia, located in Banjul.", "Constructed with significant financial assistance from Saudi Arabia, completed in 1988.", "Features a massive central dome and two towering minarets dominating the skyline.", "Capable of accommodating approximately 6,000 worshippers simultaneously.", "Utilized for the most significant national Friday prayers and major Eid ceremonies.", "Showcases intricate modern Islamic architecture, featuring expansive marble courtyards."]
+    }
+  },
   {
     id: "st-josephs-cathedral-landmarks-v2",
     type: "landmark",
@@ -221,7 +273,20 @@ export const poiExtraGambiaLandmarksV2: POI[] = [
       hu: ["A Banjuli Egyházmegye székhelye.", "Csendes hely a nyüzsgő főváros közepén."],
       ro: ["Sediul Diecezei de Banjul.", "Un loc liniștit în mijlocul capitalei aglomerate."],
       en: ["Seat of the Diocese of Banjul.", "A peaceful place in the middle of the bustling capital."]
-    }, image: "/poi-images/st-josephs-cathedral-landmarks-v2.webp"},
+    }, image: "/poi-images/st-josephs-cathedral-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "",
+      ro: "Nu trebuie confundată cu biserica cu același nume, Catedrala 'Adormirea Maicii Domnului' (Our Lady of the Assumption), aflată în inima capitalei Banjul, este principalul lăcaș și scaun al Diecezei Catolice din Banjul. Construită în perioada anilor 1910 într-un stil romanic și neogotic, ea domină piațeta centrală a orașului vechi cu turla sa elegantă și ferestrele vitrate colorate. Pentru mica, dar extrem de influenta minoritate catolică a țării, această clădire reprezintă o ancoră spirituală istorică. Catedrala a găzduit vizite la nivel înalt, inclusiv o scurtă vizită apostolică a Papei Ioan Paul al II-lea în 1992. În ciuda climatului aspru, clădirea a fost menținută într-o stare excelentă, fiind un simbol al toleranței și incluziunii sociale din Gambia. [Istorie K7 — patrimoniul creștin în Africa de Vest]",
+      en: "St. Joseph's Cathedral is a significant historic and architectural landmark situated in the heart of Banjul. Built in the 1930s during the colonial era, the building is characterized by its stark, robust masonry and prominent clock tower, contrasting with the more modern structures in the capital. As the seat of the Roman Catholic Diocese of Banjul, it serves as the spiritual center for the country's minority Christian population. The cathedral is widely recognized as a landmark of peace and religious harmony in a predominantly Islamic country, frequently hosting interfaith events attended by national leaders from diverse religious backgrounds. (History K7 — colonial architecture and religious institutions)"
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [],
+      ro: ["Sediul Diecezei Romano-Catolice din Banjul (inima catolicismului național).", "Arhitectura clădirii este de inspirație colonială neogotică (finalizată în anii 1910).", "Papa Ioan Paul al II-lea a vizitat această catedrală în februarie 1992.", "Găzduiește liturghiile majore naționale, inclusiv tradiționala liturghie de Crăciun.", "Ferestrele sale cu vitralii au fost importate din Europa la începutul secolului 20.", "Este o clădire-reper situată la câteva străzi de Piața Albert și State House."],
+      en: ["A prominent historic and architectural landmark located centrally in Banjul.", "Constructed in the 1930s, featuring robust colonial-era masonry and a clock tower.", "Serves as the official seat of the Roman Catholic Diocese of Banjul.", "The primary spiritual center for The Gambia's minority Christian population.", "A highly visible symbol of the nation's celebrated culture of religious tolerance.", "Frequently hosts significant national interfaith gatherings and state ceremonies."]
+    }
+  },
   {
     id: "albert-market-landmarks-v2",
     type: "landmark",
@@ -244,7 +309,20 @@ export const poiExtraGambiaLandmarksV2: POI[] = [
       hu: ["A 19. század közepén alapították.", "Albert hercegről, Viktória királynő férjéről nevezték el."],
       ro: ["Fondată la mijlocul secolului al XIX-lea.", "Numită după Prințul Albert, soțul Reginei Victoria."],
       en: ["Founded in the mid-19th century.", "Named after Prince Albert, husband of Queen Victoria."]
-    }, image: "/poi-images/albert-market-landmarks-v2.webp"},
+    }, image: "/poi-images/albert-market-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "",
+      ro: "Piața Albert (Albert Market), situată pe Liberation Avenue în Banjul, este o explozie senzorială și epicentrul istoric al comerțului din capitală încă de la mijlocul secolului al XIX-lea, purtând numele soțului Reginei Victoria. Împărțită într-un labirint vibrant de secțiuni (piața alimentară de pește și carne, piața de legume proaspete și o piață masivă de textile și artizanat turistic), aici se adună mii de comercianți, cumpărători și turiști zilnic. Străzile înguste sunt tapetate cu țesături de batic, sculpturi din abanos și mirodenii picante, iar atmosfera necesită abilități ascuțite de negociere. Dincolo de haosul aparent, Albert Market reprezintă un ecosistem economic perfect funcțional, care conectează economia globală de import (haine second-hand, electronice) cu artizanatul pur gambian, pulsând de istorie vie. [Economie K7 — comerțul de stradă tradițional]",
+      en: "The Albert Market is the chaotic, colorful, and undisputed commercial heart of Banjul, functioning as both an economic engine and a major cultural landmark. Established in the mid-19th century and named after Queen Victoria's husband, the market is a sprawling labyrinth of narrow alleys, corrugated iron stalls, and intense human activity. It is divided into distinct sections selling everything from fresh produce and pungent dried fish to intricately dyed Senegambian fabrics, traditional woodcarvings, and modern electronics. The market is not just a place of commerce, but a vital sensory experience that encapsulates the vibrant daily life and historic trade culture of the capital. (Economics K6 — historical urban markets and local commerce)"
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [],
+      ro: ["Piața a fost înființată oficial în anii 1850 și denumită după Prințul Albert (Marea Britanie).", "Este cea mai faimoasă piață tradițională și turistică din Banjul.", "Oferă sectoare distincte: produse proaspete, haine, bijuterii de aur și mărfuri artizanale.", "Marea majoritate a vânzătorilor de legume și pește sunt femei antreprenor.", "Piața de artizanat este un obiectiv de top pentru turiștii care caută suveniruri.", "S-a extins organic de-a lungul deceniilor, devenind un labirint foarte aglomerat."],
+      en: ["The massive, central commercial market located in the capital city, Banjul.", "Established in the mid-19th century and named after Prince Albert.", "A sprawling, chaotic labyrinth of specialized sections and informal stalls.", "Sells a vast array of goods including fresh produce, textiles, and traditional crafts.", "Functions as a major cultural landmark and sensory experience for visitors.", "Remains the primary daily economic engine for the residents of the capital."]
+    }
+  },
   {
     id: "state-house-gambia-landmarks-v2",
     type: "landmark",
@@ -267,7 +345,20 @@ export const poiExtraGambiaLandmarksV2: POI[] = [
       hu: ["Korábban Kormányzati Ház néven volt ismert.", "A The Quadrangle nevű komplexumban található."],
       ro: ["Cunoscut anterior sub numele de Government House.", "Situat într-un complex numit The Quadrangle."],
       en: ["Formerly known as Government House.", "Located within a complex called The Quadrangle."]
-    }, image: "/poi-images/state-house-gambia-landmarks-v2.webp"},
+    }, image: "/poi-images/state-house-gambia-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "",
+      ro: "State House of The Gambia, situată în Banjul, este clădirea de patrimoniu ce servește drept reședință oficială și birou executiv al Președintelui Republicii. Cunoscută istoric sub numele de Casa Guvernatorului (Government House), această clădire albă, străjuită de gărzi de onoare, a fost construită în perioada colonială britanică și extinsă masiv după obținerea independenței în 1965. Din punct de vedere arhitectural, reprezintă o fuziune între utilitatea administrativă a secolului XX și nevoia de securitate, fiind adesea punctul focal al ceremoniilor de stat și al vizitelor diplomatice internaționale. Deși accesul publicului în interior este complet interzis din motive evidente de securitate, fațada sa și porțile monumentale de la capătul bulevardului principal constituie un reper arhitectural de autoritate. [Geografie K7 — clădiri guvernamentale și spații de putere]",
+      en: "The State House, prominently located near the waterfront in Banjul, is the most politically significant landmark in The Gambia, serving as the official residence and workplace of the President. Originally constructed by the British in the late 19th century as the Governor's residence, the sprawling, heavily guarded compound blends historic colonial architecture with modern administrative expansions. Because of its intense security, the public only views the imposing exterior walls and the ceremonial front gates, which frequently host official state visits, military parades, and diplomatic convoys. It stands as the ultimate physical symbol of national sovereignty and executive power. (Social Studies K7 — executive power and national sovereignty)"
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [],
+      ro: ["Fosta reședință a guvernatorului colonial britanic (Government House).", "Servește ca birou executiv și reședință oficială a Președintelui Gambiei.", "Situată strategic în inima Banjulului, aproape de sediile ministeriale.", "Clădirea originală a suferit incendii parțiale și reconstrucții la începutul sec. 20.", "Accesul în proximitatea porților este strict supravegheat de Garda Republicană.", "Este punctul final tradițional pentru marșurile și paradele oficiale de stat."],
+      en: ["The official residence and administrative workplace of the President of The Gambia.", "Located centrally in Banjul, positioned strategically near the river waterfront.", "Originally built in the late 19th century to serve as the British Governor's residence.", "A sprawling, heavily guarded compound blending colonial and modern architecture.", "The site of high-level diplomatic meetings, state visits, and official ceremonies.", "Considered the ultimate architectural symbol of Gambian national sovereignty."]
+    }
+  },
   {
     id: "national-museum-gambia-landmarks-v2",
     type: "landmark",
@@ -290,7 +381,20 @@ export const poiExtraGambiaLandmarksV2: POI[] = [
       hu: ["1985-ben nyitották meg.", "Régészeti leleteket és gyarmati dokumentumokat őriz."],
       ro: ["Deschis în anul 1985.", "Găzduiește descoperiri arheologice și documente coloniale."],
       en: ["Opened in 1985.", "Houses archaeological findings and colonial documents."]
-    }, image: "/poi-images/national-museum-gambia-landmarks-v2.webp"},
+    }, image: "/poi-images/national-museum-gambia-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "",
+      ro: "Văzut dintr-o perspectivă arhitecturală, Muzeul Național al Gambiei este unul dintre cele mai frumoase repere vizuale din Banjul. Clădirea din cărămidă și lemn, caracterizată prin verande circulare elegante și tavane înalte din lemn masiv, a servit la sfârșitul anilor 1920 drept Bathurst Club — un club social exclusivist dedicat exclusiv expatriaților și oficialilor britanici din perioada colonială. Astăzi, transformarea sa într-un muzeu național reprezintă o ironie poetică profundă: un spațiu odinioară marcat de segregare este acum templul deschis al patrimoniului liber, african și independent al Gambiei. Locația sa în curtea umbrită a Muzeului este recunoscută ca o oază de calm arhitectural în mijlocul traficului urban zgomotos. [Istorie K8 — adaptarea arhitecturii coloniale post-independență]",
+      en: "The National Museum of The Gambia is a crucial cultural landmark housed in the historic Bathurst Club building on Independence Drive in Banjul. As a physical structure, its classic, whitewashed colonial architecture stands out in the bustling city center. As an institution, it is the premier guardian of the nation's tangible history, housing thousands of artifacts ranging from ancient stone circle relics to the intricate regalia of secret societies like the Kankurang. For decades, it has served as the mandatory starting point for scholars and tourists seeking to understand the deep, complex tapestry of Gambian history before venturing into the rural interior. (Social Studies K6 — cultural preservation and historic buildings)"
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [],
+      ro: ["Clădirea este un model remarcabil al arhitecturii coloniale britanice rezidențiale.", "A fost construită pentru a găzdui 'Bathurst Club', o entitate exclusiv europeană.", "Fațada dispune de pridvoare largi din lemn pentru a asigura ventilația naturală.", "S-a transformat oficial în monument cultural (Muzeu Național) în 1985.", "Aflata pe bulevardul Independence Drive, în spatele unui zid de piatră.", "Simbolizează preluarea fizică și intelectuală a moștenirii coloniale de către națiune."],
+      en: ["A premier cultural and historical landmark located on Independence Drive in Banjul.", "Housed in the restored, colonial-era Bathurst Club building.", "Recognizable by its classic, whitewashed colonial architectural style.", "The primary national repository for archaeological and ethnographic artifacts.", "Houses extensive exhibits on ancient history, traditional cultures, and colonialism.", "Serves as a vital educational hub for national students and international researchers."]
+    }
+  },
   {
     id: "july-22-square-landmarks-v2",
     type: "landmark",
@@ -313,7 +417,20 @@ export const poiExtraGambiaLandmarksV2: POI[] = [
       hu: ["Fontos kormányzati épületek veszik körül.", "Itt található az elesett katonák emlékműve."],
       ro: ["Înconjurat de clădiri guvernamentale importante.", "Locația unui monument dedicat soldaților căzuți."],
       en: ["Surrounded by important government buildings.", "Location of a memorial to fallen soldiers."]
-    }, image: "/poi-images/july-22-square-landmarks-v2.webp"},
+    }, image: "/poi-images/july-22-square-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "",
+      ro: "Piața MacCarthy, cunoscută frecvent din punct de vedere politic drept July 22nd Square (Piața 22 Iulie), este spațiul public central și cel mai larg din Banjul. Construită în timpul dominației coloniale sub formă de parc cvadrangular umbrit de arbori imenși de mahon și baobab, piața a funcționat tradițional ca teren principal pentru meciurile de cricket, ceremoniile naționale de trecere în revistă a trupelor și paradele școlare. După lovitura de stat din 1994, locul a fost redenumit, găzduind monumente de marmură și un pavilion comemorativ modern. Astăzi, indiferent de denumire, piața reprezintă plămânul verde al capitalei, un loc unde elevii stau la umbră, ceremoniile religioase masive de rugăciune (Eid) au loc în aer liber, iar parada anuală a independenței își defășoară activitățile fastuoase. [Geografie K7 — piețe civice și funcții publice urbane]",
+      en: "July 22nd Square, originally known as MacCarthy Square, is a large, open public plaza located in the center of Banjul. Flanked by colonial-era administrative buildings and shaded by massive, historic silk cotton trees, it serves as the primary civic gathering space in the capital. The square was renamed to commemorate the 1994 military coup, and while the political context has shifted, the physical space remains the traditional venue for significant national ceremonies, military parades, and official speeches. As a landmark, its wide-open, grassy expanse provides a rare, tranquil breathing space amidst the dense urban layout of the capital. (Social Studies K6 — civic spaces and national ceremonies)"
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [],
+      ro: ["Este cel mai mare parc și teren deschis (square) din capitala Banjul.", "Cunoscută istoric sub numele de MacCarthy Square, numită după un guvernator.", "Redenumită 'July 22nd Square' de fostul președinte Jammeh, după revoluția din 1994.", "Înconjurată de copaci seculari uriași și clădiri guvernamentale clasice.", "Găzduiește un pavilion central masiv utilizat pentru ceremonii de stat și discursuri.", "Tradițional, aici se adună mii de oameni pentru a sărbători Ziua Independenței (18 februarie)."],
+      en: ["A massive, open public plaza located centrally in the capital city of Banjul.", "Originally named MacCarthy Square during the British colonial era.", "Renamed to commemorate the political events of the July 22, 1994 coup.", "The primary venue for national ceremonies, military parades, and official speeches.", "Surrounded by historic administrative buildings and large silk cotton trees.", "Provides a rare, significant open green space within the dense capital."]
+    }
+  },
   {
     id: "denton-bridge-landmarks-v2",
     type: "landmark",
@@ -336,7 +453,20 @@ export const poiExtraGambiaLandmarksV2: POI[] = [
       hu: ["A Tanbi mangrove-mocsarak felett ível át.", "Sir George Chardin Denton egykori kormányzóról nevezték el."],
       ro: ["Traversează mlaștinile de mangrove Tanbi.", "Numit după Sir George Chardin Denton, un fost guvernator."],
       en: ["Spans the Tanbi mangrove wetlands.", "Named after Sir George Chardin Denton, a former governor."]
-    }, image: "/poi-images/denton-bridge-landmarks-v2.webp"},
+    }, image: "/poi-images/denton-bridge-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "",
+      ro: "Podul Denton (Denton Bridge) este nu doar un reper vizual uluitor, ci însăși poarta de acces spre capitala Gambiei. Podul traversează Oyster Creek, un canal maritim rapid care separă insula St. Mary (Banjul) de continentul metropolitan (Kombo). Reconstruit și lărgit pe parcursul deceniilor, acest pod rutier masiv este traversat zilnic de mii de autovehicule, fiind faimos pentru priveliștile spectaculoase asupra bărcilor de pescuit și ale mangrovelor adiacente. Aici sunt ancorate bărcile de agrement destinate pescuitului turistic sportiv (tarpon fishing). Semnificația sa este strategică: orice întrerupere a traficului pe Denton Bridge echivalează cu izolarea totală pe cale terestră a capitalei naționale și a principalului său port comercial de restul lumii. [Geografie K8 — infrastructură critică insulară]",
+      en: "Denton Bridge is an absolutely critical infrastructural landmark that physically connects St Mary's Island—and thereby the capital city of Banjul—to the Gambian mainland. Spanning the oyster-rich waters of Oyster Creek, the bridge was named after Sir George Chardin Denton, a former British Governor. Because it is the only road access into Banjul, it constitutes one of the most vital economic and transport chokepoints in the country. The bridge area is also highly recognizable for the dense cluster of fishing trawlers, ice plants, and boatyards moored directly beneath and around it, blending heavy transport with marine industry. (Geography K6 — transport bottlenecks and estuarine geography)"
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [],
+      ro: ["Este unicul pod terestru care conectează insula capitală (Banjul) de continent.", "Traversează cursul rapid de apă cunoscut sub numele de Oyster Creek.", "A fost numit inițial după Sir George Chardin Denton, fost guvernator al Gambiei.", "Zona de dedesubt este o ancorare populară pentru tururile turistice de pescuit.", "Drumul său duce direct către 'Arch 22' și bulevardele centrale ale orașului.", "Orice incident pe pod poate paraliza complet accesul auto în capitală."],
+      en: ["The sole road bridge connecting the island capital of Banjul to the mainland.", "Spans the tidal, mangrove-lined waters of Oyster Creek.", "Named after Sir George Chardin Denton, a British colonial governor.", "A critical national transport and economic chokepoint.", "The surrounding waters host a dense cluster of commercial fishing fleets.", "A highly recognizable infrastructural landmark for all entering the capital."]
+    }
+  },
   {
     id: "tanji-village-museum-landmarks-v2",
     type: "landmark",
@@ -359,7 +489,20 @@ export const poiExtraGambiaLandmarksV2: POI[] = [
       hu: ["Hagyományos kerek kunyhókat mutat be.", "Helyi növényekkel teli botanikus kert is tartozik hozzá."],
       ro: ["Prezintă colibe rotunde tradiționale.", "Include o grădină botanică cu plante locale."],
       en: ["Displays traditional round huts.", "Includes a botanical garden with local plants."]
-    }, image: "/poi-images/tanji-village-museum-landmarks-v2.webp"},
+    }, image: "/poi-images/tanji-village-museum-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "",
+      ro: "Mai degrabă decât un muzeu static cu vitrine din sticlă, Muzeul Satului Tanji este un monument arhitectural viu, conceput inteligent ca o capsulă a timpului pentru patrimoniul rural vest-african. Creatorii săi au utilizat exclusiv materiale indigene autentice — bambus împletit, blocuri masive de lut uscat la soare (cob), acoperișuri de paie deasă (thatch) și sfori de palmier — pentru a reconstrui mai multe tipuri de complexe rezidențiale tradiționale. Reperele vizuale includ locuințele circulare ale etniei Fula, fermele compuse ale etniei Mandinka și curțile specifice Wolof. Vizual, arhitectura muzeului contrastează puternic cu blocurile din ciment (breeze-blocks) care domină satele din împrejurimi astăzi, oferind un reper cultural excepțional de pitoresc și o amintire puternică a ingineriei tradiționale africane armonioase cu mediul. [Istorie K7 — arhitectură vernaculară și reconstrucție istorică]",
+      en: "The Tanje Village Museum is a highly unique, immersive cultural landmark located near the bustling Tanji fishing village. Unlike traditional static museums, it is designed as a living replica of a traditional Mandinka village. Visitors walk through authentically constructed thatch-roofed huts, each dedicated to showcasing specific aspects of pre-colonial Gambian life, such as traditional weaving, blacksmithing, and spiritual practices. The museum frequently hosts live demonstrations by local artisans and griots (traditional storytellers/musicians), providing an interactive educational experience that meticulously preserves the intangible cultural heritage of the region against the tide of rapid modern urbanization. (Arts & Culture K6 — living museums and intangible heritage)"
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [],
+      ro: ["Un muzeu etnografic în aer liber cu o arhitectură 100% tradițională și ecologică.", "Construcțiile ilustrează distinct locuințele etniilor Mandinka, Fula, Wolof și Jola.", "Materialele de construcție (lut, paie de elefant) sunt prelucrate manual la fața locului.", "Fondatorul a adunat experți artizani din sate îndepărtate pentru a asigura precizia.", "Complexul funcționează fără rețea electrică modernă vizibilă, pentru imersiune totală.", "Acționează ca un reper de rezistență împotriva pierderii arhitecturii locale vernaculare."],
+      en: ["An immersive, 'living' museum designed as a replica of a traditional Mandinka village.", "Located near the active Tanji fishing port on the Atlantic coast.", "Features authentically constructed thatch-roofed huts exhibiting specific local crafts.", "Hosts live, interactive demonstrations of weaving, blacksmithing, and music.", "Serves to protect the intangible cultural heritage of traditional Gambian society.", "A highly popular educational destination for local schools and tourists."]
+    }
+  },
   {
     id: "kerbatch-stone-circles-landmarks-v2",
     type: "landmark",
@@ -379,10 +522,23 @@ export const poiExtraGambiaLandmarksV2: POI[] = [
     },
     facts: {
       de: ["Bekannt für einen 'V-förmigen' Stein.", "Besteht aus neun Steinkreisen."],
-      hu: ["Egy „V-alakú” kőről nevezetes.", "Kilenc kőkörből áll."],
+      hu: ["Egy \"V-alakú\" kőről nevezetes.", "Kilenc kőkörből áll."],
       ro: ["Cunoscut pentru o piatră în formă de 'V'.", "Format din nouă cercuri de piatră."],
       en: ["Notable for a 'V-shaped' stone.", "Consists of nine stone circles."]
-    }, image: "/poi-images/kerbatch-stone-circles-landmarks-v2.webp"},
+    }, image: "/poi-images/kerbatch-stone-circles-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "",
+      ro: "Cercurile de piatră de la Kerbatch reprezintă un sit megalitic uluitor, mai mic decât faimosul sit de la Wassu, dar considerat de arheologi ca fiind mult mai rafinat din punct de vedere artistic. Inclus în lista Patrimoniului Mondial UNESCO, situl constă din nouă cercuri principale de piatră de laterit. Ceea ce diferențiază Kerbatch este faimoasa 'piatră în formă de V' (sau în formă de liră), o sculptură megalitică extrem de rară cioplită cu o tehnică precisă dintr-un singur bloc, care a fost restaurată și re-ridicată de experții franco-senegalezi. Liniștea zonei rurale de la nord de fluviu, izolarea și un mic muzeu informativ modern recent construit, conferă acestui reper o atmosferă magică, oferind indicii tăcute despre societățile umane formidabile care organizau funerariile regale acum un mileniu. [Istorie K8 — megalitism și arheologie monumentală]",
+      en: "The Kerbatch Stone Circles are a crucial and distinct group of megalithic monuments located on the north bank of the Gambia River. While slightly less visited than Wassu, Kerbatch is famous as a landmark for its unique 'V-shaped' or 'lyre-shaped' stone, an architectural anomaly not found in other circle complexes in the region. The site contains nine stone circles and one double circle, meticulously carved from laterite rock. Archaeological excavations here have unearthed pottery fragments, copper ornaments, and human remains, painting a vivid picture of a sophisticated, ancient agrarian society that possessed advanced stonemasonry skills long before European contact. (History K7 — archaeological excavations and ancient stonemasonry)"
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [],
+      ro: ["Situat în regiunea Central River (North Bank), la nord-est de satul Kaur.", "Face parte din Cercurile Megalitice ale Senegambiei, sit protejat de UNESCO.", "Conține nouă cercuri concentrice distincte formate din monoliți rotunjiți de laterit.", "Găzduiește iconica 'Piatră bifurcată' (V-stone), care este extrem de rară arheologic.", "Aceste pietre marcau morminte individuale sau morminte masive de elită.", "A fost renovat, iar lângă monument a fost construit un mic centru interpretativ."],
+      en: ["Located on the north bank of the Gambia River in a remote setting.", "Features nine distinct stone circles and one rare double circle.", "Famous for containing a unique, meticulously carved 'V-shaped' (lyre) stone.", "Part of the broader Senegambian Stone Circles UNESCO World Heritage Site.", "Excavations have revealed ancient pottery, copper ornaments, and burials.", "Showcases advanced pre-colonial stonemasonry and societal organization."]
+    }
+  },
   {
     id: "mungo-park-memorial-landmarks-v2",
     type: "landmark",
@@ -405,7 +561,20 @@ export const poiExtraGambiaLandmarksV2: POI[] = [
       hu: ["A 18. század végi utazásaira emlékeztet.", "Nyugat-afrikai expedícióinak egyik pontját jelzi."],
       ro: ["Comemorează călătoriile sale de la sfârșitul secolului al XVIII-lea.", "Marchează un punct al expedițiilor sale prin Africa de Vest."],
       en: ["Commemorates his travels in the late 18th century.", "Marks a point of his expeditions through West Africa."]
-    }, image: "/poi-images/mungo-park-memorial-landmarks-v2.webp"},
+    }, image: "/poi-images/mungo-park-memorial-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "",
+      ro: "Memorialul Mungo Park este un obelisc de piatră izolat și nostalgic situat în Karantaba, aproape de malurile fluviului Gambia în regiunea Central River. Monumentul marchează punctul din care legendarul explorator scoțian Mungo Park a început, la sfârșitul secolului al XVIII-lea, faimoasa sa expediție terestră letală pentru a trasa cursul fluviului Niger. Ridicat de autoritățile coloniale britanice mult după moartea sa, obeliscul este mai degrabă un reper geografic simbolic al istoriei explorărilor europene în inima Africii. Cu toate că satul din jur a rămas axat pe agricultură tradițională și pare neafectat de monument, memorialul continuă să atragă istorici, geografi și călători aventuroși, stând ca un memento al contactului inițial adesea fatal dintre exploratorii occidentali și climatul neiertător vest-african. [Istorie K8 — marile explorări și interacțiunea euro-africană]",
+      en: "The Mungo Park Memorial is a stark, lonely obelisk located near the village of Karantaba on the north bank of the Gambia River. It marks the approximate location where the famous Scottish explorer Mungo Park began his ambitious, ultimately fatal expedition in 1795 to trace the course of the Niger River. The monument stands as a testament to the era of intense European geographical exploration of the African interior. While modest in size, the memorial is a highly significant landmark for historians retracing the routes of early explorers and understanding the initial, dangerous encounters between Europeans and the inland West African kingdoms. (History K8 — European exploration and historical geography)"
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [],
+      ro: ["Un obelisc modest situat în apropierea satului Karantaba (regiunea Central River).", "Dedicat exploratorului scoțian Mungo Park, faimos pentru expediția sa din 1795.", "Marchează punctul în care Mungo Park a părăsit Gambia pentru a găsi fluviul Niger.", "A fost construit de administrația colonială britanică târzie ca semn de onoare.", "Monumentul necesită uneori defrișări, fiind ascuns de vegetația crescută abundent.", "Este un reper pentru turismul istoric de aventură pe fluviul Gambia."],
+      en: ["A modest obelisk monument located near Karantaba on the north bank.", "Commemorates the starting point of Scottish explorer Mungo Park's 1795 expedition.", "Marks his ambitious and ultimately fatal journey to map the Niger River.", "A key historical landmark representing the era of European inland exploration.", "Highlights the historical importance of the Gambia River as an exploration route.", "A popular, though remote, stop for historical and geographical researchers."]
+    }
+  },
   {
     id: "freedom-tree-janjanbureh-landmarks-v2",
     type: "landmark",
@@ -428,7 +597,20 @@ export const poiExtraGambiaLandmarksV2: POI[] = [
       hu: ["Aki megérintette a fát, hivatalosan szabadnak számított.", "Janjanbureh város történelmének központi pontja."],
       ro: ["Cine atingea copacul era considerat oficial liber.", "Punct central al istoriei orașului Janjanbureh."],
       en: ["Whoever touched the tree was officially considered free.", "Central point of the history of Janjanbureh town."]
-    }, image: "/poi-images/freedom-tree-janjanbureh-landmarks-v2.webp"},
+    }, image: "/poi-images/freedom-tree-janjanbureh-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "",
+      ro: "Arborele Libertății (Freedom Tree) situat pe insula Janjanbureh, este un monument viu ancorat adânc în folclorul și discursul despre eliberarea sclavilor din Senegambia. Legenda afirmă că, la începutul secolului al XIX-lea, orice sclav evadat care reușea să fugă și să atingă trunchiul acestui imens arbore (de obicei descris ca un baobab sau un arbore masiv de bumbac) obținea automat azil politic și își recâștiga libertatea sub jurisdicția britanică a așezării Georgetown. Deși copacul original a căzut, autoritățile locale și liderii comunității au conservat un nou arbore în același sit memorial, înconjurat acum de un mic grilaj de protecție. Pentru localnici și turiștii diasporei, atingerea trunchiului acestui arbore este un gest de comemorare și afirmare a drepturilor omului fundamentale, mai puternic uneori decât structurile de beton. [Istorie K8 — folclor și emancipare simbolică]",
+      en: "The Freedom Tree, located in the historic island town of Janjanbureh (formerly Georgetown), is a deeply evocative living landmark. According to deeply held local tradition, this specific tree marked a zone of emancipation during the colonial era; any runaway slave who managed to reach and touch its trunk was automatically granted their freedom by the British authorities. While the original historic tree eventually died, a younger tree stands in its exact place today, heavily revered by locals and diaspora tourists alike. It serves as a powerful, living symbol of resistance, liberation, and the harrowing legacy of the transatlantic slave trade. (History K8 — emancipation symbols and the abolition of slavery)"
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [],
+      ro: ["Un monument simbolic natural (un copac protejat) în orașul Janjanbureh.", "Legenda locală spune că atingerea copacului conferea azil sclavilor fugari.", "Copacul originar vechi de secole a fost distrus, dar a fost înlocuit pe același loc.", "Este o atracție principală în cadrul tururilor pe insula istorică MacCarthy.", "Inima simbolică a așezării înființate ca refugiu de către guvernanții britanici.", "Înconjurat cu o mică plachetă și o placă explicativă pentru pelerini."],
+      en: ["A highly evocative living landmark located on MacCarthy Island in Janjanbureh.", "Traditionally believed to be a site of automatic emancipation for runaway slaves.", "Slaves who reached and touched the original tree were reportedly granted freedom.", "The original tree died, but a replacement stands in its exact historical location.", "Serves as a powerful, tangible symbol of liberation and human resilience.", "A major focal point for heritage tourism and educational field trips."]
+    }
+  },
   {
     id: "african-heritage-museum-landmarks-v2",
     type: "landmark",
@@ -448,10 +630,23 @@ export const poiExtraGambiaLandmarksV2: POI[] = [
     },
     facts: {
       de: ["Auch bekannt als 'Museum of African Art'.", "Fördert das Verständnis für westafrikanische Kunsttraditionen."],
-      hu: ["„Afrikai Művészeti Múzeum” néven is ismert.", "Segíti a nyugat-afrikai művészeti hagyományok megértését."],
+      hu: ["\"Afrikai Művészeti Múzeum\" néven is ismert.", "Segíti a nyugat-afrikai művészeti hagyományok megértését."],
       ro: ["Cunoscut și sub numele de 'Museum of African Art'.", "Promovează înțelegerea tradițiilor artistice vest-africane."],
       en: ["Also known as the 'Museum of African Art'.", "Promotes understanding of West African artistic traditions."]
-    }, image: "/poi-images/african-heritage-museum-landmarks-v2.webp"},
+    }, image: "/poi-images/african-heritage-museum-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "",
+      ro: "Muzeul Patrimoniului African, situat inițial în zona Senegambia și relocat, este o operă monumentală personală a artistului și colecționarului Isha Fofana. Ca reper cultural privat, clădirea muzeului acționează ca o capsulă a artelor vizuale fine, a designului textil și a mobilierului tradițional vest-african, conceput pentru a contracara reprezentarea exclusiv turistică sau 'primitivă' a artei locale. Clădirea se distinge prin galerii deschise frumos luminate și o fațadă vopsită cu motive tradiționale. Interiorul abundă de picturi murale, panouri de lemn cioplit fin și colecții de îmbrăcăminte tradițională ceremonială de la diverse etnii din Gambia și țările învecinate. Muzeul reprezintă un hub pentru artiștii vizuali moderni din Africa și o instituție vitală de conservare independentă a artelor estetice africane. [Arte și Istorie K7 — artele vizuale africane]",
+      en: "The African Heritage Museum, also known as the African Heritage Centre, is an independent cultural landmark located in Bakau. Established by renowned Gambian artist and collector Isha Fofana, the museum houses an extraordinary private collection of African art, textiles, and historical artifacts gathered from across the continent. Unlike state-run institutions, this landmark is celebrated for its highly curated, artistic presentation of heritage, blending contemporary Gambian art with ancient masks and statues. It serves as a vital hub for local artists and a prominent educational space that emphasizes the shared, pan-African artistic identity rather than just localized history. (Arts & Culture K7 — pan-African art and independent curation)"
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [],
+      ro: ["A fost fondat și condus de renumita artistă și colecționară gambiană Isha Fofana.", "Este o galerie și muzeu privat, independent de administrația de stat.", "Clădirea integrează murale (picturi de perete) inspirate din estetica vest-africană.", "Expozițiile combină măști și statui antice de patrimoniu cu artă picturală modernă.", "Muzeul servește ca centru de workshopuri pentru tinerii artiști gambieni.", "Un spațiu recunoscut pentru curățenia vizuală și iluminarea excelentă a galeriilor."],
+      en: ["An independent, artist-run museum and gallery located in Bakau.", "Founded and curated by the renowned Gambian artist Isha Fofana.", "Houses a vast, highly curated private collection of pan-African art and artifacts.", "Blends contemporary Gambian artistic expression with ancient historical pieces.", "Acts as a vital cultural hub and exhibition space for local modern artists.", "Emphasizes a broader, shared African artistic identity and heritage."]
+    }
+  },
   {
     id: "sir-dawda-conference-center-landmarks-v2",
     type: "landmark",
@@ -474,7 +669,20 @@ export const poiExtraGambiaLandmarksV2: POI[] = [
       hu: ["Gambia első elnökéről nevezték el.", "Az ország modern fejlődésének szimbóluma."],
       ro: ["Numit după primul președinte al Gambiei.", "Un simbol al dezvoltării moderne a țării."],
       en: ["Named after the first president of The Gambia.", "A symbol of the modern development of the country."]
-    }, image: "/poi-images/sir-dawda-conference-center-landmarks-v2.webp"},
+    }, image: "/poi-images/sir-dawda-conference-center-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "",
+      ro: "Centrul Internațional de Conferințe Sir Dawda Kairaba Jawara din Bijilo este, fără îndoială, cea mai impresionantă și modernă structură de sticlă și oțel din Gambia. Construit printr-o donație masivă a guvernului Republicii Populare Chineze și inaugurat în 2020, clădirea a fost proiectată pentru a găzdui summit-ul Organizației de Cooperare Islamică (OIC). Arhitectura sa de avangardă include săli de plen uriașe, tehnologie de telecomunicații avansată și un design curbat care reflectă valurile Oceanului Atlantic din apropiere. Botezat în onoarea primului președinte al țării, acest centru a redefinit linia orizontului din zona Kombo și a pus Gambia pe harta destinațiilor internaționale majore pentru turismul de afaceri, diplomație de nivel înalt și conferințe continentale (MICE tourism). [Geografie K8 — arhitectură modernă și diplomație internațională]",
+      en: "The Sir Dawda Kairaba Jawara International Conference Center is the most modern and prestigious architectural landmark in The Gambia's coastal zone. Located in Bijilo, this massive, state-of-the-art facility was completed in 2020 to host the Organization of Islamic Cooperation (OIC) summit. Named after the country's founding father and first President, the center features sweeping, modern glass facades and massive plenary halls capable of holding thousands of international delegates. Its construction represents a massive leap in national infrastructure, designed specifically to position The Gambia as a premier destination for high-level international diplomacy and corporate conferences in West Africa. (Economics K8 — diplomatic infrastructure and modern architecture)"
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [],
+      ro: ["Cel mai modern complex arhitectural al țării, situat lângă parcul Bijilo.", "Inaugurat oficial în 2020, finanțat printr-un grant al guvernului chinez (aprox. 50 mil USD).", "A fost construit special pentru a găzdui Summit-ul Organizației de Cooperare Islamică.", "Sala de plen centrală are o capacitate de peste 1.000 de delegați.", "Clădirea principală este un reper impresionant de sticlă, în formă semicirculară.", "Poartă numele lui Sir Dawda Kairaba Jawara, primul președinte al Gambiei."],
+      en: ["A massive, state-of-the-art international conference facility located in Bijilo.", "Completed in 2020 specifically to host high-level international summits.", "Named in honor of Sir Dawda Kairaba Jawara, The Gambia's first President.", "Features sweeping modern glass architecture and massive, advanced plenary halls.", "Designed to position the country as a major hub for West African diplomacy.", "One of the largest and most expensive modern civic buildings in the nation."]
+    }
+  },
   {
     id: "fort-louvel-landmarks-v2",
     type: "landmark",
@@ -497,7 +705,20 @@ export const poiExtraGambiaLandmarksV2: POI[] = [
       hu: ["1831-ben épült egy helyi konfliktus idején.", "Banjul legmagasabb pontján található."],
       ro: ["Construit în anul 1831 în timpul unui conflict local.", "Situat pe cel mai înalt punct din Banjul."],
       en: ["Built in 1831 during a local conflict.", "Located on the highest point in Banjul."]
-    }, image: "/poi-images/fort-louvel-landmarks-v2.webp"},
+    }, image: "/poi-images/fort-louvel-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "",
+      ro: "Privit prin prisma repelor urbane, micuțul Fort Louvel este o anomalie istorică ce contrastează puternic cu blocurile și străzile prăfuite din inima rezidențială a orașului Banjul. Aflat pe un mic deal artificial de lângă bulevardul central, reperul este astăzi definit de un mic monument circular de piatră albă și de tunul vechi îndreptat spre continent. Ca monument vizual, este adesea ignorat de traficul zilnic și de trecători, fiind eclipsat de clădirile moderne, însă a fost recent semnalizat printr-o placă din patrimoniul național. Forma sa austeră amintește de un punct de apărare clasic al secolului XIX și demonstrează modul în care orașul modern Banjul s-a extins și a absorbit complet perimetrul defensiv britanic istoric. [Geografie K7 — conservarea patrimoniului în mediul urban]",
+      en: "Fort Louvel is a somewhat obscure but highly significant historical landmark situated on a slight elevation within the capital city of Banjul. Built rapidly in 1831 under the direction of the British Governor, it was constructed in response to the imminent threat of an attack by the forces of the King of Barra during the Barra War. Named after a French military officer who assisted the British, the fort was essentially a defensive redoubt rather than a massive stone castle. Today, only a small monument and the base of the structure remain among the city streets, serving as a reminder of the turbulent, early colonial conflicts in the estuary. (History K7 — early colonial conflicts and the Barra War)"
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [],
+      ro: ["Monumentul este localizat fizic în interiorul unui cartier rezidențial dens din Banjul.", "Un reper vizual minor marcat de un tun antic plasat pe un piedestal vopsit.", "A fost desemnat drept patrimoniu protejat pentru a preveni distrugerea sa prin construcții.", "Ridicătura mică de pământ a fost creată artificial (din nisip și piatră) în anii 1830.", "Se află la mică distanță de Albert Market, fiind adesea omis de traseele turistice.", "Semnalizează linia de front istorică pentru apărarea insulei de atacurile terestre."],
+      en: ["Located on a slight elevation within the densely built capital of Banjul.", "Constructed rapidly in 1831 during the escalating Barra War.", "Built to defend the early Bathurst settlement from the King of Barra's forces.", "Named after a French officer, Louvel, who assisted the British defenses.", "Consisted originally of a defensive earthwork redoubt and artillery battery.", "Only a modest monument and the foundational base remain visible today."]
+    }
+  },
   {
     id: "albarda-historic-site-landmarks-v2",
     type: "landmark",
@@ -520,7 +741,20 @@ export const poiExtraGambiaLandmarksV2: POI[] = [
       hu: ["A transzatlanti kereskedelem fontos központja.", "A Kunta Kinteh UNESCO világörökségi helyszín része."],
       ro: ["Centru important pentru comerțul transatlantic.", "Parte a sitului Patrimoniului Mondial UNESCO Kunta Kinteh."],
       en: ["Major center for transatlantic trade.", "Part of the Kunta Kinteh UNESCO World Heritage site."]
-    }, image: "/poi-images/albarda-historic-site-landmarks-v2.webp"},
+    }, image: "/poi-images/albarda-historic-site-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "",
+      ro: "Complexul istoric Albreda (Albreda Historical Site) funcționează ca un reper de ansamblu excepțional pe malul nordic al fluviului. Vizual, site-ul nu se rezumă doar la o singură clădire, ci este un peisaj continuu format din debarcaderul care duce la Juffureh, fațada albă a vechii clădiri comerciale CFAO (astăzi muzeu), ruine de fortificații franceze de pământ și un mic complex memorial cu statuia libertății (Slavery Monument) ridicat mai târziu. Ca peisaj arhitectural, contrastează cu restul așezărilor de-a lungul fluviului, oferind un aer de melancholie istorică, perfect aliniat cu fundalul insulei Kunta Kinteh din depărtare. Este cel mai fotografiat și vizitat ansamblu memorial dedicat sclaviei și istoriei din întreaga Gambie, unde mii de studenți și vizitatori își încep anual tururile patrimoniale. [Geografie K8 — peisaje memoriale și turism istoric]",
+      en: "Albreda is a profoundly historic village located on the north bank of the Gambia River, known globally as a landmark for its harrowing connections to the transatlantic slave trade. Established originally as a French trading post in the late 17th century, it operated as a rival enclave to the nearby British-controlled Kunta Kinteh Island (formerly James Island). The village retains significant ruins, most notably the CFAO building, a remnant of a 19th-century French trading company. Today, Albreda forms a joint UNESCO World Heritage Site with its sister village, Juffureh, drawing thousands of diaspora visitors seeking to connect with their ancestral roots. (History K8 — transatlantic slave trade and colonial outposts)"
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [],
+      ro: ["Situl include clădirea CFAO, ruine franceze și Monumentul Emancipării (Statuie).", "Este un reper comun, parte a rutei obligatorii pentru excursiile turistice de pe fluviu.", "Debarcaderul modern de aici facilitează transportul bărcilor spre Insula Kunta Kinteh.", "Statuia memorială înfățișează sclavi eliberați care își rup simbolic lanțurile.", "Include zeci de plăci comemorative instalate de membri ai diasporei globale.", "Acest ansamblu definește orizontul vizual al malului nordic (North Bank) pentru turiști."],
+      en: ["A historic village located on the north bank of the Gambia River.", "Originally established as a French trading enclave in the late 1600s.", "Deeply connected to the history of the transatlantic slave trade.", "Home to the historic ruins of the CFAO trading company building.", "Forms part of a UNESCO World Heritage Site alongside Kunta Kinteh Island.", "A major pilgrimage site for the African diaspora tracing their ancestry."]
+    }
+  },
   {
     id: "juffureh-village-landmarks-v2",
     type: "landmark",
@@ -543,7 +777,20 @@ export const poiExtraGambiaLandmarksV2: POI[] = [
       hu: ["Egy kis rabszolga-kereskedelmi múzeumnak ad otthont.", "A kulturális turizmus fontos célpontja."],
       ro: ["Găzduiește un mic muzeu al comerțului cu sclavi.", "O destinație importantă pentru turismul cultural."],
       en: ["Houses a small slave trade museum.", "A major destination for cultural tourism."]
-    }, image: "/poi-images/juffureh-village-landmarks-v2.webp"},
+    }, image: "/poi-images/juffureh-village-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "",
+      ro: "Juffureh nu este doar un sat de pe malul nordic, ci un veritabil altar al memoriei transatlantice, recunoscut vizual prin indicatoarele care amintesc de personajul Kunta Kinte din romanul 'Roots'. Deși dezvoltarea sa este modestă comparativ cu așezările de pe coasta sudică, satul se distinge printr-o atmosferă rurală conservată și prezența constantă a familiei Kinte. Aici, arhitectura tradițională din chirpici coexistă cu structuri coloniale abandonate. Satul formează, împreună cu Albreda, inima turismului de patrimoniu din Gambia. Vizitatorii interacționează direct cu locuitorii care susțin economia locală prin vânzarea de artizanat și povești transmise pe cale orală, transformând experiența într-una profund emoțională pentru toți urmașii diasporei. [Geografie K7 — repere memoriale și impactul turismului literar]",
+      en: "Juffureh is a traditional Mandinka village located adjacent to Albreda on the north bank of the Gambia River. As a landmark, it gained worldwide fame following the publication of Alex Haley's novel 'Roots,' which identified the village as the birthplace of his ancestor, Kunta Kinte. This literary connection transformed the quiet farming and fishing community into a focal point for global heritage tourism. Visitors to Juffureh can still meet members of the Kinte family clan and explore the local museum dedicated to the history of slavery. The village stands as a poignant living memorial to the millions affected by the transatlantic slave trade. (History K8 — 'Roots', genealogy, and heritage tourism)"
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [],
+      ro: ["Așezarea este faimoasă global ca satul ancestral al lui Kunta Kinte.", "Se află pe North Bank, aproape de situl de patrimoniu mondial UNESCO (Albreda).", "Satul depinde economic în mod covârșitor de donațiile și bacșișurile turiștilor.", "Familia Kinte locuiește încă în sat, întâmpinând vizitatorii oficiali.", "Arhitectura așezării rămâne majoritar vernaculară (case de pământ și paie).", "Aici se organizează anual Festivalul Internațional Roots, celebrând emanciparea."],
+      en: ["A traditional Mandinka village on the north bank of the Gambia River.", "Gained global fame as the ancestral home of Kunta Kinte from the novel 'Roots'.", "A premier destination for global heritage and genealogical tourism.", "Visitors can interact with modern descendants of the Kinte family.", "Features a local museum detailing the impact of the transatlantic slave trade.", "Designated as a key component of a UNESCO World Heritage Site."]
+    }
+  },
   {
     id: "berending-crocodile-pool-landmarks-v2",
     type: "landmark",
@@ -566,7 +813,20 @@ export const poiExtraGambiaLandmarksV2: POI[] = [
       hu: ["Kevésbé turisztikai, mint Kachikally.", "Hagyományos gyógyító rituálékra használják."],
       ro: ["Mai puțin turistic decât Kachikally.", "Utilizat pentru ritualuri tradiționale de vindecare."],
       en: ["Less touristy than Kachikally.", "Used for traditional healing rituals."]
-    }, image: "/poi-images/berending-crocodile-pool-landmarks-v2.webp"},
+    }, image: "/poi-images/berending-crocodile-pool-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "",
+      ro: "Spre deosebire de aglomerata piscină Kachikally, bazinul sacru cu crocodili din Berending este un sanctuar natural ascuns, situat într-o pădure tropicală bogată din regiunea Lower Niumi (North Bank). Cunoscut mai mult pe plan local, acest sit este esențial pentru practicile spirituale ale comunităților Mandinka și Jola din nordul țării, care consideră apa de aici un elixir pentru tratarea infertilității. Mediul din jurul bazinului este caracterizat de un frunziș dens și copaci masivi (precum baobabii uriași), creând o atmosferă mistică și răcoroasă. Conservarea acestui loc se bazează exclusiv pe respectul tradițional pentru natură (tabuuri religioase) care interzice vânătoarea reptilelor și defrișarea ecosistemului forestier. [Geografie K7 — sanctuare ecologice și credințe indigene]",
+      en: "The Berending Sacred Crocodile Pool is a prominent natural and spiritual landmark located in the rural Nuimi district. Encircled by a ring of ancient, massive baobab trees, the pool provides a deeply atmospheric setting that is much less commercialized than its coastal counterparts. It serves as a living landmark of traditional Mandinka animist beliefs, where the resident crocodiles are revered as the physical manifestations of protective ancestral spirits. The site is a focal point for local fertility rites and prayers for good harvests, standing as an enduring symbol of indigenous spirituality surviving independently of modern tourism. (Social Studies K6 — traditional spirituality and sacred wildlife)"
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [],
+      ro: ["Localizat în districtul Lower Niumi, în apropierea coastei nordice.", "Este cel mai sălbatic dintre cele trei mari lacuri sacre cu crocodili din țară.", "Crocodilii de aici sunt liberi, dar mai puțin obișnuiți cu prezența umană.", "Populația locală oficiază ceremonii de ploaie și fertilitate pe malurile sale.", "Zona este protejată de liderii tradiționali printr-o interdicție absolută de tăiere a copacilor.", "Nu percepe taxe formale, dar vizitatorii oferă nuci de kola drept respect spiritelor."],
+      en: ["A highly revered natural and spiritual landmark in the rural Nuimi district.", "Encircled by a striking, atmospheric grove of ancient baobab trees.", "Considerably less commercialized and visited than the Kachikally pool.", "The crocodiles are revered as the physical embodiment of ancestral spirits.", "A central, active location for local fertility rites and agricultural prayers.", "A profound example of enduring, pre-Islamic indigenous spiritual practices."]
+    }
+  },
   {
     id: "folonko-crocodile-pool-landmarks-v2",
     type: "landmark",
@@ -589,6 +849,18 @@ export const poiExtraGambiaLandmarksV2: POI[] = [
       hu: ["Gambia legdélebbi részén található.", "A krokodilokat itt védelmezőként tisztelik."],
       ro: ["Situat în extremul sud al Gambiei.", "Crocodilii sunt venerați aici ca protectori."],
       en: ["Located in the far south of The Gambia.", "Crocodiles are revered here as protectors."]
+    },
+    descriptionAdvanced: {
+      de: "",
+      hu: "",
+      ro: "Bazinul Folonko, aflat la marginea orașului estuar Kartong, se remarcă printr-o conexiune profundă cu prima așezare din regiunea Kombo. Mult mai mult decât o atracție turistică, este un monument spiritual viu dedicat fertilității și reconcilierii. Situl este acoperit de un covor dens de vegetație acvatică (nuferi și salată de apă) și înconjurat de o pădure sacră. Spre deosebire de alte situri, crocodilii din Folonko rămân predominant ascunși, lăsând aura de mister să domine experiența. Ritualurile locale, gestionate de o familie de îngrijitori tradiționali, subliniază coexistența pașnică milenară dintre om și prădătorii de top, oferind o lecție timpurie de conservare comunitară bazată pe teamă reverențioasă și respect. [Geografie K7 — repere ale tradițiilor animiste]",
+      en: "Situated near the southern coastal village of Kartong, the Folonko Sacred Crocodile Pool is a vital spiritual landmark deeply embedded in the local culture. Managed by the community elders, this sacred freshwater spring is enveloped by thick coastal gallery forest. Historically, Folonko has been the central site for major life-cycle rituals, particularly traditional initiation ceremonies for young men and women from surrounding villages. The resident crocodiles are entirely revered and never harmed. Visitors to the site often witness a remarkably peaceful coexistence between the local villagers, who draw water nearby, and the formidable reptiles basking on the muddy banks. (Geography K6 — sacred ecosystems and traditional rituals)"
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [],
+      ro: ["Este poziționat în apropiere de granița sudică cu Senegal, în satul Kartong.", "Apele izvorăsc natural și formează o mlaștină densă, greu accesibilă.", "Reprezintă inima spirituală a uneia dintre cele mai vechi așezări (Kartong).", "Este interzisă orice formă de agresiune verbală sau fizică pe perimetrul sacru.", "Îngrijitorii (custozii) bazinului sunt descendenți ai fondatorilor satului.", "Turiștii caută aici o atmosferă meditativă, departe de turismul de masă."],
+      en: ["A highly significant sacred crocodile pool located near the village of Kartong.", "Managed exclusively by the traditional elders of the local community.", "Historically the central location for regional youth initiation ceremonies.", "Enveloped by a thick, protected patch of coastal gallery forest.", "The crocodiles are completely protected by strict traditional taboos.", "Demonstrates a peaceful, long-standing coexistence between humans and apex predators."]
     }
   },
   {
@@ -613,6 +885,18 @@ export const poiExtraGambiaLandmarksV2: POI[] = [
       hu: ["A tengerparton, egy sziklán található.", "Mélyen gyökerező spirituális hagyományok helyszíne."],
       ro: ["Situat pe coastă, pe o stâncă.", "Un loc cu tradiții spirituale profund înrădăcinate."],
       en: ["Located on a cliff by the coast.", "A site of deeply rooted spiritual traditions."]
+    },
+    descriptionAdvanced: {
+      de: "",
+      hu: "",
+      ro: "Sanneh-Mentering este un sit natural uimitor, compus dintr-o faleză stâncoasă și niște peșteri marine mici situate chiar pe coasta orașului Brufut. Pentru populația Mandinka, acesta nu este un simplu punct de belvedere, ci un lăcaș sfânt, un portal de comunicare cu spiritele mării. Tradiția locală consideră că rocile de laterit au fost locuite de entități puternice, făcând din acest sit un loc esențial pentru cererile de binecuvântare, protecție înainte de plecarea la pescuit și ritualuri de vindecare. Recent, presiunea dezvoltării imobiliare de lux din Brufut a amenințat accesul comunitar la faleză, stârnind campanii publice pentru protejarea acestui reper sacru. Astăzi, situl reprezintă un punct de tensiune între modernizarea costieră și protejarea patrimoniului imaterial indigen. [Sociologie K7 — conflictul dintre dezvoltare imobiliară și locuri sacre]",
+      en: "Sanneh-Mentering is a highly revered natural and historical landmark situated on the coastal cliffs near the town of Brufut. This sacred grove and rocky outcrop holds immense spiritual significance for the local Mandinka population. According to oral tradition, it has been a place of spiritual gathering, prophecy, and prayer for centuries, long predating the arrival of Islam or Christianity in the region. The site offers dramatic views over the Atlantic Ocean and remains a protected cultural zone despite the rapid encroachment of modern coastal real estate development, serving as a vital anchor to indigenous heritage. (Social Studies K6 — sacred geography and cultural preservation)"
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [],
+      ro: ["Situat pe coasta din Brufut, o zonă de dezvoltare turistică și rezidențială accelerată.", "Un afloriment de roci roșiatice de laterit expus eroziunii valurilor atlantice.", "Un loc recunoscut pentru ceremonii animiste și ofrande adresate spiritelor mării.", "Este protejat și venerat de populația indigenă Mandinka din regiunea Kombo.", "Comunitatea a dus bătălii legale recente pentru a preveni construirea de hoteluri pe sit.", "Oferă o perspectivă spectaculoasă la asfințit asupra pescarilor artizanali."],
+      en: ["A highly revered sacred grove and rocky outcrop located on the Brufut coast.", "Holds immense, ancient spiritual significance for the local Mandinka people.", "Traditionally utilized as a site for spiritual gatherings, prayers, and prophecy.", "Predates the widespread adoption of Islam and Christianity in the region.", "Offers dramatic, sweeping views over the Atlantic Ocean from coastal cliffs.", "Remains fiercely protected by locals against encroaching coastal real estate development."]
     }
   }
 ];

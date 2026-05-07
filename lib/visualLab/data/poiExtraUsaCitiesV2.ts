@@ -731,7 +731,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
     description: {
       de: "Die Hauptstadt von North Carolina, bekannt als die 'Stadt der Eichen' und Teil des Research Triangle Park.",
       hu: "Észak-Karolina fővárosa, a 'tölgyek városaként' ismert és a Research Triangle Park része.",
-      ro: "Capitala Carolinei de Nord, cunoscută drept „Orașul Stejarilor” și parte a Parcului de Cercetare Triangle.",
+      ro: "Capitala Carolinei de Nord, cunoscută drept \"Orașul Stejarilor\" și parte a Parcului de Cercetare Triangle.",
       en: "The capital of North Carolina, known as the 'City of Oaks' and part of the Research Triangle Park."
     },
     facts: {
@@ -821,7 +821,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
     description: {
       de: "Eine Stadt in Oklahoma, einst als 'Ölhauptstadt der Welt' bekannt, mit einer reichen Art-déco-Architektur.",
       hu: "Város Oklahomában, egykor a 'világ olajfővárosaként' ismert, gazdag art deco építészettel.",
-      ro: "Un oraș din Oklahoma, cunoscut odinioară drept „Capitala mondială a petrolului”, cu o bogată arhitectură Art Deco.",
+      ro: "Un oraș din Oklahoma, cunoscut odinioară drept \"Capitala mondială a petrolului\", cu o bogată arhitectură Art Deco.",
       en: "A city in Oklahoma, once known as the 'Oil Capital of the World,' with rich Art Deco architecture."
     },
     facts: {
@@ -875,7 +875,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
     description: {
       de: "Die größte Stadt in Kansas, bekannt als 'Luftfahrthauptstadt der Welt' wegen ihrer Rolle in der Flugzeugproduktion.",
       hu: "Kansas legnagyobb városa, a 'világ repülőgép-fővárosaként' ismert a repülőgépgyártásban betöltött szerepe miatt.",
-      ro: "Cel mai mare oraș din Kansas, cunoscut drept „Capitala aeriană a lumii” pentru rolul său în producția de aeronave.",
+      ro: "Cel mai mare oraș din Kansas, cunoscut drept \"Capitala aeriană a lumii\" pentru rolul său în producția de aeronave.",
       en: "The largest city in Kansas, known as the 'Air Capital of the World' for its role in aircraft production."
     },
     facts: {
@@ -1073,7 +1073,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
     description: {
       de: "Bekannt als die 'Pferdehauptstadt der Welt', umgeben von Bluegrass-Landschaften und Pferdefarmen.",
       hu: "A 'világ ló fővárosaként' ismert, Bluegrass tájakkal és lófarmokkal körülvéve.",
-      ro: "Cunoscută drept „Capitala mondială a cailor”, înconjurată de peisaje Bluegrass și ferme de cai.",
+      ro: "Cunoscută drept \"Capitala mondială a cailor\", înconjurată de peisaje Bluegrass și ferme de cai.",
       en: "Known as the 'Horse Capital of the World,' surrounded by Bluegrass landscapes and horse farms."
     },
     facts: {
@@ -1145,7 +1145,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
     description: {
       de: "Die Hauptstadt von Minnesota, die zusammen mit Minneapolis die 'Twin Cities' bildet.",
       hu: "Minnesota fővárosa, amely Minneapolis-szal együtt alkotja az 'Ikervárosokat'.",
-      ro: "Capitala statului Minnesota, care formează „Orașele Gemene” împreună cu Minneapolis.",
+      ro: "Capitala statului Minnesota, care formează \"Orașele Gemene\" împreună cu Minneapolis.",
       en: "The capital of Minnesota, forming the 'Twin Cities' with Minneapolis."
     },
     facts: {
@@ -1343,7 +1343,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
     description: {
       de: "Bekannt als 'Die größte kleine Stadt der Welt', eine Stadt in Nevada mit Casinos und Outdoor-Aktivitäten.",
       hu: "A 'világ legnagyobb kisvárosaként' ismert, nevadai város kaszinókkal és szabadtéri tevékenységekkel.",
-      ro: "Cunoscut drept „Cel mai mare mic oraș din lume”, un oraș din Nevada cu cazinouri și activități în aer liber.",
+      ro: "Cunoscut drept \"Cel mai mare mic oraș din lume\", un oraș din Nevada cu cazinouri și activități în aer liber.",
       en: "Known as 'The Biggest Little City in the World,' a city in Nevada with casinos and outdoor recreation."
     },
     facts: {
@@ -1578,7 +1578,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
     description: {
       de: "Die Hauptstadt von Mississippi, bekannt als 'Stadt mit Seele' für ihre Rolle in der Blues-, Gospel- und Jazzmusik.",
       hu: "Mississippi fővárosa, a 'lélekkel teli városként' ismert a blues, a gospel és a jazz zenében betöltött szerepe miatt.",
-      ro: "Capitala statului Mississippi, cunoscută drept „Orașul cu Suflet” pentru rolul său în muzica blues, gospel și jazz.",
+      ro: "Capitala statului Mississippi, cunoscută drept \"Orașul cu Suflet\" pentru rolul său în muzica blues, gospel și jazz.",
       en: "The capital of Mississippi, known as the 'City with Soul' for its role in blues, gospel, and jazz music."
     },
     facts: {
@@ -1614,7 +1614,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
     description: {
       de: "Die Hauptstadt von Connecticut, bekannt als 'Versicherungshauptstadt der Welt'.",
       hu: "Connecticut fővárosa, a 'világ biztosítási fővárosaként' ismert.",
-      ro: "Capitala statului Connecticut, cunoscută drept „Capitala mondială a asigurărilor”.",
+      ro: "Capitala statului Connecticut, cunoscută drept \"Capitala mondială a asigurărilor\".",
       en: "The capital of Connecticut, known as the 'Insurance Capital of the World'."
     },
     facts: {

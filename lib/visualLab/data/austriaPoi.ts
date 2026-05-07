@@ -499,7 +499,7 @@ export const austriaRegions: POI[] = [
         "Orașul Salzburg este locul de naștere al lui Wolfgang Amadeus Mozart.",
         "Centrul istoric al orașului Salzburg este inclus în patrimoniul mondial UNESCO.",
         "Cascadele Krimml sunt cele mai înalte din Austria, având o înălțime de 380 de metri.",
-        "Regiunea a servit drept decor pentru filmul clasic de la Hollywood „Sunetul muzicii”.",
+        "Regiunea a servit drept decor pentru filmul clasic de la Hollywood \\\"Sunetul muzicii\\\".",
         "Fortăreața Hohensalzburg este simbolul vizibil de la distanță al capitalei.",
         "Parcul Național Hohe Tauern este cea mai mare rezervație naturală din Alpi.",
         "Exploatarea istorică a sării (de ex. în Hallein) a dat numele acestui stat federal.",
@@ -555,7 +555,7 @@ export const austriaRegions: POI[] = [
     descriptionAdvanced: { 
         de: "Die Steiermark wird oft als das 'Grüne Herz Österreichs' bezeichnet, da über die Hälfte ihrer Fläche bewaldet ist. Diese vielfältige Region erstreckt sich vom alpinen Norden mit dem Dachsteinmassiv und dem Nationalpark Gesäuse bis in den sanft hügeligen, von Wein- und Obstgärten geprägten Süden. Das steirische Thermenland bietet Entspannung auf höchstem Niveau. Graz, die Landeshauptstadt, vereint als UNESCO-City of Design historische Architektur mit modernem Design. Kulinarisch ist die Steiermark weltberühmt für ihr dunkles Kürbiskernöl, exzellente Weißweine und traditionelle Buschenschänken. Das Lipizzanergestüt Piber, Heimat der berühmten Pferde der Spanischen Hofreitschule, ist ein weiteres kulturelles Highlight.",
         hu: "Stájerországot gyakran 'Ausztria zöld szívének' nevezik, mivel területének több mint fele erdővel borított. Ez a változatos régió az alpesi északi résztől a Dachstein-masszívummal és a Gesäuse Nemzeti Parkkal egészen a déli, lankás, szőlő- és gyümölcsösökkel tarkított vidékig terjed. A stájer termálvidék a legmagasabb szintű kikapcsolódást kínálja. Graz, a tartományi főváros, az UNESCO Dizájn Városaként harmonikusan ötvözi a történelmi építészetet a modern dizájnnal. Kulináris szempontból Stájerország világhírű a sötét tökmagolajáról, a kiváló fehérborairól és a hagyományos borozóiról (Buschenschank). A piberi lipicai ménes, a híres spanyol lovasiskola lovainak otthona, egy másik kulturális fénypont.",
-        ro: "Stiria este adesea denumită „Inima Verde a Austriei”, deoarece mai mult de jumătate din suprafața sa este acoperită de păduri. Această regiune diversă se întinde de la nordul alpin cu masivul Dachstein și Parcul Național Gesäuse până la sudul deluros, caracterizat de podgorii și livezi. Regiunea termală a Stiriei oferă relaxare la cel mai înalt nivel. Graz, capitala landului, combină armonios arhitectura istorică cu designul modern ca Oraș al Designului UNESCO. Din punct de vedere culinar, Stiria este renumită la nivel mondial pentru uleiul său închis la culoare din semințe de dovleac, vinurile albe excelente și tavernele tradiționale (Buschenschank). Herghelia Lipizzaner de la Piber, casa faimoșilor cai ai Școlii Spaniole de Călărie, este un alt punct de atracție cultural.",
+        ro: "Stiria este adesea denumită \\\"Inima Verde a Austriei\\\", deoarece mai mult de jumătate din suprafața sa este acoperită de păduri. Această regiune diversă se întinde de la nordul alpin cu masivul Dachstein și Parcul Național Gesäuse până la sudul deluros, caracterizat de podgorii și livezi. Regiunea termală a Stiriei oferă relaxare la cel mai înalt nivel. Graz, capitala landului, combină armonios arhitectura istorică cu designul modern ca Oraș al Designului UNESCO. Din punct de vedere culinar, Stiria este renumită la nivel mondial pentru uleiul său închis la culoare din semințe de dovleac, vinurile albe excelente și tavernele tradiționale (Buschenschank). Herghelia Lipizzaner de la Piber, casa faimoșilor cai ai Școlii Spaniole de Călărie, este un alt punct de atracție cultural.",
         en: "Styria is often called the 'Green Heart of Austria' as more than half of its area is forested. This diverse region extends from the alpine north with the Dachstein massif and the Gesäuse National Park to the gently hilly south, characterized by vineyards and orchards. The Styrian thermal region offers relaxation at the highest level. Graz, the state capital, harmoniously combines historical architecture with modern design as a UNESCO City of Design. Culinarily, Styria is world-famous for its dark pumpkin seed oil, excellent white wines, and traditional wine taverns (Buschenschank). The Piber Lipizzaner stud, home to the famous horses of the Spanish Riding School, is another cultural highlight."
     },
     facts: {
@@ -680,7 +680,7 @@ export const austriaRegions: POI[] = [
         "Tirolul constă geografic din Tirolul de Nord și Tirolul de Est, mai mic.",
         "Zugspitze, cel mai înalt munte din Germania, se învecinează direct cu Tirolul.",
         "Tradiții precum Almabtrieb sunt menținute aici cu intensitate și mândrie.",
-        "Valea Ötztal a devenit faimoasă în întreaga lume datorită descoperirii mumiei „Ötzi”.",
+        "Valea Ötztal a devenit faimoasă în întreaga lume datorită descoperirii mumiei \\\"Ötzi\\\".",
         "Mâncărurile populare includ Tiroler Gröstl, găluște cu șuncă și Kaiserschmarrn.",
         "Tirolul este o destinație de top pentru wellness și relaxare alpină."
       ],
@@ -770,7 +770,7 @@ export const austriaRegions: POI[] = [
         "Vorarlberg este una dintre cele mai prospere și industrializate regiuni din Europa.",
         "Statul federal împarte Lacul Constanța cu Germania și Elveția.",
         "Brânza de munte Bregenzerwald este o specialitate culinară protejată la nivel european.",
-        "Localnicii se referă adesea cu afecțiune la acest stat federal ca fiind „Ländle”."
+        "Localnicii se referă adesea cu afecțiune la acest stat federal ca fiind \\\"Ländle\\\"."
       ],
       en: [
         "Bregenz is the state capital, picturesquely located on the shores of Lake Constance.",

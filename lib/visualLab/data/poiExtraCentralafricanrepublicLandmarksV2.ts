@@ -12,7 +12,7 @@ export const poiExtraCentralafricanrepublicLandmarksV2: POI[] = [
       hu: "Bangui Miasszonyunk-székesegyház",
       ro: "Catedrala Notre-Dame din Bangui",
       en: "Notre-Dame Cathedral of Bangui"
-    ,
+    },
     descriptionAdvanced: {
       ro: "Catedrala Notre-Dame din Bangui este un reper arhitectural de o mare frumusețe, fiind centrul vieții religioase a capitalei. Structura sa impozantă simbolizează credința și istoria creștinismului în țară. Geografie K7 – Arhitectură religioasă.",
       en: "The Cathédrale Notre-Dame in Bangui is a prominent architectural landmark representing the city's religious history and colonial architectural influence. Situated in the capital, it serves as a central hub for the local Christian community. Its structure, with its distinctive design, remains one of the most recognizable features of the city's skyline. Geography K7 — Cultural and religious landmarks."
@@ -22,8 +22,7 @@ export const poiExtraCentralafricanrepublicLandmarksV2: POI[] = [
     },
     factsAdvanced: {
       ro: ["Rol: lăcaș de cult principal.", "Arhitectură: reper urban.", "Localizare: Bangui.", "Importanță: simbol religios.", "Activitate: viață religioasă.", "Impact: peisaj urban."]
-    }
-  },
+    },
     description: {
       de: "Die imposante Kathedrale aus roten Backsteinen ist das bedeutendste religiöse Bauwerk der Hauptstadt und ein Wahrzeichen der Stadt.",
       hu: "A vörös téglából épült impozáns székesegyház a főváros legjelentősebb vallási épülete és a város egyik jelképe.",
@@ -46,7 +45,7 @@ export const poiExtraCentralafricanrepublicLandmarksV2: POI[] = [
       hu: "Bangui diadalív",
       ro: "Arcul de Triumf din Bangui",
       en: "Triumph Arch of Bangui"
-    ,
+    },
     descriptionAdvanced: {
       ro: "Arcul de Triumf din Bangui onorează momentele importante din istoria națiunii, fiind un monument care reflectă dorința de afirmare a identității centrafricane în peisajul urban al capitalei. Geografie K7 – Simboluri naționale.",
       en: "The Arc de Triomphe in Bangui, though distinct from its Parisian counterpart, serves as a notable urban monument. It reflects the national efforts to commemorate significant historical figures and events, standing as a symbolic structure in the capital's center. Such monuments provide insight into the nation's efforts to define its post-colonial national identity. Geography K7 — National monuments."
@@ -56,8 +55,7 @@ export const poiExtraCentralafricanrepublicLandmarksV2: POI[] = [
     },
     factsAdvanced: {
       ro: ["Rol: simbol național.", "Localizare: Bangui.", "Importanță: afirmarea identității.", "Activitate: comemorare istorică.", "Impact: peisaj urban.", "Resursă: monument."]
-    }
-  },
+    },
     description: {
       de: "Ein monumentales Bauwerk im Zentrum von Bangui, das zu Ehren des ersten Präsidenten Barthélemy Boganda errichtet wurde.",
       hu: "Monumentális építmény Bangui központjában, amelyet az első elnök, Barthélemy Boganda tiszteletére emeltek.",
@@ -80,7 +78,7 @@ export const poiExtraCentralafricanrepublicLandmarksV2: POI[] = [
       hu: "Köztársaság tér",
       ro: "Piața Republicii",
       en: "Republic Square"
-    ,
+    },
     descriptionAdvanced: {
       ro: "Piața Republicii din Bangui este un centru civic major al capitalei, fiind locul unde au loc principalele manifestări publice și ceremoniile oficiale. Piața reprezintă nucleul vieții politice urbane. Geografie K7 – Spații publice.",
       en: "Place de la République is the main public square in Bangui, acting as a central space for major national gatherings and administrative life. It is surrounded by government offices, making it the heartbeat of the country's political activities. The square's history is inextricably linked to the significant political transformations of the Central African Republic. Geography K7 — Public spaces and administration."
@@ -90,8 +88,7 @@ export const poiExtraCentralafricanrepublicLandmarksV2: POI[] = [
     },
     factsAdvanced: {
       ro: ["Rol: centru civic urban.", "Localizare: Bangui.", "Importanță: manifestări oficiale.", "Activitate: viață publică.", "Impact: nucleu politic.", "Peisaj: piață centrală."]
-    }
-  },
+    },
     description: {
       de: "Der zentrale Platz von Bangui ist das Herz des politischen und gesellschaftlichen Lebens der Stadt.",
       hu: "Bangui központi tere, amely a város politikai és társadalmi életének szíve.",
@@ -114,7 +111,7 @@ export const poiExtraCentralafricanrepublicLandmarksV2: POI[] = [
       hu: "Reneszánsz palota",
       ro: "Palatul Renașterii",
       en: "Renaissance Palace"
-    ,
+    },
     descriptionAdvanced: {
       ro: "Palatul Renașterii este sediul puterii politice și simbolul central al administrației statului, fiind o clădire cu o arhitectură reprezentativă pentru funcția sa înaltă în cadrul națiunii. Geografie K7 – Administrația statului.",
       en: "The Palais de la Renaissance serves as the official presidential palace of the Central African Republic. Located in Bangui, it stands as the most important symbol of national sovereignty and executive power. The palace's grounds and architectural profile are central to the visual representation of the state, both locally and internationally. Geography K7 — Government buildings."
@@ -124,8 +121,7 @@ export const poiExtraCentralafricanrepublicLandmarksV2: POI[] = [
     },
     factsAdvanced: {
       ro: ["Rol: sediul puterii politice.", "Localizare: Bangui.", "Importanță: simbol administrativ.", "Activitate: putere de stat.", "Impact: simbol al națiunii.", "Arhitectură: reprezentativă."]
-    }
-  },
+    },
     description: {
       de: "Der offizielle Amtssitz des Präsidenten der Zentralafrikanischen Republik, ein prächtiges Gebäude mit Blick auf die Stadt.",
       hu: "A Közép-afrikai Köztársaság elnökének hivatalos rezidenciája, pompás épület kilátással a városra.",
@@ -148,7 +144,7 @@ export const poiExtraCentralafricanrepublicLandmarksV2: POI[] = [
       hu: "Barthélemy Boganda Stadion",
       ro: "Stadionul Barthélemy Boganda",
       en: "Barthélemy Boganda Stadium"
-    ,
+    },
     descriptionAdvanced: {
       ro: "Stadionul Barthélemy Boganda este cea mai mare arenă sportivă a țării, găzduind competiții naționale și internaționale, fiind un centru pentru cultura sportivă și evenimentele masive. Geografie K7 – Sport și cultură.",
       en: "Stade Barthélemy Boganda is the largest stadium in Bangui and a center for sporting and cultural life in the Central African Republic. Named after the country's first president and father of independence, the stadium holds immense cultural significance. It is a hub for community events, football matches, and important national assemblies. Geography K7 — Cultural sports facilities."
@@ -158,8 +154,7 @@ export const poiExtraCentralafricanrepublicLandmarksV2: POI[] = [
     },
     factsAdvanced: {
       ro: ["Rol: arenă sportivă principală.", "Localizare: Bangui.", "Importanță: centru cultural sportiv.", "Activitate: evenimente sportive.", "Impact: cultura sportivă.", "Capacitate: mare."]
-    }
-  },
+    },
     description: {
       de: "Das Nationalstadion der Zentralafrikanischen Republik ist der größte Sportkomplex des Landes und Austragungsort wichtiger Spiele.",
       hu: "A Közép-afrikai Köztársaság nemzeti stadionja az ország legnagyobb sportkomplexuma és fontos mérkőzések helyszíne.",
@@ -182,7 +177,7 @@ export const poiExtraCentralafricanrepublicLandmarksV2: POI[] = [
       hu: "Mártírok emlékműve",
       ro: "Monumentul Martirilor",
       en: "Martyrs' Monument"
-    ,
+    },
     descriptionAdvanced: {
       ro: "Monumentul Martirilor comemorează cetățenii care au făcut sacrificii supreme pentru libertatea și independența țării, fiind un punct de reculegere și respect pentru istoria națională. Geografie K7 – Comemorare istorică.",
       en: "The Monument des Martyrs in Bangui is a commemorative site dedicated to those who have sacrificed for the country. It serves as a somber reminder of the nation's struggles throughout its modern history. Monuments like this are integral to the national landscape, fostering a shared sense of collective memory and national pride. Geography K7 — Commemorative sites."
@@ -192,8 +187,7 @@ export const poiExtraCentralafricanrepublicLandmarksV2: POI[] = [
     },
     factsAdvanced: {
       ro: ["Rol: monument comemorativ.", "Localizare: Bangui.", "Importanță: libertate și independență.", "Activitate: reculegere.", "Impact: respect național.", "Resursă: comemorare."]
-    }
-  },
+    },
     description: {
       de: "Ein bedeutendes Denkmal in Bangui, das den Opfern der politischen Unruhen und Kämpfe für die Demokratie gewidmet ist.",
       hu: "Jelentős emlékmű Banguiban, amelyet a politikai zavargások és a demokráciáért vívott harcok áldozatainak szenteltek.",
@@ -216,7 +210,7 @@ export const poiExtraCentralafricanrepublicLandmarksV2: POI[] = [
       hu: "Bangui központi mecset",
       ro: "Moscheea Centrală din Bangui",
       en: "Central Mosque of Bangui"
-    ,
+    },
     descriptionAdvanced: {
       ro: "Moscheea Centrală din Bangui este un centru vital pentru comunitatea musulmană, având o arhitectură distinctă ce reflectă diversitatea religioasă a capitalei. Aceasta joacă un rol esențial în viața religioasă și socială a membrilor săi. Geografie K7 – diversitate religioasă.",
       en: "The Central Mosque of Bangui (Mosquée Centrale) is a vital religious landmark serving the Muslim community of the capital. It represents the historical and cultural diversity of the population and the importance of religious institutions in Bangui's urban fabric. The mosque is not only a place of worship but also a center for social and community interactions. Geography K7 — Religious landmarks and cultural diversity."
@@ -226,8 +220,7 @@ export const poiExtraCentralafricanrepublicLandmarksV2: POI[] = [
     },
     factsAdvanced: {
       ro: ["Rol: lăcaș de cult principal.", "Localizare: Bangui.", "Importanță: viață comunitară.", "Activitate: viață religioasă.", "Impact: diversitate culturală.", "Arhitectură: distinctă."]
-    }
-  },
+    },
     description: {
       de: "Das wichtigste islamische Gotteshaus in der Hauptstadt, gelegen im bevölkerungsreichen Stadtteil PK5.",
       hu: "A főváros legfontosabb iszlám imaháza, amely a sűrűn lakott PK5 negyedben található.",
@@ -250,7 +243,7 @@ export const poiExtraCentralafricanrepublicLandmarksV2: POI[] = [
       hu: "Bangui városháza",
       ro: "Primăria din Bangui",
       en: "Bangui Town Hall"
-    ,
+    },
     descriptionAdvanced: {
       ro: "Primăria orașului Bangui (Hôtel de Ville) este sediul administrației locale, fiind responsabilă pentru gestionarea serviciilor publice și dezvoltarea infrastructurii urbane a capitalei. Geografie K7 – Administrație locală.",
       en: "The Hôtel de Ville (City Hall) of Bangui serves as the administrative seat of the local government. Located in the city center, it manages urban development, public services, and civic affairs for the capital. The architecture of the building reflects the administrative evolution of Bangui into a modern urban center. Geography K7 — Administrative centers."
@@ -260,8 +253,7 @@ export const poiExtraCentralafricanrepublicLandmarksV2: POI[] = [
     },
     factsAdvanced: {
       ro: ["Rol: sediu administrație locală.", "Localizare: Bangui.", "Importanță: gestionarea serviciilor.", "Activitate: administrație urbană.", "Impact: dezvoltare locală.", "Servicii: publice."]
-    }
-  },
+    },
     description: {
       de: "Das Verwaltungszentrum der Stadt Bangui, ein elegantes Gebäude, das die lokale Verwaltung beherbergt.",
       hu: "Bangui város közigazgatási központja, egy elegáns épület, amely a helyi önkormányzatnak ad otthont.",
@@ -284,7 +276,7 @@ export const poiExtraCentralafricanrepublicLandmarksV2: POI[] = [
       hu: "Barthélemy Boganda Nemzeti Múzeum",
       ro: "Muzeul Național Barthélemy Boganda",
       en: "Barthélemy Boganda National Museum"
-    ,
+    },
     descriptionAdvanced: {
       ro: "Muzeul Boganda deține colecții impresionante de artă, istorie și etnografie centrafricană, oferind o privire detaliată asupra culturilor tradiționale și evoluției națiunii de-a lungul timpului. Geografie K7 – Istorie și cultură.",
       en: "The Boganda Museum is a major institution dedicated to the history, ethnography, and arts of the Central African Republic. It preserves unique cultural artifacts and provides valuable context for the country's various ethnic groups and traditions. As a hub for research and education, it is essential for the conservation of the national cultural heritage. Geography K7 — Museums and heritage."
@@ -294,8 +286,7 @@ export const poiExtraCentralafricanrepublicLandmarksV2: POI[] = [
     },
     factsAdvanced: {
       ro: ["Rol: instituție culturală și istorică.", "Localizare: Bangui.", "Importanță: conservarea culturii.", "Activitate: etnografie și artă.", "Impact: educație culturală.", "Colecție: istorie națională."]
-    }
-  },
+    },
     description: {
       de: "Das Museum bewahrt das kulturelle Erbe der Zentralafrikanischen Republik, einschließlich Kunst und ethnischer Artefakte.",
       hu: "A múzeum a Közép-afrikai Köztársaság kulturális örökségét őrzi, beleértve a művészeti és néprajzi tárgyakat.",
@@ -318,7 +309,7 @@ export const poiExtraCentralafricanrepublicLandmarksV2: POI[] = [
       hu: "Bangui Egyetem",
       ro: "Universitatea din Bangui",
       en: "University of Bangui"
-    ,
+    },
     descriptionAdvanced: {
       ro: "Universitatea din Bangui este principala instituție de învățământ superior a țării, formând viitorii lideri și experți în diverse domenii necesare dezvoltării naționale. Aceasta reprezintă un centru de cunoaștere și inovație. Geografie K7 – Educație și dezvoltare.",
       en: "The University of Bangui is the country's primary institution for higher education. Since its inception, it has been the breeding ground for the nation's political, scientific, and cultural leadership. The campus is a central hub for intellectual discourse and development, playing an indispensable role in shaping the future of the Central African Republic. Geography K7 — Education and intellectual development."
@@ -328,8 +319,7 @@ export const poiExtraCentralafricanrepublicLandmarksV2: POI[] = [
     },
     factsAdvanced: {
       ro: ["Rol: instituție de învățământ superior.", "Localizare: Bangui.", "Importanță: formare profesională.", "Activitate: educație și inovație.", "Impact: dezvoltarea liderilor.", "Domenii: diverse."]
-    }
-  },
+    },
     description: {
       de: "Die einzige öffentliche Universität des Landes und ein bedeutendes Zentrum für höhere Bildung und Forschung.",
       hu: "Az ország egyetlen állami egyeteme, a felsőoktatás és a kutatás jelentős központja.",
@@ -352,14 +342,13 @@ export const poiExtraCentralafricanrepublicLandmarksV2: POI[] = [
       hu: "Bangui központi piac",
       ro: "Piața Centrală din Bangui",
       en: "Central Market of Bangui"
-    ,
+    },
     descriptionAdvanced: {
       ro: "Marea Piață din Bangui este centrul comercial vibrant al capitalei, unde localnicii își vând produsele proaspete, meșteșugurile și textilele, oferind o perspectivă autentică asupra vieții cotidiene urbane. Geografie K7 – Economia piețelor."
     },
     factsAdvanced: {
       ro: ["Rol: centru comercial vibrant.", "Localizare: Bangui.", "Importanță: viața cotidiană urbană.", "Activitate: negoț diversificat.", "Impact: economia locală.", "Resursă: produse locale."]
-    }
-  },
+    },
     description: {
       de: "Der größte und lebhafteste Markt der Hauptstadt, ein architektonischer und wirtschaftlicher Mittelpunkt.",
       hu: "A főváros legnagyobb és legélénkebb piaca, építészeti és gazdasági csomópont.",
@@ -382,14 +371,13 @@ export const poiExtraCentralafricanrepublicLandmarksV2: POI[] = [
       hu: "Bangui M'Poko nemzetközi repülőtér",
       ro: "Aeroportul Internațional Bangui M'Poko",
       en: "Bangui M'Poko International Airport"
-    ,
+    },
     descriptionAdvanced: {
       ro: "Aeroportul internațional M'Poko este principala poartă aeriană a Republicii Centrafricane, asigurând legătura capitalei cu destinații internaționale și facilitând transportul de pasageri și mărfuri. Geografie K7 – Noduri de transport internațional."
     },
     factsAdvanced: {
       ro: ["Rol: poartă aeriană internațională.", "Localizare: Bangui.", "Importanță: logistică internațională.", "Activitate: transport aerian.", "Impact: conectivitate globală.", "Resursă: infrastructură."]
-    }
-  },
+    },
     description: {
       de: "Das wichtigste internationale Tor zur Zentralafrikanischen Republik, gelegen am Rande der Hauptstadt.",
       hu: "A Közép-afrikai Köztársaság legfontosabb nemzetközi kapuja, a főváros szélén található.",
@@ -412,14 +400,13 @@ export const poiExtraCentralafricanrepublicLandmarksV2: POI[] = [
       hu: "Bangui igazságügyi palota",
       ro: "Palatul de Justiție din Bangui",
       en: "Bangui Palace of Justice"
-    ,
+    },
     descriptionAdvanced: {
       ro: "Palatul de Justiție din Bangui găzduiește instanțele judiciare ale țării, fiind un simbol al autorității legale și al respectării legilor în Republica Centrafricană. Arhitectura sa impunătoare transmite stabilitate. Geografie K7 – Autoritatea statului."
     },
     factsAdvanced: {
       ro: ["Rol: instituție judiciară principală.", "Localizare: Bangui.", "Importanță: simbolul autorității legale.", "Activitate: justiție.", "Impact: stabilitate socială.", "Arhitectură: autoritară."]
-    }
-  },
+    },
     description: {
       de: "Der Sitz des Obersten Gerichtshofs und ein Symbol für die Rechtsstaatlichkeit im Land.",
       hu: "A Legfelsőbb Bíróság székhelye és a jogállamiság szimbóluma az országban.",
@@ -442,14 +429,13 @@ export const poiExtraCentralafricanrepublicLandmarksV2: POI[] = [
       hu: "Március 8. híd",
       ro: "Podul 8 Martie",
       en: "8th March Bridge"
-    ,
+    },
     descriptionAdvanced: {
       ro: "Podul din 8 Martie din Bangui este o structură iconică ce facilitează circulația în capitală, marcând simbolic respectul față de drepturile femeilor și importanța progresului social. Geografie K7 – Infrastructură și simbolistică."
     },
     factsAdvanced: {
       ro: ["Rol: infrastructură urbană.", "Localizare: Bangui.", "Importanță: progres social.", "Activitate: circulație rutieră.", "Impact: mobilitate urbană.", "Resursă: pod iconic."]
-    }
-  },
+    },
     description: {
       de: "Eine markante Brücke in Bangui, die verschiedene Stadtteile verbindet und ein wichtiges Element der städtischen Infrastruktur ist.",
       hu: "Jellegzetes híd Banguiban, amely különböző városrészeket köt össze, és a városi infrastruktúra fontos eleme.",
@@ -472,14 +458,13 @@ export const poiExtraCentralafricanrepublicLandmarksV2: POI[] = [
       hu: "Bangassou-i Szent Péter Claver-székesegyház",
       ro: "Catedrala Saint-Pierre-Claver din Bangassou",
       en: "Saint-Pierre-Claver Cathedral of Bangassou"
-    ,
+    },
     descriptionAdvanced: {
       ro: "Catedrala din Bangassou este un lăcaș de cult istoric în regiunea de est, servind drept punct de sprijin religios și comunitar pentru populația locală din această zonă îndepărtată. Geografie K7 – diversitate religioasă."
     },
     factsAdvanced: {
       ro: ["Rol: centru religios estic.", "Localizare: Bangassou.", "Importanță: sprijin comunitar.", "Activitate: viață religioasă.", "Impact: diversitate culturală.", "Resursă: lăcaș de cult."]
-    }
-  },
+    },
     description: {
       de: "Das religiöse Wahrzeichen von Bangassou im Südosten des Landes, bekannt für seine missionarische Geschichte.",
       hu: "Bangassou vallási jelképe az ország délkeleti részén, missziós történetéről ismert.",
@@ -502,14 +487,13 @@ export const poiExtraCentralafricanrepublicLandmarksV2: POI[] = [
       hu: "Bambari Szent Johanna-székesegyház",
       ro: "Catedrala Sainte Jeanne d'Arc din Bambari",
       en: "Sainte Jeanne d'Arc Cathedral of Bambari"
-    ,
+    },
     descriptionAdvanced: {
       ro: "Catedrala din Bambari reprezintă un reper vizual și spiritual esențial în centrul țării, găzduind comunități credincioase și participând activ la viața socială a orașului. Geografie K7 – Arhitectură religioasă."
     },
     factsAdvanced: {
       ro: ["Rol: reper spiritual regional.", "Localizare: Bambari.", "Importanță: viața socială.", "Activitate: viață religioasă.", "Impact: simbolism spiritual.", "Resursă: catedrală."]
-    }
-  },
+    },
     description: {
       de: "Die bedeutendste Kirche in Bambari, ein monumentales Bauwerk am Ufer des Ouaka-Flusses.",
       hu: "Bambari legjelentősebb temploma, monumentális építmény az Ouaka-folyó partján.",
@@ -532,14 +516,13 @@ export const poiExtraCentralafricanrepublicLandmarksV2: POI[] = [
       hu: "Berbérati Szent Anna-székesegyház",
       ro: "Catedrala Sainte-Anne din Berbérati",
       en: "Sainte-Anne Cathedral of Berbérati"
-    ,
+    },
     descriptionAdvanced: {
       ro: "Catedrala din Berbérati este o structură semnificativă pentru regiunea de vest, reflectând istoria creștinismului și rolul său în structurarea comunităților urbane din sud-vest. Geografie K7 – diversitate religioasă."
     },
     factsAdvanced: {
       ro: ["Rol: simbol religios vest-sudic.", "Localizare: Berbérati.", "Importanță: istoria creștinismului.", "Activitate: viață religioasă.", "Impact: structurarea comunităților.", "Resursă: catedrală."]
-    }
-  },
+    },
     description: {
       de: "Eine große Kathedrale im Westen des Landes, die das Stadtbild von Berbérati dominiert.",
       hu: "Nagy székesegyház az ország nyugati részén, amely uralja Berbérati városképét.",
@@ -562,14 +545,13 @@ export const poiExtraCentralafricanrepublicLandmarksV2: POI[] = [
       hu: "Bossangoa missziós templom",
       ro: "Biserica Misiunii din Bossangoa",
       en: "Mission Church of Bossangoa"
-    ,
+    },
     descriptionAdvanced: {
       ro: "Misiunea din Bossangoa este un sit istoric ce a jucat un rol crucial în dezvoltarea educației și îngrijirii sănătății pentru comunitățile din regiunea Ouham pe parcursul secolului trecut. Geografie K7 – Istoria instituțiilor sociale."
     },
     factsAdvanced: {
       ro: ["Rol: punct educațional și sanitar.", "Localizare: Bossangoa.", "Importanță: dezvoltare socială.", "Activitate: servicii comunitare.", "Impact: educație și sănătate.", "Perioadă: secolul al XX-lea."]
-    }
-  },
+    },
     description: {
       de: "Ein historisches Kirchenensemble in Bossangoa, das seit Jahrzehnten ein Zentrum für soziale Arbeit und Bildung ist.",
       hu: "Történelmi templomegyüttes Bossangoában, amely évtizedek óta a szociális munka és az oktatás központja.",
@@ -592,14 +574,13 @@ export const poiExtraCentralafricanrepublicLandmarksV2: POI[] = [
       hu: "Egység emlékműve Sibutban",
       ro: "Monumentul Unității din Sibut",
       en: "Unity Monument in Sibut"
-    ,
+    },
     descriptionAdvanced: {
       ro: "Monumentul Unității din Sibut simbolizează eforturile de consolidare a identității naționale și coeziunea socială a popoarelor care compun statul centrafrican. Geografie K7 – Simboluri naționale."
     },
     factsAdvanced: {
       ro: ["Rol: monument al unității.", "Localizare: Sibut.", "Importanță: identitate națională.", "Activitate: comemorare civică.", "Impact: coeziune socială.", "Resursă: monument."]
-    }
-  },
+    },
     description: {
       de: "Ein Denkmal in der strategisch wichtigen Stadt Sibut, das den Zusammenhalt des Landes symbolisiert.",
       hu: "Emlékmű a stratégiailag fontos Sibut városában, amely az ország összetartozását szimbolizálja.",
@@ -622,14 +603,13 @@ export const poiExtraCentralafricanrepublicLandmarksV2: POI[] = [
       hu: "Bangui Francia Kulturális Központ",
       ro: "Centrul Cultural Francez din Bangui",
       en: "French Cultural Center of Bangui"
-    ,
+    },
     descriptionAdvanced: {
       ro: "Centrul Cultural Francez din Bangui este un spațiu de schimb cultural și educațional, promovând arta, limba franceză și interacțiunea între cultura locală și cea internațională. Geografie K7 – Relații culturale."
     },
     factsAdvanced: {
       ro: ["Rol: spațiu de schimb cultural.", "Localizare: Bangui.", "Importanță: diversitate culturală.", "Activitate: educație și artă.", "Impact: interacțiune internațională.", "Resursă: centru cultural."]
-    }
-  },
+    },
     description: {
       de: "Ein bedeutendes Gebäude in Bangui, das als Hub für kulturellen Austausch, Kunstausstellungen und Bildung dient.",
       hu: "Jelentős épület Banguiban, amely a kulturális csere, művészeti kiállítások és oktatás központjaként szolgál.",
@@ -652,14 +632,13 @@ export const poiExtraCentralafricanrepublicLandmarksV2: POI[] = [
       hu: "CEMAC palota",
       ro: "Palatul CEMAC",
       en: "CEMAC Palace"
-    ,
+    },
     descriptionAdvanced: {
       ro: "Palatul CEMAC este sediul unei organizații economice regionale majore, reflectând angajamentul țării față de integrarea economică și cooperarea cu vecinii din Africa Centrală. Geografie K7 – Economia integrată."
     },
     factsAdvanced: {
       ro: ["Rol: sediu organizație regională.", "Localizare: Bangui.", "Importanță: integrare economică.", "Activitate: cooperare regională.", "Impact: dezvoltare economică.", "Resursă: sediu instituțional."]
-    }
-  },
+    },
     description: {
       de: "Ein modernes Verwaltungsgebäude in Bangui, das die Institutionen der Zentralafrikanischen Wirtschafts- und Währungsgemeinschaft beherbergt.",
       hu: "Modern közigazgatási épület Banguiban, amely a Közép-afrikai Gazdasági és Monetáris Közösség intézményeinek ad otthont.",
@@ -683,14 +662,13 @@ export const poiExtraCentralafricanrepublicLandmarksV2: POI[] = [
       hu: "Boganda-emlékmű Bobanguiban",
       ro: "Monumentul Boganda din Bobangui",
       en: "Boganda Monument in Bobangui"
-    ,
+    },
     descriptionAdvanced: {
       ro: "Monumentul dedicat lui Barthélemy Boganda în Bobangui omagiază figura centrală a luptei pentru independență și primul prim-ministru al țării, fiind un loc de referință istorică. Geografie K7 – Personalități istorice."
     },
     factsAdvanced: {
       ro: ["Rol: monument comemorativ.", "Localizare: Bobangui.", "Importanță: lupta pentru independență.", "Activitate: istorie națională.", "Impact: respect național.", "Resursă: comemorare."]
-    }
-  },
+    },
     description: {
       de: "Ein Denkmal im Geburtsort des Nationalhelden Barthélemy Boganda, das an sein Leben und Erbe erinnert.",
       hu: "Emlékmű a nemzeti hős, Barthélemy Boganda szülőhelyén, amely életére és örökségére emlékeztet.",
@@ -713,14 +691,13 @@ export const poiExtraCentralafricanrepublicLandmarksV2: POI[] = [
       hu: "BEAC székház Bangui",
       ro: "Sediul BEAC din Bangui",
       en: "BEAC Headquarters Bangui"
-    ,
+    },
     descriptionAdvanced: {
       ro: "Sediul BEAC (Banca Statelor Africii Centrale) din Bangui administrează politica monetară și financiară a țării în cadrul Uniunii Economice și Monetare, asigurând stabilitatea economică. Geografie K7 – Instituții financiare."
     },
     factsAdvanced: {
       ro: ["Rol: instituție financiară/monetară.", "Localizare: Bangui.", "Importanță: stabilitate economică.", "Activitate: administrare monetară.", "Impact: finanțe naționale.", "Resursă: instituție centrală."]
-    }
-  },
+    },
     description: {
       de: "Das markante Gebäude der Zentralbank der Zentralafrikanischen Staaten, ein wichtiges Finanzzentrum in Bangui.",
       hu: "A Közép-afrikai Államok Bankjának jellegzetes épülete, fontos pénzügyi központ Banguiban.",
@@ -743,14 +720,13 @@ export const poiExtraCentralafricanrepublicLandmarksV2: POI[] = [
       hu: "Bimbói díszstadion",
       ro: "Stadionul de Onoare din Bimbo",
       en: "Honor Stadium of Bimbo"
-    ,
+    },
     descriptionAdvanced: {
       ro: "Stadionul de Onoare din Bimbo servește ca punct focal pentru evenimentele sportive locale, promovând sănătatea și spiritul de echipă printre locuitorii regiunii din jurul capitalei. Geografie K7 – Sport regional."
     },
     factsAdvanced: {
       ro: ["Rol: arenă sportivă locală.", "Localizare: Bimbo.", "Importanță: sănătate și sport.", "Activitate: competiții locale.", "Impact: spirit de echipă.", "Resursă: infrastructură sportivă."]
-    }
-  },
+    },
     description: {
       de: "Ein moderner Sportkomplex in Bimbo, der als wichtiger Ort für regionale Wettbewerbe und Veranstaltungen dient.",
       hu: "Modern sportkomplexum Bimbóban, amely a regionális versenyek és rendezvények fontos helyszíne.",
@@ -773,14 +749,13 @@ export const poiExtraCentralafricanrepublicLandmarksV2: POI[] = [
       hu: "Kaga-Bandoro-i székesegyház",
       ro: "Catedrala din Kaga-Bandoro",
       en: "Cathedral of Kaga-Bandoro"
-    ,
+    },
     descriptionAdvanced: {
       ro: "Catedrala din Kaga-Bandoro este un punct central pentru viața religioasă a regiunii centrale, oferind sprijin spiritual și comunitar populației din prefectura Nana-Gribizi. Geografie K7 – diversitate religioasă."
     },
     factsAdvanced: {
       ro: ["Rol: centru religios regional.", "Localizare: Kaga-Bandoro.", "Importanță: sprijin comunitar.", "Activitate: viață religioasă.", "Impact: diversitate culturală.", "Resursă: catedrală."]
-    }
-  },
+    },
     description: {
       de: "Die Hauptkirche der Präfektur Nana-Grébizi, ein religiöses und soziales Zentrum im Norden des Landes.",
       hu: "Nana-Grébizi prefektúra főtemploma, vallási és szociális központ az ország északi részén.",

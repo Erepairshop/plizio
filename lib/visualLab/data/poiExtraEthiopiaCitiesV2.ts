@@ -16,6 +16,12 @@ export const poiExtraEthiopiaCitiesV2: POI[] = [
       en: ["Founded in 1886.", "Situated at an altitude of over 2,300 meters."]
     },
     descriptionAdvanced: {
+      hu: "Addisz-Abeba Etiópia fővárosa, amely 2355 méteres tengerszint feletti magasságban fekszik, ezzel a világ egyik legmagasabban fekvő fővárosa. A város neve amharic nyelven 'új virágot' jelent, és 1886-ban alapította II. Menelik császár. Ma az Afrikai Unió központjaként diplomáciai szerepe kiemelkedő a kontinensen. A város gazdag kulturális örökséggel bír, amit a Nemzeti Múzeum 'Lucy' maradványai is fémjeleznek. Földrajz K7 — városfejlődés és magashegyi klíma."
+    },
+    factsAdvanced: {
+      hu: ["Alapítva: 1886", "Tengerszint feletti magasság: 2355 m", "Népesség: kb. 5 millió fő", "Az Afrikai Unió székhelye", "A város neve 'Új virág'-ot jelent", "Itt található a híres Lucy-lelet a múzeumban"]
+    },
+    descriptionAdvanced: {
       de: "Addis Abeba, 1886 von Kaiser Menelik II. gegründet, ist das politische und wirtschaftliche Herz Äthiopiens. Die Stadt liegt auf einer Höhe von 2.355 Metern am Fuße des Entoto-Gebirges und beherbergt den Hauptsitz der Afrikanischen Union sowie die Wirtschaftskommission der Vereinten Nationen für Afrika. Äthiopiens Hauptstadt ist ein Schmelztiegel der Kulturen, der durch eine faszinierende Mischung aus traditionellen äthiopisch-orthodoxen Kirchen und moderner Architektur geprägt ist. Geografie K7 — Hochland und politische Zentren.",
       hu: "Addisz-Abeba, amelyet 1886-ban II. Menelik császár alapított, Etiópia politikai és gazdasági központja. A város 2355 méteres tengerszint feletti magasságban, az Entoto-hegység lábánál fekszik, és itt található az Afrikai Unió, valamint az ENSZ Afrikai Gazdasági Bizottságának székhelye. Etiópia fővárosa a kultúrák olvasztótégelye, amelyet a hagyományos etióp ortodox templomok és a modern építészet izgalmas keveréke jellemez. Földrajz K7 — felföldek és politikai központok.",
       ro: "Addis Abeba, fondată în 1886 de împăratul Menelik al II-lea, este inima politică și economică a Etiopiei. Orașul este situat la o altitudine de 2.355 de metri la poalele munților Entoto și găzduiește sediul Uniunii Africane, precum și Comisia Economică a Națiunilor Unite pentru Africa. Capitala Etiopiei este un creuzet al culturilor, caracterizat printr-un amestec fascinant de biserici tradiționale etiopiene ortodoxe și arhitectură modernă. Geografie K7 — ținuturi înalte și centre politice.",
@@ -39,6 +45,12 @@ export const poiExtraEthiopiaCitiesV2: POI[] = [
       hu: ["Az ország második legnagyobb városa.", "1902-ben alapították."],
       ro: ["Al doilea oraș ca mărime din țară.", "A fost fondat în 1902."],
       en: ["Second largest city in the country.", "It was founded in 1902."]
+    },
+    descriptionAdvanced: {
+      hu: "Dire Dawa Etiópia keleti részén fekszik, és jelentős kereskedelmi csomópont a Dzsibuti és Addisz-Abeba közötti vasútvonalon. A várost a 20. század elején alapították a vasútépítés kapcsán, ami különleges építészeti stílust és kulturális sokszínűséget hozott magával. Éghajlata forró és száraz, a Dechatu folyó mentén épült, amely gyakori áradásokkal járhat. Földrajz K6 — közlekedési folyosók és kereskedelmi városok."
+    },
+    factsAdvanced: {
+      hu: ["A vasútépítéssel párhuzamosan alapítva", "Fekvése: Etiópia keleti régiója", "Kereskedelmi központ Dzsibuti felé", "A Dechatu folyó mentén terül el", "Kulturálisan sokszínű közösség", "Forró, száraz éghajlat"]
     },
     descriptionAdvanced: {
       de: "Dire Dawa entstand 1902 als bedeutender Knotenpunkt der Eisenbahnlinie von Addis Abeba nach Dschibuti. Die Stadt liegt im Osten Äthiopiens und fungiert als wichtige Schnittstelle für den Handel zwischen dem Hochland und dem Roten Meer. Heute ist die Stadt ein Industriestandort mit einem diversifizierten wirtschaftlichen Profil, das von Textilproduktion bis zum Zementbau reicht. Die Architektur der Stadt, insbesondere im alten Viertel 'Addis Ketema', spiegelt die französische und äthiopische Geschichte der Bahnlinie wider. Wirtschaft K8 — Transport und Industrialisierung.",
@@ -66,6 +78,18 @@ export const poiExtraEthiopiaCitiesV2: POI[] = [
       en: ["Known for its Martyrs' Memorial.", "A major educational hub."]
     },
     descriptionAdvanced: {
+      en: "Mek'ele is the capital of the Tigray region and is located on a high plateau at about 2,080 meters altitude. The city has gained immense importance in recent decades through infrastructure expansion and the establishment of major educational institutions, such as Mekelle University. The cityscape is dominated by the massive white Martyrs' Memorial, which commemorates the fight against the Derg regime. The region is also rich in mineral resources and has a thriving salt and cement industry. Geography K7 — regional centers and economic resources."
+    },
+    factsAdvanced: {
+      en: ["Elevation of approx. 2,080 meters.", "Most important educational center of Tigray.", "Rich in potash and salt deposits.", "Known Martyrs' Memorial.", "Home to around 300,000 people.", "Regional economic center."]
+    },
+    descriptionAdvanced: {
+      hu: "Mekelle Tigray régió fővárosa, Etiópia északi részén található. A város fontos ipari és oktatási központ, jelentős kálisó-bányászati tevékenységgel a környező régiókban. Történelmileg IV. Johannész császár idején vált igazán jelentőssé, amikor a császári palotát itt építtette fel. A modern Mekelle ma már egyetemi városként is ismert, amely a régió gazdasági vérkeringésének motorja. Földrajz K7 — erőforrások és regionális központok."
+    },
+    factsAdvanced: {
+      hu: ["Tigray régió székhelye", "IV. Johannész palotája itt található", "Jelentős kálisó-bányászat a régióban", "Fontos oktatási és egyetemi város", "Ipari központ az északi régióban", "Gazdasági vérkeringés motorja"]
+    },
+    descriptionAdvanced: {
       de: "Mek'ele ist die Hauptstadt der Region Tigray und liegt auf einem Hochplateau in rund 2.080 Metern Höhe. Die Stadt gewann durch den Ausbau der Infrastruktur und die Etablierung bedeutender Bildungseinrichtungen, wie der Mekelle-Universität, in den letzten Jahrzehnten enorm an Bedeutung. Das Stadtbild wird durch das massive, weiße Märtyrerdenkmal geprägt, das an den Kampf gegen das Derg-Regime erinnert. Die Region ist auch reich an Bodenschätzen und besitzt eine florierende Salz- und Zementindustrie. Geschichte K8 — Derg-Regime und Moderne.",
       hu: "Mekelle a Tigré régió fővárosa, egy magas fennsíkon fekszik, körülbelül 2080 méteres magasságban. A város az utóbbi évtizedekben az infrastruktúra bővítése és jelentős oktatási intézmények, például a Mekellei Egyetem létrehozása révén hatalmas jelentőségre tett szert. A városképet a hatalmas, fehér mártíremlékmű uralja, amely a Derg-rezsim elleni harcra emlékeztet. A régió ásványkincsekben is gazdag, virágzó só- és cementiparral rendelkezik. Történelem K8 — Derg-rezsim és modernitás.",
       ro: "Mek'ele este capitala regiunii Tigray și este situată pe un platou înalt la aproximativ 2.080 de metri altitudine. Orașul a câștigat o importanță imensă în ultimele decenii prin extinderea infrastructurii și înființarea unor instituții de învățământ importante, cum ar fi Universitatea Mekelle. Peisajul urban este dominat de monumentul masiv și alb al martirilor, care amintește de lupta împotriva regimului Derg. Regiunea este, de asemenea, bogată în resurse minerale și are o industrie înfloritoare a sării și a cimentului. Istorie K8 — Regimul Derg și modernitate.",
@@ -90,6 +114,20 @@ export const poiExtraEthiopiaCitiesV2: POI[] = [
       hu: ["A 17. században alapították.", "Itt található a Fasil Ghebbi palotakomplexum."],
       ro: ["A fost fondat în secolul al XVII-lea.", "Găzduiește complexul palatului Fasil Ghebbi."],
       en: ["Founded in the 17th century.", "Home to the Fasil Ghebbi palace complex."]
+    },
+    descriptionAdvanced: {
+      en: "Gondar, often called the Camelot of Africa, served as the imperial capital of Ethiopia from the 17th to the 19th century. It is world-renowned for the Fasil Ghebbi fortress complex, a UNESCO World Heritage site, which features unique royal castles blending Aksumite, Portuguese, and Indian architectural styles. Situated at the foothills of the Simien Mountains, Gondar remains a vital cultural and religious center, famous for hosting the colorful Timkat epiphany celebrations. History K8 — Imperial dynasties and architectural heritage."
+    },
+    factsAdvanced: {
+      en: ["Imperial capital from 1636 to 1864.", "Fasil Ghebbi complex is a UNESCO World Heritage site.", "Located at the foothills of the Simien Mountains.", "Famous for the annual Timkat religious festival.", "Architectural style blends diverse influences.", "Former seat of the Solomonic dynasty.", "Elevation of approximately 2,100 meters."]
+    },
+    descriptionAdvanced: {
+      hu: "Gondar az Etióp-magasföld északi részén helyezkedik el, és történelmi jelentősége abból fakad, hogy a 17. és 18. században az Etióp Birodalom fővárosa volt. A város híres a Fasil Ghebbi erődített városrészéről, amely a középkori etióp építészet csúcspontját képviseli és az UNESCO Világörökség része. Palotái, templomai és középkori falai az afrikai építészet egyik legérdekesebb látványosságát alkotják. Történelem K8 — Etióp Birodalom és középkori uralkodók.",
+      ro: "Gondar, cunoscut drept Camelot-ul Africii, a fost capitala imperială a Etiopiei între secolele al XVII-lea și al XIX-lea. Orașul este celebru pentru complexul fortificat Fasil Ghebbi, inclus în patrimoniul mondial UNESCO, care găzduiește castele regale unice, ce îmbină stilurile arhitecturale axumite, portugheze și indiene. Situat la poalele munților Simien, Gondar rămâne un centru cultural și religios vital, renumit pentru celebrarea Timkat, o sărbătoare epifanie de o amploare și coloratură impresionantă. Istorie K7 — dinastiile regale și arhitectura colonială."
+    },
+    factsAdvanced: {
+      hu: ["Az Etióp Birodalom fővárosa volt (17-18. sz.)", "Fasil Ghebbi erődített városrész", "UNESCO Világörökségi helyszín", "Középkori etióp építészet", "Az 'afrikai Camelot'-nak is nevezik", "Számos történelmi palota otthona"],
+      ro: ["Capitală imperială între 1636 și 1864", "Complexul Fasil Ghebbi este patrimoniu UNESCO", "Situat la poalele munților Simien", "Cunoscut pentru sărbătoarea religioasă Timkat", "Arhitectură unică cu influențe portugheze", "A fost centrul puterii dinastiei Solomonide", "Are o altitudine de aproximativ 2.100 m"]
     }, image: "/poi-images/gondar-cities-v2.webp"},
   {
     id: "bahir-dar-cities-v2",
@@ -103,6 +141,14 @@ export const poiExtraEthiopiaCitiesV2: POI[] = [
       hu: ["Népszerű turisztikai célpont.", "A Kék-Nílus vízeséseinek kiindulópontja."],
       ro: ["Destinație turistică populară.", "Punct de plecare către cascadele Nilului Albastru."],
       en: ["Popular tourist destination.", "Starting point to the Blue Nile Falls."]
+    },
+    descriptionAdvanced: {
+      hu: "Bahir Dar a Tana-tó déli partján fekszik, és Etiópia egyik legdinamikusabban fejlődő turisztikai központja. A város a Kék-Nílus forrásvidékének közelsége miatt vált híressé, különösen a közelben található Tisisat-vízesés, vagy más néven a 'Dohányzó víz' miatt. A Tana-tó szigetein található középkori kolostorok vallási és kulturális jelentősége kiemelkedő, sok esetben a tópartról hajóval érhetőek el. Földrajz K6 — tavak és folyók szerepe az idegenforgalomban.",
+      ro: "Bahir Dar este o destinație turistică de primă mână situată pe malul sudic al lacului Tana, sursa Nilului Albastru. Orașul este punctul principal de plecare pentru explorarea mănăstirilor istorice de pe insulele lacului și a spectaculoasei cascade Tis Issat. Cu o climă plăcută și bulevarde mărginite de palmieri, Bahir Dar s-a transformat dintr-un centru comercial regional într-un hub educațional și turistic modern al Etiopiei. Geografie K7 — hidrografie și ecosisteme acvatice."
+    },
+    factsAdvanced: {
+      hu: ["A Tana-tó partján fekszik", "A Kék-Nílus forrásvidékének közelsége", "Tisisat-vízesés ('Dohányzó víz')", "Középkori kolostorok a Tana-tó szigetein", "Dinamikusan fejlődő turizmus", "Hajóval megközelíthető vallási emlékek"],
+      ro: ["Situat pe malul sudic al lacului Tana", "Sursă a Nilului Albastru", "Punct de plecare pentru cascadele Tis Issat", "Gazduiește numeroase mănăstiri istorice", "Oraș cunoscut pentru bulevardele cu palmieri", "Centru educațional și universitar regional", "Altitudine de aproximativ 1.800 m"]
     }, image: "/poi-images/bahir-dar-cities-v2.webp"},
   {
     id: "dessie-cities-v2",
@@ -129,7 +175,20 @@ export const poiExtraEthiopiaCitiesV2: POI[] = [
       hu: ["A Jimma Egyetem székhelye.", "A Jimmai Királyság egykori fővárosa."],
       ro: ["Sediul Universității Jimma.", "Fosta capitală a Regatului Jimma."],
       en: ["Seat of Jimma University.", "Former capital of the Kingdom of Jimma."]
-    }, image: "/poi-images/jimma-cities-v2.webp"},
+    }, image: "/poi-images/jimma-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "",
+      ro: "Jimma este un oraș major în sud-vestul Etiopiei, renumit la nivel mondial pentru producția de cafea de înaltă calitate, care poartă numele regiunii. A fost capitala Regatului Jimma, un stat tradițional islamic care a prosperat până la integrarea sa în Imperiul Etiopian. Astăzi, orașul este un centru universitar important, cu o economie susținută intens de cultivarea și exportul cafelei, dar și de o viață culturală vibrantă care reflectă amestecul etnic al populației locale Oromo. Economie K7 — producție agricolă și regiuni exportatoare.",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [],
+      ro: ["Centru mondial de producție a cafelei", "Fostă capitală a Regatului Jimma", "Economie bazată pe cultivarea cafelei", "Centru universitar important", "Populație dominantă Oromo", "Altitudine de aproximativ 1.700 m"],
+      en: []
+    }
+  },
   {
     id: "hawassa-cities-v2",
     type: "state-capital",
@@ -142,7 +201,20 @@ export const poiExtraEthiopiaCitiesV2: POI[] = [
       hu: ["Jelentős ipari központ.", "Népszerű halpiacáról ismert."],
       ro: ["Un centru industrial important.", "Renumit pentru piața sa de pește."],
       en: ["Major industrial center.", "Popular for its fish market."]
-    }, image: "/poi-images/hawassa-cities-v2.webp"},
+    }, image: "/poi-images/hawassa-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "",
+      ro: "Hawassa este un oraș în continuă dezvoltare, capitala regiunii Sidama, așezat strategic pe malul lacului cu același nume. Datorită poziției sale, economia orașului se bazează pe pescuit, turism și agricultură, fiind totodată un important centru universitar și administrativ în sudul Etiopiei. Hawassa este apreciată pentru promenada sa lacustră, care atrage vizitatori din întreaga țară, și pentru diversitatea sa etnică, reprezentând un punct de convergență în sud. Geografie K6 — economie regională și dezvoltare urbană.",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [],
+      ro: ["Capitala regiunii Sidama", "Situat pe malul lacului Hawassa", "Economie axată pe pescuit și turism", "Centru universitar important în sud", "Promenadă lacustră renumită", "Centru administrativ regional", "Altitudine de aproximativ 1.700 m"],
+      en: []
+    }
+  },
   {
     id: "bishoftu-cities-v2",
     type: "city",
@@ -155,7 +227,20 @@ export const poiExtraEthiopiaCitiesV2: POI[] = [
       hu: ["Korábban Debre Zeyit néven volt ismert.", "Népszerű üdülőövezet."],
       ro: ["Cunoscut anterior ca Debre Zeyit.", "O zonă de recreere populară."],
       en: ["Formerly known as Debre Zeyit.", "A popular recreational area."]
-    }, image: "/poi-images/bishoftu-cities-v2.webp"},
+    }, image: "/poi-images/bishoftu-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "",
+      ro: "Bishoftu, cunoscut istoric sub numele de Debre Zeit, este situat într-o zonă vulcanică spectaculoasă, faimoasă pentru lacurile sale crater. Orașul a devenit o destinație populară pentru recreere datorită apropierii sale de Addis Abeba și a peisajelor unice, care oferă oportunități excelente pentru turism și odihnă. Economia locală s-a diversificat, incluzând activități agricole, industrii ușoare și un sector turistic în creștere, totul fiind susținut de infrastructura modernă care leagă orașul de restul țării. Economie K7 — turism și dezvoltare urbană.",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [],
+      ro: ["Cunoscut istoric sub numele de Debre Zeit", "Faimos pentru lacurile sale crater", "Destinație turistică de recreere", "Economie diversificată: agricultură și turism", "Situat aproape de Addis Abeba", "Altitudine de aproximativ 1.900 m"],
+      en: []
+    }
+  },
   {
     id: "jigjiga-cities-v2",
     type: "state-capital",
@@ -168,7 +253,20 @@ export const poiExtraEthiopiaCitiesV2: POI[] = [
       hu: ["Fontos kereskedelmi központ.", "Erősen meghatározza a szomáliai kultúra."],
       ro: ["Important centru comercial.", "Puternic influențat de cultura somaleză."],
       en: ["Important commercial center.", "Heavily influenced by Somali culture."]
-    }, image: "/poi-images/jigjiga-cities-v2.webp"},
+    }, image: "/poi-images/jigjiga-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "",
+      ro: "Jigjiga este capitala regiunii Somali din estul Etiopiei, situată pe o câmpie aridă dar plină de viață. Orașul este un centru comercial crucial, conectând Etiopia cu regiunile învecinate prin rute comerciale istorice. Cu o economie susținută de comerțul transfrontalier și creșterea animalelor, Jigjiga a devenit un punct administrativ și cultural central pentru comunitatea somaleză din Etiopia. Arhitectura orașului și piețele sale sunt mărturii ale importanței sale regionale și ale spiritului de reziliență în fața climei aride. Economie K6 — comerț transfrontalier și creșterea animalelor.",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [],
+      ro: ["Capitala regiunii Somali", "Centru comercial transfrontalier crucial", "Economie bazată pe creșterea animalelor", "Punct administrativ pentru comunitatea somaleză", "Situat pe o câmpie aridă", "Altitudine de aproximativ 1.600 m"],
+      en: []
+    }
+  },
   {
     id: "shashamane-cities-v2",
     type: "city",
@@ -181,7 +279,20 @@ export const poiExtraEthiopiaCitiesV2: POI[] = [
       hu: ["Fontos közlekedési csomópont.", "Rasztafári zarándokhely."],
       ro: ["Un nod de transport major.", "Centru pentru pelerinii Rastafari."],
       en: ["A major transportation hub.", "Center for Rastafari pilgrims."]
-    }, image: "/poi-images/shashamane-cities-v2.webp"},
+    }, image: "/poi-images/shashamane-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "",
+      ro: "Shashamane este un oraș situat la intersecția unor drumuri comerciale majore din Etiopia, servind drept poartă între nordul, sudul, estul și vestul țării. Orașul este cunoscut în întreaga lume pentru comunitatea sa unică de imigranți rastafarieni, stabilită aici în a doua jumătate a secolului al XX-lea, ceea ce conferă așezării o atmosferă culturală cosmopolită. Economia locală beneficiază de pe urma traficului de tranzit intens, precum și a agriculturii din zonele înconjurătoare, făcându-l un punct vital în comerțul etiopian. Istorie K8 — mișcări culturale și cosmopolitism.",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [],
+      ro: ["Intersecție comercială majoră", "Comunitate rastafariană celebră mondial", "Poartă între nordul și sudul Etiopiei", "Economie susținută de traficul de tranzit", "Punct vital în comerțul etiopian", "Altitudine de aproximativ 1.900 m"],
+      en: []
+    }
+  },
   {
     id: "adama-cities-v2",
     type: "state-capital",
@@ -194,7 +305,20 @@ export const poiExtraEthiopiaCitiesV2: POI[] = [
       hu: ["Nazret néven is ismert.", "Az ország egyik legnépesebb városa."],
       ro: ["Cunoscut și sub numele de Nazret.", "Unul dintre cele mai populate orașe din țară."],
       en: ["Also known as Nazret.", "One of the most populous cities in the country."]
-    }, image: "/poi-images/adama-cities-v2.webp"},
+    }, image: "/poi-images/adama-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "",
+      ro: "Adama, numit anterior Nazret, este un centru industrial și comercial major, situat strategic în Valea Marelui Rift, la aproximativ 100 km de Addis Abeba. Datorită poziției sale de nod rutier, orașul este un hub vital pentru comerțul dintre capitală și porturile din regiune. Economia orașului este diversificată, cuprinzând industrii ușoare, un sector agricol puternic și o activitate comercială intensă, care fac din Adama unul dintre cele mai vibrante orașe din Etiopia din punct de vedere economic. Geografie K7 — Valea Marelui Rift și centre industriale.",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [],
+      ro: ["Cunoscut anterior sub numele de Nazret", "Situat în Valea Marelui Rift", "Nod rutier crucial către porturi", "Centru industrial și comercial major", "Economie diversificată", "Altitudine de aproximativ 1.600 m"],
+      en: []
+    }
+  },
   {
     id: "harar-cities-v2",
     type: "state-capital",
@@ -207,7 +331,20 @@ export const poiExtraEthiopiaCitiesV2: POI[] = [
       hu: ["UNESCO Világörökség része.", "Híres a hiénaetetésről."],
       ro: ["Sit al Patrimoniului Mondial UNESCO.", "Renumit pentru hrănirea hienelor."],
       en: ["UNESCO World Heritage Site.", "Famous for its hyena feeding rituals."]
-    }, image: "/poi-images/harar-cities-v2.webp"},
+    }, image: "/poi-images/harar-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "",
+      ro: "Harar, un oraș istoric fortificat, este considerat al patrulea cel mai sfânt oraș al Islamului și un sit al patrimoniului mondial UNESCO. Orașul este celebru pentru zidurile sale vechi, pentru cele peste 80 de moschei și pentru tradiția unică de a hrăni hienele sălbatice, un ritual cultural străvechi. Economia sa este strâns legată de turism și de exportul de cafea și khat, fiind un centru cultural major al Etiopiei orientale, cu o arhitectură ce reflectă amestecul de influențe africane și islamice. Istorie K8 — orașe istorice și patrimoniu mondial.",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [],
+      ro: ["Patrimoniu mondial UNESCO", "Al patrulea cel mai sfânt oraș al Islamului", "Peste 80 de moschei istorice", "Ritualul unic de hrănire a hienelor", "Centru cultural major", "Economie bazată pe turism și exportul de cafea"],
+      en: []
+    }
+  },
   {
     id: "arba-minch-cities-v2",
     type: "city",
@@ -216,11 +353,24 @@ export const poiExtraEthiopiaCitiesV2: POI[] = [
     name: { de: "Arba Minch", hu: "Arba Minch", ro: "Arba Minch", en: "Arba Minch" },
     description: { de: "Die Stadt liegt in der Nähe des Nechisar-Nationalparks und bietet spektakuläre Ausblicke auf zwei Seen.", hu: "A város a Nechisar Nemzeti Park közelében található, és látványos kilátást nyújt két tóra.", ro: "Orașul este situat lângă Parcul Național Nechisar și oferă vederi spectaculoase asupra a două lacuri.", en: "The city is located near Nechisar National Park and offers spectacular views of two lakes." },
     facts: {
-      de: ["Der Name bedeutet „Vierzig Quellen“.", "Bekannt für seine Krokodilfarm."],
-      hu: ["A neve azt jelenti, hogy „Negyven forrás”.", "Krokodilfarmjáról is ismert."],
-      ro: ["Numele înseamnă „Patruzeci de izvoare”.", "Cunoscut pentru ferma de crocodili."],
+      de: ["Der Name bedeutet \"Vierzig Quellen\".", "Bekannt für seine Krokodilfarm."],
+      hu: ["A neve azt jelenti, hogy \"Negyven forrás\".", "Krokodilfarmjáról is ismert."],
+      ro: ["Numele înseamnă \"Patruzeci de izvoare\".", "Cunoscut pentru ferma de crocodili."],
       en: ["The name means 'Forty Springs'.", "Known for its crocodile farm."]
-    }, image: "/poi-images/arba-minch-cities-v2.webp"},
+    }, image: "/poi-images/arba-minch-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "",
+      ro: "Arba Minch, nume care înseamnă 40 de izvoare, este o destinație spectaculoasă în sudul Etiopiei, renumită pentru biodiversitatea sa și pentru parcul național Nechisar situat între două lacuri. Orașul este un hub turistic și agricol, beneficiind de un climat tropical și de o abundență de resurse de apă care susțin cultivarea fructelor tropicale și a altor culturi. Arba Minch atrage vizitatori pentru peisajele sale verzi și pentru oportunitățile unice de a observa fauna sălbatică, fiind un punct central în explorarea sudului Etiopiei. Geografie K6 — biodiversitate și resurse hidrografice.",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [],
+      ro: ["Numele înseamnă 40 de izvoare", "Situat între două lacuri spectaculoase", "Poartă către Parcul Național Nechisar", "Hub turistic și agricol major", "Climat tropical favorabil agriculturii", "Biodiversitate impresionantă", "Altitudine de aproximativ 1.300 m"],
+      en: []
+    }
+  },
   {
     id: "hosaena-cities-v2",
     type: "city",
@@ -824,6 +974,12 @@ export const poiExtraEthiopiaCitiesV2: POI[] = [
       hu: ["A Dembidolo Egyetem helyszíne.", "Saját repülőtérrel rendelkezik."],
       ro: ["Locația Universității Dembidolo.", "Are propriul său aeroport."],
       en: ["Location of Dembidolo University.", "Has its own airport."]
+    },
+    descriptionAdvanced: {
+      en: "Dembidolo is a growing market town in western Ethiopia and serves as the administrative capital of the Kellem Welega Zone in the Oromia Region. Situated in a coffee-producing area, the town benefits from the fertile highlands, facilitating local trade. It has seen significant development through the establishment of Dembidolo University, which has spurred educational growth and local infrastructure improvements. The town also functions as a transportation hub for the western border regions. Geography K7 — administrative centers and agricultural trade."
+    },
+    factsAdvanced: {
+      en: ["Capital of the Kellem Welega Zone.", "Home to Dembidolo University.", "Regional coffee trading hub.", "Essential transportation link for western regions.", "Surrounded by fertile agricultural land.", "Rapidly developing educational center."]
     }
   }
 ];

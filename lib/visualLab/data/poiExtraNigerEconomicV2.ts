@@ -14,7 +14,20 @@ export const poiExtraNigerEconomicV2: POI[] = [
       hu: ["1971-ben kezdte meg működését.", "Arlit város közelében található.", "Külszíni uránbánya."],
       ro: ["Pusă în funcțiune în 1971.", "Situată lângă orașul Arlit.", "Mină de uraniu de suprafață."],
       en: ["Started operations in 1971.", "Located near the city of Arlit.", "Open-pit uranium mine."],
-    }, image: "/poi-images/somair-uranium-mine-economic-v2.webp"},
+    }, image: "/poi-images/somair-uranium-mine-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Uranmine SOMAIR, gelegen in der kargen Wüste nahe Arlit, ist eine der ältesten und größten Tagebau-Minen Nigers und ein absoluter Eckpfeiler der nationalen Exportwirtschaft. Seit ihrer Inbetriebnahme in den frühen 1970er Jahren liefert sie gewaltige Mengen an Uranerz, das maßgeblich die französische und europäische Kernenergieindustrie versorgt. Der Betrieb der Mine ist ein logistisches Meisterwerk, das hochmoderne Abbautechniken in einer extrem feindlichen, wasserarmen Umgebung erfordert. Das Projekt steht jedoch auch im Zentrum ökologischer Debatten über die Auswirkungen des radioaktiven Abbaus auf das fragile Grundwassersystem und die Gesundheit der lokalen Tuareg-Bevölkerung.",
+      hu: "A SOMAÏR uránbánya Arlit közelében Niger egyik legrégebbi és legfontosabb ipari létesítménye, amely 1971 óta üzemel nyílt színi fejtésként. A bánya hatalmas krátert vágott a szaharai tájba, és a kitermelt urán a francia atomenergia-ipar egyik fő forrása volt évtizedekig. Bár jelentős bevételeket hoz az államnak, a sugárszennyezés és a vízkészletek kimerülése komoly aggályokat vet fel a helyi környezetvédők körében. Földrajz K8 — uránbányászat és nukleáris ipar.",
+      ro: "Mina de uraniu SOMAIR, aflată lângă orașul nordic Arlit, este una dintre cele mai vaste operațiuni miniere din lume în deșert deschis. De la începutul exploatării în 1971, mina a transformat peisajul stâncos saharian într-un complex industrial uriaș de cariere la suprafață, cu o adâncime de zeci de metri. Ea asigură un procent semnificativ din uraniul utilizat în reactoarele nucleare din Europa, în special Franța. Funcționarea sa a atras lucrători din întreaga regiune, generând un micro-hub economic complet dependent de mină, într-un mediu natural altfel complet ostil. (Geografie K7 — minerit și energie nucleară).",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Eine der ältesten und größten Tagebau-Uranminen Nigers.", "Seit den frühen 1970er Jahren in Betrieb.", "Eckpfeiler der nationalen Exportwirtschaft.", "Versorgt maßgeblich die europäische Kernenergieindustrie.", "Erfordert hochmoderne Technik in feindlicher Wüstenumgebung.", "Steht im Zentrum von Debatten über ökologische Auswirkungen."],
+      hu: ["1971-ben kezdte meg az urán nyílt színi kitermelését.", "Arlit városának gazdasági motorja és fő foglalkoztatója.", "Évtizedekig a francia nukleáris ipar kulcsfontosságú beszállítója volt.", "Hatalmas mesterséges krátert hozott létre a sivatagban.", "Súlyos környezetvédelmi és egészségügyi aggályok övezik.", "A világ egyik legjelentősebb uránlelőhelyén működik."],
+      ro: ["Mina de suprafață a fost pusă în exploatare oficial în anul 1971.", "Este operată de un consorțiu condus masiv de companii energetice din Franța.", "Găzduiește cariere care extrag anual mii de tone de uraniu natural.", "Operațiunile au modificat masiv relieful natural din vecinătatea Arlit.", "Consumă cantități colosale de apă din rezervele fosile subterane sahariene.", "Mina furnizează o mare parte din necesarul energetic al reactoarelor franceze.", "Contribuie esențial la veniturile valutare obținute din exportul statului Niger."],
+      en: []
+    }
+  },
   {
     id: "cominak-akouta-mine-economic-v2",
     type: "industry",
@@ -27,7 +40,20 @@ export const poiExtraNigerEconomicV2: POI[] = [
       hu: ["Földalatti uránbánya.", "2021 márciusában zárták be.", "Több mint 75 000 tonna uránt termelt."],
       ro: ["Mină de uraniu subterană.", "A fost închisă în martie 2021.", "A produs peste 75.000 de tone de uraniu."],
       en: ["Underground uranium mine.", "Was closed in March 2021.", "Produced over 75,000 tonnes of uranium."],
-    }, image: "/poi-images/cominak-akouta-mine-economic-v2.webp"},
+    }, image: "/poi-images/cominak-akouta-mine-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "Die COMINAK-Mine in Akouta bei Arlit war über vier Jahrzehnte lang eine der bedeutendsten Untertage-Uranminen der Welt, bevor sie im März 2021 aufgrund erschöpfter wirtschaftlich nutzbarer Reserven offiziell geschlossen wurde. In ihrer Blütezeit reichten die dunklen Stollen Hunderte von Metern tief in den Wüstenboden und produzierten mehr als 75.000 Tonnen Uran. Die Mine prägte die Wirtschaft Nordnigers maßgeblich und schuf Tausende von Arbeitsplätzen. Heute liegt der Fokus auf der komplexen, jahrelangen ökologischen Sanierung und dem sicheren Rückbau der Anlage, um die Umweltrisiken für die Wüstenstadt Arlit langfristig zu minimieren.",
+      hu: "A COMINAK bánya az akoutai uránlelőhelyen a világ egyik legnagyobb földalatti uránbányája volt évtizedeken át, amely a sivatag mélyéből hozta a felszínre az értékes ércet. A több mint 250 méter mélyen futó járatrendszerek mérnöki csodának számítottak, azonban a készletek kimerülése miatt a kitermelés hivatalosan 2021-ben befejeződött. A létesítmény jelenleg hosszú és bonyolult rekultivációs (helyreállítási) fázisban van. Fizika K8 — földalatti bányászat és rekultiváció.",
+      ro: "Compania Minieră din Akouta a operat la doar câțiva kilometri de Arlit una dintre cele mai adânci mine subterane de uraniu din lume, o capodoperă a ingineriei extractibile. Situată sub platourile aride din Sahel, structura a fost inaugurată în anii 1970 și a ajuns la rețele de tuneluri lungi de sute de kilometri la mare adâncime. Mina a funcționat ca o arteră vitală a economiei țării timp de decenii, înainte de decizia recentă de închidere din cauza epuizării zăcămintelor comerciale viabile. Astăzi, COMINAK este un studiu de caz internațional privind reabilitarea siturilor miniere radioactive. (Geografie K7 — ciclul de viață al exploatărilor miniere).",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["War eine der bedeutendsten Untertage-Uranminen weltweit.", "Wurde im März 2021 wegen erschöpfter Reserven geschlossen.", "Stollen reichten Hunderte von Metern tief in den Wüstenboden.", "Produzierte während ihrer Laufzeit über 75.000 Tonnen Uran.", "Prägte die Wirtschaft Nordnigers über vier Jahrzehnte maßgeblich.", "Fokus liegt heute auf der komplexen ökologischen Sanierung."],
+      hu: ["A világ egyik legnagyobb földalatti uránbányája volt.", "Több mint 250 méter mély járatrendszerrel rendelkezett.", "Közel negyven évnyi működés után, 2021-ben zárt be.", "Jelenleg a környezeti helyreállítás (rekultiváció) zajlik.", "Évtizedekig biztosított megélhetést a helyi lakosságnak.", "A japán, francia és spanyol cégek is érdekelték voltak benne."],
+      ro: ["A fost cea mai mare mină subterană de extracție a uraniului din lume.", "A produs peste 75.000 de tone de uraniu în timpul deceniilor de activitate.", "Tunelurile sale au coborât la o adâncime de peste 250 de metri sub nivelul solului.", "Exploatarea sa comercială a fost închisă oficial în cursul anului 2021.", "În prezent, zona se află într-un proiect masiv de reabilitare ecologică.", "A susținut mii de locuri de muncă pentru locuitorii din apropierea orașului Akokan.", "Situația sa marchează sfârșitul unei ere miniere legendare pentru nordul Nigerului."],
+      en: []
+    }
+  },
   {
     id: "imouraren-mine-economic-v2",
     type: "industry",
@@ -40,6 +66,18 @@ export const poiExtraNigerEconomicV2: POI[] = [
       hu: ["Hatalmas uránlelőhely.", "Kedvezőbb piaci feltételekre vár.", "Nigert a vezető termelők közé emelheti."],
       ro: ["Zăcământ masiv de uraniu.", "Așteaptă condiții de piață mai favorabile.", "Ar putea face din Niger un producător de top."],
       en: ["Massive uranium deposit.", "Waiting for favorable market conditions.", "Could make Niger a top producer."],
+    },
+    descriptionAdvanced: {
+      de: "Das Uranprojekt Imouraren, südlich von Arlit gelegen, gilt als eines der größten unerschlossenen Uranvorkommen der Welt. Obwohl die Entdeckung der massiven Lagerstätte große Hoffnungen auf einen wirtschaftlichen Boom in Niger weckte, wurden die Entwicklungsarbeiten nach dem Absturz der globalen Uranpreise infolge der Fukushima-Katastrophe 2011 mehrfach ausgesetzt. Die gigantische geplante Tagebau-Infrastruktur verspricht, sobald sie in Betrieb geht, die nationale Uranproduktion zu verdoppeln. Imouraren bleibt ein strategisch hochbrisantes Asset für Niger und internationale Atomenergiekonzerne, dessen zukünftiger Abbau die globale Uranversorgung maßgeblich beeinflussen könnte.",
+      hu: "Az Imouraren projekt a világ egyik legnagyobb feltáratlan uránlelőhelye, amely Arlittól délre fekszik a Szaharában. Bár a területen jelentős infrastruktúrát építettek ki, a globális uránárak zuhanása (a fukusimai katasztrófa után) miatt a projektet évekre befagyasztották. A hatalmas kiterjedésű, alacsony koncentrációjú érctest kitermelése óriási vízigénnyel járna, ami komoly dilemmát okoz egy sivatagi ország számára. Gazdaságföldrajz K8 — globális nyersanyagárak és bányászat.",
+      ro: "Proiectul Minier Imouraren a fost conceput pentru a deveni bijuteria industriei extractive nigeriene, fiind promovat drept una dintre cele mai vaste rezerve de uraniu nedezvoltate la nivel global. Situat la zeci de kilometri sud de Arlit, situl ar putea dubla producția istorică a Nigerului, însă complexitatea minereului și variațiile prețurilor mondiale au dus la amânarea repetată a deschiderii sale. Zona vizată cuprinde mii de hectare de deșert stâncos unde campaniile de prospecțiune au lăsat în urmă structuri abandonate parțial, așteptând ca energia nucleară să ceară redeschiderea marilor investiții sahariene. (Geografie K7 — dinamica piețelor globale de minereuri).",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Gilt als eines der größten unerschlossenen Uranvorkommen weltweit.", "Südlich der Wüstenstadt Arlit gelegen.", "Arbeiten wurden nach dem Fukushima-Uranpreisverfall ausgesetzt.", "Geplanter Tagebau könnte Nigers Uranproduktion verdoppeln.", "Weckte massive Hoffnungen auf einen wirtschaftlichen Boom.", "Strategisch hochbrisantes Asset für globale Atomkonzerne."],
+      hu: ["A világ egyik legnagyobb, jórészt feltáratlan uránlelőhelye.", "A fukusimai katasztrófa utáni árzuhanás miatt felfüggesztették.", "Hatalmas területen elterülő, alacsony koncentrációjú ércet rejt.", "Tervezett kitermelése rendkívül nagy vízigénnyel járna.", "Francia (Orano) és nigeri állami érdekek is jelen vannak.", "Elindítása alapvetően megváltoztatná a régió gazdaságát."],
+      ro: ["Este considerat unul dintre primele zece cele mai mari depozite de uraniu din lume.", "Rezervele sunt estimate a fi uriașe, dar cu o concentrație scăzută de minereu.", "Proiectul principal a fost înghețat în 2015 din cauza prețurilor mondiale reduse.", "Se anticipează că va funcționa ca o carieră masivă de exploatare la suprafață.", "Ocupă o arie întinsă la marginea vestică a Munților Aïr, sub Agadez.", "Necesită investiții masive de miliarde de euro pentru demararea producției.", "A fost privit ca un colac de salvare economic pe termen lung pentru statul Niger."],
+      en: []
     }
   },
   {
@@ -54,7 +92,20 @@ export const poiExtraNigerEconomicV2: POI[] = [
       hu: ["Kapacitása 20 000 hordó/nap.", "Zinder régióban található.", "Az Agadem-medence olaját dolgozza fel."],
       ro: ["Capacitate de 20.000 de barili/zi.", "Situată în regiunea Zinder.", "Procesează petrol din bazinul Agadem."],
       en: ["Capacity of 20,000 barrels/day.", "Located in the Zinder region.", "Processes oil from the Agadem basin."],
-    }, image: "/poi-images/soraz-zinder-refinery-economic-v2.webp"},
+    }, image: "/poi-images/soraz-zinder-refinery-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "Die SORAZ-Raffinerie, erbaut in der Nähe von Zinder, markiert einen historischen Wendepunkt in der wirtschaftlichen Unabhängigkeit Nigers: Sie ist die erste und einzige Erdölraffinerie des Landes. Das 2011 eröffnete Großprojekt ist ein Joint Venture zwischen der Regierung und chinesischen Ölkonzernen. Die hochmoderne Anlage verarbeitet täglich rund 20.000 Barrel Rohöl, das per Pipeline direkt aus dem Agadem-Ölfeld in der Wüste angeliefert wird. Durch SORAZ konnte Niger sich von teuren Kraftstoffimporten befreien und Benzin, Diesel sowie Flüssiggas sowohl für den heimischen Markt als auch für den Export in Nachbarstaaten produzieren.",
+      hu: "A SORAZ olajfinomító Zinder városától mintegy 50 kilométerre északra található, és Kínai-Nigeri vegyesvállalatként épült fel 2011-ben. Ez a létesítmény tette lehetővé, hogy Niger kőolajimportőrből önellátóvá, sőt exportőrré váljon a finomított üzemanyagok terén. A komplexum a távoli Agadem olajmezőről kapja a nyersolajat egy közel 500 kilométeres csővezetéken keresztül, ami óriási infrastrukturális ugrást jelentett az ország számára. Földrajz K8 — olajipar és csővezetékek.",
+      ro: "Rafinăria SORAZ din Zinder este o capodoperă industrială și un pas esențial către independența energetică a Nigerului. Construită în urma unei cooperări multinaționale cu investitori chinezi, această structură mamut transformă țițeiul extras din bazinul estic Agadem în carburanți fini și gaz petrolier lichefiat. Activitatea rafinăriei a transformat Zinderul într-un pol tehnologic avansat, creând mii de locuri de muncă, de la chimiști la transportatori. Flăcările sale care ard gazele noaptea au devenit un simbol vizibil al industrializării în mijlocul savanei. (Geografie K7 — prelucrarea resurselor energetice).",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Erste und einzige Erdölraffinerie im Niger.", "2011 als Joint Venture mit chinesischen Konzernen eröffnet.", "Verarbeitet täglich rund 20.000 Barrel Rohöl.", "Rohöl wird per Pipeline aus dem Agadem-Ölfeld angeliefert.", "Befreite Niger von teuren Kraftstoffimporten.", "Produziert Benzin und Diesel für Inland und Export."],
+      hu: ["2011-ben adták át kínai és nigeri vegyesvállalati (CNPC) beruházásként.", "Niger első és egyetlen jelentős modern olajfinomítója.", "Az Agadem olajmezőről csővezetéken érkezik a nyersolaj.", "Lehetővé tette az ország energiafüggetlenségét az üzemanyagoknál.", "Kapacitása napi 20 000 hordó finomítását teszi lehetővé.", "A zinderi régió egyik legnagyobb ipari munkáltatója."],
+      ro: ["Este prima și singura rafinărie complet operațională din istoria Nigerului.", "Proiectată și construită de companii asiatice, operând de la sfârșitul anului 2011.", "Procesează direct țiței brut adus prin conductă din regiunea îndepărtată Agadem.", "Furnizează atât combustibil pentru piața națională, cât și pentru export regional.", "Capacitatea sa este de mii de barili de petrol rafinați în mod regulat zilnic.", "A scăzut masiv dependența Nigerului de importurile costisitoare de motorină.", "Include un terminal enorm pentru camioanele-cisternă care aprovizionează capitala Niamey."],
+      en: []
+    }
+  },
   {
     id: "agadem-oil-field-economic-v2",
     type: "industry",
@@ -67,7 +118,20 @@ export const poiExtraNigerEconomicV2: POI[] = [
       hu: ["Az olajkitermelés központja Nigerben.", "Mintegy 463 km hosszú csővezeték Zinderbe.", "Tervezett export-csővezeték bővítés."],
       ro: ["Centrul extracției de petrol din Niger.", "Conductă de aproximativ 463 km spre Zinder.", "Extindere planificată a conductei de export."],
       en: ["Center of oil extraction in Niger.", "Roughly 463 km pipeline to Zinder.", "Planned export pipeline expansion."],
-    }, image: "/poi-images/agadem-oil-field-economic-v2.webp"},
+    }, image: "/poi-images/agadem-oil-field-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Agadem-Ölfeld im tiefen Osten Nigers ist das schlagende Herz der jungen und aufstrebenden Erdölindustrie des Landes. Entdeckt in einer der abgelegensten und unwirtlichsten Regionen der Sahara, bildet dieses gewaltige Feld die Grundlage für Nigers Transformation zu einem regionalen Erdölexporteur. Die Erschließung erforderte Milliardeninvestitionen in Pipelines und Bohrinseln unter extremen Wüstenbedingungen. Neben der Versorgung der inländischen SORAZ-Raffinerie wurde eine fast 2000 km lange Pipeline zum Hafen von Cotonou (Benin) gebaut, um das rohe \"schwarze Gold\" auf die globalen Märkte zu bringen und die Staatseinnahmen drastisch zu erhöhen.",
+      hu: "Az Agadem olajmező Niger keleti részén, a hatalmas Ténéré sivatag homokdűnéi alatt rejti az ország legjelentősebb kőolajkészleteit. A kitermelés 2011-ben indult meg a kínai CNPC vállalat segítségével, amely kutakat fúrt és csővezetékeket épített a kietlen sivatagban. Az innen származó olaj nemcsak a belföldi ellátást biztosítja, hanem az újonnan épülő, Beninbe tartó exportvezeték révén a nemzetközi piacokra is kijut. Gazdaságföldrajz K8 — kőolaj a Szaharában.",
+      ro: "Câmpul Petrolifer Agadem este un teritoriu vast situat în estul arid al regiunii Diffa, unde deșertul ascunde una dintre cele mai promițătoare rezerve de țiței din Sahel. Odată considerat o zonă prea inaccesibilă pentru extracție, forajele moderne au creat o rețea de puțuri active conectate prin mii de kilometri de conducte. Complexul reprezintă inima boomului petrolier nigerian, atrăgând investiții uriașe și ingineri străini care lucrează în tabere tehnologice avansate scufundate în dune. Acest bazin este motorul care a propulsat Nigerul din rândul statelor exclusiv agricole în clubul statelor exportatoare de petrol. (Geografie K7 — exploatarea petrolului din zone izolate).",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Schlagendes Herz der aufstrebenden nigrischen Erdölindustrie.", "Gelegen in einer extrem abgelegen Region der östlichen Sahara.", "Grundlage für Nigers Transformation zum Erdölexporteur.", "Erforderte Milliardeninvestitionen unter Wüstenbedingungen.", "Versorgt die inländische SORAZ-Raffinerie nahe Zinder.", "Neue Pipeline nach Benin sichert den globalen Ölexport."],
+      hu: ["Niger legjelentősebb kőolaj-kitermelő központja a keleti sivatagban.", "A kínai CNPC vállalat fedezte fel és fejlesztette ki.", "A kitermelés a zinderi finomítót és az exporthálózatot látja el.", "Extrém sivatagi körülmények között épültek ki a fúrótornyok.", "Az állam egyik leggyorsabban növekvő bevételi forrása.", "Benin irányába új, nemzetközi csővezetéket építettek hozzá."],
+      ro: ["Bazinul acoperă zeci de mii de kilometri pătrați în nord-estul îndepărtat al țării.", "Dezvoltarea sa a debutat prin investiții masive din partea Chinei la mijlocul anilor 2000.", "Rezervele sale masive de petrol sunt de foarte bună calitate și relativ ușor de extras.", "Țițeiul brut din Agadem călătorește printr-o conductă subterană lungă de aproape 500 km.", "Este baza unui viitor oleoduct masiv de export care traversează țările vecine.", "Condițiile de muncă în taberele de extracție presupun furtuni de nisip și izolare extremă.", "Producția sa finanțează parțial infrastructura și modernizarea marilor orașe."],
+      en: []
+    }
+  },
   {
     id: "sonichar-tchirozerine-economic-v2",
     type: "industry",
@@ -80,7 +144,20 @@ export const poiExtraNigerEconomicV2: POI[] = [
       hu: ["Niger egyetlen aktív szénbányája.", "Áramot szolgáltat az urániparnak.", "Agadez közelében."],
       ro: ["Singura mină activă de cărbune din Niger.", "Furnizează energie pentru industria uraniului.", "Aproape de Agadez."],
       en: ["Niger's only active coal mine.", "Supplies power for the uranium industry.", "Near Agadez."],
-    }, image: "/poi-images/sonichar-tchirozerine-economic-v2.webp"},
+    }, image: "/poi-images/sonichar-tchirozerine-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "Der SONICHAR-Komplex in Tchirozérine ist ein einzigartiges industrielles Meisterstück im Nordniger: Er kombiniert einen Kohletagebau mit einem thermischen Kraftwerk. Dieses strategisch unverzichtbare Kraftwerk wurde speziell gebaut, um die energieintensiven Uranminen in Arlit sowie die städtischen Zentren von Agadez mit Strom zu versorgen. Ohne SONICHAR wäre der uranbasierte Exportmotor Nigers nicht funktionsfähig. Die Anlage ist ein Beweis für ingenieurtechnische Anpassung, da sie inmitten der Wüste betrieben wird und ihre eigene Kohle direkt vor Ort abbaut und verbrennt, um die massiven logistischen Herausforderungen der Sahelzone zu überwinden.",
+      hu: "A Tchirozérine-ben található SONICHAR hőerőmű és szénbánya az északi Agadez régió ipari szíve. A létesítmény 1981-ben kezdte meg működését azzal az egyetlen céllal, hogy energiával lássa el a sivatagban működő hatalmas uránbányákat (Arlit és Akouta), valamint Agadez városát. A nyílt színi szénbánya környezeti terhelése és a hőerőmű károsanyag-kibocsátása állandó vitatéma, de az energiaellátás szempontjából nélkülözhetetlen. Fizika K8 — fosszilis hőerőművek.",
+      ro: "Centrala termică SONICHAR din Tchirozérine este coloana vertebrală energetică a industriei miniere nordice. Folosind resursele unei cariere de cărbune cu suprafață deschisă, unitatea generează electricitate esențială într-o regiune prea îndepărtată pentru a fi conectată la rețeaua electrică națională din sud. Funcționarea sa este vitală pentru extracția uraniului de la Arlit; fără SONICHAR, utilajele s-ar opri complet. Ansamblul industrial stă ca o fortăreață tehnologică fumegândă în inima pustietății sahariene, amestecând utilaje grele miniere cu turbine uriașe de generare. (Geografie K7 — generarea de energie off-grid).",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Einzigartige Kombination aus Kohletagebau und thermischem Kraftwerk.", "Strategisch unverzichtbar für die Uranminen in Arlit.", "Versorgt auch städtische Zentren in der Region Agadez mit Strom.", "Baut Kohle direkt vor Ort für die eigene Verbrennung ab.", "Rückgrat des energieintensiven Uran-Exportmotors Nigers.", "Meisterstück der Ingenieurskunst inmitten der Sahara."],
+      hu: ["1981-ben alapították az északi uránbányák energiaellátására.", "Közvetlenül a saját nyílt színi szénbányájából táplálkozik.", "Biztosítja Arlit, Akouta és Agadez folyamatos áramellátását.", "Az egyetlen jelentős széntüzelésű erőmű az országban.", "Környezetvédelmi aggályok övezik a magas szén-dioxid-kibocsátást.", "Stratégiai fontosságú a nigeri bányászati szektor számára."],
+      ro: ["Reprezintă singura centrală de producție a electricității pe bază de cărbune din stat.", "Operează la capacitate continuă pentru a susține minele nordice COMINAK și SOMAIR.", "Cariera adiacentă de cărbune folosește excavatoare uriașe pentru a hrăni furnalele.", "Funcționează ca un sistem izolat complet independent de rețeaua capitalei Niamey.", "Purtătoare de poluare semnificativă pentru micile sate și tabere nomade din jur.", "Aproape toți tehnicienii orașului minier Tchirozérine sunt direct angajați aici.", "Construcția a reprezentat un miracol logistic datorită lipsei de apă în regiune."],
+      en: []
+    }
+  },
   {
     id: "samira-hill-gold-mine-economic-v2",
     type: "industry",
@@ -93,7 +170,20 @@ export const poiExtraNigerEconomicV2: POI[] = [
       hu: ["2004-ben nyitották meg.", "A Tillabéri régióban található.", "Az aranyipar úttörője Nigerben."],
       ro: ["Deschisă în 2004.", "Situată în regiunea Tillabéri.", "Pionier al industriei aurului din Niger."],
       en: ["Opened in 2004.", "Located in the Tillabéri region.", "Pioneer of the gold industry in Niger."],
-    }, image: "/poi-images/samira-hill-gold-mine-economic-v2.webp"},
+    }, image: "/poi-images/samira-hill-gold-mine-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Goldmine Samira Hill, tief im Liptako-Gourma-Gebiet nahe der Grenze zu Burkina Faso gelegen, schrieb 2004 Geschichte als die erste kommerzielle industrielle Goldmine Nigers. Die Anlage läutete eine neue Ära der Diversifizierung für die nigrische Wirtschaft ein, die zuvor stark vom Uran abhängig war. Betrieben in einer politisch fragilen und schwer zugänglichen Region, fördert Samira Hill jährlich wertvolles Gold im Tagebauverfahren. Die Mine hat einen signifikanten Anteil am nationalen Exporteinkommen, kämpft jedoch oft mit infrastrukturellen Engpässen und den komplexen Sicherheitsherausforderungen im Dreiländereck von Niger, Mali und Burkina Faso.",
+      hu: "A Samira Hill aranybánya a Liptako-Gourma régióban, a Burkina Fasó-i határ közelében Niger első modern, ipari méretű aranykitermelő létesítménye. A 2004-ben megnyitott bánya a zord, sziklás \\\"zöldkő\\\" övezetből nyeri ki az aranyat, amely a hagyományos urán mellett az ország exportjának új pillérévé vált. A bánya jelentős infrastrukturális beruházásokat hozott a korábban elszigetelt térségbe. Földrajz K8 — aranybányászat és export.",
+      ro: "Mina de aur Samira Hill, ascunsă în faimoasa zonă Liptako din regiunea Tillabéri pe malul drept al râului Sirba, este cel mai important sit comercial de extracție a aurului din Niger. După ce regiunea a fost explorată de zeci de mii de mineri artizanali de-a lungul deceniilor, structura industrială a fost oficializată la începutul anilor 2000. Astăzi, aici se prelucrează mii de tone de minereu folosind tehnici chimice avansate pentru a extrage prețiosul metal. Mina funcționează într-un mediu instabil geopolitic, ceea ce a dus la o structură militarizată, dar rămâne vitală pentru acumularea rezervelor naționale de aur ale Nigerului. (Geografie K7 — industria modernă a aurului).",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Schrieb 2004 Geschichte als erste kommerzielle Goldmine Nigers.", "Liegt im Liptako-Gourma-Gebiet nahe Burkina Faso.", "Läutete die Diversifizierung der nigrischen Wirtschaft ein.", "Fördert Gold im industriellen Tagebauverfahren.", "Signifikanter Anteil am nationalen Exporteinkommen.", "Betrieben in einem komplexen und fragilen Dreiländereck."],
+      hu: ["Niger legelső modern, ipari méretű aranybányája volt.", "A Liptako-Gourma régió sziklás, úgynevezett zöldkő övezetében fekszik.", "2004-ben kezdte meg a hivatalos kitermelést és exportot.", "Jelentősen diverzifikálta az ország ásványkincs-exportját.", "Modern technológiát használ a kemény kőzet zúzására.", "A közeli térségekben sok illegális, kézműves bányász is aktív."],
+      ro: ["Situl reprezintă prima exploatare industrială majoră de aur din istoria Nigerului.", "Este situat în faimoasa regiune stâncoasă auriferă Liptako, aproape de Burkina Faso.", "A început producția comercială la o scară masivă abia în toamna anului 2004.", "Zona era de mult cunoscută și exploatată istoric cu mijloace rudimentare.", "Atrage periodic investiții din partea companiilor canadiene și pan-africane.", "Utilizează tehnici chimice masive cu cianuri pentru prelucrarea minereului brut.", "Cea mai mare provocare este asigurarea pazei sale în zona instabilă a granițelor."],
+      en: []
+    }
+  },
   {
     id: "tchibarakaten-gold-mine-economic-v2",
     type: "industry",
@@ -106,7 +196,20 @@ export const poiExtraNigerEconomicV2: POI[] = [
       hu: ["Nagy kézműves bányászat.", "Mélyen a sivatagban található.", "2014-től aranylázat okozott."],
       ro: ["Minerit artizanal la scară largă.", "Situat adânc în deșert.", "A provocat o goană după aur din 2014."],
       en: ["Large artisanal mining.", "Located deep in the desert.", "Caused a gold rush starting in 2014."],
-    }, image: "/poi-images/tchibarakaten-gold-mine-economic-v2.webp"},
+    }, image: "/poi-images/tchibarakaten-gold-mine-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Goldabbau in Tchibarakaten ist ein wildes, abgelegenes und faszinierendes Phänomen tief im Aïr-Gebirge nahe der algerischen Grenze. Im Gegensatz zu den industriellen Minen wird hier der Abbau primär von zehntausenden handwerklichen und semi-mechanisierten Bergleuten betrieben, die von einem regelrechten Goldrausch angezogen wurden. Diese raue Zelt- und Blechhüttenstadt inmitten der Felswüste hat eine völlig eigene Mikrowirtschaft geschaffen, die den lokalen Tuareg-Gemeinschaften und Migranten enorme Einkommensmöglichkeiten bietet. Der Staat versucht zunehmend, diesen informellen Sektor zu regulieren, um Steuereinnahmen zu sichern und die oft gefährlichen Arbeitsbedingungen in den improvisierten Schächten zu verbessern.",
+      hu: "A Tchibarakaten aranymező mélyen az északi Szaharában, az algériai határ közelében található, és 2014-es felfedezése óta egy hatalmas, kaotikus \\\"aranyláz\\\" központjává vált. Az ipari vállalatok helyett itt több tízezer kézműves bányász keresi a szerencséjét zord, vízhiányos körülmények között, gyakran veszélyes vegyszereket használva. A terület feletti ellenőrzés gyakran vezet feszültségekhez a központi kormányzat és a helyi tuareg vagy arab csoportok között. Társadalomföldrajz K8 — modern aranyláz és kézműves bányászat.",
+      ro: "Zona minieră Tchibarakaten este epicentrul neoficial al goanei moderne după aur din nordul extrem al Nigerului, o vastă regiune stâncoasă la granița cu Algeria, complet izolată de așezările urbane. Aici, zeci de mii de căutători de aur artizanali și antreprenori s-au mutat în tabere imense formate din prelate și corturi, transformând pustietatea într-o așezare de frontieră de tip Vestul Sălbatic. Folosind detectoare de metale moderne și utilaje importate, mineri proveniți din toată Africa sapă neobosit în solul dur pentru a găsi filonul norocos. Această micro-economie uriașă susține mii de familii, dar are un impact ecologic brutal. (Geografie K7 — goana modernă după aur).",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Abgelegenes, faszinierendes Abbaugebiet tief im Aïr-Gebirge.", "Primär von zehntausenden handwerklichen Bergleuten betrieben.", "Entstand durch einen massiven, spontanen Goldrausch.", "Schuf eine riesige, informelle Mikrowirtschaft in der Felswüste.", "Bietet Tuareg und Migranten enorme Einkommensmöglichkeiten.", "Regierung bemüht sich um Regulierung der gefährlichen Arbeit."],
+      hu: ["Az északi sivatagban, az algériai határ közelében helyezkedik el.", "2014-es felfedezése után tömeges \\\"aranylázat\\\" indított el.", "Több tízezer illegális vagy kézműves bányász dolgozik itt.", "A vízhiány és a zord sivatag komoly életveszélyt jelent.", "Rendszeres a veszélyes higany és cianid használata.", "A terület ellenőrzése gyakran okoz politikai feszültségeket."],
+      ro: ["Situat pe granița periculoasă și îndepărtată de nord-est dintre Niger și Algeria.", "Găzduiește mii de mineri artizanali independenți care operează în condiții extreme.", "Este complet lipsit de infrastructură publică precum apă curentă sau spitale.", "Descoperirile masive de filon aurifer aici au avut loc abia în anul 2014.", "Reprezintă unul dintre cele mai active nuclee economice informale ale Saharei.", "Apa potabilă se cumpără și este adusă zilnic de la sute de kilometri distanță.", "Căutătorii de aur utilizează pe scară largă substanțe chimice periculoase, ca mercurul."],
+      en: []
+    }
+  },
   {
     id: "djado-gold-fields-economic-v2",
     type: "industry",
@@ -119,7 +222,20 @@ export const poiExtraNigerEconomicV2: POI[] = [
       hu: ["Niger legészakkeletibb részén.", "A kézműves bányászat központja.", "Az arany gyakran a felszín közelében található."],
       ro: ["În nord-estul extrem al Nigerului.", "Centru al mineritului artizanal.", "Aurul este adesea aproape de suprafață."],
       en: ["In the extreme northeast of Niger.", "Center of artisanal mining.", "Gold is often near the surface."],
-    }, image: "/poi-images/djado-gold-fields-economic-v2.webp"},
+    }, image: "/poi-images/djado-gold-fields-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "Die historischen Goldfelder von Djado erlebten ab 2014 einen beispiellosen Goldrausch, der Tausende von Glücksrittern aus dem gesamten Sahel in eine der extremsten und abgelegensten Wüstenregionen der Erde lockte. Das Plateau von Djado, einst nur für seine verlassenen mittelalterlichen Salz-Festungen bekannt, verwandelte sich in ein chaotisches Meer aus Metalldetektoren und improvisierten Schürfcamps. Der plötzliche Reichtum veränderte die lokalen Machtstrukturen und Handelsrouten drastisch. Aufgrund von massiven Sicherheitsproblemen, Schmuggel und Grenzkriminalität in der Nähe von Libyen hat die nigrische Regierung die Goldfelder zeitweise militärisch gesperrt, um die Kontrolle über die wilden Minen zurückzugewinnen.",
+      hu: "A Djado-fennsík egy elzárt, látványos sziklaképződményekkel teli vidék a líbiai határnál, amely 2014-ben az arany felfedezése révén került a figyelem középpontjába. A korábban szinte lakatlan régiót elárasztották a szomszédos országokból és Nigerből érkező kalandorok. A kormány biztonsági okokból többször is megpróbálta lezárni a területet, mivel a zord sivatagi környezetben az illegális bányászat és a fegyveres csoportok jelenléte folyamatos veszélyt jelent. Földrajz K8 — határmenti erőforrás-konfliktusok.",
+      ro: "Câmpurile aurifere de la Djado, plasate în peisajul suprarealist de nord-est al Munților Djado, reprezintă scena unui exod masiv al minerilor artizanali care au descoperit bogății neașteptate în sol. Acoperind o regiune de platouri neospitaliere de gresie, aceste câmpii au fost scena unor tabere care se mută după filonul de aur. În comparație cu Tchibarakaten, zona Djado are o valoare arheologică inestimabilă datorită ruinelor fortărețelor străvechi abandonate, creând un contrast bizar între minerii moderni echipați cu buldozere și orașele-fantomă ale epocii precoloniale, pe care aceștia le înconjoară. (Istorie K8 — minerit și patrimoniu arheologic).",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Erlebten ab 2014 einen beispiellosen, chaotischen Goldrausch.", "Liegen in einer der extremsten Wüstenregionen der Erde.", "Lockten Tausende Glücksritter mit Metalldetektoren an.", "Veränderten lokale Machtstrukturen und Handelsrouten drastisch.", "Wegen Schmuggel und Grenzkriminalität zeitweise militärisch gesperrt.", "Region einst nur für mittelalterliche Salz-Festungen bekannt."],
+      hu: ["A festői, lakatlan Djado-fennsíkon indult az aranyláz 2014-ben.", "Közvetlenül a líbiai és csádi határvidéken helyezkedik el.", "Külföldi (csádi, szudáni) és helyi bányászok ezreit vonzotta.", "A nigeri állam biztonsági okokból többször lezárta a régiót.", "Az ivóvíz és az élelem hiánya hatalmas logisztikai kihívás.", "A bányászat veszélyezteti a fennsík ősi történelmi romjait."],
+      ro: ["Zona a explodat economic din 2014 prin descoperirea de aur la suprafață.", "Situate extrem de aproape de ruinele inestimabile ale vechiului oraș fortificat Djado.", "Febra aurului de aici a atras zeci de mii de lucrători neoficiali într-un an.", "Guvernul a încercat frecvent să închidă mina din rațiuni de siguranță națională.", "Condițiile de lucru sunt letale, cu temperaturi care depășesc constant 45 de grade.", "Majoritatea aurului brut este scos clandestin din zonă folosind rutele către Libia.", "S-au ridicat piețe spontane uriașe pentru a vinde apă și instrumente miniere la suprapreț."],
+      en: []
+    }
+  },
   {
     id: "dosso-dry-port-economic-v2",
     type: "port",
@@ -132,7 +248,20 @@ export const poiExtraNigerEconomicV2: POI[] = [
       hu: ["Nigert Cotonou kikötőjével köti össze.", "Központi vámkezelő hely.", "Csökkenti a szállítási szűk keresztmetszeteket."],
       ro: ["Leagă Niger de portul Cotonou.", "Punct central de vămuire.", "Reduce blocajele de transport."],
       en: ["Connects Niger with the port of Cotonou.", "Central customs clearance point.", "Reduces transportation bottlenecks."],
-    }, image: "/poi-images/dosso-dry-port-economic-v2.webp"},
+    }, image: "/poi-images/dosso-dry-port-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Trockenhafen Dosso ist ein logistisches Herzstück für den Binnenstaat Niger, das entworfen wurde, um den massiven internationalen Frachtverkehr zu rationalisieren. Da Niger keinen eigenen Zugang zum Meer hat, fungiert dieser Binnenhafen als primärer Umschlagplatz für Waren, die im Seehafen von Cotonou (Benin) ankommen und per LKW nach Norden transportiert werden. Im Trockenhafen Dosso finden Zollabfertigungen, Lagerungen und Containerumschläge statt, was die massiven Staus in der Hauptstadt Niamey drastisch reduziert. Er ist ein exzellentes Beispiel für die Bemühungen Nigers, seine geografischen Nachteile durch hochmoderne Logistikinfrastruktur auszugleichen.",
+      hu: "A Dosso szárazkikötő (port sec) egy forradalmi logisztikai létesítmény, amely a tengerparttal nem rendelkező Niger külkereskedelmét hivatott megkönnyíteni. A Beninen keresztül (Cotonou kikötőjéből) érkező import áruk itt kerülnek hivatalos vámkezelésre és elosztásra, mielőtt elérnék Niameyt vagy az északi városokat. Ez az \\\"ideiglenes kikötő\\\" jelentősen csökkenti a tranzitidőt és a logisztikai költségeket a helyi vállalatok számára. Gazdaságföldrajz K7 — szárazkikötők és tranzitországok.",
+      ro: "Portul Uscat din Dosso este un mega-proiect strategic de infrastructură menit să revoluționeze comerțul internațional al Nigerului, o țară complet închisă continental. Situat strategic pe axa rutieră majoră ce face legătura cu marele port maritim Cotonou din statul Benin, acest port uscat acționează ca un terminal vamal uriaș și un antrepozit logistic centralizat. Prin mutarea procedurilor vamale de la graniță direct la Dosso, durata și costurile transportului pentru camioanele cu mărfuri se reduc dramatic. Locația include depozite imense pentru bunuri agricole, importuri industriale și containere de tranzit global. (Geografie K7 — coridoare logistice pentru state fără ieșire la mare).",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Logistisches Herzstück für den Binnenstaat Niger.", "Primärer Umschlagplatz für Fracht aus dem Seehafen Cotonou.", "Führt Zollabfertigungen, Lagerungen und Containerumschläge durch.", "Reduziert drastisch die logistischen Staus in Niamey.", "Gleicht geografische Nachteile Nigers als Binnenland aus.", "Exzellentes Beispiel für moderne Logistikinfrastruktur."],
+      hu: ["Speciális vámkezelési központ a tengerpart nélküli ország számára.", "A Cotonou-ból (Benin) érkező áruk fő elosztó pontja.", "Jelentősen csökkenti a főváros és a régiók ellátási idejét.", "Több hektáros modern konténerterminállal rendelkezik.", "A Dosso régió legfontosabb modern infrastrukturális eleme.", "Elősegíti a regionális (ECOWAS) kereskedelmi integrációt."],
+      ro: ["Este construit pentru a servi ca un port maritim virtual pentru Nigerul continental.", "Amplasat special pe axa logistică Cotonou-Niamey, principala rută de import.", "Infrastructura permite vămuirea camioanelor direct în inima țării.", "Proiectul include conexiuni feroviare viitoare pentru accelerarea transporturilor masive.", "Depozitele pot stoca mii de containere TEU pentru distribuție regională.", "Reprezintă unul dintre cele mai ambițioase proiecte economice de tranzit naționale.", "Ajută enorm exportatorii locali de ceapă, arahide și produse animale."],
+      en: []
+    }
+  },
   {
     id: "niamey-river-port-economic-v2",
     type: "port",
@@ -145,7 +274,20 @@ export const poiExtraNigerEconomicV2: POI[] = [
       hu: ["A Niger folyón található.", "Függ a szezonális vízállástól.", "Fontos a regionális kereskedelem számára."],
       ro: ["Situat pe râul Niger.", "Depinde de nivelul apei sezonier.", "Important pentru comerțul regional."],
       en: ["Located on the Niger River.", "Dependent on seasonal water levels.", "Important for regional trade."],
-    }, image: "/poi-images/niamey-river-port-economic-v2.webp"},
+    }, image: "/poi-images/niamey-river-port-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Flusshafen Niamey ist ein lebenswichtiger Umschlagplatz am Ufer des majestätischen Niger-Flusses, der während der Hochwassersaison eine kritische Rolle in der regionalen Logistik spielt. Wenn die Wasserstände nach der Regenzeit steigen, werden Hunderte von Pirogen und kleine Lastkähne beladen, um schwere Güter, Baumaterialien und landwirtschaftliche Erzeugnisse (wie Zwiebeln und Reis) kostengünstig zu transportieren. Der Hafen verbindet die Hauptstadt mit abgelegenen Flussgemeinden bis nach Mali. Trotz der Herausforderungen durch Versandung und den stark schwankenden Wasserpegel des Flusses bleibt der Hafen ein unverzichtbarer Bestandteil der städtischen Versorgungsarchitektur und des traditionellen Handels.",
+      hu: "A Niamey folyami kikötő a Niger folyó menti hajózás történelmi központja a fővárosban. Bár a száraz évszakban a folyó vízszintje drasztikusan lecsökken, gátolva a nagyobb hajók mozgását, az esős időszakban a kikötő megtelik élettel: mezőgazdasági termékeket, fát és építőanyagokat szállító tradicionális pinasse-ok (csónakok) érkeznek Mali felől vagy az ország belső részeiből. A jövőbeli Kandadji-gát megépítése várhatóan egész évben hajózhatóvá teszi a szakaszt. Földrajz K6 — folyami hajózás korlátai.",
+      ro: "Portul Fluvial Niamey, deși modest în comparație cu porturile maritime, joacă un rol istoric și practic neprețuit în viața de zi cu zi a metropolei. Situat direct în centrul capitalei de-a lungul albiei fluviului Niger, portul este folosit intens în sezonul ploios pentru transportul de nisip și pietriș necesar construcțiilor urbane, precum și pentru cereale aduse din regiunile nordice. Pirogile tradiționale motorizate și șlepurile joase andochează continuu aici. Portul este, de asemenea, vital pentru zeci de comunități insulare din împrejurimi, care se bazează pe el pentru tranzitul medical, educațional și comercial spre piețele capitalei. (Geografie K7 — navigația pe marile fluvii).",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Lebenswichtiger Umschlagplatz am Ufer des Niger-Flusses.", "Spielt kritische Rolle während der jährlichen Hochwassersaison.", "Umschlagort für Baumaterialien und Agrarerzeugnisse.", "Verbindet die Hauptstadt Niamey mit Flussgemeinden bis Mali.", "Transport erfolgt traditionell per Piroge und kleinen Lastkähnen.", "Kämpft mit Herausforderungen durch Versandung des Flusses."],
+      hu: ["A főváros történelmi vízi közlekedési központja a Niger folyón.", "A vízszint ingadozása miatt az év nagy részében korlátozottan működik.", "A hagyományos fakéregből készült pinasse-ok (csónakok) bázisa.", "Főként mezőgazdasági termékeket és fát szállítanak ide.", "A Kandadji-gát elkészültével remélik a vízszint stabilizálását.", "Kulturális és turisztikai csomópont is egyben."],
+      ro: ["Servește drept cel mai mare nod de transport fluvial din interiorul capitalei Niamey.", "Aglomerat de sute de ambarcațiuni tradiționale motorizate și simple barje.", "Este crucial pentru importul zilnic de nisip și piatră folosit la construcțiile din oraș.", "Activitatea portului scade dramatic de-a lungul lunilor severe din timpul sezonului uscat.", "Multe familii Zarma și Songhai își vând direct capturile de pește proaspăt pe docuri.", "Terminalul facilitează traficul ieftin de orez de-a lungul a sute de kilometri fluviali.", "Oferă vizitatorilor o privire nefiltrată asupra economiei vibrante și tradiționale."],
+      en: []
+    }
+  },
   {
     id: "gaya-river-port-economic-v2",
     type: "port",
@@ -158,7 +300,20 @@ export const poiExtraNigerEconomicV2: POI[] = [
       hu: ["A legfontosabb határátkelő Benin felé.", "Híd a Niger folyón.", "Átrakóhely az áruk számára."],
       ro: ["Cel mai important punct de trecere a frontierei spre Benin.", "Pod peste râul Niger.", "Punct de transbordare a mărfurilor."],
       en: ["Main border crossing to Benin.", "Bridge over the Niger River.", "Transshipment point for goods."],
-    }, image: "/poi-images/gaya-river-port-economic-v2.webp"},
+    }, image: "/poi-images/gaya-river-port-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Hafen von Gaya, strategisch perfekt an der Dreiländerecke von Niger, Benin und Nigeria gelegen, ist der südlichste und wichtigste Flusshafen des Landes. Er dient als essenzieller Grenzposten und logistisches Tor für Waren, die den langen Weg in Richtung Südatlantik antreten oder von dort kommen. Gaya kombiniert den traditionellen Flusshandel auf dem Wasserweg mit einer massiven Brückeninfrastruktur für schwere LKW-Konvois. Die Anlage ist von enormer Bedeutung für den Import von Treibstoff und Export von Agrargütern, wodurch Gaya zu einer der dynamischsten, am schnellsten wachsenden Zoll- und Handelsstädte des gesamten Niger wurde.",
+      hu: "Gaya folyami kikötője Niger legfontosabb déli vízi kapuja, amely közvetlenül a benini és nigériai határ közelében helyezkedik el. Mivel itt a Niger folyó vízhozama már jóval egyenletesebb, mint a fővárosnál, a kikötő egész évben kulcsszerepet játszik a regionális kereskedelemben és a halászatban. Számos dél-nigeri mezőgazdasági exportterméket innen indítanak útnak folyami hajókon a szomszédos országok piacaira. Földrajz K7 — határmenti vízi logisztika.",
+      ro: "Portul Fluvial Gaya din extremitatea sudică a țării, aproape de podul Malanville spre Benin, se distinge prin debitul său constant, fluviul având suficientă adâncime o mare parte din an comparativ cu regiunile nordice. Ca nod logistic cheie, portul este centrul unde produsele grele precum lemnul, grânele și materialele de construcții trec granița informal. Portul Gaya combină infrastructura de beton cu rânduri lungi de pirogi de lemn gigantice. Funcționând ca un hub pentru pescarii locali și comercianții cu țările de sud, deține o efervescență specifică zonelor cu graniță triplă. (Geografie K7 — porturi fluviale africane majore).",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Strategisch gelegen an der Dreiländerecke Niger, Benin, Nigeria.", "Der südlichste und wichtigste Flusshafen des Landes.", "Essenzieller logistischer Grenzposten Richtung Südatlantik.", "Kombiniert traditionellen Flusshandel mit schwerer LKW-Infrastruktur.", "Enorm wichtig für Treibstoffimporte und Agrarexporte.", "Eine der dynamischsten Zoll- und Handelsstädte Nigers."],
+      hu: ["Niger legdélebbi és legforgalmasabb folyami kikötője.", "Közvetlen kapcsolatot biztosít Benin és Nigéria felé.", "Egész évben magasabb vízállással rendelkezik, mint Niamey.", "Fontos szerepet játszik a regionális mezőgazdasági exportban.", "A helyi halászati iparág központi logisztikai bázisa.", "Stratégiai fontosságú a tengerpart felé irányuló áruszállításban."],
+      ro: ["Este cel mai sudic port și punct de descărcare navigabil important al fluviului Niger.", "Fluviul are un debit de apă mult mai ridicat și constant aici față de nordul țării.", "Portul operează în tandem cu granița terestră masivă spre Benin numită Malanville.", "Un punct fierbinte de transfer pentru mărfurile de tranzit și cereale pe apă.", "Găzduiește pirogi masive capabile să transporte zeci de tone de marfă și vite.", "Activitatea de pescuit susținută asigură piața regională cu pește uscat și proaspăt.", "Reprezintă intersecția perfectă între economia oficială de pod și cea fluvială informală."],
+      en: []
+    }
+  },
   {
     id: "malbaza-cement-plant-economic-v2",
     type: "industry",
@@ -171,7 +326,20 @@ export const poiExtraNigerEconomicV2: POI[] = [
       hu: ["Cementet termel a hazai piacra.", "A Tahoua régióban.", "Helyi mészkőlelőhelyeket használ fel."],
       ro: ["Produce ciment pentru piața internă.", "În regiunea Tahoua.", "Utilizează zăcăminte locale de calcar."],
       en: ["Produces cement for the domestic market.", "In the Tahoua region.", "Uses local limestone deposits."],
-    }, image: "/poi-images/malbaza-cement-plant-economic-v2.webp"},
+    }, image: "/poi-images/malbaza-cement-plant-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Zementwerk Malbaza ist ein monolithisches industrielles Aushängeschild der nigrischen Wirtschaft und die wichtigste Fabrik ihrer Art im Land. Durch den Abbau der reichhaltigen, lokalen Kalksteinvorkommen in der Region Tahoua produziert die Anlage hochwertigen Zement, der das rasante Bevölkerungswachstum und die massiven städtischen Bauprojekte in ganz Niger erst ermöglicht. Die Anlage wurde in den letzten Jahren durch millionenschwere Investitionen massiv modernisiert und in ihrer Kapazität erweitert, um die Abhängigkeit Nigers von teuren Zementimporten aus Nigeria zu beenden. Das Werk ist ein Paradebeispiel für erfolgreiche lokale Wertschöpfungsketten in der Sahelzone.",
+      hu: "A Malbazában található cementgyár (Société Nigérienne de Cimenterie, SNC) az ország építőiparának ékköve, amely függetleníti Nigert a drága import cementtől. A gyárat eredetileg az 1960-as években alapították a közeli hatalmas mészkőlelőhelyek kiaknázására, és az elmúlt években jelentős modernizáción esett át. A létesítmény nemcsak ipari munkahelyeket teremt Tahoua régióban, hanem elengedhetetlen a modern nigeri infrastruktúra és lakásépítések számára. Kémia K8 — cementgyártás és iparosodás.",
+      ro: "Fabrica de Ciment din Malbaza este o infrastructură gigant care domină relieful arid din regiunea Tahoua, fiind centrul exclusiv de prelucrare a gipsului și calcarului bogat în zonă. Complexul industrial funcționează ca un ceasornic gigant pentru întreaga țară, cimentul de aici fiind fundația barajelor, drumurilor, minelor și noilor cartiere din Niamey. Zgomotul cuptoarelor rotative și praful cenușiu marchează prezența uzinei de la kilometri distanță. Modernizată constant prin investiții recente, această uzină a crescut capacitatea de producție la sute de mii de tone anual, stopând importurile scumpe din statele de coastă. (Geografie K7 — producția autohtonă de materiale).",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Wichtigste Zementfabrik und industrielles Aushängeschild Nigers.", "Baut reichhaltige, lokale Kalksteinvorkommen ab.", "Ermöglicht massive städtische Bauprojekte im ganzen Land.", "Kürzlich durch millionenschwere Investitionen stark modernisiert.", "Beendet die Abhängigkeit von teuren Zementimporten.", "Paradebeispiel für erfolgreiche lokale Wertschöpfungsketten."],
+      hu: ["Niger első és legfontosabb hazai cementgyártó üzeme.", "Hatalmas helyi mészkőbányára épül az 1960-as évek óta.", "Modernizációja révén drasztikusan növelték a kapacitását.", "Csökkenti az ország függőségét az import építőanyagoktól.", "Jelentős számú ipari munkahelyet biztosít Tahoua régióban.", "Az ország infrastrukturális fejlődésének (utak, hidak) alapja."],
+      ro: ["Singura fabrică gigantică de prelucrare și ardere a cimentului din tot teritoriul Nigerului.", "Se alimentează din bogatele cariere locale de calcar și gips extrase de la suprafață.", "Modernizările recente au adus uzina la o capacitate masivă de aproape 600.000 tone pe an.", "Sute de camioane de mare tonaj așteaptă zilnic la ieșirea din complex.", "Reprezintă mândria industrială a Nigerului în sectorul infrastructurii grele de dezvoltare.", "Creează sute de locuri de muncă calificate și mii indirecte pentru comunitatea Malbaza.", "Producția sa este esențială pentru limitarea importurilor de beton din Nigeria și Benin."],
+      en: []
+    }
+  },
   {
     id: "diori-hamani-cargo-hub-economic-v2",
     type: "port",
@@ -184,7 +352,20 @@ export const poiExtraNigerEconomicV2: POI[] = [
       hu: ["Legfontosabb kapu a világ felé.", "A vámigazgatás székhelye.", "Jelentős a nagy értékű exportok számára."],
       ro: ["Cea mai importantă poartă către lume.", "Sediul administrației vamale.", "Important pentru exporturile de mare valoare."],
       en: ["Main gateway to the world.", "Seat of the customs administration.", "Important for high-value exports."],
-    }, image: "/poi-images/diori-hamani-cargo-hub-economic-v2.webp"},
+    }, image: "/poi-images/diori-hamani-cargo-hub-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Frachtflughafen Diori Hamani in Niamey ist nicht nur das Tor für internationale Passagiere, sondern fungiert auch als das absolute Nervenzentrum der Luftfracht-Logistik für den Binnenstaat Niger. Da das Land keinen Seezugang hat, ist dieser hochmoderne Hub essenziell für den schnellen Import von medizinischen Hilfsgütern, Hightech-Ausrüstung und verderblichen Lebensmitteln. Der Frachtkomplex wurde kürzlich stark erweitert, um die Lagerung von Kühlketten-Produkten zu gewährleisten und den Export der berühmten roten Zwiebeln und Qualitätsfleisch in den Nahen Osten zu erleichtern. Diori Hamani ist der stolze Anker Nigers in der globalisierten Weltwirtschaft.",
+      hu: "A niameyi Diori Hamani Nemzetközi Repülőtér teheráru-központja a magas értékű és sürgős import-export cikkek életvonalát jelenti az ország számára. Mivel Niger nem rendelkezik tengerparttal, és a szárazföldi szállítás heteket vehet igénybe, a repülőtéri árufuvarozás (cargo) elengedhetetlen a gyógyszerek, elektronikai cikkek és a külföldi missziók ellátmányának célba juttatásához. A létesítményt nemrégiben modernizálták a növekvő teherforgalom kiszolgálása érdekében. Gazdaságföldrajz K7 — légi árufuvarozás Afrikában.",
+      ro: "Terminalul de Cargo de la Aeroportul Internațional Diori Hamani din Niamey reprezintă poarta vitală către lumea exterioară pentru o țară fără port maritim propriu. Având un rol cu totul special din cauza drumurilor terestre adesea lungi și periculoase, terminalul manipulează mărfuri speciale, la mare căutare sau de maximă necesitate: ajutoare medicale urgente internaționale, echipamente tehnologice sensibile și poștă. Secțiunea logistică din apropierea pistelor s-a extins substanțial, cu depozite frigorifice moderne. Acesta nu este doar un aeroport, ci centrul de aprovizionare rapidă a statului. (Geografie K7 — tranzitul aerian vital pentru țările continentale).",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Absolutes Nervenzentrum der Luftfracht-Logistik für Niger.", "Essenziell für den Import von Medizin und Hightech-Ausrüstung.", "Kürzlich um große Kühlketten-Lagerstätten erweitert.", "Fördert den Export von roten Zwiebeln und Fleisch in den Nahen Osten.", "Kompensiert Nigers geografischen Nachteil als Binnenstaat.", "Der stolze logistische Anker Nigers in der globalen Wirtschaft."],
+      hu: ["A tengerpart nélküli ország legfontosabb gyors áruszállítási csomópontja.", "Létfontosságú gyógyszerek és érzékeny cikkek importjában.", "A niameyi repülőtér dedikált cargo-termináljaként működik.", "Jelentős szerepet játszik az exportált arany és kézműves áruk szállításában.", "Nemzetközi humanitárius segélyek fő fogadóállomása.", "Infrastruktúráját folyamatosan fejlesztik a növekvő igények miatt."],
+      ro: ["Hub-ul cargo central servește principalul Aeroport Internațional al țării din Niamey.", "Specializat pe transportul rapid al mărfurilor prețioase, perisabile și a medicamentelor.", "Infrastructura permite procesarea marilor aeronave de marfă din Europa și Orientul Mijlociu.", "Include complexe noi și securizate pentru depozitarea la rece a medicamentelor critice.", "Terminalul aerian ajută organizațiile internaționale să primească rapid provizii umanitare.", "Constituie portul rapid al Nigerului pentru ocolirea rutelor terestre extrem de lente.", "Găzduiește operațiuni vamale și companii logistice majore în spatele aeroportului."],
+      en: []
+    }
+  },
   {
     id: "goudel-water-plant-economic-v2",
     type: "industry",
@@ -197,7 +378,20 @@ export const poiExtraNigerEconomicV2: POI[] = [
       hu: ["A Niger folyó partján található.", "Niamey legfontosabb ivóvízforrása.", "Többször kibővítették."],
       ro: ["Situată pe malul fluviului Niger.", "Cea mai importantă sursă de apă potabilă pentru Niamey.", "A fost extinsă de mai multe ori."],
       en: ["Located on the banks of the Niger River.", "Main source of drinking water for Niamey.", "Has been expanded several times."],
-    }, image: "/poi-images/goudel-water-plant-economic-v2.webp"},
+    }, image: "/poi-images/goudel-water-plant-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Wasserwerk Goudel in Niamey ist eine lebensrettende infrastrukturelle Meisterleistung, die das Überleben und das Wachstum der rasch expandierenden Millionenmetropole garantiert. Die Anlage entnimmt massive Mengen Wasser direkt aus dem Fluss Niger, das in einem mehrstufigen, hochmodernen Prozess gefiltert, gereinigt und gechlort wird, bevor es in das städtische Leitungsnetz eingespeist wird. Mit der ständigen Bedrohung durch klimatische Dürren und das Absinken des Flusspegels steht das Werk unter enormem Druck, seine Kapazitäten kontinuierlich zu erweitern. Goudel ist das unsichtbare, aber schlagende Herz der öffentlichen Gesundheitsinfrastruktur von Niamey.",
+      hu: "A Goudel víztisztító mű a Niger folyó partján Niamey ivóvízellátásának dobogó szíve. A létesítmény hatalmas szivattyúkkal emeli ki a folyó vizét, amelyet összetett szűrési és tisztítási folyamatokon (ülepítés, klórozás) vezetnek keresztül, mielőtt a több mint egymilliós főváros hálózatába kerülne. A folyó alacsony vízállása a száraz évszakban komoly nyomást helyez a műszaki rendszerre, hogy fenn tudja tartani a vízellátást. Biológia és technika K8 — víztisztítási folyamatok.",
+      ro: "Stația de Tratare a Apei Goudel este o structură de supraviețuire invizibilă, dar esențială pentru capitala Niamey. Poziționată de-a lungul malurilor fluviului Niger, această uzină mamut aspiră milioane de litri de apă tulbure fluvială în fiecare zi. Prin serii succesive de imense bazine de decantare, filtrare cu nisip și tratare chimică strictă, stația transformă apa fluviului într-o sursă potabilă, sigură și distribuită prin rețele subterane pe distanțe lungi către peste un milion de rezidenți metropolitani. Creșterea masivă a populației capitalei transformă uzina din Goudel într-un loc cu activitate continuă. (Geografie K7 — sistemele vitale de tratare urbană a apei).",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Zentrale Wasseraufbereitungsanlage für die Millionenmetropole Niamey.", "Entnimmt massives Wasser direkt aus dem Fluss Niger.", "Nutzt mehrstufige, hochmoderne Filter- und Reinigungsprozesse.", "Garantiert das Überleben der rasch expandierenden Hauptstadt.", "Steht unter Druck durch Dürren und sinkende Flusspegel.", "Schlagendes Herz der öffentlichen Gesundheitsinfrastruktur."],
+      hu: ["Niamey több mint egymillió lakosának fő ivóvízforrása.", "Közvetlenül a Niger folyóból nyeri és tisztítja a vizet.", "Összetett ülepítési és fertőtlenítési technológiát alkalmaz.", "A száraz évszak alacsony vízállása komoly kihívást jelent.", "Folyamatos bővítésekre szorul a város növekedése miatt.", "A közegészségügy és járványvédelem legfontosabb bástyája."],
+      ro: ["Infrastructura este principala sursă de apă de consum pentru peste un milion de oameni.", "Aflată pe malurile cartierului vestic Goudel din metropola Niamey, Niger.", "Operează 24 de ore pe zi un complex masiv de pompe de extracție și decantoare imense.", "Tratează direct apa fluviului, trecând-o prin procese fizico-chimice complexe de sterilizare.", "Se lovește frecvent de probleme în timpul sezoanelor cu aluviuni masive pe râu.", "Rețeaua de la Goudel trebuie modernizată anual din cauza expansiunii explozive a orașului.", "Furnizarea neîntreruptă de la Goudel este considerată cheia sănătății publice în capitală."],
+      en: []
+    }
+  },
   {
     id: "kandadji-dam-project-economic-v2",
     type: "industry",
@@ -210,7 +404,20 @@ export const poiExtraNigerEconomicV2: POI[] = [
       hu: ["130 megawatt villamos energiát fog termelni.", "Több ezer hektárt fog öntözni.", "A legjelentősebb infrastrukturális projekt."],
       ro: ["Va genera 130 megawați de energie electrică.", "Va iriga mii de hectare.", "Cel mai semnificativ proiect de infrastructură."],
       en: ["Will generate 130 megawatts of electricity.", "Will irrigate thousands of hectares.", "Most significant infrastructure project."],
-    }, image: "/poi-images/kandadji-dam-project-economic-v2.webp"},
+    }, image: "/poi-images/kandadji-dam-project-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Kandadji-Talsperre ist das bei weitem ambitionierteste Infrastrukturprojekt in der Geschichte Nigers, das darauf abzielt, die Zukunft des Landes durch Wasserkraft und Bewässerung völlig zu revolutionieren. Die massive Staudammanlage am Fluss Niger, im Tillabéri-Departement gelegen, wird nicht nur die Stromproduktion des Landes drastisch erhöhen und Energieunabhängigkeit garantieren, sondern auch zehntausende Hektar landwirtschaftliche Nutzfläche durch ein gigantisches Bewässerungssystem schaffen. Trotz massiver Verzögerungen durch logistische und finanzielle Hürden symbolisiert Kandadji die große Hoffnung Nigers, extreme Armut zu besiegen und dem ganzen Land eine nachhaltige Ernährungssicherheit zu garantieren.",
+      hu: "A Tillabéritől északra épülő Kandadji-gát Niger történetének egyik leggrandiózusabb mérnöki projektje. A több évtizede tervezett komplexum hármas célt szolgál: hidroelektromos áramtermeléssel csökkenti az ország energiafüggőségét Nigériától, hatalmas víztározójával öntözhetővé tesz több tízezer hektárnyi mezőgazdasági területet, és egész évben biztosítja a Niger folyó minimális vízállását a főváros számára. A projekt társadalmi és ökológiai hatásai (például falvak áttelepítése) jelentősek. Földrajz K8 — megagátak és környezeti hatások.",
+      ro: "Barajul Kandadji este, fără îndoială, cel mai ambițios și istoric proiect de mega-infrastructură al statului Niger, amplasat pe cursul fluviului la zeci de kilometri nord-vest de capitala Niamey. După decenii de planificări întârziate, șantierul monumental își propune trei scopuri esențiale: producția masivă de energie hidroelectrică, reglarea debitului fluviului care suferă de o lipsă catastrofală de apă în anotimpul secetos, și irigarea a peste sute de mii de hectare de teren agricol nou. Zidurile barajului se ridică spectaculos, necesitând strămutarea unor întregi comunități tradiționale, marcând tranziția țării spre un control modern și ferm al propriilor sale resurse acvatice. (Geografie K7 — hidrocentralele și modificarea mediului natural).",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Ambitioniertestes Infrastrukturprojekt in der Geschichte Nigers.", "Massive Staudammanlage am Fluss Niger im Tillabéri-Departement.", "Soll die nationale Stromproduktion drastisch erhöhen.", "Schafft zehntausende Hektar landwirtschaftliche Bewässerungsfläche.", "Symbolisiert die Hoffnung auf Energieunabhängigkeit und Ernährungssicherheit.", "Kämpft mit historischen Bauverzögerungen und finanziellen Hürden."],
+      hu: ["Niger legnagyobb folyamatban lévő infrastrukturális beruházása.", "Célja a hidroelektromos áramtermelés és öntözés biztosítása.", "Több tízezer hektárnyi sivatagi földet tesz termékennyé.", "Egész évben stabilizálja a Niger folyó vízállását a fővárosig.", "Megépítése több falu és állatélőhely áttelepítésével jár.", "Jelentősen csökkenti az energiafüggőséget a szomszédos országoktól."],
+      ro: ["Este cel mai mare proiect hidroelectric și agricol inițiat vreodată în istoria Nigerului.", "Proiectul asigură producerea a peste 130 de megawați de energie regenerabilă critică.", "Are scopul vital de a menține un debit minim pe fluviul Niger în sezonul secetos.", "Dezvoltarea barajului permite irigarea a zeci de mii de hectare noi de agricultură utilă.", "Necesită investiții de sute de milioane de dolari de la consorții bancare internaționale.", "Crearea uriașului lac de acumulare a forțat relocalizarea istorică a mii de familii locale.", "Piatra de temelie promite independența energetică masivă a țării de importurile de curent."],
+      en: []
+    }
+  },
   {
     id: "gorou-banda-power-economic-v2",
     type: "industry",
@@ -223,7 +430,20 @@ export const poiExtraNigerEconomicV2: POI[] = [
       hu: ["Fontos áramszolgáltató Niamey számára.", "Nehézolajat használ.", "A nemzeti energiaterv része."],
       ro: ["Furnizor important de energie electrică pentru Niamey.", "Folosește păcură grea.", "Parte a planului energetic național."],
       en: ["Important power supplier for Niamey.", "Uses heavy fuel oil.", "Part of the national energy plan."],
-    }, image: "/poi-images/gorou-banda-power-economic-v2.webp"},
+    }, image: "/poi-images/gorou-banda-power-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "Das thermische Kraftwerk Gorou Banda, etwas außerhalb von Niamey errichtet, ist ein entscheidender Baustein für die moderne Energiesicherheit Nigers. Gebaut, um die notorisch unzuverlässigen Stromimporte aus den Nachbarländern auszugleichen, arbeitet diese riesige Dieselanlage als primärer Stabilisator für das nationale Stromnetz. Seit seiner Inbetriebnahme hat Gorou Banda die ständigen, lähmenden Stromausfälle in der Hauptstadt drastisch reduziert, was das städtische Geschäftsleben, Krankenhäuser und die industrielle Produktion massiv beflügelt hat. Die Anlage ist ein kritischer, wenn auch klimapolitisch umstrittener, Garant für das wirtschaftliche Funktionieren von Niamey.",
+      hu: "A Gorou Banda hőerőmű Niamey mellett a főváros áramellátási válságának enyhítésére épült. Ez a modern, dízel- és nehézolaj-tüzelésű erőmű biztosítja a stabil energiát az áramszünetekkel sújtott ipari és lakossági szektor számára, különösen a forró évszakban, amikor az energiaigény a tetőfokára hág. Mivel az üzemanyagot drágán, külföldről vagy Zinderből kell ideszállítani, a hosszú távú tervek az erőmű részleges napenergiára való átalakítását is tartalmazzák. Fizika K7 — hőerőművek és energiabiztonság.",
+      ro: "Centrala termică Gorou Banda este un complex gigantic situat pe malul stâng al fluviului Niger, conceput special pentru a rezolva crizele de întreruperi de electricitate din orașul Niamey și regiunea Tillabéri. Punerea ei în funcțiune a marcat un moment uriaș de respiro pentru locuitori și industrie, folosind imense rezervoare de combustibil greu pentru a alimenta generatoare de înaltă eficiență. Complexul impresionează noaptea, arătând ca un oraș strălucitor la orizont, separat de metropolă. Fiind cea mai mare centrală funcțională din sudul țării, este un garant național de securitate pe timpul defecțiunilor ce privesc importurile de la marile baraje din Nigeria vecină. (Geografie K7 — generarea termică a securității energetice urbane).",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Thermisches Kraftwerk etwas außerhalb von Niamey.", "Entscheidender Baustein für Nigers moderne Energiesicherheit.", "Arbeitet als primärer Stabilisator für das nationale Stromnetz.", "Reduzierte drastisch die lähmenden Stromausfälle in der Hauptstadt.", "Gleicht notorisch unzuverlässige Stromimporte aus Nachbarländern aus.", "Kritischer Garant für das städtische und industrielle Geschäftsleben."],
+      hu: ["Niamey legfontosabb helyi áramtermelő létesítménye.", "Nehézolaj- és dízeltüzelésű technológiával működik.", "Kritikus szerepe van az áramszünetek csökkentésében a fővárosban.", "Az üzemanyagot hosszú logisztikai láncon keresztül kapja.", "Segíti az ipari és kereskedelmi szektor stabil működését.", "Tervek vannak a jövőbeni megújuló energiás integrációjára."],
+      ro: ["Gorou Banda reprezintă o centrală termică critică instalată foarte aproape de Niamey.", "Inaugurată în anul 2017 pentru a pune capăt penuriei acute și continue de electricitate.", "Capacitatea inițială a generat brusc peste 100 de megawați de energie esențială capitalei.", "Unitatea folosește rezervoare masive de motorină și păcură grea.", "A fost finanțată prin cooperare financiară masivă a Băncii Islamice și state est-africane.", "Sistemele sale de pompare utilizează zilnic apele fluviului pentru răcirea turbinelor.", "Zgomotul enormelor sale generatoare domină malul sudic al orașului pe timp de criză de rețea."],
+      en: []
+    }
+  },
   {
     id: "bilma-salt-pans-economic-v2",
     type: "industry",
@@ -236,7 +456,20 @@ export const poiExtraNigerEconomicV2: POI[] = [
       hu: ["Tömbökben termeli a sót.", "A híres Azalai karavánok célpontja.", "Hagyományos kézimunka."],
       ro: ["Produce sare în blocuri.", "Destinația celebrelor caravane Azalai.", "Muncă manuală tradițională."],
       en: ["Produces salt in blocks.", "Destination of the famous Azalai caravans.", "Traditional manual labor."],
-    }, image: "/poi-images/bilma-salt-pans-economic-v2.webp"},
+    }, image: "/poi-images/bilma-salt-pans-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Salinen von Bilma sind ein atemberaubendes historisches Phänomen tief in der lebensfeindlichen Ténéré-Wüste, die seit Jahrhunderten ohne Unterbrechung betrieben werden. In hunderten von kleinen, in den Wüstenboden gegrabenen Verdunstungsbecken erzeugen die lokalen Kanuri-Arbeiter aus stark salzhaltigem Grundwasser begehrte Salzlaibe und Tierlecksteine. Dieses Salz ist von essenzieller Bedeutung für die Ernährung der Kamel- und Rinderherden im gesamten Sahel. Noch heute reisen die legendären 'Azalai'-Kamelkarawanen Hunderte von Kilometern durch die unbarmherzige Sahara nach Bilma, um dieses weiße Wüstengold zu erwerben und gegen Hirse einzutauschen.",
+      hu: "A Bilma-oázis szélén található hatalmas sólepárló medencék (kawar) több ezer éve a szaharai gazdaság motorjai. A helyiek hagyományos, kézi módszerekkel nyerik ki a sós talajvízből a natront (állati fogyasztásra) és az asztali sót, amelyet aztán jellegzetes, kúp alakú tömbökké (kantou) formálnak. A forró sivatagi nap energiáját használják az elpárologtatásra, a kész terméket pedig ma is részben tevekaravánok viszik a déli piacokra. Kémia K6 — sólepárlás és kristályosodás.",
+      ro: "Salinele de la Bilma sunt probabil cel mai fascinant peisaj de extracție de minerale din toată deșertul Sahara. Zeci de bazine sculptate manual direct în solul de pe marginea depresiunilor Kaouar prind culori hipnotice. Locuitorii, predominant din grupul Toubou, folosesc o tehnică milenară: inundă gropile cu apă din oază, lăsând soarele letal să evapore lichidul pentru a cristaliza sarea și un compus de carbonat de sodiu. Pilonii de sare dură produși aici sunt moneda de schimb tradițională, reprezentând nu doar o industrie, ci viața însăși pentru nomazii care străbat sute de kilometri pe dune pentru a-i cumpăra. (Istorie K8 — economia extracției tradiționale a sării sahariene).",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Atemberaubendes historisches Phänomen in der Ténéré-Wüste.", "Betrieben seit Jahrhunderten ohne historische Unterbrechung.", "Nutzt hunderte kleiner Verdunstungsbecken im Wüstenboden.", "Produziert Salzlaibe essenziell für die Tierernährung im Sahel.", "Zielort der legendären 'Azalai'-Kamelkarawanen.", "Einzigartiger Tauschort von Wüstensalz gegen Hirse."],
+      hu: ["Évezredes hagyománnyal bíró szaharai sólepárló központ.", "A sós talajvizet felszíni medencékben (kawar) párologtatják el.", "Natront és finom asztali sót is bányásznak kézi erővel.", "A sót jellegzetes kúp vagy henger alakú tömbökké formálják.", "Kiemelt állomása és célpontja a híres Azalai karavánoknak.", "A termelés kizárólag a nap energiájára és a száraz szélre épül."],
+      ro: ["Situate extrem de departe în deșertul Ténéré, reprezentând minele seculare din oaza Bilma.", "Minerii folosesc gropi săpate la mică adâncime pentru decantarea apei freatice saline.", "Soarele sahelian evaporă apa, cristalizând sarea în culori incredibile și izbitoare.", "Blocurile cilindrice de sare numite kantu sunt fasonate tradițional și coapte.", "Caravanele Azalai călătoresc mai mult de o lună prin nisipul extrem pentru a le achiziționa.", "Comerțul este condus strict de popoarele locale care cunosc secretele oazelor subterane.", "Sarea brută extrasă aici se folosește primordial ca supliment mineral esențial pentru vite."],
+      en: []
+    }
+  },
   {
     id: "fachi-salt-works-economic-v2",
     type: "industry",
@@ -249,7 +482,20 @@ export const poiExtraNigerEconomicV2: POI[] = [
       hu: ["Fontos állomás a karavánhálózatban.", "A sivatag közepén található.", "Hagyományos sómedencék."],
       ro: ["Stație importantă în rețeaua de caravane.", "Situată în mijlocul deșertului.", "Tăvi de sare tradiționale."],
       en: ["Important station in the caravan network.", "Located in the middle of the desert.", "Traditional salt pans."],
-    }, image: "/poi-images/fachi-salt-works-economic-v2.webp"},
+    }, image: "/poi-images/fachi-salt-works-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Salinen von Fachi bilden neben Bilma eine der wichtigsten Oasen für die Salzgewinnung tief in der lebensfeindlichen Ténéré-Wüste. Die Wirtschaft dieses stark isolierten Dorfes ist fast ausschließlich auf die traditionelle Salzproduktion ausgerichtet, die hier seit Jahrhunderten in mühsamer Handarbeit in flachen Lehmbecken erfolgt. Fachi dient als unverzichtbarer Zwischenstopp für die legendären Azalai-Kamelkarawanen, die das hochwertige Steinsalz in die südlicheren Sahel-Regionen transportieren. Das Überleben der Gemeinschaft hängt gänzlich vom erfolgreichen Tausch des Salzes gegen lebenswichtiges Getreide wie Hirse ab, wodurch Fachi ein lebendes Denkmal des historischen Transsaharahandels bleibt.",
+      hu: "Fachi oázisának sólepárlói évezredek óta a szaharai túlélés és gazdaság fontos pillérei. A Ténéré sivatag szívében fekvő település lakói a felszín alatti sós vizekből párologtatják ki a natront, amelyet aztán kézzel tömörítenek szilárd tömbökké. Ezek a sótéglák elengedhetetlenek a déli régiók állattenyésztésében. Fachi elszigeteltsége miatt a kitermelt sót ma is szinte kizárólag tevekaravánok viszik a piacokra. Kémia K6 — természetes sólepárlás.",
+      ro: "Salinele din oaza Fachi reprezintă una dintre cele mai izolate și tenace operațiuni economice tradiționale de pe glob. Amplasată în mijlocul neiertătorului deșert Ténéré, această rețea de bazine puțin adânci extrage de secole sare și carbonat de sodiu din pânza freatică locală. Minerii folosesc tehnici transmise din tată în fiu, evaporând saramura sub soarele necruțător și modelând sarea în conuri tradiționale numite kantu. Fără această resursă, supraviețuirea orașului Fachi ar fi imposibilă, sarea fiind schimbată anual cu cereale aduse de caravanele de cămile Tuareg venite de la sute de kilometri distanță. (Geografie K7 — economii izolate bazate pe un singur produs).",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Wichtige Salz-Oase tief in der Ténéré-Wüste.", "Wirtschaft basiert ausschließlich auf traditioneller Salzgewinnung.", "Salz wird in mühsamer Handarbeit in Lehmbecken produziert.", "Unverzichtbarer Zwischenstopp für Azalai-Kamelkarawanen.", "Überleben hängt vom Salz-gegen-Hirse-Tauschhandel ab.", "Lebendes Denkmal des historischen Transsaharahandels."],
+      hu: ["A Ténéré sivatag közepén található, elszigetelt sókitermelő hely.", "A natront hagyományos, kézi párologtatásos módszerrel nyerik ki.", "A kész sót jellegzetes tömbökké formálják az állatok számára.", "Kizárólag a napenergiára és a sivatagi hőségre támaszkodik.", "A szállítás javarészt ma is tevekaravánokkal történik.", "Évezredek óta biztosítja az oázis lakóinak megélhetését."],
+      ro: ["Bazinele de sare sunt principala și unica sursă economică a oazei izolate Fachi.", "Sarea brută obținută aici este vitală pentru alimentația vitelor din regiunea Sahel.", "Tehnicile de extracție nu s-au schimbat aproape deloc de peste trei secole.", "Blocurile de sare sunt schimbate predominant pe porumb și mei adus din sud.", "Extracția este limitată la un sezon specific pentru a maximiza evaporarea solară.", "Salinele sunt deținute și exploatate la nivel comunitar și familial.", "Locația se află exact pe faimoasa rută caravanieră Azalai dintre Agadez și Bilma."],
+      en: []
+    }
+  },
   {
     id: "zinder-tannery-economic-v2",
     type: "industry",
@@ -262,7 +508,20 @@ export const poiExtraNigerEconomicV2: POI[] = [
       hu: ["A bőrfeldolgozás hosszú hagyománya.", "Export Nigériába és azon túl.", "Helyi nyersanyagokat használ."],
       ro: ["Tradiție lungă în prelucrarea pielii.", "Export în Nigeria și dincolo de aceasta.", "Utilizează materii prime locale."],
       en: ["Long tradition of leather processing.", "Export to Nigeria and beyond.", "Uses local raw materials."],
-    }, image: "/poi-images/zinder-tannery-economic-v2.webp"},
+    }, image: "/poi-images/zinder-tannery-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Gerbereien von Zinder repräsentieren einen der traditionsreichsten und wirtschaftlich wertvollsten Handwerkszweige der alten Hauptstadt Nigers. In diesen teils historischen, teils semi-industriellen Anlagen verarbeiten hochspezialisierte Handwerker Ziegen-, Schaf- und Kamelhäute zu extrem feinem und haltbarem Leder. Zinder-Leder, oft in leuchtenden Naturfarben wie Rot und Indigo gefärbt, ist weit über die Landesgrenzen hinaus bekannt und wird intensiv nach Nigeria und Nordafrika exportiert. Die Gerbereien, deren beißender Geruch die umliegenden Viertel prägt, bieten Tausenden Familien in Zinder ein stetiges Einkommen und bewahren ein uraltes Hausa-Handwerkserbe.",
+      hu: "A történelmi Zinder városának bőrcserző és bőrfeldolgozó negyede országos hírű a kézműves hagyományairól. A helyi kézművesek generációk óta használják a helyben fellelhető természetes anyagokat, például az akáciafa magvait és különféle ásványokat a kecske- és báránybőrök kikészítéséhez, színezéséhez. Az itt készült magas minőségű bőráruk, mint a cipők, táskák és lószerszámok a nigériai piacokon is keresettek. Kémia K7 — hagyományos cserzőanyagok.",
+      ro: "Tăbăcăriile tradiționale din Zinder sunt inima unuia dintre cele mai vechi și renumite meșteșuguri din Niger. Cu o istorie care datează din perioada de glorie a Sultanatului Damagaram, aceste ateliere folosesc exclusiv metode naturale de prelucrare, bazate pe extracte din plante indigene și excremente de porumbel pentru a curăța și înmuia pieile. Rezultatul este o piele de o calitate excepțională, faimoasă sub numele de marochinărie fină, folosită la producția de genți, papuci tradiționali și amulete. Tăbăcarii lucrează în bazine uriașe din lut colorate natural, oferind un peisaj industrial arhaic și vibrant în centrul orașului. (Istorie K8 — meșteșugurile tradiționale precoloniale).",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Traditionsreichster Handwerkszweig der alten Hauptstadt Zinder.", "Verarbeitet Ziegen-, Schaf- und Kamelhäute zu feinstem Leder.", "Leder wird oft in leuchtenden Naturfarben gefärbt.", "Starkes Exportgut nach Nigeria und ganz Nordafrika.", "Bietet Tausenden Familien ein stetiges, verlässliches Einkommen.", "Bewahrt ein uraltes, hochspezialisiertes Hausa-Handwerkserbe."],
+      hu: ["Országos hírű kézműves bőrfeldolgozó központ Zinder városában.", "A cserzéshez természetes anyagokat és helyi növényeket használnak.", "A kecske- és báránybőr magas minőségű kikészítésére specializálódtak.", "A hagyományos technikák évszázadok óta változatlanok.", "A termékeket (táskák, nyergek) Nigériába is exportálják.", "Fontos helyi munkáltató a történelmi városrészben."],
+      ro: ["Zinder a fost istoric centrul exportului de piele de lux (marochinărie) în Africa.", "Tehnicile folosite implică vopsele naturale extrase din scoarță și rădăcini de copaci.", "Pieile de capră de Zinder sunt recunoscute internațional pentru finețea lor.", "Tăbăcăriile sunt structurate sub formă de zeci de bazine circulare săpate în lut.", "Meșteșugul este dominat de bresle tradiționale cu ierarhii vechi de secole.", "Zilnic se prelucrează sute de piei, generând un miros puternic și specific în zonă.", "Piața artizanală de piele de aici atrage negustori din toată Africa de Vest."],
+      en: []
+    }
+  },
   {
     id: "niamey-abattoir-economic-v2",
     type: "industry",
@@ -275,7 +534,20 @@ export const poiExtraNigerEconomicV2: POI[] = [
       hu: ["Szarvasmarhákat, juhokat és kecskéket dolgoz fel.", "Fontos az élelmiszerellátás szempontjából.", "Niameyben található."],
       ro: ["Procesează bovine, ovine și caprine.", "Important pentru aprovizionarea cu alimente.", "Situat în Niamey."],
       en: ["Processes cattle, sheep, and goats.", "Important for food supply.", "Located in Niamey."],
-    }, image: "/poi-images/niamey-abattoir-economic-v2.webp"},
+    }, image: "/poi-images/niamey-abattoir-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "Der industriell angelegte Schlachthofkomplex von Niamey ist das absolute Nervenzentrum der nationalen Fleischverarbeitung und ein entscheidender Motor der städtischen Versorgung. Die Anlage wurde in den letzten Jahren umfangreich modernisiert, um strengere Hygiene- und Qualitätsstandards zu erfüllen, was auch den Export von Premium-Rindfleisch in benachbarte Länder und den Nahen Osten ermöglicht hat. Frühmorgens herrscht hier eine unglaubliche Dynamik, wenn Hunderte von Viehzüchtern ihre Rinder, Schafe und Ziegen anliefern. Der Schlachthof garantiert nicht nur die Ernährungssicherheit der rasant wachsenden Millionenmetropole, sondern stabilisiert auch die Preise für die nomadischen Viehbauern des Landes.",
+      hu: "A niameyi központi vágóhíd (Abattoir Frigorifique de Niamey) az ország legnagyobb húsfeldolgozó üzeme. A létesítmény naponta több ezer állatot – szarvasmarhát, kecskét, juhot és tevét – dolgoz fel, nemcsak a főváros friss hússal való ellátására, hanem jelentős exportra is. Az állattenyésztés Niger gazdaságának egyik fő tartópillére, így a vágóhíd modernizációja kulcsfontosságú volt a higiéniai és hűtési lánc biztosításához. Biológia K6 — élelmiszer-biztonság és húsipar.",
+      ro: "Abatorul Central din Niamey este o unitate industrială critică pentru aprovizionarea zilnică cu carne a milioanelor de locuitori ai capitalei, dar și pentru piața națională de export a produselor derivate din piele. Amplasat la periferia sudică, abatorul procesează un flux uriaș de vite Zebu, oi și capre aduse de nomazi de pe tot teritoriul Nigerului. Cu standarde de igienă aflate într-un proces continuu de modernizare, complexul reflectă importanța uriașă a economiei pastorale în Niger. Acesta nu este doar un simplu abator, ci un hub social și economic unde se întâlnesc crescătorii nomazi și comercianții urbani, stabilind prețurile cărnii la nivel național. (Geografie K7 — industria alimentară și pastoralismul).",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Nervenzentrum der nationalen und städtischen Fleischverarbeitung.", "Kürzlich modernisiert, um internationale Hygienestandards zu erfüllen.", "Ermöglicht den Export von Premium-Rindfleisch in den Nahen Osten.", "Verarbeitet täglich riesige Mengen Rinder, Schafe und Ziegen.", "Garantiert die Ernährungssicherheit der Hauptstadt Niamey.", "Stabilisiert die Viehpreise für landesweite, nomadische Züchter."],
+      hu: ["Niger legnagyobb és legmodernebb húsfeldolgozó üzeme.", "Naponta több ezer állat vágását és hűtését végzi.", "Közvetlen szerepe van a hústermékek (főleg marha) exportjában.", "Az állattenyésztés az ország második legnagyobb bevételi forrása.", "Jelentős nemzetközi (főleg arab) beruházások érkeztek ide.", "Gondoskodik az egymilliós főváros élelmiszer-biztonságáról."],
+      ro: ["Este cea mai mare unitate de procesare a cărnii roșii din teritoriul Republicii Niger.", "Procesează zilnic sute de bovine Zebu și mii de caprine și ovine.", "Unitatea este un cumpărător major pentru triburile pastorale nomade precum Peul.", "Guvernul modernizează constant facilitățile pentru a atinge standardele de export.", "Abatorul generează cantități uriașe de materie primă pentru tăbăcăriile capitalei.", "Asigură securitatea alimentară proteică pentru aglomerarea urbană din Niamey.", "Reglementează masiv prețul național al cărnii în funcție de perioadele de secetă."],
+      en: []
+    }
+  },
   {
     id: "galmi-onion-processing-economic-v2",
     type: "industry",
@@ -288,7 +560,20 @@ export const poiExtraNigerEconomicV2: POI[] = [
       hu: ["A 'Violet de Galmi' hagyma eredete.", "Fontos mezőgazdasági ipari központ.", "Tömeges export a szomszédos országokba."],
       ro: ["Originea cepei 'Violet de Galmi'.", "Important centru industrial agricol.", "Export în masă către țările vecine."],
       en: ["Origin of the 'Violet de Galmi' onion.", "Important agricultural industrial center.", "Mass export to neighboring countries."],
-    }, image: "/poi-images/galmi-onion-processing-economic-v2.webp"},
+    }, image: "/poi-images/galmi-onion-processing-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "Galmi ist das unbestrittene Epizentrum des Zwiebelanbaus in Westafrika und stolze Heimat der berühmten Sorte 'Violette de Galmi'. Diese intensiv schmeckende, rot-violette Zwiebel ist so gefragt, dass sie von hier aus bis an die Elfenbeinküste und nach Ghana exportiert wird. Die Verarbeitung in Galmi umfasst das Trocknen, Sortieren und die massenhafte Abfüllung in charakteristische, grobmaschige Jutesäcke. Während der Haupterntezeit gleicht die Region einem riesigen, duftenden Meer aus Zwiebelfeldern. Die durch dörfliche Kooperativen organisierte Vermarktung der Galmi-Zwiebel ist ein herausragendes Beispiel für die wirtschaftliche Macht spezialisierter landwirtschaftlicher Nischen im Niger.",
+      hu: "A \\\"Galmi lilahagyma\\\" Niger egyik legismertebb mezőgazdasági exportcikke, és a Galmi környéki feldolgozó központ az iparág szíve. A rendkívül erős, fűszeres ízű hagymafajtát Nyugat-Afrika szerte keresik. A helyi gazdák esős és száraz évszakban egyaránt termesztik, majd a város piaca köré épült hálózat begyűjti, osztályozza és hatalmas zsákokban szállítja a tengerparti országokba (például Elefántcsontpartra). Földrajz K7 — afrikai agrár-export.",
+      ro: "Centrul de prelucrare și comercializare a cepei din Galmi reprezintă mândria agriculturii comerciale din regiunea Tahoua. Aici, se cultivă, se sortează și se ambalează faimoasa ceapă violet de Galmi, un produs extrem de apreciat pe plan internațional pentru iuțeala și durata sa lungă de conservare. Datorită irigațiilor masive din zonele văilor seci, producția de ceapă a devenit un gigant economic local. Piața și depozitele de aici sunt pline ochi de saci purpurii, cu mii de tone gata de a fi încărcate în camioane care pleacă spre Coasta de Fildeș, Ghana și Nigeria, susținând financiar o întreagă regiune. (Geografie K7 — agricultura de export intra-africană).",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Epizentrum des westafrikanischen Zwiebelanbaus.", "Heimat der begehrten Zwiebelsorte 'Violette de Galmi'.", "Wird intensiv bis an die Elfenbeinküste und Ghana exportiert.", "Umfasst Sortierung und Abfüllung in grobmaschige Jutesäcke.", "Wird stark durch dörfliche Kooperativen vermarktet.", "Herausragendes Beispiel wirtschaftlicher Nischen in der Landwirtschaft."],
+      hu: ["A \\\"Galmi lilahagyma\\\" Nyugat-Afrika egyik legkeresettebb fűszernövénye.", "A termelést intenzív, egész éves öntözéssel biztosítják.", "Hatalmas zsákokban exportálják a környező tengerparti országokba.", "Több ezer helyi gazdának nyújt stabil, magas megélhetést.", "A hagyma szárítása és tárolása speciális helyi technikákkal történik.", "A régió gazdasági felemelkedésének fő mozgatórugója."],
+      ro: ["Ceapa violet de Galmi este cel mai faimos produs agricol de export al Nigerului.", "Soiul de ceapă cultivat aici este căutat în toată Africa de Vest pentru aroma sa.", "Centrul logistic ambalează și încarcă zilnic mii de tone în camioane de mare tonaj.", "Depozitarea se face adesea în hambare tradiționale aerisite pentru a preveni putregaiul.", "Agricultura este menținută activă 12 luni pe an datorită puțurilor forate în zonă.", "A ridicat dramatic standardul de viață al fermierilor din departamentul Tahoua.", "Se află pe axa comercială rutieră majoră ce face legătura est-vest în țară."],
+      en: []
+    }
+  },
   {
     id: "teguidda-salt-extraction-economic-v2",
     type: "industry",
@@ -301,7 +586,20 @@ export const poiExtraNigerEconomicV2: POI[] = [
       hu: ["Feltűnő színes sómedencék.", "A só elsősorban állati fogyasztásra szolgál.", "A régió gazdasági éltető eleme."],
       ro: ["Bazine de sare colorate izbitoare.", "Sare în principal pentru consumul animalelor.", "Colacul de salvare economic al regiunii."],
       en: ["Striking colorful salt ponds.", "Salt primarily for livestock consumption.", "Economic lifeline of the region."],
-    }, image: "/poi-images/teguidda-salt-extraction-economic-v2.webp"},
+    }, image: "/poi-images/teguidda-salt-extraction-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "Teguidda-n-Tessoumt ist eine wahrlich einzigartige und visuell atemberaubende Stätte der Salzgewinnung am westlichen Rand des Aïr-Gebirges. Im Gegensatz zu den Minen in Bilma wird das Salz hier nicht aus Steinsalzblöcken, sondern aus stark salzhaltiger Tonerde extrahiert. Die einheimischen Frauen waschen die Tonerde in Tausenden von bunten, runden Verdunstungsbecken, die aus der Vogelperspektive wie eine gigantische Palette von Pastellfarben aussehen. Das hier gewonnene braun-rötliche Salz ist weniger für den menschlichen Verzehr, sondern als hoch geschätztes Mineralstoffsupplement für Kamel- und Zebuherden in ganz Niger gedacht.",
+      hu: "Teguidda-n-Tessoumt sóbányái vizuálisan az egyik leglátványosabb ipari tájat alkotják Észak-Nigerben. A kerek, vörös és barna agyagmedencék százai úgy néznek ki a sivatagból, mint egy idegen bolygó felszíne. A sót itt nem vízlepárlással, hanem sós talaj és víz iszapossá keverésével, majd annak szűrésével és napon szárításával nyerik. A termelést hagyományosan az asszók (tuareg asszonyok) irányítják, a sót pedig nomád pásztoroknak adják el. Kémia K6 — iszapos sólepárlás.",
+      ro: "Situl antic de extracție a sării de la Teguidda-n-Tessoumt este un loc fascinant situat la nord de Agadez, dominat de sute de bazine de lut multicolor care creează un peisaj de un pitoresc uluitor. Aici, familiile locale nu sapă după blocuri de sare, ci extrag pământ bogat în sare pe care îl spală în apă freatică pentru a produce o saramură bogată. Sub soarele orbitor, apa se evaporă lăsând în urmă o pastă de sare brună și roșiatică, utilizată strict ca tratament mineral curativ pentru turmele de vite și cămile. Tehnicile vechi și priveliștea ochiurilor de apă colorate ca o paletă de pictor fac din Teguidda un monument unic al rezilienței umane. (Istorie K8 — tehnologii primare de procesare minerală).",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Einzigartige Salzgewinnungsstätte am Rand des Aïr-Gebirges.", "Salz wird aus stark salzhaltiger Tonerde extrahiert.", "Arbeit erfolgt in Tausenden runden, bunten Verdunstungsbecken.", "Visuell atemberaubend, sieht aus wie eine Pastellfarben-Palette.", "Produziert ein spezielles, braun-rötliches Tiersalz.", "Hoch geschätztes Supplement für Kamel- und Zebuherden."],
+      hu: ["Egyedi, sár és sós víz keverésén alapuló sókinyerő módszer.", "A vörös, narancs és barna lepárló medencék ikonikus látványt nyújtanak.", "A munkát hagyományosan a helyi nők (tuaregek) végzik.", "A termék elsősorban állatok sóellátására szolgál.", "Nincs állandó édesvízforrás a közelben, így az élet zord.", "A termelés kizárólag a sivatagi hőségre építkezik."],
+      ro: ["Situl este alcătuit din sute de bazine circulare de lut cu ape de diverse culori.", "Sarea produsă aici (numită natron) are o nuanță brună sau roșiatică distinctă.", "Produsul finit nu este pentru consum uman, ci ca supliment vital pentru vitele nomazilor.", "Extracția combină pământul argilos sărat cu apa adusă din izvoarele locale.", "Fiecare familie deține un grup specific de bazine transmise din generație în generație.", "Culoarea diferită a bazinelor este dată de concentrația minerală și de stadiul evaporării.", "Situl este un popas esențial pentru marea migrație a turmelor din timpul Cure Salée."],
+      en: []
+    }
+  },
   {
     id: "maradi-dry-port-project-economic-v2",
     type: "port",
@@ -314,7 +612,20 @@ export const poiExtraNigerEconomicV2: POI[] = [
       hu: ["A nigériai határ közelében található.", "Csökkentenie kell a logisztikai költségeket.", "Fontos Közép-Niger gazdasága számára."],
       ro: ["Situat aproape de granița cu Nigeria.", "Menit să reducă costurile logistice.", "Important pentru economia Nigerului central."],
       en: ["Located near the Nigerian border.", "Designed to lower logistics costs.", "Important for the economy of central Niger."],
-    }, image: "/poi-images/maradi-dry-port-project-economic-v2.webp"},
+    }, image: "/poi-images/maradi-dry-port-project-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "Das ambitionierte Trockenhafen-Projekt in Maradi wurde konzipiert, um den massiven grenzüberschreitenden Handel zwischen dem rohstoffreichen Süd-Niger und den nordnigerianischen Wirtschaftszentren wie Kano radikal zu beschleunigen. Als topmodernes Logistikzentrum bietet die Anlage großflächige Containerterminals, effiziente Zollabfertigungen vor Ort und großzügige Lagerhallen für Agrargüter. Ziel des Trockenhafens ist es, die extremen bürokratischen Verzögerungen an den traditionellen Grenzübergängen zu eliminieren und Maradi als primären Handelsknotenpunkt für Importe aus den Seehäfen von Lagos (Nigeria) fest zu etablieren. Dies stärkt Maradis Ruf als heimliche Wirtschaftshauptstadt Nigers.",
+      hu: "A Maradi szárazkikötő a nigériai határ közelében épülő hatalmas logisztikai csomópont, amely Niger gazdasági fellendülésének egyik kulcsa. Mivel Maradi az ország kereskedelmi fővárosa, ez a terminál lehetővé teszi, hogy a tengeren érkező importárukat már itt vámkezeljék a Lagosból (Nigéria) érkező teherautókról. A projekt óriási raktárkapacitást és modern hűtőházakat is magában foglal, ami forradalmasítja a helyi kereskedelmet. Gazdaságföldrajz K7 — modern afrikai logisztika.",
+      ro: "Proiectul Portului Uscat din Maradi este o inițiativă logistică majoră concepută pentru a canaliza și oficializa volumul uriaș de comerț dintre regiunile de sud ale Nigerului și super-puterea economică vecină, Nigeria. Aflat în capitala economică a țării, acest hub funcționează ca un centru imens de vămuire, stocare și redistribuire. Până la finalizarea sa, comerțul s-a bazat pe rețele masive de contrabandă informale. Cu depozite noi și terminale de containere, Portul Maradi eficientizează exportul de animale, cereale și piei, transformând haosul transfrontalier într-un motor de venituri organizat și modern. (Geografie K7 — hub-uri de graniță și integrare economică regională).",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Ambitioniertes Logistikzentrum für den grenzüberschreitenden Handel.", "Fokussiert auf den Warenaustausch mit Nordnigeria (v.a. Kano).", "Bietet Containerterminals und Zollabfertigungen vor Ort.", "Eliminiert bürokratische Verzögerungen an den Grenzen.", "Primärer Handelsknotenpunkt für Importe aus Lagos.", "Stärkt Maradis Ruf als heimliche Wirtschaftshauptstadt Nigers."],
+      hu: ["Modern logisztikai terminál Niger kereskedelmi fővárosában.", "Közvetlen kereskedelmi összeköttetést biztosít a lagosi kikötővel.", "Helyben történik az import áruk vámkezelése és elosztása.", "Csökkenti az ország kiszolgáltatottságát az elavult határokon.", "Hatalmas hűtőházakat építenek az élelmiszer-biztonság érdekében.", "Jelentős magán- és állami befektetésekből valósul meg."],
+      ro: ["Maradi este considerat inima comercială a țării datorită graniței cu statul Kano, Nigeria.", "Portul uscat centralizează sute de camioane de marfă anterior procesate lent la frontiere.", "Infrastructura sprijină transformarea comerțului informal în tranzit vamal legal.", "Zonele de stocare includ facilități pentru produsele agricole perisabile de export.", "Sprijină enorm sectorul zootehnic prin procesarea rapidă a exporturilor de vite.", "Proiectul este o investiție critică susținută parțial prin fonduri regionale africane.", "Va reduce evaziunea fiscală și timpii morți care sufocau anterior transportatorii."],
+      en: []
+    }
+  },
   {
     id: "diffa-oil-exploration-economic-v2",
     type: "industry",
@@ -327,7 +638,20 @@ export const poiExtraNigerEconomicV2: POI[] = [
       hu: ["Az Agadem olajprojekt része.", "Nemzetközi olajvállalatokat vonz.", "Átalakítja a regionális gazdaságot."],
       ro: ["Parte a proiectului petrolier Agadem.", "Atrage companii petroliere internaționale.", "Transformă economia regională."],
       en: ["Part of the Agadem oil project.", "Attracts international oil companies.", "Transforms the regional economy."],
-    }, image: "/poi-images/diffa-oil-exploration-economic-v2.webp"},
+    }, image: "/poi-images/diffa-oil-exploration-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Erdölexploration in der Region Diffa markiert ein neues, hochprofitables Kapitel in der jüngeren Wirtschaftsgeschichte Nigers. Tief im Tschadbecken gelegen, zieht dieses Gebiet enorme internationale Investitionen von Ölkonzernen an, die seismische Untersuchungen durchführen und erste Explorationsbohrungen abteufen. Die geologischen Formationen hier weisen erstaunliche Ähnlichkeiten mit den ertragreichen Feldern des benachbarten Tschad auf. Trotz massiver logistischer und sicherheitspolitischer Herausforderungen durch die geopolitische Instabilität der Tschadsee-Region setzt die Regierung große Hoffnungen in Diffa, um die nationale Erdölförderung neben dem Agadem-Feld auf ein zweites starkes Standbein zu stellen.",
+      hu: "A Diffa régióban zajló kőolajkutatás és kitermelés az elmúlt évtizedben radikálisan átalakította ezt a korábban elszigetelt, sivatagi és tóvidéki területet. A kínai olajvállalatok (CNPC) mély fúrásokat végeztek a Csád-tó medencéjének peremén, új infrastruktúrát, utakat és hatalmas kempingeket hozva létre. Bár a fekete arany jelentős nemzeti bevételt generál, a helyi közösségek gyakran panaszkodnak a környezeti károkra és arra, hogy a bevételekből keveset látnak. Társadalomtudomány K8 — olajipar és helyi közösségek.",
+      ro: "Zona de explorare petrolieră din Diffa reprezintă inima celei mai mari transformări economice a estului sălbatic din Niger. Într-un bazin geologic masiv care se întinde până la Lacul Ciad, companiile internaționale folosesc tehnologie de vârf pentru a perfora adânc sub nisip, descoperind zăcăminte valoroase de aur negru. Acest hub a transformat orașul prăfuit Diffa într-un pol logistic plin de ingineri expatriați, camioane grele și infrastructură nouă. Exploatările din regiune sunt conectate direct la viziunea Nigerului de a deveni o putere energetică de export majoră, construind conducte uriașe către ocean. (Geografie K7 — explorarea resurselor strategice).",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Neues, hochprofitables Kapitel der nigrischen Erdölwirtschaft.", "Gelegen im geologisch vielversprechenden Tschadbecken.", "Zieht enorme Investitionen von internationalen Ölkonzernen an.", "Bohrungen erfolgen trotz geopolitischer Sicherheitsrisiken.", "Soll als zweites starkes Standbein neben Agadem dienen.", "Formationen ähneln den ertragreichen Ölfeldern im Tschad."],
+      hu: ["A Csád-tó medencéjének kiterjedt olajkutatási és fúrási zónája.", "Főként kínai vállalatok (CNPC) vezetik a kitermelést.", "Hatalmas, lezárt ipari táborok (bázisok) épültek a sivatagban.", "A térség infrastruktúrája jelentősen fejlődött az ipar miatt.", "Állandó feszültséget okoz a környezetkárosítás a helyiek körében.", "A kőolajat csővezetéken juttatják el a zinderi finomítóba."],
+      ro: ["Bazinul estic este nucleul principal al rezervelor de hidrocarburi din Niger.", "Explorarea intensivă a demarat prin asocierea cu firme energetice de stat chineze.", "Forajele coboară la mii de metri sub stratul de nisip sahelian și argile.", "Industria a creat o micro-economie uriașă de servicii de suport logistic în orașul Diffa.", "Infrastructura petrolieră este protejată strict datorită apropierii de zonele de conflict.", "Dezvoltarea includerea construirii unor stații imense de pompare pe noile conducte.", "Sectorul petrolier din această regiune a triplat veniturile din export ale statului."],
+      en: []
+    }
+  },
   {
     id: "koma-bangou-gold-economic-v2",
     type: "industry",
@@ -340,7 +664,20 @@ export const poiExtraNigerEconomicV2: POI[] = [
       hu: ["A kézműves bányászatról ismert.", "Több ezer munkás a helyszínen.", "Fontos nem hivatalos bevételi forrás."],
       ro: ["Cunoscut pentru mineritul artizanal.", "Mii de muncitori la fața locului.", "O sursă importantă, neoficială, de venit."],
       en: ["Known for artisanal mining.", "Thousands of workers on site.", "Important unofficial source of income."],
-    }, image: "/poi-images/koma-bangou-gold-economic-v2.webp"},
+    }, image: "/poi-images/koma-bangou-gold-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Goldfeld von Koma Bangou in der Region Tillabéri ist einer der wichtigsten und berüchtigtsten Orte für den handwerklichen Goldabbau in Niger. In einer mondähnlichen Landschaft suchen hier Zehntausende von Menschen unter oft extrem schwierigen und gefährlichen Bedingungen in tiefen, ungesicherten Schächten nach dem wertvollen Edelmetall. Die Siedlung gleicht einer wilden Boomtown, deren Wirtschaft völlig vom Tagespreis für Gold bestimmt wird. Während der Abbau für viele verzweifelte Migranten aus der Region den einzigen Weg aus der Armut darstellt, ist die Stätte durch schwere ökologische Probleme und die mangelnde Arbeitssicherheit hoch umstritten.",
+      hu: "Koma Bangou a nyugati Tillabéri régió egyik leghíresebb és legveszélyesebb kézműves aranybányája. A település néhány év alatt sátortáborból egy nyüzsgő, kaotikus várossá nőtte ki magát a \\\"zöldkő\\\" övezetben talált aranyereknek köszönhetően. A bányászok életveszélyes, keskeny aknákban dolgoznak, míg a felszínen asszonyok zúzzák a kőzetet higany segítségével. A helyszín rávilágít az afrikai informális bányászat gazdasági fontosságára és drámai emberi árnyoldalaira. Társadalomtudomány K8 — informális aranybányászat.",
+      ro: "Situl aurifer de la Koma Bangou, amplasat în faimoasa zonă geologică Liptako, este locul unei intense activități de minerit artizanal, cunoscută sub numele de orpaillage. Zeci de mii de căutători independenți s-au adunat aici formând un vast oraș de corturi și colibe pe un teren presărat cu cratere adânci săpate manual. Minerii extrag piatra cu târnăcoape, o zdrobesc în praf și apoi o spală folosind tehnici rudimentare cu substanțe toxice pentru a separa firicelele de aur. Este o zonă periculoasă, guvernată de reguli informale, dar care generează zilnic cantități surprinzătoare de aur neînregistrat, injectând capital proaspăt în economia satelor din regiune. (Geografie K7 — minerit artizanal extrem).",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Berüchtigter Ort für handwerklichen Goldabbau in Tillabéri.", "Zehntausende arbeiten unter extrem schwierigen Bedingungen.", "Gefährlicher Abbau erfolgt in tiefen, ungesicherten Schächten.", "Siedlung gleicht einer wilden Boomtown in mondähnlicher Landschaft.", "Bietet vielen armen Migranten die einzige Überlebenschance.", "Hoch umstritten wegen fehlender Sicherheit und Umweltproblemen."],
+      hu: ["Niger legnagyobb kézműves aranybányászati központja nyugaton.", "Több tízezer ember él és dolgozik itt informális körülmények között.", "A bányászok gyakran tíz méternél is mélyebb, instabil aknákba szállnak.", "A kőzet kinyeréséhez veszélyes, mérgező higanyt használnak.", "Sátortáborból kaotikus, állandó településsé nőtte ki magát.", "A hatóságok nehezen tudják szabályozni vagy megadóztatni."],
+      ro: ["Koma Bangou este una dintre cele mai vaste tabere de mineri artizanali din vestul țării.", "Activitatea se desfășoară sub pământ prin tunele înguste susținute rudimentar de bârne.", "Peste 30.000 de mineri independenți trăiesc și lucrează adesea simultan în perimetru.", "Aurul brut extras aici este adesea vândut pe piețele negre regionale și internaționale.", "Riscurile ecologice sunt imense din cauza folosirii libere a mercurului pentru separare.", "Guvernul încearcă constant să reglementeze și să asigure paza în acest perimetru.", "Situl funcționează cu o micro-economie internă de pompe de apă, explozibili și comerț alimentar."],
+      en: []
+    }
+  },
   {
     id: "ayorou-livestock-market-economic-v2",
     type: "industry",
@@ -353,7 +690,20 @@ export const poiExtraNigerEconomicV2: POI[] = [
       hu: ["Nagy regionális állatpiac.", "A szomszédos országokból vonzza a kereskedőket.", "Gazdasági központ a Niger folyón."],
       ro: ["Piață regională mare de animale.", "Atrage comercianți din țările vecine.", "Centru economic pe fluviul Niger."],
       en: ["Large regional livestock market.", "Attracts traders from neighboring countries.", "Economic center on the Niger River."],
-    }, image: "/poi-images/ayorou-livestock-market-economic-v2.webp"},
+    }, image: "/poi-images/ayorou-livestock-market-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Viehmarkt von Ayorou ist nicht nur ein spektakuläres optisches Ereignis, sondern auch einer der wichtigsten wirtschaftlichen Termine in der westlichen Sahelzone. Jeden Sonntag verwandelt sich die Flussstadt am Niger in ein gigantisches Handelszentrum, auf dem Tausende von kräftigen Rindern, wüstenresistenten Schafen und majestätischen Kamelen gehandelt werden. Züchter der Fulani und Tuareg verhandeln hier mit Käufern, die die Tiere bis an die westafrikanische Küste exportieren. Der Markt sichert das Überleben der pastoralen Wirtschaft in der Region Tillabéri und stärkt die interethnischen Handelsbeziehungen zwischen Flussbauern und nomadischen Hirten.",
+      hu: "Ayorou állatpiaca nemcsak gazdasági esemény, hanem kulturális intézmény is a Niger folyó partján. Minden vasárnap a környező régiók és Mali nomád pásztorai ide terelik hatalmas zebu és tevecsordáikat. A folyón átkelő állatok látványa ikonikus. A piac nemcsak a húsellátást biztosítja a déli városok számára, hanem központi szerepet játszik az információk cseréjében, a házasságkötésekben és a társadalmi kapcsolatok ápolásában. Társadalomföldrajz K7 — nomád piacok társadalmi szerepe.",
+      ro: "Piața de animale din Ayorou este un spectacol vizual și economic de neegalat, așezată pitoresc pe insulele și malurile fluviului Niger. În fiecare duminică, târgul devine un epicentru unde nomazii Tuareg veniți din nord cu cămile și oi se întâlnesc cu comercianții Songhai și Peul sosiți pe pirogi imense pline cu vite de apă. Numărul impresionant de animale care schimbă proprietarii transformă acest loc într-un \"Wall Street\" rural. Pe lângă tranzacțiile masive cu vite destinate exportului către țările de coastă, piața pulsează de viață, vânzându-se blocuri de sare, ierburi medicinale și brățări din argint. (Geografie K7 — comerțul tradițional interetnic).",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Einer der wichtigsten sonntäglichen Viehmärkte der Sahelzone.", "Handelsplatz für Tausende Rinder, Schafe und Kamele.", "Treffpunkt für Züchter der Fulani und Tuareg.", "Viele Tiere werden für den Export an die Küste gehandelt.", "Sichert das Überleben der pastoralen Wirtschaft in Tillabéri.", "Stärkt interethnische Handelsbeziehungen in der Region."],
+      hu: ["A Niger folyó menti régió egyik legfontosabb vasárnapi állatpiaca.", "Mali nomádjai is idehozzák eladni szarvasmarha- és tevecsordáikat.", "A folyón átúsztatott állatok látványosságnak számítanak.", "Kulcsszerepet játszik Dél-Niger és Niamey húsellátásában.", "A gazdasági funkció mellett kiemelkedő társadalmi találkozóhely.", "Élénk kereskedelem zajlik kézműves bőr- és fémtárgyakkal is."],
+      ro: ["Piața duminicală de la Ayorou este faimoasă la nivel internațional în Africa de Vest.", "Combinația unică de acces fluvial și terestru favorizează comerțul la scară largă.", "Peste graniță din Mali sosesc frecvent negustori pentru a cumpăra și vinde animale.", "Bovinele Zebu din această piață sunt o sursă critică de carne pentru Coasta de Fildeș.", "Bărcile lungi de lemn (pinasses) blochează complet malul fluviului în ziua de târg.", "Prețurile stabilite aici influențează valoarea animalelor în întreaga regiune Tillabéri.", "Evenimentul este, de asemenea, un imens spațiu de socializare interetnică și negociere."],
+      en: []
+    }
+  },
   {
     id: "zinder-peanut-processing-economic-v2",
     type: "industry",
@@ -366,7 +716,20 @@ export const poiExtraNigerEconomicV2: POI[] = [
       hu: ["A földimogyoró-termelés történelmi központja.", "Fontos az olaj- és pasztagyártásban.", "Meghatározta Zinder gazdaságát."],
       ro: ["Centrul istoric al producției de arahide.", "Important pentru producția de ulei și pastă.", "A modelat economia Zinderului."],
       en: ["Historical center of peanut production.", "Important for oil and paste production.", "Shaped the economy of Zinder."],
-    }, image: "/poi-images/zinder-peanut-processing-economic-v2.webp"},
+    }, image: "/poi-images/zinder-peanut-processing-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "Zinder blickt auf eine glorreiche Vergangenheit als das unangefochtene Erdnuss-Zentrum Nigers zurück. Während der Kolonial- und frühen Unabhängigkeitszeit bildeten riesige Pyramiden aus geernteten Erdnüssen (die berühmten 'Pyramides d'Arachides') das Stadtbild und begründeten den Reichtum der Region. Auch heute noch spielt die Verarbeitung von Erdnüssen zu Öl und nahrhafter Erdnusspaste eine zentrale Rolle in der städtischen Wirtschaft. Die lokale Agrarindustrie bemüht sich derzeit, durch die Einführung trockenresistenterer Erdnuss-Sorten an alte Exporterfolge anzuknüpfen und die starke Position von Zinder auf den Märkten Nordnigerias wiederherzustellen.",
+      hu: "Zinder a 20. század közepén Nyugat-Afrika egyik legnagyobb földimogyoró-feldolgozó központja volt, és bár az iparág az aszályok miatt visszaszorult, ma újra reneszánszát éli. A város körüli agyagos, homokos talaj tökéletes a mogyorótermesztéshez. A helyi kisüzemek és modern gyárak a mogyoróból étolajat, állati takarmányt és fűszerpasztákat (például a híres kuli-kulit) állítanak elő, amelyeket belföldön és a szomszédos Nigériában értékesítenek. Gazdaságföldrajz K7 — afrikai élelmiszer-feldolgozás.",
+      ro: "Sectorul de prelucrare a arahidelor din Zinder, deși nu mai cunoaște gloria din anii 1960-1970 când regiunea era cel mai mare producător de alune din lume, rămâne o activitate economică simbolică și crucială. Uzinele locale, cunoscute sub numele tradițional de 'huileries', continuă să preseze mii de tone de arahide cultivate în satele înconjurătoare, extrăgând ulei rafinat cu o aromă unică, profund valorizat în bucătăria africană și europeană. Resturile solide (turtele de arahide) sunt un furaj premium vital pentru animalele de tracțiune. Astăzi, renașterea acestei industrii este susținută de noi cooperative rurale care reîntineresc solurile epuizate. (Geografie K7 — ciclurile economice ale produselor agrare).",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Unangefochtenes historisches Erdnuss-Zentrum Nigers.", "Bekannt für die historischen riesigen 'Erdnuss-Pyramiden'.", "Erdnussverarbeitung zu Öl und Paste ist heute noch zentral.", "Begründete einst den enormen historischen Reichtum Zinders.", "Nutzt heute zunehmend trockenresistentere Erdnuss-Sorten.", "Zielt auf Export-Märkte im bevölkerungsreichen Nordnigeria."],
+      hu: ["A történelmi földimogyoró-ipar újjáéledő központja.", "A helyi homokos talaj ideális a mogyoró termesztéséhez.", "Fő termékeik a mogyoróolaj és az állati takarmány (pogácsa).", "A hagyományos \\\"kuli-kuli\\\" mogyorópaszta fontos helyi élelmiszer.", "Helyi női szövetkezetek is aktívan részt vesznek a feldolgozásban.", "A termékek nagy része a nigériai piacra kerül."],
+      ro: ["Zinder a fost supranumit în anii 1970 capitala mondială a piramidelor de arahide.", "Zeci de fabrici mici și mijlocii produc ulei pur de arahide pentru consum intern.", "Turtele rezultate din stoarcerea arahidelor sunt furaje proteice scumpe pentru animale.", "Clima capricioasă a lovit puternic randamentul, provocând restructurarea industriei.", "Cooperativele de femei au preluat o mare parte a sortării și prăjirii artizanale.", "Vânzarea arahidelor constituie sursa primară de numerar pentru mii de fermieri Hausa.", "Noi tulpini de arahide rezistente la secetă sunt folosite pentru a revigora exportul."],
+      en: []
+    }
+  },
   {
     id: "tahoua-phosphate-mining-economic-v2",
     type: "industry",
@@ -379,7 +742,20 @@ export const poiExtraNigerEconomicV2: POI[] = [
       hu: ["Fontos a műtrágyagyártásban.", "Elősegíti a mezőgazdasági fejlődést.", "Erőforrás a Tahoua régióban."],
       ro: ["Important pentru producția de îngrășăminte.", "Promovează dezvoltarea agricolă.", "Resursă în regiunea Tahoua."],
       en: ["Important for fertilizer production.", "Promotes agricultural development.", "Resource in the Tahoua region."],
-    }, image: "/poi-images/tahoua-phosphate-mining-economic-v2.webp"},
+    }, image: "/poi-images/tahoua-phosphate-mining-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Gebiet um Tahoua birgt riesige und strategisch enorm wichtige Phosphatvorkommen, die den Schlüssel zur langfristigen landwirtschaftlichen Entwicklung Nigers darstellen. Der Abbau dieser Mineralien, primär aus der Lagerstätte Tahoua-Abalak, wird vor Ort zu hochwertigem Naturphosphat-Dünger verarbeitet, der speziell auf die übersäuerten und nährstoffarmen Böden der Sahelzone abgestimmt ist. Durch die verstärkte Nutzung der lokalen Phosphate hat Niger begonnen, seine drückende Abhängigkeit von teuren importierten Kunstdüngern zu reduzieren, was die Ernteerträge tausender Kleinbauern bei Hirse und Sorghum deutlich stabilisiert und das Einkommen in ländlichen Regionen gesichert hat.",
+      hu: "Tahoua régió eldugott foszfátbányái stratégiai jelentőségűek a jövő mezőgazdasága szempontjából. A Tahoua (és a közeli Bouza) környékén felszínre hozott nyers foszfátkőzetből szerves műtrágyát állítanak elő, amely elengedhetetlen a Száhel-övezet kimerült, homokos talajainak feljavításához. Bár a kitermelés még kisebb léptékű, a kormányzat kiemelten támogatja, hogy csökkentse az ország drága importműtrágyától való függőségét. Kémia K8 — foszfátok és talajjavítás.",
+      ro: "Mineritul de fosfați din regiunea Tahoua este o industrie emergentă esențială pentru viitorul siguranței alimentare africane. Regiunea deține depozite masive de fosforit de suprafață, o rocă care, odată măcinată și prelucrată, devine cel mai valoros îngrășământ natural pentru solurile sărace din Sahel. Deși extracția este parțial realizată cu tehnici modeste comparativ cu giganții din nordul Africii, potențialul agricol al fosfaților din Tahoua este imens. Uzinele locale procesează minereul pentru a-l transforma în fertilizator ieftin, oferind fermierilor din Niger și Nigeria șansa de a dubla recoltele de mei și sorg pe parcele sever erodate. (Geografie K7 — îngrășăminte minerale și siguranța alimentară).",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Birgt riesige, strategisch wichtige Phosphatvorkommen.", "Schlüssel zur langfristigen landwirtschaftlichen Entwicklung.", "Dient der Produktion von lokalem Naturphosphat-Dünger.", "Dünger ist speziell für nährstoffarme Sahel-Böden optimiert.", "Reduziert drastisch die Abhängigkeit von teuren Düngerimporten.", "Stabilisiert Ernteerträge von Hirse und Sorghum bei Kleinbauern."],
+      hu: ["Fontos helyi foszfátlelőhely Tahoua régió sivatagos határán.", "A kőzetből olcsó és hatékony mezőgazdasági műtrágyát készítenek.", "Kritikus szerepe van a kimerült afrikai talajok feljavításában.", "Célja a drága import műtrágyáktól való nemzeti függetlenedés.", "A kitermelés nagy része még mindig félig gépesített.", "Közvetlen hatással van a helyi élelmezésbiztonságra."],
+      ro: ["Depozitele din zona Tahoua reprezintă cele mai bogate rezerve de fosforit din stat.", "Fosfații extrași aici sunt procesați pentru a crea îngrășăminte agricole cu cost redus.", "Utilizarea rocilor fosfatice macinate ameliorează dramatic solurile sărăcite în nutrienți.", "Activitatea minieră a redus considerabil prețul fertilizatorilor pentru țăranii locali.", "Zăcămintele se află la adâncimi reduse, permițând o extracție de suprafață destul de simplă.", "Proiectele sunt parțial susținute prin fonduri de dezvoltare axate pe securitatea alimentară.", "Zilnic se livrează camioane întregi de fosfați brută pentru a revigora solurile aride din sud."],
+      en: []
+    }
+  },
   {
     id: "agadez-logistics-hub-economic-v2",
     type: "port",
@@ -392,6 +768,18 @@ export const poiExtraNigerEconomicV2: POI[] = [
       hu: ["Kapu a Szaharához.", "Ellátóbázis az uránbányák számára.", "Fontos kereskedelmi útvonalak kereszteződése."],
       ro: ["Poarta către Sahara.", "Baza de aprovizionare pentru minele de uraniu.", "Intersecția unor rute comerciale importante."],
       en: ["Gateway to the Sahara.", "Supply base for uranium mines.", "Intersection of important trade routes."],
+    },
+    descriptionAdvanced: {
+      de: "Agadez fungiert seit Jahrhunderten als der wichtigste Umschlagplatz zwischen Schwarzafrika und der mediterranen Welt, und hat sich heute in ein hochmodernes Logistikzentrum verwandelt. Die Stadt steuert den kompletten Güterverkehr in den Norden, zu den Uranminen von Arlit und über die brutale Wüstenroute nach Libyen. Täglich brechen hier schwer beladene LKW-Konvois auf, um Treibstoff, Maschinenteile und Lebensmittel in die abgelegensten Winkel der Sahara zu transportieren. Die logistische Infrastruktur von Agadez stützt sich auf ein tiefes, historisches Wissen der Tuareg über Wüstenrouten, das heute mit GPS-Tracking und modernen Schwerlasttransportern kombiniert wird.",
+      hu: "Agadez a modern korban egy hatalmas informális és logisztikai bázissá alakult a Szahara kapujában. A városból indulnak a homokdűnéken átkelő kamionkonvojok Líbia és Algéria felé, szállítva árukat, élelmiszert és gyakran migránsokat is. A logisztikai iparág (szerelők, sofőrök, csempészek és szállásadók) a város fő megélhetési forrásává vált a turizmus összeomlása után. Ez a hub a transzszaharai gazdaság igazi idegközpontja. Gazdaságföldrajz K8 — transzszaharai kereskedelem.",
+      ro: "Hub-ul Logistic din Agadez, deși neoficial, este probabil cea mai colosală rețea de transport trans-saharian de pe continent. Orașul funcționează ca poarta principală prin care trec rutele către Libia și Algeria. Curțile enorme sunt pline cu sute de vehicule de teren Toyota Hilux modificate, cunoscute drept corăbiile deșertului modern, încărcate ochi cu mărfuri, combustibil de contrabandă și forță de muncă imigrantă. Acesta este inima unui comerț paralel masiv, un sistem economic complex susținut de rețele de mecanici extrem de talentați, ghizi locali Toubou și Tuaregi, și o structură enormă de aprovizionare cu numerar și piese auto de import. (Geografie K7 — hub-uri de transport în medii extreme).",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Wichtigster logistischer Umschlagplatz zwischen Sahel und Nordafrika.", "Steuert den Güterverkehr zu den Uranminen in Arlit.", "Startpunkt der extremen Wüstenroute nach Süd-Libyen.", "Umschlagplatz für Treibstoff, Maschinenteile und Lebensmittel.", "Kombiniert historisches Wüstenwissen der Tuareg mit GPS-Technik.", "Täglicher Aufbruch riesiger, schwer beladener LKW-Konvois."],
+      hu: ["A Szahara átszelésére induló kamionkonvojok fő bázisa.", "A turizmus összeomlása után a tranzitlogisztika vette át a főszerepet.", "Kiterjedt javítóműhelyek és alkatrészpiacok találhatók itt.", "A Líbia és Algéria felé tartó áru- és személyszállítás központja.", "Gazdasága erősen függ az informális (feketepiaci) kereskedelemtől.", "Az utazás a sivatagon keresztül gyakran heteket vesz igénybe."],
+      ro: ["Agadez servește ca principalul punct central (hub) pentru rutele comerciale spre Marea Mediterană.", "Garajele din Agadez sunt faimoase pentru modificarea suspensiilor camionetelor de teren.", "Zilnic se tranzacționează milioane de litri de combustibil de contrabandă din nord.", "Hub-ul este esențial pentru transportul de piese auto, unelte miniere și orez.", "Mii de tineri lucrează aici ca șoferi specializați pe navigația off-road extremă.", "Ghizii (passeurs) utilizează exclusiv GPS-uri și cunoașterea ancestrală a dunelor.", "Piața din Agadez absoarbe o cantitate uriașă din valuta adusă de imigranții în tranzit."],
+      en: []
     }
   }
 ];

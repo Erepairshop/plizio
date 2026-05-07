@@ -257,7 +257,7 @@ export const poiExtraLesothoCitiesV2: POI[] = [
     description: {
       de: "Semonkong bedeutet 'Ort des Rauches' und liegt in der Nähe des Maletsunyane-Wasserfalls.",
       hu: "Semonkong jelentése 'füstös hely', és a Maletsunyane-vízesés közelében található.",
-      ro: "Semonkong înseamnă „locul fumului” și se află lângă cascada Maletsunyane.",
+      ro: "Semonkong înseamnă \"locul fumului\" și se află lângă cascada Maletsunyane.",
       en: "Semonkong means 'place of smoke' and is located near the Maletsunyane Falls."
     },
     facts: {
@@ -732,7 +732,7 @@ export const poiExtraLesothoCitiesV2: POI[] = [
     description: {
       de: "Molimo Nthuse bedeutet 'Gott hilf mir' und liegt an einem Bergpass.",
       hu: "Molimo Nthuse jelentése 'Isten segíts meg', és egy hegyi hágónál található.",
-      ro: "Molimo Nthuse înseamnă „Dumnezeu să mă ajute” și se află la o trecătoare montană.",
+      ro: "Molimo Nthuse înseamnă \"Dumnezeu să mă ajute\" și se află la o trecătoare montană.",
       en: "Molimo Nthuse means 'God help me' and is located at a mountain pass."
     },
     facts: {

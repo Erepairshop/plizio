@@ -16,6 +16,18 @@ export const poiExtraEthiopiaLifeV2: POI[] = [
       en: ["Home to desert elephants.", "Unique semi-desert landscape."]
     },
     descriptionAdvanced: {
+      hu: "A Babile Elefántrezervátum az etiópiai elefántok egyik utolsó menedéke, amely a keleti régió félsivatagos és bozótos tájain terül el. A rezervátum nemcsak az elefántok, hanem számos más endemikus faj, például a harar-i antilopok védelmét is szolgálja. A terület ökológiai jelentősége abban rejlik, hogy az elefántpopulációk vándorlási útvonalait biztosítja. Sachkunde K4 — állatok és élőhelyek védelme."
+    },
+    factsAdvanced: {
+      hu: ["Az etiópiai elefántok egyik fő menedéke", "Keleti régió, félsivatagos táj", "A harar-i antilop otthona is", "Kiemelt ökológiai jelentőségű", "Vándorlási útvonalak biztosítása", "A természetvédelem egyik kulcsfontosságú területe"]
+    },
+    descriptionAdvanced: {
+      de: "Das Babile-Elefantenreservat im Osten Äthiopiens bietet eine letzte Zuflucht für die seltene Population der afrikanischen Steppenelefanten in dieser Region. Die Landschaft besteht hauptsächlich aus trockenen Savannen, die den Tieren als Lebensraum dienen. Biologie K6 – Naturschutz und bedrohte Arten."
+    },
+    factsAdvanced: {
+      de: ["Status: Elefantenreservat", "Region: Ost-Äthiopien", "Flora: Akaziensavanne", "Bedrohung: Mensch-Tier-Konflikt", "Besonderheit: Einzige Elefantenpopulation im Osten"]
+    },
+    descriptionAdvanced: {
       de: "Das Babile-Elefanten-Schutzgebiet, 1970 gegründet, beheimatet die seltenen afrikanischen Wüstenelefanten. Mit einer Fläche von etwa 6.982 Quadratkilometern erstreckt sich das Reservat durch ein einzigartiges Halbwüsten- und Savannenökosystem im östlichen Äthiopien. Es ist das wichtigste Refugium für diese Elefantenpopulation, die sich an die trockenen Bedingungen angepasst hat. Der Park bietet Lebensraum für eine Vielzahl weiterer Wildtiere und ist für Ökotouristen von großer Bedeutung. Geografie K7 — Ökosysteme und Schutzgebiete.",
       hu: "A Babile Elefántrezervátumot 1970-ben alapították, és az afrikai sivatagi elefántok egyik legritkább populációjának ad otthont. A kb. 6982 négyzetkilométernyi terület Etiópia keleti részén található, félsivatagi és szavannai élőhelyekkel. Ez a rezervátum létfontosságú ezeknek az állatoknak, amelyek alkalmazkodtak a szélsőségesen száraz körülményekhez. A park változatos vadállatoknak biztosít menedéket, és fontos célpont az ökoturisták számára. Földrajz K7 — ökoszisztémák és védett területek.",
       ro: "Sanctuarul de Elefanți Babile, fondat în 1970, găzduiește rarii elefanți de deșert africani. Cu o suprafață de aproximativ 6.982 kilometri pătrați, rezervația se întinde printr-un ecosistem unic de semideșert și savană în estul Etiopiei. Este cel mai important refugiu pentru această populație de elefanți care s-a adaptat condițiilor aride. Parcul oferă habitat pentru numeroase alte animale sălbatice și este semnificativ pentru ecoturism. Geografie K7 — ecosisteme și zone protejate.",
@@ -41,6 +53,18 @@ export const poiExtraEthiopiaLifeV2: POI[] = [
       en: ["Highest density of Swayne's hartebeests.", "Located in the Rift Valley."]
     },
     descriptionAdvanced: {
+      hu: "A Senkele rezervátumot kifejezetten a Swayne-féle tehénantilop (hartebeest) védelmére hozták létre, amely egy endemikus faj Etiópiában. Ez a füves, szavannás terület a faj utolsó természetes populációinak egyikének ad otthont. A rezervátum élővilága a tipikus kelet-afrikai szavannák jellegzetességeit mutatja, ahol a védelem alatt álló fajok mellett számos más állat is él. Sachkunde K4 — veszélyeztetett fajok és szavannák."
+    },
+    factsAdvanced: {
+      hu: ["Swayne-féle tehénantilop (endemikus)", "Szavannás élőhely", "A faj utolsó természetes menedékei", "Kelet-afrikai élővilág", "Veszélyeztetett fajok védelme", "Természetes ökoszisztéma megőrzése"]
+    },
+    descriptionAdvanced: {
+      de: "Das Senkele-Hartebeest-Reservat wurde gezielt zum Schutz des Swayne-Kuhantilopen gegründet, einer endemischen Unterart, die in Äthiopien heimisch ist. Die Graslandschaft des Schutzgebiets bietet ideale Bedingungen für die Herden. Biologie K7 – Artenschutz."
+    },
+    factsAdvanced: {
+      de: ["Zielart: Swayne-Kuhantilope", "Status: Schutzgebiet", "Landschaft: Grasland", "Besonderheit: Weltweit wichtigstes Rückzugsgebiet"]
+    },
+    descriptionAdvanced: {
       de: "Das Senkele-Schutzgebiet, 1972 im Rift Valley gegründet, wurde speziell zum Schutz der Swayne-Leierantilope eingerichtet. Mit einer überschaubaren Fläche von nur 58 Quadratkilometern ist es eines der wichtigsten Reservate für diese vom Aussterben bedrohte Unterart. Das Gebiet bietet eine Mischung aus Savanne und Grasland, die ideal für das Überleben der Tiere ist. Das Schutzgebiet spielt eine zentrale Rolle bei der Erhaltung der Biodiversität in Äthiopien. Biologie K6 — Artenschutz und gefährdete Tierarten.",
       hu: "A Senkele vadvédelmi területet 1972-ben alapították a Hasadékvölgyben, kifejezetten a Swayne-torkosantilop megóvása érdekében. Az alig 58 négyzetkilométeres terület az egyik legfontosabb rezervátum a veszélyeztetett alfaj számára. A terület szavanna és füves puszta keveréke, ami ideális az állatok túléléséhez. A védett terület központi szerepet játszik Etiópia biológiai sokféleségének fenntartásában. Biológia K6 — fajmegőrzés és veszélyeztetett fajok.",
       ro: "Sanctuarul Senkele, fondat în 1972 în Valea Riftului, a fost stabilit special pentru protejarea antilopei Swayne. Cu o suprafață modestă de doar 58 de kilometri pătrați, este una dintre cele mai importante rezervații pentru această subspecie amenințată cu dispariția. Zona oferă un amestec de savană și pășuni, ideal pentru supraviețuirea animalelor. Sanctuarul joacă un rol central în conservarea biodiversității în Etiopia. Biologie K6 — conservarea speciilor și specii pe cale de dispariție.",
@@ -64,6 +88,12 @@ export const poiExtraEthiopiaLifeV2: POI[] = [
       hu: ["Vulkanikus tavakban gazdag.", "Sűrű hegyi erdő."],
       ro: ["Bogat în lacuri vulcanice.", "Pădure montană densă."],
       en: ["Rich in volcanic lakes.", "Dense mountain forest."]
+    },
+    descriptionAdvanced: {
+      de: "Der Chebera-Churchura-Nationalpark ist ein Geheimtipp für Tierbeobachtungen in einer abwechslungsreichen Landschaft aus Wäldern, Savannen und Flüssen. Er ist bekannt für seine Elefanten- und Löwenbestände sowie eine hohe Dichte an Vogelarten. Erdkunde K7 – Diversität der Ökosysteme."
+    },
+    factsAdvanced: {
+      de: ["Fauna: Elefanten und Löwen", "Landschaft: Mischlandschaft", "Besonderheit: Große Seen im Park", "Nutzung: Ökotourismus"]
     }, image: "/poi-images/chebera-churchura-habitat-life-v2.webp"},
   {
     id: "maze-park-habitat-life-v2",
@@ -77,6 +107,12 @@ export const poiExtraEthiopiaLifeV2: POI[] = [
       hu: ["Nyitott szavannai táj.", "Magas hegyekkel körülvéve."],
       ro: ["Peisaj de savană deschisă.", "Înconjurat de munți înalți."],
       en: ["Open savanna landscape.", "Surrounded by high mountains."]
+    },
+    descriptionAdvanced: {
+      de: "Der Maze-Nationalpark schützt eine der wichtigsten Populationen der Swayne-Kuhantilope und bietet zugleich einen Einblick in die unberührte Natur des äthiopischen Südwestens. Die hügelige Savannenlandschaft ist ein faszinierendes Ziel. Biologie K5 – Lebensräume."
+    },
+    factsAdvanced: {
+      de: ["Fokus: Swayne-Kuhantilope", "Region: Südwest-Äthiopien", "Landschaft: Hügeliges Savannenland", "Bedeutung: Wichtiges Naturschutzgebiet"]
     }, image: "/poi-images/maze-park-habitat-life-v2.webp"},
   {
     id: "alatish-park-habitat-life-v2",
@@ -90,6 +126,12 @@ export const poiExtraEthiopiaLifeV2: POI[] = [
       hu: ["Szudánnal határos.", "Száraz erdei ökoszisztéma."],
       ro: ["Învecinat cu Sudanul.", "Ecosistem de pădure uscată."],
       en: ["Bordering Sudan.", "Dry forest ecosystem."]
+    },
+    descriptionAdvanced: {
+      de: "Der Alatish-Nationalpark grenzt an den sudanesischen Dinder-Nationalpark und ermöglicht einen grenzüberschreitenden Austausch von Wildtierpopulationen. Die Region zeichnet sich durch ein saisonales Klima aus, das das Wanderverhalten vieler Tierarten maßgeblich prägt. Erdkunde K8 – Grenzüberschreitende Parks."
+    },
+    factsAdvanced: {
+      de: ["Kooperation: Sudan (Dinder-Park)", "Besonderheit: Migrationskorridor", "Klima: Saisonale Trockenzeit", "Bedeutung: Ökologisches Netzwerk"]
     }, image: "/poi-images/alatish-park-habitat-life-v2.webp"},
   {
     id: "kafta-sheraro-habitat-life-v2",
@@ -103,6 +145,12 @@ export const poiExtraEthiopiaLifeV2: POI[] = [
       hu: ["Fontos vándorlási útvonal.", "Változatos madárvilág."],
       ro: ["Coridor important de migrație.", "Avifaună diversă."],
       en: ["Important migration corridor.", "Diverse birdlife."]
+    },
+    descriptionAdvanced: {
+      de: "Der Kafta-Sheraro-Nationalpark ist ein entscheidendes Gebiet für die Migration von Elefanten aus dem Sudan und beheimatet zudem seltene Vogelarten. Das Schutzgebiet ist ein Paradebeispiel für den Erhalt von Wanderwegen von Großtieren. Biologie K6 – Migrationsökologie."
+    },
+    factsAdvanced: {
+      de: ["Fokus: Elefanten-Migration", "Lage: Norden Äthiopiens", "Vögel: Wichtige Vogelarten", "Status: Nationalpark"]
     }, image: "/poi-images/kafta-sheraro-habitat-life-v2.webp"},
   {
     id: "borena-saynt-habitat-life-v2",
@@ -116,6 +164,12 @@ export const poiExtraEthiopiaLifeV2: POI[] = [
       hu: ["Védi az etióp farkast.", "Nagyon meredek terep."],
       ro: ["Protejează lupul etiopian.", "Teren foarte abrupt."],
       en: ["Protects the Ethiopian wolf.", "Very steep terrain."]
+    },
+    descriptionAdvanced: {
+      de: "Der Borena-Saynt-Nationalpark bietet eine beeindruckende Mischung aus Hochgebirgswäldern und kargen Plateaus, die eine einzigartige Vielfalt an Lebensräumen auf kleinem Raum bieten. Die Region ist wichtig für die lokale Wasserregulierung. Erdkunde K7 – Hochgebirgsökologie."
+    },
+    factsAdvanced: {
+      de: ["Höhenlage: Über 3000 Meter", "Ökosystem: Bergwald-Plateau", "Besonderheit: Wassereinzugsgebiet", "Flora: Endemische Pflanzenarten"]
     }, image: "/poi-images/borena-saynt-habitat-life-v2.webp"},
   {
     id: "guassa-habitat-life-v2",
@@ -129,6 +183,12 @@ export const poiExtraEthiopiaLifeV2: POI[] = [
       hu: ["Fontos a Guassa-fű számára.", "Az etióp farkas otthona."],
       ro: ["Important pentru iarba Guassa.", "Adăpostește lupul etiopian."],
       en: ["Important for Guassa grass.", "Home to the Ethiopian wolf."]
+    },
+    descriptionAdvanced: {
+      de: "Das Guassa-Schutzgebiet ist ein Beispiel für traditionelles gemeinschaftsbasiertes Ressourcenmanagement, bei dem die lokale Bevölkerung die afroalpine Graslandschaft seit Jahrhunderten nachhaltig nutzt. Einzigartig ist die Erhaltung von Beständen des Äthiopischen Wolfs. Geschichte K7 – Traditionelle Landnutzung."
+    },
+    factsAdvanced: {
+      de: ["Typ: Gemeinschaftsschutzgebiet", "Besonderheit: Nachhaltige Nutzung", "Fauna: Äthiopischer Wolf", "Landschaft: Afroalpine Graslandschaft"]
     }, image: "/poi-images/guassa-habitat-life-v2.webp"},
   {
     id: "yirgacheffe-coffee-agriculture-life-v2",
@@ -142,6 +202,18 @@ export const poiExtraEthiopiaLifeV2: POI[] = [
       hu: ["Nagy tengerszint feletti magasságban termesztik.", "Egyedi mosóállomások."],
       ro: ["Cultivată la altitudini mari.", "Stații de spălare unice."],
       en: ["Grown at high altitudes.", "Unique washing stations."]
+    },
+    descriptionAdvanced: {
+      hu: "Yirgacheffe Etiópia egyik leghíresebb kávétermesztő vidéke, amely a kiváló minőségű, virágos és gyümölcsös ízvilágú Arabica kávéjáról ismert világszerte. A régió magas hegyvidéki klímája és termékeny talaja ideális feltételeket biztosít a kávécserjék növekedéséhez. A helyi gazdák hagyományos, ökológiai szempontból is fenntartható termesztési módszereket alkalmaznak. Földrajz K7 — mezőgazdaság és globális piac."
+    },
+    factsAdvanced: {
+      hu: ["A híres Arabica kávé szülőhelye", "Magas hegyvidéki éghajlat", "Virágos, gyümölcsös ízjegyek", "Fenntartható termesztési módszerek", "Világhírű kávéipari régió", "Kiváló természeti adottságok"]
+    },
+    descriptionAdvanced: {
+      de: "Yirgacheffe gilt weltweit als Inbegriff für hochwertigen äthiopischen Kaffee, der in den Hochlandregionen unter idealen klimatischen Bedingungen wächst. Die Kaffeekultur ist tief im täglichen Leben und der Geschichte des Volkes verwurzelt. Sachkunde K4 – Kaffeekultur."
+    },
+    factsAdvanced: {
+      de: ["Produkt: Kaffee (Premium-Qualität)", "Region: Gedeo-Zone", "Anbau: Hochland-Shade-Grown", "Bedeutung: Weltweite Kaffeereferenz"]
     }, image: "/poi-images/yirgacheffe-coffee-agriculture-life-v2.webp"},
   {
     id: "sidamo-coffee-agriculture-life-v2",
@@ -155,6 +227,18 @@ export const poiExtraEthiopiaLifeV2: POI[] = [
       hu: ["Védett márkanév.", "Termékeny talaj."],
       ro: ["Marcă protejată.", "Sol fertil."],
       en: ["Brand name protected.", "Fertile soil."]
+    },
+    descriptionAdvanced: {
+      hu: "Sidamo Etiópia egyik legnagyobb és legváltozatosabb kávétermesztő régiója, amelynek változatos mikroklímája és termőtalaja rendkívül komplex ízprofilú kávébabokat eredményez. A régió kávétermelése évszázados tradíciókra épül, és az etióp export jelentős hányadát adja. A Sidamo kávé világszerte keresett a specialty kávépiacon, ahol a minőség és a származási hely garanciát jelent. Földrajz K7 — mezőgazdasági termelés."
+    },
+    factsAdvanced: {
+      hu: ["Etiópia legnagyobb kávétermesztő régiója", "Komplex ízprofilú kávébabok", "Változatos mikroklíma", "Jelentős exporttétel", "Specialty kávépiaci kereslet", "Tradicionális gazdálkodás"]
+    },
+    descriptionAdvanced: {
+      de: "Sidamo ist eine der bekanntesten Kaffeeregionen Äthiopiens, deren vielfältige Terroirs unterschiedliche Geschmacksprofile hervorbringen. Der Kaffeeanbau bildet die wirtschaftliche Grundlage für weite Teile der Bevölkerung und ist ein bedeutendes Kulturgut. Erdkunde K6 – Wirtschaft und Agrar."
+    },
+    factsAdvanced: {
+      de: ["Fokus: Kaffee-Produktion", "Region: Sidamo-Zone", "Vielfalt: Zahlreiche Mikroklimata", "Wirtschaft: Haupteinnahmequelle"]
     }, image: "/poi-images/sidamo-coffee-agriculture-life-v2.webp"},
   {
     id: "limmu-coffee-agriculture-life-v2",
@@ -272,6 +356,12 @@ export const poiExtraEthiopiaLifeV2: POI[] = [
       hu: ["Tartalmazza a tróntermet.", "Nagyszerű hely gyerekeknek a tanuláshoz."],
       ro: ["Include sala tronului.", "Excelent pentru învățarea copiilor."],
       en: ["Includes the throne room.", "Great for children to learn."]
+    },
+    descriptionAdvanced: {
+      hu: "Az Unity Park egy hatalmas, zöld közösségi terület Addisz-Abeba szívében, amelyet a Nemzeti Palota területén hoztak létre. A park a városi lakosság, különösen a családok és gyerekek számára kínál kikapcsolódást, miközben bemutatja Etiópia biológiai sokféleségét és történelmi relikviáit. A kertben többek között helyi állatfajokat és gondozott parkosított részeket láthatnak a látogatók. Földrajz K5 — parkok és közösségi terek."
+    },
+    factsAdvanced: {
+      hu: ["A Nemzeti Palota területén létesült", "Addisz-Abeba legnagyobb parkja", "Családbarát kikapcsolódási hely", "Helyi állatfajok bemutatója", "Történelmi relikviák a parkban", "Zöldterület a fővárosban"]
     }, image: "/poi-images/unity-park-addis-kid-landmark-life-v2.webp"},
   {
     id: "friendship-square-kid-landmark-life-v2",

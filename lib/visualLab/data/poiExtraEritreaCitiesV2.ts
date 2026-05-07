@@ -19,8 +19,8 @@ export const poiExtraEritreaCitiesV2: POI[] = [
       hu: ["2017-ben az UNESCO Világörökség részévé nyilvánították.", "A központi fennsíkon fekszik."],
       ro: ["A fost declarată Patrimoniu Mondial UNESCO în 2017.", "Este situată pe platoul central."],
       en: ["Declared a UNESCO World Heritage site in 2017.", "Located in the central highlands."]
-    }
-  , descriptionAdvanced: {
+    },
+    descriptionAdvanced: {
       "de": "Asmara, die Hauptstadt Eritreas, liegt auf über 2300 Metern Höhe und ist für ihre außergewöhnliche Dichte an modernistischer Architektur aus den 1930er Jahren bekannt, die von der UNESCO als Weltkulturerbe anerkannt wurde. Die Stadt, die oft als 'Piccola Roma' bezeichnet wird, spiegelt eine faszinierende Mischung aus italienischem Kolonialerbe und eritreischer Kultur wider. Geografie K7 — Hochland und Siedlungen.",
       "hu": "Aszmara, Eritrea fővárosa több mint 2300 méteres magasságban fekszik, és az 1930-as évekből származó modernista építészete miatt a UNESCO Világörökség része. A gyakran 'Piccola Roma'-ként emlegetett város az olasz gyarmati örökség és az eritreai kultúra lenyűgöző keverékét nyújtja. Földrajz K7 — magasföldek és települések.",
       "ro": "Asmara, capitala Eritreei, este situată la o altitudine de peste 2300 de metri și este recunoscută pentru arhitectura modernistă din anii 1930, fiind inclusă în Patrimoniul Mondial UNESCO. Orașul, numit deseori 'Piccola Roma', reflectă un amestec fascinant de moștenire colonială italiană și cultură eritreeană. Geografie K7 — platouri și așezări.",
@@ -49,8 +49,8 @@ export const poiExtraEritreaCitiesV2: POI[] = [
       hu: ["Több szigetre és a szárazföldre épült.", "A világ egyik legforróbb városaként tartják számon."],
       ro: ["A fost construit pe mai multe insule și pe continent.", "Este considerat unul dintre cele mai fierbinți orașe din lume."],
       en: ["Built on several islands and the mainland.", "Regarded as one of the hottest cities in the world."]
-    }
-  , descriptionAdvanced: {
+    },
+    descriptionAdvanced: {
       "de": "Massaua ist die wichtigste Hafenstadt Eritreas am Roten Meer und besteht aus einer Mischung aus Festland und Inseln, die durch Dämme verbunden sind. Die historische Altstadt, das 'Batse-Viertel', zeigt noch heute den Einfluss osmanischer und ägyptischer Architektur aus der Zeit des 19. Jahrhunderts. Geschichte K8 — Kolonialzeit am Roten Meer.",
       "hu": "Massawa Eritrea legfontosabb vörös-tengeri kikötővárosa, amely szárazföldi és szigeti részekből áll, gátakkal összekötve. A történelmi óváros, a 'Batse-negyed' a 19. századi oszmán és egyiptomi építészet hatását őrzi. Történelem K8 — gyarmati időszak a Vörös-tengernél.",
       "ro": "Massawa este cel mai important oraș portuar eritreean la Marea Roșie, fiind format dintr-un amestec de continent și insule unite prin diguri. Centrul istoric al orașului, cartierul 'Batse', păstrează și astăzi influența arhitecturii otomane și egiptene din secolul al XIX-lea. Istorie K8 — perioada colonială la Marea Roșie.",
@@ -73,7 +73,14 @@ export const poiExtraEritreaCitiesV2: POI[] = [
       hu: "Eritrea második legnagyobb városa egy fontos mezőgazdasági központ, amely egy széles völgyben fekszik, gránithegyekkel körülvéve.",
       ro: "Al doilea oraș ca mărime din Eritreea este un important centru agricol, situat într-o vale largă înconjurată de munți de granit.",
       en: "Eritrea's second-largest city is an important agricultural center located in a wide valley surrounded by granite mountains."
+    ,
+    descriptionAdvanced: {
+      en: "Keren is the second-largest city in Eritrea, located in the Anseba region at an altitude of 1,390 meters. It is famous for its lively livestock and produce market, which draws traders from across the region, reflecting the area's agricultural importance. The city is also noted for its diverse history, including sites related to World War II battles between British and Italian forces, as well as the significant Keren War Cemetery. The surrounding mountainous landscape and the unique climate make it a cultural crossroads. Geography K7 — highland markets and regional history."
     },
+    factsAdvanced: {
+      en: ["The city is located in the Anseba region.", "Altitude of approximately 1,390 meters.", "Known for its major weekly market.", "Significant site of WWII military history.", "Home to a notable Italian war cemetery.", "It is the second-largest city in Eritrea."]
+    }
+  },
     facts: {
       de: ["Bekannt für den lebhaften Kamelmarkt.", "War Schauplatz der Schlacht von Keren 1941."],
       hu: ["Híres az élénk tevepiacáról.", "Az 1941-es kereni csata helyszíne volt."],
@@ -91,7 +98,14 @@ export const poiExtraEritreaCitiesV2: POI[] = [
       hu: "Ez a stratégiailag fontos elhelyezkedésű vörös-tengeri kikötőváros történelmileg kulcsszerepet játszott a tengeri kereskedelemben.",
       ro: "Acest oraș portuar situat strategic pe coasta Mării Roșii a jucat istoric un rol cheie în comerțul maritim.",
       en: "This strategically located port city on the Red Sea coast historically played a key role in maritime trade."
+    ,
+    descriptionAdvanced: {
+      en: "Assab is a strategic port city on the southern Red Sea coast of Eritrea, historically important for its deep-water harbor and role as an international trade gateway. The city's geography is defined by its coastal position, contrasting sharply with the arid Danakil Desert hinterland. In the past, it served as a key refueling stop and commercial hub for maritime routes connecting East Africa with the Middle East. The climate here is extremely hot, characteristic of the Red Sea coastal region. Geography K7 — ports and trade routes."
     },
+    factsAdvanced: {
+      en: ["Located on the Red Sea coast.", "Extremely hot climate.", "Deep-water port facility.", "Key trade gateway for Eritrea.", "Proximity to the Danakil Desert.", "Strategically positioned for maritime commerce."]
+    }
+  },
     facts: {
       de: ["Besitzt eine große Erdölraffinerie.", "Wichtiger Hafen für die südliche Region."],
       hu: ["Nagy olajfinomítóval rendelkezik.", "Fontos kikötő a déli régió számára."],
@@ -110,7 +124,14 @@ export const poiExtraEritreaCitiesV2: POI[] = [
       hu: "A Debub régió fővárosa történelmi helyszínekkel és a környező virágzó mezőgazdasággal tűnik ki.",
       ro: "Capitala regiunii Debub se remarcă prin siturile istorice și agricultura înfloritoare din împrejurimi.",
       en: "The capital of the Debub region is noted for historical sites and the thriving agriculture in its surroundings."
+    ,
+    descriptionAdvanced: {
+      en: "Mendefera, located in the Debub region, is a key administrative and commercial center in the Eritrean highlands. Known formerly by its Italian name, Adi Ugri, the city is surrounded by fertile agricultural land, which serves as the economic backbone of the local community. The town is rich in history, with archaeological evidence of ancient civilizations in the area, providing a glimpse into the region's long-standing human settlement. Today, it remains an important hub for the exchange of agricultural produce and services in the southern region. Geography K7 — highland agriculture."
     },
+    factsAdvanced: {
+      en: ["Located in the Debub region.", "Administrative and commercial hub.", "Known historically as Adi Ugri.", "Surrounded by fertile farmland.", "Archaeological significance in the region.", "Important agricultural exchange center."]
+    }
+  },
     facts: {
       de: ["Hieß früher Adi Ugri.", "Ein Zentrum für den Handel mit lokalen Erzeugnissen."],
       hu: ["Korábban Adi Ugri néven volt ismert.", "A helyi termékek kereskedelmének központja."],
@@ -128,7 +149,14 @@ export const poiExtraEritreaCitiesV2: POI[] = [
       hu: "A Gash-Barka régió fővárosaként Barentu különböző etnikai csoportok, különösen a kunama nép olvasztótégelye.",
       ro: "Fiind capitala regiunii Gash-Barka, Barentu este un creuzet al diferitelor grupuri etnice, în special al poporului Kunama.",
       en: "As the capital of the Gash-Barka region, Barentu is a melting pot of various ethnic groups, especially the Kunama people."
+    ,
+    descriptionAdvanced: {
+      en: "Barentu is the capital of the Gash-Barka region in western Eritrea, serving as an important center for the Kunama and Nara ethnic groups. The city is set within a landscape of rolling plains and small hills, which characterizes much of the western lowland region. It is a major hub for trade and agricultural activity, particularly livestock, which is central to the livelihoods of the local populations. The area is also recognized for its cultural heritage and traditional music, which form a significant part of the community's identity. Geography K7 — regional centers and ethnology."
     },
+    factsAdvanced: {
+      en: ["Capital of the Gash-Barka region.", "Hub for Kunama and Nara cultures.", "Important center for livestock trade.", "Located in the western lowlands.", "Known for unique cultural traditions.", "Economic center for agricultural activities."]
+    }
+  },
     facts: {
       de: ["Das administrative Zentrum von Gash-Barka.", "Bekannt für seine vielfältige Kultur."],
       hu: ["Gash-Barka adminisztratív központja.", "Kulturális sokszínűségéről ismert."],
@@ -146,7 +174,14 @@ export const poiExtraEritreaCitiesV2: POI[] = [
       hu: "Egy hegyvidéki város a déli régióban, amelynek közelében ősi civilizációk jelentős régészeti romjai találhatók.",
       ro: "Un oraș de munte din regiunea sudică, în apropierea căruia se află ruine arheologice importante din civilizații antice.",
       en: "A mountain town in the southern region, located near significant archaeological ruins from ancient civilizations."
+    ,
+    descriptionAdvanced: {
+      en: "Adi Keyh, meaning 'Red Sea' in Tigrinya, is a vibrant town in the Debub region of Eritrea, located on the edge of a plateau. The town is situated near the important archaeological site of Qohaito, which showcases pre-Aksumite and Aksumite history. Its location makes it a gateway for historical research and tourism, as it connects highland settlements with the historical routes leading toward the coast. The local economy benefits from agricultural production and its role as a regional transit point. Geography K7 — archaeological gateways."
     },
+    factsAdvanced: {
+      en: ["Located in the Debub region.", "Located near Qohaito archaeological site.", "Highland town on a plateau edge.", "Name reflects historical importance.", "Regional transit and trade point.", "Highland agricultural hub."]
+    }
+  },
     facts: {
       de: ["In der Nähe liegen die Ruinen von Qohaito.", "Ein wichtiger Bildungsstandort der Region."],
       hu: ["A közelben találhatók Qohaito romjai.", "A régió fontos oktatási központja."],
@@ -164,7 +199,18 @@ export const poiExtraEritreaCitiesV2: POI[] = [
       hu: "Egy kis tengerparti település a Vörös-tenger mentén, amely hagyományos halászhajóiról és száraz éghajlatáról ismert.",
       ro: "O mică așezare de coastă pe Marea Roșie, cunoscută pentru bărcile tradiționale de pescuit și clima uscată.",
       en: "A small coastal settlement on the Red Sea, known for its traditional fishing boats and arid climate."
+    ,
+    descriptionAdvanced: {
+      hu: "Edd egy történelmileg jelentős kikötőváros Eritrea vörös-tengeri partvidékén, amely a tengeri kereskedelem fontos csomópontja volt a régióban. A város stratégiai elhelyezkedése lehetővé tette a kapcsolatot Afrika belseje és a tengeri kereskedelmi utak között, különösen a só és a különféle mezőgazdasági termékek szállításában. Ma Edd egy csendesebb település, amely őrzi az egykori kereskedelmi korszak emlékeit és a tengeri életmód hagyományait. A partvidék mentén a tengeri biológiai sokféleség kiváló lehetőséget nyújt a kutatók és az óceán szerelmesei számára a tengeri ökoszisztémák vizsgálatára. Földrajz K7 — kikötővárosok és kereskedelem.",
+      en: "Edd is a coastal town in the Southern Red Sea region of Eritrea, historically recognized as a significant port for small-scale maritime commerce. Its location along the Red Sea shore places it in a rugged, arid environment, but it has sustained local communities through fishing and traditional trade for centuries. The town's architecture and social life reflect its reliance on maritime resources and its connections to surrounding coastal villages. Today, it remains an important coastal center, representing the historical maritime legacy of the region. Geography K7 — coastal heritage."
     },
+    factsAdvanced: {
+      en: ["Located in the Southern Red Sea region.", "Historical significance as a port.", "Primary local industry is fishing.", "Arid coastal environment.", "Traditions rooted in maritime life.", "Represents Eritrean coastal heritage."]
+    },
+    factsAdvanced: {
+      hu: ["Stratégiai fekvésű kikötőváros a Vörös-tenger partján.", "Történelmileg fontos szerepet játszott a régió sókereskedelmében.", "Kiemelt jelentőségű tengeri kereskedelmi csomópont volt.", "Gazdag tengeri élővilág jellemzi a környező vizeket.", "A helyi gazdaság a hagyományos halászaton alapul.", "Fontos kapocs a tengeri és szárazföldi kereskedelmi útvonalak között."]
+    }
+  },
     facts: {
       de: ["Eine der ältesten dokumentierten Siedlungen der Küste.", "Wirtschaftlich von der Fischerei abhängig."],
       hu: ["A partvidék egyik legrégebbi dokumentált települése.", "Gazdaságilag a halászattól függ."],
@@ -183,7 +229,18 @@ export const poiExtraEritreaCitiesV2: POI[] = [
       hu: "A város a központi fennsíkon fekszik, és az olasz gyarmati időszakban fontos mezőgazdasági és ipari központ volt.",
       ro: "Orașul este situat pe platoul central și a fost un important centru agricol și industrial în timpul perioadei coloniale italiene.",
       en: "The town is located in the central highlands and was a major agricultural and industrial center during the Italian colonial period."
+    ,
+    descriptionAdvanced: {
+      hu: "Dekemhare egy élénk mezőgazdasági központ az eritreai felföldön, amely a környék termékeny talajának és kedvező éghajlatának köszönheti jelentőségét. A város a mezőgazdasági termékek – különösen a gabonafélék és zöldségek – feldolgozásának és kereskedelmének egyik központi helyszíne. Az olasz gyarmati építészet nyomai, amelyek a városközpontban még ma is láthatók, egyedülálló hangulatot kölcsönöznek a településnek, ötvözve a hagyományos eritreai és európai stíluselemeket. A helyi közösség számára a város nemcsak kereskedelmi, hanem oktatási és kulturális központként is funkcionál, támogatva a környező falvak fejlődését. Földrajz K7 — felföldi mezőgazdasági régiók.",
+      en: "Dekemhare is a vibrant town in the Debub region, known for its pleasant climate and significant agricultural production. Situated on the Eritrean plateau, it was formerly a major industrial and agricultural hub, famous for its orchards and vineyards during the colonial period. Today, the town serves as a key regional center for trade, educational services, and agricultural processing. The local infrastructure still retains elements of its earlier development, offering a unique blend of historical planning and modern regional utility. Geography K7 — highland economic hubs."
     },
+    factsAdvanced: {
+      en: ["Located in the Debub region.", "Known for its mild, highland climate.", "Historically significant industrial and agricultural hub.", "Famous for orchards and vineyards.", "Central regional trade center.", "Key hub for agricultural processing."]
+    },
+    factsAdvanced: {
+      hu: ["A felföld fontos mezőgazdasági és kereskedelmi központja.", "Történelmi olasz gyarmati építészeti emlékek jellemzik.", "Kiemelt szerepet játszik a gabona- és zöldségfeldolgozásban.", "A környék termékeny talaján alapul a helyi gazdaság.", "Az oktatási és kulturális élet központja a régióban.", "Fontos elosztóközpont a helyi termékek piacra jutásához."]
+    }
+  },
     facts: {
       de: ["Bekannt für den Weinbau und Obstgärten.", "Erlebte einen industriellen Boom in den 1930er Jahren."],
       hu: ["Szőlőtermesztéséről és gyümölcsöseiről ismert.", "Az 1930-as években ipari fellendülést élt át."],
@@ -201,7 +258,18 @@ export const poiExtraEritreaCitiesV2: POI[] = [
       hu: "Történelmi város a Barka folyó mentén, amely a nyugati síkság kereskedelmi útvonalainak csomópontjaként szolgál.",
       ro: "Un oraș istoric situat de-a lungul râului Barka, care servește drept nod pentru rutele comerciale din câmpiile vestice ale Eritreei.",
       en: "A historic city along the Barka River, serving as a hub for trade routes in the western lowlands of Eritrea."
+    ,
+    descriptionAdvanced: {
+      hu: "Akordat egy sivatagi oázishoz hasonló mezőváros a nyugati eritreai síkságokon, amely a Barka-folyó mentén helyezkedik el. A város a régió egyik fontos kereskedelmi pontja, különösen a nomád állattartó közösségek számára, akik itt cserélik ki terményeiket. Az építészetben keverednek a hagyományos eritreai és szudáni hatások, ami tükrözi a régió kulturális sokszínűségét és határokon átívelő kapcsolatát. A környező sivatagi táj és a folyóparti termékeny földek közötti éles kontraszt teszi Akordatot különlegessé, mint az élet és a gazdálkodás központját a zord környezetben. Földrajz K7 — folyómenti oázisok és kereskedelem.",
+      en: "Akordat is a desert-like market town in western Eritrea, positioned along the Barka River. The town serves as a crucial commercial intersection for nomadic and semi-nomadic groups, who rely on it for exchanging livestock and agricultural products. Its architecture often exhibits a fusion of local and Sudanese influences, reflecting the region's deep historical and cultural connections across borders. The sharp contrast between the surrounding arid plains and the life sustained along the riverbank makes Akordat a resilient center of economic activity in a challenging environment. Geography K7 — desert oasis economies."
     },
+    factsAdvanced: {
+      en: ["Situated on the Barka River.", "Market town in western Eritrea.", "Crucial commercial hub for nomadic groups.", "Architectural fusion of local and Sudanese styles.", "Resilient center in arid environment.", "Key livestock and agricultural exchange point."]
+    },
+    factsAdvanced: {
+      hu: ["A nyugati síkságok fontos kereskedelmi csomópontja.", "Strategikusan a Barka-folyó mentén fekszik.", "A nomád közösségek hagyományos kereskedelmi találkozóhelye.", "Kulturálisan sokszínű építészet jellemzi.", "Fontos szerepet játszik a regionális élelmiszerellátásban.", "A sivatagi táj és a folyóparti mezőgazdaság ötvözete."]
+    }
+  },
     facts: {
       de: ["Bekannt für die große Große Moschee.", "Ein wichtiger Markt für Bananen und Zitrusfrüchte."],
       hu: ["Híres a nagy Nagymecsetjéről.", "Fontos piac a banán és a citrusfélék számára."],
@@ -219,7 +287,14 @@ export const poiExtraEritreaCitiesV2: POI[] = [
       hu: "Az északi hegyekben fekvő város nagy szimbolikus jelentőséggel bír a függetlenségi háborúban tanúsított ellenállása miatt.",
       ro: "Acest oraș din munții din nord are o mare importanță simbolică datorită rezistenței sale din timpul războiului de independență.",
       en: "Located in the northern mountains, this town holds high symbolic importance due to its resistance during the war of independence."
+    ,
+    descriptionAdvanced: {
+      en: "Nakfa is a town in the Northern Red Sea region of Eritrea, deeply symbolic of the struggle for national independence. Throughout the long liberation war, the town served as a primary base for the EPLF, and it was the only major site of resistance that remained under their control throughout much of the conflict. Its name became a synonym for perseverance and, later, the currency of Eritrea. Today, it remains a historical site that holds immense value in the nation's collective memory and identity. History K8 — independence movement."
     },
+    factsAdvanced: {
+      en: ["Located in the Northern Red Sea region.", "Symbol of Eritrean national identity.", "Primary base for the EPLF during the war.", "Remained a site of resistance for many years.", "Gave its name to the national currency.", "Deep historical significance for the nation."]
+    }
+  },
     facts: {
       de: ["Namensgeber für die eritreische Währung (Nakfa).", "War das Hauptquartier der Befreiungsfront."],
       hu: ["Az eritreai valuta (nakfa) névadója.", "A felszabadítási front főhadiszállása volt."],

@@ -149,7 +149,7 @@ export const northmacedoniaPois: POI[] = [
       en: [
         "Bitola earned its moniker 'City of Consuls' by hosting numerous European diplomatic missions during the Ottoman period.",
         "The ancient site of Heraclea Lyncestis, founded by Philip II of Macedon, showcases some of the best preserved Roman floor mosaics in the region.",
-        "The city’s famous clock tower, a symbol of Bitola, is a landmark that has stood for centuries.",
+        "The city's famous clock tower, a symbol of Bitola, is a landmark that has stood for centuries.",
         "Pelister National Park, located nearby, is known for its unique Molika pine forests and diverse wildlife.",
         "Širok Sokak, the main pedestrian thoroughfare, is famous for its lively cafe culture and historic facades."
       ]
@@ -196,7 +196,7 @@ export const northmacedoniaPois: POI[] = [
         "Lake Ohrid is among Europe's oldest lakes, known for its unique ecosystem and remarkably clear, deep waters.",
         "The Church of St. John at Kaneo is one of the most photographed structures in the country due to its stunning clifftop setting.",
         "Ohrid is often cited for its historical wealth of 365 churches, reflecting the depth of its religious importance.",
-        "The city’s ancient theater, dating back to the Hellenistic period, is still used for cultural performances today."
+        "The city's ancient theater, dating back to the Hellenistic period, is still used for cultural performances today."
       ]
     }, image: "/poi-images/city-ohrid.webp"},
   {

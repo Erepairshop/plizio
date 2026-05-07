@@ -13,7 +13,18 @@ export const poiExtraEthiopiaReliefV2: POI[] = [
       hu: "Etiópia legmagasabb hegye, Afrika tizedik legmagasabb pontja.",
       ro: "Cel mai înalt munte din Etiopia și al zecelea ca înălțime din Africa.",
       en: "The highest mountain in Ethiopia and the tenth highest in Africa."
+    ,
+    descriptionAdvanced: {
+      de: "Der Ras Dashen ist mit 4550 Metern der höchste Berg Äthiopiens und der zeithöchste Afrikas. Er befindet sich im Simien-Nationalpark und ist für seine zerklüfteten Felsformationen sowie die seltene äthiopische Bergziege bekannt. Kletterer finden hier anspruchsvolle Routen, die alpine Erfahrung erfordern. Geografie K7 – Gebirgszüge Afrikas.",
+      hu: "A Ras Dashen Etiópia legmagasabb csúcsa, amely a Simien-hegység részét képezi. A 4550 méteres magasságával a csúcs nemcsak Etiópia, hanem az egész Etióp-magasföld legkiemelkedőbb pontja. A terület zord éghajlata és meredek lejtői miatt kihívást jelent a túrázók számára, ugyanakkor páratlan kilátást nyújt a környező völgyekre és fennsíkokra. Földrajz K7 — hegycsúcsok és magaslatok."
     },
+    factsAdvanced: {
+      hu: ["Etiópia legmagasabb csúcsa", "Magasság: 4550 m", "A Simien-hegység része", "Az Etióp-magasföld legmagasabb pontja", "Zord magashegyi klíma", "Kiemelt túrázási célpont"]
+    },
+    factsAdvanced: {
+      de: ["Höhe: 4550 Meter", "Ort: Simien-Nationalpark", "Erstbesteigung: 1841 durch Ferret und Galinier", "Status: UNESCO-Welterbe-Region", "Flora: Afroalpine Vegetation", "Fauna: Heimat des Walia-Steinbocks"]
+    }
+  },
     facts: {
       de: ["Höhe: 4550 m", "Teil des Simien-Gebirges", "UNESCO-Welterbe"],
       hu: ["Magasság: 4550 m", "A Simien-hegység része", "UNESCO világörökség"],
@@ -43,7 +54,18 @@ export const poiExtraEthiopiaReliefV2: POI[] = [
       hu: "Etiópia második legmagasabb hegye a Bale-hegységben.",
       ro: "Al doilea cel mai înalt munte din Etiopia, situat în munții Bale.",
       en: "The second highest mountain in Ethiopia located in the Bale Mountains."
+    ,
+    descriptionAdvanced: {
+      de: "Tulu Dimtu ist mit 4377 Metern der zweithöchste Gipfel Äthiopiens und liegt im Bale-Gebirge. Die Region zeichnet sich durch ein einzigartiges Hochplateau aus, das eine Fülle an endemischen Arten beherbergt. Wanderer schätzen das kühle Klima und die atemberaubende Aussicht über die Hochebene. Geografie K7 – Hochland von Äthiopien.",
+      hu: "A Tulu Dimtu a Bale-hegység legmagasabb pontja, amely a második legmagasabb csúcs Etiópiában. A 4377 méteres csúcs a Bale-hegység Nemzeti Parkban helyezkedik el, amely különleges élőhelyeket, többek között afro-alpesi moorlandokat és erdőket rejt. A hegység geológiai szerkezete változatos, a vulkanikus eredetű csúcsoktól a mély völgyekig. Földrajz K7 — vulkanikus tájak és csúcsok."
     },
+    factsAdvanced: {
+      hu: ["A Bale-hegység legmagasabb pontja", "Magasság: 4377 m", "Etiópia 2. legmagasabb csúcsa", "Bale-hegység Nemzeti Park", "Afro-alpesi élőhelyek", "Vulkanikus eredetű geológia"]
+    },
+    factsAdvanced: {
+      de: ["Höhe: 4377 Meter", "Lage: Bale-Mountains-Nationalpark", "Bedeutung: Wichtiger Wasserquellbereich", "Klima: Kaltes Hochgebirgsklima", "Endemismus: Hohe Dichte an Arten"]
+    }
+  },
     facts: {
       de: ["Höhe: 4377 m", "Wichtiges Ökosystem", "Vulkanischer Ursprung"],
       hu: ["Magasság: 4377 m", "Fontos ökoszisztéma", "Vulkáni eredetű"],
@@ -61,7 +83,18 @@ export const poiExtraEthiopiaReliefV2: POI[] = [
       hu: "A Föld egyik legforróbb és legalacsonyabban fekvő pontja.",
       ro: "Unul dintre cele mai fierbinți și mai joase locuri de pe Pământ.",
       en: "One of the hottest and lowest places on Earth."
+    ,
+    descriptionAdvanced: {
+      de: "Die Danakil-Senke ist eine der heißesten und geologisch aktivsten Regionen der Erde und liegt bis zu 125 Meter unter dem Meeresspiegel. Sie ist geprägt von brodelnden Schwefelquellen, Salzseen und aktiven Vulkanen wie dem Erta Ale. Ein lebensfeindliches, aber faszinierendes Ökosystem. Erdkunde K8 – Vulkanismus und Plattentektonik.",
+      hu: "A Danakil-mélyföld a világ egyik legforróbb és legalacsonyabb pontja, amely az Afar-háromszögben helyezkedik el. A mélyföld geológiai szempontból különleges: itt találkozik három tektonikus lemez, ami vulkanikus aktivitást, sós síkságokat és forró forrásokat eredményez. A terület zord, földöntúli tájai miatt a geológusok és a kalandturisták kedvelt úti célja. Földrajz K8 — tektonika és szélsőséges környezet."
     },
+    factsAdvanced: {
+      hu: ["A világ egyik legforróbb helye", "Geológiailag aktív Afar-háromszög", "Három tektonikus lemez találkozása", "Sós síkságok és forró források", "Földöntúli, szélsőséges táj", "A legalacsonyabb régiók egyike"]
+    },
+    factsAdvanced: {
+      de: ["Tiefe: bis zu -125 Meter", "Temperatur: oft über 50 Grad Celsius", "Phänomen: Tektonische Spreizungszone", "Bodenschätze: Große Salzvorkommen", "Charakter: Geothermisches Hotspot-Gebiet"]
+    }
+  },
     facts: {
       de: ["Bis zu 125 m unter dem Meeresspiegel", "Vulkane und Salzseen", "Geologisch aktiv"],
       hu: ["Akár 125 m-rel a tengerszint alatt", "Vulkánok és sós tavak", "Geológiailag aktív"],
@@ -79,7 +112,18 @@ export const poiExtraEthiopiaReliefV2: POI[] = [
       hu: "Folyamatosan aktív pajzsvulkán a Danakil-mélyföldön.",
       ro: "Un vulcan scut activ permanent în depresiunea Danakil.",
       en: "A continuously active shield volcano in the Danakil Depression."
+    ,
+    descriptionAdvanced: {
+      de: "Der Erta Ale ist einer der wenigen Vulkane weltweit mit einem dauerhaft aktiven Lavasee. Er befindet sich in der Danakil-Senke und ist ein zentrales Ziel für Vulkanforscher und Abenteurer. Die Landschaft um den Schildvulkan wirkt oft wie von einem anderen Planeten. Geologie K8 – Aktiver Vulkanismus.",
+      hu: "Az Erta Ale egy folyamatosan működő pajzsvulkán a Danakil-mélyföldön, amely híres tartósan aktív lávataváról. A vulkán a világ kevés ilyen aktív lávatóval rendelkező tűzhányója közé tartozik, ami különleges látványt nyújt, különösen éjszaka. A terület a tektonikus lemezek mozgásának közvetlen következménye, és egyedülálló ablakot nyit a Föld belső folyamataira. Földrajz K8 — vulkanizmus és Föld-szerkezet."
     },
+    factsAdvanced: {
+      hu: ["Folyamatosan működő pajzsvulkán", "Híres aktív lávató", "A világ egyik ritka lávatavú vulkánja", "A Danakil-mélyföld geológiai része", "Tektonikus aktivitás színhelye", "Különleges éjszakai látvány"]
+    },
+    factsAdvanced: {
+      de: ["Höhe: 613 Meter", "Eigenschaft: Dauerhafter Lavasee", "Region: Danakil-Senke", "Typ: Schildvulkan", "Besonderheit: Einer der aktivsten Vulkane Afrikas"]
+    }
+  },
     facts: {
       de: ["Dauerhafter Lavasee", "Höhe: 613 m", "Besucht von Forschern"],
       hu: ["Állandó lávató", "Magasság: 613 m", "Kutatók látogatják"],
@@ -97,7 +141,14 @@ export const poiExtraEthiopiaReliefV2: POI[] = [
       hu: "Jellegzetes csúcs az etióp felföldön.",
       ro: "Un vârf proeminent în podișul etiopian.",
       en: "A prominent peak in the Ethiopian highlands."
+    ,
+    descriptionAdvanced: {
+      de: "Mount Abu ist ein bedeutendes Gebirgsmassiv, das zur abwechslungsreichen Topografie Äthiopiens beiträgt. Die Region bietet wichtige klimatische Puffer und ist Lebensraum für diverse Waldökosysteme. Die Hänge dienen oft traditioneller Landwirtschaft. Geografie K7 – Topografie Äthiopiens."
     },
+    factsAdvanced: {
+      de: ["Typ: Bergmassiv", "Nutzung: Traditioneller Ackerbau", "Bedeutung: Ökologisches Rückzugsgebiet", "Klima: Gemäßigte Höhenlagen"]
+    }
+  },
     facts: {
       de: ["Höhe: 3700 m", "Region Oromia", "Wandergebiet"],
       hu: ["Magasság: 3700 m", "Oromia régió", "Túrázóhely"],
@@ -115,7 +166,14 @@ export const poiExtraEthiopiaReliefV2: POI[] = [
       hu: "Fontos csúcs a történelmi Amhara régióban.",
       ro: "Un vârf important în regiunea istorică Amhara.",
       en: "An important peak in the historic Amhara region."
+    ,
+    descriptionAdvanced: {
+      de: "Mount Amara ist ein markanter Punkt im äthiopischen Hochland, der für seine fruchtbaren Hänge und ökologische Vielfalt geschätzt wird. Die Berge in dieser Region sind eng mit der landwirtschaftlichen Tradition der lokalen Bevölkerung verknüpft. Sachkunde K5 – Landwirtschaft in Hochländern."
     },
+    factsAdvanced: {
+      de: ["Nutzung: Terrassenfeldbau", "Lage: Äthiopisches Hochland", "Besonderheit: Strategischer Aussichtspunkt", "Ökologie: Waldreiche Hänge"]
+    }
+  },
     facts: {
       de: ["Höhe: 3500 m", "Historische Bedeutung", "Panoramablick"],
       hu: ["Magasság: 3500 m", "Történelmi jelentőség", "Panoráma"],
@@ -133,7 +191,18 @@ export const poiExtraEthiopiaReliefV2: POI[] = [
       hu: "Mélyen bevágott völgy Etiópia délnyugati részén.",
       ro: "O vale adânc tăiată în sud-vestul Etiopiei.",
       en: "A deeply incised valley in southwestern Ethiopia."
+    ,
+    descriptionAdvanced: {
+      de: "Das Gibe-Tal ist ein tiefes Flusstal, das eine wichtige ökologische Barriere und Lebensader für die umliegenden Regionen bildet. Das Tal ist bekannt für seine reiche Biodiversität und bietet vielfältige Lebensräume von tropischen Wäldern bis zu Savannen. Geografie K6 – Flusstäler und Klima.",
+      hu: "A Gibe-völgy Etiópia délnyugati részének jelentős földrajzi képződménye, amelyet a Gibe-folyó vájt ki. A völgy nemcsak tájképi szempontból meghatározó, hanem fontos ökológiai folyosó is a különböző növényzeti zónák között. A terület gazdag biodiverzitással rendelkezik, beleértve a trópusi erdőket és a szavannás területeket is. Földrajz K6 — folyóvölgyek és biodiverzitás."
     },
+    factsAdvanced: {
+      hu: ["A Gibe-folyó által kivájt völgy", "Délnyugat-etiópiai földrajzi egység", "Fontos ökológiai folyosó", "Gazdag biodiverzitás", "Trópusi és szavannás növényzet", "Tájképi szempontból meghatározó"]
+    },
+    factsAdvanced: {
+      de: ["Region: Zentral-Äthiopien", "Wichtigkeit: Wasserversorgung", "Biodiversität: Hochgradig artenreich", "Geologie: Erosionsgeprägtes Tal"]
+    }
+  },
     facts: {
       de: ["Wichtiger Flusslauf", "Biodiversität", "Landwirtschaftlich genutzt"],
       hu: ["Fontos folyómeder", "Biodiverzitás", "Mezőgazdasági hasznosítás"],
@@ -151,7 +220,14 @@ export const poiExtraEthiopiaReliefV2: POI[] = [
       hu: "Magas csúcs a Bale-hegységben.",
       ro: "Un vârf înalt în munții Bale.",
       en: "A high peak in the Bale Mountains."
+    ,
+    descriptionAdvanced: {
+      de: "Mount Batu ist ein bedeutender Gipfel im Bale-Gebirge, der durch seine imposante Form und ökologische Bedeutung besticht. Er dient als wichtiges Wassereinzugsgebiet und beheimatet seltene Arten, die nur in dieser Höhe überleben können. Biologie K7 – Hochgebirgsfauna."
     },
+    factsAdvanced: {
+      de: ["Höhe: ca. 4307 Meter", "Lage: Bale-Gebirge", "Bedeutung: Wasserspeicher", "Besonderheit: Alpine Vegetation"]
+    }
+  },
     facts: {
       de: ["Höhe: 4307 m", "Afro-alpines Ökosystem", "Zwillingsgipfel"],
       hu: ["Magasság: 4307 m", "Afro-alpesi ökoszisztéma", "Iker-csúcs"],
@@ -169,7 +245,14 @@ export const poiExtraEthiopiaReliefV2: POI[] = [
       hu: "Jellegzetes hegy az ország déli részén.",
       ro: "Un munte proeminent în sudul țării.",
       en: "A prominent mountain in the south of the country."
+    ,
+    descriptionAdvanced: {
+      de: "Der Mount Kulu ist ein integraler Teil des äthiopischen Berglandes und bietet wichtige Lebensräume für eine Vielzahl von Pflanzen und Tieren. Die Gipfelregionen werden oft als Weideland oder für kleinteiligen Ackerbau genutzt. Sachkunde K5 – Berglandschaften."
     },
+    factsAdvanced: {
+      de: ["Lage: Äthiopisches Bergland", "Nutzung: Weideland", "Flora: Bergwald-Vegetation", "Bedeutung: Ökologisches Zentrum"]
+    }
+  },
     facts: {
       de: ["Höhe: 3200 m", "Region Südnationen", "Unberührte Natur"],
       hu: ["Magasság: 3200 m", "Dél-nemzetiségek régiója", "Érintetlen természet"],
@@ -187,7 +270,14 @@ export const poiExtraEthiopiaReliefV2: POI[] = [
       hu: "Hegy az Arsi-hegységben.",
       ro: "Un munte în munții Arsi.",
       en: "A mountain in the Arsi Mountains."
+    ,
+    descriptionAdvanced: {
+      de: "Mount Gugu erhebt sich als markantes Relief in der äthiopischen Landschaft. Die Region um diesen Berg ist bekannt für ihr mildes Klima und die Nutzung durch lokale Gemeinschaften für die Forstwirtschaft. Erdkunde K6 – Klima und Vegetation."
     },
+    factsAdvanced: {
+      de: ["Typ: Bergmassiv", "Nutzung: Forstwirtschaft", "Klima: Angenehme Höhenlage", "Bedeutung: Landschaftsbildend"]
+    }
+  },
     facts: {
       de: ["Höhe: 3600 m", "Waldreiches Gebiet", "Heimat seltener Arten"],
       hu: ["Magasság: 3600 m", "Erdős terület", "Ritka fajok otthona"],

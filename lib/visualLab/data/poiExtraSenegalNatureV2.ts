@@ -14,7 +14,23 @@ export const poiExtraSenegalNatureV2: POI[] = [
       hu: ["Hossza kb. 1080 km", "Fontos vízforrás a mezőgazdaságnak"],
       ro: ["Lungime aprox. 1080 km", "Sursă importantă de apă pentru agricultură"],
       en: ["Length approx. 1080 km", "Important water source for agriculture"]
-    }, image: "/poi-images/fleuve-senegal-nature-v2.webp"},
+    }, image: "/poi-images/fleuve-senegal-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "A Szenegál-folyó Nyugat-Afrika egyik leghosszabb és legjelentősebb folyója, amely az ország északi határát alkotja Mauritániával. A folyó a Guineai-felföldön ered, és több mint 1700 kilométer megtétele után Saint-Louis-nál éri el az Atlanti-óceánt. Évezredek óta ez a vízfolyás az élet forrása a száraz száheli övezetben, lehetővé téve a mezőgazdaságot, a halászatot és a hajózást. A folyó mentén alakultak ki az ősi királyságok és a fontos kereskedelmi városok, mint Podor és Richard Toll. A folyó szabályozását és a vízgazdálkodást az OMVS nemzetközi szervezet koordinálja, biztosítva az öntözést és az energiatermelést a környező országok számára. Természeti szempontból a folyó völgye gazdag madárvilágnak és ártéri erdőknek ad otthont.",
+      ro: "Fluviul Senegal, cu o lungime de peste 1.700 de kilometri, este artera vitală care definește frontiera de nord a țării și susține viața în întregul bazin Sahelian. Izvorând din masivul Fouta Djallon din Guineea, fluviul traversează peisaje diverse, de la zonele muntoase la câmpiile secetoase, înainte de a se vărsa în Oceanul Atlantic la Saint-Louis. Importanța sa strategică este imensă, fiind sursa principală de apă pentru irigații, producție de energie hidroelectrică și navigație. Valea fluviului Senegal este centrul istoric al agriculturii intensive a țării, unde se cultivă orez, trestie de zahăr și cereale. Fluviul găzduiește ecosisteme bogate, inclusiv zone umede protejate care atrag mii de păsări migratoare. Gestiunea apelor sale este realizată în cooperare cu statele vecine prin OMVS (Organizația pentru Valorificarea Fluviului Senegal), fiind un exemplu de diplomație a apei în Africa. Fluviul nu este doar o resursă naturală, ci și un simbol cultural profund pentru popoarele Wolof, Peul și Soninke care trăiesc de-a lungul malurilor sale.",
+      en: ""
+    },
+    factsAdvanced: {
+      ro: ["Al doilea cel mai lung fluviu din Africa de Vest, după Niger.", "Formează granița naturală între Senegal și Mauritania.", "Vărsarea sa în ocean este marcată de fenomenul „Langue de Barbarie”.", "Susține cel mai mare sistem de irigații din țară în regiunea Richard Toll.", "Include baraje gigantice precum Diama (anti-sare) și Manantali (energie).", "Navigația fluvială este posibilă pe distanțe mari în timpul sezonului ploios.", "Este un habitat critic pentru lamantinii africani și crocodili.", "Râul este inima istorică a vechilor regate Tekrur și Waalo."]
+    },
+    factsAdvanced: {
+      de: [],
+      hu: ["Szenegál és Mauritánia természetes határfolyója.", "Hossza körülbelül 1790 kilométer a forrástól a torkolatig.", "Deltájában található a világörökségi Djoudj madárrezervátum.", "Két nagy gát (Diama és Manantali) szabályozza a vízszintjét.", "Kulcsszerepet játszik az ország északi részének öntözéses gazdálkodásában.", "A folyó vize teszi lehetővé a nagyszabású cukornádtermesztést.", "Történelmileg fontos kereskedelmi útvonal volt Afrika belseje felé."],
+      ro: [],
+      en: []
+    }
+  },
   {
     id: "lac-rose-nature-v2",
     type: "lake",
@@ -27,7 +43,23 @@ export const poiExtraSenegalNatureV2: POI[] = [
       hu: ["Nagyon magas sótartalom", "Ismert a Dakar-raliról"],
       ro: ["Salinitate foarte ridicată", "Cunoscut prin Raliul Dakar"],
       en: ["Very high salinity", "Known for the Dakar Rally"]
-    }, image: "/poi-images/lac-rose-nature-v2.webp"},
+    }, image: "/poi-images/lac-rose-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "A Rózsaszín-tó (Lac Retba) Szenegál egyik legkülönlegesebb természeti képződménye, amely Dakar-tól északkeletre, a tengerpart közelében található. Nevét a vizében élő Dunaliella salina algának köszönheti, amely a magas sókoncentráció hatására vöröses-rózsaszín pigmentet termel, különösen a száraz évszakban. A tó sótartalma rendkívül magas, helyenként meghaladja a Holt-tengerét is, így az ember könnyedén lebeg a felszínén. A tó partján évtizedek óta folyik a hagyományos sókitermelés: a férfiak a mellkasukig érő vízben gyűjtik a sót, míg az asszonyok a parton halmozzák fel azt. A tó környéke egykor a Párizs-Dakar rali befutójának helyszíne volt, ma pedig Szenegál egyik legnépszerűbb turisztikai célpontja.",
+      ro: "Lacul Rose, cunoscut oficial sub numele de Lacul Retba, este una dintre cele mai spectaculoase atracții naturale ale Senegalului, situat la aproximativ 30 de kilometri nord-est de Dakar. Lacul este faimos pentru nuanța sa de roz intens, cauzată de prezența algei Dunaliella salina, care produce un pigment roșiatic pentru a rezista concentrației extrem de ridicate de sare. Cu o salinitate care depășește 40% în unele zone, lacul permite vizitatorilor să plutească fără efort la suprafața apei, similar cu experiența de la Marea Moartă. Dincolo de frumusețea sa vizuală, Lacul Rose este un centru economic important pentru recoltarea sării, unde sute de muncitori extrag manual cristalele din fundul lacului folosind pirogi mici. Peisajul este completat de dunele de nisip alb care separă lacul de ocean, oferind un contrast cromatic deosebit. Deși nuanța roz este mai vizibilă în sezonul uscat, lacul rămâne un sit natural fascinant și un simbol al rezilienței ecologice și economice a regiunii.",
+      en: ""
+    },
+    factsAdvanced: {
+      ro: ["Culoarea roz este rezultatul interacțiunii dintre sarea ridicată, soare și microalge.", "Lacul Retba a fost punctul final tradițional al celebrului Raliu Dakar.", "Salinitatea este de aproximativ 380 de grame pe litru, una dintre cele mai mari din lume.", "Muncitorii se dau cu unt de shea pentru a-și proteja pielea de acțiunea sării.", "Anual se extrag mii de tone de sare destinată conservării peștelui și exportului.", "Este situat la doar câteva sute de metri de Oceanul Atlantic, separat de dune.", "Lacul este relativ puțin adânc, având o medie de 1,5 - 3 metri.", "Ecosistemul său este monitorizat atent din cauza riscului de sedimentare excesivă."]
+    },
+    factsAdvanced: {
+      de: [],
+      hu: ["Különleges színét egy magas sótartalmat kedvelő algának köszönheti.", "A tó sótartalma eléri a 40%-ot, ami extrém magas.", "A helyi lakosság hagyományos módszerekkel termeli ki a sót.", "A tó mélysége csekély, általában nem haladja meg a 3 métert.", "Az óceántól csak egy keskeny dűnesor választja el.", "Híres volt mint a Párizs-Dakar rali végső állomása.", "A látogatók számára a színélmény a déli órákban a legerősebb."],
+      ro: [],
+      en: []
+    }
+  },
   {
     id: "parc-niokolo-koba-nature-v2",
     type: "forest",
@@ -40,7 +72,23 @@ export const poiExtraSenegalNatureV2: POI[] = [
       hu: ["UNESCO Világörökség", "Oroszlánok és elefántok élőhelye"],
       ro: ["Patrimoniul Mondial UNESCO", "Habitat pentru lei și elefanți"],
       en: ["UNESCO World Heritage site", "Home to lions and elephants"]
-    }, image: "/poi-images/parc-niokolo-koba-nature-v2.webp"},
+    }, image: "/poi-images/parc-niokolo-koba-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "A Niokolo-Koba Nemzeti Park Szenegál délkeleti részén fekszik, és Nyugat-Afrika egyik utolsó nagy vadonja. A több mint 900 000 hektáros területet a Gambia-folyó és mellékágai szelik át, változatos élőhelyet biztosítva a szavannáktól a galériaerdőkig. A park az UNESCO Világörökség része, és olyan ritka fajok otthona, mint az elefántok, oroszlánok, leopárdok és a kritikusan veszélyeztetett óriás jávorantilop. Niokolo-Koba Szenegál biológiai sokféleségének fellegvára, ahol több száz madárfaj és hüllő is megtalálható. A látogatók terepjárós szafarikon fedezhetik fel a park érintetlen tájait, bár az infrastruktúra egyszerűbb, mint a kelet-afrikai parkokban, a vadvilág autentikussága kárpótolja a kalandvágyókat.",
+      ro: "Parcul Național Niokolo-Koba este cea mai mare și mai importantă arie protejată din Senegal, situată în sud-estul țării, pe malurile râului Gambia. Înscris în Patrimoniul Mondial UNESCO, parcul se întinde pe aproape un milion de hectare de savană africană curată, păduri-galerie și zone umede. Niokolo-Koba reprezintă ultimul mare refugiu pentru fauna sălbatică din Africa de Vest, adăpostind specii emblematice precum leul african, leopardul, elefantul și antilopa derbiană (cea mai mare antilopă din lume). Parcul este, de asemenea, singurul loc din Senegal unde mai pot fi găsite grupuri de cimpanzei de vest în habitatul lor natural. Biodiversitatea sa este uluitoare, cu peste 300 de specii de păsări și o varietate imensă de reptile și insecte. Deși se confruntă cu provocări precum braconajul și schimbările climatice, parcul rămâne inima eforturilor de conservare ale țării și o destinație de vis pentru iubitorii de safari și natură sălbatică autentică.",
+      en: ""
+    },
+    factsAdvanced: {
+      ro: ["Cel mai mare parc național din Senegal, fondat oficial în 1954.", "UNESCO l-a declarat sit de Patrimoniu Mondial în anul 1981.", "Este traversat de râurile Gambia, Niokolo și Koulountou.", "Găzduiește ultima populație de elefanți sălbatici din Senegal.", "Muntele Assirik din interiorul parcului este cel mai înalt punct din zonă.", "Flora include peste 1.500 de specii de plante tropicale și de savană.", "Este un sit Ramsar de importanță internațională pentru zonele umede.", "Accesul turiștilor este limitat în timpul sezonului ploios din cauza drumurilor inundate."]
+    },
+    factsAdvanced: {
+      de: [],
+      hu: ["Szenegál legnagyobb nemzeti parkja és UNESCO Világörökségi helyszín.", "Területe megközelíti a 9130 négyzetkilométert.", "Nyugat-Afrika egyik utolsó elefánt- és oroszlánpopulációjának otthona.", "A Gambia-folyó mentén gazdag vízi élővilág található (vízilovak, krokodilok).", "Több mint 330 madárfajt regisztráltak a park területén.", "A park legmagasabb pontja a Mount Assirik (311 m).", "A száraz évszakban (december-május) a legjobb az állatok megfigyelése."],
+      ro: [],
+      en: []
+    }
+  },
   {
     id: "delta-du-saloum-nature-v2",
     type: "river",
@@ -53,7 +101,23 @@ export const poiExtraSenegalNatureV2: POI[] = [
       hu: ["Bioszféra-rezervátum", "Gazdag madárvilág"],
       ro: ["Rezervație a biosferei", "Bogată în specii de păsări"],
       en: ["Biosphere reserve", "Rich in bird species"]
-    }, image: "/poi-images/delta-du-saloum-nature-v2.webp"},
+    }, image: "/poi-images/delta-du-saloum-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "A Saloum-delta Szenegál egyik leglátványosabb természeti és kulturális tája, ahol a Sine és a Saloum folyók az Atlanti-óceánba torkollnak. A 180 000 hektáros delta hatalmas mangrove-erdőkkel, sós mocsarakkal és több száz kisebb-nagyobb szigettel rendelkezik. Ez a vizes élőhely az UNESCO Világörökség része, nemcsak biodiverzitása, hanem a területén található ősi kagylóhalmok (amas de coquillages) miatt is, amelyek évezredes emberi jelenlétről tanúskodnak. A deltában a közlekedés kizárólag csónakokkal (pirogue) lehetséges, a halászat és a kagylógyűjtés pedig ma is a lakosság fő megélhetési forrása. A Saloum-delta a nyugalom világa, ahol a természet és az emberi tradíciók tökéletes harmóniában léteznek.",
+      ro: "Delta Sine-Saloum este unul dintre cele mai frumoase și complexe ecosisteme din Senegal, situat la sud de „Bazinul de Arahide”. Această deltă fluvială-maritimă, formată de râurile Sine și Saloum, este compusă dintr-un labirint infinit de canale (bolonguri), lagune, bancuri de nisip și peste 200 de insule acoperite de păduri dense de mangrove. UNESCO a recunoscut delta ca Rezervație a Biosferei, subliniind armonia dintre natură și activitățile umane tradiționale ale popoarelor Serer și Niominka. Delta este un paradis pentru ornitologi, fiind locul de reproducere pentru mii de păsări acvatice, inclusiv pelicani și flamingo. Un element unic al peisajului sunt „grămăzile de scoici” create de mână omului de-a lungul a sute de ani, care acum sunt acoperite de baobabi uriași. Delta Saloum oferă o experiență de călătorie atemporală, unde piroga este singurul mijloc de transport și unde ritmul vieții este dictat de maree și de foșnetul frunzelor de mangrove.",
+      en: ""
+    },
+    factsAdvanced: {
+      ro: ["Înscrisă în Patrimoniul Mondial UNESCO pentru peisajul său cultural și natural.", "Acoperă o suprafață totală de aproximativ 180.000 de hectare.", "Mangrovele de aici joacă un rol crucial în captarea dioxidului de carbon.", "Adăpostește sute de movile artificiale de scoici (amas coquilliers) preistorice.", "Este unul dintre cele mai importante locuri de pescuit artizanal din țară.", "Ecosistemul este un sit Ramsar esențial pentru conservarea păsărilor de apă.", "Pirogile sunt esențiale pentru navigația prin rețeaua densă de canale.", "Regiunea este celebră pentru „mierea de mangrove” produsă local."]
+    },
+    factsAdvanced: {
+      de: [],
+      hu: ["UNESCO Világörökség és Bioszféra Rezervátum.", "Bonyolult csatornarendszerekből és mangrove erdőkből áll.", "Híres az évezredes emberi tevékenység során felhalmozódott kagylóhalmokról.", "Költözőmadarak és tengeri tehenek (manátuszok) fontos élőhelye.", "A terület lakói, a serer-niominkák kiváló tengerészek és halászok.", "A delta szigetein nincsenek aszfaltozott utak, csak vízi közlekedés.", "A torkolatvidék gazdag osztriga- és rákállománnyal rendelkezik."],
+      ro: [],
+      en: []
+    }
+  },
   {
     id: "ile-de-goree-nature-v2",
     type: "island",
@@ -66,7 +130,23 @@ export const poiExtraSenegalNatureV2: POI[] = [
       hu: ["UNESCO Világörökség", "Kicsi sziklás sziget"],
       ro: ["Patrimoniul Mondial UNESCO", "Insulă stâncoasă mică"],
       en: ["UNESCO World Heritage site", "Small rocky island"]
-    }, image: "/poi-images/ile-de-goree-nature-v2.webp"},
+    }, image: "/poi-images/ile-de-goree-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "Gorée szigete nemcsak történelmi emlékhely, hanem különleges természeti adottságokkal rendelkező bazaltsziget is Dakar partjai előtt. A vulkanikus eredetű sziget meredek sziklafalaival és kristálytiszta vizű öbleivel tűnik ki a környezetéből. Bár területe kicsi, mikroklímája kellemesebb, mint a szárazföldi Dakaré, mivel az óceáni szellők folyamatosan hűtik. A szigeten tilos a gépjárműforgalom, ami hozzájárul a természetes nyugalom megőrzéséhez. Gorée flórája buja trópusi növényekből, bougainvilleákból és pálmákból áll, amelyek színessé teszik a gyarmati házak közötti szűk utcákat. A tengerparti sziklák és a Castel-domb lenyűgöző panorámát nyújtanak az óceánra, miközben a sziget körüli vizek gazdag halállománynak adnak otthont.",
+      ro: "Insula Gorée, deși celebră în principal pentru istoria sa tragică legată de sclavie, posedă un cadru natural și geologic fascinant. Această mică insulă vulcanică, situată la 3 kilometri de coasta Dakarului, este formată dintr-un platou de bazalt negru care se ridică brusc din apele turcoaz ale Oceanului Atlantic. Absența mașinilor și a zgomotului urban a permis florei tropicale, precum bougainvillea și palmierii, să se dezvolte exuberant printre clădirile coloniale colorate. Coasta insulei este stâncoasă și abruptă pe latura de sud, oferind un habitat protejat pentru diverse specii de păsări marine și pești de recif. Plaja mică din dreptul portului este una dintre puținele zone cu nisip fin, fiind un loc de relaxare popular. Natura pe Gorée este strâns împletită cu moștenirea construită, creând o atmosferă de sanctuar pașnic unde oceanul pare să protejeze memoria locului. Grădinile interioare ale caselor istorice ascund specii de plante aduse din toate colțurile fostului imperiu colonial, transformând insula într-o mică grădină botanică plutitoare.",
+      en: ""
+    },
+    factsAdvanced: {
+      ro: ["Insulă de origine vulcanică formată în principal din roci bazaltice.", "Suprafața totală este de doar 28 de hectare, ușor de parcurs la pas.", "Are un microclimat marin mai blând decât cel al capitalei Dakar.", "Este o zonă complet pietonală, fără poluare cauzată de vehicule.", "Apele din jurul insulei sunt bogate în biodiversitate marină, ideale pentru scufundări.", "Stâncile de la Castel oferă o panoramă panoramică spre Dakar și ocean.", "Insula este un punct de popas pentru păsările care traversează golful Dakar.", "Include grădini istorice cu specii rare de flori tropicale."]
+    },
+    factsAdvanced: {
+      de: [],
+      hu: ["Vulkanikus eredetű bazaltsziget Dakar öblében.", "Teljes területe mindössze 28 hektár.", "Autómentes övezet, ami egyedülálló Szenegálban.", "A sziget körül gazdag tengeri élővilág és korallmaradványok találhatók.", "A legmagasabb pontja a Castel-domb, ahonnan Dakar belátható.", "Buja, trópusi kertek és virágzó bokrok jellemzik a lakónegyedeket.", "UNESCO Világörökségi védelem alatt áll mind természeti, mind történelmi értékei miatt."],
+      ro: [],
+      en: []
+    }
+  },
   {
     id: "fleuve-casamance-nature-v2",
     type: "river",
@@ -79,7 +159,23 @@ export const poiExtraSenegalNatureV2: POI[] = [
       hu: ["Átfolyik Casamance régión", "Fontos közlekedési útvonal"],
       ro: ["Traversează regiunea Casamance", "Arteră de transport importantă"],
       en: ["Flows through Casamance region", "Important transport route"]
-    }, image: "/poi-images/fleuve-casamance-nature-v2.webp"},
+    }, image: "/poi-images/fleuve-casamance-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "A Casamance-folyó Szenegál déli régiójának éltető ereje, amely a szárazföld belsejéből az Atlanti-óceán felé kanyarog. A folyó torkolatvidéke egy hatalmas lagúnarendszer, ahol az édes és a sós víz keveredése különleges ökoszisztémát hozott létre. A folyópartokat sűrű mangrove-erdők és trópusi galériaerdők szegélyezik, amelyek számos madárfajnak, krokodilnak és manátusznak adnak otthont. A Casamance-folyó nemcsak ökológiai szempontból fontos, hanem a régió legfontosabb közlekedési útja is, amely összeköti a szigeteket és a part menti falvakat. A folyó vize táplálja a környező rizsföldeket, biztosítva Casamance mezőgazdasági gazdagságát és a Jola nép évszázados életformáját.",
+      ro: "Râul Casamance este artera vitală a sudului Senegalului, dând numele întregii regiuni și modelând peisajul său unic de „pădure tropicală și apă”. Acest râu de câmpie se caracterizează printr-o pantă extrem de mică, ceea ce permite apei sărate a oceanului să pătrundă până la 200 de kilometri în interiorul continentului, creând un estuar vast dominat de mangrove. Malurile râului sunt înțesate de „bolonguri” – canale întortocheate care pătrund adânc în pădurile de palmieri și orezării. Casamance este esențial pentru transportul regional, legând orașul Ziguinchor de satele izolate și de mare. Ecosistemul său bogat susține o diversitate uluitoare de pești, crustacee și păsări exotice, fiind inima economiei de pescuit artizanal din sud. Pentru locuitorii Diola, râul este o prezență sacră, iar viața lor cotidiană este strâns legată de ritmul mareelor și de resursele oferite de acest curs de apă maiestuos și liniștit.",
+      en: ""
+    },
+    factsAdvanced: {
+      ro: ["Râul are o lungime totală de aproximativ 300 de kilometri.", "Estuarul său este unul dintre cele mai mari și mai bine conservate din Africa.", "Pătrunderea apei sărate permite dezvoltarea unor păduri de mangrove gigantice.", "Este navigabil de către nave maritime până la portul Ziguinchor.", "Malurile sale găzduiesc specii rare de delfini de estuar și crocodili.", "Susține cultura tradițională a orezului prin controlul fluxului de apă.", "Pirogile tradiționale din Casamance sunt vitale pentru comerțul local.", "Ecosistemul râului este amenințat de salinizarea excesivă a terenurilor agricole."]
+    },
+    factsAdvanced: {
+      de: [],
+      hu: ["Dél-Szenegál legjelentősebb folyója és közlekedési útvonala.", "Torkolata az óceánnál több mint 10 km széles.", "Hatalmas mangrove-mocsarak (bolongok) szegélyezik a medrét.", "Gazdag tengeri és folyami halállománnyal rendelkezik.", "A folyó menti falvak csak pirogue-val (csónakkal) közelíthetők meg.", "Vize létfontosságú a régió intenzív rizstermesztéséhez.", "Számos ritka vízi emlős, köztük afrikai manátuszok élnek itt."],
+      ro: [],
+      en: []
+    }
+  },
   {
     id: "djoudj-sanctuarium-nature-v2",
     type: "lake",
@@ -92,7 +188,23 @@ export const poiExtraSenegalNatureV2: POI[] = [
       hu: ["UNESCO Világörökség", "Millió költözőmadár otthona"],
       ro: ["Patrimoniul Mondial UNESCO", "Casă pentru milioane de păsări migratoare"],
       en: ["UNESCO World Heritage site", "Home to millions of migratory birds"]
-    }, image: "/poi-images/djoudj-sanctuarium-nature-v2.webp"},
+    }, image: "/poi-images/djoudj-sanctuarium-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "A Djoudj Nemzeti Madárrezervátum (Parc National des Oiseaux du Djoudj) a világ egyik legfontosabb vizes élőhelye a Szenegál-folyó deltájában. Ez a 16 000 hektáros terület az első édesvízi megállóhely a Szahara átrepülése után a költözőmadarak számára, így télen több mint 3 millió egyed gyűlik itt össze. A park leghíresebb lakói a pelikánok, amelyek hatalmas kolóniákban fészkelnek itt, de flamingók, kócsagok és számos ragadozó madár is látható. A rezervátumot az UNESCO Világörökség részévé nyilvánították, mivel kulcsszerepet játszik a globális biodiverzitás megőrzésében. A látogatók motoros csónakokkal fedezhetik fel a csatornákat, testközelből szemlélve a madárvilág lenyűgöző lüktetését.",
+      ro: "Sanctuarul Național de Păsări Djoudj este cea de-a treia rezervație ornitologică din lume ca importanță, situată în delta fluviului Senegal. Acest paradis al păsărilor, inclus în Patrimoniul Mondial UNESCO, ocupă o suprafață de 16.000 de hectare și este compus dintr-o rețea complexă de lacuri, mlaștini și canale cu apă dulce. Djoudj reprezintă prima etapă vitală de odihnă și hrană pentru milioane de păsări migratoare după traversarea periculoasă a deșertului Sahara. Spectacolul cel mai impresionant este oferit de coloniile imense de pelicani albi și flamingo roz, care se adună aici în număr de zeci de mii. Vizitatorii pot explora sanctuarul cu piroga, alunecând silențios printre trestii pentru a observa stârci, lopătari și diverse specii de rațe sălbatice. Pe lângă păsări, rezervația adăpostește și mamifere precum facocherii și gazelele, fiind un exemplu strălucit de conservare a zonelor umede în marginea aridă a Sahelului.",
+      en: ""
+    },
+    factsAdvanced: {
+      ro: ["Găzduiește peste 3 milioane de păsări migratoare în fiecare an.", "Este locul principal de cuibărit pentru pelicanul alb în Africa de Vest.", "Înscris pe lista Patrimoniului Mondial UNESCO încă din anul 1981.", "Apa dulce este menținută prin barajul Diama, prevenind invazia sării.", "Situl este clasificat ca zonă umedă de importanță internațională (Ramsar).", "Peste 350 de specii de păsări au fost inventariate în interiorul parcului.", "Cel mai bun moment pentru vizită este între lunile noiembrie și aprilie.", "Sanctuarul joacă un rol critic în monitorizarea gripei aviare la nivel global."]
+    },
+    factsAdvanced: {
+      de: [],
+      hu: ["A világ harmadik legjelentősebb madárrezervátuma.", "UNESCO Világörökség és a Ramsari Egyezmény védelme alatt áll.", "Több mint 360 madárfaj látogatja a parkot rendszeresen.", "Hatalmas pelikán-fészkelőtelepek találhatók a park szívében.", "Novembertől áprilisig a legaktívabb a madárvonulás miatt.", "A területen krokodilok, varacskos disznók és sakálok is élnek.", "A park vízellátását egy bonyolult zsiliprendszer szabályozza a Szenegál-folyóból."],
+      ro: [],
+      en: []
+    }
+  },
   {
     id: "fleuve-gambia-senegal-nature-v2",
     type: "river",
@@ -105,6 +217,24 @@ export const poiExtraSenegalNatureV2: POI[] = [
       hu: ["A Fouta Djallon-ból ered", "Vízilovak élőhelye"],
       ro: ["Izvorăște din Fouta Djallon", "Habitat pentru hipopotami"],
       en: ["Originates in Fouta Djallon", "Habitat for hippos"]
+    },
+    descriptionAdvanced: {
+      ro: "Fluviul Gambia este unul dintre cele mai importante cursuri de apă din Africa de Vest, având o porțiune semnificativă care traversează sud-estul Senegalului înainte de a intra în țara vecină, Gambia. Izvorând din Podișul Fouta Djallon, fluviul pătrunde în Senegal în regiunea Kédougou, unde are un caracter muntos, cu zúgók și peisaje spectaculoase de savană împădurită. În această secțiune, râul traversează Parcul Național Niokolo-Koba, fiind coloana vertebrală a biodiversității parcului. Apele sale sunt adăpostul unor populații importante de hipopotami și crocodili, în timp ce malurile sale sunt umbrite de păduri-galerie luxuriante. Fluviul Gambia joacă un rol crucial în viața comunităților locale, oferind resurse de pescuit și apă pentru agricultură în zonele rurale. De-a lungul istoriei, fluviul a fost o cale majoră de pătrundere spre interiorul continentului, iar frumusețea sa sălbatică rămâne neschimbată, oferind una dintre cele mai autentice experiențe de natură din Senegal."
+    },
+    factsAdvanced: {
+      ro: ["Fluviul are o lungime totală de 1.120 km, din care o parte importantă în Senegal.", "Secțiunea senegaleză este renumită pentru cascade și terenuri accidentate.", "Este principala sursă de apă pentru fauna din Parcul Niokolo-Koba.", "Adăpostește una dintre cele mai mari populații de hipopotami din regiune.", "Râul este esențial pentru satele etniilor Bassari și Bedik din sud-est.", "Formează văi adânci și fertile, ideale pentru culturile de subzistență.", "Este navigabil pentru pirogi pe distanțe mari în regiunea Tambacounda.", "Reprezintă un coridor ecologic vital între munții Guineei și Atlantic."]
+    },
+    descriptionAdvanced: {
+      de: "",
+      hu: "A Gambia-folyó szenegáli szakasza az ország délkeleti részén, a Kedougou és Tambacounda régiókban kanyarog, mielőtt belépne Gambia területére. Ez a szakasz a folyó legvadabb és leglátványosabb része, ahol a víz mély völgyeket vájt a sziklás tájba. A folyó mentén található a Niokolo-Koba Nemzeti Park egy jelentős része, így a partvidék érintetlen galériaerdőknek és gazdag vadvilágnak ad otthont. A Gambia-folyó ezen szakasza híres a vízilovakról és krokodilokról, valamint a part menti sziklákon pihenő majmokról. A folyó nemcsak ökológiai folyosó, hanem fontos erőforrás is a helyi falvak számára, akik halászattal és a vízparti területek művelésével foglalkoznak a szavannák peremén.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: ["A folyó Szenegál délkeleti részén, a Guineai határ közelében ered.", "Szenegáli szakasza átszeli a Niokolo-Koba Nemzeti Parkot.", "Híres a nagy vízilló-populációiról és hatalmas krokodiljairól.", "A folyó menti galériaerdők trópusi menedéket nyújtanak a szavannán.", "Kedvelt helyszín a kalandos kenutúrák és horgászat számára.", "Vize kristálytiszta a hegyvidéki szakaszokon, ellentétben az alsó folyással.", "Fontos szerepet játszik a kelet-szenegáli biodiverzitás fenntartásában."],
+      ro: [],
+      en: []
     }
   },
   {
@@ -119,7 +249,23 @@ export const poiExtraSenegalNatureV2: POI[] = [
       hu: ["Ellátja Dakart vízzel", "Alacsony sótartalom"],
       ro: ["Alimentează Dakar cu apă", "Salinitate scăzută"],
       en: ["Supplies Dakar with water", "Low salinity"]
-    }, image: "/poi-images/lac-de-guier-nature-v2.webp"},
+    }, image: "/poi-images/lac-de-guier-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "A Guiers-tó (Lac de Guiers) Szenegál legnagyobb és legfontosabb édesvizű tava, amely az ország északi részén található. A tó a Szenegál-folyó egyik mellékágából, a Taoué-csatornán keresztül kapja a vizét, és kritikus szerepet játszik Szenegál vízellátásában. Innen származik a főváros, Dakar ivóvízének jelentős része, amelyet egy több száz kilométer hosszú csővezetéken (GCP) szállítanak. A tó környéke emellett az ország egyik legfontosabb mezőgazdasági központja: a part menti ültetvényeken cukornádat, rizst és zöldségeket termesztenek. A Guiers-tó gazdag halállománya több ezer helyi halásznak biztosít megélhetést, miközben a vizes élőhelyek számos madárfaj számára nyújtanak menedéket a száraz évszakban.",
+      ro: "Lacul de Guiers este cel mai mare rezervor de apă dulce din Senegal, situat în nordul țării, și reprezintă sursa vitală de aprovizionare cu apă potabilă pentru capitala Dakar și multe alte orașe. Alimentat de fluviul Senegal prin canalul Taouey, lacul se întinde pe o lungime de peste 35 de kilometri, dar adâncimea sa este redusă. Malurile lacului sunt extrem de fertile, susținând mari exploatări agricole de trestie de zahăr și culturi de legume în sistem irigat. Din punct de vedere ecologic, Lacul de Guiers este o arie protejată parțial, fiind un refugiu pentru numeroase specii de păsări acvatice și pești de apă dulce. Importanța sa strategică este critică pentru securitatea hidrică a Senegalului, iar gestionarea calității apei sale este o prioritate națională. Peisajul lacului este unul de liniște absolută, cu ape ce oglindesc cerul Sahelului și sate tradiționale de pescari ce își desfășoară activitatea zilnică pe malurile sale ierboase.",
+      en: ""
+    },
+    factsAdvanced: {
+      ro: ["Unica rezervă majoră de apă dulce a țării în zona aridă de nord.", "Furnizează peste 60% din necesarul de apă potabilă al orașului Dakar.", "Lungimea lacului variază între 35 și 50 km în funcție de sezon.", "Este conectat la fluviul Senegal printr-un sistem de ecluze și canale.", "Susține industria zahărului din Richard Toll prin irigații masive.", "Găzduiește colonii importante de păsări migratoare palearctice.", "Ecosistemul este fragil din cauza riscului de poluare cu îngrășăminte.", "Se află în inima regiunii istorice a regatului Waalo."]
+    },
+    factsAdvanced: {
+      de: [],
+      hu: ["Szenegál legnagyobb édesvizű tava, területe kb. 170 km².", "A főváros, Dakar legfőbb ivóvízbázisa.", "A tó vizével öntözik a Richard Toll környéki hatalmas cukornádültetvényeket.", "A tengerszint feletti magassága mindössze 2 méter.", "Gazdag édesvízi halállomány, például tilápia otthona.", "Fontos szerepe van a száhel övezet elsivatagosodása elleni harcban.", "A tó déli részén jelentős állattenyésztés folyik a legelők közelsége miatt."],
+      ro: [],
+      en: []
+    }
+  },
   {
     id: "pointe-des-almadies-nature-v2",
     type: "sea",
@@ -132,7 +278,23 @@ export const poiExtraSenegalNatureV2: POI[] = [
       hu: ["Atlanti-óceán partja", "Sziklás földnyelv"],
       ro: ["Coasta Atlantică", "Promontoriu stâncos"],
       en: ["Atlantic coast", "Rocky headland"]
-    }, image: "/poi-images/pointe-des-almadies-nature-v2.webp"},
+    }, image: "/poi-images/pointe-des-almadies-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "A Pointe des Almadies az afrikai kontinens legnyugatibb pontja, amely Dakar Zöld-foki-félszigetének csúcsán található. Ez a terület híres drámai, fekete bazaltszikláiról, amelyeken az Atlanti-óceán hatalmas hullámai megtörnek. A fok környéke gazdag tengeri élővilággal rendelkezik, a sziklák közötti mélyedésekben rákok és apró halak figyelhetők meg apály idején. Almadies nemcsak földrajzi értelemben különleges, hanem Dakar egyik legelegánsabb negyede is, ahol számos nagykövetség, luxusszálloda és kiváló halétterem található. A tengerparti sétányról csodálatos kilátás nyílik az óceánra, az Almadies-zátony pedig a szörfösök és a búvárok körében is nemzetközileg elismert helyszín.",
+      ro: "Pointe des Almadies este punctul geografic cel mai vestic al întregului continent african, situat la extremitatea peninsulei Cap-Vert din Dakar. Acest loc simbolic este marcat de o coastă stâncoasă formată din roci vulcanice negre care se prăbușesc direct în Oceanul Atlantic, unde curenții puternici se întâlnesc într-un spectacol de spumă și valuri. Almadies nu este doar un reper geografic, ci și o zonă de o frumusețe naturală aspră, unde cerul se unește cu oceanul într-un orizont nesfârșit. Zona este renumită pentru biodiversitatea sa marină, apele din jurul punctului fiind printre cele mai bogate în pește din Senegal, atrăgând pescari artizanali și pasionați de scufundări. Recifele de corali din apropiere și insulițele stâncoase oferă refugiu pentru numeroase specii de păsări marine. Pentru vizitatori, Pointe des Almadies oferă restaurante de pește cu vederi panoramice incredibile, fiind locul ideal pentru a urmări apusul soarelui în cel mai îndepărtat punct vestic al Africii.",
+      en: ""
+    },
+    factsAdvanced: {
+      ro: ["Localizat la coordonatele 17° 31' longitudine vestică.", "Este marcat de o stelă simbolică ce atestă statutul de punct extrem al Africii.", "Coasta este formată din bazalt vulcanic rezultat din vechi erupții.", "Este una dintre cele mai bune locații de surfing din Africa de Vest.", "Apele reci și adânci din apropiere sunt bogate în fructe de mare (homari).", "Oferă o vedere directă spre insula Ngor și farul Mamelles.", "Zona găzduiește sedii ale multor organizații internaționale și ambasade.", "Curenții maritimi de aici sunt printre cei mai periculoși pentru navigație."]
+    },
+    factsAdvanced: {
+      de: [],
+      hu: ["Az afrikai kontinens legnyugatibb földrajzi pontja.", "Vulkanikus eredetű bazaltkőzetek alkotják a partvonalát.", "Dakar egyik legelegánsabb lakó- és diplomáciai negyede.", "A part menti vizek rendkívül gazdagok halakban és tengeri herkentyűkben.", "A szörfösök körében világszerte ismert 'hullámtörések' találhatók itt.", "A fok közelében áll a fényűző King Fahd Palace szálloda.", "A tengerparti éttermek híresek a friss osztrigáról és tengeri sügérről."],
+      ro: [],
+      en: []
+    }
+  },
   {
     id: "massif-de-casamance-nature-v2",
     type: "forest",
@@ -145,6 +307,24 @@ export const poiExtraSenegalNatureV2: POI[] = [
       hu: ["Magas fajgazdagság", "Trópusi esőerdő"],
       ro: ["Biodiversitate ridicată", "Pădure tropicală"],
       en: ["High biodiversity", "Tropical rainforest"]
+    },
+    descriptionAdvanced: {
+      ro: "Masivul Casamance, situat în sudul Senegalului, reprezintă o zonă de relief lankás și împădurit care se distinge de câmpiile monotone din restul țării. Această regiune este inima verde a Senegalului, caracterizată prin soluri fertile și o vegetație tropicală exuberantă, susținută de precipitații abundente. Relieful este compus din platouri de laterit erodate și văi adânci unde cresc păduri-galerie dense, dominate de arbori de kapok (fromagers) gigantici și palmieri de ulei. Masivul este crucial pentru echilibrul hidrologic al sudului, fiind locul unde se formează numeroasele mici brațe ale râului Casamance. Din punct de vedere cultural, relieful accidentat a oferit protecție comunităților Diola, permițându-le să își păstreze tradițiile și sistemele de irigații ingenioase. Peisajul este un mozaic de orezării verzi, păduri sacre și sate tradiționale cu arhitectură unică, oferind o perspectivă spectaculoasă asupra bogăției naturale a Africii tropicale."
+    },
+    factsAdvanced: {
+      ro: ["Regiunea cu cele mai ridicate precipitații anuale din Senegal.", "Dominată de arbori gigantici „fromagers”, unii vechi de sute de ani.", "Constituie „plămânul verde” al țării și principalul rezervor de biodiversitate.", "Lateritul oferă culori roșiatice solului, contrastând cu verdele vegetației.", "Adăpostește numeroase păduri sacre protejate de comunitățile locale.", "Este un habitat important pentru specii de maimuțe și păsări de pădure.", "Relieful permite agricultura pe mai multe niveluri (orez, mango, pui).", "Oferă cele mai pitorești trasee de drumeție din sudul Senegalului."]
+    },
+    descriptionAdvanced: {
+      de: "",
+      hu: "A Casamance-hegység (vagy dombság) Szenegál déli részének domborzati kiemelkedéseit foglalja magában, amelyek bár magasságukban elmaradnak a guineai hegyektől, alapvetően meghatározzák a régió tájképét és klímáját. Ezek a lankás dombok és fennsíkok bőséges csapadékot kapnak, ami sűrű, trópusi jellegű erdők és galériaerdők kialakulását tette lehetővé. A terület gazdag biodiverzitással rendelkezik: majmok, egzotikus madarak és ritka növényfajok találnak itt menedéket. A hegység lábánál fekvő völgyekben folyik a híres casamance-i rizstermesztés, ahol a domboldalakról lefolyó víz táplálja az ültetvényeket. A vidék kiválóan alkalmas túrázásra és az érintetlen természet felfedezésére, távol a nagyvárosi nyüzsgéstől.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: ["Szenegál déli részének legcsapadékosabb dombvidéke.", "Sűrű trópusi erdők és buja növényzet jellemzi.", "Fontos vízgyűjtő terület, amely a Casamance-folyót táplálja.", "Gazdag gyümölcsfákban, különösen mangóban és pálmákban.", "A domborzat kedvez a változatos mikroklímák kialakulásának.", "Hagyományos Jola falvak bújnak meg a völgyekben.", "A vidék Szenegál legzöldebb és legvízgazdagabb területei közé tartozik."],
+      ro: [],
+      en: []
     }
   },
   {
@@ -159,7 +339,23 @@ export const poiExtraSenegalNatureV2: POI[] = [
       hu: ["Lakatlan", "Madárvédelmi terület"],
       ro: ["Nelocuit", "Rezervație pentru păsări"],
       en: ["Uninhabited", "Bird sanctuary"]
-    }, image: "/poi-images/iles-de-la-madeleine-nature-v2.webp"},
+    }, image: "/poi-images/iles-de-la-madeleine-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "A Madeleine-szigetek (Îles de la Madeleine) egy apró, lakatlan vulkanikus szigetcsoport Dakar partjaitól mintegy 4 kilométerre nyugatra. A szigetek közül a legnagyobb a 'Sarpan', amely meredek szikláival és különleges élővilágával 1976 óta nemzeti parki védelmet élvez. Ez a világ egyik legkisebb tengeri nemzeti parkja. A sziget különlegessége a törpe baobab erdő, ahol a fák a sós tengeri szél miatt nem nőnek magasra, hanem a földön kúsznak. A szigetek kritikus fontosságú fészkelőhelyei a ritka vöröscsőrű trópusimadárnak. A látogatók engedéllyel, kis pirogue-okkal kereshetik fel a szigetet, hogy élvezzék a háborítatlan természetet, a kristálytiszta vizű lagúnát és a lenyűgöző panorámát Dakarrra.",
+      ro: "Insulele Madeleine, situate la câțiva kilometri de coasta Dakarului, formează cel mai mic parc național marin din lume, dar și unul dintre cele mai fascinante. Arhipelagul este compus din două insule stâncoase principale, cea mai mare fiind Insula Șarpelui (Île aux Serpents), deși numele este înșelător, deoarece pe insulă nu trăiesc șerpi veninoși. Aceste insule vulcanice sunt formate din coloane de bazalt spectaculoase și găzduiesc o colonie unică de păsări marine, în special faimosul tropic cu cioc roșu (Phaethon aethereus), care cuibărește doar aici în întreaga regiune. Insula este acoperită de o vegetație pitică de baobabi modelați de vânturile puternice ale oceanului, având forme contorsionate și suprarealiste. Vizitarea insulelor se face cu piroga din golful Soumbédioune și oferă o incursiune într-o natură sălbatică și intactă, unde cerul este plin de păsări și apele sunt de o claritate cristalină, ideale pentru înot și snorkeling în micile golfuri protejate.",
+      en: ""
+    },
+    factsAdvanced: {
+      ro: ["Parc Național înființat în 1976 pentru protejarea ecosistemului insular.", "Insula Șarpelui are o formă de semilună, oferind un golf interior liniștit.", "Singurul loc de cuibărit din Africa de Vest pentru specia Phaethon aethereus.", "Baobabii de pe insulă sunt pitici din cauza condițiilor de vânt extrem.", "Apele din jurul insulelor sunt strict protejate împotriva pescuitului comercial.", "Geologia insulelor prezintă formațiuni bazaltice similare cu „Giant's Causeway”.", "Accesul turiștilor este limitat ca număr zilnic pentru a preveni degradarea.", "Situl este încărcat de legende locale ale comunității Lebou."]
+    },
+    factsAdvanced: {
+      de: [],
+      hu: ["Szenegál legkisebb nemzeti parkja a Dakar melletti szigeteken.", "Vulkanikus eredetű, lakatlan szigetcsoport az óceánban.", "Híres az egyedülálló törpe baobab fáiról.", "A ritka vöröscsőrű trópusimadár legfontosabb fészkelőhelye Afrikában.", "Kristálytiszta vize ideális búvárkodásra és horgászatra.", "Csak nappal, kísérővel és engedéllyel látogatható.", "A sziget lagúnája természetes úszómedenceként funkcionál."],
+      ro: [],
+      en: []
+    }
+  },
   {
     id: "foret-de-mbao-nature-v2",
     type: "forest",
@@ -172,7 +368,23 @@ export const poiExtraSenegalNatureV2: POI[] = [
       hu: ["Dakar tüdeje", "Veszélyezteti az urbanizáció"],
       ro: ["Plămânii Dakar-ului", "Amenințată de urbanizare"],
       en: ["Lungs of Dakar", "Threatened by urbanization"]
-    }, image: "/poi-images/foret-de-mbao-nature-v2.webp"},
+    }, image: "/poi-images/foret-de-mbao-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "A Mbao-i erdő (Forêt Classée de Mbao) Dakar elővárosi övezetében, a Zöld-foki-félsziget bejáratánál található védett erdőterület. Ez a több mint 800 hektáros erdő az utolsó jelentős természetes zöldterület a rohamosan terjeszkedő főváros közelében, ezért gyakran 'Dakar tüdejének' is nevezik. Az erdő változatos élőhelyet biztosít, mocsaras részekkel, eukaliptusz- és akácültetvényekkel, valamint őshonos fajokkal. Fontos szerepet játszik a mikroklíma szabályozásában, a légszennyezés csökkentésében és a biológiai sokféleség megőrzésében. Az erdőt azonban folyamatosan veszélyezteti az illegális fakitermelés és az építkezések, ezért a környezetvédők és a kormány fokozott figyelmet fordítanak a védelmére és rehabilitációjára.",
+      ro: "Pădurea Mbao este un spațiu natural protejat situat la est de Dakar, având o funcție ecologică vitală în reglarea calității aerului și a microclimatului pentru zona metropolitană extinsă. Ca barieră naturală împotriva avansului urban, pădurea păstrează o porțiune din flora originală a peninsulei Cap-Vert, oferind un habitat protejat pentru flora sălbatică și specii de faună mică. Din punct de vedere al naturii, mlaștinile sezoniere și depresiunile de pe teritoriul pădurii sunt esențiale pentru reținerea apelor pluviale și prevenirea inundațiilor în localitățile vecine. Mbao reprezintă un efort de succes în conservarea forestieră periurbană, fiind un loc de cercetare pentru silvicultori și botaniști. Peisajul său liniștit, marcat de rânduri de arbori bătrâni și poteci nisipoase, oferă o evadare necesară din agitația capitalei, subliniind importanța conservării biodiversității chiar și la marginea marilor orașe africane.",
+      en: ""
+    },
+    factsAdvanced: {
+      ro: ["Este considerată „plămânul verde” al regiunii Dakar (Banlieue).", "Pădurea servește ca barieră împotriva vânturilor încărcate cu sare ale Atlanticului.", "Adăpostește specii de palmieri indigeni și arbori de Neem.", "Joacă un rol crucial în limitarea fenomenului de insulă de căldură urbană.", "Situl este traversat de căi de comunicare strategice, dar rămâne protejat.", "Este un punct de observație pentru speciile de păsări rezidente din Niayes.", "Centrul silvic local organizează campanii anuale de plantare a arborilor.", "Vegetația de aici ajută la stabilizarea dunelor de nisip interioare."]
+    },
+    factsAdvanced: {
+      de: [],
+      hu: ["Dakar legnagyobb és legfontosabb védett erdőterülete.", "Alapterülete meghaladja a 800 hektárt.", "Kritikus szerepe van a főváros levegőminőségének javításában.", "Változatos flórával rendelkezik, beleértve a mocsári növényzetet is.", "Számos madárfaj és kisemlős természetes menedéke.", "A területen kutatómunka és környezetvédelmi oktatás is folyik.", "Az erdőt az új autópályák és vasútvonalak is érintik, ami kihívást jelent."],
+      ro: [],
+      en: []
+    }
+  },
   {
     id: "fleuve-faleme-nature-v2",
     type: "river",
@@ -185,6 +397,24 @@ export const poiExtraSenegalNatureV2: POI[] = [
       hu: ["Határfolyó Malival", "Aranylelőhely a mederben"],
       ro: ["Râu de frontieră cu Mali", "Zăcăminte de aur în albie"],
       en: ["Border river with Mali", "Gold deposits in the riverbed"]
+    },
+    descriptionAdvanced: {
+      ro: "Râul Falémé este cel mai important afluent al fluviului Senegal, marcând frontiera naturală dintre Senegal și Mali în estul îndepărtat al țării. Izvorând din Podișul Fouta Djallon din Guineea, Falémé curge prin peisaje sălbatice și accidentate, cu maluri stâncoase și văi adânci. Acest râu este vital pentru viața rurală din estul Senegalului, oferind apă pentru mii de animale și susținând mici culturi agricole de-a lungul albiei sale. Falémé este cunoscut la nivel mondial pentru zăcămintele sale bogate de aur alluvial, fiind un centru istoric al exploatării miniere artizanale. Din punct de vedere ecologic, râul păstrează o biodiversitate nealterată, cu specii de pești de apă dulce unice și păduri-galerie care adăpostesc faună rară. Frumusețea sa crudă, departe de marile rute turistice, face din Falémé unul dintre ultimele frontiere naturale ale Senegalului, unde natura și tradiția se întrepătrund într-un mod fascinant."
+    },
+    factsAdvanced: {
+      ro: ["Cel mai mare afluent de pe malul stâng al fluviului Senegal.", "Lungimea sa este de aproximativ 414 kilometri.", "Constituie granița naturală cu Mali pe aproape întreg cursul său.", "Faimos pentru „aurul de Falémé”, exploatat de peste un mileniu.", "Valea râului este bogată în depozite de fier și fosfați.", "Apele sale sunt de o importanță capitală în timpul sezonului secetos.", "Include cascade și zúgók pitorești în zona de munte din sud.", "Râul este inima culturii Soninke și Malinke din regiune."]
+    },
+    descriptionAdvanced: {
+      de: "",
+      hu: "A Falémé-folyó Szenegál legjelentősebb keleti vízfolyása, amely természetes határt képez Szenegál és Mali között. A folyó a Guineai-felföldön ered, és északi irányba tartva ömlik a Szenegál-folyóba. A Falémé völgye híres gazdag ásványkincs-tartalékairól, különösen az aranyról, amelyet évszázadok óta hagyományos módszerekkel mosnak ki a medréből a helyi közösségek. A táj itt vadregényes és nehezen megközelíthető, száraz szavannákkal és meredek folyópartokkal. A folyó ökológiai szempontból is jelentős, mivel a távoli keleti régió vízellátását biztosítja, és vándorlási útvonalként szolgál a vadvilág számára. Az utóbbi években az ipari bányászat megjelenése komoly környezeti kihívások elé állította a folyó ökoszisztémáját.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: ["Szenegál és Mali természetes államhatárát alkotja.", "A Szenegál-folyó legfontosabb bal oldali mellékága.", "Híres az aranyban gazdag hordalékáról és a hagyományos aranymosásról.", "A folyóvölgyben fontos vasérclelőhelyek is találhatók.", "Vadvilága gazdag vízilovakban és különleges folyami halakban.", "Szenegál egyik legelszigeteltebb és legérintetlenebb természeti tája.", "A folyó vízszintje az esős évszakban drasztikusan megemelkedik."],
+      ro: [],
+      en: []
     }
   },
   {
@@ -199,7 +429,23 @@ export const poiExtraSenegalNatureV2: POI[] = [
       hu: ["Madarak költőhelye", "Homokos táj"],
       ro: ["Loc de cuibărit pentru păsări", "Peisaj nisipos"],
       en: ["Breeding ground for birds", "Sandy landscape"]
-    }, image: "/poi-images/parc-langue-de-barbarie-nature-v2.webp"},
+    }, image: "/poi-images/parc-langue-de-barbarie-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "A Langue de Barbarie Nemzeti Park egy különleges természetvédelmi terület Saint-Louis-tól délre, egy hosszú, keskeny homokpadon, amely elválasztja a Szenegál-folyót az Atlanti-óceántól. A park 2000 hektáros területe létfontosságú fészkelőhelye és pihenőhelye számos tengeri madárnak, köztük küszvágó cséreknek, sirályoknak és kormoránoknak. A táj dinamikusan változik a tengeri erózió és a folyó torkolatának eltolódása miatt. A park partjain tengeri teknősök is fészkelnek, ami növeli a terület ökológiai értékét. A látogatók csónaktúrákon fedezhetik fel a homokdűnéket és a vizes élőhelyeket, miközben szemtanúi lehetnek a folyó édesvizének és az óceán sós vizének drámai találkozásának.",
+      ro: "Parcul Național Langue de Barbarie este o fâșie de pământ nisipoasă situată între fluviul Senegal și Oceanul Atlantic, în sudul orașului Saint-Louis. Acest sit natural fragil și spectaculos este esențial pentru protejarea coastei de eroziune și pentru conservarea păsărilor marine. Parcul este compus din dune, plaje cu nisip alb și zone intertidale unde apele dulci ale fluviului se întâlnesc cu cele sărate ale oceanului. Langue de Barbarie este un loc major de cuibărit pentru numeroase specii, inclusiv pescăruși, chire și pelicani, oferind un spectacol natural deosebit în timpul sezonului de reproducere. Din păcate, parcul este grav amenințat de schimbările climatice și de eroziunea accelerată a peninsulei, ceea ce a dus la modificări dramatice ale geografiei locale în ultimii ani. Vizitarea parcului cu piroga oferă vederi panoramice unice, unde poți vedea simultan calmul fluviului și forța dezlănțuită a Atlanticului.",
+      en: ""
+    },
+    factsAdvanced: {
+      ro: ["Ocupă o peninsulă nisipoasă lungă de aproximativ 15 kilometri.", "Este un sit Ramsar protejat internațional pentru zonele umede.", "Adăpostește colonii masive de chire (Sternidae) în timpul verii.", "Peninsula s-a rupt în 2003 după o breșă artificială, devenind parțial insulă.", "Este un habitat crucial pentru broasca țestoasă marină verde.", "Vegetația este adaptată solurilor nisipoase și sărate (halofite).", "Oferă condiții ideale pentru turismul de tip „birdwatching”.", "Este un simbol al vulnerabilității coastelor africane la creșterea nivelului mării."]
+    },
+    factsAdvanced: {
+      de: [],
+      hu: ["Egy 15 km hosszú homokpadon fekvő nemzeti park.", "Saint-Louis történelmi városának közvetlen közelében található.", "Tengeri madarak tízezreinek fészkelő- és pihenőhelye.", "A veszélyeztetett tengeri teknősök fontos tojásrakó helye.", "A park területét súlyosan érinti a tengerparti erózió és a klímaváltozás.", "Csak csónakkal (pirogue) érhető el a folyó felől.", "A park része a madárvonulási útvonalak nemzetközi hálózatának."],
+      ro: [],
+      en: []
+    }
+  },
   {
     id: "massif-du-fouta-djallon-nature-v2",
     type: "mountain",
@@ -212,7 +458,23 @@ export const poiExtraSenegalNatureV2: POI[] = [
       hu: ["Dombos táj", "Nyugat-Afrika víztornya"],
       ro: ["Peisaj deluros", "Castelul de apă al Africii de Vest"],
       en: ["Hilly landscape", "West Africa's water tower"]
-    }, image: "/poi-images/massif-du-fouta-djallon-nature-v2.webp"},
+    }, image: "/poi-images/massif-du-fouta-djallon-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "A Fouta Djallon-hegység Szenegálba átnyúló nyúlványai az ország legmagasabb és legtagoltabb domborzati egységét alkotják a délkeleti határvidéken. Bár a hegység központja Guineában található, Szenegálban ezek a dombok hozzák létre a látványos vízeséseket és sziklás platókat Kédougou régióban. A terület klímája hűvösebb és csapadékosabb, mint az ország többi részén, ami lehetővé teszi a sűrűbb erdők és egyedi hegyi flóra kialakulását. Ez a vidék a Bassari és Bedik népcsoportok otthona, akik ősi hagyományaikat a hegyek oltalmában őrizték meg. A táj lenyűgöző panorámát nyújt a szavannákra, és ideális célpont a természetjárók, valamint a kulturális antropológia iránt érdeklődők számára.",
+      ro: "Preluările Masivului Fouta Djallon în Senegal, situate în regiunea sud-estică Kédougou, oferă singurul peisaj cu adevărat montan al țării. Această zonă este caracterizată prin platouri înalte de gresie, faleze abrupte și văi verzi sculptate de cursuri de apă rapide. Fiind extremitatea nordică a marelui masiv din Guineea, acest relief determină microclimatul regiunii, atrăgând cele mai abundente ploi din Senegal. Natura aici este de o frumusețe sălbatică, cu numeroase cascade impunătoare, precum Dindefelo, care se prăbușesc de la înălțimi mari în bazine naturale cristaline. Versanții sunt acoperiți de păduri dense care adăpostesc specii rare, inclusiv cimpanzei și păsări de munte. Fouta Djallon este considerat „castelul de apă” al Africii de Vest, deoarece aici izvorăsc marile fluvii ale regiunii. Relieful accidentat a permis izolarea și conservarea tradițiilor unice ale etniilor Bassari și Bedik, transformând zona într-un sit de o valoare naturală și culturală inestimabilă.",
+      en: ""
+    },
+    factsAdvanced: {
+      ro: ["Singura regiune din Senegal cu altitudini ce depășesc 400 de metri.", "Găzduiește cascada Dindefelo, cea mai înaltă din țară (115 m).", "Zona este recunoscută ca sit UNESCO pentru peisajul cultural Bassari.", "Sursa principală pentru râurile Gambia, Senegal și Niger.", "Relieful este compus din roci pre-cambriene foarte vechi.", "Vegetația include specii montane care nu se găsesc în restul Senegalului.", "Unul dintre ultimele refugii pentru cimpanzeii de vest din Sahel.", "Oferă cele mai bune condiții pentru trekking și explorare speologică."]
+    },
+    factsAdvanced: {
+      de: [],
+      hu: ["Szenegál legmagasabb hegyvidéki területe a délkeleti sarkon.", "Itt találhatók az ország leglátványosabb vízesései, pl. a Dindefelo.", "A Guineai-felföld természetes folytatása Szenegálban.", "Híres a sziklás platóiról és a mély völgyekben rejtőző erdőkről.", "Az UNESCO Világörökség részét képező Bassari-vidék központja.", "Változatos mikroklímája számos ritka növényfajnak ad otthont.", "Kiváló terep a kalandtúrázáshoz és a madármegfigyeléshez."],
+      ro: [],
+      en: []
+    }
+  },
   {
     id: "delta-du-sine-saloum-nature-v2",
     type: "river",
@@ -225,7 +487,23 @@ export const poiExtraSenegalNatureV2: POI[] = [
       hu: ["UNESCO Bioszféra-rezervátum", "Mangroveerdők"],
       ro: ["Rezervație a biosferei UNESCO", "Păduri de mangrove"],
       en: ["UNESCO Biosphere Reserve", "Mangrove forests"]
-    }, image: "/poi-images/delta-du-sine-saloum-nature-v2.webp"},
+    }, image: "/poi-images/delta-du-sine-saloum-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "A Sine-Saloum delta Szenegál egyik legszebb és leggazdagabb bioszféra-rezervátuma, ahol a Sine és Saloum folyók elérik az óceánt. A hatalmas, 180 000 hektáros területet mangrove-erdők, homokpadok és sós vizes lagúnák szövevénye alkotja. Ez a vidék a nyugalom szigete, ahol a természet az úr: több száz madárfaj és tengeri állat él itt háborítatlanul. A delta lakói, a serer-niominkák szoros kapcsolatban élnek a vízzel, halászattal és kagylógyűjtéssel foglalkoznak. Az UNESCO által is elismert terület nemcsak természeti szépségei, hanem évezredes emberi kagylóhalmai miatt is különleges. A deltát motoros csónakokkal (pirogue) lehet felfedezni, ami mély betekintést nyújt ebbe a titokzatos vízi világba.",
+      ro: "Delta Sine-Saloum este unul dintre cele mai uimitoare ecosisteme estuare din Africa de Vest, unde apele râurilor Sine și Saloum se întâlnesc cu Oceanul Atlantic într-un labirint de canale și insule. Acest vast complex natural este dominat de păduri de mangrove care acționează ca un filtru biologic și o barieră protectoare pentru coastă. Biodiversitatea deltei este legendară, servind drept loc de hrănire și reproducere pentru sute de specii de pești și mii de păsări acvatice. Delta este, de asemenea, un peisaj cultural modelat de oameni de-a lungul a peste două milenii, fiind punctată de movile de scoici fosilizate care acum susțin vegetație forestieră. Rezervația Biosferei Sine-Saloum este un exemplu de echilibru fragil, unde comunitățile locale de pescari trăiesc în simbioză cu resursele regenerabile ale apei. Explorarea cu piroga printre canalele umbrite de mangrove oferă o liniște profundă și o perspectivă unică asupra bogăției biologice a Senegalului.",
+      en: ""
+    },
+    factsAdvanced: {
+      ro: ["Acoperă peste 180.000 de hectare de ecosisteme terestre și marine.", "Este o rezervație a biosferei recunoscută de UNESCO din 1981.", "Mangrovele de aici sunt esențiale pentru reproducerea lăcustelor de mare.", "Movilele de scoici indică o prezență umană continuă de peste 2000 de ani.", "Este unul dintre cele mai bogate locuri pentru observarea flamingo-ului roz.", "Apele estuarului sunt renumite pentru diversitatea speciilor de stridii.", "Situl protejează coasta împotriva inundațiilor și furtunilor oceanice.", "Turismul responsabil este motorul economic principal pentru satele din deltă."]
+    },
+    factsAdvanced: {
+      de: [],
+      hu: ["Szenegál egyik legnagyobb és legfontosabb vizes élőhelye.", "UNESCO Bioszféra Rezervátum és nemzeti park.", "Híres a kiterjedt mangrove erdőiről (Rhizophora és Avicennia).", "Költözőmadarak és manátuszok nemzetközi jelentőségű élőhelye.", "Több mint 200 lakott és lakatlan szigetből áll.", "A területen található kagylóhalmok a prehisztorikus kor óta épülnek.", "Az ökoturizmus fellegvára Szenegálban."],
+      ro: [],
+      en: []
+    }
+  },
   {
     id: "plaine-du-ferlo-nature-v2",
     type: "forest",
@@ -238,7 +516,23 @@ export const poiExtraSenegalNatureV2: POI[] = [
       hu: ["Félsivatagi klíma", "Állattenyésztési terület"],
       ro: ["Climat semiarid", "Zonă de creștere a animalelor"],
       en: ["Semi-arid climate", "Livestock farming area"]
-    }, image: "/poi-images/plaine-du-ferlo-nature-v2.webp"},
+    }, image: "/poi-images/plaine-du-ferlo-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "A Ferlo-síkság Szenegál északi-középső részén elterülő hatalmas, félsivatagos vidék, amely az ország száraz száheli övezetének szívét alkotja. A tájat alacsony bozótos szavanna, akácfák és elszórtan megjelenő baobabok jellemzik. Ez a terület a nomád fulbe (peul) pásztorok birodalma, akik hatalmas zebu- és kecskenyájaikkal vándorolnak a vízforrások között. A Ferlo-síkság életét alapvetően meghatározza a csapadék hiánya, ezért a kormány számos mélyfúrású kutat és víztározót hozott létre az állatok itatására. Természeti szempontból a síkság fontos rezervátumokat (pl. Ferlo-Nord és Ferlo-Sud) foglal magában, ahol a veszélyeztetett szaharai antilopfajok próbálnak fennmaradni a szélsőséges körülmények között.",
+      ro: "Câmpia Ferlo reprezintă inima regiunii Sahel din Senegal, o zonă vastă și semiaridă care ocupă centrul-nord al țării. Această câmpie este caracterizată de o vegetație de savană uscată, dominată de arbori de akác și de ierburi care devin aurii în timpul sezonului secetos. Natura în Ferlo este marcată de ritmul nomadismului pastoral, fiind tărâmul tradițional al păstorilor Peul. Rezervațiile naturale din această zonă, precum Ferlo-Nord și Ferlo-Sud, sunt cruciale pentru conservarea speciilor adaptate la condiții extreme, inclusiv gazela Oryx care a fost reintrodusă recent. În ciuda aspectului său aparent dezolant, câmpia deține resurse hidrice subterane importante, accesate prin puțuri adânci care sunt adevărate centre de viață în deșert. Peisajul deschis și cerul infinit oferă o imagine autentică a rezilienței vieții în Africa sub-sahariană.",
+      en: ""
+    },
+    factsAdvanced: {
+      ro: ["Cea mai mare zonă de savană aridă din Senegal, acoperind regiunea Louga și Matam.", "Vegetația dominantă este formată din Acacia senegal, sursa gumei arabice.", "Include rezervații de faună de importanță națională pentru protejarea antilopelor.", "Climatul este de tip sahelian, cu un sezon ploios foarte scurt.", "Solurile sunt predominant nisipoase, formând dune fosilizate vechi.", "Este zona principală de transhumanță pentru cirezile de bovine zebu.", "Rețeaua de foraje (forages) este singura sursă permanentă de apă.", "Fauna include hienă dungată, struți și numeroase reptile adaptate la secetă."]
+    },
+    factsAdvanced: {
+      de: [],
+      hu: ["Szenegál legnagyobb kiterjedésű félsivatagos síksága.", "A nomád Fulbe (Peul) pásztorkodás központi helyszíne.", "Uralkodó növényzete az akácfa és a szárazságtűrő füvek.", "Hatalmas vadvédelmi rezervátumoknak ad otthont (pl. Ferlo-Sud).", "A vízellátást mélyfúrású kutak (forages) biztosítják.", "Az elsivatagosodás elleni küzdelem egyik kulcsfontosságú területe.", "Itt halad át a 'Nagy Zöld Fal' (Great Green Wall) projekt egyik szakasza."],
+      ro: [],
+      en: []
+    }
+  },
   {
     id: "lac-kassack-nature-v2",
     type: "lake",
@@ -251,7 +545,23 @@ export const poiExtraSenegalNatureV2: POI[] = [
       hu: ["Szezonális tó", "Fontos a helyi fauna számára"],
       ro: ["Lac sezonier", "Important pentru fauna locală"],
       en: ["Seasonal lake", "Important for local fauna"]
-    }, image: "/poi-images/lac-kassack-nature-v2.webp"},
+    }, image: "/poi-images/lac-kassack-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "A Kassack-tó egy kisebb, de ökológiailag jelentős édesvízi tó a Szenegál-folyó völgyében, Saint-Louis közelében. A tó és a környező vizes élőhelyek a folyó áradásaiból és az öntözőcsatornákból kapják a vizüket, fontos pihenőhelyet biztosítva a madárvilág számára a száhel sivatagos környékén. A tó környéke intenzív mezőgazdasági terület, ahol rizst és zöldségféléket termesztenek a helyi közösségek. Kassack-tó vízi flórája és faunája (halak, vízi madarak) kulcsszerepet játszik a környék élelmezésében és a biológiai sokféleség fenntartásában. A tó a természetes és a mesterségesen kialakított vizes élőhelyek közötti egyensúly jó példája az ország északi részén.",
+      ro: "Lacul Kassack, situat în delta fluviului Senegal, lângă granița cu Mauritania, este un ecosistem acvatic vital integrat în vasta rețea de zone umede din nordul țării. Acest lac joacă un rol fundamental în gestionarea apelor în timpul viiturilor fluviului, servind drept bazin de retenție și habitat pentru numeroase specii de pești și păsări. Natura în jurul lacului Kassack este marcată de prezența culturilor irigate de orez, fiind un exemplu de transformare a zonelor sălbatice în poli de producție agricolă. Cu toate acestea, lacul păstrează zone de vegetație luxuriantă unde păsările migratoare palearctice găsesc hrană și adăpost în timpul iernii europene. Ecosistemul este fragil și depinde de echilibrul dintre debitul fluviului și nevoile comunităților locale de fermieri și pescari, fiind un punct focal pentru conservarea biodiversității în regiunea Saint-Louis.",
+      en: ""
+    },
+    factsAdvanced: {
+      ro: ["Parte a complexului de zone umede din delta inferioară a fluviului Senegal.", "Este o sursă importantă de pește de apă dulce pentru piețele locale.", "Lacul este înconjurat de perimetre mari de orezării moderne.", "Constituie un coridor ecologic între Sanctuarul Djoudj și valea fluviului.", "Monitorizat pentru impactul salinității solului asupra biodiversității acvatice.", "Oferă condiții ideale pentru cuibăritul stârcilor și egretelor.", "Accesul la lac se face prin drumuri de pământ prin câmpurile de orez.", "Nivelul apei este reglat prin sistemele de ecluze ale barajului Diama."]
+    },
+    factsAdvanced: {
+      de: [],
+      hu: ["Édesvízi tó a Szenegál-folyó deltájának közelében.", "Fontos szerepet játszik a helyi öntözőrendszerekben.", "Számos vízi madárfaj, köztük gémek és kacsa-félék otthona.", "A környékbeli rizsföldek vízellátását is segíti.", "Gazdag édesvízi halállomány jellemzi.", "A tó partján hagyományos halászfalvak találhatók.", "Része az északi vizes élőhelyek ökológiai hálózatának."],
+      ro: [],
+      en: []
+    }
+  },
   {
     id: "zone-maritime-atlantic-nature-v2",
     type: "sea",
@@ -264,7 +574,23 @@ export const poiExtraSenegalNatureV2: POI[] = [
       hu: ["Gazdag halászterületek", "Fontos tengeri áramlatok"],
       ro: ["Zone de pescuit bogate", "Curenți marini importanți"],
       en: ["Rich fishing grounds", "Important ocean currents"]
-    }, image: "/poi-images/zone-maritime-atlantic-nature-v2.webp"},
+    }, image: "/poi-images/zone-maritime-atlantic-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "Szenegál atlanti tengerparti övezete több mint 700 kilométer hosszan húzódik északról délre, alapvetően meghatározva az ország klímáját, gazdaságát és kultúráját. Az északi 'Grande Côte' hosszú, egyenes homokos strandokkal és dűnékkel rendelkezik, míg a déli 'Petite Côte' és Casamance partjai tagoltabbak, lagúnákkal és mangrove-erdőkkel. Az óceán Szenegál partjainál a hideg Kanári-áramlat hatására a világ egyik leggazdagabb halászterülete, amely milliárdos bevételt és milliók megélhetését biztosítja. A tengerparti zóna ad otthont az ország legfontosabb városainak és turisztikai központjainak is. Az óceán közelsége azonban komoly kihívásokat is jelent, mint például a tengerparti erózió és a klímaváltozás miatti tengerszint-emelkedés.",
+      ro: "Zona Maritimă Atlantică a Senegalului este una dintre cele mai productive regiuni oceanice din lume, datorită fenomenului de „upwelling” (ascensiunea apelor reci, bogate în nutrienți) care are loc de-a lungul coastelor sale. Această natură marină exuberantă susține o biodiversitate uluitoare, de la marii prădători pelagici precum tonul și rechinii, până la specii bentonice delicioase cum sunt langustele și creveții. Coasta senegaleză, care se întinde pe mai mult de 700 de kilometri, variază de la dunele nisipoase din nord la estuarele verzi cu mangrove din sud. Oceanul Atlantic nu este doar o resursă economică vitală prin pescuit, ci și un factor climatic esențial, briza marină moderând temperaturile ridicate din hinterland. Protejarea acestei zone împotriva poluării și a pescuitului excesiv este o prioritate strategică pentru a asigura viitorul comunităților de pescari artizanali și echilibrul ecologic al Africii de Vest.",
+      en: ""
+    },
+    factsAdvanced: {
+      ro: ["Senegalul are o Zonă Economică Exclusivă (ZEE) de peste 212.000 km².", "Fenomenul de upwelling aduce nutrienți esențiali din adâncurile oceanului.", "Apele găzduiesc migrații sezoniere de balene și delfini.", "Este una dintre zonele cu cea mai mare densitate de pește de pe planetă.", "Curentul Canarelor influențează direct temperatura apelor de coastă.", "Pescuitul industrial și cel artizanal sunt pilonii principali ai exporturilor.", "Include arii marine protejate (AMP) pentru conservarea biodiversității.", "Coasta este marcată de variații mari de maree în regiunea de sud."]
+    },
+    factsAdvanced: {
+      de: [],
+      hu: ["Szenegál partvonala mintegy 700 kilométer hosszú.", "A Kanári-áramlat miatt a vizek rendkívül gazdagok halban.", "Északon a Grande Côte, délen a Petite Côte határozza meg a tájat.", "A halászat az ország GDP-jének és exportjának egyik tartóoszlopa.", "Számos védett tengeri területet (MPA) hoztak létre a biodiverzitás védelmére.", "A part menti turizmus Szenegál egyik legfontosabb bevételi forrása.", "Dakar, az ország fővárosa, stratégiai helyen, egy félszigeten fekszik az óceánban."],
+      ro: [],
+      en: []
+    }
+  },
   {
     id: "vallee-du-fleuve-senegal-nature-v2",
     type: "river",
@@ -277,7 +603,23 @@ export const poiExtraSenegalNatureV2: POI[] = [
       hu: ["Fontos a földműveléshez", "Rendszeres áradások"],
       ro: ["Importantă pentru agricultură", "Inundații periodice"],
       en: ["Important for agriculture", "Periodic flooding"]
-    }, image: "/poi-images/vallee-du-fleuve-senegal-nature-v2.webp"},
+    }, image: "/poi-images/vallee-du-fleuve-senegal-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "A Szenegál-folyó völgye egy termékeny ártéri terület az ország északi határán, amely éles ellentétben áll a környező száraz száheli pusztasággal. A völgy a folyó évenkénti áradásainak köszönhetően évezredek óta az élelemtermelés és az emberi letelepedés központja. Itt alakultak ki az első szenegáli civilizációk és birodalmak. A modern gátak (Diama és Manantali) megépítése óta a völgyben nagyszabású öntözéses gazdálkodás folyik, rizst, cukornádat és paradicsomot termelve. Az ártéri erdők, a tavak és a holtágak rendkívül gazdag madárvilágnak adnak otthont. A völgy nemcsak gazdasági, hanem kulturális híd is a fekete-afrikai és a mór-arab világ között, egyedülálló társadalmi sokszínűséget hozva létre.",
+      ro: "Valea Fluviului Senegal este o fâșie fertilă și strategică ce traversează nordul arid al țării, formând un contrast puternic cu savanele înconjurătoare. Această regiune, modelată de depunerile aluvionare de-a lungul mileniilor, este „grânarul” Senegalului, unde natura a fost îmblânzită prin sisteme complexe de irigații. Peisajul natural include păduri de akác (Acacia nilotica) și zone inundabile care adăpostesc o faună bogată, inclusiv numeroase specii de păsări acvatice. Valea este, de asemenea, centrul istoric al multor civilizații vest-africane, fiind populată dens de etnii care trăiesc în armonie cu ritmul râului. Gestionarea acestui ecosistem este complexă, implicând echilibrul dintre producția de energie hidroelectrică, nevoile agriculturii intensive și conservarea biodiversității deltei. Frumusețea văii este dată de reflexiile apei sub soarele arzător și de pânza verde de orezării care se întinde până la orizont.",
+      en: ""
+    },
+    factsAdvanced: {
+      ro: ["Constituie axa principală de dezvoltare agricolă a nordului Senegalului.", "Include regiunile administrative Saint-Louis, Matam și Tambacounda.", "Solurile alluviale sunt extrem de bogate în minerale și materie organică.", "Este principala regiune producătoare de orez și roșii din țară.", "Biodiversitatea include crocodili de Nil și varani de apă.", "Valea este traversată de drumul național N2, legătura spre Mauritania.", "Sistemele tradiționale de cultură de „decrue” (după retragerea apelor) încă persistă.", "Ecosistemul este influențat de marile baraje de la Diama și Manantali."]
+    },
+    factsAdvanced: {
+      de: [],
+      hu: ["Szenegál legfontosabb északi mezőgazdasági régiója.", "Termékeny ártéri területek alkotják a folyó mentén.", "A régió központjai Saint-Louis, Richard Toll, Podor és Matam.", "A folyó szabályozása lehetővé teszi az év egészében tartó termelést.", "Gazdag történelmi múlt, ősi birodalmak székhelye.", "Számos vizes élőhely és madárvédelmi terület található itt.", "A völgy éghajlata forró és száraz, de a víz jelenléte buja növényzetet hoz létre."],
+      ro: [],
+      en: []
+    }
+  },
   {
     id: "foret-classee-de-thiès-nature-v2",
     type: "forest",
@@ -290,6 +632,24 @@ export const poiExtraSenegalNatureV2: POI[] = [
       hu: ["Erdőtelepítési projektek", "Tipikus száheli növényzet"],
       ro: ["Proiecte de reîmpădurire", "Vegetație tipică de Sahel"],
       en: ["Reforestation projects", "Typical Sahel vegetation"]
+    },
+    descriptionAdvanced: {
+      ro: "Pădurea Clasată de la Thiès este o arie protejată situată pe platoul cu același nume, având o importanță ecologică deosebită pentru centrul-vestul Senegalului. Această pădure reprezintă un bastion al biodiversității într-o zonă unde presiunea agricolă și industrială (în special bányászat-ul fosfaților) este foarte ridicată. Natura aici este compusă dintr-un amestec de specii de savană și resturi de pădure uscată, oferind un habitat vital pentru reptile, păsări și mici mamifere. Pădurea joacă un rol crucial în protejarea solului împotriva eroziunii pe pantele platoului și contribuie la reîncărcarea pânzei freatice locale. Fiind situată în proximitatea orașului Thiès, pădurea servește și ca laborator natural pentru universitatea locală și ca zonă de recreere pentru locuitori. Conservarea ei este esențială pentru menținerea echilibrului climatic regional și pentru protejarea speciilor de arbori indigeni amenințați."
+    },
+    factsAdvanced: {
+      ro: ["Situată pe un platou calcaros la aproximativ 70 km de Dakar.", "Acoperă o zonă unde pânza freatică este colectată pentru orașul Thiès.", "Găzduiește specii de Acacia, Adansonia (baobab) și Combretum.", "Este protejată prin statut de „pădure clasată” încă din epoca colonială.", "Barieră naturală împotriva prafului adus de vânturile Harmattan.", "Situl este monitorizat pentru a preveni tăierile ilegale pentru cărbune.", "Oferă un microclimat mai răcoros decât zonele urbane înconjurătoare.", "Este un punct important pentru observarea păsărilor de savană."]
+    },
+    descriptionAdvanced: {
+      de: "",
+      hu: "A Thiès-i védett erdő (Forêt Classée de Thiès) a várost körülölelő fontos ökológiai övezet, amely gátat szab az elsivatagosodásnak és védi a környék vízkészleteit. Az erdő növényzete főleg akácfákból, eukaliptuszokból és őshonos száhel-övezeti fajokból áll. Ez a zöld gyűrű nemcsak a biodiverzitás megőrzése miatt jelentős, hanem fontos rekreációs helyszín is a városi lakosság számára, hűvösebb mikroklímát biztosítva a forró napokon. Az erdőgazdálkodás során nagy hangsúlyt fektetnek a fenntartható fakitermelésre és az újratelepítésre, hogy megőrizzék ezt a törékeny ökoszisztémát a mezőgazdasági terjeszkedéssel és az illegális építkezésekkel szemben.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: ["Thiès városának 'tüdeje' és természetes védvonala.", "Fontos szerepet játszik a talaj eróziójának megakadályozásában.", "Számos helyi madárfaj és kisemlős menedéke.", "A területen fenntartható erdőgazdálkodási programok folynak.", "Hűsíti a város klímáját a párologtatás révén.", "Népszerű helyszín a természetközeli sétákhoz.", "Része a Szenegál országos erdővédelmi hálózatának."],
+      ro: [],
+      en: []
     }
   },
   {
@@ -304,7 +664,23 @@ export const poiExtraSenegalNatureV2: POI[] = [
       hu: ["Hajózható", "Gazdag partmenti növényzet"],
       ro: ["Navigabil", "Vegetație riverană bogată"],
       en: ["Navigable", "Rich riparian vegetation"]
-    }, image: "/poi-images/fleuve-gambie-nature-v2.webp"},
+    }, image: "/poi-images/fleuve-gambie-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "A Gambia-folyó szenegáli szakasza, különösen a Niokolo-Koba Nemzeti Park alatti részen, egy gazdag és vadregényes természeti folyosó. A folyó itt széles kanyarulatokat ír le, partjait sűrű galériaerdők szegélyezik, amelyek menedéket nyújtanak a száraz évszakban az állatvilágnak. A vízpartokon gyakran látni vízilovakat, krokodilokat és a szomjukat oltó antilopokat. A folyó nemcsak ökológiai kincs, hanem a mentén élő falvak számára az egyetlen biztos vízforrás is a halászathoz és a háztáji kertek öntözéséhez. A Gambia-folyó ezen része Szenegál egyik legérintetlenebb vízi útja, ahol a természet ereje és szépsége teljes valójában mutatkozik meg.",
+      ro: "Fluviul Gambia este unul dintre cele mai pitorești și sălbatice cursuri de apă din Senegal, traversând regiunea de sud-est (Kédougou și Tambacounda). Natura râului în această porțiune este spectaculoasă, cu albii stâncoase, cascade mici și păduri-galerie dense care umbresc malurile. Spre deosebire de fluviul Senegal din nord, Gambia are un caracter mult mai tropical și accidentat în amonte. Râul este artera vitală a Parcului Național Niokolo-Koba, oferind apă întregii faune sălbatice în timpul lungului sezon secetos. Apele sale sunt limpezi în timpul iernii și devin roșiatice în sezonul ploios din cauza lateritului antrenat de pe versanți. Fluviul este, de asemenea, un spațiu sacru pentru popoarele Bassari și Bedik, care își au așezările pe dealurile din apropiere, integrând resursele râului în tradițiile lor ancestrale.",
+      en: ""
+    },
+    factsAdvanced: {
+      ro: ["Izvorăște din munții Fouta Djallon și are un curs foarte sinuos.", "Găzduiește populații mari de hipopotami și crocodili africani.", "Cascada Dindefelo se află pe unul dintre afluenții săi direcți.", "Este navigabil pentru bărci mici pe sute de kilometri în Senegal.", "Constituie granița sudică a multor arii protejate din regiune.", "Apele sale sunt bogate în specii de pești tigru (Hydrocynus).", "Pădurile de pe maluri adăpostesc diverse specii de primate.", "Valea râului este o zonă de o frumusețe peisagistică inegalabilă în West Africa."]
+    },
+    factsAdvanced: {
+      de: [],
+      hu: ["Szenegál délkeleti régiójának legfontosabb folyója.", "Partjain hatalmas galériaerdők és mangrove-foltok találhatók.", "A Niokolo-Koba parkon keresztül vándorló állatok fő itatóhelye.", "Gazdag vízi élővilág, köztük nílusi krokodilok otthona.", "A folyó menti falvak hagyományos halászatból élnek.", "Kiváló helyszín a természetfotózáshoz és madármegfigyeléshez.", "A folyó vízszintje az esős évszakban akár több métert is emelkedhet."],
+      ro: [],
+      en: []
+    }
+  },
   {
     id: "foret-de-patar-nature-v2",
     type: "forest",
@@ -317,7 +693,23 @@ export const poiExtraSenegalNatureV2: POI[] = [
       hu: ["Szezonálisan száraz", "Otthont ad szavannai állatoknak"],
       ro: ["Sezonier uscată", "Habitat pentru animale de savană"],
       en: ["Seasonally dry", "Home to savanna animals"]
-    }, image: "/poi-images/foret-de-patar-nature-v2.webp"},
+    }, image: "/poi-images/foret-de-patar-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "A Patari erdő (Forêt de Patar) Kaffrine régióban található védett terület, amely a száraz száheli szavanna egyik utolsó természetes erdőmaradványa. Az erdő főleg keményfákból, baobabokból és különböző akácfajokból áll, amelyek alkalmazkodtak a szélsőségesen száraz körülményekhez. Ez a terület kritikus fontosságú a helyi biodiverzitás megőrzésében, menedéket nyújtva számos madárfajnak és kisemlősnek, amelyek a környező mezőgazdasági területekről ide húzódnak vissza. Patar erdője emellett fontos szerepet játszik a talaj termékenységének megőrzésében és a szél elleni védelemben, megakadályozva a homok vándorlását a mogyoró-medencében.",
+      ro: "Pădurea Patar, situată în regiunea Kaffrine, este un exemplu rar de pădure de savană bine conservată în inima „Bazinului de Arahide” din Senegal. Această zonă naturală protejată oferă un refugiu critic pentru biodiversitatea locală, într-un peisaj dominat altfel de monocultura agricolă. Natura din Patar este caracterizată prin prezența arborilor de baobab masivi și a diverse specii de Combretum, care creează un coronament dens în timpul sezonului ploios. Pădurea joacă un rol vital în lupta împotriva desertificării și în reglarea regimului hidric al solurilor lateritice din jur. De asemenea, reprezintă o sursă importantă de produse forestiere nelemnoase, cum ar fi fructele de baobab (bouye) și plantele medicinale, colectate în mod sustenabil de comunitățile rurale vecine. Pădurea de la Patar este un martor viu al vegetației originale a centrului Senegalului, înainte de expansiunea masivă a culturilor de mogyoró.",
+      en: ""
+    },
+    factsAdvanced: {
+      ro: ["Situată în inima regiunii istorice Saloum-Kaffrine.", "Una dintre ultimele bariere forestiere naturale împotriva vântului uscat.", "Include specii rare de păsări de savană și insecte polenizatoare.", "Situl este un model pentru gestionarea forestieră comunitară.", "Adăpostește numeroși baobabi care au o valoare sacră pentru localnici.", "Oferă protecție pânzei freatice împotriva evaporării excesive.", "Este traversată de trasee tradiționale de păstorit.", "Vegetația sa se regenerează rapid după primele ploi din luna iunie."]
+    },
+    factsAdvanced: {
+      de: [],
+      hu: ["Kaffrine régió egyik legjelentősebb védett erdőterülete.", "A száhel szavanna jellegzetes flóráját és faunáját őrzi.", "Fontos bázis az elsivatagosodás elleni küzdelemben.", "A helyi közösségek gyógynövénygyűjtő helye.", "Számos ragadozó madár fészkelőhelye a magas fákon.", "Tudományos kutatások helyszíne a szárazság-tűrő növények vizsgálatára.", "Az erdőt szigorú állami felügyelet alatt tartják."],
+      ro: [],
+      en: []
+    }
+  },
   {
     id: "lac-de-panal-nature-v2",
     type: "lake",
@@ -330,7 +722,23 @@ export const poiExtraSenegalNatureV2: POI[] = [
       hu: ["Fontos madárélőhely", "Változó vízszint"],
       ro: ["Habitat important pentru păsări", "Nivel al apei variabil"],
       en: ["Important bird habitat", "Fluctuating water level"]
-    }, image: "/poi-images/lac-de-panal-nature-v2.webp"},
+    }, image: "/poi-images/lac-de-panal-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "A Panal-tó egy szezonális édesvízi tó Szenegál északi részén, a Ferlo övezetben. A tó az esős évszakban (július-október) telik meg vízzel, és ilyenkor válik a környék éltető központjává. A nomád Fulbe pásztorok hatalmas nyájaikkal keresik fel a tavat, hogy itassák állataikat, a vadon élő állatok és madarak pedig ide gyűlnek a Szahara közelségéből. A száraz évszak végére a tó gyakran teljesen kiszárad, de a medrében maradó nedvesség lehetővé teszi a zöldebb legelők fennmaradását. Panal-tó a száheli élet körforgásának egyik legfontosabb állomása, ahol a víz jelenléte határozza meg a táj és a közösség lüktetését.",
+      ro: "Lacul de Panal, situat în regiunea centrală-nordică a Senegalului, este o zonă umedă sezonieră care devine un centru de biodiversitate crucial în timpul și după sezonul ploios. Acest lac temporar, format în depresiunile naturale ale platoului Ferlo, atrage mii de păsări acvatice și servește drept punct de adăpare pentru fauna sălbatică și cirezile nomazilor. Natura din jurul lacului este adaptată la ciclurile extreme de umiditate și secetă, plantele acvatice înflorind rapid odată cu sosirea apelor. Lacul Panal este o componentă esențială a rețelei ecologice a Sahelului, oferind un habitat rar de apă dulce într-o regiune aridă. Deși suprafața sa scade drastic în sezonul uscat, sedimentele bogate lăsate în urmă favorizează creșterea unei ierburi nutritive, foarte apreciată de crescătorii de animale. Protejarea acestui lac este fundamentală pentru menținerea echilibrului ecologic al zonei de stepă senegaleze.",
+      en: ""
+    },
+    factsAdvanced: {
+      ro: ["Lac sezonier dependent direct de intensitatea ploilor anuale.", "Situat în zona de tranziție între savană și semi-deșert.", "Punct strategic pentru păsările migratoare care traversează centrul țării.", "Monitorizat de direcția parcurilor naționale ca zonă de conservare.", "Apele sale sunt colectate pentru nevoile de subzistență ale satelor Peul.", "Include o vegetație specifică de amfibii și plante de mlaștină.", "Contribuie la microclimatul umed al micro-regiunii Panal.", "În anii ploioși, suprafața lacului poate crește considerabil, inundând văile vecine."]
+    },
+    factsAdvanced: {
+      de: [],
+      hu: ["Szezonális tó a száraz Ferlo-síkság szívében.", "Az esős évszakban a nomád pásztorok központi találkozóhelye.", "Fontos itatóhely a vándorló gazellák és antilopok számára.", "A tó környéke gazdag madárvilággal rendelkezik az áradások idején.", "A víz elpárolgása után a meder értékes legelőként szolgál.", "A terület része a 'Nagy Zöld Fal' ökológiai programnak.", "A tó megközelítése terepjáróval lehetséges a távoli vidéken."],
+      ro: [],
+      en: []
+    }
+  },
   {
     id: "monts-de-casamance-nature-v2",
     type: "mountain",
@@ -343,7 +751,23 @@ export const poiExtraSenegalNatureV2: POI[] = [
       hu: ["Erdős lejtők", "Enyhébb klíma, mint északon"],
       ro: ["Versanți împăduriți", "Climat mai blând decât în nord"],
       en: ["Forested slopes", "Milder climate than in the north"]
-    }, image: "/poi-images/monts-de-casamance-nature-v2.webp"},
+    }, image: "/poi-images/monts-de-casamance-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "A Casamance-hegyek (vagy dombvidék) Szenegál déli határán, a guineai határvidék közelében magasodó lankás vonulatok. Ez a terület Szenegál egyik legcsapadékosabb és legzöldebb vidéke, ahol a domborzat és a klíma együttesen sűrű trópusi erdőket hozott létre. A hegyek lábánál számos forrás fakad, amelyek a Casamance-folyó mellékágait táplálják. A táj itt egészen más, mint az ország északi részén: buja növényzet, óriási fák és rejtett völgyek jellemzik. A Casamance-hegyek a Jola nép spirituális otthonai is, ahol a szent erdőkben őrzik az ősi rituálék helyszíneit. A vidék kiválóan alkalmas gyalogtúrákra és a háborítatlan természet felfedezésére.",
+      ro: "Munții (sau mai degrabă dealurile) din Casamance reprezintă o zonă de relief ondulat din sudul extrem al Senegalului, la frontiera cu Guineea și Guineea-Bissau. Această regiune este marcată de o natură exuberantă, fiind zona cu cele mai înalte precipitații din țară, ceea ce permite dezvoltarea unor păduri tropicale dense și a unor păduri-galerie impresionante. Dealurile sunt formate din soluri de laterit roșu care creează un contrast vizual spectaculos cu verdele intens al vegetației. Munții de Casamance adăpostesc o biodiversitate unică, incluzând specii de arbori gigantici (fromagers), liane și o multitudine de primate. Relieful fragmentat a favorizat crearea unor văi izolate unde se practică cultura tradițională a orezului și unde comunitățile locale și-au păstrat intacte tradițiile animiste și pădurile sacre. Această regiune este adesea numită „perla verde” a Senegalului, oferind peisaje care amintesc mai mult de Africa Centrală decât de Sahelul din nord.",
+      en: ""
+    },
+    factsAdvanced: {
+      ro: ["Regiunea cu cel mai mare grad de împădurire naturală din Senegal.", "Include platouri de laterit cu înălțimi de până la 100-150 metri.", "Găzduiește arbori sacri uriași folosiți în ritualurile Diola.", "Este habitatul cimpanzeilor de sud și al multor specii de păsări tropicale.", "Constituie un rezervor hidrografic major pentru brațele râului Casamance.", "Plantele epifite și orhideele sălbatice sunt frecvente în aceste păduri.", "Relieful accidentat a conservat o biodiversitate nealterată de mecanizarea agricolă.", "Oferă cele mai umede și răcoroase condiții de mediu din întreaga țară."]
+    },
+    factsAdvanced: {
+      de: [],
+      hu: ["Szenegál legdélebbi és legcsapadékosabb dombvidéke.", "Sűrű trópusi és galériaerdők borítják a lejtőket.", "Gazdag gyümölcstermő vidék: banán, mangó és pálmaerdők.", "Számos vízesés és kis patak ered a dombok között.", "A területen ritka trópusi madárfajok és majmok élnek.", "A Jola kultúra egyik legfontosabb természetközeli helyszíne.", "A hegyek hűvösebb klímája menedéket nyújt a hőség elől."],
+      ro: [],
+      en: []
+    }
+  },
   {
     id: "foret-de-tamba-nature-v2",
     type: "forest",
@@ -356,7 +780,23 @@ export const poiExtraSenegalNatureV2: POI[] = [
       hu: ["Száraz erdő", "A Niokolo-Koba ökoszisztéma része"],
       ro: ["Pădure uscată", "Parte a ecosistemului Niokolo-Koba"],
       en: ["Dry forest", "Part of Niokolo-Koba ecosystem"]
-    }, image: "/poi-images/foret-de-tamba-nature-v2.webp"},
+    }, image: "/poi-images/foret-de-tamba-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "A Tambacounda-i erdő Kelet-Szenegál hatalmas, összefüggő vadonja, amely a száraz száheli szavanna és a nedvesebb szudáni zóna között képez átmenetet. Ez a vidék ritkán lakott, így megőrizte eredeti vadságát, ahol a baobabok, a kapokfák és a különböző akácfélék uralják a látképet. Az erdő fontos ökológiai folyosó, amely összeköti a Niokolo-Koba Nemzeti Parkot a szomszédos országok védett területeivel. A vadvilág itt még mindig gazdag: antilopok, varacskos disznók és számos ragadozó madár talál itt otthonra. Tambacounda erdeje stratégiai jelentőségű az ország klímájának szabályozásában és a sivatag déli irányú terjeszkedésének megállításában.",
+      ro: "Pădurea Clasată de la Tambacounda este o zonă forestieră vastă situată în estul Senegalului, reprezentând un ecosistem critic de tranziție între savana guineeană și stepa saheliană. Această natură protejată este dominată de specii de arbori rezistenți la secetă, dar care formează o pădure densă și umbroasă în timpul verii. Pădurea de la Tamba este vitală pentru economia regională, oferind resurse esențiale precum lemnul de foc și produsele forestiere nelemnoase (fructe de baobab, miere sălbatică). Ecologic, pădurea servește drept coridor de migrație pentru fauna care se deplasează între Parcul Național Niokolo-Koba și văile râului Senegal. Statutul său de pădure clasată impune reguli stricte de exploatare pentru a preveni degradarea solului și pierderea habitatelor. Pentru vizitatori, pădurea oferă o imagine a măreției savanei africane, cu arbori monumentali care se ridică peste un covor de iarbă înaltă, fiind un simbol al bogăției naturale a estului senegalez.",
+      en: ""
+    },
+    factsAdvanced: {
+      ro: ["Una dintre cele mai mari zone forestiere gestionate din estul țării.", "Include specii de valoare comercială și ecologică precum Pterocarpus erinaceus.", "Este o barieră importantă împotriva avansului deșertului dinspre nord-est.", "Găzduiește colonii importante de păsări de pradă și vulturi africani.", "Solurile sunt predominant feruginoase, de o culoare brun-roșiatică.", "Serviciul Silvic are aici baze de monitorizare împotriva braconajului forestier.", "Este un sit tradițional de vânătoare reglementată și colectare de plante medicinale.", "Contribuie major la reglarea regimului ploilor la nivel regional."]
+    },
+    factsAdvanced: {
+      de: [],
+      hu: ["Szenegál egyik legnagyobb összefüggő szavannai erdőterülete.", "Átmeneti zóna a száhel és a trópusi Afrika között.", "Híres az óriási, több száz éves baobab fáiról.", "A területen vadon élő antilopok és majmok is megfigyelhetők.", "Fontos szerepet játszik a regionális csapadékképződésben.", "Az erdőgazdálkodás fókuszában a vadvédelem áll.", "A távoli vidék a kalandturizmus és a szafarik kedvelt célpontja."],
+      ro: [],
+      en: []
+    }
+  },
   {
     id: "delta-du-senegal-nature-v2",
     type: "river",
@@ -369,6 +809,24 @@ export const poiExtraSenegalNatureV2: POI[] = [
       hu: ["Nagy fajgazdagság", "Homokpadok"],
       ro: ["Biodiversitate ridicată", "Bancuri de nisip"],
       en: ["Great biodiversity", "Sandbars"]
+    },
+    descriptionAdvanced: {
+      ro: "Delta Fluviului Senegal, situată la granița de nord a țării, este un complex ecosistem de mlaștini, lagune și dune care se întâlnesc cu Oceanul Atlantic. Această natură protejată este faimoasă la nivel mondial pentru Sanctuarul Djoudj, dar delta în ansamblul ei reprezintă o unitate biologică inseparabilă. Formată prin depunerile de nisip și aluviuni pe parcursul mileniilor, delta a creat un labirint de apă dulce și sărată care susține o viață acvatică uluitoare. Este locul unde milioane de păsări migratoare își găsesc refugiul după traversarea Saharei, făcând din acest loc un punct critic pe ruta de migrație est-atlantică. Delta este, de asemenea, o zonă de intensă activitate umană, unde agricultura irigată coexistă cu pescuitul tradițional. Protejarea deltei este o provocare majoră, implicând combaterea speciilor invazive precum salvinia și gestionarea atentă a barajelor fluviale pentru a menține echilibrul salin necesar vieții sălbatice."
+    },
+    factsAdvanced: {
+      ro: ["Include Sanctuarul Djoudj, sit de Patrimoniu Mondial UNESCO.", "Ecosistemul este unul dintre cele mai importante zone umede din Africa.", "Delta este „poarta de intrare” în Africa pentru păsările din Europa.", "Prezența manatului african (lamantinul) este documentată în canalele deltei.", "Dunele „Langue de Barbarie” protejează interiorul deltei de forța oceanului.", "Vegetația include păduri de mangrove de apă dulce și papirus.", "Este un motor economic pentru nordul Senegalului prin turism și agricultură.", "Delta este un sit de importanță internațională sub Convenția Ramsar."]
+    },
+    descriptionAdvanced: {
+      de: "",
+      hu: "A Szenegál-folyó deltája egy hatalmas és bonyolult vizes élőhely Szenegál és Mauritánia határán, ahol a folyó több ágra szakadva éri el az óceánt. A delta területe sós mocsarakból, homokpadokból és dús ártéri erdőkből áll. Ez a vidék a világ egyik legfontosabb madárvonulási csomópontja, itt található többek között a híres Djoudj Nemzeti Park is. A delta élete az évenkénti áradásoktól és a folyó vízszintjét szabályozó gátaktól függ. A táj állandóan változik: új szigetek emelkednek ki a homokból, míg máshol a víz hódít el területeket. A Szenegál-delta nemcsak ökológiai kincs, hanem a mezőgazdaság és a halászat bölcsője is az ország északi részén.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: ["A Szenegál-folyó torkolatvidéke az Atlanti-óceánnál.", "Több mint 300 madárfaj állandó vagy időszakos otthona.", "Bonyolult csatornarendszerek és lagúnák alkotják.", "Itt találkozik az édes és a sós víz ökoszisztémája.", "A delta területén intenzív rizstermesztés folyik.", "Részben UNESCO Világörökségi védelem alatt áll.", "A torkolat vándorlása miatt a táj folyamatosan alakul."],
+      ro: [],
+      en: []
     }
   },
   {
@@ -383,6 +841,24 @@ export const poiExtraSenegalNatureV2: POI[] = [
       hu: ["Fontos a mikroklímának", "Városi park jellegű"],
       ro: ["Important pentru microclimat", "Similar cu parcurile urbane"],
       en: ["Important for microclimate", "Urban park-like"]
+    },
+    descriptionAdvanced: {
+      ro: "Pădurea de la Dakar, cunoscută și sub numele de Pădurea Mbao, este ultimul bastion natural din peninsula Cap-Vert, situată la intrarea în capitală. Într-o metropolă dominată de beton și asfalt, această pădure oferă o natură esențială pentru sănătatea locuitorilor, acționând ca un filtru pentru poluare și un regulator de temperatură. Pădurea păstrează caracteristicile ecosistemului original al coastei centrale, cu arbori de baobab, palmieri și akác adaptate solului nisipos. Deși este fragmentată de infrastructura modernă de transport, pădurea rămâne un refugiu pentru păsări și mici reptile, oferind totodată un spațiu de cercetare ornitologică. Eforturile actuale ale statului senegalez se concentrează pe stoparea urbanizării în interiorul pădurii și pe transformarea acesteia într-un parc urban protejat, unde natura să poată coexista cu nevoile de recreere ale cetățenilor. Această zonă verde este vitală pentru reziliența Dakarului în fața schimbărilor climatice."
+    },
+    factsAdvanced: {
+      ro: ["Singura zonă forestieră majoră rămasă în zona metropolitană Dakar.", "Acționează ca un scut împotriva inundațiilor urbane prin absorbția apelor.", "Găzduiește o diversitate surprinzătoare de specii de păsări rezidente.", "Include pepiniere pentru producerea puieților destinați programului „Marea Mură Verde”.", "Pădurea este traversată de autostrada A1, dar rămâne sub protecție silvică.", "Este un simbol al luptei ecologiste împotriva urbanizării necontrolate.", "Microclimatul pădurii este cu 2-3 grade mai răcoros decât centrul orașului.", "Comunitățile locale sunt implicate în proiecte de reîmpădurire participativă."]
+    },
+    descriptionAdvanced: {
+      de: "",
+      hu: "A dakari erdők (például a Parc de Hann és a Mbao-i erdőmaradványok) a sűrűn beépített félsziget utolsó természetes zöld bástyái. Ezek a területek létfontosságúak a főváros levegőminőségének javításában és a városi hőszigethatás csökkentésében. A dakari erdőkben főleg trópusi és száheli fafajok, mint az akácok és eukaliptuszok találhatók, de számos dísznövényt is telepítettek ide. Az erdők menedéket nyújtanak a városi madárvilágnak és kisebb emlősöknek. A kormányzat és a civil szervezetek nagy erőfeszítéseket tesznek ezeknek a területeknek a védelmére, mivel az ingatlanfejlesztés és az infrastruktúra-bővítés állandó nyomást gyakorol rájuk, veszélyeztetve a város 'tüdejét'.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: ["Dakar utolsó természetes zöldterületeinek gyűjtőneve.", "Kritikus szerep a városi szmog és por kiszűrésében.", "Hűsítő mikroklímát biztosítanak a környező negyedeknek.", "Oktatási és rekreációs célokat szolgáló védett övezetek.", "Otthont adnak a főváros megmaradt vadvilágának.", "Folyamatos rehabilitációs programok zajlanak a területükön.", "Az erdők látogatása népszerű hétvégi program a dakariak körében."],
+      ro: [],
+      en: []
     }
   },
   {
@@ -397,6 +873,24 @@ export const poiExtraSenegalNatureV2: POI[] = [
       hu: ["Árapályfüggő", "Fontos a tengeri teknősöknek"],
       ro: ["Dependent de maree", "Important pentru țestoasele marine"],
       en: ["Tide-dependent", "Important for sea turtles"]
+    },
+    descriptionAdvanced: {
+      ro: "Zona Nisipoasă Costieră, cunoscută sub numele de „Grande Côte”, se întinde pe sute de kilometri între Dakar și Saint-Louis. Această natură litorală este dominată de dune de nisip mișcătoare și de faimoasele „Niayes” – depresiuni fertile între dune unde pânza freatică iese la suprafață. Peisajul este unul de o frumusețe aspră, unde vânturile alizee modelează constant relieful și unde vegetația este formată din plante halofite și arbuști rezistenți la sare. Zona costieră este crucială pentru economia Senegalului, fiind locul unde se desfășoară pescuitul artizanal intens și unde se cultivă cea mai mare parte a legumelor țării. De asemenea, dunele conțin zăcăminte prețioase de minerale grele (zircon, ilmenit), a căror exploatare trebuie echilibrată cu necesitatea protejării ecosistemului fragil. Această fâșie de nisip alb, mângâiată de valurile Atlanticului, reprezintă una dintre cele mai iconice imagini ale geografiei senegaleze."
+    },
+    factsAdvanced: {
+      ro: ["Include cel mai lung sector de plaje neîntrerupte din West Africa.", "Depresiunile Niayes permit agricultura de tip oază în plin deșert costier.", "Dunele pot ajunge la înălțimi de peste 20-30 de metri.", "Este o zonă bogată în nisipuri mineralizate exploatate industrial (GCO).", "Linia țărmului este supusă unei eroziuni puternice din cauza curentului Canarelor.", "Vegetația include plantații de Casuarina fixate pentru stabilizarea nisipului.", "Este zona principală pentru turismul de aventură cu 4x4.", "Oferă un habitat esențial pentru broaștele țestoase marine care vin să depună ouă."]
+    },
+    descriptionAdvanced: {
+      de: "",
+      hu: "Szenegál északi tengerparti homokzónája, a 'Grande Côte', egy több száz kilométer hosszú, dűnékkel tarkított partszakasz Dakar és Saint-Louis között. Ez a terület Szenegál természetes védvonala az Atlanti-óceán erejével szemben. A dűnék magassága helyenként eléri a 20-30 métert, és fontos szerepet játszanak a belső területek védelmében a sós tengeri szelektől. A homokzóna völgyeiben, a 'niayes'-ekben alakult ki az ország legfontosabb zöldségtermesztő övezete, a talajvíz közelségének köszönhetően. A partvonal mentén a tengeri erózió folyamatosan alakítja a tájat, ami kihívást jelent a tengerparti települések és a turisztikai létesítmények számára.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: ["Szenegál északi, egyenes tengerparti szakasza.", "Hatalmas, vándorló homokdűnék jellemzik a tájat.", "Természetes gátként szolgál az óceán és a belső szárazföld között.", "A dűnék között értékes mezőgazdasági mikroklíma alakult ki.", "Gazdag ásványi homoklelőhelyekben (cirkon, ilmenit).", "A part mentén halad az ország egyik legfontosabb halászati útvonala.", "A táj szépsége vonzza a kalandturistákat és a terepjárós túrázókat."],
+      ro: [],
+      en: []
     }
   }
 ];

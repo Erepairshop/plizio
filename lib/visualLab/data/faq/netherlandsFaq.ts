@@ -255,7 +255,7 @@ export const netherlandsFaq: CountryFaqMap = {
     ],
     ro: [
       { q: "Care este capitala provinciei Overijssel?", a: "Zwolle este capitala." },
-      { q: "Ce sat este cunoscut sub numele de „Veneția Nordului”?", a: "Giethoorn este situat în Overijssel." },
+      { q: "Ce sat este cunoscut sub numele de \"Veneția Nordului\"?", a: "Giethoorn este situat în Overijssel." },
       { q: "Care este cel mai mare oraș din Overijssel?", a: "Enschede este cel mai mare oraș." },
       { q: "Ce parc național se află în această provincie?", a: "Parcul Național Weerribben-Wieden." },
     ],
@@ -309,7 +309,7 @@ export const netherlandsFaq: CountryFaqMap = {
       { q: "Care este capitala provinciei Zeelanda?", a: "Middelburg este capitala." },
       { q: "Pentru ce este cunoscută Zeelanda?", a: "Este cunoscută pentru insulele, peninsulele și Lucrările Delta." },
       { q: "Ce sunt Lucrările Delta?", a: "Un sistem masiv de protecție împotriva inundațiilor format din baraje și bariere de furtună." },
-      { q: "Ce înseamnă numele Zeelanda?", a: "Înseamnă „Țara Mării”." },
+      { q: "Ce înseamnă numele Zeelanda?", a: "Înseamnă \"Țara Mării\"." },
     ],
     en: [
       { q: "What is the capital of Zeeland?", a: "Middelburg is the capital." },
@@ -385,7 +385,7 @@ export const netherlandsFaq: CountryFaqMap = {
     ],
     ro: [
       { q: "De ce este Rotterdam unic în Țările de Jos?", a: "Are un orizont modern datorită reconstrucției după al Doilea Război Mondial." },
-      { q: "Ce este Podul Erasmus?", a: "Un pod hobanat iconic supranumit „Lebăda”." },
+      { q: "Ce este Podul Erasmus?", a: "Un pod hobanat iconic supranumit \"Lebăda\"." },
       { q: "Ce este Markthal?", a: "O clădire unică ce combină locuințe și birouri cu o hală alimentară." },
       { q: "Ce este Euromast?", a: "Un turn de observație care oferă vederi panoramice asupra orașului." },
     ],
@@ -569,7 +569,7 @@ export const netherlandsFaq: CountryFaqMap = {
       { q: "Cât de departe este Haarlem de Amsterdam?", a: "La doar aproximativ 15-20 de minute cu trenul." },
       { q: "Ce este Muzeul Teylers?", a: "Cel mai vechi muzeu din Țările de Jos, fondat în 1778." },
       { q: "Ce este Grote Kerk (Sf. Bavo)?", a: "O biserică gotică maiestuoasă cu o orgă faimoasă la care a cântat Mozart." },
-      { q: "Care sunt bijuteriile ascunse ale orașului Haarlem?", a: "„Hofjes”-urile sale (curți interioare ascunse) sunt foarte frumoase." },
+      { q: "Care sunt bijuteriile ascunse ale orașului Haarlem?", a: "\"Hofjes\"-urile sale (curți interioare ascunse) sunt foarte frumoase." },
     ],
     en: [
       { q: "How far is Haarlem from Amsterdam?", a: "Only about 15-20 minutes by train." },
@@ -672,7 +672,7 @@ export const netherlandsFaq: CountryFaqMap = {
     ro: [
       { q: "Ce este Casa Anne Frank?", a: "Un muzeu dedicat diaristei evreice din timpul războiului, Anne Frank." },
       { q: "Unde este situată?", a: "În Amsterdam, pe canalul Prinsengracht." },
-      { q: "Ce poți vedea acolo?", a: "„Anexa Secretă” unde Anne Frank și alții s-au ascuns în timpul celui de-al Doilea Război Mondial." },
+      { q: "Ce poți vedea acolo?", a: "\"Anexa Secretă\" unde Anne Frank și alții s-au ascuns în timpul celui de-al Doilea Război Mondial." },
       { q: "Trebuie să rezerv bilete?", a: "Da, biletele trebuie rezervate online cu mult timp înainte." },
     ],
     en: [
@@ -697,7 +697,7 @@ export const netherlandsFaq: CountryFaqMap = {
     ],
     ro: [
       { q: "Ce este Rijksmuseum?", a: "Muzeul național al Țărilor de Jos." },
-      { q: "Care este cea mai faimoasă pictură a sa?", a: "„Rondul de noapte” de Rembrandt." },
+      { q: "Care este cea mai faimoasă pictură a sa?", a: "\"Rondul de noapte\" de Rembrandt." },
       { q: "Pe ce perioadă de artă se concentrează?", a: "Epoca de Aur olandeză este un punct forte major." },
       { q: "Unde este situat?", a: "În Amsterdam, în Piața Muzeului (Museumplein)." },
     ],
@@ -723,7 +723,7 @@ export const netherlandsFaq: CountryFaqMap = {
     ],
     ro: [
       { q: "Ce este Muzeul Van Gogh?", a: "Un muzeu dedicat vieții și operelor lui Vincent van Gogh." },
-      { q: "Ce opere se află în colecție?", a: "Găzduiește peste 200 de picturi, inclusiv „Floarea-soarelui” și „Mâncătorii de cartofi”." },
+      { q: "Ce opere se află în colecție?", a: "Găzduiește peste 200 de picturi, inclusiv \"Floarea-soarelui\" și \"Mâncătorii de cartofi\"." },
       { q: "Unde este situat?", a: "În Piața Muzeului din Amsterdam." },
       { q: "Este popular?", a: "Da, este unul dintre cele mai vizitate muzee din lume." },
     ],
@@ -774,7 +774,7 @@ export const netherlandsFaq: CountryFaqMap = {
       { q: "Hány virágot ültetnek el?", a: "Évente körülbelül 7 millió virághagymát ültetnek el." },
     ],
     ro: [
-      { q: "Ce este Keukenhof?", a: "Cea mai mare grădină de flori din lume, numită adesea „Grădina Europei”." },
+      { q: "Ce este Keukenhof?", a: "Cea mai mare grădină de flori din lume, numită adesea \"Grădina Europei\"." },
       { q: "Când este deschis?", a: "Numai în timpul primăverii, de obicei de la sfârșitul lunii martie până la mijlocul lunii mai." },
       { q: "Unde este situat?", a: "În Lisse, în inima regiunii bulbilor." },
       { q: "Câte flori sunt plantate?", a: "Aproximativ 7 milioane de bulbi de flori sunt plantați anual." },
@@ -803,7 +803,7 @@ export const netherlandsFaq: CountryFaqMap = {
       { q: "Ce este Giethoorn?", a: "Un sat fără mașini, cunoscut pentru canalele sale și fermele cu acoperiș de stuf." },
       { q: "Cum se deplasează oamenii în Giethoorn?", a: "În principal cu barca prin canale." },
       { q: "Unde este situat?", a: "În provincia Overijssel." },
-      { q: "Pot închiria o barcă?", a: "Da, „bărcile cu șoaptă” (bărci electrice) sunt populare pentru închiriat." },
+      { q: "Pot închiria o barcă?", a: "Da, \"bărcile cu șoaptă\" (bărci electrice) sunt populare pentru închiriat." },
     ],
     en: [
       { q: "What is Giethoorn?", a: "A car-free village known for its canals and thatched-roof farmhouses." },
@@ -880,7 +880,7 @@ export const netherlandsFaq: CountryFaqMap = {
     ro: [
       { q: "Ce este Hoge Veluwe?", a: "Un parc național mare din Gelderland." },
       { q: "Ce muzeu se află în interiorul parcului?", a: "Muzeul Kröller-Müller, faimos pentru colecția sa Van Gogh." },
-      { q: "Ce sunt „Bicicletele Albe”?", a: "Biciclete gratuite puse la dispoziția vizitatorilor pentru a explora parcul." },
+      { q: "Ce sunt \"Bicicletele Albe\"?", a: "Biciclete gratuite puse la dispoziția vizitatorilor pentru a explora parcul." },
       { q: "Ce fel de animale sălbatice poți vedea?", a: "Cerbi, căprioare, mistreți și mufloni." },
     ],
     en: [
@@ -931,7 +931,7 @@ export const netherlandsFaq: CountryFaqMap = {
     ],
     ro: [
       { q: "Ce este Podul Erasmus?", a: "Un pod hobanat în Rotterdam peste râul Nieuwe Maas." },
-      { q: "Care este porecla lui?", a: "„De Zwaan” (Lebăda) din cauza pilonului său asimetric." },
+      { q: "Care este porecla lui?", a: "\"De Zwaan\" (Lebăda) din cauza pilonului său asimetric." },
       { q: "Când a fost deschis?", a: "În 1996." },
       { q: "Se deschide pentru nave?", a: "Da, are o secțiune de pod basculant pentru nave mai mari." },
     ],
@@ -1140,7 +1140,7 @@ export const netherlandsFaq: CountryFaqMap = {
     ro: [
       { q: "Pentru ce este cunoscut Arnhem?", a: "Bătălia de la Arnhem și parcurile sale frumoase." },
       { q: "Ce este Muzeul în Aer Liber al Țărilor de Jos?", a: "Un parc mare care prezintă istoria olandeză prin clădiri istorice." },
-      { q: "Ce este Burgers' Zoo?", a: "O grădină zoologică faimoasă cunoscută pentru habitatele sale naturale la scară largă, cum ar fi „Bush”." },
+      { q: "Ce este Burgers' Zoo?", a: "O grădină zoologică faimoasă cunoscută pentru habitatele sale naturale la scară largă, cum ar fi \"Bush\"." },
       { q: "Ce este Podul John Frost?", a: "Podul rutier care a fost obiectivul în timpul Bătăliei de la Arnhem." },
     ],
     en: [
@@ -1165,7 +1165,7 @@ export const netherlandsFaq: CountryFaqMap = {
     ],
     ro: [
       { q: "Ce este Zwolle?", a: "Capitala provinciei Overijssel și un oraș hanseatic istoric." },
-      { q: "Ce este Museum de Fundatie?", a: "Un muzeu de artă cu o structură distinctivă în formă de „ou” pe acoperiș." },
+      { q: "Ce este Museum de Fundatie?", a: "Un muzeu de artă cu o structură distinctivă în formă de \"ou\" pe acoperiș." },
       { q: "Ce este Sassenpoort?", a: "O poartă a orașului bine conservată de la sfârșitul secolului al XIV-lea." },
       { q: "Ce este Waanders in de Broeren?", a: "O librărie frumoasă situată în interiorul unei foste biserici din secolul al XV-lea." },
     ],
@@ -1321,7 +1321,7 @@ export const netherlandsFaq: CountryFaqMap = {
     ],
     ro: [
       { q: "Ce este Muzeul Van Gogh?", a: "Un muzeu dedicat vieții și operelor lui Vincent van Gogh." },
-      { q: "Ce opere se află în colecție?", a: "Găzduiește peste 200 de picturi, inclusiv „Floarea-soarelui” și „Mâncătorii de cartofi”." },
+      { q: "Ce opere se află în colecție?", a: "Găzduiește peste 200 de picturi, inclusiv \"Floarea-soarelui\" și \"Mâncătorii de cartofi\"." },
       { q: "Unde este situat?", a: "În Piața Muzeului din Amsterdam." },
       { q: "Este popular?", a: "Da, este unul dintre cele mai vizitate muzee din lume." },
     ],
@@ -1347,7 +1347,7 @@ export const netherlandsFaq: CountryFaqMap = {
     ],
     ro: [
       { q: "Ce este Mauritshuis?", a: "Un muzeu de artă din Haga." },
-      { q: "Care este cea mai faimoasă pictură a sa?", a: "„Fata cu cercel de perlă” de Vermeer." },
+      { q: "Care este cea mai faimoasă pictură a sa?", a: "\"Fata cu cercel de perlă\" de Vermeer." },
       { q: "Ce fel de colecție are?", a: "Găzduiește capodopere din Epoca de Aur olandeză." },
       { q: "Cum este clădirea?", a: "Un conac clasic din secolul al XVII-lea cu vedere la Hofvijver." },
     ],
@@ -1556,7 +1556,7 @@ export const netherlandsFaq: CountryFaqMap = {
     ro: [
       { q: "Ce este Casa Anne Frank?", a: "Un muzeu dedicat diaristei evreice din timpul războiului, Anne Frank." },
       { q: "Unde este situată?", a: "În Amsterdam, pe canalul Prinsengracht." },
-      { q: "Ce poți vedea acolo?", a: "„Anexa Secretă” unde Anne Frank și alții s-au ascuns în timpul celui de-al Doilea Război Mondial." },
+      { q: "Ce poți vedea acolo?", a: "\"Anexa Secretă\" unde Anne Frank și alții s-au ascuns în timpul celui de-al Doilea Război Mondial." },
       { q: "Trebuie să rezerv bilete?", a: "Da, biletele trebuie rezervate online cu mult timp înainte." },
     ],
     en: [
@@ -1582,7 +1582,7 @@ export const netherlandsFaq: CountryFaqMap = {
     ro: [
       { q: "Ce este Hoge Veluwe?", a: "Un parc național mare din Gelderland." },
       { q: "Ce muzeu se află în interiorul parcului?", a: "Muzeul Kröller-Müller, faimos pentru colecția sa Van Gogh." },
-      { q: "Ce sunt „Bicicletele Albe”?", a: "Biciclete gratuite puse la dispoziția vizitatorilor pentru a explora parcul." },
+      { q: "Ce sunt \"Bicicletele Albe\"?", a: "Biciclete gratuite puse la dispoziția vizitatorilor pentru a explora parcul." },
       { q: "Ce fel de animale sălbatice poți vedea?", a: "Cerbi, căprioare, mistreți și mufloni." },
     ],
     en: [
@@ -1608,7 +1608,7 @@ export const netherlandsFaq: CountryFaqMap = {
     ro: [
       { q: "Ce este Marea Wadden?", a: "O zonă intertidală în partea de sud-est a Mării Nordului." },
       { q: "Este sit UNESCO?", a: "Da, este sit al Patrimoniului Mondial UNESCO datorită ecosistemului său unic." },
-      { q: "Ce este „wadlopen”?", a: "Drumeții pe fundul mării la reflux, o activitate populară." },
+      { q: "Ce este \"wadlopen\"?", a: "Drumeții pe fundul mării la reflux, o activitate populară." },
       { q: "Ce animale trăiesc acolo?", a: "Este un habitat vital pentru multe specii de foci și păsări." },
     ],
     en: [
@@ -1684,7 +1684,7 @@ export const netherlandsFaq: CountryFaqMap = {
       { q: "Hány virágot ültetnek el?", a: "Évente körülbelül 7 millió virághagymát ültetnek el." },
     ],
     ro: [
-      { q: "Ce este Keukenhof?", a: "Cea mai mare grădină de flori din lume, numită adesea „Grădina Europei”." },
+      { q: "Ce este Keukenhof?", a: "Cea mai mare grădină de flori din lume, numită adesea \"Grădina Europei\"." },
       { q: "Când este deschis?", a: "Numai în timpul primăverii, de obicei de la sfârșitul lunii martie până la mijlocul lunii mai." },
       { q: "Unde este situat?", a: "În Lisse, în inima regiunii bulbilor." },
       { q: "Câte flori sunt plantate?", a: "Aproximativ 7 milioane de bulbi de flori sunt plantați anual." },
@@ -1791,7 +1791,7 @@ export const netherlandsFaq: CountryFaqMap = {
       { q: "Ce este Giethoorn?", a: "Un sat fără mașini, cunoscut pentru canalele sale și fermele cu acoperiș de stuf." },
       { q: "Cum se deplasează oamenii în Giethoorn?", a: "În principal cu barca prin canale." },
       { q: "Unde este situat?", a: "În provincia Overijssel." },
-      { q: "Pot închiria o barcă?", a: "Da, „bărcile cu șoaptă” (bărci electrice) sunt populare pentru închiriat." },
+      { q: "Pot închiria o barcă?", a: "Da, \"bărcile cu șoaptă\" (bărci electrice) sunt populare pentru închiriat." },
     ],
     en: [
       { q: "What is Giethoorn?", a: "A car-free village known for its canals and thatched-roof farmhouses." },

@@ -13,15 +13,21 @@ export const poiExtraSenegalCitiesV2: POI[] = [
       hu: "Szenegál nyüzsgő fővárosa a Zöld-foki-félszigeten fekszik, és az ország politikai és gazdasági központja.",
       ro: "Capitala vibrantă a Senegalului este situată pe peninsula Cap-Vert și reprezintă centrul politic și economic al țării.",
       en: "The vibrant capital of Senegal is located on the Cap-Vert peninsula and serves as the political and economic center of the country."
+    },,
+    descriptionAdvanced: {
+      en: "Dakar, the capital of Senegal, is situated on the Cap-Vert Peninsula, marking the westernmost point of the African mainland. Founded in 1857 as a French military post, it evolved into a major maritime hub and the administrative center of French West Africa. Today, it is a vibrant metropolis with a population of approximately 1.2 million, blending colonial architecture with modern developments. The city is famous for its lively markets, such as Sandaga and Kermel, and its proximity to Gorée Island. It also hosts the African Renaissance Monument, the tallest statue on the continent, which stands on one of the Mamelles hills. Geography K7 - African cities."
     },
-    facts: {
+    factsAdvanced: {
+      en: ["Founded in 1857 on the Cap-Vert Peninsula.", "Capital of French West Africa from 1902 to 1958.", "Host city for the African Renaissance Monument, 49 meters high.", "Port of Dakar handles over 90% of the country's trade.", "Home to the IFAN Museum of African Arts, founded in 1936.", "Westernmost city on the African mainland.", "Population of the metropolitan area exceeds 3 million people."]
+    }
+  }    facts: {
       de: ["Westlichste Stadt des afrikanischen Festlands.", "Wurde 1960 die Hauptstadt der unabhängigen Republik."],
       hu: ["Az afrikai kontinens legnyugatibb városa.", "1960-ban lett a független köztársaság fővárosa."],
       ro: ["Cel mai vestic oraș al continentului african.", "A devenit capitala republicii independente în 1960."],
       en: ["Westernmost city on the African mainland.", "Became the capital of the independent republic in 1960."]
     },
     descriptionAdvanced: {
-      de: "Dakar ist die westlichste Stadt des afrikanischen Festlands und dient seit 1960 als Hauptstadt des unabhängigen Senegals. Die Stadt liegt auf der Cap-Vert-Halbinsel und fungiert als das wichtigste wirtschaftliche und kulturelle Zentrum des Landes. Dakar ist bekannt für seine lebendige Atmosphäre, den Fischereihafen Soumbédioune und den berühmten Place de l'Obélisque. Die Metropolregion beheimatet über 3,5 Millionen Menschen und ist ein zentraler Knotenpunkt für den Handel zwischen Westafrika, Europa und den Amerikas.",
+      de: "Dakar ist die westlichste Stadt des afrikanischen Festlands und dient seit 1960 als Hauptstadt des unabhängigen Senegals. Die Stadt liegt auf der Cap-Vert-Halbinsel und fungiert als das wichtigste wirtschaftliche und kulturelle Zentrum des Landes. Dakar ist bekannt für seine lebendige Atmosphäre, den Fischereihafen Soumbédioune und den berühmten Place de l'Obélisque. Die Metropolregion beheimatet over 3,5 Millionen Menschen und ist ein zentraler Knotenpunkt für den Handel zwischen Westafrika, Europa und den Amerikas.",
       hu: "Dakar az afrikai kontinens legnyugatibb városa, amely 1960 óta tölti be a független Szenegál fővárosának szerepét. A Zöld-foki-félszigeten elterülő város az ország legfontosabb gazdasági és kulturális központja. Dakar híres élénk légköréről, a Soumbédioune halászkikötőről és a híres Place de l'Obélisque térről. A nagyvárosi régióban több mint 3,5 millió ember él, és fontos csomópont Nyugat-Afrika, Európa és Amerika közötti kereskedelemben.",
       ro: "Dakar este cel mai vestic oraș al continentului african și servește drept capitală a Senegalului independent din 1960. Orașul este situat pe peninsula Cap-Vert și reprezintă principalul centru economic și cultural al țării. Dakar este renumit pentru atmosfera sa vibrantă, portul pescăresc Soumbédioune și celebrul Place de l'Obélisque. Zona metropolitană găzduiește peste 3,5 milioane de oameni și este un punct central de tranzit pentru comerțul dintre Africa de Vest, Europa și cele două Americi.",
       en: "Dakar is the westernmost city on the African mainland and has served as the capital of independent Senegal since 1960. Located on the Cap-Vert peninsula, the city functions as the country's most important economic and cultural center. Dakar is known for its vibrant atmosphere, the Soumbédioune fishing port, and the famous Place de l'Obélisque. The metropolitan region is home to over 3.5 million people and serves as a central hub for trade between West Africa, Europe, and the Americas."
@@ -109,7 +115,20 @@ export const poiExtraSenegalCitiesV2: POI[] = [
       hu: ["Egy híres fali kárpit manufaktúra otthona.", "A vasútállomás egykor a hálózat központja volt."],
       ro: ["Găzduiește o faimoasă manufactură de tapiserii.", "Gara a fost odată centrul rețelei feroviare."],
       en: ["Home to a famous tapestry manufacture.", "The railway station was once the center of the rail network."]
-    }, image: "/poi-images/thies-cities-v2.webp"},
+    }, image: "/poi-images/thies-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Thiès ist die drittgrößte Stadt Senegals und ein entscheidender Verkehrsknotenpunkt, der Dakar mit dem Landesinneren verbindet. Historisch gewachsen als bedeutendes Zentrum der Eisenbahnindustrie, beherbergt die Stadt die berühmte Manufaktur 'Manufactures Sénégalaises des Arts Décoratifs', die für ihre weltweit geschätzten Wandteppiche bekannt ist. Thiès ist zudem ein Bildungsstandort mit mehreren Fachhochschulen und Militärakademien. Die Stadt hat eine starke gewerkschaftliche Tradition, die besonders während der Streiks der Eisenbahner im Jahr 1947 deutlich wurde. Heute profitiert Thiès von seiner strategischen Lage und der Nähe zum internationalen Flughafen Blaise Diagne, was sie zu einem attraktiven Standort für Handel und Leichtindustrie macht. Geographie K7 — Städtische Entwicklung in Westafrika.",
+      hu: "Thiès Szenegál harmadik legnagyobb városa, amely Dakar-tól mintegy 70 kilométerre keletre fekszik, és az ország egyik legfontosabb közlekedési, valamint ipari csomópontja. A város történelmileg a vasúthálózat fejlődésével vált jelentőssé, különösen a Dakar-Niger vasútvonal központjaként, amely a francia gyarmati időkben épült. Ma Thiès élénk kereskedelmi központ, híres kézműves szőnyegeiről, amelyeket a Manufacture Nationale de Tapisserie készít. A város oktatási szempontból is kiemelkedő, itt található több technológiai és katonai akadémia is. Gazdaságában fontos szerepet játszanak a környező foszfátbányák, mint például Lam-Lam. A település klímája némileg hűvösebb Dakarénál, ami vonzóvá teszi a lakók számára.",
+      ro: "Thiès este al treilea oraș ca mărime din Senegal și un nod de transport crucial, situat la aproximativ 70 de kilometri est de capitala Dakar. Orașul s-a dezvoltat istoric ca un centru major al industriei feroviare, fiind punctul de legătură între coasta Atlanticului și interiorul continentului prin linia Dakar-Niger. Thiès este renumit la nivel mondial pentru „Manufactures Sénégalaises des Arts Décoratifs”, o manufactură de stat înființată la inițiativa președintelui Léopold Sédar Senghor, care produce tapiserii artistice de o calitate excepțională. Orașul are o identitate politică puternică, fiind leagănul multor mișcări sindicale, în special după greva istorică a feroviarilor din 1947. Astăzi, Thiès beneficiază de proximitatea față de noul aeroport internațional Blaise Diagne, devenind un centru atractiv pentru afaceri, educație militară și minerit, în special datorită zăcămintelor de fosfați din zonele învecinate, precum Lam-Lam. Clima sa este ceva mai blândă decât cea a capitalei, ceea ce îl face un loc de locuit preferat pentru mulți profesioniști.",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Thiès liegt etwa 70 Kilometer östlich der Hauptstadt Dakar.", "Die Stadt wurde 1864 als französischer Militärposten gegründet.", "Hier befindet sich die Ecole Nationale Supérieure d'Agriculture.", "Die Wandteppich-Manufaktur wurde 1966 auf Initiative von Senghor gegründet.", "Thiès war Schauplatz des großen Eisenbahnerstreiks von 1947.", "Die Stadt dient als Tor zur Region des Erdnussbeckens.", "Der Bahnhof von Thiès war einst der wichtigste Knotenpunkt der Region.", "Thiès beherbergt das Regionalmuseum im ehemaligen Fort."],
+      hu: ["A város Szenegál harmadik legnépesebb települése.", "Fontos vasúti csomópont a Dakar-Niger vonalon.", "Híres a nemzeti faliszőnyeg-manufaktúrájáról.", "Több mint 300 000 lakos él a városi régióban.", "A közeli Lam-Lam foszfátbányái táplálják az ipart.", "Gyakran nevezik a 'vasutasok városának' (Cité du Rail).", "Számos felsőoktatási intézménynek és katonai iskolának ad otthont."],
+      ro: ["Este al treilea cel mai populat oraș din Senegal, după Dakar și Touba.", "A fost fondat în 1864 ca post militar francez strategic.", "Găzduiește Manufactura Națională de Tapiserie, celebră în întreaga lume.", "Orașul este cunoscut sub numele de „Cité du Rail” (Orașul Căii Ferate).", "A fost scena grevei feroviarilor din 1947, un punct de cotitură social.", "Se află la intersecția drumurilor către regiunile Saint-Louis și Kaolack.", "Este un centru educațional major, cu numeroase academii militare.", "Minele de fosfați din apropiere reprezintă o sursă economică vitală."],
+      en: []
+    }
+  },
   {
     id: "rufisque-cities-v2",
     type: "city",
@@ -121,13 +140,32 @@ export const poiExtraSenegalCitiesV2: POI[] = [
       hu: "Történelmi kikötőváros Dakar közelében, amely a gyarmati időkben kulcsszerepet játszott a földimogyoró-exportban.",
       ro: "Un oraș portuar istoric de lângă Dakar, care a jucat un rol cheie în exportul de arahide în perioada colonială.",
       en: "A historic port city near Dakar that played a key role in the peanut export during the colonial era."
+    },,
+    descriptionAdvanced: {
+      en: "Rufisque is a historic port city located about 25 kilometers east of Dakar. Originally a fishing village known as Rio Fresco, it became an important commercial center in the 19th century, particularly for the export of peanuts. The city retains much of its colonial-era architecture, characterized by 'maisons de commerce' along the waterfront. Although its role as a primary port has diminished, Rufisque remains an industrial hub, hosting one of Africa's largest cement factories, Sococim. The city serves as a gateway between the Cap-Vert Peninsula and the rest of Senegal. History K8 - Colonial trade."
     },
-    facts: {
+    factsAdvanced: {
+      en: ["Originally a Lebu fishing village named Teungueth.", "Became one of the Four Communes of Senegal in 1880.", "Historically the primary port for Senegal's peanut exports.", "Located 25 km from the capital city of Dakar.", "Home to the Sococim cement plant, established in 1948.", "Features distinctive 19th-century colonial warehouses.", "Served by the Dakar-Niger railway line since 1885."]
+    }
+  }    facts: {
       de: ["Bekannt für seine alte koloniale Architektur.", "Besitzt eine große Zementfabrik am Stadtrand."],
       hu: ["Régi gyarmati építészetéről ismert.", "Nagy cementgyárral rendelkezik a város szélén."],
       ro: ["Cunoscut pentru vechea sa arhitectură colonială.", "Are o mare fabrică de ciment la periferie."],
       en: ["Known for its old colonial architecture.", "Has a large cement factory on the outskirts."]
-    }, image: "/poi-images/rufisque-cities-v2.webp"},
+    }, image: "/poi-images/rufisque-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Rufisque ist eine historische Hafenstadt an der Südküste der Cap-Vert-Halbinsel und war einst eine der vier ursprünglichen 'communes' des kolonialen Senegals. Während des 19. und frühen 20. Jahrhunderts war sie der wichtigste Hafen für den Export von Erdnüssen, dem Haupthandelsprodukt des Landes. Die Stadt bewahrt noch heute zahlreiche Gebäude im Kolonialstil, die von ihrer glanzvollen Handelsvergangenheit zeugen. In der Moderne hat sich Rufisque zu einem industriellen Zentrum entwickelt, in dem unter anderem die große Zementfabrik SOCOCIM ansässig ist. Die Stadt kämpft jedoch mit der Küstenerosion, die Teile der historischen Bausubstanz bedroht. Als Teil der Metropolregion Dakar fungiert Rufisque als wichtiges Bindeglied im Wirtschaftsgefüge des Landes. Geschichte K8 — Koloniale Handelszentren.",
+      hu: "Rufisque egy történelmi kikötőváros Dakar közelében, amely a 19. században Szenegál egyik legfontosabb kereskedelmi központja était, különösen a földimogyoró exportja révén. A város építészete ma is őrzi a francia gyarmati stílust, bár a modern iparosodás alaposan átformálta a környéket. Ma Rufisque az ország egyik legfontosabb ipari bázisa, ahol a hatalmas SOCOCIM cementgyár is üzemel. A város stratégiai helyen fekszik a Zöld-foki-félsziget bejáratánál, így fontos kapu a főváros és a belső országrészek között. Bár a tengerparti erózió és az urbanizációs nyomás komoly kihívást jelent, a 'Vieux Rufisque' negyed megmaradt épületei még mindig idézik a múltbeli gazdagságot.",
+      ro: "Rufisque este un oraș portuar istoric situat la poarta de intrare a peninsulei Cap-Vert, având rădăcini care coboară până în secolul al XVI-lea, când a fost un punct de tranzit portughez numit Rio Fresco. În secolul al XIX-lea, orașul a devenit una dintre cele patru „communes” originale ale Senegalului francez, bucurându-se de aceleași drepturi cetățenești ca orașele din Franța. În perioada sa de glorie colonială, Rufisque a fost principalul port de export pentru arahide, motorul economiei senegaleze, fapt care a dus la construirea unor depozite și clădiri administrative impunătoare în stil colonial, care pot fi văzute și astăzi în cartierul vechi. În prezent, orașul s-a transformat dintr-un centru comercial într-unul industrial, găzduind SOCOCIM, cea mai mare fabrică de ciment din Africa de Vest. Deși urbanizarea rapidă și eroziunea costieră reprezintă provocări majore pentru conservarea patrimoniului său, Rufisque rămâne un martor esențial al istoriei economice a Africii de Est și un punct logistic vital între Dakar și restul țării.",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Rufisque wurde im 16. Jahrhundert als portugiesischer Posten 'Rio Fresco' bekannt.", "Sie erhielt 1880 den Status einer französischen Kommune.", "Die Stadt war bis in die 1920er Jahre das Zentrum des Erdnusshandels.", "Hier befindet sich das Stadion Ngalandou Diouf.", "Rufisque liegt etwa 25 Kilometer von Dakar entfernt.", "Die SOCOCIM-Fabrik ist einer der größten Arbeitgeber der Region.", "Der Name leitet sich vom portugiesischen Begriff für 'Frisches Wasser' ab.", "Historische Lagerhäuser prägen noch immer das Stadtbild am Ufer."],
+      hu: ["A város egykor a 'Négy Kommün' egyike volt Szenegálban.", "Fontos mogyoróexportáló kikötő volt a 19. században.", "Itt található Nyugat-Afrika legnagyobb cementgyára.", "A város alapítása a 16. századi portugál jelenlétig nyúlik vissza.", "Dakar keleti kapujaként tartják számon.", "Híres a gyarmati stílusú kereskedőházairól (lebou stílus).", "A klímaváltozás miatti tengerszint-emelkedés fenyegeti a partjait."],
+      ro: ["Numele orașului derivă din portughezul „Rio Fresco”, însemnând râu proaspăt.", "În 1880, a primit statutul de comună franceză cu drepturi depline.", "Până în anii 1920, a dominat piața mondială de export al arahidelor.", "Găzduiește fabrica de ciment SOCOCIM, un pilon industrial național.", "Orașul este renumit pentru arhitectura sa colonială și casele Lebou.", "Se află la doar 25 de kilometri est de centrul capitalei Dakar.", "Stadionul Ngalandou Diouf este centrul vieții sportive locale.", "Eroziunea mării amenință structurile istorice de pe linia țărmului."],
+      en: []
+    }
+  },
   {
     id: "kaolack-cities-v2",
     type: "city",
@@ -139,12 +177,30 @@ export const poiExtraSenegalCitiesV2: POI[] = [
       hu: "Jelentős kikötő a Saloum folyón, valamint az ország földimogyoró- és sóiparának legfontosabb kereskedelmi központja.",
       ro: "Un port important pe râul Saloum și principalul centru comercial pentru industria arahidelor și sării din țară.",
       en: "A major port on the Saloum River and the main commercial center for the country's peanut and salt industry."
+    },,
+    descriptionAdvanced: {
+      en: "Kaolack is a major regional capital located on the Saloum River, approximately 190 kilometers southeast of Dakar. It serves as Senegal's primary hub for the peanut industry and salt production, thanks to its strategic position and river port. The city is also a significant center for the Tijaniyya Sufi order, centered around the massive mosque in the Medina Baye neighborhood. Kaolack's central market is one of the largest and busiest in West Africa, reflecting its role as a crossroads for trade between Senegal and neighboring Gambia. Geography K8 - Agricultural trade."
     },
-    facts: {
+    factsAdvanced: {
+      en: ["Located on the north bank of the Saloum River.", "Primary center for peanut processing and export in Senegal.", "Salt is harvested from extensive salt flats nearby.", "Home to the Medina Baye Mosque, a major Sufi pilgrimage site.", "Host to one of West Africa's largest covered markets.", "Founded on the site of the historic Kingdom of Saloum.", "Key transport hub connecting Dakar to southern Senegal and Gambia."]
+    }
+  }    facts: {
       de: ["Das Zentrum des senegalesischen Erdnussbeckens.", "Besitzt riesige Salzgewinnungsanlagen."],
       hu: ["A szenegáli mogyorómedence központja.", "Hatalmas sólepárlókkal rendelkezik."],
       ro: ["Centrul bazinului de arahide din Senegal.", "Are facilități uriașe de extracție a sării."],
       en: ["The center of the Senegalese peanut basin.", "Features massive salt extraction facilities."]
-    }, image: "/poi-images/kaolack-cities-v2.webp"}
+    }, image: "/poi-images/kaolack-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Kaolack liegt am Fluss Saloum und ist das pulsierende Herz des senegalesischen Erdnussgürtels. Als bedeutender Flusshafen und Handelszentrum spielt die Stadt eine Schlüsselrolle in der nationalen Wirtschaft, insbesondere bei der Verarbeitung und dem Export von Erdnüssen und Salz. Kaolack ist zudem ein bedeutendes religiöses Zentrum, da sie die Heimat der Medina Baye ist, eines der wichtigsten Viertel für die Anhänger der Tijaniyya-Bruderschaft weltweit. Die Große Moschee von Kaolack mit ihren blauen Minaretten ist ein weithin sichtbares Wahrzeichen. Die Stadt ist für ihre lebhaften Märkte bekannt, auf denen Waren aus ganz Westafrika gehandelt werden. Trotz ihrer wirtschaftlichen Bedeutung steht Kaolack vor Herausforderungen durch Versalzung und Umweltbelastung im Saloum-Delta. Sachkunde K6 — Rohstoffwirtschaft und Handel.",
+      hu: "Kaolack Szenegál központi részén, a Saloum-folyó partján fekszik, és az ország mezőgazdasági motorjának, a földimogyoró-termelésnek a központja. A város fontos folyami kikötővel rendelkezik, ahonnan nagy mennyiségű sót és mogyorótermékeket szállítanak külföldre. Kaolack spirituális jelentősége is óriási, mivel a Tijaniyya szúfi rend egyik legfontosabb központja, különösen a Medina Baye negyed, amely hívőket vonz egész Nyugat-Afrikából. A város piaca Szenegál egyik legnagyobb és legforgalmasabb kereskedelmi helyszíne. Bár a város környezeti problémákkal küzd, mint a só felhalmozódása és a hőség, gazdasági és vallási súlya vitathatatlan a régióban.",
+      ro: "Kaolack, situat pe malul râului Saloum, este inima economică și religioasă a regiunii centrale a Senegalului, fiind adesea numit capitala „bazinului de arahide”. Orașul a servit istoric ca un port fluvial strategic pentru exportul culturilor agricole și al sării extrase din salinele imense din apropiere. Dincolo de importanța sa comercială, Kaolack este un punct de referință spiritual global, găzduind cartierul Medina Baye, sediul ramurii Niassene a frăției Tijaniyya, fondată de șeicul Ibrahima Niass. Marea Moschee din Kaolack, cu minaretele sale albastre, este una dintre cele mai mari și mai frumoase din Africa de Vest, atrăgând anual mii de pelerini din întreaga lume. Piața orașului este renumită pentru vitalitatea sa, fiind un loc unde se întâlnesc comercianți din tot Sahelul pentru a vinde textile colorate, cereale și produse artizanale. Deși se confruntă cu temperaturi extrem de ridicate și provocări legate de salinitatea solului, Kaolack rămâne un centru vital de tranzit și cultură în inima țării.",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Kaolack beherbergt den größten überdachten Markt Westafrikas.", "Die Stadt ist das Zentrum der senegalesischen Salzgewinnung.", "Hier befindet sich die heilige Stätte Medina Baye von Ibrahima Niass.", "Der Hafen liegt etwa 100 Kilometer landeinwärts am Saloum-Fluss.", "Kaolack ist ein wichtiger Verkehrsknotenpunkt für Reisen nach Gambia.", "Die Region produzierte über ein Drittel der senegalesischen Erdnussernte.", "Die Große Moschee wurde in den 1930er Jahren begonnen.", "Kaolack hat eines der heißesten Klimata im Senegal."],
+      hu: ["A Saloum-folyó tölcsértorkolatánál fekvő folyami kikötő.", "A szenegáli földimogyoró-medence gazdasági központja.", "A Medina Baye mecset az egyik legnagyobb az országban.", "Fontos sólepárló telepek találhatók a város környékén.", "A város piaca híres színes textiljeiről és fűszereiről.", "Évente zarándokok tízezrei látogatják vallási ünnepeit.", "Kaolack a transz-gambiai kereskedelmi útvonal kulcspontja."],
+      ro: ["Găzduiește una dintre cele mai mari piețe acoperite din întreaga Africă de Vest.", "Este centrul principal de producție și prelucrare a arahidelor din Senegal.", "Regiunea este responsabilă pentru o mare parte din producția de sare a țării.", "Cartierul Medina Baye este un centru mondial pentru frăția Tijaniyya.", "Orașul are unul dintre cele mai fierbinți climate din întreaga regiune Sahel.", "Portul fluvial se află la aproximativ 100 km în amonte de Oceanul Atlantic.", "Marea Moschee a fost începută în anii 1930 de Ibrahima Niass.", "Este un nod rutier esențial pentru călătoriile spre Gambia și Casamance."],
+      en: []
+    }
+  }
 ];
-

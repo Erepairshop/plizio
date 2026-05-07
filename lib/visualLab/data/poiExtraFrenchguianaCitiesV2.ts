@@ -12,7 +12,22 @@ export const poiExtraFrenchguianaCitiesV2: POI[] = [
       hu: "Cayenne",
       ro: "Cayenne",
       en: "Cayenne"
+    ,
+    descriptionAdvanced: {
+      de: "Cayenne ist die pulsierende Hauptstadt der französischen Überseeregion und vereint auf einzigartige Weise europäische Einflüsse mit kreolischer Lebensart. Die Stadt liegt malerisch auf einer Halbinsel, umgeben vom breiten Mündungsbereich des Flusses Cayenne und den weiten Gewässern des Atlantiks. Besucher werden von farbenfrohen Gebäuden im Kolonialstil und lebendigen Märkten angezogen, auf denen exotische Gewürze und tropische Früchte die Sinne betören. Die bewegte Geschichte des Ortes ist in der Architektur und an den historischen Monumenten ablesbar, die an die Kolonialzeit erinnern. Heute fungiert Cayenne als kulturelles und administratives Zentrum, das einen faszinierenden Einblick in den Alltag dieser Region bietet. Dank der unmittelbaren Nähe zum dichten Amazonas-Regenwald ist die Stadt zudem ein idealer Ausgangspunkt für Entdeckungsreisen in die atemberaubende Biodiversität. Földrajz K7 — Küstengeografie und regionale Knotenpunkte.",
+      hu: "Cayenne, Francia Guyana vibráló fővárosa, ahol az európai gyarmati történelem találkozik a kreol életérzéssel. A város egy félszigeten fekszik, amelyet az Atlanti-óceán és a Cayenne folyó torkolata ölel körül, lenyűgöző panorámát nyújtva. A színes, koloniális stílusú épületek és a pezsgő piacok, ahol egzotikus gyümölcsök és fűszerek illata terjeng, egyedülálló atmoszférát teremtenek. A város történelmi jelentőségét a jól megőrzött emlékhelyek és épületek igazolják, amelyek a gyarmati korszakba engednek betekintést. Ma Cayenne nemcsak közigazgatási, hanem kulturális központ is, amely ideális kiindulópont az Amazonas esőerdőinek megismeréséhez. Földrajz K7 — tengerparti földrajz és regionális központok.",
+      ro: "Cayenne este capitala vibrantă a Guyanei Franceze, un amestec unic de arhitectură colonială franceză și influențe culturale creole. Orașul este situat pe o peninsulă strategică între estuarul râului Cayenne și Oceanul Atlantic, fiind centrul administrativ și cultural principal al regiunii. Vizitatorii pot explora piețele sale colorate, pline de condimente tropicale, și monumentele istorice care povestesc despre trecutul colonial al teritoriului. Datorită proximității față de pădurea amazoniană, Cayenne servește drept poartă ideală pentru explorarea biodiversității impresionante a Guyanei. Földrajz K7 — geografia coastelor și hub-uri regionale."
     },
+    factsAdvanced: {
+      ro: ["Fondat oficial în anul 1643 de către coloniști francezi.", "Cayenne găzduiește sediile administrative ale departamentului.", "Orașul este cunoscut pentru arhitectura sa colonială bine conservată.", "Situat strategic la estuarul râului Cayenne, pe coasta Atlanticului.", "Este poarta principală de acces către jungla amazoniană din regiune.", "Piața centrală este cel mai bun loc pentru a experimenta gastronomia locală."]
+    },
+    factsAdvanced: {
+      hu: ["A várost 1643-ban alapították francia telepesek egy stratégiai jelentőségű félszigeten.", "Cayenne Francia Guyana legfontosabb kulturális és gazdasági központja.", "A város építészetében jellegzetes a klasszikus gyarmati stílus és a kreol elemek ötvözete.", "Földrajzi elhelyezkedése a folyótorkolatnál kulcsfontosságúvá teszi a régió kereskedelmében.", "A város az Amazonas esőerdei irányába induló expedíciók fő kapuja.", "Lakossága kulturálisan rendkívül sokszínű, tükrözve a régió történelmi gyökereit."]
+    },
+    factsAdvanced: {
+      de: ["Die Stadt wurde 1643 von französischen Kolonisten auf einer Halbinsel gegründet.", "Cayenne dient heute als wichtigstes kulturelles und wirtschaftliches Zentrum des gesamten Übersee-Departements.", "Die lokale Architektur besticht durch eine markante Mischung aus klassischen Kolonialstilen und kreolisch geprägten Elementen.", "Durch die geographische Lage am Ästuar ist Cayenne ein zentraler Knotenpunkt für den Handel.", "Der Ort fungiert als das primäre Tor für Expeditionen in die unberührten Regenwaldgebiete der Umgebung."]
+    }
+  },
     description: {
       de: "Das größte Verwaltungszentrum und die Hauptstadt der Region, bekannt für ihre lebendige kreolische Kultur und historische Kolonialarchitektur. Es ist wunderschön an der Atlantikküste gelegen und bietet einen malerischen Blick auf den Ozean.",
       hu: "Cayenne területén a régió legnagyobb közigazgatási központja és fővárosa, amely pezsgő kreol kultúrájáról és történelmi gyarmati építészetéről ismert. Gyönyörűen helyezkedik el az Atlanti-óceán partvidékén, festői kilátást nyújtva az óceánra.",
@@ -77,7 +92,22 @@ export const poiExtraFrenchguianaCitiesV2: POI[] = [
       hu: "Saint-Laurent-du-Maroni",
       ro: "Saint-Laurent-du-Maroni",
       en: "Saint-Laurent-du-Maroni"
+    ,
+    descriptionAdvanced: {
+      de: "Saint-Laurent-du-Maroni liegt direkt am Ufer des Grenzflusses Maroni und ist geschichtlich eng mit der Ära der Strafkolonien verbunden. Die Stadt bewahrt heute noch beeindruckende koloniale Gebäude, die einst Teil des Verwaltungssystems für die Deportation nach Französisch-Guayana waren. Das Klima ist tropisch heiß, und die Lage am Fluss macht den Ort zu einem wichtigen Handelsplatz zwischen Französisch-Guayana und dem Nachbarland Suriname. Ein Spaziergang durch das Stadtzentrum offenbart die koloniale Vergangenheit, während die umliegende Natur zu Abenteuern auf dem Wasser einlädt. Saint-Laurent hat sich zu einer bedeutenden, wachsenden Stadt entwickelt, die einen authentischen Einblick in das Leben am Rande des großen Regenwaldes bietet. Geschichte K8 — Kolonialgeschichte und das Strafsystem im 19. Jahrhundert.",
+      hu: "Saint-Laurent-du-Maroni a Maroni folyó partján fekszik, Suriname határán, és a régió történetének egyik leginkább sötét, ám történelmileg jelentős korszakát, a büntetőtelepek idejét őrzi. A város legfőbb látnivalója a 'Camp de la Transportation', amely egy kiválóan konzervált egykori fegyház, ahol a deportáltak mindennapjait ismerhetik meg az idelátogatók. A település egy igazi multikulturális olvasztótégely, ahol indián, maroon és modern közösségek élnek együtt. A jól megőrzött koloniális építészet és a buja, trópusi folyóparti környezet kontrasztja teszi különlegessé ezt a várost, amely ma fontos bázis az Amazonas mélyebb részeinek felfedezéséhez. Történelem K8 — gyarmati börtönrendszerek és határ menti régiók.",
+      ro: "Saint-Laurent-du-Maroni este un oraș istoric situat pe malul stâng al râului Maroni, care marchează granița naturală cu Suriname. Orașul este celebru în întreaga lume pentru situl \"Camp de la Transportation\", o fostă colonie penală impresionant de bine conservată, care atestă o perioadă dificilă din istoria colonială franceză. Astăzi, localitatea este un centru multicultural vibrant, unde diverse comunități etnice, inclusiv maronii și populațiile indigene, trăiesc într-o armonie dinamică. Arhitectura colonială se împletește perfect cu vegetația tropicală luxuriantă, oferind vizitatorilor o experiență autentică la marginea pădurii amazoniene. Istorie K8 — sisteme coloniale de închisoare și regiuni de frontieră."
     },
+    factsAdvanced: {
+      ro: ["A servit drept centru principal de primire pentru sistemul penitenciar francez.", "Camp de la Transportation este una dintre cele mai bine conservate închisori coloniale.", "Poziția sa pe râul Maroni îl face un nod important de schimburi comerciale transfrontaliere.", "Comunitatea locală prezintă o diversitate etnică remarcabilă.", "Saint-Laurent este al doilea oraș ca mărime din Guyana Franceză.", "Arhitectura sa păstrează amprenta administrativă colonială a secolului al XIX-lea."]
+    },
+    factsAdvanced: {
+      hu: ["A város történelmileg a francia büntetőtelep-rendszer egyik fő fogadóállomásaként szolgált.", "A 'Camp de la Transportation' az egyik legjobban megőrzött koloniális börtön a világon.", "Stratégiai elhelyezkedése a Maroni folyónál fontos kereskedelmi útvonallá teszi.", "A közösség rendkívül etnikailag sokszínű, erős bennszülött hatásokkal.", "Saint-Laurent Francia Guyana második legnagyobb városa.", "Ma kulcsfontosságú központ a Francia Guyana és Suriname közötti kereskedelemben."]
+    },
+    factsAdvanced: {
+      de: ["Die Stadt wurde 1858 als zentrales Verwaltungszentrum für die Strafkolonie gegründet.", "Der Grenzfluss Maroni trennt die Stadt von Albina in Suriname.", "Das 'Camp de la Transportation' ist eine der bekanntesten historischen Stätten des ehemaligen Strafvollzugs.", "Saint-Laurent ist heute die zweitgrößte Stadt von Französisch-Guayana.", "Der Handel über den Fluss ist ein zentraler wirtschaftlicher Faktor für die lokale Bevölkerung.", "Die Architektur zeugt noch heute von der ehemaligen administrativen Bedeutung der Kolonialmacht."]
+    }
+  },
     description: {
       de: "Eine geschichtsträchtige Stadt am Fluss Maroni, bekannt für ihre ehemalige Strafkolonie und ihre lebendige, multikulturelle Atmosphäre.",
       hu: "Történelmi város a Maroni folyó mentén, amely egykori büntetőtelepéről és élénk, multikulturális hangulatáról ismert.",

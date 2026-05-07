@@ -40,7 +40,20 @@ export const poiExtraNicaraguaLandmarksV2: POI[] = [
         "Houses the mausoleum of Carlos Fonseca.",
         "Located near the National Palace."
       ]
-    }, image: "/poi-images/ni-plaza-revolucion-landmarks-v2.webp"},
+    }, image: "/poi-images/ni-plaza-revolucion-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Plaza de la Revolución ist das weitläufige historische Herz der nicaraguanischen Hauptstadt Managua. Vor dem Erdbeben von 1972 war dies das geschäftige Zentrum (damals Plaza de la República), umgeben von Hotels und Geschäften. Heute ist der große Platz ein weitgehend offener Raum, flankiert von den drei monumentalen Überlebenden des Bebens: der Alten Kathedrale, dem Nationalpalast der Kultur und dem Casa de los Pueblos. Seinen heutigen Namen erhielt der Platz, als die Sandinisten hier am 20. Juli 1979 vor hunderttausenden jubelnden Menschen den endgültigen Triumph über die Somoza-Diktatur feierten. Ein zentrales Element ist das Mausoleum mit den sterblichen Überresten von Carlos Fonseca Amador, dem Gründer der FSLN, bewacht von einer \"Ewigen Flamme\". Architektur K7 — Urbane Transformation und politische Zentren.",
+      hu: "A Forradalom tere (Plaza de la Revolución) Managua történelmi és politikai szíve. Eredetileg Köztársaság térnek hívták, és a spanyol gyarmati idők óta a város központja volt. A tér a történelem viharainak lenyomata: túlélt katasztrofális földrengéseket (1931, 1972) és a forradalmi harcokat. A teret olyan ikonikus, monumentális épületek veszik körül, mint a Régi Katedrális, a Nemzeti Palota (ma Kulturális Palota) és a Rubén Darío Nemzeti Színház. A tér közepén található Carlos Fonseca Amador, a sandinista forradalom ideológusának mauzóleuma. Földrajz K6 — fővárosi terek és nemzeti szimbólumok.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Das historische, politische und kulturelle Zentrum von Managua.", "Umgeben von der Alten Kathedrale, dem Nationalpalast und dem Rubén-Darío-Park.", "Ort der massiven Siegesfeier der Sandinisten am 20. Juli 1979.", "Beherbergt das Mausoleum des FSLN-Gründers Carlos Fonseca und des Guerillaführers Tomás Borge.", "In der Mitte brennt die \"Ewige Flamme\" (Llama Eterna) in Erinnerung an die gefallenen Helden.", "Vor 1972 hieß der Platz \"Plaza de la República\" und war von dichten Häuserblocks umgeben."],
+      hu: ["Az 1972-es földrengés a tér körüli épületek nagy részét romba döntötte, kivéve a Nemzeti Palotát és a Színházat.", "1979 júliusában a győztes sandinista csapatok ezen a téren ünnepelték a Somoza-diktatúra megdöntését.", "Carlos Fonseca Amador örökmécsese a tér közepén lévő parkosított részben ég.", "A teret az 1990-es évek végén ideiglenesen 'Plaza de la República'-ra nevezték vissza, majd ismét Forradalom tere lett.", "A tér keleti oldalán található a Parque Central (Központi Park), tele zenepavilonokkal.", "A terület gyakran ad otthont hatalmas politikai gyűléseknek és nemzeti ünnepeknek."],
+      ro: [],
+      en: []
+    }
+  },
   {
     id: "ni-monumento-ruben-dario-landmarks-v2",
     type: "landmark",
@@ -79,7 +92,20 @@ export const poiExtraNicaraguaLandmarksV2: POI[] = [
         "Depicts the poet in a boat surrounded by angels and a muse.",
         "It survived the devastating earthquake of 1972."
       ]
-    }, image: "/poi-images/ni-monumento-ruben-dario-landmarks-v2.webp"},
+    }, image: "/poi-images/ni-monumento-ruben-dario-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Denkmal für Rubén Darío (Monumento a Rubén Darío) in Managua ist die kunstvollste und ehrwürdigste Hommage an den größten Literaten Nicaraguas. Das aus schneeweißem Carrara-Marmor gefertigte und 1933 enthüllte Monument steht inmitten eines Springbrunnens im Parque Central, angrenzend an den Nationalpalast. Im Zentrum der Anlage thront die lebensgroße Statue des Dichters in einem Boot, gestützt von Allegorien seiner berühmtesten Gedichte – darunter der ikonische Zentaur und Schwäne. Es überstand das verheerende Erdbeben von 1972 fast unbeschadet und symbolisiert für die Nicaraguaner die Unzerstörbarkeit ihrer Kultur und Poesie in einem ansonsten von Katastrophen gebeutelten Land. Kunstgeschichte K7 — Nationale Denkmäler und allegorische Bildhauerei.",
+      hu: "A Rubén Darío emlékmű egy grandiózus fehér márvány emlékmű Managuában, a Managua-tó partján elterülő történelmi parkban (Parque Central). Az 1933-ban felavatott szoborcsoportot az olasz Mario Favilli tervezte, és a nicaraguai nemzet tiszteletét fejezi ki a világirodalom egyik legnagyobb költője iránt. A központi talapzaton a költő szobra áll egy hattyú társaságában, ami a modernista irodalmi mozgalom egyik fő szimbóluma, és Darío műveire utal. A szobrot allegorikus alakok és vízköpők veszik körül, amelyek a költészetet és a művészetet jelképezik. Történelem K6 — nemzeti emlékművek és irodalmi szimbólumok.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Erbaut aus feinstem Carrara-Marmor und offiziell im Jahr 1933 enthüllt.", "Erschaffen vom italienischen Bildhauer Mario Favilli.", "Die Statue des Dichters Rubén Darío wird von Schwänen und einem Zentauren (aus seinen Gedichten) flankiert.", "Das Denkmal überstand das schwere Managua-Erdbeben von 1972 fast vollkommen unversehrt.", "Liegt im Parque Central de Managua, direkt neben der Plaza de la Revolución.", "Darío trägt auf dem Denkmal einen Lorbeerkranz, ein antikes Symbol für poetische Unsterblichkeit."],
+      hu: ["Az emlékművet az 1931-es managuai földrengés után emelték, mint a város újjáéledésének jelképét.", "A szoborhoz felhasznált Carrara-márványt közvetlenül Olaszországból hajózták be.", "A talapzaton a 'A Rubén Darío, Nicaragua' felirat olvasható.", "A szoborcsoport alatti medencét egykor zenélő szökőkút díszítette.", "Az 1972-es földrengés komoly károkat okozott az emlékműben, amit később restauráltak.", "Közvetlen szomszédságában található a Rubén Darío Nemzeti Színház épülete."],
+      ro: [],
+      en: []
+    }
+  },
   {
     id: "ni-teatro-nacional-ruben-dario-landmarks-v2",
     type: "landmark",
@@ -118,7 +144,20 @@ export const poiExtraNicaraguaLandmarksV2: POI[] = [
         "One of the few large buildings to survive the 1972 earthquake.",
         "The New York Times once praised its exceptional acoustics."
       ]
-    }, image: "/poi-images/ni-teatro-nacional-ruben-dario-landmarks-v2.webp"},
+    }, image: "/poi-images/ni-teatro-nacional-ruben-dario-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Teatro Nacional Rubén Darío am Ufer des Managuasees ist das wichtigste und prestigeträchtigste Zentrum für darstellende Künste in Nicaragua. Es wurde 1969 eingeweiht, nachdem eine jahrelange Spendenkampagne (geführt von Hope Portocarrero, der Ehefrau des Diktators Somoza Debayle) die Gelder beschafft hatte. Das Gebäude ist ein Meisterwerk der modernistischen Architektur und der Antisismik-Technik: Es war eines der wenigen hohen Gebäude in Managua, das das katastrophale Erdbeben von 1972 dank tief im Boden verankerter Schwingungsdämpfer unbeschadet überstand. Der Hauptsaal, berühmt für seine außergewöhnliche Akustik und die riesigen Kristallkronleuchter im Foyer, beherbergt bis heute Ballettaufführungen, Sinfonieorchester und internationale Theaterstücke. Architektur K8 — Modernistische Antisismik und Nationalkultur.",
+      hu: "A Rubén Darío Nemzeti Színház (Teatro Nacional Rubén Darío) Latin-Amerika egyik legkiválóbb akusztikájú, modernista stílusú színházépülete Managuában. Az 1969-ben megnyitott épület Hope Portocarrero, Somoza feleségének kezdeményezésére épült. Az épület leginkább arról híres, hogy szinte sértetlenül vészelte át a várost romba döntő 1972-es földrengést, köszönhetően az amerikai és japán mérnökök által tervezett fejlett, földrengésbiztos (szeizmikus) alapozásnak. A színház ma a nicaraguai előadó-művészet, koncertek és balettelőadások központja, lenyűgöző kristálycsillárokkal díszített belső terekkel. Földrajz K8 — földrengésbiztos építészet és kulturális intézmények.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Offiziell am 6. Dezember 1969 eröffnet, gilt es als eines der besten Theater in Lateinamerika.", "Entworfen von den Architekten José Francisco Terán und Eduardo Chamorro Coronel.", "Dank innovativer japanischer Antisismik-Technologie überstand es das Erdbeben von 1972 schadlos.", "Die Akustik des Hauptsaals (1.200 Plätze) wird von Experten weltweit gelobt.", "Das riesige Foyer (Salón de los Cristales) wird von enormen spanischen Kristallkronleuchtern erhellt.", "Diente nach dem Erdbeben kurzzeitig als Notunterkunft und Versammlungsort."],
+      hu: ["A színházat egy amerikai építésziroda, a Dambach & Associates tervezte.", "A Nagyterem (Sala Mayor) akusztikáját úgy tervezték, hogy vetekedjen a világ legjobb koncerttermeivel.", "A megnyitón a New York-i Filharmonikusok léptek fel.", "Az épület alapzatát hatalmas gumi- és acélhengereken (szeizmikus izolátorok) nyugtatják.", "Az épület homlokzatát letisztult, ablak nélküli fehér márványpanelek borítják.", "A Folyosó (Lobby) hatalmas csillárjait cseh kristályból készítették."],
+      ro: [],
+      en: []
+    }
+  },
   {
     id: "ni-catedral-de-leon-landmarks-v2",
     type: "landmark",
@@ -157,7 +196,20 @@ export const poiExtraNicaraguaLandmarksV2: POI[] = [
         "Construction took over 100 years (1747 to 1860).",
         "Houses the tomb of the poet Rubén Darío."
       ]
-    }, image: "/poi-images/ni-catedral-de-leon-landmarks-v2.webp"},
+    }, image: "/poi-images/ni-catedral-de-leon-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Basílica Catedral de la Asunción in León ist das majestätischste religiöse Gebäude in ganz Mittelamerika und wurde 2011 zum UNESCO-Weltkulturerbe erklärt. Die Konstruktion dieses massiven, blendend weißen Bauwerks dauerte von 1747 bis 1814. Sie vereint eine robuste Barockarchitektur mit elegantem Neoklassizismus und dicken Mauern, die es ihr ermöglichten, Vulkaneruptionen, Kriege und Erdbeben zu überstehen. Weltweit berühmt ist ihr weitläufiges, begehbares strahlend weißes Kuppeldach, das an die Architektur des Mittelmeerraums erinnert und einen spektakulären Blick auf die Vulkankette Maribios bietet. Im Inneren, unter den Gewölben, ruhen die sterblichen Überreste des Nationaldichters Rubén Darío unter einer beeindruckenden Skulptur eines weinenden Löwen. Architektur K8 — UNESCO-Weltkulturerbe und koloniales Ingenieurwesen.",
+      hu: "A Leóni Katedrális (Insigne y Real Basílica Catedral de la Asunción de la Bienaventurada Virgen María) Közép-Amerika legnagyobb és legfontosabb egyházi épülete, amely 2011 óta az UNESCO Világörökség része. Az építését 1747-ben kezdték és több mint egy évszázadig tartott. Az épület a barokk és a neoklasszicista stílus monumentális keveréke, melynek különlegessége a zömök, széles alaprajz, amit a gyakori földrengések miatt terveztek így. A hófehérre meszelt kupolás tetőn sétálva a látogatók a város és a környező vulkánok lenyűgöző panorámájában gyönyörködhetnek. Történelem K8 — világörökségi helyszínek és gyarmati építészet.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Die größte und wichtigste Kathedrale in Mittelamerika, Bauzeit von 1747 bis 1814.", "Wurde im Jahr 2011 offiziell als UNESCO-Weltkulturerbe (Patrimonio de la Humanidad) anerkannt.", "Der Nationaldichter Rubén Darío ist hier unter einer massiven Löwenskulptur begraben.", "Das strahlend weiße, von Kuppeln geprägte Dach ist für Touristen begehbar.", "Besitzt extrem dicke, erdbebensichere Wände und tiefe unterirdische Tunnel (Katakomben).", "In der Kathedrale liegt auch der Komponist José de la Cruz Mena begraben."],
+      hu: ["A katedrális kriptáiban nyugszik Rubén Darío (egy szomorú oroszlán szobra alatt) és más neves nicaraguaiak.", "A falak helyenként több mint három méter vastagok a földrengések elleni védelem miatt.", "A tetőzetet borító több mint 30 kupola a természetes fényt engedi be a hatalmas belső térbe.", "Egy helyi legenda szerint a terveket eredetileg a limai (Peru) katedrális számára készítették, de a tekercseket összecserélték.", "A főoltár ezüstből készült, spanyol és perui mesterek munkája.", "Az épület alatt állítólag egy máig feltáratlan alagútrendszer húzódik."],
+      ro: [],
+      en: []
+    }
+  },
   {
     id: "ni-ruinas-leon-viejo-landmarks-v2",
     type: "landmark",
@@ -196,7 +248,20 @@ export const poiExtraNicaraguaLandmarksV2: POI[] = [
         "Abandoned in 1610 following the eruption of the Momotombo volcano.",
         "A UNESCO World Heritage site since 2000."
       ]
-    }, image: "/poi-images/ni-ruinas-leon-viejo-landmarks-v2.webp"},
+    }, image: "/poi-images/ni-ruinas-leon-viejo-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Ruinen von León Viejo (Ruinas de León Viejo), gelegen am Ufer des Managuasees im Departement León, sind ein faszinierendes Fenster in die früheste spanische Kolonisationsgeschichte Amerikas. 1524 von Francisco Hernández de Córdoba gegründet, war die Stadt eines der ersten wirtschaftlichen Zentren in Zentralamerika. Sie wurde jedoch immer wieder von katastrophalen Ausbrüchen des nahen Vulkans Momotombo und schweren Erdbeben heimgesucht, weshalb die Einwohner die Stadt 1610 aufgaben und das heutige León weiter westlich gründeten. Die vom Vulkansand verschütteten Ruinen wurden erst 1967 wiederentdeckt. Heute sind die freigelegten Grundmauern der alten Kathedrale und des Gouverneurspalastes im Jahr 2000 zum UNESCO-Weltkulturerbe ernannt worden. Geschichte K8 — Vulkankatastrophen und koloniale Archäologie.",
+      hu: "León Viejo romjai (Ruinas de León Viejo) az ország egyik legfontosabb történelmi helyszíne, a Momotombo vulkán lábánál, a Managua-tó partján. Ez a spanyolok által 1524-ben alapított város volt Nicaragua első fővárosa. A várost 1610-ben a vulkán kitörése és a folyamatos földrengések miatt a lakosok elhagyták, majd évszázadokra betemette a vulkáni hamu (hasonlóan az olaszországi Pompejihez). Az 1960-as években feltárt romok megőrizték a kora gyarmati várostervezés pontos (sakktábla) alaprajzát. Az UNESCO 2000-ben Világörökségi helyszínné nyilvánította. Történelem K7 — kora gyarmati várostervezés és vulkáni katasztrófák.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Die ursprüngliche Stadt León wurde 1524 am Ufer des Xolotlán (Managuasee) gegründet.", "Die Stadt wurde 1610 nach kontinuierlichen Erdbeben des Vulkans Momotombo aufgegeben.", "Wurde im Jahr 2000 als eine der ältesten spanischen Siedlungen zum UNESCO-Weltkulturerbe erklärt.", "Unter den Ruinen wurden die enthaupteten Überreste des Stadtgründers Hernández de Córdoba gefunden.", "Die Ruinen blieben über 350 Jahre unter Vulkansand begraben, bevor sie 1967 entdeckt wurden.", "Das Ausgrabungsgelände ermöglicht Studien über die städtebauliche Rasterplanung des 16. Jahrhunderts."],
+      hu: ["Francisco Hernández de Córdoba, Nicaragua alapítója hozta létre a várost.", "A romok között tárták fel Córdoba és Pedrarias Dávila kormányzó sírját is 2000-ben.", "A vulkáni hamu kitűnően konzerválta az eredeti vályogtégla (adobe) alaprajzokat.", "A város egykor Közép-Amerika egyik legfontosabb rabszolga-kereskedelmi központja volt Peru felé.", "León Viejót a lakosok szervezetten, a vagyonukat magukkal víve hagyták el, mielőtt teljesen elpusztult volna.", "A romokat a Managuai Nemzeti Egyetem hallgatói és régészei tárták fel."],
+      ro: [],
+      en: []
+    }
+  },
   {
     id: "ni-catedral-de-granada-landmarks-v2",
     type: "landmark",
@@ -235,7 +300,20 @@ export const poiExtraNicaraguaLandmarksV2: POI[] = [
         "Particularly notable for its yellow and red paintwork.",
         "The building features four chapels and impressive domes."
       ]
-    }, image: "/poi-images/ni-catedral-de-granada-landmarks-v2.webp"},
+    }, image: "/poi-images/ni-catedral-de-granada-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "Die strahlend gelbe Catedral de Nuestra Señora de la Asunción de Granada ist das absolute Wahrzeichen der ältesten Kolonialstadt auf dem amerikanischen Festland. Die ursprüngliche Kirche wurde im 16. Jahrhundert erbaut, aber wie fast ganz Granada 1856 durch die Truppen des US-Söldners William Walker bei seiner Flucht komplett niedergebrannt. Das heutige Gebäude im neoklassizistischen Stil wurde erst Ende des 19. Jahrhunderts entworfen und nach jahrzehntelanger Arbeit 1915 fertiggestellt. Mit ihren vier prächtigen Kapellen, den massiven Kuppeln und der dominanten Präsenz an der Ostseite des Parque Central ist die Kathedrale das am meisten fotografierte Bauwerk Nicaraguas und das spirituelle Herz der granadinischen Elite. Architektur K7 — Neoklassizismus und Wiederaufbau nach Zerstörung.",
+      hu: "A granadai katedrális (Catedral de Nuestra Señora de la Asunción) a város legikonikusabb épülete, melynek jellegzetes vörös-sárga (mustársárga) neoklasszicista homlokzata dominálja a központi teret. Az épület hosszú, tragikus történetet tudhat magáénak: eredetileg a 16. században épült kőből és fából, de az idők során kalózok pusztították, végül William Walker serege 1856-ban földig rombolta. A ma látható, masszív építmény újjáépítése az 1880-as években kezdődött olasz tervek alapján, és csak a 20. század elején fejeződött be. Földrajz K6 — városképi nevezetességek.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Das dominierende neoklassizistische Wahrzeichen der Stadt Granada am Parque Central.", "Der ursprüngliche Bau wurde 1856 von William Walkers Truppen vollständig niedergebrannt.", "Das heutige Gebäude wurde Ende des 19. Jahrhunderts entworfen und 1915 vollendet.", "Ihre markante gelbe und rote Fassade macht sie zum meistfotografierten Gebäude des Landes.", "Die Kathedrale verfügt über vier kleine flankierende Kapellen und eine große zentrale Kuppel.", "Die ursprüngliche Kirche von 1525 diente einst als erste Kathedrale des Landes."],
+      hu: ["A kupolát dróthálóból és cementből készítették az Egyesült Államokban, és darabokban hajózták be.", "Az újjáépítést egy olasz építész, Andrés Zapata irányította.", "Négy kápolnája van, amelyek a város tehetős családjainak adományából épültek.", "Az épület több mint 40 évig épült a forráshiányok miatt.", "A harangtornyokat csak 1915-ben fejezték be.", "A homlokzaton négy fülke található, amelyek a négy evangélista szobrát rejtik."],
+      ro: [],
+      en: []
+    }
+  },
   {
     id: "ni-fortaleza-coyotepe-landmarks-v2",
     type: "landmark",
@@ -274,7 +352,20 @@ export const poiExtraNicaraguaLandmarksV2: POI[] = [
         "Site of the Battle of Coyotepe against US Marines in 1912.",
         "Political prisoners were held here during the Somoza dictatorship."
       ]
-    }, image: "/poi-images/ni-fortaleza-coyotepe-landmarks-v2.webp"},
+    }, image: "/poi-images/ni-fortaleza-coyotepe-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Festung Coyotepe, drohend auf einem steilen Hügel über der Stadt Masaya gelegen, ist eines der dunkelsten und blutigsten Wahrzeichen Nicaraguas. Ursprünglich 1893 erbaut, spielte die sternförmige Burg ihre wichtigste militärische Rolle 1912, als der nicaraguanische General Benjamín Zeledón hier heldenhaft, aber erfolglos gegen eine Übermacht angreifender US-Marineinfanteristen kämpfte. Später, unter der Diktatur der Somoza-Familie (1936-1979), wurde Coyotepe in ein furchterregendes politisches Gefängnis verwandelt. In den tiefen, stockfinsteren Kerkern unter der Festung wurden hunderte von Regimegegnern und Sandinisten brutal gefoltert. Heute führt der Ort als historisches Mahnmal Besuchern die Schrecken der Diktatur und der ausländischen Interventionen drastisch vor Augen. Geschichte K8 — Politische Gefängnisse und US-Interventionen.",
+      hu: "Az El Coyotepe erőd egy komor, csillag alaprajzú kőerőd a Coyotepe-domb tetején, Masaya városának határában. Anastasio Somoza García elnök építtette 1939-ben, elsősorban katonai megfigyelőpontként a stratégiai magaslaton (ahol az 1912-es csata is zajlott). Sötét hírnevét a Somoza-diktatúra alatt szerezte, amikor az erőd alatti, nedves és fényszegény alagutakban a Nemzeti Gárda politikai foglyok ezreit kínozta és tartotta fogva embertelen körülmények között. Az 1979-es forradalom után a sandinisták is használták az erődöt rabok őrzésére. Ma hátborzongató múzeum. Történelem K8 — diktatúrák és katonai erődítmények.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Erbaut 1893 auf einem strategischen Hügel, der den Verkehr zwischen Managua und Masaya überblickt.", "Schauplatz einer heftigen Schlacht im Jahr 1912 zwischen General Zeledón und US-Marines.", "Die Somoza-Diktatur nutzte die sternförmige Festung als berüchtigtes politisches Hochsicherheitsgefängnis.", "Das tief unter der Erde liegende Kerkersystem verfügte über völlige Dunkelheit und winzige Zellen.", "Während der Revolution 1979 lieferten sich Sandinisten und Nationalgarde hier erbitterte Artilleriegefechte.", "Heute kann das unheimliche unterirdische Gefängnissystem von Besuchern besichtigt werden."],
+      hu: ["Az erőd alatt három szinten futnak a sötét, boltíves alagutak.", "A legalsó cellaszint teljesen sötét, és a foglyok gyakran napokig nem láttak fényt.", "Az épület tervezésekor a hagyományos spanyol csillagerődök (bastion) formáját követték.", "1983 és 1990 között a sandinista kormány több száz 'kontra' gyanúsítottat tartott itt fogva.", "Jelenleg a helyi cserkészszövetség (Boy Scouts) kezeli és védi a műemléket.", "A dombról a Managua felé tartó főút is tökéletesen belátható."],
+      ro: [],
+      en: []
+    }
+  },
   {
     id: "ni-cruz-de-bobadilla-landmarks-v2",
     type: "landmark",
@@ -313,7 +404,20 @@ export const poiExtraNicaraguaLandmarksV2: POI[] = [
         "The Spaniards believed the volcanic crater was the 'Mouth of Hell'.",
         "The current cross is a reconstruction marking the ancient site."
       ]
-    }, image: "/poi-images/ni-cruz-de-bobadilla-landmarks-v2.webp"},
+    }, image: "/poi-images/ni-cruz-de-bobadilla-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Bobadilla-Kreuz (La Cruz de Bobadilla) steht als historisches Symbol auf der rauen Kraterlippe des extrem aktiven Vulkans Masaya (Santiago-Krater). Es wurde erstmals 1529 vom spanischen Mönch Francisco de Bobadilla aufgestellt. Die präkolumbianische indigene Bevölkerung verehrte den lavaspeienden Krater als Ort einer mächtigen Gottheit und warf bei Eruptionen Opfer (manchmal Menschen) hinein. Bobadilla, überzeugt davon, dass der glühende Krater der \"Schlund zur Hölle\" (Boca del Infierno) sei, errichtete das massive Holzkreuz, um die Dämonen zu exorzieren. Heute existiert das Kreuz als Nachbildung und ist der finale Aussichtspunkt für Touristen, die die aufsteigenden, ätzenden Schwefelgase und die Lava im Krater beobachten. Geschichte K7 — Kolonialer Exorzismus und indigener Vulkan-Kult.",
+      hu: "A Bobadilla keresztje (La Cruz de Bobadilla) egy történelmi emlékhely a Masaya-vulkán kráterének peremén. A krátert az őslakosok istenek lakhelyének tartották, és gyakran mutattak be emberáldozatokat az izzó lávatónak. 1529-ben egy spanyol domonkos rendi szerzetes, Francisco de Bobadilla egy hatalmas fakeresztet állított a kráter szélére, hogy \"elűzze az ördögöt\" a vulkánból (amelyet a spanyolok 'Boca del Infierno'-nak, a Pokol Szájának hívtak). Ma egy felújított vaskereszt áll az eredeti helyén, amelyhez egy rövid, de meredek lépcsősor vezet fel a Nemzeti Park területén. Történelem K6 — vallási hiedelmek és vulkánok.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Aufgestellt im Jahr 1529 durch den spanischen Ordensbruder Francisco de Bobadilla.", "Steht am Rand des extrem aktiven Santiago-Kraters des Vulkans Masaya.", "Sollte den Ort exorzieren, den die Spanier als den \"Schlund zur Hölle\" ansahen.", "Die Indigenen glaubten, dass in der Lava eine mächtige Hexe/Göttin lebte, die beschwichtigt werden musste.", "Das heutige Holzkreuz ist eine authentische Rekonstruktion an der historischen Stelle.", "Besucher müssen aufgrund der giftigen Schwefelgase die Zeit in der Nähe des Kreuzes begrenzen."],
+      hu: ["A krátert a spanyol hódítók a pokol bejáratának hitték a folyamatos füst és láva miatt.", "Bobadilla atya a kereszt felállítása után le is ereszkedett a kráterbe, hogy 'aranyat' (olvasztott kőzetet) hozzon fel.", "A jelenlegi fémkeresztet a 20. században emelték a korhadt fa helyébe.", "A kereszttől közvetlen rálátás nyílik a Santiago-kráter aktív, gőzölgő mélyére.", "A terület gyakran lezárják a látogatók elől erős vulkáni gázkibocsátás esetén.", "Az őslakosok a vulkánt 'Popogatepe'-nek (forró hegy) nevezték."],
+      ro: [],
+      en: []
+    }
+  },
   {
     id: "ni-cristo-misericordia-landmarks-v2",
     type: "landmark",
@@ -352,7 +456,20 @@ export const poiExtraNicaraguaLandmarksV2: POI[] = [
         "Built on the initiative of local businessman Erwin González.",
         "Opened to the public in 2009."
       ]
-    }, image: "/poi-images/ni-cristo-misericordia-landmarks-v2.webp"},
+    }, image: "/poi-images/ni-cristo-misericordia-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Statue des Cristo de la Misericordia (Christus der Barmherzigkeit) in San Juan del Sur ist das modernste und weithin sichtbarste Monument der nicaraguanischen Pazifikküste. Die 2008 vollendete Statue ragt auf der Klippe von Punta Jesús María 134 Meter über dem Meeresspiegel empor; die Statue selbst ist 24 Meter hoch und damit eine der größten Jesusstatuen der Welt (größer als das Vorbild in Rio de Janeiro). Errichtet vom lokalen Unternehmer Erwin Gonzalez, um ein Überlebensgelübde zu erfüllen, zieht das Monument heute Tausende von Touristen an. Der steile Aufstieg wird mit einem unvergleichlichen 360-Grad-Blick über die halbmondförmige Bucht von San Juan del Sur und den Pazifischen Ozean belohnt. Architektur K6 — Moderne Monumentalplastik und Küstentourismus.",
+      hu: "Az Irgalmasság Krisztusa (Cristo de la Misericordia) egy gigantikus, 24 méter magas Jézus-szobor, amely San Juan del Sur öblére néz le egy meredek dombtetőről. A Rio de Janeiro-i Megváltó Krisztushoz hasonlóan a szobor áldásra emelt karokkal áll, és az egyik legmagasabb ilyen jellegű szobor Közép-Amerikában. 2008-ban avatták fel, egy helyi üzletember (Erwin González) adományaként, aki csodás gyógyulását köszönte meg ezzel az emlékművel. A szoborhoz vezető meredek ösvény megmászása után lenyűgöző kilátás nyílik a Csendes-óceánra, a strandokra és a Costa Rica-i határ hegyeire. Földrajz K6 — vallási emlékművek és kilátópontok.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Mit 24 Metern Höhe (plus Sockel) eine der höchsten Jesusstatuen der Welt.", "Die Statue thront auf dem Hügel Punta Jesús María, 134 Meter über dem Pazifik.", "Wurde 2008 vom nicaraguanischen Unternehmer Erwin Gonzalez finanziert und eingeweiht.", "Die Statue besteht aus einer Stahlstruktur, die mit fast 3.000 Glasfaser-Paneelen verkleidet ist.", "Im Sockel der Statue befindet sich eine kleine, mit Klimaanlage ausgestattete Kapelle.", "Bietet den berühmtesten Panoramablick über die Bucht von San Juan del Sur."],
+      hu: ["A szobor talapzata 9 méter, maga az alak 15 méter magas.", "A szobrot több száz üvegszálas (fiberglass) panelből szerelték össze fémvázon.", "Súlya eléri a 134 tonnát, és erős óceáni szelek elviselésére tervezték.", "A talapzat belsejében egy kis kápolna található, amely Jézus életét bemutató festményekkel van díszítve.", "Erwin González, az építtető rákból való felépüléséért hálából finanszírozta a projektet.", "A szobrot Max Ulloa nicaraguai szobrászművész tervezte."],
+      ro: [],
+      en: []
+    }
+  },
   {
     id: "ni-iglesia-subtiava-landmarks-v2",
     type: "landmark",
@@ -391,7 +508,20 @@ export const poiExtraNicaraguaLandmarksV2: POI[] = [
         "Its architecture combines Spanish colonial style with indigenous influences.",
         "The interior is supported by massive wooden columns."
       ]
-    }, image: "/poi-images/ni-iglesia-subtiava-landmarks-v2.webp"},
+    }, image: "/poi-images/ni-iglesia-subtiava-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Kirche San Juan Bautista in Sutiaba (Subtiava), einem indigenen Barrio der Stadt León, ist eines der bemerkenswertesten kolonialen Gebäude Zentralamerikas. Die Bauarbeiten begannen um 1530 und endeten 1710; das massive Gebäude vereint das spanische Kolonialdesign mit starken indigenen Einflüssen. Anders als die barocken Kirchen der spanischen Elite hat Sutiaba ein gewaltiges Holzdach, gestützt von mächtigen, kunstvoll geschnitzten Zedernholzsäulen. Einzigartig ist die hölzerne Darstellung einer Sonne im Deckengewölbe, ein direktes Zugeständnis an die indigene Religion der Sutiavas. Die Kirche ist der absolute Mittelpunkt dieses historischen Viertels, das bis heute seine separate Identität bewahrt hat. Architektur K7 — Synkretismus und indigene Barrios.",
+      hu: "A Subtiava Keresztelő Szent János temploma (Iglesia San Juan Bautista de Subtiava) León legősibb és legegyedibb egyházi épülete. A templom a 16. század közepén (1530 környékén) épült az akkor még önálló, chorotega őslakosok lakta Subtiava falu központjában. Az építészetében gyönyörűen keverednek a spanyol gyarmati barokk elemek és az őslakos szimbólumok. Legismertebb részlete a fa mennyezeten található, mosolygó napot ábrázoló fafaragás (El Sol de Subtiava), amely az indiánok napisten-kultuszát csempészte be a katolikus templomba. Történelem K7 — vallási szinkretizmus és őslakos építészet.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Gilt als eine der ältesten kolonialen Kirchen in Nicaragua (erbaut zwischen 1530 und 1710).", "Gelegen im Barrio Sutiaba, dem historisch indigenen Viertel der Stadt León.", "Die Deckenkonstruktion aus Zedernholz ist im ländlichen, rustikalen Kolonialstil gefertigt.", "Im Inneren befindet sich das ikonische Schnitzwerk einer indigenen Sonne am Gewölbe (Synkretismus).", "Die Kirche besitzt keinen prachtvollen Barockaltar, sondern einen sehr massiven, schlichten Altarraum.", "Die Fassade wird von vier massiven Türmen ohne spitze Dächer geprägt, um Erdbeben zu widerstehen."],
+      hu: ["A jelenleg látható főépület építését 1710 körül fejezték be.", "A 'Subtiava Napja' faragás a keresztény és az őslakos hit (szinkretizmus) egyedülálló ötvözete.", "A templom oszlopai vastag, egy darabból faragott fatörzsekből állnak.", "Minden évben a nagyhéten színes fűrészporból készült szőnyegeket (alfombras) raknak le a templom előtti utcán.", "Külsejét rusztikus, viszonylag díszítetlen vályog- és kőfalak jellemzik.", "1980-ban Nemzeti Műemlékké nyilvánították."],
+      ro: [],
+      en: []
+    }
+  },
   {
     id: "ni-monumento-diriangen-landmarks-v2",
     type: "landmark",
@@ -430,7 +560,20 @@ export const poiExtraNicaraguaLandmarksV2: POI[] = [
         "The statue depicts him armed and in a warrior pose.",
         "The city of Diriamba is named after this famous tribal leader."
       ]
-    }, image: "/poi-images/ni-monumento-diriangen-landmarks-v2.webp"},
+    }, image: "/poi-images/ni-monumento-diriangen-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Monument des Kaziken Diriangén am Eingang der Stadt Diriamba (Carazo) ehrt einen der wichtigsten Helden des indigenen Widerstands in Zentralamerika. Diriangén, ein furchtloser Anführer der Chorotega (Dirianes), verweigerte im Jahr 1523 die Unterwerfung und Zwangstaufe durch den spanischen Konquistador Gil González Dávila. Stattdessen griff er die spanische Expedition wenige Tage später mit Tausenden von Kriegern in einer der ersten dokumentierten Schlachten des amerikanischen Festlandes an. Die Bronzestatue in Diriamba (der Stadt, die seinen Namen trägt) zeigt den Kaziken in kriegerischer Pose und ist ein Symbol des nicaraguanischen Nationalstolzes und des anhaltenden Respekts vor der indigenen Identität des Landes. Geschichte K7 — Indigener Widerstand und spanische Eroberung.",
+      hu: "Diriangén törzsfőnök emlékműve (Monumento a Cacique Diriangén) Diriamba város bejáratánál áll, és a prekolumbián őslakos ellenállás jelképe Nicaraguában. Diriangén volt a chorotega indiánok nagy tekintélyű vezetője, aki 1523-ban először barátságosan fogadta a spanyol hódítót, Gil González Dávilát, majd három nappal később több ezer harcosával váratlanul megtámadta és visszavonulásra kényszerítette a meglepett spanyol csapatokat. A bronzszobor a harcos vezért ábrázolja fegyverrel a kezében, amint megvédi földjét a betolakodóktól. Történelem K6 — az őslakos ellenállás hősei.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Das Monument ehrt den Kaziken Diriangén, den Anführer des Dirianes-Volkes (Chorotegas).", "Diriangén führte 1523 den ersten indigenen militärischen Widerstand gegen die Spanier in Nicaragua an.", "Die Stadt Diriamba (\"Ort der vielen Berge und Diriangéns\") ist direkt nach ihm benannt.", "Er täuschte den Spanier Gil González vor, sich taufen zu lassen, und griff ihn stattdessen am 17. April 1523 an.", "Die Statue markiert den traditionellen Eintritt in das Carazo-Plateau.", "Er gilt neben dem Helden Nicarao (der Verhandlungswege suchte) als Symbol des kriegerischen Stolzes."],
+      hu: ["Diriangén az első regisztrált őslakos vezér, aki fegyveres ellenállást szervezett a spanyolok ellen Közép-Amerikában.", "Az emlékművet a 20. század második felében emelték Diriamba (amely róla kapta nevét) tiszteletére.", "A csata Diriangén és Dávila csapatai között a mai Diriamba közelében zajlott 1523. április 17-én.", "A szobor talapzatán domborművek ábrázolják az őslakosok harcát a lovas spanyol katonákkal.", "A nicaraguai hadsereg egyik elit egysége (Comando de Operaciones Especiales) is az ő nevét viseli.", "Diriangént gyakran a nicaraguai nemzeti identitás és függetlenség ősatyjaként említik."],
+      ro: [],
+      en: []
+    }
+  },
   {
     id: "ni-santuario-cuapa-landmarks-v2",
     type: "landmark",
@@ -469,7 +612,20 @@ export const poiExtraNicaraguaLandmarksV2: POI[] = [
         "Ecclesiastically approved in 1982 by the then Bishop of Juigalpa.",
         "Thousands of pilgrims visit the site every year on May 8."
       ]
-    }, image: "/poi-images/ni-santuario-cuapa-landmarks-v2.webp"},
+    }, image: "/poi-images/ni-santuario-cuapa-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Nationale Heiligtum Unserer Lieben Frau von Cuapa (Santuario Nacional de la Virgen de Cuapa) im Departement Chontales ist ein mystischer Anziehungspunkt in den weiten Rinderweiden Nicaraguas. Die Entstehung des Ortes basiert auf Ereignissen aus dem Jahr 1980, als der Sakristan Bernardo Martínez berichtete, dass ihm mehrfach die Jungfrau Maria erschienen sei, leuchtend und schwebend über den Steinen. Dies geschah während einer sehr blutigen Phase der Revolution, und die Botschaften forderten Frieden, Gebet und Vergebung. Das Heiligtum selbst ist in die raue, natürliche Felslandschaft integriert, um den originalen Erscheinungsort zu bewahren. Hunderttausende Pilger aus ganz Zentralamerika besuchen den Schrein jedes Jahr am 8. Mai, dem Jahrestag der ersten Erscheinung. Kultur K6 — Zeitgenössische Wallfahrtsorte und religiöse Mystik.",
+      hu: "A Cuapai Miasszonyunk Nemzeti Kegyhely (Santuario Nacional de la Virgen de Cuapa) egy modern, szabadtéri zarándokhely Chontales megye hegyei között. A szentélyt egy hatalmas, zöld legelő közepén építették fel, pontosan azon a köves területen, ahol 1980-ban Bernardo Martínez sekrestyésnek állítólag többször megjelent Szűz Mária, békét kérve a polgárháború sújtotta országnak. A komplexum egy nyitott kápolnából, keresztútból (Vía Crucis) és egy parkosított területből áll, ahová a hívők ezrei érkeznek minden május 8-án gyalogosan vagy lóháton, hogy hálát adjanak a \"Cuapai Szűznek\". Történelem K6 — vallási turizmus és jelenések.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Ein offiziell vom Vatikan (2001) anerkannter Ort von Marienerscheinungen in Nicaragua.", "Die Erscheinungen geschahen 1980 dem örtlichen Bauern und Sakristan Bernardo Martínez.", "Das Heiligtum ist in eine rustikale, natürliche Felslandschaft eingebettet.", "Der Hauptpilgertag am 8. Mai zieht Zehntausende von Gläubigen in die abgelegene Gemeinde.", "Die Visionen geschahen in einer Zeit extremer nationaler politischer Spannungen und Gewalt.", "Das Heiligtum beinhaltet eine kleine Kapelle und eine lebensgroße Statue der \"Virgen de Cuapa\"."],
+      hu: ["A helyszínen egy 'könnyező fa' is található, amely a hívők szerint a Mária-jelenések bizonyítéka.", "A szentély kialakítása nagyon egyszerű, a természetes környezetre (hegyek, legelők) helyezi a hangsúlyt.", "Bernardo Martínez a jelenések után pap lett, és szentté avatási eljárása folyamatban van.", "II. János Pál pápa 1983-as managuai látogatásán megáldotta a Cuapai Szűz szobrát.", "A zarándoklat május 7-én éjjel kezdődik, fáklyás virrasztással.", "2013-ban emelték a szentélyt Nemzeti Zarándokhely (Santuario Nacional) rangra."],
+      ro: [],
+      en: []
+    }
+  },
   {
     id: "ni-iglesia-asuncion-masaya-landmarks-v2",
     type: "landmark",
@@ -508,6 +664,18 @@ export const poiExtraNicaraguaLandmarksV2: POI[] = [
         "The facade was largely spared from damage by volcanic eruptions.",
         "A central venue for local religious festivals and processions."
       ]
+    },
+    descriptionAdvanced: {
+      de: "Die Parroquia Nuestra Señora de la Asunción im Zentrum der Stadt Masaya ist ein architektonisches Prunkstück des kolonialen Erbes der \"Stadt der Blumen\". Die im 18. Jahrhundert begonnene und 1833 fertiggestellte Kirche besticht durch ihre robuste, barocke Eleganz und eine massive Bauweise, die sie unzählige Erdbeben überstehen ließ. Die Fassade kombiniert klassizistische Säulen mit tiefen, runden Nischen, während der Innenraum hohe Gewölbe und wertvolle religiöse Malereien beherbergt. Obwohl die Kirche San Jerónimo das Epizentrum des Hauptfestes der Stadt ist, bleibt La Asunción das theologische und formelle Herzstück am Zentralpark von Masaya, vor deren Pforten die farbenfrohen Marimba-Tänzer bei nationalen Festen auftreten. Architektur K7 — Provinzieller Barock und erdbebensicheres Bauen.",
+      hu: "A Masayai Nagyboldogasszony-templom (Parroquia de la Asunción de María) a város központi parkjában álló történelmi plébániatemplom. A 18. században épült gyarmati stílusú épület barokk homlokzatával és egyedi, aszimmetrikus (egy magas és egy csonka) tornyaival Masaya szimbóluma. Az épület szorosan kötődik a város őslakos, monimbó-i hagyományaihoz. 1979-ben, a sandinista felkelés során a templom körüli tér heves harcok színtere volt, de az épület maga átvészelte a pusztítást. A templom ad otthont a város védőszentjének, Szent Jeromosnak a híres masayai fiesták alatt is. Történelem K7 — vallási központok és városkép.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Die Hauptpfarrkirche am zentralen Parque Central der Stadt Masaya.", "Der Bau dauerte über ein Jahrhundert, von 1730 bis zur offiziellen Vollendung 1833.", "Die Architektur vereint spanischen Barock mit neoklassizistischen Einflüssen.", "Ihre massive, breite Fassade ist typisch für die erdbebensichere Bauweise Nicaraguas.", "Während des Bürgerkrieges 1979 war der Platz um die Kirche Schauplatz schwerer Gefechte.", "Die Mariä-Himmelfahrt-Prozession (Asunción) im August ist ein wichtiges lokales Ereignis."],
+      hu: ["A templomot 1750 környékén szentelték fel a spanyol hatóságok.", "A bal oldali tornyot a 19. századi földrengések miatt soha nem építették újjá teljesen.", "A belső teret finoman faragott spanyol gyarmati oltárok díszítik.", "A templom előtt álló Központi Park (Parque Central) a hagyományos marimba-zenészek kedvelt helye.", "A nagyhéten a templom körüli utcákat kézműves fűrészpor-szőnyegek borítják.", "Az 1856-os filibuster-háborúk idején a templom óvóhelyként szolgált a civilek számára."],
+      ro: [],
+      en: []
     }
   },
   {
@@ -548,7 +716,20 @@ export const poiExtraNicaraguaLandmarksV2: POI[] = [
         "The large Sandino silhouette was designed by artist Ernesto Cardenal.",
         "Offers a panoramic view of the city and the Tiscapa Lagoon."
       ]
-    }, image: "/poi-images/ni-loma-tiscapa-landmarks-v2.webp"},
+    }, image: "/poi-images/ni-loma-tiscapa-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Loma de Tiscapa (Tiscapa-Hügel) in Managua ist der Kraterrand einer vulkanischen Lagune und der historisch wichtigste und blutigste Hügel des Landes. Aufgrund seiner überragenden Position über der Stadt baute die Somoza-Diktatur hier ihren befestigten Präsidentenpalast und das berüchtigte Foltergefängnis \"El Chipote\". Genau hier wurde 1934 der Nationalheld Augusto C. Sandino nach einem Abendessen bei Somoza ermordet. Das Erdbeben 1972 zerstörte den Palast, und nach der Revolution wurden die Kasernen in einen historischen Park umgewandelt. Heute wird der Hügel vom \"Monumento a Sandino\" dominiert, einer riesigen schwarzen Stahlsilhouette des Helden, die über ganz Managua wacht. Geografie K8 — Urbane Vulkankrater und politische Diktaturen.",
+      hu: "A Tiscapa-domb (Loma de Tiscapa) egy vulkáni kráter pereme Managua központjában, amelynek alján egy sötét vizű krátertó (Laguna de Tiscapa) található. Stratégiai elhelyezkedése miatt évtizedekig a nicaraguai hatalom központja volt: itt építette fel elnöki palotáját az Anastasio Somoza-diktatúra, amely alatt az épület hírhedt börtönként és kínzókamraként (El Chipote) is működött. Az 1972-es földrengés a palotát romba döntötte. Ma a dombtetőn a forradalmi hős, Augusto C. Sandino hatalmas, acélból készült sziluettje (szobra) magasodik, amely egész Managuából látható, szimbolizálva a diktatúra feletti győzelmet. Történelem K8 — diktatúrák bukása és krátertavak.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Ist der hohe, steile Kraterrand der inaktiven vulkanischen Tiscapa-Lagune mitten in Managua.", "War von den 1930ern bis 1979 der befestigte Regierungssitz der Somoza-Diktatur.", "Der Ort, an dem Augusto C. Sandino 1934 auf Befehl von Anastasio Somoza García gefangen und getötet wurde.", "Beherbergte das brutale politische Gefängnis \"El Chipote\", in dem Tausende gefoltert wurden.", "Die markante schwarze Silhouette von Sandino (entworfen vom Künstler Ernesto Cardenal) krönt heute den Hügel.", "Bietet den besten 360-Grad-Panoramablick auf die Stadt Managua und den Managuasee."],
+      hu: ["Augusto C. Sandinót ezen a hegyen tartóztatták le 1934-ben, mielőtt kivégezték volna.", "A hatalmas Sandino-sziluettet Ernesto Cardenal költő és szobrász tervezte az 1990-es években.", "A dombon megtekinthetők a Somoza-féle börtönök sötét celláinak maradványai.", "Az 1972-es földrengés során a domb szó szerint 'kettényílt' egy aktív törésvonal mentén.", "A krátertó (Laguna de Tiscapa) vize erősen szennyezett volt, de folyamatban van a rehabilitációja.", "Egy canopy (zipline) drótkötélpálya ível át a krátertó felett, vonzva a kalandvágyókat."],
+      ro: [],
+      en: []
+    }
+  },
   {
     id: "ni-iglesia-recoleccion-landmarks-v2",
     type: "landmark",
@@ -587,6 +768,18 @@ export const poiExtraNicaraguaLandmarksV2: POI[] = [
         "Considered the most important Baroque masterpiece in the city.",
         "The facade features medallions depicting the Passion of Christ."
       ]
+    },
+    descriptionAdvanced: {
+      de: "Die Iglesia de La Recolección ist wohl die auffälligste und fotogenste Kirche in der Universitätsstadt León. Das 1786 im mexikanischen Barockstil (Churriguerismus) vollendete Gebäude erstrahlt in einem intensiven Gelb, das sich dramatisch vom blauen Himmel abhebt. Ihre reich verzierte Fassade ist gesäumt von aufwendigen Gipsornamenten in Form von Weinreben und Medaillons aus rotem Stein, die die Leidenswerkzeuge Christi (Kreuz, Nägel, Dornenkrone) darstellen. Gegründet von den Recollects-Brüdern, war sie lange Zeit das spirituelle Zentrum der Eliten der Stadt. Sie gilt heute als das schönste erhaltene Beispiel des reinen kolonialen Barockstils in Nicaragua. Architektur K7 — Mexikanischer Barock und religiöse Symbolik.",
+      hu: "A La Recolección templom León egyik legszebb és legfeltűnőbb épülete a gyarmati korszakból. Az 1786-ban épült, élénk mustársárga homlokzatú, gazdagon díszített barokk templomot mexikói ezüstművesek (Los Plateros) építtették. A templom homlokzata egyedülálló Közép-Amerikában, mivel fába és kőbe faragva ábrázolja Krisztus kínszenvedésének jelképeit (a keresztet, a szögeket, a kakast és Veronika kendőjét) gyönyörű, domborműves stílusban. Belseje klasszikus spanyol gyarmati stílust tükröz, faragott mahagóni oltárokkal. Történelem K7 — mexikói barokk építészet Közép-Amerikában.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Erbaut 1786, ist sie das wichtigste Beispiel für den mexikanischen Barockstil (Churriguerismus) in Nicaragua.", "Weltberühmt für ihre intensiv gelbe Fassade, die mit feinen, karminroten Ornamenten verziert ist.", "Die Medaillons auf der Fassade zeigen die Symbole der Passion Christi (Leidenswerkzeuge).", "Wurde als Kirche der Congregación de la Recolección (Franziskaner) gegründet.", "Die dicken Lehmmauern wurden konstruiert, um starken vulkanischen Erdbeben standzuhalten.", "Das angrenzende Kloster dient heute teilweise als Bildungseinrichtung in León."],
+      hu: ["A templom alapítóit, a ferences rendi szerzeteseket Mexikóból hívták be a helyi püspökök.", "A homlokzati domborművek (emblemas de la Pasión) szokatlanul részletesek a térségben.", "A masszív harangtornyot azért építették zömökebbre, hogy ellenálljon a földrengéseknek.", "Belterében található egy ritka, 18. századi ezüst ereklyetartó.", "Az 1979-es forradalmi harcok idején a torony mesterlövészek állásaként szolgált.", "A templom hivatalos védettséget élvez, mint Nicaragua Történelmi Örökségének része."],
+      ro: [],
+      en: []
     }
   },
   {
@@ -627,7 +820,20 @@ export const poiExtraNicaraguaLandmarksV2: POI[] = [
         "A place of constant remembrance of the civil war of the 1970s.",
         "An eternal flame burns here in honor of the victims."
       ]
-    }, image: "/poi-images/ni-mausoleo-heroes-martires-landmarks-v2.webp"},
+    }, image: "/poi-images/ni-mausoleo-heroes-martires-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Mausoleum der Helden und Märtyrer (Mausoleo de los Héroes y Mártires) im Zentralpark von León ist eine der emotionalsten und direktesten Gedenkstätten der Sandinistischen Revolution. Das Monument in Form einer großen, offenen Wand, umgeben von ewig brennenden Fackeln, ehrt die jungen Männer und Frauen – oft Studenten und Jugendliche aus León –, die beim Aufstand gegen die Nationalgarde der Somoza-Diktatur 1978/1979 ums Leben kamen. Eine gewaltige Wandmalerei um das Mausoleum illustriert die Geschichte der Unterdrückung und Befreiung. Für die Einwohner Leóns, der ersten Stadt, die befreit wurde, ist dies ein heiliger Ort der Trauer und des nationalen Stolzes. Geschichte K8 — Gedenkkultur und Studentenbewegungen.",
+      hu: "A Hősök és Vértanúk Mauzóleuma (Mausoleo de los Héroes y Mártires) León központjában, közvetlenül a katedrális mellett álló lenyűgöző emlékmű. Ezt a modern, falfestményekkel díszített komplexumot az 1979-es forradalom hőseinek és León civil áldozatainak tiszteletére emelték, akik a Somoza-rezsim elleni harcokban estek el. A mauzóleum középpontjában egy örökláng ég, a falakon lévő híres murális festmények (murales) pedig élénk színekkel mesélik el a nicaraguai történelem és a fegyveres felkelés fontosabb jeleneteit a sandinista narratíva szerint. Történelem K8 — forradalmi murális művészet és emlékhelyek.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Das Denkmal befindet sich direkt am Parque Central von León, neben der Kathedrale.", "Es dient als letzte Ruhestätte für Dutzende junger Kämpfer (Märtyrer), die 1978/79 bei den Straßenkämpfen starben.", "Das Areal ist mit farbenfrohen, aber ernsten Wandgemälden (Murales) der Revolution dekoriert.", "León war das intellektuelle und studentische Herz der sandinistischen Widerstandsbewegung.", "Eine Ewige Flamme im Zentrum des Mausoleums ehrt das Opfer der Gefallenen.", "Der Ort wird oft für politische Kundgebungen und Gedenkfeiern der Regierungspartei genutzt."],
+      hu: ["Az emlékmű a León Főterét (Parque Central) övező park szerves része.", "A falakon lévő murálisokat helyi egyetemisták és külföldi szolidaritási művészek festették az 1980-as években.", "A mauzóleum alatt több tucat fiatal leóni gerilla (combatiente) hamvait őrzik.", "Középpontjában állandó díszőrség (tiszteletadás) működött a 80-as években.", "A festmények nemcsak a harcot, hanem az írástudatlanság elleni kampányt is ábrázolják.", "León a forradalom alatt a leghevesebb városi csaták színtere volt, innen ered az emlékhely fontossága."],
+      ro: [],
+      en: []
+    }
+  },
   {
     id: "ni-reloj-diriamba-landmarks-v2",
     type: "landmark",
@@ -666,7 +872,20 @@ export const poiExtraNicaraguaLandmarksV2: POI[] = [
         "The clock mechanism was brought from Germany.",
         "It reaches a height of 15.5 meters."
       ]
-    }, image: "/poi-images/ni-reloj-diriamba-landmarks-v2.webp"},
+    }, image: "/poi-images/ni-reloj-diriamba-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Uhrenturm von Diriamba (El Reloj Público de Diriamba) ist das unübersehbare, ikonische Wahrzeichen der auf dem Carazo-Plateau gelegenen Stadt. Der elegante, weiße Turm wurde 1935 während der Amtszeit von Präsident Juan Bautista Sacasa errichtet. Architektonisch ist er ein faszinierendes Beispiel für den Art-Déco-Einfluss im kolonial geprägten Zentralamerika, mit klaren, geometrischen Linien und einer markanten Wetterfahne auf der Spitze. Der Turm prägt das Zentrum von Diriamba und schlägt traditionell zu jeder vollen Stunde. Er überstand mehrere Erdbeben in der Region unversehrt und ist heute der beliebteste Treffpunkt für Einheimische bei Festlichkeiten wie dem UNESCO-geschützten Güegüense-Tanz. Architektur K6 — Art-Déco-Türme und urbane Wahrzeichen.",
+      hu: "A Diriambai óratorony (El Reloj de Diriamba) a város legismertebb szimbóluma, amely a Carazo-fennsík egyik legmagasabb pontján, a város főterén áll. A karcsú, fehérre meszelt, modernista oszlopot 1935-ben emelték, és a város kávéiparának virágzását jelképezi. Tetején egy négyoldalú német mechanikus óra található, amely évtizedeken át mutatta az időt a helyi farmerek és kereskedők számára. Az óratorony körül zajlik januárban a híres 'El Güegüense' fesztivál, a hagyományos nicaraguai táncosok (macho ratón) felvonulása. Földrajz K6 — városképi építészet és óratornyok.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Erbaut im Jahr 1935 und ist das offizielle architektonische Symbol der Stadt Diriamba.", "Die Turmuhr wurde ursprünglich aus Deutschland importiert und ist bis heute mechanisch funktionsfähig.", "Der Turm ist etwa 15 Meter hoch und im klaren, geometrischen Art-Déco-Stil entworfen.", "Steht auf einer zentralen Verkehrsinsel unweit der Basilica San Sebastián.", "Es ist ein beliebter Versammlungsort während des Januarfestes des Schutzpatrons.", "Überlebte aufgrund seiner soliden Konstruktion schwere Erdbeben im 20. Jahrhundert unbeschadet."],
+      hu: ["Az órát egy gazdag helyi kávétermesztő család, a Gonzálezék adományozták a városnak.", "A szerkezet 15 méter magas, vasbetonból készült, ami az 1930-as években modern technológiának számított.", "A német gyártmányú óraművet hajón hozták a csendes-óceáni Corinto kikötőbe, majd onnan ökrös szekéren Diriambába.", "A torony egy régebbi, földrengésben elpusztult fa kilátótorony helyére épült.", "Többször felújították, legutóbb a 2010-es években restaurálták a mechanikáját.", "A torony a Diriambaiak számára a pontosság és a modernizáció jelképe volt."],
+      ro: [],
+      en: []
+    }
+  },
   {
     id: "ni-faro-masachapa-landmarks-v2",
     type: "landmark",
@@ -705,7 +924,20 @@ export const poiExtraNicaraguaLandmarksV2: POI[] = [
         "Stands on a rocky outcrop right on the beach.",
         "Today, it is a popular photo opportunity for tourists."
       ]
-    }, image: "/poi-images/ni-faro-masachapa-landmarks-v2.webp"},
+    }, image: "/poi-images/ni-faro-masachapa-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Leuchtturm von Masachapa (El Faro de Masachapa) ist ein maritimes Relikt an Nicaraguas windiger Pazifikküste im Departement Managua. Dieses einfache, robuste Metallbauwerk wurde im frühen 20. Jahrhundert errichtet, als Masachapa ein aktiver Handelshafen für den Export von Hölzern und Zucker aus dem Hinterland von Managua war. Heute hat der Ort seine kommerzielle Hafenbedeutung längst verloren und ist ein geschäftiges Fischerdorf sowie ein beliebtes Strandbad für die Hauptstädter. Der stark vom Salzwind verrostete Leuchtturm steht als nostalgischer Wächter über den dunklen Vulkansandstränden und ist ein perfektes Fotomotiv, das die raue Atmosphäre der nicaraguanischen Pazifikfischerkultur einfängt. Geografie K6 — Historische Leuchttürme und Fischereihäfen.",
+      hu: "A Masachapai világítótorony (El Faro de Masachapa) a Csendes-óceán partján, a népszerű Masachapa strand sziklás kiszögellésén magasodik. Ezt a letisztult, henger alakú vasbeton világítótornyot az 1950-es években építették, hogy segítse a helyi halászokat és a közeli Puerto Sandino felé tartó hajókat a navigációban a sziklás partszakaszon. A világítótorony környéke ma népszerű kilátópont, ahonnan lenyűgöző naplementéket lehet megcsodálni, és kiváló helyszín a hatalmas óceáni hullámok megfigyelésére. A fehérre meszelt torony a helyi partvidék egyik legfelismerhetőbb ikonja. Földrajz K6 — partmenti navigáció és világítótornyok.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Ein historischer Navigationsleuchtturm an der stark besuchten Pazifikküste von Masachapa.", "Wurde im frühen 20. Jahrhundert errichtet, als Masachapa als Exporthafen florierte.", "Die offene Gitterkonstruktion aus Stahl sollte starken Küstenwinden und Erdbeben widerstehen.", "Der Leuchtturm hat heute keine primäre nautische Funktion mehr, da die Großschifffahrt nach Corinto abgewandert ist.", "Steht symbolisch für die Transformation des Dorfes von einem Handelshafen zu einem Fischerort.", "Masachapa ist heute neben Pochomil das wichtigste Strand-Wochenendziel für die Einwohner von Managua."],
+      hu: ["A torony magassága körülbelül 18 méter.", "Fénye tiszta időben akár 15 tengeri mérföldről is látható az óceánon.", "Az 1950-es években építették Anastasio Somoza García elnök utasítására, akinek a közelben (Montelimar) volt nyaralója.", "A helyi halászflotta számára ma is fontos tájékozódási pont (bár ma már GPS-t használnak).", "A torony alatti sziklákon dagálykor a hullámok látványosan megtörnek.", "A világítótorony teteje biztonsági okokból általában le van zárva a látogatók elől."],
+      ro: [],
+      en: []
+    }
+  },
   {
     id: "ni-capilla-maria-auxiliadora-landmarks-v2",
     type: "landmark",
@@ -744,7 +976,20 @@ export const poiExtraNicaraguaLandmarksV2: POI[] = [
         "One of the few churches in Nicaragua designed in the Gothic style.",
         "Its light blue facade makes it a real eye-catcher."
       ]
-    }, image: "/poi-images/ni-capilla-maria-auxiliadora-landmarks-v2.webp"},
+    }, image: "/poi-images/ni-capilla-maria-auxiliadora-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Capilla María Auxiliadora in Granada ist ein atemberaubendes Juwel der neugotischen Architektur. Im Gegensatz zu den wuchtigen barocken Kirchen der Stadt besticht diese Kapelle durch filigrane Eleganz, spitze Bögen und detaillierte Fassadenarbeiten. Erbaut in den 1920er Jahren von den Salesianern, hebt sie sich durch ihre pastellblaue und weiße Farbgebung deutlich ab. Das Innere der Kapelle ist ebenso beeindruckend, mit außergewöhnlich gut erhaltenen Buntglasfenstern und feinen Holzschnitzereien, die ein Gefühl europäischer Gotik mitten in die Tropen transportieren. Die Kirche ist tief in das Bildungswesen der Stadt integriert, da sie an das bedeutende Colegio Salesiano angrenzt. Architektur K7 — Neugotik in Zentralamerika und salesianische Architektur.",
+      hu: "A María Auxiliadora kápolna (Capilla de María Auxiliadora) Granada városában a helyi szalézi rendközösség lelki központja. Az 1920-as évek elején épült gótikus és neoklasszicista elemeket ötvöző kápolna világoskék és fehér homlokzatával tűnik ki a város gyarmati épületei közül. A belső teret Olaszországból származó, finoman megmunkált ólomüveg ablakok és egy gazdagon díszített márványoltár ékesíti. A kápolna a helyi oktatás szimbóluma is, mivel a szalézi atyák egy nagy iskolát (Colegio Salesiano) üzemeltetnek az épület mellett, amely generációk óta meghatározó Granada kulturális életében. Földrajz K6 — egyházi építészet és oktatás.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Eine der wenigen Kirchen Nicaraguas im reinen neugotischen Stil, fertiggestellt im Jahr 1922.", "Gegründet und betreut von der Kongregation der Salesianer Don Boscos.", "Berühmt für ihre himmelblaue Fassade mit detaillierten, spitzen gotischen Bögen und feinen Zinnen.", "Beherbergt wertvolle Buntglasfenster (Vitrales), die Heiligenfiguren und Szenen aus dem Leben Marias zeigen.", "Die Kirche grenzt direkt an das Salesianer-Kolleg (Colegio Salesiano), eine der besten Schulen der Stadt.", "Während der Kämpfe 1979 in Granada diente der massive Komplex als Zufluchtsort für Zivilisten."],
+      hu: ["Az épületet 1922-ben szentelték fel a Segítő Szűz Mária tiszteletére.", "A szalézi rend (Don Bosco követői) 1912-ben érkezett Nicaraguába.", "Oltára carrarai márványból készült, Olaszországból hozatták.", "A kápolna tornyából minden nap délben megszólal az 'Angelus' (Úrangyala) harangjáték.", "Granada hagyományos 'Calle Real' (Királyi utca) vonalán fekszik.", "A kápolna falain belüli csend éles kontrasztban áll a mellette lévő piac zajával."],
+      ro: [],
+      en: []
+    }
+  },
   {
     id: "ni-iglesia-san-jeronimo-landmarks-v2",
     type: "landmark",
@@ -783,7 +1028,20 @@ export const poiExtraNicaraguaLandmarksV2: POI[] = [
         "The original church was built in the 19th century.",
         "Heavily damaged by an earthquake in 2000 but later restored."
       ]
-    }, image: "/poi-images/ni-iglesia-san-jeronimo-landmarks-v2.webp"},
+    }, image: "/poi-images/ni-iglesia-san-jeronimo-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Iglesia de San Jerónimo in Masaya mag nicht die formelle Kathedrale der Stadt sein, ist aber unbestritten das emotionale und kulturelle Epizentrum. Diese farbenfrohe Kirche aus dem 19. Jahrhundert beherbergt die Statue des San Jerónimo (Heiliger Hieronymus), den die Einheimischen liebevoll den \"Arzt der Armen\" (El Doctor de los Pobres) nennen. Von September bis November ist der Vorplatz dieser Kirche der absolute Höhepunkt der längsten Schutzpatronatsfeierlichkeiten Nicaraguas (Fiestas Patronales). Zehntausende von Tänzern – in traditionellen Masken und Trachten (wie den Agüizotes) – sowie Hunderte von Marimba-Spielern versammeln sich hier in einem ekstatischen, ohrenbetäubenden Fest des Synkretismus aus indigenen und katholischen Traditionen. Kultur K6 — Der längste Patronatszyklus und Volksheilige.",
+      hu: "A Szent Jeromos-templom (Iglesia de San Jerónimo) Masaya városának egyik legfontosabb kulturális és vallási epicentruma. A város a spanyol gyarmati időktől kezdve őrzi védőszentjének, Szent Jeromosnak a kultuszát, akit a helyiek csak 'El Doctor que cura sin medicinas' (Az orvos, aki gyógyszer nélkül gyógyít) néven emlegetnek. A templom egy viszonylag modern, a 20. században újjáépített épület (miután a régit földrengések pusztították el), melynek igazi jelentőségét az évente megrendezett, heteken át tartó 'Fiestas Patronales' adja. Ilyenkor a templom körüli utcákat folklór táncosok (Los Diablitos, El Torovenado) és marimba zenekarok lepik el. Történelem K7 — vallási fesztiválok és folklór.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Beherbergt die Statue des San Jerónimo, dem wichtigsten und verehrtesten Volksheiligen von Masaya.", "Der Start- und Endpunkt der längsten Feierlichkeiten (Fiestas Patronales) in Nicaragua, die drei Monate dauern.", "Die Fassade der Kirche erstrahlt in auffälligen Rot- und Weißtönen mit barocken Verzierungen.", "Während der Feiern im September versammeln sich Tausende maskierte Tänzer (Los Agüizotes) vor der Kirche.", "Das Gebäude wurde bei einem Erdbeben 2000 leicht beschädigt, aber zügig restauriert.", "San Jerónimo wird lokal der \"Doctor de los Pobres\" (Arzt der Armen) genannt, der Wunder vollbringt."],
+      hu: ["A masayai Szent Jeromos-ünnep a leghosszabb védőszent-fesztivál Nicaraguában (szeptembertől novemberig).", "A templom 1925-ös földrengésben elpusztult, majd vasbetonból újjáépítették.", "A templom előtti téren állítják fel a fesztiválok idején a hagyományos fa bódékat (chinamos).", "Szent Jeromos szobrát a fesztivál alatt a hívők a vállukon hordozzák végig a városon.", "Az épület belső tere világos és modern, kevésbé díszített, mint a város többi temploma.", "Masayát Nicaragua folklór fővárosának tartják, és ez a templom a tradíciók központja."],
+      ro: [],
+      en: []
+    }
+  },
   {
     id: "ni-antigua-estacion-ferrocarril-granada-landmarks-v2",
     type: "landmark",
@@ -822,7 +1080,20 @@ export const poiExtraNicaraguaLandmarksV2: POI[] = [
         "The railway in Nicaragua was shut down at the end of the 20th century.",
         "The building has been renovated and is now used for events."
       ]
-    }, image: "/poi-images/ni-antigua-estacion-ferrocarril-granada-landmarks-v2.webp"},
+    }, image: "/poi-images/ni-antigua-estacion-ferrocarril-granada-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Alte Eisenbahnstation (Antigua Estación del Ferrocarril) in Granada ist ein wehmütiges Relikt aus dem goldenen Zeitalter der nicaraguanischen Schiene. Das elegante Gebäude im neoklassizistischen und viktorianischen Stil wurde im späten 19. Jahrhundert errichtet und diente als südlicher Endpunkt der Pazifischen Eisenbahn (Ferrocarril del Pacífico). Täglich trafen hier Dampfzüge aus Managua und Corinto ein, um Passagiere zum Hafen von Granada zu bringen, von wo aus sie Dampfschiffe über den See nahmen. Nachdem die Regierung in den 1990er Jahren den Betrieb der Eisenbahn einstellte und die Gleise abriss, verfiel das Gebäude. Heute ist es restauriert und dient als Berufsschule, doch eine ausrangierte historische Dampflokomotive auf dem Hof erinnert an den einstigen Logistik-Ruhm der Stadt. Geschichte K7 — Das Eisenbahnzeitalter und verlassene Infrastruktur.",
+      hu: "A régi granadai vasútállomás (Antigua Estación del Ferrocarril) egy lenyűgöző neoklasszicista épület a város északi részén. A vasútvonal 1886-ban érte el Granadát, ami fellendítve a helyi kereskedelmet, közvetlen kapcsolatot teremtett a fővárossal és a csendes-óceáni kikötőkkel. A hatalmas boltívekkel, magas mennyezettel és tágas várótermekkel rendelkező épület a kávé-boom idejének gazdagságát tükrözi. Miután a nicaraguai vasúthálózatot az 1990-es években felszámolták, az épület sokáig romosan állt. Később spanyol támogatással teljesen felújították, és ma egy technikai és kézműves iskola (Escuela Taller) működik benne. Történelem K8 — vasúttörténet és ipari örökség.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Erbaut 1886 im viktorianisch-neoklassizistischen Stil am nördlichen Rand von Granada.", "Diente fast ein Jahrhundert lang als Endstation der wichtigen Eisenbahnlinie Corinto-Managua-Granada.", "Nach der Stilllegung der Eisenbahn (1993) retteten internationale Spenden das Gebäude vor dem Abriss.", "Das Gebäude beherbergt heute die angesehene Handwerks- und Berufsschule \"Escuela Taller\".", "Auf dem alten Bahngelände steht noch immer die schwarze, verrostete Präsidentenlokomotive als Ausstellungsstück.", "Der Bahnhof war historisch essenziell für den massiven Export von Kaffee und Kakao über den Nicaraguasee."],
+      hu: ["Az eredeti állomásépület az 1880-as évek végén épült.", "A vasút felszámolása (1993) után az állomásépület az enyészeté lett.", "2002-ben nyílt meg újra, mint a Történelmi Központok Helyreállítási Iskolája.", "Az udvarán megőriztek egy eredeti, Németországból származó régi gőzmozdony-maradványt.", "Az épület nyitott árkádjai természetes szellőzést biztosítottak az utazóknak.", "A régi vasúti pályát részben kerékpárúttá és sétatérré alakították át."],
+      ro: [],
+      en: []
+    }
+  },
   {
     id: "ni-ruinas-hospital-san-juan-landmarks-v2",
     type: "landmark",
@@ -861,7 +1132,20 @@ export const poiExtraNicaraguaLandmarksV2: POI[] = [
         "Abandoned in the 1990s after decades of use.",
         "In local folklore, the ruins are considered haunted."
       ]
-    }, image: "/poi-images/ni-ruinas-hospital-san-juan-landmarks-v2.webp"},
+    }, image: "/poi-images/ni-ruinas-hospital-san-juan-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Ruinen des Krankenhauses San Juan de Dios in Estelí stehen wie ein offenes Geschichtsbuch des Krieges im Norden Nicaraguas. Das massiv gebaute Gebäude im neoklassizistischen Stil wurde in den 1920er Jahren als modernstes medizinisches Zentrum der Region eingeweiht. Sein Schicksal besiegelte sich jedoch während der sandinistischen Offensive gegen den Diktator Anastasio Somoza im Jahr 1979. Da sich Guerillakämpfer in dem soliden Gebäude verschanzten, befahl die Nationalgarde verheerende Luftangriffe. Die massiven Mauern hielten dem Bombardement teilweise stand, doch das Dach und die Infrastruktur wurden zerstört. Heute sind die überwucherten, von Einschusslöchern durchsiebten Ruinen ein inoffizielles Mahnmal für die Schrecken der städtischen Kriegsführung. Geschichte K8 — Urbane Kriegsführung und Krankenhausruinen.",
+      hu: "A San Juan de Dios kórház romjai Granada nyugati peremén találhatók. Ez az egykor hatalmas, 19. század végén épült neoklasszicista komplexum évtizedekig a régió legfontosabb egészségügyi intézménye volt, de a 20. század végi karbantartás hiánya és a földrengések miatt végül a 2000-es évek elején végleg bezárták (a betegeket egy új kórházba költöztették). A romok félelmetes, ám lenyűgöző látványt nyújtanak: a boltíves folyosókat, belső udvarokat és betegszobákat lassan visszafoglalja a trópusi növényzet. A helyszín ma is közkedvelt a fotósok és az 'urbex' (városi felfedezés) szerelmesei körében. Földrajz K6 — elhagyatott épületek és városfejlődés.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Das Krankenhaus wurde in den späten 1920er Jahren im neoklassizistischen Stil errichtet.", "Galt in der Mitte des 20. Jahrhunderts als eines der besten Krankenhäuser der Region.", "Wurde während der sandinistischen Befreiung von Estelí 1979 schwer bombardiert.", "Die Nationalgarde Somozas flog Luftangriffe auf das Gebäude, um Guerillakämpfer auszuschalten.", "Die riesige Struktur ist heute eine verlassene Ruine, durchsetzt mit Einschusslöchern.", "Wird aufgrund seiner dramatischen Atmosphäre oft als Filmkulisse oder von Fotografen genutzt."],
+      hu: ["A kórház alapkövét 1886-ban tették le, és a helyi elit adományaiból épült.", "Több mint egy évszázadon át (2003-ig) működött Granada fő kórházaként.", "Az épület olasz mesterek munkáját dicséri, akik a faragott kőoszlopokat készítették.", "A helyiek körében számos kísértettörténet kering a sötét, elhagyatott folyosókról.", "A terület jelenleg elkerített és őrzött, de korlátozottan látogatható.", "Közvetlen közelében található az ősi Xalteva-templom és a La Pólvora erőd."],
+      ro: [],
+      en: []
+    }
+  },
   {
     id: "ni-catedral-san-pedro-matagalpa-landmarks-v2",
     type: "landmark",
@@ -900,7 +1184,20 @@ export const poiExtraNicaraguaLandmarksV2: POI[] = [
         "Completed in 1895 after 21 years of construction.",
         "It is the most important church in the cool highlands of Nicaragua."
       ]
-    }, image: "/poi-images/ni-catedral-san-pedro-matagalpa-landmarks-v2.webp"},
+    }, image: "/poi-images/ni-catedral-san-pedro-matagalpa-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Catedral de San Pedro, dominierend im zentralen Park der kühlen Bergstadt Matagalpa gelegen, ist ein architektonisches Meisterwerk des 19. Jahrhunderts. Der Bau der drittwichtigsten Kathedrale Nicaraguas (nach León und Granada) begann 1874 und dauerte über 20 Jahre. Auffällig ist ihr robuster barocker und neoklassizistischer Stil mit den dicken, strahlend weißen Mauern, die speziell entworfen wurden, um den Kräften der Natur in der rauen Bergregion zu trotzen. Die Kirche ist der geistliche Mittelpunkt der wohlhabenden Kaffeeregion. Ihre beiden hohen, kuppelgekrönten Glockentürme sind von überall in dem von steilen Hügeln umschlossenen Tal sichtbar und bilden den stolzen Mittelpunkt der Gesellschaft der sogenannten \"Perle des Nordens\". Architektur K7 — Bergkathedralen und regionale Identität.",
+      hu: "A Matagalpai Szent Péter-katedrális (Catedral de San Pedro Apóstol) a nicaraguai hegyvidék legimpozánsabb egyházi épülete. A jezsuita és ferences rendi hagyományokat ötvöző, 1874-ben felszentelt templom masszív, szürke kőhomlokzatával és két zömök harangtornyával uralja a város központi terét. A kávé-boom idején a helyi kávébárók (köztük sok európai bevándorló) adományaiból fejezték be az építkezést. Az épület túlélte a 20. századi földrengéseket és a forradalom harcait is, bár falain egykor fegyvernyomok éktelenkedtek. Belső tere tágas és meglepően világos, gyönyörű fa oltárokkal. Történelem K7 — kávébárók és északi egyházépítészet.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Die wichtigste und größte Kirche im Departement Matagalpa (Bauzeit 1874 bis 1895).", "Offiziell 1924 zur Kathedrale der neu geschaffenen Diözese von Matagalpa erhoben.", "Die Architektur vereint barocke Grundelemente mit einer neoklassizistischen weißen Fassade.", "Wurde 2007 vom Nationalen Institut für Kultur (INC) zum nationalen Kulturerbe (Patrimonio Cultural) erklärt.", "Die Kathedrale beherbergt historische Gräber vieler Bischöfe und wichtiger Kaffeepioniere der Region.", "Ihre zwei markanten Glockentürme sind fast 35 Meter hoch."],
+      hu: ["Az építkezés 1874-től majdnem húsz évig tartott jezsuita irányítás alatt.", "A templomot Szent Péternek, a város védőszentjének (fiesta: június 29.) szentelték.", "A katedrális orgonáját és harangjait Európából importálták az 1890-es években.", "A forradalom idején a katedrális tornyából lőtték a sandinista mesterlövészek a Somoza-gárdát.", "A homlokzat kőből és égetett téglából épült, ami ritka a vályoghoz (adobe) szokott régióban.", "A templom 2007 óta hivatalos nicaraguai Nemzeti Műemlék."],
+      ro: [],
+      en: []
+    }
+  },
   {
     id: "ni-monumento-caidos-esteli-landmarks-v2",
     type: "landmark",
@@ -939,7 +1236,20 @@ export const poiExtraNicaraguaLandmarksV2: POI[] = [
         "The monument is often used for political memorial events.",
         "Complemented by numerous murals throughout the city."
       ]
-    }, image: "/poi-images/ni-monumento-caidos-esteli-landmarks-v2.webp"},
+    }, image: "/poi-images/ni-monumento-caidos-esteli-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Monument für die Gefallenen von Estelí (Monumento a los Caídos) ist eine beeindruckende, emotionale Gedenkstätte im Herzen der nördlichen Stadt. Die Skulptur zeigt einen Kämpfer, der einen verwundeten Kameraden trägt, umgeben von Listen mit Hunderten von Namen. Es ehrt die Opfer der drei blutigen Aufstände, die die Bürger von Estelí 1978 und 1979 gegen die Somoza-Diktatur führten. Estelí, bekannt als \"Die dreimal heldenhafte Stadt\" (Tres Veces Heroica), erlitt massive Bombardements, und fast jede Familie verlor Angehörige. Das Monument ist nicht nur ein Ort der Trauer, sondern ein mächtiges Symbol für die Widerstandsfähigkeit und den Kampfgeist der nördlichen Bergregion. Geschichte K8 — Revolutionäre Gedenkstätten und Bürgerkrieg.",
+      hu: "Az Estelí hősi halottainak emlékműve (Monumento a los Caídos) a város főterén áll, és egyike a legkifejezőbb forradalmi emlékhelyeknek Nicaraguában. Estelí városa a sandinista felkelés során háromszor is felkelt a Somoza-diktatúra ellen, amiért a Nemzeti Gárda légibombázásokkal és nehéztüzérséggel büntette a lakosságot, szinte a földig rombolva a várost 1979-ben. Az emlékmű ezeknek a heves városi harcoknak a civil és gerilla áldozatai előtt tiszteleg. A komor, betonból és fémből készült szerkezet gyakran szolgál politikai és megemlékezési gyűlések helyszínéül. Történelem K8 — városi gerillaharc és diktatúrák bukása.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Ehrt die Tausenden Zivilisten und Kämpfer, die während der Befreiung von Estelí 1978-1979 starben.", "Estelí trägt offiziell den Titel \"Tres Veces Heroica\" (Dreimal heldenhaft) wegen ihrer drei Aufstände.", "Die Bronzeskulptur zeigt einen erschöpften Guerillero, der einen gefallenen Kameraden hält.", "Das Denkmal befindet sich am zentralen Platz der Stadt (Plaza Parque Domingo Gadea).", "Die Somoza-Nationalgarde bombardierte das Zentrum von Estelí während der Kämpfe in Schutt und Asche.", "An nationalen Feiertagen wie dem 19. Juli ist das Monument der Mittelpunkt von Gedenkfeiern."],
+      hu: ["Estelít a forradalom alatt 'A háromszor hősi város' (Tres Veces Heroica) címmel illették.", "Az 1978. szeptemberi harcokban a város lakosságának jelentős része hetekre az utcákon rekedt.", "Az emlékmű körül falfestmények (murales) ábrázolják a város lerombolását és újjászületését.", "Minden év júliusában, a forradalom évfordulóján virágkoszorúkat helyeznek el itt.", "A központi tér, ahol az emlékmű áll, a város társadalmi életének központja.", "A közelben található a szintén bombatalálatokat kapott, de újjáépített helyi katedrális."],
+      ro: [],
+      en: []
+    }
+  },
   {
     id: "ni-puente-paso-caballos-landmarks-v2",
     type: "landmark",
@@ -978,7 +1288,20 @@ export const poiExtraNicaraguaLandmarksV2: POI[] = [
         "Offers a picturesque view of mangrove forests and the sea.",
         "Popular among local fishermen who fish off the bridge."
       ]
-    }, image: "/poi-images/ni-puente-paso-caballos-landmarks-v2.webp"},
+    }, image: "/poi-images/ni-puente-paso-caballos-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Paso Caballos Brücke im Departement Chinandega ist ein unverzichtbares logistisches Meisterwerk und gleichzeitig ein landschaftliches Highlight. Sie überbrückt die breite Meeresmündung (Estero) und ist die einzige Straßenverbindung, die die Hafeninsel Corinto mit dem nicaraguanischen Festland verbindet. Ohne diese Brücke käme der gesamte wichtigste Seeaußenhandel des Landes zum Erliegen. Benannt nach einem historischen Übersetzpunkt für Pferde, bietet die Brücke heute einen spektakulären Panoramablick auf weite Mangrovenwälder und den mächtigen Vulkan San Cristóbal. Unter der Brücke herrscht zudem reger Bootsverkehr lokaler Fischer, die in den nährstoffreichen Gewässern des Esteros arbeiten. Geografie K7 — Logistische Engpässe und Küsteninfrastruktur.",
+      hu: "A Paso Caballos híd egy kulcsfontosságú közlekedési artéria Chinandega megyében, amely Corinto kikötőszigetét köti össze a szárazfölddel. Történelmileg ezen a sekély, tengeri csatornán a spanyol időkben lóháton keltek át apálykor, innen ered a név ('Lovak Átkelője'). A jelenlegi hosszú, acél és beton szerkezetű hidat a 20. század második felében építették, és az ország szinte teljes tengeri exportját és importját elbírja. A híd egyben kedvelt helyi turisztikai pont is; a mellette lévő kis éttermek (paso caballos) híresek a friss tengeri rákról (conchas) és halételekről. Földrajz K6 — kikötői infrastruktúra és tengerparti étkezdék.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Die Brücke ist die exklusive Landverbindung zum wichtigsten Pazifikhafen Corinto.", "Überquert das breite Mündungsgebiet (Estero Paso Caballos), ein reiches Mangroven-Ökosystem.", "Der Name leitet sich von der Zeit ab, als Pferde hier durchs flache Wasser geführt wurden.", "Von der Brücke aus ist Nicaraguas höchster Vulkan, der San Cristóbal, perfekt sichtbar.", "Das Wasser unter der Brücke ist ein sehr beliebtes, aber strömungsstarkes lokales Badegebiet.", "Wurde mehrfach modernisiert, um den massiven Belastungen schwerer Fracht-Lkw standzuhalten."],
+      hu: ["A híd íveli át az El Realejo torkolatvidék tengeri bejáratát.", "Hossza megközelíti a 300 métert.", "1998-ban a Mitch hurrikán súlyosan károsította a híd alapozását, amit meg kellett erősíteni.", "A híd lábánál található az ország egyik leghíresebb 'conchas negras' (fekete kagyló) lelőhelye.", "A hidat naponta több száz nehéz kamion (rastras) keresztezi Corinto felé.", "Apály idején a híd alatti homokpadokon helyiek halásznak kagylóra és rákra."],
+      ro: [],
+      en: []
+    }
+  },
   {
     id: "ni-estadio-soberania-landmarks-v2",
     type: "landmark",
@@ -1017,6 +1340,18 @@ export const poiExtraNicaraguaLandmarksV2: POI[] = [
         "Has a seating capacity of about 15,000 spectators.",
         "Originally named after baseball star Dennis Martínez."
       ]
+    },
+    descriptionAdvanced: {
+      de: "Das Estadio Nacional Soberanía (früher bekannt als Estadio Dennis Martínez) ist der leuchtende Tempel des nicaraguanischen Nationalsports: Baseball. Eröffnet 2017 im Zentrum von Managua, ersetzte es das alte, erdbebengeschädigte Stadion und gilt als das modernste Baseballstadion Zentralamerikas, gebaut nach den Standards der Major League Baseball (MLB). Mit einer Kapazität von 15.000 Zuschauern ist es das pulsierende Herz bei nationalen Meisterschaften (Liga Profesional) und internationalen Turnieren. Die Architektur des Stadions ist nicht nur funktional, sondern auch ein Symbol für die nationale Identität und die ungebrochene Leidenschaft der Nicaraguaner für \"El Béisbol\". Architektur K6 — Nationale Sportkultur und moderne Stadien.",
+      hu: "A Soberanía Nemzeti Stadion (korábbi nevén Estadio Nacional Dennis Martínez) Managua legmodernebb sportlétesítménye, amelyet 2017-ben adtak át a Közép-Amerikai Játékok (Juegos Centroamericanos) alkalmából. A több mint 15 ezer férőhelyes stadion elsősorban baseball-mérkőzéseknek – Nicaragua nemzeti sportjának – ad otthont. Kialakítása megfelel az amerikai Major League Baseball (MLB) szabványainak, ami a legmodernebb sportarénává teszi Közép-Amerikában. Az épület szimbolikus jelentőségű a főváros újjáépítésében és modernizációjában, bár nevének megváltoztatása (egy politikai vita után) heves társadalmi visszhangot váltott ki. Földrajz K6 — modern sportinfrastruktúra és baseball.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Das größte und modernste Baseballstadion in Zentralamerika, eingeweiht im Jahr 2017.", "Erbaut nach strengen Major League Baseball (MLB)-Standards.", "Bietet Platz für 15.000 Zuschauer und verfügt über eine hochmoderne Flutlichtanlage.", "Hieß ursprünglich nach dem nicaraguanischen MLB-Star Dennis Martínez, wurde aber 2022 umbenannt.", "Ersetzte das historische, durch das Erdbeben von 1972 strukturell beschädigte alte Stadion.", "Dient gelegentlich auch für massive Konzerte und große staatliche Veranstaltungen."],
+      hu: ["A stadion Tajvan pénzügyi támogatásával (több mint 30 millió dollár) épült fel.", "A nézőtér befogadóképessége pontosan 15 670 fő.", "A pályát az MLB legszigorúbb méret- és világítási szabályai szerint alakították ki.", "Eredetileg Dennis Martínezről, a nicaraguai származású híres MLB dobóról (pitcher) nevezték el.", "2022-ben a kormány hivatalosan 'Estadio Soberanía' (Szuverenitás Stadion) névre keresztelte át.", "A régi Nemzeti Stadion, amely 1948-ban épült, a 72-es földrengésben megsérült és elavulttá vált."],
+      ro: [],
+      en: []
     }
   },
   {
@@ -1057,7 +1392,20 @@ export const poiExtraNicaraguaLandmarksV2: POI[] = [
         "The tower has a height of 17 meters.",
         "The heavy bronze bell chimes every hour."
       ]
-    }, image: "/poi-images/ni-campana-paz-landmarks-v2.webp"},
+    }, image: "/poi-images/ni-campana-paz-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Friedensglocke von Managua (Campana de la Paz) ist eines der neuesten und auffälligsten Monumente in der Hauptstadt. Der 17 Meter hohe, elegant gestaltete Turm am Rande des historischen Zentrums wurde 2020 eingeweiht. In seiner Spitze hängt eine massive Bronzeglocke, die zu jeder vollen Stunde schlägt und den Beginn des Angelus-Gebets markiert. Das Denkmal wurde als Symbol der Versöhnung und des Friedens nach den gewalttätigen politischen Unruhen des Jahres 2018 errichtet. Der Turm bietet von seiner Aussichtsplattform, die Besuchern zugänglich ist, einen herrlichen Blick über die Plaza de la Revolución, den alten Bahnhof und den Managuasee. Architektur K6 — Moderne Mahnmale und Stadtentwicklung.",
+      hu: "A Managuai békeharang (Campana de la Paz) egy hatalmas, nyitott toronyban elhelyezett emlékmű a főváros történelmi központjában, a Plaza de la Revolución közelében. A 2020-ban felavatott masszív szerkezet több mint 17 méter magas, a tetején egy hatalmas bronzharanggal, amelynek súlya meghaladja a 7 tonnát. A harang óránként kondul meg, és az épület esti kivilágítása Managua új, posztmodern sziluettjének (skyline) részévé vált. A kormányzati projekt célja a béke, az élet és a megbékélés (Paz, Vida y Reconciliación) szimbolizálása volt a 2018-as politikai válság és a Covid-19 világjárvány után. Történelem K7 — kortárs emlékműépítészet és propaganda.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Das Monument wurde im Juli 2020 in der Nähe der Plaza de la Revolución eingeweiht.", "Der Turm ist 17 Meter hoch und wurde als Symbol für den nationalen Frieden errichtet.", "Die Bronzeglocke wiegt über eine Tonne und schlägt zu jeder vollen Stunde.", "Die Turmspitze verfügt über eine kleine, öffentlich zugängliche Aussichtsplattform (Mirador).", "Wurde als Reaktion auf die tiefe gesellschaftliche Spaltung nach den Unruhen von 2018 erbaut.", "Das mechanische Uhrwerk und die Glocke wurden speziell aus dem Ausland importiert."],
+      hu: ["A harangot Hollandiában öntötték, majd hajón szállították Nicaraguába.", "A torony egy beépített kilátóterasszal is rendelkezik a turisták számára.", "A harangra a 'Campana de la Paz - Nicaragua 2020' feliratot gravírozták.", "Minden negyedórában harangjáték szólal meg, a déli és esti harangszó különösen hangos.", "Építése a nicaraguai társadalomban vitákat váltott ki a magas költségek miatt.", "A torony közvetlenül a régi managuai katedrális és a tóparti sétány (Malecón) között helyezkedik el."],
+      ro: [],
+      en: []
+    }
+  },
   {
     id: "ni-basilica-san-sebastian-diriamba-landmarks-v2",
     type: "landmark",
@@ -1096,7 +1444,20 @@ export const poiExtraNicaraguaLandmarksV2: POI[] = [
         "It is the center of the famous 'El Güegüense' dance performances.",
         "Achieved the status of a Minor Basilica in 1964."
       ]
-    }, image: "/poi-images/ni-basilica-san-sebastian-diriamba-landmarks-v2.webp"},
+    }, image: "/poi-images/ni-basilica-san-sebastian-diriamba-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Basílica Menor de San Sebastián in Diriamba ist das spirituelle Herz des Carazo-Plateaus und ein architektonisches Prachtstück. Der Grundstein für dieses massive Gebäude mit seiner strahlend weißen Fassade und den Zwillingstürmen wurde 1891 gelegt. Im Gegensatz zu vielen barocken Kolonialkirchen in Nicaragua ist San Sebastián ein hervorragendes Beispiel für den Neoklassizismus und Eklektizismus. National berühmt ist die Basilika als Epizentrum der Januar-Feierlichkeiten zu Ehren des Heiligen Sebastian. Dann werden auf ihrem Vorplatz die berühmten satirischen Tänze aufgeführt, darunter \"El Güegüense\" (UNESCO-Kulturerbe), \"El Toro Huaco\" und \"El Gigante\", die indigene Rebellion und spanische Einflüsse vermischen. Architektur K7 — Neoklassizismus und synkretistische Tänze.",
+      hu: "A diriambai Szent Sebestyén-bazilika (Basílica Menor de San Sebastián) a Carazo-fennsík egyik legfontosabb egyházi épülete. A templomot a 19. század végén kezdték építeni, hogy méltó otthont adjon Diriamba védőszentjének. A hatalmas, neoklasszicista épület egyetlen toronnyal rendelkezik, miután a másodikat pénzhiány miatt soha nem fejezték be. A bazilika igazi jelentőségét az évente január 17. és 27. között megrendezett fieszták adják. Ilyenkor a templom körüli utcákon bemutatják az El Güegüense (Macho Ratón) című szatirikus táncot, amely az UNESCO szellemi világörökségének része. Történelem K8 — UNESCO szellemi örökség és egyházi hagyományok.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Der Grundstein wurde 1891 gelegt, die Basilika wurde erst Mitte des 20. Jahrhunderts vollendet.", "Im Oktober 1998 von Papst Johannes Paul II. in den Rang einer Basilica Menor erhoben.", "Der Vorplatz ist die Bühne für den UNESCO-geschützten Tanz \"El Güegüense\".", "Die Kirche beherbergt die hochverehrte, angeblich blutende Holzstatue des San Sebastián.", "Die Fassade zeichnet sich durch neoklassizistische Säulen und symmetrische Zwillingstürme aus.", "Das jährliche Treffen der Heiligen (\"El Tope\") im Januar findet vor ihren Toren statt."],
+      hu: ["A templomot 1998-ban emelték hivatalosan is 'Basilica Minor' rangra.", "A templom építését nagyrészt a helyi kávébárók (cafetaleros) finanszírozták.", "A januári fiesztán találkozik Szent Sebestyén (Diriamba), Szent Márk (San Marcos) és Szent Jakab (Jinotepe) szobra az 'El Tope' szertartáson.", "A templom belsejében őrzött Szent Sebestyén-szobor spanyol fafaragás.", "Az épület homlokzata szürke kőből és habarcsból készült, robusztus oszlopokkal.", "Az 1992-es földrengés repedéseket okozott a falakban, amelyeket később megerősítettek."],
+      ro: [],
+      en: []
+    }
+  },
   {
     id: "ni-iglesia-guadalupe-granada-landmarks-v2",
     type: "landmark",
@@ -1135,7 +1496,20 @@ export const poiExtraNicaraguaLandmarksV2: POI[] = [
         "Used as a fortress by William Walker's troops in the 19th century.",
         "After severe destruction, it was rebuilt in all its glory."
       ]
-    }, image: "/poi-images/ni-iglesia-guadalupe-granada-landmarks-v2.webp"},
+    }, image: "/poi-images/ni-iglesia-guadalupe-granada-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Iglesia de Nuestra Señora de Guadalupe in Granada trägt schwer an der militärischen Geschichte der Stadt. Ursprünglich 1626 als einfache Einsiedelei erbaut, wurde die Kirche aufgrund ihrer strategischen Lage an der Straße zum See (Calle La Calzada) oft zur Festung. Ihre dunkelste Stunde erlebte sie 1856, als die Söldnertruppen von William Walker sich für 18 Tage in der Kirche verschanzten, bevor sie aus Granada flohen. Sie schossen Schießscharten in die massiven Mauern und ließen die Kirche als ausgebrannte Ruine zurück. Das heutige Gebäude, mit seinem markanten, gedrungenen Glockenturm und den sichtbaren historischen Narben, wurde liebevoll restauriert und markiert den Beginn der touristischen Flaniermeile Richtung Seeufer. Architektur K7 — Befestigte Kirchen und Filibuster-Krieg.",
+      hu: "A Guadalupe-templom (Iglesia de Guadalupe) Granada tóparti útjának, a Calle de la Calzadának a végén található. Az 1626-ban alapított templom stratégiai elhelyezkedése miatt (közvetlenül a tóparti móló közelében) a város első védelmi vonala volt a Karib-tengerről érkező kalózokkal szemben. 1856-ban William Walker amerikai zsoldoscsapatai erődítményként használták a templomot, és 18 napos ostromot álltak ki itt, mielőtt elmenekültek a tóról. Walker emberei felgyújtották a templomot, amit a 20. század közepén állítottak csak teljesen helyre jelenlegi, eklektikus formájában. Történelem K7 — katonai erődtemplomok és ostromok.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Die ursprüngliche Kirche wurde 1626 von dem Mönch Fray Benito de Baltodano erbaut.", "Diente im November 1856 als letzte Bastion der US-Söldner (Filibuster) unter William Walker.", "Die massiven Wände weisen noch immer Spuren von Einschusslöchern aus dem 19. Jahrhundert auf.", "Die Kirche liegt auf der Calle La Calzada, der direkten Verbindungsstraße vom Zentrum zum See.", "Nach der völligen Zerstörung durch Walkers Truppen wurde sie 1965 umfassend rekonstruiert.", "Der Innenraum wirkt höhlenartig, da die Fenster zum Schutz oft klein gehalten wurden."],
+      hu: ["A templomot eredetileg Fray Benito de Baltodano alapította.", "A Walker elleni 1856-os ostrom alatt a templom szinte teljesen romba dőlt az ágyútűztől.", "1965-ben az épületet modern építőanyagok (beton) felhasználásával újjáépítették.", "Homlokzatán egyetlen, középső harangtorony emelkedik, ami szokatlan a spanyol építészetben.", "Sétálóutcája, a Calle de la Calzada, a város legforgalmasabb turisztikai artériája.", "A templomkertben megemlékezést állítottak a Walker elleni harc nicaraguai áldozatainak."],
+      ro: [],
+      en: []
+    }
+  },
   {
     id: "ni-fortaleza-san-pablo-landmarks-v2",
     type: "landmark",
@@ -1174,6 +1548,18 @@ export const poiExtraNicaraguaLandmarksV2: POI[] = [
         "Can only be reached by boat across the massive freshwater lake.",
         "It was extensively restored for tourism purposes in 1974."
       ]
+    },
+    descriptionAdvanced: {
+      de: "Die Festung San Pablo (Fuerte San Pablo) ist ein bemerkenswertes kleines Fort, das auf einer der Isletas de Granada im Nicaraguasee thront. Erbaut im Jahr 1789, war es eine direkte Reaktion auf die verheerenden Angriffe britischer und französischer Piraten, die wiederholt den Fluss San Juan hinaufkamen, um die reiche Stadt Granada zu plündern. Mit dicken Steinmauern und Kanonen, die direkt auf die Fahrrinnen des Sees gerichtet sind, sollte das Fort als Vorwarnposten und erste Verteidigungslinie dienen. Heute ist die winzige Insel mit dem restaurierten Fort ein extrem beliebtes Ziel für Bootstouren. Sie bietet eine pittoreske Zeitreise und herrliche Ausblicke über den See und den majestätischen Vulkan Mombacho. Geschichte K7 — Seeverteidigung und koloniale Isletas.",
+      hu: "A San Pablo erőd (Fuerte San Pablo) egy 18. századi apró kőerőd, amely Granada egyik tóparti szigetén (Isletas de Granada) épült 1783-ban. Célja a spanyol gyarmati város védelme volt a San Juan-folyón keresztül a Nicaragua-tóba behatoló karibi kalózok ellen. Az erőd falait a helyi vulkanikus kőzetekből építették, és hat ágyúval szerelték fel, hogy kereszttűz alatt tartsák a városba vezető tengeri útvonalat. Bár katonai jelentőségét a 19. századra elvesztette, a 20. században felújították, és ma az Isletas (a 365 kis sziget) egyik legnépszerűbb csónakos turisztikai célpontja. Történelem K6 — szigeti erődítmények és kalózvédelem.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Das kleine Fort wurde 1789 unter der Herrschaft des spanischen Königs Karl IV. erbaut.", "Gelegen auf einer der über 300 kleinen Inseln (Isletas), die durch den Vulkan Mombacho entstanden.", "Diente als Vorposten, um Granada vor Piraten (wie William Dampier) zu schützen.", "Verfügt über Original-Kanonen aus dem 18. Jahrhundert, die auf den See ausgerichtet sind.", "Wurde im späten 20. Jahrhundert durch das Nationale Institut für Kultur sorgfältig restauriert.", "Die Festung kann heute von Touristen per Boot erreicht und besichtigt werden."],
+      hu: ["Az erőd egyetlen kis szigetet foglal el, az Asese-félsziget (Península de Asese) közelében.", "A falakon még mindig megtekinthetők az eredeti spanyol ágyúk replikái.", "Az épületet Tomás de Arana mérnök tervezte a kalóztámadások elszaporodása miatt.", "1974-ben a nicaraguai kormány teljesen restaurálta az elhagyatott romokat.", "Kiváló kilátás nyílik az erődből a Mombacho vulkánra és a környező dzsungelszigetekre.", "William Walker csapatai 1856-ban átmenetileg elfoglalták az erődöt is."],
+      ro: [],
+      en: []
     }
   }
 ];

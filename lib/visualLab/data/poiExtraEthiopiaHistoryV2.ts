@@ -12,7 +12,14 @@ export const poiExtraEthiopiaHistoryV2: POI[] = [
       hu: "Fasil Ghebbi",
       ro: "Fasil Ghebbi",
       en: "Fasil Ghebbi"
+    ,
+    descriptionAdvanced: {
+      hu: "Fasil Ghebbi Gondar városában található, és az Etióp Birodalom 17. és 18. századi fővárosának erődített palotakomplexuma. A terület az UNESCO Világörökség része, és az etióp, indiai, arab, valamint barokk építészeti stílusok különleges keveredése jellemzi. A komplexum számos palotát, templomot és királyi fürdőt foglal magában, amelyek az akkori etióp uralkodók pompáját tükrözik. Történelem K8 — Etióp Birodalom emlékei."
     },
+    factsAdvanced: {
+      hu: ["UNESCO Világörökségi helyszín", "A 17-18. századi császári főváros", "Különleges építészeti stíluskeveredés", "Paloták, templomok és fürdők együttese", "Fasilides császár alapította", "A középkori Etiópia hatalmi központja"]
+    }
+  },
     description: {
       de: "Die befestigte Stadt Fasil Ghebbi war im 16. und 17. Jahrhundert die Residenz des äthiopischen Kaisers Fasilides und seiner Nachfolger. Die Anlage ist von einer 900 Meter langen Mauer umgeben.",
       hu: "A megerősített Fasil Ghebbi város a 16. és 17. században Fasilides etióp császár és utódainak rezidenciája volt. A komplexumot egy 900 méter hosszú fal veszi körül.",
@@ -47,7 +54,14 @@ export const poiExtraEthiopiaHistoryV2: POI[] = [
       hu: "Lalibela sziklatemplomai",
       ro: "Bisericile cioplite în stâncă din Lalibela",
       en: "Rock-Hewn Churches, Lalibela"
+    ,
+    descriptionAdvanced: {
+      hu: "Lalibela sziklába vájt templomai a 12. és 13. században épültek, Lalibela király uralkodása alatt. A 11 templom a világ egyik legfontosabb keresztény zarándokhelye, amelyeket egyetlen hatalmas bazalt-sziklatömbből faragtak ki, a földszinttől lefelé haladva. Az épületek mérnöki teljesítménye és vallási jelentősége miatt az UNESCO a világörökség részévé nyilvánította. Történelem K7 — vallási középkor és építészet."
     },
+    factsAdvanced: {
+      hu: ["11 sziklába vájt templom", "Épült: 12-13. század", "Lalibela király nevéhez fűződik", "UNESCO Világörökségi helyszín", "Sziklából kifaragott monolit építmények", "A zarándoklatok egyik legfontosabb helyszíne"]
+    }
+  },
     description: {
       de: "Elf mittelalterliche, monolithische Höhlenkirchen, die im 13. Jahrhundert aus dem Fels gehauen wurden. Sie sind ein wichtiges Zentrum des äthiopischen Christentums und ein bedeutender Wallfahrtsort.",
       hu: "Tizenegy középkori, monolitikus barlangtemplom, amelyeket a 13. században vájtak ki a sziklából. Az etióp kereszténység és a zarándoklatok fontos központja.",
@@ -82,7 +96,14 @@ export const poiExtraEthiopiaHistoryV2: POI[] = [
       hu: "Akszum obeliszkjei",
       ro: "Obeliscurile din Aksum",
       en: "Aksumite Obelisks"
+    ,
+    descriptionAdvanced: {
+      hu: "Axum városa az ókori Axumi Királyság központja volt, amely Afrika egyik leghatalmasabb birodalmává vált az első évezredben. A híres monolit obeliszkek, köztük a legnagyobb, több mint 24 méter magasak, az uralkodók temetkezési helyeit jelölték. A város történelmi jelentőségét a legendák szerint itt őrzött Frigyláda is növeli, amely sokak szerint a Szűz Mária templomban található. Történelem K6 — ókori birodalmak és régészet."
     },
+    factsAdvanced: {
+      hu: ["Az ókori Axumi Királyság fővárosa", "Monumentális monolit obeliszkek", "Az uralkodók temetkezési emlékei", "Afrika egyik leghatalmasabb ókori állama", "A Frigyláda állítólagos őrzőhelye", "UNESCO Világörökségi helyszín"]
+    }
+  },
     description: {
       de: "Massive Stelen und Obelisken aus dem antiken Reich von Aksum, das vom 1. bis zum 8. Jahrhundert n. Chr. eine der mächtigsten Zivilisationen der Welt war.",
       hu: "Masszív sztélék és obeliszkek Akszum ősi birodalmából, amely az i. sz. 1. és 8. század között a világ egyik legerősebb civilizációja volt.",
@@ -105,7 +126,18 @@ export const poiExtraEthiopiaHistoryV2: POI[] = [
       hu: "Harar Jugol",
       ro: "Harar Jugol",
       en: "Harar Jugol"
+    ,
+    descriptionAdvanced: {
+      de: "Harar Jugol, die befestigte historische Stadt, ist eines der bedeutendsten islamischen Zentren Afrikas. Mit ihren 82 Moscheen und einer einzigartigen Stadtstruktur aus verwinkelten Gassen ist sie ein lebendiges Zeugnis einer jahrhundertealten Kulturgeschichte. Geschichte K7 – Islamische Geschichte in Afrika.",
+      hu: "Harar Jugol a muszlim világ negyedik legszentebb városa, amely fallal körülvett történelmi városmagjával és különleges építészetével vált ismertté. A 16. században épült falak és a számtalan mecset, valamint szentély a város évszázados vallási és kereskedelmi szerepét tükrözi. Harar évszázadokon át a kávékereskedelem központja volt, ami gazdag épített örökséget eredményezett. Történelem K7 — muszlim kultúra és fallal körülvett városok."
     },
+    factsAdvanced: {
+      hu: ["A muszlim világ 4. legszentebb városa", "Történelmi, fallal körülvett városmag", "Számtalan mecset és szentély otthona", "Jelentős kereskedelmi központ (kávé)", "UNESCO Világörökség része", "Gazdag vallási és építészeti örökség"]
+    },
+    factsAdvanced: {
+      de: ["Status: UNESCO-Welterbe", "Besonderheit: 82 Moscheen", "Struktur: Befestigte Altstadt", "Kultur: Zentrum des Islam in Äthiopien", "Tradition: 'Hyänenfütterung'"]
+    }
+  },
     description: {
       de: "Die historische befestigte Stadt Harar liegt im Osten Äthiopiens und gilt als die viertheiligste Stadt des Islam. Sie beherbergt 82 Moscheen, von denen drei aus dem 10. Jahrhundert stammen.",
       hu: "A történelmi erődített város, Harar Kelet-Etiópiában található, és az iszlám negyedik legszentebb városának tartják. 82 mecsetnek ad otthont, amelyek közül három a 10. századból származik.",
@@ -128,7 +160,14 @@ export const poiExtraEthiopiaHistoryV2: POI[] = [
       hu: "Tiya megalitikus helyszíne",
       ro: "Situl megalitic Tiya",
       en: "Tiya Megalithic Site"
+    ,
+    descriptionAdvanced: {
+      hu: "Tiya Etiópia egyik legfontosabb régészeti lelőhelye, amely a több mint 30 megalitikus sztéléről ismert. Ezek a kőtömbök az ókori etióp kultúrák temetkezési szokásait őrzik, a felszínükre faragott bonyolult szimbólumok és fegyvereket ábrázoló rajzok máig rejtélyesek a történészek számára. A lelőhely az UNESCO Világörökség része, és fontos betekintést nyújt a régió eddig kevéssé ismert múltjába. Történelem K6 — megalitikus kultúrák és régészet."
     },
+    factsAdvanced: {
+      hu: ["Több mint 30 megalitikus sztélé", "Ókori temetkezési emlékek", "Rejtélyes faragott szimbólumok", "UNESCO Világörökségi helyszín", "Etiópia egyik fő régészeti lelőhelye", "A régió ősi történelmének lenyomata"]
+    }
+  },
     description: {
       de: "Eine archäologische Stätte mit 36 Monumenten, darunter 32 geschnitzte Stelen. Die mysteriösen Gravuren, meist Schwerter, geben Hinweise auf eine alte äthiopische Kultur.",
       hu: "Régészeti lelőhely 36 műemlékkel, köztük 32 faragott sztélével. A titokzatos, többnyire kardokat ábrázoló gravírozások egy ősi etióp kultúrára utalnak.",
@@ -197,7 +236,14 @@ export const poiExtraEthiopiaHistoryV2: POI[] = [
       hu: "Konso kulturális táj",
       ro: "Peisajul cultural Konso",
       en: "Konso Cultural Landscape"
+    ,
+    descriptionAdvanced: {
+      de: "Die Kulturlandschaft von Konso ist ein faszinierendes Beispiel für die Anpassung der menschlichen Gemeinschaft an ihre Umgebung durch terrassierte Landwirtschaft. Sie ist zudem bekannt für ihre einzigartigen Grabpfähle, die Generationen überdauern. Geografie K6 – Landwirtschaftliche Kulturlandschaften."
     },
+    factsAdvanced: {
+      de: ["Status: UNESCO-Welterbe", "Besonderheit: Terrassierte Hügel", "Kultur: Einzigartige Grabpfähle (Waga)", "Region: Konso, Südäthiopien", "Bedeutung: Anpassung an Trockengebiete"]
+    }
+  },
     description: {
       de: "Eine 55 Quadratkilometer große Fläche mit terrassierten Feldern und befestigten Siedlungen, die von den Konso seit über 400 Jahren bewohnt und bewirtschaftet wird.",
       hu: "Egy 55 négyzetkilométeres terület teraszos mezőkkel és erődített településekkel, amelyet a Konso nép több mint 400 éve lakik és művel.",
@@ -634,7 +680,14 @@ export const poiExtraEthiopiaHistoryV2: POI[] = [
       hu: "Adwai csatatér",
       ro: "Câmpul de luptă de la Adwa",
       en: "Adwa Battlefield"
+    ,
+    descriptionAdvanced: {
+      de: "Das Schlachtfeld von Adwa ist ein Symbol des äthiopischen Widerstands und Sieges über die koloniale Übermacht Italiens im Jahr 1896. Es ist ein heiliger Ort nationalen Stolzes und der panafrikanischen Identität. Geschichte K8 – Kolonialismus und Widerstand."
     },
+    factsAdvanced: {
+      de: ["Ereignis: Schlacht von Adwa 1896", "Resultat: Sieg Äthiopiens", "Bedeutung: Symbol des Antikolonialismus", "Ort: Nordäthiopien"]
+    }
+  },
     description: {
       de: "Der Ort der historischen Schlacht von Adwa im Jahr 1896, bei der äthiopische Streitkräfte die italienische Armee besiegten und so die Unabhängigkeit Äthiopiens bewahrten.",
       hu: "Az 1896-os történelmi adwai csata helyszíne, ahol az etióp erők legyőzték az olasz hadsereget, ezzel megőrizve Etiópia függetlenségét.",

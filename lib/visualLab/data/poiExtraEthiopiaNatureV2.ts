@@ -9,10 +9,16 @@ export const poiExtraEthiopiaNatureV2: POI[] = [
     coords: [37.5898, 11.4883],
     name: {  de: "Blauer Nilfall", hu: "Kék-Nílus-vízesés", ro: "Cascada Nilului Albastru", en: "Blue Nile Falls" },
     descriptionAdvanced: {
-      de: "Der Blauer Nilfall, lokal als Tis Issat bekannt, ist einer der spektakulärsten Wasserfälle Äthiopiens und liegt in der Amhara-Region. Er markiert den Punkt, an dem der Blaue Nil in eine tiefe Schlucht stürzt, wobei die Breite des Wasserfalls je nach Jahreszeit stark schwankt. Geologisch gesehen ist er das Ergebnis des Basaltgesteins, das den Flusslauf unterbricht. Dieses Naturwunder ist ein essenzieller Teil des äthiopischen Geographieunterrichts der Klassenstufe 7.",
-      hu: "A Kék-Nílus-vízesés, helyi nevén Tis Issat, Etiópia egyik leglátványosabb természeti képződménye az Amhara régióban. A vízesés azon a ponton zuhan egy mély szakadékba, ahol a Kék-Nílus vize átbukik a bazaltkőzeteken, látványos párafelhőt képezve. A vízhozam szezonálisan jelentősen változik, ami különleges látványt nyújt a turistáknak. Ez a földrajzi jelenség fontos eleme a K7-es földrajzi tantervnek, amely a folyók és vízesések kialakulását vizsgálja.",
+      de: "Die Blauen-Nil-Fälle, lokal als Tis Issat bekannt, gehören zu den spektakulärsten Wasserfällen Afrikas. Das Wasser des Blauen Nils stürzt hier bis zu 45 Meter tief in eine Schlucht, wobei oft ein gewaltiger Sprühregen entsteht. Sie sind ein zentrales Naturdenkmal Äthiopiens. Geografie K7 – Flüsse Afrikas.",
+      hu: "A Kék-Nílus-vízesés, vagy ahogy helyiek hívják, a 'Tis Abay' (Dohányzó víz), Etiópia egyik leglátványosabb természeti képződménye. A vízesés a Tana-tóból eredő Kék-Nílus folyón található, és a vízhozama az évszaktól függően drasztikusan változhat. A vízesés környezete gazdag növény- és állatvilágnak ad otthont, és a környékbeli turistaösvények a természet kedvelői számára nyújtanak felejthetetlen élményt. Földrajz K6 — folyók és vízesések.",
       ro: "Cascada Nilului Albastru, cunoscută local sub numele de Tis Issat, este una dintre cele mai spectaculoase atracții naturale din Etiopia, situată în regiunea Amhara. Apa Nilului Albastru se prăbușește peste straturile de bazalt, formând o perdea de apă impresionantă care poate atinge lățimi variabile în funcție de anotimp. Acest monument al naturii este esențial pentru înțelegerea proceselor hidrologice, fiind inclus în programa școlară de geografie din clasa a VII-a.",
       en: "The Blue Nile Falls, locally known as Tis Issat, is one of Ethiopia's most spectacular waterfalls located in the Amhara region. The falls occur where the Blue Nile plunges into a deep gorge over basalt rocks, creating a massive curtain of water that varies significantly in width based on the season. This geological wonder is a key case study in Geography K7, helping students understand river dynamics and natural landscape formation."
+    },
+    factsAdvanced: {
+      hu: ["Helyi neve: Tis Abay ('Dohányzó víz')", "A Kék-Nílus egyik fő látványossága", "A Tana-tóból eredő folyón fekszik", "Változó vízhozam az évszakok szerint", "Gazdag élővilág a környéken", "Jelentős turisztikai célpont"]
+    },
+    factsAdvanced: {
+      de: ["Fallhöhe: bis zu 45 Meter", "Breite: bis zu 400 Meter in der Regenzeit", "Name: Tis Issat (rauchendes Wasser)", "Lage: Nähe der Stadt Bahir Dar", "Bedeutung: Wichtige Touristenattraktion"]
     },
     factsAdvanced: {
       de: ["Lokaler Name 'Tis Issat' bedeutet 'Rauch des Feuers'.", "Der Wasserfall stürzt in eine bis zu 45 Meter tiefe Schlucht.", "Die Breite kann in der Regenzeit bis zu 400 Meter erreichen.", "Ein Teil des Wassers wird für ein nahegelegenes Wasserkraftwerk genutzt.", "Das Gebiet ist ein wichtiges Ziel für den Ökotourismus.", "Das umliegende Gestein besteht primär aus vulkanischem Basalt."],
@@ -34,10 +40,16 @@ export const poiExtraEthiopiaNatureV2: POI[] = [
     coords: [37.3667, 12.0000],
     name: {  de: "Tanasee", hu: "Tana-tó", ro: "Lacul Tana", en: "Lake Tana" },
     descriptionAdvanced: {
-      de: "Der Tanasee im Hochland der Amhara-Region ist der größte See Äthiopiens und der wichtigste Ursprung des Blauen Nils. Mit einer Fläche von etwa 3.000 Quadratkilometern bildet er ein riesiges Binnenbecken, das auf einer Höhe von 1.788 Metern liegt. Er beherbergt zahlreiche mittelalterliche Klöster auf seinen Inseln, die tief mit der äthiopisch-orthodoxen Geschichte verwurzelt sind. Dieses Ökosystem ist für K7-Schüler im Geographieunterricht als Beispiel für ein bedeutendes Binnengewässer und dessen kulturelle Bedeutung relevant.",
-      hu: "A Tana-tó az Amhara régió felföldjén fekszik, Etiópia legnagyobb állóvize és a Kék-Nílus fő forrásvidéke. A mintegy 3000 négyzetkilométeres vízfelület 1788 méteres tengerszint feletti magasságban terül el, ökológiai és történelmi jelentősége egyaránt kimagasló. A tó szigetein található középkori kolostorok az etióp ortodox egyház örökségét őrzik. A K7-es földrajzi tantervben a tó kiemelkedő példa a nagy kiterjedésű tavak hidrológiai és kulturális hatásainak elemzésére.",
+      de: "Der Tana-See ist der größte See Äthiopiens und die Hauptquelle des Blauen Nils. Auf seinen Inseln finden sich alte orthodoxe Klöster aus dem 14. bis 18. Jahrhundert, die das kulturelle Erbe der Region bewahren. Der See ist zudem ein wichtiges Ökosystem für zahlreiche Wasservögel. Geschichte K8 – Orthodoxe Klöster.",
+      hu: "A Tana-tó Etiópia legnagyobb tava, amely a Kék-Nílus forrásvidéke. A tó különleges ökoszisztémával rendelkezik, és számos szigetén középkori etióp ortodox kolostorok találhatóak, amelyek vallási és kulturális központok. A tó vize létfontosságú a környék mezőgazdasága és a helyi közösségek halászata számára, miközben természeti szépsége és gazdag madárvilága a természetbúvárokat is vonzza. Földrajz K6 — tavak és élőhelyek.",
       ro: "Lacul Tana, situat în zonele înalte ale regiunii Amhara, este cel mai mare lac din Etiopia și principala sursă a Nilului Albastru. Cu o suprafață de aproximativ 3.000 kilometri pătrați, la o altitudine de 1.788 metri, acesta reprezintă un bazin hidrografic vital pentru țară. Insulele sale găzduiesc numeroase mănăstiri medievale, fiind profund legate de istoria creștinismului ortodox etiopian. Acest ecosistem este inclus în programa de geografie K7 pentru studiul bazinelor lacustre și al importanței culturale a acestora.",
       en: "Lake Tana, in the highlands of the Amhara region, is Ethiopia's largest lake and the primary source of the Blue Nile. Spanning roughly 3,000 square kilometers at an altitude of 1,788 meters, it serves as a massive inland water basin. Its islands are home to numerous medieval monasteries deeply rooted in Ethiopian Orthodox history. This ecosystem is a key case study in Geography K7, illustrating the hydrology and cultural significance of major inland lakes."
+    },
+    factsAdvanced: {
+      hu: ["Etiópia legnagyobb tava", "A Kék-Nílus forrásvidéke", "Középkori kolostorok szigeteken", "Gazdag madárvilág és ökoszisztéma", "Létfontosságú a halászatnak", "Kulturális és vallási jelentőség"]
+    },
+    factsAdvanced: {
+      de: ["Fläche: ca. 3000 Quadratkilometer", "Status: UNESCO-Biosphärenreservat", "Quelle: Blauer Nil", "Kultur: Historische Klosterinseln", "Bedeutung: Hauptwasserspeicher des Landes"]
     },
     factsAdvanced: {
       de: ["Fläche schwankt saisonal zwischen 3.000 und 3.600 km².", "Es ist der Ursprung des Blauen Nils.", "Auf den Inseln liegen über 20 historische Klöster.", "Die durchschnittliche Tiefe beträgt etwa 8 bis 14 Meter.", "Das Becken entstand durch vulkanische Aktivität im Tertiär.", "Der See ist ein wichtiges Zentrum der lokalen Binnenfischerei."],
@@ -64,6 +76,18 @@ export const poiExtraEthiopiaNatureV2: POI[] = [
       hu: ["Legmagasabb csúcs: Ras Dashen.", "UNESCO világörökség."],
       ro: ["Cel mai înalt vârf: Ras Dashen.", "Patrimoniul mondial UNESCO."],
       en: ["Highest peak: Ras Dashen.", "UNESCO World Heritage site."]
+    },
+    descriptionAdvanced: {
+      hu: "A Simien-hegység Etiópia leglátványosabb hegyvidéke, amelyet drámai meredélyek, éles csúcsok és kiterjedt fennsíkok jellemeznek. Az UNESCO Világörökség része, amely olyan ritka állatoknak ad otthont, mint a gelada pávián, a Simien-róka és az etióp kőszáli kecske. A hegység klímája a magasságtól függően változik, a magashegyi szavannáktól a sziklás hegycsúcsokig. Földrajz K7 — magashegyi ökoszisztémák."
+    },
+    factsAdvanced: {
+      hu: ["UNESCO Világörökségi helyszín", "Drámai meredélyek és éles csúcsok", "Gelada páviánok otthona", "Ritka, endemikus állatfajok", "Változatos magashegyi klíma", "Híres túrázási célpont"]
+    },
+    descriptionAdvanced: {
+      de: "Das Simien-Gebirge wird oft als eines der spektakulärsten Hochgebirge Afrikas bezeichnet. Mit seinen tiefen Schluchten und hohen Plateaus bietet es Heimat für seltene endemische Arten wie den Äthiopischen Wolf und den Dschelada-Pavian. Ein Paradies für Trekking-Begeisterte. Biologie K7 – Endemismus in Äthiopien."
+    },
+    factsAdvanced: {
+      de: ["Status: UNESCO-Welterbe", "Höchster Gipfel: Ras Dashen", "Fauna: Heimat des Äthiopischen Wolfs", "Besonderheit: Einzigartige geologische Erosion", "Landschaft: Tief eingeschnittene Täler"]
     }, image: "/poi-images/simien-mountains-nature-v2.webp"},
   {
     id: "awash-river-nature-v2",
@@ -77,6 +101,18 @@ export const poiExtraEthiopiaNatureV2: POI[] = [
       hu: ["Hossz: kb. 1200 km.", "Az Afar-háromszögben végződik."],
       ro: ["Lungime: aprox. 1200 km.", "Se termină în Triunghiul Afar."],
       en: ["Length: approx. 1,200 km.", "Ends in the Afar Triangle."]
+    },
+    descriptionAdvanced: {
+      hu: "Az Awash-folyó az etiópiai Rift-völgy legfontosabb vízfolyása, amely az ország keleti részén keresztül haladva a völgy gazdasági és természeti életének motorja. A folyó mentén található Awash Nemzeti Park a vadvilág megfigyelésére szolgál, ahol gazellák, oryxok és különböző madárfajok élnek. A folyó vize nélkülözhetetlen az öntözéses mezőgazdaság számára a száraz éghajlatú alföldeken. Földrajz K6 — folyók és Rift-völgy."
+    },
+    factsAdvanced: {
+      hu: ["Az etiópiai Rift-völgy fő folyója", "Az Awash Nemzeti Park mentén", "Vadvilág megfigyelőhely", "Létfontosságú az öntözéses gazdálkodáshoz", "Száraz éghajlatú övezeteken halad át", "Gazdag élővilág"]
+    },
+    descriptionAdvanced: {
+      de: "Der Awash ist ein bedeutender Fluss in Zentraläthiopien, der in einer endorheischen Senke endet. Sein Einzugsgebiet ist nicht nur für die Landwirtschaft entscheidend, sondern auch für die Paläontologie von großer Bedeutung, da hier wichtige Hominidenfunde entdeckt wurden. Geschichte K6 – Wiege der Menschheit."
+    },
+    factsAdvanced: {
+      de: ["Länge: ca. 1200 Kilometer", "Bedeutung: Landwirtschaftliche Bewässerung", "Paläontologie: Fundort von 'Lucy'", "Region: Zentraläthiopien", "Ende: Abe-See"]
     }, image: "/poi-images/awash-river-nature-v2.webp"},
   {
     id: "lake-abijatta-nature-v2",
@@ -90,6 +126,18 @@ export const poiExtraEthiopiaNatureV2: POI[] = [
       hu: ["Fontos madárvédelmi terület.", "Sekély víz."],
       ro: ["Importantă rezervație aviatică.", "Apă puțin adâncă."],
       en: ["Important bird sanctuary.", "Shallow water."]
+    },
+    descriptionAdvanced: {
+      hu: "Az Abijatta-tó a Rift-völgyben fekvő sós vizű tó, amely a gazdag madárvilágáról, különösen a flamingókról híres. A tó vizének kémiai összetétele sajátos, ami befolyásolja az élővilágát, és az időszakos kiszáradások miatt az ökoszisztéma sérülékeny. A tó környéke az Abijatta-Shalla Nemzeti Park része, amely a vándormadarak egyik fontos megállóhelye Afrikában. Földrajz K5 — tavak és madárvilág."
+    },
+    factsAdvanced: {
+      hu: ["Sós vizű tó a Rift-völgyben", "Flamingók és vándormadarak otthona", "Az Abijatta-Shalla Nemzeti Park része", "Sajátos kémiai összetételű víz", "Sérülékeny ökoszisztéma", "Fontos madármegfigyelő terület"]
+    },
+    descriptionAdvanced: {
+      de: "Der Abijatta-See ist ein flacher Sodasee im Rift Valley, der für seine großen Flamingopopulationen bekannt ist. Aufgrund seiner hohen Alkalität ist er ökologisch hochspezialisiert und bietet ein faszinierendes Naturschauspiel. Biologie K6 – Ökosysteme im Rift Valley."
+    },
+    factsAdvanced: {
+      de: ["Typ: Sodasee", "Lage: Rift Valley", "Fauna: Flamingo-Brutgebiete", "Tiefe: Sehr flach", "Bedeutung: Vogelbeobachtungsgebiet"]
     }, image: "/poi-images/lake-abijatta-nature-v2.webp"},
   {
     id: "lake-shala-nature-v2",
@@ -103,6 +151,12 @@ export const poiExtraEthiopiaNatureV2: POI[] = [
       hu: ["Mélység: több mint 250 m.", "Az Abijatta-tó közelében fekszik."],
       ro: ["Adâncime: peste 250 m.", "Situat lângă lacul Abijatta."],
       en: ["Depth: over 250 m.", "Located near Lake Abijatta."]
+    },
+    descriptionAdvanced: {
+      de: "Der Shala-See ist einer der tiefsten Seen Äthiopiens und liegt in einer vulkanischen Caldera. Er ist bekannt für seine heißen Quellen am Ufer und seine Bedeutung als Rückzugsgebiet für Wasservögel. Erdkunde K7 – Vulkanische Seen."
+    },
+    factsAdvanced: {
+      de: ["Tiefe: bis zu 266 Meter", "Lage: Rift Valley", "Phänomen: Heiße Quellen am Ufer", "Charakter: Alkalisch", "Fauna: Pelikankolonien"]
     }, image: "/poi-images/lake-shala-nature-v2.webp"},
   {
     id: "lake-chamo-nature-v2",
@@ -116,6 +170,12 @@ export const poiExtraEthiopiaNatureV2: POI[] = [
       hu: ["A Nechisar Nemzeti Park része.", "Gazdag halakban."],
       ro: ["Parte a Parcului Național Nechisar.", "Bogată în pește."],
       en: ["Part of Nechisar National Park.", "Rich in fish."]
+    },
+    descriptionAdvanced: {
+      de: "Der Chamo-See im Süden Äthiopiens ist berühmt für seine großen Nilkrokodil- und Nilpferdpopulationen. Er ist Teil eines wichtigen Feuchtgebiets-Komplexes und bietet einzigartige Möglichkeiten zur Tierbeobachtung. Biologie K6 – Ökosysteme der Savanne."
+    },
+    factsAdvanced: {
+      de: ["Fauna: Riesen-Nilkrokodile", "Region: Süd-Äthiopien", "Bedeutung: Wichtiges Feuchtgebiet", "Tiere: Nilpferd-Bestände", "Lage: Nähe Arba Minch"]
     }, image: "/poi-images/lake-chamo-nature-v2.webp"},
   {
     id: "lake-abaya-nature-v2",
@@ -129,6 +189,12 @@ export const poiExtraEthiopiaNatureV2: POI[] = [
       hu: ["Vörösesbarna szín az üledékek miatt.", "Etiópia második legnagyobb tava."],
       ro: ["Culoare roșiatică din cauza sedimentelor.", "Al doilea lac ca mărime din Etiopia."],
       en: ["Reddish-brown color due to sediments.", "Second largest lake in Ethiopia."]
+    },
+    descriptionAdvanced: {
+      de: "Der Abaya-See ist der zweitgrößte See Äthiopiens und bekannt für seine rötliche Farbe, die durch Schwebstoffe im Wasser entsteht. Er ist ein zentrales Gewässer für die lokale Fischerei und ein wichtiges Habitat für Krokodile. Erdkunde K5 – Gewässer Äthiopiens."
+    },
+    factsAdvanced: {
+      de: ["Fläche: ca. 1160 Quadratkilometer", "Farbe: Rötlich aufgrund von Sedimenten", "Bedeutung: Fischereiregion", "Lage: Rift Valley", "Nachbar: Chamo-See"]
     }, image: "/poi-images/lake-abaya-nature-v2.webp"},
   {
     id: "lake-langano-nature-v2",
@@ -142,6 +208,12 @@ export const poiExtraEthiopiaNatureV2: POI[] = [
       hu: ["Bilharziózis-mentes.", "Népszerű turisztikai célpont."],
       ro: ["Liber de bilharzioză.", "Destinație turistică populară."],
       en: ["Free from bilharzia.", "Popular tourist destination."]
+    },
+    descriptionAdvanced: {
+      de: "Der Langano-See ist einer der wenigen Seen im Rift Valley, der zum Schwimmen geeignet ist, da er malariafrei ist. Er wird von goldenen Stränden gesäumt und ist ein beliebtes Erholungsziel für Reisende. Erdkunde K5 – Erholung und Tourismus."
+    },
+    factsAdvanced: {
+      de: ["Eigenschaft: Zum Baden geeignet", "Status: Malariafrei", "Besonderheit: Goldene Sandstrände", "Lage: Rift Valley", "Tourismus: Beliebtes Wochenendziel"]
     }, image: "/poi-images/lake-langano-nature-v2.webp"},
   {
     id: "bale-mountains-nature-v2",
@@ -155,6 +227,12 @@ export const poiExtraEthiopiaNatureV2: POI[] = [
       hu: ["Az etióp farkas otthona.", "Magas fennsíkok."],
       ro: ["Casa lupului etiopian.", "Platouri înalte."],
       en: ["Home to the Ethiopian wolf.", "High plateaus."]
+    },
+    descriptionAdvanced: {
+      de: "Der Bale-Mountains-Nationalpark umfasst eines der wichtigsten Hochplateaus Afrikas. Er ist weltbekannt für die höchste Dichte an Äthiopischen Wölfen und beherbergt eine außergewöhnliche alpine Flora. Ein Muss für Naturliebhaber. Biologie K7 – Endemische Hochlandarten."
+    },
+    factsAdvanced: {
+      de: ["Status: Nationalpark", "Biodiversität: Extrem hoch", "Fauna: Äthiopischer Wolf", "Vegetation: Afroalpiner Moor-Charakter", "Bedeutung: Wasserquellregion"]
     }, image: "/poi-images/bale-mountains-nature-v2.webp"},
   {
     id: "lake-ziway-nature-v2",

@@ -74,8 +74,8 @@ export const hondurasCities: POI[] = [
     description: { de: "Eine Küstenstadt, bekannt als Tor zu den Bay Islands.", hu: "Tengerparti város, amely az Öböl-szigetek kapuja.", ro: "Oraș de coastă, poarta către Insulele Golfului (Bay Islands).", en: "A coastal city known as the gateway to the Bay Islands." },
     descriptionAdvanced: {
       de: "La Ceiba ist die drittgrößte Stadt des Landes und gilt als 'Hauptstadt des honduranischen Tourismus'. Sie ist berühmt für ihren Karneval und die Nähe zum Pico Bonito Nationalpark.",
-      hu: "La Ceiba az ország harmadik legnagyobb városa, és a „hondurasi turizmus fővárosának” tekintik. Híres a karneváljáról és a Pico Bonito Nemzeti Park közelségéről.",
-      ro: "La Ceiba este al treilea oraș ca mărime din țară și este considerat „capitala turismului hondurian”. Este faimos pentru carnavalul său și apropierea de Parcul Național Pico Bonito.",
+      hu: "La Ceiba az ország harmadik legnagyobb városa, és a \\\"hondurasi turizmus fővárosának\\\" tekintik. Híres a karneváljáról és a Pico Bonito Nemzeti Park közelségéről.",
+      ro: "La Ceiba este al treilea oraș ca mărime din țară și este considerat \\\"capitala turismului hondurian\\\". Este faimos pentru carnavalul său și apropierea de Parcul Național Pico Bonito.",
       en: "As the third largest city in Honduras, La Ceiba is often hailed as the 'Tourism Capital'. It is world-famous for its annual carnival and its location at the foot of the Pico Bonito National Park."
     },
     facts: {
@@ -255,14 +255,14 @@ export const hondurasCities: POI[] = [
     description: { de: "Ein imposantes Bergmassiv, das für seine steilen Hänge und den dichten Urwald bekannt ist.", hu: "Impozáns hegymasszívum, amely meredek lejtőiről és sűrű őserdejéről ismert.", ro: "Un masiv muntos impunător, cunoscut pentru pantele sale abrupte și jungla deasă.", en: "An imposing mountain massif known for its steep slopes and dense ancient forest." },
     descriptionAdvanced: {
       de: "Celaque bedeutet in der Lenca-Sprache 'Kasten voll Wasser'. Tatsächlich entspringen hier neun Flüsse, die die umliegenden Täler mit Wasser versorgen. Der Nationalpark schützt einen der wertvollsten Nebelwälder Zentralamerikas.",
-      hu: "A Celaque lenca nyelven „vízzel teli ládát” jelent. Valóban, kilenc folyó ered itt, amelyek a környező völgyeket látják el vízzel. A nemzeti park Közép-Amerika egyik legértékesebb köderdőjét védi.",
-      ro: "Celaque înseamnă „cutie plină cu apă” în limba Lenca. Într-adevăr, aici izvorăsc nouă râuri care alimentează văile din jur. Parcul național protejează una dintre cele mai prețioase păduri de ceață din America Centrală.",
+      hu: "A Celaque lenca nyelven \\\"vízzel teli ládát\\\" jelent. Valóban, kilenc folyó ered itt, amelyek a környező völgyeket látják el vízzel. A nemzeti park Közép-Amerika egyik legértékesebb köderdőjét védi.",
+      ro: "Celaque înseamnă \\\"cutie plină cu apă\\\" în limba Lenca. Într-adevăr, aici izvorăsc nouă râuri care alimentează văile din jur. Parcul național protejează una dintre cele mai prețioase păduri de ceață din America Centrală.",
       en: "In the Lenca language, Celaque means 'box of water'. Nine rivers originate here, providing water to the surrounding valleys. The national park safeguards one of Central America's most precious cloud forest ecosystems."
     },
     facts: {
       de: ["Höhe: 2849 m", "Name bedeutet 'Kasten voll Wasser'", "Nationalpark seit 1987", "Quellgebiet von 9 Flüssen"],
       hu: ["Magasság: 2849 m", "A név jelentése: 'vízzel teli láda'", "Nemzeti park 1987 óta", "9 folyó forrásvidéke"],
-      ro: ["Altitudine: 2849 m", "Numele înseamnă „cutie plină cu apă”", "Parc național din 1987", "Sursă pentru 9 râuri"],
+      ro: ["Altitudine: 2849 m", "Numele înseamnă \\\"cutie plină cu apă\\\"", "Parc național din 1987", "Sursă pentru 9 râuri"],
       en: ["Elevation: 2849 m", "Name means 'box of water'", "National park since 1987", "Source of 9 major rivers"]
     },
     factsAdvanced: {
@@ -336,8 +336,8 @@ export const hondurasLandmarks: POI[] = [
     description: { de: "Eine der wichtigsten Maya-Stätten, berühmt für ihre Steinstelen.", hu: "A legfontosabb maja lelőhelyek egyike, híres a kősztéléiről.", ro: "Unul dintre cele mai importante situri mayașe, faimos pentru stelele de piatră.", en: "One of the most important Maya sites, famous for its stone stelae." },
     descriptionAdvanced: {
       de: "Copán ist bekannt als das 'Paris der Maya-Welt' wegen seiner kunstvollen Skulpturen und Hieroglyphentreppen. Es war das Zentrum eines mächtigen Königreichs vom 5. bis zum 9. Jahrhundert.",
-      hu: "Copánt a „maja világ Párizsaként” ismerik művészi szobrai és hieroglifás lépcsősora miatt. Egy hatalmas királyság központja volt az 5. és a 9. század között.",
-      ro: "Copán este cunoscut drept „Parisul lumii maiașe” datorită sculpturilor sale artistice și scării cu hieroglife. A fost centrul unui regat puternic între secolele V și IX.",
+      hu: "Copánt a \\\"maja világ Párizsaként\\\" ismerik művészi szobrai és hieroglifás lépcsősora miatt. Egy hatalmas királyság központja volt az 5. és a 9. század között.",
+      ro: "Copán este cunoscut drept \\\"Parisul lumii maiașe\\\" datorită sculpturilor sale artistice și scării cu hieroglife. A fost centrul unui regat puternic între secolele V și IX.",
       en: "Often called the 'Paris of the Maya World', Copán is renowned for its intricate stone carvings and the Hieroglyphic Stairway. It was the heart of a powerful kingdom from the 5th to the 9th centuries."
     },
     facts: {
@@ -488,8 +488,8 @@ export const hondurasLandmarks: POI[] = [
     description: { de: "Ein riesiges Dschungelgebiet und UNESCO-Weltnaturerbe im Osten.", hu: "Hatalmas dzsungel Kelet-Hondurasban, UNESCO világörökség.", ro: "O junglă vastă în est, parte a Patrimoniului Mondial UNESCO.", en: "A vast jungle reserve in the east, a UNESCO World Heritage site." },
     descriptionAdvanced: {
       de: "Dieses Reservat schützt eines der letzten großen Regenwaldgebiete Mittelamerikas. Es beherbergt eine unglaubliche Vielfalt an Wildtieren und zahlreiche archäologische Stätten, darunter die legendäre 'Weiße Stadt'.",
-      hu: "Ez a rezervátum Közép-Amerika egyik utolsó nagy esőerdőjét védi. Hihetetlenül sokféle vadon élő állatnak és számos régészeti lelőhelynek ad otthont, köztük a legendás „Fehér Városnak”.",
-      ro: "Această rezervație protejează una dintre ultimele zone mari de pădure tropicală din America Centrală. Găzduiește o varietate incredibilă de animale sălbatice și numeroase situri arheologice, inclusiv legendara „Oraș Alb”.",
+      hu: "Ez a rezervátum Közép-Amerika egyik utolsó nagy esőerdőjét védi. Hihetetlenül sokféle vadon élő állatnak és számos régészeti lelőhelynek ad otthont, köztük a legendás \\\"Fehér Városnak\\\".",
+      ro: "Această rezervație protejează una dintre ultimele zone mari de pădure tropicală din America Centrală. Găzduiește o varietate incredibilă de animale sălbatice și numeroase situri arheologice, inclusiv legendara \\\"Oraș Alb\\\".",
       en: "This reserve protects one of the last major rainforests in Central America. It is home to a staggering array of wildlife and numerous archaeological sites, including the legendary 'White City'."
     },
     facts: {
@@ -500,8 +500,8 @@ export const hondurasLandmarks: POI[] = [
     },
     factsAdvanced: {
       de: ["Beinhaltet Küstenlagunen", "Wichtig für indigene Kulturen", "Oft als 'Lunge Mittelamerikas' bezeichnet"],
-      hu: ["Tengerparti lagúnákat is tartalmaz", "Fontos az őslakos kultúrák számára", "Gyakran nevezik „Közép-Amerika tüdejének”"],
-      ro: ["Include lagune de coastă", "Important pentru culturile indigene", "Deseori numit „plămânul Americii Centrale”"],
+      hu: ["Tengerparti lagúnákat is tartalmaz", "Fontos az őslakos kultúrák számára", "Gyakran nevezik \\\"Közép-Amerika tüdejének\\\""],
+      ro: ["Include lagune de coastă", "Important pentru culturile indigene", "Deseori numit \\\"plămânul Americii Centrale\\\""],
       en: ["Includes coastal lagoons and mountains", "Vital for indigenous Pech and Miskito", "Often called the 'Lungs of Central America'"]
     }, image: "/poi-images/hn-rioplatano.webp"},
   {
@@ -526,7 +526,7 @@ export const hondurasLandmarks: POI[] = [
     factsAdvanced: {
       de: ["Name bedeutet 'Wasserfall am Rio Lindo'", "Höhlen hinter dem Wasserfall", "Ort für alte Zeremonien"],
       hu: ["A név jelentése: 'vízesés a Rio Lindón'", "Barlangok a vízesés mögött", "Ősi szertartások helyszíne"],
-      ro: ["Numele înseamnă „cascada de pe Rio Lindo”", "Peșteri în spatele cascadei", "Loc pentru ceremonii antice"],
+      ro: ["Numele înseamnă \\\"cascada de pe Rio Lindo\\\"", "Peșteri în spatele cascadei", "Loc pentru ceremonii antice"],
       en: ["Name translates to 'Waterfall on the Rio Lindo'", "Features caves behind the water curtain", "Site of ancient ceremonial significance"]
     }, image: "/poi-images/hn-pulhapanzak.webp"},
   {
@@ -611,7 +611,7 @@ export const hondurasLandmarks: POI[] = [
     parent: "HN",
     coords: [-85.9167, 14.7500],
     name: { de: "Talgua-Höhlen", hu: "Talgua-barlangok", ro: "Peșterile Talgua", en: "Talgua Caves" },
-    description: { de: "Bekannt als die 'Höhlen der leuchtenden Schädel' aufgrund ihrer kristallisierten Knochen.", hu: "A „világító koponyák barlangjaként” ismert a kristályosodott csontmaradványok miatt.", ro: "Cunoscute sub numele de „Peșterile craniilor strălucitoare” datorită oaselor cristalizate.", en: "Known as the 'Caves of the Glowing Skulls' due to the crystallized skeletal remains found inside." },
+    description: { de: "Bekannt als die 'Höhlen der leuchtenden Schädel' aufgrund ihrer kristallisierten Knochen.", hu: "A \\\"világító koponyák barlangjaként\\\" ismert a kristályosodott csontmaradványok miatt.", ro: "Cunoscute sub numele de \\\"Peșterile craniilor strălucitoare\\\" datorită oaselor cristalizate.", en: "Known as the 'Caves of the Glowing Skulls' due to the crystallized skeletal remains found inside." },
     descriptionAdvanced: {
       de: "In den Talgua-Höhlen wurden Knochen gefunden, die über Jahrhunderte von kalkhaltigem Wasser überzogen wurden und nun im Licht funkeln. Dies gibt wertvolle Einblicke in die Bestattungsriten vor der Maya-Zeit.",
       hu: "A Talgua-barlangokban olyan csontokat találtak, amelyeket az évszázadok során meszes víz vont be, így most csillognak a fényben. Ez értékes betekintést nyújt a maja kor előtti temetkezési rítusokba.",
@@ -767,8 +767,8 @@ export const hondurasLandmarks: POI[] = [
     description: { de: "Eine der Bay Islands, bekannt für ihre üppige Vegetation und Wasserfälle.", hu: "Az Öböl-szigetek egyike, amely buja növényzetéről és vízeséseiről ismert.", ro: "Una dintre Insulele Golfului, cunoscută pentru vegetația luxuriantă și cascade.", en: "One of the Bay Islands, known for its lush vegetation and waterfalls." },
     descriptionAdvanced: {
       de: "Guanaja ist die gebirgigste der Bay Islands und wird oft als 'Venedig von Honduras' bezeichnet, da der Hauptort auf einem kleinen Cay liegt und viele Kanäle hat.",
-      hu: "Guanaja az Öböl-szigetek leghegyesebb tagja, és gyakran „Honduras Velencéjeként” emlegetik, mivel fő települése egy kis szigeten (cay) fekszik, és sok csatornája van.",
-      ro: "Guanaja este cea mai muntoasă dintre Insulele Golfului și este adesea numită „Veneția Hondurasului”, deoarece localitatea principală se află pe un mic recif (cay) și are multe canale.",
+      hu: "Guanaja az Öböl-szigetek leghegyesebb tagja, és gyakran \\\"Honduras Velencéjeként\\\" emlegetik, mivel fő települése egy kis szigeten (cay) fekszik, és sok csatornája van.",
+      ro: "Guanaja este cea mai muntoasă dintre Insulele Golfului și este adesea numită \\\"Veneția Hondurasului\\\", deoarece localitatea principală se află pe un mic recif (cay) și are multe canale.",
       en: "Guanaja is the most mountainous of the Bay Islands. It is often called the 'Venice of Honduras' because its main settlement is built on a small cay with water-filled lanes instead of roads."
     },
     facts: {

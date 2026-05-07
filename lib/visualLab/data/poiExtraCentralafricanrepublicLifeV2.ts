@@ -12,7 +12,7 @@ export const poiExtraCentralafricanrepublicLifeV2: POI[] = [
       hu: "Dzanga Bai",
       ro: "Dzanga Bai",
       en: "Dzanga Bai"
-    ,
+    },
     descriptionAdvanced: {
       ro: "Dzanga Bai este o poieniță celebră în inima pădurii tropicale, unde elefanții de pădure și alte animale vin pentru a consuma sărurile minerale din sol, fiind un sit unic pentru observarea vieții sălbatice. Geografie K7 – Habitat natural.",
       en: "Dzanga Bai is a world-renowned natural clearing in the heart of the Dzanga-Sangha National Park, frequented by forest elephants and other wildlife. It provides a unique opportunity to observe forest-dwelling megafauna in their natural environment. The site is a cornerstone of the country's efforts toward wildlife conservation and ecotourism in the dense southwestern forest region. Geography K7 — Wildlife habitats."
@@ -22,8 +22,7 @@ export const poiExtraCentralafricanrepublicLifeV2: POI[] = [
     },
     factsAdvanced: {
       ro: ["Activitate: observarea faunei (elefanți).", "Rol: sit unic de habitat.", "Importanță: biodiversitate.", "Localizare: Parcul Național Dzanga-Sangha.", "Resursă: minerale sol.", "Impact: ecoturism."]
-    }
-  },
+    },
     description: {
       de: "Eine magische Waldlichtung im Herzen des Regenwaldes, wo sich hunderte Waldelefanten versammeln, um wertvolle Mineralien aus dem Boden zu graben. Es ist einer der wenigen Orte auf der Erde, an denen man diese scheuen Riesen in so großer Zahl beobachten kann.",
       hu: "Egy varázslatos erdei tisztás az esőerdő szívében, ahol erdei elefántok százai gyűlnek össze, hogy értékes ásványokat ássanak ki a talajból. Ez azon kevés helyek egyike a Földön, ahol ezeket a félénk óriásokat ilyen nagy számban láthatjuk.",
@@ -46,7 +45,7 @@ export const poiExtraCentralafricanrepublicLifeV2: POI[] = [
       hu: "André-Félix vadrezervátum",
       ro: "Zona de faună André-Félix",
       en: "André-Félix Wildlife Areas"
-    ,
+    },
     descriptionAdvanced: {
       ro: "Parcul Național André-Félix protejează o zonă de savană și pădure, fiind habitatul multor specii de antilope și păsări specifice regiunii nord-estice, contribuind la echilibrul ecologic. Geografie K7 – Arii protejate.",
       en: "The André Félix National Park, located in the northeast, represents the rich biodiversity of the savanna zones. It provides critical habitat for various antelope species, lions, and other northern fauna. As one of the most important protected areas in the region, it is essential for the preservation of ecosystems that bridge the gap between savanna and semi-arid environments. Geography K7 — Biodiversity zones."
@@ -56,8 +55,7 @@ export const poiExtraCentralafricanrepublicLifeV2: POI[] = [
     },
     factsAdvanced: {
       ro: ["Rol: parc național.", "Localizare: nord-estul țării.", "Importanță: conservarea biodiversității.", "Habitat: savană și pădure.", "Specii: antilope, păsări.", "Impact: echilibru ecologic."]
-    }
-  },
+    },
     description: {
       de: "In den weiten Savannen des Nordostens erstreckt sich ein unberührtes Refugium für Löwen, Giraffen und Strauße. Diese wilde Landschaft ist geprägt von saisonalen Wasserlöchern, die in der Trockenzeit zum Treffpunkt für zahllose Tierarten werden.",
       hu: "Az északkeleti hatalmas szavannákon az oroszlánok, zsiráfok és struccok érintetlen menedékhelye terül el. Ezt a vad tájat a szezonális itatóhelyek határozzák meg, amelyek a száraz évszakban számtalan állatfaj találkozóhelyévé válnak.",
@@ -80,7 +78,7 @@ export const poiExtraCentralafricanrepublicLifeV2: POI[] = [
       hu: "Bamingui vadvilág-folyosó",
       ro: "Coridorul de faună Bamingui",
       en: "Bamingui Wildlife Corridor"
-    ,
+    },
     descriptionAdvanced: {
       ro: "Parcul Național Bamingui-Bangoran reprezintă o vastă zonă protejată, esențială pentru conservarea megafaunei africane în zonele de savană și galeriile de pădure, fiind un sit de studiu biologic. Geografie K7 – arii protejate.",
       en: "Bamingui-Bangoran National Park is one of the largest protected areas in the Central African Republic, showcasing a mosaic of woodland and savanna landscapes. It is central to the protection of the country's northern wildlife populations, including elephant and various savanna-dwelling species, and plays a role in regional environmental stability. Geography K7 — National parks."
@@ -90,8 +88,7 @@ export const poiExtraCentralafricanrepublicLifeV2: POI[] = [
     },
     factsAdvanced: {
       ro: ["Rol: parc național.", "Localizare: regiunea central-nordică.", "Importanță: conservarea megafaunei.", "Habitat: savană.", "Activitate: studiu biologic.", "Impact: ecologie regională."]
-    }
-  },
+    },
     description: {
       de: "Ein lebendiger Korridor, der es wandernden Herden ermöglicht, sicher zwischen den Schutzgebieten des Nordens zu ziehen. Hier finden Büffel, Antilopen und Leoparden Schutz in einer abwechslungsreichen Landschaft aus Buschland und Flussufern.",
       hu: "Egy élő folyosó, amely lehetővé teszi a vándorló csordák biztonságos vonulását az északi védett területek között. Itt bivalyok, antilopok és leopárdok találnak menedéket a bozótosokból és folyópartokból álló változatos tájon.",
@@ -114,7 +111,7 @@ export const poiExtraCentralafricanrepublicLifeV2: POI[] = [
       hu: "Vakaga-legelővidék",
       ro: "Pășunile din Vakaga",
       en: "Vakaga Pastoral Lands"
-    ,
+    },
     descriptionAdvanced: {
       ro: "Zona pastorală din Vakaga este un spațiu unde nomadismul și creșterea animalelor definesc stilul de viață, adaptându-se la mediul de savană și contribuind la economia pastorală locală. Geografie K7 – Moduri de viață.",
       en: "The Vakaga region, in the far northeast, is characterized by its pastoral lifestyle, where nomadic and semi-nomadic herders manage cattle across the vast savanna plains. This way of life is deeply adapted to the seasonal availability of water and grazing land, reflecting the resilience of local communities in a challenging climate. Geography K7 — Pastoral life."
@@ -124,8 +121,7 @@ export const poiExtraCentralafricanrepublicLifeV2: POI[] = [
     },
     factsAdvanced: {
       ro: ["Activitate: creșterea animalelor.", "Regiune: Vakaga.", "Mod: pastoralism.", "Economie: creșterea animalelor.", "Impact: stil de viață nomad.", "Peisaj: savană."]
-    }
-  },
+    },
     description: {
       de: "Die endlosen Ebenen der Vakaga-Region sind das Herz der traditionellen Viehzucht. Nomadische Hirten ziehen mit ihren großen Rinderherden durch diese goldene Landschaft, die seit Jahrhunderten den Rhythmus des Lebens im Norden bestimmt.",
       hu: "A Vakaga régió végtelen síkságai a hagyományos állattenyésztés szívét jelentik. Nomád pásztorok vonulnak hatalmas szarvasmarha-csordáikkal ezen az aranyló tájon, amely évszázadok óta meghatározza az északi élet ritmusát.",
@@ -148,7 +144,7 @@ export const poiExtraCentralafricanrepublicLifeV2: POI[] = [
       hu: "Ouhami pamutmezők",
       ro: "Câmpurile de bumbac din Ouham",
       en: "Ouham Cotton Fields"
-    ,
+    },
     descriptionAdvanced: {
       ro: "Regiunea Ouham este cunoscută pentru cultivarea bumbacului, o activitate agricolă care susține viața economică a mii de familii prin producția pentru export și piața internă. Geografie K7 – Agricultură și economie.",
       en: "The Ouham prefecture is historically synonymous with cotton cultivation. For many generations, smallholder farmers have dedicated their land to this crop, which has been a primary source of rural livelihood and an engine for local commerce. The annual cycle of cotton farming remains a defining aspect of the social and economic rhythms of the Ouham region. Geography K7 — Agricultural lifestyles."
@@ -158,8 +154,7 @@ export const poiExtraCentralafricanrepublicLifeV2: POI[] = [
     },
     factsAdvanced: {
       ro: ["Activitate: cultivarea bumbacului.", "Regiune: Ouham.", "Importanță: economia rurală.", "Economie: export.", "Impact: susținerea familiilor.", "Resursă: bumbac."]
-    }
-  },
+    },
     description: {
       de: "In der fruchtbaren Region Ouham erstrecken sich weite Felder mit 'weißem Gold'. Die Baumwollproduktion ist hier tief verwurzelt und bildet die Existenzgrundlage für tausende Familien, die die Pflanzen mit großer Sorgfalt pflegen und ernten.",
       hu: "A termékeny Ouham régióban a 'fehér arany' hatalmas mezői terülnek el. A pamuttermelés itt mélyen gyökerezik, és családok ezreinek biztosít megélhetést, akik nagy gonddal ápolják és takarítják be a növényeket.",
@@ -182,7 +177,7 @@ export const poiExtraCentralafricanrepublicLifeV2: POI[] = [
       hu: "Mbaïki kávéültetvények",
       ro: "Plantațiile de cafea din Mbaïki",
       en: "Mbaïki Coffee Plantations"
-    ,
+    },
     descriptionAdvanced: {
       ro: "Cultivarea cafelei în regiunea Mbaïki beneficiază de clima tropicală umedă, producând cafea de înaltă calitate care reprezintă un segment important al agriculturii comerciale din sud-vest. Geografie K7 – Produse tropicale.",
       en: "The Mbaïki area is famous for its coffee production, thriving in the fertile, rain-rich soil of the southern forested zones. For many local families, coffee farming is not just an agricultural activity but a heritage and a critical source of cash income. The traditional techniques used in coffee harvesting remain an integral part of the regional culture. Geography K7 — Cash crop agriculture."
@@ -192,8 +187,7 @@ export const poiExtraCentralafricanrepublicLifeV2: POI[] = [
     },
     factsAdvanced: {
       ro: ["Activitate: cultivarea cafelei.", "Regiune: Mbaïki.", "Importanță: agricultură comercială.", "Economie: export.", "Climat: tropical umed.", "Impact: agricultură regională."]
-    }
-  },
+    },
     description: {
       de: "Unter dem schützenden Dach hoher Urwaldbäume gedeihen in der Nähe von Mbaïki aromatische Kaffeebohnen. Das feuchte Klima und die nährstoffreichen Böden der Lobaye-Region verleihen dem Kaffee sein besonderes Aroma, das weit über die Landesgrenzen hinaus geschätzt wird.",
       hu: "Mbaïki közelében, a magas őserdei fák védő lombkoronája alatt aromás kávébabok fejlődnek. A Lobaye régió párás éghajlata és tápanyagban gazdag talaja különleges aromát ad a kávénak, amelyet messze az ország határain túl is értékelnek.",
@@ -216,7 +210,7 @@ export const poiExtraCentralafricanrepublicLifeV2: POI[] = [
       hu: "Parc Centrafricain (Bangui állatkert)",
       ro: "Parc Centrafricain (Grădina Zoologică Bangui)",
       en: "Parc Centrafricain (Bangui Zoo)"
-    ,
+    },
     descriptionAdvanced: {
       ro: "Grădina Zoologică din Bangui servește drept centru de conservare și educație, oferind publicului șansa de a vedea speciile de animale native și învățând despre importanța ocrotirii naturii în Republica Centrafricană. Geografie K7 – Arii de conservare.",
       en: "The Bangui Zoo is a vital center for education and environmental awareness in the capital city. It serves to showcase the nation's diverse fauna to the public, fostering an appreciation for local wildlife. While focused on conservation and public learning, the facility remains an important venue for family outings and school groups interested in biology. Geography K7 — Educational facilities."
@@ -226,8 +220,7 @@ export const poiExtraCentralafricanrepublicLifeV2: POI[] = [
     },
     factsAdvanced: {
       ro: ["Rol: centru de conservare.", "Localizare: Bangui.", "Importanță: educație ecologică.", "Activitate: observarea speciilor native.", "Impact: ocrotirea naturii.", "Resursă: educație."]
-    }
-  },
+    },
     description: {
       de: "Der einzige Zoo des Landes bietet den Bewohnern der Hauptstadt eine seltene Gelegenheit, die faszinierende Tierwelt Zentralafrikas hautnah zu erleben. Inmitten von Bangui gelegen, dient er als Bildungsort für Kinder und als sicherer Hafen für verletzte Wildtiere.",
       hu: "Az ország egyetlen állatkertje ritka lehetőséget kínál a főváros lakóinak, hogy közelebbről is megismerjék Közép-Afrika lenyűgöző állatvilágát. Bangui közepén fekszik, oktatási helyszínként szolgál a gyerekeknek és menedékként a sérült vadállatoknak.",
@@ -251,7 +244,7 @@ export const poiExtraCentralafricanrepublicLifeV2: POI[] = [
       hu: "Boali-vízesés szabadidőpark",
       ro: "Zona de agrement de la Cascadele Boali",
       en: "Boali Falls Recreation Area"
-    ,
+    },
     descriptionAdvanced: {
       ro: "Zona de recreere de la Boali este o destinație populară pentru turiștii care vor să exploreze cascadele și mediul natural, oferind un spațiu pentru odihnă și activități în aer liber în apropierea capitalei. Geografie K7 – Turism.",
       en: "The Boali Falls, located near the town of Boali, are one of the most popular recreational sites in the Central African Republic. The impressive waterfalls and the surrounding park area provide a scenic escape for residents of Bangui and visitors alike. Beyond their energy potential, the falls symbolize the natural beauty that contributes to the country's recreational life. Geography K7 — Recreational sites."
@@ -261,8 +254,7 @@ export const poiExtraCentralafricanrepublicLifeV2: POI[] = [
     },
     factsAdvanced: {
       ro: ["Rol: zonă de recreere.", "Atracție: cascade.", "Activitate: turism în aer liber.", "Importanță: odihnă și relaxare.", "Localizare: lângă Bangui.", "Impact: dezvoltarea turismului."]
-    }
-  },
+    },
     description: {
       de: "Rund um die tosenden Wasserfälle von Boali erstreckt sich ein beliebtes Ausflugsziel für Familien. Hier können Kinder in der Gischt spielen, während die Eltern die spektakuläre Aussicht genießen – ein Ort der Freude und Entspannung inmitten der Natur.",
       hu: "A dübörgő Boali-vízesések körül egy népszerű családi kirándulóhely terül el. Itt a gyerekek a vízpárában játszhatnak, miközben a szülők a látványos kilátásban gyönyörködnek – az öröm és a kikapcsolódás helye a természet lágy ölén.",
@@ -286,7 +278,7 @@ export const poiExtraCentralafricanrepublicLifeV2: POI[] = [
       hu: "Nana-Mambéré állatvásárai",
       ro: "Piețele de animale din Nana-Mambéré",
       en: "Nana-Mambéré Cattle Markets"
-    ,
+    },
     descriptionAdvanced: {
       ro: "Creșterea bovinelor în Nana-Mambéré constituie o ramură economică vitală, furnizând carne și produse lactate esențiale pentru piețele din vestul țării și pentru capitală. Geografie K7 – creșterea animalelor.",
       en: "Nana-Mambéré is known for its cattle ranching and pastoral activities. The plateau's grasses provide excellent grazing ground, making it one of the most productive regions for cattle in the west. This industry not only sustains a local market for meat but also represents a traditional lifestyle that has been maintained over several generations. Geography K7 — Regional livestock farming."
@@ -296,8 +288,7 @@ export const poiExtraCentralafricanrepublicLifeV2: POI[] = [
     },
     factsAdvanced: {
       ro: ["Activitate: creșterea bovinelor.", "Regiune: Nana-Mambéré.", "Economie: producție de carne și lapte.", "Importanță: piețele vestice.", "Impact: susținerea economiei.", "Resursă: bovine."]
-    }
-  },
+    },
     description: {
       de: "In der hügeligen Landschaft von Nana-Mambéré pulsieren die geschäftigen Viehmärkte, auf denen Händler aus der ganzen Region zusammenkommen. Es ist ein lebendiges Schauspiel aus Farben, Geräuschen und Traditionen, das den wirtschaftlichen Herzschlag der westlichen Savanne bildet.",
       hu: "Nana-Mambéré dombos tájain lüktetnek a nyüzsgő állatvásárok, ahol a régió minden részéről összeülnek a kereskedők. Ez a színek, hangok és hagyományok élénk játéka, amely a nyugati szavanna gazdasági szívverését alkotja.",
@@ -320,7 +311,7 @@ export const poiExtraCentralafricanrepublicLifeV2: POI[] = [
       hu: "Sangha-menti pillangóösvények",
       ro: "Traseele fluturilor de pe Sangha",
       en: "Sangha River Butterfly Habitats"
-    ,
+    },
     descriptionAdvanced: {
       ro: "Regiunea Sangha este renumită pentru diversitatea extraordinară a fluturilor, fiind o destinație fascinantă pentru entomologi și entuziaști ai naturii, demonstrând bogăția biologică a pădurilor tropicale. Geografie K7 – Biodiversitate.",
       en: "The Sangha region is a biodiversity hotspot famous for its incredible variety of insects, especially butterflies. The dense forests provide a unique microclimate that supports thousands of species. Researchers and naturalists are often drawn to this area to document its insect life, which is a vital indicator of the health of the tropical forest ecosystem. Geography K7 — Biodiversity research."
@@ -330,8 +321,7 @@ export const poiExtraCentralafricanrepublicLifeV2: POI[] = [
     },
     factsAdvanced: {
       ro: ["Activitate: studiu entomologic.", "Regiune: Sangha.", "Importanță: bogăție biologică.", "Habitat: păduri tropicale.", "Impact: diversitate naturală.", "Resursă: specii unice."]
-    }
-  },
+    },
     description: {
       de: "In den feuchten Uferzonen des Sangha-Flusses tummeln sich tausende farbenfrohe Schmetterlinge. Diese zarten Wesen verwandeln den Regenwald in ein flimmerndes Meer aus Farben und sind ein Indikator für die außergewöhnliche Gesundheit dieses einzigartigen Ökosystems.",
       hu: "A Sangha folyó párás partmenti zónáiban ezer és ezer színes pillangó nyüzsög. Ezek a törékeny lények a színek vibráló tengerévé változtatják az esőerdőt, és ennek az egyedülálló ökoszisztémának a rendkívüli egészségét jelzik.",
@@ -354,14 +344,13 @@ export const poiExtraCentralafricanrepublicLifeV2: POI[] = [
       hu: "Vakaga víziló-lagúnái",
       ro: "Lagunele cu hipopotami din Vakaga",
       en: "Vakaga Hippo Pools"
-    ,
+    },
     descriptionAdvanced: {
       ro: "Hipopotamii din râurile regiunii Vakaga formează populații remarcabile în mediile acvatice din nord-est, fiind o parte integrantă a ecosistemului și a atracțiilor turistice potențiale din zonă. Geografie K7 – Faună acvatică."
     },
     factsAdvanced: {
       ro: ["Specii: hipopotami.", "Habitat: medii acvatice (nord-est).", "Importanță: ecosistem local.", "Rol: conservarea faunei.", "Impact: turism.", "Resursă: faună acvatică."]
-    }
-  },
+    },
     description: {
       de: "In den abgelegenen Gewässern des Nordens finden majestätische Flusspferde in tiefen Lagunen Zuflucht. Während der heißen Mittagsstunden sieht man oft nur ihre Augen und Ohren aus dem kühlen Wasser ragen – ein friedliches Bild der Wildnis in einer extremen Umgebung.",
       hu: "Észak távoli vizeiben, mély lagúnákban találnak menedéket a fenséges vízilovak. A forró déli órákban gyakran csak a szemüket és a fülüket látni a hűvös vízből kiemelkedni – a vadon békés képe ez egy extrém környezetben.",
@@ -384,14 +373,13 @@ export const poiExtraCentralafricanrepublicLifeV2: POI[] = [
       hu: "Ouakai olajpálma-ligetek",
       ro: "Crinierile de palmieri de ulei din Ouaka",
       en: "Ouaka Oil Palm Groves"
-    ,
+    },
     descriptionAdvanced: {
       ro: "Cultivarea palmierilor de ulei în Ouaka susține industria alimentară locală, oferind ulei pentru consum și pentru diverse utilizări casnice în satele din zona centrală a țării. Geografie K7 – Economia locală."
     },
     factsAdvanced: {
       ro: ["Activitate: cultivarea palmierilor.", "Regiune: Ouaka.", "Importanță: industrie alimentară.", "Economie: consum local.", "Impact: economia rurală.", "Resursă: palmier de ulei."]
-    }
-  },
+    },
     description: {
       de: "In der Ouaka-Region prägen hohe Ölpalmen die grüne Landschaft. Die Gewinnung von Palmöl ist eine traditionsreiche Handwerkskunst, die in den Dörfern von Generation zu Generation weitergegeben wird und ein unverzichtbarer Teil der lokalen Ernährung und Wirtschaft ist.",
       hu: "Az Ouaka régióban magas olajpálmák határozzák meg a zöld tájat. A pálmaolaj kinyerése hagyományőrző mesterség, amely a falvakban nemzedékről nemzedékre öröklődik, és a helyi étrend és gazdaság nélkülözhetetlen része.",
@@ -414,14 +402,13 @@ export const poiExtraCentralafricanrepublicLifeV2: POI[] = [
       hu: "Mbomou csimpánz-élőhelyei",
       ro: "Habitatele cimpanzeilor din Mbomou",
       en: "Mbomou Chimpanzee Habitats"
-    ,
+    },
     descriptionAdvanced: {
       ro: "Regiunea Mbomou adăpostește populații importante de cimpanzei, studiul și protejarea acestor primate fiind esențiale pentru conservarea ecosistemelor forestiere din estul țării. Geografie K7 – Conservare și primatologie."
     },
     factsAdvanced: {
       ro: ["Specii: cimpanzei.", "Habitat: ecosisteme forestiere (est).", "Importanță: conservare.", "Activitate: studiu (primatologie).", "Impact: protejarea ecosistemului.", "Resursă: primată."]
-    }
-  },
+    },
     description: {
       de: "In den unberührten Galeriewäldern entlang des Mbomou-Flusses leben Gemeinschaften von wilden Schimpansen. Diese intelligenten Primaten finden in der dichten Vegetation reichlich Nahrung und Schutz, fernab von menschlichen Siedlungen in einer fast vergessenen Welt.",
       hu: "Az Mbomou folyó menti érintetlen galériaerdőkben vadcsimpánz-közösségek élnek. Ezek az intelligens prímások a sűrű vegetációban bőséges táplálékot és védelmet találnak, távol az emberi településektől, egy szinte elfeledett világban.",
@@ -444,14 +431,13 @@ export const poiExtraCentralafricanrepublicLifeV2: POI[] = [
       hu: "Basse-Kotto dohányültetvényei",
       ro: "Plantațiile de tutun din Basse-Kotto",
       en: "Basse-Kotto Tobacco Farms"
-    ,
+    },
     descriptionAdvanced: {
       ro: "Cultivarea tutunului în Basse-Kotto reprezintă o activitate agricolă istorică, fiind un produs de export și o sursă de venit pentru numeroase gospodării rurale din sud. Geografie K7 – Agricultură."
     },
     factsAdvanced: {
       ro: ["Activitate: cultivarea tutunului.", "Regiune: Basse-Kotto.", "Importanță: produs de export.", "Economie: sursă de venit rural.", "Impact: agricultură comercială.", "Resursă: tutun."]
-    }
-  },
+    },
     description: {
       de: "In den sonnigen Tälern von Basse-Kotto gedeiht kräftiger Tabak, der für seine Qualität bekannt ist. Die großen, grünen Blätter werden nach der Ernte in speziellen Trockenhütten sorgsam gelagert, ein Prozess, der viel Erfahrung und Geduld erfordert.",
       hu: "Basse-Kotto napos völgyeiben erős dohány terem, amely minőségéről híres. A nagy, zöld leveleket a betakarítás után speciális szárítókunyhókban gondosan tárolják; ez a folyamat sok tapasztalatot és türelmet igényel.",
@@ -474,14 +460,13 @@ export const poiExtraCentralafricanrepublicLifeV2: POI[] = [
       hu: "Haute-Kotto vadhonig-régiója",
       ro: "Regiunea mierii sălbatice Haute-Kotto",
       en: "Haute-Kotto Wild Honey Collection"
-    ,
+    },
     descriptionAdvanced: {
       ro: "Producția de miere din regiunea Haute-Kotto este o activitate apicolă tradițională care valorifică resursele florale locale, oferind un produs natural apreciat pentru proprietățile sale. Geografie K7 – Resurse locale."
     },
     factsAdvanced: {
       ro: ["Activitate: producție de miere.", "Regiune: Haute-Kotto.", "Importanță: produs tradițional.", "Economie: valorificare locală.", "Impact: agricultură sustenabilă.", "Resursă: miere naturală."]
-    }
-  },
+    },
     description: {
       de: "In den weiten Wäldern der Haute-Kotto sammeln lokale Gemeinschaften den kostbaren Wildhonig. Die Imker klettern auf hohe Bäume, um die Waben der wilden Bienen zu ernten – ein gefährliches Handwerk, das mit einem der reinsten Naturprodukte belohnt wird.",
       hu: "Haute-Kotto hatalmas erdőiben a helyi közösségek gyűjtik az értékes vadhonigot. A méhészek magas fákra másznak fel, hogy begyűjtsék a vadméhek lépeit – ez egy veszélyes mesterség, amelyet az egyik legtisztább természetes termékkel jutalmaznak.",
@@ -504,14 +489,13 @@ export const poiExtraCentralafricanrepublicLifeV2: POI[] = [
       hu: "Nana-Grébizi rizsvölgyei",
       ro: "Văile de orez din Nana-Grébizi",
       en: "Nana-Grébizi Rice Valleys"
-    ,
+    },
     descriptionAdvanced: {
       ro: "Cultivarea orezului în prefectura Nana-Gribizi este un pilon al agriculturii locale, oferind o resursă esențială pentru alimentația populației și pentru schimburile comerciale din regiunea centrală. Geografie K7 – Culturi agricole."
     },
     factsAdvanced: {
       ro: ["Activitate: cultivarea orezului.", "Regiune: Nana-Gribizi.", "Importanță: securitate alimentară.", "Economie: schimburi comerciale.", "Impact: agricultură locală.", "Resursă: orez."]
-    }
-  },
+    },
     description: {
       de: "In den feuchten Senken der Nana-Grébizi Region glänzen die grünen Reisfelder in der Sonne. Der Reisanbau ist hier ein Gemeinschaftsprojekt, bei dem ganze Dörfer zusammenarbeiten, um die Bewässerung zu steuern und die kostbare Ernte zu sichern.",
       hu: "A Nana-Grébizi régió párás mélyedéseiben zöldellő rizsföldek csillognak a napfényben. A rizstermesztés itt közösségi projekt, ahol egész falvak fognak össze az öntözés irányítására és az értékes termés biztosítására.",
@@ -534,14 +518,13 @@ export const poiExtraCentralafricanrepublicLifeV2: POI[] = [
       hu: "Ouham-Pendé ciroksíkságai",
       ro: "Câmpiile de sorg din Ouham-Pendé",
       en: "Ouham-Pendé Sorghum Plains"
-    ,
+    },
     descriptionAdvanced: {
       ro: "Sorgul cultivat în prefectura Ouham-Pendé este o cereală rezistentă la secetă, esențială pentru dieta comunităților locale și un element cheie în agricultura de subzistență a zonei de vest. Geografie K7 – Culturi de cereale."
     },
     factsAdvanced: {
       ro: ["Activitate: cultivarea sorgului.", "Regiune: Ouham-Pendé.", "Importanță: dietă locală.", "Economie: agricultură de subzistență.", "Impact: securitate alimentară.", "Resursă: sorg."]
-    }
-  },
+    },
     description: {
       de: "Die weiten Ebenen im Nordwesten sind die Heimat des widerstandsfähigen Sorghums. Diese Getreideart trotzt der Hitze und bildet das tägliche Brot für viele Menschen in der Region – ein Symbol für die Stärke und Anpassungsfähigkeit der lokalen Landwirtschaft.",
       hu: "Az északnyugati hatalmas síkságok a szívós cirok hazája. Ez a gabonafaj dacol a hőséggel, és a régió lakói számára a mindennapi betevőt jelenti – a helyi mezőgazdaság erejének és alkalmazkodóképességének szimbóluma.",
@@ -564,14 +547,13 @@ export const poiExtraCentralafricanrepublicLifeV2: POI[] = [
       hu: "Ombella-M'Poko konyhakertjei",
       ro: "Grădinile de legume din Ombella-M'Poko",
       en: "Ombella-M'Poko Market Gardens"
-    ,
+    },
     descriptionAdvanced: {
       ro: "Grădinile comunitare din Ombella-M'Poko furnizează legume proaspete pentru piețele capitalei, fiind un exemplu de agricultură periurbană care susține necesitățile alimentare ale populației urbane. Geografie K7 – Agricultură periurbană."
     },
     factsAdvanced: {
       ro: ["Activitate: grădinărit (legume).", "Regiune: Ombella-M'Poko.", "Importanță: aprovizionarea capitalei.", "Economie: piețe urbane.", "Impact: necesități alimentare.", "Resursă: produse proaspete."]
-    }
-  },
+    },
     description: {
       de: "In der Nähe der Hauptstadt Bangui versorgen die fruchtbaren Gärten von Ombella-M'Poko die Märkte mit frischem Gemüse. Hier gedeihen Maniok, Tomaten und Blattgemüse in üppiger Fülle, gepflegt von fleißigen Gärtnern, die das grüne Umland der Stadt bewirtschaften.",
       hu: "A főváros, Bangui közelében Ombella-M'Poko termékeny kertjei látják el a piacokat friss zöldséggel. Itt bőségesen terem a manióka, a paradicsom és a leveles zöldségek, hála a szorgos kertészeknek, akik a város zöld környékét művelik.",
@@ -594,14 +576,13 @@ export const poiExtraCentralafricanrepublicLifeV2: POI[] = [
       hu: "Zemongo vadrezervátum",
       ro: "Rezervația de faună Zemongo",
       en: "Zemongo Wildlife Reserve"
-    ,
+    },
     descriptionAdvanced: {
       ro: "Zona protejată Zemongo este vitală pentru conservarea speciilor rare și a habitatului forestier din estul țării, contribuind la menținerea diversității biologice unice a regiunii. Geografie K7 – Arii protejate."
     },
     factsAdvanced: {
       ro: ["Rol: arie protejată.", "Regiune: estul țării.", "Importanță: conservarea biodiversității.", "Habitat: forestier.", "Impact: echilibru ecologic.", "Resursă: biodiversitate."]
-    }
-  },
+    },
     description: {
       de: "Im fernen Osten des Landes liegt das Zemongo-Reservat, ein weitläufiges Schutzgebiet, das eine Brücke zwischen Savanne und Regenwald bildet. In dieser abgelegenen Wildnis finden bedrohte Tierarten einen sicheren Rückzugsort vor menschlichen Einflüssen.",
       hu: "Az ország távoli keleti részén található a Zemongo-rezervátum, egy kiterjedt védett terület, amely hidat képez a szavanna és az esőerdő között. Ebben a távoli vadonban veszélyeztetett állatfajok találnak biztonságos menedéket az emberi hatások elől.",
@@ -624,14 +605,13 @@ export const poiExtraCentralafricanrepublicLifeV2: POI[] = [
       hu: "Lobaye erdőgazdálkodása",
       ro: "Silvicultura din Lobaye",
       en: "Lobaye Forestry"
-    ,
+    },
     descriptionAdvanced: {
       ro: "Activitățile forestiere din prefectura Lobaye sunt esențiale pentru economia bazată pe lemn, implicând exploatarea responsabilă și procesarea resurselor forestiere din sud-vestul țării. Geografie K7 – Resurse naturale."
     },
     factsAdvanced: {
       ro: ["Activitate: exploatarea lemnului.", "Regiune: Lobaye.", "Importanță: industria lemnului.", "Economie: dezvoltare locală.", "Impact: gestionarea resurselor.", "Resursă: lemn."]
-    }
-  },
+    },
     description: {
       de: "In den dichten Wäldern von Lobaye wird nachhaltige Forstwirtschaft betrieben. Das wertvolle Tropenholz wird sorgsam ausgewählt und geerntet, wobei die Erhaltung des Ökosystems und die Schaffung von Arbeitsplätzen für die lokale Bevölkerung im Vordergrund stehen.",
       hu: "Lobaye sűrű erdőiben fenntartható erdőgazdálkodás folyik. Az értékes trópusi fát gondosan válogatják és takarítják be, miközben az ökoszisztéma megőrzése és a helyi lakosság számára nyújtott munkalehetőség áll az előtérben.",

@@ -108,8 +108,8 @@ export const poiExtraVietnamReliefV2: POI[] = [
     },
     description: {
       de: "Eine Hochebene im zentralen Hochland, auf der die Stadt Đà Lạt liegt, bekannt als 'Stadt des ewigen Frühlings' wegen ihres kühlen Klimas.",
-      hu: "Egy fennsík a központi felföldön, amelyen Đà Lạt városa fekszik, és amelyet hűvös éghajlata miatt az „örök tavasz városának” neveznek.",
-      ro: "Un platou în Zonele Muntoase Centrale pe care se află orașul Đà Lạt, cunoscut sub numele de „Orașul Primăverii Eterne” datorită climei sale răcoroase.",
+      hu: "Egy fennsík a központi felföldön, amelyen Đà Lạt városa fekszik, és amelyet hűvös éghajlata miatt az \"örök tavasz városának\" neveznek.",
+      ro: "Un platou în Zonele Muntoase Centrale pe care se află orașul Đà Lạt, cunoscut sub numele de \"Orașul Primăverii Eterne\" datorită climei sale răcoroase.",
       en: "A plateau in the Central Highlands on which the city of Đà Lạt is located, known as the 'City of Eternal Spring' for its cool climate."
     },
     facts: {
@@ -224,14 +224,14 @@ export const poiExtraVietnamReliefV2: POI[] = [
     },
     description: {
       de: "Ein Gebirge an der Grenze der Provinzen Sơn La und Yên Bái, berühmt für das Phänomen des 'Wolkenmeeres', das die Täler füllt.",
-      hu: "Egy hegység Sơn La és Yên Bái tartományok határán, amely a völgyeket betöltő „felhőtenger” jelenségéről híres.",
-      ro: "Un lanț muntos la granița provinciilor Sơn La și Yên Bái, faimos pentru fenomenul „mării de nori” care umple văile.",
+      hu: "Egy hegység Sơn La és Yên Bái tartományok határán, amely a völgyeket betöltő \"felhőtenger\" jelenségéről híres.",
+      ro: "Un lanț muntos la granița provinciilor Sơn La și Yên Bái, faimos pentru fenomenul \"mării de nori\" care umple văile.",
       en: "A mountain range on the border of Sơn La and Yên Bái provinces, famous for the 'sea of clouds' phenomenon that fills the valleys."
     },
     facts: {
       de: ["Beliebtes Ziel für 'Wolkenjäger'.", "Der Hauptgipfel ist 2.865 Meter hoch.", "Gilt als anspruchsvoller Trek.", "Bekannt für seine alten Teebäume."],
-      hu: ["Népszerű célpont a „felhővadászok” számára.", "A fő csúcs 2865 méter magas.", "Kihívást jelentő túrának számít.", "Híres ősi teafáiról."],
-      ro: ["Destinație populară pentru „vânătorii de nori”.", "Vârful principal are 2.865 de metri.", "Considerată o drumeție dificilă.", "Renumit pentru arborii săi de ceai vechi."],
+      hu: ["Népszerű célpont a \"felhővadászok\" számára.", "A fő csúcs 2865 méter magas.", "Kihívást jelentő túrának számít.", "Híres ősi teafáiról."],
+      ro: ["Destinație populară pentru \"vânătorii de nori\".", "Vârful principal are 2.865 de metri.", "Considerată o drumeție dificilă.", "Renumit pentru arborii săi de ceai vechi."],
       en: ["Popular destination for 'cloud hunters'.", "The main peak is 2,865 meters high.", "Considered a challenging trek.", "Known for its ancient tea trees."]
     }, image: "/poi-images/ta-xua-mountain-relief-v2.webp"},
   {

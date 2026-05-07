@@ -307,7 +307,7 @@ export const franceFaq: CountryFaqMap = {
     ],
     ro: [
       { q: "Pentru ce este cunoscută regiunea Occitania?", a: "Este cunoscută pentru Pirinei, orașe istorice precum Carcassonne și industria aeronautică din Toulouse." },
-      { q: "Care este capitala Occitaniei?", a: "Toulouse, numit și „orașul roz”, este capitala regiunii." },
+      { q: "Care este capitala Occitaniei?", a: "Toulouse, numit și \"orașul roz\", este capitala regiunii." },
       { q: "Ce vestigii romane se află aici?", a: "Pont du Gard (un apeduct) și amfiteatrul din Nîmes sunt edificii romane importante." },
       { q: "Ce este Carcassonne?", a: "Carcassonne este unul dintre cele mai bine conservate orașe fortificate medievale din Europa." }
     ],
@@ -411,7 +411,7 @@ export const franceFaq: CountryFaqMap = {
     ],
     ro: [
       { q: "Este Marsilia cel mai vechi oraș din Franța?", a: "Da, Marsilia a fost fondată în jurul anului 600 î.Hr. de către greci și este considerată cel mai vechi oraș din țară." },
-      { q: "Ce este Vieux-Port?", a: "Vieux-Port este „Portul Vechi” istoric și centrul turistic al Marsiliei." },
+      { q: "Ce este Vieux-Port?", a: "Vieux-Port este \"Portul Vechi\" istoric și centrul turistic al Marsiliei." },
       { q: "Ce biserică domină orașul?", a: "Bazilica Notre-Dame de la Garde oferă o vedere panoramică asupra Marsiliei și a mării." },
       { q: "Care este o specialitate culinară din Marsilia?", a: "Bouillabaisse, o supă bogată de pește, este cel mai faimos fel de mâncare al orașului." }
     ],
@@ -436,9 +436,9 @@ export const franceFaq: CountryFaqMap = {
       { q: "Mely folyók mentén fekszik Lyon?", a: "Lyon a Rhône és a Saône folyók találkozásánál fekszik." }
     ],
     ro: [
-      { q: "De ce este Lyon numit „capitala gastronomiei”?", a: "Datorită densității mari de restaurante excelente și tradiției sale culinare bogate." },
+      { q: "De ce este Lyon numit \"capitala gastronomiei\"?", a: "Datorită densității mari de restaurante excelente și tradiției sale culinare bogate." },
       { q: "Ce sunt 'Traboules'?", a: "Traboules sunt pasaje ascunse din epoca Renașterii în orașul vechi, care fac legătura între clădiri." },
-      { q: "Ce festival are loc în fiecare an în decembrie?", a: "„Fête des Lumières” (Festivalul Luminilor), în cadrul căruia orașul este iluminat spectaculos." },
+      { q: "Ce festival are loc în fiecare an în decembrie?", a: "\"Fête des Lumières\" (Festivalul Luminilor), în cadrul căruia orașul este iluminat spectaculos." },
       { q: "Pe ce râuri este situat Lyon?", a: "Lyon este situat la confluența fluviilor Ron și Saône." }
     ],
     en: [
@@ -462,7 +462,7 @@ export const franceFaq: CountryFaqMap = {
       { q: "Melyik UNESCO világörökségi helyszín halad át a városon?", a: "A Canal du Midi, amely a Földközi-tengert köti össze az Atlanti-óceánnal, Toulouse-on is áthalad." }
     ],
     ro: [
-      { q: "De ce este Toulouse numit „orașul roz”?", a: "Datorită cărămizilor roz caracteristice din care au fost construite multe clădiri din orașul vechi." },
+      { q: "De ce este Toulouse numit \"orașul roz\"?", a: "Datorită cărămizilor roz caracteristice din care au fost construite multe clădiri din orașul vechi." },
       { q: "Ce mare companie industrială are sediul la Toulouse?", a: "Toulouse este centrul european al aeronauticii și sediul central al Airbus." },
       { q: "Ce este Capitole?", a: "Capitole este primăria impunătoare și centrul istoric al Toulouse-ului." },
       { q: "Ce sit al Patrimoniului Mondial UNESCO trece prin oraș?", a: "Canal du Midi, care leagă Marea Mediterană de Atlantic, începe sau trece prin Toulouse." }
@@ -489,7 +489,7 @@ export const franceFaq: CountryFaqMap = {
     ],
     ro: [
       { q: "Ce este Promenade des Anglais?", a: "Faimoasa promenadă de 7 km de-a lungul Mării Mediterane din Nisa." },
-      { q: "Ce poreclă are Nisa?", a: "Nisa este adesea numită „Nisa la Belle” (Nisa cea Frumoasă)." },
+      { q: "Ce poreclă are Nisa?", a: "Nisa este adesea numită \"Nisa la Belle\" (Nisa cea Frumoasă)." },
       { q: "Când a aparținut Nisa de Italia?", a: "Nisa a aparținut Regatului Sardiniei-Piemont până în 1860, când a devenit parte a Franței." },
       { q: "Care este o specialitate culinară din Nisa?", a: "Salata niçoise și Socca (o clătită din năut) sunt preparate tipice ale orașului." }
     ],
@@ -516,7 +516,7 @@ export const franceFaq: CountryFaqMap = {
     ro: [
       { q: "Ce a fost Nantes din punct de vedere istoric?", a: "Nantes a fost anterior capitala Bretaniei și un port important de peste mări." },
       { q: "Ce sunt 'Les Machines de l'île'?", a: "Un proiect artistic cu animale mecanice, precum faimosul elefant uriaș." },
-      { q: "Cine este cel mai faimos autor născut la Nantes?", a: "Jules Verne, autorul romanului „Ocolul Pământului în 80 de zile”, s-a născut la Nantes." },
+      { q: "Cine este cel mai faimos autor născut la Nantes?", a: "Jules Verne, autorul romanului \"Ocolul Pământului în 80 de zile\", s-a născut la Nantes." },
       { q: "Ce se poate vizita la castelul din Nantes?", a: "Château des ducs de Bretagne găzduiește muzeul de istorie a orașului Nantes." }
     ],
     en: [
@@ -594,7 +594,7 @@ export const franceFaq: CountryFaqMap = {
     ro: [
       { q: "Ce influență arhitecturală se poate vedea în Lille?", a: "Lille prezintă o puternică influență flamandă, în special în clădirile din cărămidă și în Grand'Place." },
       { q: "Ce este Braderie de Lille?", a: "Cea mai mare piață de vechituri din Europa, care atrage milioane de vizitatori în fiecare an în septembrie." },
-      { q: "Ce este Vieille Bourse?", a: "„Vechea Bursă” este una dintre cele mai somptuoase clădiri din oraș, datând de la jumătatea secolului al XVII-lea." },
+      { q: "Ce este Vieille Bourse?", a: "\"Vechea Bursă\" este una dintre cele mai somptuoase clădiri din oraș, datând de la jumătatea secolului al XVII-lea." },
       { q: "Este Lille aproape de o graniță?", a: "Da, Lille este situat în nordul Franței, la doar câțiva kilometri de granița cu Belgia." }
     ],
     en: [
@@ -853,7 +853,7 @@ export const franceFaq: CountryFaqMap = {
     ],
     ro: [
       { q: "Ce a fost Luvrul înainte de a deveni muzeu?", a: "Luvrul a fost inițial o fortăreață și mai târziu un palat regal." },
-      { q: "Care este cel mai faimos tablou din Luvru?", a: "„Mona Lisa” de Leonardo da Vinci este cea mai faimoasă operă a muzeului." },
+      { q: "Care este cel mai faimos tablou din Luvru?", a: "\"Mona Lisa\" de Leonardo da Vinci este cea mai faimoasă operă a muzeului." },
       { q: "Ce este piramida de sticlă?", a: "O intrare principală modernă în curtea Luvrului, proiectată de I. M. Pei și inaugurată în 1989." },
       { q: "Câte opere de artă se află în Luvru?", a: "Muzeul deține peste 380.000 de obiecte, dintre care aproximativ 35.000 sunt expuse." }
     ],
@@ -932,7 +932,7 @@ export const franceFaq: CountryFaqMap = {
     ro: [
       { q: "Ce importanță are portul Calais?", a: "Calais este cel mai important port francez de feribot pentru conexiunile cu Dover (Anglia)." },
       { q: "Există un tunel la Calais?", a: "Eurotunelul (Tunelul Canalului) începe foarte aproape de Calais, în Coquelles." },
-      { q: "Ce reprezintă „Burgezii din Calais”?", a: "O sculptură faimoasă de Auguste Rodin, situată în fața primăriei din Calais." },
+      { q: "Ce reprezintă \"Burgezii din Calais\"?", a: "O sculptură faimoasă de Auguste Rodin, situată în fața primăriei din Calais." },
       { q: "Pe ce coastă se află orașul Calais?", a: "Calais este situat pe Coasta de Opal (Côte d'Opale) din nordul Franței." }
     ],
     en: [
@@ -983,7 +983,7 @@ export const franceFaq: CountryFaqMap = {
     ],
     ro: [
       { q: "Ce râu trece pe sub Castelul Chenonceau?", a: "Castelul este construit pe un pod peste râul Cher." },
-      { q: "De ce este numit și „Castelul Doamnelor”?", a: "Deoarece a fost modelat în mare măsură de femei influente, precum Diane de Poitiers și Caterina de Medici." },
+      { q: "De ce este numit și \"Castelul Doamnelor\"?", a: "Deoarece a fost modelat în mare măsură de femei influente, precum Diane de Poitiers și Caterina de Medici." },
       { q: "Ce se poate vedea în grădini?", a: "Două grădini renascentiste superbe, un labirint și o grădină de legume." },
       { q: "Cum a fost folosit castelul în timpul Primului Război Mondial?", a: "Galeria de peste râu a servit ca spital militar." }
     ],
@@ -1034,7 +1034,7 @@ export const franceFaq: CountryFaqMap = {
       { q: "Erdő veszi körül a kastélyt?", a: "Igen, a 25 000 hektáros Fontainebleau-i erdő közepén található." }
     ],
     ro: [
-      { q: "Ce împărat a apreciat în mod deosebit Fontainebleau?", a: "Napoleon Bonaparte l-a numit „adevărata casă a regilor”." },
+      { q: "Ce împărat a apreciat în mod deosebit Fontainebleau?", a: "Napoleon Bonaparte l-a numit \"adevărata casă a regilor\"." },
       { q: "Pentru ce este cunoscută scara în formă de potcoavă?", a: "Este simbolul arhitectural al castelului și locul unde Napoleon și-a luat rămas bun înainte de exilul pe Elba." },
       { q: "Ce se poate vedea în interiorul castelului?", a: "Apartamente somptuoase, sala tronului lui Napoleon și colecții de artă importante." },
       { q: "Este castelul înconjurat de pădure?", a: "Da, este situat în mijlocul pădurii Fontainebleau, care are o suprafață de 25.000 de hectare." }
@@ -1113,7 +1113,7 @@ export const franceFaq: CountryFaqMap = {
     ],
     ro: [
       { q: "Ce este amfiteatrul din Nîmes?", a: "Un amfiteatru roman excelent conservat, construit în jurul anului 100 d.Hr." },
-      { q: "La ce este folosită arena astăzi?", a: "Astăzi găzduiește concerte, coride și „Marile Jocuri Romane”." },
+      { q: "La ce este folosită arena astăzi?", a: "Astăzi găzduiește concerte, coride și \"Marile Jocuri Romane\"." },
       { q: "Câți spectatori puteau intra în arenă?", a: "În epoca romană, avea o capacitate de aproximativ 24.000 de spectatori." },
       { q: "De ce este atât de bine conservat?", a: "Deoarece în Evul Mediu a fost transformat în fortăreață și complex rezidențial, ceea ce l-a protejat de degradare." }
     ],
@@ -1268,7 +1268,7 @@ export const franceFaq: CountryFaqMap = {
       { q: "Melyik tó található a szurdok végén?", a: "A Lac de Sainte-Croix, egy nagy türkizkék víztározó." }
     ],
     ro: [
-      { q: "Ce sunt Cheile Verdonului?", a: "Un canion spectaculos din Provence, numit adesea „Marele Canion al Europei”." },
+      { q: "Ce sunt Cheile Verdonului?", a: "Un canion spectaculos din Provence, numit adesea \"Marele Canion al Europei\"." },
       { q: "Ce culoare are râul Verdon?", a: "Râul Verdon este cunoscut pentru culoarea sa turcoaz strălucitoare." },
       { q: "Cât de adânci sunt cheile?", a: "În unele locuri, cheile au o adâncime de până la 700 de metri." },
       { q: "Ce lac se află la capătul cheilor?", a: "Lac de Sainte-Croix, un lac de acumulare mare, de culoare turcoaz." }
@@ -1505,7 +1505,7 @@ export const franceFaq: CountryFaqMap = {
       { q: "De ce este atât de faimoasă Catedrala din Reims?", a: "Datorită importanței sale ca loc de încoronare a regilor Franței." },
       { q: "Ce epocă arhitecturală reprezintă?", a: "Este una dintre cele mai importante clădiri ale goticului înalt francez." },
       { q: "A fost avariată în timpul războiului?", a: "Da, în Primul Război Mondial a fost grav avariată de bombardamentele germane, dar a fost restaurată ulterior." },
-      { q: "Ce este „Îngerul care zâmbește”?", a: "O faimoasă statuie de piatră de pe fațada catedralei." }
+      { q: "Ce este \"Îngerul care zâmbește\"?", a: "O faimoasă statuie de piatră de pe fațada catedralei." }
     ],
     en: [
       { q: "Why is Reims Cathedral so famous?", a: "Because of its significance as the coronation site of the French kings." },
@@ -1554,7 +1554,7 @@ export const franceFaq: CountryFaqMap = {
       { q: "Miről ismert a tó?", a: "Európa egyik legtisztább és legátláthatóbb tavaként tartják számon." }
     ],
     ro: [
-      { q: "De ce este Annecy numit „Veneția Alpilor”?", a: "Datorită canalelor care traversează orașul vechi pitoresc." },
+      { q: "De ce este Annecy numit \"Veneția Alpilor\"?", a: "Datorită canalelor care traversează orașul vechi pitoresc." },
       { q: "Ce este Palais de l'Isle?", a: "O clădire istorică în mijlocul unui canal, care a servit odată ca închisoare și este astăzi un simbol al orașului." },
       { q: "Ce se poate face pe Lacul Annecy?", a: "Înot, plimbări cu barca, ciclism și parapantă cu vedere la Alpi." },
       { q: "Pentru ce este cunoscut lacul?", a: "Este considerat unul dintre cele mai curate și limpezi lacuri din Europa." }
@@ -1583,7 +1583,7 @@ export const franceFaq: CountryFaqMap = {
       { q: "Pentru ce este faimos Dijon în întreaga lume?", a: "Dijon este cunoscut în special pentru muștarul său (muștarul de Dijon)." },
       { q: "Ce a fost Dijon din punct de vedere istoric?", a: "A fost capitala puternicului Ducat al Burgundiei." },
       { q: "Ce este Palatul Ducilor?", a: "Fosta reședință a ducilor de Burgundia, astăzi primărie și muzeu de artă." },
-      { q: "Ce este „Bufnița din Dijon”?", a: "O mică sculptură de piatră de pe biserica Notre-Dame, pe care trebuie să o atingi cu mâna stângă pentru noroc." }
+      { q: "Ce este \"Bufnița din Dijon\"?", a: "O mică sculptură de piatră de pe biserica Notre-Dame, pe care trebuie să o atingi cu mâna stângă pentru noroc." }
     ],
     en: [
       { q: "What is Dijon world-famous for?", a: "Dijon is primarily known for its mustard (Dijon mustard)." },
@@ -1608,7 +1608,7 @@ export const franceFaq: CountryFaqMap = {
     ro: [
       { q: "Ce pictor faimos provine din Aix-en-Provence?", a: "Paul Cézanne s-a născut aici și și-a petrecut cea mai mare parte a vieții în oraș." },
       { q: "Cum se numește bulevardul central al orașului?", a: "Cours Mirabeau este bulevardul principal magnific din Aix." },
-      { q: "De ce este Aix numit „orașul celor o mie de fântâni”?", a: "Deoarece în oraș există nenumărate fântâni publice istorice." },
+      { q: "De ce este Aix numit \"orașul celor o mie de fântâni\"?", a: "Deoarece în oraș există nenumărate fântâni publice istorice." },
       { q: "Ce este un Calisson?", a: "Un desert tradițional din Aix, făcut din migdale și pepene confiat." }
     ],
     en: [
@@ -1685,7 +1685,7 @@ export const franceFaq: CountryFaqMap = {
     ],
     ro: [
       { q: "Ce a fost Saint-Tropez la origine?", a: "Un mic și modest sat de pescari." },
-      { q: "Cum a devenit faimos în întreaga lume?", a: "Prin filmul „Și Dumnezeu a creat femeia” cu Brigitte Bardot, în anii '50." },
+      { q: "Cum a devenit faimos în întreaga lume?", a: "Prin filmul \"Și Dumnezeu a creat femeia\" cu Brigitte Bardot, în anii '50." },
       { q: "Care este inima orașului Saint-Tropez?", a: "Portul (Vieux Port), unde astăzi sunt ancorate unele dintre cele mai luxoase iahturi din lume." },
       { q: "Există plaje acolo?", a: "Da, celebra plajă Pampelonne se află în apropiere." }
     ],
@@ -1711,7 +1711,7 @@ export const franceFaq: CountryFaqMap = {
     ],
     ro: [
       { q: "Pentru ce este faimos Le Mans în întreaga lume?", a: "Pentru legendara cursă de 24 de ore de la Le Mans, care are loc din 1923." },
-      { q: "Există un oraș vechi în Le Mans?", a: "Da, „Cité Plantagenêt” este unul dintre cele mai bine conservate orașe vechi medievale din Franța." },
+      { q: "Există un oraș vechi în Le Mans?", a: "Da, \"Cité Plantagenêt\" este unul dintre cele mai bine conservate orașe vechi medievale din Franța." },
       { q: "Ce este special la zidul orașului?", a: "Zidul roman din secolul al III-lea este păstrat aproape în întregime." },
       { q: "Cum se numește catedrala?", a: "Catedrala Saint-Julien, cunoscută pentru amestecul său de stil romanic și gotic." }
     ],
@@ -1777,7 +1777,7 @@ export const franceFaq: CountryFaqMap = {
     ],
     ro: [
       { q: "Peste ce râu este construit Castelul Chenonceau?", a: "Este construit peste râul Cher, în Valea Loarei." },
-      { q: "Ce poreclă are castelul?", a: "Este adesea numit „Castelul Doamnelor”." }
+      { q: "Ce poreclă are castelul?", a: "Este adesea numit \"Castelul Doamnelor\"." }
     ],
     en: [
       { q: "Over which river is Château de Chenonceau built?", a: "It is built across the Cher river in the Loire Valley." },

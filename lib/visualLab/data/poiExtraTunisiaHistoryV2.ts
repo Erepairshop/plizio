@@ -662,8 +662,8 @@ export const poiExtraTunisiaHistoryV2: POI[] = [
     },
     description: {
       de: "Ein massives befestigtes Tor, auch das 'Dunkle Tor' genannt, das einst der einzige Landzugang zur fatimidischen Hauptstadt Mahdia war.",
-      hu: "Egy hatalmas erődített kapu, más néven a „Sötét kapu”, amely egykor a Fátimida főváros, Mahdia egyetlen szárazföldi bejárata volt.",
-      ro: "O poartă fortificată masivă, numită și „Poarta Întunecată”, care a fost odată singurul acces terestru la capitala fatimidă Mahdia.",
+      hu: "Egy hatalmas erődített kapu, más néven a \"Sötét kapu\", amely egykor a Fátimida főváros, Mahdia egyetlen szárazföldi bejárata volt.",
+      ro: "O poartă fortificată masivă, numită și \"Poarta Întunecată\", care a fost odată singurul acces terestru la capitala fatimidă Mahdia.",
       en: "A massive fortified gate, also called the 'Dark Gate', which was once the only land access to the Fatimid capital of Mahdia."
     },
     facts: {

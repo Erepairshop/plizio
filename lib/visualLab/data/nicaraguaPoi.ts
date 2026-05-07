@@ -100,8 +100,8 @@ export const nicaraguaCities: POI[] = [
     description: { de: "Bekannt als das Zentrum nicaraguanischen Kunsthandwerks.", hu: "A nicaraguai kézművesség központjaként ismert város.", ro: "Cunoscut ca centrul meșteșugurilor tradiționale din Nicaragua.", en: "Known as the center of Nicaraguan folklore and handicrafts." },
     descriptionAdvanced: {
       de: "Masaya wird oft als die 'Stadt der Blumen' bezeichnet und ist berühmt für seinen großen Kunsthandwerksmarkt. Hier findet man die besten handgewebten Hängematten und Keramiken des Landes.",
-      hu: "Masayát gyakran a „virágok városának” nevezik, és híres hatalmas kézműves piacáról. Itt találhatók az ország legjobb kézzel szőtt függőágyai és kerámiái.",
-      ro: "Masaya este adesea numit „orașul florilor” și este renumit pentru marea sa piață de artizanat. Aici se găsesc cele mai bune hamace țesute manual și ceramica din țară.",
+      hu: "Masayát gyakran a \\\"virágok városának\\\" nevezik, és híres hatalmas kézműves piacáról. Itt találhatók az ország legjobb kézzel szőtt függőágyai és kerámiái.",
+      ro: "Masaya este adesea numit \\\"orașul florilor\\\" și este renumit pentru marea sa piață de artizanat. Aici se găsesc cele mai bune hamace țesute manual și ceramica din țară.",
       en: "Masaya is often called the 'City of Flowers' and is celebrated for its expansive artisan market. It is the premier place to find handcrafted hammocks and traditional Nicaraguan ceramics."
     },
     facts: {
@@ -255,8 +255,8 @@ export const nicaraguaCities: POI[] = [
     description: { de: "Das größte Tropenwaldreservat in Mittelamerika und Teil des UNESCO-Erbes.", hu: "Közép-Amerika legnagyobb trópusi erdőrezervátuma, az UNESCO örökség része.", ro: "Cea mai mare rezervație de pădure tropicală din America Centrală, parte a UNESCO.", en: "The largest tropical rainforest reserve in Central America and a UNESCO site." },
     descriptionAdvanced: {
       de: "Bosawás umfasst etwa 15% der Landfläche Nicaraguas und schützt eine enorme Artenvielfalt. Es ist die Heimat vieler indigener Gemeinschaften und gilt als eines der wichtigsten 'Lungen' Amerikas.",
-      hu: "A Bosawás Nicaragua területének mintegy 15%-át fedi le, és óriási biodiverzitást védelmez. Számos őslakos közösség otthona, és Amerika egyik legfontosabb „tüdejének” tekintik.",
-      ro: "Bosawás acoperă aproximativ 15% din suprafața Nicaraguei și protejează o biodiversitate enormă. Este casa multor comunități indigene și este considerat unul dintre cei mai importanți „plămâni” ai Americii.",
+      hu: "A Bosawás Nicaragua területének mintegy 15%-át fedi le, és óriási biodiverzitást védelmez. Számos őslakos közösség otthona, és Amerika egyik legfontosabb \\\"tüdejének\\\" tekintik.",
+      ro: "Bosawás acoperă aproximativ 15% din suprafața Nicaraguei și protejează o biodiversitate enormă. Este casa multor comunități indigene și este considerat unul dintre cei mai importanți \\\"plămâni\\\" ai Americii.",
       en: "Bosawás encompasses roughly 15% of Nicaragua's land area, protecting vast biodiversity. It is home to several indigenous groups and is considered one of the most vital 'lungs' of the Americas."
     },
     facts: {
@@ -360,8 +360,8 @@ export const nicaraguaLandmarks: POI[] = [
     description: { de: "Ein aktiver Vulkan, in dessen Krater man die glühende Lava sehen kann.", hu: "Aktív vulkán, amelynek kráterében izzó láva látható.", ro: "Un vulcan activ unde poți vedea lava strălucitoare în crater.", en: "An active volcano where you can see glowing lava in the crater." },
     descriptionAdvanced: {
       de: "Die spanischen Eroberer nannten ihn 'La Boca del Infierno' (Mund der Hölle). Heute ist der Nationalpark Masaya einer der am besten zugänglichen Vulkane der Welt, da man direkt mit dem Auto zum Kraterrand fahren kann.",
-      hu: "A spanyol hódítók „La Boca del Infierno”-nek, azaz a pokol szájának nevezték. Ma a Masaya Nemzeti Park a világ egyik legkönnyebben megközelíthető vulkánja, hiszen autóval közvetlenül a kráter széléig lehet hajtani.",
-      ro: "Cuceritorii spanioli l-au numit „La Boca del Infierno” (Gura Iadului). Astăzi, Parcul Național Masaya este unul dintre cei mai accesibili vulcani din lume, putând ajunge cu mașina chiar pe marginea craterului.",
+      hu: "A spanyol hódítók \\\"La Boca del Infierno\\\"-nek, azaz a pokol szájának nevezték. Ma a Masaya Nemzeti Park a világ egyik legkönnyebben megközelíthető vulkánja, hiszen autóval közvetlenül a kráter széléig lehet hajtani.",
+      ro: "Cuceritorii spanioli l-au numit \\\"La Boca del Infierno\\\" (Gura Iadului). Astăzi, Parcul Național Masaya este unul dintre cei mai accesibili vulcani din lume, putând ajunge cu mașina chiar pe marginea craterului.",
       en: "Spanish conquerors dubbed it 'La Boca del Infierno' (The Mouth of Hell). Today, Masaya Volcano National Park is one of the world's most accessible volcanoes, with a paved road leading directly to the crater rim."
     },
     facts: {
@@ -386,8 +386,8 @@ export const nicaraguaLandmarks: POI[] = [
     description: { de: "Ein junger Vulkan, berühmt für das Volcano-Boarding.", hu: "Fiatal vulkán, amely a vulkáni szörfözésről (volcano boarding) híres.", ro: "Un vulcan tânăr, renumit pentru snowboardingul pe cenușă vulcanică.", en: "A young volcano famous for the extreme sport of volcano boarding." },
     descriptionAdvanced: {
       de: "Der Cerro Negro ist der jüngste Vulkan Mittelamerikas und entstand erst im Jahr 1850. Wegen seiner steilen, aschebedeckten Hänge ist er ein weltbekanntes Ziel für 'Volcano Boarding', bei dem man auf Brettern den Hang hinunterrast.",
-      hu: "A Cerro Negro Közép-Amerika legfiatalabb vulkánja, mindössze 1850-ben keletkezett. Meredek, hamuval borított lejtői miatt világhírű helyszíne a „vulkáni szörfözésnek”, ahol deszkákon csúsznak le a hegyoldalon.",
-      ro: "Cerro Negro este cel mai tânăr vulcan din America Centrală, formându-se abia în 1850. Datorită pantelor sale abrupte acoperite de cenușă, este o destinație mondială pentru „volcano boarding”.",
+      hu: "A Cerro Negro Közép-Amerika legfiatalabb vulkánja, mindössze 1850-ben keletkezett. Meredek, hamuval borított lejtői miatt világhírű helyszíne a \\\"vulkáni szörfözésnek\\\", ahol deszkákon csúsznak le a hegyoldalon.",
+      ro: "Cerro Negro este cel mai tânăr vulcan din America Centrală, formându-se abia în 1850. Datorită pantelor sale abrupte acoperite de cenușă, este o destinație mondială pentru \\\"volcano boarding\\\".",
       en: "Cerro Negro is Central America's youngest volcano, born in 1850. Its steep, ash-covered slopes have made it world-famous for the extreme sport of volcano boarding."
     },
     facts: {
@@ -418,7 +418,7 @@ export const nicaraguaLandmarks: POI[] = [
     },
     facts: {
       de: ["Gefunden im Jahr 2004", "Vom Coco-Fluss geformt", "Spektakuläre Felswände", "Ideal zum Canyoning"],
-      hu: ["2004-ben „fedezték fel”", "A Coco-folyó alakította ki", "Látványos sziklafalak", "Ideális kanyoningozásra"],
+      hu: ["2004-ben \\\"fedezték fel\\\"", "A Coco-folyó alakította ki", "Látványos sziklafalak", "Ideális kanyoningozásra"],
       ro: ["Descoperit în 2004", "Format de râul Coco", "Pereți de stâncă spectaculoși", "Ideal pentru canyoning"],
       en: ["Scientifically recognized in 2004", "Carved by the Coco River", "Dramatic sheer cliff walls", "Premier destination for canyoning"]
     },

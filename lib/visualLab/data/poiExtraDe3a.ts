@@ -79,7 +79,7 @@ export const poiExtraDe3a: POI[] = [
       "Sie ist der zweitlängste Fluss, der vollständig in Mecklenburg-Vorpommern fließt.",
       "Das Warnow-Durchbruchstal bei Sternberg steht seit 1935 unter Naturschutz.",
       "In Rostock verläuft unter der Warnow der 2003 eröffnete Warnowtunnel.",
-      "Der Flussname hat slawische Wurzeln und bedeutet \'Krähenfluss\'.",
+      "Der Flussname hat slawische Wurzeln und bedeutet \\'Krähenfluss\\'.",
       "Die Warnow entwässert ein Einzugsgebiet von über 3.300 Quadratkilometern.",
       "Die Unterwarnow vor Rostock ist tief genug, um Hochseeschiffe aufzunehmen."
     ],
@@ -88,7 +88,7 @@ export const poiExtraDe3a: POI[] = [
       "Ez a második leghosszabb folyó, amely teljes egészében Mecklenburg-Elő-Pomerániában folyik.",
       "A Sternberg melletti Warnow-áttörés völgye 1935 óta természetvédelem alatt áll.",
       "Rostockban a folyó alatt halad a 2003-ban átadott Warnow-alagút.",
-      "A folyó neve szláv gyökerű, jelentése \'Varjú-folyó\'.",
+      "A folyó neve szláv gyökerű, jelentése \\'Varjú-folyó\\'.",
       "A Warnow több mint 3300 négyzetkilométeres vízgyűjtő területet ürít le.",
       "A Rostock előtti Unterwarnow elég mély ahhoz, hogy tengerjáró hajókat is fogadjon."
     ],
@@ -125,8 +125,8 @@ export const poiExtraDe3a: POI[] = [
       "Wismar stand ab dem Westfälischen Frieden 1648 bis 1903 offiziell unter schwedischer Herrschaft.",
       "Die Altstadt wurde 2002 gemeinsam mit Stralsund in die UNESCO-Welterbeliste aufgenommen.",
       "Die St.-Georgen-Kirche besaß einen der massivsten Baukörper der Backsteingotik, bevor sie im 2. Weltkrieg stark beschädigt wurde.",
-      "Das Gebäude \'Alter Schwede\' von 1380 ist das älteste bekannte Bürgerhaus der Stadt.",
-      "Die \'Wasserkunst\' auf dem Marktplatz versorgte die Stadt jahrhundertelang mit Trinkwasser.",
+      "Das Gebäude \\'Alter Schwede\\' von 1380 ist das älteste bekannte Bürgerhaus der Stadt.",
+      "Die \\'Wasserkunst\\' auf dem Marktplatz versorgte die Stadt jahrhundertelang mit Trinkwasser.",
       "Der Wismarer Hafen war im Mittelalter ein wichtiger Umschlagplatz für Heringe und Bier."
     ],
       hu: [
@@ -134,8 +134,8 @@ export const poiExtraDe3a: POI[] = [
       "Wismar az 1648-as vesztfáliai béke után 1903-ig hivatalosan svéd uralom alatt állt.",
       "Az óvárost 2002-ben Stralsunddal együtt felvették az UNESCO világörökségi listájára.",
       "A Szent György-templom a téglagótika egyik legmasszívabb építménye volt, mielőtt a II. világháborúban súlyosan megsérült.",
-      "Az 1380-ból származó \'Alter Schwede\' épület a város legrégebbi ismert polgárháza.",
-      "A piactéren található \'Wasserkunst\' évszázadokon át ivóvízzel látta el a várost.",
+      "Az 1380-ból származó \\'Alter Schwede\\' épület a város legrégebbi ismert polgárháza.",
+      "A piactéren található \\'Wasserkunst\\' évszázadokon át ivóvízzel látta el a várost.",
       "A wismari kikötő a középkorban a hering és a sör fontos rakodóhelye volt."
     ],
       ro: ["Centrul istoric al orașului Wismar este în lista UNESCO din anul 2002.", "Portul este un lider în manipularea componentelor pentru parcurile eoliene.", "Bazinul portuar istoric (Alter Hafen) este o destinație turistică celebră pentru peștele proaspăt.", "Wismar a aparținut regatului Suediei între 1648 și 1903, fapt ce a marcat arhitectura portului.", "Șantierul naval local deține una dintre cele mai mari hale de construcție navale din Europa.", "Este situat strategic pe traseul autostrăzii A20, facilitând distribuția spre interiorul țării."],
@@ -171,8 +171,8 @@ export const poiExtraDe3a: POI[] = [
       "Der Weststrand wurde aufgrund seiner Wildheit oft zu einem der schönsten Strände Europas gewählt.",
       "Der Leuchtturm Darßer Ort, erbaut 1848, steht an der nordwestlichsten Spitze der Halbinsel.",
       "Der Darß gehört vollständig zum Nationalpark Vorpommersche Boddenlandschaft.",
-      "Traditionelle, kunstvoll bemalte \'Darßer Türen\' sind ein kulturelles Markenzeichen der Region.",
-      "Die sogenannten \'Windflüchter\' sind Bäume, deren Wuchs durch den starken Westwind einseitig geprägt ist.",
+      "Traditionelle, kunstvoll bemalte \\'Darßer Türen\\' sind ein kulturelles Markenzeichen der Region.",
+      "Die sogenannten \\'Windflüchter\\' sind Bäume, deren Wuchs durch den starken Westwind einseitig geprägt ist.",
       "Im Herbst rasten bis zu 70.000 Kraniche in den seichten Boddengewässern rund um den Darß."
     ],
       hu: [
@@ -180,8 +180,8 @@ export const poiExtraDe3a: POI[] = [
       "A vadregényes Weststrandot (Nyugati strand) gyakran Európa legszebb strandjai közé választják.",
       "Az 1848-ban épült Darßer Ort világítótorony a félsziget legészaknyugatibb csücskén áll.",
       "A Darß teljes egészében az Elő-pomerániai Bodden-táj Nemzeti Parkhoz tartozik.",
-      "A hagyományos, művészien festett \'darß-i ajtók\' a régió kulturális védjegyei.",
-      "A \'szélmenekülők\' (Windflüchter) olyan fák, amelyek növekedését az erős nyugati szél egyoldalúan alakította.",
+      "A hagyományos, művészien festett \\'darß-i ajtók\\' a régió kulturális védjegyei.",
+      "A \\'szélmenekülők\\' (Windflüchter) olyan fák, amelyek növekedését az erős nyugati szél egyoldalúan alakította.",
       "Ősszel akár 70 000 daru is megpihen a Darß körüli sekély boddeni vizekben."
     ],
       ro: ["Face parte din Parcul Național Vorpommersche Boddenlandschaft, fondat în 1990.", "Copacii 'Windflüchter' sunt simbolul parcului, fiind modelați de vântul marin.", "Pădurea se întinde pe o suprafață de aproximativ 5.800 de hectare.", "Este interzisă intervenția umană în zonele de nucleu pentru a permite dezvoltarea naturală.", "Farul Darßer Ort, situat la marginea pădurii, este un punct de reper din 1848.", "Adăpostește specii rare precum cerbul roșu și vulturul codalb."],
@@ -216,7 +216,7 @@ export const poiExtraDe3a: POI[] = [
       "Die Universität Greifswald wurde 1456 gegründet und ist eine der ältesten in Mitteleuropa.",
       "Greifswald ist der Geburtsort des berühmten Romantik-Malers Caspar David Friedrich (geboren 1774).",
       "Die Stadt war wie Stralsund und Wismar fast 200 Jahre lang Teil des Königreichs Schweden.",
-      "Der Dom St. Nikolai (der \'lange Nikolaus\') besitzt einen knapp 100 Meter hohen Turm.",
+      "Der Dom St. Nikolai (der \\'lange Nikolaus\\') besitzt einen knapp 100 Meter hohen Turm.",
       "Greifswald blieb während des Zweiten Weltkriegs dank kampfloser Übergabe weitgehend unzerstört.",
       "Der Museumshafen Greifswald beherbergt eine der größten Flotten historischer Arbeitsschiffe Deutschlands.",
       "In Greifswald befindet sich das Max-Planck-Institut für Plasmaphysik mit dem Forschungsreaktor Wendelstein 7-X."
@@ -225,7 +225,7 @@ export const poiExtraDe3a: POI[] = [
       "A Greifswaldi Egyetemet 1456-ban alapították, és Közép-Európa egyik legrégebbi egyeteme.",
       "Greifswald a híres romantikus festő, Caspar David Friedrich (született 1774-ben) szülőhelye.",
       "A város, akárcsak Stralsund és Wismar, közel 200 évig a Svéd Királyság része volt.",
-      "A Szent Miklós-dóm (a \'hosszú Miklós\') majdnem 100 méter magas toronnyal rendelkezik.",
+      "A Szent Miklós-dóm (a \\'hosszú Miklós\\') majdnem 100 méter magas toronnyal rendelkezik.",
       "Greifswald a harc nélküli átadásnak köszönhetően nagyrészt sértetlen maradt a második világháború alatt.",
       "A greifswaldi múzeumkikötő Németország egyik legnagyobb történelmi munkahajó-flottájának ad otthont.",
       "Greifswaldban található a Max Planck Plazmafizikai Intézet a Wendelstein 7-X kutatóreaktorral."
@@ -265,7 +265,7 @@ export const poiExtraDe3a: POI[] = [
       "Nach der Säkularisation 1536 wurden die Steine der Gebäude teilweise für Stadtbefestigungen genutzt.",
       "Caspar David Friedrich machte die Ruine durch seine romantischen Gemälde weltberühmt.",
       "Das Ruinengelände wurde im 19. Jahrhundert nach Plänen von Peter Joseph Lenné als Park gestaltet.",
-      "Im Sommer ist die Ruine ein beliebter Veranstaltungsort für die \'Eldenaer Jazz Evenings\'."
+      "Im Sommer ist die Ruine ein beliebter Veranstaltungsort für die \\'Eldenaer Jazz Evenings\\'."
     ],
       hu: [
       "Az eldenai kolostort 1199-ben alapította I. Jaromar rügeni fejedelem.",
@@ -274,7 +274,7 @@ export const poiExtraDe3a: POI[] = [
       "Az 1536-os szekularizáció után az épületek köveit részben a város erődítményeihez használták fel.",
       "Caspar David Friedrich romantikus festményei tették világhírűvé a romokat.",
       "A romterületet a 19. században Peter Joseph Lenné tervei alapján parkká alakították.",
-      "Nyáron a rom a népszerű \'Eldenaer Jazz Evenings\' (Eldenai Jazz Estek) rendezvényhelyszíne."
+      "Nyáron a rom a népszerű \\'Eldenaer Jazz Evenings\\' (Eldenai Jazz Estek) rendezvényhelyszíne."
     ],
       ro: ["Mănăstirea a fost fondată în anul 1199 de călugării veniți de la Dargun.", "Ruinele au fost imortalizate în peste 20 de tablouri de Caspar David Friedrich.", "A servit ca sursă de piatră pentru construcții în secolul al XVII-lea.", "Karl Friedrich Schinkel a declarat ruinele monument protejat în anul 1827.", "Situl este un exemplu clasic de arhitectură gotică în cărămidă nord-germană.", "Face parte din 'Traseul European al Goticului în Cărămidă'."],
       en: ["Founded in 1199 by Cistercian monks from Denmark.", "Immortalized by Caspar David Friedrich in numerous paintings.", "A prime example of North German Brick Gothic architecture.", "The abbey was the original owner of the site where Greifswald was built.", "Used as a quarry for centuries before being protected as a ruin.", "Now serves as a picturesque venue for the 'Eldenaer Jazz Evenings'."]
@@ -306,20 +306,20 @@ export const poiExtraDe3a: POI[] = [
     factsAdvanced: {
       de: [
       "Die historische Stadtmauer von Neubrandenburg ist 2.300 Meter lang und noch fast komplett erhalten.",
-      "Die vier markanten Backsteintore brachten der Stadt den Namen \'Stadt der Vier Tore\' ein.",
+      "Die vier markanten Backsteintore brachten der Stadt den Namen \\'Stadt der Vier Tore\\' ein.",
       "Neubrandenburg wurde 1248 durch den Markgrafen Johann I. von Brandenburg gegründet.",
       "In die historische Marienkirche wurde ein hochmoderner Konzertsaal von einem finnischen Architekten eingebaut.",
       "Der benachbarte Tollensesee ist 10 Kilometer lang und ein beliebtes Naherholungsgebiet.",
-      "In den Wehranlagen der Stadtmauer sind historische Fachwerkhäuser, die \'Wiekhäuser\', integriert.",
+      "In den Wehranlagen der Stadtmauer sind historische Fachwerkhäuser, die \\'Wiekhäuser\\', integriert.",
       "Die Stadt ist das wirtschaftliche Oberzentrum der Mecklenburgischen Seenplatte."
     ],
       hu: [
       "Neubrandenburg történelmi városfala 2300 méter hosszú, és szinte teljesen épen maradt.",
-      "A négy jellegzetes téglakapu miatt kapta a \'Négy Kapu Városa\' nevet.",
+      "A négy jellegzetes téglakapu miatt kapta a \\'Négy Kapu Városa\\' nevet.",
       "Neubrandenburgot 1248-ban alapította I. János brandenburgi őrgróf.",
       "A történelmi Mária-templomba egy finn építész egy ultramodern koncerttermet épített be.",
       "A szomszédos Tollensesee 10 kilométer hosszú, és egy népszerű helyi rekreációs terület.",
-      "A városfal erődítményeibe történelmi favázas házak, az úgynevezett \'Wiekhäuser\'-ek épültek be.",
+      "A városfal erődítményeibe történelmi favázas házak, az úgynevezett \\'Wiekhäuser\\'-ek épültek be.",
       "A város a Mecklenburgi-tóvidék gazdasági központja."
     ],
       ro: ["Zidul orașului, lung de 2,3 kilometri, este complet conservat și are o înălțime de 7 metri.", "Cele patru porți medievale sunt Poarta Friedländer, Treptower, Stargarder și Poarta Nouă.", "Biserica Sf. Maria a fost reconstruită ca sală de concerte premiată internațional.", "Orașul a fost fondat în anul 1248 de către contele Herbord von Raven.", "Lacul Tollensesee, aflat la marginea orașului, are o adâncime de până la 33 de metri.", "Neubrandenburg deține cea mai mare densitate de artă gotică în cărămidă din regiune."],
@@ -494,7 +494,7 @@ export const poiExtraDe3a: POI[] = [
       "Das Holstentor war von 1990 bis 2001 auf dem 50-D-Mark-Schein der Bundesbank abgebildet.",
       "Die Mauern der Türme sind an einigen Stellen bis zu 3,50 Meter dick.",
       "Das Gebäude wurde zwischen 1464 und 1478 von dem Lübecker Ratsbaumeister Hinrich Helmstede errichtet.",
-      "Die lateinische Inschrift \'Concordia domi foris pax\' wurde erst 1871 hinzugefügt.",
+      "Die lateinische Inschrift \\'Concordia domi foris pax\\' wurde erst 1871 hinzugefügt.",
       "Aufgrund des weichen Bodens neigen sich die Türme; die Sinktiefe beträgt fast 50 Zentimeter.",
       "Das Tor ist Teil der Lübecker Stadtbefestigung, die aus ursprünglich vier hintereinander liegenden Toren bestand.",
       "Das Holstentor ist, wie die gesamte Lübecker Altstadt, seit 1987 UNESCO-Weltkulturerbe."
@@ -503,7 +503,7 @@ export const poiExtraDe3a: POI[] = [
       "A Holstentor 1990 és 2001 között a német jegybank 50 márkás bankjegyén is szerepelt.",
       "A tornyok falai helyenként akár 3,50 méter vastagok is lehetnek.",
       "Az épületet 1464 és 1478 között építette Hinrich Helmstede lübecki tanácsi építőmester.",
-      "A latin nyelvű \'Concordia domi foris pax\' feliratot csak 1871-ben adták hozzá.",
+      "A latin nyelvű \\'Concordia domi foris pax\\' feliratot csak 1871-ben adták hozzá.",
       "A puha talaj miatt a tornyok megdőltek; a süllyedés mértéke eléri a közel 50 centimétert.",
       "A kapu a lübecki városi erődítmény része, amely eredetileg négy egymás mögötti kapuból állt.",
       "A Holstentor a teljes lübecki óvároshoz hasonlóan 1987 óta az UNESCO világörökség része."
@@ -541,8 +541,8 @@ export const poiExtraDe3a: POI[] = [
       "Die Insel ist komplett vom Nationalpark Schleswig-Holsteinisches Wattenmeer umgeben.",
       "In der Blütezeit des Walfangs stammten zeitweise bis zu 150 Kapitäne von der Insel Föhr.",
       "Föhr besitzt über 15 Kilometer ununterbrochenen, feinsandigen Sandstrand im Süden.",
-      "Auf Föhr wird noch heute von einem Teil der Bevölkerung der friesische Dialekt \'Fering\' gesprochen.",
-      "Nieblum wird oft wegen seiner gut erhaltenen Reetdachhäuser als das \'schönste Dorf Föhrs\' bezeichnet.",
+      "Auf Föhr wird noch heute von einem Teil der Bevölkerung der friesische Dialekt \\'Fering\\' gesprochen.",
+      "Nieblum wird oft wegen seiner gut erhaltenen Reetdachhäuser als das \\'schönste Dorf Föhrs\\' bezeichnet.",
       "Die Insel ist nur per Fähre ab Dagebüll oder per Kleinflugzeug zu erreichen."
     ],
       hu: [
@@ -550,8 +550,8 @@ export const poiExtraDe3a: POI[] = [
       "A szigetet teljesen körülveszi a Schleswig-Holstein-i Watt-tenger Nemzeti Park.",
       "A bálnavadászat virágkorában egy időben akár 150 kapitány is Föhr szigetéről származott.",
       "Föhr déli részén több mint 15 kilométernyi, megszakítás nélküli finom homokos strand található.",
-      "Föhr lakosságának egy része még ma is a \'Fering\' nevű fríz dialektust beszéli.",
-      "Nieblumot jól megőrzött nádfedeles házai miatt gyakran \'Föhr legszebb falujának\' nevezik.",
+      "Föhr lakosságának egy része még ma is a \\'Fering\\' nevű fríz dialektust beszéli.",
+      "Nieblumot jól megőrzött nádfedeles házai miatt gyakran \\'Föhr legszebb falujának\\' nevezik.",
       "A sziget csak komppal Dagebüllből, vagy kisrepülőgéppel közelíthető meg."
     ],
       ro: ["Este a doua ca mărime dintre insulele germane de la Marea Nordului.", "Aproximativ 82 de kilometri pătrați de pajiști verzi îi conferă titlul de 'Insula Verde'.", "Wyk auf Föhr a fost înființat ca stațiune balneară oficială în anul 1819.", "Insula este accesibilă doar cu feribotul, călătoria durând circa 45 de minute din Dagebüll.", "Casele tradiționale 'Kapitänshäuser' din sate precum Nieblum sunt celebre pentru acoperișurile din stuf.", "Föhr are o climă blândă datorită influenței Gulf Stream-ului și a protecției insulare."],
@@ -633,7 +633,7 @@ export const poiExtraDe3a: POI[] = [
       "Die Siedlung war von einem noch heute sichtbaren, massiven Halbkreiswall umgeben.",
       "Aufgrund der ungestörten Lage im feuchten Boden sind organische Materialien wie Holz und Stoffe extrem gut erhalten.",
       "Im Jahr 2018 wurde Haithabu gemeinsam mit dem Danewerk in die UNESCO-Welterbeliste aufgenommen.",
-      "In Haithabu fanden Archäologen das Langschiff \'Haithabu 1\', ein bedeutendes Kriegsschiff.",
+      "In Haithabu fanden Archäologen das Langschiff \\'Haithabu 1\\', ein bedeutendes Kriegsschiff.",
       "Das Wikinger-Museum zeigt neben den Fundstücken sieben originalgetreu nachgebaute Wikingerhäuser.",
       "Die Stadt wurde 1066 bei einem Angriff westslawischer Truppen endgültig zerstört."
     ],
@@ -642,7 +642,7 @@ export const poiExtraDe3a: POI[] = [
       "A települést egy ma is látható, masszív, félkör alakú földsánc vette körül.",
       "A nedves talajban lévő háborítatlan fekvésnek köszönhetően az olyan szerves anyagok, mint a fa és a szövet, rendkívül jól megőrződtek.",
       "2018-ban Haithabut a Danewerkkel (Danevirke) együtt felvették az UNESCO világörökségi listájára.",
-      "Haithabuban a régészek megtalálták a \'Haithabu 1\' nevű hosszúhajót, egy jelentős hadihajót.",
+      "Haithabuban a régészek megtalálták a \\'Haithabu 1\\' nevű hosszúhajót, egy jelentős hadihajót.",
       "A Viking Múzeum a leletek mellett hét hűen rekonstruált viking házat is bemutat.",
       "A várost 1066-ban nyugati szláv csapatok támadása során végleg elpusztították."
     ],
@@ -680,7 +680,7 @@ export const poiExtraDe3a: POI[] = [
       "Der Wald ist bis heute größtenteils im Privatbesitz der Familie von Bismarck.",
       "Im Ort Friedrichsruh befindet sich das Bismarck-Mausoleum, die Grabstätte des Reichskanzlers.",
       "Der Wald besteht überwiegend aus alten Buchen- und Eichenbeständen.",
-      "Zahlreiche prähistorische Hügelgräber (\'Hünengräber\') sind im Wald versteckt.",
+      "Zahlreiche prähistorische Hügelgräber (\\'Hünengräber\\') sind im Wald versteckt.",
       "Der Fluss Bille schlängelt sich malerisch durch den nördlichen Teil des Waldes."
     ],
       hu: [
@@ -689,7 +689,7 @@ export const poiExtraDe3a: POI[] = [
       "Az erdő a mai napig nagyrészt a Bismarck család magántulajdonában van.",
       "Friedrichsruh településen található a Bismarck-mauzóleum, a kancellár sírhelye.",
       "Az erdő túlnyomórészt idős bükk- és tölgyállományokból áll.",
-      "Számos történelem előtti halomsír (\'Hünengräber\') bújik meg az erdőben.",
+      "Számos történelem előtti halomsír (\\'Hünengräber\\') bújik meg az erdőben.",
       "A Bille folyó festőien kanyarog az erdő északi részén."
     ],
       ro: ["Pădurea are o suprafață totală de aproximativ 70 de kilometri pătrați.", "A fost dăruită lui Otto von Bismarck de către împăratul Wilhelm I în 1871.", " Friedrichsruh găzduiește sediul Fundației Otto von Bismarck și muzeul familiei.", "Este traversată de râul Bille, oferind un peisaj forestier umed divers.", "Mausoleul lui Bismarck din Friedrichsruh este un loc de pelerinaj istoric.", "Pădurea este o zonă de vânătoare și silvicultură privată de generații."],
@@ -770,7 +770,7 @@ export const poiExtraDe3a: POI[] = [
       "Flensburg liegt nur wenige Kilometer von der dänischen Grenze entfernt.",
       "Die Stadt beheimatet eine starke dänische Minderheit mit eigenen Schulen und Kultureinrichtungen.",
       "Im 19. Jahrhundert gab es in Flensburg über 200 Rumhäuser, heute sind es nur noch wenige traditionsreiche Manufakturen.",
-      "Das Kraftfahrt-Bundesamt in Flensburg speichert die \'Punkte\' (Verkehrssünderkartei) deutscher Autofahrer.",
+      "Das Kraftfahrt-Bundesamt in Flensburg speichert die \\'Punkte\\' (Verkehrssünderkartei) deutscher Autofahrer.",
       "Die Rote Straße ist berühmt für ihre alten Kaufmannshöfe und malerischen Boutiquen.",
       "Die Marine-Schule Mürwik, die Ausbildungsstätte der deutschen Marineoffiziere, befindet sich hier.",
       "Der historische Museumshafen beherbergt klassische Segelschiffe und alte Fischkutter."
@@ -779,7 +779,7 @@ export const poiExtraDe3a: POI[] = [
       "Flensburg mindössze néhány kilométerre fekszik a dán határtól.",
       "A város egy erős dán kisebbségnek ad otthont, saját iskolákkal és kulturális intézményekkel.",
       "A 19. században Flensburgban több mint 200 rumház működött, ma már csak néhány nagy múltú manufaktúra maradt.",
-      "A flensburgi Szövetségi Gépjárműhivatal tartja nyilván a német autósok \'pontjait\' (közlekedési szabálysértők nyilvántartása).",
+      "A flensburgi Szövetségi Gépjárműhivatal tartja nyilván a német autósok \\'pontjait\\' (közlekedési szabálysértők nyilvántartása).",
       "A Rote Straße régi kereskedőudvarairól és festői butikjairól híres.",
       "Itt található a mürwiki Tengerészeti Iskola, a német haditengerészeti tisztek kiképzőközpontja.",
       "A történelmi múzeumkikötő klasszikus vitorlás hajóknak és régi halászhajóknak ad otthont."
@@ -864,7 +864,7 @@ export const poiExtraDe3a: POI[] = [
       "Die Eingemeindung in die Hansestadt Hamburg erfolgte erst 1937 durch das Groß-Hamburg-Gesetz.",
       "Der Altonaer Fischmarkt ist seit über 300 Jahren eine Institution und zieht sonntags tausende Besucher an.",
       "Das Altonaer Rathaus, ein prächtiges, weißes Gebäude im klassizistischen Stil, war ursprünglich ein Bahnhof.",
-      "Der \'Altonaer Balkon\' bietet eine der besten Aussichten über den Hamburger Hafen und die Elbe.",
+      "Der \\'Altonaer Balkon\\' bietet eine der besten Aussichten über den Hamburger Hafen und die Elbe.",
       "Altona war historisch für seine ausgeprägte Religionsfreiheit bekannt, was viele Andersdenkende anlockte."
     ],
       hu: [
@@ -873,7 +873,7 @@ export const poiExtraDe3a: POI[] = [
       "A Hanza-város Hamburgba történő beolvasztásra csak 1937-ben került sor a Nagy-Hamburg-törvény alapján.",
       "Az Altonai Halpiac több mint 300 éve intézménynek számít, és vasárnaponként látogatók ezreit vonzza.",
       "A pompás, fehér, klasszicista stílusú Altonai Városháza eredetileg vasútállomás volt.",
-      "Az \'Altona Balkon\' (Altonaer Balkon) az egyik legjobb kilátást nyújtja a hamburgi kikötőre és az Elbára.",
+      "Az \\'Altona Balkon\\' (Altonaer Balkon) az egyik legjobb kilátást nyújtja a hamburgi kikötőre és az Elbára.",
       "Altona történelmileg széles körű vallásszabadságáról volt ismert, ami sok másként gondolkodót vonzott."
     ],
       ro: ["Piața de Pește din Altona are o tradiție neîntreruptă de peste 300 de ani.", "Terminalul de croazieră Altona este dotat cu o instalație modernă de alimentare electrică de la țărm.", "Altonaer Balkon oferă o vedere panoramică asupra portului de la o înălțime de 27 de metri.", "Zona a aparținut regatului Danemarcei până în anul 1864, fiind un rival al Hamburgului.", "Docul uscat Elbe 17 din apropiere este unul dintre cele mai mari din Europa.", "Submarinul-muzeu rusesc U-434 este o atracție majoră ancorată în acest sector."],

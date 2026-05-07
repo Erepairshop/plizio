@@ -12,14 +12,13 @@ export const poiExtraLibyaEconomicV2: POI[] = [
       hu: "Tripoli kikötője",
       ro: "Portul Tripoli",
       en: "Port of Tripoli"
-    ,
+    },
     descriptionAdvanced: {
       en: "The Port of Tripoli is Libya's primary maritime gateway, handling the vast majority of the nation's imported general cargo and consumer goods. Located directly adjacent to the historic center of the capital, the port's massive breakwaters and container terminals dominate the city's coastline. It is a critical lifeline for the country's economy, ensuring the steady flow of food, machinery, and vehicles into the Tripolitania region. The port's continuous operation is a major priority for national security. Economics K8 — maritime trade and national imports."
     },
     factsAdvanced: {
       en: ["Libya's largest port for general cargo and container shipping.", "Located directly in the heart of the capital city, Tripoli.", "Features massive defensive breakwaters extending into the Mediterranean.", "Handles the majority of imported food and consumer goods.", "Operates numerous deep-water berths for international vessels.", "A critical strategic asset for the national economy."]
-    }
-  },
+    },
     description: {
       de: "Der Hafen von Tripolis ist der größte Seehafen Libyens und das wichtigste Zentrum für den internationalen Handel des Landes.",
       hu: "Tripoli kikötője Líbia legnagyobb tengeri kikötője, és az ország nemzetközi kereskedelmének legfontosabb központja.",
@@ -55,14 +54,13 @@ export const poiExtraLibyaEconomicV2: POI[] = [
       hu: "Bengázi kikötő",
       ro: "Portul Benghazi",
       en: "Port of Benghazi"
-    ,
+    },
     descriptionAdvanced: {
       en: "The Port of Benghazi serves as the indispensable commercial lifeline for eastern Libya and the broader Cyrenaica region. Reopened and modernized after periods of severe conflict, the port now handles massive volumes of container traffic, construction materials, and food imports. It sits perfectly integrated into the city's coastline, providing thousands of jobs and driving the regional economy. Its strategic location makes it the primary competitor to the ports in the west. Economics K8 — regional maritime logistics."
     },
     factsAdvanced: {
       en: ["The primary commercial maritime port for eastern Libya.", "Located in the center of Benghazi city.", "Handles critical imports of construction materials and food.", "Was significantly rehabilitated after recent urban conflicts.", "Vital for the economic independence of the Cyrenaica region.", "Features specialized terminals for dry bulk and containers."]
-    }
-  },
+    },
     description: {
       de: "Der Hafen von Bengasi an der Mittelmeerküste ist ein bedeutendes Wirtschaftszentrum in der Region Kyrenaika.",
       hu: "A Földközi-tenger partján fekvő Bengázi kikötő jelentős gazdasági központ a Kirenaika régióban.",
@@ -98,14 +96,13 @@ export const poiExtraLibyaEconomicV2: POI[] = [
       hu: "Miszráta kikötő és szabadkereskedelmi övezet",
       ro: "Portul și zona liberă Misrata",
       en: "Misrata Free Zone and Port"
-    ,
+    },
     descriptionAdvanced: {
       en: "The Misrata Free Zone and Port is arguably Libya's most successful modern economic project, transforming the city into an international trade powerhouse. Established in 2000, the Free Zone offers tax incentives that have attracted immense foreign investment and light manufacturing. The deep-water port of Qasr Ahmed handles massive container ships, functioning as a regional transshipment hub for North Africa. This dual-purpose facility is the engine driving Misrata's robust economy. Economics K8 — free trade zones and transshipment."
     },
     factsAdvanced: {
       en: ["Home to Libya's first and largest Free Trade Zone, established in 2000.", "Features the deep-water Qasr Ahmed port.", "A major transshipment hub for the Mediterranean and North Africa.", "Attracts significant foreign direct investment and manufacturing.", "Handles a massive percentage of Libya's total maritime traffic.", "Directly linked to Misrata's heavy iron and steel industries."]
-    }
-  },
+    },
     description: {
       de: "Der Hafen von Misrata beherbergt die erste Freihandelszone Libyens und spielt eine Schlüsselrolle für Importe und Exporte.",
       hu: "A miszrátai kikötő ad otthont Líbia első szabadkereskedelmi övezetének, kulcsszerepet játszva az export-import forgalomban.",
@@ -141,14 +138,13 @@ export const poiExtraLibyaEconomicV2: POI[] = [
       hu: "Al-Humsz kikötő",
       ro: "Portul Al-Khums",
       en: "Al Khums Port"
-    ,
+    },
     descriptionAdvanced: {
       en: "Al Khums Port is a highly specialized maritime facility, known primarily for its enormous capacity to handle imported vehicles and roll-on/roll-off (RoRo) cargo. Located east of Tripoli, it acts as a massive parking and distribution center for cars entering the Libyan market. Beyond vehicles, the port also supports local fishing fleets and handles regional agricultural exports. Its specific focus on automotive imports makes it a unique and vital node in the national economy. Economics K7 — specialized maritime cargo."
     },
     factsAdvanced: {
       en: ["Located roughly 120 kilometers east of Tripoli.", "Specializes heavily in roll-on/roll-off (RoRo) vehicle imports.", "Acts as a primary distribution hub for cars entering Libya.", "Also features significant facilities for local fishing fleets.", "Helps relieve congestion from the main Port of Tripoli.", "Strategically located near major coastal highway networks."]
-    }
-  },
+    },
     description: {
       de: "Der Hafen von Al-Chums ist ein strategisch wichtiger Seehafen in Nordwest-Libyen, der hauptsächlich Stückgut und Container umschlägt.",
       hu: "Al-Humsz kikötője egy stratégiai fontosságú tengeri csomópont Északnyugat-Líbiában, elsősorban konténerek kezelésére.",
@@ -184,14 +180,13 @@ export const poiExtraLibyaEconomicV2: POI[] = [
       hu: "Tobruki kikötő",
       ro: "Portul Tobruk",
       en: "Port of Tobruk"
-    ,
+    },
     descriptionAdvanced: {
       en: "The Port of Tobruk boasts one of the finest natural deep-water harbors in North Africa, heavily protected from Mediterranean storms. While historically famous for its naval significance during World War II, today it is a critical commercial and oil-exporting hub. Located near the Egyptian border, it facilitates significant international trade for the extreme east of the country. The port is essential for exporting crude oil pumped from the massive Sarir field deep in the desert. Economics K8 — natural harbors and oil export."
     },
     factsAdvanced: {
       en: ["Features one of the deepest, best-protected natural harbors in North Africa.", "Located near the Egyptian border in extreme eastern Libya.", "A critical export terminal for oil from the Sarir field.", "Historically a massive strategic naval base during WWII.", "Handles commercial shipping and general cargo for the east.", "Less susceptible to bad weather compared to other coastal ports."]
-    }
-  },
+    },
     description: {
       de: "Der Hafen von Tobruk profitiert von seinem tiefen, natürlichen Ankerplatz und ist ein bedeutender Handelsknotenpunkt nahe der ägyptischen Grenze.",
       hu: "A tobruki kikötő mély, természetes horgonyzóhelyének köszönhetően jelentős kereskedelmi csomópont az egyiptomi határ közelében.",
@@ -227,14 +222,13 @@ export const poiExtraLibyaEconomicV2: POI[] = [
       hu: "Derna kikötője",
       ro: "Portul Derna",
       en: "Port of Derna"
-    ,
+    },
     descriptionAdvanced: {
       en: "The Port of Derna is a small but historically vital maritime facility nestled between the Mediterranean Sea and the steep Jabal al Akhdar mountains. Historically serving the local agricultural and fishing communities, its capacity is limited compared to massive hubs like Misrata or Benghazi. The port suffered catastrophic damage during the 2023 floods when the city's dams collapsed, washing immense debris into the harbor. Recovery and dredging efforts are ongoing to restore this local lifeline. Geography K8 — maritime infrastructure and natural disasters."
     },
     factsAdvanced: {
       en: ["A smaller, localized port serving the city of Derna.", "Historically supported fishing and regional agricultural export.", "Suffered catastrophic damage and silting during the 2023 floods.", "Nestled uniquely between steep coastal mountains and the sea.", "Currently undergoing massive rehabilitation and dredging.", "Vital for the economic recovery of the surrounding disaster zone."]
-    }
-  },
+    },
     description: {
       de: "Der Hafen von Derna dient als regionaler Handelsknotenpunkt für die östliche Küstenregion Libyens.",
       hu: "Derna kikötője regionális kereskedelmi csomópontként szolgál Líbia keleti partvidékén.",
@@ -270,14 +264,13 @@ export const poiExtraLibyaEconomicV2: POI[] = [
       hu: "Ras Lanuf olajkikötő",
       ro: "Portul petrolier Ras Lanuf",
       en: "Ras Lanuf Oil Port"
-    ,
+    },
     descriptionAdvanced: {
       en: "The Ras Lanuf Oil Port is a critical node in Libya's petroleum export infrastructure, situated strategically on the Gulf of Sidra. Connected directly to massive inland oil fields, the port can load multiple supertankers simultaneously via offshore mooring buoys. The adjacent petrochemical complex processes significant quantities of crude, making this a dual-purpose heavy industry zone. Because of its sheer economic weight, Ras Lanuf has frequently been the center of fierce battles during national conflicts. Economics K8 — petroleum export infrastructure."
     },
     factsAdvanced: {
       en: ["Located on the Gulf of Sidra, central to Libya's coastline.", "One of the largest crude oil export terminals in the country.", "Features offshore single-point mooring buoys for supertankers.", "Directly integrated with the massive Ras Lanuf Refinery.", "Has a massive storage capacity of several million barrels.", "A highly strategic asset frequently contested in civil conflicts."]
-    }
-  },
+    },
     description: {
       de: "Der Ölhafen Ras Lanuf ist einer der wichtigsten libyschen Exporthäfen für Rohöl, angeschlossen an die großen Ölfelder des Sirte-Beckens.",
       hu: "A Ras Lanuf olajkikötő Líbia egyik legfontosabb kőolaj-exportáló kikötője, amely a Szirt-medence nagy olajmezőihez kapcsolódik.",
@@ -293,7 +286,7 @@ export const poiExtraLibyaEconomicV2: POI[] = [
     descriptionAdvanced: {
       de: "Der Ölhafen von Ras Lanuf am Golf von Sidra ist eines der Herzstücke der libyschen Erdölindustrie. Zusammen mit seiner riesigen Raffinerie und dem petrochemischen Komplex ist er entscheidend für den Export großer Mengen Rohöl in den Mittelmeerraum und auf internationale Märkte. Geografie K8 — Energiewirtschaft.",
       hu: "Ras Lanuf a Szidra-öböl partján fekvő gigantikus olajipari komplexum, amely Líbia egyik legjelentősebb kőolaj-exportáló kikötőjét és legnagyobb petrolkémiai finomítóját foglalja magában. Ez a hatalmas ipari létesítmény a déli Sirtica-medence olajmezőit köti össze a világpiaccal, tenger alatti vezetékeken és hatalmas tartályparkokon keresztül. Ras Lanuf nem csupán egy kikötő, hanem egy komplett iparváros, amely a líbiai gazdaság nemzeti jövedelmének jelentős részét generálja. Gazdaság K8 — petrolkémiai ipar és globális energiaellátás.",
-      ro: "Portul petrolier Ras Lanuf, situat în adâncul Golfului Sidra, reprezintă una dintre „bijuteriile coroanei” pentru exportul libian de hidrocarburi. Portul este punctul terminus al nenumăratelor rețele de conducte care aduc petrolul din inima bazinului deșertic Sirte, acționând ca o facilitate de depozitare cu o capacitate imensă formată din rezervoare titanice vopsite în alb. Acesta alimentează direct petrolierele de mari dimensiuni ce ancorează la balize plutitoare de la distanță, evitând țărmurile stâncoase, fiind strict un nod de importanță internațională. Economie K8 — rafinare și terminale petroliere masive.",
+      ro: "Portul petrolier Ras Lanuf, situat în adâncul Golfului Sidra, reprezintă una dintre \"bijuteriile coroanei\" pentru exportul libian de hidrocarburi. Portul este punctul terminus al nenumăratelor rețele de conducte care aduc petrolul din inima bazinului deșertic Sirte, acționând ca o facilitate de depozitare cu o capacitate imensă formată din rezervoare titanice vopsite în alb. Acesta alimentează direct petrolierele de mari dimensiuni ce ancorează la balize plutitoare de la distanță, evitând țărmurile stâncoase, fiind strict un nod de importanță internațională. Economie K8 — rafinare și terminale petroliere masive.",
       en: ""
     },
     factsAdvanced: {
@@ -313,14 +306,13 @@ export const poiExtraLibyaEconomicV2: POI[] = [
       hu: "Marsza el-Brega kikötő",
       ro: "Portul Marsa el-Brega",
       en: "Marsa el Brega Port"
-    ,
+    },
     descriptionAdvanced: {
       en: "Marsa el Brega is heavily specialized in the export of both crude oil and liquefied natural gas (LNG), functioning as the primary terminus for pipelines originating in the Sirte Basin. Beyond crude, it hosts significant petrochemical facilities producing ammonia and urea. The entire town was essentially built to serve the port and its associated industries. The intricate network of pipelines meeting at Brega makes it one of the most vital economic chokepoints in North Africa. Economics K8 — LNG and petrochemical exports."
     },
     factsAdvanced: {
       en: ["Situated at the southern tip of the Gulf of Sidra.", "A primary export terminal for both crude oil and LNG.", "Connects directly to the massive Sirte Basin oil fields.", "Hosts major petrochemical plants producing ammonia and urea.", "The surrounding town was purpose-built for industry workers.", "Historically the site of severe fighting during the 2011 revolution."]
-    }
-  },
+    },
     description: {
       de: "Der Hafen von Marsa el-Brega ist ein Zentrum für den Export von Erdgas und petrochemischen Produkten aus der libyschen Wüste.",
       hu: "Marsza el-Brega kikötője a líbiai sivatagból származó földgáz és petrolkémiai termékek exportjának központja.",
@@ -356,14 +348,13 @@ export const poiExtraLibyaEconomicV2: POI[] = [
       hu: "Zueitina olajterminál",
       ro: "Terminalul petrolier Zueitina",
       en: "Zueitina Oil Terminal"
-    ,
+    },
     descriptionAdvanced: {
       en: "The Zueitina Oil Terminal is positioned south of Benghazi and serves as the main export point for crude pumped from the inland Intisar and Amal fields. The terminal features several massive storage tanks and offshore loading berths capable of handling massive crude carriers. Unlike mixed-use ports, Zueitina is strictly a hydrocarbons facility. Its operation is heavily reliant on the stability of the long-distance pipelines crossing the eastern desert. Economics K7 — crude oil storage and loading."
     },
     factsAdvanced: {
       en: ["Located on the coast roughly 130 kilometers south of Benghazi.", "Primary export terminal for the Intisar and Amal oil fields.", "Features massive onshore crude oil storage tank farms.", "Utilizes offshore loading berths for international tankers.", "Strictly a dedicated hydrocarbons export facility.", "Vulnerable to disruptions in the connecting desert pipelines."]
-    }
-  },
+    },
     description: {
       de: "Das Ölterminal Zueitina ist ein wichtiger Verschiffungspunkt für libysches Rohöl, das über Pipelines aus den südlichen Feldern herangeführt wird.",
       hu: "A Zueitina olajterminál a líbiai nyersolaj egyik fontos szállítási pontja, ahová a déli mezőkről csővezetékeken érkezik az olaj.",
@@ -399,14 +390,13 @@ export const poiExtraLibyaEconomicV2: POI[] = [
       hu: "Závíja kikötője",
       ro: "Portul Zawiya",
       en: "Zawiya Port"
-    ,
+    },
     descriptionAdvanced: {
       en: "Zawiya Port is intricately linked with the Zawiya Oil Refinery, functioning as the primary maritime exit for refined petroleum products in western Libya. While other ports focus on raw crude, Zawiya handles the export of gasoline, diesel, and aviation fuel. Additionally, it serves as an import hub for specific fuel types needed by the Tripolitania region. The port's proximity to the capital ensures its continuous strategic and economic relevance. Economics K8 — refined petroleum logistics."
     },
     factsAdvanced: {
       en: ["Located 45 kilometers west of Tripoli.", "Directly integrated with Libya's largest operating oil refinery.", "Specializes in the export and import of refined petroleum products.", "Critical for supplying fuel to the western Tripolitania region.", "Features specialized berths for handling volatile liquid cargo.", "A key economic asset heavily guarded by local authorities."]
-    }
-  },
+    },
     description: {
       de: "Der Hafen von Zawiya dient in erster Linie dem Export von raffinierten Erdölprodukten, die in der nahegelegenen Raffinerie hergestellt werden.",
       hu: "Závíja kikötője elsősorban a közeli finomítóban előállított finomított kőolajtermékek exportját szolgálja.",
@@ -422,7 +412,7 @@ export const poiExtraLibyaEconomicV2: POI[] = [
     descriptionAdvanced: {
       de: "Der Hafen von Zawiya ist direkt an die größte noch funktionierende Ölraffinerie im Westen Libyens angeschlossen. Er ist von strategischer Bedeutung für den Export raffinierter Erdölprodukte und den Import von Treibstoffen, die für den Betrieb der Hauptstadt Tripolis unerlässlich sind. Geografie K8 — Energieversorgung.",
       hu: "A Zawiya Kikötő egy speciális ipari létesítmény Tripolitól nyugatra, amely szorosan integrálódik Líbia egyik legnagyobb kőolaj-finomítójába. A kikötő fő feladata nem az általános kereskedelem, hanem a hazai finomítású kőolajtermékek – mint a benzin, a gázolaj és a fűtőolaj – tengeri elosztása a hazai partvidéki városokba, valamint felesleg esetén azok exportja. Stratégiai elhelyezkedése miatt a Zawiya finomító és kikötő az északnyugati régió és a főváros energiaellátásának ütőere. Gazdaság K8 — kőolaj-finomítás és hazai energiaellátás.",
-      ro: "Portul Zawiya diferă de marile porturi estice prin orientarea sa vitală către necesitățile interne de combustibil procesat. Aflat imediat lângă Rafinăria Zawiya de la vest de Tripoli, acest port este inima logistică prin care Libia primește benzină rafinată de import (în lipsa propriei sale capacități suficiente de rafinare internă completă) și exportă țiței extras de la câmpurile sudice ca Sharara. Securitatea și fluența acestui port reprezintă „tensiunea arterială” a capitalei Tripoli; orice blocaj aici cauzează rapid pene de curent masive și crize de combustibil. Economie K7 — aprovizionarea internă cu energie și rafinării.",
+      ro: "Portul Zawiya diferă de marile porturi estice prin orientarea sa vitală către necesitățile interne de combustibil procesat. Aflat imediat lângă Rafinăria Zawiya de la vest de Tripoli, acest port este inima logistică prin care Libia primește benzină rafinată de import (în lipsa propriei sale capacități suficiente de rafinare internă completă) și exportă țiței extras de la câmpurile sudice ca Sharara. Securitatea și fluența acestui port reprezintă \"tensiunea arterială\" a capitalei Tripoli; orice blocaj aici cauzează rapid pene de curent masive și crize de combustibil. Economie K7 — aprovizionarea internă cu energie și rafinării.",
       en: ""
     },
     factsAdvanced: {
@@ -442,14 +432,13 @@ export const poiExtraLibyaEconomicV2: POI[] = [
       hu: "Mellitah olaj- és gázkikötő",
       ro: "Portul de petrol și gaze Mellitah",
       en: "Mellitah Oil and Gas Port"
-    ,
+    },
     descriptionAdvanced: {
       en: "The Mellitah Oil and Gas Port, located near Zuwara, is the crucial starting point for the Greenstream pipeline, which exports natural gas directly underneath the Mediterranean Sea to Italy. This facility is a joint venture between the Libyan state and international energy corporations, processing gas from both inland and offshore fields. Because it supplies energy directly to Europe, Mellitah holds massive geopolitical significance. The sprawling complex is highly visible, dominating the coastal landscape. Economics K8 — international gas pipelines and geopolitics."
     },
     factsAdvanced: {
       en: ["Located on the western coast near the city of Zuwara.", "The starting point for the undersea Greenstream natural gas pipeline.", "Exports natural gas directly from Libya to Sicily, Italy.", "Processes gas from both the Wafa inland field and Bouri offshore field.", "Operates as a major joint venture with international energy firms.", "Holds significant strategic importance for European energy security."]
-    }
-  },
+    },
     description: {
       de: "Der Hafenkomplex Mellitah ist der Ausgangspunkt für die Greenstream-Pipeline, die Erdgas von Libyen nach Italien transportiert.",
       hu: "A Mellitah kikötőkomplexum a Greenstream gázvezeték kiindulópontja, amely földgázt szállít Líbiából Olaszországba.",
@@ -485,14 +474,13 @@ export const poiExtraLibyaEconomicV2: POI[] = [
       hu: "Es Sider olajterminál",
       ro: "Terminalul petrolier Es Sider",
       en: "Es Sider Oil Terminal"
-    ,
+    },
     descriptionAdvanced: {
       en: "Es Sider is historically the largest oil depot in Libya, boasting the highest export capacity of any terminal on the coast. Fed by pipelines from the massive Waha fields in the Sirte Basin, the terminal features rows of colossal storage tanks. During the country's civil conflicts, Es Sider saw catastrophic damage, with many of its tanks destroyed by artillery fire. The ongoing reconstruction and operation of this terminal dictate the overall health of the Libyan economy. Economics K8 — maximum capacity oil infrastructure."
     },
     factsAdvanced: {
       en: ["Historically the highest-capacity crude oil export terminal in Libya.", "Located in the central coastal region near Ras Lanuf.", "Primary terminus for the massive Waha oil field network.", "Suffered catastrophic damage to its storage tanks during recent conflicts.", "Features numerous offshore single-point mooring stations.", "Crucial indicator of the overall recovery of the Libyan economy."]
-    }
-  },
+    },
     description: {
       de: "Es Sider ist das größte Öl-Exportterminal in Libyen, zentral an der Küste des Golfs von Sidra gelegen.",
       hu: "Es Sider Líbia legnagyobb kőolaj-export terminálja, amely központilag a Szidra-öböl partján található.",
@@ -528,14 +516,13 @@ export const poiExtraLibyaEconomicV2: POI[] = [
       hu: "Sharara olajmező",
       ro: "Câmpul petrolier Sharara",
       en: "Sharara Oil Field"
-    ,
+    },
     descriptionAdvanced: {
       en: "The Sharara Oil Field, located deep in the Murzuq Desert of southwestern Libya, is one of the nation's largest and most productive oil assets. It consistently pumps hundreds of thousands of barrels per day, which travel via an extensive pipeline network to the Zawiya refinery on the coast. Because of its remote location, the field relies on a dedicated airport and massive logistical support. Blockades of Sharara by local groups frequently cause severe national economic crises. Geography K8 — deep desert oil extraction and pipelines."
     },
     factsAdvanced: {
       en: ["Located in the remote Murzuq Desert in southwestern Libya.", "One of the highest-producing oil fields in the country.", "Can produce over 300,000 barrels of crude oil per day.", "Connects to the coastal Zawiya refinery via a massive pipeline.", "Operated as a joint venture between the National Oil Corporation and foreign partners.", "Frequently subject to politically motivated shutdowns and blockades."]
-    }
-  },
+    },
     description: {
       de: "Das Sharara-Ölfeld in der Murzuq-Wüste ist eines der größten und produktivsten Ölfelder Libyens.",
       hu: "A Murzuq-sivatagban található Sharara olajmező Líbia egyik legnagyobb és legtermékenyebb olajmezője.",
@@ -571,14 +558,13 @@ export const poiExtraLibyaEconomicV2: POI[] = [
       hu: "El Feel (Elefánt) olajmező",
       ro: "Câmpul petrolier El Feel",
       en: "El Feel Oil Field"
-    ,
+    },
     descriptionAdvanced: {
       en: "The El Feel (Elephant) Oil Field is another massive hydrocarbon asset located in the southwestern Murzuq Basin. It operates in tandem with the Sharara field, sharing much of the regional pipeline infrastructure heading north to the Mellitah complex. The extreme heat, isolation, and shifting sand dunes make operations here highly challenging, requiring specialized desert engineering. The field is a vital component of Libya's strategy to maintain high national production quotas. Economics K7 — desert hydrocarbon operations."
     },
     factsAdvanced: {
       en: ["Located in the Murzuq Basin in southwestern Libya.", "Often referred to as the 'Elephant' field due to its massive reserves.", "Shares regional pipeline infrastructure with the nearby Sharara field.", "Crude oil is pumped north to the Mellitah coastal complex.", "Requires advanced engineering to operate in extreme Saharan conditions.", "A critical asset for meeting Libya's national production targets."]
-    }
-  },
+    },
     description: {
       de: "Das El Feel-Feld, auch als Elephant-Feld bekannt, ist eine bedeutende Quelle für libysches Rohöl aus der südwestlichen Wüste.",
       hu: "Az Elefánt-mezőként is ismert El Feel Líbia egyik jelentős nyersolajforrása a délnyugati sivatagban.",
@@ -594,7 +580,7 @@ export const poiExtraLibyaEconomicV2: POI[] = [
     descriptionAdvanced: {
       de: "Das El Feel-Ölfeld, wörtlich das 'Elefanten-Ölfeld', ist ein weiteres riesiges Erdölvorkommen im Murzuq-Becken tief in der Sahara. Es wird als Joint Venture zwischen der libyschen NOC und der italienischen Eni betrieben und liefert erhebliche Mengen Öl, das per Pipeline zur Küste gepumpt wird. Geografie K8 — Globale Rohstoffmärkte.",
       hu: "Az El Feel, vagyis az 'Elefánt' olajmező a délnyugat-líbiai Murzuq-medence egyik legjelentősebb kőolajlelőhelye, amely a Sharara mezőtől mintegy 200 kilométerre délre található. Az 1990-es évek végén felfedezett mező a líbiai NOC és az olasz Eni sikeres együttműködésének eredménye. A kitermelt nyersolajat a Sharara mező vezetékhálózatára csatlakoztatva továbbítják Észak felé a Mellitah olaj- és gázkomplexumba, így az El Feel elengedhetetlen a nyugati országrész exportjának fenntartásában. Gazdaság K8 — nemzetközi koncessziók és kőolaj.",
-      ro: "Câmpul petrolier El Feel, cu un nume tradus prin „Câmpul Elefantului”, subliniază rezervele sale mamut și se află izolat în același imens bazin Murzuq ca și vecinul său Sharara. Acest zăcământ enorm a devenit vital la începutul anilor 2000, fiind susținut printr-o uriașă injecție de tehnologie italiană avansată (Eni). Ceea ce-l face fascinant este nivelul masiv de logistică necesar extragerii la sute de kilometri de cea mai apropiată șosea funcțională, reprezentând un exemplu clar de cucerire tehnologică a limitelor dure ale naturii. Geografie K8 — tehnologii de foraj în condiții extreme de mediu.",
+      ro: "Câmpul petrolier El Feel, cu un nume tradus prin \"Câmpul Elefantului\", subliniază rezervele sale mamut și se află izolat în același imens bazin Murzuq ca și vecinul său Sharara. Acest zăcământ enorm a devenit vital la începutul anilor 2000, fiind susținut printr-o uriașă injecție de tehnologie italiană avansată (Eni). Ceea ce-l face fascinant este nivelul masiv de logistică necesar extragerii la sute de kilometri de cea mai apropiată șosea funcțională, reprezentând un exemplu clar de cucerire tehnologică a limitelor dure ale naturii. Geografie K8 — tehnologii de foraj în condiții extreme de mediu.",
       en: ""
     },
     factsAdvanced: {
@@ -614,14 +600,13 @@ export const poiExtraLibyaEconomicV2: POI[] = [
       hu: "Waha olajmező",
       ro: "Câmpul petrolier Waha",
       en: "Waha Oil Field"
-    ,
+    },
     descriptionAdvanced: {
       en: "The Waha Oil Field is a sprawling network of extraction sites located in the Sirte Basin, historically forming the backbone of Libya's oil wealth. Discovered in the late 1950s, the field is characterized by its massive reserves of high-quality light, sweet crude. The infrastructure here is extensive, pumping oil directly to the Es Sider terminal on the coast. Despite its age, Waha remains one of the most reliable and productive concessions in the country. History K8 — history of Libyan oil discovery."
     },
     factsAdvanced: {
       en: ["Located in the highly productive Sirte Basin.", "One of the oldest and largest producing oil fields in Libya.", "Produces highly desirable light, sweet crude oil.", "Connected via a major pipeline network to the Es Sider terminal.", "Originally discovered and developed in the late 1950s.", "Operated by the Waha Oil Company, a major national subsidiary."]
-    }
-  },
+    },
     description: {
       de: "Das Waha-Ölfeld im Sirte-Becken ist eine historische und noch immer produktive Quelle für hochwertiges Rohöl.",
       hu: "A Szirt-medencében található Waha olajmező egy történelmi, de még mindig termelékeny forrása a minőségi kőolajnak.",
@@ -657,14 +642,13 @@ export const poiExtraLibyaEconomicV2: POI[] = [
       hu: "Zelten olajmező",
       ro: "Câmpul petrolier Zelten",
       en: "Zelten Oil Field"
-    ,
+    },
     descriptionAdvanced: {
       en: "The discovery of the Zelten Oil Field (now officially known as Nasser) in 1959 was a watershed moment that permanently transformed Libya from an impoverished nation into an oil-rich state. Located in the Sirte Basin, the field's massive output funded the rapid modernization of the country during the 1960s. The crude extracted here is piped directly to Marsa el Brega. Though older than other fields, its historical significance and continued production make it legendary in the industry. History K8 — the dawn of the Libyan oil boom."
     },
     factsAdvanced: {
       en: ["The first major commercial oil discovery in Libya, found in 1959.", "Located in the Sirte Basin, south of Marsa el Brega.", "Currently officially renamed as the Nasser oil field.", "The discovery permanently transformed the national Libyan economy.", "Oil is transported via pipeline to the Marsa el Brega terminal.", "Continues to produce significant volumes despite its age."]
-    }
-  },
+    },
     description: {
       de: "Das 1959 entdeckte Zelten-Feld (heute auch Nasser-Feld genannt) war eine der ersten großen kommerziellen Ölfunde in Libyen.",
       hu: "Az 1959-ben felfedezett Zelten-mező (ma Nasszer-mező) volt az első nagy kereskedelmi olajlelet Líbiában.",
@@ -700,14 +684,13 @@ export const poiExtraLibyaEconomicV2: POI[] = [
       hu: "Sarir olajmező",
       ro: "Câmpul petrolier Sarir",
       en: "Sarir Oil Field"
-    ,
+    },
     descriptionAdvanced: {
       en: "The Sarir Oil Field is an absolute behemoth, holding the title of the largest oil field in Libya and one of the largest in all of Africa. Located in the remote eastern Sirte Basin, it was discovered in 1961 and contains billions of barrels of recoverable reserves. The crude is pumped hundreds of kilometers north to the Port of Tobruk. Because of its immense scale and isolation, the field functions almost like an independent desert city. Economics K8 — mega-scale hydrocarbon reserves."
     },
     factsAdvanced: {
       en: ["The largest oil field in Libya by total reserves.", "Located deep in the eastern sector of the Sirte Basin.", "Discovered in 1961, containing billions of barrels of oil.", "Pumps crude oil hundreds of kilometers to the Port of Tobruk.", "Operated primarily by the Arabian Gulf Oil Company (AGOCO).", "Functions as a massive, self-sustaining industrial desert outpost."]
-    }
-  },
+    },
     description: {
       de: "Das Sarir-Feld im Osten Libyens gilt als das größte Ölfeld des Landes in Bezug auf die nachgewiesenen Reserven.",
       hu: "A kelet-líbiai Sarir olajmező a becsült tartalékok alapján az ország legnagyobb olajmezőjének számít.",
@@ -743,14 +726,13 @@ export const poiExtraLibyaEconomicV2: POI[] = [
       hu: "Bouri tengeri olajmező",
       ro: "Câmpul offshore Bouri",
       en: "Bouri Offshore Field"
-    ,
+    },
     descriptionAdvanced: {
       en: "The Bouri Offshore Field is the largest producing oilfield in the Mediterranean Sea, located off the western coast of Libya. Discovered in 1976, it operates in deep water and utilizes massive production platforms that resemble small steel islands. The field produces both crude oil and significant amounts of natural gas, which is piped to the Mellitah complex. Operations here are highly technical, requiring constant logistical support via helicopter and supply ships from Tripoli. Geography K8 — offshore drilling technology."
     },
     factsAdvanced: {
       en: ["The largest producing offshore oil field in the Mediterranean Sea.", "Located approximately 120 kilometers north of the Libyan coast.", "Discovered in 1976 and developed as a major joint venture.", "Utilizes massive, deep-water offshore drilling and production platforms.", "Produces both crude oil and natural gas (piped to Mellitah).", "Requires highly specialized maritime and aviation logistical support."]
-    }
-  },
+    },
     description: {
       de: "Das Bouri-Feld im Mittelmeer ist das größte produzierende Offshore-Ölfeld im Mittelmeerraum.",
       hu: "A Földközi-tengeren található Bouri a Földközi-tenger medencéjének legnagyobb termelő tengeri olajmezője.",
@@ -772,7 +754,7 @@ export const poiExtraLibyaEconomicV2: POI[] = [
     factsAdvanced: {
       de: ["Größtes Offshore-Ölfeld im Mittelmeer", "Entdeckt im Jahr 1976", "Liegt nordwestlich der Küste von Tripolis", "Block 38 Offshore", "Betrieben von Eni und NOC", "Förderung durch riesige Bohrplattformen"],
       hu: ["A Földközi-tenger medencéjének legnagyobb tengeri (offshore) olajmezője.", "A líbiai partoktól körülbelül 120 kilométerre északra fekszik.", "A mezőt a Mellitah Oil & Gas, az Eni és az NOC közös vállalata üzemelteti.", "A Bouri DP4 és DP3 platformok gigantikus méretű tengeri építmények.", "1976-ban fedezték fel, és 1988-ban kezdődött meg a termelés.", "Rendelkezik egy úszó tároló és kirakodó egységgel (FSO) is (Sloug)."],
-      ro: ["Este poziționat la peste 120 de kilometri distanță de litoralul vestic al Libiei.", "Prima sa fază masivă de dezvoltare a fost implementată la mijlocul anilor 1980 de Agip (Eni).", "A fost sursa unor lungi tensiuni și delimitări ale platoului continental cu Malta și Tunisia.", "Gazul natural asociat extracției este vital pentru complexul de procesare de pe coasta din Mellitah.", "Pilonii platformelor sale sunt proiectați să reziste la valuri și furtuni mediteraneene rare, dar severe.", "Folosește masiv o navă FSO (Floating Storage and Offloading) imensă numită „Sloug”."],
+      ro: ["Este poziționat la peste 120 de kilometri distanță de litoralul vestic al Libiei.", "Prima sa fază masivă de dezvoltare a fost implementată la mijlocul anilor 1980 de Agip (Eni).", "A fost sursa unor lungi tensiuni și delimitări ale platoului continental cu Malta și Tunisia.", "Gazul natural asociat extracției este vital pentru complexul de procesare de pe coasta din Mellitah.", "Pilonii platformelor sale sunt proiectați să reziste la valuri și furtuni mediteraneene rare, dar severe.", "Folosește masiv o navă FSO (Floating Storage and Offloading) imensă numită \"Sloug\"."],
       en: []
     }
   },
@@ -786,14 +768,13 @@ export const poiExtraLibyaEconomicV2: POI[] = [
       hu: "Al Jurf tengeri olajmező",
       ro: "Câmpul petrolier offshore Al Jurf",
       en: "Al Jurf Offshore Field"
-    ,
+    },
     descriptionAdvanced: {
       en: "Al Jurf is a significant offshore oil field situated near the maritime border with Tunisia in the Mediterranean Sea. It operates using a Floating Production Storage and Offloading (FPSO) vessel, a massive modified tanker that processes and stores oil directly at sea. This advanced technology allows international tankers to load crude without it ever touching the Libyan mainland. The field represents Libya's continued investment in technically complex, high-yield maritime hydrocarbon extraction. Economics K8 — FPSO technology and maritime borders."
     },
     factsAdvanced: {
       en: ["Located in the Mediterranean Sea near the Tunisian maritime border.", "Utilizes advanced Floating Production Storage and Offloading (FPSO) technology.", "Oil is processed and stored entirely at sea, bypassing mainland ports.", "Operated as a joint venture with international energy corporations.", "International tankers load crude directly from the offshore FPSO vessel.", "Highlights Libya's capacity for complex maritime energy extraction."]
-    }
-  },
+    },
     description: {
       de: "Al Jurf ist ein Offshore-Ölfeld nahe der Grenze zu Tunesien, das von internationalen Konsortien betrieben wird.",
       hu: "Az Al Jurf egy tengeri olajmező a tunéziai határ közelében, amelyet nemzetközi konzorciumok üzemeltetnek.",
@@ -829,14 +810,13 @@ export const poiExtraLibyaEconomicV2: POI[] = [
       hu: "Mabruk olajmező",
       ro: "Câmpul petrolier Mabruk",
       en: "Mabruk Oil Field"
-    ,
+    },
     descriptionAdvanced: {
       en: "The Mabruk Oil Field is located in the western Sirte Basin and is notable for its highly complex geological structure, which makes oil extraction exceptionally difficult. Engineers must use advanced enhanced oil recovery (EOR) techniques, such as massive water injection, to maintain production levels. The field suffered devastating militant attacks in 2015, heavily damaging its central processing facilities. The ongoing efforts to fully rehabilitate Mabruk showcase the resilience of Libya's energy sector. Economics K8 — enhanced oil recovery and infrastructure repair."
     },
     factsAdvanced: {
       en: ["Located in the western sector of the Sirte Basin.", "Features highly complex geology making extraction difficult.", "Relies heavily on enhanced oil recovery (EOR) water injection techniques.", "Suffered massive destruction during militant attacks in early 2015.", "Operated as a joint venture requiring advanced technical expertise.", "Currently undergoing significant, long-term rehabilitation efforts."]
-    }
-  },
+    },
     description: {
       de: "Das Mabruk-Feld im Sirte-Becken ist bekannt für komplexe geologische Strukturen, aus denen mit moderner Technologie Öl gefördert wird.",
       hu: "A Szirt-medencében található Mabruk-mező összetett geológiai szerkezetéről ismert, amelyből modern technológiával termelik ki az olajat.",
@@ -858,7 +838,7 @@ export const poiExtraLibyaEconomicV2: POI[] = [
     factsAdvanced: {
       de: ["Ölfeld im Sirte-Becken", "Wurde im Bürgerkrieg schwer beschädigt", "Aufwendige Wiederaufbauarbeiten nötig", "Betrieben von Mabruk Oil Operations", "Gemeinschaftsprojekt mit TotalEnergies", "Beispiel für die Verwundbarkeit der Industrie"],
       hu: ["A Sirte-medence (Sirtica) északnyugati szélén található.", "Üzemeltetője a Mabruk Oil Operations (NOC és a francia TotalEnergies partnersége).", "A geológiai kihívások miatt haladó vízbefecskendezési technológiát alkalmaznak itt.", "Az olajat az Es Sider terminál felé vezető fő vezetékhálózatba táplálják.", "1959-ben fedezték fel, de a komplexitás miatt a termelés csak 1995-ben indult meg.", "A létesítmények komoly károkat szenvedtek el 2015-ben fegyveres támadások során."],
-      ro: ["Situat la aproximativ 170 de kilometri sud de marile terminale petroliere litorale.", "Are una dintre cele mai complexe și fracturate structuri de zăcământ din zona Sirte.", "A necesitat tehnici speciale de extracție cu injecție de apă pentru a produce cantități comerciale.", "Instalațiile centrale au suferit un atac militant devastator în anul 2015, fiind masiv avariate.", "Este un simbol al eforturilor tehnice franceze și norvegiene în zona sahariana.", "Zăcământul este înconjurat de un peisaj total arid de „hamada” (deșert stâncos) steril."],
+      ro: ["Situat la aproximativ 170 de kilometri sud de marile terminale petroliere litorale.", "Are una dintre cele mai complexe și fracturate structuri de zăcământ din zona Sirte.", "A necesitat tehnici speciale de extracție cu injecție de apă pentru a produce cantități comerciale.", "Instalațiile centrale au suferit un atac militant devastator în anul 2015, fiind masiv avariate.", "Este un simbol al eforturilor tehnice franceze și norvegiene în zona sahariana.", "Zăcământul este înconjurat de un peisaj total arid de \"hamada\" (deșert stâncos) steril."],
       en: []
     }
   },
@@ -872,14 +852,13 @@ export const poiExtraLibyaEconomicV2: POI[] = [
       hu: "Amal olajmező",
       ro: "Câmpul petrolier Amal",
       en: "Amal Oil Field"
-    ,
+    },
     descriptionAdvanced: {
       en: "The Amal Oil Field is a major producer located in the eastern Sirte Basin, characterized by its vast spread of hundreds of individual nodding donkey pump jacks. Discovered in 1959, it has been a reliable cornerstone of eastern Libyan oil production for decades. The crude extracted here is transported via a dedicated pipeline to the Zueitina terminal on the coast. The field's longevity requires constant maintenance and drilling of new infill wells to sustain output. Economics K7 — mature oil field management."
     },
     factsAdvanced: {
       en: ["Located in the eastern section of the Sirte Basin.", "Discovered in 1959, making it one of the older producing fields.", "Features hundreds of traditional pump jacks spread across the desert.", "Crude oil is piped directly to the Zueitina coastal terminal.", "Requires constant maintenance and infill drilling to maintain pressure.", "Operated by Harouge Oil Operations, a major national subsidiary."]
-    }
-  },
+    },
     description: {
       de: "Das Amal-Feld ist eines der älteren produzierenden Felder im libyschen Sirte-Becken, das über Pipelines mit dem Hafen Ras Lanuf verbunden ist.",
       hu: "Az Amal-mező a líbiai Szirt-medence egyik régebbi termelő mezeje, amelyet csővezetékek kötnek össze Ras Lanuf kikötőjével.",
@@ -895,7 +874,7 @@ export const poiExtraLibyaEconomicV2: POI[] = [
     descriptionAdvanced: {
       de: "Das Amal-Feld im Sirte-Becken zeichnet sich durch seine extrem komplexe Geologie und tiefe Ölreservoirs aus. Trotz der technischen Herausforderungen bei der Förderung liefert das Feld kontinuierlich große Mengen an leichtem, hochwertigem Rohöl, das an der Küste von Ras Lanuf exportiert wird. Geografie K8 — Erdölgeologie.",
       hu: "Az Amal Olajmező a líbiai Sirte-medence egyik legrégebben felfedezett és legkitartóbb termelő mezője, amely kulcsszerepet játszik az ország keleti és középső olajhálózatában. Az Amal területén kinyert kőolajat egy masszív csővezetéken keresztül közvetlenül a Ras Lanuf finomítóba és kikötőbe továbbítják. A mező nemcsak hatalmas kiterjedésű, de kísérőgázt is jelentős mennyiségben tartalmaz, amelyet az ország belső energiaellátásában hasznosítanak. Gazdaság K8 — vezetékhálózatok és kísérőgázok.",
-      ro: "Câmpul petrolier Amal, tradus simbolic ca „Speranță”, este unul dintre vechii și loialii piloni ai industriei libiene de stat, gestionat de compania Harouge Oil. Situat în regiunile mai estice ale bazinului Sirte, zăcământul este faimos pentru consistența și calitatea constantă a fluxului său de țiței destinat rafinăriei și portului de la Ras Lanuf. Sistemul complex de pompare care asigură circulația acestui țiței valoros peste distanțe masive sub căldura arzătoare rămâne un triumf clasic al ingineriei de conducte. Geografie K7 — conducte magistrale și continuitatea industrială.",
+      ro: "Câmpul petrolier Amal, tradus simbolic ca \"Speranță\", este unul dintre vechii și loialii piloni ai industriei libiene de stat, gestionat de compania Harouge Oil. Situat în regiunile mai estice ale bazinului Sirte, zăcământul este faimos pentru consistența și calitatea constantă a fluxului său de țiței destinat rafinăriei și portului de la Ras Lanuf. Sistemul complex de pompare care asigură circulația acestui țiței valoros peste distanțe masive sub căldura arzătoare rămâne un triumf clasic al ingineriei de conducte. Geografie K7 — conducte magistrale și continuitatea industrială.",
       en: ""
     },
     factsAdvanced: {
@@ -915,14 +894,13 @@ export const poiExtraLibyaEconomicV2: POI[] = [
       hu: "Nafoora olajmező",
       ro: "Câmpul petrolier Nafoora",
       en: "Nafoora Oil Field"
-    ,
+    },
     descriptionAdvanced: {
       en: "Nafoora is a massive, highly productive oil field situated in the eastern Sirte Basin, closely associated with the nearby Amal and Intisar fields. It is known for producing a very high-quality crude that is heavily demanded by European refineries. The infrastructure at Nafoora is extensive, including massive gas-oil separation plants and worker camps. Because of its sheer output, Nafoora is a critical asset that authorities heavily protect to ensure national revenue stability. Economics K8 — high-quality crude and national revenue."
     },
     factsAdvanced: {
       en: ["Located in the eastern Sirte Basin near the Amal field.", "Produces a highly desirable, premium-quality crude oil.", "Features massive, complex gas-oil separation facilities.", "Crude is transported primarily to the Ras Lanuf export terminal.", "Operated by the Arabian Gulf Oil Company (AGOCO).", "A heavily guarded, critical source of national state revenue."]
-    }
-  },
+    },
     description: {
       de: "Das Nafoora-Feld ist ein bedeutender Bestandteil der libyschen Ölproduktion und wird von der Arabian Gulf Oil Company verwaltet.",
       hu: "A Nafoora-mező a líbiai olajtermelés jelentős része, amelyet az Arabian Gulf Oil Company kezel.",
@@ -944,7 +922,7 @@ export const poiExtraLibyaEconomicV2: POI[] = [
     factsAdvanced: {
       de: ["Bedeutendes Ölfeld im östlichen Sirte-Becken", "Liegt in der Nähe der Oase Jalu", "Betrieben von der Arabian Gulf Oil Company", "Verfügt über ein weites Pipelinenetz", "Fördert Öl und assoziiertes Gas", "Stark abhänging von logistischen Zentren"],
       hu: ["Az Amal-mező és a Dzsálu-oázis között, a keleti sivatagban helyezkedik el.", "Líbia egyik legrégebbi, stabilan termelő kőolajmezője (felfedezve 1965-ben).", "Az Arabian Gulf Oil Company (AGOCO) állami olajvállalat üzemelteti.", "Kiváló minőségű nyersolajat (Nafoora blend) és földgázt is kitermel.", "A termelést az Amal és Ras Lanuf felé vezető vezetékekbe táplálják.", "Saját gázhasznosító és sűrítő üzemekkel rendelkezik a mező területén."],
-      ro: ["Este una dintre „bijuteriile” companiei estice de petrol AGOCO (Arabian Gulf Oil Company).", "Pompează petrol brut direct către uriașul terminal Zueitina de la est de Benghazi.", "Condițiile de la fața locului sunt adesea definite de valuri uriașe de praf saharian și căldură extremă.", "Găzduiește facilități mari de separare a gazelor asociate și stații de pompare electrice de înaltă tensiune.", "Extracția la acest câmp se sprijină pe o rețea de zeci de stații colectoare modulare.", "Personalul din Nafoora locuiește într-o comunitate închisă, autarhică din inima deșertului."],
+      ro: ["Este una dintre \"bijuteriile\" companiei estice de petrol AGOCO (Arabian Gulf Oil Company).", "Pompează petrol brut direct către uriașul terminal Zueitina de la est de Benghazi.", "Condițiile de la fața locului sunt adesea definite de valuri uriașe de praf saharian și căldură extremă.", "Găzduiește facilități mari de separare a gazelor asociate și stații de pompare electrice de înaltă tensiune.", "Extracția la acest câmp se sprijină pe o rețea de zeci de stații colectoare modulare.", "Personalul din Nafoora locuiește într-o comunitate închisă, autarhică din inima deșertului."],
       en: []
     }
   },
@@ -958,14 +936,13 @@ export const poiExtraLibyaEconomicV2: POI[] = [
       hu: "Messla olajmező",
       ro: "Câmpul petrolier Messla",
       en: "Messla Oil Field"
-    ,
+    },
     descriptionAdvanced: {
       en: "The Messla Oil Field is a giant concession located deep in the eastern desert, often operating in tandem with the massive Sarir field to the south. Discovered in the early 1970s, it utilizes the same long-distance pipeline infrastructure to send crude to the Port of Tobruk. The environment is extremely hostile, requiring robust logistical networks to supply the isolated worker camps with food, water, and equipment. Messla's steady production is vital to the economy of Cyrenaica. Geography K7 — extreme desert logistics."
     },
     factsAdvanced: {
       en: ["Located deep in the eastern Libyan desert, north of Sarir.", "Discovered in 1971 by the Arabian Gulf Oil Company.", "Shares a massive pipeline network leading to the Port of Tobruk.", "Operates in an extremely harsh, hyper-arid Saharan environment.", "Relies on massive logistical convoys to sustain worker camps.", "A vital economic pillar for the eastern Cyrenaica region."]
-    }
-  },
+    },
     description: {
       de: "Das Messla-Ölfeld in der Cyrenaika wurde in den 1970er Jahren entdeckt und ist für seine hochwertigen Ölreserven bekannt.",
       hu: "A Kirenaikában található Messla olajmezőt az 1970-es években fedezték fel, és minőségi olajtartalékairól ismert.",
@@ -981,7 +958,7 @@ export const poiExtraLibyaEconomicV2: POI[] = [
     descriptionAdvanced: {
       de: "Das Messla-Ölfeld im tiefen Südosten Libyens wurde vergleichsweise spät entdeckt, entwickelte sich aber schnell zu einem der wichtigsten Felder des Landes. Das hier geförderte Rohöl wird über Hunderte von Kilometern nach Norden gepumpt und bildet eine tragende Säule der Produktion der Arabian Gulf Oil Company (AGOCO). Geografie K8 — Pipelinenetzwerke.",
       hu: "A Messzla (Messla) Olajmező a hatalmas Sarir-mezőtől délre helyezkedik el, a kirenaikai sivatag kietlen dűnéi között. A mezőt viszonylag későn, az 1970-es években fedezték fel, de hamar a líbiai termelés egyik sarokkövévé vált a kitermelt olaj kiváló minősége és az AGOCO által alkalmazott hatékony technológiák miatt. A Messzla mezőből származó kőolaj csatlakozik a Tobruk felé tartó északi fővezetékhez, erősítve a keleti kikötők (Marsa al-Hariga) exportkapacitását. Gazdaság K8 — kelet-líbiai kőolajexport.",
-      ro: "Câmpul petrolier Messla este adânc îngropat în sud-estul stâncos și formează jumătatea „de nord” a legendarului complex Sarir-Messla. Acest gigant liniștit susține practic o mare parte din eforturile companiei naționale de a finanța statul. Descoperit cu mult după Sarir, a dovedit că regiunea deșertului de est încă ascunde comori vaste. La Messla se găsește o minirafinărie faimoasă care distilează carburant esențial exclusiv pentru supraviețuirea flotei imense de camioane și mașini care operează operațiunile sudice. Geografie K7 — rafinării interne modulare și autosuficiență.",
+      ro: "Câmpul petrolier Messla este adânc îngropat în sud-estul stâncos și formează jumătatea \"de nord\" a legendarului complex Sarir-Messla. Acest gigant liniștit susține practic o mare parte din eforturile companiei naționale de a finanța statul. Descoperit cu mult după Sarir, a dovedit că regiunea deșertului de est încă ascunde comori vaste. La Messla se găsește o minirafinărie faimoasă care distilează carburant esențial exclusiv pentru supraviețuirea flotei imense de camioane și mașini care operează operațiunile sudice. Geografie K7 — rafinării interne modulare și autosuficiență.",
       en: ""
     },
     factsAdvanced: {
@@ -1001,14 +978,13 @@ export const poiExtraLibyaEconomicV2: POI[] = [
       hu: "Abu Attifel olajmező",
       ro: "Câmpul petrolier Abu Attifel",
       en: "Abu Attifel Oil Field"
-    ,
+    },
     descriptionAdvanced: {
       en: "Abu Attifel holds a unique place in Libyan oil history, as it was the first giant field discovered by the Italian energy firm ENI in the late 1960s. Located in the eastern Sirte Basin, the crude here is notably waxy, requiring heated pipelines to prevent the oil from solidifying as it travels to the coast. This technical challenge showcases the specialized engineering required in Libyan oil extraction. The field remains a highly productive joint venture between Libya and Italy. Science K8 — fluid dynamics and heated pipelines."
     },
     factsAdvanced: {
       en: ["Located in the eastern Sirte Basin.", "The first massive discovery made by Italian firm ENI in 1968.", "Produces a highly waxy crude oil that can solidify at room temperature.", "Requires specialized, heated pipelines to transport oil to the Zueitina terminal.", "Remains a highly productive joint venture between Libya and Italy.", "Features advanced chemical injection and processing facilities."]
-    }
-  },
+    },
     description: {
       de: "Abu Attifel ist ein großes Ölfeld im Sirte-Becken, das zu den ältesten und produktivsten Feldern gehört, an denen internationale Partner beteiligt sind.",
       hu: "Az Abu Attifel egy nagy olajmező a Szirt-medencében, amely a legrégebbi és legtermékenyebb, nemzetközi partnerek részvételével működő mezők közé tartozik.",
@@ -1024,13 +1000,13 @@ export const poiExtraLibyaEconomicV2: POI[] = [
     descriptionAdvanced: {
       de: "Abu Attifel ist das erste libysche Ölfeld, das vom italienischen Energieriesen Eni entdeckt wurde. Es befindet sich tief im Sirte-Becken und ist bekannt für sein charakteristisches 'wachshaltiges' Rohöl, das beim Transport spezielle beheizte Pipelines erfordert, um nicht in den Leitungen zu erstarren. Geografie K8 — Chemische Eigenschaften von Rohstoffen.",
       hu: "Az Abu Attifel Olajmező egyedülálló a líbiai Sirtica-medencében, mivel a kitermelt olaj viasztartalma rendkívül magas, ezért különleges fűtött csővezetékekre van szükség a szállításához. Ezt a technológiai kihívást a líbiai állam és az olasz Eni közös vállalata (Mellitah Oil & Gas) sikeresen oldotta meg, így a mező évtizedek óta megbízhatóan termel. Az Abu Attifel nem csupán az exportból veszi ki a részét, hanem a kitermelt jelentős mennyiségű földgázt az ország belső erőműveibe is eljuttatja, biztosítva a lakosság villamosenergia-ellátását. Gazdaság K8 — speciális kőolaj és földgáz-ellátás.",
-      ro: "Abu Attifel, situat extrem de izolat la granița Marelui Erg de Nisip Calanshio, se mândrește cu faptul că a fost prima descoperire semnificativă realizată de gigantul petrolier italian Eni în Libia anilor 1960. Țițeiul extras de la Abu Attifel are particularitatea interesantă de a fi extrem de „parafinos”, conținând ceruri naturale, ceea ce face ca acest petrol să se solidifice rapid la temperaturi scăzute, necesitând conducte specializate și încălzite pentru export către coastă. Chimia K8 — proprietățile hidrocarburilor și fracții parafinice.",
+      ro: "Abu Attifel, situat extrem de izolat la granița Marelui Erg de Nisip Calanshio, se mândrește cu faptul că a fost prima descoperire semnificativă realizată de gigantul petrolier italian Eni în Libia anilor 1960. Țițeiul extras de la Abu Attifel are particularitatea interesantă de a fi extrem de \"parafinos\", conținând ceruri naturale, ceea ce face ca acest petrol să se solidifice rapid la temperaturi scăzute, necesitând conducte specializate și încălzite pentru export către coastă. Chimia K8 — proprietățile hidrocarburilor și fracții parafinice.",
       en: ""
     },
     factsAdvanced: {
       de: ["Erstes von Eni in Libyen entdecktes Feld (1960)", "Liegt in der östlichen Sahara", "Fördert stark wachshaltiges Rohöl", "Erfordert beheizte Pipelines zum Transport", "Bedeutendes Joint-Venture-Projekt", "Wichtiges Zentrum für assoziiertes Gas"],
       hu: ["A Sirte-medence keleti felén található.", "A kitermelt kőolaj magas viasztartalmú, ezért szállításkor folyamatos melegítést igényel.", "1968-ban fedezte fel az olasz Agip (ma Eni).", "Jelenleg a Mellitah Oil & Gas (Eni és NOC vegyesvállalat) üzemelteti.", "Az olajat a Zueitina kikötőjébe szállítják exportra.", "A mező hatalmas mennyiségű földgázt is biztosít a líbiai erőművek számára."],
-      ro: ["Este faimos pentru calitatea unică de „waxy crude” (țiței parafinos) care tinde să înghețe la suprafață.", "A fost decoperit oficial în anul 1968, consolidând permanent relația energetică italo-libiană.", "Țițeiul este expediat nord-vest către terminalul Zueitina printr-o conductă cu sistem de încălzire intern.", "Situat în apropierea dunelor gigantice mișcătoare din Calanshio, care complică frecvent transportul logisticii.", "Găzduiește un aerodrom mic pe o platformă izolată pentru zboruri directe ale tehnicienilor.", "Echipele lucrează pe cicluri riguroase de schimburi (rotații tip lună-la-lună) din cauza depărtării urbane."],
+      ro: ["Este faimos pentru calitatea unică de \"waxy crude\" (țiței parafinos) care tinde să înghețe la suprafață.", "A fost decoperit oficial în anul 1968, consolidând permanent relația energetică italo-libiană.", "Țițeiul este expediat nord-vest către terminalul Zueitina printr-o conductă cu sistem de încălzire intern.", "Situat în apropierea dunelor gigantice mișcătoare din Calanshio, care complică frecvent transportul logisticii.", "Găzduiește un aerodrom mic pe o platformă izolată pentru zboruri directe ale tehnicienilor.", "Echipele lucrează pe cicluri riguroase de schimburi (rotații tip lună-la-lună) din cauza depărtării urbane."],
       en: []
     }
   },
@@ -1044,14 +1020,13 @@ export const poiExtraLibyaEconomicV2: POI[] = [
       hu: "Závíja olajfinomító",
       ro: "Rafinăria de petrol Zawiya",
       en: "Zawiya Oil Refinery"
-    ,
+    },
     descriptionAdvanced: {
       en: "The Zawiya Oil Refinery is Libya's second-largest but arguably most critical operational refinery, supplying the majority of gasoline and diesel to the densely populated western Tripolitania region. Located right on the coast, it receives crude pumped directly from the deep desert Sharara field. Operating the refinery requires massive amounts of electricity and water, making it a complex, highly integrated industrial marvel. Any shutdown here immediately impacts fuel availability in the capital, Tripoli. Economics K8 — domestic fuel supply chains."
     },
     factsAdvanced: {
       en: ["Located on the coast 45 kilometers west of Tripoli.", "Libya's primary supplier of domestic gasoline and diesel.", "Receives crude oil directly via pipeline from the Sharara field.", "Features a processing capacity of roughly 120,000 barrels per day.", "Highly integrated with the adjacent Zawiya export/import port.", "Critical to the daily functioning and transport of the capital city."]
-    }
-  },
+    },
     description: {
       de: "Die Raffinerie von Zawiya ist eine der wichtigsten Verarbeitungsanlagen in Libyen und versorgt weite Teile des Landes mit Treibstoff.",
       hu: "A závíjai finomító Líbia egyik legfontosabb feldolgozóüzeme, amely az ország nagy részét látja el üzemanyaggal.",
@@ -1087,14 +1062,13 @@ export const poiExtraLibyaEconomicV2: POI[] = [
       hu: "Ras Lanuf finomító",
       ro: "Rafinăria Ras Lanuf",
       en: "Ras Lanuf Refinery"
-    ,
+    },
     descriptionAdvanced: {
       en: "The Ras Lanuf Refinery is a colossal petrochemical complex on the Gulf of Sidra, designed to process over 200,000 barrels of crude oil per day. Unlike Zawiya, which focuses heavily on domestic fuel, Ras Lanuf was built to produce refined products and complex petrochemicals (like ethylene) for international export. It represents Libya's historical ambition to move beyond just selling raw crude into the more lucrative refined products market. The complex dominates the skyline for miles along the coastal highway. Economics K8 — petrochemical manufacturing and value addition."
     },
     factsAdvanced: {
       en: ["Located on the central Gulf of Sidra coastline.", "The largest oil refinery in Libya by processing capacity (220,000 bpd).", "Designed to produce refined fuels and complex petrochemicals for export.", "Features massive ethylene and polyethylene production units.", "Historically represents Libya's push for industrial value addition.", "Directly integrated with the massive Ras Lanuf crude export terminal."]
-    }
-  },
+    },
     description: {
       de: "Die Raffinerie Ras Lanuf ist ein riesiger petrochemischer Komplex, der Rohöl aus dem Sirte-Becken für den Inlandsmarkt und den Export verarbeitet.",
       hu: "A Ras Lanuf finomító egy hatalmas petrolkémiai komplexum, amely a Szirt-medencéből származó kőolajat dolgozza fel a hazai és az exportpiacok számára.",
@@ -1130,14 +1104,13 @@ export const poiExtraLibyaEconomicV2: POI[] = [
       hu: "Líbiai Vas- és Acélmű (LISCO)",
       ro: "Compania Libiană de Fier și Oțel (LISCO)",
       en: "Libyan Iron and Steel Company (LISCO)"
-    ,
+    },
     descriptionAdvanced: {
       en: "The Libyan Iron and Steel Company (LISCO) is the largest non-oil industrial complex in Libya, occupying a massive footprint in Misrata. Operating since the 1980s, the facility relies heavily on cheap domestic natural gas to power its energy-intensive Direct Reduced Iron (DRI) furnaces. LISCO supplies rebar, hot-rolled coils, and steel billets both to the domestic construction market and for international export. The plant's continued operation is seen as a symbol of Libya's industrial resilience. Economics K8 — heavy manufacturing and metallurgy."
     },
     factsAdvanced: {
       en: ["The largest iron and steel manufacturing complex in North Africa.", "Located in Misrata, directly integrated with the Qasr Ahmed port.", "Utilizes energy-intensive Direct Reduced Iron (DRI) technology.", "Supplies critical rebar and structural steel for domestic construction.", "Historically one of the largest employers outside the oil sector.", "Heavily reliant on cheap, subsidized domestic natural gas."]
-    }
-  },
+    },
     description: {
       de: "LISCO in Misrata ist einer der größten Stahlproduzenten Nordafrikas und spielt eine wesentliche Rolle in der nicht-ölbasierten Wirtschaft Libyens.",
       hu: "A miszrátai LISCO Észak-Afrika egyik legnagyobb acélgyártója, és elengedhetetlen szerepet játszik Líbia nem olajalapú gazdaságában.",
@@ -1173,14 +1146,13 @@ export const poiExtraLibyaEconomicV2: POI[] = [
       hu: "Zliteni cementgyár",
       ro: "Fabrica de ciment Zliten",
       en: "Zliten Cement Plant"
-    ,
+    },
     descriptionAdvanced: {
       en: "The Zliten Cement Plant is a foundational pillar of Libya's domestic construction industry, producing massive quantities of Portland cement. Located strategically between Tripoli and Misrata, it utilizes locally mined limestone and clay. The facility has seen significant expansions to meet the intense demand for post-conflict reconstruction across the western region. Its prominent silos and kilns are a major landmark on the coastal highway, generating significant local employment. Economics K7 — construction materials and domestic industry."
     },
     factsAdvanced: {
       en: ["A major producer of Portland cement in western Libya.", "Located in the coastal city of Zliten.", "Utilizes abundant local limestone and clay deposits.", "Critical supplier for post-conflict reconstruction efforts.", "Operates massive rotary kilns visible from the coastal highway.", "Provides significant employment for the surrounding municipalities."]
-    }
-  },
+    },
     description: {
       de: "Die Zementfabrik in Zliten ist ein wichtiger Lieferant für Baustoffe im Land und unterstützt die Infrastrukturprojekte der Küstenregion.",
       hu: "A zliteni cementgyár fontos építőanyag-beszállító az országban, és támogatja a part menti régió infrastrukturális projektjeit.",
@@ -1216,14 +1188,13 @@ export const poiExtraLibyaEconomicV2: POI[] = [
       hu: "Mellitah gázfeldolgozó üzem",
       ro: "Uzina de gaze Mellitah",
       en: "Mellitah Gas Plant"
-    ,
+    },
     descriptionAdvanced: {
       en: "The Mellitah Gas Plant is a massive, highly sophisticated processing facility that treats raw natural gas before it is exported or used domestically. It strips impurities like sulfur and separates natural gas liquids (NGLs) from the methane stream. The plant is the critical terrestrial processing node before gas enters the undersea Greenstream pipeline to Italy. Operated as a joint venture with ENI, the facility represents the pinnacle of modern energy technology in Libya. Science K8 — hydrocarbon processing and gas sweetening."
     },
     factsAdvanced: {
       en: ["Located at the Mellitah complex near Zuwara.", "Processes raw natural gas to remove sulfur and impurities.", "Separates valuable Natural Gas Liquids (NGLs) for export.", "The final terrestrial processing point before the Greenstream pipeline.", "Operated as a strategic joint venture with Italian energy firm ENI.", "Features highly advanced, automated chemical engineering systems."]
-    }
-  },
+    },
     description: {
       de: "Die Mellitah Gasanlage verarbeitet Erdgas, das sowohl für den libyschen Inlandsverbrauch als auch für den Export über die Greenstream-Pipeline bestimmt ist.",
       hu: "A Mellitah gázfeldolgozó üzem olyan földgázt dolgoz fel, amelyet mind a hazai fogyasztásra, mind a Greenstream vezetéken keresztüli exportra szánnak.",
@@ -1239,7 +1210,7 @@ export const poiExtraLibyaEconomicV2: POI[] = [
     descriptionAdvanced: {
       de: "Die Mellitah Gas Plant ist eine der modernsten industriellen Verarbeitungsanlagen Afrikas, gelegen westlich von Sabratha. Sie reinigt und komprimiert das aus der Wüste und aus dem Meer gewonnene Erdgas, um es in die 520 Kilometer lange Greenstream-Unterseepipeline nach Sizilien zu pressen. Geografie K8 — Transnationale Energieflüsse.",
       hu: "A Mellitah Gázfeldolgozó Üzem (Mellitah Gas Plant) a Földközi-tenger partján fekvő ultramodern energetikai központ, amely az ország gázexportjának és belső ellátásának agya. Az üzem fogadja a távoli sivatagi Wafa-mezőről, valamint a tengeri Bahr Essalam mezőről érkező nyers földgázt, itt tisztítják és sűrítik azt, mielőtt az Olaszországba tartó Greenstream tenger alatti gázvezetékbe pumpálnák. A komplexum a líbiai-olasz (NOC-Eni) gazdasági együttműködés legfényesebb példája. Gazdaság K8 — gázfeldolgozás és csővezetékek.",
-      ro: "Mellitah Gas Plant (Complexul de prelucrare) funcționează ca punctul de convergență tehnică unde cantități de gaze neprelucrate din inima mării (Offshore) și din adâncul extrem al Deșertului Vestic se întâlnesc. Este locul în care gazul sulfuros extrem de letal este „îndulcit” și procesat printr-o tehnologie complicată înainte de a fi livrat Italiei pe sub mare și centralelor electrice libiene interne. Datorită periculozității operațiunilor de extracție a sulfului și riscului presiunilor uriașe din conducte, complexul respectă proceduri de securitate fără egal la nivel de continent. Chimie K8 — îndulcirea gazului și deșeurile de sulf.",
+      ro: "Mellitah Gas Plant (Complexul de prelucrare) funcționează ca punctul de convergență tehnică unde cantități de gaze neprelucrate din inima mării (Offshore) și din adâncul extrem al Deșertului Vestic se întâlnesc. Este locul în care gazul sulfuros extrem de letal este \"îndulcit\" și procesat printr-o tehnologie complicată înainte de a fi livrat Italiei pe sub mare și centralelor electrice libiene interne. Datorită periculozității operațiunilor de extracție a sulfului și riscului presiunilor uriașe din conducte, complexul respectă proceduri de securitate fără egal la nivel de continent. Chimie K8 — îndulcirea gazului și deșeurile de sulf.",
       en: ""
     },
     factsAdvanced: {
@@ -1259,14 +1230,13 @@ export const poiExtraLibyaEconomicV2: POI[] = [
       hu: "Al-Humsz erőmű",
       ro: "Centrala electrică Al-Khums",
       en: "Khoms Power Plant"
-    ,
+    },
     descriptionAdvanced: {
       en: "The Khoms Power Plant is one of the largest and most critical electricity generation facilities on the Libyan grid. Situated on the coast to utilize seawater for cooling, the plant operates multiple massive gas and steam turbines. It is primarily fueled by natural gas piped from inland fields, providing base-load power to the Tripolitania region, including the capital. Disruptions or fuel shortages at this plant immediately result in rolling blackouts across western Libya. Engineering K8 — national power grids and thermal generation."
     },
     factsAdvanced: {
       en: ["A critical base-load power generation facility for western Libya.", "Located on the Mediterranean coast near the city of Khoms.", "Utilizes seawater for the massive cooling requirements of its turbines.", "Operates a combination of gas and steam turbine units.", "Primarily fueled by domestic natural gas.", "Crucial for maintaining grid stability in the densely populated Tripolitania."]
-    }
-  },
+    },
     description: {
       de: "Das Kraftwerk Al-Chums ist ein großes Wärmekraftwerk, das eine Schlüsselrolle bei der Stromversorgung der stark besiedelten Küstenstädte Libyens spielt.",
       hu: "Az Al-Humsz erőmű egy nagy hőerőmű, amely kulcsszerepet játszik Líbia sűrűn lakott tengerparti városainak áramellátásában.",

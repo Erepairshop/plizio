@@ -6,12 +6,12 @@ export const poiExtraAngolaReliefV2: POI[] = [
     type: "relief",
     parent: "AO-BIE",
     coords: [17.5, -12.5],
-    name: { de: "BiÈ-Hochland", hu: "BiÈ-felfˆld", ro: "Podi?ul BiÈ", en: "BiÈ Plateau" },
-    description: { de: "Groﬂes Hochplateau im Zentrum Angolas.", hu: "Nagy fennsÌk Angola kˆzpontj·ban.", ro: "Mare podi? Ón centrul Angolei.", en: "Large high plateau in central Angola." },
+    name: { de: "Bi√©-Hochland", hu: "Bi√©-felf√∂ld", ro: "Podi?ul Bi√©", en: "Bi√© Plateau" },
+    description: { de: "Gro√ües Hochplateau im Zentrum Angolas.", hu: "Nagy fenns√≠k Angola k√∂zpontj√°ban.", ro: "Mare podi? √Æn centrul Angolei.", en: "Large high plateau in central Angola." },
     facts: {
-      de: ["Durchschnittshˆhe 1500 Meter.", "Wasserscheide f¸r viele Fl¸sse."],
-      hu: ["¡tlagos magass·g 1500 mÈter.", "VÌzv·lasztÛ sok folyÛ sz·m·ra."],
-      ro: ["Altitudine medie 1500 metri.", "Bazin hidrografic pentru multe r‚uri."],
+      de: ["Durchschnittsh√∂he 1500 Meter.", "Wasserscheide f√ºr viele Fl√ºsse."],
+      hu: ["√Åtlagos magass√°g 1500 m√©ter.", "V√≠zv√°laszt√≥ sok foly√≥ sz√°m√°ra."],
+      ro: ["Altitudine medie 1500 metri.", "Bazin hidrografic pentru multe r√¢uri."],
       en: ["Average elevation 1500 meters.", "Watershed for many rivers."]
     }
   },
@@ -21,11 +21,11 @@ export const poiExtraAngolaReliefV2: POI[] = [
     parent: "AO-NAM",
     coords: [13.5, -15.2],
     name: { de: "Serra da Chela", hu: "Serra da Chela", ro: "Serra da Chela", en: "Serra da Chela" },
-    description: { de: "Gebirgskette im S¸dwesten Angolas.", hu: "Hegyvonulat DÈlnyugat-Angol·ban.", ro: "Lan? muntos Ón sud-vestul Angolei.", en: "Mountain range in southwest Angola." },
+    description: { de: "Gebirgskette im S√ºdwesten Angolas.", hu: "Hegyvonulat D√©lnyugat-Angol√°ban.", ro: "Lan? muntos √Æn sud-vestul Angolei.", en: "Mountain range in southwest Angola." },
     facts: {
-      de: ["Steiler Abfall zum K¸stentiefland.", "Hˆchste Erhebung der Kette."],
-      hu: ["Meredek lejto a tengerparti sÌks·gra.", "A vonulat legmagasabb pontja."],
-      ro: ["Panta abrupta spre c‚mpia de coasta.", "Cel mai Ónalt punct al lan?ului."],
+      de: ["Steiler Abfall zum K√ºstentiefland.", "H√∂chste Erhebung der Kette."],
+      hu: ["Meredek lejto a tengerparti s√≠ks√°gra.", "A vonulat legmagasabb pontja."],
+      ro: ["Panta abrupta spre c√¢mpia de coasta.", "Cel mai √Ænalt punct al lan?ului."],
       en: ["Steep drop to coastal lowland.", "Highest point of the range."]
     }
   },
@@ -35,11 +35,11 @@ export const poiExtraAngolaReliefV2: POI[] = [
     parent: "AO-HUA",
     coords: [15.19, -12.47],
     name: { de: "Moco", hu: "Moco", ro: "Moco", en: "Moco" },
-    description: { de: "Hˆchster Berg Angolas.", hu: "Angola legmagasabb hegye.", ro: "Cel mai Ónalt munte din Angola.", en: "The highest mountain in Angola." },
+    description: { de: "H√∂chster Berg Angolas.", hu: "Angola legmagasabb hegye.", ro: "Cel mai √Ænalt munte din Angola.", en: "The highest mountain in Angola." },
     facts: {
-      de: ["Liegt in der Provinz Huambo.", "Hˆhe 2620 Meter."],
-      hu: ["Huambo tartom·nyban tal·lhatÛ.", "Magass·ga 2620 mÈter."],
-      ro: ["Situat Ón provincia Huambo.", "Œnal?ime 2620 metri."],
+      de: ["Liegt in der Provinz Huambo.", "H√∂he 2620 Meter."],
+      hu: ["Huambo tartom√°nyban tal√°lhat√≥.", "Magass√°ga 2620 m√©ter."],
+      ro: ["Situat √Æn provincia Huambo.", "√énal?ime 2620 metri."],
       en: ["Located in Huambo province.", "Elevation 2620 meters."]
     }
   },
@@ -49,10 +49,10 @@ export const poiExtraAngolaReliefV2: POI[] = [
     parent: "AO-HUI",
     coords: [13.2, -15.0],
     name: { de: "Serra da Leba", hu: "Serra da Leba", ro: "Serra da Leba", en: "Serra da Leba" },
-    description: { de: "Steilstufe zwischen HuÌla-Plateau und K¸ste.", hu: "Merdek lÈpcso a HuÌla-fennsÌk Ès a part kˆzˆtt.", ro: "Panta abrupta dintre Podi?ul HuÌla ?i coasta.", en: "Steep escarpment between HuÌla plateau and coast." },
+    description: { de: "Steilstufe zwischen Hu√≠la-Plateau und K√ºste.", hu: "Merdek l√©pcso a Hu√≠la-fenns√≠k √©s a part k√∂z√∂tt.", ro: "Panta abrupta dintre Podi?ul Hu√≠la ?i coasta.", en: "Steep escarpment between Hu√≠la plateau and coast." },
     facts: {
-      de: ["Spektakul‰re Serpentinenstraﬂe.", "Wichtiger ‹bergang."],
-      hu: ["L·tv·nyos szerpentin˙t.", "Fontos ·tkelo."],
+      de: ["Spektakul√§re Serpentinenstra√üe.", "Wichtiger √úbergang."],
+      hu: ["L√°tv√°nyos szerpentin√∫t.", "Fontos √°tkelo."],
       ro: ["?osea cu serpentine spectaculoase.", "Trecatoare importanta."],
       en: ["Spectacular switchback road.", "Important crossing."]
     }
@@ -62,11 +62,11 @@ export const poiExtraAngolaReliefV2: POI[] = [
     type: "forest",
     parent: "AO-CAB",
     coords: [12.7, -4.5],
-    name: { de: "Kongobecken-Rand", hu: "KongÛ-medence szÈle", ro: "Marginea bazinului Congo", en: "Congo Basin Edge" },
-    description: { de: "Region am Rande des Kongobeckens.", hu: "RÈgiÛ a KongÛ-medence peremÈn.", ro: "Regiune la marginea bazinului Congo.", en: "Region at the edge of the Congo Basin." },
+    name: { de: "Kongobecken-Rand", hu: "Kong√≥-medence sz√©le", ro: "Marginea bazinului Congo", en: "Congo Basin Edge" },
+    description: { de: "Region am Rande des Kongobeckens.", hu: "R√©gi√≥ a Kong√≥-medence perem√©n.", ro: "Regiune la marginea bazinului Congo.", en: "Region at the edge of the Congo Basin." },
     facts: {
-      de: ["Sehr feuchtes Klima.", "Dichte tropische W‰lder."],
-      hu: ["Nagyon p·r·s Èghajlat.", "Suru trÛpusi erdok."],
+      de: ["Sehr feuchtes Klima.", "Dichte tropische W√§lder."],
+      hu: ["Nagyon p√°r√°s √©ghajlat.", "Suru tr√≥pusi erdok."],
       ro: ["Clima foarte umeda.", "Paduri tropicale dense."],
       en: ["Very humid climate.", "Dense tropical forests."]
     }
@@ -76,11 +76,11 @@ export const poiExtraAngolaReliefV2: POI[] = [
     type: "relief",
     parent: "AO-HUI",
     coords: [14.0, -15.0],
-    name: { de: "HuÌla-Hochland", hu: "HuÌla-felfˆld", ro: "Podi?ul HuÌla", en: "HuÌla Plateau" },
-    description: { de: "Hochlandebene im S¸den.", hu: "FennsÌk a dÈlen.", ro: "Podi? Ón sud.", en: "Plateau in the south." },
+    name: { de: "Hu√≠la-Hochland", hu: "Hu√≠la-felf√∂ld", ro: "Podi?ul Hu√≠la", en: "Hu√≠la Plateau" },
+    description: { de: "Hochlandebene im S√ºden.", hu: "Fenns√≠k a d√©len.", ro: "Podi? √Æn sud.", en: "Plateau in the south." },
     facts: {
-      de: ["G¸nstiges Klima f¸r Landwirtschaft.", "Weites, offenes Land."],
-      hu: ["Kedvezo Èghajlat a mezogazdas·ghoz.", "SzÈles, nyÌlt vidÈk."],
+      de: ["G√ºnstiges Klima f√ºr Landwirtschaft.", "Weites, offenes Land."],
+      hu: ["Kedvezo √©ghajlat a mezogazdas√°ghoz.", "Sz√©les, ny√≠lt vid√©k."],
       ro: ["Clima favorabila pentru agricultura.", "?inut vast ?i deschis."],
       en: ["Favorable climate for agriculture.", "Vast, open land."]
     }
@@ -90,11 +90,11 @@ export const poiExtraAngolaReliefV2: POI[] = [
     type: "relief",
     parent: "AO-NAM",
     coords: [12.0, -16.0],
-    name: { de: "Namib-W¸ste", hu: "Namib-sivatag", ro: "De?ertul Namib", en: "Namib Desert" },
-    description: { de: "K¸stenzone der Namib-W¸ste.", hu: "A Namib-sivatag part menti ˆvezete.", ro: "Zona de coasta a de?ertului Namib.", en: "Coastal zone of the Namib Desert." },
+    name: { de: "Namib-W√ºste", hu: "Namib-sivatag", ro: "De?ertul Namib", en: "Namib Desert" },
+    description: { de: "K√ºstenzone der Namib-W√ºste.", hu: "A Namib-sivatag part menti √∂vezete.", ro: "Zona de coasta a de?ertului Namib.", en: "Coastal zone of the Namib Desert." },
     facts: {
-      de: ["Sehr trockenes Gel‰nde.", "Sandd¸nen an der K¸ste."],
-      hu: ["Nagyon sz·raz terep.", "HomokdunÈk a tengerparton."],
+      de: ["Sehr trockenes Gel√§nde.", "Sandd√ºnen an der K√ºste."],
+      hu: ["Nagyon sz√°raz terep.", "Homokdun√©k a tengerparton."],
       ro: ["Teren foarte uscat.", "Dune de nisip pe coasta."],
       en: ["Very dry terrain.", "Sand dunes on the coast."]
     }
@@ -104,12 +104,12 @@ export const poiExtraAngolaReliefV2: POI[] = [
     type: "relief",
     parent: "AO-BGO",
     coords: [13.2, -9.5],
-    name: { de: "Kwanza-Tal", hu: "Kwanza-vˆlgy", ro: "Valea Kwanza", en: "Kwanza Valley" },
-    description: { de: "Das zentrale Flusstal.", hu: "A kˆzponti folyÛvˆlgy.", ro: "Valea centrala a r‚ului.", en: "The central river valley." },
+    name: { de: "Kwanza-Tal", hu: "Kwanza-v√∂lgy", ro: "Valea Kwanza", en: "Kwanza Valley" },
+    description: { de: "Das zentrale Flusstal.", hu: "A k√∂zponti foly√≥v√∂lgy.", ro: "Valea centrala a r√¢ului.", en: "The central river valley." },
     facts: {
-      de: ["Wichtige Erosionsform.", "Groﬂe Tallage."],
-      hu: ["Fontos erÛziÛs forma.", "Nagy vˆlgyi fekvÈs."],
-      ro: ["Forma importanta de eroziune.", "Pozi?ie Ón vale vasta."],
+      de: ["Wichtige Erosionsform.", "Gro√üe Tallage."],
+      hu: ["Fontos er√≥zi√≥s forma.", "Nagy v√∂lgyi fekv√©s."],
+      ro: ["Forma importanta de eroziune.", "Pozi?ie √Æn vale vasta."],
       en: ["Important erosion form.", "Large valley position."]
     }
   },
@@ -119,11 +119,11 @@ export const poiExtraAngolaReliefV2: POI[] = [
     parent: "AO-LNO",
     coords: [19.0, -8.0],
     name: { de: "Lunda-Berge", hu: "Lunda-hegyek", ro: "Mun?ii Lunda", en: "Lunda Mountains" },
-    description: { de: "H¸gellandschaft im Nordosten.", hu: "DombvidÈk Èszakkeleten.", ro: "?inut deluros Ón nord-est.", en: "Hilly landscape in the northeast." },
+    description: { de: "H√ºgellandschaft im Nordosten.", hu: "Dombvid√©k √©szakkeleten.", ro: "?inut deluros √Æn nord-est.", en: "Hilly landscape in the northeast." },
     facts: {
       de: ["Reich an Mineralien.", "Sanfte Erhebungen."],
-      hu: ["¡sv·nykincsekben gazdag.", "SzelÌd emelkedok."],
-      ro: ["Bogat Ón minerale.", "Eleva?ii line."],
+      hu: ["√Åsv√°nykincsekben gazdag.", "Szel√≠d emelkedok."],
+      ro: ["Bogat √Æn minerale.", "Eleva?ii line."],
       en: ["Rich in minerals.", "Gentle elevations."]
     }
   },
@@ -133,10 +133,10 @@ export const poiExtraAngolaReliefV2: POI[] = [
     parent: "AO-BEN",
     coords: [13.0, -12.0],
     name: { de: "Westlicher Abfall", hu: "Nyugati lejto", ro: "Panta vestica", en: "Western Escarpment" },
-    description: { de: "Abfallende Stufe zum Atlantik.", hu: "Atlanti-Ûce·n felÈ lejto lÈpcso.", ro: "Trepa cobor‚nd spre Atlantic.", en: "Escarpment descending to the Atlantic." },
+    description: { de: "Abfallende Stufe zum Atlantik.", hu: "Atlanti-√≥ce√°n fel√© lejto l√©pcso.", ro: "Trepa cobor√¢nd spre Atlantic.", en: "Escarpment descending to the Atlantic." },
     facts: {
-      de: ["Geologischer ‹bergang.", "Groﬂe Hˆhenunterschiede."],
-      hu: ["GeolÛgiai ·tmenet.", "Nagy magass·gk¸lˆnbsÈgek."],
+      de: ["Geologischer √úbergang.", "Gro√üe H√∂henunterschiede."],
+      hu: ["Geol√≥giai √°tmenet.", "Nagy magass√°gk√ºl√∂nbs√©gek."],
       ro: ["Tranzi?ie geologica.", "Diferen?e mari de altitudine."],
       en: ["Geological transition.", "Large altitude differences."]
     }
@@ -147,10 +147,10 @@ export const poiExtraAngolaReliefV2: POI[] = [
     parent: "AO-HUA",
     coords: [15.5, -12.0],
     name: { de: "Namba", hu: "Namba", ro: "Namba", en: "Namba" },
-    description: { de: "Gipfel im zentralen Hochland.", hu: "Cs˙cs a kˆzponti felfˆldˆn.", ro: "V‚rf Ón podi?ul central.", en: "Peak in the central highlands." },
+    description: { de: "Gipfel im zentralen Hochland.", hu: "Cs√∫cs a k√∂zponti felf√∂ld√∂n.", ro: "V√¢rf √Æn podi?ul central.", en: "Peak in the central highlands." },
     facts: {
       de: ["Teil des Gebirgszugs.", "Stark verwittert."],
-      hu: ["A hegyvonulat rÈsze.", "Erosen m·llott."],
+      hu: ["A hegyvonulat r√©sze.", "Erosen m√°llott."],
       ro: ["Parte a lan?ului muntos.", "Puternic erodat."],
       en: ["Part of the range.", "Heavily weathered."]
     }
@@ -160,11 +160,11 @@ export const poiExtraAngolaReliefV2: POI[] = [
     type: "relief",
     parent: "AO-CNN",
     coords: [14.0, -16.0],
-    name: { de: "Cunene-Tal", hu: "Cunene-vˆlgy", ro: "Valea Cunene", en: "Cunene Valley" },
-    description: { de: "Talsenke an der S¸dgrenze.", hu: "Vˆlgyi mÈlyedÈs a dÈli hat·ron.", ro: "Depresiune de vale la grani?a de sud.", en: "Valley depression on the southern border." },
+    name: { de: "Cunene-Tal", hu: "Cunene-v√∂lgy", ro: "Valea Cunene", en: "Cunene Valley" },
+    description: { de: "Talsenke an der S√ºdgrenze.", hu: "V√∂lgyi m√©lyed√©s a d√©li hat√°ron.", ro: "Depresiune de vale la grani?a de sud.", en: "Valley depression on the southern border." },
     facts: {
-      de: ["Flusslandschaft.", "Saisonale ‹berschwemmungen."],
-      hu: ["FolyÛ t·j.", "Szezon·lis ·rad·sok."],
+      de: ["Flusslandschaft.", "Saisonale √úberschwemmungen."],
+      hu: ["Foly√≥ t√°j.", "Szezon√°lis √°rad√°sok."],
       ro: ["Peisaj fluvial.", "Inunda?ii sezoniere."],
       en: ["River landscape.", "Seasonal flooding."]
     }
@@ -174,11 +174,11 @@ export const poiExtraAngolaReliefV2: POI[] = [
     type: "mountain",
     parent: "AO-BEN",
     coords: [13.4, -12.5],
-    name: { de: "Benguela-Hˆhen", hu: "Benguela-magaslatok", ro: "Œnal?imile Benguela", en: "Benguela Highlands" },
-    description: { de: "Bergiges Hinterland von Benguela.", hu: "Benguela hegyes h·torsz·ga.", ro: "Interior muntos al Benguelei.", en: "Mountainous hinterland of Benguela." },
+    name: { de: "Benguela-H√∂hen", hu: "Benguela-magaslatok", ro: "√énal?imile Benguela", en: "Benguela Highlands" },
+    description: { de: "Bergiges Hinterland von Benguela.", hu: "Benguela hegyes h√°torsz√°ga.", ro: "Interior muntos al Benguelei.", en: "Mountainous hinterland of Benguela." },
     facts: {
-      de: ["Trockenheit pr‰gt das Relief.", "Starke Erosion."],
-      hu: ["Sz·razs·g jellemzi a domborzatot.", "Eros erÛziÛ."],
+      de: ["Trockenheit pr√§gt das Relief.", "Starke Erosion."],
+      hu: ["Sz√°razs√°g jellemzi a domborzatot.", "Eros er√≥zi√≥."],
       ro: ["Ariditatea define?te relieful.", "Eroziune puternica."],
       en: ["Aridity defines the relief.", "Strong erosion."]
     }
@@ -188,11 +188,11 @@ export const poiExtraAngolaReliefV2: POI[] = [
     type: "relief",
     parent: "AO-MAL",
     coords: [16.0, -9.5],
-    name: { de: "Malanje-Hochland", hu: "Malanje-felfˆld", ro: "Podi?ul Malanje", en: "Malanje Plateau" },
-    description: { de: "Ebene Hochlandschaft.", hu: "SÌks·gi felfˆld.", ro: "Podi? plan.", en: "Flat highland landscape." },
+    name: { de: "Malanje-Hochland", hu: "Malanje-felf√∂ld", ro: "Podi?ul Malanje", en: "Malanje Plateau" },
+    description: { de: "Ebene Hochlandschaft.", hu: "S√≠ks√°gi felf√∂ld.", ro: "Podi? plan.", en: "Flat highland landscape." },
     facts: {
-      de: ["G¸nstige landwirtschaftliche Bˆden.", "Offene Fl‰chen."],
-      hu: ["Kedvezo mezogazdas·gi talajok.", "NyÌlt ter¸letek."],
+      de: ["G√ºnstige landwirtschaftliche B√∂den.", "Offene Fl√§chen."],
+      hu: ["Kedvezo mezogazdas√°gi talajok.", "Ny√≠lt ter√ºletek."],
       ro: ["Soluri agricole favorabile.", "Suprafe?e deschise."],
       en: ["Favorable agricultural soils.", "Open areas."]
     }
@@ -202,11 +202,11 @@ export const poiExtraAngolaReliefV2: POI[] = [
     type: "relief",
     parent: "AO-LSU",
     coords: [19.5, -9.0],
-    name: { de: "Lunda-Steilstufe", hu: "Lunda-lÈpcso", ro: "Escarpa Lunda", en: "Lunda Escarpment" },
-    description: { de: "Gel‰ndestufe im Nordosten.", hu: "TereplÈpcso Èszakkeleten.", ro: "Trepa de teren Ón nord-est.", en: "Escarpment in the northeast." },
+    name: { de: "Lunda-Steilstufe", hu: "Lunda-l√©pcso", ro: "Escarpa Lunda", en: "Lunda Escarpment" },
+    description: { de: "Gel√§ndestufe im Nordosten.", hu: "Terepl√©pcso √©szakkeleten.", ro: "Trepa de teren √Æn nord-est.", en: "Escarpment in the northeast." },
     facts: {
-      de: ["‹bergang zur Kongo-Senke.", "Steiles Profil."],
-      hu: ["¡tmenet a KongÛ-medencÈhez.", "Meredek profil."],
+      de: ["√úbergang zur Kongo-Senke.", "Steiles Profil."],
+      hu: ["√Åtmenet a Kong√≥-medenc√©hez.", "Meredek profil."],
       ro: ["Tranzi?ie spre bazinul Congo.", "Profil abrupt."],
       en: ["Transition to Congo basin.", "Steep profile."]
     }
@@ -216,11 +216,11 @@ export const poiExtraAngolaReliefV2: POI[] = [
     type: "relief",
     parent: "AO-UIG",
     coords: [15.0, -7.0],
-    name: { de: "UÌge-H¸gel", hu: "UÌge-dombok", ro: "Colinele UÌge", en: "UÌge Hills" },
-    description: { de: "H¸gellandschaft im Norden.", hu: "DombvidÈk Èszakon.", ro: "?inut colinar Ón nord.", en: "Hilly landscape in the north." },
+    name: { de: "U√≠ge-H√ºgel", hu: "U√≠ge-dombok", ro: "Colinele U√≠ge", en: "U√≠ge Hills" },
+    description: { de: "H√ºgellandschaft im Norden.", hu: "Dombvid√©k √©szakon.", ro: "?inut colinar √Æn nord.", en: "Hilly landscape in the north." },
     facts: {
-      de: ["Sehr gr¸n.", "Hohe Niederschl‰ge."],
-      hu: ["Nagyon zˆld.", "Magas csapadÈk."],
+      de: ["Sehr gr√ºn.", "Hohe Niederschl√§ge."],
+      hu: ["Nagyon z√∂ld.", "Magas csapad√©k."],
       ro: ["Foarte verde.", "Precipita?ii mari."],
       en: ["Very green.", "High rainfall."]
     }
@@ -231,10 +231,10 @@ export const poiExtraAngolaReliefV2: POI[] = [
     parent: "AO-HUA",
     coords: [15.8, -12.2],
     name: { de: "Kaparanga", hu: "Kaparanga", ro: "Kaparanga", en: "Kaparanga" },
-    description: { de: "Erhebung in Huambo.", hu: "Emelkedo HuambÛban.", ro: "Eleva?ie Ón Huambo.", en: "Elevation in Huambo." },
+    description: { de: "Erhebung in Huambo.", hu: "Emelkedo Huamb√≥ban.", ro: "Eleva?ie √Æn Huambo.", en: "Elevation in Huambo." },
     facts: {
       de: ["Geologisch alt.", "Granitmassiv."],
-      hu: ["GeolÛgiailag rÈgi.", "Gr·nitmasszÌvum."],
+      hu: ["Geol√≥giailag r√©gi.", "Gr√°nitmassz√≠vum."],
       ro: ["Geologic vechi.", "Masiv granitic."],
       en: ["Geologically old.", "Granite massif."]
     }
@@ -244,11 +244,11 @@ export const poiExtraAngolaReliefV2: POI[] = [
     type: "relief",
     parent: "AO-NAM",
     coords: [12.5, -15.5],
-    name: { de: "Namibe-Ebene", hu: "Namibe-sÌks·g", ro: "C‚mpia Namibe", en: "Namibe Plain" },
-    description: { de: "K¸stenebene.", hu: "Parti sÌks·g.", ro: "C‚mpie de coasta.", en: "Coastal plain." },
+    name: { de: "Namibe-Ebene", hu: "Namibe-s√≠ks√°g", ro: "C√¢mpia Namibe", en: "Namibe Plain" },
+    description: { de: "K√ºstenebene.", hu: "Parti s√≠ks√°g.", ro: "C√¢mpie de coasta.", en: "Coastal plain." },
     facts: {
       de: ["Trocken.", "Wenig Vegetation."],
-      hu: ["Sz·raz.", "KevÈs nˆvÈnyzet."],
+      hu: ["Sz√°raz.", "Kev√©s n√∂v√©nyzet."],
       ro: ["Uscat.", "Pu?ina vegeta?ie."],
       en: ["Dry.", "Little vegetation."]
     }
@@ -259,10 +259,10 @@ export const poiExtraAngolaReliefV2: POI[] = [
     parent: "AO-CUS",
     coords: [14.5, -10.5],
     name: { de: "Cumbira", hu: "Cumbira", ro: "Cumbira", en: "Cumbira" },
-    description: { de: "Berg in Cuanza Sul.", hu: "Hegy Cuanza Sulban.", ro: "Munte Ón Cuanza Sul.", en: "Mountain in Cuanza Sul." },
+    description: { de: "Berg in Cuanza Sul.", hu: "Hegy Cuanza Sulban.", ro: "Munte √Æn Cuanza Sul.", en: "Mountain in Cuanza Sul." },
     facts: {
       de: ["Waldbedeckt.", "Steile Flanken."],
-      hu: ["Erdo borÌtja.", "Meredek oldalak."],
+      hu: ["Erdo bor√≠tja.", "Meredek oldalak."],
       ro: ["Acoperit de padure.", "Flancuri abrupte."],
       en: ["Forest-covered.", "Steep flanks."]
     }
@@ -272,11 +272,11 @@ export const poiExtraAngolaReliefV2: POI[] = [
     type: "relief",
     parent: "AO-MOX",
     coords: [22.0, -12.0],
-    name: { de: "Sambesi-Tal", hu: "ZambÈzi-vˆlgy", ro: "Valea Zambezi", en: "Zambezi Valley" },
-    description: { de: "Tal des Sambesi-Flusses.", hu: "A ZambÈzi folyÛ vˆlgye.", ro: "Valea r‚ului Zambezi.", en: "Valley of the Zambezi river." },
+    name: { de: "Sambesi-Tal", hu: "Zamb√©zi-v√∂lgy", ro: "Valea Zambezi", en: "Zambezi Valley" },
+    description: { de: "Tal des Sambesi-Flusses.", hu: "A Zamb√©zi foly√≥ v√∂lgye.", ro: "Valea r√¢ului Zambezi.", en: "Valley of the Zambezi river." },
     facts: {
       de: ["Grenznah.", "Wichtige Lebenszone."],
-      hu: ["Hat·rkˆzeli.", "Fontos ÈlettÈr."],
+      hu: ["Hat√°rk√∂zeli.", "Fontos √©lett√©r."],
       ro: ["Aproape de frontiera.", "Zona vitala."],
       en: ["Near the border.", "Important life zone."]
     }
@@ -287,11 +287,11 @@ export const poiExtraAngolaReliefV2: POI[] = [
     parent: "AO-HUI",
     coords: [13.3, -15.1],
     name: { de: "Tundavala", hu: "Tundavala", ro: "Tundavala", en: "Tundavala" },
-    description: { de: "Steilabbruch bei Lubango.", hu: "Merdek szakadÈk Lubango kˆzelÈben.", ro: "Prapastie abrupta l‚nga Lubango.", en: "Steep escarpment near Lubango." },
+    description: { de: "Steilabbruch bei Lubango.", hu: "Merdek szakad√©k Lubango k√∂zel√©ben.", ro: "Prapastie abrupta l√¢nga Lubango.", en: "Steep escarpment near Lubango." },
     facts: {
-      de: ["Spektakul‰rer Abgrund.", "Sehr hoch."],
-      hu: ["L·tv·nyos szakadÈk.", "Nagyon magas."],
-      ro: ["Abis spectaculos.", "Foarte Ónalt."],
+      de: ["Spektakul√§rer Abgrund.", "Sehr hoch."],
+      hu: ["L√°tv√°nyos szakad√©k.", "Nagyon magas."],
+      ro: ["Abis spectaculos.", "Foarte √Ænalt."],
       en: ["Spectacular abyss.", "Very high."]
     }
   },
@@ -300,11 +300,11 @@ export const poiExtraAngolaReliefV2: POI[] = [
     type: "relief",
     parent: "AO-HUI",
     coords: [13.5, -15.0],
-    name: { de: "Humpata-Hochland", hu: "Humpata-felfˆld", ro: "Podi?ul Humpata", en: "Humpata Plateau" },
-    description: { de: "K¸hles Hochland.", hu: "Huvˆs felfˆld.", ro: "Podi? racoros.", en: "Cool highland." },
+    name: { de: "Humpata-Hochland", hu: "Humpata-felf√∂ld", ro: "Podi?ul Humpata", en: "Humpata Plateau" },
+    description: { de: "K√ºhles Hochland.", hu: "Huv√∂s felf√∂ld.", ro: "Podi? racoros.", en: "Cool highland." },
     facts: {
-      de: ["G¸nstiges Klima.", "Touristisch bekannt."],
-      hu: ["Kedvezo Èghajlat.", "Turisztikailag ismert."],
+      de: ["G√ºnstiges Klima.", "Touristisch bekannt."],
+      hu: ["Kedvezo √©ghajlat.", "Turisztikailag ismert."],
       ro: ["Clima favorabila.", "Cunoscut turistic."],
       en: ["Favorable climate.", "Known for tourism."]
     }
@@ -315,11 +315,11 @@ export const poiExtraAngolaReliefV2: POI[] = [
     parent: "AO-MOX",
     coords: [20.0, -12.5],
     name: { de: "Mochico", hu: "Mochico", ro: "Mochico", en: "Mochico" },
-    description: { de: "Erhebung im Osten.", hu: "Emelkedo keleten.", ro: "Eleva?ie Ón est.", en: "Elevation in the east." },
+    description: { de: "Erhebung im Osten.", hu: "Emelkedo keleten.", ro: "Eleva?ie √Æn est.", en: "Elevation in the east." },
     facts: {
       de: ["Flache Gipfel.", "Savannen-Landschaft."],
-      hu: ["Lapos cs˙csok.", "Szavann·s t·j."],
-      ro: ["V‚rfuri plate.", "Peisaj de savana."],
+      hu: ["Lapos cs√∫csok.", "Szavann√°s t√°j."],
+      ro: ["V√¢rfuri plate.", "Peisaj de savana."],
       en: ["Flat peaks.", "Savannah landscape."]
     }
   },
@@ -328,11 +328,11 @@ export const poiExtraAngolaReliefV2: POI[] = [
     type: "relief",
     parent: "AO-LNO",
     coords: [19.5, -8.5],
-    name: { de: "Lunda-Hochland", hu: "Lunda-felfˆld", ro: "Podi?ul Lunda", en: "Lunda Plateau" },
-    description: { de: "Weite Hochebene.", hu: "SzÈles fennsÌk.", ro: "Podi? vast.", en: "Vast plateau." },
+    name: { de: "Lunda-Hochland", hu: "Lunda-felf√∂ld", ro: "Podi?ul Lunda", en: "Lunda Plateau" },
+    description: { de: "Weite Hochebene.", hu: "Sz√©les fenns√≠k.", ro: "Podi? vast.", en: "Vast plateau." },
     facts: {
       de: ["Diamantenvorkommen.", "Wichtiges Relief."],
-      hu: ["GyÈm·ntlelohelyek.", "Fontos domborzati elem."],
+      hu: ["Gy√©m√°ntlelohelyek.", "Fontos domborzati elem."],
       ro: ["Zacaminte de diamante.", "Element de relief important."],
       en: ["Diamond deposits.", "Important relief element."]
     }
@@ -342,11 +342,11 @@ export const poiExtraAngolaReliefV2: POI[] = [
     type: "relief",
     parent: "AO-BIE",
     coords: [17.0, -11.5],
-    name: { de: "Oberes Cuanza-Tal", hu: "Felso-Cuanza-vˆlgy", ro: "Valea superioara a Cuanzei", en: "Upper Cuanza Valley" },
+    name: { de: "Oberes Cuanza-Tal", hu: "Felso-Cuanza-v√∂lgy", ro: "Valea superioara a Cuanzei", en: "Upper Cuanza Valley" },
     description: { de: "Ursprung des Cuanza.", hu: "A Cuanza eredete.", ro: "Originea Cuanzei.", en: "Origin of the Cuanza." },
     facts: {
-      de: ["H¸geliges Gel‰nde.", "Viele Quellen."],
-      hu: ["Dombos terep.", "Sok forr·s."],
+      de: ["H√ºgeliges Gel√§nde.", "Viele Quellen."],
+      hu: ["Dombos terep.", "Sok forr√°s."],
       ro: ["Teren deluros.", "Multe izvoare."],
       en: ["Hilly terrain.", "Many springs."]
     }

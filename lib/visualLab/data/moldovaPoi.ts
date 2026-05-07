@@ -221,7 +221,7 @@ export const moldovaPoi: POI[] = [
       ro: [
         "Biserica Sfântul Dumitru din centrul orașului este reprezentată pe bancnota de 5 lei moldovenești.",
         "Este unul dintre puținele orașe din țară care se mândrește cu transport public complet gratuit pentru localnici.",
-        "În apropierea orașului se află uriașul parc de distracții „OrheiLand”, vizitat anual de mii de copii.",
+        "În apropierea orașului se află uriașul parc de distracții \\\"OrheiLand\\\", vizitat anual de mii de copii.",
         "Istoria orașului medieval Orheiul Vechi (situat la câțiva kilometri distanță) este legată intrinsec de orașul modern."
       ],
       en: [

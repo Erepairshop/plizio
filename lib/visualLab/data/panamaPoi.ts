@@ -131,8 +131,8 @@ export const panamaCities: POI[] = [
     description: { de: "Hauptstadt der Provinz Herrera, bekannt für ihre Festivals.", hu: "Herrera tartomány fővárosa, mely fesztiváljairól ismert.", ro: "Capitala provinciei Herrera, cunoscută pentru festivalurile sale.", en: "Capital of Herrera province, known for its local festivals." },
     descriptionAdvanced: {
       de: "Chitré ist eine lebhafte Stadt auf der Azuero-Halbinsel und bekannt als 'die Stadt, die alleine wächst'. Sie ist ein kulturelles Herzstück Panamas, berühmt für ihre tief verwurzelten Traditionen, farbenfrohen Festivals wie den Karneval und die lokale Keramikherstellung.",
-      hu: "Chitré egy élénk város az Azuero-félszigeten, amelyet „a város, amely magától nő” néven ismernek. Panama egyik kulturális központja, amely mélyen gyökerező hagyományairól, színes fesztiváljairól (például a karneválról) és a helyi kerámiakészítésről híres.",
-      ro: "Chitré este un oraș vibrant situat în Peninsula Azuero, cunoscut drept „orașul care crește singur”. Este o inimă culturală a Panama, renumită pentru tradițiile sale profunde, festivalurile colorate precum Carnavalul și producția locală de ceramică.",
+      hu: "Chitré egy élénk város az Azuero-félszigeten, amelyet \\\"a város, amely magától nő\\\" néven ismernek. Panama egyik kulturális központja, amely mélyen gyökerező hagyományairól, színes fesztiváljairól (például a karneválról) és a helyi kerámiakészítésről híres.",
+      ro: "Chitré este un oraș vibrant situat în Peninsula Azuero, cunoscut drept \\\"orașul care crește singur\\\". Este o inimă culturală a Panama, renumită pentru tradițiile sale profunde, festivalurile colorate precum Carnavalul și producția locală de ceramică.",
       en: "Chitré is a vibrant city on the Azuero Peninsula, known as 'the city that grows on its own.' It is a cultural heart of Panama, famous for its deep-rooted traditions, colorful festivals like Carnival, and local pottery making."
     },
     facts: {
@@ -490,8 +490,8 @@ export const panamaLandmarks: POI[] = [
     },
     factsAdvanced: {
       de: ["Der Ort wird oft als 'Tal des ewigen Frühlings' bezeichnet.", "Hier findet jährlich die berühmte Blumen- und Kaffeemesse statt.", "Boquete ist ein beliebtes Ziel für Expats aus aller Welt."],
-      hu: ["A helyet gyakran az „örök tavasz völgyének” nevezik.", "Minden évben itt rendezik meg a híres Virág- és Kávéfesztivált.", "Boquete a világ minden tájáról érkező külföldiek kedvelt lakóhelye."],
-      ro: ["Localitatea este adesea numită „Valea primăverii eterne”.", "Aici are loc anual celebrul Târg de Flori și Cafea.", "Boquete este o destinație populară pentru expați din întreaga lume."],
+      hu: ["A helyet gyakran az \\\"örök tavasz völgyének\\\" nevezik.", "Minden évben itt rendezik meg a híres Virág- és Kávéfesztivált.", "Boquete a világ minden tájáról érkező külföldiek kedvelt lakóhelye."],
+      ro: ["Localitatea este adesea numită \\\"Valea primăverii eterne\\\".", "Aici are loc anual celebrul Târg de Flori și Cafea.", "Boquete este o destinație populară pentru expați din întreaga lume."],
       en: ["The town is often called the 'Valley of the Eternal Spring.'", "It hosts the famous annual Flower and Coffee Festival.", "Boquete is a top destination for expatriates from all over the world."]
     },
     historyYear: 1911, image: "/poi-images/pa-boquete.webp"},
@@ -633,7 +633,7 @@ export const panamaLandmarks: POI[] = [
     parent: "PA", 
     coords: [-79.5583, 8.8000], 
     name: { de: "Insel Taboga", hu: "Taboga-sziget", ro: "Insula Taboga", en: "Taboga Island" }, 
-    description: { de: "Bekannt als die 'Insel der Blumen', ein beliebtes Ausflugsziel nahe Panama-Stadt.", hu: "A „virágok szigeteként” ismert népszerű kirándulóhely Panamaváros közelében.", ro: "Cunoscută sub numele de „Insula Florilor”, o destinație populară lângă Panama City.", en: "Known as the 'Island of Flowers', a popular getaway near Panama City." },
+    description: { de: "Bekannt als die 'Insel der Blumen', ein beliebtes Ausflugsziel nahe Panama-Stadt.", hu: "A \\\"virágok szigeteként\\\" ismert népszerű kirándulóhely Panamaváros közelében.", ro: "Cunoscută sub numele de \\\"Insula Florilor\\\", o destinație populară lângă Panama City.", en: "Known as the 'Island of Flowers', a popular getaway near Panama City." },
     descriptionAdvanced: {
       de: "Taboga ist eine charmante, autofreie Insel im Golf von Panama, nur eine kurze Fährfahrt von der Hauptstadt entfernt. Sie ist bekannt für ihre üppige Vegetation, ihre bunte Architektur und ihre geschichtsträchtige Vergangenheit, die bis in die frühe Kolonialzeit zurückreicht.",
       hu: "Taboga egy bájos, autómentes sziget a Panamai-öbölben, csak egy rövid kompútra a fővárostól. Lush növényzetéről, színes építészetéről és gazdag történelmi múltjáról ismert, amely a korai gyarmati időkig nyúlik vissza.",
@@ -675,8 +675,8 @@ export const panamaLandmarks: POI[] = [
     },
     factsAdvanced: {
       de: ["Das Gebiet ist berühmt für den 'Darién Gap', die einzige Lücke in der Panamericana.", "Hier leben die indigenen Völker der Emberá und Wounaan.", "Der Park umfasst eine enorme Vielfalt an Ökosystemen, von Bergen bis zu Sümpfen."],
-      hu: ["A terület a „Darién Gap”-ről híres, amely a Pánamerikai autópálya egyetlen szakasza.", "Itt élnek az emberá és wounaan őslakos népek.", "A park az ökoszisztémák hatalmas változatosságát öleli fel a hegyektől a mocsarakig."],
-      ro: ["Zona este renumită pentru „Darién Gap”, singura întrerupere a autostrăzii Pan-Americane.", "Aici trăiesc popoarele indigene Emberá și Wounaan.", "Parcul cuprinde o varietate enormă de ecosisteme, de la munți la mlaștini."],
+      hu: ["A terület a \\\"Darién Gap\\\"-ről híres, amely a Pánamerikai autópálya egyetlen szakasza.", "Itt élnek az emberá és wounaan őslakos népek.", "A park az ökoszisztémák hatalmas változatosságát öleli fel a hegyektől a mocsarakig."],
+      ro: ["Zona este renumită pentru \\\"Darién Gap\\\", singura întrerupere a autostrăzii Pan-Americane.", "Aici trăiesc popoarele indigene Emberá și Wounaan.", "Parcul cuprinde o varietate enormă de ecosisteme, de la munți la mlaștini."],
       en: ["The area is home to the 'Darien Gap,' the only break in the Pan-American Highway.", "It is inhabited by the indigenous Emberá and Wounaan peoples.", "The park encompasses a vast array of ecosystems, from highlands to coastal swamps."]
     },
     area: 5790, image: "/poi-images/pa-darien.webp"},
@@ -727,8 +727,8 @@ export const panamaLandmarks: POI[] = [
     },
     factsAdvanced: {
       de: ["Hier lebt der seltene goldene Frosch Panamas.", "Der Ort ist berühmt für seine quadratischen Bäume in der Umgebung.", "Wanderungen zum 'Schlafenden Indianer' (La India Dormida) bieten tolle Ausblicke."],
-      hu: ["Itt él Panama ritka aranybékája.", "A település híres a környéken található „négyszögletes fákról”.", "A „Sleeping Indian” (La India Dormida) túra nagyszerű kilátást kínál."],
-      ro: ["Aici trăiește rara broască aurie din Panama.", "Localitatea este celebră pentru „copacii pătrați” din zonă.", "Drumețiile către „Indianca Adormită” (La India Dormida) oferă vederi superbe."],
+      hu: ["Itt él Panama ritka aranybékája.", "A település híres a környéken található \\\"négyszögletes fákról\\\".", "A \\\"Sleeping Indian\\\" (La India Dormida) túra nagyszerű kilátást kínál."],
+      ro: ["Aici trăiește rara broască aurie din Panama.", "Localitatea este celebră pentru \\\"copacii pătrați\\\" din zonă.", "Drumețiile către \\\"Indianca Adormită\\\" (La India Dormida) oferă vederi superbe."],
       en: ["The area is the last natural habitat of the rare Panamanian Golden Frog.", "It is home to the mysterious 'square trees' found in the nearby forest.", "Hiking the 'Sleeping Indian' (La India Dormida) ridge offers spectacular valley views."]
     },
     area: 34, image: "/poi-images/pa-anton-valley.webp"},

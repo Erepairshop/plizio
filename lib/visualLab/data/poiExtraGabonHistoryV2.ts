@@ -187,7 +187,14 @@ export const poiExtraGabonHistoryV2: POI[] = [
       hu: "Az első francia erőd helyszíne Gabonban, amely alapul szolgált Libreville megalapításához.",
       ro: "Locul primei fortărețe franceze din Gabon, care a pus bazele fondării orașului Libreville.",
       en: "The site of the first French fort in Gabon, which laid the foundation for the establishment of Libreville."
+    ,
+    descriptionAdvanced: {
+      de: "Fort Aumale war ein militärischer Stützpunkt, der die französischen Interessen an der Küste Gabuns sichern sollte. Das Fort war strategisch wichtig, um den Seehandel zu kontrollieren und Ansprüche gegen Konkurrenten zu behaupten. Über die Jahrzehnte hinweg wandelte sich die Funktion des Forts von einem militärischen Bollwerk zu einem Verwaltungszentrum. Heute sind die Überreste des Forts ein wichtiger Ort, um die koloniale Strategie Frankreichs in Zentralafrika nachzuvollziehen. Geschichte K8 — Militär und Kolonialmacht."
     },
+    factsAdvanced: {
+      de: ["Fort Aumale diente dem Schutz französischer Interessen.", "Es war strategisch an der Küste platziert.", "Die Hauptfunktion war die Kontrolle des Seehandels.", "Das Fort wandelte sich später zu einem Verwaltungsstandort.", "Die Überreste sind von großer historischer Bedeutung.", "Es ist ein Beispiel kolonialer militärischer Architektur."]
+    }
+  },
     facts: {
       de: ["Gegründet 1843", "Namensgeber der Stadt", "Ehemaliger Militärposten", "Strategische Küstenlage"],
       hu: ["1843-ban alapították", "A város névadója", "Egykori katonai poszt", "Stratégiai tengerparti fekvés"],
@@ -195,9 +202,9 @@ export const poiExtraGabonHistoryV2: POI[] = [
       en: ["Founded in 1843", "Origin of the city's name", "Former military outpost", "Strategic coastal location"]
     },
     descriptionAdvanced: {
-          "de": "Das Fort d’Aumale wurde 1843 als erster französischer Militärstützpunkt in Gabun errichtet und bildet den historischen Kern des heutigen Libreville. Dieser strategische Standort sicherte den französischen Einfluss an der Küste und diente als Ausgangspunkt für die Handelsbeziehungen mit den lokalen Stämmen. Für K7-Schüler bietet die Analyse dieses Forts ein klares Verständnis für die koloniale Expansion und ihre Auswirkungen auf die Stadtentwicklung von Libreville.",
-          "hu": "A Fort d’Aumale-t 1843-ban alapították, mint az első francia katonai támaszpontot Gabonban, és ez alkotja a mai Libreville történelmi magját. Ez a stratégiai pont biztosította a francia befolyást a tengerparton, és kiindulópontként szolgált a helyi törzsekkel folytatott kereskedelmi kapcsolatokhoz. A K7-es diákok számára ennek az erődnek az elemzése világosan szemlélteti a gyarmati terjeszkedést és annak hatásait Libreville városfejlődésére.",
-          "ro": "Fortul d’Aumale a fost construit în 1843 ca prima bază militară franceză din Gabon și formează nucleul istoric al orașului Libreville de astăzi. Acest punct strategic a securizat influența franceză pe coastă și a servit ca punct de plecare pentru relațiile comerciale cu triburile locale. Pentru elevii de K7, analiza acestui fort oferă o înțelegere clară a expansiunii coloniale și a impactului acesteia asupra dezvoltării orașului Libreville.",
+          "de": "Das Fort d'Aumale wurde 1843 als erster französischer Militärstützpunkt in Gabun errichtet und bildet den historischen Kern des heutigen Libreville. Dieser strategische Standort sicherte den französischen Einfluss an der Küste und diente als Ausgangspunkt für die Handelsbeziehungen mit den lokalen Stämmen. Für K7-Schüler bietet die Analyse dieses Forts ein klares Verständnis für die koloniale Expansion und ihre Auswirkungen auf die Stadtentwicklung von Libreville.",
+          "hu": "A Fort d'Aumale-t 1843-ban alapították, mint az első francia katonai támaszpontot Gabonban, és ez alkotja a mai Libreville történelmi magját. Ez a stratégiai pont biztosította a francia befolyást a tengerparton, és kiindulópontként szolgált a helyi törzsekkel folytatott kereskedelmi kapcsolatokhoz. A K7-es diákok számára ennek az erődnek az elemzése világosan szemlélteti a gyarmati terjeszkedést és annak hatásait Libreville városfejlődésére.",
+          "ro": "Fortul d'Aumale a fost construit în 1843 ca prima bază militară franceză din Gabon și formează nucleul istoric al orașului Libreville de astăzi. Acest punct strategic a securizat influența franceză pe coastă și a servit ca punct de plecare pentru relațiile comerciale cu triburile locale. Pentru elevii de K7, analiza acestui fort oferă o înțelegere clară a expansiunii coloniale și a impactului acesteia asupra dezvoltării orașului Libreville.",
           "en": "Fort d'Aumale was built in 1843 as the first French military base in Gabon and forms the historical core of modern-day Libreville. This strategic location secured French influence on the coast and served as a starting point for trade relations with local tribes. For K7 students, the analysis of this fort provides a clear understanding of colonial expansion and its impact on the urban development of Libreville."
     },
     factsAdvanced: {
@@ -245,7 +252,14 @@ export const poiExtraGabonHistoryV2: POI[] = [
       hu: "Az egyik legrégebbi missziós állomás a Komo folyó mentén, a gaboni keresztény történelem szimbóluma.",
       ro: "Unul dintre cele mai vechi posturi misionare de pe râul Komo, un simbol al istoriei creștine în Gabon.",
       en: "One of the oldest mission outposts on the Komo River, a symbol of Christian history in Gabon."
+    ,
+    descriptionAdvanced: {
+      de: "Die Donguila-Mission, gelegen am Fluss Komo, ist ein weiteres bedeutendes historisches Zeugnis der Missionierungsgeschichte in Gabun. Die Station war für ihre landwirtschaftlichen Projekte bekannt, bei denen europäische Methoden eingeführt wurden, die den lokalen Anbau nachhaltig veränderten. Neben der religiösen Arbeit leistete die Mission Pionierarbeit in der medizinischen Versorgung und Ausbildung der lokalen Bevölkerung. Die Mission ist ein wichtiger Ort, um den Einfluss der Missionare auf den Alltag im Hinterland zu verstehen. Geschichte K7 — Alltag in der Kolonialzeit."
     },
+    factsAdvanced: {
+      de: ["Donguila liegt am Fluss Komo.", "Die Mission war für ihre Landwirtschaftsprojekte bekannt.", "Sie spielte eine Rolle in der medizinischen Versorgung.", "Die Mission beeinflusste lokale Anbaumethoden nachhaltig.", "Sie war eine wichtige Bildungsstation im Landesinneren.", "Die Architektur zeugt vom kolonialen Erbe."]
+    }
+  },
     facts: {
       de: ["Gegründet im 19. Jahrhundert", "Blick auf das Ästuar", "Historisches Internat", "Koloniale Architektur"],
       hu: ["19. századi alapítás", "Kilátás az esztuárra", "Történelmi internátus", "Gyarmati építészet"],
@@ -303,7 +317,14 @@ export const poiExtraGabonHistoryV2: POI[] = [
       hu: "A transzatlanti rabszolga-kereskedelem egyik jelentős helyszíne Afrika nyugati partján.",
       ro: "Un sit semnificativ al comerțului transatlantic cu sclavi de pe coasta de vest a Africii.",
       en: "A significant site of the trans-Atlantic slave trade on the west coast of Africa."
+    ,
+    descriptionAdvanced: {
+      de: "Cap Lopez war in der Vergangenheit ein bedeutender Knotenpunkt für den transatlantischen Sklavenhandel. Die geografische Lage am Atlantik machte den Ort zu einem der meistgenutzten Stützpunkte für den Abtransport von Menschen. Die Ruinen und die historische Aufarbeitung dieses Ortes sind heute ein Mahnmal für das dunkle Kapitel der Geschichte Gabuns. Die Auseinandersetzung mit dieser Vergangenheit ist wichtig für das kollektive Gedächtnis des Landes und den internationalen Dialog. Geschichte K8 — Kolonialgeschichte und Sklaverei."
     },
+    factsAdvanced: {
+      de: ["Cap Lopez war ein zentraler Hafen im Sklavenhandel.", "Die geografische Lage begünstigte den maritimen Transport.", "Historische Dokumente belegen die Bedeutung als Sklavenstützpunkt.", "Der Ort erinnert an die Opfer der Sklaverei.", "Die historische Aufarbeitung erfolgt heute als Mahnmal.", "Das Erbe ist ein fester Bestandteil der Geschichte Gabuns."]
+    }
+  },
     facts: {
       de: ["Ehemaliger Sklavenmarkt", "Westlichster Punkt", "Historischer Handelsplatz", "Gedenkstätte"],
       hu: ["Egykori rabszolgapiac", "Legnyugatibb pont", "Történelmi kereskedelmi hely", "Emlékhely"],
@@ -358,7 +379,14 @@ export const poiExtraGabonHistoryV2: POI[] = [
       hu: "Régészetileg jelentős barlangok, amelyek prehisztorikus emberi jelenlét nyomait őrzik.",
       ro: "Peșteri importante din punct de vedere arheologic, care adăpostesc urme de locuire umană din vremuri preistorice.",
       en: "Archaeologically significant caves housing traces of human habitation from prehistoric times."
+    ,
+    descriptionAdvanced: {
+      de: "Die Höhlen von Lastoursville sind nicht nur geologische Naturwunder, sondern haben auch eine historische Dimension. Sie dienten über Jahrhunderte hinweg als Zufluchtsort für die lokale Bevölkerung vor Konflikten und kolonialen Übergriffen. Archäologische Funde innerhalb der Höhlensysteme deuten darauf hin, dass sie auch für rituelle Zwecke genutzt wurden. Diese tiefe kulturelle Verankerung macht die Höhlen zu einem bedeutenden historischen Ort, der die Überlebensstrategien und die spirituelle Welt der Menschen in Gabun verdeutlicht. Geschichte K7 — Kulturelle Geschichte und Widerstand."
     },
+    factsAdvanced: {
+      de: ["Die Höhlen dienten als historischer Zufluchtsort.", "Sie boten Schutz vor Konflikten und Kolonialmächten.", "Archäologische Funde deuten auf rituelle Nutzungen hin.", "Die Höhlen haben eine tiefgehende kulturelle Bedeutung.", "Sie verdeutlichen historische Überlebensstrategien.", "Das System ist ein nationales kulturelles Erbe."]
+    }
+  },
     facts: {
       de: ["Prähistorische Funde", "Kalksteinformationen", "Bedeutend für Archäologen", "Frühe Besiedlung"],
       hu: ["Prehisztorikus leletek", "Mészkő képződmények", "Fontos régészeti lelőhely", "Korai betelepülés"],
@@ -394,7 +422,14 @@ export const poiExtraGabonHistoryV2: POI[] = [
       hu: "Francia-Kongó idejéből származó történelmi közigazgatási épületek Gabon keleti részén.",
       ro: "Clădiri administrative istorice din perioada Congoului Francez în estul Gabonului.",
       en: "Historic administrative buildings from the time of French Congo in eastern Gabon."
+    ,
+    descriptionAdvanced: {
+      de: "Die Geschichte von Franceville ist eng mit der französischen Kolonialexpansion durch Pierre Savorgnan de Brazza verbunden. Als wichtiger Knotenpunkt im Landesinneren diente die Stadt als Stützpunkt für die weitere Erschließung Zentralafrikas. Die Stadtplanung und viele der frühen Gebäude aus der Kolonialzeit zeugen von der Bedeutung, die Franceville als administratives Zentrum hatte. Heute ist die Stadt eine moderne Metropole, die ihre historische Rolle bei der Erschließung Gabuns aktiv pflegt. Geschichte K8 — Kolonialgeschichte und Städtebau."
     },
+    factsAdvanced: {
+      de: ["Die Stadt wurde im Kontext der Expansion de Brazzas gegründet.", "Franceville war ein zentraler Stützpunkt im Landesinneren.", "Sie spielte eine Rolle bei der Erschließung Zentralafrikas.", "Die Stadtplanung ist stark von der Kolonialära beeinflusst.", "Franceville pflegt sein kolonialhistorisches Erbe.", "Die Stadt entwickelte sich zu einem bedeutenden Verwaltungszentrum."]
+    }
+  },
     facts: {
       de: ["Gegründet 1880", "Pierre de Brazzas Einfluss", "Ostwärts-Expansion", "Kolonialer Baustil"],
       hu: ["1880-ban alapították", "Pierre de Brazza hatása", "Keleti irányú terjeszkedés", "Gyarmati építészeti stílus"],
@@ -430,7 +465,14 @@ export const poiExtraGabonHistoryV2: POI[] = [
       hu: "Egyenlítői-Afrika egyik első protestáns missziója, ma Libreville egyik történelmi negyede.",
       ro: "Una dintre primele misiuni protestante din Africa Ecuatorială, astăzi un cartier istoric din Libreville.",
       en: "One of the first Protestant missions in Equatorial Africa, now a historic district of Libreville."
+    ,
+    descriptionAdvanced: {
+      de: "Die Baraka-Mission in Libreville ist eine der ältesten christlichen Missionsstationen in Gabun und wurde im 19. Jahrhundert gegründet. Sie spielte eine entscheidende Rolle bei der Etablierung des westlichen Bildungswesens und der Verbreitung des Christentums in der Region Estuaire. Die Mission diente zudem als Zufluchtsort für befreite Sklaven und war ein wichtiger sozialer Knotenpunkt während der Kolonialzeit. Heute zeugt das Gelände von der komplexen Begegnungsgeschichte zwischen Europa und Gabun. Geschichte K8 — Missionierung und Bildung."
     },
+    factsAdvanced: {
+      de: ["Die Mission wurde im 19. Jahrhundert in Libreville gegründet.", "Sie war eine wichtige Bildungseinrichtung der Kolonialzeit.", "Die Mission diente als Zufluchtsort für befreite Sklaven.", "Sie prägte die soziale Struktur in der Region Estuaire.", "Die Baraka-Mission ist ein historisches Zeugnis der Missionierung.", "Das Gelände ist heute ein Ort kultureller Erinnerung."]
+    }
+  },
     facts: {
       de: ["Gegründet 1842", "Protestantisches Zentrum", "Ältester Teil von Libreville", "Bildungserbe"],
       hu: ["1842-ben alapították", "Protestáns központ", "Libreville legrégebbi része", "Oktatási örökség"],
@@ -468,7 +510,14 @@ export const poiExtraGabonHistoryV2: POI[] = [
       hu: "Történelmi negyedek a 19. századi kereskedelmi korszak épületeivel az Ogooué folyó mentén.",
       ro: "Cartiere istorice cu clădiri din perioada comercială a secolului al XIX-lea de pe râul Ogooué.",
       en: "Historic quarters with buildings from the 19th-century trading era on the Ogooué River."
+    ,
+    descriptionAdvanced: {
+      de: "Das historische Viertel von Lambaréné am Ufer des Ogooué spiegelt das Leben der frühen Handels- und Missionszeit wider. Mit seinen traditionellen Gebäuden und der Lage am Fluss ist es ein einzigartiger Ort, um die Atmosphäre der frühen Kolonialzeit zu spüren. Lambaréné war ein Schmelztiegel der Kulturen, in dem Händler, Missionare und die lokale Bevölkerung zusammentrafen. Das historische Erbe ist heute Teil eines Bestrebens, die Geschichte des Handels und der medizinischen Versorgung in der Region für kommende Generationen zu bewahren. Geschichte K7 — Regionale Handelsgeschichte."
     },
+    factsAdvanced: {
+      de: ["Das alte Viertel von Lambaréné liegt am Fluss Ogooué.", "Es spiegelt das Leben der Handels- und Missionszeit wider.", "Lambaréné war ein kultureller Schmelztiegel.", "Traditionelle Architektur ist in diesem Teil gut erhalten.", "Der Ort erinnert an die Handelsgeschichte am Ogooué.", "Das historische Erbe wird heute aktiv geschützt."]
+    }
+  },
     facts: {
       de: ["Koloniale Handelsarchitektur", "Am Flussufer", "Relikte der Fischerei", "Lokale Geschichte"],
       hu: ["Gyarmati kereskedelmi építészet", "A folyóparton", "Halászati relikviák", "Helyi történelem"],
@@ -486,7 +535,14 @@ export const poiExtraGabonHistoryV2: POI[] = [
       hu: "Emlékmű Jacques de Lastours tiszteletére, aki francia kutató volt Közép-Gabonban.",
       ro: "Un monument în cinstea lui Jacques de Lastours, un explorator francez în centrul Gabonului.",
       en: "A monument in honor of Jacques de Lastours, a French explorer in central Gabon."
+    ,
+    descriptionAdvanced: {
+      de: "Das Lastour-Denkmal erinnert an François Lastour, einen französischen Entdecker und Händler, der die Region um den Ogooué maßgeblich prägte. Das Denkmal steht als Symbol für die Zeit, in der Entdecker wie er das Landesinnere Gabuns für den europäischen Handel öffneten. Diese Ära war geprägt von Entdeckung und gleichzeitigem Beginn der kolonialen Durchdringung. Das Memorial ist heute ein Ort, an dem die komplexe Geschichte der Entdeckung und Besiedlung reflektiert wird. Geschichte K8 — Entdeckungsgeschichte und Kolonialzeit."
     },
+    factsAdvanced: {
+      de: ["Das Denkmal erinnert an François Lastour.", "Lastour war ein zentraler Akteur im Handel am Ogooué.", "Es symbolisiert die Zeit der geografischen Entdeckungen.", "Die Ära markierte den Beginn der kolonialen Durchdringung.", "Das Memorial dient der Reflexion historischer Abläufe.", "Die Geschichte um Lastour prägte die Region Lastoursville."]
+    }
+  },
     facts: {
       de: ["Gedenken an Entdecker", "In Lastoursville", "Teil der Kolonialgeschichte", "Regionaler Namensgeber"],
       hu: ["A felfedező emlékezete", "Lastoursville-ben", "A gyarmati történelem része", "Regionális névadó"],
@@ -522,7 +578,14 @@ export const poiExtraGabonHistoryV2: POI[] = [
       hu: "Egykori kereskedelmi állomás és missziós terület a tengerparti lagúnánál.",
       ro: "O fostă stație comercială și zonă de misiune pe laguna de coastă.",
       en: "A former trading post and mission area on the coastal lagoon."
+    ,
+    descriptionAdvanced: {
+      de: "Die Region um Fernand-Vaz war während der Kolonialzeit ein bedeutendes Zentrum für den Handel mit Elfenbein und Kautschuk. Die hier errichteten Handelsstationen und Kolonialgebäude zeugen vom wirtschaftlichen Interesse der europäischen Mächte an Gabuns Ressourcen. Fernand-Vaz war zudem Ausgangspunkt zahlreicher Expeditionen in das unerschlossene Hinterland. Heute ist das Gebiet für seine Natur und seine historische Bedeutung bekannt, wobei das koloniale Erbe in Form von Ruinen und architektonischen Fragmenten erhalten geblieben ist. Geschichte K7 — Kolonialökonomie."
     },
+    factsAdvanced: {
+      de: ["Fernand-Vaz war ein Zentrum des Elfenbein- und Kautschukhandels.", "Es diente als Ausgangsbasis für Expeditionen.", "Das Gebiet beherbergt wichtige historische Handelsstationen.", "Die Architektur spiegelt den kolonialen wirtschaftlichen Fokus wider.", "Fernand-Vaz ist heute auch ein Naturparadies.", "Historische Ruinen zeugen vom wirtschaftlichen Boom der Ära."]
+    }
+  },
     facts: {
       de: ["Historischer Handel", "Religiöser Ursprung", "Küstenentwicklung", "Europäischer Einfluss"],
       hu: ["Történelmi kereskedelem", "Vallási eredet", "Tengerparti fejlesztés", "Európai hatás"],
@@ -558,7 +621,14 @@ export const poiExtraGabonHistoryV2: POI[] = [
       hu: "Régészeti lelőhelyek az Ogooué folyó mentén, amelyek a korai közép-afrikai vasmegmunkálási technikákat bizonyítják.",
       ro: "Situri arheologice de pe râul Ogooué care dovedesc tehnici timpurii de prelucrare a fierului în Africa Centrală.",
       en: "Archaeological sites on the Ogooué River proving early ironworking techniques in Central Africa."
+    ,
+    descriptionAdvanced: {
+      de: "Im Ogooué-Becken wurden archäologische Stätten entdeckt, die auf eine jahrtausendealte Tradition der Eisenverhüttung hinweisen. Diese Funde sind von herausragender Bedeutung, da sie zeigen, dass Gabun ein Zentrum metallurgischer Innovationen in Zentralafrika war. Die Fähigkeit, Eisen zu verhütten, veränderte die sozialen und wirtschaftlichen Strukturen der frühen Gemeinschaften radikal. Diese Geschichte der Metallurgie ist ein wesentlicher Teil des kulturellen Erbes Gabuns. Geschichte K7 — Archäologie und frühe Technologie."
     },
+    factsAdvanced: {
+      de: ["Die Stätten im Ogooué-Becken belegen frühe Eisenmetallurgie.", "Die Tradition reicht Tausende von Jahren zurück.", "Gabun war ein Innovationszentrum für Metalltechnologien.", "Die Verhüttung veränderte die frühen Lebensweisen massiv.", "Archäologische Funde belegen komplexe öfen und Techniken.", "Die Entdeckung ist für die afrikanische Geschichte zentral."]
+    }
+  },
     facts: {
       de: ["Frühe Technologie", "Eisenzeit-Relikte", "Wissenschaftlich wertvoll", "Zentralafrikanische Geschichte"],
       hu: ["Korai technológia", "Vaskori relikviák", "Tudományosan értékes", "Közép-afrikai történelem"],

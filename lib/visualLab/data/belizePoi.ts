@@ -115,7 +115,7 @@ export const belizeCities: POI[] = [
     factsAdvanced: {
       de: ["Der Name Dangriga bedeutet in der Garifuna-Sprache 'stehendes Wasser'.", "Jedes Jahr am 19. November wird hier der Garifuna Settlement Day groß gefeiert.", "Die Stadt ist ein wichtiges Zentrum für bildende Kunst in Belize."],
       hu: ["A Dangriga név garifuna nyelven 'álló vizet' jelent.", "Minden év november 19-én itt ünneplik meg a Garifuna Letelepedés Napját.", "A város a képzőművészet egyik legfontosabb központja Belize-ben."],
-      ro: ["Numele Dangriga înseamnă „apă stătătoare” în limba Garifuna.", "În fiecare an, pe 19 noiembrie, se sărbătorește cu fast Garifuna Settlement Day.", "Orașul este un centru important pentru artele vizuale din Belize."],
+      ro: ["Numele Dangriga înseamnă \\\"apă stătătoare\\\" în limba Garifuna.", "În fiecare an, pe 19 noiembrie, se sărbătorește cu fast Garifuna Settlement Day.", "Orașul este un centru important pentru artele vizuale din Belize."],
       en: ["The name Dangriga translates to 'standing water' in the Garifuna language.", "It hosts the country's largest celebrations for Garifuna Settlement Day each November 19.", "The town is a significant hub for traditional Garifuna painting and art."]
     },
     historyYear: 1802, image: "/poi-images/bz-dangriga.webp"},
@@ -129,13 +129,13 @@ export const belizeCities: POI[] = [
     descriptionAdvanced: {
       de: "San Pedro ist die charmante Hauptstadt von Ambergris Caye und wurde durch Madonnas Song 'La Isla Bonita' weltberühmt. Einst ein ruhiges Fischerdorf, ist es heute das Zentrum des belizischen Tourismus, bekannt für seine Sandstraßen, Golfcarts und die Nähe zum Barrier Reef.",
       hu: "San Pedro az Ambergris Caye bájos fővárosa, amely Madonna 'La Isla Bonita' című dala révén vált világhírűvé. Egykor csendes halászfalu volt, ma pedig a belize-i turizmus központja, híres homokos utcáiról, golfkocsijairól és a közeli korallzátonyról.",
-      ro: "San Pedro este capitala fermecătoare a insulei Ambergris Caye și a devenit celebră în întreaga lume datorită cântecului „La Isla Bonita” al Madonnei. Odată un sat pescăresc liniștit, astăzi este centrul turismului belizean, cunoscut pentru străzile cu nisip și apropierea de recif.",
+      ro: "San Pedro este capitala fermecătoare a insulei Ambergris Caye și a devenit celebră în întreaga lume datorită cântecului \\\"La Isla Bonita\\\" al Madonnei. Odată un sat pescăresc liniștit, astăzi este centrul turismului belizean, cunoscut pentru străzile cu nisip și apropierea de recif.",
       en: "San Pedro is the charming hub of Ambergris Caye, immortalized by Madonna's 'La Isla Bonita.' Once a quiet fishing village, it is now the epicenter of Belizean tourism, famous for its sandy streets, golf cart traffic, and world-class reef access."
     },
     facts: {
       de: ["Auf Ambergris Caye gelegen.", "Inspirierte 'La Isla Bonita'.", "Golfcarts sind Hauptverkehrsmittel.", "Nahe dem Hol Chan Reservat."],
       hu: ["Ambergris Caye szigetén fekszik.", "A 'La Isla Bonita' dalt ihlette.", "A golfkocsi a fő közlekedési eszköz.", "Közel van a Hol Chan rezervátumhoz."],
-      ro: ["Situat pe insula Ambergris Caye.", "A inspirat piesa „La Isla Bonita”.", "Mașinuțele de golf sunt principalul mijloc de transport.", "Aproape de rezervația Hol Chan."],
+      ro: ["Situat pe insula Ambergris Caye.", "A inspirat piesa \\\"La Isla Bonita\\\".", "Mașinuțele de golf sunt principalul mijloc de transport.", "Aproape de rezervația Hol Chan."],
       en: ["Located on Ambergris Caye.", "Inspired the song 'La Isla Bonita'.", "Golf carts are the primary mode of transport.", "Closest town to the Hol Chan Marine Reserve."]
     },
     factsAdvanced: {
@@ -167,8 +167,8 @@ export const belizeCities: POI[] = [
     },
     factsAdvanced: {
       de: ["Lange Zeit galt der Victoria Peak fälschlicherweise als der höchste Berg.", "Der Name bezieht sich auf das Buch 'The Lost World'.", "Auf dem Gipfel befindet sich ein kleines Hochplateau mit Nebelwald."],
-      hu: ["Sokáig tévesen a Victoria Peaket tartották a legmagasabb hegynek.", "A név az „Az elveszett világ” című könyvre utal.", "A csúcson egy kis fennsík található köderdővel."],
-      ro: ["Mult timp s-a crezut eronat că Victoria Peak este cel mai înalt munte.", "Numele face referire la cartea „O lume dispărută” (The Lost World).", "Pe vârf se află un mic platou cu pădure de nori."],
+      hu: ["Sokáig tévesen a Victoria Peaket tartották a legmagasabb hegynek.", "A név az \\\"Az elveszett világ\\\" című könyvre utal.", "A csúcson egy kis fennsík található köderdővel."],
+      ro: ["Mult timp s-a crezut eronat că Victoria Peak este cel mai înalt munte.", "Numele face referire la cartea \\\"O lume dispărută\\\" (The Lost World).", "Pe vârf se află un mic platou cu pădure de nori."],
       en: ["For many years, Victoria Peak was mistakenly thought to be the highest mountain.", "The name refers to a quote in Arthur Conan Doyle's book 'The Lost World.'", "The summit features a unique cloud forest ecosystem on its high plateau."]
     },
     elevation: 1124, image: "/poi-images/bz-doyles-delight.webp"},
@@ -286,7 +286,7 @@ export const belizeCities: POI[] = [
     descriptionAdvanced: {
       de: "Lubaantun, was 'Ort der gefallenen Steine' bedeutet, ist eine einzigartige Maya-Stätte im Süden von Belize. Die Bauwerke zeichnen sich durch präzise geschliffene Kalksteinblöcke aus, die ohne die Verwendung von Mörtel zusammengefügt wurden, was der Stadt ihr charakteristisches Aussehen verleiht.",
       hu: "Lubaantun, amelynek jelentése 'a kidőlt kövek helye', egy egyedülálló maja lelőhely Belize déli részén. Az építmények precízen megmunkált mészkőtömbökből állnak, amelyeket habarcs használata nélkül illesztettek össze, ez adja a város jellegzetes megjelenését.",
-      ro: "Lubaantun, care înseamnă „locul pietrelor căzute”, este un sit mayaș unic din sudul Belize. Structurile se caracterizează prin blocuri de calcar tăiate cu precizie, îmbinate fără a folosi mortar, ceea ce oferă orașului aspectul său distinctiv.",
+      ro: "Lubaantun, care înseamnă \\\"locul pietrelor căzute\\\", este un sit mayaș unic din sudul Belize. Structurile se caracterizează prin blocuri de calcar tăiate cu precizie, îmbinate fără a folosi mortar, ceea ce oferă orașului aspectul său distinctiv.",
       en: "Lubaantun, meaning 'Place of Fallen Stones,' is a late-classic Maya site in southern Belize. It is famous for its unique dry-stone masonry, where large limestone blocks were precisely fitted together without the use of mortar."
     },
     facts: {
@@ -343,13 +343,13 @@ export const belizeLandmarks: POI[] = [
     descriptionAdvanced: {
       de: "Xunantunich, was 'Steinmetz-Frau' bedeutet, ist eine beeindruckende Maya-Stätte auf einem Bergrücken über dem Mopan River. Das Wahrzeichen ist die 40 Meter hohe Pyramide El Castillo, von deren Gipfel aus man einen weiten Blick bis nach Guatemala hat.",
       hu: "Xunantunich, melynek jelentése 'kőasszony', egy lenyűgöző maja lelőhely a Mopan-folyó feletti dombtetőn. Jelképe a 40 méter magas El Castillo piramis, amelynek tetejéről messze ellátni, egészen Guatemaláig.",
-      ro: "Xunantunich, care înseamnă „femeia de piatră”, este un sit mayaș impresionant situat pe o creastă deasupra râului Mopan. Reperul său este piramida El Castillo, înaltă de 40 de metri, de unde se poate vedea până în Guatemala.",
+      ro: "Xunantunich, care înseamnă \\\"femeia de piatră\\\", este un sit mayaș impresionant situat pe o creastă deasupra râului Mopan. Reperul său este piramida El Castillo, înaltă de 40 de metri, de unde se poate vedea până în Guatemala.",
       en: "Xunantunich, meaning 'Stone Woman,' is a major Maya ceremonial center perched on a ridge above the Mopan River. Its most imposing structure is the 40-meter-tall El Castillo pyramid, offering breathtaking panoramic views into neighboring Guatemala."
     },
     facts: {
       de: ["Höhe von El Castillo: 40 Meter.", "Name bedeutet 'Steinmetz-Frau'.", "Nahe der Grenze zu Guatemala.", "Blütezeit: 600 bis 900 n. Chr."],
       hu: ["Az El Castillo magassága: 40 méter.", "A név jelentése: 'kőasszony'.", "Közel van a guatemalai határhoz.", "Fénykora: i.sz. 600-900 között."],
-      ro: ["Înălțimea El Castillo: 40 metri.", "Numele înseamnă „femeia de piatră”.", "Lângă granița cu Guatemala.", "Perioada de glorie: 600-900 d.Hr."],
+      ro: ["Înălțimea El Castillo: 40 metri.", "Numele înseamnă \\\"femeia de piatră\\\".", "Lângă granița cu Guatemala.", "Perioada de glorie: 600-900 d.Hr."],
       en: ["Height of El Castillo: 40 meters.", "Name translates to 'Stone Woman.'", "Located near the Guatemala border.", "Flourished between 600 and 900 AD."]
     },
     factsAdvanced: {
@@ -371,7 +371,7 @@ export const belizeLandmarks: POI[] = [
     descriptionAdvanced: {
       de: "Altun Ha war ein wichtiges Handels- und Zeremonialzentrum der Maya, nur 50 Kilometer von Belize City entfernt. Die Stätte wurde weltberühmt, als Archäologen hier den 'Jade-Kopf' fanden, das größte aus Jade geschnitzte Artefakt der Maya-Welt.",
       hu: "Altun Ha a maják egyik fontos kereskedelmi és szertartási központja volt, mindössze 50 kilométerre Belize Citytől. A helyszín akkor vált világhírűvé, amikor a régészek megtalálták itt a 'Jade-fejet', a maja világ legnagyobb jádéból faragott leletét.",
-      ro: "Altun Ha a fost un important centru comercial și ceremonial mayaș, situat la doar 50 km de Belize City. Situl a devenit faimos în lume când arheologii au descoperit aici „Capul de Jad”, cel mai mare obiect de jad sculptat din lumea mayașă.",
+      ro: "Altun Ha a fost un important centru comercial și ceremonial mayaș, situat la doar 50 km de Belize City. Situl a devenit faimos în lume când arheologii au descoperit aici \\\"Capul de Jad\\\", cel mai mare obiect de jad sculptat din lumea mayașă.",
       en: "Altun Ha was a vital Maya trading and ceremonial center located just 50 kilometers from Belize City. It gained international fame after the discovery of the 'Jade Head,' the largest carved jade object ever found in the Maya world."
     },
     facts: {
@@ -383,7 +383,7 @@ export const belizeLandmarks: POI[] = [
     factsAdvanced: {
       de: ["Der Jadekopf wiegt fast 4,5 Kilogramm.", "Die Stätte ziert das Logo der bekanntesten Biermarke des Landes (Belikin).", "Altun Ha bedeutet auf Maya 'Wasser des Felsens'."],
       hu: ["A jadefej súlya majdnem 4,5 kilogramm.", "A lelőhely látható az ország legismertebb sörének (Belikin) logóján.", "Altun Ha jelentése maja nyelven: 'a szikla vize'."],
-      ro: ["Capul de jad cântărește aproape 4,5 kilograme.", "Situl apare pe logo-ul celei mai cunoscute mărci de bere (Belikin).", "Altun Ha înseamnă „apa stâncii” în limba mayașă."],
+      ro: ["Capul de jad cântărește aproape 4,5 kilograme.", "Situl apare pe logo-ul celei mai cunoscute mărci de bere (Belikin).", "Altun Ha înseamnă \\\"apa stâncii\\\" în limba mayașă."],
       en: ["The Jade Head weighs nearly 4.5 kilograms and represents the Sun God.", "The site's main temple is featured on the label of Belize's national beer, Belikin.", "The name Altun Ha translates to 'Rockstone Water' in Yucatec Maya."]
     },
     historyYear: -200,
@@ -398,7 +398,7 @@ export const belizeLandmarks: POI[] = [
     descriptionAdvanced: {
       de: "Caracol war einst eine mächtige Maya-Metropole, die in ihrer Blütezeit über 140.000 Einwohner zählte. Die beeindruckende Pyramide 'Caana' (Himmelspalast) ist mit 43 Metern immer noch eines der höchsten Bauwerke in Belize.",
       hu: "Caracol egykor hatalmas maja metropolisz volt, amely fénykorában több mint 140 000 lakossal rendelkezett. A lenyűgöző 'Caana' (Égi palota) piramis 43 méterével ma is Belize egyik legmagasabb építménye.",
-      ro: "Caracol a fost odată o metropolă mayașă puternică, având peste 140.000 de locuitori în perioada sa de glorie. Piramida impresionantă „Caana” (Palatul Cerului) are 43 de metri, fiind încă una dintre cele mai înalte structuri din Belize.",
+      ro: "Caracol a fost odată o metropolă mayașă puternică, având peste 140.000 de locuitori în perioada sa de glorie. Piramida impresionantă \\\"Caana\\\" (Palatul Cerului) are 43 de metri, fiind încă una dintre cele mai înalte structuri din Belize.",
       en: "Caracol was once a massive Maya metropolis, supporting a population of over 140,000 at its peak. Its crown jewel, the 'Caana' (Sky Palace) pyramid, remains one of the tallest man-made structures in Belize at 43 meters."
     },
     facts: {
@@ -410,7 +410,7 @@ export const belizeLandmarks: POI[] = [
     factsAdvanced: {
       de: ["Caracol besiegte im Jahr 562 n. Chr. die mächtige Stadt Tikal.", "Caana bedeutet 'Himmelspalast' und beherbergt vier Paläste.", "Die Stätte wurde erst 1937 von einem Holzfäller wiederentdeckt."],
       hu: ["Caracol i.sz. 562-ben legyőzte a hatalmas Tikalt.", "A Caana jelentése 'égi palota', és négy palotát foglal magában.", "A lelőhelyet csak 1937-ben fedezte fel újra egy fakitermelő."],
-      ro: ["Caracol a învins puternicul oraș Tikal în anul 562 d.Hr.", "Caana înseamnă „Palatul Cerului” și găzduiește patru palate.", "Situl a fost redescoperit abia în 1937 de un tăietor de lemne."],
+      ro: ["Caracol a învins puternicul oraș Tikal în anul 562 d.Hr.", "Caana înseamnă \\\"Palatul Cerului\\\" și găzduiește patru palate.", "Situl a fost redescoperit abia în 1937 de un tăietor de lemne."],
       en: ["Caracol famously defeated the superpower Tikal in a major war in 562 AD.", "The main temple, Caana, contains four distinct palaces and three temples.", "The site was lost to the jungle until its rediscovery by a logger in 1937."]
     },
     historyYear: 600,
@@ -425,13 +425,13 @@ export const belizeLandmarks: POI[] = [
     descriptionAdvanced: {
       de: "Lamanai, was 'untergetauchtes Krokodil' bedeutet, ist eine der am längsten besiedelten Maya-Stätten. Sie liegt am Ufer der New River Lagoon und besticht durch ihre Lage im dichten Dschungel, in dem man oft das Brüllen der Affen hört.",
       hu: "Lamanai, melynek jelentése 'víz alatti krokodil', az egyik leghosszabb ideig lakott maja település. A New River-lagúna partján fekszik, sűrű dzsungellel körülvéve, ahol gyakran hallani a bőgőmajmok üvöltését.",
-      ro: "Lamanai, care înseamnă „crocodil scufundat”, este unul dintre cele mai lungi populate situri mayașe. Este situat pe malul lagunei râului New și impresionează prin locația sa în jungla densă.",
+      ro: "Lamanai, care înseamnă \\\"crocodil scufundat\\\", este unul dintre cele mai lungi populate situri mayașe. Este situat pe malul lagunei râului New și impresionează prin locația sa în jungla densă.",
       en: "Lamanai, meaning 'Submerged Crocodile,' is one of the longest-occupied Maya sites in the region. Situated on the banks of the New River Lagoon, it is famous for its jungle setting and the iconic Mask Temple."
     },
     facts: {
       de: ["Name bedeutet 'Untergetauchtes Krokodil'.", "Direkt an einer Lagune gelegen.", "Erreichbar per Bootssafari.", "Bekannt für den Maskentempel."],
       hu: ["Jelentése: 'víz alatti krokodil'.", "Közvetlenül egy lagúna partján fekszik.", "Folyami hajóval közelíthető meg.", "A Maszkos templomról ismert."],
-      ro: ["Numele înseamnă „crocodil scufundat”.", "Situat direct pe malul unei lagune.", "Accesibil prin safari cu barca.", "Cunoscut pentru Templul Măștilor."],
+      ro: ["Numele înseamnă \\\"crocodil scufundat\\\".", "Situat direct pe malul unei lagune.", "Accesibil prin safari cu barca.", "Cunoscut pentru Templul Măștilor."],
       en: ["Name means 'Submerged Crocodile.'", "Located on the edge of a vast lagoon.", "Best accessed via a scenic boat safari.", "Famous for the ornate Mask Temple."]
     },
     factsAdvanced: {
@@ -452,19 +452,19 @@ export const belizeLandmarks: POI[] = [
     descriptionAdvanced: {
       de: "Caye Caulker ist eine kleine Koralleninsel, deren Motto 'Go Slow' perfekt die entspannte Atmosphäre beschreibt. Hier gibt es keine Autos, nur Sandwege, bunte Häuser und fantastische Möglichkeiten zum Schnorcheln im nahe gelegenen Barrier Reef.",
       hu: "Caye Caulker egy apró korallsziget, amelynek mottója, a 'Go Slow' (lassíts), tökéletesen leírja a nyugodt hangulatot. Itt nincsenek autók, csak homokos utak, színes házak és fantasztikus búvárkodási lehetőségek a közeli zátonynál.",
-      ro: "Caye Caulker este o mică insulă de corali, al cărei motto „Go Slow” descrie perfect atmosfera relaxată. Nu există mașini, doar drumuri de nisip și oportunități fantastice pentru snorkeling la reciful din apropiere.",
+      ro: "Caye Caulker este o mică insulă de corali, al cărei motto \\\"Go Slow\\\" descrie perfect atmosfera relaxată. Nu există mașini, doar drumuri de nisip și oportunități fantastice pentru snorkeling la reciful din apropiere.",
       en: "Caye Caulker is a tiny coral island where the motto 'Go Slow' perfectly defines the local way of life. With no cars and only sandy paths, it is a haven for those seeking a relaxed atmosphere and easy access to the Barrier Reef."
     },
     facts: {
       de: ["Motto: 'Go Slow'.", "Autofreie Insel.", "Bekannt für 'The Split'.", "Koralleninsel aus Kalkstein."],
       hu: ["Mottója: 'Go Slow'.", "Autómentes sziget.", "Híres a 'The Split' nevű szakaszról.", "Mészkő alapú korallsziget."],
-      ro: ["Motto: „Go Slow”.", "Insulă fără mașini.", "Cunoscută pentru „The Split”.", "Insulă de corali din calcar."],
+      ro: ["Motto: \\\"Go Slow\\\".", "Insulă fără mașini.", "Cunoscută pentru \\\"The Split\\\".", "Insulă de corali din calcar."],
       en: ["Motto is 'Go Slow.'", "Completely car-free island.", "Famous for 'The Split' swimming area.", "Formed from ancient coral limestone."]
     },
     factsAdvanced: {
       de: ["'The Split' entstand 1961 durch den Hurrikan Hattie, der die Insel teilte.", "Fahrräder und Golfcarts sind die einzigen Fortbewegungsmittel.", "Die Insel ist ein Paradies für Seekühe (Manatis)."],
       hu: ["A 'The Split' csatorna 1961-ben keletkezett, amikor a Hattie hurrikán kettévágta a szigetet.", "Kerékpárok és golfkocsik az egyetlen közlekedési eszközök.", "A sziget környéke a tengeri tehenek (manátuszok) paradicsoma."],
-      ro: ["„The Split” a apărut în 1961 din cauza uraganului Hattie, care a divizat insula.", "Bicicletele și mașinuțele de golf sunt singurele mijloace de transport.", "Insula este un paradis pentru lamantini."],
+      ro: ["\\\"The Split\\\" a apărut în 1961 din cauza uraganului Hattie, care a divizat insula.", "Bicicletele și mașinuțele de golf sunt singurele mijloace de transport.", "Insula este un paradis pentru lamantini."],
       en: ["'The Split' was created in 1961 when Hurricane Hattie literally tore the island in two.", "Bicycles and golf carts are the only way to get around the island.", "The surrounding waters are a protected sanctuary for West Indian Manatees."]
     },
     area: 5, image: "/poi-images/bz-cayecaulker.webp"},
@@ -489,8 +489,8 @@ export const belizeLandmarks: POI[] = [
     },
     factsAdvanced: {
       de: ["Charles Darwin nannte es 1842 das 'bemerkenswerteste Riff der Antillen'.", "Es besteht aus sieben verschiedenen Meeresschutzgebieten.", "Das Riff schützt die Küste vor Erosion und Stürmen."],
-      hu: ["Charles Darwin 1842-ben az „Antillák legfigyelemreméltóbb zátonyának” nevezte.", "Hét különböző tengeri védett területből áll.", "A zátony védi a partvonalat az eróziótól és a viharoktól."],
-      ro: ["Charles Darwin l-a numit în 1842 „cel mai remarcabil recif din Antile”.", "Este format din șapte zone marine protejate diferite.", "Reciful protejează coasta de eroziune și furtuni."],
+      hu: ["Charles Darwin 1842-ben az \\\"Antillák legfigyelemreméltóbb zátonyának\\\" nevezte.", "Hét különböző tengeri védett területből áll.", "A zátony védi a partvonalat az eróziótól és a viharoktól."],
+      ro: ["Charles Darwin l-a numit în 1842 \\\"cel mai remarcabil recif din Antile\\\".", "Este format din șapte zone marine protejate diferite.", "Reciful protejează coasta de eroziune și furtuni."],
       en: ["Charles Darwin described it as the 'most remarkable reef in the West Indies' in 1842.", "The system comprises seven distinct marine protected areas.", "The reef provides a vital natural barrier protecting the coast from storm surges."]
     },
     length: 300, image: "/poi-images/bz-barrierreef.webp"},
@@ -504,13 +504,13 @@ export const belizeLandmarks: POI[] = [
     descriptionAdvanced: {
       de: "Das Hol Chan Marine Reserve ist das älteste Meeresschutzgebiet von Belize und liegt am südlichen Ende von Ambergris Caye. Es ist berühmt für die 'Shark Ray Alley', wo man hautnah mit Ammenhaien und Stechrochen schnorcheln kann.",
       hu: "A Hol Chan Tengeri Rezervátum Belize legrégebbi tengeri védett területe, amely Ambergris Caye déli végén található. Híres a 'Shark Ray Alley'-ről, ahol közvetlen közelről lehet szürke dajkacápákkal és tüskésrájákkal úszni.",
-      ro: "Rezervația Marină Hol Chan este cea mai veche zonă marină protejată din Belize. Este celebră pentru „Shark Ray Alley”, unde se poate face snorkeling alături de rechini dadacă și pisici de mare.",
+      ro: "Rezervația Marină Hol Chan este cea mai veche zonă marină protejată din Belize. Este celebră pentru \\\"Shark Ray Alley\\\", unde se poate face snorkeling alături de rechini dadacă și pisici de mare.",
       en: "The Hol Chan Marine Reserve is Belize's oldest marine sanctuary, located off the southern tip of Ambergris Caye. It is world-renowned for 'Shark Ray Alley,' where visitors can swim with nurse sharks and southern stingrays."
     },
     facts: {
       de: ["Ältestes Meeresschutzgebiet von Belize.", "Name bedeutet 'Kleiner Kanal'.", "Bekannt für Shark Ray Alley.", "Hervorragende Sichtweiten."],
       hu: ["Belize legrégebbi tengeri rezervátuma.", "A név jelentése: 'kis csatorna'.", "Híres a Shark Ray Alley-ről.", "Kiváló látási viszonyok."],
-      ro: ["Cea mai veche rezervație marină din Belize.", "Numele înseamnă „canal mic”.", "Cunoscută pentru Shark Ray Alley.", "Vizibilitate excelentă."],
+      ro: ["Cea mai veche rezervație marină din Belize.", "Numele înseamnă \\\"canal mic\\\".", "Cunoscută pentru Shark Ray Alley.", "Vizibilitate excelentă."],
       en: ["Belize's first marine reserve.", "Name translates to 'Little Channel' in Maya.", "Home to the famous Shark Ray Alley.", "Features crystal-clear underwater visibility."]
     },
     factsAdvanced: {
@@ -536,13 +536,13 @@ export const belizeLandmarks: POI[] = [
     facts: {
       de: ["Heimat der 'Kristall-Jungfrau'.", "Name bedeutet 'Höhle des Steinernen Grabes'.", "Nur mit Guide zugänglich.", "Enthält intakte Maya-Keramik."],
       hu: ["A 'Kristályszűz' nyughelye.", "Jelentése: 'a kő sírhely barlangja'.", "Csak vezetővel látogatható.", "Ép maja kerámiákat tartalmaz."],
-      ro: ["Casa „Fecioarei de Cristal”.", "Numele înseamnă „peștera mormântului de piatră”.", "Accesibilă doar cu ghid.", "Conține ceramică mayașă intactă."],
+      ro: ["Casa \\\"Fecioarei de Cristal\\\".", "Numele înseamnă \\\"peștera mormântului de piatră\\\".", "Accesibilă doar cu ghid.", "Conține ceramică mayașă intactă."],
       en: ["Home to the 'Crystal Maiden' skeleton.", "Name means 'Cave of the Stone Sepulcher.'", "Strictly accessible only with certified guides.", "Contains perfectly preserved Maya pottery."]
     },
     factsAdvanced: {
       de: ["Die 'Kristall-Jungfrau' ist ein Skelett, das durch Kalziumablagerungen glitzert.", "Kameras sind in der Höhle seit einem Vorfall im Jahr 2012 streng verboten.", "Man muss durch tiefes Wasser schwimmen, um in das Innere der Höhle zu gelangen."],
       hu: ["A 'Kristályszűz' egy csontváz, amely a kalcium-lerakódásoktól csillog.", "A barlangban egy 2012-es incidens óta tilos a fényképezés.", "Mély vízen kell átúszni, hogy bejussunk a barlang belsejébe."],
-      ro: ["„Fecioara de Cristal” este un schelet care sclipește datorită depunerilor de calciu.", "Camerele foto sunt interzise în peșteră din 2012.", "Trebuie să înoți prin apă adâncă pentru a ajunge în interior."],
+      ro: ["\\\"Fecioara de Cristal\\\" este un schelet care sclipește datorită depunerilor de calciu.", "Camerele foto sunt interzise în peșteră din 2012.", "Trebuie să înoți prin apă adâncă pentru a ajunge în interior."],
       en: ["The 'Crystal Maiden' is a calcified skeleton that sparkles under torchlight.", "Cameras have been banned since 2012 after a tourist dropped one on a skull.", "Exploration requires swimming and wading through subterranean river passages."]
     },
     length: 5, image: "/poi-images/bz-atm.webp"},
@@ -561,8 +561,8 @@ export const belizeLandmarks: POI[] = [
     },
     facts: {
       de: ["Nur einheimische Tiere.", "Gegründet 1983.", "Bekannt als 'Der beste kleine Zoo der Welt'.", "Fokus auf Rettung und Bildung."],
-      hu: ["Csak őshonos állatok.", "1944-ben alapították.", "„A világ legjobb kis állatkertjeként” ismert.", "Mentésre és oktatásra összpontosít."],
-      ro: ["Doar animale native.", "Fondată în 1983.", "Cunoscută drept „Cea mai bună mică grădină zoologică”.", "Accent pe salvare și educație."],
+      hu: ["Csak őshonos állatok.", "1944-ben alapították.", "\\\"A világ legjobb kis állatkertjeként\\\" ismert.", "Mentésre és oktatásra összpontosít."],
+      ro: ["Doar animale native.", "Fondată în 1983.", "Cunoscută drept \\\"Cea mai bună mică grădină zoologică\\\".", "Accent pe salvare și educație."],
       en: ["Exclusively houses native species.", "Founded by Sharon Matola in 1983.", "Known as 'The Best Little Zoo in the World.'", "Focuses on wildlife rescue and education."]
     },
     factsAdvanced: {
@@ -644,8 +644,8 @@ export const belizeLandmarks: POI[] = [
     },
     factsAdvanced: {
       de: ["Der 'Gehweg' von Placencia ist im Guinness-Buch der Rekorde verzeichnet.", "Die Region ist berühmt für das jährliche Whale Shark-Watching im Frühjahr.", "Ursprünglich war Placencia ein kleines Dorf von Fischerfamilien."],
-      hu: ["A placenciai „sétány” szerepel a Guinness Rekordok Könyvében.", "A régió híres a tavasszal esedékes cetcápa-megfigyelésekről.", "Placencia eredetileg halászcsaládok apró falva volt."],
-      ro: ["„Pietonala” din Placencia este înregistrată în Guinness Book.", "Regiunea este faimoasă pentru observarea rechini-balenă în primăvară.", "Inițial, Placencia a fost un mic sat de familii de pescari."],
+      hu: ["A placenciai \\\"sétány\\\" szerepel a Guinness Rekordok Könyvében.", "A régió híres a tavasszal esedékes cetcápa-megfigyelésekről.", "Placencia eredetileg halászcsaládok apró falva volt."],
+      ro: ["\\\"Pietonala\\\" din Placencia este înregistrată în Guinness Book.", "Regiunea este faimoasă pentru observarea rechini-balenă în primăvară.", "Inițial, Placencia a fost un mic sat de familii de pescari."],
       en: ["The central sidewalk is recognized by Guinness as the narrowest main street in the world.", "Nearby Gladden Spit is one of the few places to swim with whale sharks in spring.", "The village has successfully balanced rapid tourism growth with its traditional roots."]
     }, image: "/poi-images/bz-placencia.webp"},
   {

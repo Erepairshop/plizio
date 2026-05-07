@@ -14,6 +14,18 @@ export const poiExtraNigeriaNatureV2: POI[] = [
       hu: ["Guinea felvidékén ered.", "A Guineai-öbölbe torkollik."],
       ro: ["Izvorăște din Podișul Guineei.", "Se varsă în Golful Guineei."],
       en: ["Originates in the Guinea Highlands.", "Empties into the Gulf of Guinea."]
+    },
+    descriptionAdvanced: {
+      de: "Der Niger ist nicht einfach nur ein Fluss, er ist die Lebensader und der Namensgeber einer ganzen Nation. Mit 4.180 Kilometern ist er der drittlängste Fluss Afrikas. Er entspringt im fernen Bergland von Guinea, fließt in einem gigantischen, halbmondförmigen Bogen durch die Sahara und erreicht in Nigeria endlich den Ozean. In Nigeria teilt der mächtige Strom das Land geografisch und kulturell. Am historischen Kainji-Damm wird aus seinen Fluten massiv Strom für das Land gewonnen, bevor er sich mit seinem wichtigsten Nebenfluss, dem Benue, bei Lokoja vereinigt. Schließlich zersplittert er in unzählige kleine Kanäle und bildet das gewaltige, erdölreiche Nigerdelta am Golf von Guinea. Erdkunde K8 — Afrikanische Flusssysteme und Wasserkraft.",
+      hu: "",
+      ro: "",
+      en: "The Niger River is the absolute geographical and historical lifeblood of West Africa, entering Nigeria from the northwest and sweeping in a massive arc down to the Gulf of Guinea. As the third-longest river in Africa, spanning over 4,100 kilometers, its incredible journey culminates in the massive, oil-rich Niger Delta. Historically, the river served as the primary superhighway for massive inland empires and, later, the transatlantic and colonial palm oil trades. Today, it sustains the livelihoods of millions of Nigerians through extensive inland fishing, massive hydroelectric dams like Kainji, and crucial agricultural irrigation along its sprawling, highly fertile floodplains. Geography K7 — major African river systems and inland navigation."
+    },
+    factsAdvanced: {
+      de: ["Der drittlängste Fluss Afrikas nach dem Nil und dem Kongo (4.180 km).", "Namensgeber für die modernen Staaten Nigeria und Niger.", "Vereinigt sich in Lokoja (Zentralnigeria) mit seinem größten Nebenfluss, dem Benue.", "Speist den riesigen Kainji-Stausee, der einen großen Teil von Nigerias Strom erzeugt.", "Mündet in einem der größten Mangroven-Deltas der Welt in den Atlantik.", "War historisch die absolute Hauptverkehrsader für afrikanische Imperien und europäische Händler."],
+      hu: [],
+      ro: [],
+      en: ["The third-longest river in Africa, stretching approximately 4,180 kilometers.", "Enters northwestern Nigeria from the Republic of Niger, flowing south to the Atlantic.", "Historically functioned as the primary trade superhighway for the Royal Niger Company.", "Generates massive amounts of electricity via the Kainji and Jebba hydroelectric dams.", "Culminates in the Niger Delta, one of the largest and most complex river deltas on Earth.", "Crucial for sustaining millions of livelihoods through fishing and floodplain agriculture."]
     }
   },
   {
@@ -28,7 +40,20 @@ export const poiExtraNigeriaNatureV2: POI[] = [
       hu: ["Kamerunon és Nigérián keresztül folyik.", "Hossza körülbelül 1400 km."],
       ro: ["Curge prin Camerun și Nigeria.", "Are o lungime de aproximativ 1400 km."],
       en: ["Flows through Cameroon and Nigeria.", "Is about 1400 km long."]
-    }, image: "/poi-images/benue-river-nature-v2.webp"},
+    }, image: "/poi-images/benue-river-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Benue ist der gewaltigste Nebenfluss des Nigers und vielleicht die wichtigste landwirtschaftliche Ader Westafrikas. Er entspringt auf dem Adamaua-Plateau im nördlichen Kamerun und schneidet sich wie ein breites, blaues Band fast 1.400 Kilometer weit quer durch den mittleren Gürtel Nigerias. Sein Wasser und seine jährlichen, oft massiven Überschwemmungen machen die umliegenden Täler unglaublich fruchtbar – ein Segen für den Benue-Staat, der den Großteil des nigerianischen Yams produziert. Im 19. Jahrhundert war der Fluss die tiefste Eindring-Route der Briten ins Innere Afrikas. In Lokoja schließlich ergibt er sich dem Niger, wodurch sich die Wassermenge auf dem Weg zum Atlantik fast verdoppelt. Geografie K7 — Nebenflüsse und Schwemmlandwirtschaft.",
+      hu: "",
+      ro: "",
+      en: "The Benue River is the principal and most massive tributary of the mighty Niger River, originating in the rugged Adamawa Plateau of northern Cameroon before flowing majestically across central Nigeria. The massive, incredibly fertile floodplains of the Benue are universally recognized as the 'Food Basket of Nigeria', supporting the aggressive, large-scale cultivation of yams, rice, and soybeans. Historically, the river was a vital, heavily utilized route for colonial steamers reaching deep into the interior, though heavy siltation has reduced its modern navigability during the dry season. The stunning confluence of the Benue and Niger rivers at Lokoja is one of Nigeria's most iconic geographical landmarks. Geography K7 — major tributaries and agricultural floodplains."
+    },
+    factsAdvanced: {
+      de: ["Der wichtigste und wasserreichste Nebenfluss des Nigers.", "Entspringt im Adamaua-Plateau in Kamerun und fließt etwa 1.400 km bis Lokoja.", "Während der Regenzeit in großen Teilen für Flussschifffahrt nutzbar.", "Das Benue-Tal gilt als eine der fruchtbarsten Agrarregionen Nigerias.", "Historisch extrem wichtig für europäische Forschungs- und Handelsmissionen.", "Verursacht durch seine flachen Ufer häufig massive, zerstörerische Überschwemmungen."],
+      hu: [],
+      ro: [],
+      en: ["The largest and most important tributary of the Niger River in West Africa.", "Originates in the Adamawa Plateau of Cameroon, flowing westward across central Nigeria.", "Creates massive, highly fertile floodplains universally known as Nigeria's 'Food Basket'.", "Famously converges with the Niger River at the historic city of Lokoja.", "Historically navigable by massive colonial steamboats during the wet season.", "Currently suffers from severe siltation issues, significantly restricting dry-season navigation."]
+    }
+  },
   {
     id: "chad-lake-nature-v2",
     type: "lake",
@@ -41,7 +66,20 @@ export const poiExtraNigeriaNatureV2: POI[] = [
       hu: ["Lefolyástalan tó.", "Területe erősen változó."],
       ro: ["Este un lac endoreic.", "Suprafața sa variază considerabil."],
       en: ["Is an endorheic lake.", "Its surface area varies greatly."]
-    }, image: "/poi-images/chad-lake-nature-v2.webp"},
+    }, image: "/poi-images/chad-lake-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Tschadsee ist Schauplatz einer der größten ökologischen Tragödien unserer Zeit. Einst war dieses extrem flache Gewässer an den Grenzen von Nigeria, Tschad, Niger und Kamerun das sechstgrößte Binnengewässer der Welt und die absolute Lebensader der trockenen Sahelzone. Millionen von Fischern und Bauern hingen von ihm ab. Seit den 1960er Jahren ist der See jedoch um alarmierende 90 Prozent geschrumpft, ausgelöst durch brutale Dürren, Klimawandel und massive Wasserentnahme für die Landwirtschaft durch den Fluss Chari. Wo früher Boote fuhren, wächst heute Gras oder wütet der Sand. Dieser Wassermangel ist einer der zentralen Treiber für die massiven wirtschaftlichen und militärischen Krisen im Nordosten Nigerias. Biologie K8 — Klimawandel, Schrumpfende Seen und Sahelkrise.",
+      hu: "",
+      ro: "",
+      en: "Lake Chad, located in the extreme northeastern corner of Nigeria, is a historically massive, incredibly vital shallow freshwater lake shared with Niger, Chad, and Cameroon. For centuries, it functioned as the absolute ecological and economic beating heart of the Sahel, supporting massive fishing industries and serving as a crucial terminal for ancient trans-Saharan trade routes. Tragically, due to severe, prolonged droughts and heavy agricultural over-extraction, the lake has shrunk by a staggering 90% since the 1960s, triggering an absolutely massive environmental and humanitarian crisis. The shrinking shoreline is currently the focal point of intense geopolitical and ecological stabilization efforts. Geography K8 — shrinking inland lakes and environmental crises."
+    },
+    factsAdvanced: {
+      de: ["Ein endorheischer (abflussloser) Süßwassersee an den Grenzen von 4 Staaten.", "Hat seit 1960 über 90 % seiner ursprünglichen riesigen Wasseroberfläche verloren.", "Der enorme Wasserverlust gilt als eine der schwersten ökologischen Katastrophen Afrikas.", "Historisch extrem fischreich und das wirtschaftliche Rückgrat von Millionen Menschen.", "Das Schrumpfen hat massive soziale Konflikte und Armut in der Region ausgelöst.", "Ist an den meisten Stellen heute weniger als zwei Meter tief."],
+      hu: [],
+      ro: [],
+      en: ["A historically massive, shallow freshwater lake located in the Sahel region.", "The shoreline and waters are shared between Nigeria, Chad, Niger, and Cameroon.", "Has tragically lost approximately 90% of its surface area since the 1960s.", "The drastic shrinking has caused massive, severe ecological and humanitarian crises.", "Historically the economic and ecological center of the powerful Kanem-Borno Empire.", "Currently the focus of massive, international geopolitical stabilization efforts."]
+    }
+  },
   {
     id: "jos-plateau-mountain-nature-v2",
     type: "mountain",
@@ -54,7 +92,20 @@ export const poiExtraNigeriaNatureV2: POI[] = [
       hu: ["Vulkáni kőzetből áll.", "Hűvösebb klíma, mint a környezetében."],
       ro: ["Este format din rocă vulcanică.", "Are un climat mai răcoros decât zona înconjurătoare."],
       en: ["Consists of volcanic rock.", "Has a cooler climate than the surroundings."]
-    }, image: "/poi-images/jos-plateau-mountain-nature-v2.webp"},
+    }, image: "/poi-images/jos-plateau-mountain-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Jos-Plateau ist eine geologische Insel der Kühle mitten in einem backenden, tropischen Land. Mit einer durchschnittlichen Höhe von fast 1.300 Metern ragt dieser riesige, zerklüftete Granitblock steil aus den umliegenden Ebenen Zentralnigerias empor. Die einzigartige Landschaft sieht oft aus, als hätten Riesen mit Steinen gespielt: Gewaltige, balancierende Felsbrocken thronen auf wackeligen Spitzen. Wegen des angenehmen, fast europäischen Klimas war das Plateau einst der bevorzugte Rückzugsort der britischen Kolonialherren. Bis heute ermöglicht das kühle Wetter den kommerziellen Anbau von Erdbeeren, Kartoffeln und Äpfeln, die nirgendwo sonst in Westafrika wachsen. Erdkunde K7 — Hochplateaus, Inselberge und Mikroklimata.",
+      hu: "",
+      ro: "",
+      en: "The Jos Plateau is a spectacular, massive elevated landmass located in the very center of Nigeria, radically defining the geography and climate of the Middle Belt. Standing at an average elevation of over 1,200 meters, it features a uniquely cool, highly temperate climate that drastically starkly contrasts with the sweltering heat of the surrounding savanna plains. This unique climate allows for the massive cultivation of temperate crops like strawberries and Irish potatoes. Geologically, the plateau is famous for its stunning, rugged granite outcroppings, deep crater lakes left behind by a massive colonial tin mining boom, and stunning cascading waterfalls. Geography K7 — high plateaus and temperate micro-climates."
+    },
+    factsAdvanced: {
+      de: ["Ein massives vulkanisches und granitisches Plateau im Zentrum Nigerias.", "Durchschnittliche Höhenlage von etwa 1.280 Metern über dem Meeresspiegel.", "Bietet ein untypisch gemäßigtes Klima, ideal für den Anbau von Gemüse und Erdbeeren.", "Berühmt für spektakuläre Gesteinsformationen und balancierende Granitfelsen.", "War historisch das absolut wichtigste Zentrum für den nigerianischen Zinnbergbau.", "Der Shere Hill ist mit über 1.829 Metern die höchste Erhebung auf dem Plateau."],
+      hu: [],
+      ro: [],
+      en: ["A massive, roughly 8,600-square-kilometer elevated plateau in central Nigeria.", "Averages over 1,200 meters above sea level, reaching up to 1,829 meters at its highest point.", "Features a uniquely cool, highly temperate climate supporting non-tropical agriculture.", "The landscape is heavily scarred by massive, abandoned colonial-era tin mines.", "Characterized by highly spectacular, rugged granite outcroppings and deep crater lakes.", "Serves as the vital source for several major regional rivers, including the Kaduna River."]
+    }
+  },
   {
     id: "chappal-waddi-mountain-nature-v2",
     type: "mountain",
@@ -67,7 +118,20 @@ export const poiExtraNigeriaNatureV2: POI[] = [
       hu: ["Kamerun határán található.", "Magassága kb. 2419 méter."],
       ro: ["Situat la granița cu Camerunul.", "Altitudinea de aproximativ 2419 metri."],
       en: ["Located on the border with Cameroon.", "Height of approx. 2419 meters."]
-    }, image: "/poi-images/chappal-waddi-mountain-nature-v2.webp"},
+    }, image: "/poi-images/chappal-waddi-mountain-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Chappal Waddi, liebevoll auch der 'Berg des Todes' genannt, ist mit 2.419 Metern der höchste Gipfel Nigerias. Er liegt extrem abgeschieden im Gashaka-Gumti-Nationalpark im Bundesstaat Taraba, direkt an der Grenze zu Kamerun. Den Gipfel zu erreichen, ist keine touristische Wanderung, sondern eine echte Expedition: Man muss tagelang durch dichten Regenwald und hohe, nebelverhangene Bergwiesen wandern, oft begleitet von Rangern, um sich vor Schimpansen, Büffeln oder Wilderern zu schützen. Das Klima hier oben ist fast frostig, und die Isolation hat dafür gesorgt, dass Chappal Waddi bis heute einer der wildesten, unberührtesten und am wenigsten erforschten Orte Westafrikas geblieben ist. Geografie K8 — Alpine Bergregionen und Expeditionstourismus.",
+      hu: "",
+      ro: "",
+      en: "Chappal Waddi, ominously and evocatively translated as the 'Mountain of Death', holds the prestigious title of being the highest absolute geographical point in Nigeria. Located deep within the rugged, heavily isolated Gashaka-Gumti National Park on the Cameroon border, the massive peak reaches a staggering elevation of 2,419 meters (7,936 feet). The mountain is characterized by deeply plunging, heavily forested ravines and mist-shrouded montane grasslands, making it incredibly difficult to access. It is considered the ultimate, highly prized destination for hardcore mountaineers and professional ecologists seeking pristine, entirely untouched high-altitude African wilderness. Geography K8 — highest national peaks and montane ecosystems."
+    },
+    factsAdvanced: {
+      de: ["Mit 2.419 Metern über dem Meeresspiegel der höchste Berg in ganz Nigeria.", "Sein lokaler Name wird oft als 'Mountain of Death' (Berg des Todes) übersetzt.", "Befindet sich extrem isoliert im Gashaka-Gumti-Nationalpark (Taraba State).", "Gehört geologisch zum ausgedehnten Kamerun-Grasland und dem Mambilla-Plateau.", "Der Aufstieg erfordert eine mehrtägige Expedition durch dichte, unwegsame Wälder.", "Beherbergt Flora und Fauna, die im restlichen heißen Nigeria völlig unbekannt ist."],
+      hu: [],
+      ro: [],
+      en: ["The highest geographical point in Nigeria, reaching exactly 2,419 meters (7,936 feet).", "Located deep within the Gashaka-Gumti National Park in Taraba State.", "The name translates locally to the 'Mountain of Death' due to its forbidding terrain.", "Features incredibly dense, mist-shrouded montane forests and steep, plunging ravines.", "Extremely isolated and incredibly difficult to access, requiring multi-day trekking.", "A highly prized, pristine destination for professional ecologists and hardcore mountaineers."]
+    }
+  },
   {
     id: "cross-river-nature-v2",
     type: "river",
@@ -80,7 +144,20 @@ export const poiExtraNigeriaNatureV2: POI[] = [
       hu: ["Trópusi esőerdőn keresztül folyik.", "Az Atlanti-óceánba torkollik."],
       ro: ["Curge prin păduri tropicale.", "Se varsă în Oceanul Atlantic."],
       en: ["Flows through tropical rainforest.", "Empties into the Atlantic."]
-    }, image: "/poi-images/cross-river-nature-v2.webp"},
+    }, image: "/poi-images/cross-river-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Cross River ist der majestätische Herrscher über den tiefen Südosten Nigerias. Er entspringt im wilden Kamerun-Gebirge und fließt dann sanft in einem riesigen Bogen gen Westen, bevor er sich bei der Stadt Calabar zu einer fast 20 Kilometer breiten Trichtermündung (Ästuar) öffnet und in den Atlantik ergießt. Dieser Fluss ist nicht nur Wasser, er war eine Autobahn: Vor Jahrhunderten segelten britische Kriegsschiffe und Palmöl-Kaufleute diese Fluten hinauf. Sein dicht bewaldetes Ufer beherbergt den Cross-River-Nationalpark, einen der letzten verbliebenen großen Regenwälder Afrikas. Heute ist der Fluss die Heimat harter lokaler Fischer, ist aber auch stark von Abholzungen in seinen Oberläufen betroffen. Erdkunde K7 — Tropische Flusssysteme und Regenwälder.",
+      hu: "",
+      ro: "",
+      en: "The Cross River is an immensely significant, highly biodiverse waterway flowing through the incredibly dense, primary rainforests of southeastern Nigeria into the Atlantic Ocean. Originating in the rugged mountains of Cameroon, the river famously gives its name to Cross River State. Historically, its wide estuary at Calabar served as a massive, deeply tragic hub during the transatlantic slave trade and later the immensely lucrative palm oil boom. Today, the heavily forested upper reaches of the river are globally recognized as a massive biodiversity hotspot, providing the absolute critical lifeblood for the spectacular Cross River National Park and its highly endangered primate species. Geography K7 — rainforest rivers and historical estuaries."
+    },
+    factsAdvanced: {
+      de: ["Entspringt in Kamerun und mündet in einem riesigen Ästuar bei Calabar.", "Die sehr breite Flussmündung war historisch extrem wichtig für den atlantischen Seehandel.", "Gibt dem angrenzenden nigerianischen Bundesstaat 'Cross River' seinen Namen.", "Die Ufer beheimaten einige der ältesten und dichtesten Primärregenwälder Afrikas.", "Ein wichtiger Binnenhafen und Verkehrsweg für den Transport in Zentralafrika.", "Fließt durch eine Region mit enormer ethnistischer und sprachlicher Vielfalt."],
+      hu: [],
+      ro: [],
+      en: ["Originates in the rugged mountains of Cameroon, flowing through southeastern Nigeria.", "Gives its name to Cross River State and the massive Cross River National Park.", "The wide estuary at Calabar was historically a massive hub for the transatlantic slave trade.", "The dense, heavily forested upper basin is a globally recognized biodiversity hotspot.", "Provides critical, life-sustaining water for highly endangered species like the Cross River gorilla.", "Heavily utilized by local communities for extensive inland fishing and navigation."]
+    }
+  },
   {
     id: "ogun-river-nature-v2",
     type: "river",
@@ -93,7 +170,20 @@ export const poiExtraNigeriaNatureV2: POI[] = [
       hu: ["Az Oyan-gátat táplálja.", "Fontos vízforrás Lagos számára."],
       ro: ["Alimentează barajul Oyan.", "Sursă importantă de apă pentru Lagos."],
       en: ["Feeds the Oyan Dam.", "Important water source for Lagos."]
-    }, image: "/poi-images/ogun-river-nature-v2.webp"},
+    }, image: "/poi-images/ogun-river-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Ogun-Fluss ist das mystische, fließende Herz des Yorubalandes. Er entspringt im Oyo-Staat und windet sich durch die felsigen Landschaften in Richtung Süden, wo er Lagos passiert und sich in das Labyrinth der Lagunen ergießt, die mit dem Atlantik verbunden sind. In der traditionellen Yoruba-Religion wird der Fluss intensiv mit Yemoja, der Göttin des Wassers und der Mutterschaft, assoziiert, und noch heute finden an seinen Ufern zahllose heilige Rituale statt. In der Kolonialzeit war der Ogun eine unverzichtbare Handelsroute, auf der Kanus riesige Mengen an Kolanüssen, Yams und Kakao in die großen Märkte von Lagos brachten, lange bevor es asphaltierte Straßen gab. Geschichte K6 — Flussmythologie der Yoruba und historische Transportwege.",
+      hu: "",
+      ro: "",
+      en: "The Ogun River is a highly vital, deeply historic waterway in southwestern Nigeria, flowing from the rugged hills of Oyo State straight into the massive, sprawling Lagos Lagoon. For centuries, it served as a highly strategic, heavily guarded commercial and military highway for the ancient Yoruba empires, notably the Oyo and Egba kingdoms. The river is spiritually immense, serving as the central focus of devotion for the Yoruba river deity Yemoja. Today, it provides the absolute critical water supply for millions of residents in Lagos and Ogun states and is heavily utilized for extensive sand dredging and local fishing industries. Geography K7 — coastal rivers and urban water supply."
+    },
+    factsAdvanced: {
+      de: ["Ein wichtiger Fluss im Südwesten Nigerias, der im Bundesstaat Oyo entspringt.", "Mündet in die weitläufige Lagos-Lagune und von dort in den Atlantischen Ozean.", "Hat eine extrem hohe spirituelle Bedeutung in der Yoruba-Religion (Göttin Yemoja).", "Diente im 19. Jahrhundert als primäre Transportroute für Handelswaren nach Lagos.", "Fließt direkt durch historische Großstädte wie Abeokuta (vorbei am Olumo-Felsen).", "Wird heute stark von industrieller Verschmutzung und sandabbauenden Booten (Sand Dredging) bedroht."],
+      hu: [],
+      ro: [],
+      en: ["Originates in Oyo State and flows southward, emptying directly into the Lagos Lagoon.", "Historically a highly strategic, heavily utilized commercial highway for the Yoruba empires.", "Deeply, spiritually revered in traditional Yoruba religion, associated with the deity Yemoja.", "Provides the absolutely critical primary water supply for the megacity of Lagos.", "Heavily impacted by massive, often unregulated industrial sand dredging operations.", "Features the massive Oyan River Dam, built for urban water supply and flood control."]
+    }
+  },
   {
     id: "kainji-lake-nature-v2",
     type: "lake",
@@ -106,7 +196,20 @@ export const poiExtraNigeriaNatureV2: POI[] = [
       hu: ["A Kainji-gát építése hozta létre.", "Villamosenergia-termelésre használják."],
       ro: ["Creat prin construirea barajului Kainji.", "Utilizat pentru energie electrică."],
       en: ["Created by the construction of the Kainji Dam.", "Used for electricity generation."]
-    }, image: "/poi-images/kainji-lake-nature-v2.webp"},
+    }, image: "/poi-images/kainji-lake-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Kainji-Stausee ist Nigerias monumentales Symbol für gebändigte Wasserkraft. Dieses gigantische Gewässer – so groß wie das Saarland – entstand 1968, als der Nigerfluss durch einen gewaltigen Dammbau blockiert wurde, um ganz Nigeria mit Elektrizität zu versorgen. Dafür mussten Tausende Menschen aus über hundert Dörfern umgesiedelt werden, und Inseln verschwanden für immer unter den Fluten. Das resultierende tiefe Gewässer veränderte das Ökosystem drastisch: Es schuf die Grundlage für den Kainji-Lake-Nationalpark, einen geschützten Zufluchtsort für Flusspferde, Krokodile und Paviane. Der See ist auch das Herzstück einer florierenden, wenn auch harten lokalen Fischereiindustrie. Wirtschaft K8 — Staudamm-Großprojekte und ökologische Auswirkungen.",
+      hu: "",
+      ro: "",
+      en: "Kainji Lake is a massive, visually stunning artificial reservoir located in western Nigeria, created in 1968 by the highly ambitious damming of the mighty Niger River. Stretching over 130 kilometers in length, it is one of the largest man-made lakes in Africa. The colossal Kainji Dam was an absolute cornerstone of post-independence industrialization, designed to generate massive hydroelectric power for the rapidly developing nation. The creation of the lake required the highly controversial, massive relocation of tens of thousands of local residents. Today, the lake supports a massive, thriving inland fishing industry and forms the scenic, vital heart of the Kainji Lake National Park. Geography K8 — massive artificial reservoirs and hydroelectric dams."
+    },
+    factsAdvanced: {
+      de: ["Ein riesiger künstlicher Stausee (1.300 km²) im Westen Nigerias (Niger State).", "Entstand 1968 durch die Fertigstellung des massiven Kainji-Wasserkraftwerks (Damm).", "Erbaut, um einen Großteil der nigerianischen Stromversorgung (Hydro Power) zu sichern.", "Der Bau erforderte die Zwangsumsiedlung von über 50.000 lokalen Dorfbewohnern.", "Ist ein zentraler Teil des Kainji-Nationalparks und Heimat unzähliger Krokodile.", "Leidet regelmäßig unter schwankenden Wasserständen, was die Stromproduktion gefährdet."],
+      hu: [],
+      ro: [],
+      en: ["A massive, artificial reservoir created in 1968 by damming the Niger River.", "Stretches over 130 kilometers long, ranking among the largest man-made lakes in Africa.", "Formed by the colossal Kainji Dam, a massive early-independence hydroelectric project.", "The creation required the massive, complex relocation of over 50,000 local inhabitants.", "Supports a highly lucrative, massive local inland fishing industry.", "Forms the incredibly scenic, life-sustaining core of the Kainji Lake National Park."]
+    }
+  },
   {
     id: "lekki-lagoon-nature-v2",
     type: "sea",
@@ -119,7 +222,21 @@ export const poiExtraNigeriaNatureV2: POI[] = [
       hu: ["Félsós vizű terület.", "Gazdag halállományban."],
       ro: ["Este o zonă cu apă salmastră.", "Bogată în resurse piscicole."],
       en: ["Is a brackish water area.", "Rich in fish resources."]
-    }, image: "/poi-images/lekki-lagoon-nature-v2.webp"},
+    }, image: "/poi-images/lekki-lagoon-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Lekki-Lagune ist die stille, breite Wasserfläche, die im Schatten des hyperaktiven Lagos liegt. Erstreckt über die Bundesstaaten Lagos und Ogun, ist dieses flache Süß- und Brackwassersystem fast 37 Kilometer lang. Während auf der Lekki-Halbinsel gigantische Wolkenkratzer und Freihandelszonen entstehen, leben die Menschen auf den Inseln inmitten der Lagune oft noch wie vor hundert Jahren: In Pfahlbauten, abhängig vom Kanubau und dem Fang von Süßwasserkrabben und Buntbarschen. Die Lagune ist das Auffangbecken für den Osun-Fluss, bevor das Wasser auf die heftigen Gezeiten des Atlantiks trifft. Sie steht jedoch unter massiver ökologischer Bedrohung durch radikale Sandgewinnung (Dredging) für die Bauindustrie. Biologie K7 — Lagunenökosysteme und radikale Urbanisierung.",
+      hu: "",
+      ro: "",
+      en: "",
+      en: "The Lekki Lagoon is a vast, heavily utilized expanse of shallow, brackish water located immediately to the east of the massive Lagos megacity. Spanning over 240 square kilometers, it is a highly critical, interconnected component of the complex coastal lagoon system that completely defines the geography of Lagos State. The lagoon provides absolutely vital, life-sustaining support to numerous traditional fishing communities that live along its mangrove-fringed shores. However, it is currently facing immense, unprecedented ecological pressure from aggressive, massive real estate reclamation projects and heavy sand dredging driven by the relentless, explosive urban expansion of the Lekki Peninsula. Geography K7 — coastal lagoons and urban encroachment."
+    },
+    factsAdvanced: {
+      de: ["Eine große, extrem flache Küstenlagune östlich der Metropole Lagos.", "Erstreckt sich auf einer Fläche von fast 250 Quadratkilometern.", "Bietet eine Mischung aus Süß- und Brackwasser, ideal für bestimmte Fischarten.", "Dient zahlreichen abgelegenen Pfahlbaudörfern als alleinige Lebensgrundlage.", "Wird intensiv für die kommerzielle und oft illegale Sandgewinnung (Sand Dredging) ausgebeutet.", "Dient als großes Mündungsbecken für den Osun-Fluss und den Oni-Fluss."],
+      hu: [],
+      ro: [],
+      en: ["A massive, 240-square-kilometer shallow, brackish lagoon located east of Lagos.", "A critical, deeply interconnected part of the massive Lagos coastal lagoon network.", "Sustains numerous, highly traditional riverine fishing communities along its shores.", "Fringed by highly fragile, ecologically important coastal mangrove swamps.", "Facing incredibly severe ecological pressure from massive, aggressive urban land reclamation.", "Heavily utilized for local water transport, bypassing the severely congested mainland roads."]
+    }
+  },
   {
     id: "niger-delta-nature-v2",
     type: "river",
@@ -132,7 +249,20 @@ export const poiExtraNigeriaNatureV2: POI[] = [
       hu: ["Nagyon gazdag biológiai sokféleségben.", "Fontos ökoszisztéma."],
       ro: ["Foarte bogată în biodiversitate.", "Un ecosistem important."],
       en: ["Very rich in biodiversity.", "An important ecosystem."]
-    }, image: "/poi-images/niger-delta-nature-v2.webp"},
+    }, image: "/poi-images/niger-delta-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Nigerdelta in Nigeria ist ein geografisches Paradoxon: Es ist einer der artenreichsten Orte der Erde und zugleich eine der am stärksten verseuchten Landschaften der Welt. Dieses riesige, fächerförmige Netz aus Flüssen, Sümpfen und Mangroven ist größer als die Niederlande. Unter seinem Schlamm liegt Nigerias enormer Öl- und Gasreichtum. Die unzähligen, teils Jahrzehnte alten und schlecht gewarteten Pipelines haben durch Explosionen, Unfälle und kriminelle Anzapfungen (Bunkering) unvorstellbare Mengen Rohöl in die Umwelt gespuckt. Einst eine paradiesische Welt für Flusspferde, Schildkröten und Fischer, kämpfen die lokalen Ijaw- und Ogoni-Völker heute um das pure Überleben in einer verölten, tief schwarzen Landschaft. Erdkunde K8 — Mangroven, Ressourcenfluch und massive Ölkatastrophen.",
+      hu: "",
+      ro: "",
+      en: "The Niger Delta is a staggering, highly complex geographical phenomenon, standing as one of the largest and most densely populated river deltas on the entire planet. Covering over 70,000 square kilometers, this massive, labyrinthine network of twisting creeks, deep mangrove swamps, and barrier islands empties the mighty Niger River into the Gulf of Guinea. It is incredibly, overwhelmingly rich in biodiversity and is the absolute beating heart of Nigeria's massive petroleum industry. However, decades of highly intense, often unregulated crude oil extraction have resulted in severe, devastating environmental degradation, turning the Delta into a highly volatile, deeply contested ecological flashpoint. Geography K8 — mega-deltas and fossil fuel ecology."
+    },
+    factsAdvanced: {
+      de: ["Eines der flächenmäßig größten Feuchtgebiete und Mangrovenökosysteme der Welt (über 70.000 km²).", "Das absolute Zentrum der gigantischen nigerianischen Erdöl- und Gasindustrie.", "Extrem stark von chronischer Ölpest (Oil Spills) und illegaler Gasabfackelung zerstört.", "Historisch bewohnt von unzähligen indigenen Völkern wie den Ijaw, Ogoni und Itsekiri.", "War in der Kolonialzeit berühmt als die 'Oil Rivers' (aufgrund des Palmölexports).", "Ein politischer und militärischer Hotspot für Aufstände gegen multinationale Ölkonzerne."],
+      hu: [],
+      ro: [],
+      en: ["One of the largest, most highly complex river deltas on Earth, covering 70,000 sq km.", "A massive, labyrinthine network of deep creeks, barrier islands, and dense mangrove swamps.", "The absolute, undisputed center of Nigeria's massive, highly lucrative petroleum industry.", "Incredibly rich in biodiversity, though highly threatened by massive industrial pollution.", "Has suffered decades of severe, devastating environmental degradation from massive oil spills.", "A deeply volatile, highly contested region balancing immense wealth with ecological collapse."]
+    }
+  },
   {
     id: "shere-hills-mountain-nature-v2",
     type: "mountain",
@@ -145,7 +275,20 @@ export const poiExtraNigeriaNatureV2: POI[] = [
       hu: ["Túrázási lehetőségeiről ismert.", "Magas sziklaképződmények."],
       ro: ["Cunoscut pentru posibilitățile de drumeție.", "Formațiuni stâncoase înalte."],
       en: ["Known for hiking opportunities.", "High rock formations."]
-    }, image: "/poi-images/shere-hills-mountain-nature-v2.webp"},
+    }, image: "/poi-images/shere-hills-mountain-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Shere Hills, die östlich der Stadt Jos aufragen, wirken wie das Werk eines wahnsinnigen Bildhauers. Auf über 1.800 Metern Höhe stapeln sich gewaltige, abgerundete Granitfelsen so wackelig übereinander, dass es den Anschein hat, ein leichter Windstoß könnte sie ins Tal stürzen lassen. Diese raue Felslandschaft auf dem Jos-Plateau ist berühmt für ihr kühles, angenehmes Klima und diente früher kolonialen Beamten zur Erholung. Heute sind die Hügel ein Mekka für Bergsteiger und die Heimat der nigerianischen Citizenship and Leadership Training Centre, wo junge Nigerianer und Militärs in Kletter- und Überlebenskursen abgehärtet werden. Geografie K7 — Verwitterungsformationen und Bergsport.",
+      hu: "",
+      ro: "",
+      en: "The Shere Hills represent a highly spectacular, massively rugged mountain range located on the high-altitude Jos Plateau. Characterized by deeply dramatic, undulating rock formations and towering granite peaks, the highest point reaches a commanding 1,829 meters above sea level, making it the third-highest peak in Nigeria. The unique, deeply weathered rock formations create a highly dramatic, almost alien landscape that is incredibly popular among hardcore rock climbers and professional hikers. The hills also serve as the challenging, highly physically demanding training ground for the prestigious Nigerian Citizenship and Leadership Training Centre, utilizing the harsh, striking terrain for extreme physical conditioning. Geography K7 — rugged rock formations and high-altitude hiking."
+    },
+    factsAdvanced: {
+      de: ["Eine massiv zerklüftete Gebirgsformation auf dem Jos-Plateau im Bundesstaat Plateau.", "Erreicht am höchsten Gipfel (Gog and Magog) etwa 1.829 Meter über dem Meeresspiegel.", "Die charakteristischen, runden Felsblöcke entstanden durch jahrtausendelange Wollsackverwitterung.", "Bietet ein für Nigeria sehr ungewöhnliches, frisches und kühles Klima.", "Beliebtes Ziel für Felskletterer und militärische Überlebenstrainings.", "Die Hügel sind eine wichtige Wasserscheide für Flüsse im mittleren Nigeria."],
+      hu: [],
+      ro: [],
+      en: ["A highly dramatic, massively rugged mountain range located on the Jos Plateau.", "The highest peak reaches an incredibly commanding 1,829 meters above sea level.", "Characterized by highly weathered, towering granite outcroppings and deep valleys.", "A highly popular, premier destination for professional rock climbing and extreme hiking.", "Serves as the intense, physically demanding training ground for national leadership courses.", "Provides massive, sweeping panoramic views of the entire high-altitude plateau."]
+    }
+  },
   {
     id: "obudu-plateau-mountain-nature-v2",
     type: "mountain",
@@ -158,7 +301,20 @@ export const poiExtraNigeriaNatureV2: POI[] = [
       hu: ["Népszerű turistacélpont.", "Dús növényzet."],
       ro: ["O destinație turistică populară.", "Vegetație luxuriantă."],
       en: ["A popular destination for tourists.", "Lush vegetation."]
-    }, image: "/poi-images/obudu-plateau-mountain-nature-v2.webp"},
+    }, image: "/poi-images/obudu-plateau-mountain-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Obudu-Plateau (auch Obudu-Berge) im Bundesstaat Cross River ist Nigerias kleines Stück Schweizer Alpen. Auf über 1.500 Metern Höhe gelegen, herrschen hier oben Temperaturen, bei denen man fast Frosthauch atmen kann, während im Tiefland drückende Schwüle herrscht. Die grüne, sanft geschwungene Berglandschaft ist von Wolken umhüllt und wird von unzähligen kleinen Wasserfällen durchzogen. Einst im Jahr 1951 von schottischen Farmern als Rinderfarm wegen der Tsetse-Fliegen-freien Luft entdeckt, ist Obudu heute durch sein spektakuläres, luxuriöses Bergresort berühmt. Man erreicht den Gipfel über eine atemberaubende, kilometerlange Seilbahn oder durch unzählige Haarnadelkurven über die sogenannte 'Devil's Elbow'-Straße. Biologie K7 — Hochlandklima und Ökotourismus.",
+      hu: "",
+      ro: "",
+      en: "The Obudu Plateau is a spectacular, breathtakingly beautiful highland region located deep in the dense tropical forests of Cross River State, incredibly close to the Cameroon border. Rising sharply to an elevation of over 1,500 meters, it features a uniquely cool, highly refreshing temperate climate that starkly defies its tropical location. The plateau is world-famous for its incredibly steep, dramatically winding access road featuring 20 distinct hairpin turns, though it is now also accessible via a massive, modern cable car system. Covered in lush, rolling green hills and dense forest canopies, it hosts the premier, highly luxurious Obudu Mountain Resort. Geography K7 — temperate plateaus and mountain resorts."
+    },
+    factsAdvanced: {
+      de: ["Ein über 1.500 Meter hohes Bergplateau im Bundesstaat Cross River.", "Bietet ein kühles, gemäßigtes Klima, völlig isoliert von der tropischen Hitze im Tal.", "Heimat des luxuriösen Obudu Mountain Resort (früher Obudu Cattle Ranch).", "Wird von Afrikas längster Seilbahn (Cable Car) bedient, die die Gäste auf den Gipfel bringt.", "Entdeckt 1951 durch westliche Farmer, die einen Tsetse-Fliegen-freien Ort für Rinder suchten.", "Bekannt für steile, nebelverhangene Schluchten, Wasserfälle und Gorilla-Reservate in der Nähe."],
+      hu: [],
+      ro: [],
+      en: ["A breathtaking, highly elevated plateau located in Cross River State.", "Rises to over 1,500 meters, featuring a uniquely cool, highly refreshing temperate climate.", "Famous for a highly dramatic, steep access road containing exactly 20 intense hairpin turns.", "Accessible via a massive, highly modern, 4-kilometer-long cable car system.", "Home to the premier, highly luxurious Obudu Mountain Resort.", "Characterized by incredibly lush, rolling green hills and dense montane forests."]
+    }
+  },
   {
     id: "osun-river-nature-v2",
     type: "river",
@@ -171,7 +327,20 @@ export const poiExtraNigeriaNatureV2: POI[] = [
       hu: ["Átfolyik az Osun-Osogbo-ligeten.", "Fontos kulturális örökség."],
       ro: ["Curge prin Crângul Osun-Osogbo.", "Un patrimoniu cultural important."],
       en: ["Flows through the Osun-Osogbo Grove.", "An important cultural heritage."]
-    }, image: "/poi-images/osun-river-nature-v2.webp"},
+    }, image: "/poi-images/osun-river-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Osun-Fluss ist einer der wenigen Flüsse der Welt, der von Millionen Menschen als echte, lebendige Göttin verehrt wird. Er entspringt in den Bergen von Ekiti und fließt langsam durch das Herz des Yorubalandes, bevor er in die Lekki-Lagune mündet. In der Yoruba-Mythologie repräsentiert der Fluss die sanfte, fruchtbarkeitsspendende Göttin Osun, eine der Frauen des Donnergottes Sango. Wenn der Fluss die Stadt Osogbo erreicht, durchquert er den heiligen Hain, wo das weltberühmte Osun-Festival gefeiert wird. Dann schöpfen Priesterinnen in weißen Gewändern sein Wasser, da man glaubt, es heile Krankheiten und schenke Frauen Fruchtbarkeit. Gesellschaft K7 — Wassergeister und afrikanische Naturreligionen.",
+      hu: "",
+      ro: "",
+      en: "The Osun River is a highly sacred, deeply revered waterway that flows through the heart of southwestern Nigeria, ultimately emptying into the expansive Lagos Lagoon. In traditional Yoruba cosmology, the river is the literal, physical manifestation of Osun, the highly venerated goddess of fertility, purity, and water. The river's most famous and ecologically pristine section flows directly through the dense, deeply sacred Osun-Osogbo Grove, a heavily protected UNESCO World Heritage Site. During the massive, highly colorful annual Osun-Osogbo festival, thousands of global devotees flock to the river's edge to offer prayers, sacrifices, and bathe in its spiritually cleansing, sacred waters. History K8 — sacred rivers and traditional Yoruba religion."
+    },
+    factsAdvanced: {
+      de: ["Entspringt im Bundesstaat Ekiti und fließt südwärts in die Lagos-Lagune.", "Hat höchste spirituelle Bedeutung als die physische Manifestation der Yoruba-Göttin Osun.", "Durchschneidet den heiligen, zum UNESCO-Welterbe zählenden Hain in Osogbo.", "Wasser aus dem Osun-Fluss wird von Gläubigen oft für rituelle und heilende Zwecke gesammelt.", "Einst eine extrem wichtige vorkoloniale Wasserstraße für den regionalen Handel.", "Zieht jährlich Zehntausende Diaspora-Afrikaner (z.B. aus Brasilien und Kuba) zum Festival an."],
+      hu: [],
+      ro: [],
+      en: ["Flows entirely through southwestern Nigeria, emptying into the massive Lagos Lagoon.", "Deeply, profoundly revered in Yoruba religion as the physical manifestation of the goddess Osun.", "The most pristine section flows through the highly sacred Osun-Osogbo Grove (UNESCO Site).", "The absolute focal point of the massive, highly colorful annual Osun-Osogbo festival.", "Thousands of global devotees utilize the water for highly sacred, spiritual cleansing rituals.", "The surrounding forests are strictly protected by highly restrictive traditional religious taboos."]
+    }
+  },
   {
     id: "chad-basin-nature-v2",
     type: "forest",
@@ -184,7 +353,20 @@ export const poiExtraNigeriaNatureV2: POI[] = [
       hu: ["Száraz, félszáraz éghajlat.", "Jelentős a mezőgazdaság számára."],
       ro: ["Climat arid până la semiarid.", "Semnificativ pentru agricultură."],
       en: ["Arid to semi-arid climate.", "Significant for agriculture."]
-    }, image: "/poi-images/chad-basin-nature-v2.webp"},
+    }, image: "/poi-images/chad-basin-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Tschadbecken im extremen Nordosten Nigerias ist eine gigantische, sandige Schüssel in der Sahara, in der früher einer der größten Seen der Welt schwappte (der prähistorische Mega-Tschad). Heute ist es eine extrem trockene, heiße Halbwüste. Obwohl die Flüsse Yobe und Ngadda Wasser in diese abflusslose Senke tragen, verdunstet der Großteil in der flirrenden Hitze. Diese Region ist die historische Heimat des stolzen Kanem-Bornu-Reiches, dessen Reiterkrieger die Wüste beherrschten. Heute ist das Becken ein ökologisches Katastrophengebiet: Mit dem massiven Schrumpfen des Tschadsees kämpfen die hier lebenden Nomaden und Fischer verzweifelt um jeden Tropfen Wasser, was den Nährboden für die zerstörerische Boko-Haram-Rebellion legte. Erdkunde K8 — Wüstenbecken, Austrocknung und Konfliktursachen.",
+      hu: "",
+      ro: "",
+      en: "The Chad Basin is an absolutely colossal, incredibly flat endorheic drainage basin that dominates the harsh, semi-arid extreme northeast of Nigeria. Covering roughly 20% of the entire country's landmass, it is characterized by sweeping, dry Sahelian savannas that slope incredibly gently toward the receding waters of Lake Chad. The basin is incredibly vital for the massive, highly specialized regional agriculture, relying heavily on complex, deep-well irrigation systems to overcome the incredibly long, brutal dry seasons. The region sits atop massive, largely untapped deep aquifers and potential hydrocarbon reserves, making it a highly strategic, intensely studied geological frontier. Geography K8 — massive endorheic basins and Sahelian geology."
+    },
+    factsAdvanced: {
+      de: ["Eine gigantische endorheische (abflusslose) Senke in der Sahelzone Nordnigerias.", "War vor Tausenden von Jahren der Boden des gigantischen prähistorischen 'Mega-Tschadsees'.", "Geprägt durch extremes Sahelklima mit langen Dürren und minimalem Niederschlag.", "Historisch das Herrschaftsgebiet des extrem mächtigen Kanem-Bornu-Reiches.", "Geologisch ein Sedimentbecken, in dem internationale Konzerne seit Jahren nach Erdöl bohren.", "Das zunehmende Austrocknen treibt massiv die Desertifikation (Wüstenbildung) voran."],
+      hu: [],
+      ro: [],
+      en: ["An absolutely colossal, incredibly flat drainage basin dominating northeastern Nigeria.", "An endorheic basin, meaning its waters flow inland rather than into the ocean.", "Characterized by highly harsh, sweeping dry Sahelian savannas.", "Sits atop massive, deep-well aquifers essential for regional survival and agriculture.", "Covers approximately 20% of the entire geographical landmass of Nigeria.", "The focus of intense, massive geological exploration for potential hydrocarbon reserves."]
+    }
+  },
   {
     id: "gashaka-gumti-forest-nature-v2",
     type: "forest",
@@ -197,7 +379,20 @@ export const poiExtraNigeriaNatureV2: POI[] = [
       hu: ["Számos fajnak ad otthont.", "Hegyvidéki táj."],
       ro: ["Găzduiește numeroase specii.", "Peisaj montan."],
       en: ["Home to numerous species.", "Mountainous landscape."]
-    }, image: "/poi-images/gashaka-gumti-forest-nature-v2.webp"},
+    }, image: "/poi-images/gashaka-gumti-forest-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Gashaka-Gumti-Nationalpark im Bundesstaat Taraba ist Nigerias am besten gehütetes Geheimnis und gleichzeitig der flächenmäßig größte Nationalpark des Landes. Mit seinen fast 6.700 Quadratkilometern ist er dreimal so groß wie Yankari. Was diesen Park so einzigartig macht, ist seine unfassbare landschaftliche Vielfalt: Von tiefen Regenwäldern bis hinauf zum fast 2.400 Meter hohen Gipfel des Chappal Waddi (Nigerias höchstem Berg) umfasst er nahezu jede afrikanische Klimazone. Er ist das letzte Rückzugsgebiet für stark gefährdete Schimpansen, scheue Leoparden und eine fast unendliche Vielfalt an Vögeln. Die Region ist extrem abgelegen und schwer erreichbar, was sie zu einem echten Paradies für Hardcore-Entdecker macht. Geografie K8 — Biodiversität und Bergregenwälder.",
+      hu: "",
+      ro: "",
+      en: "The Gashaka-Gumti forest represents the incredibly dense, highly impenetrable southern montane section of Nigeria's largest national park. Straddling the rugged, highly mountainous border with Cameroon, this massive, pristine wilderness is a deeply critical stronghold for global biodiversity. The forest is characterized by incredibly steep, mist-shrouded valleys, towering ancient hardwood trees, and a remarkably complex, multi-layered canopy. Due to its extreme, incredibly difficult isolation and highly rugged terrain, it remains one of the absolute least disturbed primary forests in West Africa. It serves as an ultra-vital sanctuary for critically endangered primates and incredibly rare, endemic forest bird species. Geography K8 — highly isolated primary forests and montane biodiversity."
+    },
+    factsAdvanced: {
+      de: ["Der mit 6.731 Quadratkilometern absolut größte Nationalpark Nigerias.", "Erstreckt sich über den nördlichen Teil ('Gumti') und den südlichen Teil ('Gashaka').", "Beinhaltet den Chappal Waddi (2.419 m), den höchsten Berg Nigerias.", "Ist ein extrem wichtiges Rückzugsgebiet für die seltene Nigeria-Kamerun-Schimpansen-Unterart.", "Das Klima variiert von feuchtem Regenwald im Süden bis zu trockener Savanne im Norden.", "Sehr schwer zugänglich, weshalb der Park seine unberührte Wildnis erhalten konnte."],
+      hu: [],
+      ro: [],
+      en: ["The incredibly dense, montane forest section of Nigeria's largest national park.", "Located in the highly rugged, incredibly steep border region with Cameroon.", "Considered one of the absolute least disturbed, pristine primary forests in West Africa.", "Features a remarkably complex, dense, mist-shrouded multi-layered canopy.", "An ultra-vital, highly protected sanctuary for incredibly rare, endangered primates.", "Extremely isolated, requiring incredibly difficult, highly challenging physical trekking to access."]
+    }
+  },
   {
     id: "kano-river-nature-v2",
     type: "river",
@@ -210,7 +405,20 @@ export const poiExtraNigeriaNatureV2: POI[] = [
       hu: ["Fontos a mezőgazdaság számára.", "Öntözőrendszereket táplál."],
       ro: ["Important pentru agricultură.", "Alimentează sisteme de irigații."],
       en: ["Important for agriculture.", "Feeds irrigation systems."]
-    }, image: "/poi-images/kano-river-nature-v2.webp"},
+    }, image: "/poi-images/kano-river-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Kano-Fluss ist ein scheinbar unscheinbares, oft schmales Wasserband in Nordnigeria, aber ohne ihn würde die Millionenstadt Kano verdursten. Er entspringt auf dem Jos-Plateau und windet sich durch das trockene Hausaland. Was den Fluss so bedeutend macht, sind die gigantischen Dammprojekte – insbesondere der Tiga-Damm –, die sein Wasser aufstauen, um das riesige Kano River Irrigation Project zu speisen. Durch dieses künstliche Kanalsystem können Bauern in der sengenden Hitze der Sahelzone das ganze Jahr über Weizen, Tomaten und Zwiebeln anbauen. In der Trockenzeit schrumpft der Fluss jedoch drastisch zu einem Rinnsal zusammen. Landwirtschaft K8 — Staudämme und künstliche Bewässerung in Trockenzonen.",
+      hu: "",
+      ro: "",
+      en: "The Kano River is a highly crucial, life-sustaining waterway in the incredibly densely populated, semi-arid region of northern Nigeria. Originating from the elevated Jos Plateau, it flows northward to form a massive, deeply complex agricultural lifeline before joining the Hadejia River. The river is the absolute backbone of the massive Kano River Irrigation Project (KRIP), which utilizes the colossal Tiga Dam to intensely irrigate tens of thousands of hectares of farmland. This massive engineering feat allows for highly productive, year-round cultivation of massive quantities of tomatoes, wheat, and rice, utterly transforming the regional economy and defying the harsh Sahelian climate. Geography K7 — massive irrigation projects and Sahelian rivers."
+    },
+    factsAdvanced: {
+      de: ["Entspringt im felsigen Hochland des Jos-Plateaus und fließt nordöstlich in Richtung Kano.", "Wird durch den gigantischen Tiga-Damm aufgestaut, einem der größten Staudämme in Nordnigeria.", "Speist das Kano River Irrigation Project (KRIP), ein entscheidendes Zentrum der Agrarwirtschaft.", "Ermöglicht den massiven Anbau von Weizen und Tomaten mitten in der Trockenzeit.", "Der Fluss verliert im extrem heißen Sommer einen enormen Teil seiner Wassermenge durch Verdunstung.", "Ist ein Zufluss des Hadejia-Flusses und gehört zum System des Tschadbeckens."],
+      hu: [],
+      ro: [],
+      en: ["Originates on the high-altitude Jos Plateau, flowing northward into Kano State.", "The absolute critical, life-sustaining water source for the densely populated Kano region.", "Heavily dammed by the colossal Tiga Dam, completed in 1974.", "Powers the massive Kano River Irrigation Project (KRIP), one of the largest in West Africa.", "Enables highly productive, year-round cultivation of massive tomato and wheat harvests.", "Utterly transforms the harsh, dry Sahelian landscape into a highly fertile agricultural hub."]
+    }
+  },
   {
     id: "kaduna-river-nature-v2",
     type: "river",
@@ -223,7 +431,20 @@ export const poiExtraNigeriaNatureV2: POI[] = [
       hu: ["Átfolyik Nigéria központján.", "Fontos ártéri területeket hoz létre."],
       ro: ["Curge prin centrul Nigeriei.", "Creează lunci importante."],
       en: ["Flows through central Nigeria.", "Creates important floodplains."]
-    }, image: "/poi-images/kaduna-river-nature-v2.webp"},
+    }, image: "/poi-images/kaduna-river-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Kaduna-Fluss ist ein wilder, mächtiger Strom, der das zentrale Nigeria in zwei Hälften schneidet. Sein Name kommt vom Hausa-Wort für 'Krokodil', und in der Vergangenheit waren seine schlammigen Ufer tatsächlich voll von diesen gewaltigen Reptilien. Er entspringt auf dem Jos-Plateau und stürzt sich durch Schluchten, bevor er die Millionenstadt Kaduna erreicht. In seinem Unterlauf speist er den riesigen Shiroro-Staudamm, der das ganze Land mit Elektrizität versorgt. Bevor er schließlich in den Niger mündet, fließt er durch die traditionellen Gebiete der Nupe und Gwari, für die der Fluss historisch eine Barriere und Lebensader zugleich war. Erdkunde K7 — Krokodile, Wasserkraft und Flussschleifen.",
+      hu: "",
+      ro: "",
+      en: "The Kaduna River is a massive, incredibly powerful tributary of the Niger River, slicing directly through the geographical center of Nigeria. Originating high on the rugged Jos Plateau, the river cascades westward, passing directly through the major industrial city of Kaduna before merging with the Niger. Historically, the river derived its name from the Hausa word for 'crocodiles', which once heavily populated its massive banks. Today, the river is absolutely critical for regional infrastructure, heavily utilized for massive urban water supply, highly intensive dry-season agriculture, and the monumental Shiroro hydroelectric power station, which generates massive electricity for the national grid. Geography K7 — major tributaries and hydroelectric power."
+    },
+    factsAdvanced: {
+      de: ["Hauptnebenfluss des Nigers, der im Jos-Plateau (Zentralnigeria) entspringt.", "Der Name 'Kaduna' bedeutet wörtlich 'Krokodile' in der Hausa-Sprache.", "Fließt direkt durch die gleichnamige Industrie- und ehemalige Kolonialhauptstadt Kaduna.", "Speist das gewaltige Shiroro-Wasserkraftwerk im Bundesstaat Niger.", "Historisch ein wichtiges Zentrum für die traditionelle Flussschifffahrt des Nupe-Volkes.", "Seine extremen jahreszeitlichen Pegelschwankungen führen oft zu Überschwemmungen."],
+      hu: [],
+      ro: [],
+      en: ["A massive, highly powerful tributary of the mighty Niger River.", "Originates high on the Jos Plateau, flowing westward across central Nigeria.", "The name 'Kaduna' literally translates to 'crocodiles' in the traditional Hausa language.", "Passes directly through and sustains the massive industrial city of Kaduna.", "Heavily dammed by the monumental Shiroro Hydroelectric Power Station.", "Crucial for massive urban water supply and highly intensive dry-season floodplain farming."]
+    }
+  },
   {
     id: "sokoto-river-nature-v2",
     type: "river",
@@ -236,7 +457,20 @@ export const poiExtraNigeriaNatureV2: POI[] = [
       hu: ["Fontos vízforrás a szárazabb északon.", "Támogatja a helyi mezőgazdaságot."],
       ro: ["Sursă importantă de apă în nordul mai uscat.", "Susține agricultura locală."],
       en: ["Important water source in the drier north.", "Supports local agriculture."]
-    }, image: "/poi-images/sokoto-river-nature-v2.webp"},
+    }, image: "/poi-images/sokoto-river-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Sokoto-Fluss ist die einzige verlässliche Wasserader in der glühenden Wüstenhitze im äußersten Nordwesten Nigerias. Dieser langsam fließende Strom wandert gemächlich durch das historische Herzland des Sokoto-Kalifats. Während der Trockenzeit trocknen viele seiner Nebenflüsse komplett aus, doch in der Regenzeit füllen sich seine weiten Überschwemmungsebenen ('Fadamas'). Diese Gebiete sind magisch: Der nasse, dunkle Schlamm ermöglicht es den Hausa-Bauern, gigantische Mengen an Reis, Zuckerrohr und Zwiebeln zu kultivieren, obwohl die Landschaft außen herum von der Sahara dominiert wird. Der Bakolori-Damm in seinem Oberlauf sichert die Bewässerung, verändert aber auch stark das natürliche Ökosystem flussabwärts. Wirtschaft K7 — Bewässerungswirtschaft in Dürregebieten (Fadama).",
+      hu: "",
+      ro: "",
+      en: "The Sokoto River is an incredibly vital, life-giving river system flowing through the harsh, extreme northwestern corner of Nigeria. Originating near Funtua, it courses northwest in a massive arc before turning south to join the Niger River. In this incredibly arid, Sahelian climate, the river's wide, shallow floodplains (fadamas) are absolutely essential for survival, supporting incredibly intensive, large-scale cultivation of rice, onions, and garlic during the brutal dry season. The river is heavily managed by the colossal Bakolori Dam, which creates a massive reservoir utilized for extensive irrigation, drastically stabilizing the agricultural output of the historic Sokoto region. Geography K7 — Sahelian floodplains and vital irrigation dams."
+    },
+    factsAdvanced: {
+      de: ["Ein wichtiger, aber oft wasserarmer Zufluss des Flusses Niger im extremen Nordwesten.", "Fließt direkt durch das Herzgebiet des alten und mächtigen Sokoto-Kalifats.", "Die Uferzonen ('Fadamas') sind landesweit berühmt für massiven Reisanbau.", "Wird durch den Bakolori-Damm aufgestaut, um großflächige Bewässerungsprojekte zu versorgen.", "Trocknet in den langen, extrem heißen Sommermonaten stellenweise fast komplett aus.", "War historisch eine der wenigen verlässlichen Wasserquellen für nomadische Viehhirten in der Region."],
+      hu: [],
+      ro: [],
+      en: ["A massive, highly vital tributary of the Niger River in extreme northwestern Nigeria.", "Originates near Funtua, flowing through a harsh, deeply semi-arid Sahelian environment.", "Creates incredibly fertile, shallow floodplains known locally as 'fadamas'.", "Absolutely essential for the massive, intensive cultivation of dry-season rice and onions.", "Heavily managed by the colossal Bakolori Dam, creating a massive agricultural reservoir.", "Sustains the incredibly dense, historically significant agrarian population of Sokoto State."]
+    }
+  },
   {
     id: "hadejia-river-nature-v2",
     type: "river",
@@ -249,7 +483,20 @@ export const poiExtraNigeriaNatureV2: POI[] = [
       hu: ["Fontos vizes élőhely vándormadaraknak.", "Nagyon fajgazdag."],
       ro: ["Zonă umedă importantă pentru păsările migratoare.", "Foarte bogată în specii."],
       en: ["Important wetland for migratory birds.", "Very biodiverse."]
-    }, image: "/poi-images/hadejia-river-nature-v2.webp"},
+    }, image: "/poi-images/hadejia-river-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Hadejia-Fluss ist ein Strom, der auf seinem Weg gegen das völlige Verschwinden kämpft. Er schlängelt sich durch den kargen Norden Nigerias in Richtung des Tschadsees. Zusammen mit dem Jama'are-Fluss formt er die gigantischen Hadejia-Nguru-Feuchtgebiete – eine faszinierende, sumpfige Oase mitten in der staubigen Savanne. In der Trockenzeit verdunstet der Fluss größtenteils im heißen Sand des Tschadbeckens und erreicht den See heute oft gar nicht mehr. Die Region ist ein Paradies für eine unglaubliche Vielzahl an Zugvögeln aus Europa und Asien. Doch die Bauern leiden, denn große Staudämme im Oberlauf (wie der Tiga-Damm) haben dem Fluss in den letzten Jahrzehnten das meiste Wasser abgegraben. Biologie K8 — Feuchtgebiete im Sahel und Wasserkonflikte.",
+      hu: "",
+      ro: "",
+      en: "The Hadejia River is a highly crucial, deeply fascinating waterway in northern Nigeria that flows eastwards, ultimately forming the massive, ecologically astounding Hadejia-Nguru wetlands before reaching Lake Chad. The river is incredibly unusual because it does not reach the sea, but rather spreads out into a massive, highly complex inland delta of seasonal lakes and incredibly dense swamps. This massive wetland system is an absolute ecological treasure, serving as a critical, highly protected wintering ground for millions of Palearctic migratory birds. The river is deeply contested, heavily dammed upstream for aggressive agricultural irrigation, severely threatening the fragile, incredible downstream wetland ecosystem. Geography K8 — inland deltas and migratory bird wetlands."
+    },
+    factsAdvanced: {
+      de: ["Ein stark gefährdeter Fluss in Nordnigeria, der im Trockenen (Tschadbecken) endet.", "Fließt zusammen mit dem Jama'are in die international berühmten Hadejia-Nguru-Feuchtgebiete.", "Die Feuchtgebiete sind ein Ramsar-Schutzgebiet von enormer Bedeutung für Zugvögel.", "Verliert extrem viel Wasser durch Verdunstung und die massiven Tiga- und Challawa-Staudämme im Oberlauf.", "Der Wassermangel im Unterlauf hat zu schweren Konflikten zwischen lokalen Bauern und Hirten geführt.", "Historisch mündete er in den Tschadsee, erreicht ihn aber heute fast nie mehr."],
+      hu: [],
+      ro: [],
+      en: ["A highly crucial river flowing eastwards across the dry savannas of northern Nigeria.", "Forms the massive, ecologically astounding Hadejia-Nguru inland wetland system.", "An endorheic river system that traditionally flowed directly into the shrinking Lake Chad.", "A critical, globally recognized wintering sanctuary for millions of migratory birds.", "Heavily dammed upstream (Tiga and Challawa Gorge dams) for massive agricultural projects.", "Subject to intense, highly contested ecological debate over downstream water flow preservation."]
+    }
+  },
   {
     id: "gongola-river-nature-v2",
     type: "river",
@@ -262,7 +509,20 @@ export const poiExtraNigeriaNatureV2: POI[] = [
       hu: ["Átfolyik Nigéria északkeleti részén.", "Széles folyótájakat hoz létre."],
       ro: ["Curge prin nord-estul Nigeriei.", "Creează peisaje fluviale vaste."],
       en: ["Flows through northeastern Nigeria.", "Creates vast river landscapes."]
-    }, image: "/poi-images/gongola-river-nature-v2.webp"},
+    }, image: "/poi-images/gongola-river-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Gongola ist der längste und wichtigste Nebenfluss des Benue in Nordostnigeria, ein wildes Gewässer, das durch unwegsames Gelände schneidet. Er entspringt auf dem Jos-Plateau, fließt zunächst in einem riesigen Bogen nach Norden in die Savanne, ändert dann drastisch seine Richtung und stürzt sich südwärts hinab in das Benue-Tal. Sein Wasser ist die Lebensgrundlage für den trockenen Bundesstaat Gombe und den Bau des Dadin-Kowa-Damms, der nicht nur Strom, sondern auch dringend benötigtes Wasser für die örtliche Landwirtschaft liefert. Seine Ufer sind traditionell umkämpftes Gebiet zwischen ansässigen Ackerbauern und herumziehenden Fulani-Nomaden, die ihre Rinderherden hier tränken. Geografie K7 — U-förmige Flussverläufe und Staudämme.",
+      hu: "",
+      ro: "",
+      en: "The Gongola River is the longest and most incredibly significant tributary of the Benue River, flowing in a massive, sweeping curve through northeastern Nigeria. Originating on the eastern slopes of the Jos Plateau, it initially flows northwards before making a highly dramatic, sweeping U-turn to head south into the Benue. The river basin is characterized by highly rugged, incredibly scenic terrain and incredibly fertile, seasonal floodplains. The river is heavily harnessed by the massive Dadin Kowa and Kiri dams, incredibly critical infrastructure that provides massive hydroelectric power and sustains tens of thousands of hectares of highly intensive, large-scale irrigation farming. Geography K7 — sweeping river basins and multipurpose dams."
+    },
+    factsAdvanced: {
+      de: ["Der Hauptnebenfluss des Benue im gebirgigen Nordosten Nigerias.", "Besitzt einen geologisch ungewöhnlichen Verlauf (fließt erst nach Norden, dann scharf nach Süden).", "Wird vom mächtigen Dadin-Kowa-Damm (Gombe-Staat) gestaut, um Wasserkraft zu gewinnen.", "Die Uferzonen sind extrem wichtig für lokale Bauern und Fulani-Rinderhirten.", "Der Fluss trocknet während der rauen, langen Sahel-Trockenzeit massiv aus.", "Trennt historisch und geografisch mehrere kleine ethnische Königreiche in der Region."],
+      hu: [],
+      ro: [],
+      en: ["The longest and most incredibly significant northern tributary of the Benue River.", "Features a highly dramatic, massive sweeping U-turn in its geographical flow path.", "Originates on the highly elevated, rocky eastern slopes of the Jos Plateau.", "Heavily managed by the massive Dadin Kowa and Kiri multi-purpose dams.", "Provides incredibly critical hydroelectric power to the northeastern geopolitical zone.", "Creates massive, highly fertile seasonal floodplains utilized for intensive agriculture."]
+    }
+  },
   {
     id: "yobe-river-nature-v2",
     type: "river",
@@ -275,7 +535,20 @@ export const poiExtraNigeriaNatureV2: POI[] = [
       hu: ["A Csád-tóba torkollik.", "Fontos a határmenti régió számára."],
       ro: ["Se varsă în Lacul Ciad.", "Important pentru regiunea de frontieră."],
       en: ["Empties into Lake Chad.", "Important for the border region."]
-    }, image: "/poi-images/yobe-river-nature-v2.webp"},
+    }, image: "/poi-images/yobe-river-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Yobe (auch Komadugu Yobe genannt) ist ein extremer Überlebenskünstler unter den Flüssen. Er entsteht aus dem Zusammenfluss des Hadejia und des Jama'are und bildet auf seinem letzten Stück die natürliche, staubige Grenze zwischen Nigeria und der Republik Niger. Er ist der einzige nennenswerte Fluss, der (zumindest theoretisch noch) von Westen her in den sterbenden Tschadsee fließt. In der sengenden Trockenzeit ist der Yobe nicht mehr als ein trockenes Sandbett, doch wenn der Monsun kommt, füllt er sich schnell. Historisch bewässerte dieser Fluss das Machtzentrum des alten Kanem-Bornu-Imperiums; heute ist seine Umgebung leider oft durch den Boko-Haram-Konflikt gezeichnet, der die Bauern vertrieben hat. Geschichte K8 — Grenzflüsse und historische Imperien der Sahara.",
+      hu: "",
+      ro: "",
+      en: "The Yobe River, historically known as the Komadugu Yobe, is a highly vital, deeply historic seasonal river flowing through the incredibly harsh, extreme northeast of Nigeria. It forms the natural, highly porous international border between Nigeria and the Republic of Niger for over 150 kilometers before emptying into Lake Chad. The river is incredibly seasonal, completely drying up into isolated pools during the brutal Sahelian dry season, yet it provides the absolute critical lifeblood for massive, extensive vegetable and rice farming along its banks. Historically, the river valley was the incredibly fertile, heavily populated heartland of the powerful ancient Kanem-Borno Empire. Geography K8 — seasonal desert rivers and international borders."
+    },
+    factsAdvanced: {
+      de: ["Ein saisonaler Strom, der die nördliche, internationale Grenze zwischen Nigeria und Niger bildet.", "Entsteht durch den Zusammenfluss von Hadejia und Jama'are.", "Der einzige größere Fluss, der aus Westen Wasser in den Tschadsee trägt (wenn auch extrem wenig).", "Führt in den sechs Monaten der Trockenzeit fast nie oberflächlich Wasser (Trockental).", "War historisch das geografische Zentrum der Macht des Kanem-Bornu-Reiches.", "Wird aufgrund von Staudämmen im Oberlauf von schweren ökologischen Wasserengpässen geplagt."],
+      hu: [],
+      ro: [],
+      en: ["A highly vital, incredibly seasonal river located in extreme northeastern Nigeria.", "Forms a natural, 150-kilometer-long international border between Nigeria and Niger.", "A primary, deeply historic water source emptying into the shrinking Lake Chad.", "Completely dries into highly isolated, scattered pools during the brutal dry season.", "Historically formed the incredibly fertile, heavily populated core of the Kanem-Borno Empire.", "Absolutely essential for massive, intensive dry-season vegetable and rice cultivation."]
+    }
+  },
   {
     id: "ogun-forest-nature-v2",
     type: "forest",
@@ -288,7 +561,20 @@ export const poiExtraNigeriaNatureV2: POI[] = [
       hu: ["Trópusi fáknak ad otthont.", "Fontos a fakitermelés számára."],
       ro: ["Găzduiește arbori tropicali.", "Important pentru exploatarea forestieră."],
       en: ["Home to tropical trees.", "Important for timber."]
-    }, image: "/poi-images/ogun-forest-nature-v2.webp"},
+    }, image: "/poi-images/ogun-forest-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Ogun-Waldgebiet, insbesondere das Omo Forest Reserve, ist eine der letzten großen Lungen im stark urbanisierten Südwesten Nigerias. Benannt nach dem Fluss Omo, der den dichten Dschungel durchschneidet, beherbergt dieser fast 1.300 Quadratkilometer große Wald eine extrem seltene, aber leider stark gefährdete Population von afrikanischen Waldelefanten. Diese Tiere sind kleiner als ihre Verwandten in der Savanne und bleiben tief im Unterholz verborgen. Der Wald kämpft täglich ums Überleben gegen illegale Holzfäller, die das wertvolle Mahagoni und Obeche-Holz rauben, sowie gegen Kakaobauern, die illegal Brandrodung betreiben. Lokale Ranger riskieren hier oft ihr Leben für den Naturschutz. Biologie K8 — Waldelefanten und illegaler Tropenholzeinschlag.",
+      hu: "",
+      ro: "",
+      en: "The Ogun Forest Area is a highly contested, incredibly dense tract of secondary tropical rainforest located in southwestern Nigeria. Historically part of a massive, unbroken forest belt, it has been severely fragmented by massive, relentless agricultural expansion and illegal logging. Despite this intense pressure, the remaining heavily protected reserves, such as the Omo Forest Reserve within the area, are absolutely crucial for maintaining regional rainfall patterns and preventing massive soil erosion. The forest is a highly complex, multi-canopied ecosystem that supports incredible biodiversity, including rare chimpanzees, incredibly diverse birdlife, and highly prized, massive indigenous African mahogany trees. Geography K8 — forest fragmentation and tropical biodiversity."
+    },
+    factsAdvanced: {
+      de: ["Das Omo Forest Reserve ist der wichtigste Regenwald im Ogun-Staat.", "Es erstreckt sich über eine Fläche von rund 1.305 Quadratkilometern.", "Ist eines der letzten Refugien für die vom Aussterben bedrohten Waldelefanten in Nigeria.", "Beherbergt seltene Baumarten wie Mahagoni, Iroko und Obeche.", "Wird intensiv von illegalen Holzfällern und Kakaobauern bedroht.", "Besitzt eine internationale Naturschutz-Initiative, um die Elefanten zu retten."],
+      hu: [],
+      ro: [],
+      en: ["A highly dense, ecologically critical tract of secondary rainforest in Ogun State.", "Severely fragmented due to massive, relentless urban and agricultural encroachment.", "Contains highly protected, absolutely crucial ecological zones like the Omo Forest Reserve.", "Absolutely vital for maintaining the highly complex, delicate regional rainfall patterns.", "Provides incredibly important sanctuary for rare primates and massive, diverse birdlife.", "Under intense, constant threat from massive illegal logging of highly prized African mahogany."]
+    }
+  },
   {
     id: "osun-forest-nature-v2",
     type: "forest",
@@ -301,7 +587,20 @@ export const poiExtraNigeriaNatureV2: POI[] = [
       hu: ["Védett terület.", "Magas ökológiai jelentőség."],
       ro: ["Zonă protejată.", "Semnificație ecologică ridicată."],
       en: ["Protected area.", "High ecological importance."]
-    }, image: "/poi-images/osun-forest-nature-v2.webp"},
+    }, image: "/poi-images/osun-forest-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Osun-Wald, vor allem der heilige Hain von Osogbo, ist ein Primärwald, der nur durch die tiefe Religiosität der Yoruba-Menschen vor der Abholzung bewahrt wurde. Jeder andere Wald in der Nähe wurde für Landwirtschaft gerodet, aber dieser dunkle Hain gilt als Wohnsitz der mächtigen Flussgöttin Osun. Mitten im Wald fließen die klaren Wasser des Osun-Flusses, an dessen Ufern in den 1950er Jahren die österreichische Künstlerin Susanne Wenger gewaltige Skulpturen im Stil der 'New Sacred Art' aus Lehm und Zement errichtete, um die heiligen Schreine zu beschützen. Heute ist der Wald ein UNESCO-Welterbe und ein faszinierendes Beispiel dafür, wie Naturreligion einen Wald wirksamer schützen kann als staatliche Gesetze. Gesellschaft K7 — Heilige Wälder und Naturreligionen.",
+      hu: "",
+      ro: "",
+      en: "The Osun Forest is a highly sacred, incredibly pristine patch of primary high forest located entirely within the urban boundaries of Osogbo in Osun State. Unlike the massive, sprawling timber reserves, this remarkably intact forest has been fiercely, completely protected for centuries by incredibly strict, unyielding traditional Yoruba religious taboos, as it is considered the literal, highly sacred home of the river goddess Osun. This incredibly strict indigenous conservation model has resulted in an amazingly rich, deeply undisturbed ecosystem, featuring towering ancient trees, rare medicinal plants, and heavily protected monkey populations. It is a stunning, globally recognized triumph of religion-based ecological preservation. History K8 — indigenous conservation and sacred forests."
+    },
+    factsAdvanced: {
+      de: ["Ein erhaltener Restprimärwald am Stadtrand von Osogbo (Osun State).", "Ist ein offizielles UNESCO-Weltkulturerbe (seit 2005).", "Wurde nicht durch Gesetze, sondern durch traditionelle Yoruba-Religion ('Tabus') geschützt.", "Beherbergt den Osun-Fluss und Dutzende von massiven, mystischen Kunstskulpturen.", "Die österreichische Künstlerin Susanne Wenger (Adunni Olorisha) rettete ihn vor der Abholzung.", "Das jährliche Osun-Osogbo-Festival zieht Zehntausende Besucher in den Wald."],
+      hu: [],
+      ro: [],
+      en: ["A remarkably intact, highly pristine patch of primary high forest in Osogbo, Osun State.", "Fiercely and completely protected for centuries by incredibly strict traditional Yoruba religious taboos.", "Considered the highly sacred, literal home of the deeply revered river goddess Osun.", "An incredibly successful, globally recognized model of indigenous, religion-based ecological conservation.", "Features incredibly towering ancient trees, rare medicinal plants, and protected monkey troops.", "Represents the incredibly dense, historic forest cover that once defined all of southwestern Nigeria."]
+    }
+  },
   {
     id: "kainji-forest-nature-v2",
     type: "forest",
@@ -314,7 +613,20 @@ export const poiExtraNigeriaNatureV2: POI[] = [
       hu: ["Sok vadállat élőhelye.", "Fontos pufferzóna."],
       ro: ["Habitat pentru multe animale sălbatice.", "Zonă tampon importantă."],
       en: ["Habitat for many wild animals.", "Important buffer zone."]
-    }, image: "/poi-images/kainji-forest-nature-v2.webp"},
+    }, image: "/poi-images/kainji-forest-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Kainji-Nationalpark-Wald ist eine der vielfältigsten Übergangszonen (Ökotone) in Westafrika, in der die feuchte Guinea-Savanne auf die viel trockenere Sudan-Savanne trifft. Gelegen im Westen Nigerias (Bundesstaaten Niger und Kwara), umschließt der Wald den gigantischen, künstlich angelegten Kainji-Stausee. Im Borgu-Sektor des Parks durchstreifen Paviane, Warzenschweine und Pferdeantilopen die weiten Graslandschaften, während an den bewaldeten Ufern des Sees Flusspferde weiden. Der Park leidet, wie so viele Schutzgebiete in der Region, unter chronischer Unterfinanzierung, weshalb Löwen und Leoparden hier mittlerweile als nahezu ausgestorben gelten. Biologie K7 — Übergangssavannen und Nationalpark-Management.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Ein riesiger Nationalpark (über 5.300 km²) rund um den künstlichen Kainji-Stausee.", "Besteht aus zwei Hauptsektoren: dem Borgu-Wildreservat und dem Zugurma-Wildreservat.", "Zeigt eine klassische Übergangsvegetation von der Guinea- zur Sudan-Savanne.", "Ist Heimat für hunderte Flusspferde, Kob-Antilopen und seltene Vogelarten.", "Leidet seit Jahren massiv unter Wilderei und dem illegalen Weiden von Rinderherden.", "Der ehemals berühmte Löwenbestand des Parks gilt heute leider als praktisch erloschen."],
+      hu: [],
+      ro: [],
+      en: []
+    }
+  },
   {
     id: "cross-river-forest-nature-v2",
     type: "forest",
@@ -327,7 +639,20 @@ export const poiExtraNigeriaNatureV2: POI[] = [
       hu: ["Rendkívül fajgazdag.", "A biológiai sokféleség egyik központja."],
       ro: ["Extrem de bogată în specii.", "Un punct fierbinte al biodiversității."],
       en: ["Extremely biodiverse.", "A biodiversity hotspot."]
-    }, image: "/poi-images/cross-river-forest-nature-v2.webp"},
+    }, image: "/poi-images/cross-river-forest-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Cross-River-Regenwald ist das wertvollste, komplexeste und älteste Ökosystem in ganz Nigeria. Dieser unglaublich dichte Primärwald im äußersten Südosten hat die letzte große afrikanische Eiszeit überstanden, ohne auszutrocknen. Deshalb findet man hier eine unfassbare Biodiversität: Mehr als die Hälfte aller in Nigeria bekannten Vogelarten und unzählige seltene Pflanzen, die in der modernen Medizin erforscht werden, wachsen in diesem Dschungel. Sein berühmtester Bewohner ist der vom Aussterben bedrohte Cross-River-Gorilla, von dem es weltweit nur noch wenige Hundert Exemplare gibt. Doch dieser Urwald schrumpft täglich, zerfressen von Kettensägen und Bulldozern für eine geplante Mega-Autobahn. Erdkunde K8 — Primärregenwald, Eiszeit-Refugien und Gorillaschutz.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Einer der ältesten und artenreichsten noch existierenden Primärregenwälder Afrikas.", "Überstand die pleistozänen Eiszeiten als sogenanntes Dschungel-Refugium.", "Heimat der seltensten Gorilla-Unterart der Welt, dem Cross-River-Gorilla.", "Beherbergt zudem Drills, Schimpansen und seltene Waldelefanten.", "Zentrum des Cross River National Parks (Okwangwo und Oban Division).", "Wird durch illegales Tropenholzfällen und Landwirtschaft massiv dezimiert."],
+      hu: [],
+      ro: [],
+      en: []
+    }
+  },
   {
     id: "buea-mountain-nature-v2",
     type: "mountain",
@@ -340,7 +665,20 @@ export const poiExtraNigeriaNatureV2: POI[] = [
       hu: ["Látványos hegyi tájak.", "Nagyon zöld és nedves."],
       ro: ["Peisaje montane spectaculoase.", "Foarte verde și umed."],
       en: ["Spectacular mountain landscapes.", "Very green and humid."]
-    }, image: "/poi-images/buea-mountain-nature-v2.webp"},
+    }, image: "/poi-images/buea-mountain-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Berge an der Grenze zu Kamerun, oft fälschlicherweise in touristischen Kontexten als Ausläufer von Buea bezeichnet (obwohl der Mount Buea/Kamerunberg selbst in Kamerun liegt), bilden die beeindruckenden Obudu-Berge auf der nigerianischen Seite. Auf über 1.500 Metern Höhe klammert sich hier Nebel an die grasbewachsenen, tiefgrünen Hänge. Diese hochgelegene Region im Cross River State ist wie eine völlig fremde Welt in Nigeria: Statt der üblichen tropischen 35 Grad kühlt es hier nachts extrem ab. Die Vegetation wechselt von dichtem Regenwald in den steilen Tälern zu sanftem, fast alpinem Grasland auf den Gipfeln, auf dem seltene Gorillas (in den abgelegenen Schluchten) und Rinder (auf dem Plateau) ein friedliches, isoliertes Leben führen. Geografie K7 — Hochgebirgsvegetation und Bergtourismus.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Bezieht sich auf die hochgelegenen Gebirgszüge im Grenzgebiet zwischen Nigeria und Kamerun.", "In Nigeria bilden sie das berühmte Obudu-Plateau (Südosten) und Mambilla (Norden).", "Zeichnen sich durch ein kühles, oft nebliges und fast gemäßigtes Mikroklima aus.", "Die Berge wirken als gigantische natürliche Barriere für atlantische Wolken (Steigungsregen).", "Die Gipfel sind geprägt von baumlosen Grasländern, während die Schluchten dichter Dschungel sind.", "Ein wichtiger Hub für den Luxus-Ökotourismus (Obudu Mountain Resort) in Nigeria."],
+      hu: [],
+      ro: [],
+      en: []
+    }
+  },
   {
     id: "mandara-mountains-nature-v2",
     type: "mountain",
@@ -353,7 +691,20 @@ export const poiExtraNigeriaNatureV2: POI[] = [
       hu: ["Erősen erodált csúcsok.", "Történelmileg lakott terület."],
       ro: ["Vârfuri puternic erodate.", "Zonă locuită istoric."],
       en: ["Strongly eroded peaks.", "Historically inhabited area."]
-    }, image: "/poi-images/mandara-mountains-nature-v2.webp"},
+    }, image: "/poi-images/mandara-mountains-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Mandara-Gebirge ist eine extrem raue, vulkanische Kette von Granitbergen, die sich über 200 Kilometer an der nördlichen Grenze zwischen Nigeria und Kamerun erstreckt. Diese Berge sind kein Ort für schwache Nerven; die Landschaft ist karg, felsig und extrem heiß. Doch diese isolierte Festung war jahrhundertelang die rettende Zuflucht für kleine, animistische Bergbauernvölker (wie in der Sukur-Kulturlandschaft), die sich hier vor den großen islamischen Imperien der Ebenen versteckten. Die Bergvölker legten unglaubliche, in den Stein gehauene Terrassen an, um Hirse anzubauen. In jüngster Zeit boten diese tiefen Höhlen und Schluchten leider auch den Kämpfern der Boko-Haram-Miliz ein kaum einnehmbares Versteck. Geschichte K8 — Bergvölker, Terrassenfeldbau und Rückzugsgebiete.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Eine etwa 200 Kilometer lange, schroffe Gebirgskette an der nigerianisch-kamerunischen Grenze.", "Besteht geologisch hauptsächlich aus extrem harten Granit- und Vulkansteinformationen.", "War historisch das perfekte, uneinnehmbare Rückzugsgebiet für unzählige kleine Ethnien.", "Die Bewohner betrieben spektakulären Terrassen-Feldbau, um im Fels überleben zu können.", "Beinhaltet Nigerias erstes UNESCO-Welterbe, die Sukur-Kulturlandschaft.", "Das unwegsame Terrain wurde in den 2010er Jahren stark vom Boko-Haram-Konflikt gezeichnet."],
+      hu: [],
+      ro: [],
+      en: []
+    }
+  },
   {
     id: "guinea-gulf-sea-nature-v2",
     type: "sea",
@@ -366,7 +717,20 @@ export const poiExtraNigeriaNatureV2: POI[] = [
       hu: ["Fontos a hajózás számára.", "Gazdag kőolajlelőhelyekben."],
       ro: ["Important pentru navigație.", "Bogată în zăcăminte de petrol."],
       en: ["Important for shipping.", "Rich in oil reserves."]
-    }, image: "/poi-images/guinea-gulf-sea-nature-v2.webp"},
+    }, image: "/poi-images/guinea-gulf-sea-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Golf von Guinea ist der feuchte, stürmische Ozean, der Nigerias gesamte 850 Kilometer lange Südküste formt. Er ist der eigentliche Motor der nigerianischen Wirtschaft und gleichzeitig ihre größte Schwachstelle. Hier, weit draußen auf dem oft rauen Meer, stehen Hunderte von gewaltigen Offshore-Ölplattformen (wie die Bonga Field Anlage), die den Großteil der Devisen des Landes erwirtschaften. Das extrem warme Wasser zieht riesige Fischschwärme an, aber leider auch Kriminelle: Der Golf von Guinea gilt aufgrund bewaffneter Gruppen aus dem Nigerdelta, die Öltanker und Frachter angreifen und Geiseln nehmen, weltweit als eines der gefährlichsten Gewässer für moderne Piraterie. Erdkunde K8 — Offshore-Ölförderung und moderne Piraterie.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Bildet die gesamte, etwa 850 Kilometer lange Küstenlinie Nigerias im Süden.", "Ist das unbestrittene Zentrum der lukrativen nigerianischen Offshore-Erdölförderung.", "Das Wasser ist extrem warm und nährstoffreich, was den Golf zu einem reichen Fischgrund macht.", "Berüchtigt als weltweiter 'Hotspot' für hochorganisierte, bewaffnete Piraterie.", "Die Küstenlinie ist stark geprägt von Mangrovenwäldern, Lagunen und dem Nigerdelta.", "Beherbergt wichtige Seehäfen wie Lagos (Apapa), Port Harcourt und den neuen Lekki Deep Sea Port."],
+      hu: [],
+      ro: [],
+      en: []
+    }
+  },
   {
     id: "kainji-dam-nature-v2",
     type: "lake",
@@ -379,7 +743,20 @@ export const poiExtraNigeriaNatureV2: POI[] = [
       hu: ["Fontos a madarak számára.", "Népszerű megfigyelőhely."],
       ro: ["Important pentru păsări.", "Popular pentru observații."],
       en: ["Important for birds.", "Popular for observations."]
-    }, image: "/poi-images/kainji-dam-nature-v2.webp"},
+    }, image: "/poi-images/kainji-dam-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Ufer des Kainji-Stausees ist eine bizarre, menschengemachte Landschaft, die heute wie reine Natur wirkt. Als der gewaltige Damm in den 1960er Jahren den Fluss Niger blockierte, versanken alte Bäume und Dörfer für immer im Schlamm. Heute säumen verdorrte Baumstümpfe, die wie Geister aus dem Wasser ragen, weite Teile des Ufers. Diese Untiefen sind ein extremes Risiko für Bootsfahrer, aber ein absolutes Paradies für Krokodile, die sich auf den nackten Ästen in der Sonne aufwärmen. Die Uferzonen, an denen das Wasser saisonal sinkt (Fadamas), ziehen zudem Bauern an, die den extrem fruchtbaren, nassen Schlamm für den Anbau von Zwiebeln und Reis nutzen. Biologie K7 — Stausee-Ökosysteme und versunkene Wälder.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Die Ufer des Kainji-Sees entstanden erst künstlich im Jahr 1968 durch den Dammbau.", "Unter dem Wasser liegen noch heute die Reste unzähliger alter, toter Wälder.", "Die abgestorbenen, aus dem Wasser ragenden Baumstümpfe sind eine massive Gefahr für Fischerboote.", "Das Ufer bietet perfekte, sonnige Ruheplätze für große Krokodilpopulationen.", "Die schwankenden Wasserstände ('Drawdown Zones') schaffen hochfruchtbares Ackerland.", "Ist das Rückgrat der Fischerei-Industrie im Bundesstaat Niger."],
+      hu: [],
+      ro: [],
+      en: []
+    }
+  },
   {
     id: "niger-river-delta-nature-v2",
     type: "river",
@@ -392,6 +769,18 @@ export const poiExtraNigeriaNatureV2: POI[] = [
       hu: ["Védi a partvonalat.", "Magas biodiverzitás."],
       ro: ["Protejează coasta.", "Biodiversitate ridicată."],
       en: ["Protects the coast.", "High biodiversity."]
+    },
+    descriptionAdvanced: {
+      de: "Die Mangroven des Nigerdeltas sind ein schlammiges, extrem salziges Labyrinth, das größer ist als viele europäische Staaten. Dieses Wurzelgewirr wächst dort, wo das Süßwasser des Niger auf den salzigen Atlantik trifft, und schützt das nigerianische Festland vor Stürmen und Küstenerosion. Mangroven sind die ultimativen 'Kinderstuben' des Ozeans, wo sich Fische, Garnelen und Austern sicher vor Raubfischen entwickeln. Tragischerweise ersticken diese Atemrohre der Natur seit Jahrzehnten an schwarzem, zähem Rohöl. Lecks aus Tausenden von Pipelines durchtränken den Schlamm, töten die Wurzeln ab und zerstören die Grundlage der Fischerdörfer, in denen Menschen oft noch auf Stelzen direkt über dem schwarzen, öligen Wasser leben. Erdkunde K8 — Brackwasser-Mangroven und Ölverschmutzung.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Das Nigerdelta besitzt den drittgrößten zusammenhängenden Mangrovenwald der gesamten Erde.", "Mangroven wachsen im extrem harschen Übergangsbereich von Süß- und Salzwasser (Brackwasser).", "Die Wurzeln bieten einen unersetzlichen Schutz (Kinderstube) für zahllose marine Fischarten.", "Verhindern massiv die drohende Küstenerosion durch die starken Gezeiten des Atlantiks.", "Sind durch tausende Öllecks schwer beschädigt; oft sind die Wurzeln schwarz von Rohöl.", "Das Fällen von Mangroven für Feuerholz verstärkt die ökologische Katastrophe der Region weiter."],
+      hu: [],
+      ro: [],
+      en: []
     }
   }
 ];

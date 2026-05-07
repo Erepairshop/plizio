@@ -478,8 +478,8 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
     },
       facts: {
       de: ["Vulkanische Formationen.", "Himmelinsel in der Wüste.", "Deutlich kühler als die Umgebung.", "Heimat des Schwarzbären.", "Spektakuläre Wanderwege.", "Einzigartige Flora."],
-      hu: ["Vulkáni képződmények.", "„Égi sziget” a sivatagban.", "Jóval hűvösebb, mint a környezete.", "A feketemedve otthona.", "Látványos túraútvonalak.", "Egyedülálló növényvilág."],
-      ro: ["Formațiuni vulcanice.", "„Insulă cerească” în deșert.", "Mult mai răcoros decât împrejurimile.", "Casa ursului negru.", "Trasee spectaculoase de drumeție.", "Floră unică."],
+      hu: ["Vulkáni képződmények.", "\"Égi sziget\" a sivatagban.", "Jóval hűvösebb, mint a környezete.", "A feketemedve otthona.", "Látványos túraútvonalak.", "Egyedülálló növényvilág."],
+      ro: ["Formațiuni vulcanice.", "\"Insulă cerească\" în deșert.", "Mult mai răcoros decât împrejurimile.", "Casa ursului negru.", "Trasee spectaculoase de drumeție.", "Floră unică."],
       en: ["Volcanic formations.", "Sky island in the desert.", "Significantly cooler than the surroundings.", "Home to the black bear.", "Spectacular hiking trails.", "Unique flora."]
     }, image: "/poi-images/chisos-mountains-relief-v2.webp"},
   {

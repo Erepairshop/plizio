@@ -66,6 +66,12 @@ export const poiExtraMoroccoLifeV2: POI[] = [
       hu: ["Híres narancsairól.", "Intenzív öntözés."],
       ro: ["Faimos pentru portocale.", "Irigare intensivă."],
       en: ["Famous for oranges.", "Intensive irrigation."]
+    },
+    descriptionAdvanced: {
+      ro: "Câmpia Gharb, una dintre cele mai mari și mai fertile câmpii din Maroc, se întinde de-a lungul râului Sebou, în nord-vestul țării. Datorită solurilor aluvionare fertile și a abundenței de apă, Gharb este o regiune agricolă de primă importanță. Este un centru major pentru cultivarea citricelor, în special a portocalelor, dar și pentru orez, sfeclă de zahăr, trestie de zahăr și floarea-soarelui. Modernizarea agriculturii prin proiecte extinse de irigații a transformat Gharb într-un pol de producție intensivă. Regiunea joacă un rol strategic în asigurarea securității alimentare a Marocului și este un contributor important la exporturile agricole ale țării. Economie agrară K8 – de la agricultura de subzistență la cea industrială."
+    },
+    factsAdvanced: {
+      ro: ["Câmpia Gharb acoperă o suprafață de aproximativ 4.000 km².", "Râul Sebou, cel mai mare râu din Maroc ca debit, traversează câmpia.", "Regiunea produce o parte semnificativă din zahărul Marocului, din sfeclă și trestie de zahăr.", "Este singura regiune din Maroc unde se cultivă orez la scară largă.", "Peste 70% din suprafața irigată a Marocului se află aici.", "Orașul Kenitra este principalul centru urban și industrial al regiunii.", "Portul Kenitra de pe râul Sebou a fost istoric important pentru exporturi.", "Proiectele de irigații au fost inițiate în perioada protectoratului francez."]
     }, image: "/poi-images/gharbi-citrus-agriculture-life-v2.webp"},
   {
     id: "moulouya-valley-agriculture-life-v2",
@@ -92,6 +98,12 @@ export const poiExtraMoroccoLifeV2: POI[] = [
       hu: ["Sok egzotikus állat.", "Játszóterek gyerekeknek."],
       ro: ["Multe animale exotice.", "Locuri de joacă pentru copii."],
       en: ["Many exotic animals.", "Playgrounds for children."]
+    },
+    descriptionAdvanced: {
+      ro: "Grădina Zoologică Ain Sebaa din Casablanca este una dintre cele mai vechi din Maroc, inaugurată în 1928. Deși a trecut prin perioade de declin, în prezent se află într-un proces amplu de renovare pentru a deveni un parc zoologic modern, axat pe conservarea faunei africane. Proiectul de reabilitare, lansat în anii recenți, vizează crearea unor habitate mai spațioase și mai naturale pentru animale, precum și dezvoltarea unor programe educaționale. Parcul istoric a găzduit de-a lungul timpului lei, tigri, elefanți și alte specii exotice, fiind un loc de recreere îndrăgit de generații de locuitori ai Casablancăi. Noua viziune promite o experiență îmbunătățită pentru vizitatori și condiții mai bune pentru animale. Științe ale naturii K5 – conservarea speciilor."
+    },
+    factsAdvanced: {
+      ro: ["Grădina zoologică originală a fost deschisă în 1928.", "Este situată în cartierul Ain Sebaa, în nord-estul Casablancăi.", "Proiectul de renovare acoperă o suprafață de 10 hectare.", "Noul concept este de a recrea trei zone biogeografice africane: Sahel, Savană și Pădure Ecuatorială.", "Investiția pentru modernizare se ridică la peste 250 de milioane de dirhami.", "Leul de Atlas, o specie dispărută în sălbăticie, este un simbol al parcului.", "Se preconizează că noul parc va găzdui peste 45 de specii africane.", "Planurile includ un spital veterinar și un centru de cercetare."]
     }, image: "/poi-images/casablanca-zoo-kid-landmark-life-v2.webp"},
   {
     id: "rabat-zoo-kid-landmark-life-v2",
@@ -131,6 +143,12 @@ export const poiExtraMoroccoLifeV2: POI[] = [
       hu: ["Népszerű fotótéma.", "Park gyerekeknek játékhoz."],
       ro: ["Motiv fotografic popular.", "Parc de joacă pentru copii."],
       en: ["Popular photo spot.", "Park for kids to play."]
+    },
+    descriptionAdvanced: {
+      ro: "Statuia leului din Ifrane este, fără îndoială, cel mai faimos și fotografiat monument al orașului. Sculptată în piatră în anii 1930 de către un artist german, statuia comemorează ultimul leu de Atlas, o subspecie magnifică, dispărută din sălbăticie la începutul secolului al XX-lea. Leul se odihnește pe un piedestal în centrul orașului, fiind un simbol puternic al forței și al naturii sălbatice pierdute. A devenit un loc de întâlnire popular și un punct de atracție obligatoriu pentru orice vizitator. Pentru copii, este un loc fascinant, care stârnește curiozitatea despre istoria naturală a regiunii și importanța conservării. Istorie K5 – simboluri și monumente."
+    },
+    factsAdvanced: {
+      ro: ["Statuia a fost realizată în timpul protectoratului francez, în jurul anului 1930.", "Autorul este un artist german, Henri Jean Moreau.", "Legenda locală spune că a fost sculptată de un prizonier german în timpul celui de-al Doilea Război Mondial, dar acest lucru este incorect.", "Leul de Atlas (Panthera leo leo) era mai mare și avea o coamă mai închisă la culoare decât leii africani.", "Ultimul leu de Atlas a fost probabil împușcat în Munții Atlas în 1922.", "Statuia este sculptată din calcar local.", "Este situată vizavi de Hotelul Chamonix, în parcul central din Ifrane.", "Ifrane este supranumit 'Mica Elveție' a Marocului datorită arhitecturii sale alpine."]
     }, image: "/poi-images/ifrane-lion-kid-landmark-life-v2.webp"},
   {
     id: "dakhla-bird-habitat-life-v2",
@@ -144,6 +162,12 @@ export const poiExtraMoroccoLifeV2: POI[] = [
       hu: ["Flamingók otthona.", "Madármegfigyelés."],
       ro: ["Acasă pentru flamingo.", "Observarea păsărilor."],
       en: ["Home to flamingos.", "Bird watching."]
+    },
+    descriptionAdvanced: {
+      ro: "Golful Dakhla, situat în regiunea Sahara de Vest, este un ecosistem de o importanță excepțională și un sit Ramsar recunoscut internațional. Această lagună vastă, protejată de o peninsulă lungă, este un punct vital pe ruta migratorie a Atlanticului de Est, atrăgând sute de mii de păsări limicole în fiecare iarnă. Apele sale puțin adânci și bogate în nutrienți oferă un habitat ideal pentru flamingo roz, spatule, cormorani și multe alte specii. Este considerat unul dintre cele mai importante locuri de iernat pentru păsările acvatice din Palearctica de Vest. Pe lângă păsări, laguna găzduiește și o populație de foci călugăr mediteraneene, o specie pe cale de dispariție. Biologie K7 – migrația animalelor și zone umede."
+    },
+    factsAdvanced: {
+      ro: ["Situl Ramsar Dakhla a fost desemnat în 2005.", "Peste 200 de specii de păsări au fost înregistrate în zonă.", "Iarna, numărul păsărilor poate depăși 300.000 de indivizi.", "Găzduiește cea mai mare colonie de flamingo roz din Maroc.", "Apele golfului sunt renumite și pentru kitesurfing și windsurfing.", "Foca călugăr mediteraneană (Monachus monachus) are aici unul dintre ultimele sale refugii.", "Temperatura apei este constantă pe tot parcursul anului, în jur de 22°C.", "Golful are o lungime de aproximativ 40 km și o lățime de 10 km."]
     }, image: "/poi-images/dakhla-bird-habitat-life-v2.webp"},
   {
     id: "khenifiss-national-park-life-v2",
@@ -157,6 +181,12 @@ export const poiExtraMoroccoLifeV2: POI[] = [
       hu: ["Tengeri madarak védelme.", "Lagúna ökoszisztéma."],
       ro: ["Protecția păsărilor marine.", "Ecosistem de lagună."],
       en: ["Protection of marine birds.", "Lagoon ecosystem."]
+    },
+    descriptionAdvanced: {
+      ro: "Parcul Național Khenifiss, situat pe coasta Atlanticului între Tan-Tan și Tarfaya, este un sit de o valoare ecologică excepțională, fiind singurul parc național din Maroc care combină un peisaj deșertic cu o lagună marină. Laguna Naïla, cea mai mare lagună din Maroc, este inima parcului și un sit Ramsar. Este un habitat crucial pentru păsările migratoare, în special pentru rața ruginie și gâsca sălbatică. Peisajul este spectaculos, cu dune de nisip care se întâlnesc cu oceanul, stânci înalte și sebkhas (depresiuni sărate). Parcul protejează o biodiversitate unică, adaptată la condiții extreme, și este un exemplu remarcabil de ecosistem costier saharian. Biologie K7 – adaptări la medii extreme."
+    },
+    factsAdvanced: {
+      ro: ["Parcul a fost înființat în 2006 și acoperă 1.850 km².", "Laguna Naïla este un sit Ramsar de importanță internațională.", "Găzduiește populații importante de rață ruginie și gâscă de vară.", "Este un loc important de reproducere pentru pescărușul lui Audouin.", "Peisajul include cele mai înalte stânci de coastă din Maroc.", "Parcul este traversat de ueduri care se varsă în lagună.", "Dunele de nisip pot atinge înălțimi considerabile.", "Comunitățile locale de pescari depind de resursele lagunei."]
     }, image: "/poi-images/khenifiss-national-park-life-v2.webp"},
   {
     id: "berkane-fruit-agriculture-life-v2",
@@ -170,6 +200,12 @@ export const poiExtraMoroccoLifeV2: POI[] = [
       hu: ["Fő klementintermelő.", "Exportrégió."],
       ro: ["Principalul producător de clementine.", "Regiune de export."],
       en: ["Main producer of clementines.", "Export region."]
+    },
+    descriptionAdvanced: {
+      ro: "Regiunea Berkane, situată în nord-estul Marocului, este recunoscută drept capitala citricelor din țară, în special pentru clementinele sale excepționale. Datorită unui microclimat favorabil și solurilor fertile din valea râului Moulouya, fructele cultivate aici au o calitate superioară, fiind apreciate atât pe piața internă, cât și la export. Clementinele de Berkane beneficiază de o Indicație Geografică Protejată (IGP), care le certifică originea și calitatea. Agricultura intensivă, bazată pe irigații moderne, susține o economie locală vibrantă. Pe lângă clementine, regiunea produce și portocale, lămâi și alte fructe, jucând un rol esențial în sectorul agricol marocan. Economie K7 – agricultură și comerț internațional."
+    },
+    factsAdvanced: {
+      ro: ["Berkane produce peste 150.000 de tone de clementine anual.", "Clementina 'Fina de Berkane' este soiul cel mai renumit.", "Indicația Geografică Protejată a fost acordată în 2010.", "Exporturile de citrice din Berkane ajung în principal în Europa, Rusia și Canada.", "Râul Moulouya este sursa principală de apă pentru irigații în regiune.", "Suprafața cultivată cu citrice depășește 20.000 de hectare.", "Festivalul Clementinelor se organizează anual pentru a celebra recolta.", "Agricultura reprezintă peste 30% din economia locală."]
     }, image: "/poi-images/berkane-fruit-agriculture-life-v2.webp"},
   {
     id: "doukkala-wheat-agriculture-life-v2",
@@ -183,6 +219,12 @@ export const poiExtraMoroccoLifeV2: POI[] = [
       hu: ["Nagy búzatáblák.", "Hagyományos mezőgazdaság."],
       ro: ["Câmpuri mari de grâu.", "Agricultură tradițională."],
       en: ["Large wheat fields.", "Traditional agriculture."]
+    },
+    descriptionAdvanced: {
+      ro: "Regiunea Doukkala, o câmpie vastă situată de-a lungul coastei atlantice, la sud de Casablanca, este unul dintre grânarele Marocului. Datorită solurilor sale fertile și a unui climat temperat, regiunea este un centru major pentru cultivarea cerealelor, în special a grâului dur și a orzului. Agricultura tradițională este încă larg răspândită, deși proiectele de irigații moderne au început să schimbe peisajul agricol. Pe lângă cereale, Doukkala este cunoscută și pentru culturile de sfeclă de zahăr și legume. Caii din rasa arabă-berberă sunt, de asemenea, o mândrie a regiunii, fiind crescuți aici de secole. Economia locală este strâns legată de performanța sectorului agricol. Geografie agrară K6 – tipuri de culturi și regiuni agricole."
+    },
+    factsAdvanced: {
+      ro: ["Doukkala contribuie semnificativ la producția națională de grâu a Marocului.", "Capitala informală a regiunii este El Jadida.", "Barajul Al Massira de pe râul Oum Er-Rbia asigură o parte din apa pentru irigații.", "Terenurile agricole acoperă peste 500.000 de hectare.", "Sfecla de zahăr este cultivată pentru a aproviziona fabricile de zahăr locale.", "Creșterea cailor este o tradiție importantă, celebrată prin festivaluri anuale ('moussem').", "Regiunea este cunoscută pentru soiul său de pepene galben 'Doukkali'.", "Apropierea de porturile Casablanca și Jorf Lasfar facilitează exportul produselor agricole."]
     }, image: "/poi-images/doukkala-wheat-agriculture-life-v2.webp"},
   {
     id: "oued-noun-agriculture-life-v2",
@@ -235,6 +277,12 @@ export const poiExtraMoroccoLifeV2: POI[] = [
       hu: ["Központi elhelyezkedés.", "Nagyon családbarát."],
       ro: ["Amplasare centrală.", "Foarte prietenos pentru familii."],
       en: ["Centrally located.", "Very family-friendly."]
+    },
+    descriptionAdvanced: {
+      ro: "Valea Păsărilor din Agadir este o oază de verdeață în inima orașului, un parc zoologic și botanic întins pe 2,5 hectare. Este o atracție ideală pentru familii, oferind un refugiu răcoros și educativ. Parcul găzduiește o varietate de păsări exotice, precum papagali, flamingo și fazani, dar și mamifere, inclusiv mufloni și maimuțe. Traseul este conceput ca o plimbare plăcută printre cascade mici și vegetație luxuriantă, creând o atmosferă relaxantă. Accesul este gratuit, ceea ce îl face un loc popular atât pentru localnici, cât și pentru turiști. Parcul joacă un rol important în educația ecologică a tinerilor vizitatori. Științe ale naturii K3 – habitate și ecosisteme."
+    },
+    factsAdvanced: {
+      ro: ["Parcul se întinde pe o suprafață de 2,5 hectare.", "Intrarea în parc este gratuită pentru toți vizitatorii.", "Găzduiește specii de păsări din America de Sud și Asia.", "Printre mamifere se numără muflonul de Atlas.", "Include o cascadă artificială și mai multe iazuri.", "Este situat în centrul zonei turistice din Agadir.", "Un loc popular pentru fotografii, în special podul de lemn.", "Parcul a fost renovat în anii 2000 pentru a îmbunătăți habitatele animalelor."]
     }, image: "/poi-images/agadir-bird-valley-kid-landmark-life-v2.webp"},
   {
     id: "sahara-camel-habitat-life-v2",
@@ -300,6 +348,12 @@ export const poiExtraMoroccoLifeV2: POI[] = [
       hu: ["Szabad tartás.", "Híres kecskesajt."],
       ro: ["Creștere în aer liber.", "Celebră brânză de capră."],
       en: ["Free-range farming.", "Famous goat cheese."]
+    },
+    descriptionAdvanced: {
+      ro: "Regiunea montană din jurul orașului Chefchaouen, în Munții Rif, este un habitat tradițional pentru creșterea caprelor. Turmele de capre fac parte din peisajul local, fiind adesea văzute cățărându-se pe pantele abrupte în căutare de hrană. Această activitate pastorală, practicată de secole de comunitățile berbere, este esențială pentru economia locală. Laptele de capră este folosit pentru a produce o brânză proaspătă, renumită în Maroc, care este o delicatesă servită adesea la micul dejun. Creșterea caprelor în aer liber, într-un mediu natural, contribuie la calitatea produselor. Totuși, suprapășunatul reprezintă o provocare ecologică pentru pădurile fragile de brad și cedru din zonă. Geografie rurală K6 – agricultură tradițională."
+    },
+    factsAdvanced: {
+      ro: ["Rasa locală de capre este adaptată perfect la terenul montan.", "Brânza de capră proaspătă ('jben') este o specialitate a regiunii Chefchaouen.", "Multe familii din mediul rural depind de creșterea caprelor pentru subzistență.", "Caprele sunt cunoscute pentru agilitatea lor, putând urca chiar și în copaci (în special argani, în sud).", "Parcul Național Talassemtane, din apropiere, încearcă să echilibreze conservarea și pășunatul.", "Pășunatul este o practică ce datează de mii de ani în Munții Rif.", "Pe lângă brânză, se valorifică și carnea și pielea de capră.", "Stilul de viață pastoral este o componentă importantă a identității culturale locale."]
     }, image: "/poi-images/chefchaouen-goat-habitat-life-v2.webp"},
   {
     id: "fes-region-agriculture-life-v2",
@@ -313,6 +367,12 @@ export const poiExtraMoroccoLifeV2: POI[] = [
       hu: ["Fontos piacok.", "Változatos termékek."],
       ro: ["Piețe importante.", "Produse variate."],
       en: ["Important markets.", "Diverse produce."]
+    },
+    descriptionAdvanced: {
+      ro: "Regiunea din jurul orașului imperial Fès, situată în câmpia Saïss, este una dintre cele mai fertile și mai productive zone agricole din Maroc. Beneficiind de soluri bogate și de resurse de apă din Munții Atlas, agricultura a prosperat aici de secole. Regiunea este un centru important pentru cultivarea măslinilor, producând un ulei de măsline de înaltă calitate. De asemenea, se cultivă cereale (grâu, orz), leguminoase (năut, linte) și o varietate de fructe, inclusiv struguri și smochine. Piețele vibrante din Fès sunt aprovizionate direct cu produsele proaspete din această regiune. Agricultura nu este doar un pilon economic, ci și o parte integrantă a culturii și gastronomiei locale. Economie K7 – legătura dintre agricultură și centrele urbane."
+    },
+    factsAdvanced: {
+      ro: ["Câmpia Saïss este situată între Munții Rif și Atlasul Mijlociu.", "Regiunea Fès-Meknès este cel mai mare producător de ulei de măsline din Maroc.", "Măslinul este cultivat în această zonă încă din perioada romană.", "Soiul local de măsline 'Picholine marocaine' este foarte apreciat.", "Barajul Idriss I de pe râul Inaouen este crucial pentru irigații.", "Pe lângă agricultură, regiunea este cunoscută și pentru meșteșugurile tradiționale.", "Universitatea Al Quaraouiyine din Fès, fondată în 859, este cea mai veche din lume în funcțiune continuă.", "Terenurile agricole sunt adesea deținute de mici fermieri care practică o agricultură de subzistență."]
     }, image: "/poi-images/fes-region-agriculture-life-v2.webp"},
   {
     id: "midelt-apple-agriculture-life-v2",
@@ -352,6 +412,12 @@ export const poiExtraMoroccoLifeV2: POI[] = [
       hu: ["Halfeldolgozás.", "Fontos export."],
       ro: ["Procesarea peștelui.", "Export important."],
       en: ["Fish processing.", "Important export."]
+    },
+    descriptionAdvanced: {
+      ro: "Portul pescăresc din Agadir este cel mai mare port de sardine din lume, un centru vital pentru economia locală și națională. Piața de pește, situată în incinta portului, este un spectacol vibrant de activitate, în special dimineața devreme, când bărcile se întorc cu captura zilei. Aici, vizitatorii pot asista la licitațiile de pește și pot cumpăra fructe de mare proaspete, de la sardine și calamari la creveți și caracatițe. O experiență autentică este să alegi peștele direct de la tarabe și să îl lași să fie gătit pe loc, la grătarele simple amenajate în apropiere. Mirosul de pește proaspăt și atmosfera plină de viață fac din acest loc o atracție de neratat. Geografie economică K8 – industrii și resurse."
+    },
+    factsAdvanced: {
+      ro: ["Agadir este cel mai mare port de sardine din lume.", "Peste 80% din captura de sardine a Marocului provine de aici.", "Portul a fost reconstruit complet după cutremurul din 1960.", "Licitațiile de pește au loc zilnic, de obicei în jurul orei 7 dimineața.", "Flota de pescuit este formată din sute de bărci tradiționale albastre.", "Pe lângă sardine, se pescuiesc cantități mari de ton și macrou.", "Industria conservelor de pește din Agadir este o sursă majoră de export.", "Complexul include și un șantier naval pentru reparația ambarcațiunilor."]
     }, image: "/poi-images/agadir-fish-market-agriculture-life-v2.webp"},
   {
     id: "ouarzazate-date-agriculture-life-v2",

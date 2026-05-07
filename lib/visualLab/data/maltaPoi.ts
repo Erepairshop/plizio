@@ -2660,6 +2660,6 @@ export const maltaPoi: POI[] = [
       ro: ["Găzduiește muzeul de etnografie", "Include celule de închisoare", "Construit în secolul XVI"],
       en: ["Now houses the National Museum of Ethnography", "Includes original interrogation rooms and cells", "Served as the seat of the Inquisition in Malta until 1798"]
     }
-  }
+  },
 , ...poiExtraMaltaCities, ...poiExtraMaltaOther];
 

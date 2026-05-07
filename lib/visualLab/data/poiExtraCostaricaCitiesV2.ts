@@ -20,7 +20,7 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
       ro: 'Un oraș important din provincia Heredia, cunoscut pentru activitatea sa comercială și zonele rezidențiale.',
     },
     descriptionAdvanced: {
-      de: "San Francisco de Heredia ist ein pulsierendes urbanes Zentrum im Herzen des Central Valley von Costa Rica. Als strategisch wichtiger Teil der Provinz Heredia verbindet die Stadt moderne Wohnviertel mit dynamischen Gewerbegebieten. Besucher schätzen die Nähe zur Provinzhauptstadt und die hervorragende Infrastruktur, die San Francisco zu einem attraktiven Standort für Pendler und Unternehmen macht. Die Region zeichnet sich durch ein angenehmes Klima und eine stetig wachsende Wirtschaft aus. Historisch war die Gegend stark landwirtschaftlich geprägt, hat sich jedoch zu einem modernen Vorort entwickelt, der Bildungseinrichtungen und Einkaufszentren bietet. Die Stadt ist ein Paradebeispiel für die urbane Expansion Costa Ricas in den letzten Jahrzehnten. Sachkunde K4.",
+      de: "San Francisco de Heredia ist ein pulsierendes urbanes Zentrum im Herzen des Central Valley von Costa Rica. Als strategisch wichtiger Teil der Provinz Heredia verbindet die Stadt moderne Wohnviertel mit dynamischen Gewerbegebieten. Besucher schätzen die hervorragende Infrastruktur und die Nähe zur Provinzhauptstadt, was den Ort zu einem attraktiven Standort für Familien und Unternehmen macht. Die Region zeichnet sich durch ein angenehmes Klima und eine stetig wachsende Wirtschaft aus, die durch Dienstleistungen und den Handel geprägt ist. Historisch war die Gegend stark landwirtschaftlich durch Kaffeeanbau geprägt, hat sich jedoch erfolgreich zu einem modernen, urbanen Vorort entwickelt. Die Stadt ist ein Paradebeispiel für die nachhaltige urbane Expansion Costa Ricas in den letzten Jahrzehnten. Fächer: Geografie K5, Sozialkunde K6.",
       hu: "",
       ro: "San Francisco de Heredia este un centru urban vibrant situat în inima Văii Centrale din Costa Rica. Orașul îmbină armonios cartierele rezidențiale moderne cu zone comerciale dinamice, fiind o locație strategică în provincia Heredia. Vizitatorii apreciază infrastructura excelentă și proximitatea față de capitala provinciei, ceea ce facilitează naveta și afacerile. Regiunea se bucură de o climă plăcută și de o economie în continuă creștere, atrăgând numeroase investiții. Deși zona a fost istoric agricolă, s-a transformat într-o suburbie modernă, dotată cu centre comerciale și instituții de învățământ de top. Reprezintă un exemplu clar al expansiunii urbane sustenabile a țării din ultimele decenii.",
       en: ""
@@ -32,7 +32,7 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
       ro: ['Parte a Marii Zone Metropolitane', 'Nod important în Heredia', 'Aproape de zonele industriale'],
     },
     factsAdvanced: {
-      de: ["Liegt auf einer Höhe von etwa 1.100 Metern über dem Meeresspiegel.", "Die Durchschnittstemperatur beträgt ganzjährig ca. 21 Grad Celsius.", "Gehört zur Greater Metropolitan Area (GAM) mit über 2 Millionen Einwohnern.", "Entfernung zur Hauptstadt San José beträgt lediglich 10 Kilometer.", "Der Kanton Heredia, zu dem San Francisco gehört, umfasst 10 Distrikte.", "Die Bevölkerung im Distrikt San Francisco übersteigt 50.000 Menschen.", "Die jährliche Niederschlagsmenge liegt bei rund 2.300 Millimetern."],
+      de: ["Liegt auf einer Höhe von etwa 1.100 Metern über dem Meeresspiegel.", "Die Durchschnittstemperatur beträgt ganzjährig ca. 21 Grad Celsius.", "Gehört zur Greater Metropolitan Area (GAM) mit über 2 Millionen Einwohnern.", "Die Entfernung zum Stadtzentrum der Hauptstadt San José beträgt lediglich 10 Kilometer.", "Der Kanton Heredia, zu dem der Distrikt San Francisco gehört, umfasst 10 Distrikte.", "Die Bevölkerung im Distrikt San Francisco liegt heute bei über 55.000 Menschen.", "Die jährliche Niederschlagsmenge beträgt etwa 2.300 Millimeter."],
       hu: [],
       ro: [
         "Se află la o altitudine de aproximativ 1.100 de metri deasupra nivelului mării.",
@@ -61,7 +61,7 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
       ro: 'Un oraș agricol cheie din provincia Cartago, lângă Grădina Botanică Lankester.',
     },
     descriptionAdvanced: {
-      de: "Paraíso, oft als Tor zum malerischen Orosi-Tal bezeichnet, ist eine geschichtsträchtige Stadt in der Provinz Cartago. Die Stadt besticht durch ihre koloniale Atmosphäre und ihre Rolle als landwirtschaftliches Zentrum, in dem vor allem Kaffee und Zuckerrohr gedeihen. Ein absolutes Highlight in der Nähe ist der Botanische Garten Lankester, der für seine weltweit bedeutende Orchideensammlung bekannt ist. Paraíso bietet eine perfekte Mischung aus Naturerlebnis und kulturellem Erbe. Die fruchtbaren vulkanischen Böden der Umgebung machen die Region zu einem der produktivsten Agrargebiete des Landes. Wer Ruhe sucht und die authentische costa-ricanische Lebensweise kennenlernen möchte, findet hier ein wahres Paradies. Sachkunde K4.",
+      de: "Paraíso, oft als Tor zum malerischen Orosi-Tal bezeichnet, ist eine geschichtsträchtige Stadt in der Provinz Cartago. Die Stadt besticht durch ihre koloniale Atmosphäre und ihre Rolle als landwirtschaftliches Zentrum, in dem vor allem hochwertige Kaffeesorten und Zuckerrohr gedeihen. Ein absolutes Highlight in der direkten Umgebung ist der Botanische Garten Lankester, der weltweit für seine umfangreiche Orchideensammlung und wissenschaftliche Forschung bekannt ist. Paraíso bietet Besuchern eine perfekte Mischung aus authentischem Naturerlebnis und kulturellem Erbe. Die vulkanisch geprägten, fruchtbaren Böden machen die Region zu einem der produktivsten Agrargebiete Costa Ricas. Wer Ruhe sucht und die traditionelle costa-ricanische Lebensweise abseits der Großstädte erleben möchte, findet hier ein wahres Paradies am Rande der Cordillera Central. Fächer: Sachkunde K4, Biologie K7.",
       hu: "",
       ro: "Paraíso este un oraș încărcat de istorie situat în provincia Cartago, fiind adesea numit poarta de acces către spectaculoasa Vale Orosi. Orașul atrage prin atmosfera sa colonială și rolul său de centru agricol important, unde prosperă plantațiile de cafea și trestie de zahăr. O atracție majoră din apropiere este Grădina Botanică Lankester, renumită la nivel mondial pentru colecția sa impresionantă de orhidee. Solurile vulcanice fertile fac din această regiune una dintre cele mai productive zone agricole ale Costa Ricăi. Paraíso oferă o combinație perfectă între frumusețea naturii și moștenirea culturală autentică a țării. Este destinația ideală pentru cei care caută liniște și doresc să descopere stilul de viață tradițional costarican.",
       en: ""
@@ -73,7 +73,7 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
       ro: ['Poarta de acces către Valea Orosi', 'Cunoscut pentru plantațiile de cafea și trestie de zahăr', 'Găzduiește o comunitate locală vibrantă'],
     },
     factsAdvanced: {
-      de: ["Gegründet im Jahr 1823 durch den Gouverneur Gregorio José Ramírez.", "Beherbergt den Lankester Botanischen Garten mit über 3.000 Pflanzenarten.", "Liegt ca. 1.325 Meter hoch in der Cordillera Central.", "Das Orosi-Tal ist nur 15 Fahrminuten vom Stadtzentrum entfernt.", "Die Stadt feiert jährlich am 2. Februar das Fest der Virgen de Candelaria.", "Die Fahrzeit zur Provinzhauptstadt Cartago beträgt etwa 15 Minuten.", "Die Region erhält durchschnittlich 2.100 mm Regen pro Jahr.", "Über 20 % der Fläche des Kantons Paraíso sind geschützte Naturgebiete."],
+      de: ["Gegründet im Jahr 1823 durch den damaligen Gouverneur Gregorio José Ramírez.", "Beherbergt den Lankester Botanischen Garten, der über 3.000 Pflanzenarten beheimatet.", "Die Stadt liegt auf einer Höhe von ca. 1.325 Metern in der Cordillera Central.", "Das malerische Orosi-Tal ist nur etwa 15 Fahrminuten vom Stadtzentrum entfernt.", "Die Stadt feiert jährlich am 2. Februar das Fest der Virgen de Candelaria.", "Die Fahrtzeit zur Provinzhauptstadt Cartago beträgt mit dem Auto etwa 15 Minuten.", "Die Region erhält durchschnittlich rund 2.100 mm Niederschlag pro Jahr.", "Über 20 % der Fläche des Kantons Paraíso sind als geschützte Naturgebiete ausgewiesen."],
       hu: [],
       ro: [
         "Orașul a fost fondat în anul 1823 de către guvernatorul Gregorio José Ramírez.",
@@ -143,9 +143,9 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
       ro: 'Un oraș vibrant din provincia San José, servind drept un important centru rezidențial și comercial.',
     },
     descriptionAdvanced: {
-      de: "Curridabat ist eine dynamische Stadt östlich von San José, die für ihre Vorreiterrolle in der ökologischen Stadtplanung bekannt ist. Unter dem Motto „Stadt der Süße“ setzt Curridabat auf die Integration von Flora und Fauna in den urbanen Raum, um Bestäubern wie Bienen und Schmetterlingen Lebensraum zu bieten. Die Stadt beherbergt exklusive Wohnviertel, moderne Bürokomplexe und renommierte Bildungseinrichtungen. Die hohe Lebensqualität und die innovative Infrastruktur machen Curridabat zu einem der begehrtesten Wohnorte im Central Valley. Besucher finden hier eine Vielzahl an Parks, erstklassigen Restaurants und kulturellen Angeboten. Curridabat zeigt eindrucksvoll, wie moderne Stadtentwicklung im Einklang mit der Natur funktionieren kann. Sachkunde K4.",
+      de: "Curridabat ist eine dynamische Stadt östlich von San José, die für ihre Vorreiterrolle in der ökologischen Stadtplanung bekannt ist. Unter dem Motto \\\"Stadt der Süße\\\" setzt Curridabat auf die Integration von Flora und Fauna in den urbanen Raum, um Bestäubern wie Bienen und Schmetterlingen Lebensraum zu bieten. Die Stadt beherbergt exklusive Wohnviertel, moderne Bürokomplexe und renommierte Bildungseinrichtungen. Die hohe Lebensqualität und die innovative Infrastruktur machen Curridabat zu einem der begehrtesten Wohnorte im Central Valley. Besucher finden hier eine Vielzahl an Parks, erstklassigen Restaurants und kulturellen Angeboten. Curridabat zeigt eindrucksvoll, wie moderne Stadtentwicklung im Einklang mit der Natur funktionieren kann. Sachkunde K4.",
       hu: "",
-      ro: "Curridabat este un oraș dinamic situat la est de San José, recunoscut pentru rolul său de pionier în planificarea urbană ecologică. Sub motto-ul „Orașul Dulceții”, Curridabat pune accent pe integrarea florei și faunei în spațiul urban pentru a proteja polenizatorii precum albinele și fluturii. Orașul găzduiește cartiere rezidențiale exclusiviste, complexe de birouri moderne și instituții de învățământ de renume. Calitatea ridicată a vieții și infrastructura inovatoare fac din Curridabat una dintre cele mai dorite zone de locuit din Valea Centrală. Vizitatorii pot găsi aici numeroase parcuri, restaurante de lux și o ofertă culturală bogată și diversificată. Curridabat demonstrează cum dezvoltarea urbană modernă poate funcționa în perfectă armonie cu natura.",
+      ro: "Curridabat este un oraș dinamic situat la est de San José, recunoscut pentru rolul său de pionier în planificarea urbană ecologică. Sub motto-ul \\\"Orașul Dulceții\\\", Curridabat pune accent pe integrarea florei și faunei în spațiul urban pentru a proteja polenizatorii precum albinele și fluturii. Orașul găzduiește cartiere rezidențiale exclusiviste, complexe de birouri moderne și instituții de învățământ de renume. Calitatea ridicată a vieții și infrastructura inovatoare fac din Curridabat una dintre cele mai dorite zone de locuit din Valea Centrală. Vizitatorii pot găsi aici numeroase parcuri, restaurante de lux și o ofertă culturală bogată și diversificată. Curridabat demonstrează cum dezvoltarea urbană modernă poate funcționa în perfectă armonie cu natura.",
       en: ""
     },
     facts: {
@@ -158,7 +158,7 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
       de: ["Fläche des Kantons beträgt ca. 15,95 Quadratkilometer.", "Curridabat wurde 1930 offiziell zur Stadt (Ciudad) ernannt.", "Liegt auf einer durchschnittlichen Höhe von 1.200 Metern.", "Beherbergt über 70 öffentliche Parks und Grünflächen.", "Die Stadt ist in 4 Distrikte unterteilt: Curridabat, Granadilla, Sánchez und Tirrases.", "Die Einwohnerzahl des Kantons liegt bei über 75.000 Menschen.", "Jährliche Niederschlagsmenge beträgt etwa 2.000 Millimeter."],
       hu: [],
       ro: [
-        "Orașul a fost declarat oficial „Ciudad” în anul 1930.",
+        "Orașul a fost declarat oficial \\\"Ciudad\\\" în anul 1930.",
         "Este situat la o altitudine medie de 1.200 de metri deasupra nivelului mării.",
         "Găzduiește peste 70 de parcuri publice și numeroase spații verzi amenajate.",
         "Cantonul este împărțit în patru districte: Curridabat, Granadilla, Sánchez și Tirrases.",
@@ -267,9 +267,9 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
       ro: 'Un oraș renumit pentru vulcanul său activ, producția de brânză și centrul de cercetare CATIE.',
     },
     descriptionAdvanced: {
-      de: "Turrialba ist ein Juwel in der Provinz Cartago, eingebettet in eine üppige Landschaft aus grünen Hügeln und dominiert vom gleichnamigen, majestätischen Vulkan. Die Stadt ist weltbekannt für ihre Käseproduktion, den „Queso Turrialba“, der sogar eine geschützte Herkunftsbezeichnung trägt. Abenteurer schätzen die Region als erstklassiges Ziel für Wildwasser-Rafting auf den Flüssen Pacuare und Reventazón. Zudem beherbergt Turrialba das CATIE, ein internationales Forschungszentrum für tropische Landwirtschaft von globaler Bedeutung. Die reiche archäologische Stätte Guayabo, das wichtigste Zeugnis präkolumbianischer Kultur in Costa Rica, liegt ebenfalls ganz in der Nähe. Turrialba verbindet Wissenschaft, Landwirtschaft und Abenteuertourismus auf einzigartige Weise. Sachkunde K4.",
+      de: "Turrialba ist ein Juwel in der Provinz Cartago, eingebettet in eine üppige Landschaft aus grünen Hügeln und dominiert vom gleichnamigen, majestätischen Vulkan. Die Stadt ist weltbekannt für ihre Käseproduktion, den \\\"Queso Turrialba\\\", der sogar eine geschützte Herkunftsbezeichnung trägt. Abenteurer schätzen die Region als erstklassiges Ziel für Wildwasser-Rafting auf den Flüssen Pacuare und Reventazón. Zudem beherbergt Turrialba das CATIE, ein internationales Forschungszentrum für tropische Landwirtschaft von globaler Bedeutung. Die reiche archäologische Stätte Guayabo, das wichtigste Zeugnis präkolumbianischer Kultur in Costa Rica, liegt ebenfalls ganz in der Nähe. Turrialba verbindet Wissenschaft, Landwirtschaft und Abenteuertourismus auf einzigartige Weise. Sachkunde K4.",
       hu: "",
-      ro: "Turrialba este o bijuterie a provinciei Cartago, fiind situată într-un peisaj luxuriant dominat de vulcanul maiestuos cu același nume. Orașul este faimos la nivel mondial pentru producția de brânză „Queso Turrialba”, care deține o denumire de origine protejată. Iubitorii de aventură vizitează regiunea pentru experiențe de rafting de clasă mondială pe râurile Pacuare și Reventazón. De asemenea, Turrialba găzduiește centrul internațional de cercetare CATIE, un punct de referință global pentru agricultura tropicală. Situl arheologic Guayabo, cel mai important monument precolumbian din Costa Rica, se află la o distanță scurtă de oraș. Turrialba îmbină în mod unic știința, agricultura tradițională și turismul de aventură.",
+      ro: "Turrialba este o bijuterie a provinciei Cartago, fiind situată într-un peisaj luxuriant dominat de vulcanul maiestuos cu același nume. Orașul este faimos la nivel mondial pentru producția de brânză \\\"Queso Turrialba\\\", care deține o denumire de origine protejată. Iubitorii de aventură vizitează regiunea pentru experiențe de rafting de clasă mondială pe râurile Pacuare și Reventazón. De asemenea, Turrialba găzduiește centrul internațional de cercetare CATIE, un punct de referință global pentru agricultura tropicală. Situl arheologic Guayabo, cel mai important monument precolumbian din Costa Rica, se află la o distanță scurtă de oraș. Turrialba îmbină în mod unic știința, agricultura tradițională și turismul de aventură.",
       en: ""
     },
     facts: {
@@ -356,18 +356,18 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
     },
     facts: {
       en: ['Major educational and cultural hub', 'Features numerous bars, restaurants, and bookstores', 'Known as the "University City"'],
-      de: ['Bedeutendes Bildungs- und Kulturzentrum', 'Bietet zahlreiche Bars, Restaurants und Buchhandlungen', 'Bekannt als die „Universitätsstadt“'],
-      hu: ['Jelentős oktatási és kulturális központ', 'Számos bár, étterem és könyvesbolt található itt', '„Egyetemi városként” ismert'],
-      ro: ['Centru educațional și cultural major', 'Dispune de numeroase baruri, restaurante și librării', 'Cunoscut ca „Orașul Universitar”'],
+      de: ['Bedeutendes Bildungs- und Kulturzentrum', 'Bietet zahlreiche Bars, Restaurants und Buchhandlungen', 'Bekannt als die "Universitätsstadt"'],
+      hu: ['Jelentős oktatási és kulturális központ', 'Számos bár, étterem és könyvesbolt található itt', '"Egyetemi városként" ismert'],
+      ro: ['Centru educațional și cultural major', 'Dispune de numeroase baruri, restaurante și librării', 'Cunoscut ca "Orașul Universitar"'],
     },
     factsAdvanced: {
-      de: ["Beherbergt die Universidad de Costa Rica mit über 40.000 Studenten.", "Höhenlage von ca. 1.205 Metern über dem Meeresspiegel.", "Die Distriktfläche beträgt lediglich 1,9 Quadratkilometer.", "Gegründet als Kanton Montes de Oca im Jahr 1915.", "Die „Calle de la Amargura“ ist eine berühmte Studentenmeile der Stadt.", "Über 50 % der Bevölkerung im Kanton sind zwischen 15 und 44 Jahre alt.", "Entfernung zum Stadtzentrum von San José beträgt ca. 3 Kilometer."],
+      de: ["Beherbergt die Universidad de Costa Rica mit über 40.000 Studenten.", "Höhenlage von ca. 1.205 Metern über dem Meeresspiegel.", "Die Distriktfläche beträgt lediglich 1,9 Quadratkilometer.", "Gegründet als Kanton Montes de Oca im Jahr 1915.", "Die \\\"Calle de la Amargura\\\" ist eine berühmte Studentenmeile der Stadt.", "Über 50 % der Bevölkerung im Kanton sind zwischen 15 und 44 Jahre alt.", "Entfernung zum Stadtzentrum von San José beträgt ca. 3 Kilometer."],
       hu: [],
       ro: [
         "Găzduiește Universitatea din Costa Rica, care are peste 40.000 de studenți.",
         "Orașul este situat la o altitudine de aproximativ 1.205 metri deasupra nivelului mării.",
         "Suprafața districtului San Pedro este extrem de redusă, având doar 1,9 kilometri pătrați.",
-        "Celebrul drum „Calle de la Amargura” este o zonă populară de socializare pentru studenți.",
+        "Celebrul drum \\\"Calle de la Amargura\\\" este o zonă populară de socializare pentru studenți.",
         "Peste 50% din populația cantonului are vârsta cuprinsă între 15 și 44 de ani."
       ],
       en: []
@@ -472,7 +472,7 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
       ro: 'Un district de coastă din Puntarenas, care servește ca o zonă rezidențială importantă pentru orașul-port.',
     },
     descriptionAdvanced: {
-      de: "Chacarita ist ein wichtiger Küstendistrikt am östlichen Ende der Landzunge von Puntarenas, direkt am Pazifik. Als bedeutendes Wohngebiet für die Hafenstadt Puntarenas bietet Chacarita eine Mischung aus maritimer Atmosphäre und urbanem Leben. Die Stadt verfügt über lange Strandabschnitte, die besonders bei Einheimischen für Wochenendausflüge beliebt sind. Fischerei spielt eine zentrale Rolle in der lokalen Wirtschaft und prägt das tägliche Bild an den Ufern des Golfs von Nicoya. Chacarita ist ein wichtiger Verkehrsknotenpunkt, da hier die Hauptstraße zur berühmten „Paseo de los Turistas“ führt. Die Region steht für das authentische Leben an der Pazifikküste mit all seiner Wärme und Lebendigkeit. Sachkunde K4.",
+      de: "Chacarita ist ein wichtiger Küstendistrikt am östlichen Ende der Landzunge von Puntarenas, direkt am Pazifik. Als bedeutendes Wohngebiet für die Hafenstadt Puntarenas bietet Chacarita eine Mischung aus maritimer Atmosphäre und urbanem Leben. Die Stadt verfügt über lange Strandabschnitte, die besonders bei Einheimischen für Wochenendausflüge beliebt sind. Fischerei spielt eine zentrale Rolle in der lokalen Wirtschaft und prägt das tägliche Bild an den Ufern des Golfs von Nicoya. Chacarita ist ein wichtiger Verkehrsknotenpunkt, da hier die Hauptstraße zur berühmten \\\"Paseo de los Turistas\\\" führt. Die Region steht für das authentische Leben an der Pazifikküste mit all seiner Wärme und Lebendigkeit. Sachkunde K4.",
       hu: "",
       ro: "Chacarita este un district costier vibrant situat la intrarea în orașul-port Puntarenas, pe malul spectaculos al Golfului Nicoya. Acest oraș îmbină armonios atmosfera relaxată de la malul mării cu activitățile comerciale intense specifice unei zone portuare de importanță națională. Plajele sale largi sunt destinații populare pentru localnici și turiști deopotrivă, oferind locuri ideale pentru relaxare și sporturi nautice. Economia locală este strâns legată de pescuitul artizanal și de serviciile turistice, reflectând spiritul autentic al coastei Pacificului. Chacarita servește, de asemenea, ca un punct strategic de tranzit, fiind traversat de principala arteră rutieră care leagă interiorul țării de port. Este un loc plin de viață, unde apusurile de soare oferă spectacole vizuale de neuitat în fiecare seară.",
       en: ""
@@ -598,7 +598,7 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
       en: ""
     },
     facts: {
-      en: ['Hosts many government offices and businesses', 'Known for its central park and church', 'A key district in the capital\'s metropolitan area'],
+      en: ['Hosts many government offices and businesses', 'Known for its central park and church', 'A key district in the capital\\\\\\\'s metropolitan area'],
       de: ['Beherbergt viele Regierungsbüros und Unternehmen', 'Bekannt für seinen zentralen Park und seine Kirche', 'Ein wichtiger Bezirk im Metropolbereich der Hauptstadt'],
       hu: ['Számos kormányzati hivatalnak és vállalkozásnak ad otthont', 'Központi parkjáról és templomáról ismert', 'A főváros nagyvárosi területének kulcsfontosságú kerülete'],
       ro: ['Găzduiește multe birouri guvernamentale și afaceri', 'Cunoscut pentru parcul său central și biserică', 'Un district cheie în zona metropolitană a capitalei'],
@@ -627,14 +627,14 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
     },
     description: {
       en: 'A city south of San José, known for its tamales, mountain views, and the "Indian Witch" legend.',
-      de: 'Eine Stadt südlich von San José, bekannt für ihre Tamales, den Bergblick und die Legende von der „indianischen Hexe“.',
-      hu: 'San Josétól délre fekvő város, amely tamaleséről, hegyi kilátásáról és az „indián boszorkány” legendájáról ismert.',
-      ro: 'Un oraș la sud de San José, cunoscut pentru tamalele sale, priveliștile montane și legenda „Vrăjitoarei Indiene”.',
+      de: 'Eine Stadt südlich von San José, bekannt für ihre Tamales, den Bergblick und die Legende von der "indianischen Hexe".',
+      hu: 'San Josétól délre fekvő város, amely tamaleséről, hegyi kilátásáról és az "indián boszorkány" legendájáról ismert.',
+      ro: 'Un oraș la sud de San José, cunoscut pentru tamalele sale, priveliștile montane și legenda "Vrăjitoarei Indiene".',
     },
     descriptionAdvanced: {
-      de: "Aserrí, gelegen in den südlichen Ausläufern des Central Valley, ist eine Stadt voller Legenden und kulinarischer Traditionen. Berühmt ist der Ort vor allem für seine Tamales, ein traditionelles Gericht aus Maisteig, das hier in höchster Qualität zubereitet wird. Die Stadt ist eng mit der Legende der „Hexe von Escazú und Aserrí“ verbunden, die in den umliegenden Bergen gelebt haben soll. Von den Hügeln Aserrís bietet sich ein spektakulärer Blick auf die nächtlichen Lichter von San José. Die kühleren Temperaturen und die bergige Landschaft machen die Stadt zu einem beliebten Ausflugsziel für Städter. Aserrí bewahrt sich einen rustikalen Charme und eine tiefe Verbundenheit mit der Folklore Costa Ricas. Sachkunde K4.",
+      de: "Aserrí, gelegen in den südlichen Ausläufern des Central Valley, ist eine Stadt voller Legenden und kulinarischer Traditionen. Berühmt ist der Ort vor allem für seine Tamales, ein traditionelles Gericht aus Maisteig, das hier in höchster Qualität zubereitet wird. Die Stadt ist eng mit der Legende der \\\"Hexe von Escazú und Aserrí\\\" verbunden, die in den umliegenden Bergen gelebt haben soll. Von den Hügeln Aserrís bietet sich ein spektakulärer Blick auf die nächtlichen Lichter von San José. Die kühleren Temperaturen und die bergige Landschaft machen die Stadt zu einem beliebten Ausflugsziel für Städter. Aserrí bewahrt sich einen rustikalen Charme und eine tiefe Verbundenheit mit der Folklore Costa Ricas. Sachkunde K4.",
       hu: "",
-      ro: "Aserrí este un oraș pitoresc situat la poalele munților din sudul Văii Centrale, fiind renumit pentru tradițiile sale culinare și legendele populare. Este considerat „capitala tamales-ului” din Costa Rica, atrăgând vizitatori din toată țara pentru a degusta acest preparat tradițional delicios. Peisajele deluroase oferă vederi panoramice spectaculoase asupra capitalei San José, în special în timpul nopții, când luminile orașului creează un decor magic. Orașul păstrează o atmosferă rurală autentică, cu oameni primitori și un patrimoniu cultural bogat, strâns legat de legenda Vrăjitoarei din Aserrí. Aerul mai răcoros și curat de munte face din acest loc o destinație ideală pentru cei care doresc să scape de agitația urbană. Aserrí reprezintă o fuziune perfectă între istoria colonială, gastronomia tradițională și frumusețea naturii înconjurătoare.",
+      ro: "Aserrí este un oraș pitoresc situat la poalele munților din sudul Văii Centrale, fiind renumit pentru tradițiile sale culinare și legendele populare. Este considerat \\\"capitala tamales-ului\\\" din Costa Rica, atrăgând vizitatori din toată țara pentru a degusta acest preparat tradițional delicios. Peisajele deluroase oferă vederi panoramice spectaculoase asupra capitalei San José, în special în timpul nopții, când luminile orașului creează un decor magic. Orașul păstrează o atmosferă rurală autentică, cu oameni primitori și un patrimoniu cultural bogat, strâns legat de legenda Vrăjitoarei din Aserrí. Aerul mai răcoros și curat de munte face din acest loc o destinație ideală pentru cei care doresc să scape de agitația urbană. Aserrí reprezintă o fuziune perfectă între istoria colonială, gastronomia tradițională și frumusețea naturii înconjurătoare.",
       en: ""
     },
     facts: {
@@ -644,7 +644,7 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
       ro: ['Renumit pentru tradițiile sale culinare', 'Situat la poalele Munților Escazú', 'Oferă o climă mai răcoroasă decât valea centrală'],
     },
     factsAdvanced: {
-      de: ["Höhenlage von ca. 1.300 Metern über dem Meeresspiegel.", "Wird oft als die „Hauptstadt der Tamales“ in Costa Rica bezeichnet.", "Die Gebirgskette Cerros de Escazú dominiert das Landschaftsbild.", "Gegründet wurde der Kanton Aserrí im Jahr 1882.", "Die Einwohnerzahl des Kantons liegt bei über 60.000 Menschen.", "Das Klima ist spürbar kühler als im Zentrum von San José.", "Feiert jährlich im August das Fest des Heiligen Ludwig von Toulouse.", "Über 50 % der Fläche des Kantons sind gebirgig und bewaldet."],
+      de: ["Höhenlage von ca. 1.300 Metern über dem Meeresspiegel.", "Wird oft als die \\\"Hauptstadt der Tamales\\\" in Costa Rica bezeichnet.", "Die Gebirgskette Cerros de Escazú dominiert das Landschaftsbild.", "Gegründet wurde der Kanton Aserrí im Jahr 1882.", "Die Einwohnerzahl des Kantons liegt bei über 60.000 Menschen.", "Das Klima ist spürbar kühler als im Zentrum von San José.", "Feiert jährlich im August das Fest des Heiligen Ludwig von Toulouse.", "Über 50 % der Fläche des Kantons sind gebirgig und bewaldet."],
       hu: [],
       ro: [
         "Este situat la o altitudine medie de aproximativ 1.300 de metri deasupra nivelului mării.",
@@ -846,14 +846,14 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
       ro: ['Cunoscut pentru biserica sa mare în stil colonial', 'Păstrează o atmosferă liniștită, tradițională', 'Situat la est de orașul Heredia'],
     },
     factsAdvanced: {
-      de: ["Liegt auf einer Höhe von 1.200 Metern über dem Meeresspiegel.", "Der Kanton San Pablo wurde 1961 offiziell gegründet.", "Die Fläche des Kantons beträgt nur ca. 7,5 Quadratkilometer.", "Die Einwohnerzahl liegt bei über 30.000 Menschen.", "Das Klima ist mild mit einer Durchschnittstemperatur von 21 Grad Celsius.", "Entfernung zum Stadtzentrum von Heredia beträgt ca. 2 Kilometer.", "Wurde früher „Pueblo Nuevo“ (Neues Dorf) genannt."],
+      de: ["Liegt auf einer Höhe von 1.200 Metern über dem Meeresspiegel.", "Der Kanton San Pablo wurde 1961 offiziell gegründet.", "Die Fläche des Kantons beträgt nur ca. 7,5 Quadratkilometer.", "Die Einwohnerzahl liegt bei über 30.000 Menschen.", "Das Klima ist mild mit einer Durchschnittstemperatur von 21 Grad Celsius.", "Entfernung zum Stadtzentrum von Heredia beträgt ca. 2 Kilometer.", "Wurde früher \\\"Pueblo Nuevo\\\" (Neues Dorf) genannt."],
       hu: [],
       ro: [
         "Cantonul San Pablo a fost fondat oficial în anul 1961.",
         "Se află la o altitudine de 1.200 de metri deasupra nivelului mării.",
         "Suprafața cantonului este de numai aproximativ 7,5 kilometri pătrați.",
         "Clima este blândă, cu o temperatură medie de 21 de grade Celsius.",
-        "În trecut, localitatea era cunoscută sub numele de „Pueblo Nuevo”."
+        "În trecut, localitatea era cunoscută sub numele de \\\"Pueblo Nuevo\\\"."
       ],
       en: []
     }, image: "/poi-images/san-pablo-de-heredia-cities-v2.webp"},
@@ -881,7 +881,7 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
       en: ""
     },
     facts: {
-      en: ['Home to many factories and company headquarters', 'Site of the country\'s main oil refinery', 'A key area for employment in the capital region'],
+      en: ['Home to many factories and company headquarters', 'Site of the country\\\\\\\'s main oil refinery', 'A key area for employment in the capital region'],
       de: ['Heimat vieler Fabriken und Firmenzentralen', 'Standort der wichtigsten Ölraffinerie des Landes', 'Ein Schlüsselbereich für die Beschäftigung in der Hauptstadtregion'],
       hu: ['Számos gyárnak és vállalati központnak ad otthont', 'Az ország fő olajfinomítójának helyszíne', 'A fővárosi régió foglalkoztatásának kulcsfontosságú területe'],
       ro: ['Găzduiește multe fabrici și sedii de companii', 'Locația principalei rafinării de petrol a țării', 'O zonă cheie pentru ocuparea forței de muncă în regiunea capitalei'],
@@ -1010,10 +1010,10 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
       ro: ['Nod cheie pentru industria bananelor', 'Situat la intersecția rutelor către coastă și zonele înalte', 'Găzduiește diverse influențe culturale'],
     },
     factsAdvanced: {
-      de: ["Liegt auf einer Höhe von 70 Metern über dem Meeresspiegel.", "Der Name Siquirres stammt aus einer indigenen Sprache und bedeutet „Roter Fluss“.", "Wichtiger Eisenbahnknotenpunkt für den Export von Bananen.", "Die Einwohnerzahl des Kantons Siquirres liegt bei über 60.000 Menschen.", "Durchschnittstemperatur liegt bei tropischen 26 Grad Celsius.", "Der Pacuare-Fluss ist nur wenige Kilometer vom Stadtzentrum entfernt.", "Gegründet wurde der Kanton Siquirres im Jahr 1911."],
+      de: ["Liegt auf einer Höhe von 70 Metern über dem Meeresspiegel.", "Der Name Siquirres stammt aus einer indigenen Sprache und bedeutet \\\"Roter Fluss\\\".", "Wichtiger Eisenbahnknotenpunkt für den Export von Bananen.", "Die Einwohnerzahl des Kantons Siquirres liegt bei über 60.000 Menschen.", "Durchschnittstemperatur liegt bei tropischen 26 Grad Celsius.", "Der Pacuare-Fluss ist nur wenige Kilometer vom Stadtzentrum entfernt.", "Gegründet wurde der Kanton Siquirres im Jahr 1911."],
       hu: [],
       ro: [
-        "Numele Siquirres provine dintr-o limbă indigenă și înseamnă „Râul Roșu”.",
+        "Numele Siquirres provine dintr-o limbă indigenă și înseamnă \\\"Râul Roșu\\\".",
         "Este un nod feroviar istoric crucial pentru exportul de banane.",
         "Populația cantonului Siquirres este de peste 60.000 de locuitori.",
         "Temperatura medie este de aproximativ 26 de grade Celsius, specific tropicală.",
@@ -1121,13 +1121,13 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
       ro: 'Un oraș important din epoca colonială din Guanacaste și un centru pentru Peninsula Nicoya, o Zonă Albastră de renume mondial.',
     },
     descriptionAdvanced: {
-      de: "Nicoya ist die kulturelle Seele von Guanacaste und eine der bedeutendsten Kolonialstädte Costa Ricas. Sie liegt im Herzen der Nicoya-Halbinsel, einer der wenigen weltweiten „Blue Zones“, in denen Menschen ein ungewöhnlich hohes Alter erreichen. Die Stadt beherbergt eine der ältesten Kirchen des Landes, die „Parroquia de San Blas“, ein Symbol des spanischen Erbes. Nicoya ist stolz auf seine Folklore, seine traditionelle Musik und seine einzigartige Küche auf Maisbasis. Als administratives Zentrum der Halbinsel verbindet die Stadt historische Bedeutung mit moderner Funktion. Besucher tauchen hier tief in die Traditionen der Sabaneros (Cowboys) ein und erleben eine Gastfreundschaft, die von Generation zu Generation weitergegeben wurde. Sachkunde K4.",
+      de: "Nicoya ist die kulturelle Seele von Guanacaste und eine der bedeutendsten Kolonialstädte Costa Ricas. Sie liegt im Herzen der Nicoya-Halbinsel, einer der wenigen weltweiten \\\"Blue Zones\\\", in denen Menschen ein ungewöhnlich hohes Alter erreichen. Die Stadt beherbergt eine der ältesten Kirchen des Landes, die \\\"Parroquia de San Blas\\\", ein Symbol des spanischen Erbes. Nicoya ist stolz auf seine Folklore, seine traditionelle Musik und seine einzigartige Küche auf Maisbasis. Als administratives Zentrum der Halbinsel verbindet die Stadt historische Bedeutung mit moderner Funktion. Besucher tauchen hier tief in die Traditionen der Sabaneros (Cowboys) ein und erleben eine Gastfreundschaft, die von Generation zu Generation weitergegeben wurde. Sachkunde K4.",
       hu: "",
-      ro: "Nicoya este sufletul cultural al provinciei Guanacaste și unul dintre cele mai importante orașe coloniale din Costa Rica. Este situat în inima Peninsulei Nicoya, una dintre puținele „Zone Albastre” din lume, unde oamenii ating vârste neobișnuit de înaintate. Orașul găzduiește una dintre cele mai vechi biserici din țară, Parohia San Blas, un simbol al moștenirii spaniole. Nicoya se mândrește cu folclorul său, muzica tradițională și bucătăria sa unică bazată pe porumb. Fiind centrul administrativ al peninsulei, orașul îmbină importanța istorică cu funcțiile moderne. Vizitatorii pot descoperi aici tradițiile sabaneros (văcarilor) și o ospitalitate transmisă din generație în generație.",
+      ro: "Nicoya este sufletul cultural al provinciei Guanacaste și unul dintre cele mai importante orașe coloniale din Costa Rica. Este situat în inima Peninsulei Nicoya, una dintre puținele \\\"Zone Albastre\\\" din lume, unde oamenii ating vârste neobișnuit de înaintate. Orașul găzduiește una dintre cele mai vechi biserici din țară, Parohia San Blas, un simbol al moștenirii spaniole. Nicoya se mândrește cu folclorul său, muzica tradițională și bucătăria sa unică bazată pe porumb. Fiind centrul administrativ al peninsulei, orașul îmbină importanța istorică cu funcțiile moderne. Vizitatorii pot descoperi aici tradițiile sabaneros (văcarilor) și o ospitalitate transmisă din generație în generație.",
       en: ""
     },
     facts: {
-      en: ['Home to one of Costa Rica\'s oldest churches', 'Center of the Guanacastecan culture and folklore', 'Known for the longevity of its inhabitants'],
+      en: ['Home to one of Costa Rica\\\\\\\'s oldest churches', 'Center of the Guanacastecan culture and folklore', 'Known for the longevity of its inhabitants'],
       de: ['Heimat einer der ältesten Kirchen Costa Ricas', 'Zentrum der guanacastekischen Kultur und Folklore', 'Bekannt für die Langlebigkeit seiner Bewohner'],
       hu: ['Costa Rica egyik legrégebbi templomának otthona', 'A guanacastecai kultúra és folklór központja', 'Lakóinak hosszú élettartamáról ismert'],
       ro: ['Găzduiește una dintre cele mai vechi biserici din Costa Rica', 'Centrul culturii și folclorului din Guanacaste', 'Cunoscut pentru longevitatea locuitorilor săi'],
@@ -1157,14 +1157,14 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
     },
     description: {
       en: 'Known as the "Folklore City" of Costa Rica, it is a cultural and commercial hub in Guanacaste.',
-      de: 'Bekannt als die „Folklore-Stadt“ Costa Ricas, ist sie ein kulturelles und kommerzielles Zentrum in Guanacaste.',
-      hu: 'Costa Rica „folklórvárosaként” ismert, Guanacaste kulturális és kereskedelmi központja.',
-      ro: 'Cunoscut ca „Orașul Folclorului” din Costa Rica, este un centru cultural și comercial în Guanacaste.',
+      de: 'Bekannt als die "Folklore-Stadt" Costa Ricas, ist sie ein kulturelles und kommerzielles Zentrum in Guanacaste.',
+      hu: 'Costa Rica "folklórvárosaként" ismert, Guanacaste kulturális és kereskedelmi központja.',
+      ro: 'Cunoscut ca "Orașul Folclorului" din Costa Rica, este un centru cultural și comercial în Guanacaste.',
     },
     descriptionAdvanced: {
-      de: "Santa Cruz wird stolz als die „Folklore-Stadt“ Costa Ricas bezeichnet und ist ein lebendiges Zentrum für Musik, Tanz und Tradition in der Provinz Guanacaste. Die Stadt ist weltberühmt für ihre traditionellen Feste, insbesondere die Rodeos und die farbenfrohen Paraden, die die Kultur der Sabaneros feiern. Santa Cruz liegt im Herzen einer fruchtbaren Ebene und dient als wichtiger kommerzieller Knotenpunkt für Reisende auf dem Weg zu den berühmten Stränden der Goldküste. Die Bewohner von Santa Cruz sind bekannt für ihre Lebensfreude und ihre Liebe zu traditionellen Instrumenten wie der Marimba. Die Stadt bietet eine authentische Atmosphäre, in der die Identität Guanacastes an jeder Ecke spürbar ist. Sachkunde K4.",
+      de: "Santa Cruz wird stolz als die \\\"Folklore-Stadt\\\" Costa Ricas bezeichnet und ist ein lebendiges Zentrum für Musik, Tanz und Tradition in der Provinz Guanacaste. Die Stadt ist weltberühmt für ihre traditionellen Feste, insbesondere die Rodeos und die farbenfrohen Paraden, die die Kultur der Sabaneros feiern. Santa Cruz liegt im Herzen einer fruchtbaren Ebene und dient als wichtiger kommerzieller Knotenpunkt für Reisende auf dem Weg zu den berühmten Stränden der Goldküste. Die Bewohner von Santa Cruz sind bekannt für ihre Lebensfreude und ihre Liebe zu traditionellen Instrumenten wie der Marimba. Die Stadt bietet eine authentische Atmosphäre, in der die Identität Guanacastes an jeder Ecke spürbar ist. Sachkunde K4.",
       hu: "",
-      ro: "Santa Cruz este numit cu mândrie „Orașul Folclorului” din Costa Rica și este un centru vibrant pentru muzică, dans și tradiție în provincia Guanacaste. Orașul este faimos la nivel mondial pentru festivalurile sale tradiționale, în special pentru rodeouri și paradele colorate care celebrează cultura sabaneros. Santa Cruz este situat în inima unei câmpii fertile și servește ca un nod comercial important pentru călătorii care merg spre plajele faimoase ale Coastei de Aur. Locuitorii din Santa Cruz sunt cunoscuți pentru bucuria lor de viață și dragostea pentru instrumentele tradiționale, cum ar fi marimba. Orașul oferă o atmosferă autentică, unde identitatea provinciei Guanacaste se simte la fiecare colț.",
+      ro: "Santa Cruz este numit cu mândrie \\\"Orașul Folclorului\\\" din Costa Rica și este un centru vibrant pentru muzică, dans și tradiție în provincia Guanacaste. Orașul este faimos la nivel mondial pentru festivalurile sale tradiționale, în special pentru rodeouri și paradele colorate care celebrează cultura sabaneros. Santa Cruz este situat în inima unei câmpii fertile și servește ca un nod comercial important pentru călătorii care merg spre plajele faimoase ale Coastei de Aur. Locuitorii din Santa Cruz sunt cunoscuți pentru bucuria lor de viață și dragostea pentru instrumentele tradiționale, cum ar fi marimba. Orașul oferă o atmosferă autentică, unde identitatea provinciei Guanacaste se simte la fiecare colț.",
       en: ""
     },
     facts: {
@@ -1174,11 +1174,11 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
       ro: ['Renumit pentru festivalurile și rodeourile sale tradiționale', 'O oprire importantă pentru turiștii care se îndreaptă spre plajele din apropiere', 'Inima culturii sabanero (cowboy) din Guanacaste'],
     },
     factsAdvanced: {
-      de: ["Offiziell zur „Ciudad Folclórica de Costa Rica“ erklärt.", "Liegt auf einer Höhe von ca. 50 Metern über dem Meeresspiegel.", "Die Einwohnerzahl des Kantons Santa Cruz beträgt über 60.000 Menschen.", "Feiert jährlich im Januar die großen „Fiestas Típicas Nacionales“.", "Wichtiges Zentrum für die Keramikherstellung im nahegelegenen Guaitil.", "Durchschnittliche Jahrestemperatur liegt bei ca. 29 Grad Celsius.", "Die Fahrzeit zu den Stränden Tamarindo und Flamingo beträgt ca. 45 Minuten."],
+      de: ["Offiziell zur \\\"Ciudad Folclórica de Costa Rica\\\" erklärt.", "Liegt auf einer Höhe von ca. 50 Metern über dem Meeresspiegel.", "Die Einwohnerzahl des Kantons Santa Cruz beträgt über 60.000 Menschen.", "Feiert jährlich im Januar die großen \\\"Fiestas Típicas Nacionales\\\".", "Wichtiges Zentrum für die Keramikherstellung im nahegelegenen Guaitil.", "Durchschnittliche Jahrestemperatur liegt bei ca. 29 Grad Celsius.", "Die Fahrzeit zu den Stränden Tamarindo und Flamingo beträgt ca. 45 Minuten."],
       hu: [],
       ro: [
-        "Declarat oficial „Ciudad Folclórica de Costa Rica”.",
-        "Găzduiește anual, în luna ianuarie, marile festivaluri „Fiestas Típicas Nacionales”.",
+        "Declarat oficial \\\"Ciudad Folclórica de Costa Rica\\\".",
+        "Găzduiește anual, în luna ianuarie, marile festivaluri \\\"Fiestas Típicas Nacionales\\\".",
         "Centru important pentru fabricarea ceramicii în localitatea Guaitil din apropiere.",
         "Temperatura medie anuală este de aproximativ 29 de grade Celsius.",
         "Timpul de condus până la plajele Tamarindo și Flamingo este de circa 45 de minute."
@@ -1239,14 +1239,14 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
     },
     description: {
       en: 'Known as the "City of Poets and Presidents," it is a historical and cultural center in the Alajuela province.',
-      de: 'Bekannt als die „Stadt der Dichter und Präsidenten“, ist es ein historisches und kulturelles Zentrum in der Provinz Alajuela.',
-      hu: 'A „költők és elnökök városaként” ismert, Alajuela tartomány történelmi és kulturális központja.',
-      ro: 'Cunoscut ca „Orașul Poeților și Președinților”, este un centru istoric și cultural în provincia Alajuela.',
+      de: 'Bekannt als die "Stadt der Dichter und Präsidenten", ist es ein historisches und kulturelles Zentrum in der Provinz Alajuela.',
+      hu: 'A "költők és elnökök városaként" ismert, Alajuela tartomány történelmi és kulturális központja.',
+      ro: 'Cunoscut ca "Orașul Poeților și Președinților", este un centru istoric și cultural în provincia Alajuela.',
     },
     descriptionAdvanced: {
-      de: "San Ramón wird ehrfurchtsvoll als die „Stadt der Dichter und Präsidenten“ bezeichnet, da sie die Geburtsstätte zahlreicher bedeutender Denker und Politiker Costa Ricas ist. Diese kulturelle Tiefe spiegelt sich im Stadtbild wider, das von einem großzügigen zentralen Park und einer markanten Kirche geprägt wird. San Ramón ist ein wichtiges regionales Zentrum mit einer eigenen Niederlassung der Universität von Costa Rica, was der Stadt ein akademisches Flair verleiht. Die Umgebung ist bekannt für ihre Nebelwälder und Kaffeeplantagen, die zu Erkundungen einladen. Die Bewohner schätzen ihre Traditionen, was sich in zahlreichen lokalen Festen und Märkten zeigt. San Ramón verbindet Bildung, Geschichte und Natur auf eine Weise, die den Geist des Landes perfekt einfängt. Sachkunde K4.",
+      de: "San Ramón wird ehrfurchtsvoll als die \\\"Stadt der Dichter und Präsidenten\\\" bezeichnet, da sie die Geburtsstätte zahlreicher bedeutender Denker und Politiker Costa Ricas ist. Diese kulturelle Tiefe spiegelt sich im Stadtbild wider, das von einem großzügigen zentralen Park und einer markanten Kirche geprägt wird. San Ramón ist ein wichtiges regionales Zentrum mit einer eigenen Niederlassung der Universität von Costa Rica, was der Stadt ein akademisches Flair verleiht. Die Umgebung ist bekannt für ihre Nebelwälder und Kaffeeplantagen, die zu Erkundungen einladen. Die Bewohner schätzen ihre Traditionen, was sich in zahlreichen lokalen Festen und Märkten zeigt. San Ramón verbindet Bildung, Geschichte und Natur auf eine Weise, die den Geist des Landes perfekt einfängt. Sachkunde K4.",
       hu: "",
-      ro: "San Ramón este numit cu respect „Orașul Poeților și al Președinților”, fiind locul de naștere al numeroși gânditori și politicieni importanți din Costa Rica. Această profunzime culturală se reflectă în peisajul urban, care este marcat de un parc central generos și de o biserică proeminentă. San Ramón este un centru regional important, având propria filială a Universității din Costa Rica, ceea ce îi conferă un aer academic. Împrejurimile sunt cunoscute pentru pădurile de nori și plantațiile de cafea, care invită la explorare. Locuitorii își prețuiesc tradițiile, lucru vizibil în numeroasele festivaluri și piețe locale. San Ramón îmbină educația, istoria și natura întrun mod care captează perfect spiritul țării.",
+      ro: "San Ramón este numit cu respect \\\"Orașul Poeților și al Președinților\\\", fiind locul de naștere al numeroși gânditori și politicieni importanți din Costa Rica. Această profunzime culturală se reflectă în peisajul urban, care este marcat de un parc central generos și de o biserică proeminentă. San Ramón este un centru regional important, având propria filială a Universității din Costa Rica, ceea ce îi conferă un aer academic. Împrejurimile sunt cunoscute pentru pădurile de nori și plantațiile de cafea, care invită la explorare. Locuitorii își prețuiesc tradițiile, lucru vizibil în numeroasele festivaluri și piețe locale. San Ramón îmbină educația, istoria și natura întrun mod care captează perfect spiritul țării.",
       en: ""
     },
     facts: {
@@ -1285,9 +1285,9 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
       ro: 'Un district cunoscut pentru pepinierele sale de plante, climatul plăcut și centrul de salvare a animalelor sălbatice Zoo Ave.',
     },
     descriptionAdvanced: {
-      de: "La Garita de Alajuela ist bekannt für eines der besten Klimas der Welt, was die Region zu einem Paradies für Gärtnereien und Naturliebhaber macht. Entlang der Straßen finden sich unzählige Baumschulen, die eine enorme Vielfalt an tropischen Pflanzen und Blumen anbieten. Ein Muss für Besucher ist das „Zoo Ave“, ein Rettungszentrum für Wildtiere, das sich der Rehabilitation und Erhaltung der costa-ricanischen Fauna widmet. La Garita ist ein beliebtes Ausflugsziel für Einheimische, die am Wochenende die traditionelle Küche in den zahlreichen „Restaurantes Típicos“ genießen. Die entspannte Atmosphäre, das sonnige Wetter und die üppige Flora machen den Ort zu einer grünen Oase am Rande der Metropolregion. Hier zeigt sich die natürliche Schönheit Costa Ricas in ihrer ganzen Pracht. Sachkunde K4.",
+      de: "La Garita de Alajuela ist bekannt für eines der besten Klimas der Welt, was die Region zu einem Paradies für Gärtnereien und Naturliebhaber macht. Entlang der Straßen finden sich unzählige Baumschulen, die eine enorme Vielfalt an tropischen Pflanzen und Blumen anbieten. Ein Muss für Besucher ist das \\\"Zoo Ave\\\", ein Rettungszentrum für Wildtiere, das sich der Rehabilitation und Erhaltung der costa-ricanischen Fauna widmet. La Garita ist ein beliebtes Ausflugsziel für Einheimische, die am Wochenende die traditionelle Küche in den zahlreichen \\\"Restaurantes Típicos\\\" genießen. Die entspannte Atmosphäre, das sonnige Wetter und die üppige Flora machen den Ort zu einer grünen Oase am Rande der Metropolregion. Hier zeigt sich die natürliche Schönheit Costa Ricas in ihrer ganzen Pracht. Sachkunde K4.",
       hu: "",
-      ro: "La Garita de Alajuela este cunoscută pentru unul dintre cele mai bune climate din lume, ceea ce transformă regiunea într-un paradis pentru pepiniere și iubitorii de natură. De-a lungul drumurilor se găsesc nenumărate pepiniere care oferă o varietate enormă de plante și flori tropicale. O vizită obligatorie pentru turiști este „Zoo Ave”, un centru de salvare a animalelor sălbatice dedicat reabilitării și conservării faunei din Costa Rica. La Garita este o destinație populară de weekend pentru localnici, care vin să se bucure de bucătăria tradițională în numeroasele restaurante tipice. Atmosfera relaxată, vremea însorită și flora luxuriantă fac din acest loc o oază verde la marginea zonei metropolitane.",
+      ro: "La Garita de Alajuela este cunoscută pentru unul dintre cele mai bune climate din lume, ceea ce transformă regiunea într-un paradis pentru pepiniere și iubitorii de natură. De-a lungul drumurilor se găsesc nenumărate pepiniere care oferă o varietate enormă de plante și flori tropicale. O vizită obligatorie pentru turiști este \\\"Zoo Ave\\\", un centru de salvare a animalelor sălbatice dedicat reabilitării și conservării faunei din Costa Rica. La Garita este o destinație populară de weekend pentru localnici, care vin să se bucure de bucătăria tradițională în numeroasele restaurante tipice. Atmosfera relaxată, vremea însorită și flora luxuriantă fac din acest loc o oază verde la marginea zonei metropolitane.",
       en: ""
     },
     facts: {
@@ -1379,13 +1379,13 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
       ro: ['Cunoscut pentru climatul său răcoros și produsele lactate', 'Grădina topiară prezintă arcade și figuri fanteziste', 'O oprire populară pentru turiști'],
     },
     factsAdvanced: {
-      de: ["Liegt auf einer Höhe von 1.736 Metern über dem Meeresspiegel.", "Der Formschnittgarten wurde ab den 1960er Jahren gestaltet.", "Die Durchschnittstemperatur liegt bei kühlen 16 Grad Celsius.", "Hauptstadt des Kantons Alfaro Ruiz (heute Kanton Zarcero).", "Berühmt für „Natilla“ (Sauerrahm) und hausgemachten Pfirsichlikör.", "Die Kirche San Rafael besitzt beeindruckende Deckenmalereien.", "Einwohnerzahl des Kantons Zarcero liegt bei ca. 14.000 Menschen."],
+      de: ["Liegt auf einer Höhe von 1.736 Metern über dem Meeresspiegel.", "Der Formschnittgarten wurde ab den 1960er Jahren gestaltet.", "Die Durchschnittstemperatur liegt bei kühlen 16 Grad Celsius.", "Hauptstadt des Kantons Alfaro Ruiz (heute Kanton Zarcero).", "Berühmt für \\\"Natilla\\\" (Sauerrahm) und hausgemachten Pfirsichlikör.", "Die Kirche San Rafael besitzt beeindruckende Deckenmalereien.", "Einwohnerzahl des Kantons Zarcero liegt bei ca. 14.000 Menschen."],
       hu: [],
       ro: [
         "Se află la o altitudine de .1.736 de metri deasupra nivelului mării.",
         "Grădina topiară a fost începută și modelată încă din anii 1960.",
         "Temperatura medie este de aproximativ 16 grade Celsius, fiind destul de scăzută.",
-        "Renumit pentru „Natilla” (smântână) și lichiorul de piersici de casă.",
+        "Renumit pentru \\\"Natilla\\\" (smântână) și lichiorul de piersici de casă.",
         "Biserica San Rafael posedă picturi pe tavan impresionante."
       ],
       en: []
@@ -1449,16 +1449,16 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
       ro: 'Un oraș din San Carlos, cunoscut pentru izvoarele sale termale și frumusețea naturală înconjurătoare.',
     },
     descriptionAdvanced: {
-      de: "Aguas Zarcas, dessen Name „hellblaues Wasser“ bedeutet, ist eine florierende Stadt im Kanton San Carlos, bekannt für ihre natürlichen Thermalquellen. Gelegen am Fuße der Vulkankette, profitiert die Region von geothermischer Aktivität, die entspannende heiße Quellen speist. Die Stadt ist ein wichtiges Zentrum für Tourismus und Landwirtschaft, umgeben von üppigem Regenwald und fruchtbarem Ackerland. Aguas Zarcas bietet eine Mischung aus Abenteuer und Erholung, mit Zugang zu Wasserfällen und Wanderwegen. Die wirtschaftliche Bedeutung der Stadt ist in den letzten Jahren stetig gewachsen, was sich in einer modernen Infrastruktur und einem regen Geschäftsleben widerspiegelt. Besucher schätzen die Kombination aus lokaler Gastfreundschaft und der spektakulären Natur der nördlichen Zone. Sachkunde K4.",
+      de: "Aguas Zarcas, dessen Name \\\"hellblaues Wasser\\\" bedeutet, ist eine florierende Stadt im Kanton San Carlos, bekannt für ihre natürlichen Thermalquellen. Gelegen am Fuße der Vulkankette, profitiert die Region von geothermischer Aktivität, die entspannende heiße Quellen speist. Die Stadt ist ein wichtiges Zentrum für Tourismus und Landwirtschaft, umgeben von üppigem Regenwald und fruchtbarem Ackerland. Aguas Zarcas bietet eine Mischung aus Abenteuer und Erholung, mit Zugang zu Wasserfällen und Wanderwegen. Die wirtschaftliche Bedeutung der Stadt ist in den letzten Jahren stetig gewachsen, was sich in einer modernen Infrastruktur und einem regen Geschäftsleben widerspiegelt. Besucher schätzen die Kombination aus lokaler Gastfreundschaft und der spektakulären Natur der nördlichen Zone. Sachkunde K4.",
       hu: "",
-      ro: "Aguas Zarcas, al cărui nume înseamnă „ape albastre deschise”, este un oraș înfloritor din cantonul San Carlos, cunoscut pentru izvoarele sale termale naturale. Situată la poalele lanțului vulcanic, regiunea beneficiază de activitate geotermală care alimentează izvoare termale relaxante. Orașul este un centru important pentru turism și agricultură, fiind înconjurat de păduri tropicale luxuriante și terenuri agricole fertile. Aguas Zarcas oferă un amestec de aventură și relaxare, cu acces la cascade și trasee de drumeție. Importanța economică a orașului a crescut constant în ultimii ani, reflectându-se într-o infrastructură modernă și o viață comercială activă.",
+      ro: "Aguas Zarcas, al cărui nume înseamnă \\\"ape albastre deschise\\\", este un oraș înfloritor din cantonul San Carlos, cunoscut pentru izvoarele sale termale naturale. Situată la poalele lanțului vulcanic, regiunea beneficiază de activitate geotermală care alimentează izvoare termale relaxante. Orașul este un centru important pentru turism și agricultură, fiind înconjurat de păduri tropicale luxuriante și terenuri agricole fertile. Aguas Zarcas oferă un amestec de aventură și relaxare, cu acces la cascade și trasee de drumeție. Importanța economică a orașului a crescut constant în ultimii ani, reflectându-se într-o infrastructură modernă și o viață comercială activă.",
       en: ""
     },
     facts: {
       en: ['"Aguas Zarcas" means "light-blue waters"', 'Popular for local tourism', 'Located in a region with significant geological activity'],
-      de: ['„Aguas Zarcas“ bedeutet „hellblaues Wasser“', 'Beliebt für den lokalen Tourismus', 'In einer Region mit erheblicher geologischer Aktivität gelegen'],
-      hu: ['Az „Aguas Zarcas” jelentése „világoskék vizek”', 'Népszerű a helyi turizmus körében', 'Jelentős geológiai aktivitású régióban található'],
-      ro: ['„Aguas Zarcas” înseamnă „ape albastre deschise”', 'Popular pentru turismul local', 'Situat într-o regiune cu activitate geologică semnificativă'],
+      de: ['"Aguas Zarcas" bedeutet "hellblaues Wasser"', 'Beliebt für den lokalen Tourismus', 'In einer Region mit erheblicher geologischer Aktivität gelegen'],
+      hu: ['Az "Aguas Zarcas" jelentése "világoskék vizek"', 'Népszerű a helyi turizmus körében', 'Jelentős geológiai aktivitású régióban található'],
+      ro: ['"Aguas Zarcas" înseamnă "ape albastre deschise"', 'Popular pentru turismul local', 'Situat într-o regiune cu activitate geologică semnificativă'],
     },
     factsAdvanced: {
       de: ["Liegt auf einer Höhe von 500 Metern über dem Meeresspiegel.", "Der Distrikt Aguas Zarcas erstreckt sich über ca. 160 Quadratkilometer.", "Die Bevölkerung liegt bei über 20.000 Einwohnern.", "Bekannt für die hohe Qualität seines Quellwassers.", "Durchschnittstemperatur liegt bei angenehmen 23 Grad Celsius.", "Wichtigster Standort für Molkereiprodukte in der Region Nord.", "Entfernung zur Provinzhauptstadt Quesada beträgt ca. 15 Kilometer."],
@@ -1525,31 +1525,31 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
       ro: 'Palmares',
     },
     description: {
-      en: 'A city famous for hosting one of Costa Rica\'s largest and most popular annual festivals.',
+      en: 'A city famous for hosting one of Costa Rica\\\\\\\'s largest and most popular annual festivals.',
       de: 'Eine Stadt, die für die Ausrichtung eines der größten und beliebtesten jährlichen Feste Costa Ricas berühmt ist.',
       hu: 'A város arról híres, hogy Costa Rica egyik legnagyobb és legnépszerűbb éves fesztiváljának ad otthont.',
       ro: 'Un oraș renumit pentru găzduirea unuia dintre cele mai mari și mai populare festivaluri anuale din Costa Rica.',
     },
     descriptionAdvanced: {
-      de: "Palmares, oft als die „Stadt der Freunde“ bezeichnet, liegt eingebettet in das westliche Zentraltal von Costa Rica auf einer Höhe von etwa 1.000 Metern. Die Stadt ist weltberühmt für ihre „Fiestas de Palmares“, das größte Volksfest des Landes, das jedes Jahr im Januar Zehntausende Besucher anlockt. Doch abseits des Trubels besticht Palmares durch seine außergewöhnliche Sauberkeit und den preisgekrönten Stadtpark. Die lokale Wirtschaft wird stark vom Kaffeeanbau und der Tabakverarbeitung geprägt, was der Region einen wohlhabenden und gepflegten Charakter verleiht. Besucher schätzen die authentische costaricanische Gastfreundschaft und die malerische Kulisse der umliegenden grünen Hügel. Die neugotische Kirche im Stadtzentrum ist ein architektonisches Highlight und ein stolzes Symbol der Gemeinschaft. Sachkunde K4",
+      de: "Palmares, oft als die \\\"Stadt der Freunde\\\" bezeichnet, liegt eingebettet in das westliche Zentraltal von Costa Rica auf einer Höhe von etwa 1.000 Metern. Die Stadt ist weltberühmt für ihre \\\"Fiestas de Palmares\\\", das größte Volksfest des Landes, das jedes Jahr im Januar Zehntausende Besucher anlockt. Doch abseits des Trubels besticht Palmares durch seine außergewöhnliche Sauberkeit und den preisgekrönten Stadtpark. Die lokale Wirtschaft wird stark vom Kaffeeanbau und der Tabakverarbeitung geprägt, was der Region einen wohlhabenden und gepflegten Charakter verleiht. Besucher schätzen die authentische costaricanische Gastfreundschaft und die malerische Kulisse der umliegenden grünen Hügel. Die neugotische Kirche im Stadtzentrum ist ein architektonisches Highlight und ein stolzes Symbol der Gemeinschaft. Sachkunde K4",
       hu: "",
-      ro: "Palmares, numit adesea „Orașul Prietenilor”, este cuibărit în Valea Centrală de vest a Costa Ricăi, la o altitudine de aproximativ 1.000 de metri. Orașul este faimos în întreaga lume pentru „Fiestas de Palmares”, cel mai mare festival popular din țară, care atrage zeci de mii de vizitatori în fiecare ianuarie. În afara perioadei de festival, Palmares impresionează prin curățenia sa excepțională și prin parcul central premiat. Economia locală este puternic influențată de cultivarea cafelei și procesarea tutunului, ceea ce conferă regiunii un caracter prosper și bine întreținut. Vizitatorii apreciază ospitalitatea autentică costaricană și cadrul pitoresc al dealurilor verzi din jur. Biserica neogotică din centrul orașului este un punct de atracție arhitectural.",
+      ro: "Palmares, numit adesea \\\"Orașul Prietenilor\\\", este cuibărit în Valea Centrală de vest a Costa Ricăi, la o altitudine de aproximativ 1.000 de metri. Orașul este faimos în întreaga lume pentru \\\"Fiestas de Palmares\\\", cel mai mare festival popular din țară, care atrage zeci de mii de vizitatori în fiecare ianuarie. În afara perioadei de festival, Palmares impresionează prin curățenia sa excepțională și prin parcul central premiat. Economia locală este puternic influențată de cultivarea cafelei și procesarea tutunului, ceea ce conferă regiunii un caracter prosper și bine întreținut. Vizitatorii apreciază ospitalitatea autentică costaricană și cadrul pitoresc al dealurilor verzi din jur. Biserica neogotică din centrul orașului este un punct de atracție arhitectural.",
       en: ""
     },
     facts: {
       en: ['The "Fiestas de Palmares" attract thousands of visitors', 'Known for its clean and well-maintained central park', 'Located in the Western Central Valley'],
-      de: ['Die „Fiestas de Palmares“ ziehen Tausende von Besuchern an', 'Bekannt für seinen sauberen und gepflegten zentralen Park', 'Im westlichen Zentraltal gelegen'],
-      hu: ['A „Fiestas de Palmares” több ezer látogatót vonz', 'Tiszta és jól karbantartott központi parkjáról ismert', 'A Nyugati-Központi-völgyben található'],
-      ro: ['„Fiestas de Palmares” atrage mii de vizitatori', 'Cunoscut pentru parcul său central curat și bine întreținut', 'Situat în Valea Centrală de Vest'],
+      de: ['Die "Fiestas de Palmares" ziehen Tausende von Besuchern an', 'Bekannt für seinen sauberen und gepflegten zentralen Park', 'Im westlichen Zentraltal gelegen'],
+      hu: ['A "Fiestas de Palmares" több ezer látogatót vonz', 'Tiszta és jól karbantartott központi parkjáról ismert', 'A Nyugati-Központi-völgyben található'],
+      ro: ['"Fiestas de Palmares" atrage mii de vizitatori', 'Cunoscut pentru parcul său central curat și bine întreținut', 'Situat în Valea Centrală de Vest'],
     },
     factsAdvanced: {
       de: ["Das jährliche Festival 'Fiestas de Palmares' dauert 2 Wochen und zählt über 100.000 Besucher.", "Die Stadt liegt auf einer durchschnittlichen Höhe von 1.017 Metern über dem Meeresspiegel.", "Palmares wurde mehrfach als die sauberste Stadt Costa Ricas ausgezeichnet.", "Die Region produziert jährlich etwa 45.000 Säcke hochwertigen Hochlandkaffees.", "Der zentrale Park 'Parque de Palmares' umfasst eine Fläche von rund 5.000 Quadratmetern.", "Die markante Kirche 'Iglesia de las Mercedes' wurde aus Stein und Ziegeln im neugotischen Stil erbaut.", "Der Kanton Palmares umfasst eine Gesamtfläche von nur 38 Quadratkilometern."],
       hu: [],
       ro: [
-        "Festivalul anual „Fiestas de Palmares” durează 2 săptămâni și are peste 100.000 de vizitatori.",
+        "Festivalul anual \\\"Fiestas de Palmares\\\" durează 2 săptămâni și are peste 100.000 de vizitatori.",
         "Palmares a fost premiat de mai multe ori ca fiind cel mai curat oraș din Costa Rica.",
         "Regiunea produce anual aproximativ 45.000 de saci de cafea de munte de înaltă calitate.",
-        "Biserica „Iglesia de las Mercedes” este construită din piatră și cărămidă în stil neogotic.",
+        "Biserica \\\"Iglesia de las Mercedes\\\" este construită din piatră și cărămidă în stil neogotic.",
         "Parcul central are o suprafață de aproximativ 5.000 de metri pătrați."
       ],
       en: []
@@ -1567,14 +1567,14 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
     },
     description: {
       en: 'A town renowned for what National Geographic once called "the best climate in the world."',
-      de: 'Eine Stadt, die für das bekannt ist, was National Geographic einmal als „das beste Klima der Welt“ bezeichnete.',
-      hu: 'Egy város, amely arról híres, amit a National Geographic egykor „a világ legjobb éghajlatának” nevezett.',
-      ro: 'Un oraș renumit pentru ceea ce National Geographic a numit odată „cel mai bun climat din lume”.',
+      de: 'Eine Stadt, die für das bekannt ist, was National Geographic einmal als "das beste Klima der Welt" bezeichnete.',
+      hu: 'Egy város, amely arról híres, amit a National Geographic egykor "a világ legjobb éghajlatának" nevezett.',
+      ro: 'Un oraș renumit pentru ceea ce National Geographic a numit odată "cel mai bun climat din lume".',
     },
     descriptionAdvanced: {
-      de: "Atenas genießt den Ruf, eines der besten Klimas der Welt zu besitzen – eine Auszeichnung, die einst sogar von National Geographic hervorgehoben wurde. Die Stadt liegt strategisch günstig zwischen dem geschäftigen Zentraltal und den sonnigen Stränden der Pazifikküste. Diese ideale Lage und die milden Temperaturen von durchschnittlich 24 Grad machen Atenas zu einem bevorzugten Wohnort für Expats und Rentner aus aller Welt. Der charmante Stadtkern ist geprägt von einer imposanten Kirche und einem lebendigen Park, in dem man das echte „Pura Vida“-Gefühl hautnah erleben kann. Umgeben von ausgedehnten Kaffeeplantagen und üppigen Wäldern bietet Atenas zahlreiche Möglichkeiten für Naturbeobachtungen, insbesondere für Vogelliebhaber, die hier Tukane und Papageien sichten können. Sachkunde K4",
+      de: "Atenas genießt den Ruf, eines der besten Klimas der Welt zu besitzen – eine Auszeichnung, die einst sogar von National Geographic hervorgehoben wurde. Die Stadt liegt strategisch günstig zwischen dem geschäftigen Zentraltal und den sonnigen Stränden der Pazifikküste. Diese ideale Lage und die milden Temperaturen von durchschnittlich 24 Grad machen Atenas zu einem bevorzugten Wohnort für Expats und Rentner aus aller Welt. Der charmante Stadtkern ist geprägt von einer imposanten Kirche und einem lebendigen Park, in dem man das echte \\\"Pura Vida\\\"-Gefühl hautnah erleben kann. Umgeben von ausgedehnten Kaffeeplantagen und üppigen Wäldern bietet Atenas zahlreiche Möglichkeiten für Naturbeobachtungen, insbesondere für Vogelliebhaber, die hier Tukane und Papageien sichten können. Sachkunde K4",
       hu: "",
-      ro: "Atenas se bucură de reputația de a avea unul dintre cele mai bune climate din lume, o distincție care a fost evidențiată la un moment dat chiar de National Geographic. Orașul este situat strategic între valea centrală aglomerată și plajele însorite ale coastei Pacificului. Această locație ideală și temperaturile blânde, de 24 de grade în medie, fac din Atenas un loc de locuit preferat pentru expatriați și pensionari din întreaga lume. Centrul fermecător al orașului este marcat de o biserică impunătoare și de un parc plin de viață, unde puteți experimenta direct sentimentul autentic de „Pura Vida”. Înconjurat de plantații de cafea și păduri luxuriante, Atenas oferă numeroate oportunități pentru observarea naturii, în special pentru iubitorii de păsări.",
+      ro: "Atenas se bucură de reputația de a avea unul dintre cele mai bune climate din lume, o distincție care a fost evidențiată la un moment dat chiar de National Geographic. Orașul este situat strategic între valea centrală aglomerată și plajele însorite ale coastei Pacificului. Această locație ideală și temperaturile blânde, de 24 de grade în medie, fac din Atenas un loc de locuit preferat pentru expatriați și pensionari din întreaga lume. Centrul fermecător al orașului este marcat de o biserică impunătoare și de un parc plin de viață, unde puteți experimenta direct sentimentul autentic de \\\"Pura Vida\\\". Înconjurat de plantații de cafea și păduri luxuriante, Atenas oferă numeroate oportunități pentru observarea naturii, în special pentru iubitorii de păsări.",
       en: ""
     },
     facts: {
@@ -1588,9 +1588,9 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
       hu: [],
       ro: [
         "Temperatura medie în Atenas variază foarte puțin pe parcursul anului, între 23 și 26 de grade Celsius.",
-        "Orașul este cunoscut pentru „Puente de Piedra”, un pod natural de piatră peste râul Porrosatí.",
+        "Orașul este cunoscut pentru \\\"Puente de Piedra\\\", un pod natural de piatră peste râul Porrosatí.",
         "Piața locală a fermierilor (Feria) are loc în fiecare vineri și oferă produse de la peste 50 de ferme locale.",
-        "Regiunea este faimoasă pentru producția de „Toronja Rellena”, un desert din grepfrut umplut cu lapte condensat caramelizat.",
+        "Regiunea este faimoasă pentru producția de \\\"Toronja Rellena\\\", un desert din grepfrut umplut cu lapte condensat caramelizat.",
         "Se află la o altitudine de 698 de metri deasupra nivelului mării."
       ],
       en: []
@@ -1608,14 +1608,14 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
     },
     description: {
       en: 'A city famous for its unique all-metal church, the "Iglesia de Nuestra Señora de las Mercedes."',
-      de: 'Eine Stadt, die für ihre einzigartige Ganzmetallkirche, die „Iglesia de Nuestra Señora de las Mercedes“, berühmt ist.',
-      hu: 'A város egyedülálló, teljesen fémből készült templomáról, az „Iglesia de Nuestra Señora de las Mercedes”-ről híres.',
-      ro: 'Un oraș renumit pentru biserica sa unică, realizată integral din metal, „Iglesia de Nuestra Señora de las Mercedes”.',
+      de: 'Eine Stadt, die für ihre einzigartige Ganzmetallkirche, die "Iglesia de Nuestra Señora de las Mercedes", berühmt ist.',
+      hu: 'A város egyedülálló, teljesen fémből készült templomáról, az "Iglesia de Nuestra Señora de las Mercedes"-ről híres.',
+      ro: 'Un oraș renumit pentru biserica sa unică, realizată integral din metal, "Iglesia de Nuestra Señora de las Mercedes".',
     },
     descriptionAdvanced: {
-      de: "Grecia ist eine architektonische Besonderheit in Costa Rica und weit über die Landesgrenzen hinaus bekannt für seine tiefrote Kirche, die vollständig aus Metall gefertigt wurde. Diese „Iglesia de la Nuestra Señora de las Mercedes“ wurde Ende des 19. Jahrhunderts in Belgien vorgefertigt und per Schiff nach Mittelamerika transportiert. Neben diesem stählernen Wunderwerk gilt Grecia als eine der saubersten Städte Lateinamerikas. Die Wirtschaft der Region blüht dank der intensiven Produktion von Zuckerrohr und Kaffee. Besucher können hier das ländliche Leben in seiner modernsten Form erleben, während sie die sanften Hänge der umliegenden Vulkanausläufer erkunden. Der nahegelegene Nationalpark Los Chorros lockt zudem mit beeindruckenden Wasserfällen und einer reichen Artenvielfalt, die Grecia zu einem perfekten Ziel für Natur- und Kulturliebhaber macht. Sachkunde K4",
+      de: "Grecia ist eine architektonische Besonderheit in Costa Rica und weit über die Landesgrenzen hinaus bekannt für seine tiefrote Kirche, die vollständig aus Metall gefertigt wurde. Diese \\\"Iglesia de la Nuestra Señora de las Mercedes\\\" wurde Ende des 19. Jahrhunderts in Belgien vorgefertigt und per Schiff nach Mittelamerika transportiert. Neben diesem stählernen Wunderwerk gilt Grecia als eine der saubersten Städte Lateinamerikas. Die Wirtschaft der Region blüht dank der intensiven Produktion von Zuckerrohr und Kaffee. Besucher können hier das ländliche Leben in seiner modernsten Form erleben, während sie die sanften Hänge der umliegenden Vulkanausläufer erkunden. Der nahegelegene Nationalpark Los Chorros lockt zudem mit beeindruckenden Wasserfällen und einer reichen Artenvielfalt, die Grecia zu einem perfekten Ziel für Natur- und Kulturliebhaber macht. Sachkunde K4",
       hu: "",
-      ro: "Grecia este o curiozitate arhitecturală în Costa Rica, fiind celebră în întreaga lume pentru biserica sa roșie realizată integral din metal. Această „Iglesia de la Nuestra Señora de las Mercedes” a fost prefabricată în Belgia la sfârșitul secolului al XIX-lea și transportată cu vaporul. Pe lângă această minune de oțel, Grecia este recunoscută ca fiind unul dintre cele mai curate orașe din întreaga Americă Latină. Economia regiunii înflorește datorită producției intense de trestie de zahăr și cafea de înaltă calitate. Vizitatorii pot experimenta viața rurală modernă în timp ce explorează pantele line ale vulcanilor din apropiere. Parcul Național Los Chorros, situat în vecinătate, atrage turiștii cu cascade impresionante și o biodiversitate bogată.",
+      ro: "Grecia este o curiozitate arhitecturală în Costa Rica, fiind celebră în întreaga lume pentru biserica sa roșie realizată integral din metal. Această \\\"Iglesia de la Nuestra Señora de las Mercedes\\\" a fost prefabricată în Belgia la sfârșitul secolului al XIX-lea și transportată cu vaporul. Pe lângă această minune de oțel, Grecia este recunoscută ca fiind unul dintre cele mai curate orașe din întreaga Americă Latină. Economia regiunii înflorește datorită producției intense de trestie de zahăr și cafea de înaltă calitate. Vizitatorii pot experimenta viața rurală modernă în timp ce explorează pantele line ale vulcanilor din apropiere. Parcul Național Los Chorros, situat în vecinătate, atrage turiștii cu cascade impresionante și o biodiversitate bogată.",
       en: ""
     },
     facts: {
@@ -1660,7 +1660,7 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
       en: ""
     },
     facts: {
-      en: ['Home to the world\'s largest oxcart', 'Oxcarts are a UNESCO Intangible Cultural Heritage', 'A hub for woodworking and furniture making'],
+      en: ['Home to the world\\\\\\\'s largest oxcart', 'Oxcarts are a UNESCO Intangible Cultural Heritage', 'A hub for woodworking and furniture making'],
       de: ['Heimat des größten Ochsenkarrens der Welt', 'Ochsenkarren gehören zum immateriellen UNESCO-Weltkulturerbe', 'Ein Zentrum für Holzbearbeitung und Möbelherstellung'],
       hu: ['A világ legnagyobb ökrösszekerének otthona', 'Az ökrösszekerek az UNESCO szellemi kulturális örökség részét képezik', 'A famegmunkálás és bútorgyártás központja'],
       ro: ['Găzduiește cel mai mare car cu boi din lume', 'Carele cu boi fac parte din Patrimoniul Cultural Imaterial UNESCO', 'Un centru pentru prelucrarea lemnului și fabricarea mobilei'],
@@ -1695,23 +1695,23 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
       ro: 'Capitala cantonului La Unión, cunoscută pentru istoria sa ca regiune de prim rang în cultivarea cafelei.',
     },
     descriptionAdvanced: {
-      de: "Tres Ríos, strategisch am östlichen Rand der Metropolregion San José gelegen, ist historisch eng mit der Entwicklung der costaricanischen Kaffeeindustrie verknüpft. Der Name „Drei Flüsse“ deutet bereits auf die wasserreiche Topografie hin, die diese Region ideal für den Anbau von hochwertigem Kaffee macht. Einst ein kleines Dorf, hat sich Tres Ríos heute zu einem modernen Wohn- und Geschäftszentrum entwickelt, ohne seinen kolonialen Charme völlig zu verlieren. Besonders bekannt ist die Stadt für ihre kühlen Brisen und den Blick auf die umliegenden Berge. In der Nähe befinden sich exklusive Wohngebiete und moderne Einkaufszentren, die Tres Ríos zu einem attraktiven Standort für junge Familien und Fachkräfte machen. Für Geschichtsinteressierte bietet die lokale Architektur Spuren der glorreichen Ära der Kaffeebarone. Sachkunde K4",
+      de: "Tres Ríos, strategisch am östlichen Rand der Metropolregion San José gelegen, ist historisch eng mit der Entwicklung der costaricanischen Kaffeeindustrie verknüpft. Der Name \\\"Drei Flüsse\\\" deutet bereits auf die wasserreiche Topografie hin, die diese Region ideal für den Anbau von hochwertigem Kaffee macht. Einst ein kleines Dorf, hat sich Tres Ríos heute zu einem modernen Wohn- und Geschäftszentrum entwickelt, ohne seinen kolonialen Charme völlig zu verlieren. Besonders bekannt ist die Stadt für ihre kühlen Brisen und den Blick auf die umliegenden Berge. In der Nähe befinden sich exklusive Wohngebiete und moderne Einkaufszentren, die Tres Ríos zu einem attraktiven Standort für junge Familien und Fachkräfte machen. Für Geschichtsinteressierte bietet die lokale Architektur Spuren der glorreichen Ära der Kaffeebarone. Sachkunde K4",
       hu: "",
-      ro: "Tres Ríos este situat strategic la marginea de est a zonei metropolitane San José și este strâns legat de istoria industriei cafelei din Costa Rica. Numele său, care înseamnă „Trei Râuri”, reflectă topografia bogată în resurse de apă care face această regiune ideală pentru culturile de cafea premium. De-a lungul timpului, Tres Ríos s-a transformat dintr-un sat agricol într-un centru rezidențial și comercial modern, păstrându-și totodată farmecul colonial. Orașul este cunoscut pentru briza sa răcoroasă și vederile panoramice asupra munților din jur. Apropierea de centre comerciale exclusiviste și școli de renume îl face o locație foarte căutată de familiile tinere și profesioniști. Pentru pasionații de istorie, arhitectura locală încă păstrează urmele epocii de aur a baronilor cafelei.",
+      ro: "Tres Ríos este situat strategic la marginea de est a zonei metropolitane San José și este strâns legat de istoria industriei cafelei din Costa Rica. Numele său, care înseamnă \\\"Trei Râuri\\\", reflectă topografia bogată în resurse de apă care face această regiune ideală pentru culturile de cafea premium. De-a lungul timpului, Tres Ríos s-a transformat dintr-un sat agricol într-un centru rezidențial și comercial modern, păstrându-și totodată farmecul colonial. Orașul este cunoscut pentru briza sa răcoroasă și vederile panoramice asupra munților din jur. Apropierea de centre comerciale exclusiviste și școli de renume îl face o locație foarte căutată de familiile tinere și profesioniști. Pentru pasionații de istorie, arhitectura locală încă păstrează urmele epocii de aur a baronilor cafelei.",
       en: ""
     },
     facts: {
       en: ['Part of the eastern Greater Metropolitan Area', 'Its name means "Three Rivers"', 'A blend of urban development and agricultural tradition'],
-      de: ['Teil der östlichen Metropolregion Gran Area Metropolitana', 'Sein Name bedeutet „Drei Flüsse“', 'Eine Mischung aus Stadtentwicklung und landwirtschaftlicher Tradition'],
-      hu: ['A keleti Nagyvárosi Terület része', 'Neve „Három Folyót” jelent', 'A városfejlesztés és a mezőgazdasági hagyományok keveréke'],
-      ro: ['Parte a Marii Zone Metropolitane de est', 'Numele său înseamnă „Trei Râuri”', 'Un amestec de dezvoltare urbană și tradiție agricolă'],
+      de: ['Teil der östlichen Metropolregion Gran Area Metropolitana', 'Sein Name bedeutet "Drei Flüsse"', 'Eine Mischung aus Stadtentwicklung und landwirtschaftlicher Tradition'],
+      hu: ['A keleti Nagyvárosi Terület része', 'Neve "Három Folyót" jelent', 'A városfejlesztés és a mezőgazdasági hagyományok keveréke'],
+      ro: ['Parte a Marii Zone Metropolitane de est', 'Numele său înseamnă "Trei Râuri"', 'Un amestec de dezvoltare urbană și tradiție agricolă'],
     },
     factsAdvanced: {
       de: ["Tres Ríos liegt auf einer Höhe von etwa 1.342 Metern, was für ein angenehm kühles Klima sorgt.", "Die Stadt ist der Verwaltungssitz des Kantons La Unión in der Provinz Cartago.", "Der Kaffee aus Tres Ríos trägt oft die geschützte Bezeichnung 'Caffé de Tres Ríos'.", "Die Region profitiert von den fruchtbaren Vulkanböden des nahegelegenen Vulkans Irazú.", "Tres Ríos liegt etwa 12 Kilometer östlich des Zentrums der Hauptstadt San José.", "In der Stadt kreuzen sich wichtige Verkehrsverbindungen zwischen San José und der alten Hauptstadt Cartago.", "Die Einwohnerzahl des Bezirks Tres Ríos wird auf über 10.000 Personen geschätzt."],
       hu: [],
       ro: [
         "Tres Ríos este situat la o altitudine de aproximativ 1.342 de metri, oferind un climat plăcut.",
-        "Cafeaua produsă aici poartă adesea denumirea protejată „Caffé de Tres Ríos”.",
+        "Cafeaua produsă aici poartă adesea denumirea protejată \\\"Caffé de Tres Ríos\\\".",
         "Regiunea beneficiază de soluri vulcanice fertile datorate proximității vulcanului Irazú.",
         "Orașul se află la aproximativ 12 kilometri est de centrul capitalei San José.",
         "Populația districtului Tres Ríos este estimată la peste 10.000 de persoane."
@@ -1772,13 +1772,13 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
       ro: 'Orosi',
     },
     description: {
-      en: 'A historic town in a lush valley, home to Costa Rica\'s oldest still-in-use colonial church.',
+      en: 'A historic town in a lush valley, home to Costa Rica\\\\\\\'s oldest still-in-use colonial church.',
       de: 'Eine historische Stadt in einem üppigen Tal, Heimat der ältesten noch genutzten Kolonialkirche Costa Ricas.',
       hu: 'Történelmi város egy buja völgyben, ahol Costa Rica legrégebbi, még mindig használatban lévő gyarmati temploma található.',
       ro: 'Un oraș istoric într-o vale luxuriantă, care găzduiește cea mai veche biserică colonială încă în uz din Costa Rica.',
     },
     descriptionAdvanced: {
-      de: "Das Orosi-Tal gilt als eines der malerischsten Gebiete Costa Ricas, und die Stadt Orosi ist sein kulturelles Herzstück. Hier steht die älteste noch genutzte Kirche des Landes, die „Iglesia de San José de Orosi“, ein schlichtes, weißes Kolonialbauwerk aus dem 18. Jahrhundert. Das Tal wird vom mächtigen Reventazón-Fluss durchquert und ist umgeben von tiefgrünen Bergen und ausgedehnten Kaffeeplantagen. Dank zahlreicher heißer Quellen hat sich Orosi auch als Wellness-Ziel etabliert. Besucher können in mineralhaltigem Wasser entspannen, während sie den Blick auf den Vulkan Irazú genießen. Die Region ist zudem ein Paradies für Outdoor-Aktivitäten wie Mountainbiken, Wandern und Rafting. In Orosi scheint die Zeit langsamer zu vergehen, was den Ort zu einem perfekten Rückzugsort für Erholungssuchende macht. Sachkunde K4",
+      de: "Das Orosi-Tal gilt als eines der malerischsten Gebiete Costa Ricas, und die Stadt Orosi ist sein kulturelles Herzstück. Hier steht die älteste noch genutzte Kirche des Landes, die \\\"Iglesia de San José de Orosi\\\", ein schlichtes, weißes Kolonialbauwerk aus dem 18. Jahrhundert. Das Tal wird vom mächtigen Reventazón-Fluss durchquert und ist umgeben von tiefgrünen Bergen und ausgedehnten Kaffeeplantagen. Dank zahlreicher heißer Quellen hat sich Orosi auch als Wellness-Ziel etabliert. Besucher können in mineralhaltigem Wasser entspannen, während sie den Blick auf den Vulkan Irazú genießen. Die Region ist zudem ein Paradies für Outdoor-Aktivitäten wie Mountainbiken, Wandern und Rafting. In Orosi scheint die Zeit langsamer zu vergehen, was den Ort zu einem perfekten Rückzugsort für Erholungssuchende macht. Sachkunde K4",
       hu: "",
       ro: "Valea Orosi este considerată una dintre cele mai pitorești zone din Costa Rica, iar orașul Orosi reprezintă inima sa culturală. Aici se află cea mai veche biserică încă funcțională din țară, Iglesia de San José de Orosi, o structură colonială simplă și albă din secolul al XVIII-lea. Valea este traversată de râul Reventazón și este înconjurată de munți verzi și plantații extinse de cafea. Datorită numeroaselor izvoare termale, Orosi s-a impus și ca o destinație de wellness, oferind relaxare în ape bogate în minerale. Regiunea este un paradis pentru activități în aer liber, precum ciclism montan, drumeții și rafting. În Orosi, timpul pare să treacă mai lent, transformând locul într-un refugiu perfect pentru cei care caută liniște și recreere.",
       en: ""
@@ -1902,9 +1902,9 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
       ro: 'Capitala cantonului Carrillo din Guanacaste, situată de-a lungul râului Tempisque.',
     },
     descriptionAdvanced: {
-      de: "Filadelfia liegt im Herzen der Provinz Guanacaste am Ufer des Tempisque-Flusses und ist als die „Archäologische Stadt Costa Ricas“ bekannt. Die Region war einst ein bedeutendes Siedlungszentrum präkolumbianischer Kulturen, wovon zahlreiche Funde in der Umgebung zeugen. Heute ist Filadelfia ein pulsierendes Zentrum für die Agrarindustrie, insbesondere für den Anbau von Melonen und Zuckerrohr. Das Klima ist heiß und trocken, typisch für die nordpazifische Ebene. Die Stadt dient als wichtiger Verkehrsknotenpunkt für Reisende, die zu den berühmten Stränden der Halbinsel Nicoya oder in den Nationalpark Palo Verde unterwegs sind. Trotz der Modernisierung hat sich Filadelfia seinen traditionellen Charme mit kolonialen Gebäuden und einem lebendigen zentralen Park bewahrt. Sachkunde K4",
+      de: "Filadelfia liegt im Herzen der Provinz Guanacaste am Ufer des Tempisque-Flusses und ist als die \\\"Archäologische Stadt Costa Ricas\\\" bekannt. Die Region war einst ein bedeutendes Siedlungszentrum präkolumbianischer Kulturen, wovon zahlreiche Funde in der Umgebung zeugen. Heute ist Filadelfia ein pulsierendes Zentrum für die Agrarindustrie, insbesondere für den Anbau von Melonen und Zuckerrohr. Das Klima ist heiß und trocken, typisch für die nordpazifische Ebene. Die Stadt dient als wichtiger Verkehrsknotenpunkt für Reisende, die zu den berühmten Stränden der Halbinsel Nicoya oder in den Nationalpark Palo Verde unterwegs sind. Trotz der Modernisierung hat sich Filadelfia seinen traditionellen Charme mit kolonialen Gebäuden und einem lebendigen zentralen Park bewahrt. Sachkunde K4",
       hu: "",
-      ro: "Filadelfia este situată în inima provinciei Guanacaste, pe malul râului Tempisque, și este cunoscută drept „Orașul Arheologic al Costa Ricăi”. Regiunea a fost un centru important de așezare pentru culturile precolumbiene, fapt demonstrat de numeroasele descoperiri din împrejurimi. Astăzi, Filadelfia este un centru vibrant pentru industria agricolă, în special pentru cultivarea pepenilor și a trestiei de zahăr. Climatul este caracteristic zonei de nord a Pacificului, fiind extrem de cald și uscat în cea mai mare parte a anului. Orașul servește ca un nod de transport crucial pentru călătorii care se îndreaptă spre plajele Peninsulei Nicoya. În ciuda modernizării, Filadelfia își păstrează farmecul tradițional prin clădirile coloniale și parcul central plin de viață.",
+      ro: "Filadelfia este situată în inima provinciei Guanacaste, pe malul râului Tempisque, și este cunoscută drept \\\"Orașul Arheologic al Costa Ricăi\\\". Regiunea a fost un centru important de așezare pentru culturile precolumbiene, fapt demonstrat de numeroasele descoperiri din împrejurimi. Astăzi, Filadelfia este un centru vibrant pentru industria agricolă, în special pentru cultivarea pepenilor și a trestiei de zahăr. Climatul este caracteristic zonei de nord a Pacificului, fiind extrem de cald și uscat în cea mai mare parte a anului. Orașul servește ca un nod de transport crucial pentru călătorii care se îndreaptă spre plajele Peninsulei Nicoya. În ciuda modernizării, Filadelfia își păstrează farmecul tradițional prin clădirile coloniale și parcul central plin de viață.",
       en: ""
     },
     facts: {
@@ -1960,7 +1960,7 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
       ro: [
         "Se află la o altitudine de 506 metri, la tranziția dintre Cordillera Centrală și cea de Nord.",
         "Găzduiește unul dintre cele mai mari parcuri eoliene din America Centrală.",
-        "Numele Tilarán provine dintr-o limbă indigenă și înseamnă „locul cu multe vânturi”.",
+        "Numele Tilarán provine dintr-o limbă indigenă și înseamnă \\\"locul cu multe vânturi\\\".",
         "Lacul Arenal de lângă Tilarán este considerat unul dintre cele mai bune locuri din lume pentru windsurfing.",
         "Temperatura medie anuală este de aproximativ 22 de grade Celsius."
       ],
@@ -1984,9 +1984,9 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
       ro: 'Un oraș liniștit din Guanacaste, situat în apropierea Vulcanului Miravalles și a proiectelor sale de energie geotermală.',
     },
     descriptionAdvanced: {
-      de: "Bagaces ist eine geschichtsträchtige Stadt in Guanacaste, die oft als „Stadt der Cowboys“ bezeichnet wird. Sie liegt strategisch günstig an der Panamericana, unweit des beeindruckenden Vulkans Miravalles. Die Region ist bekannt für ihre heißen Quellen und geothermischen Aktivitäten, die zur Stromgewinnung genutzt werden. Für Naturliebhaber ist Bagaces der perfekte Ausgangspunkt zum Nationalpark Palo Verde, einem der wichtigsten Feuchtgebiete Mittelamerikas für Zugvögel. Ein absolutes Highlight in der Nähe ist der Wasserfall „Llanos de Cortés“, der mit seinem weißen Vorhang und dem natürlichen Pool zum Baden einlädt. Die Stadt selbst versprüht den rauen Charme der Viehzüchter-Kultur Guanacastes, mit traditionellen Festen und einer herzlichen, bodenständigen Bevölkerung. Sachkunde K4",
+      de: "Bagaces ist eine geschichtsträchtige Stadt in Guanacaste, die oft als \\\"Stadt der Cowboys\\\" bezeichnet wird. Sie liegt strategisch günstig an der Panamericana, unweit des beeindruckenden Vulkans Miravalles. Die Region ist bekannt für ihre heißen Quellen und geothermischen Aktivitäten, die zur Stromgewinnung genutzt werden. Für Naturliebhaber ist Bagaces der perfekte Ausgangspunkt zum Nationalpark Palo Verde, einem der wichtigsten Feuchtgebiete Mittelamerikas für Zugvögel. Ein absolutes Highlight in der Nähe ist der Wasserfall \\\"Llanos de Cortés\\\", der mit seinem weißen Vorhang und dem natürlichen Pool zum Baden einlädt. Die Stadt selbst versprüht den rauen Charme der Viehzüchter-Kultur Guanacastes, mit traditionellen Festen und einer herzlichen, bodenständigen Bevölkerung. Sachkunde K4",
       hu: "",
-      ro: "Bagaces este un oraș încărcat de istorie din Guanacaste, fiind adesea numit „Orașul Văcarilor” datorită tradiției sale în creșterea vitelor. Este situat strategic pe autostrada Panamericană, nu departe de impresionantul vulcan Miravalles. Regiunea este renumită pentru izvoarele sale termale și activitățile geotermale care sunt utilizate pentru producerea de energie. Pentru iubitorii de natură, Bagaces este punctul perfect de plecare către Parcul Național Palo Verde, o zonă umedă vitală pentru păsările migratoare. O atracție majoră din apropiere este cascada Llanos de Cortés, care invită la scăldat în piscina sa naturală spectaculoasă. Orașul emană farmecul culturii sabaneros, cu festivaluri tradiționale și o populație caldă și primitoare.",
+      ro: "Bagaces este un oraș încărcat de istorie din Guanacaste, fiind adesea numit \\\"Orașul Văcarilor\\\" datorită tradiției sale în creșterea vitelor. Este situat strategic pe autostrada Panamericană, nu departe de impresionantul vulcan Miravalles. Regiunea este renumită pentru izvoarele sale termale și activitățile geotermale care sunt utilizate pentru producerea de energie. Pentru iubitorii de natură, Bagaces este punctul perfect de plecare către Parcul Național Palo Verde, o zonă umedă vitală pentru păsările migratoare. O atracție majoră din apropiere este cascada Llanos de Cortés, care invită la scăldat în piscina sa naturală spectaculoasă. Orașul emană farmecul culturii sabaneros, cu festivaluri tradiționale și o populație caldă și primitoare.",
       en: ""
     },
     facts: {
@@ -2044,7 +2044,7 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
         "Hojancha se află la o altitudine de 350 de metri deasupra nivelului mării în Peninsula Nicoya.",
         "Cantonul Hojancha este considerat unul dintre cele mai sigure și mai bine administrate locuri din Costa Rica.",
         "Rezervația forestieră Monte Alto cuprinde peste 900 de hectare de pădure tropicală regenerată.",
-        "Hojancha face parte din „Zona Albastră” din Nicoya, cunoscută pentru longevitatea locuitorilor săi.",
+        "Hojancha face parte din \\\"Zona Albastră\\\" din Nicoya, cunoscută pentru longevitatea locuitorilor săi.",
         "Orașul are cea mai mare densitate de arbori pe cap de locuitor într-o zonă urbană din Guanacaste."
       ],
       en: []
@@ -2067,7 +2067,7 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
       ro: 'Un oraș de plajă relaxat pe coasta Pacificului, popular printre familii și turiști pentru golful său calm.',
     },
     descriptionAdvanced: {
-      de: "Sámara ist ein wahres Strandparadies an der Pazifikküste der Halbinsel Nicoya. Bekannt für seine weite, sichelförmige Bucht und das ruhige Wasser, ist Sámara besonders bei Familien und Anfängern im Surfen beliebt. Ein vorgelagertes Korallenriff schützt den Strand vor starker Brandung und macht ihn zu einem der sichersten Badeorte des Landes. Das Städtchen selbst hat eine entspannte, unaufgeregte Atmosphäre mit gemütlichen Cafés, Kunstgalerien und Surfschulen direkt am Meer. Die umliegende Natur bietet Möglichkeiten für Kajaktouren zur einsamen Insel Chora oder Wanderungen durch den tropischen Trockenwald. Sámara hat es geschafft, seinen ursprünglichen Charme trotz wachsender Beliebtheit zu bewahren, und ist ein idealer Ort für alle, die das „Pura Vida“ in seiner reinsten Form suchen. Sachkunde K4",
+      de: "Sámara ist ein wahres Strandparadies an der Pazifikküste der Halbinsel Nicoya. Bekannt für seine weite, sichelförmige Bucht und das ruhige Wasser, ist Sámara besonders bei Familien und Anfängern im Surfen beliebt. Ein vorgelagertes Korallenriff schützt den Strand vor starker Brandung und macht ihn zu einem der sichersten Badeorte des Landes. Das Städtchen selbst hat eine entspannte, unaufgeregte Atmosphäre mit gemütlichen Cafés, Kunstgalerien und Surfschulen direkt am Meer. Die umliegende Natur bietet Möglichkeiten für Kajaktouren zur einsamen Insel Chora oder Wanderungen durch den tropischen Trockenwald. Sámara hat es geschafft, seinen ursprünglichen Charme trotz wachsender Beliebtheit zu bewahren, und ist ein idealer Ort für alle, die das \\\"Pura Vida\\\" in seiner reinsten Form suchen. Sachkunde K4",
       hu: "",
       ro: "Sámara este un adevărat paradis de plajă situat pe coasta Pacificului a Peninsulei Nicoya. Cunoscut pentru golful său larg în formă de semilună și apele sale calme, Sámara este deosebit de popular printre familii și începătorii în surf. Un recif de corali aflat în larg protejează plaja de valurile puternice, transformând-o într-unul dintre cele mai sigure locuri de scăldat din țară. Orașul are o atmosferă relaxată, cu cafenele primitoare, galerii de artă și școli de surf chiar pe malul mării. Natura înconjurătoare oferă oportunități pentru excursii cu caiacul la insula izolată Chora sau drumeții prin pădurea tropicală uscată. Sámara a reușit să-și păstreze farmecul original în ciuda popularității sale crescânde.",
       en: ""
@@ -2127,7 +2127,7 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
         "Refugiul protejat Ostional se află la numai 10 kilometri spre nord de centrul Nosara.",
         "Nosara deține mai mulți instructori de yoga înregistrați pe kilometru pătrat decât aproape oriunde în America Centrală.",
         "Nicio clădire din Nosara nu are voie să fie mai înaltă decât palmierii din jur, conform legilor locale.",
-        "Lunile septembrie și octombrie sunt perioadele principale pentru „arribadas” sau sosirile masive ale țestoaselor."
+        "Lunile septembrie și octombrie sunt perioadele principale pentru \\\"arribadas\\\" sau sosirile masive ale țestoaselor."
       ],
       en: []
     }, image: "/poi-images/nosara-de-nicoya-cities-v2.webp"},
@@ -2149,9 +2149,9 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
       ro: 'Un oraș de plajă plin de viață în Guanacaste, una dintre cele mai consacrate destinații turistice din Golful Papagayo.',
     },
     descriptionAdvanced: {
-      de: "Playas del Coco ist einer der ältesten und lebhaftesten Badeorte in der Provinz Guanacaste. Gelegen am wunderschönen Golf von Papagayo, bietet der Ort eine perfekte Mischung aus touristischer Infrastruktur und lokalem Charme. „El Coco“, wie es die Einheimischen nennen, ist ein Paradies für Wassersportler, insbesondere für Taucher, die von hier aus zu den berühmten Catalina- und Bat-Inseln aufbrechen. Die Promenade „Amor de Temporada“ lädt zu abendlichen Spaziergängen bei spektakulären Sonnenuntergängen ein. Das Nachtleben ist pulsierend, mit zahlreichen Bars und Restaurants, die fangfrischen Fisch servieren. Dank der Nähe zum internationalen Flughafen Liberia ist Playas del Coco ein idealer erster Stopp für viele Costa Rica-Reisende, die Sonne, Strand und Spaß suchen. Sachkunde K4",
+      de: "Playas del Coco ist einer der ältesten und lebhaftesten Badeorte in der Provinz Guanacaste. Gelegen am wunderschönen Golf von Papagayo, bietet der Ort eine perfekte Mischung aus touristischer Infrastruktur und lokalem Charme. \\\"El Coco\\\", wie es die Einheimischen nennen, ist ein Paradies für Wassersportler, insbesondere für Taucher, die von hier aus zu den berühmten Catalina- und Bat-Inseln aufbrechen. Die Promenade \\\"Amor de Temporada\\\" lädt zu abendlichen Spaziergängen bei spektakulären Sonnenuntergängen ein. Das Nachtleben ist pulsierend, mit zahlreichen Bars und Restaurants, die fangfrischen Fisch servieren. Dank der Nähe zum internationalen Flughafen Liberia ist Playas del Coco ein idealer erster Stopp für viele Costa Rica-Reisende, die Sonne, Strand und Spaß suchen. Sachkunde K4",
       hu: "",
-      ro: "Playas del Coco este una dintre cele mai vechi și animate localități de coastă din provincia Guanacaste. Situat în spectaculosul Golf Papagayo, orașul oferă un amestec perfect între infrastructura turistică modernă și farmecul local autentic. „El Coco”, așa cum îl numesc localnicii, este un paradis pentru iubitorii sporturilor nautice, fiind baza principală pentru scufundări către insulele Catalina și Bat. Promenada „Amor de Temporada” invită la plimbări relaxante de seară sub apusuri de soare memorabile. Viața de noapte este vibrantă, cu numeroase baruri și restaurante care servesc pește proaspăt și fructe de mare. Datorită proximității față de aeroportul internațional din Liberia, este adesea prima oprire pentru turiștii dornici de soare și distracție.",
+      ro: "Playas del Coco este una dintre cele mai vechi și animate localități de coastă din provincia Guanacaste. Situat în spectaculosul Golf Papagayo, orașul oferă un amestec perfect între infrastructura turistică modernă și farmecul local autentic. \\\"El Coco\\\", așa cum îl numesc localnicii, este un paradis pentru iubitorii sporturilor nautice, fiind baza principală pentru scufundări către insulele Catalina și Bat. Promenada \\\"Amor de Temporada\\\" invită la plimbări relaxante de seară sub apusuri de soare memorabile. Viața de noapte este vibrantă, cu numeroase baruri și restaurante care servesc pește proaspăt și fructe de mare. Datorită proximității față de aeroportul internațional din Liberia, este adesea prima oprire pentru turiștii dornici de soare și distracție.",
       en: ""
     },
     facts: {
@@ -2166,7 +2166,7 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
       ro: [
         "Se află la doar 25 de kilometri distanță de Aeroportul Internațional Liberia (LIR).",
         "Plaja în formă de potcoavă are o lungime de aproximativ 3 kilometri.",
-        "Din acest punct se pot organiza expediții cu barca spre „Bat Islands”, celebre pentru rechinii taur.",
+        "Din acest punct se pot organiza expediții cu barca spre \\\"Bat Islands\\\", celebre pentru rechinii taur.",
         "Golful Papagayo protejează plaja de curenții puternici, făcând apele foarte sigure.",
         "Temperatura apei în golf rămâne constantă între 26 și 29 de grade Celsius tot anul."
       ],
@@ -2190,7 +2190,7 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
       ro: 'Un oraș agricol în inima Guanacaste, care deservește comunitățile rurale din jur.',
     },
     descriptionAdvanced: {
-      de: "Belén de Carrillo ist ein wichtiger Knotenpunkt im Herzen der ländlichen Tiefebene von Guanacaste. Die Stadt dient als zentrales Versorgungszentrum für die umliegenden Landwirtschaftsgebiete und liegt strategisch günstig an der Kreuzung der Wege zu den Stränden von Flamingo, Conchal und Tamarindo. Die Atmosphäre in Belén ist typisch für das „alte Guanacaste“: heiß, staubig in der Trockenzeit und tief verwurzelt in der Viehzüchter-Tradition. Besucher können hier das authentische Leben der Sabaneros (Cowboys) beobachten. Die Wirtschaft wird stark vom Zuckerrohranbau und der Rinderzucht geprägt. Trotz des Durchgangsverkehrs zu den Luxusresorts an der Küste hat sich Belén seine Bodenständigkeit bewahrt. Ein kurzer Stopp lohnt sich, um in einer der lokalen Sodas (traditionelle Restaurants) ein herzhaftes Casado zu genießen. Sachkunde K4",
+      de: "Belén de Carrillo ist ein wichtiger Knotenpunkt im Herzen der ländlichen Tiefebene von Guanacaste. Die Stadt dient als zentrales Versorgungszentrum für die umliegenden Landwirtschaftsgebiete und liegt strategisch günstig an der Kreuzung der Wege zu den Stränden von Flamingo, Conchal und Tamarindo. Die Atmosphäre in Belén ist typisch für das \\\"alte Guanacaste\\\": heiß, staubig in der Trockenzeit und tief verwurzelt in der Viehzüchter-Tradition. Besucher können hier das authentische Leben der Sabaneros (Cowboys) beobachten. Die Wirtschaft wird stark vom Zuckerrohranbau und der Rinderzucht geprägt. Trotz des Durchgangsverkehrs zu den Luxusresorts an der Küste hat sich Belén seine Bodenständigkeit bewahrt. Ein kurzer Stopp lohnt sich, um in einer der lokalen Sodas (traditionelle Restaurants) ein herzhaftes Casado zu genießen. Sachkunde K4",
       hu: "",
       ro: "Belén de Carrillo este un nod de transport vital situat în inima câmpiilor rurale din Guanacaste. Orașul servește drept centru de aprovizionare pentru comunitățile agricole din jur și se află la intersecția drumurilor către plajele celebre Flamingo, Conchal și Tamarindo. Atmosfera din Belén este tipică pentru regiunea Guanacaste: caldă, prăfuită în sezonul uscat și profund legată de tradiția creșterii vitelor. Vizitatorii pot observa aici viața autentică a văcarilor (sabaneros) și pot experimenta ritmul lent al vieții de provincie. Economia locală este dominată de cultivarea trestiei de zahăr și de fermele de vite de mari dimensiuni. În ciuda traficului intens către stațiunile de lux, Belén și-a păstrat identitatea modestă și ospitalieră, fiind un loc ideal pentru a gusta preparate tradiționale.",
       en: ""
@@ -2207,7 +2207,7 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
       ro: [
         "Situat la o altitudine de circa 35 de metri deasupra nivelului mării.",
         "Este un punct de transfer major pentru rețeaua de autobuze din regiune.",
-        "Populația locală sărbătorește în ianuarie „Fiestas Cívicas” cu rodeouri tradiționale.",
+        "Populația locală sărbătorește în ianuarie \\\"Fiestas Cívicas\\\" cu rodeouri tradiționale.",
         "Regiunea înregistrează adesea peste 100 de zile fără ploaie în sezonul uscat.",
         "Se află la aproximativ 20 de kilometri sud de aeroportul din Liberia."
       ],
@@ -2315,7 +2315,7 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
     descriptionAdvanced: {
       de: "Barva de Heredia ist eine der ältesten und geschichtsträchtigsten Städte Costa Ricas. Das historische Zentrum der Stadt wurde zum nationalen Denkmal erklärt und ist berühmt für seine niedrigen Adobe-Häuser mit roten Ziegeldächern. Die Stadt liegt am Fuße des majestätischen Vulkans Barva, der Teil des Nationalparks Braulio Carrillo ist. Barva ist zudem die Hauptstadt der traditionellen Maskeraden; hier werden die berühmten riesigen Masken gefertigt, die bei keinem Volksfest fehlen dürfen. Das Klima ist angenehm kühl, und die Umgebung ist von üppigen Kaffeewäldern geprägt. Ein Besuch in Barva bietet die seltene Gelegenheit, das koloniale Erbe Costa Ricas in einer authentischen und lebendigen Umgebung zu erleben, während die Natur des Hochlandes direkt vor der Haustür liegt. Sachkunde K4",
       hu: "",
-      ro: "Barva de Heredia este unul dintre cele mai vechi și mai încărcate de istorie orașe din Costa Rica, păstrându-și identitatea colonială intactă. Centrul istoric al orașului a fost declarat monument național și este celebru pentru casele sale scunde din chirpici cu acoperișuri de țiglă roșie. Orașul se află la poalele vulcanului Barva, care face parte din vastul Parc Național Braulio Carrillo. Barva este, de asemenea, considerată capitala măștilor tradiționale, aici fiind confecționate celebrele „mascaradas” gigantice folosite la festivalurile populare. Climatul este plăcut de răcoros, iar împrejurimile sunt dominate de păduri de cafea luxuriante. O vizită în Barva oferă șansa rară de a vedea moștenirea colonială vie a țării într-un cadru natural spectaculos.",
+      ro: "Barva de Heredia este unul dintre cele mai vechi și mai încărcate de istorie orașe din Costa Rica, păstrându-și identitatea colonială intactă. Centrul istoric al orașului a fost declarat monument național și este celebru pentru casele sale scunde din chirpici cu acoperișuri de țiglă roșie. Orașul se află la poalele vulcanului Barva, care face parte din vastul Parc Național Braulio Carrillo. Barva este, de asemenea, considerată capitala măștilor tradiționale, aici fiind confecționate celebrele \\\"mascaradas\\\" gigantice folosite la festivalurile populare. Climatul este plăcut de răcoros, iar împrejurimile sunt dominate de păduri de cafea luxuriante. O vizită în Barva oferă șansa rară de a vedea moștenirea colonială vie a țării într-un cadru natural spectaculos.",
       en: ""
     },
     facts: {
@@ -2370,7 +2370,7 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
       hu: [],
       ro: [
         "Se află la o altitudine de aproximativ 1.140 de metri deasupra nivelului mării.",
-        "Regiunea este un producător major de cafea de munte de tip „Strictly Hard Bean” (SHB).",
+        "Regiunea este un producător major de cafea de munte de tip \\\"Strictly Hard Bean\\\" (SHB).",
         "Situat la aproximativ 12 kilometri nord de Aeroportul Internațional Juan Santamaría.",
         "Cantonul este împărțit în 6 districte care se întind până la o înălțime de 2.000 de metri.",
         "Temperatura medie se menține la o valoare blândă de 20 de grade Celsius tot anul."
@@ -2395,9 +2395,9 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
       ro: 'Un canton modern și prosper, care găzduiește multe corporații multinaționale și zone rezidențiale de lux.',
     },
     descriptionAdvanced: {
-      de: "Belén, in der Provinz Heredia gelegen, ist einer der wohlhabendsten und am weitesten entwickelten Kantone Costa Ricas. Strategisch günstig zwischen San José, Alajuela und Heredia platziert, hat sich Belén zu einem bedeutenden Zentrum für multinationale Unternehmen und Hightech-Industrien entwickelt. Trotz des rasanten wirtschaftlichen Wachstums hat die Stadt ihren Charme bewahrt und bietet exklusive Wohngegenden sowie erstklassige Freizeiteinrichtungen. Ein bekanntes Wahrzeichen ist das „Pedregal“-Veranstaltungszentrum und der Hauptsitz des costaricanischen Fußballverbandes. Belén zeichnet sich durch eine exzellente Infrastruktur, hohe Sicherheit und saubere Parks aus. Es ist der Prototyp einer modernen costaricanischen Stadt, in der Tradition und globaler Fortschritt nahtlos ineinandergreifen. Sachkunde K4",
+      de: "Belén, in der Provinz Heredia gelegen, ist einer der wohlhabendsten und am weitesten entwickelten Kantone Costa Ricas. Strategisch günstig zwischen San José, Alajuela und Heredia platziert, hat sich Belén zu einem bedeutenden Zentrum für multinationale Unternehmen und Hightech-Industrien entwickelt. Trotz des rasanten wirtschaftlichen Wachstums hat die Stadt ihren Charme bewahrt und bietet exklusive Wohngegenden sowie erstklassige Freizeiteinrichtungen. Ein bekanntes Wahrzeichen ist das \\\"Pedregal\\\"-Veranstaltungszentrum und der Hauptsitz des costaricanischen Fußballverbandes. Belén zeichnet sich durch eine exzellente Infrastruktur, hohe Sicherheit und saubere Parks aus. Es ist der Prototyp einer modernen costaricanischen Stadt, in der Tradition und globaler Fortschritt nahtlos ineinandergreifen. Sachkunde K4",
       hu: "",
-      ro: "Belén, situat în provincia Heredia, este unul dintre cele mai prospere și dezvoltate cantoane din Costa Rica. Amplasat strategic între orașele San José, Alajuela și Heredia, acesta a devenit un centru major pentru corporațiile multinaționale și industriile de înaltă tehnologie. În ciuda creșterii economice rapide, orașul și-a păstrat farmecul local și oferă zone rezidențiale exclusiviste împreună cu facilități de recreere de prim rang. Un punct de reper binecunoscut este centrul de evenimente „Pedregal” și sediul Federației Costaricanice de Fotbal. Belén se remarcă prin infrastructura sa excelentă, nivelul ridicat de siguranță și parcurile foarte bine întreținute. Reprezintă prototipul orașului modern în care tradiția se împletește perfect cu progresul global.",
+      ro: "Belén, situat în provincia Heredia, este unul dintre cele mai prospere și dezvoltate cantoane din Costa Rica. Amplasat strategic între orașele San José, Alajuela și Heredia, acesta a devenit un centru major pentru corporațiile multinaționale și industriile de înaltă tehnologie. În ciuda creșterii economice rapide, orașul și-a păstrat farmecul local și oferă zone rezidențiale exclusiviste împreună cu facilități de recreere de prim rang. Un punct de reper binecunoscut este centrul de evenimente \\\"Pedregal\\\" și sediul Federației Costaricanice de Fotbal. Belén se remarcă prin infrastructura sa excelentă, nivelul ridicat de siguranță și parcurile foarte bine întreținute. Reprezintă prototipul orașului modern în care tradiția se împletește perfect cu progresul global.",
       en: ""
     },
     facts: {
@@ -2412,7 +2412,7 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
       ro: [
         "Cantonul ocupă constant primele locuri în indexul dezvoltării sociale din Costa Rica.",
         "Găzduiește sediile unor giganți mondiali precum Intel și Bridgestone.",
-        "În Belén se află „Ojo de Agua”, o faimoasă sursă naturală de apă și complex de agrement.",
+        "În Belén se află \\\"Ojo de Agua\\\", o faimoasă sursă naturală de apă și complex de agrement.",
         "Se află la o altitudine de 939 de metri deasupra nivelului mării.",
         "Este situat la doar 15 minute de mers cu mașina de aeroportul internațional."
       ],
@@ -2518,9 +2518,9 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
       ro: 'Un oraș de plajă vibrant pe coasta Caraibelor, renumit pentru atmosfera sa relaxată, surfing și cultura reggae.',
     },
     descriptionAdvanced: {
-      de: "Puerto Viejo de Talamanca ist der Inbegriff des entspannten karibischen Lebensgefühls in Costa Rica. Einst ein verschlafenes Fischerdorf, hat sich Puerto Viejo zu einem weltberühmten Ziel für Surfer, Backpacker und Naturliebhaber entwickelt. Berühmt für die „Salsa Brava“, eine der kraftvollsten Wellen des Landes, lockt der Ort Profisurfer aus aller Welt an. Doch Puerto Viejo ist mehr als nur Surfen: Die Mischung aus afro-karibischen Rhythmen, Bribri-Kultur und internationalem Flair schafft eine einzigartige Atmosphäre. Besucher erkunden die Küste meist mit dem Fahrrad, vorbei an Traumstränden wie Playa Cocles und Playa Chiquita. In der Nähe bietet der Nationalpark Cahuita unberührte Korallenriffe und Regenwälder voller Faultiere und Brüllaffen. Puerto Viejo ist bunt, laut, herzlich und absolut unvergesslich. Sachkunde K4",
+      de: "Puerto Viejo de Talamanca ist der Inbegriff des entspannten karibischen Lebensgefühls in Costa Rica. Einst ein verschlafenes Fischerdorf, hat sich Puerto Viejo zu einem weltberühmten Ziel für Surfer, Backpacker und Naturliebhaber entwickelt. Berühmt für die \\\"Salsa Brava\\\", eine der kraftvollsten Wellen des Landes, lockt der Ort Profisurfer aus aller Welt an. Doch Puerto Viejo ist mehr als nur Surfen: Die Mischung aus afro-karibischen Rhythmen, Bribri-Kultur und internationalem Flair schafft eine einzigartige Atmosphäre. Besucher erkunden die Küste meist mit dem Fahrrad, vorbei an Traumstränden wie Playa Cocles und Playa Chiquita. In der Nähe bietet der Nationalpark Cahuita unberührte Korallenriffe und Regenwälder voller Faultiere und Brüllaffen. Puerto Viejo ist bunt, laut, herzlich und absolut unvergesslich. Sachkunde K4",
       hu: "",
-      ro: "Puerto Viejo de Talamanca este esența stilului de viață relaxat din Caraibele costaricanice. Cândva un sat de pescari izolat, Puerto Viejo s-a transformat într-o destinație celebră la nivel mondial pentru surferi, backpackeri și iubitori de natură. Renumit pentru „Salsa Brava”, unul dintre cele mai puternice valuri din țară, locul atrage surferi profesioniști din toate colțurile globului. Totuși, Puerto Viejo înseamnă mai mult decât surf: amestecul de ritmuri reggae, cultura Bribri și influențele internaționale creează o atmosferă unică. Vizitatorii explorează de obicei coasta pe bicicletă, trecând pe lângă plaje de vis precum Cocles și Chiquita. Parcul Național Cahuita din apropiere oferă recife de corali virgine și păduri pline de leneși și maimuțe urlătoare.",
+      ro: "Puerto Viejo de Talamanca este esența stilului de viață relaxat din Caraibele costaricanice. Cândva un sat de pescari izolat, Puerto Viejo s-a transformat într-o destinație celebră la nivel mondial pentru surferi, backpackeri și iubitori de natură. Renumit pentru \\\"Salsa Brava\\\", unul dintre cele mai puternice valuri din țară, locul atrage surferi profesioniști din toate colțurile globului. Totuși, Puerto Viejo înseamnă mai mult decât surf: amestecul de ritmuri reggae, cultura Bribri și influențele internaționale creează o atmosferă unică. Vizitatorii explorează de obicei coasta pe bicicletă, trecând pe lângă plaje de vis precum Cocles și Chiquita. Parcul Național Cahuita din apropiere oferă recife de corali virgine și păduri pline de leneși și maimuțe urlătoare.",
       en: ""
     },
     facts: {
@@ -2535,7 +2535,7 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
       ro: [
         "Celebrul val Salsa Brava se sparge peste un recif de corali puțin adânc.",
         "În zona de coastă de 10 km se pot găsi plaje cu nisip de 5 culori diferite.",
-        "Localitatea este faimoasă pentru preparatul „Rice and Beans” gătit cu lapte de cocos.",
+        "Localitatea este faimoasă pentru preparatul \\\"Rice and Beans\\\" gătit cu lapte de cocos.",
         "Centrul de Salvare Jaguar din apropiere este una dintre cele mai cunoscute rezervații de animale.",
         "Cea mai bună perioadă de vizită este septembrie-octombrie, când restul țării are sezon ploios."
       ],
@@ -2658,7 +2658,7 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
       ro: [
         "Orașul este situat la o altitudine de numai 4 metri deasupra nivelului mării.",
         "Economia locală produce anual mii de tone de ulei de palmier pentru export.",
-        "„Fiesta de la Mula” este un eveniment local unic și celebru în regiune.",
+        "\\\"Fiesta de la Mula\\\" este un eveniment local unic și celebru în regiune.",
         "Climatul este tropical-cald, cu un sezon uscat marcat din decembrie până în aprilie.",
         "Se află la 25 km sud de Jacó și 40 km nord de Quepos."
       ],
@@ -2719,14 +2719,14 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
     },
     description: {
       en: 'A growing coastal town famous for the "Whale Tail" sandbar formation within the Marino Ballena National Park.',
-      de: 'Eine wachsende Küstenstadt, berühmt für die Sandbankformation „Walflosse“ im Nationalpark Marino Ballena.',
-      hu: 'Növekvő tengerparti város, amely a Marino Ballena Nemzeti Parkban található „bálnafarok” homokpadról híres.',
-      ro: 'Un oraș de coastă în creștere, renumit pentru formațiunea de nisip „Coada de Balenă” din Parcul Național Marino Ballena.',
+      de: 'Eine wachsende Küstenstadt, berühmt für die Sandbankformation "Walflosse" im Nationalpark Marino Ballena.',
+      hu: 'Növekvő tengerparti város, amely a Marino Ballena Nemzeti Parkban található "bálnafarok" homokpadról híres.',
+      ro: 'Un oraș de coastă în creștere, renumit pentru formațiunea de nisip "Coada de Balenă" din Parcul Național Marino Ballena.',
     },
     descriptionAdvanced: {
-      de: "Uvita ist ein magischer Ort an der Südpazikküste, wo der Regenwald direkt auf das Meer trifft. Weltberühmt ist die Stadt für den Marino Ballena Nationalpark und die spektakuläre „Walflosse“ (Cola de Ballena) – eine natürliche Sandbankformation, die bei Ebbe genau die Form eines Walfisches annimmt. Uvita hat sich in den letzten Jahren von einem verschlafenen Dorf zu einem beliebten Ziel für Ökotouristen entwickelt, ohne seinen wilden Charakter zu verlieren. Hier finden die besten Walbeobachtungstouren Costa Ricas statt, insbesondere für Buckelwale, die zweimal im Jahr in diese warmen Gewässer kommen. Abseits des Wassers locken versteckte Wasserfälle und eine lebendige Gemeinschaft von Künstlern und Aussteigern. Uvita ist der perfekte Ort für alle, die unberührte Natur, majestätische Tiere und ein entspanntes, naturnahes Leben suchen. Sachkunde K4",
+      de: "Uvita ist ein magischer Ort an der Südpazikküste, wo der Regenwald direkt auf das Meer trifft. Weltberühmt ist die Stadt für den Marino Ballena Nationalpark und die spektakuläre \\\"Walflosse\\\" (Cola de Ballena) – eine natürliche Sandbankformation, die bei Ebbe genau die Form eines Walfisches annimmt. Uvita hat sich in den letzten Jahren von einem verschlafenen Dorf zu einem beliebten Ziel für Ökotouristen entwickelt, ohne seinen wilden Charakter zu verlieren. Hier finden die besten Walbeobachtungstouren Costa Ricas statt, insbesondere für Buckelwale, die zweimal im Jahr in diese warmen Gewässer kommen. Abseits des Wassers locken versteckte Wasserfälle und eine lebendige Gemeinschaft von Künstlern und Aussteigern. Uvita ist der perfekte Ort für alle, die unberührte Natur, majestätische Tiere und ein entspanntes, naturnahes Leben suchen. Sachkunde K4",
       hu: "",
-      ro: "Uvita este un loc magic de pe coasta Pacificului de Sud, unde pădurea tropicală se întâlnește direct cu oceanul. Orașul este celebru în întreaga lume pentru Parcul Național Marino Ballena și spectaculoasa „Coadă de Balenă” (Cola de Ballena). Aceasta este o formațiune naturală de nisip care, în timpul refluxului, ia exact forma cozii unui mamifer marin. În ultimii ani, Uvita a evoluat de la un sat liniștit la o destinație de top pentru ecoturism, păstrându-și totodată caracterul sălbatic. Aici au loc cele mai bune tururi de observare a balenelor cu cocoașă din țară, care vin de două ori pe an în aceste ape calde. Pe lângă ocean, regiunea atrage vizitatorii cu cascade ascunse și o comunitate artistică vibrantă și internațională.",
+      ro: "Uvita este un loc magic de pe coasta Pacificului de Sud, unde pădurea tropicală se întâlnește direct cu oceanul. Orașul este celebru în întreaga lume pentru Parcul Național Marino Ballena și spectaculoasa \\\"Coadă de Balenă\\\" (Cola de Ballena). Aceasta este o formațiune naturală de nisip care, în timpul refluxului, ia exact forma cozii unui mamifer marin. În ultimii ani, Uvita a evoluat de la un sat liniștit la o destinație de top pentru ecoturism, păstrându-și totodată caracterul sălbatic. Aici au loc cele mai bune tururi de observare a balenelor cu cocoașă din țară, care vin de două ori pe an în aceste ape calde. Pe lângă ocean, regiunea atrage vizitatorii cu cascade ascunse și o comunitate artistică vibrantă și internațională.",
       en: ""
     },
     facts: {
@@ -2739,7 +2739,7 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
       de: ["Die 'Walflosse' in Uvita ist eine Tombolo-Formation, die ca. 600 Meter in den Ozean ragt.", "Uvita liegt in einer der biologisch vielfältigsten Regionen der Erde, der Costa Ballena.", "Zweimal jährlich (Januar-März und Juli-Oktober) kommen Buckelwale zur Paarung in die Bucht von Uvita.", "Der Nationalpark Marino Ballena umfasst 110 Hektar Land und über 5.300 Hektar Meeresfläche.", "Die Wasserfälle von Uvita (Catarata Uvita) verfügen über eine natürliche Steinrutsche.", "Die Stadt ist Gastgeber des jährlichen 'Envision Festival', einem großen Kunst- und Musikereignis.", "In Uvita gibt es keine großen Hotelketten, was den Fokus auf nachhaltigen Tourismus stärkt."],
       hu: [],
       ro: [
-        "Formațiunea „Coada de Balenă” se întinde pe circa 600 de metri în interiorul oceanului.",
+        "Formațiunea \\\"Coada de Balenă\\\" se întinde pe circa 600 de metri în interiorul oceanului.",
         "Balenele cu cocoașă pot fi observate în două perioade: ianuarie-martie și iulie-octombrie.",
         "Parcul Național Marino Ballena protejează peste 5.300 de hectare de suprafață marină.",
         "Orașul găzduiește anual festivalul Envision, un eveniment major de artă și muzică.",
@@ -2806,13 +2806,13 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
       ro: 'Un oraș de lux în suburbiile din San José, cunoscut ca locația principală pentru viață de lux, cumpărături și restaurante.',
     },
     descriptionAdvanced: {
-      de: "Escazú ist bekannt als das „Beverly Hills von Costa Rica“ und ist die exklusivste Stadt im Großraum San José. Gelegen an den Hängen der Escazú-Berge, bietet sie eine faszinierende Mischung aus moderner Urbanität und traditionellen Legenden. Hier finden sich die prachtvollsten Villen des Landes, Botschaften, Luxushotels und die modernsten Einkaufszentren wie die Multiplaza. Doch Escazú hat auch eine geheimnisvolle Seite: Es gilt als die „Stadt der Hexen“ (Ciudad de las Brujas), was auf zahlreiche lokale Legenden zurückzuführen ist. Die höheren Lagen von San Antonio bieten noch heute ein traditionelles Bild mit Ochsenkarren und Kaffeegärten, während man im Tal in exklusiven Restaurants speisen kann. Escazú ist das pulsierende Zentrum für Wirtschaft, Diplomatie und High-End-Lifestyle in Costa Rica. Sachkunde K4",
+      de: "Escazú ist bekannt als das \\\"Beverly Hills von Costa Rica\\\" und ist die exklusivste Stadt im Großraum San José. Gelegen an den Hängen der Escazú-Berge, bietet sie eine faszinierende Mischung aus moderner Urbanität und traditionellen Legenden. Hier finden sich die prachtvollsten Villen des Landes, Botschaften, Luxushotels und die modernsten Einkaufszentren wie die Multiplaza. Doch Escazú hat auch eine geheimnisvolle Seite: Es gilt als die \\\"Stadt der Hexen\\\" (Ciudad de las Brujas), was auf zahlreiche lokale Legenden zurückzuführen ist. Die höheren Lagen von San Antonio bieten noch heute ein traditionelles Bild mit Ochsenkarren und Kaffeegärten, während man im Tal in exklusiven Restaurants speisen kann. Escazú ist das pulsierende Zentrum für Wirtschaft, Diplomatie und High-End-Lifestyle in Costa Rica. Sachkunde K4",
       hu: "",
-      ro: "Escazú este cunoscut drept „Beverly Hills-ul Costa Ricăi” și reprezintă cel mai exclusivist oraș din zona metropolitană San José. Situat pe pantele munților cu același nume, orașul oferă un amestec fascinant de urbanism modern și legende tradiționale profunde. Aici se găsesc cele mai luxoase vile din țară, numeroase ambasade, hoteluri de top și centre comerciale de ultimă generație, precum Multiplaza. Escazú are însă și o latură misterioasă, fiind supranumit „Orașul Vrăjitoarelor” din cauza numeroaselor legende locale transmise prin generații. Zonele înalte, precum San Antonio, păstrează încă un aspect tradițional cu care cu boi, în timp ce valea pulsează de o viață cosmopolită. Este centrul de necontestat al diplomației și al stilului de viață de lux din Costa Rica.",
+      ro: "Escazú este cunoscut drept \\\"Beverly Hills-ul Costa Ricăi\\\" și reprezintă cel mai exclusivist oraș din zona metropolitană San José. Situat pe pantele munților cu același nume, orașul oferă un amestec fascinant de urbanism modern și legende tradiționale profunde. Aici se găsesc cele mai luxoase vile din țară, numeroase ambasade, hoteluri de top și centre comerciale de ultimă generație, precum Multiplaza. Escazú are însă și o latură misterioasă, fiind supranumit \\\"Orașul Vrăjitoarelor\\\" din cauza numeroaselor legende locale transmise prin generații. Zonele înalte, precum San Antonio, păstrează încă un aspect tradițional cu care cu boi, în timp ce valea pulsează de o viață cosmopolită. Este centrul de necontestat al diplomației și al stilului de viață de lux din Costa Rica.",
       en: ""
     },
     facts: {
-      en: ['Home to many embassies and foreign residents', 'Features Costa Rica\'s most exclusive shopping malls', 'Blends modern city life with views of the surrounding mountains'],
+      en: ['Home to many embassies and foreign residents', 'Features Costa Rica\\\\\\\'s most exclusive shopping malls', 'Blends modern city life with views of the surrounding mountains'],
       de: ['Heimat vieler Botschaften und ausländischer Einwohner', 'Verfügt über die exklusivsten Einkaufszentren Costa Ricas', 'Verbindet modernes Stadtleben mit Blick auf die umliegenden Berge'],
       hu: ['Számos nagykövetségnek és külföldi lakosnak ad otthont', 'Costa Rica legexkluzívabb bevásárlóközpontjaival rendelkezik', 'Ötvözi a modern városi életet a környező hegyekre nyíló kilátással'],
       ro: ['Găzduiește multe ambasade și rezidenți străini', 'Dispune de cele mai exclusive centre comerciale din Costa Rica', 'Îmbină viața modernă a orașului cu priveliști ale munților din jur'],
@@ -2822,7 +2822,7 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
       hu: [],
       ro: [
         "Escazú este împărțit în trei zone: San Rafael (modern), Centru și San Antonio (tradițional).",
-        "Numele provine din limba indigenă Huetar și se traduce prin „loc de odihnă”.",
+        "Numele provine din limba indigenă Huetar și se traduce prin \\\"loc de odihnă\\\".",
         "Concentrația de restaurante gourmet și centre comerciale de lux este cea mai mare din țară.",
         "Găzduiește reședința ambasadorului SUA și numeroase alte misiuni diplomatice străine.",
         "Se află la o altitudine cuprinsă între 1.000 și 2.500 de metri deasupra nivelului mării."
@@ -2847,9 +2847,9 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
       ro: 'Un oraș în creștere rapidă la vest de Escazú, care oferă un amestec de centru urban tradițional și centre comerciale moderne.',
     },
     descriptionAdvanced: {
-      de: "Santa Ana ist eine der am schnellsten wachsenden und modernsten Städte westlich von San José. Bekannt für ihr hervorragendes Klima, das sonniger und trockener ist als in der Hauptstadt, hat sich Santa Ana zu einem bevorzugten Standort für Technologieunternehmen und gehobene Wohnanlagen entwickelt. Trotz des rasanten Booms der letzten Jahre hat sich der Stadtkern seinen traditionellen Charakter bewahrt, was sich besonders in der alten Kirche und dem wöchentlichen Bauernmarkt zeigt. Santa Ana ist auch als „Stadt der Zwiebeln“ bekannt, ein Erbe seiner landwirtschaftlichen Vergangenheit. Heute ist sie ein Hub für erstklassige Gastronomie und Golfplätze. Die Stadt bietet eine perfekte Balance zwischen dem Komfort moderner Infrastruktur und der natürlichen Schönheit der umliegenden Berge des Cerros de Escazú. Sachkunde K4",
+      de: "Santa Ana ist eine der am schnellsten wachsenden und modernsten Städte westlich von San José. Bekannt für ihr hervorragendes Klima, das sonniger und trockener ist als in der Hauptstadt, hat sich Santa Ana zu einem bevorzugten Standort für Technologieunternehmen und gehobene Wohnanlagen entwickelt. Trotz des rasanten Booms der letzten Jahre hat sich der Stadtkern seinen traditionellen Charakter bewahrt, was sich besonders in der alten Kirche und dem wöchentlichen Bauernmarkt zeigt. Santa Ana ist auch als \\\"Stadt der Zwiebeln\\\" bekannt, ein Erbe seiner landwirtschaftlichen Vergangenheit. Heute ist sie ein Hub für erstklassige Gastronomie und Golfplätze. Die Stadt bietet eine perfekte Balance zwischen dem Komfort moderner Infrastruktur und der natürlichen Schönheit der umliegenden Berge des Cerros de Escazú. Sachkunde K4",
       hu: "",
-      ro: "Santa Ana este unul dintre cele mai moderne orașe cu o creștere rapidă situate la vest de San José. Renumit pentru climatul său excelent, care este mai însorit și mai uscat decât în capitală, Santa Ana a devenit o locație preferată pentru companii de tehnologie și ansambluri rezidențiale de elită. În ciuda expansiunii economice masive, nucleul orașului și-a păstrat caracterul tradițional, vizibil în piața centrală și la târgurile săptămânale ale fermierilor. Santa Ana este cunoscut istoric și ca „Orașul Cepei”, o moștenire a trecutului său agricol prosper. Astăzi, este un centru gastronomic de prim rang, oferind și unele dintre cele mai bune terenuri de golf din regiune. Orașul oferă un echilibru perfect între confortul infrastructurii globale și frumusețea naturală a munților din jur.",
+      ro: "Santa Ana este unul dintre cele mai moderne orașe cu o creștere rapidă situate la vest de San José. Renumit pentru climatul său excelent, care este mai însorit și mai uscat decât în capitală, Santa Ana a devenit o locație preferată pentru companii de tehnologie și ansambluri rezidențiale de elită. În ciuda expansiunii economice masive, nucleul orașului și-a păstrat caracterul tradițional, vizibil în piața centrală și la târgurile săptămânale ale fermierilor. Santa Ana este cunoscut istoric și ca \\\"Orașul Cepei\\\", o moștenire a trecutului său agricol prosper. Astăzi, este un centru gastronomic de prim rang, oferind și unele dintre cele mai bune terenuri de golf din regiune. Orașul oferă un echilibru perfect între confortul infrastructurii globale și frumusețea naturală a munților din jur.",
       en: ""
     },
     facts: {
@@ -2864,7 +2864,7 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
       ro: [
         "Se află la o altitudine medie de 904 metri deasupra nivelului mării.",
         "Înregistrează anual mai multe ore de soare decât capitala vecină San José.",
-        "„Feria de la Cebolla” (Târgul Cepei) este cel mai important festival tradițional local.",
+        "\\\"Feria de la Cebolla\\\" (Târgul Cepei) este cel mai important festival tradițional local.",
         "Găzduiește parcuri de afaceri majore precum Forum 1 și Forum 2.",
         "Cantonul a fost premiat de mai multe ori pentru calitatea ridicată a vieții oferite."
       ],
@@ -2931,7 +2931,7 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
     descriptionAdvanced: {
       de: "San Ignacio ist das malerische Herz des ländlichen Kantons Acosta, der sich in den zerklüfteten Bergen südwestlich von San José erstreckt. Diese Stadt bietet eine authentische Reise in das traditionelle Costa Rica, weit weg von den üblichen Touristenpfaden. Die Landschaft ist geprägt von extrem steilen Hängen, dichten Wäldern und zahllosen kleinen Kaffeeplantagen, die sich an die Berge klammern. San Ignacio ist bekannt für seine herzlichen Bewohner und seine tief verwurzelte bäuerliche Kultur. Besucher kommen hierher, um die spektakuläre Aussicht zu genießen, in den lokalen Sodas traditionelle Gerichte zu probieren und die kühle, saubere Bergluft zu atmen. Die Stadt dient als wichtigster Handelsplatz für die umliegenden Bergdörfer und bewahrt ein Lebensgefühl, das an vergangene Jahrzehnte erinnert. Sachkunde K4",
       hu: "",
-      ro: "San Ignacio este inima pitorească a cantonului rural Acosta, care se întinde în munții accidentați de la sud-vest de San José. Acest oraș oferă o călătorie autentică în Costa Rica tradițională, fiind situat departe de traseele turistice obișnuite. Peisajul este marcat de pante extrem de abrupte, păduri dese și nenumărate mici plantații de cafea care par suspendate pe munte. San Ignacio este cunoscut pentru locuitorii săi primitori și pentru cultura sa agricolă profund înrădăcinată. Vizitatorii vin aici pentru a se bucura de vederi spectaculoase, pentru a gusta mâncăruri tradiționale în localurile numite „sodas” și pentru a respira aerul curat de munte. Orașul servește ca centru comercial principal pentru satele montane izolate, păstrând un stil de viață ce amintește de deceniile trecute.",
+      ro: "San Ignacio este inima pitorească a cantonului rural Acosta, care se întinde în munții accidentați de la sud-vest de San José. Acest oraș oferă o călătorie autentică în Costa Rica tradițională, fiind situat departe de traseele turistice obișnuite. Peisajul este marcat de pante extrem de abrupte, păduri dese și nenumărate mici plantații de cafea care par suspendate pe munte. San Ignacio este cunoscut pentru locuitorii săi primitori și pentru cultura sa agricolă profund înrădăcinată. Vizitatorii vin aici pentru a se bucura de vederi spectaculoase, pentru a gusta mâncăruri tradiționale în localurile numite \\\"sodas\\\" și pentru a respira aerul curat de munte. Orașul servește ca centru comercial principal pentru satele montane izolate, păstrând un stil de viață ce amintește de deceniile trecute.",
       en: ""
     },
     facts: {
@@ -2970,22 +2970,22 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
       ro: 'Inima regiunii de cafea Tarrazú, de renume mondial, amplasată într-o vale montană de mare altitudine.',
     },
     descriptionAdvanced: {
-      de: "San Marcos de Tarrazú ist die unbestrittene Hauptstadt des Kaffees in Costa Rica. Gelegen in einem tiefen Gebirgstal der „Zone der Heiligen“ (Zona de los Santos), produziert diese Region einige der weltweit am höchsten bewerteten Spezialitätenkaffees. Das Stadtbild ist in der Erntezeit von einer emsigen Betriebsamkeit geprägt, wenn Lastwagen vollgepackt mit roten Kaffeekirschen zu den Mühlen (Beneficios) fahren. Die steilen Hänge rund um San Marcos sind lückenlos mit Kaffeesträuchern bedeckt, was der Landschaft ein einzigartiges, grünes Muster verleiht. Abgesehen vom Kaffee ist San Marcos ein ruhiger Ort mit einer starken religiösen Tradition und einer beeindruckenden neugotischen Kirche. Für Kaffeeliebhaber ist ein Besuch in San Marcos eine Pilgerreise zu den Ursprüngen des feinsten Aromas des Landes. Sachkunde K4",
+      de: "San Marcos de Tarrazú ist die unbestrittene Hauptstadt des Kaffees in Costa Rica. Gelegen in einem tiefen Gebirgstal der \\\"Zone der Heiligen\\\" (Zona de los Santos), produziert diese Region einige der weltweit am höchsten bewerteten Spezialitätenkaffees. Das Stadtbild ist in der Erntezeit von einer emsigen Betriebsamkeit geprägt, wenn Lastwagen vollgepackt mit roten Kaffeekirschen zu den Mühlen (Beneficios) fahren. Die steilen Hänge rund um San Marcos sind lückenlos mit Kaffeesträuchern bedeckt, was der Landschaft ein einzigartiges, grünes Muster verleiht. Abgesehen vom Kaffee ist San Marcos ein ruhiger Ort mit einer starken religiösen Tradition und einer beeindruckenden neugotischen Kirche. Für Kaffeeliebhaber ist ein Besuch in San Marcos eine Pilgerreise zu den Ursprüngen des feinsten Aromas des Landes. Sachkunde K4",
       hu: "",
-      ro: "San Marcos de Tarrazú este capitala incontestabilă a cafelei din Costa Rica, fiind renumită la nivel mondial pentru calitatea boabelor produse aici. Situat într-o vale montană adâncă din așa-numita „Zonă a Sfinților”, orașul produce sortimente de cafea de specialitate care obțin constant cele mai mari punctaje internaționale. În timpul sezonului de recoltare, orașul pulsează de activitate, camioanele pline cu fructe roșii de cafea îndreptându-se spre unitățile de procesare (beneficios). Pantele abrupte din jurul orașului sunt acoperite în totalitate de arbuști de cafea, creând un peisaj verde ordonat și unic. Dincolo de cafea, San Marcos este un loc liniștit, cu o puternică tradiție religioasă și o biserică neogotică impresionantă. Pentru orice pasionat de cafea, o vizită aici este un pelerinaj la sursa celei mai fine arome a țării.",
+      ro: "San Marcos de Tarrazú este capitala incontestabilă a cafelei din Costa Rica, fiind renumită la nivel mondial pentru calitatea boabelor produse aici. Situat într-o vale montană adâncă din așa-numita \\\"Zonă a Sfinților\\\", orașul produce sortimente de cafea de specialitate care obțin constant cele mai mari punctaje internaționale. În timpul sezonului de recoltare, orașul pulsează de activitate, camioanele pline cu fructe roșii de cafea îndreptându-se spre unitățile de procesare (beneficios). Pantele abrupte din jurul orașului sunt acoperite în totalitate de arbuști de cafea, creând un peisaj verde ordonat și unic. Dincolo de cafea, San Marcos este un loc liniștit, cu o puternică tradiție religioasă și o biserică neogotică impresionantă. Pentru orice pasionat de cafea, o vizită aici este un pelerinaj la sursa celei mai fine arome a țării.",
       en: ""
     },
     facts: {
-      en: ['Produces some of the world\'s finest single-origin coffee', 'Surrounded by steep slopes covered in coffee plants', 'Known as the "Zona de los Santos" (Zone of the Saints)'],
-      de: ['Produziert einige der besten sortenreinen Kaffees der Welt', 'Umgeben von steilen, mit Kaffeepflanzen bewachsenen Hängen', 'Bekannt als die „Zona de los Santos“ (Zone der Heiligen)'],
-      hu: ['A világ legjobb egyedi eredetű kávéinak egy részét termeli', 'Meredek, kávénövényekkel borított lejtők veszik körül', 'A „Zona de los Santos” (Szentek Zónája) néven ismert'],
-      ro: ['Produce unele dintre cele mai bune cafele de origine unică din lume', 'Înconjurat de pante abrupte acoperite cu plante de cafea', 'Cunoscut ca „Zona de los Santos” (Zona Sfinților)'],
+      en: ['Produces some of the world\\\\\\\'s finest single-origin coffee', 'Surrounded by steep slopes covered in coffee plants', 'Known as the "Zona de los Santos" (Zone of the Saints)'],
+      de: ['Produziert einige der besten sortenreinen Kaffees der Welt', 'Umgeben von steilen, mit Kaffeepflanzen bewachsenen Hängen', 'Bekannt als die "Zona de los Santos" (Zone der Heiligen)'],
+      hu: ['A világ legjobb egyedi eredetű kávéinak egy részét termeli', 'Meredek, kávénövényekkel borított lejtők veszik körül', 'A "Zona de los Santos" (Szentek Zónája) néven ismert'],
+      ro: ['Produce unele dintre cele mai bune cafele de origine unică din lume', 'Înconjurat de pante abrupte acoperite cu plante de cafea', 'Cunoscut ca "Zona de los Santos" (Zona Sfinților)'],
     },
     factsAdvanced: {
       de: ["San Marcos liegt auf einer Höhe von 1.429 Metern über dem Meeresspiegel.", "Kaffee aus Tarrazú wurde bereits mehrfach bei internationalen Wettbewerben (Cup of Excellence) als bester Kaffee der Welt ausgezeichnet.", "In der Hochsaison verdoppelt sich die Bevölkerung durch Kaffeepflücker aus Panama und Nicaragua.", "Die Durchschnittstemperatur liegt bei kühlen 19 Grad Celsius.", "San Marcos liegt ca. 70 Kilometer südlich von San José in den Talamanca-Bergen.", "Die Region ist berühmt für die Kooperative 'CoopeTarrazú', die über 3.000 lokale Bauern vereint.", "Der Name 'Tarrazú' leitet sich von einer indigenen Bezeichnung für ein lokales Gebüsch ab."],
       hu: [],
       ro: [
-        "Cafeaua din Tarrazú a câștigat de mai multe ori competiția „Cup of Excellence”.",
+        "Cafeaua din Tarrazú a câștigat de mai multe ori competiția \\\"Cup of Excellence\\\".",
         "Se află la o altitudine de 1.429 de metri deasupra nivelului mării.",
         "În sezonul de vârf, populația se dublează datorită culegătorilor de cafea veniți din regiune.",
         "Temperatura medie este de aproximativ 19 grade Celsius, ideală pentru cafea.",
@@ -3006,9 +3006,9 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
     },
     description: {
       en: 'Another key town in the "Zone of the Saints," renowned for its high-quality coffee and apple orchards.',
-      de: 'Eine weitere wichtige Stadt in der „Zone der Heiligen“, bekannt für ihren hochwertigen Kaffee und ihre Apfelplantagen.',
-      hu: 'A „Szentek Zónájának” másik kulcsfontosságú városa, amely kiváló minőségű kávéjáról és almaültetvényeiről híres.',
-      ro: 'Un alt oraș cheie din „Zona Sfinților”, renumit pentru cafeaua sa de înaltă calitate și livezile de meri.',
+      de: 'Eine weitere wichtige Stadt in der "Zone der Heiligen", bekannt für ihren hochwertigen Kaffee und ihre Apfelplantagen.',
+      hu: 'A "Szentek Zónájának" másik kulcsfontosságú városa, amely kiváló minőségű kávéjáról és almaültetvényeiről híres.',
+      ro: 'Un alt oraș cheie din "Zona Sfinților", renumit pentru cafeaua sa de înaltă calitate și livezile de meri.',
     },
     descriptionAdvanced: {
       de: "Santa María de Dota ist ein verstecktes Juwel in den Hochlandtälern der Provinz San José. Als Teil der berühmten Kaffeezone Tarrazú ist Dota bekannt für seine außergewöhnlichen Bohnen, die regelmäßig Rekordpreise erzielen. Doch Dota bietet mehr als nur Kaffee: Das Tal ist berühmt für seine Apfel- und Pfirsichplantagen, was es von anderen Regionen des Landes abhebt. Die Stadt selbst ist friedlich und von einer tiefen Stille umgeben, die nur durch das Zwitschern der Vögel unterbrochen wird. Santa María ist zudem das Tor zum Nationalpark Los Quetzales, wo man den göttlichen Göttervogel der Maya in den Nebelwäldern beobachten kann. Die kühle Bergluft und die herzliche Atmosphäre machen Santa María zu einem idealen Ziel für Naturfotografen und Ruhesuchende. Sachkunde K4",

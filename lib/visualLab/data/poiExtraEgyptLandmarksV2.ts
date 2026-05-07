@@ -12,7 +12,18 @@ export const poiExtraEgyptLandmarksV2: POI[] = [
       hu: "Kairó-torony",
       ro: "Turnul Cairo",
       en: "Cairo Tower"
+    ,
+    descriptionAdvanced: {
+      de: "Der Fernsehturm Kairo (Burj al-Qahira) ist ein 187 Meter hoher, freistehender Betonturm im Stadtteil Zamalek auf der Insel Gezira. Der 1961 fertiggestellte Turm wurde von dem ägyptischen Architekten Naoum Shebib entworfen. Seine Gitterstruktur ist einer Lotuspflanze nachempfunden, was ihn zu einem bedeutenden Beispiel moderner ägyptischer Architektur macht. Von der Aussichtsplattform an der Spitze bietet sich ein atemberaubender Blick auf den Nil und die Pyramiden von Gizeh bei klarem Wetter. Er war für viele Jahre das höchste Bauwerk des Landes. Geografie K7 — Moderne Bauwerke.",
+      ro: "Turnul din Cairo, situat în cartierul Gezira, măsoară 187 de metri înălțime și este una dintre cele mai emblematice structuri din Egipt. Finalizat în 1961, acesta a fost proiectat de arhitectul Naoum Chebib, având o formă care amintește de o plantă de lotus. Turnul oferă o vedere panoramică asupra fluviului Nil și a întregii capitale egiptene, fiind un punct central de atracție pentru vizitatori. Geografia K7 - structuri urbane și puncte de reper."
     },
+    factsAdvanced: {
+      ro: ["Înălțime: 187 metri", "Anul finalizării: 1961", "Material principal: beton armat", "Proiectant: Naoum Chebib", "Formă: inspirată de floarea de lotus", "Locație: Insula Gezira, Cairo"]
+    },
+    factsAdvanced: {
+      de: ["Bauzeit: 1956–1961", "Architekt: Naoum Shebib", "Höhe: 187 Meter", "Standort: Insel Gezira, Kairo", "Konstruktionsmaterial: Stahlbeton", "Design-Inspiration: Lotosblüte"]
+    }
+  },
     description: {
       de: "Ein 187 Meter hoher, freistehender Fernsehturm aus Beton, der einen Panoramablick auf Kairo bietet.",
       hu: "Egy 187 méter magas, szabadon álló beton tévétorony Kairóban, amely panorámás kilátást nyújt a városra.",
@@ -35,7 +46,18 @@ export const poiExtraEgyptLandmarksV2: POI[] = [
       hu: "Alexandriai Könyvtár",
       ro: "Bibliotheca Alexandrina",
       en: "Bibliotheca Alexandrina"
+    ,
+    descriptionAdvanced: {
+      de: "Die Bibliotheca Alexandrina in Alexandria ist eine moderne Gedenkstätte an die antike Bibliothek von Alexandria. Das 2002 eingeweihte Gebäude beeindruckt durch sein riesiges kreisförmiges Design, das wie eine aufsteigende Sonne aus dem Mittelmeer wirkt. Die äußere Mauer ist mit Inschriften aus über 100 verschiedenen Schriften der Welt verziert. Die Bibliothek beherbergt nicht nur Millionen von Büchern, sondern auch Museen, Planetarien und Konferenzzentren, die sie zu einem globalen Wissenszentrum machen. Geschichte K8 — Wissen und Kultur.",
+      ro: "Bibliotheca Alexandrina, situată pe malul Mării Mediterane, este un omagiu modern adus anticei Biblioteci din Alexandria. Inaugurată în 2002, aceasta găzduiește milioane de volume și dispune de un design circular spectaculos, acoperișul său fiind înclinat spre mare. Este un centru cultural major, combinând funcții de bibliotecă, muzeu și sală de conferințe pentru cercetători din întreaga lume. Istorie K8 - renașterea cunoașterii în epoca modernă."
     },
+    factsAdvanced: {
+      ro: ["Inaugurare: 2002", "Capacitate: 8 milioane de volume", "Formă: disc solar imens", "Locație: Alexandria, coasta Mediteranei", "Funcții: bibliotecă, muzeu, planetariu", "Arhitectură: design norvegian premiat"]
+    },
+    factsAdvanced: {
+      de: ["Eröffnung: 2002", "Architektur: Snøhetta (Norwegen)", "Kapazität: Bis zu 8 Millionen Bücher", "Design: Kreisform (Sonne)", "Wandinschriften: >100 Schriftsysteme", "Standort: Alexandria, Mittelmeerküste"]
+    }
+  },
     description: {
       de: "Eine große Bibliothek und ein Kulturzentrum am Ufer des Mittelmeers in Alexandria.",
       hu: "Egy hatalmas könyvtár és kulturális központ az alexandriai Földközi-tenger partján.",
@@ -58,7 +80,14 @@ export const poiExtraEgyptLandmarksV2: POI[] = [
       hu: "Al-Azhar mecset",
       ro: "Moscheea Al-Azhar",
       en: "Al-Azhar Mosque"
+    ,
+    descriptionAdvanced: {
+      ro: "Moscheea Al-Azhar, fondată în anul 970, reprezintă inima învățământului islamic tradițional în Egipt și în lumea arabă. Situată în Cairo Islamic, complexul include una dintre cele mai vechi universități din lume, transformându-se de-a lungul secolelor dintr-un lăcaș de cult într-un centru academic prestigios. Arhitectura sa reflectă stiluri diverse, adăugate de-a lungul diverselor dinastii care au guvernat Cairo. Istorie K8 - centre de învățământ medievale."
     },
+    factsAdvanced: {
+      ro: ["Fondată: anul 970", "Rol: centrul învățământului sunnit", "Locație: Cairo Islamic", "Stil: arhitectură mixtă fatimidă și mamelucă", "Fondator: Jawhar al-Siqilli", "Aria complexului: expansiune continuă de 1000 de ani"]
+    }
+  },
     description: {
       de: "Eine historische islamische Moschee im islamischen Kairo, gegründet 972 und bekannt als Zentrum für islamische Gelehrsamkeit.",
       hu: "Egy történelmi iszlám mecset az iszlám Kairóban, melyet 972-ben alapítottak, és az iszlám oktatás központjaként ismert.",
@@ -81,7 +110,14 @@ export const poiExtraEgyptLandmarksV2: POI[] = [
       hu: "Muhammad Ali mecset",
       ro: "Moscheea Muhammad Ali",
       en: "Mosque of Muhammad Ali"
+    ,
+    descriptionAdvanced: {
+      ro: "Moscheea Muhammad Ali domină orizontul orașului Cairo din interiorul Cetății Saladin. Construită între 1830 și 1848, această moschee monumentală de alabastru a été ridicată în memoria fiului cel mare al lui Muhammad Ali. Domurile sale impunătoare și minaretele extrem de înalte sunt vizibile de la mare distanță, oferind un punct de reper istoric și religios esențial. Istorie K8 - epoca modernă a Egiptului."
     },
+    factsAdvanced: {
+      ro: ["Perioada construcției: 1830–1848", "Stil: arhitectură otomană", "Material exterior: plăci de alabastru", "Locație: Cetatea Saladin, Cairo", "Înălțime minarete: peste 80 de metri", "Scop: mausoleu pentru Muhammad Ali Pașa"]
+    }
+  },
     description: {
       de: "Eine prächtige osmanische Moschee in der Zitadelle von Kairo, die von der ganzen Stadt aus sichtbar ist.",
       hu: "Egy lenyűgöző oszmán mecset a kairói fellegvárban, amely a város minden pontjáról látható.",
@@ -104,7 +140,14 @@ export const poiExtraEgyptLandmarksV2: POI[] = [
       hu: "Szuultán Haszán mecset",
       ro: "Moscheea Sultan Hassan",
       en: "Sultan Hassan Mosque"
+    ,
+    descriptionAdvanced: {
+      ro: "Moscheea-Madrasa a Sultanului Hassan este considerată una dintre cele mai grandioase și impresionante structuri arhitecturale ale Egiptului mameluc. Construită între 1356 și 1363, aceasta impresionează prin dimensiunile sale colosale și prin precizia detaliilor sculptate în piatră. Clădirea a fost concepută nu doar ca lăcaș de cult, ci și ca centru de învățământ religios pentru cele patru școli juridice sunnite. Istorie K7 - arhitectura mamelucă."
     },
+    factsAdvanced: {
+      ro: ["Construcție: 1356–1363", "Perioada: Era mamelucă", "Locație: lângă Piața Salah ad-Din, Cairo", "Scop: lăcaș de cult și madrasă", "Înălțime portal: 38 de metri", "Stil: arhitectură mamelucă pură"]
+    }
+  },
     description: {
       de: "Eine monumentale Moschee und Madrasa im historischen Viertel von Kairo, bekannt für ihre enormen Ausmaße.",
       hu: "Egy monumentális mecset és medresze Kairó történelmi negyedében, amely hatalmas méreteiről ismert.",
@@ -127,7 +170,14 @@ export const poiExtraEgyptLandmarksV2: POI[] = [
       hu: "Kaszr el-Nil híd",
       ro: "Podul Qasr el-Nil",
       en: "Qasr el-Nil Bridge"
+    ,
+    descriptionAdvanced: {
+      ro: "Podul Qasr El Nil este un monument istoric și o arteră vitală care traversează fluviul Nil în centrul orașului Cairo. Inaugurat inițial în 1872 și reconstruit în 1933, podul este celebru pentru cele patru statui de lei din bronz de la intrările sale, create de sculptorul francez Henri Alfred Jacquemart. Această locație este un punct de întâlnire popular pentru localnici, oferind perspective spectaculoase asupra apusului peste Nil. Geografia K7 - infrastructură urbană și design istoric."
     },
+    factsAdvanced: {
+      ro: ["Inaugurare: 1933 (reconstrucție)", "Statuie: 4 lei din bronz", "Designer statui: Henri Alfred Jacquemart", "Locație: Tahrir Square, Cairo", "Importanță: conectează centrul Cairo cu Insula Gezira", "Material: oțel"]
+    }
+  },
     description: {
       de: "Ein historisches Bauwerk aus dem Jahr 1931, das den Tahrir-Platz über den Nil mit der Gezira-Insel verbindet.",
       hu: "Egy 1931-ből származó történelmi híd, amely a Tahrir teret köti össze a Gezira-szigettel a Nílus felett.",
@@ -150,7 +200,14 @@ export const poiExtraEgyptLandmarksV2: POI[] = [
       hu: "Egyiptomi Múzeum",
       ro: "Muzeul Egiptean",
       en: "Egyptian Museum"
+    ,
+    descriptionAdvanced: {
+      ro: "Muzeul Egiptean din Cairo, situat în Piața Tahrir, este renumit pentru cea mai vastă colecție de antichități faraonice din lume. Clădirea istorică, inaugurată în 1902, găzduiește peste 120.000 de artefacte, inclusiv comoara regăsită a lui Tutankhamon. Arhitectura muzeului, cu fațada sa în stil neoclasic, a devenit un simbol al conservării patrimoniului egiptean pe parcursul secolului al XX-lea. Istorie K7 - civilizația Egiptului Antic."
     },
+    factsAdvanced: {
+      ro: ["Inaugurare: 1902", "Colecție: 120.000+ artefacte", "Piesa principală: masca lui Tutankhamon", "Stil arhitectural: neoclasic", "Locație: Piața Tahrir, Cairo", "Fondator colecție: Auguste Mariette"]
+    }
+  },
     description: {
       de: "Eines der bedeutendsten Museen für alte Geschichte am Tahrir-Platz, das eine umfangreiche Antikensammlung beherbergt.",
       hu: "Az ókori történelem egyik legfontosabb múzeuma a Tahrir téren, amely hatalmas régiséggyűjteménnyel rendelkezik.",
@@ -173,7 +230,14 @@ export const poiExtraEgyptLandmarksV2: POI[] = [
       hu: "Nagy Egyiptomi Múzeum",
       ro: "Marele Muzeu Egiptean",
       en: "Grand Egyptian Museum"
+    ,
+    descriptionAdvanced: {
+      ro: "Marele Muzeu Egiptean (GEM), situat lângă platoul Giza, reprezintă una dintre cele mai mari investiții în conservarea patrimoniului cultural la nivel mondial. Proiectat pentru a expune în premieră întreaga colecție a lui Tutankhamon, muzeul utilizează tehnologii avansate de conservare și o arhitectură modernă care integrează piramidele în contextul vizual. Această instituție redefineste modul în care istoria Egiptului antic este prezentată publicului global. Istorie K8 - tehnologia muzeală modernă."
     },
+    factsAdvanced: {
+      ro: ["Suprafață: peste 500.000 mp", "Focus: colecția completă Tutankhamon", "Locație: Giza, lângă piramide", "Arhitectură: design modern, minimalist", "Scop: cel mai mare muzeu dedicat unei singure civilizații", "Tehnologie: sisteme de control climatic avansate"]
+    }
+  },
     description: {
       de: "Ein riesiger, moderner archäologischer Museumskomplex in der Nähe der Pyramiden von Gizeh, der als größter der Welt für eine einzige Zivilisation konzipiert wurde.",
       hu: "Egy hatalmas, modern régészeti múzeumkomplexum a gízai piramisok közelében, amelyet a világ legnagyobb egyetlen civilizációnak szentelt múzeumának terveztek.",
@@ -196,7 +260,14 @@ export const poiExtraEgyptLandmarksV2: POI[] = [
       hu: "Egyiptomi Civilizáció Nemzeti Múzeuma",
       ro: "Muzeul Național al Civilizației Egiptene",
       en: "National Museum of Egyptian Civilization"
+    ,
+    descriptionAdvanced: {
+      ro: "Muzeul Național al Civilizației Egiptene (NMEC) din Fustat este singurul muzeu din Egipt care prezintă cronologic dezvoltarea civilizației, de la epoca preistorică până în prezent. Instituția este celebră pentru Sala Mumiilor Regale, unde sunt expuse rămășițele a 22 de regi și regine ale Egiptului antic. Locația sa în Fustat, prima capitală islamică a Egiptului, subliniază continuitatea istorică și multiculturală a națiunii. Istorie K8 - continuitatea istoriei egiptene."
     },
+    factsAdvanced: {
+      ro: ["Locație: Fustat, Cairo", "Atracție: Sala Mumiilor Regale", "Număr mumii: 22 de regi și regine", "Concept: cronologie istorică totală", "Inaugurare: deschidere etapizată până în 2021", "Rol: conservarea identității naționale"]
+    }
+  },
     description: {
       de: "Ein modernes Museum in Fustat, das die ägyptische Geschichte in all ihren Epochen von der Prähistorie bis zur Moderne zeigt.",
       hu: "Egy modern múzeum Fustatban, amely az egyiptomi történelmet mutatja be minden korszakában, a történelem előttitől a modern időkig.",
@@ -219,7 +290,14 @@ export const poiExtraEgyptLandmarksV2: POI[] = [
       hu: "Kairói Operaház",
       ro: "Opera din Cairo",
       en: "Cairo Opera House"
+    ,
+    descriptionAdvanced: {
+      ro: "Opera din Cairo, situată în complexul Centrului Cultural Național de pe Insula Gezira, este principalul centru pentru artele spectacolului în Egipt. Inaugurată în 1988 printr-un proiect finanțat de Japonia, clădirea încorporează elemente arhitecturale islamice moderne și oferă spații pentru concerte, balet și operă la standarde internaționale. Aceasta continuă tradiția culturală rafinată a capitalei, găzduind ansambluri renumite din întreaga lume. Arta K8 - importanța instituțiilor culturale moderne."
     },
+    factsAdvanced: {
+      ro: ["Inaugurare: 1988", "Finanțare: sprijin japonez (JICA)", "Locație: Insula Gezira", "Capacitate sală principală: 1.200 de locuri", "Stil arhitectural: islamic modern", "Funcție: centru pentru operă, balet și muzică simfonică"]
+    }
+  },
     description: {
       de: "Der wichtigste Ort für darstellende Künste in der ägyptischen Hauptstadt, im südlichen Teil der Gezira-Insel gelegen.",
       hu: "Az egyiptomi főváros előadó-művészetének elsődleges helyszíne, amely a Gezira-sziget déli részén található.",
@@ -242,7 +320,14 @@ export const poiExtraEgyptLandmarksV2: POI[] = [
       hu: "Abdeen-palota",
       ro: "Palatul Abdeen",
       en: "Abdeen Palace"
+    ,
+    descriptionAdvanced: {
+      ro: "Palatul Abdeen, situat în inima orașului Cairo, a fost reședința oficială a monarhiei egiptene din 1874 până în 1952. Construit sub domnia Khedivului Ismail, palatul impresionează prin opulența interioarelor, fiind astăzi unul dintre cele mai importante muzee care expun istoria regală a Egiptului modern. Clădirea găzduiește colecții rare de argintărie, tablouri și decorațiuni regale, reflectând gustul estetic al epocii de aur egiptene. Istorie K8 - viața la palat în epoca modernă."
     },
+    factsAdvanced: {
+      ro: ["Inaugurare: 1874", "Reședință regală: 1874–1952", "Locație: Cairo, centrul orașului", "Scop actual: muzeu al palatului", "Stil arhitectural: influențe europene și islamice", "Colecție: decorațiuni regale, arme, argintărie"]
+    }
+  },
     description: {
       de: "Ein historischer Palast in Kairo, der als einer der offiziellen Wohnsitze und Hauptarbeitsplätze des ägyptischen Präsidenten dient.",
       hu: "Egy történelmi kairói palota, amely az egyiptomi elnök egyik hivatalos rezidenciájaként és fő munkahelyeként szolgál.",
@@ -265,7 +350,14 @@ export const poiExtraEgyptLandmarksV2: POI[] = [
       hu: "Baron Empain palota",
       ro: "Palatul Baron Empain",
       en: "Baron Empain Palace"
+    ,
+    descriptionAdvanced: {
+      ro: "Palatul Baronului Empain, situat în Heliopolis, este o capodoperă a arhitecturii în stil hindus, ridicată la începutul secolului al XX-lea de industriașul belgian Édouard Empain. Palatul impresionează prin sculpturile sale detaliate și structura sa exotică, fiind complet restaurat și deschis publicului recent. Această clădire reprezintă viziunea unică a baronului de a crea un oraș modern în deșert, combinând elemente estetice orientale cu tehnologia europeană a acelei epoci. Istorie K8 - arhitectură eclectică în Egipt."
     },
+    factsAdvanced: {
+      ro: ["Perioada construcției: 1907–1911", "Stil arhitectural: hindus (cu influențe khmere)", "Fondator: Édouard Empain", "Locație: Heliopolis, Cairo", "Caracteristică: detalii sculpturale complexe", "Statut actual: monument restaurat și muzeu"]
+    }
+  },
     description: {
       de: "Ein einzigartiger historischer Palast in Heliopolis, der von einem Hindutempel inspiriert und von einem belgischen Industriellen erbaut wurde.",
       hu: "Egy egyedülálló, hindu templom ihlette történelmi palota Heliopoliszban, amelyet egy belga iparos építtetett.",
@@ -288,7 +380,14 @@ export const poiExtraEgyptLandmarksV2: POI[] = [
       hu: "Stanley-híd",
       ro: "Podul Stanley",
       en: "Stanley Bridge"
+    ,
+    descriptionAdvanced: {
+      ro: "Podul Stanley este un simbol modern al orașului Alexandria, extinzându-se peste golful Stanley pentru a oferi o vedere panoramică asupra Mării Mediterane. Inaugurat în 2001, podul este conceput cu un design care amintește de stilul palatelor regale ale orașului, devenind unul dintre cele mai populare locuri pentru plimbări nocturne. Structura sa curbată și iluminarea ambientală contribuie semnificativ la peisajul urban contemporan al „miresei Mediteranei”. Geografia K7 - arhitectură maritimă urbană."
     },
+    factsAdvanced: {
+      ro: ["Inaugurare: 2001", "Locație: Golful Stanley, Alexandria", "Design: amintește de stilul palatelor regale", "Funcție: pietonală și rutieră", "Importanță: simbol al Alexandriei moderne", "Peisaj: vedere panoramică la Mediterană"]
+    }
+  },
     description: {
       de: "Eine 400 Meter lange Brücke in Alexandria über das Mittelmeer, bekannt für ihr elegantes Design und ihre Nachtbeleuchtung.",
       hu: "Egy 400 méter hosszú híd Alexandriában a Földközi-tenger felett, amely elegáns kialakításáról és éjszakai kivilágításáról ismert.",
@@ -311,7 +410,14 @@ export const poiExtraEgyptLandmarksV2: POI[] = [
       hu: "El Alamein Háborús Temető",
       ro: "Cimitirul de Război El Alamein",
       en: "El Alamein War Cemetery"
+    ,
+    descriptionAdvanced: {
+      ro: "Cimitirul Militar de la El Alamein este locul de odihnă pentru mii de soldați care și-au pierdut viața în timpul bătăliilor decisive din Al Doilea Război Mondial. Acest memorial internațional, situat în deșertul vestic, servește drept mărturie solemnă a conflictului care a schimbat cursul istoriei în Africa de Nord. Arhitectura sobru-monumentală a cimitirului oferă un spațiu de reculegere și reflectare asupra prețului păcii în epoca modernă. Istorie K8 - bătăliile din Al Doilea Război Mondial."
     },
+    factsAdvanced: {
+      ro: ["Context: Al Doilea Război Mondial", "Locație: El Alamein, deșertul vestic", "Semnificație: memorial internațional pentru soldați", "Statut: loc de reculegere istorică", "Monumente: structuri de piatră în stil sobru", "Rol: conservarea memoriei istoriei militare"]
+    }
+  },
     description: {
       de: "Eine bedeutende Gedenkstätte und Ruhestätte für Soldaten der britischen und Commonwealth-Streitkräfte, die im Zweiten Weltkrieg fielen.",
       hu: "Jelentős emlékhely és nyughely a brit és a nemzetközösségi erők azon katonái számára, akik a második világháborúban estek el.",
@@ -334,7 +440,14 @@ export const poiExtraEgyptLandmarksV2: POI[] = [
       hu: "Kairói Nemzetközi Stadion",
       ro: "Stadionul Internațional din Cairo",
       en: "Cairo International Stadium"
+    ,
+    descriptionAdvanced: {
+      ro: "Stadionul Internațional din Cairo, inaugurat în 1960, este cel mai mare complex sportiv al Egiptului și un reper pentru evenimentele atletice de amploare. Situat în cartierul Nasr City, acesta a fost proiectat de arhitectul german Werner March și a găzduit numeroase competiții internaționale, inclusiv finale ale Cupei Africii pe Națiuni. Stadionul este simbolul pasiunii egiptene pentru fotbal și sport, fiind un spațiu central în viața publică a capitalei. Arta K7 - sportul și arhitectura publică."
     },
+    factsAdvanced: {
+      ro: ["Inaugurare: 1960", "Capacitate: peste 75.000 de locuri", "Arhitect: Werner March", "Locație: Nasr City, Cairo", "Evenimente: Cupa Africii pe Națiuni", "Semnificație: centrul sportului egiptean"]
+    }
+  },
     description: {
       de: "Ein Mehrzweckstadion in Nasr City, bekannt als der Fahnenträger des ägyptischen Fußballs und nationaler Ereignisse.",
       hu: "Egy többcélú stadion Nasr Cityben, amely az egyiptomi labdarúgás és a nemzeti események központjaként ismert.",

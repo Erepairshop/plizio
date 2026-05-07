@@ -12,7 +12,14 @@ export const poiExtraEquatorialguineaLifeV2: POI[] = [
       hu: "Ureca teknősstrand",
       ro: "Plaja țestoaselor din Ureca",
       en: "Ureca Turtle Beach"
+    ,
+    descriptionAdvanced: {
+      de: "Der Strand von Ureca an der entlegenen Südküste von Bioko ist eines der bedeutendsten Nistgebiete für Meeresschildkröten in Zentralafrika. Besonders die vom Aussterben bedrohten Lederschildkröten nutzen diesen unberührten, vulkanischen Sandstrand jährlich, um ihre Eier abzulegen. Die Abgeschiedenheit von Ureca schützt den Ort vor dem Massentourismus und schafft eine ruhige Umgebung, die für den Fortbestand der gefährdeten Arten essenziell ist. Besucher können unter Anleitung erfahrener Guides die nächtliche Eiablage beobachten, was ein tiefes Verständnis für die marine Ökologie und die Notwendigkeit der Erhaltung dieser majestätischen Tiere fördert. Ökologie K6, Meeresbiologie K8."
     },
+    factsAdvanced: {
+      de: ["Einer der wichtigsten Nistplätze für Lederschildkröten weltweit.", "Die Region ist durch steile Klippen vom Massenverkehr isoliert.", "Beobachtungen sind streng reglementiert zum Schutz der Tiere.", "Die Eiablage erfolgt in einer sehr sensiblen saisonalen Phase.", "Ureca gilt als einer der regenreichsten Orte auf der Insel Bioko.", "Ein herausragendes Beispiel für naturnahen Schutz lokaler Arten."]
+    }
+  },
     description: {
       de: "Ein wichtiger Nistplatz für Meeresschildkröten an der Südküste der Insel Bioko, wo seltene Arten ihre Eier legen.",
       hu: "Fontos tengeri teknős fészkelőhely Bioko sziget déli partján, ahol ritka fajok rakják le tojásaikat.",
@@ -35,7 +42,14 @@ export const poiExtraEquatorialguineaLifeV2: POI[] = [
       hu: "Annobóni bálnales",
       ro: "Observarea balenelor din Annobón",
       en: "Annobón Whale Watching"
+    ,
+    descriptionAdvanced: {
+      de: "Die Gewässer rund um die abgelegene Insel Annobón im Südatlantik sind ein kritischer Korridor für die Migration von Buckelwalen, die jedes Jahr weite Strecken durch den Ozean zurücklegen. Annobón, als südlichste Provinz Äquatorialguineas, bietet eine ideale geografische Position, um diese faszinierenden Meeressäuger in ihrer natürlichen Umgebung zu erleben. Die Reise der Wale durch diese Gewässer ist Teil eines globalen ökologischen Zyklus, der die marine Biodiversität des Südatlantiks prägt. Das Beobachten der Wale vor der Küste Annobóns bietet nicht nur ein unvergessliches Erlebnis, sondern unterstreicht auch die Bedeutung des Schutzes der ozeanischen Lebensräume für die maritime Zukunft der Region. Meeresbiologie K7, Geografie K5."
     },
+    factsAdvanced: {
+      de: ["Wichtiger Wanderkorridor für Buckelwale im Südatlantik.", "Optimale Sichtungen zwischen Juli und September.", "Die Insel Annobón ist ein geschützter Ausgangspunkt für Expeditionen.", "Die marine Biodiversität rund um die Insel ist außergewöhnlich hoch.", "Die Wale nutzen die Gewässer für Paarung und Aufzucht der Kälber.", "Ökotourismus-Initiativen fördern das Bewusstsein für maritime Erhaltung."]
+    }
+  },
     description: {
       de: "Die Gewässer um die Insel Annobón sind ein wichtiger Wanderkorridor für Buckelwale im Südatlantik.",
       hu: "Az Annobón-sziget körüli vizek a hosszúszárnyú bálnák fontos vándorlási útvonala a Dél-Atlanti-óceánon.",
@@ -58,7 +72,14 @@ export const poiExtraEquatorialguineaLifeV2: POI[] = [
       hu: "Pico Basile primáta-védelmi zóna",
       ro: "Zona de protecție a primatelor Pico Basile",
       en: "Pico Basile Primate Protection Zone"
+    ,
+    descriptionAdvanced: {
+      de: "An den üppigen, bewaldeten Hängen des Pico Basile auf Bioko erstreckt sich eine geschützte Primaten-Schutzzone, die für das Überleben seltener, endemischer Unterarten wie der Preuss-Meerkatze und anderer bedrohter Affenarten von entscheidender Bedeutung ist. Die verschiedenen Höhenstufen des Vulkans schaffen einzigartige ökologische Nischen, die ein komplexes Netz an Tier- und Pflanzenleben beherbergen. Diese Schutzzone dient als lebendiges Labor für Primatenforscher und als Beweis für den Wert des Schutzes ökologisch intakter Waldgebiete. Der Schutz dieser Zone ist integraler Bestandteil der nationalen Strategie zur Bewahrung des einzigartigen ökologischen Erbes der Insel Bioko, das durch den anthropogenen Druck gefährdet ist. Biologie K7, Ökologie K8."
     },
+    factsAdvanced: {
+      de: ["Bietet Zuflucht für stark gefährdete endemische Primatenarten.", "Die Zone umfasst unterschiedliche Vegetationshöhenstufen.", "Wichtiger Standort für langfristige populationsbiologische Studien.", "Die Wälder des Pico Basile sind ein zentraler Biodiversitäts-Hotspot.", "Schutzmaßnahmen verhindern den Verlust an Lebensraum durch Abholzung.", "Die Region beherbergt eine einzigartige, nur hier existierende Tierwelt."]
+    }
+  },
     description: {
       de: "Ein geschütztes Waldgebiet an den Hängen des Pico Basile, das Lebensraum für seltene Affenarten wie die Preuss-Meerkatze bietet.",
       hu: "Védett erdős terület a Pico Basile lejtőin, amely ritka majomfajoknak, például a Preuss-cerkófnak ad otthont.",
@@ -81,7 +102,14 @@ export const poiExtraEquatorialguineaLifeV2: POI[] = [
       hu: "Nsorki elefántösvények",
       ro: "Cărările elefanților din Nsork",
       en: "Nsork Elephant Trails"
+    ,
+    descriptionAdvanced: {
+      de: "In den dichten, weitgehend unberührten Regenwäldern um Nsork im äußersten Südosten Äquatorialguineas verlaufen historische Pfade der afrikanischen Waldelefanten, die als wichtige Migrationskorridore für diese sanften Riesen dienen. Waldelefanten, die kleiner und scheuer sind als ihre Verwandten in der Savanne, spielen eine unersetzliche Rolle bei der Erhaltung des Ökosystems, indem sie als 'Gärtner des Waldes' zur Verbreitung von Baumarten beitragen. Der Schutz dieser Korridore ist ein grenzüberschreitendes Anliegen, das Äquatorialguinea mit den benachbarten Staaten verbindet und einen der letzten großen Lebensräume für Waldelefanten in Zentralafrika sichert. Die Sicherung dieser Wege ist ein zentraler Pfeiler für das langfristige Überleben dieser Art. Biologie K7, Geografie K8."
     },
+    factsAdvanced: {
+      de: ["Waldelefanten sind genetisch kleiner als Savannenelefanten.", "Wichtige Rolle bei der Verbreitung von Samen im Regenwald.", "Nsork ist ein Bindeglied in einem grenzüberschreitenden Habitat.", "Die Pfade werden seit Generationen von den Elefanten genutzt.", "Hoher Schutzbedarf aufgrund der Bedrohung durch Wilderei.", "Die Region umfasst eine enorme Dichte an intakter Primärvegetation."]
+    }
+  },
     description: {
       de: "Die dichten Wälder um Nsork im Südosten sind bekannt für die Wanderrouten der afrikanischen Waldelefanten.",
       hu: "A délkeleti Nsork körüli sűrű erdők az afrikai erdei elefántok vándorlási útvonalairól ismertek.",
@@ -104,7 +132,14 @@ export const poiExtraEquatorialguineaLifeV2: POI[] = [
       hu: "Monte Alén csimpánz-élőhely",
       ro: "Habitatul cimpanzeilor din Monte Alén",
       en: "Monte Alén Chimpanzee Habitat"
+    ,
+    descriptionAdvanced: {
+      de: "Im dichten Regenwald des Monte Alén Nationalparks lebt eine der bedeutendsten Populationen von Schimpansen und westlichen Flachlandgorillas in Äquatorialguinea. Diese Primaten sind essenzielle Bewohner dieses komplexen Ökosystems und ihre Beobachtung bietet wertvolle Einblicke in ihre soziale Struktur und Verhaltensweise. Da diese Tiere hochgradig bedroht sind, ist das Habitat im Monte Alén ein streng geschütztes Gebiet, das für Forscher und Naturschützer von unschätzbarem Wert ist. Die Erhaltung dieser Populationen erfordert ein tiefgreifendes Verständnis ihrer Bedürfnisse und einen Schutz ihrer riesigen Streifgebiete, die sich weit über die Grenzen des Parks hinaus erstrecken können. Biologie K8, Ökologie K7."
     },
+    factsAdvanced: {
+      de: ["Monte Alén ist eine Hochburg für Schimpansen und Flachlandgorillas.", "Primaten fungieren als wichtige Indikatoren für Waldgesundheit.", "Die Beobachtung ist streng limitiert und nur mit Expertenführern möglich.", "Die Populationen unterliegen einem laufenden internationalen Monitoring.", "Die enorme Waldfläche bietet Raum für komplexe soziale Gruppenstrukturen.", "Bildet ein Zentrum für Forschung und Schutzmaßnahmen auf dem Festland."]
+    }
+  },
     description: {
       de: "Im Herzen des Monte Alén Nationalparks leben bedeutende Populationen von Schimpansen und Flachlandgorillas.",
       hu: "A Monte Alén Nemzeti Park szívében jelentős csimpánz- és síkvidéki gorilla-populációk élnek.",
@@ -127,7 +162,14 @@ export const poiExtraEquatorialguineaLifeV2: POI[] = [
       hu: "Sampaka kakaóültetvény",
       ro: "Plantația de cacao Sampaka",
       en: "Sampaka Cocoa Plantation"
+    ,
+    descriptionAdvanced: {
+      de: "Die Kakaoplantage Sampaka auf der Insel Bioko ist ein lebendiges Zeugnis der kolonialen Geschichte und ein moderner Akteur in der Produktion von weltweit geschätztem, hochwertigem Kakao. Auf dem fruchtbaren vulkanischen Boden der Insel gewachsen, zeichnet sich der dort produzierte Kakao durch eine besondere aromatische Qualität aus. Besucher der Plantage können nicht nur den traditionellen Anbauprozess kennenlernen, sondern auch die historische koloniale Architektur bewundern, die das Gelände prägt. Die Plantage verbindet handwerkliche Tradition mit der Nachfrage nach Qualität und Nachhaltigkeit und ist somit ein wichtiger wirtschaftlicher und kultureller Bestandteil der Region, der die Geschichte des Kakaos auf Bioko lebendig hält. Landwirtschaft K7, Geschichte K8."
     },
+    factsAdvanced: {
+      de: ["Die Plantage blickt auf eine lange Tradition der Kakaoproduktion zurück.", "Bietet Besuchern detaillierte Führungen zur Verarbeitung der Kakaobohnen.", "Die Böden auf Bioko sind ideal für anspruchsvolle Kakaosorten.", "Architektonisch beeindruckende Gebäude aus der Kolonialzeit sind erhalten.", "Ein wichtiger Beitrag zur lokalen Identität durch Qualitätsprodukte.", "Die Plantagenführung bietet Einblick in die Geschichte und den Anbau."]
+    }
+  },
     description: {
       de: "Eine der ältesten und bekanntesten Kakaoplantagen auf Bioko, die für ihren hochwertigen aromatischen Kakao berühmt ist.",
       hu: "Bioko egyik legrégebbi és legismertebb kakaóültetvénye, amely kiváló minőségű aromás kakaójáról híres.",

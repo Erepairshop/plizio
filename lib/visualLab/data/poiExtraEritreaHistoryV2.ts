@@ -12,7 +12,14 @@ export const poiExtraEritreaHistoryV2: POI[] = [
       hu: "Adulisz ókori kikötőváros",
       ro: "Orașul port antic Adulis",
       en: "Ancient Port City of Adulis"
+    ,
+    descriptionAdvanced: {
+      de: "Adulis war einst eine blühende Hafenstadt am Roten Meer, die als bedeutender Handelsplatz des antiken Aksumitischen Reiches diente. Archäologische Ausgrabungen haben Überreste von monumentalen Bauten und Handelsgütern aus dem gesamten Indischen Ozean freigelegt, die den antiken Wohlstand belegen. Heute stellt die Stätte ein Fenster in die komplexe Vergangenheit des Horns von Afrika dar und zeigt die weitreichenden Handelsbeziehungen der Region vor über 2.000 Jahren. Geschichtsunterricht K8 – Antike Handelsrouten und Zivilisationen."
     },
+    factsAdvanced: {
+      de: ["Antiker Hafen des Aksumitischen Reiches.", "Wichtiger Umschlagplatz für Handelsgüter im Roten Meer.", "Archäologische Funde belegen Verbindungen zu Ägypten und Indien.", "Blütezeit vom 1. bis zum 7. Jahrhundert nach Christus.", "Architektur zeugt von mediterranen und afrikanischen Einflüssen.", "Einer der bedeutendsten archäologischen Orte in Eritrea."]
+    }
+  },
     description: {
       de: "Adulis war in der Antike ein bedeutendes Handelszentrum am Roten Meer, das Verbindungen zwischen dem Aksumitischen Reich, dem Römischen Reich und Indien pflegte. Die Ruinen zeugen von einer florierenden Zivilisation, die Elfenbein, Weihrauch und Sklaven handelte.",
       hu: "Adulisz az ókorban a Vörös-tenger egyik legfontosabb kereskedelmi központja volt, amely összekötötte az Akszúmi Birodalmat a Római Birodalommal és Indiával. A romok egy virágzó civilizációról tanúskodnak, amely elefántcsonttal és tömjénnel kereskedett.",
@@ -51,7 +58,14 @@ export const poiExtraEritreaHistoryV2: POI[] = [
       hu: "Qohaito ókori város",
       ro: "Orașul antic Qohaito",
       en: "Ancient City of Qohaito"
+    ,
+    descriptionAdvanced: {
+      de: "Qohaito liegt auf dem Hochplateau Eritreas und war eine strategisch wichtige Stadt während der aksumitischen Epoche. Bekannt ist der Ort vor allem für seine antiken Steinhäuser, Dämme und Felszeichnungen, die auf eine hochentwickelte Siedlungskultur hinweisen. Die Lage bot Schutz und Kontrolle über die Handelswege zwischen dem Hochland und der Küste. Diese archäologische Stätte erlaubt tiefe Einblicke in die Lebensweise der antiken Bewohner von Eritrea. Geschichtsunterricht K7 – Frühe Stadtkulturen am Horn von Afrika."
     },
+    factsAdvanced: {
+      de: ["Antike Stadt auf dem eritreischen Hochplateau.", "Bekannt für steinerne Bauten und antike Dämme.", "Zahlreiche Felszeichnungen aus vorchristlicher Zeit.", "Wichtig für die Kontrolle von Handelswegen.", "Verbindungspunkt zwischen Hochland und Rotes Meer.", "Bedeutende archäologische Siedlung der Aksum-Ära."]
+    }
+  },
     description: {
       de: "Qohaito ist eine der berühmtesten archäologischen Stätten Eritreas, die auf einem Hochplateau liegt. Die Stadt florierte während der Zeit des Aksumitischen Reiches und beherbergt Ruinen von Tempeln und Palästen sowie prähistorische Felsmalereien in der Nähe.",
       hu: "Qohaito Eritrea egyik leghíresebb régészeti lelőhelye, amely egy fennsíkon található. A város az Akszúmi Birodalom idején virágzott, és templomok, valamint paloták romjait őrzi, emellett a közelben történelem előtti sziklarajzok is találhatók.",
@@ -90,7 +104,14 @@ export const poiExtraEritreaHistoryV2: POI[] = [
       hu: "Metera régészeti lelőhely",
       ro: "Situl arheologic Metera",
       en: "Metera Archaeological Site"
+    ,
+    descriptionAdvanced: {
+      de: "Metera, auch bekannt als Matara, ist ein archäologischer Ort, der für seine gut erhaltene Stele bekannt ist, die als eine der wichtigsten historischen Hinterlassenschaften der Region gilt. Die Stadt fungierte als wichtiger Knotenpunkt für den Austausch von Waren und Kultur zwischen dem aksumitischen Kernland und anderen Regionen. Funde deuten darauf hin, dass die Bevölkerung hier bereits früh Schriftzeichen und komplexe religiöse Praktiken entwickelte. Die Stätte symbolisiert die kulturelle Kontinuität über Jahrhunderte. Geschichtsunterricht K6 – Symbolik und Entwicklung antiker Kulturen."
     },
+    factsAdvanced: {
+      de: ["Archäologische Stätte mit bekannter antiker Stele.", "Kulturelles Bindeglied der aksumitischen Zivilisation.", "Zentrum für Handel und kulturellen Austausch.", "Funde belegen frühe Anwendung von Schriftzeichen.", "Strategisch günstig gelegene Stadt im Hochland.", "Symbol für historische Kontinuität in der Region."]
+    }
+  },
     description: {
       de: "Metera, auch als Matara bekannt, ist eine bedeutende Ruinenstadt aus dem Aksumitischen Reich. Die Stätte ist berühmt für ihren Obelisken mit Inschriften aus dem 3. Jahrhundert, der zu den ältesten bekannten Ge'ez-Inschriften gehört.",
       hu: "Metera, más néven Matara, egy jelentős romváros az Akszúmi Birodalom korából. A helyszín híres a 3. századból származó, feliratos obeliszkjéről, amely az egyik legrégebbi ismert ge'ez nyelvű felirat.",
@@ -129,7 +150,14 @@ export const poiExtraEritreaHistoryV2: POI[] = [
       hu: "Keskese romjai",
       ro: "Ruinele Keskese",
       en: "Keskese Ruins"
+    ,
+    descriptionAdvanced: {
+      de: "Keskese ist eine weitere bedeutende archäologische Stätte in Eritrea, die durch ihre beeindruckenden Stelen und antiken Bauwerke besticht. Die Stelen dienen oft als Grabmarkierungen oder als Zeichen für besondere soziale oder religiöse Ereignisse in der damaligen Zeit. Die Stätte zeigt die soziale Hierarchie und die religiöse Bedeutung des aksumitischen Reiches auf eine Weise, die in der modernen Forschung zunehmend an Bedeutung gewinnt. Die Erhaltung dieser Ruinen ist essenziell für das Verständnis der regionalen Geschichte. Geschichtsunterricht K8 – Monumentale Architektur und soziale Struktur."
     },
+    factsAdvanced: {
+      de: ["Archäologische Stätte mit monumentalen Stelen.", "Stelen oft als Grabmarkierungen genutzt.", "Einblick in die soziale Hierarchie der Aksum-Ära.", "Religiöse Bedeutung der Fundorte und Strukturen.", "Wichtiger Beitrag zum archäologischen Erbe Eritreas.", "Forschungsobjekt für die Entwicklung antiker Zivilisationen."]
+    }
+  },
     description: {
       de: "Die Keskese-Ruinen sind Überreste einer antiken Siedlung in der südlichen Region Eritreas, die mit dem D'mt-Reich und frühen sabäischen Einflüssen in Verbindung gebracht werden. Vor Ort gefundene Obelisken weisen auf vorchristliche Kulte hin.",
       hu: "A Keskese romok egy ókori település maradványai Eritrea déli régiójában, amelyeket a D'mt birodalommal és korai szabeus hatásokkal hoznak összefüggésbe. Az itt talált obeliszkek kereszténység előtti kultuszokra utalnak.",
@@ -168,7 +196,14 @@ export const poiExtraEritreaHistoryV2: POI[] = [
       hu: "Nakfa lövészárkai",
       ro: "Tranșeele din Nakfa",
       en: "Trenches of Nakfa"
+    ,
+    descriptionAdvanced: {
+      de: "Nakfa erlangte historische Bedeutung als eines der wichtigsten Zentren des eritreischen Unabhängigkeitskrieges und dient heute als Symbol des nationalen Widerstandes. Die ausgedehnten Schützengrabensysteme um die Stadt sind stumme Zeugen der jahrelangen Kämpfe für die staatliche Souveränität Eritreas. Die Stadt wurde unter extrem schwierigen Bedingungen gehalten und wurde zu einer Identifikationsfläche für die Unabhängigkeitsbewegung. Besuchern vermittelt Nakfa ein Verständnis für die modernen nationalen Opfer und das Streben nach Freiheit. Geschichte K8 – Modernes Eritrea und Freiheitskampf."
     },
+    factsAdvanced: {
+      de: ["Symbolstadt des eritreischen Unabhängigkeitskrieges.", "Ausgedehnte Schützengrabensysteme erhalten.", "Zentrum des Widerstands über mehrere Jahrzehnte.", "Nationale Identifikationsfläche nach der Unabhängigkeit.", "Ort des Gedenkens an den Freiheitskampf.", "Wichtig für das Verständnis der modernen Geschichte Eritreas."]
+    }
+  },
     description: {
       de: "Nakfa war das Hauptquartier der eritreischen Unabhängigkeitsbewegung und ein Symbol des jahrzehntelangen Befreiungskampfes gegen Äthiopien. Die ausgedehnten unterirdischen Netzwerke und Schützengräben in den Bergen sind bis heute sichtbar.",
       hu: "Nakfa az eritreai függetlenségi mozgalom főhadiszállása volt, és az Etiópia elleni évtizedes felszabadító harc szimbóluma. A hegyekben húzódó kiterjedt föld alatti hálózatok és lövészárkok ma is láthatók.",
@@ -695,7 +730,7 @@ export const poiExtraEritreaHistoryV2: POI[] = [
       ],
       ro: [
         "Este situat la 40 km sud-est de Asmara.",
-        "Cunoscută cândva sub numele de „A doua Romă”.",
+        "Cunoscută cândva sub numele de \"A doua Romă\".",
         "A suferit daune majore în Războiul de Independență."
       ],
       en: [
@@ -1125,7 +1160,7 @@ export const poiExtraEritreaHistoryV2: POI[] = [
         "A közelben számos pre-akszúmi ásatási hely található."
       ],
       ro: [
-        "Numele înseamnă „nimeni nu a îndrăznit”.",
+        "Numele înseamnă \"nimeni nu a îndrăznit\".",
         "Capitala regiunii Debub.",
         "În apropiere există numeroase situri de excavare pre-aksumite."
       ],

@@ -32,7 +32,7 @@ export const poiExtraElsalvadorReliefV2: POI[] = [
       ro: [
         "Are o altitudine de 2.030 de metri deasupra nivelului mării.",
         "Ultima sa erupție a avut loc acum mai bine de 25.000 de ani.",
-        "Găzduiește o „Grădină a Orhideelor” cu specii rare din regiune.",
+        "Găzduiește o \"Grădină a Orhideelor\" cu specii rare din regiune.",
         "Face parte din complexul protejat cunoscut sub numele de Los Volcanes."
       ],
       en: [
@@ -71,7 +71,7 @@ export const poiExtraElsalvadorReliefV2: POI[] = [
       ],
       ro: [
         "Atinge o înălțime de 2.182 de metri, fiind unul dintre cei mai înalți din țară.",
-        "Numele său indigen Chichontepec înseamnă „Muntele celor doi sâni”.",
+        "Numele său indigen Chichontepec înseamnă \"Muntele celor doi sâni\".",
         "Este un stratovulcan care prezintă două conuri vulcanice distincte.",
         "În jurul său se află numeroase izvoare de apă termală și fumarole."
       ],
@@ -111,7 +111,7 @@ export const poiExtraElsalvadorReliefV2: POI[] = [
       ],
       ro: [
         "Are o altitudine maximă de 2.036 de metri.",
-        "Este considerat un „plămân verde” esențial pentru vestul țării.",
+        "Este considerat un \"plămân verde\" esențial pentru vestul țării.",
         "Regiunea este renumită pentru producția de cafea gourmet premiată internațional.",
         "Găzduiește o varietate mare de plante epifite și mușchi tropicali."
       ],
@@ -152,7 +152,7 @@ export const poiExtraElsalvadorReliefV2: POI[] = [
       ro: [
         "Înălțimea sa este de 2.130 de metri deasupra nivelului mării.",
         "Craterul central are un diametru impresionant de aproximativ 800 de metri.",
-        "Numele său în limba Lenca înseamnă „Locul izvoarelor din munte”.",
+        "Numele său în limba Lenca înseamnă \"Locul izvoarelor din munte\".",
         "Este unul dintre cei mai monitorizați vulcani din țară datorită activității sale."
       ],
       en: [
@@ -193,7 +193,7 @@ export const poiExtraElsalvadorReliefV2: POI[] = [
         "Reprezintă un dom vulcanic format în interiorul calderei Ilopango.",
         "Este o destinație favorită pentru excursiile cu barca pe lacul Ilopango.",
         "Oferă habitate protejate pentru diverse specii de păsări acvatice.",
-        "Numele său se traduce prin „Muntele de Aur”, inspirat de legendele locale."
+        "Numele său se traduce prin \"Muntele de Aur\", inspirat de legendele locale."
       ],
       en: [
         "Represents a volcanic dome formed within the massive Ilopango caldera.",
@@ -217,7 +217,7 @@ export const poiExtraElsalvadorReliefV2: POI[] = [
     },
     descriptionAdvanced: {
       de: "",
-      hu: "Az Apaneca-hegység El Salvador nyugati részének legfontosabb magaslati régiója, egy vulkáni láncolat, amely meghatározza a környék klímáját és gazdaságát. A hegység több kialudt vulkánt és gyönyörű krátertavat rejt, mint például a Laguna Verde, amelyek népszerű kirándulóhelyek. Itt található az ország „kávészíve”, ahol a hűvös éghajlaton érő szemekből készülnek a világhírű salvadori kávék. A területet festői kisvárosok és falvak tarkítják, ahol a gyarmati hagyományok még ma is élnek. A hegység gerincén végigvonuló utakról fantasztikus kilátás nyílik a völgyekre és a Csendes-óceánra.",
+      hu: "Az Apaneca-hegység El Salvador nyugati részének legfontosabb magaslati régiója, egy vulkáni láncolat, amely meghatározza a környék klímáját és gazdaságát. A hegység több kialudt vulkánt és gyönyörű krátertavat rejt, mint például a Laguna Verde, amelyek népszerű kirándulóhelyek. Itt található az ország \"kávészíve\", ahol a hűvös éghajlaton érő szemekből készülnek a világhírű salvadori kávék. A területet festői kisvárosok és falvak tarkítják, ahol a gyarmati hagyományok még ma is élnek. A hegység gerincén végigvonuló utakról fantasztikus kilátás nyílik a völgyekre és a Csendes-óceánra.",
       ro: "Munții Apaneca formează o regiune montană de o importanță crucială în vestul El Salvadorului, fiind celebri pentru peisajele lor vulcanice și satele coloniale fermecătoare. Acest lanț muntos adăpostește mai mulți vulcani stinși și lacuri de crater superbe, precum Laguna Verde, care atrag mii de vizitatori dornici de aventură. Regiunea este inima producției de cafea a țării, unde altitudinea și solul bogat contribuie la obținerea unor boabe de o calitate excepțională. Clima răcoroasă și drumurile șerpuite care străbat pădurile oferă o atmosferă relaxantă, ideală pentru explorarea tradițiilor locale. De pe culmile acestor munți, se pot admira apusuri spectaculoase peste Oceanul Pacific, completând experiența unei călătorii memorabile.",
       en: "The Apaneca Range is the primary highland region of western El Salvador, a volcanic chain that dictates the local climate and economy. The range conceals several extinct volcanoes and stunning crater lakes, such as Laguna Verde, which are highly popular with nature enthusiasts. This is the 'Coffee Heart' of the nation, where cool temperatures and rich soil produce El Salvador's world-famous coffee beans. Picturesque colonial towns and traditional villages dot the landscape, preserving centuries of heritage. Roads winding along the ridges offer fantastic vistas overlooking the valleys and the distant Pacific horizon. Geography K7"
     },
@@ -297,7 +297,7 @@ export const poiExtraElsalvadorReliefV2: POI[] = [
     },
     descriptionAdvanced: {
       de: "",
-      hu: "A Cojutepeque városa mellett emelkedő Cerro Las Pavas nemcsak egy gyönyörű természeti kilátó, hanem fontos vallási zarándokhely is. A csúcson található Szűz Mária-szoborhoz hívők ezrei zarándokolnak el minden évben, hogy imádkozzanak és élvezzék a spirituális békét. A hegyről pazar körpanoráma nyílik az Ilopango-tóra, a San Vicente-vulkánra és a központi völgyekre, ami miatt a turisták auch szívesen látogatják. A jól kiépített sétányok és pihenőhelyek ideális családi kirándulóhellyé teszik, ahol a friss levegő és a látvány kikapcsolódást nyújt. A hegy nevében szereplő „pavas” (vadpulykák) egykor nagy számban éltek a területen.",
+      hu: "A Cojutepeque városa mellett emelkedő Cerro Las Pavas nemcsak egy gyönyörű természeti kilátó, hanem fontos vallási zarándokhely is. A csúcson található Szűz Mária-szoborhoz hívők ezrei zarándokolnak el minden évben, hogy imádkozzanak és élvezzék a spirituális békét. A hegyről pazar körpanoráma nyílik az Ilopango-tóra, a San Vicente-vulkánra és a központi völgyekre, ami miatt a turisták auch szívesen látogatják. A jól kiépített sétányok és pihenőhelyek ideális családi kirándulóhellyé teszik, ahol a friss levegő és a látvány kikapcsolódást nyújt. A hegy nevében szereplő \"pavas\" (vadpulykák) egykor nagy számban éltek a területen.",
       ro: "Cerro Las Pavas, care se înalță lângă orașul Cojutepeque, este mult mai mult decât un punct de observație natural, fiind un loc sacru de pelerinaj. În vârful său se află o statuie a Fecioarei Maria, la care mii de credincioși vin anual pentru a găsi pace spirituală și liniște. Panorama oferită de acest munte este una dintre cele mai cuprinzătoare din țară, incluzând lacul Ilopango, vulcanul San Vicente și văile centrale. Aleile bine amenajate și zonele de odihnă fac din acest munte un loc ideal pentru excursii în familie, îmbinând recreerea cu devoțiunea religioasă. Numele său provine de la curcanii sălbatici care populau odinioară aceste înălțimi în număr mare.",
       en: "Cerro Las Pavas, rising next to the city of Cojutepeque, is both a stunning natural viewpoint and a major religious pilgrimage site. At the summit, a celebrated statue of the Virgin Mary draws thousands of faithful visitors each year for prayer and spiritual reflection. The mountain offers a magnificent 360-degree panorama of Lake Ilopango, San Vicente Volcano, and the central valleys. Well-developed walkways and rest areas make it an ideal family destination where the crisp air and scenic beauty provide total relaxation. The mountain's name, 'Las Pavas,' refers to the wild turkeys that once inhabited this lush area in great numbers. History K6"
     },
@@ -351,7 +351,7 @@ export const poiExtraElsalvadorReliefV2: POI[] = [
       ],
       ro: [
         "Punctul cel mai înalt este vulcanul Tecapa, cu o altitudine de 1.593 metri.",
-        "Laguna de Alegría a fost numită „Smaraldul Americii” de poeta Gabriela Mistral.",
+        "Laguna de Alegría a fost numită \"Smaraldul Americii\" de poeta Gabriela Mistral.",
         "Este o zonă importantă pentru producerea de energie geotermală în țară.",
         "Regiunea este faimoasă pentru cafeaua cultivată la umbră și pentru biodiversitate."
       ],
@@ -591,7 +591,7 @@ export const poiExtraElsalvadorReliefV2: POI[] = [
       ],
       ro: [
         "Atinge o altitudine de 1.663 de metri, fiind cel mai înalt vârf din Morazán.",
-        "Numele său în limba Poton înseamnă „Muntele plantațiilor de cacao”.",
+        "Numele său în limba Poton înseamnă \"Muntele plantațiilor de cacao\".",
         "Este un nod de comunicații vital pentru întreaga regiune de nord-est.",
         "Se remarcă prin microclimatul său răcoros și pădurile bogate de conifere."
       ],
@@ -657,7 +657,7 @@ export const poiExtraElsalvadorReliefV2: POI[] = [
     },
     descriptionAdvanced: {
       de: "",
-      hu: "A Montecristo Nemzeti Park felhőerdője egy varázslatos, állandó ködbe burkolózó birodalom, ahol El Salvador, Guatemala és Honduras határai találkoznak. A „Hármas Határ” (Punto Trifinio) néven is ismert területen a páratartalom szinte mindig 100%, ami lehetővé teszi a hatalmas páfrányok, mohák és orchideák burjánzását. Az erdő óriásfái között olyan ritka fajok élnek, mint a díszes quetzalmadár vagy a különleges pókmajmok. A hűvös, misztikus atmoszféra és a természet érintetlensége miatt Montecristo a környezettudatos turisták számára bakancslistás helyszín. A park látogatása korlátozott, hogy megőrizzék ezt a törékeny és értékes ökoszisztémát az utókor számára.",
+      hu: "A Montecristo Nemzeti Park felhőerdője egy varázslatos, állandó ködbe burkolózó birodalom, ahol El Salvador, Guatemala és Honduras határai találkoznak. A \"Hármas Határ\" (Punto Trifinio) néven is ismert területen a páratartalom szinte mindig 100%, ami lehetővé teszi a hatalmas páfrányok, mohák és orchideák burjánzását. Az erdő óriásfái között olyan ritka fajok élnek, mint a díszes quetzalmadár vagy a különleges pókmajmok. A hűvös, misztikus atmoszféra és a természet érintetlensége miatt Montecristo a környezettudatos turisták számára bakancslistás helyszín. A park látogatása korlátozott, hogy megőrizzék ezt a törékeny és értékes ökoszisztémát az utókor számára.",
       ro: "Pădurea de ceață din Parcul Național Montecristo este un tărâm magic învăluit permanent în nori, unde se întâlnesc granițele dintre El Salvador, Guatemala și Honduras. În acest punct simbolic, cunoscut sub numele de Punto Trifinio, umiditatea este aproape de 100%, permițând dezvoltarea exuberantă a ferigilor gigantice și a orhideelor rare. Printre arborii seculari ai pădurii trăiesc specii unice, precum maiestuoasa pasăre quetzal sau maimuțele păianjen, protejate în acest habitat special. Atmosfera răcoroasă și mistică face din Montecristo o destinație de top pentru turiștii care iubesc natura în starea sa cea mai pură. Vizitele sunt reglementate strict pentru a păstra acest ecosistem fragil și prețios pentru generațiile viitoare.",
       en: "Montecristo National Park's cloud forest is an enchanting realm permanently shrouded in mist, where the borders of El Salvador, Guatemala, and Honduras converge. At this symbolic 'Triple Point' (Punto Trifinio), humidity remains near 100%, fostering an exuberant growth of giant ferns, mosses, and rare orchids. Hidden among ancient trees are species like the ornamental Quetzal bird and unique spider monkeys. The cool, mystical atmosphere and pristine natural state make Montecristo a premier destination for eco-conscious travelers. Access is strictly regulated to ensure this fragile and invaluable ecosystem is preserved for the future. Geography K7"
     },
@@ -712,7 +712,7 @@ export const poiExtraElsalvadorReliefV2: POI[] = [
       ro: [
         "Este unul dintre membrii lanțului muntos de coastă numit Cordillera del Bálsamo.",
         "Reprezintă un punct de reper vizual important pentru marinarii și pescarii locali.",
-        "Numele său în limba Pipil s-ar traduce prin „Muntele zeilor”.",
+        "Numele său în limba Pipil s-ar traduce prin \"Muntele zeilor\".",
         "Apropierea de plajele de surf îl face o destinație populară pentru turiști."
       ],
       en: [
@@ -778,7 +778,7 @@ export const poiExtraElsalvadorReliefV2: POI[] = [
     descriptionAdvanced: {
       de: "",
       hu: "A Cerro El Mico egy kisebb, de annál karakteresebb csúcs San Vicente közelében, amely a dombos vidéki táj egyik meghatározó eleme. A dombot főként száraz trópusi erdő borítja, amely a száraz évszakban aranyszínűvé válik, az esős évszakban pedig robbanásszerűen kizöldül. A helyiek gyakran látogatják a dombot hétvégi kirándulások alkalmával, hogy élvezjék a kilátást a Jiboa-folyó völgyére. A csúcsra vezető út mentén megfigyelhetőek a helyi flóra jellegzetes fajai és a gazdag madárvilág. A domb neve (Majom-hegy) a régebben itt élt bőgőmajmokra utal, amelyek ma már ritkábban fordulnak elő a környéken.",
-      ro: "Cerro El Mico este un vârf mai mic, dar cu un caracter puternic, situat lângă San Vicente, reprezentând un element definitoriu al peisajului rural deluros. Dealul este acoperit în principal de pădure tropicală uscată, care devine aurie în timpul sezonului secetos și explodează în verde crud odată cu venirea ploilor. Localnicii vizitează frecvent dealul în timpul weekendurilor pentru a se bucura de panorama relaxantă asupra văii râului Jiboa. De-a lungul drumului spre vârf, pot fi observate specii caracteristice de floră locală și o varietate mare de păsări mici. Numele dealului, care se traduce prin „Muntele Maimuței”, amintește de maimuțele urlătoare care trăiau aici în trecut, fiind astăzi o prezență mai rară.",
+      ro: "Cerro El Mico este un vârf mai mic, dar cu un caracter puternic, situat lângă San Vicente, reprezentând un element definitoriu al peisajului rural deluros. Dealul este acoperit în principal de pădure tropicală uscată, care devine aurie în timpul sezonului secetos și explodează în verde crud odată cu venirea ploilor. Localnicii vizitează frecvent dealul în timpul weekendurilor pentru a se bucura de panorama relaxantă asupra văii râului Jiboa. De-a lungul drumului spre vârf, pot fi observate specii caracteristice de floră locală și o varietate mare de păsări mici. Numele dealului, care se traduce prin \"Muntele Maimuței\", amintește de maimuțele urlătoare care trăiau aici în trecut, fiind astăzi o prezență mai rară.",
       en: "Cerro El Mico is a smaller but highly characteristic peak near San Vicente, serving as a landmark in the hilly rural countryside. It is covered primarily in dry tropical forest that turns golden during the dry season and explodes into vibrant green when the rains arrive. Locals frequently visit for weekend excursions to enjoy the sweeping views overlooking the Jiboa River valley. Along the path to the summit, one can observe typical regional flora and a wealth of small bird species. The name (Monkey Hill) refers to the howler monkeys that once inhabited the area in great numbers, though they are now a rarer sight. Geography K6"
     },
     factsAdvanced: {
@@ -897,8 +897,8 @@ export const poiExtraElsalvadorReliefV2: POI[] = [
     },
     descriptionAdvanced: {
       de: "",
-      hu: "A Cerro El Coyol egy kisebb hegy San Salvador közvetlen közelében, amely népszerű célpontja a fővárosból menekülni vágyó kirándulóknak. A rövid, de meredek emelkedő végén a látogatókat pazar kilátás várja a városra és a környező vulkánokra, különösen tiszta időben. A hegyen főleg száraz trópusi növényzet található, amely a száraz évszakban különleges, sárgás-barna színekbe öltözteti a tájat. A domb nevében szereplő „coyol” egy helyi pálmafajra utal, amelynek gyümölcsét régebben széles körben hasznosították. Ideális helyszín egy gyors reggeli edzéshez vagy egy naplementés sétához a természetben.",
-      ro: "Cerro El Coyol este un munte mic situat în imediata apropiere a capitalei San Salvador, fiind o destinație populară pentru cei care doresc să scape de agitația orașului. După o urcare scurtă, dar destul de abruptă, vizitatorii sunt răsplătiți cu o vedere panoramică superbă asupra metropolei și a vulcanilor din jur, mai ales în zilele senine. Pe munte se găsește în principal vegetație tropicală uscată, care în timpul sezonului secetos oferă peisajului culori specifice de galben și maro. Numele muntelui provine de la „coyol”, o specie de palmier local ale cărui fructe erau folosite pe scară largă în trecut. Este locul ideal pentru o sesiune rapidă de exerciții matinale sau pentru a vedea apusul deasupra capitalei.",
+      hu: "A Cerro El Coyol egy kisebb hegy San Salvador közvetlen közelében, amely népszerű célpontja a fővárosból menekülni vágyó kirándulóknak. A rövid, de meredek emelkedő végén a látogatókat pazar kilátás várja a városra és a környező vulkánokra, különösen tiszta időben. A hegyen főleg száraz trópusi növényzet található, amely a száraz évszakban különleges, sárgás-barna színekbe öltözteti a tájat. A domb nevében szereplő \"coyol\" egy helyi pálmafajra utal, amelynek gyümölcsét régebben széles körben hasznosították. Ideális helyszín egy gyors reggeli edzéshez vagy egy naplementés sétához a természetben.",
+      ro: "Cerro El Coyol este un munte mic situat în imediata apropiere a capitalei San Salvador, fiind o destinație populară pentru cei care doresc să scape de agitația orașului. După o urcare scurtă, dar destul de abruptă, vizitatorii sunt răsplătiți cu o vedere panoramică superbă asupra metropolei și a vulcanilor din jur, mai ales în zilele senine. Pe munte se găsește în principal vegetație tropicală uscată, care în timpul sezonului secetos oferă peisajului culori specifice de galben și maro. Numele muntelui provine de la \"coyol\", o specie de palmier local ale cărui fructe erau folosite pe scară largă în trecut. Este locul ideal pentru o sesiune rapidă de exerciții matinale sau pentru a vedea apusul deasupra capitalei.",
       en: "Cerro El Coyol is a modest peak located just outside San Salvador, serving as a popular destination for city dwellers seeking a natural escape. After a short but steep climb, visitors are greeted with magnificent vistas overlooking the capital and neighboring volcanoes, especially on clear mornings. The mountain features primarily dry tropical flora, which takes on distinct yellowish hues during the height of the dry season. The hill's name refers to the 'coyol,' a local palm species whose fruit was historically utilized by inhabitants. It is an ideal spot for a quick morning workout or a sunset walk in the fresh air. Geography K6"
     },
     factsAdvanced: {

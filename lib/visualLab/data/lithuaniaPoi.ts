@@ -43,7 +43,7 @@ export const lithuaniaAllPoi = [
         "Nyelv: A litván a világ egyik legrégebbi élő nyelve, amely hasonlít a szanszkrithoz.",
         "Természet: A Kur-földnyelven találhatók Európa legmagasabb vándorló homokdűnéi.",
         "Hit: A Keresztek hegye egyedülálló zarándokhely a világon, több mint 200 000 kereszttel.",
-        "Sport: A kosárlabdát Litvániában „második vallásként” tisztelik, és ez a nemzeti sport.",
+        "Sport: A kosárlabdát Litvániában \\\"második vallásként\\\" tisztelik, és ez a nemzeti sport.",
         "Gazdaság: Litvánia a lézertechnológia egyik vezető exportőre a világon.",
         "Földrajz: Európa földrajzi középpontja francia tudósok szerint Vilnius közelében található."
       ],
@@ -55,7 +55,7 @@ export const lithuaniaAllPoi = [
         "Limbă: Lituaniana este una dintre cele mai vechi limbi vii din lume și seamănă cu sanscrita.",
         "Natură: Grindul Curonian găzduiește cele mai înalte dune de nisip mișcătoare din Europa.",
         "Credință: Dealul Crucilor este un loc de pelerinaj unic în lume, cu peste 200.000 de cruci.",
-        "Sport: Baschetul este considerat o „a doua religie” în Lituania și este sportul național.",
+        "Sport: Baschetul este considerat o \\\"a doua religie\\\" în Lituania și este sportul național.",
         "Economie: Lituania este un exportator de top la nivel mondial în tehnologia laser.",
         "Geografie: Centrul geografic al Europei se află, conform oamenilor de știință francezi, lângă Vilnius."
       ],
@@ -117,7 +117,7 @@ export const lithuaniaAllPoi = [
     },
     descriptionAdvanced: {
       de: "Vilnius ist eine Stadt voller Kontraste, in der die mittelalterliche Vergangenheit auf eine lebendige, moderne Kulturszene trifft. Als Zentrum des Großfürstentums Litauen über Jahrhunderte hinweg geprägt, bietet die Stadt heute eine der weltweit schönsten barocken Altstädte, die als UNESCO-Weltkulturerbe unter Schutz steht. Besonders markant ist das Künstlerviertel Užupis, das sich als unabhängige Republik mit eigener Verfassung ausgerufen hat und für seine kreative Atmosphäre bekannt ist. Neben der historischen Bausubstanz beherbergt Vilnius auch hochmoderne architektonische Projekte wie das MO Museum, das die zeitgenössische litauische Kunstszene in den Fokus rückt. Die Stadt wird oft als 'Rom des Nordens' bezeichnet, eine Anspielung auf die unzähligen Kirchen und religiösen Gebäude, die die Skyline dominieren. Vilnius ist ein wichtiges Ziel für Studierende und Forscher, insbesondere durch die Universität Vilnius, eine der ältesten Hochschulen in Osteuropa, deren historische Innenhöfe ebenfalls zum Stadtbild gehören.",
-      hu: "Vilnius városa a barokk építészet igazi ékköve, amelynek óvárosa az UNESCO Világörökség része. A Litván Nagyfejedelemség egykori központjaként ma is a történelmi mélység és a modern művészeti élet egyensúlyát kínálja. A város egyik leghíresebb negyede, Užupis, mint „önálló köztársaság” vált ismertté, tele művészekkel és kreatív energiával. Az 1579-ben alapított Vilnius Egyetem patinás udvarai a város tudományos és kulturális életének központjai. Gyakran nevezik a „törvények és templomok városának” a rengeteg vallási épület és történelmi emlék miatt. Történelem K6 – városfejlődés a középkorban.",
+      hu: "Vilnius városa a barokk építészet igazi ékköve, amelynek óvárosa az UNESCO Világörökség része. A Litván Nagyfejedelemség egykori központjaként ma is a történelmi mélység és a modern művészeti élet egyensúlyát kínálja. A város egyik leghíresebb negyede, Užupis, mint \\\"önálló köztársaság\\\" vált ismertté, tele művészekkel és kreatív energiával. Az 1579-ben alapított Vilnius Egyetem patinás udvarai a város tudományos és kulturális életének központjai. Gyakran nevezik a \\\"törvények és templomok városának\\\" a rengeteg vallási épület és történelmi emlék miatt. Történelem K6 – városfejlődés a középkorban.",
       ro: "",
       en: "Vilnius, the capital of Lithuania, is a striking urban landscape where medieval roots blend seamlessly with a vibrant, modern artistic spirit. Its Old Town, a designated UNESCO World Heritage site, is celebrated as one of the largest and most well-preserved Baroque architectures in Eastern Europe. A defining feature is the district of Užupis, a bohemian enclave that declared itself an independent 'republic' complete with its own constitution and quirky creative installations. Often nicknamed the 'Rome of the North' due to its abundance of churches, the city is also home to Vilnius University, founded in 1579 and one of the oldest in the Baltic region. Today, the city seamlessly balances its rich heritage with contemporary architectural landmarks like the MO Museum, showcasing modern Lithuanian art."
     },
@@ -137,8 +137,8 @@ export const lithuaniaAllPoi = [
       ],
       hu: [
         "A Vilniusi Egyetemet 1579-ben alapították, és a város építészeti büszkesége.",
-        "Užupis 1997-ben „művészi köztársasággá” nyilvánította magát, minden év április 1-jén ünneplik a függetlenségüket.",
-        "Vilniusban több mint 40 templom található, ami kiérdemelte a „észak Róma” címet.",
+        "Užupis 1997-ben \\\"művészi köztársasággá\\\" nyilvánította magát, minden év április 1-jén ünneplik a függetlenségüket.",
+        "Vilniusban több mint 40 templom található, ami kiérdemelte a \\\"észak Róma\\\" címet.",
         "A kortárs MO Múzeumot a híres építész, Daniel Libeskind tervezte.",
         "Vilnius a legzöldebb európai fővárosok közé tartozik a rengeteg közparknak köszönhetően."
       ],
@@ -227,7 +227,7 @@ export const lithuaniaAllPoi = [
     },
     descriptionAdvanced: {
       de: "Klaipėda, historisch als Memel bekannt, ist der einzige eisfreie Hafen Litauens an der Ostsee. Die Stadt zeichnet sich durch eine ganz eigene Atmosphäre aus, die stark von ihrer deutsch-preußischen Geschichte beeinflusst wurde, was sich bis heute in zahlreichen Fachwerkhäusern und dem straßenorientierten Stadtplan widerspiegelt. Klaipėda dient als wichtiges wirtschaftliches Tor des Landes und ist der Ausgangspunkt für Ausflüge zur Kurischen Nehrung, die per Fähre erreichbar ist. Neben ihrer industriellen Bedeutung hat sich die Stadt als touristisches Ziel etabliert, besonders während des jährlichen Meeresfestivals im Sommer. Die Altstadt bietet eine charmante Kulisse mit gemütlichen Cafés, Kunstgalerien und dem berühmten Ännchen-von-Tharau-Denkmal. Als wichtiger Stützpunkt für die litauische Marine und den internationalen Handel verbindet Klaipėda maritimes Flair mit einer modernen, aufstrebenden Wirtschaftsstruktur.",
-      hu: "Klaipėda, a történelmi Memel, Litvánia egyetlen jégmentes kikötője a Balti-tengeren. A város hangulata sajátos, a német-porosz múlt és a modern kereskedelmi központ egyedi ötvözete, amelyet a favázas házak látványa is kiemel. Fontos gazdasági kapu, de egyben a turizmus központja is, különösen a nyári nagyszabású tengeri fesztivál idején. Innen indulnak a kompok a természeti csoda Kur-földnyelvre. A város történelmi központja hangulatos kávézóival és a híres „Tharaui Anika” emlékművével várja az utazókat. Földrajz K7 – kikötővárosok gazdasági szerepe.",
+      hu: "Klaipėda, a történelmi Memel, Litvánia egyetlen jégmentes kikötője a Balti-tengeren. A város hangulata sajátos, a német-porosz múlt és a modern kereskedelmi központ egyedi ötvözete, amelyet a favázas házak látványa is kiemel. Fontos gazdasági kapu, de egyben a turizmus központja is, különösen a nyári nagyszabású tengeri fesztivál idején. Innen indulnak a kompok a természeti csoda Kur-földnyelvre. A város történelmi központja hangulatos kávézóival és a híres \\\"Tharaui Anika\\\" emlékművével várja az utazókat. Földrajz K7 – kikötővárosok gazdasági szerepe.",
       ro: "",
       en: "Klaipėda, historically known as Memel, serves as Lithuania's sole ice-free Baltic port. The city boasts a distinct character heavily influenced by its German-Prussian heritage, visible today in its numerous well-preserved half-timbered houses and structured street plans. As an essential economic gateway, Klaipėda also acts as the primary transit point for ferries heading to the UNESCO-listed Curonian Spit. Beyond its industrial status as a key naval and commercial base, the city has emerged as a vibrant tourist destination, most notably during its massive annual Summer Sea Festival. The Old Town offers an inviting atmosphere with its cozy cafés, art galleries, and the famous 'Ännchen von Tharau' memorial, beautifully blending maritime charm with a modern, thriving economic landscape."
     },
@@ -249,7 +249,7 @@ export const lithuaniaAllPoi = [
         "Klaipėda 1920-ig a Német Birodalom része volt, Memel néven ismerték.",
         "Az évente megrendezett nagyszabású tengeri fesztivál több százezer látogatót vonz a városba.",
         "Klaipėda kikötője az egész balti régió egyik legforgalmasabb és leghatékonyabb kikötője.",
-        "A városban található a híres irodalmi figura, „Tharaui Anika” egyik fennmaradt emlékműve.",
+        "A városban található a híres irodalmi figura, \\\"Tharaui Anika\\\" egyik fennmaradt emlékműve.",
         "Litvánia egyik legrégebbi városa, 1252-ben alapították."
       ],
       ro: [],
@@ -282,7 +282,7 @@ export const lithuaniaAllPoi = [
     },
     descriptionAdvanced: {
       de: "Trakai ist eine historische Stadt, die vor allem durch ihre beeindruckende Inselburg im Galvė-See weltweite Bekanntheit erlangt hat. Die Stadt war im Mittelalter eine der wichtigsten Residenzen der litauischen Großfürsten und diente als strategischer Verteidigungspunkt. Neben der berühmten Inselburg gibt es hier auch die Ruinen der Halbinselburg, die ebenfalls zur Verteidigungsanlage gehörten. Trakai ist auch das Zentrum der karaimischen Gemeinschaft in Litauen – eine ethnische Minderheit, die im 14. Jahrhundert hier angesiedelt wurde und eine einzigartige Kultur sowie Sprache bewahrt hat. Besucher können in der lokalen Küche traditionelle Kibinai (gefüllte Teigtaschen) probieren. Mit ihren zahlreichen Seen und dem historischen Flair ist Trakai ein absoluter Magnet für den Kulturtourismus und bietet eine perfekte Mischung aus Naturerlebnis und mittelalterlicher Geschichte.",
-      hu: "Trakai városa elsősorban a Galvė-tó közepén épült, mesébe illő szigeti váráról híres. A középkorban a litván nagyfejedelmek egyik legfontosabb rezidenciája és védelmi pontja volt. A vár mellett érdemes felfedezni a félszigeti vár romjait is, amelyek szintén a történelmi védelmi rendszer részét képezték. Trakai emellett a karaiták közösségének otthona, akik a 14. század óta őrzik egyedi kultúrájukat és nyelvüket. Helyi gasztronómiai különlegességük, a „kibinai” (töltött tészta) a turisták körében is nagyon népszerű. Több mint 30 tavával a környék igazi paradicsom a természet és történelem szerelmeseinek. Történelem K7 – középkori várépítészet és kisebbségek.",
+      hu: "Trakai városa elsősorban a Galvė-tó közepén épült, mesébe illő szigeti váráról híres. A középkorban a litván nagyfejedelmek egyik legfontosabb rezidenciája és védelmi pontja volt. A vár mellett érdemes felfedezni a félszigeti vár romjait is, amelyek szintén a történelmi védelmi rendszer részét képezték. Trakai emellett a karaiták közösségének otthona, akik a 14. század óta őrzik egyedi kultúrájukat és nyelvüket. Helyi gasztronómiai különlegességük, a \\\"kibinai\\\" (töltött tészta) a turisták körében is nagyon népszerű. Több mint 30 tavával a környék igazi paradicsom a természet és történelem szerelmeseinek. Történelem K7 – középkori várépítészet és kisebbségek.",
       ro: "",
       en: "Trakai is a profoundly historic town, celebrated globally for its iconic island castle situated amidst the scenic Lake Galvė. During the Middle Ages, Trakai served as a vital residence for the Grand Dukes of Lithuania and functioned as a primary defensive fortification. Beyond the stunning island castle, visitors can explore the remnants of the Peninsula Castle, which complemented the region's defensive network. Trakai is also recognized as the cultural heart of Lithuania's Karaite community, an ethnic minority settled here in the 14th century, who have meticulously preserved their unique traditions and Turkic language. Local culinary traditions thrive here, with the famous 'kibinai' (savory stuffed pastries) being a must-try. Surrounded by over 30 lakes, the town offers a perfect fusion of natural beauty and medieval heritage."
     },
@@ -421,7 +421,7 @@ export const lithuaniaAllPoi = [
       en: [
         "This unique landform evolved over millennia through the persistent interaction of coastal winds and marine currents.",
         "Some dunes shift by several meters annually, a natural process that has historically buried entire villages.",
-        "Thomas Mann’s summer house in Nida is currently preserved as a museum and vital cultural anchor.",
+        "Thomas Mann's summer house in Nida is currently preserved as a museum and vital cultural anchor.",
         "The Curonian Spit serves as a crucial stopover point for migratory birds traveling along the Baltic flyway.",
         "The majority of this fragile landscape is protected under strict National Park status to ensure environmental sustainability."
       ]
@@ -475,7 +475,7 @@ export const lithuaniaAllPoi = [
       ro: [],
       en: [
         "Historical chronicles cite Kernavė as the earliest capital of the burgeoning Grand Duchy of Lithuania.",
-        "The site’s five massive hillforts now function as an immersive, expansive outdoor archaeological museum.",
+        "The site's five massive hillforts now function as an immersive, expansive outdoor archaeological museum.",
         "The dedicated archaeological reserve protects a significant cultural landscape covering nearly 200 hectares.",
         "The site offers an unparalleled window into the unique societal structure of Lithuania before its widespread Christianization.",
         "Kernavė has become a premier center for both experimental archaeology and the preservation of Baltic historical heritage."

@@ -55,7 +55,7 @@ export const spainCountry: POI[] = [
         "Cultură: Flamenco este un patrimoniu cultural imaterial recunoscut de UNESCO.",
         "Geografie: Spania este singura țară din Europa care are o frontieră terestră cu o țară africană (Maroc).",
         "Gastronomie: Spania este cel mai mare producător de ulei de măsline din lume.",
-        "Istorie: Prima carte modernă, „Don Quijote”, a fost scrisă de spaniolul Miguel de Cervantes.",
+        "Istorie: Prima carte modernă, \"Don Quijote\", a fost scrisă de spaniolul Miguel de Cervantes.",
         "Natură: Insulele Canare găzduiesc Teide, cel mai înalt munte din Spania și unul dintre cei mai înalți vulcani din lume."
       ],
       en: [

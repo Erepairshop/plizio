@@ -897,7 +897,7 @@ export const poiExtraAlgeriaHistoryV2: POI[] = [
     facts: {
       de: ["Bedeutete auf Lateinisch 'Großer Hafen'.", "Wichtiger Exportpunkt für Weizen."],
       hu: ["A neve latinul 'Nagy Kikötő'-t jelentett.", "A búza fontos exportáló helye volt."],
-      ro: ["Însemna „Marele Port” în latină.", "Important punct de export pentru grâu."],
+      ro: ["Însemna \\\"Marele Port\\\" în latină.", "Important punct de export pentru grâu."],
       en: ["Meant 'Great Port' in Latin.", "Important export point for wheat."]
     },
     descriptionAdvanced: {
@@ -967,7 +967,7 @@ export const poiExtraAlgeriaHistoryV2: POI[] = [
     facts: {
       de: ["Ort des berühmten 'Fächer-Vorfalls' von 1827.", "Liegt in der Kasbah."],
       hu: ["Az 1827-es híres 'legyező-incidens' helyszíne.", "A Kaszbában található."],
-      ro: ["Locul celebrului „incident al fanilor” din 1827.", "Situat în Kasbah."],
+      ro: ["Locul celebrului \\\"incident al fanilor\\\" din 1827.", "Situat în Kasbah."],
       en: ["Site of the famous 'Fan Incident' of 1827.", "Located in the Kasbah."]
     },
     descriptionAdvanced: {

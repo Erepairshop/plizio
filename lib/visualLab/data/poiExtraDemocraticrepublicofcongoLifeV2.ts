@@ -206,7 +206,7 @@ export const poiExtraDemocraticrepublicofcongoLifeV2: POI[] = [
     facts: {
       de: ["Schwerpunkt auf Maisanbau.", "Wird vom 'Service National' verwaltet.", "Soll die Ernährungssicherheit verbessern."],
       hu: ["Kukoricatermesztésre összpontosít.", "A 'Service National' kezeli.", "Az élelmiszerbiztonság javítását szolgálja."],
-      ro: ["Accent pe cultivarea porumbului.", "Administrată de „Service National”.", "Menită să îmbunătățească securitatea alimentară."],
+      ro: ["Accent pe cultivarea porumbului.", "Administrată de \"Service National\".", "Menită să îmbunătățească securitatea alimentară."],
       en: ["Focus on maize cultivation.", "Managed by the 'Service National'.", "Aims to improve food security."]
     }, image: "/poi-images/kaniama-state-farm-life-v2.webp"},
   {

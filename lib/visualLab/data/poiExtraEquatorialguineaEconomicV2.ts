@@ -12,7 +12,14 @@ export const poiExtraEquatorialguineaEconomicV2: POI[] = [
       hu: "Malabói tengeri kikötő",
       ro: "Portul maritim Malabo",
       en: "Malabo Sea Port"
+    ,
+    descriptionAdvanced: {
+      de: "Der Seehafen von Malabo ist die logistische Lebensader der Insel Bioko und ein essenzieller Umschlagplatz für den internationalen Handel Äquatorialguineas. Aufgrund seiner strategischen Lage im Golf von Guinea und der umfassenden Modernisierungen in den letzten Jahren hat sich der Hafen zu einem modernen Tiefwasser-Terminal entwickelt, das den steigenden Anforderungen durch den Öl- und Gassektor sowie dem allgemeinen Güterimport gerecht wird. Er dient als primäres Tor zur Versorgung der Hauptstadt und spielt eine entscheidende Rolle bei der Exportabwicklung nationaler Ressourcen. Die Effizienz dieses Hafens ist ein kritischer Faktor für die nationale Wirtschaft, da er die Insel effektiv mit den globalen Warenströmen verbindet. Wirtschaft K7, Logistik K8."
     },
+    factsAdvanced: {
+      de: ["Wichtigster Tiefwasserhafen des Landes.", "Zentrale Drehscheibe für den Import von Konsum- und Investitionsgütern.", "Umfangreiche Modernisierung zur Steigerung der Kapazität.", "Strategisch wichtiger Standort für die maritime Logistik in Westafrika.", "Essenzielle Infrastruktur für den Export von Erdölprodukten.", "Verfügt über moderne Containerterminals mit hohen Durchsatzraten."]
+    }
+  },
     description: {
       de: "Der wichtigste Tiefwasserhafen der Insel Bioko und ein zentraler Knotenpunkt für den internationalen Handel.",
       hu: "Bioko szigetének legfontosabb mélyvízi kikötője és a nemzetközi kereskedelem központi csomópontja.",
@@ -35,7 +42,14 @@ export const poiExtraEquatorialguineaEconomicV2: POI[] = [
       hu: "Bata kikötője",
       ro: "Portul Bata",
       en: "Port of Bata"
+    ,
+    descriptionAdvanced: {
+      de: "Der Hafen von Bata ist das maritime Tor zum Festland von Äquatorialguinea und ein zentraler Faktor für das wirtschaftliche Wachstum der Region Río Muni. Als größter Seehafen des kontinentalen Landesteils ermöglicht er den Import lebenswichtiger Waren und ist die Basis für die maritime Logistik, die das Festland mit den internationalen Märkten verbindet. Die Infrastruktur, einschließlich der markanten langen Hafenmauer, bildet das Rückgrat für die Versorgung der wachsenden Bevölkerung in und um Bata. Die kontinuierliche Weiterentwicklung des Hafens ist ein Ausdruck der Bemühungen des Staates, das Festland als starken wirtschaftlichen Partner innerhalb der zentralafrikanischen Handelszone zu festigen. Geografie K6, Wirtschaft K8."
     },
+    factsAdvanced: {
+      de: ["Größte Hafenanlage des kontinentalen Äquatorialguineas.", "Unverzichtbar für die Importe zur Versorgung des Binnenlandes.", "Besitzt eine strategisch bedeutsame, lange Hafenmole.", "Zentrum der wirtschaftlichen Dynamik in der Provinz Litoral.", "Fördert den direkten Handel mit regionalen Partnerländern.", "Logistische Basis für die industrielle Expansion in Bata."]
+    }
+  },
     description: {
       de: "Ein bedeutender Seehafen am Festland von Äquatorialguinea, der den Handel mit der Region Río Muni ermöglicht.",
       hu: "Jelentős tengeri kikötő Egyenlítői-Guinea szárazföldi részén, amely lehetővé teszi a kereskedelmet a Río Muni régióval.",
@@ -58,7 +72,14 @@ export const poiExtraEquatorialguineaEconomicV2: POI[] = [
       hu: "Punta Europa LNG terminál",
       ro: "Terminalul GNL Punta Europa",
       en: "Punta Europa LNG Terminal"
+    ,
+    descriptionAdvanced: {
+      de: "Der Industriekomplex Punta Europa im Norden der Insel Bioko ist eines der größten und technologisch fortschrittlichsten Energieprojekte Afrikas. Er bildet das Herz der äquatorialguineischen Gaswirtschaft, indem er in großem Maßstab Erdgas aus den Offshore-Feldern verarbeitet, verflüssigt und für den Export vorbereitet. Durch den Einsatz spezialisierter Gastanker, die von Punta Europa aus den Weltmarkt bedienen, trägt das Terminal massiv zum nationalen Wohlstand bei. Der Komplex verkörpert den Wandel Äquatorialguineas zu einem führenden Energieproduzenten und ist ein technisches Meisterwerk, das moderne Verarbeitungsstandards mit logistischer Präzision verbindet. Energie K8, Wirtschaft K7."
     },
+    factsAdvanced: {
+      de: ["Beheimatet einige der wichtigsten Gasverarbeitungsanlagen Afrikas.", "Spezialisierte Anlegestellen für hochmoderne Gastanker.", "Wichtiger Motor für die nationale Exportwirtschaft.", "Verarbeitung von Gas direkt aus den Offshore-Förderfeldern.", "Ein technologischer Hotspot der nationalen Industrie.", "Sichert Äquatorialguineas Stellung als Energielieferant."]
+    }
+  },
     description: {
       de: "Ein massives Industriegelände im Norden von Bioko, das auf die Verflüssigung und den Export von Erdgas spezialisiert ist.",
       hu: "Hatalmas ipari terület Bioko északi részén, amely a földgáz cseppfolyósítására és exportjára szakosodott.",
@@ -151,7 +172,14 @@ export const poiExtraEquatorialguineaEconomicV2: POI[] = [
       hu: "Lubai szabadkikötő",
       ro: "Portul liber Luba",
       en: "Luba Freeport"
+    ,
+    descriptionAdvanced: {
+      de: "Der Luba Freeport ist eine als Sonderwirtschaftszone ausgewiesene maritime Anlage auf der Insel Bioko, die als Service-Hub für die Öl- und Gasindustrie in Westafrika fungiert. Mit seinem natürlichen Tiefwasserhafen und einer exzellenten, auf den Dienstleistungssektor ausgerichteten Infrastruktur bietet er ideale Bedingungen für Wartung, Reparatur und logistische Unterstützung von Offshore-Plattformen. Da der Hafen als steuerfreie Zone konzipiert ist, zieht er zahlreiche internationale Firmen an, die von der strategischen Lage im Golf von Guinea profitieren möchten. Der Freeport Luba ist ein zentraler Pfeiler für die industrielle Diversifizierung Äquatorialguineas und ein Beispiel für die erfolgreiche Implementierung von Freihandelskonzepten in einem spezialisierten Sektor. Wirtschaft K8, Geografie K7."
     },
+    factsAdvanced: {
+      de: ["Dient als spezialisierte Basis für Offshore-Services.", "Status als steuerfreie Wirtschaftszone zur Förderung von Investitionen.", "Exzellenter Tiefwasserhafen mit moderner Ausstattung.", "Zentraler Dienstleister für die Wartung von Bohrinseln in der Region.", "Strategisch ideal an der Westküste von Bioko gelegen.", "Wichtiger Akteur für die industrielle Dienstleistung auf dem Meer."]
+    }
+  },
     description: {
       de: "Eine Sonderwirtschaftszone und ein Logistikzentrum, das als Servicebasis für die Ölindustrie in Westafrika dient.",
       hu: "Különleges gazdasági övezet és logisztikai központ, amely a nyugat-afrikai olajipar szervizbázisaként szolgál.",
@@ -174,7 +202,14 @@ export const poiExtraEquatorialguineaEconomicV2: POI[] = [
       hu: "Djibloho vízerőmű",
       ro: "Hidrocentrala Djibloho",
       en: "Djibloho Hydroelectric Dam"
+    ,
+    descriptionAdvanced: {
+      de: "Das Wasserkraftwerk Djibloho am Wele-Fluss ist ein monumentales Infrastrukturprojekt und das bedeutendste Werk zur Gewinnung erneuerbarer Energie in Äquatorialguinea. Durch die Errichtung der imposanten Staumauer wurde eine nachhaltige Stromquelle erschlossen, die eine stabile Basis für die Elektrifizierung weiter Teile des Festlandes bietet. Das Projekt ist ein integraler Bestandteil des Entwicklungsplans für die neue Provinz Djibloho und den Aufbau der künftigen Hauptstadt. Es reduziert signifikant die Abhängigkeit des Landes von importierten fossilen Brennstoffen zur Stromerzeugung und ist ein Symbol für das Streben nach einer nachhaltigen nationalen Energieunabhängigkeit durch die Nutzung heimischer Ressourcen. Energie K8, Technik K7."
     },
+    factsAdvanced: {
+      de: ["Das größte Wasserkraftprojekt im Lande.", "Sichert eine stabile und nachhaltige Stromversorgung.", "Die Staumauer ist ein bemerkenswertes technisches Bauwerk.", "Motor für die Elektrifizierung der ländlichen Festlandregionen.", "Senkt die Abhängigkeit von teuren fossilen Brennstoffimporten.", "Zentrales Element der infrastrukturellen Planung in Djibloho."]
+    }
+  },
     description: {
       de: "Das größte Wasserkraftwerk des Landes, das am Wele-Fluss gelegen ist und weite Teile des Festlands mit Strom versorgt.",
       hu: "Az ország legnagyobb vízerőműve, amely a Wele-folyón található, és a szárazföld nagy részét árammal látja el.",
@@ -198,7 +233,14 @@ export const poiExtraEquatorialguineaEconomicV2: POI[] = [
       hu: "Sendje vízerőmű",
       ro: "Hidrocentrala Sendje",
       en: "Sendje Hydroelectric Dam"
+    ,
+    descriptionAdvanced: {
+      de: "Das Wasserkraftwerk Sendje ist ein strategisch wichtiges Projekt im Hinterland von Bata, das die regionale Energiekapazität entscheidend erweitert und die Versorgung der wirtschaftlich aufstrebenden Küstenregion absichert. Durch die Nutzung der Wasserkraft des Benito-Flusses stellt das Werk eine zuverlässige und umweltfreundliche Alternative zur thermischen Stromerzeugung dar. Mit seiner modernen Technologie und hohen Kapazität trägt das Kraftwerk dazu bei, die stetig wachsende industrielle Nachfrage in Bata zu decken und ein stabiles Energienetz für die Provinz Litoral zu gewährleisten. Es ist ein Schlüsselprojekt für den langfristigen Ausbau der lokalen Industrie und ein wichtiger Beitrag zur nationalen Energiestrategie des Landes. Energie K8, Wirtschaft K7."
     },
+    factsAdvanced: {
+      de: ["Nutzt effizient die Wasserkraft des Benito-Flusses.", "Erweitert die Stromkapazität für die Industrieregion Bata.", "Modernstes Kraftwerk mit Fokus auf Zuverlässigkeit.", "Ein wichtiger Beitrag zur Reduzierung von Treibhausgasen.", "Stärkt das wirtschaftliche Fundament der Küstenprovinz.", "Ein Eckpfeiler der modernen Energiepolitik des Staates."]
+    }
+  },
     description: {
       de: "Ein bedeutendes Wasserkraftprojekt im Landesinneren von Bata, das die Energiekapazität der Küstenregion erweitert.",
       hu: "Jelentős vízienergia-projekt Bata közelében, amely növeli a parti régió energiakapacitását.",

@@ -20,10 +20,7 @@ export const poiExtraPeruLifeV2: POI[] = [
       en: "Lima's main zoo and botanical garden, divided into three ecological zones of Peru."
     },
     descriptionAdvanced: {
-      de: "",
-      hu: "",
-      ro: "",
-      en: "The Parque de las Leyendas is Lima's premier zoo and botanical garden, offering a fascinating journey through Peru's three distinct natural regions: the coast, the mountains, and the jungle. Located in the San Miguel district, it is built upon a significant archaeological complex belonging to the ancient Lima culture. This unique blend allows visitors to admire native wildlife like condors, jaguars, and sea lions while exploring ancient 'huacas' or adobe pyramids. The park is a favorite for local families, providing a green escape and an educational experience about Peru's rich biodiversity and history. It remains a cornerstone of the city's cultural and recreational life, showcasing the harmony between nature and the past."
+      en: "The Parque de las Leyendas is Lima's premier zoo and botanical garden, offering a fascinating journey through Peru's three distinct natural regions: the coast, the mountains, and the jungle. Located in the San Miguel district, it is built upon a significant archaeological complex belonging to the ancient Lima and Maranga cultures. This unique blend allows visitors to admire native wildlife like condors, jaguars, and sea lions while exploring over 50 ancient 'huacas' or adobe pyramids. The park is a favorite for local families, providing a green escape and an educational experience about Peru's rich biodiversity and history. It remains a cornerstone of the city's cultural and recreational life, showcasing the harmony between nature and the past. Biology K5 — Peru's wildlife and diverse ecosystems."
     },
     facts: {
       de: ["Wurde 1964 gegründet.", "Befindet sich auf einem alten archäologischen Komplex."],
@@ -32,17 +29,10 @@ export const poiExtraPeruLifeV2: POI[] = [
       en: ["It was founded in 1964.", "Located on an ancient pre-Hispanic archaeological complex."]
     },
     factsAdvanced: {
-      de: [],
-      hu: [],
-      ro: [],
-      en: [
-        "Home to over 200 species of animals from all three of Peru's geographical regions.",
-        "Contains 54 archaeological sites (huacas) within its grounds.",
-        "Features an impressive botanical garden with thousands of native plant species.",
-        "Founded in 1964 by the philanthropist Felipe Benavides Barreda.",
-        "Includes a popular international zone with animals from around the world."
-      ]
-    }, image: "/poi-images/parque-de-las-leyendas-life-v2.webp"},
+      en: ["Home to over 200 species of animals from all three of Peru's geographical regions.", "Contains 54 archaeological sites (huacas) within its grounds, belonging to the Maranga culture.", "Features an impressive botanical garden with thousands of native plant species.", "Founded in 1964 by the philanthropist Felipe Benavides Barreda.", "Includes a popular international zone with animals like giraffes, lions, and hippos.", "The 'Coast' zone features a massive Humboldt penguin and sea lion exhibit.", "Actively participates in the rescue and rehabilitation of endangered Peruvian wildlife.", "The site is a unique 'biocultural' park where archaeology and biology are presented together."]
+    },
+    image: "/poi-images/parque-de-las-leyendas-life-v2.webp"
+  },
   {
     id: "paracas-national-reserve-life-v2",
     type: "animal-habitat",
@@ -61,10 +51,7 @@ export const poiExtraPeruLifeV2: POI[] = [
       en: "A protected coastal desert area serving as an important habitat for many marine animals and migratory birds."
     },
     descriptionAdvanced: {
-      de: "",
-      hu: "",
-      ro: "",
-      en: "The Paracas National Reserve is a breathtaking coastal desert sanctuary where the arid sand dunes of Ica meet the cold, nutrient-rich waters of the Pacific Ocean. Established to protect the region's incredible marine biodiversity and its fragile desert ecosystem, it is home to one of the largest colonies of sea lions and Humboldt penguins in the world. The reserve's striking red sand beaches and dramatic sea cliffs create a landscape of otherworldly beauty. It also preserves the memory of the ancient Paracas culture, known for its exquisite textiles and skull deformation practices. Visitors can explore the reserve by land or boat, witnessing a vibrant world of flamingos, dolphins, and countless seabirds. It remains one of Peru's most vital and spectacular natural monuments."
+      en: "The Paracas National Reserve is a breathtaking coastal desert sanctuary where the arid sand dunes of Ica meet the cold, nutrient-rich waters of the Pacific Ocean. Established to protect the region's incredible marine biodiversity and its fragile desert ecosystem, it is home to one of the largest colonies of sea lions and Humboldt penguins in the world. The reserve's striking red sand beaches and dramatic sea cliffs create a landscape of otherworldly beauty. It also preserves the memory of the ancient Paracas culture, known for its exquisite textiles and mysterious geoglyphs like the Candelabro. Visitors can explore the reserve by land or boat, witnessing a vibrant world of flamingos, dolphins, and countless seabirds. It remains one of Peru's most vital and spectacular natural monuments. Geography K7 — Marine ecosystems and cold ocean currents."
     },
     facts: {
       de: ["Umfasst 335.000 Hektar.", "Heimat von Humboldt-Pinguinen und Seelöwen."],
@@ -73,17 +60,10 @@ export const poiExtraPeruLifeV2: POI[] = [
       en: ["Covers 335,000 hectares.", "Home to Humboldt penguins and sea lions."]
     },
     factsAdvanced: {
-      de: [],
-      hu: [],
-      ro: [],
-      en: [
-        "The oldest marine reserve in Peru, established in 1975.",
-        "Home to the famous 'Candelabra' geoglyph carved into a hillside.",
-        "Covers an area of 335,000 hectares, including the Paracas Peninsula.",
-        "Important stopover for millions of migratory birds each year.",
-        "Site of the former 'Cathedral' rock formation, partially destroyed in a 2007 earthquake."
-      ]
-    }, image: "/poi-images/paracas-national-reserve-life-v2.webp"},
+      en: ["The oldest marine reserve in Peru, established in 1975.", "Home to the famous 'Candelabra' geoglyph, a 150-meter-tall carving in a hillside.", "Covers an area of 335,000 hectares, with 65% of the reserve being marine territory.", "Important stopover for millions of migratory birds each year, including Andean flamingos.", "Site of the former 'Cathedral' rock formation, partially destroyed in a 2007 earthquake.", "The 'Playa Roja' (Red Beach) gets its color from the erosion of nearby volcanic rocks.", "The Humboldt Current brings nutrient-rich water that supports a massive amount of marine life.", "A primary starting point for boat tours to the wildlife-rich Ballestas Islands."]
+    },
+    image: "/poi-images/paracas-national-reserve-life-v2.webp"
+  },
   {
     id: "salinas-aguada-blanca-life-v2",
     type: "animal-habitat",
@@ -102,10 +82,7 @@ export const poiExtraPeruLifeV2: POI[] = [
       en: "A high-altitude protected area established to protect the habitats of vicuñas and flamingos."
     },
     descriptionAdvanced: {
-      de: "",
-      hu: "",
-      ro: "",
-      en: "The Salinas and Aguada Blanca National Reserve is a sprawling high-altitude sanctuary that protects the vital watersheds and wildlife of the Arequipa region. Situated at an average elevation of over 4,000 meters, this vast landscape is dominated by snow-capped volcanoes and shimmering salt lagoons. It was created primarily to protect the habitats of the vicuña, a graceful Andean camelid prized for its incredibly soft wool. The reserve also provides a home to Andean flamingos, which can often be seen wading in the shallow, mineral-rich waters. The harsh but beautiful environment is essential for the water supply of the city of Arequipa and surrounding agriculture. It is a place of profound silence, where the grandeur of the Andes is on full display."
+      en: "The Salinas and Aguada Blanca National Reserve is a sprawling high-altitude sanctuary that protects the vital watersheds and wildlife of the Arequipa region. Situated at an average elevation of over 4,000 meters, this vast landscape is dominated by snow-capped volcanoes and shimmering salt lagoons. It was created primarily to protect the habitats of the vicuña, a graceful Andean camelid prized for its incredibly soft wool, which was once reserved only for Inca royalty. The reserve also provides a home to three species of Andean flamingos, which can often be seen wading in the shallow, mineral-rich waters of the Salinas lagoon. The harsh but beautiful environment is essential for the water supply of the city of Arequipa and surrounding agriculture. It is a place of profound silence and rugged Andean grandeur. Biology K5 — Highland wildlife and the South American camelids."
     },
     facts: {
       de: ["Liegt auf über 4.300 Metern Höhe.", "Wurde 1979 offiziell eingerichtet."],
@@ -114,17 +91,10 @@ export const poiExtraPeruLifeV2: POI[] = [
       en: ["Located at an altitude of over 4,300 meters.", "It was officially established in 1979."]
     },
     factsAdvanced: {
-      de: [],
-      hu: [],
-      ro: [],
-      en: [
-        "Located between the departments of Arequipa and Moquegua.",
-        "Essential for the conservation of the endangered vicuña.",
-        "Features the Salinas salt flat, which is actively harvested by local communities.",
-        "Includes the majestic Misti, Chachani, and Pichu Pichu volcanoes.",
-        "A popular stop for travelers on the way to the Colca Canyon."
-      ]
-    }, image: "/poi-images/salinas-aguada-blanca-life-v2.webp"},
+      en: ["Located at an average altitude of over 4,300 meters (14,000 feet) in the Altiplano.", "Essential for the conservation of the vicuña, the animal that appears on Peru's coat of arms.", "Features the Salinas salt flat, where local communities actively harvest salt.", "Includes the majestic Misti, Chachani, and Pichu Pichu volcanoes within its borders.", "A primary nesting and feeding ground for Andean, James's, and Chilean flamingos.", "The area's vegetation is dominated by 'ichu' grass and the ancient, cushion-like yareta plant.", "Supports traditional alpaca and llama herding by local high-altitude communities.", "Important watershed that provides over 80% of the water for the city of Arequipa."]
+    },
+    image: "/poi-images/salinas-aguada-blanca-life-v2.webp"
+  },
   {
     id: "parque-de-la-papa-life-v2",
     type: "agriculture",
@@ -143,10 +113,7 @@ export const poiExtraPeruLifeV2: POI[] = [
       en: "An agricultural zone managed by indigenous communities that protects over a thousand native potato varieties."
     },
     descriptionAdvanced: {
-      de: "",
-      hu: "",
-      ro: "",
-      en: "The Potato Park (Parque de la Papa) is a unique indigenous-led conservation area in the Sacred Valley near Pisac, dedicated to preserving Peru's incredible genetic diversity of native potatoes. Managed by six Quechua communities, the park protects over 1,300 varieties of potatoes, many of which are found nowhere else on Earth. This 'biocultural heritage territory' is a living laboratory where ancient agricultural techniques are practiced alongside modern conservation efforts. Visitors can learn about the spiritual and cultural importance of the potato to Andean people while enjoying the stunning mountain scenery. The park also promotes sustainable tourism, traditional medicine, and local crafts. It stands as a global model for indigenous sovereignty and the protection of food security in the face of climate change."
+      en: "The Potato Park (Parque de la Papa) is a unique indigenous-led conservation area in the Sacred Valley near Pisac, dedicated to preserving Peru's incredible genetic diversity of native potatoes. Managed by five Quechua communities, the park protects over 1,300 varieties of potatoes in their natural habitat, many of which are found nowhere else on Earth. This 'biocultural heritage territory' is a living laboratory where ancient agricultural techniques are practiced alongside modern conservation efforts to combat climate change. Visitors can learn about the spiritual and cultural importance of the potato to Andean people while enjoying the stunning mountain scenery and traditional textile workshops. The park stands as a global model for indigenous sovereignty and the protection of global food security. Agriculture K8 — The origin and diversity of the potato."
     },
     facts: {
       de: ["Besteht aus sechs Quechua-Gemeinden.", "Fördert die biologische Vielfalt der Anden."],
@@ -155,17 +122,10 @@ export const poiExtraPeruLifeV2: POI[] = [
       en: ["Consists of six Quechua communities.", "Promotes the biological diversity of the Andes."]
     },
     factsAdvanced: {
-      de: [],
-      hu: [],
-      ro: [],
-      en: [
-        "Governed by approximately 6,000 members of local Quechua communities.",
-        "Protects one of the world's largest collections of potato varieties in their natural habitat.",
-        "Recognized globally for its innovative approach to biocultural conservation.",
-        "Includes various microclimates ranging from 3,200 to 5,000 meters in altitude.",
-        "Features a community-run restaurant that serves traditional potato-based dishes."
-      ]
-    }, image: "/poi-images/parque-de-la-papa-life-v2.webp"},
+      en: ["Governed by approximately 6,000 members of local Quechua communities.", "Protects one of the world's largest collections of potato varieties in their natural habitat.", "Recognized globally by the UN for its innovative approach to biocultural conservation.", "Includes diverse microclimates ranging from 3,200 to 5,000 meters in altitude.", "Features a community-run restaurant, 'Papamarka', that serves traditional potato-based dishes.", "Includes a seed bank that stores backup varieties for the entire region.", "Promotes the use of traditional Andean medicinal plants and natural dyes.", "A key project for the International Potato Center (CIP) to study climate-resilient crops."]
+    },
+    image: "/poi-images/parque-de-la-papa-life-v2.webp"
+  },
   {
     id: "chanchamayo-coffee-farms-life-v2",
     type: "agriculture",
@@ -184,10 +144,7 @@ export const poiExtraPeruLifeV2: POI[] = [
       en: "The heart of Peruvian coffee production in the central jungle, where high-quality Arabica beans are grown."
     },
     descriptionAdvanced: {
-      de: "",
-      hu: "",
-      ro: "",
-      en: "Chanchamayo is the heart of Peru's central jungle and the primary region for the country's world-class coffee production. The lush, misty mountains of the Selva Central provide the perfect climate for growing high-quality Arabica beans under the shade of native forest trees. Visitors to the farms can follow the entire coffee journey, from the bright red cherries on the trees to the fragrant roasting process. The region is known for its commitment to organic and fair-trade practices, supporting thousands of small-scale farmers. Beyond coffee, Chanchamayo is a land of spectacular waterfalls and incredible biodiversity, where the Andean foothills meet the Amazon. A visit to these farms offers a deep appreciation for the hard work and natural beauty behind every cup of Peruvian coffee."
+      en: "Chanchamayo is the heart of Peru's central jungle and the primary region for the country's world-class organic coffee production. The lush, misty mountains of the Selva Central provide the perfect climate for growing high-quality Arabica beans under the shade of native forest trees. Visitors to the farms can follow the entire coffee journey, from the bright red cherries on the trees to the fragrant roasting process in the cities of La Merced and San Ramón. The region is known for its commitment to organic and fair-trade practices, supporting thousands of small-scale farmers and their families. Chanchamayo coffee is famous for its balanced body and fruity notes, making it a favorite for export to Europe and North America. A visit to these farms offers a deep appreciation for the hard work and natural beauty behind every cup. Agriculture K8 — Tropical agriculture and the coffee global market."
     },
     facts: {
       de: ["Die Region exportiert Kaffee in die ganze Welt.", "Hier wird nachhaltiger Schattenkaffee angebaut."],
@@ -196,17 +153,10 @@ export const poiExtraPeruLifeV2: POI[] = [
       en: ["The region exports coffee worldwide.", "Sustainable shade-grown coffee is cultivated here."]
     },
     factsAdvanced: {
-      de: [],
-      hu: [],
-      ro: [],
-      en: [
-        "Peru is one of the world's leading exporters of organic coffee.",
-        "The region's coffee is grown at altitudes between 1,000 and 1,800 meters.",
-        "Includes the city of La Merced, known as the 'Coffee Capital' of Peru.",
-        "Farms often produce other tropical goods like honey, citrus, and ginger.",
-        "Home to several award-winning coffee brands recognized at international competitions."
-      ]
-    }, image: "/poi-images/chanchamayo-coffee-farms-life-v2.webp"},
+      en: ["Peru is one of the world's top exporters of organic and Fair Trade certified coffee.", "The region's coffee is grown at altitudes between 800 and 1,800 meters.", "Includes the 'Highland Coffee' and 'Misha Coffee' brands, some of the most famous in Peru.", "The 'Misha' coffee is processed with the help of the coati (misha), similar to Kopi Luwak.", "Home to the Highland Coffee Museum in San Ramón, documenting the history of Italian and German settlers.", "Farms often produce other tropical goods like honey, citrus, and ginger alongside coffee.", "The region holds several coffee festivals every year to celebrate the harvest.", "Essential for the economic development of the Junín region's jungle provinces."]
+    },
+    image: "/poi-images/chanchamayo-coffee-farms-life-v2.webp"
+  },
   {
     id: "manglares-de-tumbes-life-v2",
     type: "animal-habitat",
@@ -225,10 +175,7 @@ export const poiExtraPeruLifeV2: POI[] = [
       en: "A unique ecosystem in northern Peru where freshwater mixes with the sea, home to American crocodiles."
     },
     descriptionAdvanced: {
-      de: "",
-      hu: "",
-      ro: "",
-      en: "The Tumbes Mangroves National Sanctuary is a unique coastal ecosystem in northernmost Peru, where the freshwater of the Tumbes River meets the Pacific Ocean. This dense labyrinth of mangrove roots and tidal channels is the only place in Peru where these saltwater-tolerant trees flourish. It provides a vital habitat for a wide range of wildlife, including the rare American crocodile and numerous species of crustaceans and birds. The sanctuary is also economically essential for local communities who sustainably harvest black ark clams and mangrove crabs. Exploring the mangroves by boat offers a serene and primeval experience, far removed from the desert landscapes of the south. It remains a critical bastion of biodiversity on the border between Peru and Ecuador."
+      en: "The Manglares de Tumbes National Sanctuary, located on the far northern coast of Peru, protects the country's most significant mangrove ecosystem. This unique environment, where fresh river water meets the salt water of the Pacific, is a labyrinth of tidal channels and tangled roots that serve as a vital nursery for marine life. It is famous for its 'Black Scallops' (conchas negras) and the formidable American crocodile, which finds one of its last remaining habitats in Peru here. The sanctuary is a haven for birdwatchers, with over 140 species of birds, including the rare mangrove warbler. Navigating its calm waters by boat offers a serene journey through a world of emerald green, where the life of the sea and the forest are inextricably linked. Geography K7 — Coastal wetlands and mangrove biology."
     },
     facts: {
       de: ["Fläche von 2.972 Hektar.", "Wichtigter Lebensraum für schwarze Muscheln."],
@@ -237,17 +184,10 @@ export const poiExtraPeruLifeV2: POI[] = [
       en: ["Covers an area of 2,972 hectares.", "An important habitat for black shells."]
     },
     factsAdvanced: {
-      de: [],
-      hu: [],
-      ro: [],
-      en: [
-        "The only mangrove forest in Peru.",
-        "Protects the endangered American crocodile (Crocodylus acutus).",
-        "Covers an area of 2,972 hectares.",
-        "Famous for its delicious black ark clams (conchas negras).",
-        "Designated as a Ramsar site for its international importance as a wetland."
-      ]
-    }, image: "/poi-images/manglares-de-tumbes-life-v2.webp"},
+      en: ["Located in the Tumbes region, bordering Ecuador, and established in 1988.", "Protects over 2,900 hectares of diverse mangrove forests and tidal marshes.", "Home to the only population of American crocodiles (Crocodylus acutus) in Peru.", "A primary source for the 'Black Scallops', a delicacy in northern Peruvian cuisine.", "Includes five different species of mangrove trees, known for their salt-tolerant roots.", "Supports a large population of diverse crustaceans, including the mangrove crab.", "Over 148 species of birds have been recorded within the sanctuary's borders.", "Essential for protecting the coastline from erosion and storm surges."]
+    },
+    image: "/poi-images/manglares-de-tumbes-life-v2.webp"
+  },
   {
     id: "allpahuayo-mishana-life-v2",
     type: "animal-habitat",
@@ -266,10 +206,7 @@ export const poiExtraPeruLifeV2: POI[] = [
       en: "An Amazonian reserve near Iquitos, famous for its white-sand forests and extremely high biodiversity."
     },
     descriptionAdvanced: {
-      de: "",
-      hu: "",
-      ro: "",
-      en: "The Allpahuayo Mishana National Reserve, located near Iquitos, is a legendary site among biologists for its extraordinary levels of biodiversity. It is famous for protecting the largest concentration of white-sand forests (varillales) in the Peruvian Amazon, which host many rare and endemic species found nowhere else. Despite its relatively small size, it holds world records for the number of tree and bird species found in a single area. The reserve is a vital laboratory for studying Amazonian ecosystems and the impacts of soil types on plant evolution. Visitors can explore a network of trails that lead through different types of jungle, offering a high chance of spotting unique primates and exotic birds. It is a true 'hidden gem' of the Amazon, essential for the preservation of the rainforest's most specialized life forms."
+      en: "The Allpahuayo-Mishana National Reserve, located just a short distance from Iquitos, is world-renowned for its extraordinary biodiversity and its unique 'white-sand' forests known as varillales. These rare ecosystems, characterized by nutrient-poor soil and slender trees, have evolved highly specialized plant and animal life found nowhere else on Earth. The reserve gained international fame for having the highest concentration of bird species ever recorded in a single location, including several newly discovered species like the ancient antwren. Walking through its trails offers a fascinating contrast between the dense, towering rainforest and the stunted, eerie varillal patches. It is a critical research site for tropical ecology and a vital sanctuary for the protection of Peru's unique Amazonian heritage. Biology K5 — Amazonian biodiversity and specialized ecosystems."
     },
     facts: {
       de: ["Schützt seltene endemische Vogelarten.", "Wurde im Jahr 2004 offiziell anerkannt."],
@@ -278,17 +215,10 @@ export const poiExtraPeruLifeV2: POI[] = [
       en: ["Protects rare endemic bird species.", "It was officially recognized in the year 2004."]
     },
     factsAdvanced: {
-      de: [],
-      hu: [],
-      ro: [],
-      en: [
-        "Holds the world record for the highest number of tree species in one hectare.",
-        "Home to the Ancient Antwren, a bird species discovered only in the late 1990s.",
-        "Located just 26 kilometers from the city of Iquitos.",
-        "Protects the unique and fragile white-sand forest ecosystems.",
-        "A primary destination for serious birdwatchers and nature photographers."
-      ]
-    }, image: "/poi-images/allpahuayo-mishana-life-v2.webp"},
+      en: ["Located just 26 kilometers from the city of Iquitos in the Loreto region.", "Established in 2004 to protect the rare white-sand forests (varillales).", "Holds the world record for the most tree species (nearly 300) in a single hectare.", "Home to several endemic bird species found only in this specific ecosystem.", "Features two main types of forest: the white-sand varillal and the clay-soil flood forest.", "Protects the watershed of the Nanay River, which provides water for Iquitos.", "A major center for scientific research on tropical evolution and adaptation.", "The reserve covers approximately 58,000 hectares of primary rainforest."]
+    },
+    image: "/poi-images/allpahuayo-mishana-life-v2.webp"
+  },
   {
     id: "huascaran-flora-fauna-life-v2",
     type: "animal-habitat",
@@ -307,10 +237,7 @@ export const poiExtraPeruLifeV2: POI[] = [
       en: "In addition to glaciers, this national park protects Puya Raimondii plants, spectacled bears, and Andean condors."
     },
     descriptionAdvanced: {
-      de: "",
-      hu: "",
-      ro: "",
-      en: "Beyond its famous glaciers, the Huascarán National Park is a vital sanctuary for high-altitude Andean flora and fauna. The park is home to the spectacular Puya Raimondii, a giant bromeliad that can grow up to 12 meters tall and lives for nearly a century before blooming once and dying. The rugged mountain valleys provide a haven for the elusive spectacled bear, the only bear species native to South America, and the majestic Andean condor. Many high-altitude lakes are frequented by Andean geese and giant coots, creating vibrant splashes of life against the gray rock and white ice. The park's diverse ecosystems, ranging from sub-tropical forests to alpine tundras, are essential for the survival of these specialized species. It remains one of the most important centers for biodiversity conservation in the Andes."
+      en: "The flora and fauna of Huascarán National Park represent some of the most resilient and spectacular life forms in the high Andes. In the shadow of Peru's highest peaks, one can find the extraordinary Puya Raimondii, a giant bromeliad that can reach heights of 12 meters and only blooms once after nearly a century of life. The park's varied ecosystems, ranging from lush glacial valleys to stark high-altitude puna, are home to iconic Andean wildlife like the spectacled bear, the elusive North Andean deer (taruca), and the majestic Andean condor. Many of these species are endangered and find a vital refuge within the park's protected borders. The park's biological diversity is a testament to the ability of life to adapt to extreme altitudes, cold temperatures, and intense solar radiation. Biology K5 — High-altitude adaptations and Andean biodiversity."
     },
     facts: {
       de: ["Die Puya Raimondii kann bis zu 12 Meter hoch werden.", "Ist ein UNESCO-Weltnaturerbe."],
@@ -319,17 +246,10 @@ export const poiExtraPeruLifeV2: POI[] = [
       en: ["The Puya Raimondii can grow up to 12 meters tall.", "It is a UNESCO World Natural Heritage site."]
     },
     factsAdvanced: {
-      de: [],
-      hu: [],
-      ro: [],
-      en: [
-        "The Puya Raimondii is the world's largest bromeliad and can produce millions of seeds.",
-        "Home to the North Andean huemul, a rare mountain deer.",
-        "Contains over 700 species of high-altitude plants.",
-        "Protects the headwaters of several major Peruvian rivers.",
-        "Designated as a UNESCO Biosphere Reserve and World Heritage site."
-      ]
-    }, image: "/poi-images/huascaran-flora-fauna-life-v2.webp"},
+      en: ["Home to the Puya Raimondii, the world's largest bromeliad, which can live for 100 years.", "Protects the North Andean deer (taruca), a species that appears on Peru's 20-sol banknote.", "The spectacled bear (Tremarctos ornatus), South America's only bear species, inhabits the park's forests.", "Features over 120 species of birds, including the giant hummingbird and the Andean condor.", "The park contains diverse 'Polylepis' forests, some of the highest-growing trees in the world.", "More than 700 species of high Andean plants have been identified within the park.", "Vital habitat for the vicuña, known for its fine and valuable wool.", "The biodiversity is spread across a range of altitudes from 2,500 to over 6,700 meters."]
+    },
+    image: "/poi-images/huascaran-flora-fauna-life-v2.webp"
+  },
   {
     id: "megantoni-sanctuary-life-v2",
     type: "animal-habitat",
@@ -348,10 +268,7 @@ export const poiExtraPeruLifeV2: POI[] = [
       en: "A hard-to-reach protected region that forms a vital bridge between the Andean highlands and the Amazon rainforest."
     },
     descriptionAdvanced: {
-      de: "",
-      hu: "",
-      ro: "",
-      en: "The Megantoni National Sanctuary is a remote and pristine wilderness that protects the sacred Pongo de Mainique, a dramatic canyon where the Urubamba River cuts through the final ridge of the Andes to enter the Amazon basin. This transition zone is one of the most biodiverse regions on Earth, acting as a vital corridor for species moving between the highlands and the lowlands. The sanctuary is characterized by steep, mist-shrouded mountains, hundreds of waterfalls, and dense cloud forests teeming with life. It is home to several isolated indigenous groups and provides a critical refuge for jaguars, tapirs, and rare monkeys. Access to Megantoni is difficult and requires a journey by boat through the powerful rapids of the Pongo, making it one of Peru's most untouched natural treasures. It stands as a symbol of the raw, untamed power of the Peruvian wilderness."
+      en: "The Megantoni National Sanctuary is a hidden emerald jewel located in the Cusco region, protecting the spectacular Pongo de Mainique—a dramatic water gap where the Urubamba River carves through the last range of the Andes to enter the Amazon basin. This remote and sacred canyon is surrounded by towering cliffs draped in hundreds of waterfalls, creating a landscape of mystical beauty that is deeply significant to the Machiguenga people. The sanctuary protects a vast range of pristine ecosystems, from high Andean cloud forests to lowland rainforests, and is home to a staggering variety of wildlife, including jaguars, macaws, and the rare Andean bear. Because of its extreme isolation, Megantoni remains one of the best-preserved and least-explored wilderness areas in Peru, a true sanctuary for the spirit of the Amazon. Geography K7 — River canyons and transition ecosystems."
     },
     facts: {
       de: ["Heimat unbekannter Frosch- und Orchideenarten.", "Liegt in der Region Cusco."],
@@ -360,17 +277,10 @@ export const poiExtraPeruLifeV2: POI[] = [
       en: ["Home to unknown species of frogs and orchids.", "Located in the Cusco region."]
     },
     factsAdvanced: {
-      de: [],
-      hu: [],
-      ro: [],
-      en: [
-        "Protects the Pongo de Mainique, considered a sacred site by the Matsigenka people.",
-        "Covers an area of over 215,000 hectares of primary rainforest.",
-        "Home to a high number of endemic orchid and butterfly species.",
-        "Acts as a natural barrier and buffer for the Camisea gas project area.",
-        "Features spectacular waterfalls that drop directly into the Urubamba River."
-      ]
-    }, image: "/poi-images/megantoni-sanctuary-life-v2.webp"},
+      en: ["Located in the Echarate district of Cusco, established as a sanctuary in 2004.", "The 'Pongo de Mainique' is considered a sacred portal in Machiguenga mythology.", "Protects over 215,000 hectares of primary tropical forest.", "Home to one of the highest concentrations of biodiversity per square meter in the world.", "The sanctuary is a critical link in the Vilcabamba-Amboró conservation corridor.", "Features numerous endemic species of orchids and butterflies.", "Accessible primarily by boat through the challenging rapids of the Urubamba River.", "Plays a vital role in protecting the headwaters of the Amazon basin."]
+    },
+    image: "/poi-images/megantoni-sanctuary-life-v2.webp"
+  },
   {
     id: "hacienda-san-jose-agriculture-life-v2",
     type: "agriculture",
@@ -389,10 +299,7 @@ export const poiExtraPeruLifeV2: POI[] = [
       en: "A historic agricultural estate in Chincha, known for its sugarcane and cotton production."
     },
     descriptionAdvanced: {
-      de: "",
-      hu: "",
-      ro: "",
-      en: "Hacienda San José, located in the fertile Chincha Valley, is a historic agricultural estate that provides a window into the colonial and Afro-Peruvian history of the coast. Originally established in the 17th century by Jesuit priests, it grew into one of the most important sugar and cotton plantations in Peru. The estate is famous for its beautiful colonial mansion and its network of underground tunnels that were used to secretly transport enslaved people to avoid taxes. Today, it is a cultural monument and a popular hotel that celebrates its heritage through traditional music, dance, and gastronomy. The surrounding fields continue to be productive, reflecting the region's long agricultural tradition. A visit to San José is an evocative journey into the complex social and economic layers of Peru's coastal history."
+      en: "Hacienda San José, located in the Chincha Valley south of Lima, is a historic plantation house that offers a powerful and complex window into Peru's colonial agricultural past. Founded in the 17th century, it was one of the wealthiest estates on the coast, primarily producing sugar cane and cotton. The hacienda is famous for its elegant architecture, its private chapel, and most notably, its vast network of underground tunnels that were used to secretly transport enslaved people from the coast to avoid taxes. Today, it is a cultural monument that celebrates the rich Afro-Peruvian heritage of the region, visible in the local music, dance, and cuisine. A visit to the hacienda is a journey through the layers of Peruvian history, from the luxury of the plantation owners to the resilience of those who worked the land. History K8 — Colonial plantations and Afro-Peruvian heritage."
     },
     facts: {
       de: ["Das Anwesen wurde im 17. Jahrhundert erbaut.", "Verfügt über ausgedehnte Katakomben."],
@@ -401,17 +308,10 @@ export const poiExtraPeruLifeV2: POI[] = [
       en: ["The estate was built in the 17th century.", "Features extensive underground catacombs."]
     },
     factsAdvanced: {
-      de: [],
-      hu: [],
-      ro: [],
-      en: [
-        "The colonial mansion is famous for its beautiful chapel and grand courtyards.",
-        "The underground tunnels are estimated to be over 35 kilometers long.",
-        "A major center for the development of Afro-Peruvian culture and rhythms.",
-        "Declared a National Historical Monument in 1970.",
-        "Located in the district of El Carmen, known for its vibrant folk festivals."
-      ]
-    }, image: "/poi-images/hacienda-san-jose-agriculture-life-v2.webp"},
+      en: ["Originally a 17th-century Jesuit estate, later becoming a major sugar and cotton producer.", "Famous for its network of tunnels stretching over 30 kilometers to the port of Chincha.", "The tunnels were also used as a hiding place from pirates and for storing valuable goods.", "The main house features a beautiful 'Sevillian style' courtyard and a baroque chapel.", "Declared a National Historical Monument by the Peruvian government in 1970.", "Located in the heart of Afro-Peruvian culture, famous for the 'Festejo' dance.", "The hacienda now functions as a boutique hotel and a major cultural tourism site.", "A reminder of the central role of slavery in the development of the Peruvian coastal economy."]
+    },
+    image: "/poi-images/hacienda-san-jose-agriculture-life-v2.webp"
+  },
   {
     id: "zooloogico-huachipa-life-v2",
     type: "kid-landmark",
@@ -430,10 +330,7 @@ export const poiExtraPeruLifeV2: POI[] = [
       en: "A popular animal park on the outskirts of Lima, showcasing a large collection of Peruvian and exotic animal species."
     },
     descriptionAdvanced: {
-      de: "",
-      hu: "",
-      ro: "",
-      en: "The Huachipa Zoo, located on the eastern outskirts of Lima, is a popular destination for families and a key player in wildlife conservation and education in Peru. Set along the banks of the Rímac River, the park is known for its beautiful landscaping and its focus on providing naturalistic habitats for its animals. It houses a large collection of both native Peruvian species and exotic animals from around the world, including a notable population of white tigers. The zoo participates in various breeding programs for endangered species and offers interactive exhibits that teach children about the importance of protecting the environment. Its bird sanctuary and aquarium are particularly well-regarded, offering a close-up look at the diverse life of the coast and the jungle. It remains a cherished green space and a vital educational resource for the capital."
+      en: "The Huachipa Zoo, located on the banks of the Rímac River east of Lima, is a vital center for wildlife conservation and environmental education in Peru. This well-maintained zoo is famous for its dedicated sections for native Peruvian species, including a spectacular 'Sea Lion' exhibit and a specialized area for the majestic Andean condor. One of its most important roles is the breeding and rehabilitation of endangered animals, such as the white-winged guan and the Humboldt penguin. With its diverse range of animals from across the globe, the zoo provides a critical green space for the residents of Lima and a living classroom for students to learn about biology and the importance of protecting Peru's natural heritage. It is a place where animal welfare and public engagement go hand in hand. Biology K5 — Wildlife conservation and animal life cycles."
     },
     facts: {
       de: ["Mitglied der Weltzoo-Organisation (WAZA).", "Hat ein erfolgreiches Zuchtprogramm für Humboldt-Pinguine."],
@@ -442,17 +339,10 @@ export const poiExtraPeruLifeV2: POI[] = [
       en: ["Member of the World Association of Zoos and Aquariums.", "Has a successful breeding program for Humboldt penguins."]
     },
     factsAdvanced: {
-      de: [],
-      hu: [],
-      ro: [],
-      en: [
-        "Recognized as a world-class center for the care and breeding of endangered species.",
-        "Features a unique 'Forest of Birds' walk-through aviary.",
-        "Home to the first white tigers ever born in Peru.",
-        "Actively involved in the rescue and rehabilitation of illegally trafficked wildlife.",
-        "A member of the World Association of Zoos and Aquariums (WAZA)."
-      ]
-    }, image: "/poi-images/zooloogico-huachipa-life-v2.webp"},
+      en: ["Located in the Lurigancho-Chosica district, established in 1999.", "Member of the World Association of Zoos and Aquariums (WAZA).", "Features the 'Aquarium', which houses one of the largest collections of Amazonian fish in Lima.", "Actively participates in the conservation project for the endangered white-winged guan.", "Home to a popular 'African Safari' zone and a large feline complex.", "Includes a specialized center for the rescue and care of exotic wildlife.", "Features over 1,000 animals representing more than 300 different species.", "The zoo is known for its beautiful botanical landscaping and shaded walkways."]
+    },
+    image: "/poi-images/zooloogico-huachipa-life-v2.webp"
+  },
   {
     id: "quillabamba-cacao-farms-life-v2",
     type: "agriculture",
@@ -471,10 +361,7 @@ export const poiExtraPeruLifeV2: POI[] = [
       en: "The center of Peruvian cacao production in the tropical forest of Cusco, prized for its fine-flavor premium cacao."
     },
     descriptionAdvanced: {
-      de: "",
-      hu: "",
-      ro: "",
-      en: "Quillabamba, known as the 'City of Eternal Summer,' is the gateway to the tropical valleys of Cusco and the center of Peru's premium cacao production. The warm, humid climate of these valleys is ideal for growing 'Cacao Chuncho,' one of the world's most aromatic and highly-prized varieties of fine-flavor cacao. Visitors can tour the lush plantations where cacao grows alongside coffee, coca, and exotic fruits like mangosteen and chirimoya. These farms are often family-run, passing down generations of knowledge about the delicate process of fermenting and drying the beans. The resulting chocolate is famous for its complex floral and fruity notes, making Quillabamba a pilgrimage site for chocolate lovers. The region's commitment to preserving ancient cacao varieties is essential for the global gourmet chocolate industry."
+      en: "Quillabamba, the 'City of Eternal Summer', is the gateway to the lush tropical valleys of the Cusco region and a premier center for high-quality cacao production. The warm, humid climate of the La Convención province provides the perfect environment for the 'Chuncho' cacao, an ancient and rare variety prized by chocolatiers worldwide for its aromatic complexity and fine flavor. Visitors to the cacao farms can witness the traditional harvesting process, where the colorful pods are opened by hand and the beans are fermented and dried in the tropical sun. These farms are essential for the local economy and represent a growing shift toward organic and sustainable agriculture in the Amazonian foothills. A taste of Quillabamba chocolate is a direct link to the rich biodiversity and cultural heritage of the Peruvian jungle. Agriculture K8 — Cacao cultivation and the global chocolate industry."
     },
     facts: {
       de: ["Das Mikroklima ist ideal für Chuncho-Kakao.", "Viele Farmen bieten Agro-Tourismus an."],
@@ -483,17 +370,10 @@ export const poiExtraPeruLifeV2: POI[] = [
       en: ["The microclimate is ideal for Chuncho cacao.", "Many farms offer agro-tourism activities."]
     },
     factsAdvanced: {
-      de: [],
-      hu: [],
-      ro: [],
-      en: [
-        "Cacao Chuncho is considered one of the purest and oldest cacao varieties in existence.",
-        "The region is a major exporter of fine-flavor cacao to Europe and North America.",
-        "Quillabamba is the capital of the La Convención province.",
-        "The harvest season for cacao typically runs from April to August.",
-        "Farms here are increasingly focused on agroforestry to protect local biodiversity."
-      ]
-    }, image: "/poi-images/quillabamba-cacao-farms-life-v2.webp"},
+      en: ["Quillabamba is the capital of La Convención, the largest province in the Cusco region.", "Famous for 'Cacao Chuncho', an native variety considered one of the finest in the world.", "The region holds the 'Festival of the Cacao and Coffee' every year in July.", "Farms are located at altitudes between 700 and 1,200 meters in the cloud forest edge.", "Many local cooperatives export their cacao directly to premium chocolate makers in Europe.", "The area also produces exceptional coffee, tea, and tropical fruits like pineapples.", "Cacao cultivation is a vital sustainable alternative to other less environmentally friendly crops.", "The 'Chuncho' cacao is known for its high fat content and delicate floral notes."]
+    },
+    image: "/poi-images/quillabamba-cacao-farms-life-v2.webp"
+  },
   {
     id: "cruz-del-condor-life-v2",
     type: "animal-habitat",
@@ -512,10 +392,7 @@ export const poiExtraPeruLifeV2: POI[] = [
       en: "A spectacular viewpoint on the edge of the Colca Canyon, the best place to watch Andean condors in flight."
     },
     descriptionAdvanced: {
-      de: "",
-      hu: "",
-      ro: "",
-      en: "The Cruz del Cóndor is a world-famous viewpoint perched on the edge of the Colca Canyon, offering one of the most spectacular wildlife experiences in South America. Every morning, visitors gather here to witness the majestic Andean condors rising from the depths of the canyon on thermal updrafts. These enormous birds, with wingspans of up to three meters, often fly incredibly close to the cliffs, providing an unforgettable sight against the backdrop of the 1,200-meter-deep gorge. The viewpoint is also a perfect spot to appreciate the sheer scale of the Colca Canyon and the snow-capped volcanoes in the distance. It is a place of natural wonder that highlights the spiritual connection between the Andean people and this sacred bird of the sun. The experience of seeing a condor in flight here is a highlight of any journey to southern Peru."
+      en: "The Cruz del Cóndor is a breathtaking viewpoint perched on the edge of the Colca Canyon, one of the deepest canyons in the world. This iconic spot is famous as the best place in South America to witness the majestic Andean condor in flight. Every morning, as the sun warms the canyon walls, these enormous birds use the rising thermal currents to soar gracefully just meters above the heads of astonished visitors. With a wingspan of up to 3 meters, the condor is a sacred symbol of the Andes, believed by the Incas to be the messenger between the earthly world and the heavens. The viewpoint offers a staggering sense of scale, with the Colca River snaking nearly 1,200 meters below and the snow-capped Ampato volcano in the distance. Biology K5 — The Andean condor and mountain ecosystems."
     },
     facts: {
       de: ["Die Kondore haben eine Spannweite von bis zu drei Metern.", "Der Aufwind hilft ihnen beim Gleiten."],
@@ -524,16 +401,7 @@ export const poiExtraPeruLifeV2: POI[] = [
       en: ["The condors have a wingspan of up to three meters.", "Updrafts help them glide effortlessly."]
     },
     factsAdvanced: {
-      de: [],
-      hu: [],
-      ro: [],
-      en: [
-        "The best time to see condors is between 8:00 AM and 10:00 AM.",
-        "The Colca Canyon is twice as deep as the Grand Canyon in the United States.",
-        "Condors are one of the world's largest flying birds and can live for over 70 years.",
-        "The site features multiple stone platforms for safe and panoramic viewing.",
-        "Located approximately 42 kilometers from the town of Chivay."
-      ]
+      en: ["Located in the Colca Valley, Arequipa, at an altitude of 3,287 meters.", "The Colca Canyon is twice as deep as the Grand Canyon in the United States.", "The Andean condor is one of the world's largest flying birds, weighing up to 15 kg.", "Best viewing times are between 7:00 AM and 10:00 AM when the thermals are strongest.", "The condor can fly for hours without flapping its wings, covering over 100 miles a day.", "The site features multiple stone platforms and walkways for safe viewing.", "Crucial habitat for the conservation of this endangered and culturally significant species.", "The condor's flight at the canyon is a spectacular example of aerodynamics and thermal use."]
     }
   },
   {
@@ -554,10 +422,7 @@ export const poiExtraPeruLifeV2: POI[] = [
       en: "A sprawling park in Lima featuring numerous interactive, colorful fountains that attract families, especially at night."
     },
     descriptionAdvanced: {
-      de: "",
-      hu: "",
-      ro: "",
-      en: "The Magic Water Circuit in Lima is a spectacular park featuring thirteen interactive and illuminated fountains that have become a modern symbol of the capital. Located in the historic Park of the Reserve, it holds the Guinness World Record for the largest fountain complex in a public park. Each fountain has a unique design, ranging from the towering 'Magic Fountain' to the playful 'Tunnel of Surprises' where visitors can walk through arches of water. At night, the park comes alive with a mesmerizing show of lasers, music, and light projections against the water screens. It is a joyous and vibrant place that attracts thousands of locals and tourists every evening. The circuit is not only a technological marvel but also a beautiful example of urban renewal that has revitalized one of Lima's most elegant public spaces."
+      en: "The Magic Water Circuit (Circuito Mágico del Agua), located in Lima's historic Reserve Park, is a dazzling display of light, music, and water that holds the Guinness World Record for the largest fountain complex in a public park. This modern urban attraction features 13 distinct fountains, ranging from the interactive 'Tunnel of Surprises' to the grand 'Magic Fountain' which shoots water over 80 meters high. The highlight of the evening is the 'Fantasia Fountain', a spectacular laser and water show that projects images of Peruvian culture and history onto a giant curtain of mist. This park is a beloved destination for both locals and tourists, transforming a historic city space into a vibrant and joyful celebration of technology and art. It is a symbol of Lima's modern revitalization. Geography K8 — Urban parks and modern infrastructure."
     },
     facts: {
       de: ["Hält den Guinness-Weltrekord für den größten Springbrunnenkomplex.", "Wurde 2007 eröffnet."],
@@ -566,17 +431,10 @@ export const poiExtraPeruLifeV2: POI[] = [
       en: ["Holds the Guinness World Record for the largest fountain complex.", "It was officially opened in 2007."]
     },
     factsAdvanced: {
-      de: [],
-      hu: [],
-      ro: [],
-      en: [
-        "Inaugurated in 2007 in the historic 'Parque de la Reserva'.",
-        "Hold the Guinness World Record for the largest fountain complex in a public park.",
-        "The 'Magic Fountain' shoots water to a height of over 80 meters.",
-        "The centerpiece is a 120-meter long fountain that features a laser and music show.",
-        "A popular venue for photography, especially for weddings and quinceañeras."
-      ]
-    }, image: "/poi-images/circuito-magico-del-agua-life-v2.webp"},
+      en: ["Holds the Guinness World Record for the largest fountain complex in the world in a public park.", "Located in the Parque de la Reserva, a historic park designed in the 1920s.", "Features 13 cybernetic fountains that are synchronized with light and sound.", "The 'Magic Fountain' reaches a height of 80 meters (262 feet).", "The 'Fantasia Fountain' laser show takes place several times every night.", "The park underwent a major restoration and the circuit was inaugurated in 2007.", "Includes interactive fountains where visitors can walk through and play with the water.", "The park is beautifully landscaped with native Peruvian flowers and historical monuments."]
+    },
+    image: "/poi-images/circuito-magico-del-agua-life-v2.webp"
+  },
   {
     id: "matses-national-reserve-life-v2",
     type: "animal-habitat",
@@ -595,10 +453,7 @@ export const poiExtraPeruLifeV2: POI[] = [
       en: "A remote and pristine Amazonian reserve on the border with Brazil, home to rare primate species."
     },
     descriptionAdvanced: {
-      de: "",
-      hu: "",
-      ro: "",
-      en: "The Matsés National Reserve is one of the most remote and well-preserved areas of the Peruvian Amazon, located on the border with Brazil. It was created to protect the traditional territory and culture of the Matsés people, also known as the 'cat people' for their traditional facial decorations. This vast wilderness consists of primary lowland rainforest teeming with rare wildlife, including jaguars, giant river otters, and numerous species of primates. Because of its extreme isolation, the reserve has remained largely untouched by the outside world, serving as a critical stronghold for Amazonian biodiversity. Access is very difficult and usually requires multiple days of travel by plane and boat. For those who reach it, the reserve offers a glimpse into one of the most pristine and culturally significant ecosystems on the planet."
+      en: "The Matsés National Reserve is a vast and remote wilderness area in the Amazonian Loreto region, protecting one of the most pristine rainforests in the world. It is the ancestral home of the Matsés people, also known as the 'Jaguar People', who have lived here for generations in harmony with the forest. The reserve protects the vital headwaters of the Galvez and Yaquerana rivers and is a critical sanctuary for biodiversity, including many species that are threatened elsewhere in the Amazon. Its landscape is a carpet of endless emerald green, teeming with giant otters, rare primates, and an incredible array of medicinal plants. Accessible only by long river expeditions, Matsés represents the absolute frontier of Amazonian conservation and a powerful example of indigenous-led territory management. Geography K7 — Pristine rainforests and indigenous territories."
     },
     facts: {
       de: ["Schützt das Land des indigenen Matsés-Volkes.", "Bekannt für seine hohe Amphibienvielfalt."],
@@ -607,17 +462,10 @@ export const poiExtraPeruLifeV2: POI[] = [
       en: ["Protects the lands of the indigenous Matsés people.", "Known for its high amphibian diversity."]
     },
     factsAdvanced: {
-      de: [],
-      hu: [],
-      ro: [],
-      en: [
-        "Covers an area of 420,000 hectares of primary Amazonian rainforest.",
-        "Protects the ancestral lands of the Matsés indigenous group.",
-        "Home to the largest population of Uakari monkeys in Peru.",
-        "The reserve is part of a massive transnational conservation corridor.",
-        "Crucial for the protection of uncontacted indigenous groups in voluntary isolation."
-      ]
-    }, image: "/poi-images/matses-national-reserve-life-v2.webp"},
+      en: ["Located in the Requena province, Loreto, bordering Brazil, and established in 2009.", "Protects over 420,000 hectares of primary Amazonian rainforest.", "The Matsés people manage the reserve through their own territorial organization.", "Home to the 'Giant Monkey Frog' (Phyllomedusa bicolor), famous for its traditional medicinal use.", "Contains an incredible diversity of primate species, including the rare uakari monkey.", "The reserve is a critical part of the cross-border conservation corridor with Brazil.", "Protects massive areas of floodable forests and terra firme (upland) ecosystems.", "The area is remarkably free of the deforestation and illegal mining found in other parts of the Amazon."]
+    },
+    image: "/poi-images/matses-national-reserve-life-v2.webp"
+  },
   {
     id: "granja-porcon-life-v2",
     type: "kid-landmark",
@@ -636,10 +484,7 @@ export const poiExtraPeruLifeV2: POI[] = [
       en: "An agricultural project and zoo in the Andes of Cajamarca that reforested a pine forest and houses various animals."
     },
     descriptionAdvanced: {
-      de: "",
-      hu: "",
-      ro: "",
-      en: "Granja Porcón is a remarkable community-led agricultural and reforestation project located in the high Andes near Cajamarca. Managed by a local evangelical cooperative, the project has successfully transformed thousands of hectares of barren high-altitude grassland into a lush forest of pine trees. This man-made ecosystem now supports a thriving timber industry, dairy farming, and a unique zoo that houses both native and exotic animals. Visitors can participate in farm life, enjoy fresh dairy products, and hike through the beautiful forest trails. The project is a shining example of how sustainable land management and community cooperation can improve livelihoods and restore the environment. It offers a peaceful and productive atmosphere that is quite unique in the Peruvian highlands. It remains a popular destination for eco-tourism and agricultural education."
+      en: "Granja Porcón is a unique and inspiring example of sustainable agricultural and forestry management located in the highlands of Cajamarca. This cooperative community transformed a barren, treeless landscape into a thriving emerald forest of over 12,000 hectares of pine trees, a project that began in the 1970s. Today, it is a model of 'agrotourism', where visitors can stay in traditional stone houses and participate in daily farm activities like milking cows, shearing sheep, and making cheese. The community is deeply spiritual and communal, with a unique social structure that has brought prosperity and environmental health to the region. Granja Porcón is also home to a high-altitude zoo and a large trout farm, making it a favorite destination for families seeking a connection with nature and rural life. Geography K8 — Sustainable forestry and highland agrotourism."
     },
     facts: {
       de: ["Gilt als erfolgreiches Kooperativen-Modell.", "Mehr als 10.000 Hektar wurden mit Kiefern bepflanzt."],
@@ -648,16 +493,7 @@ export const poiExtraPeruLifeV2: POI[] = [
       en: ["Considered a highly successful cooperative model.", "More than 10,000 hectares were planted with pine trees."]
     },
     factsAdvanced: {
-      de: [],
-      hu: [],
-      ro: [],
-      en: [
-        "Over 12,000 hectares have been reforested with more than 10 million pine trees.",
-        "The cooperative produces high-quality cheeses, yogurts, and butter.",
-        "The zoo features animals such as lions, bears, and various Andean species.",
-        "Located at an altitude of approximately 3,100 to 3,800 meters.",
-        "The project has significantly improved the local microclimate and water retention."
-      ]
+      en: ["A successful cooperative community located 30 kilometers from the city of Cajamarca.", "Has planted over 10 million pine trees, creating a massive artificial forest.", "Features a high-altitude zoo with animals like jaguars, pumas, and Andean bears.", "The community produces high-quality dairy products, especially its famous Porcón cheese.", "A major center for the production of pine timber used in furniture and construction.", "Includes a large trout farm (piscigranja) that supplies the regional market.", "The residents maintain a deeply communal and religious lifestyle based on shared labor.", "The area offers numerous trails for hiking and horseback riding through the forest."]
     }
   },
   {
@@ -678,10 +514,7 @@ export const poiExtraPeruLifeV2: POI[] = [
       en: "One of the oldest vineyards in South America, producing wine and pisco in the fertile Ica oasis."
     },
     descriptionAdvanced: {
-      de: "",
-      hu: "",
-      ro: "",
-      en: "Tacama is South America's oldest vineyard, established in the 1540s in the fertile oasis of Ica. This historic estate has been producing wine and pisco—Peru's national grape brandy—for nearly five centuries, blending traditional Spanish techniques with modern technology. The vineyard's iconic pink colonial buildings and lush green fields stand in stark contrast to the surrounding coastal desert. Visitors can take guided tours of the state-of-the-art winery and ancient cellars, followed by tastings of their award-winning products. Tacama is particularly famous for its high-quality pisco and its pioneering work in producing fine Peruvian wines. The estate also offers a beautiful setting for dining, with a restaurant that serves traditional regional cuisine. It remains a cornerstone of Peru's vibrant wine and spirits culture, representing a legacy of elegance and quality."
+      en: "Tacama is the oldest vineyard in South America, located in the fertile Ica Valley, a region where the sun and the desert meet to produce exceptional grapes. Founded in the 1540s by Spanish settlers, Tacama has been a pioneer in Peruvian viticulture for nearly five centuries. The estate is famous for its elegant colonial architecture, its beautiful gardens, and its world-class production of wine and Pisco—Peru's national grape brandy. Visitors can tour the historic cellars, see the traditional copper stills, and learn about the unique process of crafting high-quality Pisco from aromatic and non-aromatic grapes. Tacama represents the fusion of European wine-making traditions with the unique terroir of the Peruvian coast, creating a product that is a source of national pride. Agriculture K8 — Viticulture and the history of Pisco."
     },
     facts: {
       de: ["Gegründet in den 1540er Jahren.", "Pisco ist das peruanische Nationalgetränk."],
@@ -690,17 +523,10 @@ export const poiExtraPeruLifeV2: POI[] = [
       en: ["Established in the 1540s.", "Pisco is the national grape brandy of Peru."]
     },
     factsAdvanced: {
-      de: [],
-      hu: [],
-      ro: [],
-      en: [
-        "The first vineyard in South America, founded by Francisco de Carabantes.",
-        "Famous for its 'Pisco Demonio de los Andes,' named after a Spanish conquistador.",
-        "Uses irrigation water from the ancient Inca canal 'La Achirana'.",
-        "Has collaborated with French winemakers for over 50 years to improve wine quality.",
-        "Located in the Ica Valley, the heart of Peruvian wine and pisco production."
-      ]
-    }, image: "/poi-images/tacama-vineyard-life-v2.webp"},
+      en: ["Established in 1540, making it the oldest winery in the Americas.", "Located in the Ica region, the heart of Peru's wine and pisco production.", "Uses water from the ancient 'Achirana del Inca' canal for irrigation.", "Famous for its high-quality Pisco, particularly the 'Demonio de los Andes' line.", "The vineyard produces a wide range of international grape varieties like Malbec and Tannat.", "Features a beautiful 18th-century bell tower and a traditional colonial hacienda house.", "The 'El Tambo' restaurant at the vineyard is renowned for its regional Ica cuisine.", "Tacama has won numerous international awards for its innovative wine-making techniques."]
+    },
+    image: "/poi-images/tacama-vineyard-life-v2.webp"
+  },
   {
     id: "tingo-maria-banana-farms-life-v2",
     type: "agriculture",
@@ -719,10 +545,7 @@ export const poiExtraPeruLifeV2: POI[] = [
       en: "Large tropical agricultural areas that benefit from the Amazonian climate to grow plantains and tropical fruits."
     },
     descriptionAdvanced: {
-      de: "",
-      hu: "",
-      ro: "",
-      en: "Tingo María, nestled in the 'high jungle' of central Peru, is a lush and humid region perfect for the large-scale cultivation of bananas and plantains. These tropical fruits are a staple of the local diet and a major economic driver for the Huánuco region. The farms often feature a variety of species, from the common Cavendish banana to the large plantains used in traditional dishes like 'tacacho.' The landscape here is dominated by the dramatic 'Sleeping Beauty' mountain range, which provides a stunning backdrop to the endless green plantations. Tingo María's agricultural wealth also includes coffee, cacao, and exotic fruits like starfruit and camu camu. Exploring the farms gives visitors a sense of the incredible fertility of the Peruvian jungle-fringe. The region's vibrant markets are always filled with the colors and scents of this tropical bounty."
+      en: "Tingo María, known as the 'City of the Sleeping Beauty' because of the mountain silhouette that dominates its skyline, is a vibrant agricultural center in the Huallaga Valley. The region's tropical climate and abundant rainfall make it a paradise for banana and plantain production, which are essential staples of the Amazonian diet and a major source of income for local farmers. Visitors can see vast plantations of 'Seda' and 'Bellaco' bananas lining the banks of the Huallaga River. Beyond bananas, the region is a gateway to the Tingo María National Park, famous for its caves and incredible biodiversity. The local economy is deeply tied to the land, where sustainable farming practices are increasingly being used to protect the surrounding rainforest while providing food for the nation. Agriculture K8 — Tropical fruit production and the Amazonian economy."
     },
     facts: {
       de: ["Tingo María ist das 'Tor zum Amazonas'.", "Landwirtschaft ist der Hauptwirtschaftszweig der Region."],
@@ -731,17 +554,10 @@ export const poiExtraPeruLifeV2: POI[] = [
       en: ["Tingo María is known as the Gateway to the Amazon.", "Agriculture is the main economic sector of the region."]
     },
     factsAdvanced: {
-      de: [],
-      hu: [],
-      ro: [],
-      en: [
-        "Tingo María is often called the 'Gateway to the Amazon'.",
-        "Plantains are an essential ingredient in the Amazonian breakfast dish 'Tacacho con Cecina'.",
-        "The region benefits from high rainfall and consistently warm temperatures.",
-        "A major supplier of fresh fruit to the markets of the Peruvian highlands and Lima.",
-        "Farms here often participate in programs to replace illicit crops with sustainable fruit production."
-      ]
-    }, image: "/poi-images/tingo-maria-banana-farms-life-v2.webp"},
+      en: ["Located in the Huánuco region, where the Andes meet the Amazon basin.", "One of Peru's top producers of both bananas (sweet) and plantains (cooking).", "The 'Bellaco' plantain is a fundamental ingredient in local dishes like 'Tacacho'.", "Farms are often small-scale family operations that sell their produce at the local markets.", "The region's fertile soils are a result of the alluvial deposits from the Huallaga River.", "Banana production is increasingly focusing on organic and fair-trade exports.", "Tingo María is also a major producer of coffee, cacao, and coca leaves.", "The city's 'Alameda de la Peruanidad' is a bustling center for the trade of tropical fruits."]
+    },
+    image: "/poi-images/tingo-maria-banana-farms-life-v2.webp"
+  },
   {
     id: "santuario-de-amancay-life-v2",
     type: "animal-habitat",
@@ -760,10 +576,7 @@ export const poiExtraPeruLifeV2: POI[] = [
       en: "A hilly area near Pachacámac, known for the yellow amancay flower, which blooms briefly during the winter."
     },
     descriptionAdvanced: {
-      de: "",
-      hu: "",
-      ro: "",
-      en: "The Amancay Sanctuary is a fragile and beautiful ecological oasis located in the desert hills of Pachacámac, south of Lima. It was created to protect the endangered Amancay flower, a stunning yellow lily that blooms for only a few days each year during the humid winter season. This brief blooming period transforms the barren gray hills into a vibrant sea of yellow, a phenomenon that has been celebrated in Lima's folklore and traditions for centuries. The sanctuary provides a vital habitat for local wildlife, including various species of birds and foxes that thrive in the temporary green 'lomas' ecosystem. It is a place of great cultural significance, formerly the site of the famous 'Fiesta de Amancaes.' Today, it is a precious escape for urban dwellers looking to reconnect with the capital's unique natural heritage. The site reminds us of the hidden life that persists even in the world's driest environments."
+      en: "The Santuario de Amancay, located in the hills of Pachacamac near Lima, is a unique ecological refuge dedicated to the protection of the Amancay flower—a beautiful yellow lily that only blooms once a year during the winter 'lomas' season. For centuries, the blooming of the Amancay was celebrated with a grand festival in Lima, but today the plant is endangered due to urban expansion. The sanctuary protects a fragile 'lomas' ecosystem, where coastal fog provides enough moisture for a burst of green life in the middle of the desert. Walking through the sanctuary during the blooming season (June to August) is a magical experience, as the barren hills are transformed into a vibrant carpet of yellow. It is a vital project for the conservation of Lima's native flora and a reminder of the city's ancient connection to its seasonal landscapes. Biology K5 — Coastal fog ecosystems and endemic flowers."
     },
     facts: {
       de: ["Die Amancay-Blume ist das Symbol von Lima.", "Das Gebiet leidet unter städtischem Druck."],
@@ -772,17 +585,10 @@ export const poiExtraPeruLifeV2: POI[] = [
       en: ["The amancay flower is the traditional symbol of Lima.", "The area faces pressure from urban expansion."]
     },
     factsAdvanced: {
-      de: [],
-      hu: [],
-      ro: [],
-      en: [
-        "The Amancay flower (Ismene amancaes) is a symbol of the city of Lima.",
-        "The blooming season occurs during the peak of the coastal fog season (June to August).",
-        "The sanctuary is managed by local community members focused on eco-tourism.",
-        "Part of the unique 'Lomas' ecosystem that exists only on the desert coasts of Peru and Chile.",
-        "Provides a rare green space for hiking and nature observation near the capital."
-      ]
-    }, image: "/poi-images/santuario-de-amancay-life-v2.webp"},
+      en: ["Protects the 'Amancay' (Ismene amancaes), a beautiful yellow lily endemic to the Peruvian coast.", "The flowers only bloom for a few weeks between June and August during the foggy winter.", "Located in the Lomas de Pachacamac, roughly 30 km south of downtown Lima.", "The 'Festival of Amancay' was a major colonial and republican tradition on June 24th.", "The sanctuary is managed by local communities in coordination with environmental NGOs.", "The 'lomas' are unique 'fog oases' that exist in one of the world's driest deserts.", "The area is also home to diverse birds, lizards, and insects adapted to the humid fog.", "A critical educational site for teaching children about Lima's threatened natural heritage."]
+    },
+    image: "/poi-images/santuario-de-amancay-life-v2.webp"
+  },
   {
     id: "lomas-de-lachay-life-v2",
     type: "animal-habitat",
@@ -801,10 +607,7 @@ export const poiExtraPeruLifeV2: POI[] = [
       en: "A fog-dependent ecological oasis in the desert near Lima that turns green during the humid season and attracts wildlife."
     },
     descriptionAdvanced: {
-      de: "",
-      hu: "",
-      ro: "",
-      en: "The Lomas de Lachay National Reserve is a unique 'fog oasis' located in the coastal desert north of Lima. During the winter months, from June to October, the heavy mist from the Pacific Ocean is trapped by the hills, turning the barren desert into a lush, green landscape teeming with life. This seasonal ecosystem is home to a surprising variety of flora and fauna, including wild tobacco, Andean foxes, and many species of endemic birds. The reserve features well-maintained hiking trails that allow visitors to explore the unique rock formations and dense vegetation of the hills. It is a critical refuge for biodiversity in the midst of an otherwise arid region. Lachay offers a fascinating look at how life adapts to extreme environments, relying entirely on the moisture provided by the clouds. It remains one of the most popular day-trip destinations for nature lovers from Lima."
+      en: "The Lomas de Lachay National Reserve is a spectacular 'fog oasis' located in the coastal desert north of Lima. Every winter, between June and October, the dense Pacific fog (garúa) becomes trapped against the coastal hills, providing enough moisture to transform the arid landscape into a lush, green paradise. This unique ecosystem is home to a surprising variety of flora and fauna, including wild tobacco, cacti, and over 60 species of birds like the burrowing owl. Lachay is a favorite destination for hikers and nature lovers who come to witness this dramatic seasonal transformation. The reserve also protects ancient archaeological sites and unique rock formations carved by erosion. It is a powerful reminder of nature's resilience and the hidden life that thrives in the heart of the desert. Geography K7 — Fog oases and coastal desert ecology."
     },
     facts: {
       de: ["Beherbergt Andenfüchse und Wüstenbussarde.", "Ein Phänomen, das 'Lomas' (Nebel-Oasen) genannt wird."],
@@ -813,17 +616,10 @@ export const poiExtraPeruLifeV2: POI[] = [
       en: ["Home to Andean foxes and desert buzzards.", "A phenomenon known as 'Lomas' (fog oases)."]
     },
     factsAdvanced: {
-      de: [],
-      hu: [],
-      ro: [],
-      en: [
-        "Established as a National Reserve in 1977.",
-        "Covers an area of 5,070 hectares.",
-        "Home to the endemic 'Burrowing Owl' and the 'Coastal Miner' bird.",
-        "The moisture captured from the fog can reach levels comparable to some rainforests.",
-        "Features ancient petroglyphs, suggesting long-term human presence in the area."
-      ]
-    }, image: "/poi-images/lomas-de-lachay-life-v2.webp"},
+      en: ["Located 105 kilometers north of Lima in the Huaura province, established in 1977.", "Covers an area of 5,070 hectares of protected 'lomas' ecosystem.", "The fog provides the only source of water for the plants and animals during the winter.", "Home to the 'Lachay' bird, an endemic species found only in these coastal hills.", "Features unique rock formations known as 'taffonis' caused by salt and wind erosion.", "A primary destination for environmental education and weekend hiking from Lima.", "The biodiversity includes foxes, diverse reptiles, and many migratory birds.", "In the summer (November to May), the hills return to a completely arid and brown state."]
+    },
+    image: "/poi-images/lomas-de-lachay-life-v2.webp"
+  },
   {
     id: "bosque-de-pomac-life-v2",
     type: "animal-habitat",
@@ -842,10 +638,7 @@ export const poiExtraPeruLifeV2: POI[] = [
       en: "A dense dry forest on the northern coast that protects important flora and fauna as well as ancient pyramids."
     },
     descriptionAdvanced: {
-      de: "",
-      hu: "",
-      ro: "",
-      en: "The Bosque de Pómac Historical Sanctuary is a remarkable site in northern Peru that combines incredible natural beauty with profound archaeological significance. This dense forest of carob trees is the largest of its kind in the world, providing a sanctuary for numerous endemic bird species and diverse wildlife. Within the heart of the forest lie dozens of ancient pyramids belonging to the Sicán culture, which flourished here between 750 and 1100 AD. The sanctuary is famous for being the discovery site of the iconic Tumi, a ceremonial golden knife that has become a symbol of Peru. Visitors can explore the forest on horseback or by bicycle, visiting the ancient tombs and the legendary 'Millenary Tree.' It is a place where nature and history are inextricably linked, offering a unique and mystical atmosphere. The sanctuary's preservation is vital for both the region's biodiversity and its cultural heritage."
+      en: "The Bosque de Pómac Historic Sanctuary, located in the Lambayeque region, is a unique combination of natural beauty and archaeological mystery. It protects the largest and most dense forest of ancient 'Algarrobo' trees (carob) in the world, a dry tropical forest that was once the sacred heart of the Sicán (Lambayeque) culture. Nestled among the twisted, centuries-old trees are 36 massive adobe pyramids, including Huaca Loro, where extraordinary gold treasures like the Sicán Tumi were discovered. The sanctuary is a haven for birdwatchers, with over 100 species of birds, many of which are endemic to the Tumbesian dry forest. Exploring Pómac by bike or on horseback offers a journey through a landscape where ancient history and a rare ecosystem are perfectly preserved. History K8 — Sicán culture and dry forest conservation."
     },
     facts: {
       de: ["Einer der größten verbliebenen Johannisbrotbaumwälder.", "Beherbergt endemische Vogelarten."],
@@ -854,17 +647,10 @@ export const poiExtraPeruLifeV2: POI[] = [
       en: ["One of the largest remaining carob tree forests.", "Home to endemic dry-forest bird species."]
     },
     factsAdvanced: {
-      de: [],
-      hu: [],
-      ro: [],
-      en: [
-        "Protects approximately 5,800 hectares of dry carob forest (Bosque de Algarrrobos).",
-        "Home to the Peruvian Plantcutter, one of the world's rarest birds.",
-        "Contains 36 pyramids (huacas) of the Sicán or Lambayeque culture.",
-        "Site of the discovery of the Lord of Sicán, one of Peru's most important burials.",
-        "The 'Árbol Milenario' is a carob tree estimated to be over 500 years old."
-      ]
-    }, image: "/poi-images/bosque-de-pomac-life-v2.webp"},
+      en: ["Located in the Ferreñafe province of Lambayeque, established as a sanctuary in 2001.", "Protects over 5,800 hectares of the world's largest 'Algarrobal' dry forest.", "Contains 36 adobe pyramids belonging to the Sicán culture (900-1100 AD).", "The Sicán Lord's tomb, found at Huaca Loro, contained over 1 ton of gold and silver objects.", "The 'Ancient Tree' (Árbol Milenario) is a massive carob tree estimated to be over 500 years old.", "A primary birdwatching spot for the rare Peruvian Plantcutter and the Rufous Flycatcher.", "The Algarrobo tree is essential for the production of 'Algarrobina', a traditional Peruvian syrup.", "The sanctuary is a critical site for the study of pre-Inca metallurgy and architecture."]
+    },
+    image: "/poi-images/bosque-de-pomac-life-v2.webp"
+  },
   {
     id: "el-angolo-hunting-reserve-life-v2",
     type: "animal-habitat",
@@ -883,10 +669,7 @@ export const poiExtraPeruLifeV2: POI[] = [
       en: "A strictly regulated protected area in northwestern Peru dedicated to the conservation of the white-tailed deer."
     },
     descriptionAdvanced: {
-      de: "",
-      hu: "",
-      ro: "",
-      en: "The El Angolo Hunting Reserve is a unique protected area in northwestern Peru, primarily dedicated to the sustainable management of the equatorial dry forest ecosystem. It is the only area in the country where regulated hunting is allowed, specifically focused on the white-tailed deer to maintain a healthy population balance. The reserve consists of rugged hills and dense forests of carob and hualtaco trees, providing a critical habitat for many endemic species of the Tumbesian region. Beyond its hunting focus, the reserve is a major destination for birdwatchers and researchers interested in this rare and threatened ecosystem. Its management model seeks to balance conservation with economic benefits for local communities through tourism and sustainable resource use. El Angolo represents a successful example of how diverse conservation strategies can work to protect Peru's unique natural landscapes."
+      en: "The El Angolo Controlled Hunting Reserve, located in the mountains of Piura in northern Peru, is a unique conservation area that promotes the sustainable use of wildlife. It protects a vast area of the Tumbesian dry forest, an ecosystem characterized by stunted trees, cacti, and extreme seasonal changes. While regulated hunting of the white-tailed deer is permitted, the reserve's primary goal is the long-term preservation of this threatened habitat and its diverse inhabitants. El Angolo is home to pumas, diverse raptors, and many endemic bird species, making it a critical site for biodiversity in the region. The reserve is a model of how managed activities can fund the protection of large wilderness areas. Its rugged beauty and its unique approach to conservation make it a significant part of Peru's national park system. Geography K8 — Managed conservation and dry forest ecosystems."
     },
     facts: {
       de: ["Liegt in der Region Piura.", "Die Jagd wird nur außerhalb der Fortpflanzungszeit gestattet."],
@@ -895,17 +678,10 @@ export const poiExtraPeruLifeV2: POI[] = [
       en: ["Located in the Piura region.", "Regulated hunting is only permitted outside the breeding season."]
     },
     factsAdvanced: {
-      de: [],
-      hu: [],
-      ro: [],
-      en: [
-        "The only regulated hunting reserve in Peru, established in 1975.",
-        "A key part of the Noroeste Amotapes-Manglares Biosphere Reserve.",
-        "Home to over 150 species of birds, many of which are endemic to the dry forest.",
-        "Protects the habitat of the Tumbes puma and the white-winged guan.",
-        "Located in the department of Piura, near the border with Ecuador."
-      ]
-    }, image: "/poi-images/el-angolo-hunting-reserve-life-v2.webp"},
+      en: ["Located in the Sullana and Talara provinces, Piura, established in 1975.", "Protects over 65,000 hectares of the equatorial dry forest ecosystem.", "Managed primarily for the sustainable hunting of the white-tailed deer (Odocoileus virginianus).", "Home to several endangered species, including the puma and the king vulture.", "Part of the UNESCO Northwest Biosphere Reserve.", "Features a rugged landscape with elevations ranging from 200 to 1,600 meters.", "Crucial for the conservation of over 17 species of endemic birds found only in this region.", "The reserve provides an important source of income for local communities through managed tourism."]
+    },
+    image: "/poi-images/el-angolo-hunting-reserve-life-v2.webp"
+  },
   {
     id: "taricaya-rescue-center-life-v2",
     type: "animal-habitat",
@@ -924,10 +700,7 @@ export const poiExtraPeruLifeV2: POI[] = [
       en: "A rehabilitation center in the Amazon basin that takes in illegally trafficked animals and prepares them for release."
     },
     descriptionAdvanced: {
-      de: "",
-      hu: "",
-      ro: "",
-      en: "The Taricaya Rescue Center is a dedicated wildlife rehabilitation facility located on the banks of the Madre de Dios River in the heart of the Peruvian Amazon. Founded to combat the illegal wildlife trade, the center takes in animals that have been injured or kept as illegal pets, providing them with medical care and a path toward release back into the wild. It is world-renowned for its successful programs with spider monkeys, jaguars, and the taricaya turtles for which it is named. Volunteers from around the world come to Taricaya to help with animal care, reforestation, and research projects. The center also features a high-canopy walkway that allows visitors and researchers to observe the rainforest from a unique perspective. It is a place of hope and hard work, playing a critical role in the preservation of Amazonian fauna. A visit here offers a moving look at the frontline of conservation efforts in the jungle."
+      en: "The Taricaya Rescue Center is a pioneering wildlife rehabilitation and research station located deep in the Amazon rainforest of the Madre de Dios region. Situated on the banks of the Madre de Dios River, it is dedicated to the rescue, rehabilitation, and release of animals that have been victims of illegal trafficking or habitat loss. The center is world-famous for its successful program to protect and release 'Taricaya' turtles (yellow-spotted river turtles), whose eggs are often poached. Visitors can volunteer or visit the center to see jaguars, spider monkeys, and tapirs in spacious enclosures designed to mimic their natural habitat. Taricaya also features one of the highest canopy walkways in South America, offering a spectacular view of the rainforest roof. It is a powerful example of the tireless work needed to protect the Amazon's fragile life. Biology K5 — Wildlife rescue and the turtle life cycle."
     },
     facts: {
       de: ["Das Projekt verfügt über einen Canopy-Walkway.", "Wichtig für den Schutz von Brüllaffen und Jaguaren."],
@@ -936,17 +709,10 @@ export const poiExtraPeruLifeV2: POI[] = [
       en: ["The project features a canopy walkway.", "Crucial for the protection of howler monkeys and jaguars."]
     },
     factsAdvanced: {
-      de: [],
-      hu: [],
-      ro: [],
-      en: [
-        "Located within a private ecological reserve of over 500 hectares.",
-        "Successfully releases hundreds of taricaya turtles into the river every year.",
-        "Features the first and longest canopy walkway in the Madre de Dios region.",
-        "A pioneer in the rehabilitation and release of the black-faced spider monkey.",
-        "Works closely with the Peruvian government to enforce wildlife protection laws."
-      ]
-    }, image: "/poi-images/taricaya-rescue-center-life-v2.webp"},
+      en: ["Located inside the Reserva Amazónica, near the city of Puerto Maldonado.", "Founded in 2001 and run primarily by dedicated conservationists and international volunteers.", "The turtle project has released over 10,000 Taricaya turtles back into the wild since its inception.", "Features a 45-meter-high canopy walkway, one of the best spots for birdwatching in Peru.", "The center works with the Peruvian government (SERFOR) to receive confiscated animals.", "Includes a specialized veterinary clinic for the care of injured Amazonian wildlife.", "Conducts long-term research on jaguar populations and forest regeneration.", "A key site for sustainable ecotourism that directly funds conservation efforts."]
+    },
+    image: "/poi-images/taricaya-rescue-center-life-v2.webp"
+  },
   {
     id: "cueva-de-las-lechuzas-life-v2",
     type: "animal-habitat",
@@ -965,10 +731,7 @@ export const poiExtraPeruLifeV2: POI[] = [
       en: "An impressive karst cave in Tingo María National Park, home to a large colony of oilbirds (guácharos)."
     },
     descriptionAdvanced: {
-      de: "",
-      hu: "",
-      ro: "",
-      en: "The Cave of the Owls (Cueva de las Lechuzas) is a spectacular karst cave located in the Tingo María National Park, known for its massive entrance and its unique inhabitants. Despite its name, the cave is not home to owls, but rather to a large colony of oilbirds, or 'guácharos,' which are the only nocturnal fruit-eating birds in the world. These birds spend their days in the dark recesses of the cave, creating a constant chatter that echoes through the massive limestone chambers. The cave also hosts diverse populations of bats, insects, and unusual spiders, forming a complex and fascinating subterranean ecosystem. Visitors can explore the first few chambers along a wooden boardwalk, marveling at the impressive stalactites and stalagmites. The cave is part of the 'Sleeping Beauty' mountain range and is one of the most popular natural attractions in the high jungle. It offers a mysterious and unforgettable encounter with the hidden life of the Andes."
+      en: "The Cueva de las Lechuzas, or Cave of the Owls, is one of the most famous and accessible cavern systems in Peru, located within the Tingo María National Park. Despite its name, the cave is not actually home to owls, but to a massive colony of 'Guacharos' or Oilbirds—unique nocturnal birds that navigate by echolocation and live on oily palm fruits. The entrance to the cave is a dramatic stone arch draped in lush vegetation, leading into a series of massive chambers filled with impressive stalactites and stalagmites. The air inside is thick with the sounds of the oilbirds and the thousands of bats that share the cavern. Exploring the cave offers a thrilling journey into a hidden subterranean world, where the forces of water and time have created a spectacular limestone cathedral. Geography K7 — Karst topography and cave ecosystems."
     },
     facts: {
       de: ["Die Vögel orientieren sich in der Dunkelheit durch Echoortung.", "Die Höhle ist für Touristen zugänglich."],
@@ -977,17 +740,10 @@ export const poiExtraPeruLifeV2: POI[] = [
       en: ["The birds navigate in the dark using echolocation.", "The cave is partially accessible to tourists."]
     },
     factsAdvanced: {
-      de: [],
-      hu: [],
-      ro: [],
-      en: [
-        "The oilbirds (guácharos) use echolocation to navigate in the dark, similar to bats.",
-        "The cave is part of a larger complex of limestone formations in Tingo María.",
-        "The name 'Lechuzas' was given by locals who mistook the oilbirds for owls.",
-        "Located at the foot of the 'Bella Durmiente' (Sleeping Beauty) mountain.",
-        "Rich in strange cave-dwelling fauna, including the 'giant cave cricket'."
-      ]
-    }, image: "/poi-images/cueva-de-las-lechuzas-life-v2.webp"},
+      en: ["Located at the foot of the 'Sleeping Beauty' mountain in Tingo María, Huánuco.", "Home to a massive colony of Oilbirds (Steatornis caripensis), the only nocturnal fruit-eating birds in the world.", "The cave's entrance is over 30 meters high and 35 meters wide.", "Contains diverse formations of stalactites, stalagmites, and stone columns.", "The floor of the cave is covered in 'guano', which supports a unique ecosystem of insects and spiders.", "A major tourist attraction that is easily accessible via a wooden walkway.", "Part of the first national park established in Peru (Tingo María National Park).", "The sounds of the guacharos at dusk are a deafening and unforgettable experience."]
+    },
+    image: "/poi-images/cueva-de-las-lechuzas-life-v2.webp"
+  },
   {
     id: "mala-valley-orchards-life-v2",
     type: "agriculture",
@@ -1006,10 +762,7 @@ export const poiExtraPeruLifeV2: POI[] = [
       en: "A fertile river valley south of Lima, widely known for its delicious apples and Peruvian tamales."
     },
     descriptionAdvanced: {
-      de: "",
-      hu: "",
-      ro: "",
-      en: "The Mala Valley, located south of Lima, is a fertile agricultural oasis famous for its delicious fruits and traditional coastal cuisine. The valley's unique microclimate and rich soil make it the premier region for growing apples, especially the local 'Delicia' variety, as well as grapes and various citrus fruits. For many Limeños, a trip to Mala is a classic weekend getaway to enjoy the fresh country air and sample the town's legendary tamales and chicharrones. The valley is also known for its production of shrimp (camarones), which are harvested from the Mala River and featured in many local dishes. Surrounded by arid hills, the lush green orchards of the valley are a testament to the life-giving power of the region's rivers. It remains a cherished part of Peru's coastal agricultural heritage and a favorite culinary destination."
+      en: "The Mala Valley, located just south of Lima, is one of the most productive agricultural regions on the central coast, famous for its delicious fruits and fertile soil. The valley is particularly renowned for its apple orchards, which produce the 'Delicia de Viscas' apple, a local variety known for its sweetness and crispness. In addition to apples, the valley is a major center for the cultivation of grapes, lucuma, and custard apples (chirimoya). Mala is also celebrated for its 'Tamales' and its shrimp (camarones), which are caught in the Mala River and served in traditional countryside restaurants. The valley offers a peaceful green escape from the capital, where visitors can enjoy the rustic charm of rural Peru and taste the freshest produce straight from the trees. Agriculture K8 — Coastal agriculture and fruit diversity."
     },
     facts: {
       de: ["Das Tal ist ein beliebtes Wochenendausflugsziel.", "Bietet auch Weinbau und Pisco-Destillerien."],
@@ -1018,17 +771,10 @@ export const poiExtraPeruLifeV2: POI[] = [
       en: ["The valley is a popular weekend getaway destination.", "Also features vineyards and pisco distilleries."]
     },
     factsAdvanced: {
-      de: [],
-      hu: [],
-      ro: [],
-      en: [
-        "Mala is known as the 'Apple Capital' of Peru.",
-        "The valley is a major producer of the 'Delicia' apple, prized for its sweetness.",
-        "Famous for its 'Tamales de Mala,' traditionally wrapped in banana leaves.",
-        "The Mala River is a popular spot for freshwater shrimp fishing during the season.",
-        "Located approximately 85 kilometers south of Lima on the Pan-American Highway."
-      ]
-    }, image: "/poi-images/mala-valley-orchards-life-v2.webp"},
+      en: ["Located in the Cañete province, roughly 90 kilometers south of Lima.", "Famous for the 'Apple Festival' held every year to celebrate the harvest.", "One of the few coastal valleys where the traditional irrigation systems are still widely used.", "Mala is a major supplier of fresh fruits and vegetables to the markets of Lima.", "The Mala River is famous for its delicious freshwater shrimp, a seasonal delicacy.", "The town of Mala is known as the 'Tamal Capital of Peru'.", "The valley's microclimate is ideal for the cultivation of 'Lucuma', a fruit native to the Andes.", "A popular destination for 'gastronomic tourism' and weekend getaways."]
+    },
+    image: "/poi-images/mala-valley-orchards-life-v2.webp"
+  },
   {
     id: "trujillo-botanical-garden-life-v2",
     type: "kid-landmark",
@@ -1047,10 +793,7 @@ export const poiExtraPeruLifeV2: POI[] = [
       en: "A tranquil urban garden in the heart of Trujillo that houses native plants and small animals like peacocks."
     },
     descriptionAdvanced: {
-      de: "",
-      hu: "",
-      ro: "",
-      en: "The Trujillo Botanical Garden is a serene and beautiful green space located in the heart of the 'City of Everlasting Spring.' This urban oasis was created to preserve and showcase the diverse plant life of northern Peru, featuring an impressive collection of native flowers, trees, and cacti. It provides a tranquil escape from the city's hustle and bustle, with winding paths, shaded benches, and colorful flower beds that attract butterflies and hummingbirds. The garden also serves as a small sanctuary for animals, including peacocks and turtles, making it a favorite spot for families and nature lovers. It is an important center for environmental education, teaching visitors about the importance of plant conservation in an increasingly urban world. The garden's lush beauty reflects Trujillo's pleasant climate and its long tradition of horticultural excellence. It is a perfect place for a quiet stroll and to appreciate the botanical richness of the coastal region."
+      en: "The Trujillo Botanical Garden is a serene and educational green lung located in the heart of the 'City of Eternal Spring'. This well-curated garden is dedicated to the preservation and display of Peru's diverse flora, with a particular focus on the unique plants of the northern desert and highlands. Visitors can explore various sections featuring hundreds of species of cacti, bromeliads, and colorful tropical flowers. The garden also serves as an important center for environmental education, teaching local residents and students about the importance of biodiversity and urban greening. With its shaded paths, peaceful ponds, and vibrant birdlife, it offers a perfect retreat from the city's hustle and bustle, showcasing the natural beauty that thrives in the fertile Moche Valley. Biology K5 — Plant classification and desert flora."
     },
     facts: {
       de: ["Gilt als die grüne Lunge der Stadt.", "Bietet Umweltbildung für Kinder."],
@@ -1059,16 +802,7 @@ export const poiExtraPeruLifeV2: POI[] = [
       en: ["Considered the green lung of the city.", "Provides environmental education for children."]
     },
     factsAdvanced: {
-      de: [],
-      hu: [],
-      ro: [],
-      en: [
-        "A peaceful retreat located just a few blocks from Trujillo's city center.",
-        "Features a wide variety of roses and native orchids.",
-        "Home to several free-roaming peacocks that are a favorite with children.",
-        "Serves as an important 'green lung' for the city of Trujillo.",
-        "Provides educational workshops on gardening and environmental care."
-      ]
+      en: ["The most important botanical garden in northern Peru, located near the city center of Trujillo.", "Features a large collection of native Peruvian cacti, some of which are rare and endangered.", "Includes a specialized greenhouse for orchids and other delicate tropical plants.", "Home to diverse species of hummingbirds and butterflies that are attracted to the flowers.", "Serves as a vital research center for the study of coastal desert ecosystems.", "The garden is a favorite spot for photography and outdoor educational workshops.", "Managed by the local municipality to promote environmental awareness among citizens.", "Includes a section dedicated to traditional medicinal plants used in northern Peru."]
     }
   },
   {
@@ -1089,10 +823,7 @@ export const poiExtraPeruLifeV2: POI[] = [
       en: "A state-of-the-art agricultural coastal area that has made Peru one of the world's top exporters of asparagus."
     },
     descriptionAdvanced: {
-      de: "",
-      hu: "",
-      ro: "",
-      en: "The Virú Valley, located on the northern coast of Peru, is the heart of the country's world-leading asparagus industry. This once-arid desert has been transformed into a lush agricultural powerhouse through massive irrigation projects, making Peru one of the largest exporters of asparagus in the world. The state-of-the-art farms here utilize advanced technology and sustainable water management to produce high-quality green and white asparagus year-round. This industry has brought significant economic growth and employment to the La Libertad region, supporting thousands of families. Beyond asparagus, the valley also produces blueberries, avocados, and artichokes for international markets. A visit to the region reveals the incredible scale and efficiency of modern Peruvian agribusiness. It is a shining example of how innovation and investment can turn the desert into a blooming garden."
+      en: "The Virú Valley, located south of Trujillo, is the epicenter of one of Peru's most successful agricultural booms: the export of asparagus. This arid coastal desert has been transformed into a lush green sea of asparagus fields thanks to the massive Chavimochic irrigation project. Peru is now one of the world's leading exporters of asparagus, and the Virú region produces a significant portion of that total, providing fresh and canned produce to markets in Europe, Asia, and North America. The farms utilize high-tech drip irrigation and precision agriculture to maximize yields in the dry environment. This industry has brought massive economic development to the region, creating thousands of jobs and making Virú a symbol of Peru's modern agro-industrial strength. Agriculture K8 — Export-oriented agriculture and irrigation technology."
     },
     facts: {
       de: ["Nutzt fortschrittliche Wüstenbewässerungstechnologien.", "Der Spargel wird ganzjährig geerntet."],
@@ -1101,17 +832,10 @@ export const poiExtraPeruLifeV2: POI[] = [
       en: ["Utilizes advanced desert irrigation technologies.", "Asparagus is harvested year-round."]
     },
     factsAdvanced: {
-      de: [],
-      hu: [],
-      ro: [],
-      en: [
-        "Peru is the world's leading exporter of fresh asparagus.",
-        "The Chavimochic irrigation project is the primary water source for these farms.",
-        "The valley produces both green and white (buried) asparagus.",
-        "A major source of non-traditional agricultural exports for Peru.",
-        "The industry is a primary employer for thousands of people in the Virú and Trujillo areas."
-      ]
-    }, image: "/poi-images/viru-asparagus-farms-life-v2.webp"},
+      en: ["Peru is the world's second-largest exporter of asparagus, and Virú is its primary production hub.", "The irrigation water is brought from the Santa River via a massive 150-km canal system.", "Both green and white asparagus are grown in the valley for international markets.", "The industry supports a large network of modern processing and canning plants.", "Asparagus is harvested year-round in Virú due to the consistent coastal climate.", "The region has seen a significant population boom due to the labor needs of the farms.", "Virú is also a major producer of blueberries, avocados, and artichokes for export.", "The 'Virú Asparagus Festival' is a major regional event celebrating the industry's success."]
+    },
+    image: "/poi-images/viru-asparagus-farms-life-v2.webp"
+  },
   {
     id: "puno-quinoa-fields-life-v2",
     type: "agriculture",
@@ -1130,10 +854,7 @@ export const poiExtraPeruLifeV2: POI[] = [
       en: "The windswept high plateaus around Lake T Liticaca are the traditional growing region for the Andean superfood quinoa."
     },
     descriptionAdvanced: {
-      de: "",
-      hu: "",
-      ro: "",
-      en: "The high-altitude plateaus of Puno, surrounding Lake Titicaca, are the ancestral home and primary production region of quinoa, the 'Golden Grain of the Andes.' For thousands of years, indigenous Quechua and Aymara farmers have cultivated this nutritious superfood in the harsh conditions of the Altiplano, at altitudes over 3,800 meters. The fields of quinoa, which can range in color from bright red and purple to golden yellow, create a stunning landscape against the deep blue Andean sky. Quinoa is not only an essential staple for local communities but has also become a global health phenomenon, prized for its high protein content and versatility. The traditional farming methods used here, including the use of hand tools and natural fertilizers, preserve the genetic diversity and purity of the grain. A visit to these fields offers a deep connection to the ancient agricultural wisdom of the Andes."
+      en: "The high-altitude plains around Puno, on the shores of Lake Titicaca, are the ancestral home of Quinoa, the 'Golden Grain of the Andes'. For thousands of years, the people of the Altiplano have cultivated this hardy and nutritious plant, which is capable of thriving at altitudes over 3,800 meters and withstanding frost and drought. Quinoa is not just a food source but a sacred crop for the Aymara and Quechua people, often called the 'mother of all grains'. In recent years, quinoa has gained global fame as a 'superfood', leading to a massive increase in demand and a revitalization of traditional farming communities. A visit to the fields during the harvest season reveals a colorful landscape of red, purple, and gold quinoa stalks, a testament to Peru's rich agricultural heritage and its gift to global nutrition. Agriculture K8 — Ancient grains and high-altitude food security."
     },
     facts: {
       de: ["Quinoa war bereits eine heilige Pflanze der Inkas.", "Wächst auf fast 4.000 Metern Höhe."],
@@ -1142,17 +863,10 @@ export const poiExtraPeruLifeV2: POI[] = [
       en: ["Quinoa was considered a sacred plant by the Incas.", "Grows at an altitude of nearly 4,000 meters."]
     },
     factsAdvanced: {
-      de: [],
-      hu: [],
-      ro: [],
-      en: [
-        "Quinoa was considered sacred by the Incas and called 'Chisaya Mama' (Mother of all Grains).",
-        "Puno is the largest quinoa-producing region in the world.",
-        "Quinoa can thrive in extreme conditions, including frost and high soil salinity.",
-        "There are over 3,000 varieties of quinoa found in the Andes.",
-        "The UN declared 2013 as the 'International Year of Quinoa' in recognition of its importance."
-      ]
-    }, image: "/poi-images/puno-quinoa-fields-life-v2.webp"},
+      en: ["The Puno region produces roughly 80% of the quinoa grown in Peru.", "Quinoa is technically a 'pseudo-cereal', related to spinach and beets rather than wheat.", "Contains all nine essential amino acids, making it a complete protein source.", "There are over 3,000 varieties of quinoa, including white, red, and black types.", "Traditional farmers in Puno still use hand-harvesting and wind-winnowing techniques.", "The crop is highly resilient, thriving in poor soils where other grains would fail.", "Quinoa was a primary staple for the Inca armies due to its long shelf life and nutrition.", "The Altiplano's intense solar radiation contributes to the quinoa's high nutrient density."]
+    },
+    image: "/poi-images/puno-quinoa-fields-life-v2.webp"
+  },
   {
     id: "machupicchu-butterfly-house-life-v2",
     type: "kid-landmark",
@@ -1171,10 +885,7 @@ export const poiExtraPeruLifeV2: POI[] = [
       en: "An educational center and sanctuary for butterflies near the famous ruins, showing the life cycle of local species."
     },
     descriptionAdvanced: {
-      de: "",
-      hu: "",
-      ro: "",
-      en: "The Machu Picchu Butterfly House (Mariposario de Machupicchu) is a delightful and educational sanctuary located just a short walk from the town of Aguas Calientes. This dedicated conservation project aims to protect and showcase the incredible diversity of butterflies found in the Machu Picchu Historical Sanctuary and the surrounding cloud forests. Visitors can walk through a lush tropical garden filled with hundreds of colorful butterflies and observe the different stages of their life cycle, from egg and caterpillar to chrysalis and adult. The center is also a research facility that works to document and preserve rare and endangered local species. It is a wonderful place for families and nature lovers to learn about the delicate balance of the Amazonian-Andean ecosystem. The sight of a bright blue Morpho butterfly fluttering through the garden is a truly magical experience. It serves as a beautiful reminder of the small but vital wonders of the Peruvian jungle."
+      en: "The Machu Picchu Butterfly House (Mariposario de Machupicchu) is a beautiful and educational sanctuary located near the town of Aguas Calientes, at the foot of the famous ruins. This center is dedicated to the study and conservation of the incredible variety of butterflies found in the Machu Picchu historical sanctuary, one of the most biodiverse areas in Peru. Visitors can walk through a lush, enclosed garden filled with hundreds of colorful butterflies fluttering among native plants. The center also features a nursery where you can see the different stages of the butterfly life cycle, from tiny eggs to caterpillars and spectacular chrysalises. It is a peaceful spot to learn about the delicate balance of the cloud forest ecosystem and the importance of protecting even its smallest inhabitants. Biology K5 — Butterfly life cycles and tropical forest ecology."
     },
     facts: {
       de: ["Besucher können die Metamorphose live beobachten.", "Fördert den Erhalt des Nebelwald-Ökosystems."],
@@ -1183,17 +894,10 @@ export const poiExtraPeruLifeV2: POI[] = [
       en: ["Visitors can watch the metamorphosis live.", "Promotes the conservation of the cloud forest ecosystem."]
     },
     factsAdvanced: {
-      de: [],
-      hu: [],
-      ro: [],
-      en: [
-        "Home to over 300 different species of butterflies found in the region.",
-        "Focuses on the conservation of native species such as the Blue Morpho and Owl Butterfly.",
-        "Offers guided tours that explain the fascinating biology of butterflies.",
-        "Located along the walking path from Aguas Calientes to the Machu Picchu ruins.",
-        "Participates in reforestation projects to restore butterfly habitats in the area."
-      ]
-    }, image: "/poi-images/machupicchu-butterfly-house-life-v2.webp"},
+      en: ["Located a short walk from Aguas Calientes on the way to the Machu Picchu ruins.", "Home to more than 30 different species of butterflies native to the local cloud forest.", "Features the spectacular 'Morpho' butterfly, known for its bright iridescent blue wings.", "The center conducts a successful breeding and release program to support local populations.", "Includes educational exhibits on the role of butterflies as pollinators in the Amazon.", "The historical sanctuary of Machu Picchu is home to over 300 species of butterflies in total.", "A private conservation initiative that also supports environmental awareness for tourists.", "The site is surrounded by native vegetation that serves as a natural habitat for wild butterflies."]
+    },
+    image: "/poi-images/machupicchu-butterfly-house-life-v2.webp"
+  },
   {
     id: "ausangate-alpaca-farms-life-v2",
     type: "agriculture",
@@ -1212,10 +916,7 @@ export const poiExtraPeruLifeV2: POI[] = [
       en: "The high-altitude pastures surrounding the sacred Ausangate mountain are the heartland of Peruvian alpaca breeding."
     },
     descriptionAdvanced: {
-      de: "",
-      hu: "",
-      ro: "",
-      en: "The high pastures surrounding the sacred Ausangate mountain are the traditional heartland of alpaca herding in Peru. Here, at altitudes exceeding 4,000 meters, Quechua-speaking communities continue a way of life that has remained largely unchanged for centuries. Alpacas are prized for their incredibly soft, warm, and durable fleece, which is a vital source of income and cultural identity for the people of the Andes. Visitors to the region can see vast herds of these gentle animals grazing against a backdrop of glaciers and turquoise lakes. The process of shearing the alpacas and hand-spinning the wool into beautiful textiles is a central part of local life. These 'alpaca farms' are not just businesses, but a spiritual and practical connection to the mountain gods (Apus). The resulting high-quality garments are world-renowned for their luxury and cultural significance."
+      en: "The slopes of Mount Ausangate in the Cusco region are home to some of the world's most traditional and highest-altitude alpaca farms. For centuries, Quechua-speaking communities have lived here at elevations over 4,500 meters, raising herds of alpacas and llamas in one of the most challenging environments on Earth. The alpaca is the lifeblood of these communities, providing fine wool for exquisite textiles, meat for food, and leather. These 'pastores' maintain an ancient way of life, following the rhythm of the mountains and the seasonal availability of the 'ichu' grass. A visit to these remote farms offers a profound look at the deep spiritual and economic bond between the Andean people and their animals. The soft, warm wool of the Ausangate alpacas is considered among the best in Peru, reflecting the purity of the high-altitude landscape. Agriculture K8 — Highland pastoralism and the alpaca textile industry."
     },
     facts: {
       de: ["Alpakawolle ist weltweit für ihre Weichheit geschätzt.", "Die Zucht ist tief in der Quechua-Kultur verwurzelt."],
@@ -1224,17 +925,7 @@ export const poiExtraPeruLifeV2: POI[] = [
       en: ["Alpaca wool is globally prized for its softness.", "The breeding tradition is deeply rooted in Quechua culture."]
     },
     factsAdvanced: {
-      de: [],
-      hu: [],
-      ro: [],
-      en: [
-        "Alpacas have been domesticated in the Andes for over 6,000 years.",
-        "There are two main breeds: Huacaya (fluffy) and Suri (long, silky locks).",
-        "Alpaca wool is naturally hypoallergenic and comes in over 20 natural colors.",
-        "The Ausangate region produces some of the finest 'baby alpaca' fleece in the world.",
-        "Herding is conducted according to ancient communal land-use traditions."
-      ]
+      en: ["Alpaca herding in the Ausangate region dates back thousands of years to pre-Inca times.", "There are two main breeds of alpaca: the fluffy 'Huacaya' and the long-haired 'Suri'.", "The Ausangate communities are famous for their traditional weaving techniques and natural dyes.", "Alpacas have padded feet that do not damage the fragile Andean soil.", "The region's alpacas are adapted to extreme cold and low oxygen levels.", "A major source of income for thousands of families in the remote Cusco highlands.", "The 'Chaccu' is an ancient ritual where wild vicuñas are rounded up for shearing and released.", "Alpaca wool is hypoallergenic and comes in over 20 natural shades."]
     }
   }
 ];
-

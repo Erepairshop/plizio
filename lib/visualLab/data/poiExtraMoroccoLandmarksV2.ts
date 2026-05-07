@@ -13,6 +13,12 @@ export const poiExtraMoroccoLandmarksV2: POI[] = [
       ro: "Moscheea Hassan al II-lea",
       en: "Hassan II Mosque"
     },
+    descriptionAdvanced: {
+      hu: "A II. Hasszán-mecset Casablancában a vallási építészet modern csodája, a világ egyik legnagyobb mecsete. Az 1993-ban befejezett épület II. Hasszán király megbízásából készült, és Michel Pinseau francia építész tervezte. A mecset egyedülálló módon részben az Atlanti-óceán fölé épült, üvegpadlóján keresztül a hívők a víz felett imádkozhatnak. A 210 méter magas minaret a világ második legmagasabb minaretje, csúcsán egy lézer éjszakánként Mekka felé mutat. Az épület a legkiválóbb marokkói kézműves hagyományokat ötvözi a modern technológiával. A díszítéshez használt fafaragásokat, stukkókat és zellige mozaikokat több ezer marokkói mester készítette. A mecset imaterme 25 000 hívő befogadására alkalmas, az udvaron pedig további 80 000 ember fér el. Ez az egyike azon kevés marokkói mecseteknek, amelyeket nem muszlim turisták is látogathatnak. Művészettörténet K12 - Modern szakrális építészet."
+    },
+    factsAdvanced: {
+      hu: ["Az építkezés hét évig tartott, 1986-tól 1993-ig.", "A minaret 210 méter magas, ezzel a világ második legmagasabbja.", "Az imaterem teteje elhúzható, öt perc alatt nyitott égbolttá változtatva a teret.", "A becslések szerint 10 000 kézműves és 2500 építőmunkás dolgozott rajta.", "A komplexum medreszét, könyvtárat, múzeumot és hammamot is magában foglal.", "Az építési költségeket nagyrészt országos közadakozásból fedezték.", "Az imaterem elég nagy ahhoz, hogy a római Szent Péter-bazilika elférjen benne.", "A minaret tetején lévő lézersugár hatótávolsága 30 kilométer."]
+    },
     description: {
       de: "Die Hassan-II.-Moschee in Casablanca ist eine der größten Moscheen der Welt und besitzt ein 210 Meter hohes Minarett. Sie wurde teilweise über dem Atlantischen Ozean errichtet und verbindet traditionelle marokkanische Handwerkskunst mit modernster Technik.",
       hu: "A casablancai II. Hasszán mecset a világ egyik legnagyobb mecsete, 210 méter magas minarettel. Részben az Atlanti-óceán fölé épült, és a hagyományos marokkói kézművességet ötvözi a modern technológiával.",
@@ -40,7 +46,20 @@ export const poiExtraMoroccoLandmarksV2: POI[] = [
         "Can accommodate 105,000 worshippers.",
         "The minaret features a laser pointing towards Mecca."
       ]
-    }, image: "/poi-images/ma-casablanca-hassan-ii-mosque-landmarks-v2.webp"},
+    }, image: "/poi-images/ma-casablanca-hassan-ii-mosque-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Hassan-II.-Moschee in Casablanca ist ein architektonisches Meisterwerk und eine der größten Moscheen der Welt. Ihr 210 Meter hohes Minarett ist das zweithöchste der Welt und ein unverkennbares Wahrzeichen der Stadt. Die Moschee wurde unter der Herrschaft von König Hassan II. erbaut und 1993 fertiggestellt. Einzigartig ist ihre Lage direkt am Atlantischen Ozean, wobei ein Teil des Gebetsraumes über dem Wasser zu schweben scheint und durch einen Glasboden den Blick auf die Wellen freigibt. Der Bau vereint traditionelle marokkanische Handwerkskunst wie Zellige-Mosaike, Stuckarbeiten und geschnitztes Zedernholz mit modernster Technologie, darunter ein Dach, das sich öffnen lässt, und ein Laserstrahl an der Spitze des Minaretts, der in Richtung Mekka zeigt. Sie ist eine der wenigen Moscheen in Marokko, die auch von Nicht-Muslimen im Rahmen von Führungen besichtigt werden kann.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Der Bau dauerte sieben Jahre von 1986 bis 1993.", "Bis zu 105.000 Gläubige können in der Moschee und auf dem Vorplatz Platz finden.", "Das Minarett ist 210 Meter hoch.", "Das Dach der Gebetshalle kann innerhalb von fünf Minuten geöffnet werden.", "Tausende von Handwerkern aus ganz Marokko waren am Bau beteiligt.", "Der Komplex umfasst auch eine Medersa, eine Bibliothek und ein Museum.", "Die Moschee wurde teilweise durch eine landesweite öffentliche Spendenaktion finanziert.", "Die Gebetshalle ist groß genug, um den Petersdom in Rom aufzunehmen."],
+      hu: [],
+      ro: [],
+      en: []
+    }
+  },
   {
     id: "ma-casablanca-cathedral-landmarks-v2",
     type: "landmark",
@@ -51,6 +70,12 @@ export const poiExtraMoroccoLandmarksV2: POI[] = [
       hu: "Casablancai katedrális",
       ro: "Catedrala din Casablanca",
       en: "Casablanca Cathedral"
+    },
+    descriptionAdvanced: {
+      hu: "A casablancai Sacré-Cœur katedrális (Szent Szív katedrális) a 20. századi európai és marokkói építészeti stílusok lenyűgöző ötvözete. Az 1930-ban, a francia protektorátus idején épült templomot Paul Tournon francia építész tervezte neogótikus és Art Deco stílusban, amelyet mór elemekkel gazdagított. A hatalmas, hófehér épület évtizedekig a város katolikus közösségének központja volt. Marokkó 1956-os függetlenné válása után a katedrális elvesztette vallási funkcióját, és egy ideig iskolaként működött. Ma az épület kulturális központként szolgál, ahol kiállításokat, vásárokat és koncerteket rendeznek. A két karcsú torony és a tiszta, geometrikus formák a modern Casablanca egyik jelképévé teszik az épületet. Építészettörténet K10 - Art Deco és a gyarmati építészet."
+    },
+    factsAdvanced: {
+      hu: ["1930-ban épült a francia protektorátus alatt.", "Paul Tournon tervezte, aki a modern egyházi építészet specialistája volt.", "A stílusát gyakran 'mór Art Deco'-ként írják le.", "A beton szerkezet és a letisztult vonalak modernnek számítottak a korban.", "1956, Marokkó függetlensége után kulturális központtá alakították.", "A hagyományos ólomüveg ablakok helyett geometrikus mintázatú rácsok díszítik.", "A katedrális a Parc de la Ligue Arabe (Arab Liga Park) mellett található.", "Bár már nem templom, a város multikulturális múltjának fontos szimbóluma."]
     },
     description: {
       de: "Die Kathedrale Sacré-Cœur de Casablanca ist eine ehemalige römisch-katholische Kirche, die im Art-déco-Stil mit marokkanischen Einflüssen erbaut wurde. Heute dient das markante weiße Gebäude als Kulturzentrum und Ausstellungsort.",
@@ -79,7 +104,20 @@ export const poiExtraMoroccoLandmarksV2: POI[] = [
         "Designed by Paul Tournon.",
         "Ceased religious function in 1956."
       ]
-    }, image: "/poi-images/ma-casablanca-cathedral-landmarks-v2.webp"},
+    }, image: "/poi-images/ma-casablanca-cathedral-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Kathedrale Sacré-Cœur im Herzen von Casablanca ist ein beeindruckendes Beispiel für die neugotische Architektur mit starken Art-déco- und marokkanischen Einflüssen. Entworfen vom französischen Architekten Paul Tournon und 1930 fertiggestellt, diente sie während der französischen Protektoratszeit als römisch-katholische Kathedrale der Stadt. Ihre strahlend weiße Fassade und die beiden markanten, schlanken Türme machen sie zu einem auffälligen Wahrzeichen. Nach der Unabhängigkeit Marokkos verlor die Kathedrale ihre religiöse Funktion und wurde in ein Kulturzentrum umgewandelt. Heute finden in ihren beeindruckenden Innenräumen Ausstellungen, Konzerte und kulturelle Veranstaltungen statt. Das Gebäude ist ein Symbol für die kosmopolitische Geschichte Casablancas im 20. Jahrhundert und die architektonische Verschmelzung europäischer und lokaler Stile.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Erbaut im Jahr 1930, die Türme wurden später hinzugefügt.", "Diente bis zur Unabhängigkeit Marokkos 1956 als katholische Kathedrale.", "Der Architekt Paul Tournon war ein Spezialist für moderne Kirchenarchitektur.", "Der Stil wird oft als 'maurischer Art déco' beschrieben.", "Die Betonkonstruktion war für die damalige Zeit sehr modern.", "Wird heute für Kunstausstellungen und Kulturveranstaltungen genutzt.", "Die Fenster sind mit geometrischen Mustern anstelle von traditionellen Buntglasfenstern gestaltet.", "Die Kathedrale liegt am Parc de la Ligue Arabe, einer großen Grünanlage."],
+      hu: [],
+      ro: [],
+      en: []
+    }
+  },
   {
     id: "ma-casablanca-mahkama-landmarks-v2",
     type: "landmark",
@@ -90,6 +128,12 @@ export const poiExtraMoroccoLandmarksV2: POI[] = [
       hu: "Pasa palotája",
       ro: "Palatul Pașei",
       en: "Mahkama du Pacha"
+    },
+    descriptionAdvanced: {
+      hu: "A Mahkama du Pacha (A Pasa Bírósága) Casablancában egy lenyűgöző közigazgatási épület, amely palotaként is megállná a helyét. Az 1940-es és 50-es években épült a Habous negyedben, vagyis az Új Medinában. Bár ma is bíróságként és hivatalként működik, pazar díszítése a mór építészet egyik gyöngyszemévé teszi. Az épületet Auguste Cadet francia építész tervezte, aki a hagyományos marokkói stílust ötvözte a modern funkcionalitással. A komplexum több mint 60 szobát és több, kertekkel és szökőkutakkal díszített belső udvart rejt. A falakat mindenhol aprólékos zellige mozaikok, finom stukkómunkák, faragott és festett cédrusfa mennyezetek borítják. A Mahkama du Pacha a bizonyíték arra, hogy a 20. században is tovább élt a marokkói kézműves hagyományok legmagasabb szintű művelése. Építészet K9 - Hispano-mór stílus a 20. században."
+    },
+    factsAdvanced: {
+      hu: ["1941 és 1952 között épült Auguste Cadet tervei alapján.", "Eredetileg a casablancai pasa bíróságaként és fogadópalotájaként szolgált.", "A Habous negyedben, az Új Medinában található, amelyet a franciák építettek.", "A díszítését az ország legjobb kézművesei végezték.", "A belső udvarok és a díszítőelemek a granadai Alhambra-palotát idézik.", "Az épületben a márvány, a fa, a stukkó és a csempe mesteri kombinációja látható.", "Mivel ma is aktív kormányzati épület, a látogatása korlátozott.", "Tökéletes példája a francia protektorátus alatti 'neo-mór' építészeti stílusnak."]
     },
     description: {
       de: "Das Mahkama du Pacha ist ein Verwaltungsgebäude in Casablanca, das durch seine prächtige hispano-maurische Architektur besticht. Es beherbergt über 60 kunstvoll verzierte Räume mit aufwendigen Holzschnitzereien und Zellige-Kacheln.",
@@ -118,7 +162,20 @@ export const poiExtraMoroccoLandmarksV2: POI[] = [
         "Served as a courthouse and reception hall.",
         "Access often requires permission."
       ]
-    }, image: "/poi-images/ma-casablanca-mahkama-landmarks-v2.webp"},
+    }, image: "/poi-images/ma-casablanca-mahkama-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Mahkama du Pacha (Gericht des Paschas) in Casablanca ist ein prachtvolles Verwaltungsgebäude, das als ein Juwel der ispano-maurischen Architektur gilt. Erbaut in den 1940er und 50er Jahren, diente es ursprünglich als Gerichtshof und Residenz des Paschas von Casablanca. Obwohl es ein offizielles Regierungsgebäude ist, erinnert seine opulente Gestaltung an einen Palast. Der Komplex umfasst über 60 Räume, die um mehrere Innenhöfe mit Gärten und Brunnen angeordnet sind. Jeder Raum ist kunstvoll mit traditionellen marokkanischen Handwerkskünsten dekoriert: filigrane Zellige-Mosaike, feine Stuckarbeiten, geschnitzte Holztüren und bemalte Zedernholzdecken. Die Mahkama ist ein beeindruckendes Zeugnis für die Bewahrung traditioneller Handwerkskunst auch in der modernen Architektur des 20. Jahrhunderts. Der Zugang für Besucher kann eingeschränkt sein, da es sich um ein aktives Gerichtsgebäude handelt.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Entworfen vom französischen Architekten Auguste Cadet.", "Der Bau dauerte von 1941 bis 1952.", "Kombiniert traditionelle andalusische und marokkanische Stilelemente.", "Befindet sich im Habous-Viertel (Nouvelle Médina).", "Die Dekoration wurde von den besten Handwerkern des Landes ausgeführt.", "Diente sowohl als Gericht als auch als Empfangspalast.", "Die Innenhöfe erinnern an die Alhambra in Granada.", "Die Verwendung von Marmor, Holz und Fliesen ist meisterhaft."],
+      hu: [],
+      ro: [],
+      en: []
+    }
+  },
   {
     id: "ma-casablanca-mohammed-v-square-landmarks-v2",
     type: "landmark",
@@ -129,6 +186,12 @@ export const poiExtraMoroccoLandmarksV2: POI[] = [
       hu: "V. Mohammed tér",
       ro: "Piața Mohammed al V-lea",
       en: "Mohammed V Square"
+    },
+    descriptionAdvanced: {
+      hu: "Az V. Mohammed tér a modern Casablanca adminisztratív és szimbolikus szíve. A teret a francia protektorátus idején, az 1920-as években alakították ki Henri Prost urbanista tervei alapján, és a gyarmati építészet lenyűgöző együttesét vonultatja fel. A teret körülvevő épületek, mint a Bírósági Palota, a Prefektúra, a Postapalota és a Marokkói Bank, mind a 'Mauresque' stílusban épültek, amely az Art Deco és a hagyományos mór építészet fúziója. A tér jellegzetessége a nagy központi szökőkút, amelyet esténként gyakran színes fényekkel világítanak meg, valamint a galambok százai, amelyek a helyiek és a turisták körében is népszerűek. Az V. Mohammed tér a 20. századi városépítészet kiváló példája, és a modern, urbánus Marokkó szimbóluma, ahol a múlt és a jelen találkozik. Városépítészet K10 - A 20. századi gyarmati várostervezés."
+    },
+    factsAdvanced: {
+      hu: ["Az 1920-as években hozták létre Lyautey marsall, az első francia főkormányzó idején.", "Eredetileg Adminisztratív térnek (Place Administrative) nevezték.", "A teret szegélyező főbb épületeket Henri Prost építész tervezte.", "A Prefektúra óratornya a tér egyik meghatározó eleme.", "Az építészet célja a francia modernitás és a marokkói hagyományok ötvözése volt.", "A tér a város hivatalos eseményeinek és ünnepségeinek központi helyszíne.", "A közelben található a nagy zöldterület, az Arab Liga Park.", "A tér éjjel-nappal nyüzsgő, a városlakók kedvelt találkozóhelye."]
     },
     description: {
       de: "Der Platz Mohammed V. ist das administrative Zentrum von Casablanca, umgeben von bedeutenden öffentlichen Gebäuden im französischen Kolonialstil. Er ist bekannt für seine Taubenschwärme und den zentralen Springbrunnen, der abends beleuchtet wird.",
@@ -157,7 +220,20 @@ export const poiExtraMoroccoLandmarksV2: POI[] = [
         "Formerly known as Place Lyautey.",
         "Combines Art Deco with Moorish stylistic elements."
       ]
-    }, image: "/poi-images/ma-casablanca-mohammed-v-square-landmarks-v2.webp"},
+    }, image: "/poi-images/ma-casablanca-mohammed-v-square-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Platz Mohammed V. ist das administrative und symbolische Herz des modernen Casablanca. Entworfen während der französischen Protektoratszeit vom Architekten Henri Prost, ist der Platz von einer beeindruckenden Ansammlung öffentlicher Gebäude umgeben, die den sogenannten Mauresque-Stil, eine Mischung aus Art déco und traditioneller marokkanischer Architektur, repräsentieren. Dazu gehören das Gerichtsgebäude, die Präfektur, die Post und die Bank Al-Maghrib. Der Platz selbst ist ein beliebter Treffpunkt für Einheimische und bekannt für seinen großen zentralen Springbrunnen, der abends oft in bunten Farben beleuchtet wird. Die zahlreichen Tauben, die von Passanten gefüttert werden, sind ein weiteres charakteristisches Merkmal. Der Platz Mohammed V. ist ein Symbol für das moderne, urbane Marokko und ein hervorragendes Beispiel für die Stadtplanung des frühen 20. Jahrhunderts.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Angelegt in den 1920er Jahren unter dem französischen Generalresidenten Lyautey.", "Wichtige Gebäude wurden vom Architekten Henri Prost entworfen.", "Der Uhrturm der Präfektur ist ein markantes Wahrzeichen.", "Der Platz hieß ursprünglich Place de France, später Place Administrative.", "Ein großer moderner Springbrunnen wurde in den letzten Jahren hinzugefügt.", "Die Architektur sollte eine Brücke zwischen französischer Moderne und marokkanischer Tradition schlagen.", "In der Nähe befindet sich der Parc de la Ligue Arabe.", "Der Platz ist ein lebendiger Ort, der Tag und Nacht von Menschen belebt wird."],
+      hu: [],
+      ro: [],
+      en: []
+    }
+  },
   {
     id: "ma-tangier-grand-mosque-landmarks-v2",
     type: "landmark",
@@ -196,7 +272,20 @@ export const poiExtraMoroccoLandmarksV2: POI[] = [
         "Features a distinctive green minaret.",
         "Located in the historic old town."
       ]
-    }, image: "/poi-images/ma-tangier-grand-mosque-landmarks-v2.webp"},
+    }, image: "/poi-images/ma-tangier-grand-mosque-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Große Moschee von Tanger, im Herzen der Medina gelegen, ist ein Gebäude mit einer langen und wechselvollen Geschichte, die die verschiedenen kulturellen Epochen der Stadt widerspiegelt. An diesem Ort stand einst ein römischer Tempel, der dem Herkules geweiht war. Später, während der westgotischen und portugiesischen Herrschaft, wurde an seiner Stelle eine Kathedrale errichtet. Nach der Rückeroberung der Stadt durch Sultan Moulay Ismail im 17. Jahrhundert wurde das Gebäude in eine Moschee umgewandelt und im 19. Jahrhundert unter Sultan Moulay Slimane grundlegend umgebaut und erweitert. Das heutige Bauwerk beeindruckt durch sein reich verziertes Minarett, seine eleganten Innenhöfe und seine zentrale Lage nahe dem Petit Socco. Die Moschee ist ein aktives Gotteshaus und ein wichtiges spirituelles Zentrum für die Bewohner von Tanger.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Der Standort hat eine religiöse Geschichte, die bis in die Römerzeit zurückreicht.", "Wurde im 5. Jahrhundert zu einer westgotischen Kirche.", "Die Portugiesen bauten im 15. Jahrhundert eine Kathedrale an dieser Stelle.", "1684 von Moulay Ismail in eine Moschee umgewandelt.", "Der heutige Bau stammt größtenteils aus dem frühen 19. Jahrhundert.", "Das Minarett ist mit bunten Kacheln geschmückt.", "Befindet sich am Eingang zum ehemaligen römischen Forum.", "Für Nicht-Muslime ist der Innenraum nicht zugänglich."],
+      hu: [],
+      ro: [],
+      en: []
+    }
+  },
   {
     id: "ma-marrakech-dar-el-bacha-landmarks-v2",
     type: "landmark",
@@ -235,7 +324,20 @@ export const poiExtraMoroccoLandmarksV2: POI[] = [
         "Now houses the Museum of Confluences.",
         "Known for its historic coffee house (Bacha Coffee)."
       ]
-    }, image: "/poi-images/ma-marrakech-dar-el-bacha-landmarks-v2.webp"},
+    }, image: "/poi-images/ma-marrakech-dar-el-bacha-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "Dar el Bacha, was 'Haus des Paschas' bedeutet, war einst die Residenz von Thami El Glaoui, dem Pascha von Marrakesch, einer der mächtigsten und umstrittensten Figuren in der marokkanischen Geschichte des 20. Jahrhunderts. Der 1910 erbaute Palast war bekannt für seine opulenten Feste und den luxuriösen Lebensstil seines Besitzers, der hier Politiker wie Winston Churchill und Schriftsteller wie Colette empfing. Der Palast ist ein Meisterwerk der marokkanischen Handwerkskunst mit atemberaubenden Zellige-Fliesen, filigranen Stuckarbeiten und geschnitzten Zedernholzdecken. Nach Jahren des Verfalls wurde der Palast aufwendig restauriert und 2017 als 'Musée des Confluences' (Museum der Zusammenflüsse) wiedereröffnet. Es zeigt Wechselausstellungen, die den Dialog zwischen verschiedenen Kulturen fördern, und beherbergt das berühmte 'Bacha Coffee' Haus, das den Glanz der alten Zeit wiederaufleben lässt.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Erbaut im Jahr 1910 für Thami El Glaoui.", "War bekannt für den verschwenderischen Lebensstil des Paschas.", "Winston Churchill war einer der berühmten Gäste.", "2017 als 'Musée des Confluences' wiedereröffnet.", "Die Architektur zeigt starke andalusische Einflüsse.", "Der Palast verfügt über einen traditionellen Riad-Garten und ein Hammam.", "Das 'Bacha Coffee' bietet über 200 Kaffeesorten aus aller Welt an.", "Die Restaurierung hat die ursprüngliche Pracht des Palastes wiederhergestellt."],
+      hu: [],
+      ro: [],
+      en: []
+    }
+  },
   {
     id: "ma-marrakech-menara-pavilion-landmarks-v2",
     type: "landmark",
@@ -274,7 +376,20 @@ export const poiExtraMoroccoLandmarksV2: POI[] = [
         "The basin serves to irrigate the surrounding orchards.",
         "The pavilion features a distinctive green pyramidal roof."
       ]
-    }, image: "/poi-images/ma-marrakech-menara-pavilion-landmarks-v2.webp"},
+    }, image: "/poi-images/ma-marrakech-menara-pavilion-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Menara-Gärten sind eine der bekanntesten und meistfotografierten Sehenswürdigkeiten von Marrakesch. Die weitläufige Anlage, die aus einem riesigen Olivenhain besteht, wurde im 12. Jahrhundert von den Almohaden angelegt. Im Zentrum der Gärten befindet sich ein großes Wasserbecken, das durch ein 700 Jahre altes, ausgeklügeltes Hydrauliksystem (Qanat) mit Wasser aus dem Atlasgebirge versorgt wird. Am Rande dieses Beckens steht ein eleganter Pavillon (Minzah), der im 16. Jahrhundert von den Saadiern erbaut und im 19. Jahrhundert renoviert wurde. Mit seinem charakteristischen grünen Pyramidendach vor der Kulisse des oft schneebedeckten Hohen Atlas bietet der Pavillon ein ikonisches Bild. Die Gärten dienten nicht nur der Landwirtschaft, sondern auch als Ort der Erholung für die Sultane. Heute sind sie ein beliebter Ort für Einheimische, um der Hektik der Stadt zu entfliehen.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Die Gärten wurden im 12. Jahrhundert unter dem Almohaden-Herrscher Abd al-Mu'min angelegt.", "Das Wasserbecken diente als Reservoir für die Bewässerung der Olivenhaine.", "Das Qanat-System, das das Becken speist, ist ein Meisterwerk antiker Ingenieurskunst.", "Der heutige Pavillon wurde im 19. Jahrhundert unter Sultan Abd ar-Rahman renoviert.", "Der Name 'Menara' leitet sich möglicherweise vom Pavillon mit seinem Leuchtturm-ähnlichen Dach ab.", "Die Gärten erstrecken sich über eine Fläche von fast 100 Hektar.", "Die Legende besagt, dass ein Sultan hier seine Liebhaberinnen nach einer Nacht ertränkt haben soll.", "Die Gärten sind ein ruhiger Kontrast zur belebten Medina von Marrakesch."],
+      hu: [],
+      ro: [],
+      en: []
+    }
+  },
   {
     id: "ma-marrakech-agdal-pavilion-landmarks-v2",
     type: "landmark",
@@ -313,7 +428,20 @@ export const poiExtraMoroccoLandmarksV2: POI[] = [
         "Overlooks the Sahraj el-Hana basin.",
         "Offers views of the High Atlas on clear days."
       ]
-    }, image: "/poi-images/ma-marrakech-agdal-pavilion-landmarks-v2.webp"},
+    }, image: "/poi-images/ma-marrakech-agdal-pavilion-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Agdal-Gärten, südlich des Königspalastes in Marrakesch gelegen, sind die größten und ältesten Gärten der Stadt. Sie wurden im 12. Jahrhundert von den Almohaden angelegt und erstrecken sich über Hunderte von Hektar. Der Name 'Agdal' bedeutet auf Berberisch 'ummauerte Wiese'. Die Gärten sind ein riesiges Mosaik aus Obstgärten mit Orangen-, Zitronen-, Feigen- und Aprikosenbäumen, die durch ein komplexes Netz von Bewässerungskanälen und Wasserbecken gespeist werden. Im Zentrum der Gärten befindet sich das größte Wasserbecken von Marrakesch, das Sahraj el-Hana ('Becken der Gesundheit'). An seinem Rand steht der Dar el-Hana Pavillon, ein elegantes Gebäude, das den Sultanen als Ort der Erholung und für Feste diente. Zusammen mit der Medina und den Menara-Gärten gehören die Agdal-Gärten zum UNESCO-Weltkulturerbe.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Angelegt im 12. Jahrhundert von den Almohaden.", "Erstrecken sich über eine Fläche von rund 400 Hektar.", "Das Bewässerungssystem wird aus dem Hohen Atlas gespeist.", "Die Gärten sind ein Beispiel für die traditionelle islamische Gartenkunst.", "Der Hauptpavillon Dar el-Hana wurde im 19. Jahrhundert neu gestaltet.", "Die Gärten sind nur an bestimmten Tagen für die Öffentlichkeit zugänglich.", "Sie dienten sowohl der Landwirtschaft als auch dem Vergnügen des Hofes.", "Die Gärten sind ein wichtiger Teil des UNESCO-Weltkulturerbes von Marrakesch."],
+      hu: [],
+      ro: [],
+      en: []
+    }
+  },
   {
     id: "ma-marrakech-royal-palace-landmarks-v2",
     type: "landmark",
@@ -352,7 +480,20 @@ export const poiExtraMoroccoLandmarksV2: POI[] = [
         "Features magnificent green tiled roofs.",
         "Used primarily for state receptions."
       ]
-    }, image: "/poi-images/ma-marrakech-royal-palace-landmarks-v2.webp"},
+    }, image: "/poi-images/ma-marrakech-royal-palace-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Königspalast von Marrakesch, auch Dar el-Makhzen genannt, ist die offizielle Residenz des marokkanischen Königs in der 'Roten Stadt'. Der riesige Komplex liegt im südlichen Teil der Medina, angrenzend an die Kasbah. Obwohl der Palast selbst für die Öffentlichkeit strengstens unzugänglich ist, kann man seine imposanten äußeren Mauern und die prachtvollen Tore bewundern. Die Ursprünge des Palastes reichen bis ins 12. Jahrhundert zu den Almohaden zurück, aber der größte Teil der heutigen Anlage wurde von den Alawiden-Sultanen seit dem 17. Jahrhundert erbaut und immer wieder erweitert. Der Komplex umfasst neben den privaten Residenzen des Königs auch Verwaltungsgebäude, eine Kochschule, eine Moschee und die Paradeplätze des Mechouar. Die Anwesenheit der königlichen Garde in ihren traditionellen Uniformen unterstreicht die Bedeutung des Ortes als aktives Zentrum der marokkanischen Monarchie.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Die Ursprünge reichen bis ins 12. Jahrhundert (Almohaden-Dynastie) zurück.", "Der heutige Palast wurde hauptsächlich von den Alawiden erbaut.", "Der Komplex ist vollständig von hohen Mauern umgeben.", "Der Zugang für die Öffentlichkeit ist streng verboten.", "Der Haupteingang befindet sich am Mechouar-Platz.", "Angrenzend an den Palast liegen die historischen Agdal-Gärten.", "Der Palast ist ein Labyrinth aus Höfen, Pavillons und Gärten.", "Er ist eine von mehreren offiziellen Residenzen des marokkanischen Königs im Land."],
+      hu: [],
+      ro: [],
+      en: []
+    }
+  },
   {
     id: "ma-marrakech-dar-si-said-landmarks-v2",
     type: "landmark",
@@ -391,7 +532,20 @@ export const poiExtraMoroccoLandmarksV2: POI[] = [
         "Displays a rich collection of traditional carpets.",
         "Famous for its detailed cedar wood ceiling vault."
       ]
-    }, image: "/poi-images/ma-marrakech-dar-si-said-landmarks-v2.webp"},
+    }, image: "/poi-images/ma-marrakech-dar-si-said-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Dar Si Said, in der südlichen Medina von Marrakesch gelegen, ist ein prächtiger ehemaliger Palast, der heute das Nationale Museum für Weberei und Teppichkunst beherbergt. Das Haus wurde im späten 19. Jahrhundert für Si Said ben Moussa erbaut, der Verteidigungsminister unter seinem Bruder, dem Großwesir Bou Ahmed, war. Das Gebäude ist ein kleineres, aber nicht minder beeindruckendes Gegenstück zum Bahia-Palast seines Bruders. Es ist ein Meisterwerk der andalusisch-marokkanischen Architektur mit zwei Innenhöfen, üppigen Gärten und reich dekorierten Räumen. Besonders bemerkenswert sind die kunstvollen Zellige-Mosaike, die filigranen Stuckarbeiten und die bemalten Holzdecken. Die Sammlung des Museums zeigt eine beeindruckende Vielfalt an Teppichen und Webereien aus verschiedenen Regionen Marokkos und bietet einen tiefen Einblick in diese wichtige nationale Handwerkskunst.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Erbaut in der zweiten Hälfte des 19. Jahrhunderts.", "War die Residenz von Si Said, dem Bruder des Großwesirs Bou Ahmed.", "Beherbergt heute das Nationale Museum für Weberei und Teppichkunst.", "Zeigt Teppiche aus dem Hohen Atlas, Rabat und anderen Regionen.", "Die Architektur ist ein hervorragendes Beispiel für einen Riad-Palast.", "Der 'Hochzeitssaal' im Obergeschoss ist besonders prachtvoll dekoriert.", "Das Museum wurde nach einer Renovierung im Jahr 2018 neu eröffnet.", "Gilt als eines der schönsten Beispiele für die Wohnarchitektur des 19. Jahrhunderts in Marrakesch."],
+      hu: [],
+      ro: [],
+      en: []
+    }
+  },
   {
     id: "ma-fez-royal-palace-landmarks-v2",
     type: "landmark",
@@ -430,7 +584,20 @@ export const poiExtraMoroccoLandmarksV2: POI[] = [
         "Features beautifully crafted bronze doors.",
         "A key element of Marinid architecture."
       ]
-    }, image: "/poi-images/ma-fez-royal-palace-landmarks-v2.webp"},
+    }, image: "/poi-images/ma-fez-royal-palace-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Königspalast von Fès, bekannt als Dar el-Makhzen, ist eine riesige und beeindruckende Anlage, die sich über 80 Hektar erstreckt. Er befindet sich im Viertel Fès el-Jdid ('das neue Fès'), das im 13. Jahrhundert von den Meriniden gegründet wurde, um die Verwaltung der Stadt unterzubringen. Obwohl der Palastkomplex selbst für die Öffentlichkeit nicht zugänglich ist, sind seine monumentalen Eingangstore eine der berühmtesten Sehenswürdigkeiten der Stadt. Die sieben prächtigen, kunstvoll gefertigten Messingtore werden täglich poliert und symbolisieren die sieben Tage der Woche und die sieben Ebenen der Monarchie. Sie sind umgeben von leuchtenden Zellige-Mosaiken und geschnitzten Zedernholzvordächern. Hinter den Mauern verbirgt sich eine eigene Stadt mit Moscheen, Medersas, Gärten und Verwaltungsgebäuden, die dem König als Residenz dient, wenn er in Fès weilt.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Der Palast wurde im 13. Jahrhundert von der Meriniden-Dynastie gegründet.", "Er erstreckt sich über eine Fläche von 80 Hektar.", "Die sieben goldenen Messingtore sind das bekannteste Merkmal.", "Der Palast ist für die Öffentlichkeit nicht zugänglich.", "Er befindet sich im Viertel Fès el-Jdid.", "Der Komplex wurde im Laufe der Jahrhunderte immer wieder erweitert und umgebaut.", "Die Tore wurden im 20. Jahrhundert restauriert.", "Der Palast ist ein aktiver Regierungssitz und wird von Wachen geschützt."],
+      hu: [],
+      ro: [],
+      en: []
+    }
+  },
   {
     id: "ma-fez-bab-bou-jeloud-landmarks-v2",
     type: "landmark",
@@ -469,7 +636,20 @@ export const poiExtraMoroccoLandmarksV2: POI[] = [
         "Features three asymmetrical horseshoe-shaped arches.",
         "Provides a picturesque view of the medina's minarets."
       ]
-    }, image: "/poi-images/ma-fez-bab-bou-jeloud-landmarks-v2.webp"},
+    }, image: "/poi-images/ma-fez-bab-bou-jeloud-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Bab Bou Jeloud, oft als 'Das Blaue Tor' bezeichnet, ist der ikonische Haupteingang zur alten Medina von Fès el-Bali. Obwohl es historisch aussieht, wurde das monumentale Tor erst 1913 von der französischen Protektoratsverwaltung errichtet, um einen repräsentativeren Eingang zur Medina zu schaffen. Es ersetzte ein älteres, bescheideneres Tor. Das Besondere am Bab Bou Jeloud ist seine Farbgebung: Die Außenseite, die zur Neustadt zeigt, ist mit leuchtend blauen Kacheln verziert, der Farbe von Fès. Die Innenseite, die in die Medina führt, ist in Grün gehalten, der Farbe des Islam. Das Tor ist von drei symmetrischen Hufeisenbögen durchbrochen und von Zinnen gekrönt. Es ist ein belebter Ort, der Tag und Nacht von Menschen, Maultieren und Karren durchquert wird und einen spektakulären ersten Eindruck von der mittelalterlichen Welt der Medina vermittelt.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Erbaut im Jahr 1913 von der französischen Verwaltung.", "Die Außenseite ist mit blauen Kacheln (der Farbe von Fès) verziert.", "Die Innenseite ist mit grünen Kacheln (der Farbe des Islam) geschmückt.", "Es ist der Haupteingang zur Medina von Fès el-Bali.", "Das Tor ist im maurischen Stil mit Hufeisenbögen gestaltet.", "Es bietet einen malerischen Blick auf das Minarett der Medersa Bou Inania.", "Der Bereich um das Tor ist gesäumt von Cafés und Restaurants.", "Es ist einer der meistfotografierten Orte in Fès."],
+      hu: [],
+      ro: [],
+      en: []
+    }
+  },
   {
     id: "ma-fez-aben-danan-synagogue-landmarks-v2",
     type: "landmark",
@@ -508,7 +688,20 @@ export const poiExtraMoroccoLandmarksV2: POI[] = [
         "Extensively restored in the 1990s.",
         "Features a rare antique Torah scroll made of deer skin."
       ]
-    }, image: "/poi-images/ma-fez-aben-danan-synagogue-landmarks-v2.webp"},
+    }, image: "/poi-images/ma-fez-aben-danan-synagogue-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Ibn-Danan-Synagoge (auch Aben Danan) im jüdischen Viertel (Mellah) von Fès ist ein wichtiges Zeugnis des reichen jüdischen Erbes in Marokko. Sie wurde im 17. Jahrhundert von der Familie Ibn Danan erbaut, einer prominenten sephardischen Familie, die nach der spanischen Reconquista aus Andalusien floh. Die Synagoge ist ein Beispiel für die traditionelle marokkanisch-jüdische Architektur. Der Innenraum ist schlicht, aber elegant, mit dunklen Holzbänken, einem zentralen Lesepult (Bima) und Wänden, die mit blauen marokkanischen Kacheln verziert sind. Im Keller befindet sich ein Mikwe (rituelles Bad). Nach Jahren des Verfalls wurde die Synagoge in den 1990er Jahren aufwendig restauriert und gehört heute zum UNESCO-Weltkulturerbe. Sie dient als Museum und ist ein bewegender Ort, der die jahrhundertelange Geschichte der jüdischen Gemeinde von Fès lebendig hält.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Erbaut im 17. Jahrhundert von der Familie Ibn Danan.", "Eine der ältesten noch existierenden Synagogen in Fès.", "Wurde in den 1990er Jahren mit Hilfe des World Monuments Fund restauriert.", "Beherbergt eine Sammlung historischer jüdischer Gegenstände.", "Der Tora-Schrein ist aus kunstvoll geschnitztem Holz gefertigt.", "Zeigt die typische Bauweise sephardischer Synagogen in Nordafrika.", "Ist Teil des UNESCO-Weltkulturerbes der Medina von Fès.", "Symbolisiert das historische Zusammenleben von Juden und Muslimen in Marokko."],
+      hu: [],
+      ro: [],
+      en: []
+    }
+  },
   {
     id: "ma-fez-al-attarine-madrasa-landmarks-v2",
     type: "landmark",
@@ -547,7 +740,20 @@ export const poiExtraMoroccoLandmarksV2: POI[] = [
         "Named after the nearby spice market (Souk al-Attarine).",
         "Offers views of the Al-Qarawiyyin Mosque from the roof terrace."
       ]
-    }, image: "/poi-images/ma-fez-al-attarine-madrasa-landmarks-v2.webp"},
+    }, image: "/poi-images/ma-fez-al-attarine-madrasa-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Al-Attarine-Madrasa, erbaut im 14. Jahrhundert unter dem Meriniden-Sultan Abu Said, ist ein Juwel der ispano-maurischen Architektur im Herzen der Medina von Fès. Ihr Name leitet sich vom nahegelegenen Souk der Gewürz- und Parfümhändler (Attarine) ab. Die Medersa (Koranschule) diente dazu, Studenten der nahegelegenen Al-Qarawiyyin-Universität zu beherbergen. Der zentrale Innenhof ist ein Meisterwerk an Harmonie und Detailreichtum. Die Wände sind mit einem Sockel aus kunstvollen Zellige-Mosaiken bedeckt, darüber erheben sich filigrane Stuckarbeiten mit kalligraphischen Inschriften und geometrischen Mustern. Gekrönt wird der Hof von geschnitzten Zedernholzvordächern. Ein zentraler Marmorbrunnen sorgt für eine beruhigende Atmosphäre. Besucher können die kleinen, schlichten Studentenzellen im Obergeschoss besichtigen, die einen starken Kontrast zur Pracht des Hofes bilden.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Erbaut zwischen 1323 und 1325 vom Meriniden-Sultan Abu Said.", "Gilt als eines der schönsten Beispiele der Meriniden-Architektur.", "Der Innenhof ist berühmt für seine exquisite und detailreiche Dekoration.", "Die Stuckarbeiten enthalten Suren aus dem Koran.", "Die Medersa bot Platz für etwa 60 Studenten.", "Von der Dachterrasse hat man einen guten Blick auf den Innenhof der Al-Qarawiyyin-Moschee.", "Wurde aufwendig restauriert, um ihre ursprüngliche Schönheit zu bewahren.", "Die Kombination aus Mosaiken, Stuck und Zedernholz ist charakteristisch für diese Epoche."],
+      hu: [],
+      ro: [],
+      en: []
+    }
+  },
   {
     id: "ma-fez-sahrij-madrasa-landmarks-v2",
     type: "landmark",
@@ -586,7 +792,20 @@ export const poiExtraMoroccoLandmarksV2: POI[] = [
         "'Sahrij' means 'basin' in Arabic.",
         "Recently underwent extensive restoration."
       ]
-    }, image: "/poi-images/ma-fez-sahrij-madrasa-landmarks-v2.webp"},
+    }, image: "/poi-images/ma-fez-sahrij-madrasa-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Sahrij-Madrasa, auch als Madrasa al-Sahrij bekannt, ist eine historische Koranschule im andalusischen Viertel von Fès. Sie wurde 1321 unter dem Meriniden-Sultan Abu al-Hasan gegründet und ist nach dem großen Wasserbecken (arabisch: sahrij) in ihrem Innenhof benannt. Die Medersa bildete einen Komplex mit der nahegelegenen Sbaiyine-Madrasa und der Andalusier-Moschee und diente der Ausbildung von Studenten in Theologie und Recht. Architektonisch ist sie ein weiteres hervorragendes Beispiel für die Kunst der Meriniden, auch wenn sie etwas schlichter ist als ihre berühmte Schwester, die Al-Attarine-Madrasa. Der Innenhof besticht durch seine eleganten Proportionen, die mit Zellige-Mosaiken, Stuck und Zedernholz verziert sind. Nach langer Zeit des Verfalls wurde die Medersa kürzlich aufwendig restauriert und erstrahlt wieder in ihrem alten Glanz, was sie zu einem wichtigen Zeugnis des kulturellen Erbes von Fès macht.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Gegründet im Jahr 1321, was sie zu einer der älteren Meriniden-Madrasas macht.", "Der Name bedeutet 'Madrasa des Beckens'.", "Bildete zusammen mit der Sbaiyine-Madrasa einen Bildungskomplex.", "Befindet sich im traditionell von Andalusiern besiedelten Teil der Medina.", "Die Dekoration ist typisch für die Meriniden-Zeit, aber etwas zurückhaltender.", "Wurde im Rahmen eines umfassenden Programms zur Rettung der Monumente von Fès restauriert.", "Die Restaurierung wurde 2017 abgeschlossen.", "Die Medersa ist ein Beispiel für die dezentrale Anordnung von Bildungseinrichtungen in der Medina."],
+      hu: [],
+      ro: [],
+      en: []
+    }
+  },
   {
     id: "ma-rabat-mohammed-vi-bridge-landmarks-v2",
     type: "landmark",
@@ -625,7 +844,20 @@ export const poiExtraMoroccoLandmarksV2: POI[] = [
         "At 950 meters, it is the longest bridge of its kind in Africa.",
         "The main pylons are 200 meters high."
       ]
-    }, image: "/poi-images/ma-rabat-mohammed-vi-bridge-landmarks-v2.webp"},
+    }, image: "/poi-images/ma-rabat-mohammed-vi-bridge-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Mohammed-VI.-Brücke ist ein beeindruckendes modernes Wahrzeichen, das das Tal des Flusses Bou Regreg nahe Rabat überspannt. Als erste Schrägseilbrücke Marokkos ist sie ein Symbol für die Modernisierung und den Fortschritt des Landes. Die Brücke wurde 2016 eröffnet und ist nach dem amtierenden König Mohammed VI. benannt. Mit einer Länge von 950 Metern und zwei 200 Meter hohen Pylonen, die die sechs Fahrspuren tragen, ist sie ein architektonisches Meisterwerk. Die Pylone sind im Stil islamischer Baukunst gestaltet und erinnern an die Tore der alten Königsstädte. Nachts wird die Brücke von einem dynamischen LED-Beleuchtungssystem in Szene gesetzt, das die Farben wechseln kann. Sie ist ein wichtiger Teil der Autobahnumgehung von Rabat und hat die Verkehrsbelastung in der Hauptstadt erheblich reduziert.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Eröffnet am 7. Juli 2016.", "Marokkos erste und Afrikas längste Schrägseilbrücke ihrer Art.", "Die Gesamtlänge beträgt 950 Meter.", "Die beiden Pylone sind 200 Meter hoch.", "Entworfen von dem marokkanischen Architekten Hicham Lahlou und dem französischen Ingenieur Jean-Marie Duthilleul.", "Die Beleuchtung kann 16 Millionen verschiedene Farben darstellen.", "Die Brücke ist für eine Lebensdauer von 100 Jahren ausgelegt.", "Sie hat die Reisezeit auf der Autobahn um Rabat erheblich verkürzt."],
+      hu: [],
+      ro: [],
+      en: []
+    }
+  },
   {
     id: "ma-rabat-grand-mosque-landmarks-v2",
     type: "landmark",
@@ -664,7 +896,20 @@ export const poiExtraMoroccoLandmarksV2: POI[] = [
         "The minaret has a rectangular Andalusian floor plan.",
         "Located opposite the historic spice market."
       ]
-    }, image: "/poi-images/ma-rabat-grand-mosque-landmarks-v2.webp"},
+    }, image: "/poi-images/ma-rabat-grand-mosque-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Große Moschee von Rabat, auch Jamaa el-Kebir oder El-Atiqa genannt, ist die älteste noch aktive Moschee in der Medina von Rabat. Ihre Ursprünge reichen bis in die Meriniden-Zeit im 13. oder 14. Jahrhundert zurück, auch wenn sie im Laufe der Jahrhunderte mehrfach umgebaut und erweitert wurde. Das heutige Gebäude stammt größtenteils aus dem 19. Jahrhundert. Die Moschee befindet sich in der belebten Rue des Consuls, einer der Haupthandelsstraßen der Medina. Ihr Minarett, das 1939 erbaut wurde, ist ein elegantes Beispiel für die traditionelle Almohaden-Architektur mit seinen geometrischen Verzierungen. Obwohl die Moschee für Nicht-Muslime nicht zugänglich ist, ist ihr Minarett ein wichtiger Orientierungspunkt und ein schönes Beispiel für die religiöse Architektur, die das Herz der Altstadt von Rabat prägt.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Ursprünglich im 14. Jahrhundert von den Meriniden erbaut.", "Im 19. Jahrhundert weitgehend neu aufgebaut.", "Das heutige Minarett wurde 1939 hinzugefügt.", "Es ist die größte Moschee innerhalb der alten Medina von Rabat.", "Liegt an einer der geschäftigsten Einkaufsstraßen der Medina.", "Der Name 'El-Atiqa' bedeutet 'die Alte'.", "Ihr Stil ist typisch für die marokkanische Moscheenarchitektur.", "Sie dient als Hauptmoschee (Freitagsmoschee) für die Bewohner der Medina."],
+      hu: [],
+      ro: [],
+      en: []
+    }
+  },
   {
     id: "ma-rabat-saint-pierre-cathedral-landmarks-v2",
     type: "landmark",
@@ -703,7 +948,20 @@ export const poiExtraMoroccoLandmarksV2: POI[] = [
         "The two distinctive towers were added in the 1930s.",
         "Still operates as an active church."
       ]
-    }, image: "/poi-images/ma-rabat-saint-pierre-cathedral-landmarks-v2.webp"},
+    }, image: "/poi-images/ma-rabat-saint-pierre-cathedral-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Sankt-Peter-Kathedrale (Cathédrale Saint-Pierre) in Rabat ist der Sitz der römisch-katholischen Erzdiözese von Rabat. Das imposante Gebäude im Herzen der modernen Stadt wurde während der französischen Protektoratszeit erbaut und ist ein herausragendes Beispiel für den Art-déco-Stil in Marokko. Der Bau begann 1919, und die beiden markanten, hoch aufragenden Betontürme wurden in den 1930er Jahren hinzugefügt. Die strahlend weiße Fassade und die klaren, geometrischen Linien der Türme bilden einen interessanten Kontrast zur traditionellen marokkanischen Architektur. Im Gegensatz zu vielen anderen Kirchen aus der Kolonialzeit ist die Kathedrale heute noch ein aktives Gotteshaus und dient der katholischen Gemeinde von Rabat. Sie ist ein Symbol für die religiöse Vielfalt und Toleranz in der marokkanischen Hauptstadt.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Grundsteinlegung im Jahr 1919.", "Entworfen vom französischen Architekten Adrien Laforgue.", "Die beiden Türme wurden erst 1930 fertiggestellt.", "Ist der offizielle Sitz des Erzbischofs von Rabat.", "Beispiel für den Art-déco-Stil, der in den 1920er und 30er Jahren populär war.", "Eine der wenigen aktiven Kathedralen in Marokko.", "Papst Franziskus besuchte die Kathedrale während seiner Marokko-Reise 2019.", "Die schlichte Innenausstattung lenkt den Blick auf den Altar."],
+      hu: [],
+      ro: [],
+      en: []
+    }
+  },
   {
     id: "ma-taza-grand-mosque-landmarks-v2",
     type: "landmark",
@@ -742,7 +1000,20 @@ export const poiExtraMoroccoLandmarksV2: POI[] = [
         "The chandelier weighs nearly 3 tons.",
         "Was later expanded by the Marinids."
       ]
-    }, image: "/poi-images/ma-taza-grand-mosque-landmarks-v2.webp"},
+    }, image: "/poi-images/ma-taza-grand-mosque-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Große Moschee von Taza ist eines der ältesten und bedeutendsten Beispiele der Almohaden-Architektur in Marokko. Gegründet im 12. Jahrhundert vom Almohaden-Herrscher Abd al-Mu'min, wurde sie später von den Meriniden im 13. Jahrhundert erweitert. Die Moschee ist berühmt für ihre einzigartige, durchbrochene Kuppel in der Nähe des Mihrabs, deren filigranes Steinmetzwerk das Licht filtert und eine besondere spirituelle Atmosphäre schafft. Ein weiteres Highlight ist der riesige bronzene Kronleuchter, der fast 3 Tonnen wiegt und im Jahr 1294 gestiftet wurde. Er ist einer der größten und ältesten erhaltenen Kronleuchter der islamischen Welt. Die Moschee von Taza ist ein wichtiges historisches Monument, das die architektonische Entwicklung vom strengen Almohaden-Stil zum dekorativeren Meriniden-Stil zeigt.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Gegründet um 1142 von den Almohaden.", "Im späten 13. Jahrhundert von den Meriniden erweitert.", "Berühmt für ihre kunstvoll durchbrochene Kuppel.", "Der große Bronzeleuchter wurde 1294 von Sultan Abu Yaqub Yusuf gestiftet.", "Der Leuchter hat über 500 Schalen für Öllampen.", "Die Moschee ist ein seltenes Beispiel für eine erhaltene Almohaden-Moschee.", "Sie befindet sich in der alten Medina von Taza.", "Die Architektur beeinflusste spätere Bauten in Marokko und Andalusien."],
+      hu: [],
+      ro: [],
+      en: []
+    }
+  },
   {
     id: "ma-fez-borj-sud-landmarks-v2",
     type: "landmark",
@@ -781,7 +1052,20 @@ export const poiExtraMoroccoLandmarksV2: POI[] = [
         "Overlooks the entire UNESCO World Heritage medina.",
         "Formerly served as a military watchtower."
       ]
-    }, image: "/poi-images/ma-fez-borj-sud-landmarks-v2.webp"},
+    }, image: "/poi-images/ma-fez-borj-sud-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Borj Sud (Südfort) ist eine Festung, die auf den Hügeln südlich von Fès thront und einen strategischen Gegenpol zum Borj Nord bildet. Beide Festungen wurden im späten 16. Jahrhundert vom Saadier-Sultan Ahmad al-Mansur erbaut. Ihr Hauptzweck war weniger die Verteidigung gegen äußere Feinde, sondern vielmehr die Kontrolle der oft unruhigen Bevölkerung von Fès. Die Architektur des Borj Sud, ähnlich wie die des Borj Nord, ist stark von der europäischen Militärarchitektur der Renaissance beeinflusst, was auf den Einsatz portugiesischer Gefangener oder Ingenieure beim Bau hindeutet. Heute ist die Festung selbst nicht immer zugänglich, aber die Hügel, auf denen sie steht, bieten den wohl spektakulärsten und umfassendsten Panoramablick über die gesamte, riesige Medina von Fès el-Bali. Besonders bei Sonnenauf- und -untergang ist der Anblick unvergesslich.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Erbaut um 1582 von Sultan Ahmad al-Mansur.", "Bildet das Gegenstück zum Borj Nord auf der Nordseite der Stadt.", "Die Architektur zeigt Einflüsse portugiesischer Festungsanlagen.", "Hauptzweck war die militärische Kontrolle der Stadt Fès.", "Bietet den besten Panoramablick auf die Medina.", "Ist aus massivem Stein und Lehm gebaut.", "Die Festung ist besonders bei Fotografen sehr beliebt.", "In der Nähe befinden sich die alten jüdischen und christlichen Friedhöfe."],
+      hu: [],
+      ro: [],
+      en: []
+    }
+  },
   {
     id: "ma-chefchaouen-spanish-mosque-landmarks-v2",
     type: "landmark",
@@ -820,7 +1104,20 @@ export const poiExtraMoroccoLandmarksV2: POI[] = [
         "Was shunned by the local population.",
         "Popular spot to watch the sunset over Chefchaouen."
       ]
-    }, image: "/poi-images/ma-chefchaouen-spanish-mosque-landmarks-v2.webp"},
+    }, image: "/poi-images/ma-chefchaouen-spanish-mosque-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "Die 'Spanische Moschee' (Jemaa Bouzafar) ist ein malerisches, verlassenes Gebäude auf einem Hügel östlich von Chefchaouen. Sie wurde in den 1920er Jahren von den Spaniern während ihrer Protektoratszeit in Nordmarokko erbaut, angeblich um die Herzen der lokalen Bevölkerung zu gewinnen. Die Einheimischen jedoch mieden die Moschee, da sie von ausländischen Besatzern erbaut wurde, und so wurde sie nie wirklich für den Gottesdienst genutzt. Heute ist die verlassene Moschee vor allem wegen ihrer Lage berühmt. Ein kurzer Spaziergang von der Medina führt hinauf zu diesem Hügel, von wo aus man einen atemberaubenden Panoramablick über die berühmte 'Blaue Stadt' Chefchaouen hat. Besonders bei Sonnenuntergang versammeln sich hier Reisende und Einheimische, um zu beobachten, wie die blauen Gassen und Häuser in ein warmes, goldenes Licht getaucht werden.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Erbaut in den 1920er Jahren während des spanischen Protektorats.", "Wurde von den Einheimischen nie als Gotteshaus angenommen.", "Liegt auf einem Hügel gegenüber der Medina von Chefchaouen.", "Der Weg zur Moschee führt entlang des Flusses Ras El Maa.", "Ist einer der beliebtesten Orte, um den Sonnenuntergang zu fotografieren.", "Das Gebäude selbst ist einfach und unverziert.", "Der Blick umfasst die gesamte blaue Medina und die umliegenden Rif-Berge.", "Der Name 'Jemaa Bouzafar' bezieht sich auf den alten Namen des Ortes."],
+      hu: [],
+      ro: [],
+      en: []
+    }
+  },
   {
     id: "ma-taroudant-city-walls-landmarks-v2",
     type: "landmark",
@@ -859,7 +1156,20 @@ export const poiExtraMoroccoLandmarksV2: POI[] = [
         "Include 130 watchtowers and 9 monumental gates.",
         "Built in the 16th century by the Saadians."
       ]
-    }, image: "/poi-images/ma-taroudant-city-walls-landmarks-v2.webp"},
+    }, image: "/poi-images/ma-taroudant-city-walls-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "Taroudant, oft als 'Großmutter von Marrakesch' bezeichnet, ist berühmt für seine vollständig erhaltenen, imposanten Stadtmauern. Die massiven Wälle aus Pisé (Stampflehm) erstrecken sich über eine Länge von fast 8 Kilometern und umgeben die gesamte Medina. Sie wurden im 16. Jahrhundert von der Saadier-Dynastie verstärkt, die Taroudant kurzzeitig zu ihrer Hauptstadt machte, bevor sie nach Marrakesch zogen. Die Mauern sind bis zu 7 Meter hoch und werden von 130 Bastionen und 9 monumentalen Toren unterbrochen. Ein Spaziergang oder eine Kutschfahrt entlang dieser beeindruckenden Befestigungsanlagen ist ein Muss für jeden Besucher. Die rot-ockerfarbenen Mauern, die im Licht der untergehenden Sonne leuchten, verleihen der Stadt eine magische Atmosphäre und zeugen von ihrer reichen Vergangenheit als wichtige Karawanenstadt und Festung.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Die Mauern sind fast 8 Kilometer lang.", "Sie wurden im 16. Jahrhundert von den Saadiern ausgebaut.", "Es gibt 9 historische Tore (Babs), die in die Medina führen.", "Die Mauern bestehen aus Stampflehm, einer traditionellen nordafrikanischen Bautechnik.", "Taroudant war im 16. Jahrhundert die erste Hauptstadt der Saadier.", "Die Mauern sind eine der am besten erhaltenen Befestigungsanlagen in Marokko.", "Eine Kutschfahrt um die Mauern dauert etwa eine Stunde.", "Die Mauern boten Schutz vor den Angriffen feindlicher Stämme."],
+      hu: [],
+      ro: [],
+      en: []
+    }
+  },
   {
     id: "ma-essaouira-skala-de-la-ville-landmarks-v2",
     type: "landmark",
@@ -898,7 +1208,20 @@ export const poiExtraMoroccoLandmarksV2: POI[] = [
         "Served as a filming location for the series Game of Thrones (as Astapor).",
         "Much of the cannons were cast in Spain."
       ]
-    }, image: "/poi-images/ma-essaouira-skala-de-la-ville-landmarks-v2.webp"},
+    }, image: "/poi-images/ma-essaouira-skala-de-la-ville-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Skala de la Ville ist die imposante Seebastion, die die Medina von Essaouira vor den Wellen des Atlantiks schützt. Diese Befestigungsanlage wurde im 18. Jahrhundert unter Sultan Sidi Mohammed ben Abdallah erbaut, der den französischen Architekten Théodore Cornut mit der Planung der modernen Stadt beauftragte. Die Skala ist eine lange Plattform, auf der eine Reihe von Bronzekanonen aus dem 18. und 19. Jahrhundert aufgereiht sind, viele davon Geschenke europäischer Händler. Die Kanonen blicken auf das Meer und die vorgelagerten Purpurinseln. Die Skala diente nicht nur der Verteidigung, sondern ist heute auch ein beliebter Spazierweg, der atemberaubende Ausblicke auf den tosenden Atlantik, die Fischerboote und die Schreie der Möwen bietet. Die einzigartige Atmosphäre der Skala zog auch Filmemacher an; so wurden hier Szenen für Orson Welles' 'Othello' und die Serie 'Game of Thrones' gedreht.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Erbaut in den 1760er Jahren.", "Entworfen vom französischen Militärarchitekten Théodore Cornut.", "Die Kanonen wurden größtenteils in Spanien und den Niederlanden gegossen.", "Bietet Schutz vor den starken Winden und Wellen des Atlantiks.", "Ein Drehort für die Serie 'Game of Thrones' (dargestellt als Astapor).", "Orson Welles drehte hier Teile seines Films 'Othello'.", "Die Bastion ist Teil der UNESCO-Weltkulturerbe-Stätte von Essaouira.", "Von der Skala aus kann man die vorgelagerten 'Iles Purpuraires' sehen."],
+      hu: [],
+      ro: [],
+      en: []
+    }
+  },
   {
     id: "ma-essaouira-bab-marrakech-landmarks-v2",
     type: "landmark",
@@ -937,7 +1260,20 @@ export const poiExtraMoroccoLandmarksV2: POI[] = [
         "The interior features a remarkable stone vault.",
         "Part of the UNESCO-listed medina."
       ]
-    }, image: "/poi-images/ma-essaouira-bab-marrakech-landmarks-v2.webp"},
+    }, image: "/poi-images/ma-essaouira-bab-marrakech-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Bab Marrakech ist eines der historischsten und architektonisch interessantesten Tore der Medina von Essaouira. Es liegt am südöstlichen Ende der Altstadt und führte, wie der Name schon sagt, zur Straße nach Marrakesch. Das Tor ist in eine massive, runde Bastion integriert, die Teil der im 18. Jahrhundert errichteten Stadtbefestigung ist. Die Architektur zeugt von der militärischen Ingenieurskunst der damaligen Zeit, die europäische und marokkanische Stilelemente miteinander verband. Die Bastion selbst ist ein beeindruckendes Bauwerk aus Stein. Heute hat das Tor seine defensive Funktion verloren und dient als Durchgang zu einem belebten Marktbereich. Die oberen Räume der Bastion werden oft für Kunstausstellungen und kulturelle Veranstaltungen genutzt und bieten einen faszinierenden Einblick in die Struktur dieser alten Festungsanlage.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Teil der im 18. Jahrhundert erbauten Stadtbefestigung.", "Führte historisch auf die Handelsroute nach Marrakesch.", "Die runde Form der Bastion ist ungewöhnlich für marokkanische Tore.", "Die Architektur wurde vom französischen Ingenieur Théodore Cornut beeinflusst.", "Heute befindet sich in der Nähe ein lebhafter lokaler Markt.", "Die Bastion wird gelegentlich als Kunstraum genutzt.", "Das Tor ist ein gutes Beispiel für die militärische Architektur des 18. Jahrhunderts in Marokko.", "Es ist eines der Haupttore, die in die UNESCO-geschützte Medina führen."],
+      hu: [],
+      ro: [],
+      en: []
+    }
+  },
   {
     id: "ma-agadir-grand-mosque-landmarks-v2",
     type: "landmark",
@@ -948,6 +1284,16 @@ export const poiExtraMoroccoLandmarksV2: POI[] = [
       hu: "Loubnan mecset (Agadiri Nagymecset)",
       ro: "Moscheea Loubnan (Marea Moschee din Agadir)",
       en: "Mosquée Loubnan (Agadir Grand Mosque)"
+    },
+    descriptionAdvanced: {
+      hu: "Az Agadiri Nagymecset, más néven a Loubnan (Libanon) mecset, a város modern újjáépítésének egyik szimbóluma az 1960-as pusztító földrengés után. Az épület a nemzetközi szolidaritás jelképe, építését részben Libanon állam finanszírozta, innen ered a neve is. Építészetileg a modernista stílust ötvözi a hagyományos marokkói elemekkel. A mecsetet Jean-François Zevaco francia építész tervezte, aki fontos szerepet játszott Agadir újjáépítésében. A mecset elegáns, díszes minaretje a modern városkép egyik meghatározó eleme. A Loubnan mecset nemcsak Agadir fő vallási központja, hanem az újjászületés és a város ellenálló képességének fontos szimbóluma is. Földrajz K8 – Várostervezés és katasztrófák utáni újjáépítés.",
+      ro: "Marea Moschee din Agadir, cunoscută și ca Moscheea Loubnane (Liban), este un exemplu remarcabil de arhitectură islamică modernă. Situată în cartierul Talborjt, a fost construită după cutremurul din 1960 și se distinge prin designul său inovator, care îmbină elemente tradiționale cu o estetică contemporană. Spre deosebire de moscheile clasice, aceasta nu are un minaret tradițional, ci un turn pătrat, masiv, care servește acestui scop. Fațadele sunt decorate cu motive geometrice complexe și caligrafie, iar interiorul este spațios și luminos. Moscheea este un centru spiritual important pentru comunitatea locală și un monument arhitectural care reflectă renașterea orașului Agadir. Arhitectură K8 – stiluri moderne în arhitectura sacră."
+    },
+    factsAdvanced: {
+      ro: ["Moscheea este situată pe Bulevardul 20 August, în centrul orașului.", "Construcția sa a făcut parte din planul de reconstrucție a orașului.", "Designul său a fost influențat de arhitectura funcționalistă.", "Curtea interioară (sahn) este vastă și include o fântână pentru abluțiune.", "Poate găzdui mii de credincioși în timpul rugăciunilor de vineri.", "Ca și în cazul majorității moscheilor din Maroc, accesul în interior este permis doar musulmanilor.", "Numele 'Loubnane' provine de la piața din apropiere.", "Este un punct de reper important în peisajul urban al noului Agadir."]
+    },
+    factsAdvanced: {
+      hu: ["Az 1960-as földrengés utáni újjáépítési terv részeként épült.", "Építését részben Libanon állam adományából finanszírozták.", "Jean-François Zevaco, a modernista építészet jeles képviselője tervezte.", "Agadir legnagyobb mecsete.", "Az épület a modern betonépítészetet és a hagyományos marokkói díszítőelemeket ötvözi.", "Minaretje a városközpont egyik legfontosabb tájékozódási pontja.", "Az újjászületett Agadir szimbóluma.", "A belső tér a nagyközönség számára nem látogatható."]
     },
     description: {
       de: "Die Mosquée Loubnan, auch bekannt als die Libanon-Moschee, ist das wichtigste islamische Gotteshaus im neuen Agadir. Sie wurde nach dem verheerenden Erdbeben von 1960 als Symbol der Wiedergeburt und der internationalen Solidarität errichtet.",
@@ -976,7 +1322,20 @@ export const poiExtraMoroccoLandmarksV2: POI[] = [
         "Central landmark of Agadir's modern urban planning.",
         "Features an ornately decorated Andalusian-style minaret."
       ]
-    }, image: "/poi-images/ma-agadir-grand-mosque-landmarks-v2.webp"},
+    }, image: "/poi-images/ma-agadir-grand-mosque-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Mosquée Loubnan (Libanon-Moschee) ist die Große Moschee des modernen Agadir. Sie wurde nach dem verheerenden Erdbeben von 1960 erbaut, das die alte Stadt fast vollständig zerstörte. Die Moschee ist ein zentrales Element des Wiederaufbaus und ein Symbol der Hoffnung und Erneuerung. Ihr Bau wurde teilweise durch eine Spende des libanesischen Staates finanziert, daher der Name. Die Architektur ist eine moderne Interpretation des traditionellen marokkanischen Stils. Das elegante, kunstvoll verzierte Minarett ist ein weithin sichtbares Wahrzeichen in der modernen Skyline von Agadir. Die Moschee ist das wichtigste religiöse Zentrum der Stadt und ein Ort des Gebets für Tausende von Einwohnern. Sie repräsentiert die Widerstandsfähigkeit der Stadt und die internationale Solidarität, die nach der Katastrophe von 1960 gezeigt wurde.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Erbaut als Teil des Wiederaufbauplans nach dem Erdbeben von 1960.", "Teilweise durch eine Spende aus dem Libanon finanziert.", "Entworfen vom marokkanischen Architekten Jean-François Zevaco.", "Ist die größte Moschee in Agadir.", "Die Architektur verbindet modernen Betonbau mit traditionellen marokkanischen Dekorelementen.", "Das Minarett ist ein wichtiges Wahrzeichen im Stadtzentrum.", "Die Moschee ist ein Symbol für die Wiedergeburt von Agadir.", "Für Nicht-Muslime ist der Innenraum nicht zugänglich."],
+      hu: [],
+      ro: [],
+      en: []
+    }
+  },
   {
     id: "ma-fez-moulay-idriss-ii-landmarks-v2",
     type: "landmark",
@@ -1015,7 +1374,20 @@ export const poiExtraMoroccoLandmarksV2: POI[] = [
         "Non-Muslims are not allowed to enter the building.",
         "The alleys around the mausoleum are marked with wooden beams to define the sacred area."
       ]
-    }, image: "/poi-images/ma-fez-moulay-idriss-ii-landmarks-v2.webp"},
+    }, image: "/poi-images/ma-fez-moulay-idriss-ii-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Mausoleum von Moulay Idris II. ist das Herz der Medina von Fès und eine der heiligsten Stätten Marokkos. Es beherbergt das Grab von Idris II., der im frühen 9. Jahrhundert die Stadt Fès gründete und als deren Schutzpatron gilt. Der Ort ist ein wichtiges Pilgerziel für Marokkaner, die hierher kommen, um Segen (Baraka) zu erbitten. Der ursprüngliche Schrein wurde im 9. Jahrhundert errichtet, aber der heutige Komplex stammt größtenteils aus dem 18. Jahrhundert und wurde von Sultan Moulay Ismail prachtvoll ausgebaut. Das Mausoleum ist ein Meisterwerk der marokkanischen religiösen Architektur mit einem pyramidenförmigen grünen Ziegeldach, kunstvollen Zellige-Mosaiken und filigranen Stuckarbeiten. Der Bereich um das Mausoleum (die Horm) galt als heiliger, unantastbarer Zufluchtsort. Der Zugang zum Mausoleum selbst ist Nicht-Muslimen nicht gestattet.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Moulay Idris II. war der Sohn des Staatsgründers Idris I. und gilt als eigentlicher Gründer von Fès (um 809).", "Sein Grab wurde erst im 15. Jahrhundert wiederentdeckt.", "Der heutige Bau wurde hauptsächlich im 18. Jahrhundert errichtet.", "Ist eine der heiligsten Pilgerstätten in Marokko.", "Das grüne Dach ist ein Symbol für Heiligkeit.", "Der Zugang zum Innenraum ist nur Muslimen gestattet.", "Die Gassen, die zum Mausoleum führen, sind oft überfüllt mit Pilgern und Händlern.", "Der Bezirk um das Mausoleum (Horm) gewährte früher Asyl."],
+      hu: [],
+      ro: [],
+      en: []
+    }
+  },
   {
     id: "ma-moulay-idriss-zerhoun-landmarks-v2",
     type: "landmark",
@@ -1054,7 +1426,20 @@ export const poiExtraMoroccoLandmarksV2: POI[] = [
         "Located near the ancient Roman city of Volubilis.",
         "An annual Moussem (pilgrimage festival) attracts thousands of visitors."
       ]
-    }, image: "/poi-images/ma-moulay-idriss-zerhoun-landmarks-v2.webp"},
+    }, image: "/poi-images/ma-moulay-idriss-zerhoun-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "Moulay Idriss Zerhoun ist eine kleine Stadt auf einem Hügel, die als eine der heiligsten Städte Marokkos gilt. Hier befindet sich das Grabmal von Moulay Idris I., einem Urenkel des Propheten Mohammed, der im 8. Jahrhundert die erste arabische Dynastie in Marokko gründete und als Staatsgründer verehrt wird. Die Stadt war bis ins 20. Jahrhundert für Nicht-Muslime unzugänglich. Das Mausoleum (Zawiya) mit seinem markanten, einzigartigen zylindrischen Minarett, das mit grünen Koransuren verziert ist, zieht Pilger aus dem ganzen Land an. Jedes Jahr im Spätsommer findet ein großes Pilgerfest (Moussem) statt. Die Stadt selbst ist malerisch an den Hängen des Berges Zerhoun gelegen und bietet von oben eine wunderschöne Aussicht auf die umliegende Landschaft und die nahegelegenen römischen Ruinen von Volubilis.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Moulay Idris I. gründete die Idrisiden-Dynastie im Jahr 788.", "Ist die heiligste Stadt Marokkos für viele Muslime.", "Das zylindrische Minarett wurde erst 1939 gebaut und ist in Marokko einzigartig.", "Die Stadt war bis 1912 für Nicht-Muslime gesperrt.", "Das jährliche Moussem ist eines der größten religiösen Feste in Marokko.", "Die Stadt liegt nur 5 km von der antiken Stätte Volubilis entfernt.", "Der Leichnam von Moulay Idris I. wurde im 11. Jahrhundert hierher überführt.", "Die grünen Ziegeldächer der Stadt symbolisieren ihre Heiligkeit."],
+      hu: [],
+      ro: [],
+      en: []
+    }
+  },
   {
     id: "ma-fez-cherratine-madrasa-landmarks-v2",
     type: "landmark",
@@ -1093,7 +1478,20 @@ export const poiExtraMoroccoLandmarksV2: POI[] = [
         "The largest madrasa in Fez, with over 120 cells.",
         "The floor plan is organized around three large courtyards."
       ]
-    }, image: "/poi-images/ma-fez-cherratine-madrasa-landmarks-v2.webp"},
+    }, image: "/poi-images/ma-fez-cherratine-madrasa-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Cherratine-Madrasa (auch Ech-Cherratine) ist eine der größten Koranschulen in Fès. Sie wurde 1670 vom Alawiden-Sultan Moulay ar-Raschid gegründet, um die wachsende Zahl von Studenten der Al-Qarawiyyin-Universität unterzubringen. Im Gegensatz zu den früheren, reich verzierten Medersas der Meriniden-Dynastie, zeichnet sich die Cherratine-Madrasa durch einen viel schlichteren und funktionaleren Stil aus. Anstelle eines einzigen opulenten Innenhofs ist sie um drei separate, einfachere Höfe herum organisiert und bot Platz für über 200 Studenten in kleinen Zellen. Die Dekoration ist zurückhaltend und konzentriert sich auf geschnitztes Holz und einige Kachelarbeiten. Die Medersa repräsentiert den Wandel in der Architektur und den Prioritäten der Alawiden-Dynastie und bietet einen interessanten Kontrast zu den älteren, prächtigeren Koranschulen der Stadt.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Erbaut im Jahr 1670 vom Alawiden-Sultan ar-Raschid.", "Mit Platz für etwa 240 Studenten war sie die größte Medersa ihrer Zeit in Fès.", "Die Architektur ist funktionaler und weniger ornamental als die der Meriniden-Bauten.", "Der Komplex ist um drei Innenhöfe herum aufgebaut.", "Sie sollte die Studenten unterbringen, die in den älteren Medersas keinen Platz mehr fanden.", "Die Restaurierung der Medersa wurde kürzlich abgeschlossen.", "Sie liegt in der Nähe des Gewürzhändler-Souks (Souk al-Attarine).", "Der Name leitet sich von den Seilmachern ab, die früher in der Nähe arbeiteten."],
+      hu: [],
+      ro: [],
+      en: []
+    }
+  },
   {
     id: "ma-meknes-dar-jamai-landmarks-v2",
     type: "landmark",
@@ -1132,7 +1530,20 @@ export const poiExtraMoroccoLandmarksV2: POI[] = [
         "Was converted into a museum in 1920.",
         "Features an Andalusian garden in traditional riad style."
       ]
-    }, image: "/poi-images/ma-meknes-dar-jamai-landmarks-v2.webp"},
+    }, image: "/poi-images/ma-meknes-dar-jamai-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Dar Jamai ist ein prächtiger Palast aus dem späten 19. Jahrhundert in Meknès, der einen Einblick in den luxuriösen Lebensstil der marokkanischen Elite dieser Zeit bietet. Er wurde 1882 als Residenz für die einflussreiche Jamai-Familie erbaut, die am Hof des Sultans diente. Der Palast ist ein wunderschönes Beispiel der marokkanischen Riad-Architektur mit einem großen andalusischen Garten im Innenhof, Springbrunnen und reich verzierten Salons. Die Räume sind mit traditionellen Zellige-Mosaiken, kunstvollen Stuckarbeiten und bemalten Zedernholzdecken geschmückt. Im Jahr 1920 wurde der Palast in ein Museum umgewandelt, das heute das 'Musée de la Musique' (Musikmuseum) beherbergt. Die Sammlung zeigt eine Vielzahl traditioneller marokkanischer Musikinstrumente und erklärt ihre Rolle in der reichen musikalischen Tradition des Landes. Der Palast selbst ist ebenso sehenswert wie die Ausstellung.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Erbaut im Jahr 1882 für die Jamai-Familie.", "Seit 1920 als Museum genutzt.", "Beherbergt heute das Museum für marokkanische Musik.", "Der Palast ist um einen großen andalusischen Garten herum angelegt.", "Die Dekoration ist ein herausragendes Beispiel für die marokkanische Handwerkskunst des 19. Jahrhunderts.", "Das Museum präsentiert Instrumente wie die Oud, die Gimbri und verschiedene Trommeln.", "Liegt in der Nähe des berühmten Platzes El Hedim.", "Die Familie Jamai verlor den Palast, nachdem sie beim Sultan in Ungnade gefallen war."],
+      hu: [],
+      ro: [],
+      en: []
+    }
+  },
   {
     id: "ma-meknes-bab-el-khemis-landmarks-v2",
     type: "landmark",
@@ -1171,6 +1582,18 @@ export const poiExtraMoroccoLandmarksV2: POI[] = [
         "The gate was flanked by two square bastions.",
         "Its name comes from the weekly market that used to be held on Thursdays."
       ]
+    },
+    descriptionAdvanced: {
+      de: "Das Bab el-Khemis, das 'Tor des Donnerstags', ist eines der imposantesten Tore der von Sultan Moulay Ismail erbauten Kaiserstadt von Meknès. Es wurde im späten 17. oder frühen 18. Jahrhundert errichtet und diente als zeremonieller westlicher Eingang zur Mellah, dem jüdischen Viertel, und den Gärten. Das Tor ist ein Meisterwerk der Alawiden-Architektur, reich verziert mit grünen und schwarzen Zellige-Kacheln, die geometrische Muster und florale Motive bilden. Eine Inschrift aus dem Koran preist die Macht und den Ruhm des Sultans. Flankiert wird das Tor von zwei robusten, vorspringenden Bastionen. Sein Name leitet sich von einem Wochenmarkt ab, der früher donnerstags vor dem Tor stattfand. Heute ist das Bab el-Khemis ein eindrucksvolles Zeugnis für den Ehrgeiz und die architektonische Vision von Moulay Ismail.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Erbaut im späten 17. Jahrhundert unter Sultan Moulay Ismail.", "Reich verziert mit Zellige-Mosaiken und kalligraphischen Inschriften.", "Der Name bezieht sich auf einen früher hier stattfindenden Donnerstagsmarkt.", "Diente als Eingang zur Mellah und den königlichen Gärten.", "Die Architektur ist typisch für die Prachtbauten der Ismail-Ära.", "Die Inschrift über dem Bogen ist ein Zitat aus dem Koran.", "Das Tor wurde aus Stampflehm und Ziegeln gebaut und dann verziert.", "Es ist eines der vielen monumentalen Tore, die die Kaiserstadt von Meknès schmücken."],
+      hu: [],
+      ro: [],
+      en: []
     }
   }
 ];

@@ -200,7 +200,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
     description: {
       de: "Eine historische Küstenfestung, deren Verteidigung im Krieg von 1812 das Gedicht 'The Star-Spangled Banner' inspirierte.",
       hu: "Történelmi tengerparti erőd, amelynek védelme az 1812-es háborúban a 'The Star-Spangled Banner' című verset ihlette.",
-      ro: "O fortăreață de coastă istorică a cărei apărare în Războiul din 1812 a inspirat poemul „The Star-Spangled Banner”.",
+      ro: "O fortăreață de coastă istorică a cărei apărare în Războiul din 1812 a inspirat poemul \"The Star-Spangled Banner\".",
       en: "A historical coastal fort whose defense in the War of 1812 inspired 'The Star-Spangled Banner' poem."
     },
     facts: {
@@ -275,7 +275,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
     facts: {
       de: ["Tor für über 12 Millionen Einwanderer", "Teil des Freiheitsstatue-Nationaldenkmals", "Museum für Einwanderungsgeschichte", "Spitzname 'Insel der Hoffnung, Insel der Tränen'"],
       hu: ["Több mint 12 millió bevándorló kapuja", "A Szabadság-szobor Nemzeti Emlékmű része", "Bevándorlási Történeti Múzeum", "Beceneve 'A Remény Szigete, a Könnyek Szigete'"],
-      ro: ["Poarta de acces pentru peste 12 milioane de imigranți", "Parte a Monumentului Național Statuia Libertății", "Muzeul de Istorie a Imigrației", "Poreclită „Insula Speranței, Insula Lacrimilor”"],
+      ro: ["Poarta de acces pentru peste 12 milioane de imigranți", "Parte a Monumentului Național Statuia Libertății", "Muzeul de Istorie a Imigrației", "Poreclită \"Insula Speranței, Insula Lacrimilor\""],
       en: ["Gateway for over 12 million immigrants", "Part of the Statue of Liberty National Monument", "Museum of immigration history", "Nicknamed 'Island of Hope, Island of Tears'"]
     }, image: "/poi-images/ellis-island-history-v2.webp"},
   {
@@ -499,7 +499,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
     description: {
       de: "Eine spanische Mission, die 1776 gegründet wurde und als 'Juwel der Missionen' bekannt ist.",
       hu: "Egy 1776-ban alapított spanyol misszió, amelyet a 'Missziók ékkövének' neveznek.",
-      ro: "O misiune spaniolă fondată în 1776, cunoscută drept „Bijuteria Misiunilor”.",
+      ro: "O misiune spaniolă fondată în 1776, cunoscută drept \"Bijuteria Misiunilor\".",
       en: "A Spanish mission founded in 1776, known as the 'Jewel of the Missions'."
     },
     facts: {
@@ -574,7 +574,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
     facts: {
       de: ["Bekannt als 'Ellis Island des Westens'", "Viele Einwanderer wurden monatelang festgehalten", "Gedichte, die von Häftlingen in die Wände geritzt wurden", "California Historical Landmark"],
       hu: ["A 'Nyugat Ellis Islandjeként' ismert", "Sok bevándorlót hónapokig tartottak fogva", "A fogvatartottak által a falakba vésett versek", "Kaliforniai Történelmi Emlékhely"],
-      ro: ["Cunoscută drept „Insula Ellis a Vestului”", "Mulți imigranți au fost deținuți luni de zile", "Poezii sculptate în pereți de către deținuți", "Reper Istoric al Californiei"],
+      ro: ["Cunoscută drept \"Insula Ellis a Vestului\"", "Mulți imigranți au fost deținuți luni de zile", "Poezii sculptate în pereți de către deținuți", "Reper Istoric al Californiei"],
       en: ["Known as the 'Ellis Island of the West'", "Many immigrants were detained for months", "Poems carved into the walls by detainees", "California Historical Landmark"]
     }, image: "/poi-images/angel-island-immigration-station-history-v2.webp"},
   {

@@ -120,7 +120,7 @@ export const poiExtraDe4b: POI[] = [
       "Das Rathaus verfügt über genau 647 Zimmer und ist damit größer als der Londoner Buckingham Palace.",
       "Es ruht im weichen Boden nahe der Alster auf rund 4.000 Eichenpfählen.",
       "Die Fassade zeigt 20 Bronzestatuen deutscher Kaiser, doch darüber thronen Figuren, die die bürgerlichen Tugenden darstellen.",
-      "Über dem Hauptportal steht der lateinische Spruch: \'Die Freiheit, die die Vorfahren errangen, möge die Nachwelt würdig erhalten\'.",
+      "Über dem Hauptportal steht der lateinische Spruch: \\'Die Freiheit, die die Vorfahren errangen, möge die Nachwelt würdig erhalten\\'.",
       "Der prunkvolle Große Festsaal ist 46 Meter lang und mit gigantischen Wandgemälden der Hamburger Geschichte verziert.",
       "Der Rathaus-Turm ist 112 Meter hoch und damit eines der höchsten Gebäude der Altstadt.",
       "Im Innenhof befindet sich der Hygieia-Brunnen, der an die verheerende Cholera-Epidemie von 1892 erinnert."
@@ -129,7 +129,7 @@ export const poiExtraDe4b: POI[] = [
       "A városháza pontosan 647 szobával rendelkezik, így nagyobb, mint a londoni Buckingham-palota.",
       "Az Alsterhez közeli puha talajban mintegy 4000 tölgyfacölöpön nyugszik.",
       "A homlokzaton 20 német császár bronzszobra látható, de felettük a polgári erényeket megjelenítő alakok trónolnak.",
-      "A főportál felett ez a latin mondás áll: \'A szabadságot, melyet az ősök kivívtak, az utókor őrizze meg méltóan\'.",
+      "A főportál felett ez a latin mondás áll: \\'A szabadságot, melyet az ősök kivívtak, az utókor őrizze meg méltóan\\'.",
       "A pompás Nagy Díszterem 46 méter hosszú, és Hamburg történetét ábrázoló gigantikus falfestmények díszítik.",
       "A városháza tornya 112 méter magas, ezzel az óváros egyik legmagasabb épülete.",
       "A belső udvaron található a Hygieia-kút, amely az 1892-es pusztító kolerajárványra emlékeztet."
@@ -189,7 +189,7 @@ export const poiExtraDe4b: POI[] = [
       "Die Herbertstraße ist eine Seitenstraße, die durch Sichtblenden abgesperrt ist; der Zutritt für Frauen und Minderjährige ist verboten.",
       "Die Straße war ursprünglich ein reines Gewerbegebiet für die Seil- und Taufabrikation.",
       "Jedes Jahr im September findet das Reeperbahn Festival statt, Europas größtes Clubfestival.",
-      "Der Beatles-Platz an der Einmündung zur Großen Freiheit erinnert mit Stahlskulpturen an die \'Fab Four\'."
+      "Der Beatles-Platz an der Einmündung zur Großen Freiheit erinnert mit Stahlskulpturen an die \\'Fab Four\\'."
     ],
       hu: [
       "A Reeperbahn pontosan 930 méter hosszú, és a Millerntortól a Nobistorig húzódik.",
@@ -198,7 +198,7 @@ export const poiExtraDe4b: POI[] = [
       "A Herbertstraße egy mellékutca, amelyet paravánokkal zártak el; a nők és kiskorúak belépése tilos.",
       "Az utca eredetileg egy tisztán kereskedelmi/ipari terület volt a kötélgyártás számára.",
       "Minden év szeptemberében rendezik meg a Reeperbahn Fesztivált, Európa legnagyobb klubfesztiválját.",
-      "A Große Freiheit torkolatánál található Beatles tér (Beatles-Platz) acélszobrokkal emlékezik a \'Fab Four\'-ra."
+      "A Große Freiheit torkolatánál található Beatles tér (Beatles-Platz) acélszobrokkal emlékezik a \\'Fab Four\\'-ra."
     ],
       ro: [],
       en: ["The world-famous nightlife and red-light district of Hamburg-St. Pauli.", "The site where The Beatles began their rise to global fame in 1960.", "Home to the Davidwache, the most famous police station in Germany.", "Host of the Reeperbahn Festival, a major event for the international music industry.", "The name derives from 'Reepschläger' (rope-makers) who worked here.", "Features the Hans-Albers-Platz and the historic Star-Club site."],
@@ -253,7 +253,7 @@ export const poiExtraDe4b: POI[] = [
       "Die Außenalster ist rund 1,6 Quadratkilometer groß und meist nur etwa 2,5 Meter tief.",
       "Mitten in der Binnenalster sprudelt die 60 Meter hohe Alsterfontäne, ein Wahrzeichen der Innenstadt.",
       "Der Rundweg um die Außenalster ist genau 7,4 Kilometer lang und Hamburgs beliebteste Joggingstrecke.",
-      "Im Winter kann die Alster manchmal so stark zufrieren, dass das berühmte \'Alstereisvergnügen\' stattfindet (zuletzt 2012).",
+      "Im Winter kann die Alster manchmal so stark zufrieren, dass das berühmte \\'Alstereisvergnügen\\' stattfindet (zuletzt 2012).",
       "Auf der Alster gilt ein generelles Verbot für Motorboote (ausgenommen Polizei, Feuerwehr und Alsterdampfer).",
       "Ursprünglich wurde der Fluss im Jahr 1190 aufgestaut, um eine große Wassermühle anzutreiben."
     ],
@@ -262,7 +262,7 @@ export const poiExtraDe4b: POI[] = [
       "Az Außenalster (Külső-Alster) területe mintegy 1,6 négyzetkilométer, mélysége többnyire csak kb. 2,5 méter.",
       "A Binnenalster közepén csobog a 60 méter magas Alster-szökőkút, amely a belváros egyik jelképe.",
       "Az Außenalster körüli sétaút pontosan 7,4 kilométer hosszú, és ez Hamburg legnépszerűbb futóútvonala.",
-      "Télen az Alster néha olyan erősen befagyhat, hogy megrendezik a híres \'Alstereisvergnügen\' (Alsteri jégünnep) eseményt (legutóbb 2012-ben).",
+      "Télen az Alster néha olyan erősen befagyhat, hogy megrendezik a híres \\'Alstereisvergnügen\\' (Alsteri jégünnep) eseményt (legutóbb 2012-ben).",
       "Az Alsteren általános tilalom van érvényben a motorcsónakokra (kivéve a rendőrséget, a tűzoltóságot és az Alster-gőzhajókat).",
       "A folyót eredetileg 1190-ben duzzasztották fel egy nagy vízimalom meghajtására."
     ],
@@ -316,7 +316,7 @@ export const poiExtraDe4b: POI[] = [
     factsAdvanced: {
       de: [
       "Altona war über 200 Jahre lang eine dänische Stadt und genoss eine sehr liberale Verfassung.",
-      "Der Name \'Altona\' stammt der Legende nach von einem Hamburger Wirt, dem der Konkurrent \'all to nah\' (allzu nah) war.",
+      "Der Name \\'Altona\\' stammt der Legende nach von einem Hamburger Wirt, dem der Konkurrent \\'all to nah\\' (allzu nah) war.",
       "Das Altonaer Rathaus ist ein prachtvoller klassizistischer Bau, der ursprünglich als Bahnhof diente.",
       "Der Altonaer Fischmarkt findet seit 1703 traditionell jeden Sonntagmorgen statt.",
       "Der alte Elbtunnel von 1911 verbindet Altona direkt mit dem Hafengebiet auf der anderen Elbseite.",
@@ -325,7 +325,7 @@ export const poiExtraDe4b: POI[] = [
     ],
       hu: [
       "Altona több mint 200 évig dán város volt, és nagyon liberális alkotmányt élvezett.",
-      "Az \'Altona\' név a legenda szerint egy hamburgi fogadóshoz fűződik, akinek a versenytárs \'all to nah\' (túl közel) volt.",
+      "Az \\'Altona\\' név a legenda szerint egy hamburgi fogadóshoz fűződik, akinek a versenytárs \\'all to nah\\' (túl közel) volt.",
       "Az Altonai Városháza egy pompás klasszicista épület, amely eredetileg vasútállomásként szolgált.",
       "Az Altonai Halpiacot 1703 óta hagyományosan minden vasárnap reggel megrendezik.",
       "Az 1911-ből származó régi Elba-alagút közvetlenül köti össze Altonát a folyó túlpartján lévő kikötőterülettel.",
@@ -393,7 +393,7 @@ export const poiExtraDe4b: POI[] = [
       "A HafenCity 40 százalékkal növeli Hamburg belvárosának hasznosítható területét.",
       "A végső befejezésig (várhatóan 2030 körül) körülbelül 15 000 ember számára épülnek lakások.",
       "A projekt területe mintegy 157 hektár, amelyből 127 hektár tisztán szárazföld.",
-      "Minden új épületet rendkívül árvízbiztosan, \'Warft\'-okon (mesterséges dombokon) építenek fel, nyolc méterrel a tengerszint felett.",
+      "Minden új épületet rendkívül árvízbiztosan, \\'Warft\\'-okon (mesterséges dombokon) építenek fel, nyolc méterrel a tengerszint felett.",
       "A negyedet az újonnan épült U4-es metróvonal köti be tökéletesen a közlekedési hálózatba.",
       "A Cruise Center HafenCity Hamburg három nagy tengerjáró hajótermináljának egyike.",
       "A HafenCityben található Unilever székház épületét a leginnovatívabb és legökológiaibb irodaházak egyikének tartják."
@@ -452,7 +452,7 @@ export const poiExtraDe4b: POI[] = [
       "Die Krypta unter der Kirche beherbergt die Gräber von über 2.000 Menschen, darunter Carl Philipp Emanuel Bach.",
       "Eine Plattform auf 82 Metern Höhe kann über 452 Stufen (oder per Fahrstuhl) erreicht werden.",
       "Über dem Hauptportal befindet sich eine gewaltige Bronzestatue des Erzengels Michael, der den Teufel besiegt.",
-      "Der Michel wurde in seiner Geschichte dreimal aufgebaut; der aktuelle Bau ist der \'dritte Michel\'.",
+      "Der Michel wurde in seiner Geschichte dreimal aufgebaut; der aktuelle Bau ist der \\'dritte Michel\\'.",
       "Die fünf Orgeln in der Kirche können über einen zentralen Zentralspieltisch von einem einzigen Organisten gespielt werden."
     ],
       hu: [
@@ -461,7 +461,7 @@ export const poiExtraDe4b: POI[] = [
       "A templom alatti kripta több mint 2000 ember sírját rejti, köztük Carl Philipp Emanuel Bachét is.",
       "A 82 méter magasan lévő kilátót 452 lépcsőfokon (vagy lifttel) lehet elérni.",
       "A főportál felett található Mihály arkangyal hatalmas bronzszobra, amint legyőzi az ördögöt.",
-      "A Michelt története során háromszor építették fel; a jelenlegi épület a \'harmadik Michel\'.",
+      "A Michelt története során háromszor építették fel; a jelenlegi épület a \\'harmadik Michel\\'.",
       "A templomban lévő öt orgonát egyetlen orgonista tudja megszólaltatni egy központi játszóasztalról."
     ],
       ro: [],
@@ -517,7 +517,7 @@ export const poiExtraDe4b: POI[] = [
       "Bergedorf wurde über 400 Jahre (1420 bis 1867) gemeinsam von den Städten Hamburg und Lübeck verwaltet.",
       "Der Bezirk Bergedorf macht etwa ein Fünftel der gesamten Hamburger Stadtfläche aus.",
       "Die Sternwarte Bergedorf auf dem Gojenberg war um 1912 eines der modernsten Observatorien Europas.",
-      "Die Region Vierlande und Marschlande ist seit Jahrhunderten der \'Gemüsegarten\' Hamburgs.",
+      "Die Region Vierlande und Marschlande ist seit Jahrhunderten der \\'Gemüsegarten\\' Hamburgs.",
       "Die Kirche St. Petri und Pauli besitzt einen massiven, wehrhaften Holzturm aus dem Jahr 1501.",
       "Bergedorf wurde erst 1937 durch das Groß-Hamburg-Gesetz Teil von Hamburg."
     ],
@@ -526,7 +526,7 @@ export const poiExtraDe4b: POI[] = [
       "Bergedorfot több mint 400 évig (1420-tól 1867-ig) Hamburg és Lübeck városa közösen irányította.",
       "A bergedorfi kerület Hamburg teljes területének körülbelül egyötödét teszi ki.",
       "A Gojenbergen lévő bergedorfi csillagvizsgáló 1912 körül Európa egyik legmodernebb obszervatóriuma volt.",
-      "A Vierlande és Marschlande régió évszázadok óta Hamburg \'konyhakertje\'.",
+      "A Vierlande és Marschlande régió évszázadok óta Hamburg \\'konyhakertje\\'.",
       "A Szent Péter és Pál-templom (St. Petri und Pauli) egy masszív, erődítményszerű, 1501-ből származó fatoronnyal rendelkezik.",
       "Bergedorfot csak 1937-ben csatolták Hamburghoz a Nagy-Hamburg-törvény révén."
     ],
@@ -650,7 +650,7 @@ export const poiExtraDe4b: POI[] = [
       "Das Haus C ist als historisches Museum eingerichtet und zeigt die Wohnkultur um 1850.",
       "Die Häuser überstanden sowohl den Großen Brand von 1842 als auch die schweren Bombardierungen im Zweiten Weltkrieg.",
       "Die Fachwerkhäuser sind durch die engen Platzverhältnisse auf nur wenigen Quadratmetern Grundfläche mehrstöckig gebaut.",
-      "Die Anlage befand sich fast 300 Jahre im Besitz der \'Kramercompanie\', bis sie 1933 an die Stadt ging.",
+      "Die Anlage befand sich fast 300 Jahre im Besitz der \\'Kramercompanie\\', bis sie 1933 an die Stadt ging.",
       "Heute beherbergen die Gassen kleine Kunsthandwerksläden, Antiquariate und ein gemütliches Restaurant."
     ],
       hu: [
@@ -659,7 +659,7 @@ export const poiExtraDe4b: POI[] = [
       "A C házat történelmi múzeumként rendezték be, és az 1850 körüli lakáskultúrát mutatja be.",
       "A házak túlélték az 1842-es nagy tűzvészt és a második világháború súlyos bombázásait is.",
       "A szűkös helyviszonyok miatt a favázas házak mindössze néhány négyzetméternyi alapterületen, több emelet magasra épültek.",
-      "A komplexum közel 300 évig a \'Kramercompanie\' (kereskedőtársaság) tulajdonában volt, amíg 1933-ban a városé nem lett.",
+      "A komplexum közel 300 évig a \\'Kramercompanie\\' (kereskedőtársaság) tulajdonában volt, amíg 1933-ban a városé nem lett.",
       "Ma a sikátorokban kis kézműves boltok, antikváriumok és egy hangulatos étterem található."
     ],
       ro: [],
@@ -780,7 +780,7 @@ export const poiExtraDe4b: POI[] = [
       "Das Wunderland hält den Guinness-Weltrekord für die größte Modelleisenbahnanlage der Welt.",
       "Mehr als 16 Kilometer Gleise sind in den Ausstellungsräumen verlegt.",
       "Über 280.000 Figuren wurden per Hand in die detaillierten Szenen eingeklebt.",
-      "Der Bau des Miniaturflughafens \'Knuffingen Airport\' dauerte sechs Jahre und kostete fast 4 Millionen Euro.",
+      "Der Bau des Miniaturflughafens \\'Knuffingen Airport\\' dauerte sechs Jahre und kostete fast 4 Millionen Euro.",
       "Ein spezielles Kamerasystem für Google Street View ermöglicht virtuelle Spaziergänge durch die Miniaturwelt.",
       "In der Anlage sind rund 400.000 LEDs verbaut, die die Nachtsimulation erst möglich machen.",
       "Die Ausstellung wird kontinuierlich erweitert; es entstanden Brücken zwischen den Gebäuden für neue Abschnitte."
@@ -789,7 +789,7 @@ export const poiExtraDe4b: POI[] = [
       "A Wunderland tartja a világ legnagyobb modellvasútjának Guinness-rekordját.",
       "Több mint 16 kilométernyi vágányt fektettek le a kiállítótermekben.",
       "Több mint 280 000 figurát ragasztottak be kézzel a részletes jelenetekbe.",
-      "A \'Knuffingen Airport\' miniatűr repülőtér építése hat évig tartott, és majdnem 4 millió euróba került.",
+      "A \\'Knuffingen Airport\\' miniatűr repülőtér építése hat évig tartott, és majdnem 4 millió euróba került.",
       "A Google Street View egy speciális kamerarendszere lehetővé teszi a virtuális sétákat a miniatűr világban.",
       "A létesítménybe mintegy 400 000 LED-et építettek be, amelyek egyáltalán lehetővé teszik az éjszaka szimulációját.",
       "A kiállítást folyamatosan bővítik; az új szakaszokhoz hidakat építettek az épületek között."
@@ -843,19 +843,19 @@ export const poiExtraDe4b: POI[] = [
     descriptionAdvanced: { de: "Der Volksdorfer Wald, auch liebevoll als 'Volksdorfer Tannen' bezeichnet, ist ein weitläufiges und malerisches Waldgebiet im nordöstlichen Hamburger Bezirk Wandsbek. Mit seiner Fläche von rund 90 Hektar ist er die grüne Lunge der sogenannten Walddörfer und ein äußerst beliebtes Naherholungsgebiet für die Hamburger. Entstanden aus einem ehemaligen Gutswald, zeichnet sich das Gebiet heute durch einen herrlichen Mischbestand aus knorrigen Eichen, imposanten Buchen und alten Kiefern aus. Der Wald bietet ein dichtes Netz an gepflegten Spazier-, Wander- und Reitwegen, die zu jeder Jahreszeit Ruhe und Entspannung fernab der Großstadthektik garantieren. Kleine Teiche, Feuchtbiotope und Lichtungen machen den Wald zu einem wichtigen Lebensraum für heimische Vogelarten und Amphibien. Der Wald ist ein perfektes Beispiel für die grüne Vielfalt, die die Metropole Hamburg zu bieten hat.", hu: "A Volksdorfi-erdő (Volksdorfer Wald), amelyet szeretetteljesen 'Volksdorfi Fenyőknek' (Volksdorfer Tannen) is neveznek, egy kiterjedt és festői erdőterület az északkelet-hamburgi Wandsbek kerületben. Mintegy 90 hektáros területével az úgynevezett erdőfalvak (Walddörfer) zöld tüdeje, és rendkívül népszerű rekreációs terület a hamburgiak számára. Az egykori uradalmi erdőből kialakult területet ma a göcsörtös tölgyek, impozáns bükkök és öreg fenyők csodálatos vegyes állománya jellemzi. Az erdő a gondozott séta-, túra- és lovasútvonalak sűrű hálózatát kínálja, amelyek az év minden szakában nyugalmat és kikapcsolódást garantálnak, távol a nagyvárosi nyüzsgéstől. A kis tavak, vizes élőhelyek és tisztások az erdőt a helyi madárfajok és kétéltűek fontos élőhelyévé teszik. Az erdő tökéletes példája annak a zöld sokszínűségnek, amelyet Hamburg metropolisza kínál.", ro: "", en: "The Volksdorfer Wald is a lush and historic forest area in the northeastern district of Wandsbek, serving as a vital 'green lung' for the city of Hamburg. This ancient woodland is characterized by its magnificent stands of beech and oak trees and its unique glacial terrain, featuring small ponds and 'kettle holes' formed during the last Ice Age. The forest is home to the 'Museumsdorf Volksdorf,' an open-air museum that preserves traditional North German farm life with its historic thatched-roof buildings and livestock. For residents, it is a premier destination for hiking, forest education, and nature observation, offering a tranquil escape into the wild heart of the 'Walddörfer' (Forest Villages). It is a symbol of Hamburg's commitment to preserving urban forests and traditional rural culture. Földrajz K7 – Urban forests and traditional landscapes." },
     factsAdvanced: {
       de: [
-      "Der Volksdorfer Wald gehört zu den Hamburger \'Walddörfern\', die 1937 nach Hamburg eingemeindet wurden.",
+      "Der Volksdorfer Wald gehört zu den Hamburger \\'Walddörfern\\', die 1937 nach Hamburg eingemeindet wurden.",
       "Er ist bekannt für seine historischen Eichen- und Buchenbestände, von denen einige über 200 Jahre alt sind.",
       "Im Zentrum des Waldes liegt der malerische Kletterteich, ein beliebtes Ziel für Spaziergänger.",
-      "Ein Hochseilgarten (\'Kletterwald Hamburg\') ist harmonisch in den alten Baumbestand integriert.",
+      "Ein Hochseilgarten (\\'Kletterwald Hamburg\\') ist harmonisch in den alten Baumbestand integriert.",
       "Das Waldgebiet wird im Norden von der Trasse der historischen U-Bahn-Linie U1 begrenzt.",
       "Neben Erholung dient der Wald der Forstwirtschaft und wird nachhaltig nach FSC-Kriterien bewirtschaftet.",
       "Im angrenzenden Museumsdorf Volksdorf wird historische Landwirtschaft anschaulich demonstriert."
     ],
       hu: [
-      "A Volksdorfi-erdő a hamburgi \'erdőfalvakhoz\' (Walddörfer) tartozik, amelyeket 1937-ben csatoltak Hamburghoz.",
+      "A Volksdorfi-erdő a hamburgi \\'erdőfalvakhoz\\' (Walddörfer) tartozik, amelyeket 1937-ben csatoltak Hamburghoz.",
       "Történelmi tölgy- és bükkállományairól ismert, amelyek közül néhány több mint 200 éves.",
       "Az erdő közepén található a festői Kletterteich (Mászó-tó), a sétálók kedvelt célpontja.",
-      "Egy kalandpark (\'Kletterwald Hamburg\') harmonikusan illeszkedik az idős faállományba.",
+      "Egy kalandpark (\\'Kletterwald Hamburg\\') harmonikusan illeszkedik az idős faállományba.",
       "Az erdőterületet északon a történelmi U1-es metróvonal nyomvonala határolja.",
       "A kikapcsolódás mellett az erdő erdőgazdálkodási célokat is szolgál, és az FSC kritériumai alapján fenntarthatóan művelik.",
       "A szomszédos Volksdorfi Múzeumfaluban a történelmi mezőgazdaságot mutatják be szemléletesen."
@@ -917,7 +917,7 @@ export const poiExtraDe4b: POI[] = [
       "Der Fluss mündet bei Konz, in der Nähe von Trier in Rheinland-Pfalz, in die Mosel.",
       "Der Saar-Kohlen-Kanal (Canal des houillères de la Sarre) verbindet die Saar in Frankreich mit dem Rhein-Marne-Kanal.",
       "Die Saar wurde bis 1987 für das Befahren mit sogenannten Europaschiffen (bis 1.350 Tonnen) ausgebaut.",
-      "Die Landeshauptstadt Saarbrücken wurde nach einer Brücke über die Saar (\'Sarabrucca\') benannt.",
+      "Die Landeshauptstadt Saarbrücken wurde nach einer Brücke über die Saar (\\'Sarabrucca\\') benannt.",
       "Entlang der Saar verlaufen idyllische, flache Radwege, die bis zur Mosel und in Richtung Frankreich führen.",
       "Trotz der starken industriellen Nutzung hat sich die Wasserqualität der Saar in den letzten Jahrzehnten drastisch verbessert."
     ],
@@ -926,7 +926,7 @@ export const poiExtraDe4b: POI[] = [
       "A folyó Konznál, a Rajna-vidék-Pfalz tartománybeli Trier közelében ömlik a Moselbe.",
       "A Saar-széncsatorna (Canal des houillères de la Sarre) összeköti a franciaországi Saart a Rajna-Marne csatornával.",
       "A Saart 1987-ig úgy építették ki, hogy az úgynevezett Európa-hajók (1350 tonnáig) is hajózhassanak rajta.",
-      "A tartományi főváros, Saarbrücken a Saar felett átívelő hídról (\'Sarabrucca\') kapta a nevét.",
+      "A tartományi főváros, Saarbrücken a Saar felett átívelő hídról (\\'Sarabrucca\\') kapta a nevét.",
       "A Saar mentén idilli, sík kerékpárutak haladnak, amelyek a Moselig és Franciaország irányába vezetnek.",
       "Az erős ipari használat ellenére a Saar vízminősége az elmúlt évtizedekben drasztikusan javult."
     ],
@@ -984,7 +984,7 @@ export const poiExtraDe4b: POI[] = [
       "Der höchste Punkt liegt exakt auf der Grenze zwischen dem Saarland und Rheinland-Pfalz.",
       "Die Erhebung ist vollständig bewaldet, weshalb es vom direkten Gipfel keinen weiten Panoramablick gibt.",
       "Die Region rund um die Hohe Warte gehört zum 1980 gegründeten Naturpark Saar-Hunsrück.",
-      "Wanderer nutzen oft den Premiumwanderweg \'Saar-Hunsrück-Steig\', der durch diese idyllische Mittelgebirgslandschaft führt.",
+      "Wanderer nutzen oft den Premiumwanderweg \\'Saar-Hunsrück-Steig\\', der durch diese idyllische Mittelgebirgslandschaft führt.",
       "In der Umgebung finden sich Reste alter keltischer Fluchtburgen, wie der Keltische Ringwall in Nonnweiler-Otzenhausen.",
       "Aufgrund der Höhenlage liegt hier im Winter oft wochenlang eine geschlossene Schneedecke."
     ],
@@ -993,7 +993,7 @@ export const poiExtraDe4b: POI[] = [
       "A legmagasabb pont pontosan a Saar-vidék és Rajna-vidék-Pfalz határán található.",
       "A magaslat teljesen erdősült, ezért a közvetlen csúcsról nincs széles panoráma.",
       "A Hohe Warte körüli régió az 1980-ban alapított Saar-Hunsrück Natúrparkhoz tartozik.",
-      "A túrázók gyakran használják a \'Saar-Hunsrück-Steig\' nevű prémium túraútvonalat, amely ezen az idilli középhegységi tájon halad keresztül.",
+      "A túrázók gyakran használják a \\'Saar-Hunsrück-Steig\\' nevű prémium túraútvonalat, amely ezen az idilli középhegységi tájon halad keresztül.",
       "A környéken régi kelta menedékvárak maradványai találhatók, mint például a kelta körsánc Nonnweiler-Otzenhausenben.",
       "A tengerszint feletti magasság miatt télen gyakran hetekig összefüggő hótakaró borítja a tájat."
     ],
@@ -1048,19 +1048,19 @@ export const poiExtraDe4b: POI[] = [
       de: [
       "Neunkirchen ist nach Saarbrücken die zweitgrößte Stadt im Saarland.",
       "Das alte Neunkircher Eisenwerk prägte fast 400 Jahre lang (seit 1593) das wirtschaftliche Leben der Stadt.",
-      "Der Wasserturm des alten Eisenwerks (\'Neunkircher Wasserturm\') dient heute als Veranstaltungsort und Kino.",
+      "Der Wasserturm des alten Eisenwerks (\\'Neunkircher Wasserturm\\') dient heute als Veranstaltungsort und Kino.",
       "Der Strukturwandel der Stadt gilt als eines der erfolgreichsten Beispiele im Saarland.",
       "In Neunkirchen wurde der ehemalige DDR-Staatsratsvorsitzende Erich Honecker geboren (1912).",
-      "Der \'Neunkircher Hüttenweg\' ist ein ausgeschilderter Rundweg, der Touristen die erhaltenen Industrierelikte erklärt.",
+      "Der \\'Neunkircher Hüttenweg\\' ist ein ausgeschilderter Rundweg, der Touristen die erhaltenen Industrierelikte erklärt.",
       "Der Neunkircher Zoo, gegründet 1926, beherbergt über 500 Tiere und ist ein wichtiges lokales Naherholungsziel."
     ],
       hu: [
       "Neunkirchen Saarbrücken után a második legnagyobb város a Saar-vidéken.",
       "A régi neunkircheni vasmű majdnem 400 éven át (1593-tól) határozta meg a város gazdasági életét.",
-      "A régi vasmű víztornya (\'Neunkircher Wasserturm\') ma rendezvényhelyszínként és moziként szolgál.",
+      "A régi vasmű víztornya (\\'Neunkircher Wasserturm\\') ma rendezvényhelyszínként és moziként szolgál.",
       "A város szerkezetváltását a Saar-vidék egyik legsikeresebb példájának tartják.",
       "Neunkirchenben született az NDK egykori Államtanácsának elnöke, Erich Honecker (1912-ben).",
-      "A \'Neunkircher Hüttenweg\' (Neunkircheni kohóút) egy kitáblázott körút, amely elmagyarázza a turistáknak a fennmaradt ipari emlékeket.",
+      "A \\'Neunkircher Hüttenweg\\' (Neunkircheni kohóút) egy kitáblázott körút, amely elmagyarázza a turistáknak a fennmaradt ipari emlékeket.",
       "Az 1926-ban alapított neunkircheni állatkert több mint 500 állatnak ad otthont, és fontos helyi rekreációs célpont."
     ],
       ro: [],
@@ -1183,18 +1183,18 @@ export const poiExtraDe4b: POI[] = [
       "Die Grafen von der Leyen flüchteten 1793 während der Französischen Revolution vor den Revolutionstruppen aus der Stadt.",
       "Das ehemalige Schloss der Grafen wurde von revolutionären Truppen geplündert und vollständig niedergebrannt.",
       "Der Gollenstein bei Blieskastel ist rund 4.000 Jahre alt und mit 6,58 Metern der höchste Menhir Mitteleuropas.",
-      "Auf dem Paradeplatz findet man den \'Schlangenbrunnen\', ein weiteres wichtiges barockes Element.",
+      "Auf dem Paradeplatz findet man den \\'Schlangenbrunnen\\', ein weiteres wichtiges barockes Element.",
       "In Blieskastel wurde die Gräfin Marianne von der Leyen wegen ihrer klugen, aufgeklärten Herrschaft hochverehrt.",
-      "Das Klosterkastel (Franziskanerkloster) auf dem Berg beinhaltet den Gnadenaltar \'Unsere Liebe Frau\'."
+      "Das Klosterkastel (Franziskanerkloster) auf dem Berg beinhaltet den Gnadenaltar \\'Unsere Liebe Frau\\'."
     ],
       hu: [
       "Blieskastel történelmi városképét több mint 60, a 18. századból származó barokk épület határozza meg.",
       "A Von der Leyen grófok 1793-ban, a francia forradalom alatt menekültek el a városból a forradalmi csapatok elől.",
       "A grófok egykori kastélyát a forradalmi csapatok kifosztották és teljesen porig égették.",
       "A Blieskastel melletti Gollenstein körülbelül 4000 éves, és 6,58 méterével Közép-Európa legmagasabb menhírje.",
-      "A Paradeplatzon található a \'Schlangenbrunnen\' (Kígyós-kút), egy másik fontos barokk elem.",
+      "A Paradeplatzon található a \\'Schlangenbrunnen\\' (Kígyós-kút), egy másik fontos barokk elem.",
       "Blieskastelben Marianne von der Leyen grófnőt okos, felvilágosult uralkodása miatt nagy tisztelet övezte.",
-      "A hegyen található kolostor (ferences kolostor) rejti a \'Miasszonyunk\' kegyoltárt."
+      "A hegyen található kolostor (ferences kolostor) rejti a \\'Miasszonyunk\\' kegyoltárt."
     ],
       ro: [],
       en: ["A perfectly preserved Baroque residence city from the 18th century.", "Home to the Gollenstein, Central Europe's largest menhir (6.6m).", "The Castle Church (Schlosskirche) is a pinnacle of local Baroque art.", "Former seat of the Imperial Counts of von der Leyen.", "The heart of the Bliesgau UNESCO Biosphere Reserve.", "Features the historic 'Orange House' and grand countly palaces."],
@@ -1251,7 +1251,7 @@ export const poiExtraDe4b: POI[] = [
       "Tholey, am Fuß des Berges, beherbergt das Benediktinerkloster St. Mauritius, das als ältestes Kloster auf deutschem Boden gilt.",
       "In den 2020er Jahren wurde die Benediktinerabtei durch die von Gerhard Richter gestalteten Kirchenfenster weltweit bekannt.",
       "Ein barrierefreier Höhenrundweg (Herzweg) führt um die Kuppe des Schaumbergs.",
-      "Im Mittelalter befand sich auf dem Gipfel die \'Schaumburg\', eine wehrhafte Burg, die heute nicht mehr existiert."
+      "Im Mittelalter befand sich auf dem Gipfel die \\'Schaumburg\\', eine wehrhafte Burg, die heute nicht mehr existiert."
     ],
       hu: [
       "A Schaumberg 568,2 méter magas, és vulkáni eredetű (főként magmás kőzetből, toleiitből áll).",
@@ -1260,7 +1260,7 @@ export const poiExtraDe4b: POI[] = [
       "A hegy lábánál fekvő Tholey ad otthont a Szent Mauritius bencés apátságnak, amely a legrégebbi német földön lévő kolostornak számít.",
       "A 2020-as években a bencés apátság világszerte ismertté vált a Gerhard Richter által tervezett templomablakoknak köszönhetően.",
       "A Schaumberg csúcsa körül egy akadálymentesített magaslati körút (Herzweg) vezet.",
-      "A középkorban a csúcson állt a \'Schaumburg\', egy erős vár, amely ma már nem létezik."
+      "A középkorban a csúcson állt a \\'Schaumburg\\', egy erős vár, amely ma már nem létezik."
     ],
       ro: [],
       en: ["Known as the 'Hausberg' of Saarland, standing at 568 meters.", "The Schaumbergturm is a 37-meter high observation tower.", "Site of a historic Celtic 'Refuge Fortress' and a Roman station.", "The tower serves as a monument to German-French cooperation.", "Offers views of over 200 towns and villages across three countries.", "Located above the Tholey Abbey, founded in the 7th century."],
@@ -1318,7 +1318,7 @@ export const poiExtraDe4b: POI[] = [
       "Nebenan steht der historische, sechseckige Hindenburgturm (Aussichtsturm), der an ein altes Förderturm-Konzept erinnert.",
       "Das Saar-Kohlen-Revier zählte einst zu den wichtigsten Montanregionen ganz Europas.",
       "Bergmannstraditionen wie die Barbarafeier (am 4. Dezember) sind im Saarland bis heute lebendig.",
-      "Ehemalige Bergleute (\'Kumpel\') führen Besucher oft als Experten durch das Museum."
+      "Ehemalige Bergleute (\\'Kumpel\\') führen Besucher oft als Experten durch das Museum."
     ],
       hu: [
       "A kőszénbányászat hivatalosan 2012 nyarán ért véget a Saar-vidéken, mintegy 250 év után.",
@@ -1327,7 +1327,7 @@ export const poiExtraDe4b: POI[] = [
       "A múzeum mellett áll a történelmi, hatszögletű Hindenburg-torony (kilátótorony), amely egy régi aknatorony-koncepcióra emlékeztet.",
       "A Saar-vidéki szénmedence egykor egész Európa egyik legfontosabb bányaipari régiója volt.",
       "A bányászhagyományok, mint például a Borbála-napi ünnepség (december 4-én), a mai napig élnek a Saar-vidéken.",
-      "A múzeumban gyakran egykori bányászok (\'Kumpel\' / bajtársak) vezetik szakértőként a látogatókat."
+      "A múzeumban gyakran egykori bányászok (\\'Kumpel\\' / bajtársak) vezetik szakértőként a látogatókat."
     ],
       ro: [],
       en: ["Site of the last active coal mine in Saarland, closed in 2012.", "Home to the 'Saar Polygon', a 30-meter high steel monument.", "The mine's waste heap rises 150 meters above the surrounding valley.", "Represents over 250 years of Saarland's deep-mining tradition.", "The Saar Polygon's shape changes dynamically as you walk around it.", "The site is a key node on the 'Industrial Heritage Trail'."],
@@ -1451,20 +1451,20 @@ export const poiExtraDe4b: POI[] = [
     },
     factsAdvanced: {
       de: [
-      "Der \'Alte Turm\' der Abtei stammt aus der Zeit um das Jahr 990 und ist das älteste Bauwerk des Saarlandes.",
+      "Der \\'Alte Turm\\' der Abtei stammt aus der Zeit um das Jahr 990 und ist das älteste Bauwerk des Saarlandes.",
       "Die Architektur des oktogonalen Baus ist von der karolingischen Pfalzkapelle in Aachen inspiriert.",
       "Die Benediktinerabtei wurde bereits im Jahr 676 von Sankt Lutwinus, einem fränkischen Bischof, gegründet.",
       "Die Ruinen der Abtei wurden 1809 zur Zentrale des Keramikunternehmens Villeroy & Boch.",
-      "In der barocken Abteikirche befindet sich heute das \'Erlebniszentrum Villeroy & Boch\'.",
+      "In der barocken Abteikirche befindet sich heute das \\'Erlebniszentrum Villeroy & Boch\\'.",
       "Der Alte Turm wurde im 19. Jahrhundert dank des Eingreifens des preußischen Königs Friedrich Wilhelm IV. vor dem Abriss bewahrt.",
       "Der Turm diente einst als Grabkapelle für den Gründer der Abtei, Lutwinus."
     ],
       hu: [
-      "Az apátság \'Öreg Tornya\' (Alter Turm) 990 körülről származik, és a Saar-vidék legrégebbi építménye.",
+      "Az apátság \\'Öreg Tornya\\' (Alter Turm) 990 körülről származik, és a Saar-vidék legrégebbi építménye.",
       "A nyolcszögletű épület építészetét az aacheni Karoling-kori palotakápolna ihlette.",
       "A bencés apátságot már 676-ban megalapította Szent Lutwinus frank püspök.",
       "Az apátság romjai 1809-ben a Villeroy & Boch kerámiaipari vállalat központjává váltak.",
-      "A barokk apátsági templomban ma a \'Villeroy & Boch Élményközpont\' található.",
+      "A barokk apátsági templomban ma a \\'Villeroy & Boch Élményközpont\\' található.",
       "Az Öreg Tornyot a 19. században IV. Frigyes Vilmos porosz király beavatkozásának köszönhetően mentették meg a lebontástól.",
       "A torony egykor sírkápolnaként szolgált az apátság alapítója, Lutwinus számára."
     ],

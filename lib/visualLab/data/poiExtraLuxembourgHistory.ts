@@ -41,7 +41,7 @@ export const luxembourgExtraHistory: POI[] = [
       ro: [
         "Părțile inferioare datează din secolul al XI-lea, inițial ca structură defensivă.",
         "A fost reproiectat în stil renascentist în secolul al XVI-lea.",
-        "Restaurantul de top „La Distillerie” se află în interiorul zidurilor castelului.",
+        "Restaurantul de top \"La Distillerie\" se află în interiorul zidurilor castelului.",
         "Castelul este deținut de stat și promovează arta și cultura locală."
       ],
       en: [

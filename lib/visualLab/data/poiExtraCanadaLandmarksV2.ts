@@ -120,7 +120,7 @@ export const poiExtraCanadaLandmarksV2: POI[] = [
     facts: {
       de: ["Spitzname 'The Big O'", "Schrägster Turm der Welt (165 m)", "Ehemalige Heimat der Montreal Expos (MLB)", "Schiebedach wurde nie voll funktionsfähig"],
       hu: ["'The Big O' a beceneve", "A világ legferdébb tornya (165 m)", "A Montreal Expos (MLB) korábbi otthona", "A behúzható tető soha nem lett teljesen működőképes"],
-      ro: ["Poreclit „The Big O”", "Cel mai înalt turn înclinat din lume (165 m)", "Fosta casă a echipei Montreal Expos (MLB)", "Acoperișul retractabil nu a fost niciodată complet funcțional"],
+      ro: ["Poreclit \\\"The Big O\\\"", "Cel mai înalt turn înclinat din lume (165 m)", "Fosta casă a echipei Montreal Expos (MLB)", "Acoperișul retractabil nu a fost niciodată complet funcțional"],
       en: ["Nicknamed 'The Big O'", "World's tallest inclined tower (165m)", "Former home of the Montreal Expos (MLB)", "Retractable roof never became fully operational"]
     }, image: "/poi-images/olympic-stadium-montreal-landmarks-v2.webp"},
   {
@@ -133,7 +133,7 @@ export const poiExtraCanadaLandmarksV2: POI[] = [
     facts: {
       de: ["Heimat der BC Lions (CFL) und Vancouver Whitecaps FC (MLS)", "Größtes luftgestütztes Schiebedach der Welt", "Veranstaltungsort für Eröffnungs- und Abschlussfeiern der Olympiade 2010", "Charakteristische 'Kissen'-Optik bei Nacht"],
       hu: ["A BC Lions (CFL) és a Vancouver Whitecaps FC (MLS) otthona", "A világ legnagyobb, kábelekkel támogatott, behúzható teteje", "A 2010-es olimpia nyitó- és záróünnepségének helyszíne", "Jellegzetes 'párna' kinézet éjjel"],
-      ro: ["Casa echipelor BC Lions (CFL) și Vancouver Whitecaps FC (MLS)", "Cel mai mare acoperiș retractabil susținut de cabluri din lume", "Locația ceremoniilor olimpice din 2010", "Aspect distinctiv de „pernă” noaptea"],
+      ro: ["Casa echipelor BC Lions (CFL) și Vancouver Whitecaps FC (MLS)", "Cel mai mare acoperiș retractabil susținut de cabluri din lume", "Locația ceremoniilor olimpice din 2010", "Aspect distinctiv de \\\"pernă\\\" noaptea"],
       en: ["Home to BC Lions (CFL) and Vancouver Whitecaps FC (MLS)", "World's largest cable-supported retractable roof", "Venue for 2010 Olympics opening and closing ceremonies", "Distinctive 'pillow' look when lit at night"]
     }, image: "/poi-images/bc-place-stadium-landmarks-v2.webp"},
   {
@@ -172,7 +172,7 @@ export const poiExtraCanadaLandmarksV2: POI[] = [
     facts: {
       de: ["Spitzname 'ROM'", "Michael Lee-Chin Crystal Anbau", "Umfassende Sammlungen zu Weltkulturen und Naturgeschichte", "Kanadas größtes Museum"],
       hu: ["'ROM' a beceneve", "Michael Lee-Chin Kristály-bővítmény", "Világkultúrák és természettörténeti gyűjtemények", "Kanada legnagyobb múzeuma"],
-      ro: ["Poreclit „ROM”", "Extensia Michael Lee-Chin Crystal", "Colecții vaste de cultură mondială și istorie naturală", "Cel mai mare muzeu din Canada"],
+      ro: ["Poreclit \\\"ROM\\\"", "Extensia Michael Lee-Chin Crystal", "Colecții vaste de cultură mondială și istorie naturală", "Cel mai mare muzeu din Canada"],
       en: ["Nicknamed the 'ROM'", "Features the Michael Lee-Chin Crystal addition", "Vast collections of world culture and natural history", "Canada's largest museum"]
     }, image: "/poi-images/royal-ontario-museum-landmarks-v2.webp"},
   {
@@ -211,7 +211,7 @@ export const poiExtraCanadaLandmarksV2: POI[] = [
     facts: {
       de: ["Erbaut von Sir Henry Pellatt", "Bedeutet 'Haus auf dem Hügel' auf Spanisch", "Beliebter Drehort für Filme", "Heute ein Museum und Veranstaltungsort"],
       hu: ["Sir Henry Pellatt építtette", "Spanyolul 'Ház a dombon'-t jelent", "Népszerű filmforgatási helyszín", "Ma múzeum és rendezvényhelyszín"],
-      ro: ["Construit de Sir Henry Pellatt", "Înseamnă „Casă pe Deal” în spaniolă", "Locație populară pentru filmări", "Acum un muzeu și loc de evenimente"],
+      ro: ["Construit de Sir Henry Pellatt", "Înseamnă \\\"Casă pe Deal\\\" în spaniolă", "Locație populară pentru filmări", "Acum un muzeu și loc de evenimente"],
       en: ["Built by Sir Henry Pellatt", "Means 'Hill House' in Spanish", "Popular filming location", "Now a museum and event venue"]
     }, image: "/poi-images/casa-loma-landmarks-v2.webp"},
   {
@@ -311,7 +311,7 @@ export const poiExtraCanadaLandmarksV2: POI[] = [
     parent: "CA-ON",
     coords: [-79.3708, 43.6489],
     name: { de: "Gooderham Building", hu: "Gooderham-épület", ro: "Clădirea Gooderham", en: "Gooderham Building" },
-    description: { de: "Ein historisches 'Flatiron'-Gebäude in Toronto.", hu: "Történelmi 'Vasalóház' épület Torontóban.", ro: "O clădire istorică de tip „Flatiron” în Toronto.", en: "A historic 'Flatiron' style building in Toronto." },
+    description: { de: "Ein historisches 'Flatiron'-Gebäude in Toronto.", hu: "Történelmi 'Vasalóház' épület Torontóban.", ro: "O clădire istorică de tip \\\"Flatiron\\\" în Toronto.", en: "A historic 'Flatiron' style building in Toronto." },
     facts: {
       de: ["Roter Backstein, Keilform", "Erbaut 1892", "Vor dem bekannteren Flatiron Building in New York", "Ikonischer Anblick mit der Skyline im Hintergrund"],
       hu: ["Vörös tégla, ék alakú", "1892-ben épült", "Megelőzte a híresebb New York-i Flatiron Buildinget", "Ikonikus látvány a háttérben lévő felhőkarcolókkal"],
@@ -341,7 +341,7 @@ export const poiExtraCanadaLandmarksV2: POI[] = [
     facts: {
       de: ["Eröffnet 1955", "Spitzname 'The Old Bridge'", "Wichtige Verkehrsverbindung", "Bietet einen Weg für Fußgänger und Radfahrer"],
       hu: ["1955-ben nyílt meg", "'A Régi Híd' a beceneve", "Fontos közlekedési kapcsolat", "Gyalogosok és kerékpárosok számára is van útja"],
-      ro: ["Inaugurat în 1955", "Poreclit „Podul Vechi”", "Legătură de transport vitală", "Are o cale pentru pietoni și bicicliști"],
+      ro: ["Inaugurat în 1955", "Poreclit \\\"Podul Vechi\\\"", "Legătură de transport vitală", "Are o cale pentru pietoni și bicicliști"],
       en: ["Opened in 1955", "Nicknamed 'The Old Bridge'", "A vital transportation link", "Has a dedicated lane for pedestrians and cyclists"]
     }, image: "/poi-images/macdonald-bridge-halifax-landmarks-v2.webp"},
   {
@@ -354,7 +354,7 @@ export const poiExtraCanadaLandmarksV2: POI[] = [
     facts: {
       de: ["Neoklassizistische Architektur", "Gekrönt von der 'Golden Boy'-Statue", "Enthält hermetische und freimaurerische Symbole", "Erbaut aus Tyndall-Stein"],
       hu: ["Neoklasszikus építészet", "'Aranyfiú' szobor koronázza", "Hermetikus és szabadkőműves szimbólumokat tartalmaz", "Tyndall kőből épült"],
-      ro: ["Arhitectură neoclasică", "Încununată de statuia „Golden Boy”", "Conține simboluri hermetice și masonice", "Construită din piatră de Tyndall"],
+      ro: ["Arhitectură neoclasică", "Încununată de statuia \\\"Golden Boy\\\"", "Conține simboluri hermetice și masonice", "Construită din piatră de Tyndall"],
       en: ["Neoclassical architecture", "Topped by the 'Golden Boy' statue", "Contains hermetic and Masonic symbols", "Built with Tyndall stone"]
     }, image: "/poi-images/winnipeg-legislative-building-landmarks-v2.webp"},
   {

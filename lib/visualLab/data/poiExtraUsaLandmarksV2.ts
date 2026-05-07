@@ -47,7 +47,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
     description: {
       de: "Eine öffentliche Skulptur des britischen Künstlers Anish Kapoor im Millennium Park in Chicago, Illinois. Spitzname 'The Bean'.",
       hu: "Anish Kapoor brit művész köztéri szobra az illinois-i Chicagóban, a Millennium Parkban. Beceneve 'A Bab'.",
-      ro: "O sculptură publică realizată de artistul britanic Anish Kapoor, situată în Millennium Park din Chicago, Illinois. Poreclită „Bobul”.",
+      ro: "O sculptură publică realizată de artistul britanic Anish Kapoor, situată în Millennium Park din Chicago, Illinois. Poreclită \"Bobul\".",
       en: "A public sculpture by British artist Anish Kapoor, located in Millennium Park in Chicago, Illinois. Nicknamed 'The Bean'."
     },
     facts: {
@@ -107,7 +107,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
     facts: {
       de: ["Erbaut 1742", "Schauplatz vieler Reden, die zur Unabhängigkeit aufriefen", "Spitzname 'Die Wiege der Freiheit'"],
       hu: ["1742-ben épült", "Számos, függetlenségre buzdító beszéd helyszíne volt", "Beceneve 'A Szabadság Bölcsője'"],
-      ro: ["Construită în 1742", "Locul multor discursuri care au cerut independența", "Poreclită „Leagănul Libertății”"],
+      ro: ["Construită în 1742", "Locul multor discursuri care au cerut independența", "Poreclită \"Leagănul Libertății\""],
       en: ["Built in 1742", "Site of many speeches encouraging independence", "Nicknamed 'The Cradle of Liberty'"]
     }, image: "/poi-images/faneuil-hall-landmarks-v2.webp"},
   {
@@ -125,7 +125,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
     facts: {
       de: ["Ursprünglich 1923 als 'HOLLYWOODLAND' errichtet", "Jeder Buchstabe ist 13,7 Meter hoch", "Symbol der amerikanischen Unterhaltungsindustrie"],
       hu: ["Eredetileg 1923-ban 'HOLLYWOODLAND' néven állították fel", "Minden betű 13,7 méter magas", "Az amerikai szórakoztatóipar szimbóluma"],
-      ro: ["Ridicată inițial în 1923 ca „HOLLYWOODLAND”", "Fiecare literă are 13,7 metri înălțime", "Simbol al industriei de divertisment americane"],
+      ro: ["Ridicată inițial în 1923 ca \"HOLLYWOODLAND\"", "Fiecare literă are 13,7 metri înălțime", "Simbol al industriei de divertisment americane"],
       en: ["Originally created in 1923 as 'HOLLYWOODLAND'", "Each letter is 45 feet (13.7 m) tall", "Symbol of the American entertainment industry"]
     }, image: "/poi-images/hollywood-sign-landmarks-v2.webp"},
   {
@@ -143,7 +143,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
     facts: {
       de: ["Befindet sich am westlichen Ende der National Mall", "Enthält eine große sitzende Skulptur von Lincoln", "Ort von Martin Luther Kings 'I Have a Dream'-Rede"],
       hu: ["A National Mall nyugati végén található", "Lincoln nagy, ülő szobrát tartalmazza", "Martin Luther King 'Van egy álmom' beszédének helyszíne"],
-      ro: ["Situat la capătul vestic al National Mall", "Conține o sculptură mare a lui Lincoln așezat", "Locul discursului „Am un vis” al lui Martin Luther King"],
+      ro: ["Situat la capătul vestic al National Mall", "Conține o sculptură mare a lui Lincoln așezat", "Locul discursului \"Am un vis\" al lui Martin Luther King"],
       en: ["Located on the western end of the National Mall", "Contains a large seated sculpture of Lincoln", "Site of Martin Luther King's 'I Have a Dream' speech"]
     }, image: "/poi-images/lincoln-memorial-landmarks-v2.webp"},
   {
@@ -197,7 +197,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
     facts: {
       de: ["Höchstes Gebäude in der westlichen Hemisphäre", "Symbolische Höhe von 1.776 Fuß (541 m), die sich auf das Jahr der Unabhängigkeitserklärung bezieht", "Spitzname 'Freedom Tower'"],
       hu: ["A nyugati félteke legmagasabb épülete", "Szimbolikus magassága 1776 láb (541 m), utalva a Függetlenségi Nyilatkozat évére", "Beceneve 'Szabadság-torony'"],
-      ro: ["Cea mai înaltă clădire din emisfera vestică", "Înălțime simbolică de 1.776 de picioare (541 m), referindu-se la anul Declarației de Independență", "Poreclită „Turnul Libertății”"],
+      ro: ["Cea mai înaltă clădire din emisfera vestică", "Înălțime simbolică de 1.776 de picioare (541 m), referindu-se la anul Declarației de Independență", "Poreclită \"Turnul Libertății\""],
       en: ["Tallest building in the Western Hemisphere", "Symbolic height of 1,776 ft (541 m), referencing the year of the Declaration of Independence", "Nicknamed the Freedom Tower"]
     }, image: "/poi-images/one-world-trade-center-landmarks-v2.webp"},
   {
@@ -233,7 +233,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
     facts: {
       de: ["War 25 Jahre lang das höchste Gebäude der Welt", "Verfügt über das Skydeck mit Glasbalkonen namens 'The Ledge'", "Eines der bekanntesten Wahrzeichen von Chicago"],
       hu: ["25 évig a világ legmagasabb épülete volt", "Rendelkezik a Skydeck kilátóval, ahol 'The Ledge' nevű üvegerkélyek vannak", "Chicago egyik legismertebb jelképe"],
-      ro: ["A fost cea mai înaltă clădire din lume timp de 25 de ani", "Dispune de Skydeck cu balcoane de sticlă numite „The Ledge”", "Unul dintre cele mai iconice repere din Chicago"],
+      ro: ["A fost cea mai înaltă clădire din lume timp de 25 de ani", "Dispune de Skydeck cu balcoane de sticlă numite \"The Ledge\"", "Unul dintre cele mai iconice repere din Chicago"],
       en: ["Was the world's tallest building for 25 years", "Features the Skydeck with glass balconies called 'The Ledge'", "One of Chicago's most iconic landmarks"]
     }, image: "/poi-images/willis-tower-landmarks-v2.webp"},
   {
@@ -306,7 +306,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
     facts: {
       de: ["Symbol des texanischen Unabhängigkeitskampfes", "Belagerung dauerte 13 Tage", "Schlachtruf 'Remember the Alamo!'"],
       hu: ["A texasi függetlenségi harc szimbóluma", "Az ostrom 13 napig tartott", "A 'Remember the Alamo!' (Emlékezz az Alamóra!) csatakiáltás"],
-      ro: ["Simbol al luptei pentru independența Texasului", "Asediul a durat 13 zile", "Strigăt de luptă „Țineți minte Alamo!”"],
+      ro: ["Simbol al luptei pentru independența Texasului", "Asediul a durat 13 zile", "Strigăt de luptă \"Țineți minte Alamo!\""],
       en: ["Symbol of the Texan struggle for independence", "The siege lasted for 13 days", "Battle cry 'Remember the Alamo!'"]
     }, image: "/poi-images/the-alamo-landmarks-v2.webp"},
   {
@@ -342,7 +342,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
     facts: {
       de: ["Bekannt für seine leuchtenden Werbetafeln und Reklamen", "Ort des jährlichen Silvester-Ball-Drops", "Spitzname 'Das Kreuz der Welt'"],
       hu: ["Híres a ragyogó hirdetőtábláiról és reklámjairól", "Az éves szilveszteri gömb leejtésének helyszíne", "Beceneve 'A Világ Kereszteződése'"],
-      ro: ["Cunoscut pentru panourile sale publicitare și reclamele luminoase", "Locul căderii anuale a globului de Anul Nou", "Poreclit „Răscrucea Lumii”"],
+      ro: ["Cunoscut pentru panourile sale publicitare și reclamele luminoase", "Locul căderii anuale a globului de Anul Nou", "Poreclit \"Răscrucea Lumii\""],
       en: ["Known for its bright billboards and advertisements", "Site of the annual New Year's Eve ball drop", "Nicknamed 'The Crossroads of the World'"]
     }, image: "/poi-images/times-square-landmarks-v2.webp"},
   {
@@ -378,7 +378,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
     facts: {
       de: ["Bekannt für seine mit Efeu bewachsenen Außenfeldmauern", "Einer der ältesten Ballparks in der MLB", "Spitzname 'The Friendly Confines'"],
       hu: ["Híres a borostyánnal benőtt külső mezőfalaival", "Az MLB egyik legrégebbi stadionja", "Beceneve 'A Barátságos Határok'"],
-      ro: ["Cunoscut pentru zidurile sale exterioare acoperite de iederă", "Unul dintre cele mai vechi parcuri de baseball din MLB", "Poreclit „Vecinătățile Prietenoase”"],
+      ro: ["Cunoscut pentru zidurile sale exterioare acoperite de iederă", "Unul dintre cele mai vechi parcuri de baseball din MLB", "Poreclit \"Vecinătățile Prietenoase\""],
       en: ["Known for its ivy-covered outfield walls", "One of the oldest ballparks in MLB", "Nicknamed 'The Friendly Confines'"]
     }, image: "/poi-images/wrigley-field-landmarks-v2.webp"},
   {
@@ -390,7 +390,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
     description: {
       de: "Eine Mehrzweck-Indoor-Arena in Midtown Manhattan, New York City. Oft als 'MSG' oder 'The Garden' bezeichnet.",
       hu: "Egy többcélú fedett aréna Midtown Manhattanben, New York Cityben. Gyakran 'MSG'-ként vagy 'The Garden'-ként emlegetik.",
-      ro: "O arenă interioară multifuncțională în Midtown Manhattan, New York City. Adesea denumită „MSG” sau „The Garden”.",
+      ro: "O arenă interioară multifuncțională în Midtown Manhattan, New York City. Adesea denumită \"MSG\" sau \"The Garden\".",
       en: "A multi-purpose indoor arena in Midtown Manhattan, New York City. Often referred to as 'MSG' or 'The Garden'."
     },
     facts: {
@@ -486,7 +486,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
     facts: {
       de: ["Berühmt für ihren markanten Riss", "Inschrift aus der Bibel: 'Verkünde Freiheit im ganzen Land'", "Wurde 1776 geläutet, um die erste öffentliche Verlesung der Unabhängigkeitserklärung anzukündigen"],
       hu: ["Híres a jellegzetes repedéséről", "Bibliai felirat: 'Hirdess szabadságot az egész országban'", "1776-ban megkongatták, hogy bejelentsék a Függetlenségi Nyilatkozat első nyilvános felolvasását"],
-      ro: ["Faimos pentru fisura sa distinctivă", "Inscripție din Biblie: „Vestiți libertatea în toată țara”", "A fost tras în 1776 pentru a anunța prima citire publică a Declarației de Independență"],
+      ro: ["Faimos pentru fisura sa distinctivă", "Inscripție din Biblie: \"Vestiți libertatea în toată țara\"", "A fost tras în 1776 pentru a anunța prima citire publică a Declarației de Independență"],
       en: ["Famous for its distinctive crack", "Inscription from the Bible: 'Proclaim Liberty Throughout All the Land'", "Was rung in 1776 to announce the first public reading of the Declaration of Independence"]
     }, image: "/poi-images/liberty-bell-landmarks-v2.webp"},
   {

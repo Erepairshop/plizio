@@ -14,6 +14,12 @@ export const poiExtraMoroccoNatureV2: POI[] = [
       hu: ["A legmagasabb csúcsa a Toubkal.", "Elválasztja a Földközi-tengert a Szaharától."],
       ro: ["Cel mai înalt vârf este Toubkal.", "Separă Marea Mediterană de Sahara."],
       en: ["The highest peak is Toubkal.", "Separates the Mediterranean from the Sahara."]
+    },
+    descriptionAdvanced: {
+      ro: "Munții Atlas sunt un lanț montan impunător care traversează nord-vestul Africii pe o distanță de aproximativ 2.500 km, prin Maroc, Algeria și Tunisia. În Maroc, se divid în trei lanțuri paralele: Atlasul Înalt, Atlasul Mijlociu și Anti-Atlas. Acești munți acționează ca o barieră climatică majoră, separând coasta mediteraneană și atlantică de vastul deșert Sahara. Biodiversitatea este remarcabilă, variind de la păduri de cedru și stejar în Atlasul Mijlociu la specii endemice precum macacul de Barbaria. Vârfurile înalte sunt acoperite de zăpadă o mare parte a anului, oferind resurse de apă vitale pentru câmpiile din jur. Este un paradis pentru geologi și iubitorii de drumeții. Geografie K7 – lanțuri montane și impactul climatic."
+    },
+    factsAdvanced: {
+      ro: ["Lungimea totală a lanțului montan este de circa 2.500 km.", "Cel mai înalt vârf, Jbel Toubkal (4.167 m), se află în Maroc.", "Numele 'Atlas' provine din mitologia greacă, de la titanul care ținea cerul pe umeri.", "Macacul de Barbaria este singura specie de maimuță care trăiește la nord de Sahara.", "Munții Atlas sunt geologic tineri, formați în principal în era Terțiară.", "Parcul Național Toubkal, înființat în 1942, este cel mai vechi din Maroc.", "Pasul Tizi n'Tichka (2.260 m) este una dintre cele mai spectaculoase șosele montane din lume.", "Comunitățile berbere locuiesc în acești munți de mii de ani, păstrându-și cultura unică."]
     }, image: "/poi-images/atlas-mountains-nature-v2.webp"},
   {
     id: "toubkal-nature-v2",
@@ -105,6 +111,12 @@ export const poiExtraMoroccoNatureV2: POI[] = [
       hu: ["Népszerű turisztikai célpont.", "Széles homokos strandok."],
       ro: ["Destinație turistică populară.", "Plaje largi cu nisip."],
       en: ["Popular tourist destination.", "Wide sandy beaches."]
+    },
+    descriptionAdvanced: {
+      ro: "Golful Agadir este una dintre cele mai renumite destinații de pe coasta Atlanticului din Maroc, cunoscut pentru plaja sa extinsă în formă de semilună, cu o lungime de peste 9 kilometri. Protejat de vânturile puternice, golful oferă condiții ideale pentru înot și sporturi nautice pe tot parcursul anului, datorită celor peste 300 de zile însorite anual. Portul de agrement modern, Marina Agadir, adaugă o notă de lux, cu iahturi, restaurante și magazine. Peisajul este dominat de dealul Agadir Oufella, de unde priveliștile panoramice asupra golfului și a orașului sunt spectaculoase, în special la apus. Acesta este un punct de referință pentru turismul balnear din Maroc, atrăgând vizitatori din întreaga lume. Geografie K7 – zone de coastă și turism."
+    },
+    factsAdvanced: {
+      ro: ["Plaja are o lungime de aproximativ 9 km.", "Beneficiază de peste 300 de zile însorite pe an.", "Temperatura medie a apei variază între 17°C și 22°C.", "Portul de agrement a fost inaugurat în 2007.", "Dealul Agadir Oufella se ridică la 236 de metri deasupra nivelului mării.", "Golful este un habitat important pentru diverse specii de păsări acvatice.", "Promenada de pe faleză se întinde pe o distanță de 5 km.", "Cutremurul din 1960 a distrus vechiul oraș, dar golful a rămas un punct de atracție major."]
     }, image: "/poi-images/agadir-bay-nature-v2.webp"},
   {
     id: "rif-mountains-nature-v2",
@@ -157,6 +169,12 @@ export const poiExtraMoroccoNatureV2: POI[] = [
       hu: ["Fontos a vízellátásban.", "Szabadidős tevékenységek."],
       ro: ["Important pentru alimentarea cu apă.", "Activități de agrement."],
       en: ["Important for water supply.", "Recreational activities."]
+    },
+    descriptionAdvanced: {
+      ro: "Lacul Lalla Takerkoust este un lac de acumulare situat la aproximativ 40 km sud de Marrakech, la poalele Munților Atlas. A fost creat în anii 1930 prin construirea unui baraj pe râul Nfiss, cu scopul principal de a furniza apă pentru irigații și electricitate. A devenit rapid o destinație populară de agrement pentru locuitorii din Marrakech și pentru turiști, oferind o evadare din căldura orașului. Pe malurile lacului se pot practica diverse sporturi nautice, precum jet-ski, caiac și stand-up paddle, sau se pot face plimbări cu quad-ul în deșertul Agafay din apropiere. Peisajul, cu apele albastre ale lacului contrastând cu dealurile aride, este deosebit de frumos, mai ales la apus. Geografie K7 – managementul resurselor de apă."
+    },
+    factsAdvanced: {
+      ro: ["Barajul a fost construit între 1929 și 1935, în timpul protectoratului francez.", "Numele provine de la o sfântă locală, Lalla Takerkoust.", "Lacul are o lungime de aproximativ 7 km.", "Capacitatea sa este de circa 55 de milioane de metri cubi.", "Este o sursă importantă de apă pentru irigarea câmpiei Haouz.", "Multe restaurante și hoteluri s-au dezvoltat pe malurile sale.", "Este un loc popular pentru observarea stelelor, datorită poluării luminoase reduse.", "Deșertul Agafay din apropiere este un deșert stâncos, nu nisipos."]
     }, image: "/poi-images/lalla-takerkoust-lake-nature-v2.webp"},
   {
     id: "oued-sebou-nature-v2",
@@ -183,6 +201,12 @@ export const poiExtraMoroccoNatureV2: POI[] = [
       hu: ["Nagyon mély.", "Látványos hegyvidéki táj."],
       ro: ["Foarte adânc.", "Peisaj montan spectaculos."],
       en: ["Very deep.", "Spectacular mountain scenery."]
+    },
+    descriptionAdvanced: {
+      ro: "Lacul Bin El Ouidane este un lac de acumulare spectaculos, situat în inima Munților Atlas, în provincia Azilal. Creat de barajul cu același nume, construit în anii 1950 pe râul El Abid, lacul este unul dintre cele mai mari și mai adânci din Maroc. Culoarea sa turcoaz, în contrast cu peisajul montan arid și roșiatic, creează o priveliște de o frumusețe rară. Barajul joacă un rol vital în producerea de energie hidroelectrică și în irigarea câmpiilor agricole din aval, precum Tadla. Lacul este, de asemenea, o destinație turistică în plină dezvoltare, oferind oportunități pentru pescuit sportiv (în special biban), schi nautic și plimbări cu barca. Geografie K7 – resurse de apă și energie."
+    },
+    factsAdvanced: {
+      ro: ["Barajul Bin El Ouidane a fost finalizat în 1953.", "Are o înălțime de 133 de metri și o lungime de 290 de metri.", "Capacitatea rezervorului este de aproximativ 1,3 miliarde de metri cubi de apă.", "Suprafața lacului este de circa 3.700 de hectare.", "Centrala hidroelectrică are o putere instalată de 135 MW.", "Este renumit pentru populația sa de biban negru (black bass), care atrage pescari din toată lumea.", "Adâncimea maximă a lacului depășește 120 de metri.", "Numele 'Bin El Ouidane' înseamnă 'Între Râuri' în arabă."]
     }, image: "/poi-images/bin-el-ouidane-lake-nature-v2.webp"},
   {
     id: "oued-ziz-nature-v2",
@@ -287,6 +311,12 @@ export const poiExtraMoroccoNatureV2: POI[] = [
       hu: ["Szörfös központ.", "Meredek part."],
       ro: ["Hotspot pentru surferi.", "Coastă abruptă."],
       en: ["Surfer hotspot.", "Cliff coast."]
+    },
+    descriptionAdvanced: {
+      ro: "Cap Ghir este un promontoriu proeminent pe coasta Atlanticului, la nord de Agadir. Este cunoscut pentru farul său impunător și pentru peisajele sălbatice, cu stânci abrupte care se prăbușesc în ocean. Zona este un punct de referință pentru navigatori și un loc popular pentru surferi, care găsesc aici unele dintre cele mai bune valuri din regiune, în special la spotul numit 'Boilers'. Peisajul este arid, presărat cu arbuști și plante suculente adaptate la vânturile puternice și la aerul sărat. Zona este ideală pentru drumeții de-a lungul coastei, oferind priveliști spectaculoase și o senzație de izolare. Este un exemplu perfect de coastă atlantică marocană în starea sa naturală. Geografie K7 – forme de relief costier."
+    },
+    factsAdvanced: {
+      ro: ["Farul de la Cap Ghir a fost construit în 1932.", "Turnul farului are o înălțime de 42 de metri.", "Lumina sa este vizibilă de la o distanță de peste 22 de mile marine (aproximativ 40 km).", "Spotul de surf 'Boilers' este numit după epava unei nave ale cărei cazane sunt vizibile la reflux.", "Stâncile din zonă sunt de origine sedimentară, erodate de valuri de-a lungul mileniilor.", "Este un loc excelent pentru observarea păsărilor marine.", "Satul de pescari Taghazout, un faimos centru de surf, se află la sud de Cap Ghir.", "Accesul la far este restricționat, fiind o instalație militară activă."]
     }, image: "/poi-images/cap-ghir-nature-v2.webp"},
   {
     id: "laguna-nador-nature-v2",
@@ -300,6 +330,12 @@ export const poiExtraMoroccoNatureV2: POI[] = [
       hu: ["Elválasztva a Földközi-tengertől.", "Fontos természetvédelmi terület."],
       ro: ["Separată de Marea Mediterană.", "Zonă de protecție a naturii importantă."],
       en: ["Separated from the Mediterranean.", "Important nature reserve."]
+    },
+    descriptionAdvanced: {
+      ro: "Laguna Nador, cunoscută local ca Mar Chica ('Marea Mică'), este una dintre cele mai mari lagune din bazinul mediteranean, situată în nord-estul Marocului. Este separată de Marea Mediterană printr-un cordon litoral îngust, lung de 25 km. Ecosistemul său a fost supus unor presiuni ecologice, dar un proiect masiv de reabilitare, lansat în 2011, a redeschis legătura cu marea, îmbunătățind calitatea apei și revitalizând biodiversitatea. Astăzi, laguna este din nou un habitat important pentru păsările acvatice, inclusiv flamingo și pescăruși. Pe malurile sale se dezvoltă un proiect turistic ambițios, Mar Chica Med, care vizează crearea unei stațiuni ecologice de lux. Ecologie K8 – reabilitarea ecologică a zonelor umede."
+    },
+    factsAdvanced: {
+      ro: ["Laguna are o suprafață de aproximativ 115 km².", "Cordonul litoral se numește Boukana.", "Adâncimea medie a lagunei este de 4-5 metri.", "Proiectul de reabilitare a inclus dragarea și crearea unui nou canal de legătură cu marea.", "Peste 100 de specii de păsări au fost observate în zonă.", "Proiectul Mar Chica Med este unul dintre cele mai mari proiecte de dezvoltare turistică din Maroc.", "Orașul Nador este situat pe malul estic al lagunei.", "Activitățile tradiționale includ pescuitul și colectarea de scoici."]
     }, image: "/poi-images/laguna-nador-nature-v2.webp"},
   {
     id: "oued-tazeka-nature-v2",
@@ -391,6 +427,12 @@ export const poiExtraMoroccoNatureV2: POI[] = [
       hu: ["Nagyon markáns pont.", "Világítótorony."],
       ro: ["Punct foarte distinctiv.", "Far."],
       en: ["Very striking point.", "Lighthouse."]
+    },
+    descriptionAdvanced: {
+      ro: "Cap Spartel este un promontoriu spectaculos situat la intrarea în Strâmtoarea Gibraltar, la aproximativ 12 km vest de Tanger. Acesta marchează punctul în care Marea Mediterană se întâlnește cu Oceanul Atlantic, un fapt de mare importanță geografică și simbolică. Farul său iconic, construit în 1864 la solicitarea consulilor străini din Tanger, este unul dintre cele mai faimoase din Africa și asigură siguranța navigației într-una dintre cele mai aglomerate căi maritime din lume. Zona înconjurătoare este un parc național protejat, acoperit de păduri de pini și eucalipți, oferind un habitat pentru diverse specii de păsări. Priveliștile de pe promontoriu sunt uluitoare, în special la apus. Istorie K8 – rute maritime și importanță strategică."
+    },
+    factsAdvanced: {
+      ro: ["Altitudinea promontoriului este de 315 metri.", "Farul a fost comandat de Sultanul Muhammad al IV-lea și administrat de o comisie internațională.", "Lumina farului este vizibilă de la 30 de mile marine (56 km).", "Este considerat punctul cel mai nord-vestic al Africii continentale.", "Parcul Perdicaris, situat în apropiere, este o atracție populară.", "La baza promontoriului se află Grotele lui Hercule, o peșteră naturală și arheologică.", "Bătălia de la Capul Spartel a avut loc în 1782 între flotele britanică și franco-spaniolă.", "Denumirea 'Spartel' provine probabil de la o plantă locală, sparcina."]
     }
   }
 ];

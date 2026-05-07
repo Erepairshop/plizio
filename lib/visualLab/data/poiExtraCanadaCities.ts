@@ -34,7 +34,7 @@ export const poiExtraCanadaCities: POI[] = [
     parent: "CA-ON",
     coords: [-79.7629, 43.7315],
     name: { de: "Brampton", hu: "Brampton", ro: "Brampton", en: "Brampton" },
-    description: { de: "Eine vielfältige Stadt in der Greater Toronto Area, bekannt als 'Blumenstadt Kanadas'.", hu: "Sokszínű város a Greater Toronto Area-ban, 'Kanada virágvárosaként' is ismert.", ro: "Un oraș divers din zona metropolitană Toronto, cunoscut ca „Orașul Florilor din Canada”.", en: "A diverse city in the Greater Toronto Area, known as the 'Flower City of Canada'." },
+    description: { de: "Eine vielfältige Stadt in der Greater Toronto Area, bekannt als 'Blumenstadt Kanadas'.", hu: "Sokszínű város a Greater Toronto Area-ban, 'Kanada virágvárosaként' is ismert.", ro: "Un oraș divers din zona metropolitană Toronto, cunoscut ca \\\"Orașul Florilor din Canada\\\".", en: "A diverse city in the Greater Toronto Area, known as the 'Flower City of Canada'." },
     facts: {
       de: ["Schnell wachsende Bevölkerung", "Große südasiatische Gemeinschaft", "Wichtiges Zentrum für Logistik", "Umfangreiches Parksystem"],
       hu: ["Gyorsan növekvő népesség", "Jelentős dél-ázsiai közösség", "Fontos logisztikai központ", "Kiterjedt parkrendszer"],
@@ -43,7 +43,7 @@ export const poiExtraCanadaCities: POI[] = [
     },
     descriptionAdvanced: {
       de: "",
-      hu: "Brampton, amelyet gyakran „Kanada virágvárosaként” emlegetnek, az ország egyik leggyorsabban növekvő települése. A Toronto környéki agglomeráció (GTA) részeként fontos logisztikai és gyártóbázis, ahol a diverzitás alapvető érték. A város népessége rendkívül sokszínű, különösen a dél-ázsiai közösség jelenléte meghatározó, ami a gasztronómiában és a fesztiválokban is visszaköszön. Brampton történelmi központja, a Garden Square, a közösségi élet szíve, ahol szabadtéri mozizással és rendezvényekkel várják a látogatókat. A település gazdasága ma már az informatika és az egészségügyi technológiák felé is nyit, miközben megőrzi kertvárosi jellegét és kiterjedt parkrendszerét. A természetközeli élményeket a Claireville Természetvédelmi Terület biztosítja a város határában. Földrajz K7 – Kanadai városok és gazdaság",
+      hu: "Brampton, amelyet gyakran \\\"Kanada virágvárosaként\\\" emlegetnek, az ország egyik leggyorsabban növekvő települése. A Toronto környéki agglomeráció (GTA) részeként fontos logisztikai és gyártóbázis, ahol a diverzitás alapvető érték. A város népessége rendkívül sokszínű, különösen a dél-ázsiai közösség jelenléte meghatározó, ami a gasztronómiában és a fesztiválokban is visszaköszön. Brampton történelmi központja, a Garden Square, a közösségi élet szíve, ahol szabadtéri mozizással és rendezvényekkel várják a látogatókat. A település gazdasága ma már az informatika és az egészségügyi technológiák felé is nyit, miközben megőrzi kertvárosi jellegét és kiterjedt parkrendszerét. A természetközeli élményeket a Claireville Természetvédelmi Terület biztosítja a város határában. Földrajz K7 – Kanadai városok és gazdaság",
       ro: "",
       en: ""
     },
@@ -63,12 +63,12 @@ export const poiExtraCanadaCities: POI[] = [
     facts: {
       de: ["Spitzname 'Stahlstadt'", "Über 100 Wasserfälle", "Royal Botanical Gardens", "Wichtiger Binnenhafen"],
       hu: ["'Acélváros' a beceneve", "Több mint 100 vízesés", "Királyi Botanikus Kertek", "Fontos folyami kikötő"],
-      ro: ["Poreclit „Orașul Oțelului”", "Peste 100 de cascade", "Grădinile Botanice Regale", "Port interior important"],
+      ro: ["Poreclit \\\"Orașul Oțelului\\\"", "Peste 100 de cascade", "Grădinile Botanice Regale", "Port interior important"],
       en: ["Nicknamed 'Steel City'", "Over 100 waterfalls", "Royal Botanical Gardens", "Major inland port"]
     },
     descriptionAdvanced: {
       de: "",
-      hu: "Hamilton az Ontario-tó nyugati csücskében fekvő kikötőváros, amely hagyományosan Kanada acélipari központjaként ismert. Az „Acélváros” (Steel City) becenévre rászolgált település ma már sikeresen alakul át egy modern kulturális és oktatási centrummá. A várost kettészeli a Niagara-lépcső, egy meredek sziklafal, amelyet a helyiek csak „A Hegykén” (The Mountain) emlegetnek. Ez a földrajzi adottság teszi lehetővé, hogy Hamilton területén több mint 100 vízesés található, ami világviszonylatban is egyedülálló. A McMaster Egyetem révén a város az orvosi kutatások és a felsőoktatás egyik fellegvára. A Királyi Botanikus Kertek pedig a természetkedvelők számára kínálnak felejthetetlen élményt a város szélén. Földrajz K7 – Kanadai városok és gazdaság",
+      hu: "Hamilton az Ontario-tó nyugati csücskében fekvő kikötőváros, amely hagyományosan Kanada acélipari központjaként ismert. Az \\\"Acélváros\\\" (Steel City) becenévre rászolgált település ma már sikeresen alakul át egy modern kulturális és oktatási centrummá. A várost kettészeli a Niagara-lépcső, egy meredek sziklafal, amelyet a helyiek csak \\\"A Hegykén\\\" (The Mountain) emlegetnek. Ez a földrajzi adottság teszi lehetővé, hogy Hamilton területén több mint 100 vízesés található, ami világviszonylatban is egyedülálló. A McMaster Egyetem révén a város az orvosi kutatások és a felsőoktatás egyik fellegvára. A Királyi Botanikus Kertek pedig a természetkedvelők számára kínálnak felejthetetlen élményt a város szélén. Földrajz K7 – Kanadai városok és gazdaság",
       ro: "",
       en: ""
     },
@@ -84,7 +84,7 @@ export const poiExtraCanadaCities: POI[] = [
     parent: "CA-ON",
     coords: [-81.2453, 42.9849],
     name: { de: "London", hu: "London", ro: "London", en: "London" },
-    description: { de: "Eine Stadt im Südwesten von Ontario, bekannt für ihre Universität und den Spitznamen 'Waldstadt'.", hu: "Város Ontario délnyugati részén, egyeteméről és 'Erdőváros' becenevéről ismert.", ro: "Un oraș în sud-vestul Ontario, cunoscut pentru universitatea sa și porecla „Orașul Pădure”.", en: "A city in southwestern Ontario, known for its university and its nickname 'The Forest City'." },
+    description: { de: "Eine Stadt im Südwesten von Ontario, bekannt für ihre Universität und den Spitznamen 'Waldstadt'.", hu: "Város Ontario délnyugati részén, egyeteméről és 'Erdőváros' becenevéről ismert.", ro: "Un oraș în sud-vestul Ontario, cunoscut pentru universitatea sa și porecla \\\"Orașul Pădure\\\".", en: "A city in southwestern Ontario, known for its university and its nickname 'The Forest City'." },
     facts: {
       de: ["Heimat der Western University", "Am Thames River gelegen", "Medizinisches Forschungszentrum", "Viele Parks und Grünflächen"],
       hu: ["A Western University otthona", "A Thames folyó partján fekszik", "Orvosi kutatási központ", "Számos park és zöldterület"],
@@ -93,7 +93,7 @@ export const poiExtraCanadaCities: POI[] = [
     },
     descriptionAdvanced: {
       de: "",
-      hu: "Az Ontario délnyugati részén található London városa méltán viseli az „Erdőváros” (The Forest City) nevet, hiszen területén több millió fa alkot összefüggő zöldfelületet. A város a régió oktatási, egészségügyi és kulturális központja, ahol a Western University (University of Western Ontario) domináns szerepet tölt be. London stratégiai elhelyezkedése Toronto és Detroit között ideálissá teszi a kereskedelem és az ipar számára. A Thames-folyó kettészeli a települést, partján pedig számos park és sétány hívogatja a kirándulókat. A város hangulata egyszerre emlékeztet egy pezsgő egyetemi városra és egy nyugodt, családbarát településre. Az éves fesztiválok, mint például a Sunfest, Kanada-szerte népszerűek. Földrajz K7 – Kanadai városok és gazdaság",
+      hu: "Az Ontario délnyugati részén található London városa méltán viseli az \\\"Erdőváros\\\" (The Forest City) nevet, hiszen területén több millió fa alkot összefüggő zöldfelületet. A város a régió oktatási, egészségügyi és kulturális központja, ahol a Western University (University of Western Ontario) domináns szerepet tölt be. London stratégiai elhelyezkedése Toronto és Detroit között ideálissá teszi a kereskedelem és az ipar számára. A Thames-folyó kettészeli a települést, partján pedig számos park és sétány hívogatja a kirándulókat. A város hangulata egyszerre emlékeztet egy pezsgő egyetemi városra és egy nyugodt, családbarát településre. Az éves fesztiválok, mint például a Sunfest, Kanada-szerte népszerűek. Földrajz K7 – Kanadai városok és gazdaság",
       ro: "",
       en: ""
     },
@@ -118,7 +118,7 @@ export const poiExtraCanadaCities: POI[] = [
     },
     descriptionAdvanced: {
       de: "",
-      hu: "Markham Kanada „high-tech fővárosaként” vált ismertté, mivel több mint ezer technológiai és élettudományi vállalat választotta székhelyéül. A Toronto északi szomszédságában fekvő város az ország egyik legdinamikusabban fejlődő és legszínesebb települése. Különösen jelentős a kínai származású lakosság aránya, ami rányomja bélyegét a város gasztronómiájára és kereskedelmére is. A modern irodaházak mellett Markham megőrizte történelmi báját is: Unionville városrésze 19. századi hangulatot árasztó épületeivel népszerű turisztikai célpont. A fenntartható városfejlesztés mintapéldájaként Downtown Markham egy modern, sűrűn beépített, mégis élhető városközponttá vált az utóbbi években. Földrajz K7 – Kanadai városok és gazdaság",
+      hu: "Markham Kanada \\\"high-tech fővárosaként\\\" vált ismertté, mivel több mint ezer technológiai és élettudományi vállalat választotta székhelyéül. A Toronto északi szomszédságában fekvő város az ország egyik legdinamikusabban fejlődő és legszínesebb települése. Különösen jelentős a kínai származású lakosság aránya, ami rányomja bélyegét a város gasztronómiájára és kereskedelmére is. A modern irodaházak mellett Markham megőrizte történelmi báját is: Unionville városrésze 19. századi hangulatot árasztó épületeivel népszerű turisztikai célpont. A fenntartható városfejlesztés mintapéldájaként Downtown Markham egy modern, sűrűn beépített, mégis élhető városközponttá vált az utóbbi években. Földrajz K7 – Kanadai városok és gazdaság",
       ro: "",
       en: ""
     },
@@ -163,12 +163,12 @@ export const poiExtraCanadaCities: POI[] = [
     facts: {
       de: ["Jährliches Oktoberfest", "Teil des 'Technologie-Dreiecks'", "Früher Berlin genannt", "Starkes produzierendes Gewerbe"],
       hu: ["Évenkénti Oktoberfest", "A 'Technológiai Háromszög' része", "Korábban Berlinnek hívták", "Erős feldolgozóipar"],
-      ro: ["Oktoberfest anual", "Parte a „Triunghiului Tehnologic”", "Anterior numit Berlin", "Industrie prelucrătoare puternică"],
+      ro: ["Oktoberfest anual", "Parte a \\\"Triunghiului Tehnologic\\\"", "Anterior numit Berlin", "Industrie prelucrătoare puternică"],
       en: ["Annual Oktoberfest celebration", "Part of the 'Technology Triangle'", "Formerly named Berlin", "Strong manufacturing sector"]
     },
     descriptionAdvanced: {
       de: "",
-      hu: "Kitchener városa Ontario tartomány szívében, a „Technológiai Háromszög” részeként fontos ipari és innovációs központ. A város története szorosan összefonódik a német bevándorlással; 1916-ig Berlinnek hívták, és ma is itt rendezik meg a világ második legnagyobb Oktoberfestjét. A hagyományos feldolgozóipar mellett az utóbbi évtizedekben a technológiai szektor vette át a vezető szerepet, amit a Google kanadai mérnöki központjának ideköltözése is fémjelez. A szomszédos Waterloo városával szoros egységet alkotva Kitchener pezsgő kulturális életet, számos múzeumot és parkot kínál. A Victoria Park, a város legrégebbi közparkja, a közösségi élet egyik legfontosabb helyszíne. Földrajz K7 – Kanadai városok és gazdaság",
+      hu: "Kitchener városa Ontario tartomány szívében, a \\\"Technológiai Háromszög\\\" részeként fontos ipari és innovációs központ. A város története szorosan összefonódik a német bevándorlással; 1916-ig Berlinnek hívták, és ma is itt rendezik meg a világ második legnagyobb Oktoberfestjét. A hagyományos feldolgozóipar mellett az utóbbi évtizedekben a technológiai szektor vette át a vezető szerepet, amit a Google kanadai mérnöki központjának ideköltözése is fémjelez. A szomszédos Waterloo városával szoros egységet alkotva Kitchener pezsgő kulturális életet, számos múzeumot és parkot kínál. A Victoria Park, a város legrégebbi közparkja, a közösségi élet egyik legfontosabb helyszíne. Földrajz K7 – Kanadai városok és gazdaság",
       ro: "",
       en: ""
     },
@@ -188,7 +188,7 @@ export const poiExtraCanadaCities: POI[] = [
     facts: {
       de: ["'Automobilhauptstadt Kanadas'", "Grenzübergang zu den USA", "Milder als der Rest Kanadas", "Uferpromenade am Detroit River"],
       hu: ["'Kanada autóipari fővárosa'", "Határátkelő az USA-ba", "Enyhébb éghajlatú, mint Kanada többi része", "Sétány a Detroit-folyó partján"],
-      ro: ["„Capitala auto a Canadei”", "Punct de trecere a frontierei cu SUA", "Climă mai blândă decât restul Canadei", "Promenadă pe malul râului Detroit"],
+      ro: ["\\\"Capitala auto a Canadei\\\"", "Punct de trecere a frontierei cu SUA", "Climă mai blândă decât restul Canadei", "Promenadă pe malul râului Detroit"],
       en: ["'Automotive Capital of Canada'", "Busiest international border crossing", "Milder climate than rest of Canada", "Waterfront on the Detroit River"]
     },
     descriptionAdvanced: {
@@ -213,12 +213,12 @@ export const poiExtraCanadaCities: POI[] = [
     facts: {
       de: ["'Stadt der Parks'", "Eine der am schnellsten wachsenden Städte", "Vielfältige Gemeinschaften", "Starke Landwirtschaft in ländlichen Gebieten"],
       hu: ["'A parkok városa'", "Az egyik leggyorsabban növekvő város", "Sokszínű közösségek", "Erős mezőgazdaság a vidéki területeken"],
-      ro: ["„Orașul Parcurilor”", "Unul dintre orașele cu cea mai rapidă creștere", "Comunități diverse", "Agricultură puternică în zonele rurale"],
+      ro: ["\\\"Orașul Parcurilor\\\"", "Unul dintre orașele cu cea mai rapidă creștere", "Comunități diverse", "Agricultură puternică în zonele rurale"],
       en: ["'The City of Parks'", "One of the fastest-growing cities", "Diverse communities", "Strong agriculture in rural areas"]
     },
     descriptionAdvanced: {
       de: "",
-      hu: "Surrey a Brit Kolumbia-i Lower Mainland régió egyik legfontosabb városa, amely területét és népességét tekintve is rohamosan közelíti Vancouver méreteit. A „Parkok Városaként” ismert település különlegessége, hogy a sűrűn beépített városi negyedek mellett jelentős mezőgazdasági területekkel is rendelkezik. Surrey hat különböző városközpontból áll, ami egyedülálló, policentrikus szerkezetet kölcsönöz neki. A város rendkívül sokszínű, lakosai a világ minden tájáról érkeztek, ami gazdag kulturális életet és gasztronómiát eredményezett. A Surrey Fusion Festival minden évben a város multikulturalizmusát ünnepli. Az utóbbi években jelentős fejlesztések történtek a felsőoktatás és a fenntartható közlekedés terén is. Földrajz K7 – Kanadai városok és gazdaság",
+      hu: "Surrey a Brit Kolumbia-i Lower Mainland régió egyik legfontosabb városa, amely területét és népességét tekintve is rohamosan közelíti Vancouver méreteit. A \\\"Parkok Városaként\\\" ismert település különlegessége, hogy a sűrűn beépített városi negyedek mellett jelentős mezőgazdasági területekkel is rendelkezik. Surrey hat különböző városközpontból áll, ami egyedülálló, policentrikus szerkezetet kölcsönöz neki. A város rendkívül sokszínű, lakosai a világ minden tájáról érkeztek, ami gazdag kulturális életet és gasztronómiát eredményezett. A Surrey Fusion Festival minden évben a város multikulturalizmusát ünnepli. Az utóbbi években jelentős fejlesztések történtek a felsőoktatás és a fenntartható közlekedés terén is. Földrajz K7 – Kanadai városok és gazdaság",
       ro: "",
       en: ""
     },
@@ -293,13 +293,13 @@ export const poiExtraCanadaCities: POI[] = [
     },
     descriptionAdvanced: {
       de: "",
-      hu: "Coquitlam a vancouveri agglomeráció, az úgynevezett Metro Vancouver keleti részén fekszik, és a „Tri-Cities” régió legnagyobb tagja. A város neve az őshonos salish nyelvből származik, jelentése „vörös lazac a folyóban”, utalva a terület gazdag természeti kincseire. Coquitlam domborzata rendkívül változatos, a sík folyóparti területektől a meredek hegyoldalakig terjed, ami kiváló lehetőséget nyújt a szabadtéri sportok kedvelőinek. A település híres kiterjedt parkrendszeréről és túraútvonalairól, mint például a Mundy Park vagy a Coquitlam-folyó menti sétányok. A város lakossága rendkívül sokszínű, különösen a koreai közösség jelenléte meghatározó, ami a helyi üzletekben és éttermekben is megmutatkozik. A modern infrastruktúra, köztük a SkyTrain vonal kiépítése, felgyorsította a városiasodást és a gazdasági növekedést. Földrajz K7 – Kanadai városok és gazdaság",
+      hu: "Coquitlam a vancouveri agglomeráció, az úgynevezett Metro Vancouver keleti részén fekszik, és a \\\"Tri-Cities\\\" régió legnagyobb tagja. A város neve az őshonos salish nyelvből származik, jelentése \\\"vörös lazac a folyóban\\\", utalva a terület gazdag természeti kincseire. Coquitlam domborzata rendkívül változatos, a sík folyóparti területektől a meredek hegyoldalakig terjed, ami kiváló lehetőséget nyújt a szabadtéri sportok kedvelőinek. A település híres kiterjedt parkrendszeréről és túraútvonalairól, mint például a Mundy Park vagy a Coquitlam-folyó menti sétányok. A város lakossága rendkívül sokszínű, különösen a koreai közösség jelenléte meghatározó, ami a helyi üzletekben és éttermekben is megmutatkozik. A modern infrastruktúra, köztük a SkyTrain vonal kiépítése, felgyorsította a városiasodást és a gazdasági növekedést. Földrajz K7 – Kanadai városok és gazdaság",
       ro: "",
       en: ""
     },
     factsAdvanced: {
       de: [],
-      hu: ["Lakossága megközelíti a 150 000 főt.", "A Mundy Park a város legnagyobb parkja, területe több mint 178 hektár.", "Itt található Brit Kolumbia egyik legnagyobb bevásárlóközpontja, a Coquitlam Centre.", "A városban él Kanada egyik legnagyobb koreai származású közössége.", "A települést 1891-ben alapították, eredetileg a faipar köré épült.", "Coquitlam területén több mint 80 park és természetvédelmi terület található.", "A „The Crunch” nevű túraútvonal a helyiek kedvenc meredek lépcsőzése, amely 240 méteres szintkülönbséget küzd le."],
+      hu: ["Lakossága megközelíti a 150 000 főt.", "A Mundy Park a város legnagyobb parkja, területe több mint 178 hektár.", "Itt található Brit Kolumbia egyik legnagyobb bevásárlóközpontja, a Coquitlam Centre.", "A városban él Kanada egyik legnagyobb koreai származású közössége.", "A települést 1891-ben alapították, eredetileg a faipar köré épült.", "Coquitlam területén több mint 80 park és természetvédelmi terület található.", "A \\\"The Crunch\\\" nevű túraútvonal a helyiek kedvenc meredek lépcsőzése, amely 240 méteres szintkülönbséget küzd le."],
       ro: [],
       en: []
     }, image: "/poi-images/coquitlam-cities-v2.webp"},
@@ -318,7 +318,7 @@ export const poiExtraCanadaCities: POI[] = [
     },
     descriptionAdvanced: {
       de: "",
-      hu: "Kelowna az Okanagan-völgy legnagyobb városa Brit Kolumbia belső részén, és Kanada egyik legnépszerűbb üdülőhelye. A festői Okanagan-tó partján fekvő település az ország bortermelésének és gyümölcstermesztésének központja. A térség mediterrán jellegű mikroklímája ideális a szőlőtermesztéshez, így Kelowna környékén több tucat világszínvonalú borászat található. A város neve az őshonos syilx nyelven „grizzly medvét” jelent. A nyári hónapokban a vízi sportok, a golfozás és a túrázás vonzza a látogatókat, míg télen a közeli síközpontok nyújtanak kikapcsolódást. Kelowna gazdasága az utóbbi években sokat diverzifikálódott, mára jelentős technológiai és oktatási központtá vált, miközben megőrizte mezőgazdasági jelentőségét is. A város pezsgő kulturális negyede és modern tóparti sétánya minden évszakban élettel teli. Földrajz K7 – Kanadai városok és gazdaság",
+      hu: "Kelowna az Okanagan-völgy legnagyobb városa Brit Kolumbia belső részén, és Kanada egyik legnépszerűbb üdülőhelye. A festői Okanagan-tó partján fekvő település az ország bortermelésének és gyümölcstermesztésének központja. A térség mediterrán jellegű mikroklímája ideális a szőlőtermesztéshez, így Kelowna környékén több tucat világszínvonalú borászat található. A város neve az őshonos syilx nyelven \\\"grizzly medvét\\\" jelent. A nyári hónapokban a vízi sportok, a golfozás és a túrázás vonzza a látogatókat, míg télen a közeli síközpontok nyújtanak kikapcsolódást. Kelowna gazdasága az utóbbi években sokat diverzifikálódott, mára jelentős technológiai és oktatási központtá vált, miközben megőrizte mezőgazdasági jelentőségét is. A város pezsgő kulturális negyede és modern tóparti sétánya minden évszakban élettel teli. Földrajz K7 – Kanadai városok és gazdaság",
       ro: "",
       en: ""
     },
@@ -413,12 +413,12 @@ export const poiExtraCanadaCities: POI[] = [
     facts: {
       de: ["'Königin der Eastern Townships'", "Zwei Universitäten", "Zusammenfluss zweier Flüsse", "Starkes Bildungswesen"],
       hu: ["'Az Eastern Townships királynője'", "Két egyetem", "Két folyó összefolyásánál fekszik", "Erős oktatási rendszer"],
-      ro: ["„Regina regiunii Eastern Townships”", "Două universități", "La confluența a două râuri", "Sector educațional puternic"],
+      ro: ["\\\"Regina regiunii Eastern Townships\\\"", "Două universități", "La confluența a două râuri", "Sector educațional puternic"],
       en: ["'Queen of the Eastern Townships'", "Two universities", "Confluence of two rivers", "Strong educational sector"]
     },
     descriptionAdvanced: {
       de: "",
-      hu: "Sherbrooke Quebec tartomány déli részén, az Eastern Townships (Cantons-de-l'Est) régió szívében található. A várost gyakran emlegetik a „régió királynőjeként”, mivel ez a terület legfontosabb gazdasági, kulturális és oktatási központja. Sherbrooke két folyó, a Magog és a Saint-François összefolyásánál fekszik, ami festői keretet ad a belvárosnak. A település igazi egyetemi város, hiszen két nagy egyetemnek és több főiskolának is otthont ad, így a lakosság jelentős részét fiatal hallgatók teszik ki. Ez a pezsgő szellemi környezet kedvez az innovációnak és a kutatás-fejlesztésnek. A város környéke lenyűgöző természeti adottságokkal rendelkezik: tavak, hegyek és erdők veszik körül, ami ideálissá teszi a túrázáshoz és a téli sportokhoz. Sherbrooke belvárosa híres falfestményeiről, amelyek a város történelmét mutatják be művészi módon. Földrajz K7 – Kanadai városok és gazdaság",
+      hu: "Sherbrooke Quebec tartomány déli részén, az Eastern Townships (Cantons-de-l'Est) régió szívében található. A várost gyakran emlegetik a \\\"régió királynőjeként\\\", mivel ez a terület legfontosabb gazdasági, kulturális és oktatási központja. Sherbrooke két folyó, a Magog és a Saint-François összefolyásánál fekszik, ami festői keretet ad a belvárosnak. A település igazi egyetemi város, hiszen két nagy egyetemnek és több főiskolának is otthont ad, így a lakosság jelentős részét fiatal hallgatók teszik ki. Ez a pezsgő szellemi környezet kedvez az innovációnak és a kutatás-fejlesztésnek. A város környéke lenyűgöző természeti adottságokkal rendelkezik: tavak, hegyek és erdők veszik körül, ami ideálissá teszi a túrázáshoz és a téli sportokhoz. Sherbrooke belvárosa híres falfestményeiről, amelyek a város történelmét mutatják be művészi módon. Földrajz K7 – Kanadai városok és gazdaság",
       ro: "",
       en: ""
     },
@@ -443,13 +443,13 @@ export const poiExtraCanadaCities: POI[] = [
     },
     descriptionAdvanced: {
       de: "",
-      hu: "Saguenay városa Quebec tartomány északi részén, a fenséges Saguenay-fjord mentén fekszik. A település 2002-ben jött létre három korábbi város (Chicoutimi, Jonquière és La Baie) egyesülésével, és a régió adminisztratív és kulturális központja. A város elhelyezkedése egyedülálló: itt találkozik a folyó a tengeri sós vízzel, hatalmas hegyek és meredek sziklafalak között. Saguenay világszerte ismert az alumíniumgyártásáról, köszönhetően a bőséges és olcsó vízenergiának, ami a környékbeli folyókból származik. A természet szerelmesei számára Saguenay a „kalandok kapuja”, hiszen a közeli nemzeti parkok kiváló lehetőséget nyújtanak a bálnalesre, kajakozásra és túrázásra. A városlakók büszkék vendégszeretetükre és sajátos akcentusukra, ami különleges hangulatot ad a településnek. A kulturális életet színházak, fesztiválok és a Quebeci Egyetem helyi campusa teszi teljessé. Földrajz K7 – Kanadai városok és gazdaság",
+      hu: "Saguenay városa Quebec tartomány északi részén, a fenséges Saguenay-fjord mentén fekszik. A település 2002-ben jött létre három korábbi város (Chicoutimi, Jonquière és La Baie) egyesülésével, és a régió adminisztratív és kulturális központja. A város elhelyezkedése egyedülálló: itt találkozik a folyó a tengeri sós vízzel, hatalmas hegyek és meredek sziklafalak között. Saguenay világszerte ismert az alumíniumgyártásáról, köszönhetően a bőséges és olcsó vízenergiának, ami a környékbeli folyókból származik. A természet szerelmesei számára Saguenay a \\\"kalandok kapuja\\\", hiszen a közeli nemzeti parkok kiváló lehetőséget nyújtanak a bálnalesre, kajakozásra és túrázásra. A városlakók büszkék vendégszeretetükre és sajátos akcentusukra, ami különleges hangulatot ad a településnek. A kulturális életet színházak, fesztiválok és a Quebeci Egyetem helyi campusa teszi teljessé. Földrajz K7 – Kanadai városok és gazdaság",
       ro: "",
       en: ""
     },
     factsAdvanced: {
       de: [],
-      hu: ["Lakossága körülbelül 145 000 fő.", "Itt található a világ egyik legnagyobb alumíniumgyára, amelyet a Rio Tinto üzemeltet.", "A Saguenay-fjord a világ egyik leghosszabb fjordja, és az egyetlen, amely az édesvízi és sós vízi élővilágot ötvözi.", "A város területén található a Musée du Fjord, amely a régió különleges ökoszisztémáját mutatja be.", "La Baie városrésze fontos kikötő az óceánjáró luxushajók számára.", "A környéken található a Parc national du Fjord-du-Saguenay, amely lenyűgöző panorámát kínál a sziklákról.", "A városban évente megrendezik a „La Fabuleuse Histoire d'un Royaume” nevű monumentális történelmi játékot."],
+      hu: ["Lakossága körülbelül 145 000 fő.", "Itt található a világ egyik legnagyobb alumíniumgyára, amelyet a Rio Tinto üzemeltet.", "A Saguenay-fjord a világ egyik leghosszabb fjordja, és az egyetlen, amely az édesvízi és sós vízi élővilágot ötvözi.", "A város területén található a Musée du Fjord, amely a régió különleges ökoszisztémáját mutatja be.", "La Baie városrésze fontos kikötő az óceánjáró luxushajók számára.", "A környéken található a Parc national du Fjord-du-Saguenay, amely lenyűgöző panorámát kínál a sziklákról.", "A városban évente megrendezik a \\\"La Fabuleuse Histoire d'un Royaume\\\" nevű monumentális történelmi játékot."],
       ro: [],
       en: []
     }, image: "/poi-images/saguenay-cities-v2.webp"},
@@ -493,13 +493,13 @@ export const poiExtraCanadaCities: POI[] = [
     },
     descriptionAdvanced: {
       de: "",
-      hu: "Trois-Rivières a Szent Lőrinc- és a Saint-Maurice-folyó összefolyásánál fekszik, félúton Montreal és Quebec City között. Az 1634-ben alapított település Észak-Amerika második legrégebbi francia alapítású városa, történelmi negyedei pedig hűen őrzik a gyarmati korszak hangulatát. A város neve („Három Folyó”) a Saint-Maurice-folyó torkolatának három ágára utal. Trois-Rivières sokáig a világ papírgyártásának központja volt, amit a Boréalis papírmúzeum mutat be interaktív módon. Ma a város egy dinamikus kulturális és turisztikai központ, ahol számos fesztivált rendeznek, köztük a híres Nemzetközi Költészeti Fesztivált. A modern kikötői sétány, a kaszinó és a nagyszerű éttermek élettel töltik meg a belvárost. Az oktatás és az innováció terén a Quebeci Egyetem (UQTR) játszik meghatározó szerepet a város életében. Földrajz K7 – Kanadai városok és gazdaság",
+      hu: "Trois-Rivières a Szent Lőrinc- és a Saint-Maurice-folyó összefolyásánál fekszik, félúton Montreal és Quebec City között. Az 1634-ben alapított település Észak-Amerika második legrégebbi francia alapítású városa, történelmi negyedei pedig hűen őrzik a gyarmati korszak hangulatát. A város neve (\\\"Három Folyó\\\") a Saint-Maurice-folyó torkolatának három ágára utal. Trois-Rivières sokáig a világ papírgyártásának központja volt, amit a Boréalis papírmúzeum mutat be interaktív módon. Ma a város egy dinamikus kulturális és turisztikai központ, ahol számos fesztivált rendeznek, köztük a híres Nemzetközi Költészeti Fesztivált. A modern kikötői sétány, a kaszinó és a nagyszerű éttermek élettel töltik meg a belvárost. Az oktatás és az innováció terén a Quebeci Egyetem (UQTR) játszik meghatározó szerepet a város életében. Földrajz K7 – Kanadai városok és gazdaság",
       ro: "",
       en: ""
     },
     factsAdvanced: {
       de: [],
-      hu: ["Lakossága körülbelül 140 000 fő.", "1634-es alapításával ez a második legrégebbi francia város Észak-Amerikában (Quebec City után).", "A 20. század közepén a várost a „világ papírfővárosaként” ismerték.", "Itt rendezik meg a Grand Prix de Trois-Rivières autóversenyt, amely az egyik leghíresebb utcai verseny Kanadában.", "A Szent Lőrinc-folyón átívelő Laviolette-híd a város egyik jelképe, egyben Quebec leghosszabb rácsos hídja.", "A városban található a Notre-Dame-du-Cap bazilika, amely fontos zarándokhely.", "Trois-Rivières ad otthont a világ legnagyobb francia nyelvű költészeti fesztiváljának."],
+      hu: ["Lakossága körülbelül 140 000 fő.", "1634-es alapításával ez a második legrégebbi francia város Észak-Amerikában (Quebec City után).", "A 20. század közepén a várost a \\\"világ papírfővárosaként\\\" ismerték.", "Itt rendezik meg a Grand Prix de Trois-Rivières autóversenyt, amely az egyik leghíresebb utcai verseny Kanadában.", "A Szent Lőrinc-folyón átívelő Laviolette-híd a város egyik jelképe, egyben Quebec leghosszabb rácsos hídja.", "A városban található a Notre-Dame-du-Cap bazilika, amely fontos zarándokhely.", "Trois-Rivières ad otthont a világ legnagyobb francia nyelvű költészeti fesztiváljának."],
       ro: [],
       en: []
     }, image: "/poi-images/trois-rivieres-cities-v2.webp"},
@@ -515,8 +515,7 @@ export const poiExtraCanadaCities: POI[] = [
       hu: ["Lethbridge viadukt", "Szeles éghajlat", "Mezőgazdasági központ", "Lethbridge-i Egyetem"],
       ro: ["Viaductul Lethbridge", "Climă vântoasă", "Centru agricol", "Universitatea din Lethbridge"],
       en: ["Lethbridge Viaduct bridge", "Windy climate", "Agricultural hub", "University of Lethbridge"]
-    }
-  ,
+    },
     descriptionAdvanced: {
       "hu": "Lethbridge Dél-Alberta legnagyobb városa, amely a sziklás-hegység lábánál, a sztyeppés préri övezetben fekszik. A város legmeghatározóbb látványossága a monumentális Lethbridge-viadukt, amely a világ egyik leghosszabb és legmagasabb vasúti hídja. A település a régió mezőgazdasági, kereskedelmi és oktatási központja, otthont adva a neves Lethbridge-i Egyetemnek. Lethbridge híres napos éghajlatáról, de szeles időjárásáról is, ami ideálissá teszi a környéket a szélenergia hasznosítására. A város parkrendszere, különösen az Oldman-folyó völgyében elterülő zöldövezet, kiváló lehetőséget nyújt a kikapcsolódásra. A település gazdag feketeláb (Blackfoot) indián örökséggel és japán kulturális hatásokkal rendelkezik. Lethbridge különleges domborzata és infrastrukturális remekművei kiválóan illusztrálják a K5-K8 tanterv mérnöki és természetföldrajzi tananyagait.",
       "en": "",
@@ -550,8 +549,7 @@ export const poiExtraCanadaCities: POI[] = [
       hu: ["Alberta központi részén fekszik", "Fontos olaj- és gázipari helyszín", "Red Deer College", "Waskasoo Park"],
       ro: ["Locație centrală în Alberta", "Centru important pentru petrol și gaze", "Colegiul Red Deer", "Parcul Waskasoo"],
       en: ["Central location in Alberta", "Major hub for oil and gas", "Red Deer College", "Waskasoo Park"]
-    }
-  ,
+    },
     descriptionAdvanced: {
       "hu": "Red Deer Alberta tartomány szívében, Calgary és Edmonton között félúton helyezkedik el, a Red Deer-folyó völgyében. Stratégiai elhelyezkedése miatt a város a tartomány egyik legfontosabb logisztikai, szolgáltatási és ipari központja. A település neve az őslakosok által használt 'elk' (szarvas) félrefordításából ered. Red Deer híres kiterjedt parkrendszeréről, a Waskasoo Parkról, amely több mint 80 kilométernyi gyalogutat kínál a lakók számára. A gazdaság motorja a mezőgazdaság, valamint az olaj- és gázipar, de az utóbbi években az oktatás és az egészségügy is jelentős szerepet kapott. A város pezsgő sportélettel rendelkezik, számos országos bajnokságnak ad otthont. Red Deer urbanizációs fejlődése és központi szerepköre remek példát szolgáltat a K5-K8 tanterv gazdaságföldrajzi és szállítási ismereteihez.",
       "en": "",
@@ -585,8 +583,7 @@ export const poiExtraCanadaCities: POI[] = [
       hu: ["Magas életminőség", "A nyugati rész legnagyobb szabadtéri termelői piaca", "Kiterjedt park- és úthálózat", "Erős francia-kanadai gyökerek"],
       ro: ["Calitate ridicată a vieții", "Cea mai mare piață agricolă în aer liber din vest", "Rețea extinsă de parcuri și trasee", "Rădăcini puternice franco-canadiene"],
       en: ["High quality of life", "Largest outdoor farmers' market in the West", "Extensive park and trail system", "Strong French-Canadian roots"]
-    }
-  ,
+    },
     descriptionAdvanced: {
       "hu": "St. Albert egy jómódú és festői város Alberta tartományban, közvetlenül Edmontontól északnyugatra. Az 1861-ben alapított település a tartomány egyik legrégebbi városa, amely gazdag francia-kanadai és métis örökséggel rendelkezik. St. Albert híres magas életminőségéről, biztonságáról és virágzó kulturális életéről. A város egyik fő vonzereje a Sturgeon-folyó, amely mentén gyönyörű parkok és sétautak húzódnak. Itt rendezik meg minden nyáron Nyugat-Kanada legnagyobb szabadtéri termelői piacát, amely látogatók ezreit vonzza. A település elkötelezett a fenntarthatóság mellett, számos környezetvédelmi kezdeményezéssel büszkélkedhet. A kiváló oktatási rendszer és a bőséges rekreációs lehetőségek miatt St. Albert rendkívül népszerű a családok körében. A város történelmi gyökerei és modern fenntarthatósági törekvései jól illeszkednek a K5-K8 tanterv történelmi és környezetismereti moduljaihoz.",
       "en": "",
@@ -618,10 +615,9 @@ export const poiExtraCanadaCities: POI[] = [
     facts: {
       de: ["'Die Gasstadt'", "Eine der sonnigsten Städte Kanadas", "Historisches Töpferhandwerk", "Am South Saskatchewan River"],
       hu: ["'A gázváros'", "Kanada egyik legnaposabb városa", "Történelmi fazekasság", "A Dél-Saskatchewan folyó partján"],
-      ro: ["„Orașul Gazului”", "Unul dintre cele mai însorite orașe din Canada", "Olărit istoric", "Pe râul South Saskatchewan"],
+      ro: ["\\\"Orașul Gazului\\\"", "Unul dintre cele mai însorite orașe din Canada", "Olărit istoric", "Pe râul South Saskatchewan"],
       en: ["'The Gas City'", "One of Canada's sunniest cities", "Historic pottery industry", "On the South Saskatchewan River"]
-    }
-  ,
+    },
     descriptionAdvanced: {
       "hu": "Medicine Hat Alberta tartomány délkeleti részén fekszik, a South Saskatchewan-folyó völgyében. A várost gyakran 'Gázvárosként' emlegetik a környékén található hatalmas földgázmezők miatt, amelyek évtizedekig biztosították a település jólétét. Medicine Hat Kanada egyik legnaposabb városa, ami az enyhe mikroklímával együtt különlegessé teszi a préri vidékén. A város híres történelmi téglagyárairól és fazekasművészetéről, amelynek emlékeit a Medalta múzeumban őrizik. A folyó völgye mély kanyonokat és látványos sziklaformációkat vájt a tájba, amelyek kiváló túrázási lehetőségeket kínálnak. A település szimbóluma a 'Saamis Tepee', a világ legmagasabb indián sátra, amely az őslakos kultúra előtt tiszteleg. Medicine Hat energiaipari jelentősége és geológiai képződményei szorosan kapcsolódnak a K5-K8 tanterv gazdasági és természetföldrajzi témaköreihez.",
       "en": "",
@@ -653,10 +649,9 @@ export const poiExtraCanadaCities: POI[] = [
     facts: {
       de: ["'Schwanenstadt'", "Wirtschaftszentrum des Nordens", "Junge Bevölkerung", "Land- und Forstwirtschaft"],
       hu: ["'Hattyúváros'", "Az északi régió gazdasági központja", "Fiatal lakosság", "Mezőgazdaság és erdészet"],
-      ro: ["„Orașul Lebedelor”", "Centru economic al nordului", "Populație tânără", "Agricultură și silvicultură"],
+      ro: ["\\\"Orașul Lebedelor\\\"", "Centru economic al nordului", "Populație tânără", "Agricultură și silvicultură"],
       en: ["'Swan City'", "Economic hub of the north", "Young population", "Agriculture and forestry"]
-    }
-  ,
+    },
     descriptionAdvanced: {
       "hu": "Grande Prairie Alberta északnyugati részén, a Peace River régió szívében található. A város a régió gazdasági motorja, amely az olaj- és gázipar, a mezőgazdaság és az erdészet dinamikus fejlődésének köszönheti jólétét. A település rendkívül fiatalos, lakosságának átlagéletkora jóval az országos átlag alatt van, ami pezsgő energiát ad a városnak. Grande Prairie híres a trombitás hattyúkról, amelyek minden évben itt fészkelnek, innen kapta a 'Hattyúváros' nevet. A közeli Philip J. Currie Dinoszaurusz Múzeum világszínvonalú leleteket mutat be a környékről, ami tudományos szempontból is érdekessé teszi a vidéket. A város modern szolgáltatásokkal, sportlétesítményekkel és fejlődő oktatási központtal várja a lakókat. Grande Prairie északi fekvése és erőforrás-alapú gazdasága kiválóan kapcsolódik a K5-K8 tanterv gazdaságföldrajzi és paleontológiai moduljaihoz.",
       "en": "",
@@ -688,10 +683,9 @@ export const poiExtraCanadaCities: POI[] = [
     facts: {
       de: ["'Hub City'", "Zweisprachige Stadt (Englisch/Französisch)", "Magnetic Hill Phänomen", "Zentrum der Maritimes"],
       hu: ["'Csomópontváros'", "Kétnyelvű város (angol/francia)", "Magnetic Hill jelenség", "A tengeri tartományok központja"],
-      ro: ["„Orașul Nod”", "Oraș bilingv (engleză/franceză)", "Fenomenul Magnetic Hill", "Centrul Maritimelor"],
+      ro: ["\\\"Orașul Nod\\\"", "Oraș bilingv (engleză/franceză)", "Fenomenul Magnetic Hill", "Centrul Maritimelor"],
       en: ["'Hub City'", "Bilingual city (English/French)", "Magnetic Hill phenomenon", "Center of the Maritimes"]
-    }
-  ,
+    },
     descriptionAdvanced: {
       "hu": "Moncton New Brunswick tartomány legnagyobb városa és a tengeri tartományok (Maritimes) fontos közlekedési és logisztikai csomópontja. A 'Csomópontvárosként' ismert település stratégiai helyen fekszik, ahol a vasúti, közúti és légi útvonalak találkoznak. Moncton különlegessége a kétnyelvűség; az angol és a francia nyelv egyaránt jelen van a mindennapokban, ami egyedi kulturális hangulatot teremt. A város egyik leghíresebb látnivalója a Magnetic Hill, ahol egy optikai csalódás miatt az autók látszólag felfelé gurulnak a dombon. A Petitcodiac-folyó mentén megfigyelhető az árapály-jelenség (tidal bore), amely a Fundy-öböl közelségének köszönhető. Moncton dinamikus gazdasága a technológiára és a szolgáltatásokra épül. A város fejlődése és kétnyelvű társadalma remek szemléltető anyag a K5-K8 tanterv társadalomföldrajzi és oceanográfiai témáihoz.",
       "en": "",
@@ -725,8 +719,7 @@ export const poiExtraCanadaCities: POI[] = [
       hu: ["Kanada legrégebbi bejegyzett városa", "Reversing Falls zuhatag", "Fontos ipari kikötő", "Loyalista történelem"],
       ro: ["Cel mai vechi oraș încorporat din Canada", "Cascadele inversate (Reversing Falls)", "Port industrial important", "Istorie loialistă"],
       en: ["Oldest incorporated city in Canada", "Reversing Falls rapids", "Major industrial port", "Loyalist history"]
-    }
-  ,
+    },
     descriptionAdvanced: {
       "hu": "Saint John New Brunswick tartomány történelmi kikötővárosa, amely a Fundy-öböl partján, a Saint John-folyó torkolatánál fekszik. Ez Kanada legrégebbi bejegyzett városa, amely gazdag lojalista múlttal és lenyűgöző viktoriánus építészettel büszkélkedhet. A város leghíresebb természeti jelensége a Reversing Falls (Visszafelé folyó vízesés), ahol a Fundy-öböl hatalmas árapálya miatt a folyó vize naponta kétszer megfordul. Saint John fontos ipari központ, itt található az ország legnagyobb olajfinomítója és egy jelentős mélyvízi kikötő. A belváros (Uptown) pezsgő kulturális életet kínál történelmi piaccsarnokával és modern éttermeivel. A település környékén hatalmas parkok, mint például a Rockwood Park, kínálnak természetközeli élményeket. Saint John történelmi szerepe és árapály-jelensége szorosan kapcsolódik a K5-K8 tanterv történelmi és fizikai földrajzi ismereteihez.",
       "en": "",
@@ -760,8 +753,7 @@ export const poiExtraCanadaCities: POI[] = [
       hu: ["Az acél- és szénipar történelmi központja", "Kapu a Cabot Trailhez", "Nagy Hegedű (a világ legnagyobb hegedűje)", "Hajókikötő"],
       ro: ["Centru istoric pentru oțel și cărbune", "Poarta către Cabot Trail", "Vioara Mare (cea mai mare vioară din lume)", "Port de croazieră"],
       en: ["Historic steel and coal centre", "Gateway to the Cabot Trail", "The Big Fiddle", "Cruise ship port"]
-    }
-  ,
+    },
     descriptionAdvanced: {
       "hu": "Sydney a Cape Breton-sziget legnagyobb városa Új-Skóciában, amely egy mély vizű kikötő partján fekszik. A város történelmileg az acélgyártás és a szénbányászat központja volt, ami meghatározta arculatát és kultúráját. Ma Sydney a sziget turisztikai kapuja, ahonnan a látogatók elindulhatnak a híres Cabot Trail felfedezésére. A kikötőben található a világ legnagyobb hegedűje ('Big Fiddle'), amely a sziget gazdag kelta és skót zenei örökségét szimbolizálja. A város modernizálódó gazdasága az oktatásra, a technológiára és a turizmusra épül. Sydney barátságos közössége és festői tengerparti sétánya vonzza a látogatókat és a tengerjáró hajókat egyaránt. A település ipari múltja és kelta kulturális jelentősége remek szemléltető anyag a K5-K8 tanterv gazdaságföldrajzi és néprajzi moduljaihoz.",
       "en": "",
@@ -795,8 +787,7 @@ export const poiExtraCanadaCities: POI[] = [
       hu: ["Gyorsan növekvő ingázóváros", "Egész évben látogatható üdülőterület", "Történelmi belváros", "Tóparti sétány"],
       ro: ["Oraș de navetiști în creștere rapidă", "Zonă de recreere pe tot parcursul anului", "Centru istoric", "Promenadă pe malul lacului"],
       en: ["Fast-growing commuter city", "Four-season recreational area", "Historic downtown", "Waterfront promenade"]
-    }
-  ,
+    },
     descriptionAdvanced: {
       "hu": "Barrie egy dinamikusan fejlődő város Ontario tartományban, a Simcoe-tó Kempenfelt-öblének partján, Torontótól északra. Kedvező elhelyezkedése miatt Barrie népszerű lakóhely az ingázók és a természetkedvelők számára egyaránt. A város híres gyönyörű vízparti sétányáról, strandjairól és a közeli síterepekről, amelyek egész évben rekreációs lehetőségeket kínálnak. A település gazdasága diverzifikált, jelentős a technológiai szektor, az oktatás és az egészségügy jelenléte. Barrie történelmi belvárosa hangulatos üzletekkel és éttermekkel várja a látogatókat, miközben a peremkerületeken modern lakóparkok épülnek. A város kapuként szolgál a Muskoka-régió és Észak-Ontario felé. Barrie urbanizációs folyamata és tóparti ökoszisztémája kiválóan kapcsolódik a K5-K8 tanterv településföldrajzi és környezeti ismereteihez.",
       "en": "",
@@ -830,8 +821,7 @@ export const poiExtraCanadaCities: POI[] = [
       hu: ["A General Motors Canada otthona", "Fontos oktatási központ (Ontario Tech University)", "Kanadai Autómúzeum", "Kikötő az Ontario-tavon"],
       ro: ["Sediul General Motors Canada", "Centru educațional important (Universitatea Ontario Tech)", "Muzeul Auto Canadian", "Port la lacul Ontario"],
       en: ["Home of General Motors Canada", "Major education hub (Ontario Tech University)", "Canadian Automotive Museum", "Port on Lake Ontario"]
-    }
-  ,
+    },
     descriptionAdvanced: {
       "hu": "Oshawa egy jelentős ipari és oktatási központ Ontario tartományban, az Ontario-tó északi partján, Torontótól keletre. A várost évtizedekig 'Kanada autóipari fővárosaként' emlegették, mivel itt található a General Motors Canada központja és hatalmas összeszerelő üzemei. Bár az autóipar ma is meghatározó, Oshawa sikeresen átalakult egy modern technológiai és felsőoktatási központtá, ahol neves egyetemek és kutatóintézetek működnek. A város gazdag kulturális örökséggel bír, amit a neves Parkwood Estate kastély és a Kanadai Autómúzeum képvisel. A település tágas parkokkal, természetvédelmi területekkel és egy fontos mélyvízi kikötővel rendelkezik. Oshawa ipari szerkezetváltása és urbanizációs fejlődése remek szemléltető anyag a K5-K8 tanterv gazdaságföldrajzi és társadalmi ismereteihez.",
       "en": "",
@@ -863,10 +853,9 @@ export const poiExtraCanadaCities: POI[] = [
     facts: {
       de: ["'The Royal City'", "Niedrige Arbeitslosenquote", "University of Guelph (Agrar- und Veterinärwissenschaft)", "Basilica of Our Lady Immaculate"],
       hu: ["'A királyi város'", "Alacsony munkanélküliségi ráta", "Guelphi Egyetem (agrár- és állatorvostudomány)", "Basilica of Our Lady Immaculate"],
-      ro: ["„Orașul Regal”", "Rată scăzută a șomajului", "Universitatea din Guelph (agronomie și veterinară)", "Bazilica Maicii Domnului Imaculate"],
+      ro: ["\\\"Orașul Regal\\\"", "Rată scăzută a șomajului", "Universitatea din Guelph (agronomie și veterinară)", "Bazilica Maicii Domnului Imaculate"],
       en: ["'The Royal City'", "Low unemployment rate", "University of Guelph (agriculture and veterinary)", "Basilica of Our Lady Immaculate"]
-    }
-  ,
+    },
     descriptionAdvanced: {
       "hu": "Guelph, amelyet 'Királyi Városként' is ismernek, Ontario tartomány délnyugati részén fekszik, és híres magas életminőségéről, alacsony bűnözési rátájáról és környezettudatos közösségéről. A várost John Galt alapította 1827-ben, és máig megőrizte gyönyörű, mészkőből épült történelmi belvárosát. Guelph az agrár- és élelmiszertudományok, valamint a biotechnológia egyik legfontosabb központja Kanadában, köszönhetően a világhírű Guelphi Egyetemnek. A gazdaság diverzifikált, jelentős a fejlett gyártóipar és a szoftverfejlesztés jelenléte is. A város elkötelezett a fenntarthatóság mellett, az ország egyik legjobb hulladékkezelési rendszerével rendelkezik. A település pezsgő kulturális életet, zenei fesztiválokat és gazdag gasztronómiát kínál. Guelph innovatív környezete és történelmi építészete jól illeszkedik a K5-K8 tanterv társadalomföldrajzi és tudományos moduljaihoz.",
       "en": "",
@@ -898,10 +887,9 @@ export const poiExtraCanadaCities: POI[] = [
     facts: {
       de: ["Erste Hauptstadt Kanadas (Provinz)", "Queen's University", "Spitzname 'Kalksteinstadt'", "UNESCO-Weltkulturerbe Fort Henry"],
       hu: ["Kanada (tartományának) első fővárosa", "Queen's University", "'Mészkőváros' a beceneve", "Fort Henry UNESCO világörökség"],
-      ro: ["Prima capitală a Canadei (Provincia)", "Universitatea Queen's", "Poreclit „Orașul de calcar”", "Fort Henry, patrimoniu UNESCO"],
+      ro: ["Prima capitală a Canadei (Provincia)", "Universitatea Queen's", "Poreclit \\\"Orașul de calcar\\\"", "Fort Henry, patrimoniu UNESCO"],
       en: ["First capital of the Province of Canada", "Queen's University", "Nickname 'The Limestone City'", "Fort Henry UNESCO World Heritage Site"]
-    }
-  ,
+    },
     descriptionAdvanced: {
       "hu": "Kingston egy történelmi jelentőségű város Ontario tartományban, az Ontario-tó és a Szent Lőrinc-folyó találkozásánál. Kanada első fővárosaként Kingston büszkén őrzi politikai és katonai múltját, amelyet a monumentális Fort Henry erőd és a mészkőből épült középületek szimbolizálnak. A várost gyakran 'Mészkővárosnak' nevezik a helyi kőből készült elegáns 19. századi épületei miatt. Kingston ma pezsgő egyetemi város, itt található a neves Queen's University és a Kanadai Királyi Katonai Főiskola. A kikötő a kiindulópontja az 'Ezer Sziget' (Thousand Islands) hajókirándulásoknak. A város gazdag kulturális élettel, múzeumokkal és egy felújított történelmi vízparttal várja a látogatókat. Kingston történelmi szerepe és földrajzi fekvése központi téma a K5-K8 tanterv történelmi és stratégiai földrajzi ismereteiben.",
       "en": "",
@@ -933,10 +921,9 @@ export const poiExtraCanadaCities: POI[] = [
     facts: {
       de: ["'Turnierhauptstadt Kanadas'", "Trockenes, sonniges Klima", "Wichtiger Verkehrsknotenpunkt", "Thompson Rivers University"],
       hu: ["'Kanada bajnoki fővárosa'", "Száraz, napos éghajlat", "Fontos közlekedési csomópont", "Thompson Rivers University"],
-      ro: ["„Capitala Turneelor din Canada”", "Climă uscată și însorită", "Nod de transport important", "Universitatea Thompson Rivers"],
+      ro: ["\\\"Capitala Turneelor din Canada\\\"", "Climă uscată și însorită", "Nod de transport important", "Universitatea Thompson Rivers"],
       en: ["'Tournament Capital of Canada'", "Dry, sunny climate", "Major transportation junction", "Thompson Rivers University"]
-    }
-  ,
+    },
     descriptionAdvanced: {
       "hu": "Kamloops Brit Kolumbia belső részén fekszik, az Északi- és Déli-Thompson-folyó összefolyásánál. A város neve az őslakosok 'Tk'emlúps' szavából ered, ami 'ahol a folyók találkoznak' jelentést hordozza. Kamloops Kanada 'bajnoki fővárosaként' ismert, mivel évente több száz sportversenynek és tornának ad otthont világszínvonalú létesítményeiben. A táj jellegzetesen félsivatagos, homokkő sziklákkal, fenyvesekkel és tágas völgyekkel, ami különlegessé teszi a kanadai városok között. A gazdaság motorja az erőforrás-ipar, a technológia és az oktatás, itt található a Thompson Rivers University. A város környéke kiváló terep a hegyi kerékpározáshoz, a túrázáshoz és a horgászathoz. Kamloops különleges éghajlata és folyóvölgyi elhelyezkedése jól illeszkedik a K5-K8 tanterv természetföldrajzi és sportmenedzsment ismereteihez.",
       "en": "",
@@ -968,10 +955,9 @@ export const poiExtraCanadaCities: POI[] = [
     facts: {
       de: ["'Hafenstadt'", "Heimat des Nanaimo-Riegels", "Fährhafen nach Vancouver", "Historische Bastion"],
       hu: ["'Kikötőváros'", "A Nanaimo szelet otthona", "Kikötő kompokkal Vancouverbe", "Történelmi bástya"],
-      ro: ["„Orașul Port”", "Originea prăjiturii Nanaimo", "Port de feribot spre Vancouver", "Bastionul istoric"],
+      ro: ["\\\"Orașul Port\\\"", "Originea prăjiturii Nanaimo", "Port de feribot spre Vancouver", "Bastionul istoric"],
       en: ["'The Harbour City'", "Origin of the Nanaimo bar", "Ferry terminal to Vancouver", "Historic Bastion"]
-    }
-  ,
+    },
     descriptionAdvanced: {
       "hu": "Nanaimo egy hangulatos kikötőváros Vancouver-sziget keleti partján, Brit Kolumbiában. A 'Kikötővárosként' ismert település fontos közlekedési kapu a sziget és a szárazföld között, köszönhetően forgalmas kompkikötőinek. Nanaimo híres a 'Nanaimo szeletről', a világszerte ismert édességről, amely itt született. A város elhelyezkedése lenyűgöző: az óceán és a Mount Benson hegycsúcs közé ékelődik, kiváló lehetőségeket kínálva a kajakozáshoz, a búvárkodáshoz és a túrázáshoz. A történelmi belváros megőrizte 19. századi báját, a bástyával (The Bastion) és a kikötői sétánnyal. A gazdaság a technológiára, az oktatásra és a szolgáltatásokra épül, itt található a Vancouver Island University. Nanaimo tengerparti ökoszisztémája és szigeti közlekedési szerepköre remek példát szolgáltat a K5-K8 tanterv társadalom- és természetföldrajzi témáihoz.",
       "en": "",
@@ -1003,10 +989,9 @@ export const poiExtraCanadaCities: POI[] = [
     facts: {
       de: ["'Hauptstadt des Nordens von BC'", "Am Zusammenfluss von Fraser und Nechako River", "Wichtige Forstwirtschaft", "University of Northern British Columbia"],
       hu: ["'BC északi fővárosa'", "A Fraser és a Nechako folyók összefolyásánál", "Fontos erdőgazdálkodás", "University of Northern British Columbia"],
-      ro: ["„Capitala de nord a BC”", "La confluența râurilor Fraser și Nechako", "Industrie forestieră importantă", "Universitatea din nordul Columbiei Britanice"],
+      ro: ["\\\"Capitala de nord a BC\\\"", "La confluența râurilor Fraser și Nechako", "Industrie forestieră importantă", "Universitatea din nordul Columbiei Britanice"],
       en: ["'BC's Northern Capital'", "At the confluence of Fraser and Nechako Rivers", "Major forestry industry", "University of Northern British Columbia"]
-    }
-  ,
+    },
     descriptionAdvanced: {
       "hu": "Prince George Brit Kolumbia északi részének legnagyobb városa, amely a Fraser- és a Nechako-folyók találkozásánál fekszik. A települést gyakran 'BC északi fővárosaként' emlegetik, mivel a régió legfontosabb szolgáltatási, közlekedési és oktatási központja. Prince George gazdasága hagyományosan az erdőgazdálkodásra és a papíriparra épül, de mára jelentős a bányászat és a technológiai szektor is. Itt található a neves University of Northern British Columbia, amely az ország egyik legjobb kis egyeteme. A várost sűrű fenyőerdők és tavak veszik körül, ami paradicsom a vadászat, a horgászat és a téli sportok kedvelői számára. A település büszke északi identitására és vendégszeretetére. Prince George északi fekvése és erőforrás-gazdálkodása kiválóan kapcsolódik a K5-K8 tanterv gazdasági és környezeti ismereteihez.",
       "en": "",
@@ -1040,8 +1025,7 @@ export const poiExtraCanadaCities: POI[] = [
       hu: ["Mezőgazdasági központ", "Hegyekkel körülvéve", "Horgászat és túrázás", "Gyors növekedés"],
       ro: ["Centru agricol", "Înconjurat de munți", "Pescuit și drumeții", "Creștere rapidă"],
       en: ["Agricultural centre", "Surrounded by mountains", "Fishing and hiking", "Rapid growth"]
-    }
-  ,
+    },
     descriptionAdvanced: {
       "hu": "Chilliwack egy festői város Brit Kolumbia Fraser-völgyében, amelyet a Cascade-hegység hófödte csúcsai és a Fraser-folyó határol. A város híres virágzó mezőgazdaságáról, különösen a kukoricatermesztésről és a tejtermelésről, ami a régió élelmiszerkosarává teszi. Chilliwack rendkívül népszerű a szabadtéri sportok kedvelői körében, köszönhetően a közeli Cultus-tónak és a Vedder-folyónak, amely a horgászok és túrázók paradicsoma. A város az utóbbi években dinamikus növekedésnek indult, vonzva a Vancouverből kiköltöző fiatal családokat. A település sikeresen ötvözi a vidéki bájat a modern városi szolgáltatásokkal. Chilliwack közössége elkötelezett a természeti értékek védelme mellett. A város mezőgazdasági jelentősége és folyóvölgyi elhelyezkedése remek szemléltető anyag a K5-K8 tanterv gazdaság- és természetföldrajzi témáihoz.",
       "en": "",
@@ -1075,8 +1059,7 @@ export const poiExtraCanadaCities: POI[] = [
       hu: ["Erős mezőgazdaság (bogyós gyümölcsök, baromfi)", "Abbotsford Nemzetközi Repülőshow", "Az USA határának közelsége", "University of the Fraser Valley"],
       ro: ["Agricultură puternică (fructe de pădure, păsări)", "Show-ul aerian internațional Abbotsford", "Aproape de granița cu SUA", "Universitatea din Valea Fraser"],
       en: ["Strong agriculture (berries, poultry)", "Abbotsford International Airshow", "Proximity to the US border", "University of the Fraser Valley"]
-    }
-  ,
+    },
     descriptionAdvanced: {
       "hu": "Abbotsford Brit Kolumbia legnagyobb területi városa Vancouveren kívül, a Fraser-völgy szívében, közvetlenül az amerikai határ mentén. A település az ország mezőgazdasági fővárosa, ahol az egy hektárra jutó agrárbevételek a legmagasabbak Kanadában. Abbotsford híres hatalmas bogyósgyümölcs-ültetvényeiről (áfonya, málna) és virágzó baromfitenyésztéséről. A város ad otthont az Abbotsford Nemzetközi Repülőshownak, amely Észak-Amerika egyik legnagyobb légibemutatója. A lakosság rendkívül sokszínű, jelentős indiai származású közösséggel, ami gazdag kulturális életet és vallási sokszínűséget eredményez. A város hátterét a lenyűgöző Mount Baker vulkán adja. Abbotsford gazdasági szerkezete és határmenti elhelyezkedése kiválóan kapcsolódik a K5-K8 tanterv gazdaságföldrajzi és kereskedelmi ismereteihez.",
       "en": "",
@@ -1110,8 +1093,7 @@ export const poiExtraCanadaCities: POI[] = [
       hu: ["Fontos kikötő a Nagy-tavakon", "Kapu a kanadai nyugathoz", "Sleeping Giant sziklaalakzat", "Erős finn közösség"],
       ro: ["Port important pe Marile Lacuri", "Poartă către vestul canadian", "Formațiunea stâncoasă Sleeping Giant", "Comunitate finlandeză puternică"],
       en: ["Major port on the Great Lakes", "Gateway to the Canadian West", "Sleeping Giant rock formation", "Large Finnish community"]
-    }
-  ,
+    },
     descriptionAdvanced: {
       "hu": "Thunder Bay Ontario északnyugati részének legnagyobb városa, amely a Felső-tó (Lake Superior) partján fekszik. A város stratégiai kapu Nyugat-Kanada felé, ahol a Nagy-tavak vízi útja találkozik a vasúti és közúti hálózatokkal. Thunder Bay híres lenyűgöző természeti környezetéről, különösen a Sleeping Giant (Alvó Óriás) sziklaalakzatról, amely a kikötő felett őrködik. A gazdaság motorja a szállítmányozás, az erdészet, a bányászat és az oktatás, itt található a Lakehead University. A város gazdag multikulturális örökséggel rendelkezik, különösen jelentős a finn származású lakosság aránya. Thunder Bay ideális helyszín a vízi sportokhoz, a sziklamászáshoz és a téli tevékenységekhez. A város különleges földrajzi helyzete és geológiai képződményei remek szemléltető anyag a K5-K8 tanterv természetföldrajzi és logisztikai moduljaihoz.",
       "en": "",
@@ -1143,12 +1125,11 @@ export const poiExtraCanadaCities: POI[] = [
     facts: {
       de: ["'Nickel-Hauptstadt der Welt'", "Big Nickel Wahrzeichen", "Science North Wissenschaftszentrum", "Über 300 Seen in der Stadt"],
       hu: ["'A világ nikkel fővárosa'", "Big Nickel emlékmű", "Science North tudományos központ", "Több mint 300 tó a városban"],
-      ro: ["„Capitala Mondială a Nichelului”", "Monumentul Big Nickel", "Centrul de știință Science North", "Peste 300 de lacuri în oraș"],
+      ro: ["\\\"Capitala Mondială a Nichelului\\\"", "Monumentul Big Nickel", "Centrul de știință Science North", "Peste 300 de lacuri în oraș"],
       en: ["'Nickel Capital of the World'", "The Big Nickel landmark", "Science North science centre", "Over 300 lakes within the city"]
-    }
-  ,
+    },
     descriptionAdvanced: {
-      "hu": "Greater Sudbury Ontario északi részének legnagyobb városa, amely világszerte bányászati központként ismert. A város története szorosan összefonódik a nikkel- és rézkitermeléssel, amit a híres „Big Nickel” emlékmű is szimbolizál. A tájat az egykori bányászati tevékenység nyomai és a látványos rekultivációs projektek határozzák meg, amelyek mára zöldellő erdőkké alakították a területet. Sudbury nemcsak ipari óriás, hanem oktatási és tudományos központ is, otthont adva a Science North interaktív múzeumnak és a Laurentian Egyetemnek. A város határain belül több mint 300 tó található, ami egyedülálló rekreációs lehetőségeket kínál a lakóknak és a látogatóknak. A település fejlődése kiválóan szemlélteti az emberi tevékenység és a természet kapcsolatát, amely fontos eleme a K5-K8 tanterv földrajzi és környezeti ismereteinek.",
+      "hu": "Greater Sudbury Ontario északi részének legnagyobb városa, amely világszerte bányászati központként ismert. A város története szorosan összefonódik a nikkel- és rézkitermeléssel, amit a híres \\\"Big Nickel\\\" emlékmű is szimbolizál. A tájat az egykori bányászati tevékenység nyomai és a látványos rekultivációs projektek határozzák meg, amelyek mára zöldellő erdőkké alakították a területet. Sudbury nemcsak ipari óriás, hanem oktatási és tudományos központ is, otthont adva a Science North interaktív múzeumnak és a Laurentian Egyetemnek. A város határain belül több mint 300 tó található, ami egyedülálló rekreációs lehetőségeket kínál a lakóknak és a látogatóknak. A település fejlődése kiválóan szemlélteti az emberi tevékenység és a természet kapcsolatát, amely fontos eleme a K5-K8 tanterv földrajzi és környezeti ismereteinek.",
       "en": "",
       "de": "",
       "ro": ""
@@ -1174,16 +1155,15 @@ export const poiExtraCanadaCities: POI[] = [
     parent: "CA-ON",
     coords: [-80.2669, 43.1400],
     name: { de: "Brantford", hu: "Brantford", ro: "Brantford", en: "Brantford" },
-    description: { de: "Bekannt als 'Telefonstadt', da Alexander Graham Bell hier das Telefon erfand.", hu: "'Telefonvárosként' ismert, mivel Alexander Graham Bell itt találta fel a telefont.", ro: "Cunoscut ca „Orașul Telefonului”, deoarece Alexander Graham Bell a inventat aici telefonul.", en: "Known as 'The Telephone City' as Alexander Graham Bell invented the telephone here." },
+    description: { de: "Bekannt als 'Telefonstadt', da Alexander Graham Bell hier das Telefon erfand.", hu: "'Telefonvárosként' ismert, mivel Alexander Graham Bell itt találta fel a telefont.", ro: "Cunoscut ca \\\"Orașul Telefonului\\\", deoarece Alexander Graham Bell a inventat aici telefonul.", en: "Known as 'The Telephone City' as Alexander Graham Bell invented the telephone here." },
     facts: {
       de: ["Erfindung des Telefons", "Heimat von Wayne Gretzky", "Am Grand River gelegen", "Historisches Industriezentrum"],
       hu: ["A telefon feltalálásának helye", "Wayne Gretzky szülővárosa", "A Grand River partján fekszik", "Történelmi ipari központ"],
       ro: ["Invenția telefonului", "Locul natal al lui Wayne Gretzky", "Situat pe râul Grand", "Centru industrial istoric"],
       en: ["Invention of the telephone", "Hometown of Wayne Gretzky", "Located on the Grand River", "Historic industrial centre"]
-    }
-  ,
+    },
     descriptionAdvanced: {
-      "hu": "Brantford, az Ontario déli részén, a Grand River partján fekvő város, leginkább a „Telefon városa” néven ismert. Itt élt Alexander Graham Bell, aki 1874-ben kidolgozta a telefon elvét, forradalmasítva a globális kommunikációt. A város gazdag történelmi örökséggel rendelkezik, beleértve a Six Nations of the Grand River közösség közelségét és a mohawk örökséget. Brantford emellett a jégkorong-rajongók zarándokhelye is, hiszen itt született a sportág legendája, Wayne Gretzky. A település ipari múltját mára diverzifikált gazdaság és élénk kulturális élet váltotta fel, számos múzeummal és galériával. A folyóparti parkok és tanösvények a természetkedvelők kedvelt célpontjai. A város technológiai és sporttörténeti jelentősége mélyebb betekintést nyújt a K5-K8 tananyagban szereplő innovációs és nemzeti büszkeségről szóló fejezetekbe.",
+      "hu": "Brantford, az Ontario déli részén, a Grand River partján fekvő város, leginkább a \\\"Telefon városa\\\" néven ismert. Itt élt Alexander Graham Bell, aki 1874-ben kidolgozta a telefon elvét, forradalmasítva a globális kommunikációt. A város gazdag történelmi örökséggel rendelkezik, beleértve a Six Nations of the Grand River közösség közelségét és a mohawk örökséget. Brantford emellett a jégkorong-rajongók zarándokhelye is, hiszen itt született a sportág legendája, Wayne Gretzky. A település ipari múltját mára diverzifikált gazdaság és élénk kulturális élet váltotta fel, számos múzeummal és galériával. A folyóparti parkok és tanösvények a természetkedvelők kedvelt célpontjai. A város technológiai és sporttörténeti jelentősége mélyebb betekintést nyújt a K5-K8 tananyagban szereplő innovációs és nemzeti büszkeségről szóló fejezetekbe.",
       "en": "",
       "de": "",
       "ro": ""
@@ -1215,8 +1195,7 @@ export const poiExtraCanadaCities: POI[] = [
       hu: ["Peterborough hajóemelő", "Kapu a Kawartha-tavak régiójához", "Trent University", "Kanadai Kenu Múzeum"],
       ro: ["Ecluza hidraulică Peterborough", "Poarta către regiunea lacurilor Kawartha", "Universitatea Trent", "Muzeul Canadian al Canoe-ului"],
       en: ["Peterborough Lift Lock", "Gateway to the Kawartha Lakes region", "Trent University", "Canadian Canoe Museum"]
-    }
-  ,
+    },
     descriptionAdvanced: {
       "hu": "Peterborough Ontario tartomány Kawarthas régiójának kapuja, egy festői város, amely a természet és a technológia különleges ötvözetét kínálja. Világhírnevét elsősorban a Peterborough Lift Lock-nak, a világ legmagasabb hidraulikus hajóemelőjének köszönheti, amely a Trent-Severn vízi út kulcsfontosságú eleme. A város jelentős oktatási központ, itt található a Trent Egyetem és a Fleming Főiskola, amelyek vibráló, fiatalos légkört kölcsönöznek a településnek. A Kanadai Kenu Múzeum a vízi közlekedés történelmébe enged betekintést, hangsúlyozva a kenu fontosságát a kanadai identitásban. Peterborough gazdasága a gyártástól a turizmusig terjed, miközben megőrzi barátságos, közösségi jellegét. A város mérnöki vívmányai és természetközeli elhelyezkedése kiváló gyakorlati példát nyújtanak a K5-K8 tanterv fizikai és környezeti ismereteihez.",
       "en": "",
@@ -1250,10 +1229,9 @@ export const poiExtraCanadaCities: POI[] = [
       hu: ["Petrolkémiai ipar", "Blue Water Bridge az USA-ba", "A St. Clair folyó partján fekszik", "Tóparti sétány és parkok"],
       ro: ["Industrie petrochimică", "Podul Blue Water spre SUA", "Situat pe râul St. Clair", "Promenadă și parcuri pe malul apei"],
       en: ["Petrochemical industry", "Blue Water Bridge to the USA", "Located on the St. Clair River", "Waterfront and parks"]
-    }
-  ,
+    },
     descriptionAdvanced: {
-      "hu": "Sarnia városa a Huron-tó és a St. Clair-folyó találkozásánál fekszik, stratégiai elhelyezkedése pedig Kanada egyik legfontosabb ipari központjává tette. A város közismert petrolkémiai iparáról, amelyet gyakran „Vegyi-völgynek” is neveznek, mivel számos nemzetközi finomító és gyár működik itt. Sarnia azonban nemcsak az iparról szól; gyönyörű vízparti sétányai, homokos strandjai és a Canatara Park népszerűek a szabadidős tevékenységek kedvelői körében. A várost az Egyesült Államokkal a látványos Blue Water Bridge köti össze, amely az egyik legforgalmasabb határátkelőhely. A település kulturális életét színházak és galériák színesítik, míg a kikötő a vitorlázás központja. Az ipari fejlődés és a környezetvédelem egyensúlya a városban fontos tanulságokkal szolgál a K5-K8 tanterv fenntarthatósággal foglalkozó fejezeteihez.",
+      "hu": "Sarnia városa a Huron-tó és a St. Clair-folyó találkozásánál fekszik, stratégiai elhelyezkedése pedig Kanada egyik legfontosabb ipari központjává tette. A város közismert petrolkémiai iparáról, amelyet gyakran \\\"Vegyi-völgynek\\\" is neveznek, mivel számos nemzetközi finomító és gyár működik itt. Sarnia azonban nemcsak az iparról szól; gyönyörű vízparti sétányai, homokos strandjai és a Canatara Park népszerűek a szabadidős tevékenységek kedvelői körében. A várost az Egyesült Államokkal a látványos Blue Water Bridge köti össze, amely az egyik legforgalmasabb határátkelőhely. A település kulturális életét színházak és galériák színesítik, míg a kikötő a vitorlázás központja. Az ipari fejlődés és a környezetvédelem egyensúlya a városban fontos tanulságokkal szolgál a K5-K8 tanterv fenntarthatósággal foglalkozó fejezeteihez.",
       "en": "",
       "de": "",
       "ro": ""
@@ -1285,8 +1263,7 @@ export const poiExtraCanadaCities: POI[] = [
       hu: ["A turizmus a fő iparág", "Clifton Hill szórakoztató negyed", "Kaszinók és szállodák", "Közeli borvidék"],
       ro: ["Turismul ca industrie principală", "Zona de distracții Clifton Hill", "Cazinouri și hoteluri", "Regiune viticolă în apropiere"],
       en: ["Tourism as the main industry", "Clifton Hill amusement area", "Casinos and hotels", "Nearby wine region"]
-    }
-  ,
+    },
     descriptionAdvanced: {
       "hu": "Niagara Falls városa világszerte ismert turisztikai célpont, amely közvetlenül a Föld egyik leglenyűgözőbb természeti csodája, a Niagara-vízesés mellett fekszik. A város gazdaságát a turizmus uralja, amit a Clifton Hill szórakoztató negyed óriáskerekei, múzeumai és neonfényei tükröznek. A látogatók hajókirándulásokon vehetnek részt a vízesés lábánál, vagy megcsodálhatják a panorámát a Skylon Tower kilátójából. Niagara Falls azonban történelmi szempontból is jelentős, hiszen az 1812-es háború több fontos csatája zajlott a környéken. A város körüli parkok és kertek a Niagara Parks Commission gondozásában állnak, biztosítva a természeti környezet megőrzését. A vízenergia hasznosítása és a tömegturizmus hatásai kiemelt témák a K5-K8 tanterv környezeti és gazdasági tanulmányaiban.",
       "en": "",
@@ -1314,16 +1291,15 @@ export const poiExtraCanadaCities: POI[] = [
     parent: "CA-ON",
     coords: [-79.2431, 43.1593],
     name: { de: "St. Catharines", hu: "St. Catharines", ro: "St. Catharines", en: "St. Catharines" },
-    description: { de: "Die größte Stadt in der Niagara-Region, bekannt als 'Gartenstadt'.", hu: "A Niagara régió legnagyobb városa, 'Kertvárosként' ismert.", ro: "Cel mai mare oraș din regiunea Niagara, cunoscut ca „Orașul Grădină”.", en: "The largest city in the Niagara Region, known as 'The Garden City'." },
+    description: { de: "Die größte Stadt in der Niagara-Region, bekannt als 'Gartenstadt'.", hu: "A Niagara régió legnagyobb városa, 'Kertvárosként' ismert.", ro: "Cel mai mare oraș din regiunea Niagara, cunoscut ca \\\"Orașul Grădină\\\".", en: "The largest city in the Niagara Region, known as 'The Garden City'." },
     facts: {
       de: ["Welland-Kanal", "Wein- und Obstanbau", "Brock University", "Royal Canadian Henley Regatta"],
       hu: ["Welland-csatorna", "Bor- és gyümölcstermesztés", "Brock University", "Royal Canadian Henley Evezős Regatta"],
       ro: ["Canalul Welland", "Cultură de viță de vie și fructe", "Universitatea Brock", "Regata Royal Canadian Henley"],
       en: ["Welland Canal", "Wine and fruit growing", "Brock University", "Royal Canadian Henley Regatta"]
-    }
-  ,
+    },
     descriptionAdvanced: {
-      "hu": "St. Catharines, Ontario „Kertvárosa”, a Niagara-félsziget legnagyobb települése, amely buja parkjairól, virágos kertjeiről és kiterjedt tanösvényeiről kapta becenevét. A város kulcsfontosságú szerepet játszik a hajózásban, mivel itt található a Welland-csatorna több zsilipje, amely lehetővé teszi a hajók áthaladását az Ontario- és az Erie-tó között. St. Catharines a kanadai bortermelés egyik központja is, a várost körülölelő szőlőültetvények világszínvonalú borokat, köztük híres jégborokat adnak. Az oktatást a Brock Egyetem képviseli, amely jelentős kutatási és közösségi központ. A város történelmi negyedei és a tóparti Port Dalhousie kikötője népszerű kikapcsolódási helyszínek. A csatornaépítés mérnöki kihívásai és a mezőgazdaság diverzitása fontos kiegészítői a K5-K8 tanterv regionális földrajzi ismereteinek.",
+      "hu": "St. Catharines, Ontario \\\"Kertvárosa\\\", a Niagara-félsziget legnagyobb települése, amely buja parkjairól, virágos kertjeiről és kiterjedt tanösvényeiről kapta becenevét. A város kulcsfontosságú szerepet játszik a hajózásban, mivel itt található a Welland-csatorna több zsilipje, amely lehetővé teszi a hajók áthaladását az Ontario- és az Erie-tó között. St. Catharines a kanadai bortermelés egyik központja is, a várost körülölelő szőlőültetvények világszínvonalú borokat, köztük híres jégborokat adnak. Az oktatást a Brock Egyetem képviseli, amely jelentős kutatási és közösségi központ. A város történelmi negyedei és a tóparti Port Dalhousie kikötője népszerű kikapcsolódási helyszínek. A csatornaépítés mérnöki kihívásai és a mezőgazdaság diverzitása fontos kiegészítői a K5-K8 tanterv regionális földrajzi ismereteinek.",
       "en": "",
       "de": "",
       "ro": ""
@@ -1353,12 +1329,11 @@ export const poiExtraCanadaCities: POI[] = [
     facts: {
       de: ["Wichtige Landwirtschaftsregion", "Historische Stätte des 'Underground Railroad'", "Günstige Immobilien", "An den Seen Erie und St. Clair gelegen"],
       hu: ["Fontos mezőgazdasági régió", "A 'Földalatti Vasút' történelmi helyszíne", "Megfizethető ingatlanok", "Az Erie- és St. Clair-tavaknál fekszik"],
-      ro: ["Regiune agricolă importantă", "Sit istoric al „Underground Railroad”", "Imobiliare accesibile", "Situat pe lacurile Erie și St. Clair"],
+      ro: ["Regiune agricolă importantă", "Sit istoric al \\\"Underground Railroad\\\"", "Imobiliare accesibile", "Situat pe lacurile Erie și St. Clair"],
       en: ["Major agricultural region", "Historic site for the 'Underground Railroad'", "Affordable real estate", "Located on Lakes Erie and St. Clair"]
-    }
-  ,
+    },
     descriptionAdvanced: {
-      "hu": "Chatham-Kent egy különleges, kiterjedt településegyüttes Ontario délnyugati részén, amely várost és vidéket egyaránt magában foglal. A terület mezőgazdasági jelentősége kiemelkedő, Kanada egyik leggazdagabb termőföldjével rendelkezik, ahol kukoricát, szóját és különféle zöldségeket termesztenek. Chatham-Kent mély történelmi gyökerekkel bír, különösen a „Földalatti Vasút” kapcsán; a Buxton Nemzeti Emlékhely az egykori rabszolgák menedékhelyének állít emléket. A régió két nagy tó, az Erie és a St. Clair között fekszik, így számos stranddal és vízi sportolási lehetőséggel várja a látogatókat. A természetkedvelők számára a Rondeau Tartományi Park kínál egyedülálló ökoszisztémát. A mezőgazdasági termelés és a történelmi társadalmi mozgalmak bemutatása szervesen kapcsolódik a K5-K8 tanterv társadalomtudományi moduljaihoz.",
+      "hu": "Chatham-Kent egy különleges, kiterjedt településegyüttes Ontario délnyugati részén, amely várost és vidéket egyaránt magában foglal. A terület mezőgazdasági jelentősége kiemelkedő, Kanada egyik leggazdagabb termőföldjével rendelkezik, ahol kukoricát, szóját és különféle zöldségeket termesztenek. Chatham-Kent mély történelmi gyökerekkel bír, különösen a \\\"Földalatti Vasút\\\" kapcsán; a Buxton Nemzeti Emlékhely az egykori rabszolgák menedékhelyének állít emléket. A régió két nagy tó, az Erie és a St. Clair között fekszik, így számos stranddal és vízi sportolási lehetőséggel várja a látogatókat. A természetkedvelők számára a Rondeau Tartományi Park kínál egyedülálló ökoszisztémát. A mezőgazdasági termelés és a történelmi társadalmi mozgalmak bemutatása szervesen kapcsolódik a K5-K8 tanterv társadalomtudományi moduljaihoz.",
       "en": "",
       "de": "",
       "ro": ""
@@ -1370,7 +1345,7 @@ export const poiExtraCanadaCities: POI[] = [
         "A Buxton Nemzeti Emlékhely az 1849-es alapítású Elgin Settlement helyén áll.",
         "A terület lakossága körülbelül 102 000 fő, megosztva a városi és vidéki központok között.",
         "A Rondeau Tartományi Park Kanada második legrégebbi tartományi parkja, 1894-ben alapították.",
-        "A St. Clair-tó partján fekvő Mitchell’s Bay a horgászok és a vízi sportolók paradicsoma.",
+        "A St. Clair-tó partján fekvő Mitchell's Bay a horgászok és a vízi sportolók paradicsoma.",
         "Chatham-Kentben több mint 60 különböző kisebb közösség és falu található.",
         "A régióban található Kanada egyik legnagyobb szélerőmű-parkja."
       ],
@@ -1388,12 +1363,11 @@ export const poiExtraCanadaCities: POI[] = [
     facts: {
       de: ["'The Royal City'", "Erste Hauptstadt von BC", "Am Fraser River gelegen", "Gut erhaltene historische Architektur"],
       hu: ["'A királyi város'", "BC első fővárosa", "A Fraser-folyó partján fekszik", "Jól megőrzött történelmi építészet"],
-      ro: ["„Orașul Regal”", "Prima capitală a BC", "Situat pe râul Fraser", "Arhitectură istorică bine conservată"],
+      ro: ["\\\"Orașul Regal\\\"", "Prima capitală a BC", "Situat pe râul Fraser", "Arhitectură istorică bine conservată"],
       en: ["'The Royal City'", "First capital of BC", "Located on the Fraser River", "Well-preserved heritage architecture"]
-    }
-  ,
+    },
     descriptionAdvanced: {
-      "hu": "New Westminster, Brit Kolumbia legrégebbi városa, a Fraser-folyó partján fekszik, és gazdag történelmi múlttal rendelkezik. Egykor a gyarmat fővárosaként szolgált, ma pedig a Metro Vancouver régió vibráló, kulturális központja. A város büszke „Királyi Város” becenevére, amelyet Viktória királynőtől kapott. A folyóparti sétány (Quay) népszerű találkozóhely, ahol piacok, éttermek és a híres lapátkerekes gőzhajó másolata várja a látogatókat. New Westminster építészete a viktoriánus stílusú házaktól a modern toronyházakig terjed, tükrözve a város folyamatos megújulását. A meredek dombokon elhelyezkedő utcákról pazar kilátás nyílik a folyóra és a környező hegyekre. A város történelmi szerepe és városfejlesztési modellje értékes adalék a K5-K8 tanterv történelmi és urbanizációs ismereteihez.",
+      "hu": "New Westminster, Brit Kolumbia legrégebbi városa, a Fraser-folyó partján fekszik, és gazdag történelmi múlttal rendelkezik. Egykor a gyarmat fővárosaként szolgált, ma pedig a Metro Vancouver régió vibráló, kulturális központja. A város büszke \\\"Királyi Város\\\" becenevére, amelyet Viktória királynőtől kapott. A folyóparti sétány (Quay) népszerű találkozóhely, ahol piacok, éttermek és a híres lapátkerekes gőzhajó másolata várja a látogatókat. New Westminster építészete a viktoriánus stílusú házaktól a modern toronyházakig terjed, tükrözve a város folyamatos megújulását. A meredek dombokon elhelyezkedő utcákról pazar kilátás nyílik a folyóra és a környező hegyekre. A város történelmi szerepe és városfejlesztési modellje értékes adalék a K5-K8 tanterv történelmi és urbanizációs ismereteihez.",
       "en": "",
       "de": "",
       "ro": ""
@@ -1425,10 +1399,9 @@ export const poiExtraCanadaCities: POI[] = [
       hu: ["Terry Fox szülővárosa", "A Fraser és Pitt folyók összefolyásánál", "Erős közösségi szellem", "Számos park és túraútvonal"],
       ro: ["Orașul natal al lui Terry Fox", "La confluența râurilor Fraser și Pitt", "Simț comunitar puternic", "Multe parcuri și trasee"],
       en: ["Hometown of Terry Fox", "At the confluence of Fraser and Pitt Rivers", "Strong community feel", "Many parks and trails"]
-    }
-  ,
+    },
     descriptionAdvanced: {
-      "hu": "Port Coquitlam, amelyet a helyiek gyakran csak „PoCo”-ként emlegetnek, egy barátságos város a Fraser és a Pitt folyók összefolyásánál. A település híres erős közösségi szelleméről és kiváló rekreációs lehetőségeiről, különösen a 25 kilométer hosszú Traboulay PoCo Trailről, amely körbeöleli a várost. Port Coquitlam legnevesebb szülötte Terry Fox, a kanadai nemzeti hős, akinek emlékét szobrok és éves futóversenyek őrizzik. A város sikeresen ötvözi a kisvárosi hangulatot a modern szolgáltatásokkal, virágzó belvárossal és fejlődő ipari parkokkal. A folyóparti környezet gazdag élővilágot biztosít, így a természetjárás mindennapos tevékenység a lakók számára. Terry Fox öröksége és a közösségi összefogás ereje példaértékű a K5-K8 tanterv személyiségfejlesztő és állampolgári ismeretei számára.",
+      "hu": "Port Coquitlam, amelyet a helyiek gyakran csak \\\"PoCo\\\"-ként emlegetnek, egy barátságos város a Fraser és a Pitt folyók összefolyásánál. A település híres erős közösségi szelleméről és kiváló rekreációs lehetőségeiről, különösen a 25 kilométer hosszú Traboulay PoCo Trailről, amely körbeöleli a várost. Port Coquitlam legnevesebb szülötte Terry Fox, a kanadai nemzeti hős, akinek emlékét szobrok és éves futóversenyek őrizzik. A város sikeresen ötvözi a kisvárosi hangulatot a modern szolgáltatásokkal, virágzó belvárossal és fejlődő ipari parkokkal. A folyóparti környezet gazdag élővilágot biztosít, így a természetjárás mindennapos tevékenység a lakók számára. Terry Fox öröksége és a közösségi összefogás ereje példaértékű a K5-K8 tanterv személyiségfejlesztő és állampolgári ismeretei számára.",
       "en": "",
       "de": "",
       "ro": ""
@@ -1460,10 +1433,9 @@ export const poiExtraCanadaCities: POI[] = [
       hu: ["Gyalogosbarát belváros", "Fontos kiskereskedelmi helyszín", "Erős lótenyésztési hagyomány a régióban", "A történelmi Fort Langley a közelben"],
       ro: ["Centru prietenos pentru pietoni", "Centru comercial important", "Tradiție puternică de creștere a cailor în regiune", "Fortul istoric Langley în apropiere"],
       en: ["Pedestrian-friendly downtown", "Major retail hub", "Strong horse-breeding tradition in region", "Historic Fort Langley nearby"]
-    }
-  ,
+    },
     descriptionAdvanced: {
-      "hu": "Langley városa egy dinamikusan fejlődő városi központ, amely a nagyobb Langley Township szívében helyezkedik el. A város híres pezsgő kiskereskedelméről, különösen a történelmi belvárosáról, ahol gyalogosbarát utcák és egyedi üzletek várják a látogatókat. Langley-t gyakran emlegetik a „lótenyésztés fővárosaként” is, a környék vidéki jellege és a számos lovas tanya miatt. A város és a környező terület fontos történelmi helyszín, hiszen a közelben található Fort Langley, ahol Brit Kolumbia gyarmatát egykor kikiáltották. Langley ma a modern városi élet és a vidéki nyugalom keveréke, számos parkkal és közösségi eseménnyel. A gyarmati történelem és a modern gazdasági szerkezet bemutatása kiválóan illeszkedik a K5-K8 tanterv történelem és gazdaságföldrajzi egységeibe.",
+      "hu": "Langley városa egy dinamikusan fejlődő városi központ, amely a nagyobb Langley Township szívében helyezkedik el. A város híres pezsgő kiskereskedelméről, különösen a történelmi belvárosáról, ahol gyalogosbarát utcák és egyedi üzletek várják a látogatókat. Langley-t gyakran emlegetik a \\\"lótenyésztés fővárosaként\\\" is, a környék vidéki jellege és a számos lovas tanya miatt. A város és a környező terület fontos történelmi helyszín, hiszen a közelben található Fort Langley, ahol Brit Kolumbia gyarmatát egykor kikiáltották. Langley ma a modern városi élet és a vidéki nyugalom keveréke, számos parkkal és közösségi eseménnyel. A gyarmati történelem és a modern gazdasági szerkezet bemutatása kiválóan illeszkedik a K5-K8 tanterv történelem és gazdaságföldrajzi egységeibe.",
       "en": "",
       "de": "",
       "ro": ""
@@ -1495,8 +1467,7 @@ export const poiExtraCanadaCities: POI[] = [
       hu: ["Hosszú móló", "Homokos strand", "Mérsékelt éghajlat", "A nevét adó fehér szikla"],
       ro: ["Dig lung", "Plajă cu nisip", "Climă moderată", "Stânca albă care îi dă numele"],
       en: ["Long pier", "Sandy beach", "Moderate climate", "Namesake white rock"]
-    }
-  ,
+    },
     descriptionAdvanced: {
       "hu": "White Rock egy festői tengerparti városka a Semiahmoo-öböl partján, Brit Kolumbia déli részén, az amerikai határ közvetlen közelében. Nevét egy hatalmas, fehéren csillogó szikláról kapta, amely a jégkorszak óta díszíti a strandot. A város legfőbb vonzereje a 470 méter hosszú móló és a több kilométernyi homokos tengerpart, amely ideális a sétákhoz és a naplementék megtekintéséhez. White Rock különleges mikroklímával rendelkezik, gyakran naposabb és szárazabb, mint a környező települések. A domboldalra épült házakról lenyűgöző panoráma nyílik az óceánra. A tengerparti sétány éttermei és galériái egész évben vonzzák a turistákat. A tengerparti ökoszisztémák és az apály-dagály jelenség tanulmányozása fontos része a K5-K8 tanterv természettudományos oktatásának.",
       "en": "",
@@ -1505,7 +1476,7 @@ export const poiExtraCanadaCities: POI[] = [
     },
     factsAdvanced: {
       "hu": [
-        "A város nevét adó „Fehér Szikla” egy 486 tonnás gránitdarab.",
+        "A város nevét adó \\\"Fehér Szikla\\\" egy 486 tonnás gránitdarab.",
         "A White Rock móló 470 méter hosszú, és eredetileg 1914-ben épült.",
         "A város területe mindössze 5,13 négyzetkilométer, így az egyik legkisebb Brit Kolumbiában.",
         "A lakosság száma körülbelül 20 000 fő.",
@@ -1530,10 +1501,9 @@ export const poiExtraCanadaCities: POI[] = [
       hu: ["Történelmi Île des Moulins", "Lakó- és ipari területek", "Színházak és kulturális központok", "Nagy zöldterületek"],
       ro: ["Istoricul Île des Moulins", "Zone rezidențiale și industriale", "Teatre și centre culturale", "Spații verzi ample"],
       en: ["Historic Île des Moulins", "Residential and industrial sectors", "Theatres and cultural centres", "Large green spaces"]
-    }
-  ,
+    },
     descriptionAdvanced: {
-      "hu": "Terrebonne Québec tartomány egyik leggyorsabban fejlődő városa, amely Montréal északi partján, a Mille Îles folyó mentén fekszik. A város neve („Jó föld”) gazdag mezőgazdasági múltjára utal, de mára modern lakóövezetté és ipari központtá vált. Terrebonne büszke történelmi örökségére, különösen az Île des Moulins szigetre, amely egykor a régió egyik legfontosabb ipari és kereskedelmi csomópontja volt a 18-19. században. Ma a sziget egy gyönyörű park és kulturális központ, ahol restaurált malmok mesélnek a múltról. A város kiterjedt kerékpárút-hálózattal és számos zöldfelülettel rendelkezik, így a családok körében igen népszerű. Az ipari forradalom hatásai és a folyó menti városfejlődés kiváló példát mutatnak a K5-K8 tanterv történelmi és földrajzi egységeihez.",
+      "hu": "Terrebonne Québec tartomány egyik leggyorsabban fejlődő városa, amely Montréal északi partján, a Mille Îles folyó mentén fekszik. A város neve (\\\"Jó föld\\\") gazdag mezőgazdasági múltjára utal, de mára modern lakóövezetté és ipari központtá vált. Terrebonne büszke történelmi örökségére, különösen az Île des Moulins szigetre, amely egykor a régió egyik legfontosabb ipari és kereskedelmi csomópontja volt a 18-19. században. Ma a sziget egy gyönyörű park és kulturális központ, ahol restaurált malmok mesélnek a múltról. A város kiterjedt kerékpárút-hálózattal és számos zöldfelülettel rendelkezik, így a családok körében igen népszerű. Az ipari forradalom hatásai és a folyó menti városfejlődés kiváló példát mutatnak a K5-K8 tanterv történelmi és földrajzi egységeihez.",
       "en": "",
       "de": "",
       "ro": ""
@@ -1565,8 +1535,7 @@ export const poiExtraCanadaCities: POI[] = [
       hu: ["Nemzetközi Hőlégballon Fesztivál", "Saint-Jean Katonai Főiskola", "Történelmi csatorna", "Fontos mezőgazdasági régió"],
       ro: ["Festivalul Internațional de Baloane", "Colegiul Militar Regal Saint-Jean", "Canal istoric", "Regiune agricolă importantă"],
       en: ["International Balloon Festival", "Royal Military College Saint-Jean", "Historic canal", "Important agricultural region"]
-    }
-  ,
+    },
     descriptionAdvanced: {
       "hu": "Saint-Jean-sur-Richelieu egy történelmi város Québecben, a Richelieu-folyó partján, amely jelentős katonai és kereskedelmi múlttal rendelkezik. Strategikus elhelyezkedése miatt egykor kulcsfontosságú erődítmény volt az amerikai és brit érdekek ütközőzónájában. Ma a város leginkább a Nemzetközi Hőlégballon Fesztiválról ismert, amely Kanada legnagyobb ilyen jellegű eseménye, és színesbe borítja az eget minden augusztusban. Itt található a Saint-Jean Katonai Főiskola is, amely a kanadai tisztképzés egyik központja. A folyó és a hozzákapcsolódó Chambly-csatorna népszerű a hajósok és a kerékpárosok körében. A város történelmi konfliktusai és a modern fesztiválkultúra bemutatása jól kiegészíti a K5-K8 tanterv nemzettudati és rekreációs témaköreit.",
       "en": "",
@@ -1600,8 +1569,7 @@ export const poiExtraCanadaCities: POI[] = [
       hu: ["Magas átlagjövedelem", "Családbarát", "Számos golfpálya", "Nagy lovasközpont"],
       ro: ["Venit mediu ridicat", "Prietenoasă cu familiile", "Multe terenuri de golf", "Centru ecvestru mare"],
       en: ["High average income", "Family-oriented community", "Numerous golf courses", "Large equestrian park"]
-    }
-  ,
+    },
     descriptionAdvanced: {
       "hu": "Blainville egy jómódú, dinamikus város Montréal északi partján, a Laurentian-hegység lábánál. A település híres magas életminőségéről, családközpontú szemléletéről és kiváló sportlétesítményeiről. Blainville-t gyakran emlegetik a lovassportok és a golf kedvelőinek paradicsomaként, mivel számos rangos klubbal és pályával rendelkezik. A város nagy hangsúlyt fektet a környezetvédelemre, kiterjedt erdős területeket és parkokat tartva fenn a lakosság számára. Blainville modern infrastruktúrája és biztonságos lakónegyedei miatt az egyik legnépszerűbb célpont a Montréalból kiköltöző családok számára. A fenntartható városfejlesztés és az aktív életmód népszerűsítése fontos eleme a K5-K8 tanterv egészségmegőrzéssel és környezettudatossággal foglalkozó moduljainak.",
       "en": "",
@@ -1629,14 +1597,13 @@ export const poiExtraCanadaCities: POI[] = [
     parent: "CA-QC",
     coords: [-72.4833, 45.8833],
     name: { de: "Drummondville", hu: "Drummondville", ro: "Drummondville", en: "Drummondville" },
-    description: { de: "Eine Stadt in Zentral-Quebec, bekannt für ihr Sommerfestival 'Mondial des Cultures'.", hu: "Város Közép-Quebecben, a 'Mondial des Cultures' nyári fesztiválról ismert.", ro: "Un oraș în centrul Quebecului, cunoscut pentru festivalul său de vară „Mondial des Cultures”.", en: "A city in central Quebec, known for its 'Mondial des Cultures' summer festival." },
+    description: { de: "Eine Stadt in Zentral-Quebec, bekannt für ihr Sommerfestival 'Mondial des Cultures'.", hu: "Város Közép-Quebecben, a 'Mondial des Cultures' nyári fesztiválról ismert.", ro: "Un oraș în centrul Quebecului, cunoscut pentru festivalul său de vară \\\"Mondial des Cultures\\\".", en: "A city in central Quebec, known for its 'Mondial des Cultures' summer festival." },
     facts: {
       de: ["Mondial des Cultures Festival", "Wichtiger Verkehrsknotenpunkt", "Starkes produzierendes Gewerbe", "Village Québécois d'Antan (historisches Dorf)"],
       hu: ["Mondial des Cultures Fesztivál", "Fontos közlekedési csomópont", "Erős feldolgozóipar", "Village Québécois d'Antan (történelmi falu)"],
       ro: ["Festivalul Mondial des Cultures", "Nod de transport important", "Industrie prelucrătoare puternică", "Village Québécois d'Antan (sat istoric)"],
       en: ["Mondial des Cultures festival", "Major transportation crossroads", "Strong manufacturing sector", "Village Québécois d'Antan (historic village)"]
-    }
-  ,
+    },
     descriptionAdvanced: {
       "hu": "Drummondville Közép-Québec szívében, a Saint-François-folyó partján fekvő város, amely ipari erejéről és gazdag kulturális eseményeiről ismert. A város központi elhelyezkedése miatt fontos logisztikai és gyártási csomópont Montréal és Québec City között. Egyik fő turisztikai vonzereje a Village Québécois d'Antan, egy élő skanzen, ahol 70 történelmi épület mutatja be a 19. századi quebeci életet. Drummondville híres a Mondial des Cultures fesztiválról is, amely a világ néptáncait és kultúráit hozza el a városba. A település dinamikus fejlődése és a hagyományőrzés iránti elkötelezettsége példamutató. A történelmi életmód bemutatása és a modern gazdasági hálózatok megismerése hasznos forrás a K5-K8 tanterv kulturális és gazdaságtani ismereteihez.",
       "en": "",
@@ -1670,10 +1637,9 @@ export const poiExtraCanadaCities: POI[] = [
       hu: ["Agrár- és élelmiszer-technológia", "Állatorvostudományi Kar", "Nyilvános piac", "Daniel A. Séguin Kert"],
       ro: ["Tehnologie agroalimentară", "Facultatea de Medicină Veterinară", "Piață publică", "Grădina Daniel A. Séguin"],
       en: ["Agri-food technology hub", "Faculty of Veterinary Medicine", "Public market", "Daniel A. Séguin Garden"]
-    }
-  ,
+    },
     descriptionAdvanced: {
-      "hu": "Saint-Hyacinthe Québec mezőgazdasági fővárosa, egy innovatív város, ahol az agrárium és a csúcstechnológia találkozik. A város ad otthont Észak-Amerika első „Agrár-élelmiszeripari Technopoliszának”, ahol kutatóintézetek és vállalatok dolgoznak az élelmiszertermelés jövőjén. Itt található a Montréal-i Egyetem Állatorvostudományi Kara is, amely az egyetlen ilyen intézmény a tartományban. Saint-Hyacinthe híres történelmi piacáról, amely 1830 óta folyamatosan működik, kínálva a régió legfrissebb termékeit. A várost a Yamaska-folyó szeli át, partján kellemes parkokkal. A mezőgazdasági innovációk és a tudományos kutatás szerepe a modern társadalomban fontos fejezete a K5-K8 tanterv természettudományos és gazdasági tanulmányainak.",
+      "hu": "Saint-Hyacinthe Québec mezőgazdasági fővárosa, egy innovatív város, ahol az agrárium és a csúcstechnológia találkozik. A város ad otthont Észak-Amerika első \\\"Agrár-élelmiszeripari Technopoliszának\\\", ahol kutatóintézetek és vállalatok dolgoznak az élelmiszertermelés jövőjén. Itt található a Montréal-i Egyetem Állatorvostudományi Kara is, amely az egyetlen ilyen intézmény a tartományban. Saint-Hyacinthe híres történelmi piacáról, amely 1830 óta folyamatosan működik, kínálva a régió legfrissebb termékeit. A várost a Yamaska-folyó szeli át, partján kellemes parkokkal. A mezőgazdasági innovációk és a tudományos kutatás szerepe a modern társadalomban fontos fejezete a K5-K8 tanterv természettudományos és gazdasági tanulmányainak.",
       "en": "",
       "de": "",
       "ro": ""
@@ -1686,7 +1652,7 @@ export const poiExtraCanadaCities: POI[] = [
         "Itt található Kanada egyetlen francia nyelvű állatorvosi főiskolája.",
         "A város területén több mint 1200 mezőgazdasági vállalkozás található a környező vidéken.",
         "A Daniel A. Séguin kert egy 4,5 hektáros oktatókert, több ezer növényfajjal.",
-        "Az éves „Expo de Saint-Hyacinthe” Kanada legnagyobb mezőgazdasági vására.",
+        "Az éves \\\"Expo de Saint-Hyacinthe\\\" Kanada legnagyobb mezőgazdasági vására.",
         "A város ad otthont a Nemzeti Állategészségügyi Kutatóintézetnek."
       ],
       "en": [],
@@ -1705,8 +1671,7 @@ export const poiExtraCanadaCities: POI[] = [
       hu: ["Montreal-Mirabel repülőtér (teher)", "Nagy földterület", "Mezőgazdaság és légiközlekedési ipar", "Premium Outlets Montreal"],
       ro: ["Aeroportul Montréal–Mirabel (marfă)", "Suprafață mare de teren", "Agricultură și industrie aeronautică", "Premium Outlets Montréal"],
       en: ["Montréal–Mirabel Airport (cargo)", "Large land area", "Agriculture and aeronautics industry", "Premium Outlets Montréal"]
-    }
-  ,
+    },
     descriptionAdvanced: {
       "hu": "Mirabel egy hatalmas területű város Montréal északi részén, amely leginkább a Mirabel Nemzetközi Repülőtérről és a hozzá kapcsolódó repülőgépiparról ismert. Bár a repülőtér ma már főként teherforgalmat és gyártást szolgál ki, a város gazdaságának motorja maradt, otthont adva az Airbus és a Bombardier gyárainak. Mirabel azonban nemcsak az iparról szól; területe nagy részét mezőgazdasági földek, erdők és juharszirup-termelő telepek (cabanes à sucre) borítják. A városban található a Premium Outlets Montréal is, amely népszerű bevásárló célpont. Mirabel különleges egyensúlyt teremt a high-tech ipar és a vidéki életmód között. A légiközlekedési technológia és a regionális fejlődés témakörei szorosan kapcsolódnak a K5-K8 tanterv technológiai és gazdaságföldrajzi moduljaihoz.",
       "en": "",
@@ -1740,8 +1705,7 @@ export const poiExtraCanadaCities: POI[] = [
       hu: ["Granby Állatkert", "Nemzetközi Dalfesztivál", "Fontos ipari központ", "Kerékpárutak"],
       ro: ["Grădina Zoologică Granby", "Festivalul Internațional al Cântecului", "Centru industrial important", "Piste de biciclete"],
       en: ["Granby Zoo", "International song festival", "Major industrial centre", "Cycling paths"]
-    }
-  ,
+    },
     descriptionAdvanced: {
       "hu": "Granby egy bájos város az Eastern Townships régióban, amely elsősorban állatkertjéről, a Zoo de Granby-ről híres, mely Kanada egyik leglátogatottabb turisztikai célpontja. A város a Boivin-tó partján fekszik, amely körül gazdag madárvilág és kerékpárutak találhatók. Granby híres a nemzetközi dalfesztiváljáról is (Festival international de la chanson), amely a francia nyelvű zene egyik legfontosabb eseménye. A település ipari múltját mára diverzifikált gazdaság és aktív közösségi élet váltotta fel. A város utcáit számos kültéri művészeti alkotás díszíti, hangsúlyozva Granby kulturális nyitottságát. Az állatvilág védelme és a kulturális örökség megőrzése fontos tanulságokkal szolgál a K5-K8 tanterv biológiai és társadalomismereti óráihoz.",
       "en": "",
@@ -1775,10 +1739,9 @@ export const poiExtraCanadaCities: POI[] = [
       hu: ["Moose Jaw alagútjai (Al Capone legenda)", "Történelmi falfestmények", "CFB Moose Jaw légibázis", "Temple Gardens ásványfürdő"],
       ro: ["Tunelurile din Moose Jaw (legenda lui Al Capone)", "Picturi murale istorice", "Baza aeriană CFB Moose Jaw", "Spa-ul mineral Temple Gardens"],
       en: ["Tunnels of Moose Jaw (Al Capone legend)", "Historic murals", "CFB Moose Jaw air base", "Temple Gardens Mineral Spa"]
-    }
-  ,
+    },
     descriptionAdvanced: {
-      "hu": "Moose Jaw Saskatchewan tartomány egyik legkarakteresebb városa, amely híres földalatti alagútjairól és történelmi falfestményeiről. Az alagutak a legenda szerint az alkoholtilalom idején Al Capone és csempészei számára nyújtottak menedéket, ma pedig interaktív történelmi túrák helyszínei. A város „Notorious” (Hírhedt) becenevét színes múltjának köszönheti. Moose Jaw emellett népszerű gyógyfürdő-központ a Temple Gardens ásványfürdőnek köszönhetően. A városban található a kanadai légierő egyik bázisa is, ahol a híres Snowbirds műrepülő csapat állomásozik. A település építészete jól megőrizte a 20. század eleji hangulatot. A történelmi legendák és a katonai jelentőség bemutatása kiválóan kiegészíti a K5-K8 tanterv történelmi és technológiai ismereteit.",
+      "hu": "Moose Jaw Saskatchewan tartomány egyik legkarakteresebb városa, amely híres földalatti alagútjairól és történelmi falfestményeiről. Az alagutak a legenda szerint az alkoholtilalom idején Al Capone és csempészei számára nyújtottak menedéket, ma pedig interaktív történelmi túrák helyszínei. A város \\\"Notorious\\\" (Hírhedt) becenevét színes múltjának köszönheti. Moose Jaw emellett népszerű gyógyfürdő-központ a Temple Gardens ásványfürdőnek köszönhetően. A városban található a kanadai légierő egyik bázisa is, ahol a híres Snowbirds műrepülő csapat állomásozik. A település építészete jól megőrizte a 20. század eleji hangulatot. A történelmi legendák és a katonai jelentőség bemutatása kiválóan kiegészíti a K5-K8 tanterv történelmi és technológiai ismereteit.",
       "en": "",
       "de": "",
       "ro": ""
@@ -1804,16 +1767,15 @@ export const poiExtraCanadaCities: POI[] = [
     parent: "CA-SK",
     coords: [-105.7606, 53.2001],
     name: { de: "Prince Albert", hu: "Prince Albert", ro: "Prince Albert", en: "Prince Albert" },
-    description: { de: "Die drittgrößte Stadt in Saskatchewan, das 'Tor zum Norden'.", hu: "Saskatchewan harmadik legnagyobb városa, 'az észak kapuja'.", ro: "Al treilea oraș ca mărime din Saskatchewan, „Poarta spre Nord”.", en: "The third-largest city in Saskatchewan, the 'Gateway to the North'." },
+    description: { de: "Die drittgrößte Stadt in Saskatchewan, das 'Tor zum Norden'.", hu: "Saskatchewan harmadik legnagyobb városa, 'az észak kapuja'.", ro: "Al treilea oraș ca mărime din Saskatchewan, \\\"Poarta spre Nord\\\".", en: "The third-largest city in Saskatchewan, the 'Gateway to the North'." },
     facts: {
       de: ["Tor zu den nördlichen Seen und Wäldern", "Prince Albert National Park in der Nähe", "Historisches Handelszentrum", "Wichtige Holzwirtschaft"],
       hu: ["Kapu az északi tavakhoz és erdőkhöz", "Prince Albert Nemzeti Park a közelben", "Történelmi kereskedelmi központ", "Fontos faipar"],
       ro: ["Poarta către lacurile și pădurile nordice", "Parcul Național Prince Albert în apropiere", "Centru comercial istoric", "Industrie forestieră importantă"],
       en: ["Gateway to northern lakes and forests", "Prince Albert National Park nearby", "Historic trading centre", "Important lumber industry"]
-    }
-  ,
+    },
     descriptionAdvanced: {
-      "hu": "Prince Albert Saskatchewan harmadik legnagyobb városa, amelyet gyakran az „Észak Kapujaként” emlegetnek, mivel a déli prérik és az északi erdők találkozásánál fekszik. A város fontos kereskedelmi és közigazgatási központ a régió számára, gazdag prémkereskedelmi múlttal. Prince Albert a North Saskatchewan-folyó partján terül el, és kapuként szolgál a közeli Prince Albert Nemzeti Parkhoz, amely lenyűgöző tavakat és vadvilágot kínál. A város kulturális életét múzeumok, művészeti galériák és az őslakos örökség tisztelete határozza meg. Gazdaságában a mezőgazdaság, az erdészet és a bányászat egyaránt jelen van. A természeti tájak átmenete és az erőforrás-gazdálkodás bemutatása fontos kiegészítője a K5-K8 tanterv földrajzi és ökológiai ismereteinek.",
+      "hu": "Prince Albert Saskatchewan harmadik legnagyobb városa, amelyet gyakran az \\\"Észak Kapujaként\\\" emlegetnek, mivel a déli prérik és az északi erdők találkozásánál fekszik. A város fontos kereskedelmi és közigazgatási központ a régió számára, gazdag prémkereskedelmi múlttal. Prince Albert a North Saskatchewan-folyó partján terül el, és kapuként szolgál a közeli Prince Albert Nemzeti Parkhoz, amely lenyűgöző tavakat és vadvilágot kínál. A város kulturális életét múzeumok, művészeti galériák és az őslakos örökség tisztelete határozza meg. Gazdaságában a mezőgazdaság, az erdészet és a bányászat egyaránt jelen van. A természeti tájak átmenete és az erőforrás-gazdálkodás bemutatása fontos kiegészítője a K5-K8 tanterv földrajzi és ökológiai ismereteinek.",
       "en": "",
       "de": "",
       "ro": ""
@@ -1843,12 +1805,11 @@ export const poiExtraCanadaCities: POI[] = [
     facts: {
       de: ["'Die Weizenstadt'", "Brandon University", "Royal Manitoba Winter Fair", "Wichtiger Eisenbahnknotenpunkt"],
       hu: ["'A búza városa'", "Brandon University", "Royal Manitoba Téli Vásár", "Fontos vasúti csomópont"],
-      ro: ["„Orașul Grâului”", "Universitatea Brandon", "Târgul de Iarnă Regal Manitoba", "Nod feroviar important"],
+      ro: ["\\\"Orașul Grâului\\\"", "Universitatea Brandon", "Târgul de Iarnă Regal Manitoba", "Nod feroviar important"],
       en: ["'The Wheat City'", "Brandon University", "Royal Manitoba Winter Fair", "Major railway hub"]
-    }
-  ,
+    },
     descriptionAdvanced: {
-      "hu": "Brandon Manitoba második legnagyobb városa, amely a tartomány délnyugati részén, az Assiniboine-folyó völgyében fekszik. Becenevét, a „Búza Városát”, gazdag mezőgazdasági örökségéről és a régió gabonatermelésben betöltött központi szerepéről kapta. A város fontos oktatási és kulturális csomópont, otthont adva a Brandon Egyetemnek és a neves Manitobai Téli Vásárnak. Brandon gazdasága mára diverzifikálódott, de a mezőgazdasági technológia és az élelmiszer-feldolgozás továbbra is meghatározó. A város barátságos, közösségi légköre és parkjai népszerűek a családok körében. Az Assiniboine-folyó menti túraútvonalak kiváló rekreációs lehetőségeket kínálnak. A mezőgazdasági ciklusok és a regionális kereskedelem megismerése értékes forrás a K5-K8 tanterv gazdasági és társadalmi ismereteihez.",
+      "hu": "Brandon Manitoba második legnagyobb városa, amely a tartomány délnyugati részén, az Assiniboine-folyó völgyében fekszik. Becenevét, a \\\"Búza Városát\\\", gazdag mezőgazdasági örökségéről és a régió gabonatermelésben betöltött központi szerepéről kapta. A város fontos oktatási és kulturális csomópont, otthont adva a Brandon Egyetemnek és a neves Manitobai Téli Vásárnak. Brandon gazdasága mára diverzifikálódott, de a mezőgazdasági technológia és az élelmiszer-feldolgozás továbbra is meghatározó. A város barátságos, közösségi légköre és parkjai népszerűek a családok körében. Az Assiniboine-folyó menti túraútvonalak kiváló rekreációs lehetőségeket kínálnak. A mezőgazdasági ciklusok és a regionális kereskedelem megismerése értékes forrás a K5-K8 tanterv gazdasági és társadalmi ismereteihez.",
       "en": "",
       "de": "",
       "ro": ""
@@ -1861,7 +1822,7 @@ export const poiExtraCanadaCities: POI[] = [
         "Itt található a Commonwealth Air Training Plan Museum, amely a második világháborús repülésnek állít emléket.",
         "Az Assiniboine-folyó árvízvédelmi rendszere kulcsfontosságú a város biztonsága érdekében.",
         "A város területén több mint 40 park és zöldfelület található.",
-        "Brandon Manitoba „napos városa”, évente átlagosan több mint 2300 órát süt a nap.",
+        "Brandon Manitoba \\\"napos városa\\\", évente átlagosan több mint 2300 órát süt a nap.",
         "A város fontos vasúti csomópont a CP és a CN vasúttársaságok számára."
       ],
       "en": [],
@@ -1878,12 +1839,11 @@ export const poiExtraCanadaCities: POI[] = [
     facts: {
       de: ["'Tor zum Norden'", "An den Seen Nipissing und Trout gelegen", "Wichtige Luftwaffenbasis (CFB North Bay)", "Tourismus und Bildung"],
       hu: ["'Az észak kapuja'", "A Nipissing és Trout tavaknál fekszik", "Fontos légibázis (CFB North Bay)", "Turizmus és oktatás"],
-      ro: ["„Poarta spre Nord”", "Situat între lacurile Nipissing și Trout", "Bază aeriană importantă (CFB North Bay)", "Turism și educație"],
+      ro: ["\\\"Poarta spre Nord\\\"", "Situat între lacurile Nipissing și Trout", "Bază aeriană importantă (CFB North Bay)", "Turism și educație"],
       en: ["'Gateway of the North'", "On Lakes Nipissing and Trout", "Major air force base (CFB North Bay)", "Tourism and education"]
-    }
-  ,
+    },
     descriptionAdvanced: {
-      "hu": "North Bay Ontario északi részének egyik legvonzóbb városa, amely két hatalmas tó, a Nipissing és a Trout Lake között helyezkedik el. „Az Észak Kapujaként” ismert város történelmileg fontos közlekedési csomópont volt a prémkereskedők és a vasútépítők számára. Ma North Bay virágzó oktatási központ a Nipissing Egyetemnek és a Canadore Főiskolának köszönhetően. A város partmenti sétánya és strandjai népszerűek a vízi sportok és a pihenés kedvelői körében. Itt található a kanadai légierő stratégiai bázisa is, amelynek földalatti komplexuma a hidegháború alatt épült. A város természeti szépsége és technológiai öröksége izgalmas betekintést nyújt a K5-K8 tanterv földrajzi és történelmi témaköreibe.",
+      "hu": "North Bay Ontario északi részének egyik legvonzóbb városa, amely két hatalmas tó, a Nipissing és a Trout Lake között helyezkedik el. \\\"Az Észak Kapujaként\\\" ismert város történelmileg fontos közlekedési csomópont volt a prémkereskedők és a vasútépítők számára. Ma North Bay virágzó oktatási központ a Nipissing Egyetemnek és a Canadore Főiskolának köszönhetően. A város partmenti sétánya és strandjai népszerűek a vízi sportok és a pihenés kedvelői körében. Itt található a kanadai légierő stratégiai bázisa is, amelynek földalatti komplexuma a hidegháború alatt épült. A város természeti szépsége és technológiai öröksége izgalmas betekintést nyújt a K5-K8 tanterv földrajzi és történelmi témaköreibe.",
       "en": "",
       "de": "",
       "ro": ""
@@ -1913,12 +1873,11 @@ export const poiExtraCanadaCities: POI[] = [
     facts: {
       de: ["'Die schöne Stadt'", "Wichtiger Verkehrskorridor (Highway 401)", "Loyalist College", "Historische Innenstadt"],
       hu: ["'A szép város'", "Fontos közlekedési folyosó (401-es autópálya)", "Loyalist College", "Történelmi belváros"],
-      ro: ["„Orașul Frumos”", "Coridor de transport important (Autostrada 401)", "Colegiul Loyalist", "Centru istoric"],
+      ro: ["\\\"Orașul Frumos\\\"", "Coridor de transport important (Autostrada 401)", "Colegiul Loyalist", "Centru istoric"],
       en: ["'The Beautiful City'", "Major transportation corridor (Highway 401)", "Loyalist College", "Historic downtown"]
-    }
-  ,
+    },
     descriptionAdvanced: {
-      "hu": "Belleville egy elegáns város Ontario keleti részén, a Quinte-öböl partján, amely történelmi bájáról és modern gazdaságáról ismert. A város neve („Szép város”) tükrözi gyönyörű vízparti fekvését és jól megőrzött viktoriánus építészetét. Belleville fontos ipari és oktatási központ a 401-es autópálya mentén, otthont adva a Loyalist Főiskolának. A város belvárosa tele van egyedi üzletekkel és művészeti galériákkal, míg a Zwick’s Park népszerű helyszíne a szabadtéri fesztiváloknak. A közeli borvidék és a homokos strandok (Sandbanks) közelsége tovább növeli a település vonzerejét. A város fejlődése és a tóparti ökoszisztéma védelme jó példát szolgáltat a K5-K8 tanterv társadalomföldrajzi és környezeti ismereteihez.",
+      "hu": "Belleville egy elegáns város Ontario keleti részén, a Quinte-öböl partján, amely történelmi bájáról és modern gazdaságáról ismert. A város neve (\\\"Szép város\\\") tükrözi gyönyörű vízparti fekvését és jól megőrzött viktoriánus építészetét. Belleville fontos ipari és oktatási központ a 401-es autópálya mentén, otthont adva a Loyalist Főiskolának. A város belvárosa tele van egyedi üzletekkel és művészeti galériákkal, míg a Zwick's Park népszerű helyszíne a szabadtéri fesztiváloknak. A közeli borvidék és a homokos strandok (Sandbanks) közelsége tovább növeli a település vonzerejét. A város fejlődése és a tóparti ökoszisztéma védelme jó példát szolgáltat a K5-K8 tanterv társadalomföldrajzi és környezeti ismereteihez.",
       "en": "",
       "de": "",
       "ro": ""
@@ -1950,10 +1909,9 @@ export const poiExtraCanadaCities: POI[] = [
       hu: ["Soo Locks hajózsilip", "Nemzetközi híd Michiganbe (USA)", "Agawa Canyon Tour Train", "Acélipar"],
       ro: ["Ecluzele Soo", "Pod internațional spre Michigan, SUA", "Trenul turistic Agawa Canyon", "Industria oțelului"],
       en: ["Soo Locks", "International Bridge to Michigan, USA", "Agawa Canyon Tour Train", "Steel industry"]
-    }
-  ,
+    },
     descriptionAdvanced: {
-      "hu": "Sault Ste. Marie (gyakran csak „The Soo”) egy történelmi határváros Észak-Ontarióban, amely a Felső-tavat és a Huron-tavat összekötő folyó partján fekszik. A város legfőbb látványossága a Soo Locks zsiliprendszer, amely lehetővé teszi a hatalmas teherhajók áthaladását a tavak között. Sault Ste. Marie az acélgyártásáról és az Agawa Canyon környéki lenyűgöző erdőiről ismert, amelyek a „Hetesek Csoportja” (Group of Seven) festőit is megihlették. A várost egy nemzetközi híd köti össze az azonos nevű michigani várossal az USA-ban. A település fontos kapu a természetbe, ahol a vadon és az ipar különleges egységet alkot. A vízi utak mérnöki vívmányai és az erdőgazdálkodás jelentősége központi témája a K5-K8 tanterv technológiai és földrajzi óráinak.",
+      "hu": "Sault Ste. Marie (gyakran csak \\\"The Soo\\\") egy történelmi határváros Észak-Ontarióban, amely a Felső-tavat és a Huron-tavat összekötő folyó partján fekszik. A város legfőbb látványossága a Soo Locks zsiliprendszer, amely lehetővé teszi a hatalmas teherhajók áthaladását a tavak között. Sault Ste. Marie az acélgyártásáról és az Agawa Canyon környéki lenyűgöző erdőiről ismert, amelyek a \\\"Hetesek Csoportja\\\" (Group of Seven) festőit is megihlették. A várost egy nemzetközi híd köti össze az azonos nevű michigani várossal az USA-ban. A település fontos kapu a természetbe, ahol a vadon és az ipar különleges egységet alkot. A vízi utak mérnöki vívmányai és az erdőgazdálkodás jelentősége központi témája a K5-K8 tanterv technológiai és földrajzi óráinak.",
       "en": "",
       "de": "",
       "ro": ""
@@ -1983,12 +1941,11 @@ export const poiExtraCanadaCities: POI[] = [
     facts: {
       de: ["'Cottage Country'", "Über 250 Seen", "Teil des Trent-Severn-Wasserwegs", "Tourismus und Landwirtschaft"],
       hu: ["'Nyaralóvidék'", "Több mint 250 tó", "A Trent-Severn vízi út része", "Turizmus és mezőgazdaság"],
-      ro: ["„Țara Căsuțelor de Vacanță”", "Peste 250 de lacuri", "Parte a căii navigabile Trent-Severn", "Turism și agricultură"],
+      ro: ["\\\"Țara Căsuțelor de Vacanță\\\"", "Peste 250 de lacuri", "Parte a căii navigabile Trent-Severn", "Turism și agricultură"],
       en: ["'Cottage Country'", "Over 250 lakes", "Part of the Trent-Severn Waterway", "Tourism and agriculture"]
-    }
-  ,
+    },
     descriptionAdvanced: {
-      "hu": "Kawartha Lakes nem egyetlen város, hanem egy hatalmas kiterjedésű, több mint 250 tavat magában foglaló község és üdülőrégió Ontario szívében. A terület a híres „Cottage Country” része, ahol a kanadaiak és a turisták előszeretettel töltik pihenőidejüket a vízparti nyaralókban. Kawartha Lakes a Trent-Severn vízi út központi szakasza, ahol számos történelmi zsilip és csatorna biztosítja a hajózást. A régió tájai a buja erdőktől a termékeny mezőgazdasági földekig terjednek. Lindsay városa szolgál a terület közigazgatási és kereskedelmi központjaként. A tavi ökoszisztémák, a vízgazdálkodás és a szezonalitás hatásai kiváló esettanulmányokat kínálnak a K5-K8 tanterv földrajzi és környezeti moduljaihoz.",
+      "hu": "Kawartha Lakes nem egyetlen város, hanem egy hatalmas kiterjedésű, több mint 250 tavat magában foglaló község és üdülőrégió Ontario szívében. A terület a híres \\\"Cottage Country\\\" része, ahol a kanadaiak és a turisták előszeretettel töltik pihenőidejüket a vízparti nyaralókban. Kawartha Lakes a Trent-Severn vízi út központi szakasza, ahol számos történelmi zsilip és csatorna biztosítja a hajózást. A régió tájai a buja erdőktől a termékeny mezőgazdasági földekig terjednek. Lindsay városa szolgál a terület közigazgatási és kereskedelmi központjaként. A tavi ökoszisztémák, a vízgazdálkodás és a szezonalitás hatásai kiváló esettanulmányokat kínálnak a K5-K8 tanterv földrajzi és környezeti moduljaihoz.",
       "en": "",
       "de": "",
       "ro": ""
@@ -2020,8 +1977,7 @@ export const poiExtraCanadaCities: POI[] = [
       hu: ["Calgary ingázóvárosa", "Fiatal, családorientált lakosság", "Éves Fényfesztivál", "Erős növekedés"],
       ro: ["Oraș de navetiști pentru Calgary", "Populație tânără, orientată spre familie", "Festivalul anual al luminilor", "Creștere puternică"],
       en: ["Commuter city for Calgary", "Young, family-oriented population", "Annual Festival of Lights", "Strong growth"]
-    }
-  ,
+    },
     descriptionAdvanced: {
       "hu": "Airdrie egy rendkívül gyorsan fejlődő város Alberta tartományban, Calgarytól közvetlenül északra. Bár egykor kis mezőgazdasági település volt, mára egy dinamikus, fiatalos várossá vált, amely vonzza a családokat modern infrastruktúrájával és élénk közösségi életével. Airdrie híres barátságos légköréről és az éves Fesztivál a Fényekről, amely télen varázsolja el a látogatókat. A város kiváló elhelyezkedése miatt népszerű az ingázók körében, de saját gazdasága is jelentős, különösen a szolgáltató szektorban. A település számos parkkal, iskolával és sportlétesítménnyel rendelkezik. Az urbanizáció folyamata és a városi növekedés társadalmi hatásai fontos szemléltető eszközök a K5-K8 tanterv társadalomtudományi és urbanizációs ismereteihez.",
       "en": "",
@@ -2055,8 +2011,7 @@ export const poiExtraCanadaCities: POI[] = [
       hu: ["Az olajhomok-ipar szíve", "Magas átlagjövedelem", "Multikulturális munkaerő", "Északi fekvés"],
       ro: ["Inima industriei nisipurilor bituminoase", "Venit mediu ridicat", "Forță de muncă multiculturală", "Amplasare nordică"],
       en: ["Heart of the oil sands industry", "High average income", "Multicultural workforce", "Northern location"]
-    }
-  ,
+    },
     descriptionAdvanced: {
       "hu": "Fort McMurray (Wood Buffalo része) Észak-Alberta és egész Kanada energiagazdálkodásának szíve. Az Athabasca-folyó és a Clearwater-folyó találkozásánál fekvő város az olajhomok-kitermelés globális központja, amely az ország gazdaságának egyik fő hajtóereje. A település rendkívül multikulturális, a világ minden tájáról érkeznek ide dolgozni vágyók, ami vibráló és sokszínű közösséget hozott létre. Bár a várost hatalmas erdőségek veszik körül, a látképet az ipari létesítmények határozzák meg. Fort McMurray a boreális erdők kapuja, ahol télen gyakran látható a sarki fény. Az energiaforrások kiaknázása és a környezeti hatások egyensúlya kulcsfontosságú témája a K5-K8 tanterv természettudományos és gazdasági moduljainak.",
       "en": "",
@@ -2090,8 +2045,7 @@ export const poiExtraCanadaCities: POI[] = [
       hu: ["Észak-Amerika legkeletibb pontja (Cape Spear)", "Új-Fundland gazdasági központja", "Offshore olaj- és gázipar", "Memorial University"],
       ro: ["Cel mai estic punct al Americii de Nord (Cape Spear)", "Centrul economic al Newfoundland", "Industria petrolieră și de gaze offshore", "Universitatea Memorial"],
       en: ["North America's easternmost point (Cape Spear)", "Economic hub of Newfoundland", "Offshore oil and gas industry", "Memorial University"]
-    }
-  ,
+    },
     descriptionAdvanced: {
       "hu": "St. John's Új-Fundland és Labrador tartomány színes fővárosa, Észak-Amerika egyik legrégebbi és legkeletibb városa. A kikötőt körülölelő domboldalakon sorakozó élénk színű házak (Jellybean Row) és a meredek utcák különleges hangulatot árasztanak. St. John's gazdag tengerészeti múlttal rendelkezik, amely a halászatra és mára az offshore olajiparra épül. A Signal Hill és a Cabot Tower a város felett magasodva őrzi az első tengerentúli rádióüzenet emlékét. A közeli Cape Spear a kontinens legkeletibb pontja, ahol az Atlanti-óceán ereje igazán érezhető. A város híres vendégszeretetéről és élénk zenei életéről. A földrajzi szélsőségek és a tengeri kereskedelem története kiváló kiegészítője a K5-K8 tanterv történelmi és földrajzi egységeinek.",
       "en": "",
@@ -2104,7 +2058,7 @@ export const poiExtraCanadaCities: POI[] = [
         "A város lakossága az agglomerációval együtt meghaladja a 210 000 főt.",
         "Cape Spear a kontinens legkeletibb pontja, ahol Kanada legrégebbi világítótornya áll.",
         "Guglielmo Marconi 1901-ben a Signal Hill-en fogadta az első transzatlanti rádiójelet.",
-        "A „Jellybean Row” házai azért színesek, hogy a halászok a ködben is hazataláljanak.",
+        "A \\\"Jellybean Row\\\" házai azért színesek, hogy a halászok a ködben is hazataláljanak.",
         "A városban található Memorial Egyetem az Atlanti-Kanada legnagyobb egyeteme.",
         "St. John's-ban mérhető Kanada legszelesebb és legködösebb időjárása.",
         "A város alapításának dátuma 1497-ig, Cabot útjáig nyúlik vissza."
@@ -2125,8 +2079,7 @@ export const poiExtraCanadaCities: POI[] = [
       hu: ["Darlingtoni atomerőmű", "Canadian Tire Motorsport Park", "Vidéki jelleg", "Durham régió része"],
       ro: ["Centrala nucleară Darlington", "Parcul auto Canadian Tire Motorsport", "Caracter rural", "Parte a regiunii Durham"],
       en: ["Darlington Nuclear Generating Station", "Canadian Tire Motorsport Park", "Rural character", "Part of Durham Region"]
-    }
-  ,
+    },
     descriptionAdvanced: {
       "hu": "Clarington egy dinamikusan fejlődő község Ontario déli részén, amely az Oshawa melletti Durham régióban található. A terület különleges keveréke a modern városi életnek, az ipari óriásoknak és a festői vidéki tájaknak. Clarington ad otthont a Darlington Atomerőműnek, amely Kanada egyik legfontosabb energiaforrása. A technológiai jelentőség mellett a régió híres a Canadian Tire Motorsport Parkról, ahol nemzetközi autóversenyeket rendeznek. A természetkedvelők számára az Ontario-tó partja és a közeli konzervációs területek nyújtanak kikapcsolódást. A mezőgazdaság, különösen az alma- és bogyós gyümölcsök termesztése továbbra is fontos része a helyi identitásnak. Az energiatermelés technológiája és a mezőgazdasági diverzitás bemutatása értékes forrás a K5-K8 tanterv környezeti és technológiai ismereteihez.",
       "en": "",
@@ -2160,8 +2113,7 @@ export const poiExtraCanadaCities: POI[] = [
       hu: ["Pickeringi atomerőmű", "Frenchman's Bay az Ontario-tavon", "Durham régió része", "Növekvő népesség"],
       ro: ["Centrala nucleară Pickering", "Golful Frenchman's pe lacul Ontario", "Parte a regiunii Durham", "Populație în creștere"],
       en: ["Pickering Nuclear Generating Station", "Frenchman's Bay on Lake Ontario", "Part of Durham Region", "Growing population"]
-    }
-  ,
+    },
     descriptionAdvanced: {
       "hu": "Pickering városa az Ontario-tó északi partján fekszik, közvetlenül Torontótól keletre, a Durham régióban. A település különleges egyvelegét nyújtja a modern ipari központnak és a békés, tóparti lakóövezetnek. Gazdaságának egyik meghatározó oszlopa a Pickering Atomerőmű, amely Kanada egyik legjelentősebb energiatermelő létesítménye. A város déli részén elterülő Frenchman's Bay egy festői természetes kikötő, amely kiváló lehetőségeket biztosít a vízi sportok és a szabadidős tevékenységek kedvelőinek. Pickering északi területei még őrzik vidéki jellegüket, jelentős mezőgazdasági területekkel és természetvédelmi övezetekkel, mint például az Altona Forest. A város folyamatos fejlődését a kiváló közlekedési kapcsolatok és a Torontóhoz való közelség hajtja, vonzó célponttá téve a családok számára. Az 5–8. osztályos földrajz tananyaghoz kapcsolódva a város kiváló példát szolgáltat az energiatermelés és a modern városfejlesztés környezeti hatásainak tanulmányozására.",
       "en": "",
@@ -2195,8 +2147,7 @@ export const poiExtraCanadaCities: POI[] = [
       hu: ["A HMS Ajaxról nevezték el", "Tóparti sétány az Ontario-tavon", "Sokszínű lakosság", "Erős növekedés a 20. században"],
       ro: ["Numit după HMS Ajax", "Promenadă pe malul lacului Ontario", "Populație diversă", "Creștere puternică în secolul XX"],
       en: ["Named after HMS Ajax", "Waterfront on Lake Ontario", "Diverse population", "Grew significantly during WWII"]
-    }
-  ,
+    },
     descriptionAdvanced: {
       "hu": "Ajax városa Ontario déli részén, a Greater Toronto Area (GTA) keleti szélén helyezkedik el. A település neve különleges történelmi háttérrel rendelkezik: a második világháborúban részt vett HMS Ajax brit hadihajóról nevezték el, utcái pedig a hajó legénységének tagjairól kapták nevüket. A város gazdasága eredetileg a hadiiparra épült, mára azonban sokszínű kereskedelmi és szolgáltató központtá fejlődött. Ajax egyik legvonzóbb tulajdonsága a több mint 6 kilométer hosszan érintetlenül hagyott tóparti szakasza, amely parkokkal és sétányokkal várja a látogatókat. A fenntarthatóságra nagy hangsúlyt fektető önkormányzat számos zöld kezdeményezést támogat, így a város modern arculata harmonikusan illeszkedik a környezethez. A dinamikusan növekvő népesség és a multikulturális közösség élénk társadalmi életet biztosít. Az 5–8. osztályos földrajzi tanulmányok során Ajax jó példa a tervezett városfejlesztés és a történelmi örökség megőrzésének kapcsolatára.",
       "en": "",
@@ -2230,8 +2181,7 @@ export const poiExtraCanadaCities: POI[] = [
       hu: ["David Dunlap Obszervatórium", "Magas népességnövekedés", "Erős kínai közösség", "Magas átlagjövedelem"],
       ro: ["Observatorul David Dunlap", "Creștere demografică ridicată", "Comunitate chineză puternică", "Venit mediu ridicat"],
       en: ["David Dunlap Observatory", "High population growth", "Large Chinese community", "High average income"]
-    }
-  ,
+    },
     descriptionAdvanced: {
       "hu": "Richmond Hill egy dinamikusan fejlődő város Ontario tartományban, Torontótól északra, a York régió központi részén. A település hírnevét jelentős részben a magas életszínvonalnak, kiváló oktatási intézményeinek és kiterjedt parkrendszerének köszönheti. Itt található a híres David Dunlap Obszervatórium, amely egykor a világ egyik legnagyobb teleszkópjának adott otthont, ma pedig fontos tudományos és oktatási helyszín. A város domborzatát a lankás Oak Ridges Moraine határozza meg, amely fontos ökológiai szerepet tölt be a térség vízhálózatában. Richmond Hill gazdasága a technológiai és egészségügyi szektorokra épül, számos nemzetközi vállalat kanadai központja található itt. A közösség rendkívül sokszínű, jelentős kínai és iráni lakossággal, ami a város gazdag kulturális és gasztronómiai kínálatában is megmutatkozik. Az 5–8. osztályos földrajz tananyag szempontjából a város ideális a morénák és a városi vízgazdálkodás összefüggéseinek bemutatására.",
       "en": "",
@@ -2265,8 +2215,7 @@ export const poiExtraCanadaCities: POI[] = [
       hu: ["Kanada egyik leggazdagabb területe", "Festői kikötő", "Sheridan College", "Golf-mekka (Glen Abbey)"],
       ro: ["Una dintre cele mai bogate zone din Canada", "Port pitoresc", "Colegiul Sheridan", "Mecca golfului (Glen Abbey)"],
       en: ["One of Canada's wealthiest areas", "Picturesque harbour", "Sheridan College", "Golf mecca (Glen Abbey)"]
-    }
-  ,
+    },
     descriptionAdvanced: {
       "hu": "Oakville egy elegáns és nagy múltú város az Ontario-tó partján, Toronto és Hamilton között. A település Kanada egyik leggazdagabb közösségeként ismert, ahol a történelmi báj modern kényelemmel párosul. Belvárosa, az Old Oakville, megőrizte a 19. századi építészeti stílusát, hangulatos éttermekkel és exkluzív üzletekkel várva a látogatókat. A város két festői kikötővel is büszkélkedhet, amelyek a vitorlázás központjai a térségben. Oakville gazdasága sokszínű, jelentős az autóipar (Ford Canada központ) és a professzionális szolgáltatások jelenléte. A város híres a magas színvonalú oktatásáról, itt található a világhírű Sheridan College, amely az animációs képzéséről ismert. Számos park, mint a Bronte Creek Provincial Park, kínál kikapcsolódást a természetben. Az 5–8. osztályos földrajzi tanulmányokhoz kapcsolódva Oakville remek példa a szuburbanizáció és a gazdasági klaszterek kialakulásának bemutatására.",
       "en": "",
@@ -2300,8 +2249,7 @@ export const poiExtraCanadaCities: POI[] = [
       hu: ["Magas életminőség", "Királyi Botanikus Kertek", "Spencer Smith Park a vízparton", "A Niagara-lépcső a közelben"],
       ro: ["Calitate ridicată a vieții", "Grădinile Botanice Regale", "Parcul Spencer Smith pe malul apei", "Escarpamentul Niagara în apropiere"],
       en: ["High quality of life", "Royal Botanical Gardens", "Spencer Smith Park on the waterfront", "Niagara Escarpment nearby"]
-    }
-  ,
+    },
     descriptionAdvanced: {
       "hu": "Burlington városa az Ontario-tó nyugati végénél, a Halton régióban helyezkedik el, festői környezetben a tópart és a Niagara-lépcső (Niagara Escarpment) között. A várost rendszeresen Kanada egyik legjobb lakóhelyének választják a magas életminőség és a biztonság miatt. Itt található a Királyi Botanikus Kertek (Royal Botanical Gardens) központja, amely Észak-Amerika egyik legnagyobb ilyen jellegű intézménye. A város vízparti része, a Spencer Smith Park, népszerű közösségi tér, ahol számos fesztivált rendeznek, köztük Kanada legnagyobb ingyenes zenei fesztiválját. Burlington gazdasága stabil, a gyártástól az üzleti szolgáltatásokig terjed. A természet közelsége, különösen a Bruce Trail közelsége, vonzza a túrázókat és a szabadba vágyókat. A város hídja, a Burlington Bay James N. Allan Skyway, fontos közlekedési kapocs a QEW autópályán. Az 5–8. osztályos földrajz tananyag keretében a város a természetvédelem és a városi fejlődés egyensúlyának kiváló példája.",
       "en": "",
@@ -2335,8 +2283,7 @@ export const poiExtraCanadaCities: POI[] = [
       hu: ["19. századi történelmi építészet", "A Grand River partján fekszik", "Kanada Technológiai Háromszögének része", "Toyota gyár"],
       ro: ["Arhitectură istorică din secolul al XIX-lea", "Situat pe râul Grand", "Parte a Triunghiului Tehnologic al Canadei", "Fabrica Toyota"],
       en: ["Historic 19th-century architecture", "Located on the Grand River", "Part of Canada's Technology Triangle", "Toyota manufacturing plant"]
-    }
-  ,
+    },
     descriptionAdvanced: {
       "hu": "Cambridge egy egyedi hangulatú város Ontario délnyugati részén, amely 1973-ban jött létre Galt, Preston és Hespeler települések, valamint Blair falu egyesülésével. A város építészeti arculatát a Grand River mentén álló masszív, 19. századi mészkő épületek határozzák meg, ami miatt gyakran választják filmforgatások helyszínéül. A Grand River, amely keresztülfolyik a városon, Kanada egyik örökségvédelmi folyója, kiváló lehetőséget nyújtva a horgászatra és kajakozásra. Cambridge gazdaságában meghatározó a feldolgozóipar, különösen az autógyártás, hiszen itt működik a Toyota egyik legnagyobb észak-amerikai üzeme. A város gazdag kulturális örökséggel rendelkezik, számos múzeuma és galériája mellett a Cambridge Butterfly Conservatory is népszerű látnivaló. A település része a dinamikus 'Technológiai Háromszögnek'. Az 5–8. osztályos földrajz tananyaghoz kapcsolódva Cambridge az ipari örökség és a modern technológiai fejlődés szimbiózisát mutatja be.",
       "en": "",
@@ -2370,8 +2317,7 @@ export const poiExtraCanadaCities: POI[] = [
       hu: ["Waterlooi Egyetem", "Wilfrid Laurier Egyetem", "A BlackBerry otthona", "Erős biztosítási ipar"],
       ro: ["Universitatea din Waterloo", "Universitatea Wilfrid Laurier", "Locul de naștere al BlackBerry", "Industrie puternică a asigurărilor"],
       en: ["University of Waterloo", "Wilfrid Laurier University", "Home of BlackBerry", "Strong insurance industry"]
-    }
-  ,
+    },
     descriptionAdvanced: {
       "hu": "Waterloo városa Ontario technológiai szívében helyezkedik el, és világszerte az innováció és az oktatás központjaként ismert. Itt található a neves Waterlooi Egyetem (University of Waterloo), amely híres mérnöki és informatikai képzéseiről, valamint a Wilfrid Laurier Egyetem. A város a BlackBerry bölcsője, és ma is számos globális tech-óriás, valamint több száz start-up otthona. A városi tájat modern irodaházak és hangulatos egyetemi negyedek jellemzik. Waterloo ugyanakkor nagy hangsúlyt fektet a zöldfelületekre is; a Waterloo Park a város szívében tóval és történelmi épületekkel várja a lakókat. A közeli St. Jacobs falu révén a város szoros kapcsolatot ápol a menonita hagyományokkal is, ami különleges kulturális kontrasztot ad a high-tech környezetnek. Az 5–8. osztályos földrajz tanulmányok során Waterloo kiváló példa a tudásalapú gazdaság és az egyetemi központok városformáló erejére.",
       "en": "",
@@ -2405,8 +2351,7 @@ export const poiExtraCanadaCities: POI[] = [
       hu: ["Vidéki jelleg városi központokkal", "Niagara-lépcső", "Bruce túraútvonal", "Premium Outlets Toronto"],
       ro: ["Caracter rural cu centre urbane", "Escarpamentul Niagara", "Traseul Bruce", "Premium Outlets Toronto"],
       en: ["Rural character with urban centres", "Niagara Escarpment", "Bruce Trail hiking", "Toronto Premium Outlets"]
-    }
-  ,
+    },
     descriptionAdvanced: {
       "hu": "Halton Hills egy festői település Ontario déli részén, amely két nagyobb központból, Georgetownból és Actonból, valamint számos kisebb faluból és vidéki területből áll. A város különlegessége a Niagara-lépcső (Niagara Escarpment) látványos vonulata, amely keresztülhalad a területén, lenyűgöző sziklafalakat és túraútvonalakat kínálva. A Bruce Trail, Kanada leghosszabb túraútvonala is érinti a várost. Halton Hills büszke a fenntarthatóság iránti elkötelezettségére, és sikeresen őrzi meg kisvárosi és vidéki jellegét a nagyvárosi agglomeráció szomszédságában. Acton városa történelmileg a bőriparáról volt híres, míg Georgetown mára modern kereskedelmi központtá vált. A város számos kulturális eseménynek és fesztiválnak ad otthont az év során. Az 5–8. osztályos földrajz tananyaghoz kapcsolódva a település kiválóan szemlélteti a geológiai formációk (sziklalépcsők) hatását a tájhasználatra és a turizmusra.",
       "en": "",
@@ -2440,8 +2385,7 @@ export const poiExtraCanadaCities: POI[] = [
       hu: ["Nagyon gyors népességnövekedés", "A Niagara-lépcső közelében", "Mattamy Nemzeti Kerékpáros Központ", "Alacsony átlagéletkor"],
       ro: ["Creștere demografică foarte rapidă", "Aproape de Escarpamentul Niagara", "Centrul Național de Ciclism Mattamy", "Vârstă medie scăzută"],
       en: ["Very rapid population growth", "Close to the Niagara Escarpment", "Mattamy National Cycling Centre", "Young average age"]
-    }
-  ,
+    },
     descriptionAdvanced: {
       "hu": "Milton Kanada egyik leggyorsabban növekvő városa, amely a Niagara-lépcső lábánál, a Halton régióban helyezkedik el. A település elképesztő átalakuláson ment keresztül az elmúlt évtizedekben: egy csendes mezőgazdasági közösségből modern, családbarát nagyvárossá vált. A város vonzerejét a kiváló közlekedési kapcsolatok, az új lakónegyedek és a természeti szépségek adják. Itt található a Mattamy National Cycling Centre, amely a 2015-ös Pánamerikai Játékokra épült, és Kanada egyetlen nemzetközi szintű fedett kerékpáros pályája. A környező természetvédelmi területek, mint a Kelso vagy a Rattlesnake Point, a sziklamászók és túrázók paradicsoma. Milton történelmi belvárosa megőrizte báját, kávézókkal és helyi üzletekkel várva a látogatókat. Az 5–8. osztályos földrajz tananyag szempontjából Milton a városi terjeszkedés és a népességrobbanás társadalmi-gazdasági hatásainak tanpéldája.",
       "en": "",
@@ -2475,8 +2419,7 @@ export const poiExtraCanadaCities: POI[] = [
       hu: ["Történelmi Fő utca", "Upper Canada Mall", "Fairy Lake (Tündér-tó)", "Southlake Regionális Egészségügyi Központ"],
       ro: ["Strada principală istorică", "Mall-ul Upper Canada", "Lacul Fairy", "Centrul Regional de Sănătate Southlake"],
       en: ["Historic Main Street", "Upper Canada Mall", "Fairy Lake", "Southlake Regional Health Centre"]
-    }
-  ,
+    },
     descriptionAdvanced: {
       "hu": "Newmarket városa Ontario központi részén, a York régióban található, félúton Toronto és a Simcoe-tó között. A település híres a történelmi Main Street-ről, amely megőrizte a 19. századi hangulatát, és ma is a város közösségi életének lüktető szíve. Newmarket jelentős regionális szolgáltató központ, különösen az egészségügy és a kereskedelem területén; itt található a Southlake Regional Health Centre, a térség egyik legnagyobb kórháza. A város büszke a fenntartható fejlődésére és a közösségi tereire, mint például a Fairy Lake Park, amely népszerű helyszíne a családi kikapcsolódásnak és kulturális eseményeknek. A Tom Taylor Trail nevű gyalogút-rendszer összeköti a várost a környező településekkel. Newmarket lakói magas életminőséget élveznek, amit a modern infrastruktúra és a kisvárosi közösségi szellem ötvözete biztosít. Az 5–8. osztályos földrajz tananyag keretében a város a történelmi kereskedelmi útvonalak és a modern szuburbanizáció kapcsolatát szemlélteti.",
       "en": "",
@@ -2510,8 +2453,7 @@ export const poiExtraCanadaCities: POI[] = [
       hu: ["Vidéki táj", "Lovas közösség", "A Niagara-lépcső része", "Cheltenham Badlands"],
       ro: ["Peisaj rural", "Comunitate ecvestră", "Parte a Escarpamentului Niagara", "Cheltenham Badlands"],
       en: ["Rural landscape", "Equestrian community", "Part of the Niagara Escarpment", "Cheltenham Badlands"]
-    }
-  ,
+    },
     descriptionAdvanced: {
       "hu": "Caledon egy kiterjedt és festői város Ontario déli részén, a Peel régió északi felén. A települést gyakran Kanada egyik legzöldebb városának nevezik, mivel területének nagy részét mezőgazdasági földek, erdők és természetvédelmi területek borítják. A táj meghatározó eleme a Niagara-lépcső és az Oak Ridges Moraine találkozása, ami változatos domborzatot és gazdag élővilágot eredményez. Itt találhatók a különleges Cheltenham Badlands vörös agyagformációi is, amelyek népszerű turisztikai célpontok. Caledon gazdasága a fenntartható turizmusra, a lótenyésztésre és a speciális mezőgazdaságra épül. A város számos apró faluból és településrészből áll, mint Bolton vagy Caledon East, amelyek megőrizték egyedi vidéki bájukat. A település aktív szerepet vállal a klímavédelemben. Az 5–8. osztályos földrajz tananyaghoz kapcsolódva Caledon az ökológiai folyosók és a természetes vízbázisok védelmének fontosságát mutatja be.",
       "en": "",
@@ -2545,8 +2487,7 @@ export const poiExtraCanadaCities: POI[] = [
       hu: ["Golden Ears Tartományi Park", "Vidéki jelleg elővárosokkal", "Lóbarát közösség", "Növekedés Vancouvertől keletre"],
       ro: ["Parcul Provincial Golden Ears", "Caracter rural cu suburbii", "Comunitate prietenoasă cu caii", "Extindere la est de Vancouver"],
       en: ["Golden Ears Provincial Park", "Rural character with suburbs", "Equestrian-friendly community", "Eastward growth from Vancouver"]
-    }
-  ,
+    },
     descriptionAdvanced: {
       "hu": "Maple Ridge egy gyönyörű fekvésű város Brit Kolumbia délnyugati részén, a Fraser-folyó északi partján, a Golden Ears hegység lábánál. A település a természetközeli életmód és a modern városi fejlődés harmonikus ötvözetét kínálja. A város északi határán található Golden Ears Provincial Park tartományi szinten is kiemelkedő rekreációs célpont, tavakkal, vízesésekkel és hatalmas erdőkkel. Maple Ridge gazdasága történelmileg az erdőgazdálkodásra és a mezőgazdaságra (különösen a bogyós gyümölcsökre) épült, mára azonban sokszínűbbé vált, jelentős a filmipar és a szolgáltató szektor jelenléte. A város közössége büszke a lovas hagyományaira, számos farm és lovarda található a területén. A település gyorsan növekszik, vonzva a fiatal családokat Vancouver közelsége miatt. Az 5–8. osztályos földrajz tananyag keretében a város a part menti hegységek és a folyóvölgyek gazdasági szerepének bemutatására alkalmas.",
       "en": "",
@@ -2580,8 +2521,7 @@ export const poiExtraCanadaCities: POI[] = [
       hu: ["Lonsdale Quay piac", "SeaBus Vancouverbe", "Magas életminőség", "Túra- és síterepekhez való hozzáférés"],
       ro: ["Piața Lonsdale Quay", "SeaBus spre Vancouver", "Calitate ridicată a vieții", "Acces la zone de drumeții și schi"],
       en: ["Lonsdale Quay Market", "SeaBus to Vancouver", "High quality of life", "Access to hiking and skiing"]
-    }
-  ,
+    },
     descriptionAdvanced: {
       "hu": "North Vancouver városa egy sűrűn lakott, modern városi központ a Burrard Inlet északi partján, szemben Vancouver belvárosával. A település drámai hátterét a North Shore-hegység meredek vonulatai adják, ami meghatározza a város függőleges növekedését és különleges hangulatát. North Vancouver gazdaságában központi szerepet játszik a hajóépítés és a kikötői tevékenység, de a turizmus és a technológiai szektor is dinamikusan fejlődik. A város kapuként szolgál a természetbe: a közeli Grouse Mountain és a Capilano-függőhíd világhírű látványosságok. A Lonsdale Quay környéke a város szíve, ahol piac, SeaBus terminál és élénk kulturális élet várja a lakókat és turistákat. A város elkötelezett a fenntartható városfejlesztés és a zöld közlekedés mellett. Az 5–8. osztályos földrajzi tanulmányok során North Vancouver jó példa a fjordok menti városépítésre és a tengeri kereskedelem fontosságára.",
       "en": "",
@@ -2615,8 +2555,7 @@ export const poiExtraCanadaCities: POI[] = [
       hu: ["Fontos mezőgazdasági és halászati területek", "Tsawwassen kompkikötő (Victoriába)", "Boundary Bay Regionális Park", "Sík domborzat"],
       ro: ["Zone agricole și de pescuit importante", "Terminalul de feribot Tsawwassen (spre Victoria)", "Parcul Regional Boundary Bay", "Topografie plată"],
       en: ["Important farming and fishing areas", "Tsawwassen ferry terminal (to Victoria)", "Boundary Bay Regional Park", "Flat topography"]
-    }
-  ,
+    },
     descriptionAdvanced: {
       "hu": "Delta városa Brit Kolumbia délnyugati részén, a Fraser-folyó torkolatánál és az amerikai határ mentén fekszik. A település három jól elkülöníthető közösségből áll: Ladner, North Delta és Tsawwassen. A város nevét a folyó deltájáról kapta, ami meghatározza lapos domborzatát és rendkívül termékeny talaját, így a mezőgazdaság ma is kulcsfontosságú iparág. Delta jelentős közlekedési csomópont: itt található a Tsawwassen kompkikötő, amely összeköti a szárazföldet a Vancouver-szigettel, valamint a Deltaport, Kanada egyik legfontosabb konténerterminálja. A természetvédelmi területek, mint a George C. Reifel Madárrezervátum, a vándormadarak millióinak nyújtanak pihenőhelyet. A város tengerparti szakaszai és parkjai népszerűek a kirándulók körében. Az 5–8. osztályos földrajz tananyaghoz kapcsolódva Delta tökéletes példa a folyódelták kialakulására és a tengeri logisztika gazdasági jelentőségére.",
       "en": "",
@@ -2644,14 +2583,13 @@ export const poiExtraCanadaCities: POI[] = [
     parent: "CA-QC",
     coords: [-71.9569, 46.0567],
     name: { de: "Victoriaville", hu: "Victoriaville", ro: "Victoriaville", en: "Victoriaville" },
-    description: { de: "Bekannt als 'Wiege der nachhaltigen Entwicklung' in Quebec.", hu: "'A fenntartható fejlődés bölcsőjeként' ismert Quebecben.", ro: "Cunoscut ca „Leagănul dezvoltării durabile” în Quebec.", en: "Known as the 'Cradle of Sustainable Development' in Quebec." },
+    description: { de: "Bekannt als 'Wiege der nachhaltigen Entwicklung' in Quebec.", hu: "'A fenntartható fejlődés bölcsőjeként' ismert Quebecben.", ro: "Cunoscut ca \\\"Leagănul dezvoltării durabile\\\" în Quebec.", en: "Known as the 'Cradle of Sustainable Development' in Quebec." },
     facts: {
       de: ["Fokus auf nachhaltige Entwicklung", "Wichtige Holz- und Möbelindustrie", "Mount Arthabaska Park", "Käseherstellung"],
       hu: ["Fókuszban a fenntartható fejlődés", "Fontos fa- és bútoripar", "Mount Arthabaska Park", "Sajtgyártás"],
       ro: ["Accent pe dezvoltarea durabilă", "Industrie importantă a lemnului și mobilei", "Parcul Mont Arthabaska", "Producția de brânzeturi"],
       en: ["Focus on sustainable development", "Major wood and furniture industry", "Mount Arthabaska Park", "Cheese production"]
-    }
-  ,
+    },
     descriptionAdvanced: {
       "hu": "Victoriaville egy dinamikus város Quebec tartományban, a Centre-du-Québec régióban, az Nicolet-folyó partján. A település 'a fenntartható fejlődés bölcsőjeként' ismert Kanadában, mivel úttörő szerepet játszott az újrahasznosítási programok és a környezettudatos városvezetés bevezetésében. Gazdasága történelmileg a bútoriparra és a mezőgazdaságra épült, mára azonban sokszínű ipari parkokkal és innovatív vállalatokkal rendelkezik. A város kulturális élete pezsgő, számos fesztiválnak, köztük a neves kortárs zenei fesztiválnak (FIMAV) ad otthont. A természet kedvelőit a Mont Arthabaska Park várja, ahonnan lenyűgöző kilátás nyílik a környékre, valamint kiterjedt kerékpárút-hálózat köti össze a várost a környező régiókkal. Victoriaville büszke az életminőségére és a közösségi összefogásra. Az 5–8. osztályos földrajz tananyag keretében a város kiválóan szemlélteti a fenntartható városi modell és a környezetvédelem gyakorlati megvalósítását.",
       "en": "",
@@ -2685,8 +2623,7 @@ export const poiExtraCanadaCities: POI[] = [
       hu: ["Fontos kikötő a vízi út mentén", "Történelmi csatorna", "Regatták és vízi sportok", "Ipari örökség"],
       ro: ["Port important pe calea navigabilă", "Canal istoric", "Regate și sporturi nautice", "Patrimoniu industrial"],
       en: ["Major port on the seaway", "Historic canal", "Regattas and water sports", "Industrial heritage"]
-    }
-  ,
+    },
     descriptionAdvanced: {
       "hu": "Salaberry-de-Valleyfield egy egyedülálló fekvésű kikötőváros Quebecben, a Saint-François-tó partján, Montreal közelében. A várost gyakran 'a vízi sportok fővárosaként' emlegetik, mivel területe számos csatornával és vizi úttal szabdalt, és itt rendezik meg minden évben a híres Valleyfield-i Regattát. Gazdasága történelmileg a textiliparra épült, mára azonban modern vegyipari és logisztikai központtá vált, kihasználva a Szent Lőrinc-vízi út (St. Lawrence Seaway) közelségét. A városközpont egy szigeten helyezkedik el, ami különleges arculatot kölcsönöz a településnek. Számos park, strand és kerékpárút kínál kikapcsolódást, a Parc Régional des Îles-de-Saint-Timothée pedig homokos partjával vonzza a látogatókat. A település gazdag ipari örökséggel és büszke történelemmel rendelkezik. Az 5–8. osztályos földrajzi tanulmányok során a város a mesterséges csatornák és a tengeri szállítás gazdasági hatásainak szemléltetésére szolgál.",
       "en": "",
@@ -2714,14 +2651,13 @@ export const poiExtraCanadaCities: POI[] = [
     parent: "CA-QC",
     coords: [-74.0, 45.7833],
     name: { de: "Saint-Jérôme", hu: "Saint-Jérôme", ro: "Saint-Jérôme", en: "Saint-Jérôme" },
-    description: { de: "Bekannt als das 'Tor zu den Laurentinischen Bergen'.", hu: "'A Laurentian-hegység kapujaként' ismert.", ro: "Cunoscut ca „Poarta către Munții Laurentieni”.", en: "Known as the 'Gateway to the Laurentians'." },
+    description: { de: "Bekannt als das 'Tor zu den Laurentinischen Bergen'.", hu: "'A Laurentian-hegység kapujaként' ismert.", ro: "Cunoscut ca \\\"Poarta către Munții Laurentieni\\\".", en: "Known as the 'Gateway to the Laurentians'." },
     facts: {
       de: ["Ausgangspunkt für den 'P'tit Train du Nord' Radweg", "Wirtschaftszentrum der Laurentides-Region", "Université du Québec en Outaouais Campus", "Historische Kathedrale"],
       hu: ["A 'P'tit Train du Nord' kerékpárút kiindulópontja", "A Laurentides régió gazdasági központja", "Université du Québec en Outaouais kampusz", "Történelmi katedrális"],
-      ro: ["Punct de plecare pentru pista de biciclete „P'tit Train du Nord”", "Centru economic al regiunii Laurentides", "Campusul Universității din Quebec în Outaouais", "Catedrală istorică"],
+      ro: ["Punct de plecare pentru pista de biciclete \\\"P'tit Train du Nord\\\"", "Centru economic al regiunii Laurentides", "Campusul Universității din Quebec în Outaouais", "Catedrală istorică"],
       en: ["Starting point of the 'P'tit Train du Nord' bike path", "Economic hub of the Laurentides region", "Université du Québec en Outaouais campus", "Historic cathedral"]
-    }
-  ,
+    },
     descriptionAdvanced: {
       "hu": "Saint-Jérôme városa a Laurentides régió kapuja Quebecben, Montrealtól mintegy 45 kilométerre északra. A település fontos közigazgatási, kereskedelmi és oktatási központ, amely a Rivière du Nord folyó partján fekszik. A város történelme szorosan összefonódik Labelle abbé munkásságával, aki a 19. században elősegítette a régió benépesítését. Saint-Jérôme a kiindulópontja a híres 'P'tit Train du Nord' kerékpárútnak, amely egy régi vasútvonal helyén épült, és több mint 200 kilométer hosszan kanyarog a hegyek között. A város központjában található a lenyűgöző katedrális és a pezsgő kulturális életnek otthont adó színházak. Gazdasága sokszínű, a gyártástól az egészségügyi szolgáltatásokig terjed. A település kaput nyit a Laurentian-hegység síparadicsomai és tavai felé. Az 5–8. osztályos földrajz tananyaghoz kapcsolódva a város a belső kolonizáció és a vasúti közlekedés tájalakító szerepének bemutatására alkalmas.",
       "en": "",
@@ -2755,8 +2691,7 @@ export const poiExtraCanadaCities: POI[] = [
       hu: ["La Cité de l'Énergie (Energia Múzeum)", "Vízerőművek", "Jean Chrétien (volt miniszterelnök) szülőhelye", "A Parc national de la Mauricie a közelben"],
       ro: ["La Cité de l'Énergie (Muzeul Energiei)", "Centrale hidroelectrice", "Locul de naștere al lui Jean Chrétien (fost prim-ministru)", "Parcul Național La Mauricie în apropiere"],
       en: ["La Cité de l'Énergie (energy museum)", "Hydroelectric power stations", "Birthplace of Jean Chrétien (former PM)", "Parc national de la Mauricie nearby"]
-    }
-  ,
+    },
     descriptionAdvanced: {
       "hu": "Shawinigan egy történelmi iparváros Quebecben, a Saint-Maurice-folyó partján, amely vízeséseiről és úttörő szerepéről híres a vízenergia-termelésben. A város felemelkedését a 20. század elején a hatalmas vízi energiaforrásoknak köszönhette, ami vonzotta az alumínium- és papíripart. Itt jött létre Kanada első alumíniumkohója. Ma a város a Cité de l'Énergie nevű tudományos élményparkjáról ismert, amely egy 115 méter magas kilátótoronnyal és interaktív kiállításokkal mutatja be az energia történetét. Shawinigan közelében található a Mauricie Nemzeti Park (Parc national de la Mauricie), amely a tartomány egyik legszebb természetvédelmi területe több mint 150 tóval. A város kulturális élete gazdag, számos fesztivált és színházi előadást kínál. Jean Chrétien, Kanada korábbi miniszterelnöke is itt született. Az 5–8. osztályos földrajzi tanulmányok során a város a megújuló energiaforrások iparformáló erejének kiváló példája.",
       "en": "",
@@ -2790,8 +2725,7 @@ export const poiExtraCanadaCities: POI[] = [
       hu: ["Tengertudományi központ", "Pointe-au-Père történelmi helyszín", "Kapu a Gaspé-félszigethez", "Université du Québec à Rimouski"],
       ro: ["Centru pentru științe marine", "Situl istoric Pointe-au-Père", "Poartă către Peninsula Gaspé", "Universitatea din Quebec la Rimouski"],
       en: ["Centre for marine sciences", "Pointe-au-Père Maritime Historic Site", "Gateway to the Gaspé Peninsula", "Université du Québec à Rimouski"]
-    }
-  ,
+    },
     descriptionAdvanced: {
       "hu": "Rimouski városa a Szent Lőrinc-torkolat déli partján fekszik Quebec tartományban, és a Bas-Saint-Laurent régió legfontosabb központja. A település Kanada egyik legjelentősebb tengertudományi és oceanográfiai kutatóközpontja, köszönhetően az itt működő egyetemnek és kutatóintézeteknek. Rimouski gazdasága a tengeri erőforrásokra, az oktatásra és a szolgáltatásokra épül. A város partvonala mentén hosszú sétány húzódik, amely lenyűgöző kilátást nyújt a folyóra és a naplementékre. A közelben található Bic Nemzeti Park (Parc national du Bic) sziklás partjaival, fóka-megfigyelő helyeivel és változatos flórájával vonzza a természetbarátokat. A történelmi Pointe-au-Père helyszínen megtekinthető Kanada egyik legmagasabb világítótornya és az Empress of Ireland tragédiáját bemutató múzeum. Az 5–8. osztályos földrajz tananyag keretében Rimouski a tengeri ökoszisztémák kutatásának és a tengerparti tájformák védelmének bemutatására alkalmas.",
       "en": "",
@@ -2825,8 +2759,7 @@ export const poiExtraCanadaCities: POI[] = [
       hu: ["Mezőgazdaság és olajkitermelés", "Lyric Theatre (történelmi mozi)", "Szélerőművek", "A transzkanadai autópálya mentén"],
       ro: ["Agricultură și extracție de petrol", "Teatrul Lyric (cinematograf istoric)", "Turbine eoliene", "Pe autostrada Trans-Canada"],
       en: ["Agriculture and oil production", "Lyric Theatre (historic cinema)", "Wind turbines", "On the Trans-Canada Highway"]
-    }
-  ,
+    },
     descriptionAdvanced: {
       "hu": "Swift Current egy élénk város Saskatchewan délnyugati részén, amely fontos gazdasági központ a mezőgazdaság, az olaj- és gázipar számára. A település a Trans-Canada autópálya mentén helyezkedik el, stratégiai fekvése révén a környék kereskedelmi csomópontja. A város történelme a vasútépítéshez és az állattenyésztéshez kötődik, mára azonban sokszínű ipari bázissal rendelkezik. Swift Current gazdag kulturális élettel büszkélkedhet; itt található a történelmi Lyric Theatre, valamint számos galéria és múzeum. A város környezete tipikus prérifennsík, amelyet a Swift Current Creek szel át, parkosított partjaival pihenési lehetőséget nyújtva. A közelben találhatók szélfarmok is, jelezve a megújuló energia térnyerését. A település híres vendégszeretetéről és erős közösségi szelleméről. Az 5–8. osztályos földrajz tananyaghoz kapcsolódva a város a prérigazdálkodás és a fosszilis energiahordozók kitermelésének összefüggéseit szemlélteti.",
       "en": "",
@@ -2860,8 +2793,7 @@ export const poiExtraCanadaCities: POI[] = [
       hu: ["Erős ukrán kultúra", "Éves Filmfesztivál", "Mezőgazdasági szolgáltatások", "Western Development Museum"],
       ro: ["Cultură ucraineană puternică", "Festival de film anual", "Servicii agricole", "Muzeul de Dezvoltare Vestică"],
       en: ["Strong Ukrainian culture", "Annual film festival", "Agricultural services", "Western Development Museum"]
-    }
-  ,
+    },
     descriptionAdvanced: {
       "hu": "Yorkton városa Saskatchewan keleti részén található, és a régió harmadik legnagyobb kereskedelmi központja. A települést 1882-ben alapították ontariói telepesek, de hírnevét és kulturális arculatát az 1890-es években érkező nagy számú ukrán bevándorló határozta meg. Ez az örökség ma is látható a város építészetén, különösen a hagymakupolás templomokon és a gasztronómián. Yorkton gazdaságának motorja a mezőgazdaság, különösen a repcefeldolgozás, de az élelmiszeripar is jelentős. A város ad otthont Észak-Amerika legrégebbi folyamatosan működő rövidfilmfesztiváljának, a Yorkton Film Festival-nak. A település környéke tavakban gazdag, ami kiváló lehetőségeket nyújt a horgászatra és a vadászatra. Yorkton központi szerepet tölt be a térség oktatásában és egészségügyében is. Az 5–8. osztályos földrajzi tanulmányok során a város az etnikai csoportok tájalakító szerepének és a mezőgazdasági feldolgozóipar fontosságának bemutatására szolgál.",
       "en": "",
@@ -2895,8 +2827,7 @@ export const poiExtraCanadaCities: POI[] = [
       hu: ["Fort Battleford Nemzeti Történelmi Emlékhely", "Mezőgazdaság és szolgáltatások", "Allen Sapp Galéria", "Battleford városával határos"],
       ro: ["Situl Istoric Național Fort Battleford", "Agricultură și servicii", "Galeria Allen Sapp", "Învecinat cu orașul Battleford"],
       en: ["Fort Battleford National Historic Site", "Agriculture and services", "Allen Sapp Gallery", "Adjacent to the town of Battleford"]
-    }
-  ,
+    },
     descriptionAdvanced: {
       "hu": "North Battleford városa Saskatchewan központi részén, az Észak-Saskatchewan-folyó északi partján helyezkedik el. A település fontos regionális központ, amely a mezőgazdaságra, az erdészetre és a szolgáltatásokra építi gazdaságát. A város történelme szorosan kapcsolódik a szomszédos Battlefordhoz, amely egykor az Északnyugati Területek fővárosa volt. North Battleford kulturális örökségének fontos része a prérilakók életét bemutató múzeumok és galériák, mint az Allen Sapp Gallery, amely egy híres krí (cree) indián művész munkáit őrzi. A közeli Battlefords Provincial Park tavai és strandjai népszerű kikapcsolódási helyszínek a nyári hónapokban. A város környékén jelentős az állattenyésztés és a gabonatermesztés. A település fontos közlekedési kapocs az északi területek felé. Az 5–8. osztályos földrajz tananyag keretében a város a történelmi határvidék és az őslakos kultúra mai megjelenésének példájaként szolgál.",
       "en": "",
@@ -2930,8 +2861,7 @@ export const poiExtraCanadaCities: POI[] = [
       hu: ["Két tartományban fekszik", "A nehézolaj fontos központja", "Határjelző", "Egységes városi közigazgatás"],
       ro: ["Situat în două provincii", "Centru important pentru țițeiul greu", "Marcator de graniță", "Administrație municipală unică"],
       en: ["Sits in two provinces", "Major heavy oil centre", "Border markers", "Single city administration"]
-    }
-  ,
+    },
     descriptionAdvanced: {
       "hu": "Lloydminster egyedülálló helyet foglal el Kanada térképén, mivel pontosan Alberta és Saskatchewan tartományok határán fekszik. A várost egyetlen önkormányzat irányítja, de lakóinak két különböző tartományi szabályozáshoz kell alkalmazkodniuk, ami különleges közigazgatási helyzetet teremt. A település a 'nehézolaj fővárosaként' ismert, gazdasága nagymértékben függ az olajhomok-kitermeléstől és a kapcsolódó finomítóipartól. A mezőgazdaság szintén meghatározó, mivel a város körül hatalmas termőföldek húzódnak. Lloydminster jelképe a négy hatalmas határjelző oszlop, amelyek a város központjában állnak. A Bud Miller All Seasons Park kiterjedt zöldterületével és szabadidős létesítményeivel a közösségi élet központja. A város dinamikusan fejlődik, modern iskolákkal és bevásárlóközpontokkal várva az ide érkezőket. Az 5–8. osztályos földrajz tananyaghoz kapcsolódva a város a politikai határok és a gazdasági egység kapcsolatának egyedi példája.",
       "en": "",
@@ -2965,8 +2895,7 @@ export const poiExtraCanadaCities: POI[] = [
       hu: ["Fontos papír- és cellulózipar", "Marble Mountain síterep", "Grenfell Campus (Memorial University)", "A Bay of Islands öbölben fekszik"],
       ro: ["Industrie importantă de hârtie și celuloză", "Stațiunea de schi Marble Mountain", "Campusul Grenfell (Universitatea Memorial)", "Situat în Golful Insulelor"],
       en: ["Major paper and pulp industry", "Marble Mountain Ski Resort", "Grenfell Campus (Memorial University)", "Located on the Bay of Islands"]
-    }
-  ,
+    },
     descriptionAdvanced: {
       "hu": "Corner Brook városa Új-Fundland szigetének nyugati partján, a Humber-folyó torkolatánál és a Bay of Islands öböl mélyén fekszik, lélegzetelállító hegyvidéki környezetben. Ez a tartomány legészakibb városa, amely fontos ipari és szolgáltató központ. Corner Brook felemelkedése és gazdasága évtizedek óta a hatalmas papírgyárhoz kötődik, amely a világ egyik legnagyobb ilyen létesítménye. A város drámai domborzata – meredek dombokkal és mély völgyekkel – egyedi karaktert ad a településnek. A természet szerelmeseit a közeli Marble Mountain síterep és a Gros Morne Nemzeti Park (UNESCO világörökség) közelsége vonzza. A Humber-folyó híres az atlanti lazacállományáról, a környékbeli erdők pedig kiváló túrázási lehetőségeket kínálnak. A város élénk művészeti közösséggel és modern oktatási intézményekkel rendelkezik. Az 5–8. osztályos földrajz tananyag keretében a város a nyersanyag-orientált ipar és a fjord-típusú öblök gazdasági hasznosítását mutatja be.",
       "en": "",
@@ -3000,8 +2929,7 @@ export const poiExtraCanadaCities: POI[] = [
       hu: ["St. John's lakóövezeti elővárosa", "Erős gazdasági növekedés", "Admiralty House Múzeum", "Számos park és túraútvonal"],
       ro: ["Suburbie rezidențială a lui St. John's", "Creștere economică puternică", "Muzeul Admiralty House", "Multe parcuri și trasee de drumeții"],
       en: ["Residential suburb of St. John's", "Strong economic growth", "Admiralty House Museum", "Many parks and walking trails"]
-    }
-  ,
+    },
     descriptionAdvanced: {
       "hu": "Mount Pearl városa Új-Fundland és Labrador tartományban, a főváros, St. John's szomszédságában található az Avalon-félszigeten. Bár eredetileg lakóövezeti elővárosnak indult, mára dinamikus, önálló gazdasággal rendelkező településsé vált, amely különösen büszke közösségi szellemére és parkrendszerére. A város domborzatát lankás dombok jellemzik, ahonnan több ponton is kilátás nyílik az Atlanti-óceánra. Mount Pearl gazdasága a kereskedelemre, az informatika szektorra és a szolgáltatásokra épül, két nagy ipari parkja pedig számos vállalatot vonz. A település híres 'City Within a Park' mottójáról, ami a több mint 60 kilométernyi gondozott túraútvonalban és a számos zöldterületben nyilvánul meg. Az évente megrendezett City Days és a Frosty Festival a közösségi élet csúcspontjai. Az 5–8. osztályos földrajz tananyaghoz kapcsolódva Mount Pearl a tudatos várostervezés és az agglomerációs fejlődés pozitív példájaként szolgál.",
       "en": "",
@@ -3035,8 +2963,7 @@ export const poiExtraCanadaCities: POI[] = [
       hu: ["Festői tengerparti táj", "St. John's agglomerációjának része", "Royal Newfoundland Yacht Club", "Manuels River Hibernia Értelmező Központ"],
       ro: ["Peisaj de coastă pitoresc", "Parte a zonei metropolitane St. John's", "Royal Newfoundland Yacht Club", "Centrul de Interpretare Manuels River Hibernia"],
       en: ["Picturesque coastal scenery", "Part of the St. John's metro area", "Royal Newfoundland Yacht Club", "Manuels River Hibernia Interpretation Centre"]
-    }
-  ,
+    },
     descriptionAdvanced: {
       "hu": "Conception Bay South (CBS) Új-Fundland egyik leggyorsabban növekvő települése, amely a festői Conception-öböl déli partján húzódik. A város valójában kilőtt kisebb közösség egyesüléséből jött létre, és mára modern, tengerparti agglomerációs központtá vált. CBS népszerűsége a kedvező mikroklímájának köszönhető – gyakran naposabb és enyhébb itt az idő, mint a közeli St. John's-ban. A város kikötője, a Foxtrap, fontos halászati és szabadidős bázis. Itt található a Manuels River Hibernia Interpretation Centre, ahol világhírű trilobita kövületeket és a folyóvölgy különleges geológiáját ismerhetik meg a látogatók. A tengerparti sétányok (T'Railway) és a vitorlázási lehetőségek vonzzák a turistákat és a kiköltözőket egyaránt. Az 5–8. osztályos földrajz tananyag keretében a város a tengerparti erózió, a fosszíliák és a mikroklimatikus különbségek tanulmányozására kiváló helyszín.",
       "en": "",
@@ -3064,14 +2991,13 @@ export const poiExtraCanadaCities: POI[] = [
     parent: "CA-NS",
     coords: [-63.2833, 45.3667],
     name: { de: "Truro", hu: "Truro", ro: "Truro", en: "Truro" },
-    description: { de: "Bekannt als das 'Zentrum von Nova Scotia'.", hu: "'Új-Skócia központjaként' ismert.", ro: "Cunoscut ca „Centrul Noii Scoții”.", en: "Known as the 'Hub of Nova Scotia'." },
+    description: { de: "Bekannt als das 'Zentrum von Nova Scotia'.", hu: "'Új-Skócia központjaként' ismert.", ro: "Cunoscut ca \\\"Centrul Noii Scoții\\\".", en: "Known as the 'Hub of Nova Scotia'." },
     facts: {
       de: ["Zentraler Verkehrsknotenpunkt", "Dalhousie University Agricultural Campus", "Victoria Park", "Gezeitenbohrung am Salmon River"],
       hu: ["Központi közlekedési csomópont", "Dalhousie University Mezőgazdasági Kampusz", "Victoria Park", "Árapály-furat a Salmon folyón"],
       ro: ["Nod de transport central", "Campusul agricol al Universității Dalhousie", "Parcul Victoria", "Foraj mareic pe râul Salmon"],
       en: ["Central transportation hub", "Dalhousie University Agricultural Campus", "Victoria Park", "Tidal bore on the Salmon River"]
-    }
-  ,
+    },
     descriptionAdvanced: {
       "hu": "Truro városa Új-Skócia szívében helyezkedik el, és méltán viseli 'Új-Skócia csomópontja' (Hub of Nova Scotia) címet. Stratégiai elhelyezkedése a vasúti és közúti hálózatok találkozásánál a tartomány egyik legfontosabb logisztikai és szolgáltató központjává tette. A város legkülönlegesebb természeti jelensége a Salmon-folyón megfigyelhető árapály-hullám (tidal bore), amelyet a Fundy-öböl extrém árapály-ingadozása okoz. Truro büszkesége a Victoria Park, egy hatalmas természetes park vízesésekkel és meredek sziklafalakkal a város központjában. A település gazdag viktoriánus építészeti örökséggel rendelkezik, belvárosa pezsgő üzleti élettel várja a látogatókat. Itt található a Dalhousie Egyetem mezőgazdasági kampusza is, hangsúlyozva a környék agrárjelentőségét. Az 5–8. osztályos földrajzi tanulmányok során Truro az árapály-jelenség és a közlekedési csomópontok gazdasági szerepének szemléltetésére szolgál.",
       "en": "",
@@ -3105,8 +3031,7 @@ export const poiExtraCanadaCities: POI[] = [
       hu: ["Erős skót örökség", "Tartan Fesztivál", "Ipari történelem", "Melmerby Beach a közelben"],
       ro: ["Moștenire scoțiană puternică", "Festivalul Tartanelor", "Istorie industrială", "Plaja Melmerby în apropiere"],
       en: ["Strong Scottish heritage", "Festival of the Tartans", "Industrial history", "Melmerby Beach nearby"]
-    }
-  ,
+    },
     descriptionAdvanced: {
       "hu": "New Glasgow egy patinás kisváros Új-Skócia északi partján, az East River partján. A település a Pictou megye gazdasági és kereskedelmi központja, amelynek története szorosan összefügg a szénbányászattal és a hajóépítéssel. Nevét a skóciai Glasgow után kapta, és a mai napig büszkén őrzi kelta és skót örökségét, ami a helyi fesztiválokon és kultúrában is visszaköszön. Bár a nehézipar szerepe csökkent, a város sikeresen alakult át szolgáltató és kiskereskedelmi központtá. A folyóparti sétány (Riverfront Jubilee) a közösségi események kedvelt helyszíne. A közelben található Melmerby Beach homokos strandjaival a tartomány egyik legnépszerűbb nyári üdülőhelye. New Glasgow fontos oktatási és egészségügyi intézményeknek ad otthont, kiszolgálva a környező vidéki területeket is. Az 5–8. osztályos földrajz tananyaghoz kapcsolódva a város a bevándorlás és az ipari szerkezetváltás társadalmi hatásait mutatja be.",
       "en": "",
@@ -3140,8 +3065,7 @@ export const poiExtraCanadaCities: POI[] = [
       hu: ["Summerside-i Homár Karnevál", "Duda- és Kelta Előadóművészeti Főiskola", "Történelmi kikötőfront", "Szélenergia"],
       ro: ["Carnavalul Homarului din Summerside", "Colegiul de Cimpoi și Arte Celtice", "Front portuar istoric", "Energie eoliană"],
       en: ["Summerside Lobster Carnival", "College of Piping and Celtic Performing Arts", "Historic waterfront", "Wind energy"]
-    }
-  ,
+    },
     descriptionAdvanced: {
       "hu": "Summerside a Prince Edward-sziget második legnagyobb városa, amely a sziget nyugati részén, a Northumberland-szoros partján fekszik. A település híres vendégszeretetéről, tengerparti sétányáról és a 'Spinnaker's Landing' bevásárlónegyedről, amely a kikötőben található. Summerside gazdasága történelmileg a mezőgazdaságra (burgonyatermesztés) és a halászatra épült, mára azonban a repülőgépipar és az informatika is jelentős teret nyert. A város úttörő szerepet játszik a megújuló energia használatában: elektromos hálózatának nagy részét saját szélfarmja látja el. A kulturális élet központja a College of Piping, ahol a kelta hagyományokat és a dudazenét oktatják. A város építészeti emlékei, mint a Wyatt Heritage Properties, bepillantást engednek a sziget elegáns múltjába. Az 5–8. osztályos földrajz tananyag keretében Summerside a szigeti gazdálkodás és a fenntartható energiagazdálkodás modern megoldásait szemlélteti.",
       "en": "",

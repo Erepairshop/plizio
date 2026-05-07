@@ -11,7 +11,7 @@ export const poiExtraGuyanaHistoryV2: POI[] = [ {
       de: "Die Geschichte Guyanas ist geprägt von der kolonialen Vergangenheit unter niederländischer und später britischer Herrschaft.",
       hu: "Ez a település jelentős kulturális és gazdasági csomópont a régióban, mely tükrözi Guyana sokszínűségét és természeti kincseit.",
       ro: "Descoperiți farmecul unic al gy fort zeelandia history v2, o destinație ce îmbină istoria fascinantă cu peisajele naturale spectaculoase din inima Guyanei. Acest loc atrage vizitatorii prin atmosfera sa autentică și ospitalitatea caldă a comunității locale, oferind experiențe memorabile. Fiecare detaliu al acestui obiectiv reflectă bogăția culturală și evoluția istorică a regiunii, fiind un punct de reper pentru turiștii avizi de explorare. Dincolo de frumusețea sa vizuală, zona joacă un rol vital în dinamica socială și economică, invitând la momente de relaxare și descoperire profundă.",
-      en: "This location is a captivating destination in Guyana, celebrated for its unique character and vibrant local atmosphere. Visitors often find themselves drawn to the area’s tranquil charm and the genuine warmth of its community. The landscape offers a beautiful blend of traditional allure and natural wonders, making it a perfect spot for exploration. Every corner tells a story, reflecting the rich history and cultural evolution that defines this part of the country. Whether you are seeking a peaceful retreat or an immersive cultural experience, this location offers unforgettable moments. It stands as a testament to the diverse and enchanting spirit of Guyana." },
+      en: "This location is a captivating destination in Guyana, celebrated for its unique character and vibrant local atmosphere. Visitors often find themselves drawn to the area's tranquil charm and the genuine warmth of its community. The landscape offers a beautiful blend of traditional allure and natural wonders, making it a perfect spot for exploration. Every corner tells a story, reflecting the rich history and cultural evolution that defines this part of the country. Whether you are seeking a peaceful retreat or an immersive cultural experience, this location offers unforgettable moments. It stands as a testament to the diverse and enchanting spirit of Guyana." },
     factsAdvanced: {
       de: [
         "Es liegt an der Mündung des Demerara-Flusses.",
@@ -52,10 +52,10 @@ export const poiExtraGuyanaHistoryV2: POI[] = [ {
     name: { de: "Fort Kyk-Over-Al", hu: "Kyk-Over-Al Erőd", ro: "Fortul Kyk-Over-Al", en: "Fort Kyk-Over-Al" },
     description: { de: "Die Ruinen einer niederländischen Festung aus dem Jahr 1616, gelegen am Zusammenfluss dreier großer Flüsse.", hu: "Egy 1616-ból származó holland erőd romjai, amely három nagy folyó összefolyásánál fekszik.", ro: "Ruinele unei fortărețe olandeze din 1616, situate la confluența a trei râuri mari.", en: "The ruins of a Dutch fort from 1616, situated at the confluence of three major rivers." },
     facts: {
-      de: ["Der Name bedeutet \"Blick über alles\".", "War einst das Zentrum der Kolonie Essequibo."],
-      hu: ["A neve azt jelenti: \"Mindenen átnéző\".", "Egykor Essequibo gyarmat központja volt."],
-      ro: ["Numele înseamnă \"Privește peste tot\".", "A fost cândva centrul coloniei Essequibo."],
-      en: ["The name translates to \"See over all\".", "It was once the center of the Essequibo colony."]
+      de: ["Der Name bedeutet \\\"Blick über alles\\\".", "War einst das Zentrum der Kolonie Essequibo."],
+      hu: ["A neve azt jelenti: \\\"Mindenen átnéző\\\".", "Egykor Essequibo gyarmat központja volt."],
+      ro: ["Numele înseamnă \\\"Privește peste tot\\\".", "A fost cândva centrul coloniei Essequibo."],
+      en: ["The name translates to \\\"See over all\\\".", "It was once the center of the Essequibo colony."]
     }, image: "/poi-images/gy-kyk-over-al-history-v2.webp"}, {
     id: "gy-fort-nassau-history-v2",
     type: "historical",
@@ -124,10 +124,10 @@ export const poiExtraGuyanaHistoryV2: POI[] = [ {
     name: { de: "Umana Yana", hu: "Umana Yana", ro: "Umana Yana", en: "Umana Yana" },
     description: { de: "Eine traditionelle indianische Versammlungshütte in Georgetown, die 1972 für eine wichtige diplomatische Konferenz erbaut wurde.", hu: "Hagyományos indián gyülekezeti kunyhó Georgetownban, amelyet 1972-ben építettek egy fontos diplomáciai konferenciára.", ro: "O colibă tradițională amerindiană în Georgetown, construită în 1972 pentru o conferință diplomatică importantă.", en: "A traditional Amerindian meeting benab in Georgetown, built in 1972 for a major diplomatic conference." },
     facts: {
-      de: ["Der Name bedeutet \"Treffpunkt des Volkes\".", "Nach einem Brand im Jahr 2014 originalgetreu wiederaufgebaut."],
-      hu: ["A név jelentése: \"Az emberek találkozóhelye\".", "Egy 2014-es tűzvész után hűen újjáépítették."],
-      ro: ["Numele înseamnă \"Locul de întâlnire al oamenilor\".", "Reconstruită fidel după un incendiu în 2014."],
-      en: ["The name means \"Meeting place of the people\".", "Faithfully rebuilt following a fire in 2014."]
+      de: ["Der Name bedeutet \\\"Treffpunkt des Volkes\\\".", "Nach einem Brand im Jahr 2014 originalgetreu wiederaufgebaut."],
+      hu: ["A név jelentése: \\\"Az emberek találkozóhelye\\\".", "Egy 2014-es tűzvész után hűen újjáépítették."],
+      ro: ["Numele înseamnă \\\"Locul de întâlnire al oamenilor\\\".", "Reconstruită fidel după un incendiu în 2014."],
+      en: ["The name means \\\"Meeting place of the people\\\".", "Faithfully rebuilt following a fire in 2014."]
     }, image: "/poi-images/gy-umana-yana-history-v2.webp"}, {
     id: "gy-1763-monument-history-v2",
     type: "historical",

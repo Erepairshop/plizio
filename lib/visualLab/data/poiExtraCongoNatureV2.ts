@@ -13,7 +13,14 @@ export const poiExtraCongoNatureV2: POI[] = [
       hu: "A Kongó Afrika legbővízűbb folyója és a világ legmélyebb folyamata.",
       ro: "Fluviul Congo este cel mai bogat în apă din Africa și cel mai adânc din lume.",
       en: "The Congo River is the most water-rich river in Africa and the deepest in the world."
+    ,
+    descriptionAdvanced: {
+      en: "The Congo River, the lifeblood of Central Africa, holds the distinction of being the world's deepest river and Africa's most voluminous waterway. Flowing through the heart of the Congo Basin, it sustains incredibly diverse ecosystems and provides a vital transport route for the entire region. Its immense depth and power are shaped by complex tectonic forces, making it a natural marvel of the continent. Geography K7 — hydrology and Central African river systems."
     },
+    factsAdvanced: {
+      en: ["World's second-largest river by discharge volume.", "Deepest river in the world, exceeding 200 meters.", "Forms a critical border with the DR Congo.", "Essential artery for regional trade and transport.", "Sustains the vast biodiversity of the Congo Basin.", "Vital ecological link to the Atlantic Ocean."]
+    }
+  },
     facts: {
       de: ["Weltweit zweitgrößte Abflussmenge", "Über 200 Meter tief an einigen Stellen", "Grenze zu DR Kongo", "Wichtiger Transportweg"],
       hu: ["A világ második legnagyobb vízhozamú folyója", "Helyenként több mint 200 méter mély", "Határ a Kongói DK-val", "Fontos szállítási útvonal"],
@@ -31,7 +38,14 @@ export const poiExtraCongoNatureV2: POI[] = [
       hu: "A Kongó jelentős mellékfolyója, amely az északkeleti határt alkotja.",
       ro: "Un afluent major al fluviului Congo, formând granița în nord-est.",
       en: "A major tributary of the Congo River, forming the border in the northeast."
+    ,
+    descriptionAdvanced: {
+      en: "The Ubangi River is the largest tributary of the Congo, marking the border between the Republic of the Congo and the Central African Republic in the northeast. As a major waterway, it is an essential lifeline for remote northern communities, facilitating both commerce and cultural exchange across the border. Its waters are a key element in the hydrological landscape of the northern Congo Basin. Geography K6 — river boundaries and regional connectivity."
     },
+    factsAdvanced: {
+      en: ["Major tributary system within the Congo Basin.", "Forms the international border with CAR.", "Crucial navigational link during rainy seasons.", "Formed by the convergence of Uele and Mbomou.", "Functions as a primary lifeline for remote communities.", "Integral to the northern hydrological network."]
+    }
+  },
     facts: {
       de: ["Grenzfluss zu Zentralafrika", "Entsteht aus Uele und Mbomou", "Schiffbar während der Regenzeit", "Lebensader für die Region"],
       hu: ["Határfolyó Közép-Afrikával", "Az Uele és a Mbomou egyesüléséből ered", "Hajózható az esős évszakban", "A régió éltető eleme"],
@@ -49,7 +63,14 @@ export const poiExtraCongoNatureV2: POI[] = [
       hu: "Fontos északi folyó, amely sűrű esőerdőn folyik keresztül.",
       ro: "Un râu important în nord, care curge prin pădurea tropicală densă.",
       en: "An important river in the north, flowing through dense rainforest."
+    ,
+    descriptionAdvanced: {
+      en: "The Sangha River meanders through the dense, pristine rainforests of northern Congo, serving as an vital corridor for biodiversity and human trade. As a key right-bank tributary of the Congo, it is synonymous with the region's lush ecosystem and serves as a major route for the sustainable transport of forest products. The Sangha landscape is globally recognized, forming part of the Trinational World Heritage site. Geography K7 — forest ecosystems and transboundary rivers."
     },
+    factsAdvanced: {
+      en: ["Major right-bank tributary of the Congo River.", "Key part of a Trinational World Heritage site.", "Flows through exceptionally dense, pristine rainforest.", "Essential route for regional timber transport.", "Supports globally significant tropical biodiversity.", "Central to the northern ecological corridor."]
+    }
+  },
     facts: {
       de: ["Rechter Nebenfluss des Kongo", "Teil eines UNESCO-Welterbes", "Vielseitige Flora und Fauna", "Wichtiger Holztransportweg"],
       hu: ["A Kongó jobb oldali mellékfolyója", "Az UNESCO Világörökség része", "Változatos flóra és fauna", "Fontos faanyag-szállítási út"],
@@ -67,7 +88,14 @@ export const poiExtraCongoNatureV2: POI[] = [
       hu: "A Kongó hajózható mellékfolyója a Cuvette régióban.",
       ro: "Un afluent navigabil al fluviului Congo în regiunea Cuvette.",
       en: "A navigable tributary of the Congo River in the Cuvette region."
+    ,
+    descriptionAdvanced: {
+      en: "The Alima River is a significant, navigable waterway in the Cuvette region, acting as a crucial transit route for goods and people in Central Congo. By connecting inland centers like Oyo with the main stem of the Congo River, it supports regional economic integration. The river traverses a mix of savanna and forest landscapes, highlighting the diverse geography of the central basin. Geography K6 — river navigation and central regional transit."
     },
+    factsAdvanced: {
+      en: ["Key navigable tributary in the Cuvette region.", "Connects interior hubs with the Congo River.", "Traverses diverse savanna and forest zones.", "Supports significant local riverine commerce.", "Vital link for central regional connectivity.", "Rich aquatic ecosystem supporting local fishing."]
+    }
+  },
     facts: {
       de: ["Inlandsschifffahrt möglich", "Durchquert Savannen und Wälder", "Fischreiche Gewässer", "Verbindet Oyo mit dem Kongo"],
       hu: ["Belvízi hajózás lehetséges", "Szavannákon és erdőkön halad át", "Halban gazdag vizek", "Összeköti Oyót a Kongóval"],
@@ -85,7 +113,14 @@ export const poiExtraCongoNatureV2: POI[] = [
       hu: "Kongó legjelentősebb délnyugati folyója, amely az Atlanti-óceánba torkollik.",
       ro: "Cel mai important râu din sud-vestul Republicii Congo, care se varsă în Atlantic.",
       en: "The most significant river in southwestern Congo, flowing into the Atlantic."
+    ,
+    descriptionAdvanced: {
+      en: "The Kouilou-Niari River is the most critical river system in southwestern Congo, cutting through diverse geological landscapes before reaching the Atlantic. Its powerful flow carves out valleys that are essential for local agriculture and regional drainage. The river's mouth, near Pointe-Indienne, is a dynamic site where fresh inland water meets the ocean, creating a unique coastal ecosystem. Geography K7 — watershed dynamics and coastal outlets."
     },
+    factsAdvanced: {
+      en: ["Most significant river system in the southwest.", "Drains the fertile Niari Valley ecosystem.", "Features dramatic rapids and geological diversity.", "Discharges into the Atlantic near Pointe-Indienne.", "Vital for agricultural drainage in the south.", "Dynamic river-to-ocean interface environment."]
+    }
+  },
     facts: {
       de: ["Mündet bei Pointe-Indienne", "Beeindruckende Stromschnellen", "Wichtige Entwässerung des Niari-Tals", "Vielseitiges Ökosystem"],
       hu: ["Pointe-Indienne-nél torkollik be", "Lenyűgöző zúgók", "A Niari-völgy fontos vízelvezetője", "Változatos ökoszisztéma"],
@@ -103,7 +138,14 @@ export const poiExtraCongoNatureV2: POI[] = [
       hu: "A Sangha mellékfolyója, amely kiterjedt mocsaras területeiről ismert.",
       ro: "Un afluent al Sangha, cunoscut pentru zonele sale mlaștinoase întinse.",
       en: "A tributary of the Sangha, known for its extensive marshy areas."
+    ,
+    descriptionAdvanced: {
+      en: "The Likouala-aux-Herbes is a distinct riverine environment in the north, renowned for its vast, swampy landscapes that are largely untouched. These extensive wetlands provide an ideal habitat for numerous water-bird species and support a unique, slow-moving aquatic ecosystem. The river is a vital, though remote, component of the northern Congo Basin's complex hydrological architecture. Geography K8 — swamp ecosystems and northern hydrology."
     },
+    factsAdvanced: {
+      en: ["Renowned for vast, remote wetland landscapes.", "Typical example of Congo's swamp-forest rivers.", "Provides critical habitat for diverse water birds.", "Important, yet largely inaccessible, northern ecosystem.", "Dynamic hydrological feature of the Likouala department.", "Significant natural filter for regional waters."]
+    }
+  },
     facts: {
       de: ["Große Feuchtgebiete", "Heimat vieler Wasservögel", "Schwer zugängliche Region", "Typischer Regenwaldfluss"],
       hu: ["Nagy vizes élőhelyek", "Sok vízimadár otthona", "Nehezen megközelíthető régió", "Tipikus esőerdei folyó"],
@@ -121,7 +163,14 @@ export const poiExtraCongoNatureV2: POI[] = [
       hu: "A Kongói Köztársaság legmagasabb pontja, az ország északi részén.",
       ro: "Cel mai înalt punct din Republica Congo, situat în nordul accidentat.",
       en: "The highest point in the Republic of the Congo, located in the rugged north."
+    ,
+    descriptionAdvanced: {
+      en: "Mount Berongou is the highest peak in the Republic of the Congo, standing at approximately 900 meters in the rugged northern region. Its slopes, covered in dense, pristine rainforest, are part of the broader Crystal Mountains system. As the nation's highest point, it is a site of significant geographical interest and ecological protection within the Sangha rainforest zone. Geography K8 — mountain geography and elevation extremes."
     },
+    factsAdvanced: {
+      en: ["Elevation of approximately 900 meters.", "Highest natural point in the Republic of the Congo.", "Located in the ecologically rich Sangha region.", "Densely forested slopes protected from development.", "Geologically part of the broader Crystal Mountains.", "Vital site for montane rainforest research."]
+    }
+  },
     facts: {
       de: ["Höhe ca. 900 Meter", "In der Sangha-Region", "Dicht bewaldete Hänge", "Teil des Kristallgebirges"],
       hu: ["Magassága kb. 900 méter", "A Sangha régióban", "Sűrűn erdősült lejtők", "A Kristály-hegység része"],
@@ -139,7 +188,14 @@ export const poiExtraCongoNatureV2: POI[] = [
       hu: "Afrika egyik legrégebbi nemzeti parkja hatalmas erdőterületekkel.",
       ro: "Una dintre cele mai vechi arii protejate din Africa, cu păduri vaste.",
       en: "One of Africa's oldest national parks with vast forest areas."
+    ,
+    descriptionAdvanced: {
+      en: "Odzala-Kokoua National Park is one of the oldest and most important protected areas in Africa, characterized by its vast, pristine forest cover. It is internationally celebrated for its 'bais'—unique, mineral-rich forest clearings—which draw large herds of forest elephants and lowland gorillas. The park is a quintessential example of the dense, complex rainforest ecosystems found in the Congo Basin. Sachkunde K6 — biodiversity and forest conservation."
     },
+    factsAdvanced: {
+      en: ["One of the oldest national parks in Africa.", "Famous for unique forest clearings known as 'bais'.", "Crucial habitat for Western Lowland Gorillas.", "Large, stable population of forest elephants.", "Quintessential ecosystem of the Congo Basin.", "Internationally recognized site for biodiversity."]
+    }
+  },
     facts: {
       de: ["Bekannt für Flachlandgorillas", "Einzigartige Waldlichtungen (Bais)", "Große Elefantenpopulation", "Teil des Kongobeckens"],
       hu: ["Síkvidéki gorilláiról ismert", "Egyedülálló erdei tisztások (bai)", "Nagy elefántpopuláció", "A Kongó-medence része"],
@@ -157,7 +213,14 @@ export const poiExtraCongoNatureV2: POI[] = [
       hu: "Érintetlen északi esőerdő, a Sangha Tri-National Világörökség része.",
       ro: "O pădure tropicală virgină în nord, parte a sitului UNESCO Sangha Trinational.",
       en: "An untouched northern rainforest, part of the Sangha Tri-National World Heritage."
+    ,
+    descriptionAdvanced: {
+      en: "Nouabalé-Ndoki National Park is a pristine, truly untouched wilderness that serves as a global sanctuary for rare primates and other megafauna. Its isolation and the complete lack of permanent human settlements have preserved it as one of the most intact primary rainforest ecosystems in the world. As a pillar of the Sangha Trinational World Heritage site, it is vital for international conservation efforts. Sachkunde K7 — primary rainforests and wilderness preservation."
     },
+    factsAdvanced: {
+      en: ["One of the world's most intact primary rainforests.", "UNESCO World Natural Heritage site.", "Home to vital populations of gorillas and chimpanzees.", "Pristine wilderness free of human settlement.", "Part of the wider Sangha Trinational ecosystem.", "Global priority site for primate conservation."]
+    }
+  },
     facts: {
       de: ["Völlig unberührte Wildnis", "Heimat für Gorillas und Schimpansen", "Keine dauerhaften menschlichen Siedlungen", "UNESCO-Weltnaturerbe"],
       hu: ["Teljesen érintetlen vadon", "Gorillák és csimpánzok otthona", "Nincsenek állandó emberi települések", "UNESCO Világörökségi helyszín"],
@@ -175,7 +238,14 @@ export const poiExtraCongoNatureV2: POI[] = [
       hu: "Változatos tengerparti park, amely erdőket, lagúnákat és tengert is magában foglal.",
       ro: "Un parc diversificat pe coastă, incluzând păduri, lagune și mare.",
       en: "A diverse coastal park encompassing forests, lagoons, and the sea."
+    ,
+    descriptionAdvanced: {
+      en: "Conkouati-Douli National Park is a remarkably diverse coastal ecosystem that seamlessly bridges dense rainforests, protected lagoons, and the Atlantic Ocean. Its unique geographical position allows for a high concentration of wildlife, including nesting sea turtles along its beaches and diverse primate species in its forest sections. It is a vital example of how multiple habitats can be integrated into one protected, high-biodiversity area. Sachkunde K6 — coastal ecosystems and protected landscapes."
     },
+    factsAdvanced: {
+      en: ["Remarkably diverse coastal-to-forest ecosystem.", "Includes lagoons, mangroves, and oceanic beaches.", "Vital nesting ground for threatened sea turtles.", "High biodiversity of primate species in its forests.", "Excellent model for integrated habitat conservation.", "Critical protection for coastal mangroves."]
+    }
+  },
     facts: {
       de: ["Reicht vom Ozean bis zum Hinterland", "Nistplatz für Meeresschildkröten", "Vielfältige Primatenarten", "Wichtige Mangrovenwälder"],
       hu: ["Az óceántól a hátországig terjed", "Tengeri teknősök fészkelőhelye", "Változatos főemlős fajok", "Fontos mangroveerdők"],

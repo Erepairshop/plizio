@@ -610,7 +610,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
     description: {
       de: "Das Bauernhaus aus dem 19. Jahrhundert in Cavendish, das Lucy Maud Montgomery zu ihrem Roman 'Anne auf Green Gables' inspirierte.",
       hu: "A 19. századi cavendishi farmház, amely Lucy Maud Montgomeryt az 'Anne a Zöld Oromból' című regényére ihlette.",
-      ro: "Ferma din secolul al XIX-lea din Cavendish, care a inspirat romanul lui Lucy Maud Montgomery, „Anne de la Green Gables”.",
+      ro: "Ferma din secolul al XIX-lea din Cavendish, care a inspirat romanul lui Lucy Maud Montgomery, \\\"Anne de la Green Gables\\\".",
       en: "The 19th-century farmhouse in Cavendish that inspired Lucy Maud Montgomery's novel, 'Anne of Green Gables'."
     },
     facts: {

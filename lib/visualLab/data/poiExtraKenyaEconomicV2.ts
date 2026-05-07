@@ -12,7 +12,7 @@ export const poiExtraKenyaEconomicV2: POI[] = [
       hu: "Mombasa kikötője",
       ro: "Portul Mombasa",
       en: "Port of Mombasa"
-    ,
+    },
     descriptionAdvanced: {
       de: "Der Hafen von Mombasa (Kilindini Harbour) ist das absolute logistische Herzstück Ostafrikas und Kenias mit Abstand wichtigstes wirtschaftliches Asset. Er ist der größte und geschäftigste Tiefseehafen an der ostafrikanischen Küste und dient nicht nur als primäres Tor für kenianische Im- und Exporte (wie Tee und Kaffee), sondern auch als unersetzlicher Transitpunkt für Binnenstaaten wie Uganda, Ruanda, Burundi und den Ostkongo. Der Hafen wird von der staatlichen Kenya Ports Authority (KPA) betrieben und wurde in den letzten Jahren durch massive Investitionen in neue Containerterminals und die Anbindung an die Standard Gauge Railway (SGR) drastisch modernisiert. Er ist der Motor der regionalen Lieferketten und ein Garant für tausende Arbeitsplätze (Wirtschaft K8).",
       hu: "A Mombasai Kikötő Kelet-Afrika legnagyobb és legforgalmasabb mélyvízi tengeri kikötője, az egész régió gazdasági ütőere. Nem csupán Kenya import- és exportforgalmát kezeli, hanem az úgynevezett Északi Folyosón (Northern Corridor) keresztül Ugandát, Ruandát, Burundit, Kelet-Kongót és Dél-Szudánt is ellátja tengeri áruval. A modernizált konténerterminálok és az új SGR (Standard Gauge Railway) vasúti összeköttetés révén a kikötő kulcsszerepet játszik Afrika globális kereskedelmében. (Földrajz K8 — globális logisztika és tengeri kereskedelem)",
@@ -23,11 +23,10 @@ export const poiExtraKenyaEconomicV2: POI[] = [
       en: ["Officially inaugurated in 1896 as the start of the Uganda Railway.", "The largest and busiest deep-water seaport on the East African coast.", "Handles over 30 million tonnes of diverse cargo annually.", "Serves as the primary maritime gateway for landlocked Uganda, Rwanda, and South Sudan.", "Features the highly automated Kipevu Container Terminal, expanded in 2016.", "Directly integrated with the modern Standard Gauge Railway freight terminal.", "Managed exclusively by the state-owned Kenya Ports Authority (KPA)."]
     },
     factsAdvanced: {
-      de: ["Der Hafen von Mombasa ist der größte und wichtigste Hafen in ganz Ostafrika.", "Er dient als Haupthafen für Binnenländer wie Uganda, Ruanda und den Südsudan.", "Der Hafen liegt am natürlich geschützten Kilindini Harbour („Ort des tiefen Wassers“).", "Die Kenya Ports Authority (KPA) betreibt die weitläufigen Container- und Frachtterminals.", "Das Projekt wurde durch die neue Standard Gauge Railway (SGR) direkt mit dem Hinterland verbunden.", "Kenias Hauptexportgüter, insbesondere Tee und Kaffee, werden hier verschifft."],
+      de: ["Der Hafen von Mombasa ist der größte und wichtigste Hafen in ganz Ostafrika.", "Er dient als Haupthafen für Binnenländer wie Uganda, Ruanda und den Südsudan.", "Der Hafen liegt am natürlich geschützten Kilindini Harbour (\"Ort des tiefen Wassers\").", "Die Kenya Ports Authority (KPA) betreibt die weitläufigen Container- und Frachtterminals.", "Das Projekt wurde durch die neue Standard Gauge Railway (SGR) direkt mit dem Hinterland verbunden.", "Kenias Hauptexportgüter, insbesondere Tee und Kaffee, werden hier verschifft."],
       hu: ["Kelet-Afrika legnagyobb áruforgalmú tengeri kikötője", "Öt tengerparttal nem rendelkező (landlocked) afrikai országot szolgál ki", "Közvetlen kapcsolata van a modern SGR tehervasút-hálózattal", "Több mint 30 millió tonna rakományt kezel évente", "Az üzemeltetést a Kenya Ports Authority (KPA) végzi", "Története a dhow-vitorlások idejétől a mai szuperhajókig ível"],
       ro: ["Portul Kilindini înseamnă «apă adâncă» în limba swahili.", "A fost dat în funcțiune în mod oficial în anul 1896 odată cu începutul căii ferate.", "Terminlul de containere 2, susținut japonez, a dublat capacitatea portului în 2016.", "Peste 34 de milioane de tone de mărfuri tranzitează anual danele sale aglomerate.", "Marea majoritate a combustibilului folosit în interiorul Africii de Est trece pe aici.", "Reprezintă peste 60% din produsul intern brut al regiunii de coastă."]
-    }
-  },
+    },
     description: {
       de: "Der größte Seehafen Ostafrikas, ein wichtiges Handelszentrum für Kenia und die Nachbarländer.",
       hu: "Kelet-Afrika legnagyobb tengeri kikötője, fontos kereskedelmi központ Kenya és a szomszédos országok számára.",
@@ -50,7 +49,7 @@ export const poiExtraKenyaEconomicV2: POI[] = [
       hu: "Kisumu kikötője",
       ro: "Portul Kisumu",
       en: "Port of Kisumu"
-    ,
+    },
     descriptionAdvanced: {
       de: "Der Binnenhafen von Kisumu am Viktoriasee ist von enormer strategischer Bedeutung für die East African Community (EAC). Er wurde 1901 als Endpunkt der Uganda-Eisenbahn (Port Florence) gegründet, um den Handel zwischen dem Binnenland und der Küste zu erleichtern. Nach Jahrzehnten des Verfalls wurde der Hafen kürzlich umfassend renoviert und wiedereröffnet, um den Seehandel mit Mwanza (Tansania) und Port Bell (Uganda) wiederzubeleben. Der Hafen schlägt hauptsächlich Treibstoffe, landwirtschaftliche Güter und Stückgut um. Durch den Ausbau von Fährverbindungen und den Bau einer neuen Öl-Verladeanlage soll der Kisumu Port die Transportkosten innerhalb der Region drastisch senken und die Abhängigkeit vom reinen Straßenverkehr verringern (Wirtschaft K8).",
       hu: "A Kisumu Kikötő a Viktória-tó legfontosabb belföldi kikötője Kenyai oldalon, amely stratégiai összeköttetést biztosít Uganda és Tanzánia felé. A brit gyarmati időkben épült, mint az Ugandai Vasút végállomása, hogy biztosítsa a tóvidéki áruk tengerhez juttatását. Bár a 20. század végén jelentősége visszaesett, egy nemrégiben lezajlott masszív állami felújítás újraélesztette. Jelenleg kompok és teherhajók szállítanak itt olajat, mezőgazdasági termékeket és iparcikkeket a szomszédos országokba. (Földrajz K7 — tavi közlekedés és régiós kereskedelem)",
@@ -64,8 +63,7 @@ export const poiExtraKenyaEconomicV2: POI[] = [
       de: ["Der Hafen von Kisumu ist der wichtigste kenianische Binnenhafen am Viktoriasee.", "Er wurde 1901 unter dem Namen Port Florence als Endpunkt der Eisenbahnlinie eröffnet.", "Der Hafen verbindet Kenia auf dem Wasserweg direkt mit Tansania und Uganda.", "Ein kürzlich modernisiertes Ölterminal soll den Treibstofftransport nach Uganda revolutionieren.", "Nach Jahren des Verfalls erlebte der Hafen ab 2019 eine massive staatliche Sanierung.", "Die MV Uhuru, ein legendäres kenianisches Fährschiff, operiert von diesem Hafen aus."],
       hu: ["A Viktória-tó legjelentősebb kenyai teherkikötője", "1901-ben adták át az Ugandai Vasút végállomásaként", "Kulcsfontosságú az Uganda és Tanzánia felé irányuló áruexportban", "Egy közelmúltbeli felújítás modern hajóépítő dokkokat is kapott", "Főként olajtermékeket, műtrágyát és cukrot rakodnak itt", "Az MV Uhuru nevű történelmi vonatkomp bázisa"],
       ro: ["A fost finalizat inițial în anul 1901 ca destinație finală a ramurei feroviare coloniale.", "A trecut printr-o modernizare completă de 30 de milioane de dolari în 2019.", "Nava SS Usoga a fost prima navă de mare tonaj construită special pentru acest port.", "Lacul Victoria funcționează ca o autostradă invizibilă pentru rutele Jinja și Mwanza.", "Facilitățile portuare includ șantiere navale extinse și silozuri de cereale uriașe.", "Punct cheie de distribuție pentru țițeiul transportat mai departe prin feriboturi cisterna."]
-    }
-  },
+    },
     description: {
       de: "Ein wichtiger Binnenhafen am Viktoriasee, der den Handel zwischen Kenia, Uganda und Tansania fördert.",
       hu: "Fontos szárazföldi kikötő a Viktória-tavon, amely elősegíti a kereskedelmet Kenya, Uganda és Tanzánia között.",
@@ -88,7 +86,7 @@ export const poiExtraKenyaEconomicV2: POI[] = [
       hu: "Lamu kikötő (LAPSSET)",
       ro: "Portul Lamu (LAPSSET)",
       en: "Lamu Port (LAPSSET)"
-    ,
+    },
     descriptionAdvanced: {
       de: "Der Hafen von Lamu ist das Kernstück des gigantischen LAPSSET-Projekts (Lamu Port-South Sudan-Ethiopia Transport Corridor), des ehrgeizigsten Infrastrukturvorhabens in der Geschichte Kenias. Gelegen an der Manda-Bucht im Norden des Landes, wurde der Hafen als extrem tiefer Seehafen konzipiert, der in der Lage ist, Post-Panamax-Schiffe abzufertigen, die für den alten Hafen von Mombasa zu groß sind. Die ersten Liegeplätze wurden 2021 offiziell in Betrieb genommen. Ziel des Hafens ist es, einen völlig neuen Transportkorridor zu schaffen, der die wirtschaftliche Isolation Nordkenias beendet und als primärer Umschlagplatz für Exporte aus Äthiopien und dem Südsudan (insbesondere Erdöl) fungiert. Dieses Mega-Projekt soll die ostafrikanische Logistikkarte völlig neu zeichnen (Wirtschaft & Geografie K8).",
       hu: "A Lamu Kikötő egy hatalmas, új építésű mélyvízi kikötő Észak-Kenyában, amely a gigantikus LAPSSET (Lamu Port-South Sudan-Ethiopia-Transport) korridor projekt kulcseleme. A cél az, hogy csökkentsék a Mombasai Kikötő túlterheltségét, és megnyissák Kenya elmaradott északi régióit a nemzetközi kereskedelem, különösen az etióp és dél-szudáni olajexport előtt. A 2021-ben megnyitott első mólók hatalmas konténerhajók fogadására alkalmasak, megváltoztatva az ezeréves szuahéli városkép tágabb környezetét. (Földrajz K8 — mega-infrastruktúra és gazdaságfejlesztés)",
@@ -102,8 +100,7 @@ export const poiExtraKenyaEconomicV2: POI[] = [
       de: ["Der Lamu Port ist das Herzstück des massiven 24-Milliarden-Dollar LAPSSET-Korridors.", "Die ersten drei der geplanten 32 Tiefsee-Liegeplätze wurden 2021 eröffnet.", "Der Hafen liegt in der natürlichen, tiefen Manda-Bucht an der kenianischen Nordküste.", "Er ist speziell für gigantische Post-Panamax-Schiffe ausgelegt, die Mombasa nicht anlaufen können.", "Hauptziel ist die Anbindung an die Märkte von Äthiopien und dem Südsudan.", "Das Projekt stößt auch auf Kritik wegen möglicher Auswirkungen auf das historische Lamu-Erbe."],
       hu: ["A LAPSSET infrastruktúra projekt központi eleme", "Dél-Szudánt és Etiópiát hivatott összekötni az Indiai-óceánnal", "Az első három modern mólóját 2021-ben adták át a forgalomnak", "Speciálisan Panamax és Post-Panamax méretű hajókra tervezték", "Célja a Mombasai Kikötő tehermentesítése", "Hatalmas iparvárost és olajfinomítót terveznek a kikötő köré"],
       ro: ["Primele trei dane au fost finalizate și date în exploatare în 2021.", "Canalul de navigare are o adâncime de 17,5 metri pentru a permite nave uriașe.", "Proiectul LAPSSET conectează portul de Etiopia prin autostrăzi și viitoare căi ferate.", "La finalizare, se estimează că portul va avea un total de 32 de dane comerciale.", "Are o zonă economică specială planificată adiacent pentru investiții industriale.", "Va deveni viitorul hub de export pentru țițeiul extras din câmpurile Turkana."]
-    }
-  },
+    },
     description: {
       de: "Ein moderner Tiefseehafen im Bau, Teil eines massiven regionalen Infrastrukturprojekts.",
       hu: "Építés alatt álló modern mélyvízi kikötő, egy hatalmas regionális infrastrukturális projekt része.",
@@ -126,7 +123,7 @@ export const poiExtraKenyaEconomicV2: POI[] = [
       hu: "Athi River Exportfeldolgozó Zóna",
       ro: "Zona de Procesare a Exportului Athi River",
       en: "Athi River Export Processing Zone"
-    ,
+    },
     descriptionAdvanced: {
       de: "Die Export Processing Zone (EPZ) in Athi River, Machakos County, ist Kenias größtes Zentrum für die exportorientierte Fertigungsindustrie. Die 1990 gegründete Sonderwirtschaftszone bietet internationalen und lokalen Investoren massive steuerliche Anreize, wie jahrelange Steuerbefreiungen und zollfreien Import von Rohstoffen. Tausende von Arbeitern, überwiegend Frauen, sind hier in riesigen Textil- und Bekleidungsfabriken beschäftigt. Die produzierten Kleidungsstücke (darunter Markenkleidung für den US- und europäischen Markt) werden größtenteils im Rahmen des AGOA-Abkommens (African Growth and Opportunity Act) zollfrei in die USA exportiert. Die EPZ Athi River ist das Paradebeispiel für Kenias Bemühungen, sich von einem Agrarstaat zu einem Industrieland zu entwickeln (Wirtschaft & Politik K8).",
       hu: "Az Athi River Exportfeldolgozó Övezet (EPZ) Kenya iparosításának egyik legfontosabb motorja, Nairobitól mindössze 30 kilométerre. A kormány által létrehozott különleges gazdasági zónában tucatnyi nemzetközi vállalat működik adókedvezmények és kiváló infrastruktúra mellett. A fő fókusz a textil- és ruhaiparon van; az itt gyártott ruházati cikkek jelentős részét az Egyesült Államokba exportálják az AGOA (Afrikai Növekedési és Lehetőség Törvény) keretében. Emellett élelmiszer- és gyógyszeripari cégek is helyet kaptak itt. (Földrajz K8 — globális ellátási láncok és textilipar)",
@@ -140,8 +137,7 @@ export const poiExtraKenyaEconomicV2: POI[] = [
       de: ["Die Athi River EPZ ist die größte Export Processing Zone in Ostafrika.", "Sie wurde 1990 etabliert, um ausländische Direktinvestitionen anzuziehen.", "Ein Großteil der Produktion ist Bekleidung, die über das AGOA-Abkommen in die USA exportiert wird.", "Die EPZ ist einer der größten Arbeitgeber Kenias und beschäftigt Zehntausende von Menschen.", "Unternehmen in der EPZ profitieren von weitreichenden Steuerbefreiungen (Tax Holidays).", "Die Zone liegt strategisch extrem günstig an der Mombasa-Nairobi-Autobahn."],
       hu: ["Kenya legnagyobb Exportfeldolgozó Övezete (EPZ)", "Az ország textilipari exportjának jelentős részét adja", "Főként az amerikai AGOA kereskedelmi egyezményre támaszkodik", "Több tízezer, nagyrészt női munkavállalót foglalkoztat", "Saját dedikált energia-, víz- és úthálózattal rendelkezik", "Közvetlen kapcsolatban áll a SGR vasúttal és Mombasa kikötőjével"],
       ro: ["Este cea mai veche și mai mare zonă EPZ operată guvernamental din Kenya.", "Majoritatea exporturilor de aici se îndreaptă către SUA sub incidența acordului AGOA.", "Găzduiește peste 40 de companii internaționale angajând direct zeci de mii de tineri.", "Este situată strategic la sud-est de Nairobi, pe traseul logistic către Mombasa.", "Domeniile principale includ textilele, procesarea fructelor și asamblarea de tehnologie.", "Oferă investitorilor scutire de impozit pe profit timp de 10 ani."]
-    }
-  },
+    },
     description: {
       de: "Eine der größten Sonderwirtschaftszonen Kenias, konzentriert auf Textil- und Bekleidungsherstellung für den Export.",
       hu: "Kenya egyik legnagyobb különleges gazdasági övezete, amely exportra szánt textil- és ruházati termékek gyártására összpontosít.",
@@ -164,7 +160,7 @@ export const poiExtraKenyaEconomicV2: POI[] = [
       hu: "Magadi Szódaüzem",
       ro: "Fabrica de Sodă Magadi",
       en: "Magadi Soda Ash Plant"
-    ,
+    },
     descriptionAdvanced: {
       de: "Am Ufer des extrem heißen und salzigen Lake Magadi im südlichen Rift Valley befindet sich Kenias größtes Bergbauunternehmen, die Tata Chemicals Magadi (früher Magadi Soda Company). Seit 1911 wird hier im industriellen Maßstab Trona (Natriumsesquicarbonat) abgebaut, aus dem Soda-Asche (Natriumcarbonat) gewonnen wird. Diese Soda-Asche ist ein entscheidender Rohstoff für die globale Glas-, Papier- und Waschmittelindustrie. Lake Magadi ist einzigartig, da sich das Trona durch geothermische Quellen und extreme Verdunstung ständig auf natürliche Weise regeneriert. Das Unternehmen ist der größte Produzent von natürlicher Soda-Asche in Afrika und transportiert das Mineral über eine eigene, 1915 gebaute Eisenbahnstrecke zum Hafen von Mombasa für den weltweiten Export (Wirtschaft & Chemie K8).",
       hu: "A Magadi-tónál működő szódahamu (nátrium-karbonát) üzem Afrika egyik legfontosabb bányászati és vegyipari létesítménye. A Nagy-hasadékvölgy legdélibb, rendkívül forró kenyai részén fekvő lúgos tó természetes úton, folyamatosan termeli a tróna ásványt. A több mint száz éve alapított (ma Tata Chemicals tulajdonú) vállalat a tó felszínéről kotorja le az ásványt, majd ipari szódahamuvá tisztítja, ami az üveggyártás alapvető nyersanyaga világszerte. (Természetismeret K7 — lúgos tavak és vegyipar)",
@@ -178,8 +174,7 @@ export const poiExtraKenyaEconomicV2: POI[] = [
       de: ["Die Anlage am Lake Magadi baut Trona ab, das zu natürlicher Soda-Asche verarbeitet wird.", "Der Bergbau an diesem Standort begann bereits 1911 und ist einer der ältesten in Afrika.", "Tata Chemicals Magadi ist Afrikas größter Produzent von natürlicher Soda-Asche.", "Eine eigens 1915 gebaute Bahnstrecke transportiert das Material direkt nach Mombasa.", "Das Mineralvorkommen regeneriert sich durch heiße Quellen und Verdunstung ständig selbst.", "Soda-Asche ist ein unverzichtbarer Rohstoff für die Herstellung von Glas und Waschmitteln."],
       hu: ["Afrika legnagyobb szódahamu (nátrium-karbonát) kitermelője", "A Magadi-tó rendkívül lúgos, természetes tróna lerakódásaiból bányásznak", "Az üzemet eredetileg 1911-ben alapították a brit gyarmatosítók", "A végterméket ipari üveg és tisztítószerek gyártásához használják", "Egy saját, külön erre a célra épített vasútvonal köti össze a fővonallal", "Jelenleg a globális Tata Chemicals konglomerátum tulajdonában van"],
       ro: ["Mineritul comercial pe Lacul Magadi a început oficial în anul 1911.", "Este cel mai mare producător de carbonat de sodiu din întreaga Africă.", "Rezervele de trona ale lacului se regenerează natural din izvoare vulcanice fierbinți.", "Tata Chemicals operează linia de cale ferată care transportă produsul la Mombasa.", "Fabrica se află în cel mai adânc și cald punct din Valea Riftului kenyan.", "Exporturile de carbonat de sodiu kenyan acoperă piețe din Asia de Sud și Orientul Mijlociu."]
-    }
-  },
+    },
     description: {
       de: "Die größte Anlage zur Gewinnung von Natriumcarbonat in Afrika, gelegen am alkalischen Magadisee.",
       hu: "Afrika legnagyobb nátrium-karbonát kitermelő üzeme, a lúgos Magadi-tó partján.",
@@ -202,7 +197,7 @@ export const poiExtraKenyaEconomicV2: POI[] = [
       hu: "Olkaria Geotermikus Erőmű",
       ro: "Centrala Geotermală Olkaria",
       en: "Olkaria Geothermal Power Station"
-    ,
+    },
     descriptionAdvanced: {
       de: "Das Olkaria-Geothermiekraftwerk südlich des Naivasha-Sees ist der Stolz des kenianischen Energiesektors und macht das Land zu einem globalen Vorreiter in erneuerbaren Energien. Gelegen im vulkanisch hochaktiven Hell's-Gate-Nationalpark, nutzt die von der KenGen (Kenya Electricity Generating Company) betriebene Anlage den heißen Dampf aus der Erdkruste, um riesige Turbinen anzutreiben. Kenia ist das erste Land in Afrika, das Geothermie kommerziell nutzt, beginnend mit Olkaria I im Jahr 1981. Heute liefert der stetig wachsende Olkaria-Komplex fast die Hälfte des gesamten kenianischen Strombedarfs. Diese grundlastfähige, saubere Energie ist extrem zuverlässig und schützt Kenia vor Stromausfällen, die durch Dürren in Wasserkraftwerken verursacht werden (Technik & Physik K8).",
       hu: "Az Olkaria Geotermikus Erőmű komplexum Kenya energiastratégiájának koronaékszere, a Pokol Kapuja Nemzeti Park lenyűgöző tájába ágyazva, Naivasha közelében. Kenya volt az első afrikai ország, amely elkezdte kiaknázni a Nagy-hasadékvölgy vékony földkérgéből származó vulkáni hőt. Az itt található, gőzt okádó kutak hajtják meg azokat a turbinákat, amelyek az ország teljes villamosenergia-igényének közel felét biztosítják, ezzel Kenyát globális vezetővé téve a zöld energia terén. (Földrajz K8 — megújuló energia és vulkanizmus)",
@@ -216,8 +211,7 @@ export const poiExtraKenyaEconomicV2: POI[] = [
       de: ["Olkaria ist der größte Geothermie-Komplex in Afrika und liegt im Hell's-Gate-Nationalpark.", "Kenia ist dank Olkaria der achtgrößte Geothermie-Produzent der Welt.", "Die kommerzielle Stromerzeugung aus Erdwärme begann hier im Jahr 1981.", "Geothermie aus Olkaria deckt heute fast 50 Prozent des kenianischen Strombedarfs.", "Die Anlagen bohren teilweise über 3.000 Meter tief in die vulkanisch aktive Erdkruste.", "Im Gegensatz zur Wasserkraft liefert Olkaria auch während extremer Dürren zuverlässig Strom."],
       hu: ["Afrika legnagyobb és legrégebbi geotermikus energia projektje", "A Pokol Kapuja (Hell's Gate) Nemzeti Park aktív vulkáni területén fekszik", "Több önálló erőművi blokkból (Olkaria I-V) áll", "Kenya nemzeti áramellátásának több mint 40%-át biztosítja", "A föld alatti 300°C feletti gőz hajtja a gigantikus turbinákat", "A terület körül hatalmas virágfarmok használják a maradékhőt és áramot"],
       ro: ["Kenya este cel mai mare producător de energie geotermală de pe continentul african.", "Generarea comercială a început în 1981 odată cu centrala Olkaria I.", "Olkaria furnizează peste 45% din totalul de energie electrică consumată în Kenya.", "Centralele sunt amplasate neobișnuit chiar în interiorul Parcului Național Hell's Gate.", "Puțurile de foraj pot atinge adâncimi incredibile, de până la 3.000 de metri.", "Gazele emise de centrale sunt gestionate pentru a proteja flora și fauna sălbatică locală."]
-    }
-  },
+    },
     description: {
       de: "Der größte Geothermie-Komplex in Afrika, der einen großen Teil des kenianischen Strombedarfs deckt.",
       hu: "Afrika legnagyobb geotermikus komplexuma, amely a kenyai áramszükséglet jelentős részét fedezi.",
@@ -240,7 +234,7 @@ export const poiExtraKenyaEconomicV2: POI[] = [
       hu: "Del Monte Ananászüzem Thika",
       ro: "Fabrica de Ananas Del Monte Thika",
       en: "Del Monte Pineapple Cannery Thika"
-    ,
+    },
     descriptionAdvanced: {
       de: "Die riesige Ananas-Konservenfabrik in Thika, betrieben von Del Monte Kenya, ist das unübersehbare Wahrzeichen der landwirtschaftlichen Verarbeitung in dieser Region. Die Fabrik liegt inmitten einer gigantischen Plantage von über 4.000 Hektar, die die Hügel um Thika in ein endloses Meer aus Stachelpflanzen verwandelt. Del Monte Kenya ist der größte Exporteur von kenianischen Ananasprodukten; das Unternehmen verarbeitet täglich Tausende Tonnen frischer Früchte zu Konservenringen, Säften und Konzentraten, die primär nach Europa und in den Nahen Osten exportiert werden. Die Fabrik ist ein massiver Arbeitgeber und ein perfektes Beispiel für vertikale Integration, bei der Anbau, Ernte, Verarbeitung und Verpackung hochgradig effizient an einem einzigen Standort erfolgen (Wirtschaft & Biologie K7).",
       hu: "A Thika város határában elterülő Del Monte ananászfeldolgozó és a hozzá tartozó hatalmas ültetvény Kenya élelmiszer-feldolgozó iparának egyik zászlóshajója. A több ezer hektáros, precízen megművelt földeken termesztett ananászt a helyszínen lévő gyárban azonnal feldolgozzák – szeletelik, konzerválják vagy ivólének préselik. Az itt előállított termékek túlnyomó részét Európába és a Közel-Keletre exportálják. Az ültetvény mérete lenyűgöző: a Nairobi-Thika autópályáról kilométereken át csak az ananászmezők láthatók. (Földrajz K6 — nagyüzemi mezőgazdaság és konzervipar)",
@@ -254,8 +248,7 @@ export const poiExtraKenyaEconomicV2: POI[] = [
       de: ["Die Fabrik von Del Monte in Thika ist eine der größten Ananasverarbeitungsanlagen Afrikas.", "Die umliegenden eigenen Plantagen umfassen eine gigantische Fläche von über 4.000 Hektar.", "Ein Großteil der produzierten Ananasprodukte geht in den direkten Export nach Europa.", "Die Fabrik verarbeitet täglich Tausende Tonnen Früchte zu Säften und Konserven.", "Das Unternehmen ist der größte private Arbeitgeber in der Region Thika und Murang'a.", "Die Anlage ist ein Musterbeispiel für industrielle Landwirtschaft und vertikale Integration."],
       hu: ["Kelet-Afrika legnagyobb ananászfeldolgozó üzeme", "A Del Monte Kenya birtoka több mint 4000 hektáron terül el", "A betakarítástól a konzervdobozig minden a helyszínen történik", "Nagyjából hatezer munkást foglalkoztat közvetlenül", "Az exportált ananászlé és konzerv nagy része az európai piacra kerül", "Az ültetvény saját víztározókkal és úthálózattal rendelkezik"],
       ro: ["Plantația Del Monte din Thika acoperă o suprafață de peste 4.000 de hectare.", "Fabrica procesează peste 1.500 de tone metrice de ananas în fiecare zi.", "Este cel mai mare exportator singular de produse agricole procesate din Kenya.", "Oferă locuri de muncă directe pentru aproximativ 6.000 de muncitori kenyeni.", "Reziduul rămas după extragerea sucului este reciclat ca hrană nutritivă pentru vite.", "Micro-climatul din Thika este extrem de prielnic maturării uniforme a ananasului."]
-    }
-  },
+    },
     description: {
       de: "Eine riesige Obstverarbeitungsanlage, die kenianische Ananasprodukte für den globalen Markt herstellt.",
       hu: "Hatalmas gyümölcsfeldolgozó üzem, amely kenyai ananásztermékeket állít elő a globális piacra.",
@@ -278,7 +271,7 @@ export const poiExtraKenyaEconomicV2: POI[] = [
       hu: "Bamburi Cementgyár",
       ro: "Fabrica de Ciment Bamburi",
       en: "Bamburi Cement Factory"
-    ,
+    },
     descriptionAdvanced: {
       de: "Die Bamburi Cement Fabrik in Mombasa, ein Tochterunternehmen des globalen Baustoffgiganten Holcim, ist das größte Zementwerk in der gesamten ostafrikanischen Region. Gegründet 1951 vom visionären Felix Mandl, nutzt die Anlage die massiven, prähistorischen Korallenkalkstein-Vorkommen an der kenianischen Küste, um hochwertigen Zement herzustellen. Die Fabrik hat das Wachstum unzähliger Infrastrukturprojekte in Kenia und den Nachbarländern buchstäblich zementiert. Ein weltweit einzigartiges Merkmal dieses Unternehmens ist der angrenzende Haller Park: Bamburi Cement renaturierte hier eine komplett zerstörte, stillgelegte Kalksteinmine und verwandelte sie in einen üppigen ökologischen Park mit Wald, Seen und Wildtieren – ein Meisterwerk der ökologischen Rehabilitation (Wirtschaft & Ökologie K8).",
       hu: "A Mombasától északra működő Bamburi Cementgyár Kelet-Afrika legnagyobb építőanyag-gyártó létesítménye. Az 1950-es években alapított vállalat a partmenti gazdag mészkő- és korallkő-lelőhelyeket aknázza ki. A gyár nem csak az ipari teljesítményéről ismert: a kimerült bányagödröket a világon egyedülálló módon ökológiai parkká (Haller Park) rehabilitálták, amely ma zsiráfok, vízilovak és ritka növények otthona, bemutatva az ipar és a természetvédelem lehetséges együttélését. (Földrajz K7 — építőipar és tájrehabilitáció)",
@@ -289,11 +282,10 @@ export const poiExtraKenyaEconomicV2: POI[] = [
       en: ["Founded in 1952 by Swiss industrialist Felix Mandl.", "The largest cement manufacturing facility in the East African region.", "Strategically located to mine massive coastal deposits of fossilized coral limestone.", "The adjacent depleted quarries were transformed into Haller Park, a major wildlife sanctuary.", "A subsidiary of the massive global building materials conglomerate Holcim.", "Supplied the majority of the cement for Kenya's Standard Gauge Railway project.", "Operates colossal, high-temperature rotary kilns requiring massive energy inputs."]
     },
     factsAdvanced: {
-      de: ["Bamburi Cement in Mombasa ist der größte Zementhersteller in der East African Community.", "Das Unternehmen wurde 1951 gegründet und gehört heute zur internationalen Holcim-Gruppe.", "Als Rohstoff wird massiv prähistorischer Korallenkalkstein (Coral Rag) an der Küste abgebaut.", "Der Bamburi Cement hat gigantische kenianische Infrastrukturprojekte (wie die SGR) beliefert.", "Das Unternehmen verwandelte einen alten Steinbruch in den berühmten Naturpark „Haller Park“.", "Die Renaturierung durch Dr. René Haller begann 1971 und ist weltweit preisgekrönt."],
+      de: ["Bamburi Cement in Mombasa ist der größte Zementhersteller in der East African Community.", "Das Unternehmen wurde 1951 gegründet und gehört heute zur internationalen Holcim-Gruppe.", "Als Rohstoff wird massiv prähistorischer Korallenkalkstein (Coral Rag) an der Küste abgebaut.", "Der Bamburi Cement hat gigantische kenianische Infrastrukturprojekte (wie die SGR) beliefert.", "Das Unternehmen verwandelte einen alten Steinbruch in den berühmten Naturpark \"Haller Park\".", "Die Renaturierung durch Dr. René Haller begann 1971 und ist weltweit preisgekrönt."],
       hu: ["Kelet-Afrika legnagyobb kapacitású cementgyára", "A helyi korallmészkőből állítják elő a cement alapanyagát", "1951-ben alapította a Holcim-csoport jogelődje", "A cég építőanyagaiból épült Kenya legfontosabb infrastruktúráinak zöme", "A kimerült mészkőbányát sikeresen rehabilitálták a Haller Parkká", "Hatalmas exportőr a környező, tengerpart nélküli afrikai országok felé"],
       ro: ["Fabrica a fost inaugurată inițial de antreprenorul Felix Mandl în 1954.", "Este capabilă să producă peste 2 milioane de tone de ciment anual.", "Rene Haller, un agronom, a început procesul de reîmpădurire a carierei în 1971.", "Parcul Haller adăpostește milioane de copaci Casuarina care au stabilizat fostul sol pietros.", "Produsele Bamburi au fost folosite la construirea Căii Ferate cu Ecartament Standard.", "Compania a investit masiv în utilizarea biomasei ca sursă alternativă de combustibil pentru cuptoare."]
-    }
-  },
+    },
     description: {
       de: "Eines der größten Zementwerke in Ostafrika, das Baumaterialien für die Region liefert.",
       hu: "Kelet-Afrika egyik legnagyobb cementgyára, amely építőanyagokkal látja el a régiót.",
@@ -316,7 +308,7 @@ export const poiExtraKenyaEconomicV2: POI[] = [
       hu: "Pan Paper Mills Webuye",
       ro: "Fabrica de Hârtie Pan Paper Webuye",
       en: "Pan Paper Mills Webuye"
-    ,
+    },
     descriptionAdvanced: {
       de: "Die Pan African Paper Mills (Panpaper) in Webuye, Westkenia, war einst das größte industrielle Vorzeigeprojekt des Landes. Gegründet 1974, verwandelte die Fabrik Webuye in eine florierende Stadt, indem sie Tausende Arbeiter beschäftigte und den gesamten Papierbedarf Kenias sowie vieler ostafrikanischer Nachbarn deckte. Die Anlage wurde durch eine internationale Kooperation, unter anderem mit der Weltbank und indischen Investoren, errichtet. Sie bezog ihr Rohholz aus den riesigen staatlichen Waldgebieten. Nach jahrzehntelangem Erfolg zwangen jedoch Missmanagement, massive Stromkosten und veraltete Technologie die Fabrik 2009 zur Schließung, was Webuye in eine schwere Krise stürzte. Trotz mehrfacher Wiederbelebungsversuche bleibt Panpaper ein Symbol für Aufstieg und Fall afrikanischer Großindustrie (Geschichte & Wirtschaft K8).",
       hu: "A Webuye Pan Paper Mills (hivatalos nevén Pan African Paper Mills) a kenyai ipartörténet egy meghatározó, bár hányatott sorsú szimbóluma. Az 1970-es években indult állami és nemzetközi beruházásként, hogy az országot önellátóvá tegye papírból és csomagolóanyagokból. Évtizedekig ez volt a Nyugat-Kenyai régió legnagyobb munkáltatója, és ehhez igazodva hatalmas faültetvényeket hoztak létre a környéken. Noha hosszú évekre bezárt gazdasági okok miatt, a közelmúltban egy magánbefektető Rai Paper néven újraindította a termelést. (Történelem K8 — iparosítás és privatizáció)",
@@ -330,8 +322,7 @@ export const poiExtraKenyaEconomicV2: POI[] = [
       de: ["Die Pan African Paper Mills wurde 1974 als größtes Papierwerk Ostafrikas eröffnet.", "Die Fabrik deckte in ihrer Blütezeit den gesamten nationalen Papierbedarf Kenias.", "Die Anlage bezog Nadelholz aus den staatlichen Wäldern, was teilweise zu Entwaldung führte.", "Aufgrund massiver Schulden und Missmanagement musste die Fabrik 2009 geschlossen werden.", "Der Zusammenbruch führte zum wirtschaftlichen Kollaps der Stadt Webuye.", "Aktuelle Privatisierungsversuche versuchen, die gewaltige Industrieanlage wiederzubeleben."],
       hu: ["Egykor Kelet- és Közép-Afrika legnagyobb cellulóz- és papírgyára volt", "Az 1974-es indulásakor a kenyai nehézipari függetlenség szimbóluma lett", "A környező hegyvidék hatalmas fenyő- és eukaliptusz erdeire támaszkodott", "Bezárása 2009-ben komoly gazdasági válságot okozott a térségben", "2016-ban a Rai Csoport felvásárolta és részlegesen újraindította", "A gyár kéményei a Webuye-táj elmaradhatatlan elemei"],
       ro: ["Fabrica a fost construită printr-un parteneriat joint-venture între Kenya și India.", "La momentul de vârf, asigura o capacitate de producție de 120.000 tone de hârtie anual.", "Consuma lemn provenit în proporție mare din pădurea montană Cengwani și Turbo.", "S-a prăbușit financiar în 2009 din cauza creșterii prețurilor la energie și a managementului defectuos.", "Complexul său uriaș este încă unul dintre cele mai vizibile repere de-a lungul autostrăzii de vest.", "Guvernul a încercat resuscitarea unității cedând controlul unei mari companii private (Rai Group)."]
-    }
-  },
+    },
     description: {
       de: "Eine historische Papierfabrik in Kenia, die einen erheblichen Einfluss auf die lokale Wirtschaft in Webuye hat.",
       hu: "Történelmi papírgyár Kenyában, amely jelentős hatással van Webuye helyi gazdaságára.",
@@ -354,7 +345,7 @@ export const poiExtraKenyaEconomicV2: POI[] = [
       hu: "Muhoroni Cukorgyár",
       ro: "Fabrica de Zahăr Muhoroni",
       en: "Muhoroni Sugar Factory"
-    ,
+    },
     descriptionAdvanced: {
       de: "Die Muhoroni Sugar Company, gelegen im Kisumu County am Rande des Nyando-Tals, ist eine der ältesten Zuckerfabriken Kenias. Sie wurde 1966 als staatliches Unternehmen gegründet, um die sozioökonomische Entwicklung der Luo- und Kalenjin-Gemeinschaften in Westkenia durch Vertragslandwirtschaft (Outgrower-Modelle) zu fördern. Über Jahrzehnte hinweg war die Fabrik der Lebensnerv für Zehntausende von Kleinbauern, die ihr Zuckerrohr an die Mühle lieferten. Wie viele staatliche Zuckerfabriken in Kenia litt jedoch auch Muhoroni in den letzten Jahrzehnten unter veralteten Maschinen, finanziellen Krisen und Importen von billigem Zucker, was zu häufiger Zwangsverwaltung (Receivership) führte. Die Rettung und Privatisierung der Anlage ist ein ständiges politisches Thema in Kenia (Wirtschaft K8).",
       hu: "A Muhoroni Cukorgyár a Kisumu megyei cukoröv (sugar belt) egyik történelmi alapköve. Az 1960-as évek végén hozták létre azzal a céllal, hogy a helyi kistermelők által megtermelt cukornádat felvásárolja és finomított cukorrá dolgozza fel. Bár a gyár régi technológiája és pénzügyi nehézségei miatt sokszor küzd a modernizáció hiányával, továbbra is több tízezer környékbeli család (főleg a luo és nandi gazdák) megélhetésének központja a Nyando-folyó medencéjében. (Földrajz K6 — agráripar és állami vállalatok)",
@@ -367,9 +358,8 @@ export const poiExtraKenyaEconomicV2: POI[] = [
     factsAdvanced: {
       de: ["Muhoroni Sugar wurde 1966 als eines der ersten großen staatlichen Zuckerunternehmen gegründet.", "Die Fabrik operiert hauptsächlich durch ein Outgrower-Modell mit Tausenden Kleinbauern.", "Die Anlage liegt im Nyando-Zucker-Gürtel im Kisumu County.", "Seit den 2000er Jahren steht das Unternehmen fast durchgehend unter Zwangsverwaltung.", "Veraltete Technologie und hohe Produktionskosten sind die größten Herausforderungen der Mühle.", "Zuckerimporte aus dem COMESA-Block stellen eine massive Konkurrenz für die Fabrik dar."],
       hu: ["A Nyugat-kenyai 'cukoröv' egyik legrégebbi feldolgozóüzeme", "Az 1966-os alapítása óta állami irányítás alatt áll (jelenleg csődgondnokság alatt)", "Több mint 15 000 helyi cukornád-kistermelő függ a gyár felvásárlásaitól", "A Nyando-völgy sík, rendkívül termékeny, de gyakran áradásos vidékén fekszik", "Finomított barna cukrot és melaszt állít elő a belföldi piacra", "A kenyai cukorimport-viták és agrárpolitika állandó szereplője"],
-      ro: ["A fost una dintre primele și cele mai mari fabrici de prelucrare a trestiei din zonă.", "Este deținută parțial de guvernul kenyan pentru a proteja interesele micilor fermieri.", "Județul Kisumu, în care este situată, este faimos pentru pământurile negre și grele numite „black cotton soil”.", "Trestia de zahăr are nevoie de o perioadă de 18 luni pentru a ajunge la o maturitate de recoltare.", "Zahărul produs la Muhoroni este un brand național omniprezent în supermarketurile țării.", "În apropiere operează și alte facilități majore precum Chemelil Sugar."]
-    }
-  },
+      ro: ["A fost una dintre primele și cele mai mari fabrici de prelucrare a trestiei din zonă.", "Este deținută parțial de guvernul kenyan pentru a proteja interesele micilor fermieri.", "Județul Kisumu, în care este situată, este faimos pentru pământurile negre și grele numite \"black cotton soil\".", "Trestia de zahăr are nevoie de o perioadă de 18 luni pentru a ajunge la o maturitate de recoltare.", "Zahărul produs la Muhoroni este un brand național omniprezent în supermarketurile țării.", "În apropiere operează și alte facilități majore precum Chemelil Sugar."]
+    },
     description: {
       de: "Eine wichtige Anlage zur Verarbeitung von Zuckerrohr, das von lokalen Bauern im Zucker-Gürtel Kenias angebaut wird.",
       hu: "Fontos üzem a kenyai cukorövezetben élő helyi gazdák által termesztett cukornád feldolgozására.",
@@ -392,7 +382,7 @@ export const poiExtraKenyaEconomicV2: POI[] = [
       hu: "Kenyatta Nemzetközi Kongresszusi Központ (Üzleti központ)",
       ro: "Kenyatta International Convention Centre (Centru de afaceri)",
       en: "Kenyatta International Convention Centre (Business Hub)"
-    ,
+    },
     descriptionAdvanced: {
       de: "Das Kenyatta International Convention Centre (KICC) ist nicht nur ein architektonisches Wahrzeichen von Nairobi, sondern das wichtigste Zentrum für Geschäftstourismus, Konferenzen und Diplomatie in Ostafrika. Der von dem norwegischen Architekten Karl Henrik Nøstvik entworfene und 1973 fertiggestellte zylindrische Turm mit seinem markanten Amphitheater war das erste afrikanische Gebäude, das mit einem Hubschrauberlandeplatz auf dem Dach ausgestattet war. Als Symbol für das moderne, unabhängige Kenia beherbergt das KICC hochrangige UN-Gipfel, internationale Handelsmessen und afrikanische Regierungstreffen. Die Konferenzwirtschaft bringt jährlich Millionen von Dollar an Devisen ein und füllt die Hotels und Dienstleistungssektoren der Hauptstadt. Das KICC repräsentiert die wirtschaftliche und diplomatische Macht Kenias in Afrika (Wirtschaft & Geschichte K7).",
       hu: "A Kenyatta Nemzetközi Konferencia Központ (KICC) több mint egy építészeti mérföldkő; Nairobi gazdasági és diplomáciai központjának szíve. Az 1973-ban átadott, egyedi hengeres toronnyal rendelkező épület volt sokáig Kelet-Afrika legmagasabb felhőkarcolója. Évtizedek óta ad otthont az ENSZ konferenciáinak, nemzetközi üzleti csúcstalálkozóknak és afrikai gazdasági fórumoknak. A KICC a MICE (Meetings, Incentives, Conferences, Exhibitions) turizmus révén dollármilliókat generál a város szállodai és szolgáltató szektorának. (Földrajz K8 — üzleti turizmus és konferenciaközpontok)",
@@ -406,8 +396,7 @@ export const poiExtraKenyaEconomicV2: POI[] = [
       de: ["Das KICC wurde 1973 eröffnet und war bis 1980 das höchste Gebäude in Nairobi.", "Der unverwechselbare, zylindrische Turm besteht aus 28 Stockwerken (105 Meter).", "Das KICC ist das Herzstück des kenianischen MICE-Tourismus (Meetings, Incentives, Conferences).", "Das Gebäude wurde vom Architekten Karl Henrik Nøstvik entworfen.", "Das Dach bietet einen Hubschrauberlandeplatz und eine der besten Aussichtsplattformen Nairobis.", "Internationale Gipfel, darunter von der UNO und der Afrikanischen Union, finden hier statt."],
       hu: ["Kelet-Afrika legfontosabb nemzetközi konferencia és kiállítási központja", "1973-as átadásakor Nairobi legmagasabb épülete volt", "A kenyai MICE (üzleti) turizmus fő motorja, ami ezreket foglalkoztat", "Egyedi, afrikai kunyhókat idéző henger alakú tornya ikonikus", "Kormányzati és nemzetközi (például ENSZ, AU) találkozók állandó helyszíne", "Tetejéről, a helikopter-leszállóról panorámás kilátás nyílik az egész üzleti negyedre"],
       ro: ["A fost cea mai înaltă clădire din Africa de Est între anii 1973 și 1989.", "Are o înălțime impunătoare de 105 metri și numără 28 de etaje complet funcționale.", "Turnul principal a fost inspirat arhitectural de tradiționalele colibe rurale africane.", "Afișează o amfiteatru spectaculos închis, construit în forma unei flori de lotus gigantice.", "Găzduiește conferințe cu mii de delegați internaționali, stimulând industria hotelieră locală.", "Piațeta din fața sa conține o statuie imensă din bronz a primului președinte, Jomo Kenyatta."]
-    }
-  },
+    },
     description: {
       de: "Ein wichtiges Geschäftszentrum und Veranstaltungsort in Nairobi, das internationale Konferenzen und Ausstellungen anzieht.",
       hu: "Fontos üzleti központ és rendezvényhelyszín Nairobiban, amely nemzetközi konferenciákat és kiállításokat vonz.",
@@ -430,11 +419,11 @@ export const poiExtraKenyaEconomicV2: POI[] = [
       hu: "Eldoret Textilgyár (Rivatex)",
       ro: "Fabrica de Textile Eldoret (Rivatex)",
       en: "Eldoret Textile Mills (Rivatex)"
-    ,
+    },
     descriptionAdvanced: {
       de: "Rivatex (Rift Valley Textiles) in Eldoret ist ein Symbol für das industrielle Erbe und die Revitalisierung Kenias. Gegründet 1975, wuchs die Fabrik schnell zur größten vollintegrierten Textilfabrik Ostafrikas heran, die kenianische Baumwolle in hochwertige Stoffe für den nationalen und internationalen Markt verarbeitete. In den 1990er Jahren brach die Industrie durch die Überschwemmung des Marktes mit billiger Second-Hand-Kleidung (Mitumba) zusammen, was zur Schließung von Rivatex führte. Im Jahr 2007 wurde das Werk von der Moi University übernommen. Dank massiver indischer Kreditfinanzierungen wurde die Fabrik hochmodernisiert neu eröffnet. Heute produziert Rivatex hochmoderne Textilien, stattet die kenianische Armee und Polizei aus und belebt den lokalen Baumwollanbau (Wirtschaft K8).",
-      hu: "Az Eldoret Textile Mills, közismert nevén a Rivatex, a kenyai textilipar egyik legfontosabb sikertörténete az elmúlt években. Bár a gyár hosszú évekre leállt, a Moi Egyetem és a kenyai kormány megmentette, és mára Kelet-Afrika egyik legmodernebb textil- és ruházati üzemévé fejlesztette. A gyár jelentős szerepet játszik a „Vásárolj Kenyait, Építsd Kenyát” (Buy Kenya, Build Kenya) kampányban: itt készítik a rendőrség, a hadsereg egyenruháit, valamint rengeteg hazai pamutruházatot, fellendítve ezzel a régió gyapottermelését is. (Földrajz K7 — pamutipar és újjáélesztés)",
-      ro: "Fabrica Textilă Rivatex din Eldoret reprezintă motorul absolut al resuscitării industriei vestimentare din Kenya. Plasată în „orașul campionilor”, uriașa facilitate este deținută de Universitatea Moi, îmbinând producția comercială la scară masivă cu inovația academică. Echipată cu unele dintre cele mai moderne și robotizate utilaje de filare și țesut importate din Asia și Europa, Rivatex are misiunea de a reînvia piața bumbacului kenyan. Fabrica sprijină zeci de mii de mici fermieri din zone calde, cumpărându-le bumbacul și procesându-l în țesături pentru export, uniforme și modă națională.",
+      hu: "Az Eldoret Textile Mills, közismert nevén a Rivatex, a kenyai textilipar egyik legfontosabb sikertörténete az elmúlt években. Bár a gyár hosszú évekre leállt, a Moi Egyetem és a kenyai kormány megmentette, és mára Kelet-Afrika egyik legmodernebb textil- és ruházati üzemévé fejlesztette. A gyár jelentős szerepet játszik a \"Vásárolj Kenyait, Építsd Kenyát\" (Buy Kenya, Build Kenya) kampányban: itt készítik a rendőrség, a hadsereg egyenruháit, valamint rengeteg hazai pamutruházatot, fellendítve ezzel a régió gyapottermelését is. (Földrajz K7 — pamutipar és újjáélesztés)",
+      ro: "Fabrica Textilă Rivatex din Eldoret reprezintă motorul absolut al resuscitării industriei vestimentare din Kenya. Plasată în \"orașul campionilor\", uriașa facilitate este deținută de Universitatea Moi, îmbinând producția comercială la scară masivă cu inovația academică. Echipată cu unele dintre cele mai moderne și robotizate utilaje de filare și țesut importate din Asia și Europa, Rivatex are misiunea de a reînvia piața bumbacului kenyan. Fabrica sprijină zeci de mii de mici fermieri din zone calde, cumpărându-le bumbacul și procesându-l în țesături pentru export, uniforme și modă națională.",
       en: "The Eldoret Textile Mills, universally known as Rivatex, represents a colossal attempt at industrializing western Kenya through cotton value addition. Established in 1975, the massive facility was designed to spin, weave, and dye raw cotton sourced from the Kerio Valley and Nyanza regions into finished textiles. At its peak, it was a dominant force in the regional garment industry, employing thousands. Following a period of severe mismanagement and collapse in the 1990s, the factory was remarkably rescued when Moi University acquired it in 2007. Bolstered by massive recent investments, particularly from the Indian government, Rivatex has been comprehensively modernized with state-of-the-art looming machinery. Today, it stands as a unique, successful hybrid of a commercial manufacturing powerhouse and a university research and training facility. Economics K8 — Textile manufacturing and industrial revival."
     },
     factsAdvanced: {
@@ -444,8 +433,7 @@ export const poiExtraKenyaEconomicV2: POI[] = [
       de: ["Rivatex wurde 1975 als Kenias größte vertikal integrierte Textilfabrik in Eldoret gegründet.", "Die Fabrik ging Ende der 1990er Jahre durch die Konkurrenz von Second-Hand-Kleidung bankrott.", "Die Moi University kaufte die Ruine 2007 auf und verwandelte sie in eine Lehr- und Produktionsstätte.", "Durch indische Kredite im Wert von Millionen Dollar wurde die Anlage 2019 hochmodernisiert.", "Rivatex stellt unter anderem die offiziellen Uniformen für Kenias Polizei und Militär her.", "Die Wiederbelebung der Anlage zielt darauf ab, Tausende von Baumwollbauern zu unterstützen."],
       hu: ["Eldoret legnagyobb textilipari központja, a Rivatex East Africa Limited", "A Moi Egyetem irányítása alatt áll, egyben innovációs kutatóközpont", "Állami támogatással modernizálták, jelenleg a legfejlettebb ilyen üzem Kenyában", "Célja a kenyai pamutágazat (gyapottermesztés) újraélesztése", "A nemzeti rendfenntartó erők egyenruháinak elsődleges gyártója", "Több ezer helyi fiatal számára biztosít stabil ipari munkahelyet"],
       ro: ["Rivatex a fost fondată în anul 1975 înainte de a colapsa și a fi cumpărată de stat.", "Universitatea Moi a preluat facilitatea în anul 2007 pentru a o transforma într-un centru de cercetare.", "Procesează bumbac provenit cu precădere din județele calde Baringo și Elgeyo Marakwet.", "A beneficiat recent de o injecție financiară majoră de la statul indian pentru noi linii de asamblare.", "Compania livrează uniforme pentru o mare parte din armata, poliția și spitalele kenyene.", "Complexul operează ecologic, cu stații masive de filtrare și reciclare a apelor reziduale chimice."]
-    }
-  },
+    },
     description: {
       de: "Eine wiederbelebte Textilfabrik, die zur Schaffung von Arbeitsplätzen in der Textil- und Bekleidungsindustrie beiträgt.",
       hu: "Újjáélesztett textilgyár, amely hozzájárul a munkahelyteremtéshez a textil- és ruházati iparban.",
@@ -468,22 +456,21 @@ export const poiExtraKenyaEconomicV2: POI[] = [
       hu: "Turkana Olajmezők (Ngamia)",
       ro: "Câmpurile Petroliere Turkana (Ngamia)",
       en: "Turkana Oil Fields (Ngamia)"
-    ,
+    },
     descriptionAdvanced: {
       de: "Die Lokichar-Ölfelder im Turkana County haben das Potenzial, Kenias wirtschaftliche Zukunft dramatisch zu verändern. Im Jahr 2012 machte das britische Unternehmen Tullow Oil im South Lokichar Becken (Ngamia-1) den allerersten kommerziellen Erdölfund in der Geschichte Kenias. Es wird geschätzt, dass die Region über Hunderte Millionen Barrel an förderbaren Ölreserven verfügt. Der Fund löste eine massive Welle an Infrastrukturplanungen aus, darunter das LAPSSET-Projekt und eine geplante beheizte Pipeline von Turkana zum Hafen in Lamu. Obwohl der Transport des extrem wachsartigen Öls (das bei Raumtemperatur fest wird) technische Herausforderungen birgt und die globalen Ölpreise das Projekt verzögert haben, bleibt es Kenias größte Hoffnung auf den Status eines Ölexporteurs (Wirtschaft & Geografie K8).",
       hu: "A Turkana Olajmezők (különösen a Ngamia blokk) Kenya legújabb és legnagyobb hatású erőforrás-felfedezései közé tartoznak. A rendkívül száraz és izolált Észak-Kenyai hasadékvölgyben 2012-ben találták meg az első kereskedelmi mennyiségű kőolajat. Ez a felfedezés teljesen átírhatja az ország gazdaságát. Jelenleg a kitermelt nyersolajat különleges fűtött tartálykocsikban szállítják Mombasába a teszt-fázis részeként, miközben gőzerővel tervezik a LAPSSET korridor olajvezetékének megépítését az óceánig. (Földrajz K8 — nyersolaj feltárás és új iparágak)",
-      ro: "Câmpurile Petrolifere din Bazinul Lokichar, aflate în sudul deșertului Turkana, reprezintă viitorul industriei energetice extractive din Kenya. Odată cu forarea istorică a primelor sonde reușite de către Tullow Oil în 2012, regiunea aridă a intrat într-o eră a așteptărilor privind petrodolarii. Descoperirea a peste o jumătate de miliard de barili de țiței, cunoscut pentru vâscozitatea sa de tip „ceară” (waxy), a propulsat proiecte uriașe, cum ar fi modernizarea rafinăriilor de la coastă și planurile îndrăznețe ale unei viitoare conducte petroliere de 800 de kilometri care va lega regiunea nomadă direct de terminalele oceanice de la Lamu.",
+      ro: "Câmpurile Petrolifere din Bazinul Lokichar, aflate în sudul deșertului Turkana, reprezintă viitorul industriei energetice extractive din Kenya. Odată cu forarea istorică a primelor sonde reușite de către Tullow Oil în 2012, regiunea aridă a intrat într-o eră a așteptărilor privind petrodolarii. Descoperirea a peste o jumătate de miliard de barili de țiței, cunoscut pentru vâscozitatea sa de tip \"ceară\" (waxy), a propulsat proiecte uriașe, cum ar fi modernizarea rafinăriilor de la coastă și planurile îndrăznețe ale unei viitoare conducte petroliere de 800 de kilometri care va lega regiunea nomadă direct de terminalele oceanice de la Lamu.",
       en: "The Turkana Oil Fields, centered around the massive Ngamia-1 discovery site in the South Lokichar Basin, represent the volatile frontier of Kenya's fossil fuel economy. Discovered in 2012 by the British exploration firm Tullow Oil, these deep reserves marked the first time commercially viable crude oil was found in Kenya. The extraction occurs in a punishingly hot, hyper-arid desert environment characterized by acacia scrub and deep subterranean rift faulting. The project famously initiated the Early Oil Pilot Scheme in 2018, trucking heated, waxy crude over 1,000 kilometers to Mombasa for export. While promising immense national wealth, the project is highly complex, requiring heated pipelines due to the crude's high wax content, and navigating sensitive community dynamics regarding land and resource revenue sharing. Earth Sciences K8 — Fossil fuel extraction and rift basins."
     },
     factsAdvanced: {
       en: ["Commercially viable oil was first discovered at the Ngamia-1 well in 2012.", "Located in the deep, geologically active South Lokichar Basin of the Rift Valley.", "Exploration and extraction are primarily led by the British firm Tullow Oil.", "The crude oil here is highly waxy, requiring heating to remain liquid during transport.", "The Early Oil Pilot Scheme (EOPS) began trucking crude to Mombasa in 2018.", "Estimated recoverable reserves in the basin exceed 560 million barrels.", "Plans include constructing an 825-kilometer heated pipeline to the Lamu Port."]
     },
     factsAdvanced: {
-      de: ["Der erste historische Ölfund in Kenia erfolgte 2012 durch Tullow Oil im Turkana County.", "Das South Lokichar Becken birgt geschätzte Reserven von über 500 Millionen Barrel.", "Das kenianische Öl ist extrem wachsartig und erfordert eine beheizte Pipeline für den Transport.", "Im Jahr 2019 startete Kenia das „Early Oil Pilot Scheme“ und exportierte erstmals Rohöl.", "Die geplante Ölpipeline soll über 800 Kilometer vom Turkana-Becken bis zum Hafen Lamu verlaufen.", "Die Entwicklung der Ölfelder ist stark von schwankenden globalen Ölpreisen abhängig."],
+      de: ["Der erste historische Ölfund in Kenia erfolgte 2012 durch Tullow Oil im Turkana County.", "Das South Lokichar Becken birgt geschätzte Reserven von über 500 Millionen Barrel.", "Das kenianische Öl ist extrem wachsartig und erfordert eine beheizte Pipeline für den Transport.", "Im Jahr 2019 startete Kenia das \"Early Oil Pilot Scheme\" und exportierte erstmals Rohöl.", "Die geplante Ölpipeline soll über 800 Kilometer vom Turkana-Becken bis zum Hafen Lamu verlaufen.", "Die Entwicklung der Ölfelder ist stark von schwankenden globalen Ölpreisen abhängig."],
       hu: ["Kenya első kereskedelmileg életképes kőolaj-felfedezésének helyszíne", "Az első sikeres fúrást, a Ngamia-1-et a brit Tullow Oil végezte 2012-ben", "A becsült készlet meghaladja a félmilliárd hordó nyersolajat", "A kitermelt olaj különösen viaszos, ezért folyamatos melegítést igényel a szállításhoz", "A terület a nomád turkana közösségek évszázados legelőin található", "Kulcsfontosságú eleme a tervezet Lamu-kikötői olajvezetéknek (LAPSSET)"],
-      ro: ["Sonda Ngamia-1 a fost prima care a confirmat depozite viabile comercial în Kenya în 2012.", "Țițeiul din Turkana este de o natură extrem de cleioasă, necesitând conducte termic încălzite pentru a fi transportat.", "Se estimează existența a aproximativ 560 de milioane de barili reciclabili.", "Kenya a început deja „schema pilot timpurie” de export folosind transportul rutier cu cisterne spre coastă.", "Zona era înainte de descoperire una dintre cele mai sărace și neglijate regiuni ale țării.", "Proiectul atrage de asemenea îngrijorări privind echilibrul delicat al habitatelor pastorale nomade."]
-    }
-  },
+      ro: ["Sonda Ngamia-1 a fost prima care a confirmat depozite viabile comercial în Kenya în 2012.", "Țițeiul din Turkana este de o natură extrem de cleioasă, necesitând conducte termic încălzite pentru a fi transportat.", "Se estimează existența a aproximativ 560 de milioane de barili reciclabili.", "Kenya a început deja \"schema pilot timpurie\" de export folosind transportul rutier cu cisterne spre coastă.", "Zona era înainte de descoperire una dintre cele mai sărace și neglijate regiuni ale țării.", "Proiectul atrage de asemenea îngrijorări privind echilibrul delicat al habitatelor pastorale nomade."]
+    },
     description: {
       de: "Die ersten kommerziellen Ölfunde in Kenia, die das Potenzial haben, die Wirtschaft des Landes zu verändern.",
       hu: "Kenya első kereskedelmi olajleletei, amelyek megváltoztathatják az ország gazdaságát.",
@@ -507,7 +494,7 @@ export const poiExtraKenyaEconomicV2: POI[] = [
       hu: "Kwale Titánbánya",
       ro: "Mina de Titan Kwale",
       en: "Kwale Titanium Mine"
-    ,
+    },
     descriptionAdvanced: {
       de: "Die Base Titanium Mine im Kwale County ist Kenias größtes Bergbauprojekt und hat den nationalen Bergbausektor auf die globale Landkarte gesetzt. Betrieben von der australischen Base Resources, fördert die Anlage seit 2013 massiv mineralhaltige Sande (Mineralsande) ab. Zu den gewonnenen Produkten gehören Ilmenit, Rutil (verwendet für weiße Pigmente) und Zirkon, die zu 100 % in Märkte wie China, Europa und Nordamerika exportiert werden. Das Projekt trägt erheblich zum kenianischen Exportvolumen und den Steuereinnahmen bei. Die Anlage verfügt über eine eigene, speziell errichtete Schiffsverladeanlage in Likoni. Trotz enormer wirtschaftlicher Gewinne muss das Unternehmen strengen Umweltauflagen zur Renaturierung der abgebauten Gebiete folgen, da der Abbau die Küstenvegetation stark beeinflusst (Wirtschaft & Biologie K8).",
       hu: "A Kwale Titánbánya, amelyet a Base Titanium üzemeltet, Kenya bányászati szektorának egyik legjövedelmezőbb projektje az Indiai-óceán partvidékének közelében. A hatalmas, felszíni homokbányában olyan ritkaföldfémeket és nehézásványokat bányásznak, mint a rutil, az ilmenit és a cirkon, amelyeket globálisan pigmentek, repülőgép-alkatrészek és kerámiák gyártásához használnak. A kitermelt homokot Likoniba szállítják, ahonnan azonnal hajókra rakják. A bánya jelentős exportbevételt generál Kenyának. (Földrajz K8 — ritkaföldfémek és export-bányászat)",
@@ -521,8 +508,7 @@ export const poiExtraKenyaEconomicV2: POI[] = [
       de: ["Die Kwale-Mine ist Kenias größtes und lukrativstes Bergbauprojekt (gestartet 2013).", "Die Anlage fördert Mineralsande, primär Ilmenit, Rutil und Zirkon.", "Die abgebauten Mineralien werden weltweit zur Herstellung von weißen Pigmenten und Keramik genutzt.", "Das Projekt trägt über 60 Prozent zum gesamten Exportwert des kenianischen Bergbausektors bei.", "Die Mine verfügt über eine eigene Schiffsverladeanlage südlich von Mombasa in Likoni.", "Base Titanium betreibt umfangreiche Baumschulen, um das Land nach dem Abbau zu renaturieren."],
       hu: ["Kenya legnagyobb bányászati beruházása a parti régióban", "Az ausztrál tulajdonú Base Titanium vállalat irányítja", "Rutil, ilmenit és cirkon ásványokat nyernek ki a tengerparti homokdűnékből", "Az ország teljes ásványi exportbevételének több mint 60%-át adja", "A bányászat sekély felszíni fejtéssel és vizes kotrással történik", "A végterméket többnyire Kínába, az USA-ba és Európába exportálják"],
       ro: ["Mina a generat la un moment dat mai mult de jumătate din valoarea totală a mineritului din Kenya.", "Ilmenitul și rutilul extras sunt elemente critice pentru producerea pigmenților de vopsea și metalului pentru rachete.", "S-a deschis comercial în 2013 după investiții inițiale de sute de milioane de dolari.", "Folosește tehnologia hidraulică de ultimă generație pentru a scoate mineralele din dune fără excavație tradițională.", "Are o durată de viață a minei care este proiectată să se termine când rezervele se vor epuiza complet.", "Dispune de propriile conducte, baraj de apă, rețea electrică dedicată și șosele."]
-    }
-  },
+    },
     description: {
       de: "Ein großes Bergbauprojekt für Mineralsande an der kenianischen Küste, das Rutil, Ilmenit und Zirkon produziert.",
       hu: "Egy nagy ásványihomok-bányászati projekt a kenyai tengerparton, amely rutilt, ilmenitet és cirkont termel.",
@@ -545,7 +531,7 @@ export const poiExtraKenyaEconomicV2: POI[] = [
       hu: "Machakos Exportfeldolgozó Zóna",
       ro: "Zona de Procesare a Exportului Machakos",
       en: "Machakos Export Processing Zone"
-    ,
+    },
     descriptionAdvanced: {
       de: "Die Export Processing Zone (EPZ) in Machakos ist eng mit dem Boom von Athi River verknüpft, erstreckt sich aber weiter in das administrative Gebiet des Machakos Countys. Diese Industriezone ist gezielt darauf ausgelegt, Leichtindustrie, Lederverarbeitung und Agrarverarbeitung für den weltweiten Exportmarkt anzuziehen. Durch die Bereitstellung von schlüsselfertigen Werkshallen, zuverlässiger Strom- und Wasserversorgung sowie steuerfreien Anreizen hat das County ausländische Direktinvestitionen in Millionenhöhe gesichert. Die Machakos EPZ ist ein Katalysator für Beschäftigung in der halbtrockenen Region und integriert zunehmend lokale Landwirte in die globalen Lieferketten, indem sie Produkte wie Fruchtpürees und Nüsse direkt in der Zone verarbeitet, bevor sie verschifft werden (Wirtschaft K7).",
       hu: "A Machakos Exportfeldolgozó Övezet (EPZ) Nairobi vonzáskörzetének egy másik jelentős ipari zónája, amely az Athi River EPZ testvérprojektjeként jött létre. Célja, hogy adókedvezményekkel és kiépített infrastruktúrával vonzza a külföldi befektetőket a könnyűipar és a feldolgozóipar területére. Különösen a bőr- és lábbeligyártás, a kozmetikumok és a szerelésigényes elektronika gyártása van jelen. A zóna közelsége az új SGR vasúthoz jelentősen csökkenti az exportköltségeket Mombasa kikötője felé. (Földrajz K7 — különleges gazdasági övezetek)",
@@ -559,8 +545,7 @@ export const poiExtraKenyaEconomicV2: POI[] = [
       de: ["Die Machakos EPZ ist auf Leichtindustrie und Agrarverarbeitung für den Export spezialisiert.", "Sie profitiert massiv von der Nähe zum Jomo Kenyatta International Airport (JKIA).", "Die Zone bietet Investoren eine bis zu 10-jährige Steuerbefreiung (Corporate Tax Holiday).", "Die Textilproduktion dominiert auch hier die Exporte in den US-amerikanischen Markt (AGOA).", "Die EPZ hat maßgeblich zur rasanten Urbanisierung des westlichen Machakos Countys beigetragen.", "Infrastrukturell wird die Zone direkt von der Export Processing Zones Authority verwaltet."],
       hu: ["A kenyai kormány által kijelölt különleges ipari adóparadicsom (EPZ)", "Nagy hangsúlyt fektet a munkaerő-igényes gyártásra, mint a cipő- és textilipar", "Jelentős indiai és ázsiai befektetői tőkével működnek az itteni gyárak", "A megtermelt árukat kötelezően exportálni kell a külföldi piacokra", "Sokezer helyi lakosnak biztosít közvetlen gyári munkahelyet", "Az Athi-folyó közelsége biztosítja a szükséges ipari vízellátást"],
       ro: ["Guvernatorul județului Machakos a inițiat primele zone economice private de aici în urmă cu un deceniu.", "Beneficiază de un climat secetos, protejând utilajele mari de coroziunea excesivă și umiditatea aerului.", "Zeci de companii de îmbrăcăminte beneficiază de importul materiilor prime fără taxe vamale.", "A generat investiții în orașul satelit și cartiere cu noi opțiuni de cazare (Mlolongo).", "Conectează sudul urbanizat al Nairobi-ului de restul județului rural printr-o rețea masivă de tiruri.", "Planurile guvernamentale vizate promit mărirea EPZ cu un sector destinat doar automobilelor."]
-    }
-  },
+    },
     description: {
       de: "Ein Industriezentrum in Machakos, das ausländische Investitionen in der Produktion und Agroindustrie anzieht.",
       hu: "Egy ipari központ Machakosban, amely vonzza a külföldi befektetéseket a termelés és az agráripar területén.",
@@ -583,11 +568,11 @@ export const poiExtraKenyaEconomicV2: POI[] = [
       hu: "Kericho Teagyárak",
       ro: "Fabricile de Ceai din Kericho",
       en: "Kericho Tea Factories"
-    ,
+    },
     descriptionAdvanced: {
       de: "Die Teefabriken von Kericho bilden den hochindustrialisierten Kern des weltberühmten kenianischen Teesektors. In und um Kericho operieren gigantische Verarbeitungsanlagen, die multinationalen Konzernen (wie James Finlay und Unilever/Ekaterra) sowie lokalen Kleinbauern-Genossenschaften (KTDA) gehören. Direkt nach dem Pflücken müssen die frischen, grünen Teeblätter innerhalb weniger Stunden in diesen Fabriken ankommen, um den Oxidationsprozess (Cut, Tear, Curl – CTC-Methode) zu durchlaufen. Die Fabriken laufen rund um die Uhr und trocknen, zerkleinern und verpacken den starken schwarzen Tee, der anschließend zur weltgrößten Teeauktion nach Mombasa transportiert wird. Diese hochoptimierten Industrieanlagen sind der Grund, warum Kenia der größte Exporteur von Schwarztee weltweit ist (Wirtschaft & Chemie K8).",
       hu: "Kericho megye teafeldolgozó gyárai – mind a multinacionális nagyvállalatok (mint a Finlays vagy a Lipton), mind a Kenyai Teafejlesztési Ügynökség (KTDA) szövetkezeti üzemei – Kenya agrárexportjának ütőerét jelentik. A környező végtelen ültetvényekről naponta több ezer tonna friss tealevelet szállítanak be a gyárakba, ahol azokat 24 órán belül megfonnyasztják, fermentálják, szárítják és osztályozzák. Az itt gyártott fekete CTC (Crush, Tear, Curl) tea a világ egyik legjobb minőségű teája, amely a mombasai teaukción cserél gazdát. (Földrajz K7 — globális élelmiszerpiac és teafeldolgozás)",
-      ro: "Salba de fabrici de prelucrare a ceaiului din jurul orașului Kericho reprezintă coloana vertebrală a economiei est-africane și inima brandului „Kenya Tea” pe plan mondial. Aflate în epicentrul județului cel mai ploios, zeci de mega-facilități industriale primesc non-stop camioane pline de frunze proaspăt culese de pe cele 100.000 de hectare înconjurătoare. Fabricile lucrează 24 de ore din 24, folosind procedee specifice „Crush, Tear, Curl” (CTC) pentru a fermenta și a usca ceaiul, creând faimoasa pulbere neagră care inundă apoi licitațiile maritime săptămânale de la bursa din Mombasa, cea mai mare de pe glob.",
+      ro: "Salba de fabrici de prelucrare a ceaiului din jurul orașului Kericho reprezintă coloana vertebrală a economiei est-africane și inima brandului \"Kenya Tea\" pe plan mondial. Aflate în epicentrul județului cel mai ploios, zeci de mega-facilități industriale primesc non-stop camioane pline de frunze proaspăt culese de pe cele 100.000 de hectare înconjurătoare. Fabricile lucrează 24 de ore din 24, folosind procedee specifice \"Crush, Tear, Curl\" (CTC) pentru a fermenta și a usca ceaiul, creând faimoasa pulbere neagră care inundă apoi licitațiile maritime săptămânale de la bursa din Mombasa, cea mai mare de pe glob.",
       en: "The Kericho Tea Factories represent a sprawling, highly integrated network of agro-industrial processing plants scattered across the high-altitude, exceptionally rainy landscape of the western Rift Valley. Established initially in the 1920s by massive British conglomerates, these facilities transform freshly plucked green tea leaves into 'crush, tear, curl' (CTC) black tea within hours of harvesting. The sheer scale of operations is staggering, forming the absolute backbone of Kenya's status as the world's leading exporter of black tea. Highly automated, the factories operate virtually year-round due to the region's unique lack of distinct dry seasons. The processed tea is subsequently auctioned at the massive Mombasa Tea Auction before being shipped globally. Economics K8 — Global export commodities."
     },
     factsAdvanced: {
@@ -597,8 +582,7 @@ export const poiExtraKenyaEconomicV2: POI[] = [
       de: ["Kerichos Teefabriken produzieren einen signifikanten Teil von Kenias wichtigstem Exportgut.", "Die kenianische Teeproduktion nutzt fast ausschließlich die hochgradig industrielle CTC-Methode.", "Unternehmen wie Unilever (Ekaterra) und Finlays betreiben hier riesige Verarbeitungsanlagen.", "Die Fabriken arbeiten eng mit der Kenya Tea Development Agency (KTDA) zusammen.", "Frische Teeblätter müssen innerhalb von maximal 24 Stunden verarbeitet und getrocknet werden.", "Ein Großteil des hier produzierten Tees wird auf der berühmten Teeauktion in Mombasa verkauft."],
       hu: ["Itt találhatók Kenya legmodernebb, automatizált teafeldolgozó üzemei", "Többségük CTC (zúzott-tépett-sodort) fekete teát állít elő az európai piacra", "A KTDA gyárak a helyi, apró kistermelők millióit fogják össze", "A gyárak energiaigényét sok esetben saját mini-vízerőművekkel fedezik", "A feldolgozás során sosem használnak mesterséges színezéket vagy aromát", "Kenya a világ harmadik legnagyobb teaexportőre, nagyrészt e régiónak köszönhetően"],
       ro: ["Sute de tone metrice de ceai părăsesc Kericho zilnic în camioane de mare tonaj.", "Multinaționale de marcă prelucrează cantități enorme din care mii de branduri britanice își creează blendurile.", "Aproximativ jumătate de milion de localnici depind direct sau indirect de venitul din acest sector exclusiv.", "Fabricile sunt capabile de prelucrare a frunzelor verzi în doar 24 de ore de la culegerea manuală.", "Kenyația este de zeci de ani exportatorul lider mondial de ceai exclusiv negru.", "Fiecare unitate industrială respectă rigorile ecologice utilizând copaci plantați local pentru încălzirea cuptoarelor."]
-    }
-  },
+    },
     description: {
       de: "Das Zentrum der kenianischen Teeverarbeitung, wo große Mengen an hochwertigem Tee für den Export verpackt werden.",
       hu: "A kenyai teafeldolgozás központja, ahol nagy mennyiségű, kiváló minőségű teát csomagolnak exportra.",
@@ -621,11 +605,11 @@ export const poiExtraKenyaEconomicV2: POI[] = [
       hu: "Turkana-tavi Szélpark",
       ro: "Parcul Eolian Lacul Turkana",
       en: "Lake Turkana Wind Power"
-    ,
+    },
     descriptionAdvanced: {
-      de: "Das Lake Turkana Wind Power Project (LTWP) ist der mit Abstand größte Windpark in ganz Afrika und ein Meisterwerk der Ingenieurskunst. Gelegen im extrem abgelegenen Loiyangalani-Distrikt am südöstlichen Ufer des Turkana-Sees, nutzt die Anlage den „Turkana Corridor Wind“ – einen beständigen und extrem starken Windstrom, der zwischen Mount Kulal und Mount Nyiru entsteht. Das 2019 offiziell eröffnete Megaprojekt besteht aus 365 riesigen Windkraftanlagen, die bis zu 310 Megawatt sauberen Strom erzeugen (etwa 15 % der kenianischen Netzkapazität). Das Projekt erforderte den Bau einer über 400 Kilometer langen Übertragungsleitung bis in das nationale Stromnetz und symbolisiert Kenias global führende Rolle im Bereich der erneuerbaren Energien (Physik & Geografie K8).",
+      de: "Das Lake Turkana Wind Power Project (LTWP) ist der mit Abstand größte Windpark in ganz Afrika und ein Meisterwerk der Ingenieurskunst. Gelegen im extrem abgelegenen Loiyangalani-Distrikt am südöstlichen Ufer des Turkana-Sees, nutzt die Anlage den \"Turkana Corridor Wind\" – einen beständigen und extrem starken Windstrom, der zwischen Mount Kulal und Mount Nyiru entsteht. Das 2019 offiziell eröffnete Megaprojekt besteht aus 365 riesigen Windkraftanlagen, die bis zu 310 Megawatt sauberen Strom erzeugen (etwa 15 % der kenianischen Netzkapazität). Das Projekt erforderte den Bau einer über 400 Kilometer langen Übertragungsleitung bis in das nationale Stromnetz und symbolisiert Kenias global führende Rolle im Bereich der erneuerbaren Energien (Physik & Geografie K8).",
       hu: "A Turkana-tó Szélerőmű (LTWP) Afrika legnagyobb szélenergia-projektje, amely kihasználja a Loiyangalani környékén fújó állandó, viharos erejű szelet – a Turkana-csatorna-hatást. A sivatagos, kietlen vidéken több mint 300 hatalmas szélturbina áll, amelyek hatalmas mennyiségű tiszta energiát termelnek. A projekt 2019-es indulása óta egy 400 kilométeres magasfeszültségű távvezeték köti össze ezt az elzárt régiót a nemzeti hálózattal, mintegy 15%-kal növelve Kenya teljes energiatermelését zöld forrásból. (Földrajz K8 — szélenergia és extrém éghajlati jelenségek)",
-      ro: "Parcul Eolian Lacul Turkana este cel mai extins și spectaculos proiect de generare a energiei eoliene de pe continentul african. Construit într-un deșert arid pe coridorul faimosului vânt „Turkana jet”, acest proiect monumental aliniază peste 300 de turbine uriașe pe o suprafață enormă aflată la marginea estică a lacului. Acestea transformă vânturile extrem de puternice și previzibile din zonă într-o injecție vitală de 310 megawați în rețeaua electrică kenyană, salvând țara de nevoia centralelor termice. Construit prin eforturi internaționale epice de inginerie, parcul este astăzi simbolul tranziției „verzi” ireversibile din Africa de Est.",
+      ro: "Parcul Eolian Lacul Turkana este cel mai extins și spectaculos proiect de generare a energiei eoliene de pe continentul african. Construit într-un deșert arid pe coridorul faimosului vânt \"Turkana jet\", acest proiect monumental aliniază peste 300 de turbine uriașe pe o suprafață enormă aflată la marginea estică a lacului. Acestea transformă vânturile extrem de puternice și previzibile din zonă într-o injecție vitală de 310 megawați în rețeaua electrică kenyană, salvând țara de nevoia centralelor termice. Construit prin eforturi internaționale epice de inginerie, parcul este astăzi simbolul tranziției \"verzi\" ireversibile din Africa de Est.",
       en: "The Lake Turkana Wind Power project is an awe-inspiring, colossal renewable energy installation located in the remote, hyper-arid Loiyangalani district of Marsabit County. Completed in 2019, it is the absolute largest wind farm on the entire African continent, featuring 365 massive turbines scattered across a stark, rocky desert landscape. The specific location is a geographical marvel; the Turkana Corridor acts as a massive natural wind tunnel, channeling the low-level jet stream to provide extraordinarily consistent, high-speed winds year-round. Connecting this remote megaproject to the national grid required the construction of a massive 428-kilometer high-voltage transmission line. The facility single-handedly boosted Kenya's renewable energy capacity, providing roughly 17% of the nation's total power output. Earth Sciences K8 — Wind corridors and renewable energy."
     },
     factsAdvanced: {
@@ -635,8 +619,7 @@ export const poiExtraKenyaEconomicV2: POI[] = [
       de: ["Das Lake Turkana Wind Power Project ist der größte Windpark auf dem afrikanischen Kontinent.", "Die Anlage besteht aus 365 Windkraftanlagen mit einer Gesamtkapazität von 310 Megawatt.", "Der Standort wurde aufgrund der extrem konstanten, tunnelartigen Winde (Low-Level Jet) gewählt.", "Eine 428 Kilometer lange Hochspannungsleitung verbindet das Kraftwerk mit dem nationalen Netz.", "Das Projekt liefert etwa 15 Prozent des gesamten kenianischen Strombedarfs.", "Die Bauteile mussten in riesigen Konvois über 1.200 km vom Hafen Mombasa transportiert werden."],
       hu: ["A szubszaharai Afrika legnagyobb telepített szélerőmű-parkja", "365 darab, egyenként 850 kW teljesítményű Vestas turbinából áll", "Kihasználja a Turkana-tó és a hegyek közötti szélcsatorna egyedi, erős szeleit", "Kapacitása 310 megawatt, amely a nemzeti hálózat alapvető pillére lett", "Közvetlen külföldi befektetéssel (FDI) épült fel, megváltoztatva az északi régiót", "Több száz kilométeres új utat építettek a sivatagban a turbinák szállításához"],
       ro: ["Include 365 de turbine eoliene masive interconectate printr-o rețea uriașă de cabluri ascunse.", "Parcul generază o cantitate de energie ce acoperă anual circa 17% din necesarul național al Kenyei.", "Costurile s-au ridicat la aproximativ 680 de milioane de euro, făcându-l cel mai mare proiect privat.", "Vânturile de la capătul sud-estic al lacului bat cu viteze medii regulate excepționale (peste 11 m/s).", "A necesitat refacerea a 200 de kilometri de drumuri prăfuite pentru a putea transporta elicele titanice.", "Proiectul are o garanție de durabilitate contractuală de minim un sfert de secol de utilizare non-stop."]
-    }
-  },
+    },
     description: {
       de: "Das größte Windkraftprojekt in Afrika, das saubere Energie in das nationale Stromnetz Kenias einspeist.",
       hu: "Afrika legnagyobb szélenergia-projektje, amely tiszta energiát táplál be a kenyai nemzeti hálózatba.",
@@ -659,14 +642,13 @@ export const poiExtraKenyaEconomicV2: POI[] = [
       hu: "Naivasha Virágfarmok (Feldolgozó üzemek)",
       ro: "Fermele de Flori din Naivasha (Facilități de procesare)",
       en: "Naivasha Flower Farms (Processing Facilities)"
-    ,
+    },
     descriptionAdvanced: {
       en: "The Naivasha Flower Farms represent a massive, multi-billion-shilling high-tech agro-industrial zone clustering tightly around the freshwater shores of Lake Naivasha. Originating in the 1980s, the area has grown into the undisputed epicenter of Kenya's floriculture exports, specializing in premium cut roses and carnations. The landscape is dominated by hundreds of hectares of massive, climate-controlled greenhouses drawing intensive irrigation from the lake and local boreholes. The supply chain operates with frantic, highly synchronized precision; flowers are cut, chemically treated, cold-stored, and trucked daily to Jomo Kenyatta International Airport for immediate overnight airfreight to European auctions. The industry is a massive employer, drawing thousands of migrant laborers to the rapidly expanding Naivasha urban center. Economics K8 — Precision agriculture and airfreight."
     },
     factsAdvanced: {
       en: ["The absolute epicenter of Kenya's highly lucrative export floriculture industry.", "The industry exploded in the 1980s around the freshwater resources of Lake Naivasha.", "Specializes heavily in the intensive greenhouse cultivation of premium roses.", "Relies heavily on highly synchronized, cold-chain airfreight logistics to Europe.", "The farms directly and indirectly employ tens of thousands of migrant laborers.", "Draws massive amounts of irrigation water from the lake and deep boreholes.", "Many farms utilize nearby geothermal energy to regulate greenhouse temperatures."]
-    }
-  },
+    },
     description: {
       de: "Große Gewächshäuser und Verarbeitungsanlagen, die Kenia zu einem der weltweit führenden Exporteure von Schnittblumen machen.",
       hu: "Nagy üvegházak és feldolgozó létesítmények, amelyek Kenyát a világ egyik vezető vágottvirág-exportőrévé teszik.",
@@ -702,14 +684,13 @@ export const poiExtraKenyaEconomicV2: POI[] = [
       hu: "Nairobi Ipari Terület",
       ro: "Zona Industrială Nairobi",
       en: "Nairobi Industrial Area"
-    ,
+    },
     descriptionAdvanced: {
       en: "The Nairobi Industrial Area is a sprawling, densely packed manufacturing and logistics zone established in the mid-20th century southeast of the city's central business district. Historically anchored by the railway line, it served as the original engine for Kenya's post-independence industrialization. Today, it remains a colossal, chaotic hub hosting hundreds of diverse factories ranging from heavy steel fabrication and automotive assembly to food processing, packaging, and massive FMCG (Fast-Moving Consumer Goods) distribution warehouses. Characterized by heavy truck traffic, intense pollution, and aging infrastructure, the zone is the gritty, beating heart of the national supply chain. Despite the emergence of newer, cleaner industrial parks on the city's outskirts, the sheer density and historical entrenchment of businesses here keep it economically dominant. Economics K7 — Urban manufacturing clusters."
     },
     factsAdvanced: {
       en: ["The oldest and largest concentrated manufacturing zone in East Africa.", "Historically developed along the primary railway line exiting Nairobi.", "Hosts hundreds of diverse factories including steel, plastics, and food processing.", "Serves as the primary national distribution hub for Fast-Moving Consumer Goods (FMCG).", "Characterized by extremely heavy freight truck traffic and aging road infrastructure.", "Borders the massive Mukuru slums, which provide a vast pool of industrial labor.", "Many legacy industries are relocating to newer zones like Tatu City and Athi River."]
-    }
-  },
+    },
     description: {
       de: "Das größte Produktionszentrum Kenias, in dem eine breite Palette von Konsumgütern und Baumaterialien hergestellt wird.",
       hu: "Kenya legnagyobb termelési központja, ahol a fogyasztási cikkek és építőanyagok széles skáláját gyártják.",
@@ -744,14 +725,13 @@ export const poiExtraKenyaEconomicV2: POI[] = [
       hu: "Tatu City Ipari Park",
       ro: "Parcul Industrial Tatu City",
       en: "Tatu City Industrial Park"
-    ,
+    },
     descriptionAdvanced: {
       en: "The Tatu City Industrial Park is a massive, highly structured Special Economic Zone (SEZ) located in Kiambu County, representing the modern, master-planned future of Kenyan manufacturing. Situated on 5,000 acres of former coffee plantations, this multi-billion-dollar private development sharply contrasts with the chaotic congestion of Nairobi's legacy Industrial Area. Featuring pristine, wide boulevards, dedicated high-capacity power sub-stations, and integrated residential zones, it has rapidly attracted massive multinational corporations, including coffee roasters, beverage bottlers, and light manufacturing firms. Because of its SEZ status, operating companies benefit from significant tax holidays and streamlined bureaucratic processes. The park explicitly aims to decentralize industrial growth away from Nairobi, providing a sanitized, highly efficient logistical environment. Economics K8 — Master-planned economic zones."
     },
     factsAdvanced: {
       en: ["A 5,000-acre master-planned private city and Special Economic Zone (SEZ).", "Built on vast tracts of former colonial coffee estates in Kiambu County.", "Designed to provide a highly organized, congestion-free alternative to Nairobi.", "Offers massive corporate tax incentives and streamlined customs for operating firms.", "Hosts major multinational facilities including massive coffee roasting plants.", "Features completely independent, high-capacity water and power infrastructure.", "Integrates high-end residential housing directly alongside the industrial parks."]
-    }
-  },
+    },
     description: {
       de: "Eine hochmoderne Sonderwirtschaftszone in der Nähe von Nairobi, die große internationale Produktionsunternehmen beherbergt.",
       hu: "Egy ultramodern különleges gazdasági övezet Nairobi közelében, amely nagy nemzetközi gyártóvállalatoknak ad otthont.",
@@ -773,7 +753,7 @@ export const poiExtraKenyaEconomicV2: POI[] = [
     factsAdvanced: {
       de: [],
       hu: ["Közép- és Kelet-Afrika legnagyobb magántőkéből finanszírozott okosvárosa", "Speciális Különleges Gazdasági Övezet (SEZ) adókedvezményekkel", "Független infrastruktúrával (áram, víz, csatorna) rendelkezik", "Nairobitól mintegy 24 kilométerre, a Thika-autópálya közelében fekszik", "Több tucat multinacionális vállalat helyezte ide kelet-afrikai központját", "A lakóövezetek és az ipari zónák szigorúan elkülönítettek"],
-      ro: ["Investiția face parte dintr-un megaproiect imobiliar de oraș inteligent privat de peste 2.000 de hectare.", "Găzduiește giganticele prăjitorii avansate aparținând companiei celebre de cafea „Dormans”.", "Oferă drumuri proprii, instalații separate de stocare solară de energie și sisteme moderne ecologice.", "Peste o sută de companii multinaționale și locale și-au instalat operațiunile comerciale aici.", "Este declarat Zona Economică Specială (SEZ), beneficiind de avantaje masive de impozite corporative pe zece ani.", "Acoperă un gol masiv în producția și exportul neafectat de corupția și traficul greoi."],
+      ro: ["Investiția face parte dintr-un megaproiect imobiliar de oraș inteligent privat de peste 2.000 de hectare.", "Găzduiește giganticele prăjitorii avansate aparținând companiei celebre de cafea \"Dormans\".", "Oferă drumuri proprii, instalații separate de stocare solară de energie și sisteme moderne ecologice.", "Peste o sută de companii multinaționale și locale și-au instalat operațiunile comerciale aici.", "Este declarat Zona Economică Specială (SEZ), beneficiind de avantaje masive de impozite corporative pe zece ani.", "Acoperă un gol masiv în producția și exportul neafectat de corupția și traficul greoi."],
       en: []
     }, image: "/poi-images/tatu-city-industrial-park-economic-v2.webp"},
   {
@@ -786,14 +766,13 @@ export const poiExtraKenyaEconomicV2: POI[] = [
       hu: "Mombasa Olajfinomító (KPRL)",
       ro: "Rafinăria de Petrol Mombasa (KPRL)",
       en: "Mombasa Oil Refinery (KPRL)"
-    ,
+    },
     descriptionAdvanced: {
       en: "The Mombasa Oil Refinery, officially the Kenya Petroleum Refineries Limited (KPRL), is a massive, historically critical industrial complex located in the Changamwe area. Commissioned in 1963, it was originally designed to process crude oil imported from the Middle East into diverse petroleum products for the entire East African region. For decades, its massive distillation columns and storage tanks formed the absolute core of the regional energy supply chain. However, plagued by crippling inefficiencies, outdated technology, and an inability to process crude profitably compared to direct imports of refined fuel, the refinery dramatically ceased operations in 2013. Today, the colossal, silent infrastructure has been repurposed exclusively as a strategic storage terminal for imported refined petroleum products. Economics K8 — Legacy infrastructure and energy imports."
     },
     factsAdvanced: {
       en: ["Originally commissioned in 1963 to process imported crude oil.", "Located in the heavily industrialized Changamwe district of Mombasa.", "Historically supplied refined petroleum to Kenya, Uganda, Rwanda, and Burundi.", "Ceased all crude oil refining operations in 2013 due to severe inefficiencies.", "The massive facility is now utilized exclusively as a strategic fuel storage terminal.", "The state acquired full ownership after exiting a joint venture with Essar Energy.", "Connected directly to the massive pipeline network running to Nairobi."]
-    }
-  },
+    },
     description: {
       de: "Eine bedeutende Anlage, die früher Rohöl für den ostafrikanischen Markt raffinierte und nun als Lagerstätte dient.",
       hu: "Jelentős létesítmény, amely korábban nyersolajat finomított a kelet-afrikai piacra, jelenleg pedig tárolóként szolgál.",
@@ -815,7 +794,7 @@ export const poiExtraKenyaEconomicV2: POI[] = [
     factsAdvanced: {
       de: [],
       hu: ["Évtizedekig a régió egyetlen működő nyersolaj-finomítója volt", "1960-ban alapították a Shell és a BP közreműködésével", "A nyersolaj finomítása 2013-ban végleg leállt", "Jelenleg az ország legnagyobb stratégiai üzemanyag-tároló bázisa", "Közvetlen csővezetékes összeköttetése van Nairobibal (KPC Pipeline)", "Tervezik a finomító újraindítását a turkanai kőolaj-kitermelés miatt"],
-      ro: ["Complexul imens a fost inaugurat de gigantul internațional petrolier Shell-BP în anul 1963.", "Zeci de rezervoare mari albe domină portul interior, fiind folosite drept cel mai mare nod național de păstrare al motorinei.", "Rafinăria a oprit prelucrarea internă de țiței pe scară largă încă din toamna anului 2013 din pricina utilajelor extrem de învechite.", "Este vizată spre renovări strategice și conversii tehnice de import din cauza producțiilor masive naționale de petrol din nord.", "Este interconectată direct cu conducta de petrol națională faimoasă sub denumirea de Linia 1 a companiei „KPC”.", "Proiectul „Early Oil Pilot” al Tullow Oil din deșert a transportat primele loturi de test chiar la rezervoarele acestui fost complex rafinor."],
+      ro: ["Complexul imens a fost inaugurat de gigantul internațional petrolier Shell-BP în anul 1963.", "Zeci de rezervoare mari albe domină portul interior, fiind folosite drept cel mai mare nod național de păstrare al motorinei.", "Rafinăria a oprit prelucrarea internă de țiței pe scară largă încă din toamna anului 2013 din pricina utilajelor extrem de învechite.", "Este vizată spre renovări strategice și conversii tehnice de import din cauza producțiilor masive naționale de petrol din nord.", "Este interconectată direct cu conducta de petrol națională faimoasă sub denumirea de Linia 1 a companiei \"KPC\".", "Proiectul \"Early Oil Pilot\" al Tullow Oil din deșert a transportat primele loturi de test chiar la rezervoarele acestui fost complex rafinor."],
       en: []
     }
   },
@@ -829,14 +808,13 @@ export const poiExtraKenyaEconomicV2: POI[] = [
       hu: "Nzoia Cukorgyár",
       ro: "Fabrica de Zahăr Nzoia",
       en: "Nzoia Sugar Company"
-    ,
+    },
     descriptionAdvanced: {
       en: "The Nzoia Sugar Company is a massive, state-owned agro-industrial milling facility located deep in the highly fertile sugarcane belt of Bungoma County in western Kenya. Established in 1978, the factory was a cornerstone of the government's post-independence strategy to achieve absolute self-sufficiency in domestic sugar production. Positioned near the Nzoia River, the mill processes thousands of tonnes of cane daily, supplied overwhelmingly by a vast network of local smallholder out-grower farmers. For decades, the factory's imposing smokestacks and sprawling corporate housing estate dictated the entire micro-economy of the surrounding region. However, mirroring the broader crisis in Kenya's state-owned sugar sector, Nzoia has struggled massively with crippling historical debts, obsolete milling machinery, and severe operational inefficiencies. Economics K7 — Out-grower agriculture and state enterprises."
     },
     factsAdvanced: {
       en: ["Established by the Kenyan government in 1978 to boost domestic sugar production.", "Located in Bungoma County, deeply embedded in the western sugarcane belt.", "Relies almost entirely on sugarcane supplied by thousands of local smallholder farmers.", "Historically operated as the absolute economic lifeline for the surrounding rural communities.", "A highly indebted state-owned enterprise facing severe financial challenges.", "Operates with largely aging, inefficient milling infrastructure.", "Subject to numerous, highly politicized governmental bailout and privatization attempts."]
-    }
-  },
+    },
     description: {
       de: "Eine der großen Zuckerfabriken im Westen Kenias, ein wichtiger Arbeitgeber in der Region Bungoma.",
       hu: "Nyugat-Kenya egyik nagy cukorgyára, a Bungoma régió egyik fő munkáltatója.",
@@ -858,7 +836,7 @@ export const poiExtraKenyaEconomicV2: POI[] = [
     factsAdvanced: {
       de: [],
       hu: ["A nyugat-kenyai Bungoma megye legnagyobb ipari létesítménye", "Több mint 67 000 helyi cukornád-kistermelővel áll szerződésben", "1978-ban alapították francia technológiai segítséggel", "A gyár gyakran küzd alulfinanszírozottsággal és elöregedett gépekkel", "Saját, széleskörű úthálózatot tart fenn a cukornád beszállításához", "Jelentős szerepet vállal a helyi közösségi fejlesztésekben és sportban"],
-      ro: ["A fost inaugurată ca un punct culminant al agriculturii de stat est-africane la finalul anilor 1970 (exact în 1978).", "Compania posedă deopotrivă un domeniu privat imens cultivat direct numit „Nucleus Estate” și preia de la peste șaptezeci de mii de „outgrowers”.", "Sătenii își pot preda masiv producția agricolă în curtea companiei exclusiv prin imensele tractoare cu roți de oțel speciale pentru arături noroioase.", "Capacitatea totală originală era destinată unei zdrobiri fantastice și stoarceri masive de trei mii de tone metrice în fix 24 de ore de funcționare completă.", "Se fac demersuri repetate susținute de privatizări masive cu scopul achiziționării unor piese asiatice esențiale noilor norme.", "Zahărul companiei „Nzoia” excelează pe piețele rurale tocmai prin textura foarte distinctivă brună nemodificată sintetic."],
+      ro: ["A fost inaugurată ca un punct culminant al agriculturii de stat est-africane la finalul anilor 1970 (exact în 1978).", "Compania posedă deopotrivă un domeniu privat imens cultivat direct numit \"Nucleus Estate\" și preia de la peste șaptezeci de mii de \"outgrowers\".", "Sătenii își pot preda masiv producția agricolă în curtea companiei exclusiv prin imensele tractoare cu roți de oțel speciale pentru arături noroioase.", "Capacitatea totală originală era destinată unei zdrobiri fantastice și stoarceri masive de trei mii de tone metrice în fix 24 de ore de funcționare completă.", "Se fac demersuri repetate susținute de privatizări masive cu scopul achiziționării unor piese asiatice esențiale noilor norme.", "Zahărul companiei \"Nzoia\" excelează pe piețele rurale tocmai prin textura foarte distinctivă brună nemodificată sintetic."],
       en: []
     }, image: "/poi-images/nzoia-sugar-company-economic-v2.webp"},
   {
@@ -871,14 +849,13 @@ export const poiExtraKenyaEconomicV2: POI[] = [
       hu: "Isuzu Kelet-Afrika Összeszerelő Üzem",
       ro: "Fabrica de Asamblare Isuzu Africa de Est",
       en: "Isuzu East Africa Assembly Plant"
-    ,
+    },
     descriptionAdvanced: {
       en: "The Isuzu East Africa Assembly Plant, located in Nairobi's sprawling Industrial Area, is the largest and most consistently successful automotive manufacturing facility in the region. Operating since 1977, the plant is a massive assembly hub specializing heavily in commercial vehicles, particularly the iconic 'matatu' minibuses, heavy-duty freight trucks, and rugged pickup trucks that dominate Kenyan roads. The facility imports completely knocked down (CKD) kits and extensively welds, paints, and assembles them utilizing a highly skilled local workforce. The plant's enduring success is heavily bolstered by strict government policies that incentivize local assembly over fully built imported commercial vehicles. The factory is a critical node in the regional supply chain, exporting assembled vehicles to neighboring East African markets. Economics K8 — Automotive assembly and import substitution."
     },
     factsAdvanced: {
       en: ["Established in 1977 and located in the heart of Nairobi's Industrial Area.", "The absolute market leader in commercial vehicle sales in East Africa.", "Specializes in the local assembly of 'matatu' minibuses and heavy-duty trucks.", "Assembles vehicles from Completely Knocked Down (CKD) kits imported from Japan.", "Heavily supported by national policies protecting local commercial vehicle assembly.", "Features massive, highly automated welding and electrostatic painting lines.", "Exports locally assembled trucks to neighboring markets including Uganda and Tanzania."]
-    }
-  },
+    },
     description: {
       de: "Ein führendes Montagewerk für Nutzfahrzeuge in Kenia, das Busse und Lastwagen für den lokalen Markt produziert.",
       hu: "Vezető haszongépjármű-összeszerelő üzem Kenyában, amely buszokat és teherautókat gyárt a helyi piac számára.",
@@ -900,7 +877,7 @@ export const poiExtraKenyaEconomicV2: POI[] = [
     factsAdvanced: {
       de: [],
       hu: ["Kelet- és Közép-Afrika legnagyobb kapacitású haszongépjármű gyára", "Korábbi neve General Motors East Africa (GMEA) volt", "A kenyai busz- és teherautó piac több mint 40%-át uralja", "Az alkatrészeket dobozokban importálják (CKD), majd itt szerelik össze", "A híres kenyai 'matatu' minibuszok zöme az ő alvázukra épül", "Több száz magasan képzett mérnököt és technikust foglalkoztat"],
-      ro: ["Isuzu deține peste 40% din cota totală a pieței de vehicule comerciale noi din Kenya.", "Fabrica a fost înființată inițial în 1977 printr-un parteneriat extins cu General Motors.", "Marea majoritate a faimoaselor microbuze de pasageri „matatu” sunt asamblate chiar aici.", "Include linii avansate de testare rutieră și o hală uriașă de vopsitorie auto modernă.", "Promovează masiv asamblarea componentelor locale, cum ar fi arcurile și anvelopele.", "Reprezintă o atracție preferată de președinții kenyeni pentru inaugurări industriale anuale."],
+      ro: ["Isuzu deține peste 40% din cota totală a pieței de vehicule comerciale noi din Kenya.", "Fabrica a fost înființată inițial în 1977 printr-un parteneriat extins cu General Motors.", "Marea majoritate a faimoaselor microbuze de pasageri \"matatu\" sunt asamblate chiar aici.", "Include linii avansate de testare rutieră și o hală uriașă de vopsitorie auto modernă.", "Promovează masiv asamblarea componentelor locale, cum ar fi arcurile și anvelopele.", "Reprezintă o atracție preferată de președinții kenyeni pentru inaugurări industriale anuale."],
       en: []
     }, image: "/poi-images/isuzu-east-africa-assembly-economic-v2.webp"},
   {
@@ -913,14 +890,13 @@ export const poiExtraKenyaEconomicV2: POI[] = [
       hu: "East African Breweries Limited (Ruaraka)",
       ro: "East African Breweries Limited (Ruaraka)",
       en: "East African Breweries Limited (Ruaraka)"
-    ,
+    },
     descriptionAdvanced: {
       en: "East African Breweries Limited (EABL), headquartered in the Ruaraka district of Nairobi, operates one of the most massive and technologically advanced beverage manufacturing complexes on the African continent. Founded in 1922 by colonial settlers, the company has expanded explosively, now dominating the regional alcohol market. The Ruaraka site features colossal stainless-steel fermentation tanks, high-speed automated bottling lines, and massive logistics yards. The facility requires immense inputs of local barley, sorghum, and pristine water, deeply integrating the factory into the broader national agricultural sector. As a subsidiary of the global giant Diageo, the plant is a massive contributor to the national treasury through intense excise taxation, making it a highly scrutinized and pivotal entity in the Kenyan economy. Economics K8 — FMCG manufacturing and taxation."
     },
     factsAdvanced: {
       en: ["Founded in 1922 by two colonial settlers, George and Charles Hurst.", "The Ruaraka complex is one of the largest brewing facilities in Africa.", "A subsidiary of the massive multinational beverage conglomerate, Diageo.", "Features highly advanced, high-speed automated bottling and canning lines.", "Sources massive quantities of barley and sorghum from local Kenyan farmers.", "Consistently ranks among the highest corporate taxpayers in the nation.", "Produces the iconic Tusker lager, deeply embedded in Kenyan cultural identity."]
-    }
-  },
+    },
     description: {
       de: "Die Hauptbrauerei eines der größten Getränkehersteller in der Region, ein bedeutender industrieller Akteur.",
       hu: "A régió egyik legnagyobb italgyártójának fő sörfőzdéje, jelentős ipari szereplő.",
@@ -955,14 +931,13 @@ export const poiExtraKenyaEconomicV2: POI[] = [
       hu: "Mombasa Apparel EPZ",
       ro: "Mombasa Apparel EPZ",
       en: "Mombasa Apparel EPZ"
-    ,
+    },
     descriptionAdvanced: {
       en: "The Mombasa Apparel EPZ represents a massive, highly concentrated node of globalization, situated within the industrial outskirts of Kenya's premier port city. Operating under the heavily incentivized Export Processing Zone framework, these sprawling factory complexes are entirely dedicated to high-volume garment manufacturing. The facility imports vast quantities of raw fabric, primarily from Asia, utilizing thousands of local workers operating in massive, frantic sewing lines to assemble finished clothing. The entire output is strictly destined for export, overwhelmingly targeting the United States market under the tariff-free African Growth and Opportunity Act (AGOA). The zone is a critical, labor-intensive economic engine, providing essential wage employment while physically shaping the urban sprawl surrounding the coastal transport corridors. Economics K7 — Garment manufacturing and global supply chains."
     },
     factsAdvanced: {
       en: ["A massive garment assembly complex operating within the Export Processing Zone framework.", "Located strategically near the Port of Mombasa to minimize import/export logistics costs.", "Employs thousands of local workers in highly labor-intensive sewing operations.", "Imports nearly all raw fabrics from Asian textile hubs.", "Exports finished garments almost exclusively to the United States under the AGOA treaty.", "Benefits from substantial government tax holidays and customs exemptions.", "A critical component of Kenya's strategy to boost manufactured industrial exports."]
-    }
-  },
+    },
     description: {
       de: "Eine große Fabrik zur Herstellung von Kleidung in Mombasa, die hauptsächlich für den Export in die USA unter AGOA produziert.",
       hu: "Egy nagy ruházati gyár Mombasában, amely főként az USA-ba exportál az AGOA keretében.",
@@ -997,14 +972,13 @@ export const poiExtraKenyaEconomicV2: POI[] = [
       hu: "Twiga Vegyipari Üzem",
       ro: "Fabrica de Produse Chimice Twiga",
       en: "Twiga Chemicals Plant"
-    ,
+    },
     descriptionAdvanced: {
       en: "The Twiga Chemicals Plant, situated in Nairobi's sprawling Industrial Area, is a highly specialized, historically significant manufacturing facility serving the critical intersection of industry and agriculture. Established in the mid-20th century originally as part of the massive Imperial Chemical Industries (ICI) conglomerate, the plant formulates, blends, and packages a vast array of agrochemicals, industrial explosives, and specialized industrial chemicals. Its massive storage silos and highly regulated blending vats produce the exact pesticides and fertilizers required by Kenya's massive tea, coffee, and floriculture sectors. The facility operates under extremely strict safety and environmental protocols due to the highly volatile and toxic nature of its raw materials, forming a quiet but absolutely essential backbone for the nation's agrarian output. Economics K8 — Agrochemical formulation."
     },
     factsAdvanced: {
       en: ["Historically originated as a subsidiary of the British conglomerate Imperial Chemical Industries (ICI).", "Located in the densely packed Nairobi Industrial Area.", "A premier regional formulator and distributor of specialized agrochemicals.", "Supplies critical pesticides and fertilizers to the massive floriculture and tea sectors.", "Features highly secure, regulated blending and storage facilities for volatile chemicals.", "Also manufactures specialized industrial explosives utilized in the mining sector.", "Operates under extremely strict environmental and industrial safety protocols."]
-    }
-  },
+    },
     description: {
       de: "Ein führender Hersteller und Vertreiber von landwirtschaftlichen Chemikalien und Industriegütern in Kenia.",
       hu: "A mezőgazdasági vegyszerek és ipari cikkek vezető gyártója és forgalmazója Kenyában.",
@@ -1039,14 +1013,13 @@ export const poiExtraKenyaEconomicV2: POI[] = [
       hu: "Kenyai Húsipari Bizottság (Athi River)",
       ro: "Comisia Cărnii din Kenya (Athi River)",
       en: "Kenya Meat Commission (Athi River)"
-    ,
+    },
     descriptionAdvanced: {
       en: "The Kenya Meat Commission (KMC) facility in Athi River is a colossal, state-owned abattoir and meat processing complex, historically designed to serve as the absolute terminus for the nation's massive pastoralist livestock economy. Established in 1953 by the colonial administration, the sprawling factory features extensive holding pens, highly automated slaughtering lines, and massive cold-storage warehouses. For decades, it was the premier exporter of Kenyan beef and canned meat (notably corned beef) to Europe and the Middle East. However, the facility suffered severe operational collapse and financial ruin in the late 1990s due to extreme mismanagement. Recently, the factory was dramatically transferred to the control of the Kenya Defence Forces (KDF), triggering a massive, disciplined revitalization of its processing capabilities. Economics K7 — Livestock processing and military management."
     },
     factsAdvanced: {
       en: ["Established by the colonial government in 1953 as the premier national abattoir.", "Located strategically in Athi River, accessible by rail and highway.", "Historically the largest exporter of Kenyan beef and canned meat products.", "Features massive holding pens, mechanized slaughter lines, and cold storage.", "Suffered a catastrophic operational and financial collapse in the late 1990s.", "Dramatically transferred to the management of the Kenya Defence Forces (KDF) in 2020.", "Currently supplies massive quantities of meat to state security agencies."]
-    }
-  },
+    },
     description: {
       de: "Der wichtigste staatliche Fleischverarbeitungsbetrieb in Kenia, der Fleischprodukte für den lokalen und internationalen Markt verarbeitet.",
       hu: "A legfontosabb állami húsfeldolgozó üzem Kenyában, amely hústermékeket dolgoz fel a helyi és a nemzetközi piacra.",
@@ -1062,7 +1035,7 @@ export const poiExtraKenyaEconomicV2: POI[] = [
     descriptionAdvanced: {
       de: "",
       hu: "A Kenya Meat Commission (KMC) központi vágóhídja Athi River városában található, és az ország legnagyobb húsfeldolgozó üzeme. A gyarmati időkben épült gyár célja a hatalmas nomád pásztor-területek (Maszájföld, Észak-Kenya) szarvasmarháinak felvásárlása és feldolgozása volt. Bár a vállalat évtizedekig pénzügyi nehézségekkel és bezárásokkal küzdött, a Kenyai Védelmi Erők (KDF) nemrég átvették az irányítását, modernizálták a gépsorokat, és újraindították a magas minőségű hús- és konzervgyártást a hadsereg és a belföldi piac számára. (Földrajz K7 — élelmiszerbiztonság és állattenyésztés)",
-      ro: "Fabrica Kenya Meat Commission (KMC) de la Athi River este coloana vertebrală istorică a abatoarelor și procesării industriale de carne de vită din inima Kenyei. Fondată de administrația colonială pentru a valorifica milioanele de vite crescute de triburile pastorale Maasai și Samburu, uriașa uzină produce faimoasele conserve din carne de vită „Corned Beef”, exportate către trupele militare și piețele internaționale din Orientul Mijlociu. De curând, pentru a redresa un declin profund cauzat de gestiunea necorespunzătoare istorică, guvernul a predat cu succes administrarea complexului direct Forțelor de Apărare din Kenya.",
+      ro: "Fabrica Kenya Meat Commission (KMC) de la Athi River este coloana vertebrală istorică a abatoarelor și procesării industriale de carne de vită din inima Kenyei. Fondată de administrația colonială pentru a valorifica milioanele de vite crescute de triburile pastorale Maasai și Samburu, uriașa uzină produce faimoasele conserve din carne de vită \"Corned Beef\", exportate către trupele militare și piețele internaționale din Orientul Mijlociu. De curând, pentru a redresa un declin profund cauzat de gestiunea necorespunzătoare istorică, guvernul a predat cu succes administrarea complexului direct Forțelor de Apărare din Kenya.",
       en: ""
     },
     factsAdvanced: {
@@ -1081,14 +1054,13 @@ export const poiExtraKenyaEconomicV2: POI[] = [
       hu: "Brookside Tejfeldolgozó Ruiru",
       ro: "Fabrica de Lactate Brookside Ruiru",
       en: "Brookside Dairy Processing Ruiru"
-    ,
+    },
     descriptionAdvanced: {
       en: "The Brookside Dairy Processing plant in Ruiru is a colossal, hyper-modern agro-industrial complex, functioning as the absolute nerve center of East Africa's largest dairy corporation. Situated in Kiambu County, the massive facility collects hundreds of thousands of liters of raw milk daily from a vast network of over 100,000 smallholder farmers across the country. The factory utilizes highly advanced, automated pasteurization, ultra-high temperature (UHT) processing, and packaging lines to produce a wide array of dairy products with extended shelf lives. This massive industrial capacity has fundamentally transformed the local agricultural landscape, guaranteeing a market for rural dairy farmers while supplying supermarkets across the entire East African region. The sheer scale of its cold-chain logistics is a marvel of modern regional distribution. Economics K7 — Dairy industrialization."
     },
     factsAdvanced: {
       en: ["The largest and most technologically advanced dairy processing facility in East Africa.", "Located in the rapidly industrializing town of Ruiru in Kiambu County.", "Collects raw milk from a massive network of over 100,000 smallholder farmers daily.", "Features state-of-the-art Ultra-High Temperature (UHT) processing and packaging lines.", "A highly dominant market player, acquiring numerous smaller regional dairies over the years.", "Operates a massive, highly synchronized national cold-chain logistics network.", "Exports processed dairy products extensively across the East African region."]
-    }
-  },
+    },
     description: {
       de: "Einer der größten Milchverarbeitungsbetriebe Ostafrikas, der Milchprodukte in der gesamten Region vertreibt.",
       hu: "Kelet-Afrika egyik legnagyobb tejfeldolgozó üzeme, amely tejtermékeket forgalmaz az egész régióban.",
@@ -1123,14 +1095,13 @@ export const poiExtraKenyaEconomicV2: POI[] = [
       hu: "Base Titanium Rakodóterminál Likoni",
       ro: "Terminalul de Încărcare Base Titanium Likoni",
       en: "Base Titanium Loading Facility Likoni"
-    ,
+    },
     descriptionAdvanced: {
       en: "The Base Titanium Loading Facility at Likoni is a massive, highly specialized proprietary marine terminal explicitly constructed to export the mineral wealth extracted from the nearby Kwale Titanium Mine. Completed in 2013, the facility represents a brutal, highly efficient imposition of heavy industry onto the coastal landscape. Processed heavy minerals—rutile, ilmenite, and zircon—are trucked from the inland mine and stored in colossal, climate-controlled silos situated directly on the shoreline. A massive, high-capacity conveyor belt system extends over the water, loading bulk carrier ships at staggering speeds. This dedicated infrastructure totally bypasses the congestion of the main Mombasa port, ensuring seamless, high-volume mineral exports directly to global pigment and metallurgy markets, primarily in China and the US. Economics K8 — Proprietary bulk export infrastructure."
     },
     factsAdvanced: {
       en: ["A highly specialized proprietary marine export terminal built at Likoni.", "Constructed specifically to export output from the Kwale Titanium Mine.", "Features massive onshore storage silos for rutile, ilmenite, and zircon.", "Utilizes a massive, high-speed automated conveyor system to load bulk carrier vessels.", "Allows the mining corporation to completely bypass the congested Port of Mombasa.", "Represents a multi-million-dollar investment in dedicated heavy export infrastructure.", "Primarily exports heavy mineral sands to industrial markets in China and the USA."]
-    }
-  },
+    },
     description: {
       de: "Eine spezielle Hafenanlage zum Export von Mineralsanden, die in Kwale abgebaut werden.",
       hu: "Egy speciális kikötői létesítmény a Kwale-ben bányászott ásványi homok exportálására.",
@@ -1165,14 +1136,13 @@ export const poiExtraKenyaEconomicV2: POI[] = [
       hu: "Pepsi Palackozóüzem Ruaraka",
       ro: "Fabrica de Îmbuteliere Pepsi Ruaraka",
       en: "Pepsi Bottling Plant Ruaraka"
-    ,
+    },
     descriptionAdvanced: {
       en: "The Pepsi Bottling Plant in the Ruaraka district of Nairobi is a colossal, ultra-modern beverage manufacturing facility, representing the aggressive re-entry of the global beverage giant into the highly competitive East African market. Commissioned in 2013 after a multi-decade absence, the multi-billion-shilling factory features highly advanced, fully automated blow-molding and liquid filling lines operating at staggering speeds. The facility produces a wide array of carbonated soft drinks, heavily relying on highly purified local water sources and imported concentrated syrups. The plant's establishment triggered an intense, highly visible corporate 'cola war' in the region, driving massive marketing campaigns and altering retail dynamics. The physical scale of the factory, with its massive warehousing and truck fleets, heavily dominates the local Ruaraka industrial landscape. Economics K7 — FMCG bottling and market competition."
     },
     factsAdvanced: {
       en: ["Commissioned in 2013, marking PepsiCo's massive re-entry into the Kenyan market.", "Located in the dense, highly industrialized Ruaraka district of Nairobi.", "Features fully automated, extremely high-speed blow-molding and bottling lines.", "A multi-billion-shilling Foreign Direct Investment (FDI) into the local FMCG sector.", "Triggered a massive, highly competitive 'cola war' in the regional retail market.", "Produces diverse carbonated soft drinks utilizing highly purified local water.", "Operates a massive, dedicated distribution fleet covering the entire national territory."]
-    }
-  },
+    },
     description: {
       de: "Eine moderne Getränkeabfüllanlage in Nairobi, die Erfrischungsgetränke für den kenianischen Markt produziert.",
       hu: "Egy modern italpalackozó üzem Nairobiban, amely üdítőket gyárt a kenyai piacra.",

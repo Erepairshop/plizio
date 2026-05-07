@@ -48,7 +48,7 @@ export const spainFaq: CountryFaqMap = {
     ro: [
       { q: "Care este cel mai faimos muzeu de artă din Madrid?", a: "Muzeul Prado este cel mai cunoscut și important muzeu de artă din oraș." },
       { q: "Cum se numește piața centrală din Madrid?", a: "Puerta del Sol este considerată punctul central al Madridului și al întregii Spanii (Kilometrul Zero)." },
-      { q: "Care parc este „plămânul verde” al Madridului?", a: "Parcul Retiro (Parque del Buen Retiro) este cea mai mare și populară zonă verde din centru." },
+      { q: "Care parc este \"plămânul verde\" al Madridului?", a: "Parcul Retiro (Parque del Buen Retiro) este cea mai mare și populară zonă verde din centru." },
       { q: "Pe ce stadion joacă Real Madrid?", a: "Real Madrid își joacă meciurile de acasă pe stadionul Santiago Bernabéu." }
     ],
     en: [
@@ -99,7 +99,7 @@ export const spainFaq: CountryFaqMap = {
     ],
     ro: [
       { q: "În ce oraș se află Alhambra?", a: "Alhambra este situată în Granada, Andaluzia." },
-      { q: "Ce înseamnă numele „Alhambra”?", a: "Numele provine din limba arabă și înseamnă „cea Roșie” (al-qala'at al-hamra)." },
+      { q: "Ce înseamnă numele \"Alhambra\"?", a: "Numele provine din limba arabă și înseamnă \"cea Roșie\" (al-qala'at al-hamra)." },
       { q: "Cine a construit Alhambra?", a: "A fost construită în principal în secolele XIII și XIV de către sultanii Nasrizi." },
       { q: "Ce este Generalife?", a: "Generalife a fost palatul de vară și reședința de la țară a regilor Nasrizi, cu grădini splendide." }
     ],
@@ -152,7 +152,7 @@ export const spainFaq: CountryFaqMap = {
     ro: [
       { q: "Pentru ce este cunoscută Valencia din punct de vedere culinar?", a: "Valencia este patria paellei." },
       { q: "Ce este Ciudad de las Artes y las Ciencias?", a: "Un complex de clădiri futuriste pentru artă și știință, proiectat de Santiago Calatrava." },
-      { q: "Ce festival se sărbătorește în martie în Valencia?", a: "„Fallas”, un festival spectaculos cu figuri uriașe din carton-piatră și focuri de artificii." },
+      { q: "Ce festival se sărbătorește în martie în Valencia?", a: "\"Fallas\", un festival spectaculos cu figuri uriașe din carton-piatră și focuri de artificii." },
       { q: "Unde se află cel mai mare acvariu din Europa?", a: "Oceanogràfic face parte din Orașul Artelor și Științelor din Valencia." }
     ],
     en: [
@@ -283,7 +283,7 @@ export const spainFaq: CountryFaqMap = {
       { q: "De ce este atât de important Santiago de Compostela?", a: "Este destinația Camino de Santiago și adăpostește presupusul mormânt al Apostolului Iacob." },
       { q: "Ce este Botafumeiro?", a: "O cădelniță uriașă din catedrală, care este balansată la ocazii speciale." },
       { q: "În ce regiune se află Santiago?", a: "În Galicia, în nord-vestul Spaniei." },
-      { q: "Ce este o „Compostela”?", a: "Certificatul oficial pe care îl primesc pelerinii la finalizarea drumului Camino de Santiago." }
+      { q: "Ce este o \"Compostela\"?", a: "Certificatul oficial pe care îl primesc pelerinii la finalizarea drumului Camino de Santiago." }
     ],
     en: [
       { q: "Why is Santiago de Compostela so significant?", a: "It is the destination of the Camino de Santiago and houses the presumed tomb of the Apostle James." },
@@ -306,7 +306,7 @@ export const spainFaq: CountryFaqMap = {
       { q: "Régebben Toledo volt a főváros?", a: "Igen, 1561-ig Toledo volt a Spanyol Birodalom fővárosa." }
     ],
     ro: [
-      { q: "Cum este numit adesea orașul Toledo?", a: "„Orașul celor trei culturi”, deoarece creștinii, evreii și musulmanii au trăit acolo împreună timp de secole." },
+      { q: "Cum este numit adesea orașul Toledo?", a: "\"Orașul celor trei culturi\", deoarece creștinii, evreii și musulmanii au trăit acolo împreună timp de secole." },
       { q: "Care este cel mai cunoscut meșteșug din Toledo?", a: "Fabricarea săbiilor și a oțelului damaschin." },
       { q: "Ce pictor celebru a trăit și a lucrat în Toledo?", a: "El Greco și-a petrecut cea mai mare parte a vieții în Toledo." },
       { q: "A fost Toledo capitală în trecut?", a: "Da, până în 1561, Toledo a fost capitala imperiului spaniol." }
@@ -387,7 +387,7 @@ export const spainFaq: CountryFaqMap = {
       { q: "Cât de înalt este Teide?", a: "Are 3.718 metri înălțime, fiind cel mai înalt vârf din Spania." },
       { q: "Este Teide un vulcan activ?", a: "Da, este considerat un vulcan adormit, dar potențial activ." },
       { q: "Se poate vizita vârful?", a: "Da, o telecabină urcă până aproape de vârf; pentru ultima porțiune este necesar un permis." },
-      { q: "Ce este special la Parcul Național Teide?", a: "Peisajul său vulcanic spectaculos „lunar” face parte din Patrimoniul Mondial UNESCO." }
+      { q: "Ce este special la Parcul Național Teide?", a: "Peisajul său vulcanic spectaculos \"lunar\" face parte din Patrimoniul Mondial UNESCO." }
     ],
     en: [
       { q: "How high is Mount Teide?", a: "It is 3,718 meters high, making it the highest peak in Spain." },
@@ -438,7 +438,7 @@ export const spainFaq: CountryFaqMap = {
     ro: [
       { q: "Unde se află Museo del Prado?", a: "În Madrid, pe Paseo del Prado." },
       { q: "Care artiști sunt cel mai bine reprezentați în Prado?", a: "Velázquez, Goya și El Greco." },
-      { q: "Care este cea mai faimoasă operă din Prado?", a: "Adesea, „Las Meninas” de Diego Velázquez este citată ca fiind opera principală." },
+      { q: "Care este cea mai faimoasă operă din Prado?", a: "Adesea, \"Las Meninas\" de Diego Velázquez este citată ca fiind opera principală." },
       { q: "Când a fost deschis muzeul?", a: "A fost inaugurat în anul 1819." }
     ],
     en: [
@@ -489,7 +489,7 @@ export const spainFaq: CountryFaqMap = {
     ],
     ro: [
       { q: "Unde se află Sierra Nevada?", a: "În Andaluzia, în sudul Spaniei, lângă Granada." },
-      { q: "Ce înseamnă numele „Sierra Nevada”?", a: "Înseamnă „lanț muntos înzăpezit”." },
+      { q: "Ce înseamnă numele \"Sierra Nevada\"?", a: "Înseamnă \"lanț muntos înzăpezit\"." },
       { q: "Cum se numește cel mai înalt munte din Sierra Nevada?", a: "Mulhacén, cu 3.482 de metri, cel mai înalt vârf din Peninsula Iberică." },
       { q: "Se poate schia acolo?", a: "Da, este una dintre cele mai sudice stațiuni de schi din Europa." }
     ],
@@ -514,7 +514,7 @@ export const spainFaq: CountryFaqMap = {
       { q: "Melyik híres művész kötődik szorosan a Costa Bravához?", a: "Salvador Dalí; lakóháza Portlligatban és múzeuma Figueresben a közelben található." }
     ],
     ro: [
-      { q: "Ce înseamnă „Costa Brava”?", a: "Înseamnă „coasta sălbatică”." },
+      { q: "Ce înseamnă \"Costa Brava\"?", a: "Înseamnă \"coasta sălbatică\"." },
       { q: "Unde se află Costa Brava?", a: "În provincia Girona, în nord-estul Cataloniei." },
       { q: "Pentru ce este cunoscută această coastă?", a: "Pentru stâncile sale abrupte, golfurile ascunse și satele de pescari fermecătoare." },
       { q: "Ce artist celebru are o legătură strânsă cu Costa Brava?", a: "Salvador Dalí; casa sa din Portlligat și muzeul din Figueres sunt în apropiere." }
@@ -595,7 +595,7 @@ export const spainFaq: CountryFaqMap = {
       { q: "Cine a proiectat Muzeul Guggenheim din Bilbao?", a: "Arhitectul Frank Gehry." },
       { q: "Ce este special la arhitectura sa?", a: "Clădirea este formată din plăci de titan curbate și este considerată o capodoperă a deconstructivismului." },
       { q: "Când a fost deschis muzeul?", a: "A fost inaugurat în octombrie 1997." },
-      { q: "Ce sculptură se află în fața muzeului?", a: "Câinele uriaș din flori „Puppy” de Jeff Koons." }
+      { q: "Ce sculptură se află în fața muzeului?", a: "Câinele uriaș din flori \"Puppy\" de Jeff Koons." }
     ],
     en: [
       { q: "Who designed the Guggenheim Museum in Bilbao?", a: "Architect Frank Gehry." },

@@ -285,14 +285,14 @@ export const unitedkingdomFaq: CountryFaqMap = {
       { q: "Hogy hívják a híres utcát, amely összeköti a várat a palotával?", a: "The Royal Mile." },
       { q: "Mi a világ legnagyobb művészeti fesztiválja, amelyet itt tartanak?", a: "Edinburgh Festival Fringe." },
       { q: "Hogy hívják a várost övező jellegzetes dombot?", a: "Arthur's Seat." },
-      { q: "Miért nevezik Edinburgot gyakran az „észak Athénjának”?", a: "Neoklasszicista építészete és oktatási hagyományai miatt." }
+      { q: "Miért nevezik Edinburgot gyakran az \"észak Athénjának\"?", a: "Neoklasszicista építészete és oktatási hagyományai miatt." }
     ],
     ro: [
       { q: "Unde este situat Castelul Edinburgh?", a: "Pe Castle Rock, un vulcan stins." },
       { q: "Cum se numește faimoasa stradă care leagă castelul de palat?", a: "The Royal Mile." },
       { q: "Care este cel mai mare festival de artă din lume care are loc aici?", a: "Edinburgh Festival Fringe." },
       { q: "Cum se numește dealul proeminent care oferă o vedere panoramică asupra orașului?", a: "Arthur's Seat." },
-      { q: "De ce este Edinburgh numit adesea „Atena Nordului”?", a: "Datorită arhitecturii sale neoclasice și tradiției în educație." }
+      { q: "De ce este Edinburgh numit adesea \"Atena Nordului\"?", a: "Datorită arhitecturii sale neoclasice și tradiției în educație." }
     ],
     en: [
       { q: "Where is Edinburgh Castle situated?", a: "On Castle Rock, an extinct volcano." },
@@ -380,7 +380,7 @@ export const unitedkingdomFaq: CountryFaqMap = {
     ro: [
       { q: "Cu ce tragedie este legat Belfastul din punct de vedere istoric?", a: "Cu construcția navei RMS Titanic." },
       { q: "Cum se numește muzeul dedicat Titanicului?", a: "Titanic Belfast." },
-      { q: "Ce sunt celebrele „murale” din Belfast?", a: "Picturi murale politice care înfățișează istoria conflictului din Irlanda de Nord." },
+      { q: "Ce sunt celebrele \"murale\" din Belfast?", a: "Picturi murale politice care înfățișează istoria conflictului din Irlanda de Nord." },
       { q: "Cum se numește clădirea guvernamentală proeminentă a orașului?", a: "Primăria Belfast (Belfast City Hall)." },
       { q: "Ce universitate se află în Belfast?", a: "Queen's University Belfast." }
     ],
@@ -440,7 +440,7 @@ export const unitedkingdomFaq: CountryFaqMap = {
     ro: [
       { q: "Cum se numește celebra universitate din oraș?", a: "Universitatea din Cambridge." },
       { q: "Pe ce râu este situat Cambridge?", a: "Pe râul Cam." },
-      { q: "Ce este „Punting”?", a: "O metodă tradițională de plimbare cu barca pe râul Cam folosind o prăjină." },
+      { q: "Ce este \"Punting\"?", a: "O metodă tradițională de plimbare cu barca pe râul Cam folosind o prăjină." },
       { q: "Care capelă de colegiu este un simbol al orașului?", a: "Capela King's College." },
       { q: "Cum se numește zona din jurul Cambridge-ului cunoscută pentru companiile sale tehnologice?", a: "Silicon Fen." }
     ],
@@ -531,7 +531,7 @@ export const unitedkingdomFaq: CountryFaqMap = {
       { q: "Cum se numea York în epoca romană?", a: "Eboracum." },
       { q: "Cum se numea York în epoca vikingă?", a: "Jorvik." },
       { q: "Cum se numește celebra catedrală din York?", a: "York Minster." },
-      { q: "Ce este „The Shambles”?", a: "O stradă medievală faimoasă cu case din lemn." },
+      { q: "Ce este \"The Shambles\"?", a: "O stradă medievală faimoasă cu case din lemn." },
       { q: "Mai sunt intacte zidurile orașului York?", a: "Da, York are cele mai bine păstrate ziduri medievale din Anglia." }
     ],
     en: [
@@ -741,7 +741,7 @@ export const unitedkingdomFaq: CountryFaqMap = {
       { q: "Pe ce râu este situat Newcastle?", a: "Pe râul Tyne." },
       { q: "Cum sunt numiți locuitorii din Newcastle?", a: "Geordies." },
       { q: "Cum se numește faimosul pod în arc din Newcastle?", a: "Podul Tyne." },
-      { q: "Ce este „Angel of the North”?", a: "O sculptură uriașă de Antony Gormley situată lângă oraș." },
+      { q: "Ce este \"Angel of the North\"?", a: "O sculptură uriașă de Antony Gormley situată lângă oraș." },
       { q: "Cum se numește cunoscutul club de fotbal din oraș?", a: "Newcastle United." }
     ],
     en: [
@@ -761,14 +761,14 @@ export const unitedkingdomFaq: CountryFaqMap = {
       { q: "Welche zwei Flüsse fließen durch Aberdeen?", a: "Der Dee und der Don." }
     ],
     hu: [
-      { q: "Melyik építőanyag miatt nevezik Aberdeent „Gránitvárosnak”?", a: "Az ezüstszürke gránit miatt, amelyből sok épülete készült." },
+      { q: "Melyik építőanyag miatt nevezik Aberdeent \"Gránitvárosnak\"?", a: "Az ezüstszürke gránit miatt, amelyből sok épülete készült." },
       { q: "Melyik iparágnak a fontos központja ma Aberdeen?", a: "Az északi-tengeri olaj- és gáziparnak." },
       { q: "Hogy hívják Aberdeen egyetemét?", a: "Aberdeeni Egyetem (alapítva 1495-ben)." },
       { q: "A tengerparton fekszik Aberdeen?", a: "Igen, hosszú homokos strandja van az Északi-tenger partján." },
       { q: "Melyik két folyó folyik át Aberdeenen?", a: "A Dee és a Don." }
     ],
     ro: [
-      { q: "Datorită cărui material de construcție este Aberdeen numit „Granite City”?", a: "Datorită granitului gri-argintiu din care sunt construite multe clădiri." },
+      { q: "Datorită cărui material de construcție este Aberdeen numit \"Granite City\"?", a: "Datorită granitului gri-argintiu din care sunt construite multe clădiri." },
       { q: "Pentru ce industrie este Aberdeen un centru important astăzi?", a: "Pentru industria petrolului și gazelor din Marea Nordului." },
       { q: "Cum se numește universitatea din Aberdeen?", a: "Universitatea din Aberdeen (fondată în 1495)." },
       { q: "Este Aberdeen situat pe coastă?", a: "Da, are o plajă lungă cu nisip la Marea Nordului." },
@@ -892,7 +892,7 @@ export const unitedkingdomFaq: CountryFaqMap = {
       { q: "Care este celălalt nume oficial al orașului?", a: "Londonderry." },
       { q: "Cum se numește podul modern pentru pietoni și bicicliști?", a: "Podul Păcii (Peace Bridge)." },
       { q: "Pe ce râu este situat Derry?", a: "Pe râul Foyle." },
-      { q: "Pentru ce este cunoscut orașul în cultura pop?", a: "Ca locație pentru serialul „Derry Girls”." }
+      { q: "Pentru ce este cunoscut orașul în cultura pop?", a: "Ca locație pentru serialul \"Derry Girls\"." }
     ],
     en: [
       { q: "What is Derry's most famous architectural feature?", a: "The fully intact 17th-century city walls." },
@@ -920,7 +920,7 @@ export const unitedkingdomFaq: CountryFaqMap = {
     ro: [
       { q: "Ce este Stonehenge?", a: "Un cerc de pietre preistoric situat în Wiltshire, Anglia." },
       { q: "Cât de vechi este Stonehenge?", a: "A fost construit în mai multe etape între anii 3000 și 1500 î.Hr." },
-      { q: "Din ce sunt făcute pietrele?", a: "Din blocuri mari de sarsen și pietre mai mici numite „bluestones”." },
+      { q: "Din ce sunt făcute pietrele?", a: "Din blocuri mari de sarsen și pietre mai mici numite \"bluestones\"." },
       { q: "Care a fost probabil scopul monumentului Stonehenge?", a: "Probabil a servit ca loc de înmormântare și pentru ceremonii astronomice sau religioase." },
       { q: "Este Stonehenge un sit al Patrimoniului Mondial?", a: "Da, face parte din Patrimoniul Mondial UNESCO din 1986." }
     ],
@@ -978,7 +978,7 @@ export const unitedkingdomFaq: CountryFaqMap = {
       { q: "Hány számlapja van az órának?", a: "Négy, a torony minden oldalán egy." }
     ],
     ro: [
-      { q: "Ce desemnează de fapt numele „Big Ben”?", a: "Cel mai mare dintre cele cinci clopote din Turnul Elizabeth al Parlamentului." },
+      { q: "Ce desemnează de fapt numele \"Big Ben\"?", a: "Cel mai mare dintre cele cinci clopote din Turnul Elizabeth al Parlamentului." },
       { q: "Cum se numește turnul în care se află Big Ben?", a: "Turnul Elizabeth (fostul Turn Sf. Ștefan)." },
       { q: "Când a fost finalizat turnul?", a: "În anul 1859." },
       { q: "Cât de greu este clopotul?", a: "Aproximativ 13,5 tone." },
@@ -1011,7 +1011,7 @@ export const unitedkingdomFaq: CountryFaqMap = {
       { q: "Ce este Tower of London?", a: "O fortăreață istorică pe malul nordic al Tamisei." },
       { q: "Pentru ce a fost folosit Turnul de-a lungul istoriei?", a: "Ca reședință regală, armurărie, monetărie și închisoare faimoasă." },
       { q: "Ce este păstrat astăzi în Turn?", a: "Bijuteriile Coroanei britanice." },
-      { q: "Cine sunt „Beefeaters”?", a: "Gărzile ceremoniale ale Turnului (Yeoman Warders)." },
+      { q: "Cine sunt \"Beefeaters\"?", a: "Gărzile ceremoniale ale Turnului (Yeoman Warders)." },
       { q: "De ce sunt corbii atât de importanți în Turn?", a: "Conform legendei, dacă corbii părăsesc Turnul, regatul se va prăbuși." }
     ],
     en: [
@@ -1102,7 +1102,7 @@ export const unitedkingdomFaq: CountryFaqMap = {
       { q: "Ce statut are această zonă?", a: "Este parc național și sit al Patrimoniului Mondial UNESCO." },
       { q: "Cum se numește cel mai înalt munte din Anglia, situat aici?", a: "Scafell Pike." },
       { q: "Cum se numește cel mai mare lac natural din Anglia?", a: "Windermere." },
-      { q: "Ce poeți sunt strâns legați de această regiune?", a: "„Poeții lacurilor”, precum William Wordsworth." }
+      { q: "Ce poeți sunt strâns legați de această regiune?", a: "\"Poeții lacurilor\", precum William Wordsworth." }
     ],
     en: [
       { q: "Where is the Lake District located?", a: "In Northwest England, in Cumbria." },

@@ -920,7 +920,7 @@ export const poiExtraSouthafricaLandmarksV2: POI[] = [
     parent: "ZA-WC",
     coords: [18.4192, -33.9248],
     name: {
-      de: "St. George’s Cathedral",
+      de: "St. George's Cathedral",
       hu: "Szent György-székesegyház",
       ro: "Catedrala Sfântul Gheorghe",
       en: "St. George's Cathedral"

@@ -16,14 +16,14 @@ export const icelandCountry: POI = {
   description: {
     de: "Island ist ein Land der extremen Kontraste, bekannt als das 'Land von Feuer und Eis', mit Gletschern, Geysiren und Vulkanen.",
     hu: "Izland a szélsőséges kontrasztok országa, a 'tűz és jég földje', gleccserekkel, gejzírekkel és vulkánokkal.",
-    ro: "Islanda este o țară a contrastelor extreme, cunoscută sub numele de „țara focului și a gheții”, cu ghețari, gheizere și vulcani.",
+    ro: "Islanda este o țară a contrastelor extreme, cunoscută sub numele de \\\"țara focului și a gheții\\\", cu ghețari, gheizere și vulcani.",
     en: "Iceland is a land of extreme contrasts, known as the 'Land of Fire and Ice', featuring glaciers, geysers, and volcanoes."
   },
   descriptionAdvanced: {
     de: "Island, eine Inselnation im Nordatlantik, ist berühmt für seine dramatische Landschaft mit Vulkanen, Geysiren, Thermalquellen und Lavafeldern. Massive Gletscher sind in den Nationalparks Vatnajökull und Snæfellsjökull geschützt. Die meisten Einwohner leben in der Hauptstadt Reykjavík, die mit Erdwärme betrieben wird und das National- und Saga-Museum beherbergt, die Islands Wikingergeschichte nachzeichnen. Geographie-K7.",
     hu: "Izland, az észak-atlanti szigetország, drámai tájairól híres, vulkánokkal, gejzírekkel, hőforrásokkal és lávamezőkkel. A hatalmas gleccsereket a Vatnajökull és a Snæfellsjökull Nemzeti Parkok védik. A lakosság többsége a fővárosban, Reykjavíkban él, amely geotermikus energiával működik, és itt található a Nemzeti és a Saga Múzeum is, amelyek Izland viking történelmét mutatják be. Földrajz K7.",
     ro: "Islanda, o națiune insulară din Atlanticul de Nord, este renumită pentru peisajul său dramatic cu vulcani, gheizere, izvoare termale și câmpuri de lavă. Ghețarii masivi sunt protejați în parcurile naționale Vatnajökull și Snæfellsjökull. Majoritatea populației trăiește în capitala Reykjavík, care funcționează cu energie geotermală și găzduiește muzeele Național și Saga, care retrăiesc istoria vikingă a Islandei. Geografie K7.",
-    en: "Iceland, a Nordic island nation, is defined by its dramatic landscape with volcanoes, geysers, hot springs and lava fields. Massive glaciers are protected in Vatnajökull and Snæfellsjökull national parks. Most of the population lives in the capital, Reykjavík, which runs on geothermal power and is home to the National and Saga museums, tracing Iceland’s Viking history. Geography K7."
+    en: "Iceland, a Nordic island nation, is defined by its dramatic landscape with volcanoes, geysers, hot springs and lava fields. Massive glaciers are protected in Vatnajökull and Snæfellsjökull national parks. Most of the population lives in the capital, Reykjavík, which runs on geothermal power and is home to the National and Saga museums, tracing Iceland's Viking history. Geography K7."
   },
   facts: {
     de: [
@@ -116,7 +116,7 @@ export const icelandCountry: POI = {
     de: "Island, eine Inselnation im Nordatlantik, ist berühmt für seine dramatische Landschaft mit Vulkanen, Geysiren, Thermalquellen und Lavafeldern. Massive Gletscher sind in den Nationalparks Vatnajökull und Snæfellsjökull geschützt. Die meisten Einwohner leben in der Hauptstadt Reykjavík, die mit Erdwärme betrieben wird und das National- und Saga-Museum beherbergt, die Islands Wikingergeschichte nachzeichnen. Geographie-K7.",
     hu: "Izland, az észak-atlanti szigetország, drámai tájairól híres, vulkánokkal, gejzírekkel, hőforrásokkal és lávamezőkkel. A hatalmas gleccsereket a Vatnajökull és a Snæfellsjökull Nemzeti Parkok védik. A lakosság többsége a fővárosban, Reykjavíkban él, amely geotermikus energiával működik, és itt található a Nemzeti és a Saga Múzeum is, amelyek Izland viking történelmét mutatják be. Földrajz K7.",
     ro: "Islanda, o națiune insulară din Atlanticul de Nord, este renumită pentru peisajul său dramatic cu vulcani, gheizere, izvoare termale și câmpuri de lavă. Ghețarii masivi sunt protejați în parcurile naționale Vatnajökull și Snæfellsjökull. Majoritatea populației trăiește în capitala Reykjavík, care funcționează cu energie geotermală și găzduiește muzeele Național și Saga, care retrăiesc istoria vikingă a Islandei. Geografie K7.",
-    en: "Iceland, a Nordic island nation, is defined by its dramatic landscape with volcanoes, geysers, hot springs and lava fields. Massive glaciers are protected in Vatnajökull and Snæfellsjökull national parks. Most of the population lives in the capital, Reykjavík, which runs on geothermal power and is home to the National and Saga museums, tracing Iceland’s Viking history. Geography K7."
+    en: "Iceland, a Nordic island nation, is defined by its dramatic landscape with volcanoes, geysers, hot springs and lava fields. Massive glaciers are protected in Vatnajökull and Snæfellsjökull national parks. Most of the population lives in the capital, Reykjavík, which runs on geothermal power and is home to the National and Saga museums, tracing Iceland's Viking history. Geography K7."
   },
   factsAdvanced: {
     de: [

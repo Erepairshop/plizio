@@ -73,14 +73,13 @@ export const poiExtraLibyaCitiesV2: POI[] = [
       hu: "Fontos kikötő- és iparváros Tripolitániában, amely jelentős gazdasági befolyással bír.",
       ro: "Important oraș portuar și industrial din Tripolitania, cunoscut pentru influența sa economică.",
       en: "Major port and industrial city in Tripolitania, known for its economic influence."
-    ,
+    },
     descriptionAdvanced: {
       en: "Misrata functions as the commercial heart of Libya, distinguished by its massive seaport and robust industrial sectors. Unlike the capital, this coastal metropolis thrives heavily on trade, with ships docking daily to unload international goods. The city's Free Trade Zone is a critical economic engine, attracting global investments since its inception in 2000. Beyond commerce, Misrata features unique local architecture that blends modern construction with traditional Libyan elements. Geography K7 — coastal trade centers."
     },
     factsAdvanced: {
       en: ["Situated 187 kilometers east of Tripoli.", "Home to the Misrata Free Trade Zone established in 2000.", "Population exceeds 500,000 residents.", "Often called the business capital of Libya.", "Features the Qasr Ahmed port, one of Libya's busiest.", "Known for extensive iron and steel complexes."]
-    }
-  },
+    },
     facts: {
       de: ["Zählt zu den wichtigsten Handelszentren.", "Verfügt über eine der größten Freihandelszonen."],
       hu: ["Az egyik legfontosabb kereskedelmi csomópont.", "Itt található Észak-Afrika egyik legnagyobb szabadkereskedelmi övezete."],
@@ -111,14 +110,13 @@ export const poiExtraLibyaCitiesV2: POI[] = [
       hu: "A Zöld-hegység egyik legfontosabb városa, amelyet termékeny mezőgazdasági területek vesznek körül.",
       ro: "Unul dintre cele mai importante orașe din Munții Verzi, înconjurat de terenuri agricole fertile.",
       en: "One of the key cities in the Green Mountains, surrounded by fertile agricultural land."
-    ,
+    },
     descriptionAdvanced: {
       en: "Al Bayda sits gracefully in the Jabal al Akhdar mountains, offering a surprisingly mild and verdant environment compared to Libya's desert interior. Founded originally around a religious lodge, the city evolved significantly, especially when it was slated to become the new capital in the 1950s. The nearby ancient Greek ruins of Cyrene highlight the region's deep historical roots. Visitors often notice the distinct Mediterranean climate that allows for rich local agriculture. History K8 — post-war urban development."
     },
     factsAdvanced: {
       en: ["Located in the Jabal al Akhdar region at 600 meters elevation.", "Originally famous for the Senussi religious lodge founded in 1843.", "Omar Mukhtar University is a major educational hub here.", "Intended as Libya's capital during the 1950s.", "Close to the historic ancient Greek city of Cyrene.", "Known for a pleasant Mediterranean climate."]
-    }
-  },
+    },
     facts: {
       de: ["Gilt als eines der kühleren Zentren Libyens.", "Wichtig für die lokale landwirtschaftliche Produktion."],
       hu: ["Líbia egyik leghűvösebb klímájú városa.", "Jelentős szerepet játszik a helyi mezőgazdasági termelésben."],
@@ -149,14 +147,13 @@ export const poiExtraLibyaCitiesV2: POI[] = [
       hu: "Jelentős város a fővárostól nyugatra, amely fejlett kőolajiparral rendelkezik.",
       ro: "Un oraș important la vest de capitală, cu o industrie petrolieră foarte dezvoltată.",
       en: "A major city west of the capital featuring a highly developed petroleum industry."
-    ,
+    },
     descriptionAdvanced: {
       en: "Zawiya plays a pivotal role in Libya's energy sector due to its extensive oil refining infrastructure. Located just west of Tripoli, the city acts as a vital conduit for resources processed and shipped along the Mediterranean coast. Besides its industrial might, Zawiya holds historical significance, particularly stemming from the colonial era and the 2011 uprising. The blend of coastal living and heavy industry creates a unique urban dynamic. Geography K8 — industrial urban landscapes."
     },
     factsAdvanced: {
       en: ["Located about 45 kilometers west of Tripoli.", "Home to the Zawiya Oil Refining Company.", "Features a prominent coastal port for energy export.", "Population is approximately 200,000.", "Site of major historical events during the 2011 revolution.", "Surrounded by agricultural lands producing citrus and olives."]
-    }
-  },
+    },
     facts: {
       de: ["Heimat einer der größten Erdölraffinerien.", "Wichtiger Verkehrsknotenpunkt an der Küstenstraße."],
       hu: ["Líbia egyik legnagyobb olajfinomítójának ad otthont.", "Fontos közlekedési csomópont a parti úton."],
@@ -187,14 +184,13 @@ export const poiExtraLibyaCitiesV2: POI[] = [
       hu: "Tengerparti város, amely híres az iszlám oktatási intézményeiről és mecseteiről.",
       ro: "Oraș de coastă la Marea Mediterană, faimos pentru centrele sale educaționale islamice.",
       en: "Coastal city on the Mediterranean, famous for its Islamic educational centers and mosques."
-    ,
+    },
     descriptionAdvanced: {
       en: "Zliten is renowned across Libya for its religious scholarship and the majestic Shrine of Sidi Abd as-Salam al-Asmar. This coastal city perfectly balances spiritual heritage with practical industry, notably cement production and agriculture. The presence of Al Asmarya Islamic University cements its status as an educational center. Palm groves and olive orchards surround the urban center, providing a lush contrast to the arid regions further south. History K7 — religious centers and education."
     },
     factsAdvanced: {
       en: ["Situated 160 kilometers east of Tripoli.", "Hosts the shrine of the 16th-century Sufi saint Sidi Abd as-Salam al-Asmar.", "Al Asmarya Islamic University is a key educational institution.", "Major producer of Libyan cement.", "Famous for expansive palm and olive plantations.", "Features beautiful coastal beaches along the Mediterranean."]
-    }
-  },
+    },
     facts: {
       de: ["Beherbergt eine bekannte islamische Universität.", "Hat einen bedeutenden Zementhafen."],
       hu: ["Egy ismert iszlám egyetemnek ad otthont.", "Fontos cementipari létesítményekkel rendelkezik."],
@@ -225,14 +221,13 @@ export const poiExtraLibyaCitiesV2: POI[] = [
       hu: "Stratégiai elhelyezkedésű település a líbiai partvonal közepén, a Szidra-öböl partján.",
       ro: "Un oraș situat strategic în mijlocul coastei libiene, direct pe golful cu același nume.",
       en: "A strategically located city in the middle of the Libyan coastline on the Gulf of Sirte."
-    ,
+    },
     descriptionAdvanced: {
       en: "Sirte holds a complex legacy as a major strategic midpoint on the Libyan coastline, connecting the eastern and western halves of the country. Historically significant as the birthplace of Muammar Gaddafi, the city saw massive infrastructural investments, including the Ouagadougou Conference Center meant to host pan-African summits. Despite the destruction faced in recent conflicts, Sirte remains a critical geographical juncture along the Gulf of Sidra. History K8 — modern political history."
     },
     factsAdvanced: {
       en: ["Located exactly midway between Tripoli and Benghazi.", "Birthplace of former Libyan leader Muammar Gaddafi in 1942.", "Features the massive Ouagadougou Conference Center.", "Lies on the coast of the Gulf of Sidra.", "Historically a major administrative hub in the late 20th century.", "Home to Sirte University, founded in 1989."]
-    }
-  },
+    },
     facts: {
       de: ["Historisch wichtiges Regierungszentrum.", "Liegt genau zwischen Tripolitanien und der Kyrenaika."],
       hu: ["Történelmileg fontos kormányzati központ volt.", "Pontosan Tripolitánia és Kirenaika határán fekszik."],
@@ -263,14 +258,13 @@ export const poiExtraLibyaCitiesV2: POI[] = [
       hu: "Jelentős kikötőváros az egyiptomi határ közelében, amely mély, természetes kikötővel bír.",
       ro: "Oraș portuar important lângă granița cu Egiptul, cu un port natural adânc.",
       en: "Important port city near the Egyptian border, featuring a deep natural harbor."
-    ,
+    },
     descriptionAdvanced: {
       en: "Tobruk's deep, natural harbor made it a highly prized strategic location during World War II, resulting in prolonged sieges and historic battles. Today, the city serves as a critical port near the Egyptian border, handling both commercial shipping and oil exports. The surrounding desert landscape contrasts sharply with the blue Mediterranean waters. War cemeteries in the area draw visitors interested in 20th-century military history. Geschichte K8 — World War II North African campaigns."
     },
     factsAdvanced: {
       en: ["Site of the famous Siege of Tobruk in 1941.", "Features one of the deepest natural harbors in North Africa.", "Located near the border with Egypt.", "Hosts several prominent Commonwealth and German war cemeteries.", "A key terminal for oil pipelines from the Sarir field.", "Population is roughly 120,000 residents."]
-    }
-  },
+    },
     facts: {
       de: ["Schauplatz bedeutender Schlachten im Zweiten Weltkrieg.", "Exportiert Erdöl aus dem Landesinneren."],
       hu: ["A második világháború fontos csatáinak helyszíne.", "A szárazföld belsejéből érkező kőolajat exportálja."],
@@ -301,14 +295,13 @@ export const poiExtraLibyaCitiesV2: POI[] = [
       hu: "Központi csomópont, amely összeköti a part menti régiót a sivatagi hátországgal.",
       ro: "Un nod central care leagă regiunea de coastă cu zonele deșertice din interior.",
       en: "A central crossroads connecting the coastal region with the desert hinterland."
-    ,
+    },
     descriptionAdvanced: {
       en: "Ajdabiya acts as the gateway to the expansive eastern desert and the oil-rich Sirte Basin. Historically, it was a vital oasis stop for caravans traversing the Sahara towards the coast. Today, its economy is heavily tied to the energy sector, serving as a logistical hub for nearby oil fields. The city retains elements of its ancient past, including ruins from the Fatimid and Sanussi periods. Geography K7 — desert oasis economies."
     },
     factsAdvanced: {
       en: ["Located about 150 kilometers south of Benghazi.", "Historically a major junction for trans-Saharan trade routes.", "Crucial logistical center for the Sirte Basin oil fields.", "Contains ruins of an 11th-century Fatimid palace.", "Connects the coastal highway with roads heading to Kufra.", "Population is approximately 130,000."]
-    }
-  },
+    },
     facts: {
       de: ["Tor zu den südlichen Oasen.", "Wichtiger Umschlagplatz für landwirtschaftliche Güter."],
       hu: ["A déli oázisok kapujaként ismert.", "Fontos mezőgazdasági átrakóhely."],
@@ -339,14 +332,13 @@ export const poiExtraLibyaCitiesV2: POI[] = [
       hu: "Festői szépségű keleti város, amely zöldellő környezetéről és forrásairól híres.",
       ro: "Un oraș pitoresc în est, cunoscut pentru împrejurimile sale verzi și izvoarele de apă.",
       en: "A picturesque eastern city known for its green surroundings and water springs."
-    ,
+    },
     descriptionAdvanced: {
       en: "Derna boasts a unique microclimate and stunning geography, situated where the lush Jabal al Akhdar mountains meet the Mediterranean Sea. The city was once famous for its beautiful waterfalls and historic old town, reflecting Andalusian and Ottoman architectural influences. Although severely impacted by the catastrophic floods of 2023, Derna's cultural identity as a center of poetry and arts remains resilient. Geography K8 — natural disasters and urban recovery."
     },
     factsAdvanced: {
       en: ["Known for its unique position between mountains and sea.", "Historically influenced by Andalusian refugees in the 15th century.", "Famous for the Derna waterfalls in the Wadi Derna.", "Suffered massive destruction from Storm Daniel in September 2023.", "Traditionally a cultural hub for Libyan poetry and arts.", "Features distinct Ottoman-era architecture in its old city."]
-    }
-  },
+    },
     facts: {
       de: ["Einzige libysche Stadt mit einer bewaldeten Berglandschaft.", "Verfügt über eine reiche hellenistische Geschichte."],
       hu: ["Az egyetlen líbiai város, amely erdős hegyvidéki tájjal bír.", "Gazdag hellenisztikus múlttal rendelkezik."],
@@ -377,14 +369,13 @@ export const poiExtraLibyaCitiesV2: POI[] = [
       hu: "Fezzán régió legnagyobb települése és az ország délnyugati részének történelmi központja.",
       ro: "Cel mai mare oraș din Fezzan și centrul istoric din sud-vestul țării.",
       en: "The largest city in the Fezzan region and the historical center of the southwest."
-    ,
+    },
     descriptionAdvanced: {
       en: "Sabha is the undisputed capital of Libya's Fezzan region, a sprawling oasis city surrounded by the vast Sahara Desert. It serves as the primary commercial and transport hub for the entire southern sector of the country. The historic Fort Elena, perched on a hill, overlooks the city and tells tales of Italian colonial rule and indigenous resistance. Sabha's dusty, vibrant markets reflect the deep connections between Libya and Sub-Saharan Africa. Geography K7 — Saharan urban centers."
     },
     factsAdvanced: {
       en: ["Capital city of the southern Fezzan region.", "Features the prominent Fort Elena overlooking the city.", "A crucial hub for trade connecting to Sub-Saharan Africa.", "Located in a vast desert oasis environment.", "Sebha University is the largest educational center in the south.", "Historical center for caravan routes."]
-    }
-  },
+    },
     facts: {
       de: ["Hauptverkehrsknotenpunkt in die Sahara.", "Bekannt für sein Wüstenfort."],
       hu: ["Fő közlekedési csomópont a Szaharában.", "Híres az ott található sivatagi erődről."],
@@ -415,14 +406,13 @@ export const poiExtraLibyaCitiesV2: POI[] = [
       hu: "Tripolitól keletre fekvő tengerparti város, Leptis Magna romjainak közvetlen közelében.",
       ro: "Un oraș de coastă la est de Tripoli, în imediata apropiere a ruinelor Leptis Magna.",
       en: "A coastal city east of Tripoli, in close proximity to the ruins of Leptis Magna."
-    ,
+    },
     descriptionAdvanced: {
       en: "Khoms is globally recognized as the modern gateway to the spectacular Roman ruins of Leptis Magna, a UNESCO World Heritage site. The city itself thrives on agriculture and fishing, benefiting from a fertile coastal strip along the Mediterranean. Beyond its ancient neighbor, Khoms has developed its own industrial port and lively local markets. The juxtaposition of a bustling modern Libyan town against monumental ancient architecture is striking. History K6 — Roman empire in North Africa."
     },
     factsAdvanced: {
       en: ["Located about 120 kilometers east of Tripoli.", "Directly adjacent to the ancient Roman city of Leptis Magna.", "Economy driven by fishing, agriculture, and port activities.", "Produces high-quality olive oil and dates.", "A major tourist destination before recent conflicts.", "Founded formally during the Ottoman period."]
-    }
-  },
+    },
     facts: {
       de: ["Tourismuszentrum durch nahegelegene antike Stätten.", "Hat einen aktiven Handelshafen."],
       hu: ["A közeli ókori romok miatt turisztikai központ.", "Aktív kereskedelmi kikötővel rendelkezik."],
@@ -453,14 +443,13 @@ export const poiExtraLibyaCitiesV2: POI[] = [
       hu: "Központi fekvésű település egy sivatagi völgyben, a Warfalla törzs fellegvára.",
       ro: "Situat central într-o vale deșertică, este bastionul tribului Warfalla.",
       en: "Centrally located in a desert valley, it is the stronghold of the Warfalla tribe."
-    ,
+    },
     descriptionAdvanced: {
       en: "Bani Walid is deeply rooted in the rugged terrain of the Nafusa Mountains' eastern edges and the Wadi Merdum valley. Known for its strong tribal identity, particularly the Warfalla tribe, the city has a fiercely independent spirit. Olive groves dot the arid landscape, sustained by ancient and modern water management techniques. The city's geography offers natural defensive advantages, which played a significant role during the 2011 civil war. Sociology K8 — tribal structures and urban life."
     },
     factsAdvanced: {
       en: ["Home to the Warfalla, one of Libya's largest tribes.", "Situated along the Wadi Merdum, an ancient river valley.", "Located roughly 150 kilometers southeast of Tripoli.", "Known for extensive olive oil production.", "Features a rugged, defensible geographical position.", "Maintained strong resistance during the 2011 conflict."]
-    }
-  },
+    },
     facts: {
       de: ["Verfügt über einen modernen Universitätscampus.", "Bekannt für traditionelle Teppichweberei."],
       hu: ["Modern egyetemi kampusszal rendelkezik.", "Híres a hagyományos szőnyegszövéséről."],
@@ -491,14 +480,13 @@ export const poiExtraLibyaCitiesV2: POI[] = [
       hu: "A világ egyik legelszigeteltebb városa, amely egy hatalmas sivatagi oázisban fekszik.",
       ro: "Unul dintre cele mai izolate orașe din lume, situat într-o imensă oază de deșert.",
       en: "One of the most isolated cities in the world, located in a massive desert oasis."
-    ,
+    },
     descriptionAdvanced: {
       en: "Al Jawf, commonly known as Kufra, is one of the most isolated desert outposts on Earth, situated deep in the Libyan Sahara. Historically, it was a pivotal point for the Sanussi order and a crucial stop for trade and pilgrim caravans. Today, it is famous for its massive pivot irrigation circles that draw water from ancient underground aquifers to grow crops in the sand. The extreme arid climate shapes every aspect of life in this remote oasis. Geography K7 — desert agriculture and aquifers."
     },
     factsAdvanced: {
       en: ["Located in the remote southeastern Libyan desert.", "Historically a stronghold of the Sanussi religious order.", "Utilizes massive center-pivot irrigation systems visible from space.", "Taps into the Nubian Sandstone Aquifer System for water.", "Temperatures frequently exceed 40°C in the summer.", "A key historical stop for caravans traveling to Chad and Sudan."]
-    }
-  },
+    },
     facts: {
       de: ["Stützt sich auf riesige fossile Grundwasservorkommen.", "Zentrum des Karawanenhandels."],
       hu: ["Hatalmas fosszilis talajvízkészletekre támaszkodik.", "A történelmi karavánkereskedelem központja."],
@@ -529,14 +517,13 @@ export const poiExtraLibyaCitiesV2: POI[] = [
       hu: "Mezőgazdasági jellegű város, amely az ókori Barka romjaira épült.",
       ro: "Un oraș agricol construit pe ruinele anticei Barca.",
       en: "An agricultural city built upon the ruins of the ancient settlement of Barca."
-    ,
+    },
     descriptionAdvanced: {
       en: "Marj is nestled in a lush, elevated valley in the Jabal al Akhdar region, making it one of Libya's most important agricultural centers. The city was completely rebuilt after a devastating earthquake in 1963 leveled the ancient town of Barca. Today's modern grid layout contrasts with its deep historical roots dating back to Greek and Roman times. The fertile red soil surrounding the city produces abundant crops of wheat and barley. Geography K7 — agriculture and seismic events."
     },
     factsAdvanced: {
       en: ["Located in a fertile basin of the Jabal al Akhdar.", "Rebuilt entirely following a massive earthquake in 1963.", "Sits on the site of the ancient Greek city of Barca.", "A major producer of wheat, barley, and local produce.", "Known for its distinct reddish, fertile soil.", "Features a modern, planned urban grid."]
-    }
-  },
+    },
     facts: {
       de: ["Wurde nach einem Erdbeben 1963 neu errichtet.", "Zentrum des Weizenanbaus in der Region."],
       hu: ["Az 1963-as földrengés után újjáépítették.", "A régió búzatermesztésének központja."],
@@ -567,14 +554,13 @@ export const poiExtraLibyaCitiesV2: POI[] = [
       hu: "Magasan fekvő mezőgazdasági város, amely kiterjedt olajfaligeteiről ismert.",
       ro: "Un oraș agricol situat la altitudine, cunoscut pentru marile sale plantații de măslini.",
       en: "A high-altitude agricultural city renowned for its vast olive groves."
-    ,
+    },
     descriptionAdvanced: {
       en: "Tarhuna is often referred to as the agricultural lung of the Tripoli region, famous for its sprawling olive orchards and agricultural bounty. The city lies in a hilly landscape that receives slightly more rainfall than the coastal plains, allowing for diverse farming. It has a complex political history, heavily involved in the tribal dynamics of western Libya. The local markets are vibrant, showcasing the fresh produce that sustains the nearby capital. Geography K7 — regional agricultural economies."
     },
     factsAdvanced: {
       en: ["Located 65 kilometers to the southeast of Tripoli.", "Renowned for its vast olive groves and olive oil production.", "Sits in a hilly, agriculturally productive region.", "Historically a stronghold for the Tarhuna tribal confederation.", "Produces significant amounts of fruits and vegetables for the capital.", "Known for its traditional Friday markets."]
-    }
-  },
+    },
     facts: {
       de: ["Produziert einen Großteil des Olivenöls des Landes.", "Besitzt eine kühlere Klimazone als Tripolis."],
       hu: ["Az ország olívaolaj-termelésének nagy részét adja.", "Tripolinál hűvösebb éghajlattal rendelkezik."],
@@ -605,14 +591,13 @@ export const poiExtraLibyaCitiesV2: POI[] = [
       hu: "Északnyugati kis kikötőváros, ahol még ma is őrzik a hagyományos berber kultúrát.",
       ro: "Mic oraș portuar în nord-vest, unde se păstrează încă cultura tradițională berberă.",
       en: "Small port city in the northwest where traditional Berber culture is still maintained."
-    ,
+    },
     descriptionAdvanced: {
       en: "Zuwara is a distinctive coastal city near the Tunisian border, famous for its deeply rooted Amazigh (Berber) culture and language. Unlike most Libyan cities, the local population primarily speaks Zuwari, a dialect of the Amazigh language, alongside Arabic. The city relies heavily on fishing, cross-border trade, and its proximity to the Mellitah oil and gas complex. Its coastal setting and cultural uniqueness make it a standout location in western Libya. Sociology K8 — minority cultures and languages."
     },
     factsAdvanced: {
       en: ["Located just 60 kilometers from the Tunisian border.", "A major center for the indigenous Amazigh (Berber) culture.", "Residents commonly speak the Zuwari Berber dialect.", "Close to the Mellitah industrial gas complex.", "Economy relies heavily on fishing and border trade.", "Known for its distinct cultural festivals and traditions."]
-    }
-  },
+    },
     facts: {
       de: ["Bekannt für die Herstellung von Salz.", "Hat einen beliebten Sandstrand."],
       hu: ["Sólepárlóiról és sókitermeléséről ismert.", "Népszerű homokos tengerparttal rendelkezik."],
@@ -643,14 +628,13 @@ export const poiExtraLibyaCitiesV2: POI[] = [
       hu: "A Nafúsza-hegység központi hegyvidéki városa, híres földalatti barlanglakásairól.",
       ro: "Oraș montan central în Munții Nafusa, faimos pentru locuințele sale rupestre subterane.",
       en: "Central mountain city in the Nafusa Mountains, famous for its underground cave dwellings."
-    ,
+    },
     descriptionAdvanced: {
       en: "Gharyan stands as the gateway to the Nafusa Mountains, perched dramatically on an escarpment overlooking the Jafara plain. The city is famous for its troglodyte dwellings—underground homes carved into the rock that offer natural climate control against extreme temperatures. Additionally, Gharyan is the undisputed pottery capital of Libya, with vibrant ceramic markets lining the main roads. The steep, winding mountain road up to the city is a famous engineering feat. Geography K7 — mountain environments and traditional crafts."
     },
     factsAdvanced: {
       en: ["Located on the edge of the Nafusa Mountains at roughly 700 meters elevation.", "Famous for traditional underground troglodyte cave dwellings.", "Renowned across Libya for its extensive pottery and ceramics industry.", "Accessed by a dramatic, winding mountain road known as the Abu Ghilan pass.", "A major historical center for resistance against Italian colonization.", "Produces excellent olive oil and figs."]
-    }
-  },
+    },
     facts: {
       de: ["Zentrum der traditionellen libyschen Keramik.", "Bietet einen weiten Blick über die Wüstenebene."],
       hu: ["A hagyományos líbiai kerámia központja.", "Széles kilátást nyújt a sivatagi síkságra."],
@@ -681,14 +665,13 @@ export const poiExtraLibyaCitiesV2: POI[] = [
       hu: "Modern tengerparti város, amely egy jelentős ókori színház közvetlen közelében fekszik.",
       ro: "Oraș modern pe coastă, situat chiar lângă un teatru antic important.",
       en: "Modern coastal city located directly adjacent to an important ancient theater."
-    ,
+    },
     descriptionAdvanced: {
       en: "Sabratha is a modern coastal town that exists in the shadow of its magnificent ancient past. It is best known globally for the stunning Roman theater that overlooks the Mediterranean, part of a UNESCO World Heritage archaeological site. The modern town functions as an agricultural and fishing center, while also hosting a significant oil terminal. The contrast between daily contemporary Libyan life and towering ancient columns defines the city's atmosphere. History K6 — Roman architecture and coastal trade."
     },
     factsAdvanced: {
       en: ["Located 70 kilometers west of Tripoli along the coast.", "Home to a remarkably preserved 3rd-century Roman theater.", "The ancient ruins are designated as a UNESCO World Heritage site.", "Modern economy includes agriculture, fishing, and a nearby oil terminal.", "Originally founded as a Phoenician trading post.", "Features beautiful, expansive beaches along the Mediterranean."]
-    }
-  },
+    },
     facts: {
       de: ["UNESCO-Weltkulturerbe in direkter Nachbarschaft.", "Ein Anziehungspunkt für Touristen."],
       hu: ["UNESCO Világörökségi helyszín található a közvetlen szomszédságában.", "Fontos turisztikai célpont."],
@@ -719,14 +702,13 @@ export const poiExtraLibyaCitiesV2: POI[] = [
       hu: "Fejlődő város az ország nyugati részén, a tunéziai határ közelében.",
       ro: "Un oraș în creștere în vestul țării, aproape de granița tunisiană.",
       en: "A growing city in the western part of the country, near the Tunisian border."
-    ,
+    },
     descriptionAdvanced: {
       en: "Al Jamil is a rapidly growing urban center in the Nuqat al Khams district, functioning as an agricultural and administrative hub near the western border. The city benefits from the coastal aquifer, supporting local farming initiatives that produce olives, dates, and various vegetables. Its proximity to Zuwara and the Tunisian border makes it a critical node for regional trade and transport. The city has seen significant modernization in its infrastructure over the last two decades. Geography K7 — border trade and regional agriculture."
     },
     factsAdvanced: {
       en: ["Located in western Libya, close to the Tunisian border.", "Serves as an important agricultural center for the district.", "Produces olives, dates, and citrus fruits.", "A key hub for regional road transport and cross-border trade.", "Population has grown significantly due to urbanization.", "Features modern administrative and educational facilities."]
-    }
-  },
+    },
     facts: {
       de: ["Gilt als landwirtschaftliches Handelszentrum.", "Wichtiger Haltepunkt auf der Route nach Nordwesten."],
       hu: ["Mezőgazdasági kereskedelmi központként tartják számon.", "Fontos megálló az északnyugati útvonalon."],
@@ -757,14 +739,13 @@ export const poiExtraLibyaCitiesV2: POI[] = [
       hu: "Csendes tengerparti közösség, amely Závija és Szabráta között fekszik.",
       ro: "O comunitate de coastă liniștită, situată între Zawiya și Sabratha.",
       en: "A quiet coastal community nestled between Zawiya and Sabratha."
-    ,
+    },
     descriptionAdvanced: {
       en: "Surman is a bustling coastal city located just west of Zawiya, deeply integrated into the agricultural and commercial network of the Tripolitania region. The city is known for its sprawling markets and proximity to historical ruins that dot the coastline. Surman maintains a strong community feel, balancing its role as a modern transit point with traditional farming practices. It forms part of the densely populated western coastal corridor. Geography K7 — coastal urban corridors."
     },
     factsAdvanced: {
       en: ["Situated roughly 60 kilometers west of Tripoli.", "Part of the densely populated western coastal strip.", "Economy is supported by local agriculture and retail trade.", "Located near several minor ancient archaeological sites.", "Serves as a transit point between Tripoli and the Tunisian border.", "Known for its large local produce markets."]
-    }
-  },
+    },
     facts: {
       de: ["Beliebt für seinen waldreichen Nationalpark.", "Wichtige Station für den Binnentransport."],
       hu: ["Erdős nemzeti parkja miatt kedvelt kirándulóhely.", "Fontos állomás a belföldi áruszállításban."],
@@ -795,14 +776,13 @@ export const poiExtraLibyaCitiesV2: POI[] = [
       hu: "Jelentős hegyi város, amely mélyen gyökerezik a berber kulturális hagyományokban.",
       ro: "Un oraș montan important, adânc înrădăcinat în tradiția culturii berbere.",
       en: "A significant mountain town deeply rooted in the traditions of Berber culture."
-    ,
+    },
     descriptionAdvanced: {
       en: "Yefren is a deeply historical and cultural stronghold perched high in the Nafusa Mountains, offering breathtaking views of the plains below. It is a major center for the Amazigh (Berber) people, preserving their unique language, customs, and traditional architecture. The town features centuries-old mosques and fortified grain stores that speak to a long history of mountain resilience. Its elevated position gives it a cooler, more temperate climate than the coast. Sociology K8 — mountain cultures and indigenous heritage."
     },
     factsAdvanced: {
       en: ["Located high in the Nafusa Mountains.", "A central hub for Libya's Amazigh (Berber) population and culture.", "Features historic fortified architecture and ancient mosques.", "Offers a notably cooler climate due to its high elevation.", "Played a significant strategic role in the 2011 revolution.", "Surrounded by ancient olive and fig orchards."]
-    }
-  },
+    },
     facts: {
       de: ["Beeindruckende Architektur entlang steiler Hänge.", "Zentrum für lokale Handwerkskünste."],
       hu: ["Lenyűgöző építészet jellemzi a meredek lejtők mentén.", "A helyi kézműves mesterségek központja."],
@@ -833,14 +813,13 @@ export const poiExtraLibyaCitiesV2: POI[] = [
       hu: "A hegyvidék legnyugatibb nagyobb városa, amely jól megőrzött régi gabonatárolójáról ismert.",
       ro: "Cel mai vestic oraș mare din regiunea montană, cunoscut pentru vechiul său grânar bine conservat.",
       en: "The westernmost major town of the mountain region, known for its well-preserved ancient granary."
-    ,
+    },
     descriptionAdvanced: {
       en: "Nalut is a visually stunning mountain town located near the Tunisian border, famous for its spectacular ancient granary, the Qasr Nalut. This multi-story, fortified structure was used by the local Amazigh tribes for centuries to store oil and grain safely. The town sits on a dramatic cliff edge, overlooking the harsh desert below. Nalut represents a profound connection to indigenous Berber traditions and architectural ingenuity. History K7 — indigenous architecture and survival strategies."
     },
     factsAdvanced: {
       en: ["Located at the western end of the Nafusa Mountains near Tunisia.", "Famous for the Qasr Nalut, an ancient fortified granary.", "A major center of Amazigh (Berber) culture and language.", "Built on a steep cliff offering immense defensive advantages.", "Historically a crucial stop for caravans trading across the mountains.", "Features a distinctive, rugged, and arid mountain landscape."]
-    }
-  },
+    },
     facts: {
       de: ["Das alte Qasr (Speicherburg) ist eine Hauptattraktion.", "Nahe der tunesischen Grenze gelegen."],
       hu: ["A régi Qasr (erődítmény-tároló) a fő látványosság.", "A tunéziai határ közelében helyezkedik el."],
@@ -871,14 +850,13 @@ export const poiExtraLibyaCitiesV2: POI[] = [
       hu: "Oázisváros mélyen a délnyugati részen, egykor a transzszaharai kereskedelem központja volt.",
       ro: "Un oraș-oază adânc în sud-vest, fost centru al comerțului transsaharian.",
       en: "An oasis town deep in the southwest, once a major center of the trans-Saharan trade."
-    ,
+    },
     descriptionAdvanced: {
       en: "Murzuq is a historic oasis city deep in the Fezzan region, characterized by its towering sand dunes and intense Saharan environment. For centuries, it was a major terminus for trans-Saharan slave and trade caravans moving between Central Africa and the Mediterranean. The remains of a massive Ottoman-era fort still dominate the city center. Today, it struggles with the harsh realities of desert life but remains a critical cultural and historical landmark. History K8 — trans-Saharan trade routes."
     },
     factsAdvanced: {
       en: ["Located deep in the Sahara Desert in the Fezzan region.", "Historically a primary hub for trans-Saharan trade and caravans.", "Features a large, prominent Ottoman-era fortress.", "Surrounded by massive sand dune seas (Erg Murzuq).", "Home to diverse Saharan ethnic groups, including the Toubou.", "Experiences extreme summer temperatures typical of the deep Sahara."]
-    }
-  },
+    },
     facts: {
       de: ["Die Architektur ist an extreme Hitze angepasst.", "Besitzt eine alte historische Festung."],
       hu: ["Építészetét az extrém hőséghez igazították.", "Egy régi történelmi erőddel is rendelkezik."],
@@ -909,14 +887,13 @@ export const poiExtraLibyaCitiesV2: POI[] = [
       hu: "Fontos szaharai csomópont, amely a környező homokdűnékről és tavakról híres.",
       ro: "Un nod important în Sahara, faimos pentru dunele de nisip și lacurile înconjurătoare.",
       en: "An important hub in the Sahara, famous for the surrounding sand dunes and lakes."
-    ,
+    },
     descriptionAdvanced: {
       en: "Awbari, often known as Ubari, lies in the heart of the Fezzan region and is famous for the stunning Ubari Sand Sea nearby. The town is a critical hub for the Tuareg people, preserving deep Saharan traditions and survival techniques. It functions as a gateway to several highly saline, picturesque desert lakes, such as the Gaberoun oasis. Historically, it was a pivotal rest stop for caravans crossing the unforgiving desert toward Niger and Algeria. Geography K7 — desert lakes and Tuareg culture."
     },
     factsAdvanced: {
       en: ["Located in the Wadi al Hayaa district of the Fezzan region.", "Serves as a primary cultural center for the Tuareg ethnic group.", "Close to the famous hyper-saline Gaberoun desert lake.", "Surrounded by the massive dunes of the Ubari Sand Sea.", "Experiences extreme temperature shifts between day and night.", "Historically a major stop on the trans-Saharan trade routes."]
-    }
-  },
+    },
     facts: {
       de: ["Ausgangspunkt für Wüstenexpeditionen.", "Traditionelle Siedlung der Tuareg."],
       hu: ["A sivatagi expedíciók kedvelt kiindulópontja.", "Hagyományos tuareg település."],
@@ -947,14 +924,13 @@ export const poiExtraLibyaCitiesV2: POI[] = [
       hu: "Határváros Algéria mellett a legdélebbi ponton, a tuareg kultúra egyik központja.",
       ro: "Oraș de frontieră cu Algeria în sudul îndepărtat, un centru cultural al tuaregilor.",
       en: "Border town with Algeria in the deep south, a major cultural center of the Tuareg."
-    ,
+    },
     descriptionAdvanced: {
       en: "Ghat is a fascinating oasis town situated near the Algerian border, set against the dramatic backdrop of the Acacus Mountains. It is renowned for its historic medina, a labyrinth of mud-brick houses and covered alleys designed to ward off the intense Saharan heat. As a major Tuareg center, Ghat hosts vibrant cultural festivals that draw travelers from across the region. The nearby Acacus rock art highlights thousands of years of human habitation in what is now hyper-arid desert. Sociology K8 — Saharan architecture and rock art."
     },
     factsAdvanced: {
       en: ["Situated in southwestern Libya near the border with Algeria.", "Features a well-preserved ancient medina made of mud-brick.", "A vital center for Tuareg culture and the Ghat festival.", "Located near the UNESCO-listed Tadrart Acacus rock art sites.", "Was historically a major terminus for the slave and gold trade.", "The Acacus mountains provide a striking, rugged backdrop."]
-    }
-  },
+    },
     facts: {
       de: ["Historischer Handelsknotenpunkt.", "Bekannt für das jährliche Kulturfestival."],
       hu: ["Történelmi kereskedelmi csomópont.", "Híres az évente megrendezett kulturális fesztiváljáról."],
@@ -983,16 +959,15 @@ export const poiExtraLibyaCitiesV2: POI[] = [
     description: {
       de: "Die 'Perle der Wüste', eine UNESCO-geschützte Oasenstadt mit einzigartiger Architektur.",
       hu: "A 'sivatag gyöngyeként' is ismert, UNESCO-védelem alatt álló, egyedi építészetű oázisváros.",
-      ro: "„Perla Deșertului”, un oraș-oază protejat de UNESCO cu o arhitectură unică.",
+      ro: "\"Perla Deșertului\", un oraș-oază protejat de UNESCO cu o arhitectură unică.",
       en: "The 'Pearl of the Desert', a UNESCO-protected oasis town with unique architecture."
-    ,
+    },
     descriptionAdvanced: {
       en: "Known affectionately as the 'Pearl of the Desert', Ghadames is one of the oldest pre-Saharan cities and a UNESCO World Heritage site. Its unique architecture separates the town vertically; ground-level covered walkways are used by men, while women traditionally moved across interconnected rooftop terraces. This brilliant urban design creates a naturally air-conditioned environment. Lying at the intersection of Libya, Algeria, and Tunisia, it has always been a cosmopolitan trading hub. History K7 — brilliant desert urban planning."
     },
     factsAdvanced: {
       en: ["Often referred to as the 'Pearl of the Desert'.", "Designated as a UNESCO World Heritage site in 1986.", "Located near the tri-border point of Libya, Tunisia, and Algeria.", "Features unique multi-level architecture for gender separation.", "Historically a vital hub for trans-Saharan merchants.", "Buildings are made of mud, lime, and palm tree trunks."]
-    }
-  },
+    },
     facts: {
       de: ["Häuser sind aus Lehm und Palmholz gebaut.", "Ein ausgeklügeltes traditionelles Wassersystem."],
       hu: ["Házait vályogból és pálmafából építették.", "Kifinomult hagyományos vízrendszerrel bír."],
@@ -1023,14 +998,13 @@ export const poiExtraLibyaCitiesV2: POI[] = [
       hu: "A Dzsufra régió központja, amelyet fekete hegyek és a sivatag ölel körbe.",
       ro: "Capitala districtului Jufra, înconjurată de munți negri și deșert.",
       en: "The capital of the Jufra district, surrounded by black mountains and desert."
-    ,
+    },
     descriptionAdvanced: {
       en: "Hun is the administrative capital of the Al Jufra district, situated exactly in the geographical center of Libya. It forms a triad of oasis towns alongside Waddan and Sokna, collectively surrounded by the harsh Black Haruj mountains and vast deserts. The town is particularly famous for its annual International Autumn Tourism Festival, which celebrates the local date harvest and traditional music. Its central location makes it a strategic military and administrative point. Geography K7 — central oasis clusters."
     },
     factsAdvanced: {
       en: ["Serves as the capital of the central Al Jufra District.", "Located roughly at the exact geographical center of Libya.", "Part of the Al Jufra oasis group with Waddan and Sokna.", "Hosts the annual International Autumn Tourism Festival.", "Renowned for its high-quality date palm cultivation.", "Surrounded by the stark, volcanic Black Haruj landscape."]
-    }
-  },
+    },
     facts: {
       de: ["Bekannt für das jährliche Dattelfestival.", "Zentral gelegen im Herzen Libyens."],
       hu: ["Az évente megrendezett datolyafesztiváljáról ismert.", "Líbia szívében, központi helyen fekszik."],
@@ -1061,14 +1035,13 @@ export const poiExtraLibyaCitiesV2: POI[] = [
       hu: "A Dzsufra-oázis legrégebbi városa, amely mély történelmi gyökerekkel rendelkezik.",
       ro: "Cel mai vechi oraș din oaza Jufra, cu rădăcini istorice profunde.",
       en: "The oldest town in the Jufra oasis with deep historical roots."
-    ,
+    },
     descriptionAdvanced: {
       en: "Waddan is the oldest town in the Al Jufra oasis cluster, boasting ancient roots that predate the Islamic conquest of North Africa. The town is situated on a major intersection of historical trade routes and features the ruins of ancient fortresses. Today, it remains a quiet agricultural center, heavily reliant on the extensive date palm plantations that thrive in the depression. The contrast between the green oasis and the surrounding black volcanic rock is visually striking. History K6 — early Saharan settlements."
     },
     factsAdvanced: {
       en: ["The oldest settlement in the Al Jufra district.", "Located at the crossroads of ancient North African trade routes.", "Features the ruins of several historical fortresses.", "Economy is heavily based on agriculture, specifically dates.", "Sits near the northern edge of the Black Haruj volcanic field.", "Has a small but deeply rooted indigenous population."]
-    }
-  },
+    },
     facts: {
       de: ["War früher eine bedeutende Karawanenstation.", "Verfügt über natürliche Heißwasserquellen."],
       hu: ["Korábban egy jelentős karavánállomás volt.", "Természetes melegvizű forrásokkal rendelkezik."],
@@ -1099,14 +1072,13 @@ export const poiExtraLibyaCitiesV2: POI[] = [
       hu: "A Vádi as-Sati völgy központja, amelyet a mezőgazdasági fejlődés jellemez.",
       ro: "Centrul văii Wadi al-Shatii, caracterizat de dezvoltarea agricolă.",
       en: "Center of the Wadi al-Shatii valley, characterized by agricultural development."
-    ,
+    },
     descriptionAdvanced: {
       en: "Brak is a prominent town in the Wadi al Shatii district, situated in a long depression that historically supported thriving agriculture. The town is characterized by its large palm groves and vital groundwater resources that make life possible in the deep desert. Brak is also an educational center, hosting branches of Sebha University. Its location makes it a crucial stepping stone between the northern coast and the deep southern Fezzan. Geography K7 — desert valleys and agriculture."
     },
     factsAdvanced: {
       en: ["Located in the Wadi al Shatii depression in the Fezzan.", "A major agricultural center known for palm dates and grains.", "Hosts faculties belonging to Sebha University.", "Serves as a transitional hub between Tripolitania and Fezzan.", "Relies heavily on deep underground aquifers for survival.", "Historically a stopping point for caravans heading north."]
-    }
-  },
+    },
     facts: {
       de: ["Standort einer technischen Hochschule.", "Umgeben von weiten Palmenhainen."],
       hu: ["Egy műszaki főiskola székhelye.", "Kiterjedt pálmaligetek veszik körül."],
@@ -1137,14 +1109,13 @@ export const poiExtraLibyaCitiesV2: POI[] = [
       hu: "Kicsi, de stratégiailag fontos előretolt helyőrség a Csád felé vezető úton.",
       ro: "Un avanpost mic, dar strategic important, pe drumul spre Ciad.",
       en: "A small but strategically important outpost on the route towards Chad."
-    ,
+    },
     descriptionAdvanced: {
       en: "Al Qatrun is one of the southernmost outposts in Libya, located on the main route heading towards Niger and Chad. It serves as a vital frontier town, heavily involved in cross-border trade, migration routes, and desert logistics. The town is predominantly inhabited by the Toubou people, who have navigated the harsh Saharan conditions for centuries. The intense heat and isolation make Al Qatrun a challenging but critical waypoint in the deep desert. Sociology K8 — frontier towns and Toubou culture."
     },
     factsAdvanced: {
       en: ["Located in extreme southern Libya, south of Murzuq.", "A major transit hub for routes heading into Niger and Chad.", "Population includes a large proportion of the Toubou ethnic group.", "Economy relies heavily on cross-border logistics and trade.", "Experiences extremely arid conditions and intense summer heat.", "Historically the last major stop before crossing the deep Sahara."]
-    }
-  },
+    },
     facts: {
       de: ["Stark von der Sahara-Umgebung geprägt.", "Handelspunkt für den grenzüberschreitenden Verkehr."],
       hu: ["Környezetét erősen meghatározza a Szahara.", "Kereskedelmi pont a határon átnyúló forgalom számára."],
@@ -1175,14 +1146,13 @@ export const poiExtraLibyaCitiesV2: POI[] = [
       hu: "A Nafúsza-hegység egyik fellegvára, amely jelentős szerepet játszott a közelmúlt történelmében.",
       ro: "Un bastion în Munții Nafusa, care a jucat un rol influent în istoria recentă.",
       en: "A stronghold in the Nafusa Mountains that played an influential role in recent history."
-    ,
+    },
     descriptionAdvanced: {
       en: "Zintan is a rugged, strategically vital city located high in the Nafusa Mountains, overlooking the northwestern plains. Known for its fierce independence and strong tribal networks, Zintan played a disproportionately large role in the 2011 Libyan revolution. The city's elevated position provides a cooler climate than the coast and natural defensive walls. Its economy mixes mountain agriculture, such as olives and figs, with significant involvement in national security. History K8 — modern revolution and mountain strongholds."
     },
     factsAdvanced: {
       en: ["Situated in the Nafusa Mountains roughly 136 kilometers southwest of Tripoli.", "Played a critical military role in the 2011 revolution.", "Known for its strong, fiercely independent tribal alliances.", "Features a notably cooler climate due to its high elevation.", "Economy blends traditional agriculture with military logistics.", "Surrounded by historic olive, almond, and fig orchards."]
-    }
-  },
+    },
     facts: {
       de: ["Eine der größten Städte der Bergregion.", "Ihre Einwohner sind als traditionsbewusst bekannt."],
       hu: ["A hegyvidéki régió egyik legnagyobb városa.", "Lakói híresek hagyományőrző életmódjukról."],
@@ -1213,14 +1183,13 @@ export const poiExtraLibyaCitiesV2: POI[] = [
       hu: "Kapocs az északi hegyvidékek és a Fezzán hatalmas kiterjedésű területei között.",
       ro: "Un punct de legătură între munții nordului și întinderile din Fezzan.",
       en: "A connecting point between the northern mountains and the vastness of the Fezzan."
-    ,
+    },
     descriptionAdvanced: {
       en: "Mizda serves as an important junction town situated where the Nafusa Mountains begin to flatten out into the Hamada al Hamra (Red Desert). Historically, it was a critical choke point for Italian colonial forces attempting to control the southern routes. Today, it is a transit hub connecting Tripoli to the deeper Fezzan region. The town is characterized by its dusty, functional atmosphere, acting as a gateway for truckers and travelers heading south. Geography K7 — desert transition zones."
     },
     factsAdvanced: {
       en: ["Located south of Tripoli, at the edge of the Hamada al Hamra.", "Serves as a primary junction connecting the coast to the Fezzan.", "Historically a strategic military checkpoint during colonial times.", "Marks the geographical transition from mountains to deep desert.", "Economy is largely driven by transport, logistics, and trade.", "Summers are intensely hot, reflecting the proximity to the Sahara."]
-    }
-  },
+    },
     facts: {
       de: ["Wichtiger Transitort.", "Liegt an einer Kreuzung historischer Handelsrouten."],
       hu: ["Fontos tranzitállomás.", "Történelmi kereskedelmi útvonalak kereszteződésében fekszik."],
@@ -1251,14 +1220,13 @@ export const poiExtraLibyaCitiesV2: POI[] = [
       hu: "Modern település az ókori Küréné fenséges romjai mellett.",
       ro: "O așezare modernă chiar lângă ruinele maiestuoase ale orașului antic Cirene.",
       en: "Modern settlement directly adjacent to the majestic ruins of the ancient city of Cyrene."
-    ,
+    },
     descriptionAdvanced: {
       en: "Shahhat is the modern settlement that grew directly adjacent to the breathtaking ancient Greek ruins of Cyrene. Located in the lush Jabal al Akhdar region, the town enjoys a Mediterranean climate that feels entirely detached from the typical Libyan desert. While the ancient temples and amphitheaters draw international attention, the modern town is a quiet agricultural community. The juxtaposition of daily life happening right next to millennia-old columns makes Shahhat unique. History K6 — ancient Greek colonization."
     },
     factsAdvanced: {
       en: ["Located in the verdant Jabal al Akhdar mountains.", "Directly adjacent to the UNESCO-listed ancient ruins of Cyrene.", "Enjoys a mild, rainy Mediterranean climate.", "Historically one of the principal cities of the Hellenic world.", "Modern economy is based on agriculture and local tourism.", "Surrounded by dense forests and deep ravines."]
-    }
-  },
+    },
     facts: {
       de: ["Dient als Ausgangspunkt für Ruinenbesichtigungen.", "Geprägt durch ein relativ mildes Mikroklima."],
       hu: ["A romlátogatások kiindulópontjaként szolgál.", "Viszonylag enyhe mikroklíma jellemzi."],
@@ -1289,14 +1257,13 @@ export const poiExtraLibyaCitiesV2: POI[] = [
       hu: "Északkeleti tengerparti város, amelyet az ókorban Apollónia néven ismertek.",
       ro: "Un oraș de coastă în nord-est, cunoscut sub numele de antica Apollonia.",
       en: "A coastal town in the northeast, known historically as the ancient Apollonia."
-    ,
+    },
     descriptionAdvanced: {
       en: "Susa is a picturesque coastal town in eastern Libya that sits atop the ancient Greek port city of Apollonia. It serves as the maritime gateway to the Jabal al Akhdar region and the ruins of Cyrene located just inland. The town is famous for its partially submerged ruins, clear Mediterranean waters, and active fishing port. Susa has managed to retain a sleepy, historic charm despite its proximity to major archaeological sites. Geography K7 — coastal antiquities and fishing."
     },
     factsAdvanced: {
       en: ["Located on the Mediterranean coast in the Jabal al Akhdar district.", "Built on the site of the ancient Greek city of Apollonia.", "Features extensive, partially submerged ancient harbor ruins.", "Serves as the traditional port for the inland city of Cyrene.", "Economy is heavily reliant on fishing and local tourism.", "Known for its pristine, clear coastal waters."]
-    }
-  },
+    },
     facts: {
       de: ["War einst der Hafen von Kyrene.", "Besitzt beeindruckende versunkene Ruinen im Meer."],
       hu: ["Egykor Küréné kikötője volt.", "Lenyűgöző, tengerbe süllyedt romokkal rendelkezik."],
@@ -1327,14 +1294,13 @@ export const poiExtraLibyaCitiesV2: POI[] = [
       hu: "A keleti líbiai sivatag egyik legjelentősebb oáziscsoportjának központja.",
       ro: "Centrul importantului grup de oaze din deșertul libian din est.",
       en: "Center of the significant oasis group in the Libyan desert in the east."
-    ,
+    },
     descriptionAdvanced: {
       en: "Jalu is a vital oasis town located deep in the eastern Libyan desert, serving as a critical logistical base for the massive oil fields of the Sirte Basin. Historically, it was an important stop on the caravan routes connecting the coast to the Kufra oasis. The town sits in a vast depression and is surrounded by extensive date palm plantations. Jalu's modern existence is defined by the constant hum of oil industry transport passing through its dusty streets. Geography K8 — oil logistics and oasis life."
     },
     factsAdvanced: {
       en: ["Located in a desert depression in eastern Libya.", "A primary logistical hub for the Sirte Basin oil industry.", "Historically a crucial caravan stop between Ajdabiya and Kufra.", "Surrounded by vast, productive date palm plantations.", "Features an extremely arid, hot desert climate.", "Home to a diverse mix of local tribes and oil workers."]
-    }
-  },
+    },
     facts: {
       de: ["Stark mit der Erdölindustrie verbunden.", "Bewahrt einzigartige lokale Dialekte."],
       hu: ["Erősen kötődik a kőolajiparhoz.", "Egyedi helyi dialektusokat őriz."],
@@ -1365,14 +1331,13 @@ export const poiExtraLibyaCitiesV2: POI[] = [
       hu: "Észak-Afrika egyik legrégebbi oázistelepülése, kivételes vályogépítészettel.",
       ro: "Una dintre cele mai vechi așezări-oază din Africa de Nord, cu o arhitectură remarcabilă din chirpici.",
       en: "One of the oldest oasis settlements in North Africa featuring exceptional mud-brick architecture."
-    ,
+    },
     descriptionAdvanced: {
       en: "Awjila is one of the oldest continuously inhabited oases in North Africa, located in the eastern desert near Jalu. It is famous for its unique Awjila language, an endangered Berber dialect spoken by a small fraction of the population. The town features highly distinctive conical mud-brick mosques that are unlike anything else in Libya. Awjila perfectly preserves the feeling of ancient trans-Saharan isolation, sustained entirely by underground water and date palms. Sociology K8 — endangered languages and ancient architecture."
     },
     factsAdvanced: {
       en: ["One of the oldest continuously inhabited oases in Libya.", "Home to the critically endangered Awjila Berber language.", "Features the famous Atik Mosque with distinct conical domes.", "Located in the eastern desert, closely tied to neighboring Jalu.", "Economy is entirely dependent on date palm agriculture.", "Mentioned in historical texts dating back to ancient Egypt."]
-    }
-  },
+    },
     facts: {
       de: ["Bekannt für die einzigartige Atiq-Moschee.", "Traditioneller Anbau von hochwertigen Datteln."],
       hu: ["Híres az egyedülálló Atiq-mecsetről.", "Hagyományos, kiváló minőségű datolyatermesztés folyik itt."],
@@ -1403,14 +1368,13 @@ export const poiExtraLibyaCitiesV2: POI[] = [
       hu: "Elszigetelt oázis a Szirtika-medence szívében.",
       ro: "O oază izolată în inima bazinului Sirtica.",
       en: "An isolated oasis in the heart of the Sirtica basin."
-    ,
+    },
     descriptionAdvanced: {
       en: "Zella is a small, remote oasis town situated on the eastern fringes of the Al Jufra district, nestled near the dramatic volcanic landscape of the Black Haruj. It is highly isolated, relying heavily on a few roads that connect it to the central oil fields and the coast. The town has an ancient history tied to early Saharan trade but today functions mainly as a quiet agricultural outpost. Zella's proximity to active oil infrastructure provides its main modern economic lifeline. Geography K7 — isolated oases and oil."
     },
     factsAdvanced: {
       en: ["Located on the eastern edge of the central Al Jufra district.", "Sits close to the dramatic, volcanic Black Haruj mountains.", "A highly remote oasis dependent on date palm agriculture.", "Close to several key Sirte Basin oil fields.", "Historically served as a minor caravan resting point.", "Population is small, maintaining deep traditional roots."]
-    }
-  },
+    },
     facts: {
       de: ["Umgeben von weiten Erdölfeldern.", "Kleiner lokaler Dattelmarkt."],
       hu: ["Hatalmas kőolajmezők veszik körül.", "Kisebb helyi datolyapiaccal rendelkezik."],
@@ -1441,14 +1405,13 @@ export const poiExtraLibyaCitiesV2: POI[] = [
       hu: "Csendes központ a Dzsufra körzetben, amely pálmákban és hagyományokban gazdag.",
       ro: "Un centru liniștit în districtul Jufra, bogat în palmieri și tradiții.",
       en: "A quiet center in the Jufra district, rich in palm trees and traditions."
-    ,
+    },
     descriptionAdvanced: {
       en: "Sokna completes the triad of oasis towns in the central Al Jufra district, located slightly west of Hun and Waddan. It is known for its relatively lush palm groves and quiet, traditional way of life. The town sits directly on the threshold of the deep desert, offering striking views of the surrounding barren landscape. Historically, Sokna was a melting pot for traders moving goods between Tripolitania and the Fezzan, though today it is primarily agricultural. History K6 — central Saharan trade."
     },
     factsAdvanced: {
       en: ["One of the three main towns in the Al Jufra oasis cluster.", "Located strategically between the coast and the Fezzan region.", "Economy is centered around date palm cultivation.", "Historically a resting point for trans-Saharan merchants.", "Features a notably quiet, traditional desert lifestyle.", "Surrounded by harsh, stony desert terrain."]
-    }
-  },
+    },
     facts: {
       de: ["Bewahrt eine alte Festungsruine.", "Teil des fruchtbaren Oasendreiecks."],
       hu: ["Egy régi erőd romjait őrzi.", "A termékeny oázisháromszög része."],
@@ -1479,14 +1442,13 @@ export const poiExtraLibyaCitiesV2: POI[] = [
       hu: "Jellegzetes kis település a Nafúsza-hegység lábánál.",
       ro: "O mică așezare tipică la poalele Munților Nafusa.",
       en: "A typical small settlement at the foot of the Nafusa Mountains."
-    ,
+    },
     descriptionAdvanced: {
-      en: "Tiji is a small, strategically positioned town near the western border of Libya, sitting in the foothills of the Nafusa Mountains. It acts as an important localized hub for agriculture and cross-border trade with Tunisia. The town is known for its resilient local population who cultivate olives and grain in the rocky, semi-arid soil. Tiji’s location makes it a quiet but crucial node in the complex network of western Libyan tribal and trade alliances. Geography K7 — border towns and mountain foothills."
+      en: "Tiji is a small, strategically positioned town near the western border of Libya, sitting in the foothills of the Nafusa Mountains. It acts as an important localized hub for agriculture and cross-border trade with Tunisia. The town is known for its resilient local population who cultivate olives and grain in the rocky, semi-arid soil. Tiji's location makes it a quiet but crucial node in the complex network of western Libyan tribal and trade alliances. Geography K7 — border towns and mountain foothills."
     },
     factsAdvanced: {
       en: ["Located in western Libya near the Nafusa Mountains.", "Serves as a minor hub for cross-border trade with Tunisia.", "Economy relies on hardy agriculture like olives and grains.", "Sits in a semi-arid, rocky transition zone.", "Population is small but holds strong tribal affiliations.", "Connects the deep mountains to the coastal plains."]
-    }
-  },
+    },
     facts: {
       de: ["Geprägt von landwirtschaftlicher Nutzung der Ebenen.", "Dient als lokaler Marktort."],
       hu: ["A síkságok mezőgazdasági hasznosítása jellemzi.", "Helyi piacközpontként szolgál."],
@@ -1517,14 +1479,13 @@ export const poiExtraLibyaCitiesV2: POI[] = [
       hu: "A legfontosabb szárazföldi határátkelőhely Líbia és Tunézia között.",
       ro: "Cea mai importantă trecere de frontieră terestră între Libia și Tunisia.",
       en: "The most important land border crossing between Libya and Tunisia."
-    ,
+    },
     descriptionAdvanced: {
       en: "Wazin is the definitive border crossing town in the extreme northwest of Libya, directly connecting the Nafusa Mountains to Tunisia. Due to its location, the town's entire existence revolves around border logistics, customs, and the flow of goods and people. The surrounding terrain is steep and rocky, providing dramatic views into Tunisian territory. During conflicts, Wazin frequently becomes a highly contested strategic chokepoint due to its border access. Geography K8 — international borders and logistics."
     },
     factsAdvanced: {
       en: ["Located directly on the Libyan-Tunisian border.", "Functions as a primary international border crossing point.", "Situated at the far western edge of the Nafusa Mountains.", "Economy is almost entirely based on trade and customs logistics.", "Frequently a strategic flashpoint during national conflicts.", "Features steep, rocky, and highly defensible terrain."]
-    }
-  },
+    },
     facts: {
       de: ["Starker Güterverkehr passiert die Stadt.", "Verfügt über ein eigenes historisches Zentrum."],
       hu: ["Nagyarányú áruforgalom halad át a városon.", "Saját történelmi központtal rendelkezik."],
@@ -1555,14 +1516,13 @@ export const poiExtraLibyaCitiesV2: POI[] = [
       hu: "Mezőgazdasági csomópont Bengázitól keletre a termékeny felvidéken.",
       ro: "Un nod agricol la est de Benghazi, în zonele muntoase fertile.",
       en: "An agricultural hub east of Benghazi in the fertile highlands."
-    ,
+    },
     descriptionAdvanced: {
       en: "Al Abyar is a bustling agricultural city located east of Benghazi, sitting on the fertile plains just before the terrain rises into the Jabal al Akhdar. The city is highly regarded for its robust farming sector, producing significant quantities of wheat, barley, and livestock. It acts as a massive rural suburb to Benghazi, feeding the coastal metropolis. Al Abyar has a strong traditional Bedouin culture, deeply tied to the land and historical tribal structures. Sociology K7 — rural-urban dynamics and agriculture."
     },
     factsAdvanced: {
       en: ["Located roughly 50 kilometers east of Benghazi.", "A major agricultural center producing wheat and barley.", "Sits in the transition zone before the Jabal al Akhdar mountains.", "Acts as a primary food supplier to the Benghazi metropolitan area.", "Maintains a strong, traditional Bedouin cultural identity.", "A key logistical point connecting the coast to the inland mountains."]
-    }
-  },
+    },
     facts: {
       de: ["Umgeben von Getreidefeldern.", "Bietet einen kühleren Zufluchtsort im Sommer."],
       hu: ["Búzaföldek veszik körül.", "Nyáron hűvösebb menedéket nyújt."],
@@ -1593,14 +1553,13 @@ export const poiExtraLibyaCitiesV2: POI[] = [
       hu: "Vidéki város Bengázitól délre, amely nagy történelmi jelentőséggel bír.",
       ro: "Un oraș rural la sud de Benghazi, cu o mare semnificație istorică.",
       en: "A rural town south of Benghazi with significant historical importance."
-    ,
+    },
     descriptionAdvanced: {
       en: "Suluq is a town with profound historical weight, located south of Benghazi on the coastal plain. It is most famously known as the site where the legendary Libyan resistance leader, Omar Mukhtar, was executed by Italian colonial forces in 1931. Today, it is a quiet agricultural and administrative center, though it remains a site of national pilgrimage and remembrance. The town is surrounded by expansive semi-arid grazing lands used by local herders. History K8 — colonial resistance and national heroes."
     },
     factsAdvanced: {
       en: ["Located about 50 kilometers south of Benghazi.", "The site of Omar Mukhtar's execution by Italy in 1931.", "Considered a site of profound historical remembrance in Libya.", "Economy is based primarily on agriculture and livestock herding.", "Sits on the flat, semi-arid coastal plain of Cyrenaica.", "Functions as a local administrative hub for surrounding villages."]
-    }
-  },
+    },
     facts: {
       de: ["Ort der Hinrichtung des Freiheitskämpfers Omar al-Mochtar.", "Erinnerungsort für den Widerstand."],
       hu: ["Omar al-Mukhtar szabadságharcos kivégzésének helyszíne.", "Az ellenállás fontos emlékhelye."],
@@ -1631,14 +1590,13 @@ export const poiExtraLibyaCitiesV2: POI[] = [
       hu: "Kis mezőgazdasági település a Bengázi régióban, a Földközi-tenger partjának közelében.",
       ro: "Mică așezare agricolă în regiunea Benghazi, aproape de coasta mediteraneană.",
       en: "Small agricultural settlement in the Benghazi region, close to the Mediterranean coast."
-    ,
+    },
     descriptionAdvanced: {
       en: "Qaminis is a modest coastal town situated between Benghazi and Ajdabiya, functioning primarily as an agricultural and transit hub. The town is known for its fertile coastal strip, which allows for the cultivation of various vegetables and fruits. Because it lies directly on the main coastal highway, Qaminis sees heavy daily traffic, integrating it tightly into the regional economy. It represents the typical, quiet coastal life of eastern Tripolitania. Geography K7 — coastal highways and local farming."
     },
     factsAdvanced: {
       en: ["Located on the main coastal highway south of Benghazi.", "Economy is driven by local agriculture and highway commerce.", "Sits on a fertile strip of land near the Mediterranean Sea.", "Acts as a major transit point between Benghazi and Ajdabiya.", "Produces significant local crops including vegetables and dates.", "Maintains a quiet, traditional community atmosphere."]
-    }
-  },
+    },
     facts: {
       de: ["Zentrum für die lokale Versorgung mit Lebensmitteln.", "Ruhige ländliche Atmosphäre."],
       hu: ["A helyi élelmiszer-ellátás központja.", "Nyugodt vidéki atmoszféra jellemzi."],
@@ -1669,14 +1627,13 @@ export const poiExtraLibyaCitiesV2: POI[] = [
       hu: "Ókori görög tengerparti város, melynek romjai közvetlenül a modern központ mellett találhatók.",
       ro: "Un oraș antic grec de coastă, ale cărui ruine se află chiar lângă centrul modern.",
       en: "An ancient Greek coastal town whose ruins lie right next to the modern center."
-    ,
+    },
     descriptionAdvanced: {
       en: "Tukrah, known historically as Taucheira, is a coastal town northeast of Benghazi that overlays a rich tapestry of ancient history. It was one of the original five cities of the Greek Pentapolis of Cyrenaica, and substantial Roman and Byzantine ruins still exist near the modern settlement. Today, Tukrah is a quiet fishing and agricultural village, though its ancient past occasionally draws archaeologists and historians. The town offers beautiful, unspoiled views of the Mediterranean. History K6 — the Greek Pentapolis."
     },
     factsAdvanced: {
       en: ["Located on the Mediterranean coast northeast of Benghazi.", "Built on the site of the ancient Greek city of Taucheira.", "Was one of the five cities of the ancient Cyrenaican Pentapolis.", "Features visible ancient Greek, Roman, and Byzantine ruins.", "Modern economy relies on fishing and small-scale agriculture.", "Maintains a quiet, coastal village atmosphere."]
-    }
-  },
+    },
     facts: {
       de: ["Ehemalige Pentapolis-Stadt.", "Beeindruckende byzantinische Stadtmauern erhalten."],
       hu: ["A Pentapolisz egykori városa volt.", "Lenyűgöző bizánci városfalak maradtak fenn."],
@@ -1707,14 +1664,13 @@ export const poiExtraLibyaCitiesV2: POI[] = [
       hu: "Bengázi elővárosa, amely elsősorban nemzetközi repülőteréről ismert.",
       ro: "O suburbie a Benghazi-ului, cunoscută în primul rând ca locație a aeroportului internațional.",
       en: "A suburb of Benghazi, known primarily as the location of the international airport."
-    ,
+    },
     descriptionAdvanced: {
       en: "Benina is primarily famous for hosting Benghazi's international airport, making it the aviation gateway for the entire eastern half of Libya. Though technically a distinct town located just east of Benghazi proper, its identity is entirely consumed by the airport and military base. Because of its strategic infrastructure, Benina has frequently been the focal point of severe fighting during recent conflicts. The surrounding area is relatively flat and arid, ideal for aviation logistics. Geography K8 — aviation infrastructure and strategic chokepoints."
     },
     factsAdvanced: {
       en: ["Located just east of the Benghazi city center.", "Home to Benina International Airport, eastern Libya's primary aviation hub.", "Features significant military and air force infrastructure.", "Heavily contested and damaged during the recent civil conflicts.", "Acts as a primary logistics hub for the Cyrenaica region.", "The surrounding terrain is flat, accommodating large runways."]
-    }
-  },
+    },
     facts: {
       de: ["Wichtigstes Luftfahrtdrehkreuz im Osten Libyens.", "Direkte Anbindung an das Zentrum von Bengasi."],
       hu: ["Kelet-Líbia legfontosabb légiközlekedési csomópontja.", "Közvetlen összeköttetése van Bengázi központjával."],
@@ -1745,14 +1701,13 @@ export const poiExtraLibyaCitiesV2: POI[] = [
       hu: "Kis vidéki település Mardzs körzetben, amelynek fókuszában az állattenyésztés áll.",
       ro: "O mică localitate rurală în districtul Marj, cu accent pe creșterea animalelor.",
       en: "A small rural locality in the Marj district focusing on livestock farming."
-    ,
+    },
     descriptionAdvanced: {
       en: "Jardas al Ahrar is a picturesque municipality situated in the lush Jabal al Akhdar mountains. Historically part of a massive Italian colonization agricultural project during the 1930s, the town still exhibits a rigid, grid-like layout designed for farming efficiency. Today, it remains heavily agricultural, producing high-quality wheat, barley, and honey. Its elevated position gives it a remarkably cool climate, often seeing frost in the winter months. Geography K7 — mountain agriculture and climate."
     },
     factsAdvanced: {
       en: ["Located in the fertile Jabal al Akhdar mountain range.", "Originally developed as an Italian agricultural colony in the 1930s.", "Famous locally for its high-quality honey production.", "Experiences a cool, Mediterranean mountain climate.", "Characterized by structured, grid-like rural planning.", "Produces significant amounts of wheat and barley."]
-    }
-  },
+    },
     facts: {
       de: ["Umgeben von weiten Weideflächen.", "Lokaler Markt für Schaf- und Ziegenzucht."],
       hu: ["Kiterjedt legelők veszik körül.", "A juh- és kecsketenyésztés helyi piaca."],
@@ -1783,14 +1738,13 @@ export const poiExtraLibyaCitiesV2: POI[] = [
       hu: "Csendes település a Zöld-hegységben, amely zöldellő tájairól ismert.",
       ro: "O așezare liniștită în Munții Verzi, cunoscută pentru peisajele sale verzi.",
       en: "A quiet settlement in the Green Mountains, known for its green landscapes."
-    ,
+    },
     descriptionAdvanced: {
       en: "Masa is a tranquil agricultural village located south of Al Bayda, deeply embedded in the green, rolling hills of Cyrenaica. It represents the quiet, traditional heartland of eastern Libya's farming communities. The village is surrounded by dense thickets of juniper and pine, offering a stark contrast to the typical Libyan desert environment. The community here is closely knit, relying primarily on livestock and small-scale crop cultivation. Sociology K7 — rural mountain communities."
     },
     factsAdvanced: {
       en: ["Located just south of Al Bayda in eastern Libya.", "Surrounded by natural pine and juniper woodlands.", "Economy is based almost entirely on subsistence agriculture.", "Features a highly traditional, tight-knit community structure.", "Enjoys a mild, temperate climate year-round.", "Connected to larger markets via winding mountain roads."]
-    }
-  },
+    },
     facts: {
       de: ["Teil der landwirtschaftlichen Hochplateaus.", "Moderate Temperaturen im Sommer."],
       hu: ["A mezőgazdasági fennsíkok része.", "Nyáron mérsékelt hőmérséklet jellemzi."],
@@ -1821,14 +1775,13 @@ export const poiExtraLibyaCitiesV2: POI[] = [
       hu: "A második világháborús egykori katonai repülőteréről ismert település.",
       ro: "Cunoscută pentru fostul aerodrom militar din al Doilea Război Mondial.",
       en: "Known for the former military airfield from World War II."
-    ,
+    },
     descriptionAdvanced: {
       en: "Martuba is a small town located south of Derna, historically significant for its large airbase used extensively during the North African campaign of World War II. Today, the town is a quiet logistical node connecting the coastal road to inland desert routes. It is surrounded by semi-arid grazing land, where local Bedouin tribes maintain their traditional herding practices. The lingering remnants of military history give the town a unique, somewhat austere character. History K8 — WWII military aviation infrastructure."
     },
     factsAdvanced: {
       en: ["Situated south of the coastal city of Derna.", "Historically famous for the Martuba Airbase used in WWII.", "Serves as a transition point between the coast and the desert.", "Economy is supported by local livestock herding.", "Played a strategic role during the battles of Tobruk and Gazala.", "Features flat, open terrain ideal for aviation."]
-    }
-  },
+    },
     facts: {
       de: ["Historisch wichtiges Schlachtfeldgebiet.", "Heute eine ruhige Wüstensiedlung."],
       hu: ["Történelmileg fontos csatatéri terület volt.", "Ma már csak egy csendes sivatagi település."],
@@ -1859,14 +1812,13 @@ export const poiExtraLibyaCitiesV2: POI[] = [
       hu: "Falu Kirenaika keleti részén, amely hagyományosan kereskedelemből él.",
       ro: "Un sat în estul Cirenaicei, care trăiește tradițional din comerț.",
       en: "A village in eastern Cyrenaica that traditionally relies on trade."
-    ,
+    },
     descriptionAdvanced: {
       en: "Umm al Rizam is a coastal municipality located between Derna and Tobruk, characterized by its stunning, unspoiled coastline and historical ruins. The town serves as a regional center for the surrounding scattered villages, providing basic administrative and commercial services. Offshore, the waters are rich with marine life, making small-scale fishing a vital economic activity. The area is also noted for its archaeological potential, containing unexcavated Roman and Greek remnants. Geography K7 — coastal rural economies."
     },
     factsAdvanced: {
       en: ["Located on the eastern Mediterranean coast between Derna and Tobruk.", "Serves as an administrative center for surrounding small villages.", "Economy relies heavily on artisanal fishing and agriculture.", "Contains several undocumented historical ruins.", "Features beautiful, untouched beaches and coves.", "Connected via the main coastal highway of Cyrenaica."]
-    }
-  },
+    },
     facts: {
       de: ["Geprägt von starker Stammeskultur.", "Liegt an der Küstenstraße nach Osten."],
       hu: ["Erős törzsi kultúra jellemzi.", "A keletre vezető parti út mentén fekszik."],
@@ -1897,14 +1849,13 @@ export const poiExtraLibyaCitiesV2: POI[] = [
       hu: "Líbia egyik legkeletibb települése Tobruk közelében.",
       ro: "Una dintre cele mai estice așezări ale Libiei, aproape de Tobruk.",
       en: "One of the easternmost settlements in Libya, near Tobruk."
-    ,
+    },
     descriptionAdvanced: {
       en: "Kambut is a minor settlement located east of Tobruk, existing primarily as a transit stop along the highway leading to the Egyptian border. During World War II, it was the site of several skirmishes and housed a notable Axis airfield. Today, its economy is completely tied to cross-border logistics, smuggling routes, and highway commerce. The stark, barren landscape surrounding the town is typical of the extreme eastern Cyrenaican desert. History K6 — border towns and desert logistics."
     },
     factsAdvanced: {
       en: ["Located east of Tobruk, near the Egyptian border.", "Historically the site of a World War II Axis airfield.", "Economy is driven by highway commerce and cross-border trade.", "Features an extremely dry, barren desert environment.", "Acts as a rest stop for long-haul truckers.", "Population is small, consisting mostly of local tribal members."]
-    }
-  },
+    },
     facts: {
       de: ["Nahe der ägyptischen Grenze.", "Besteht vorwiegend aus einfachen Wohnbauten."],
       hu: ["Az egyiptomi határ közelében fekszik.", "Főként egyszerű lakóépületekből áll."],
@@ -1935,14 +1886,13 @@ export const poiExtraLibyaCitiesV2: POI[] = [
       hu: "Elszigetelt oázis a legkeletibb részen, az egyiptomi Szíva-oázis közelében.",
       ro: "O oază izolată în extremitatea estică, aproape de oaza egipteană Siwa.",
       en: "An isolated oasis in the far east, close to the Egyptian Siwa Oasis."
-    ,
+    },
     descriptionAdvanced: {
       en: "Jaghbub is an incredibly isolated oasis located near the Egyptian border, famous for its deep historical connection to the Senussi religious order. The town is physically defined by a massive depression that lies below sea level, featuring highly saline lakes and date palm groves. It was the headquarters of the Senussi movement in the 19th century and remains a site of profound religious pilgrimage. The extreme isolation has perfectly preserved its unique historical character. Sociology K8 — religious movements and extreme isolation."
     },
     factsAdvanced: {
       en: ["Located in a deep depression close to the Egyptian border.", "Historically the primary headquarters of the Senussi order.", "Sits roughly 10 meters below sea level.", "Features unique, highly saline desert lakes.", "Economy relies entirely on date palm cultivation.", "A major site for religious pilgrimage and historical study."]
-    }
-  },
+    },
     facts: {
       de: ["Geburtsort von König Idris I.", "Ehemaliges Zentrum des Senussi-Ordens."],
       hu: ["I. Idrísz líbiai király szülőhelye.", "A Szanúszi rend egykori központja."],
@@ -1973,14 +1923,13 @@ export const poiExtraLibyaCitiesV2: POI[] = [
       hu: "Tripoli déli elővárosa, amelyet a nemzetközi repülőtér ural.",
       ro: "Suburbia sudică a Tripoli, dominată de aeroportul internațional.",
       en: "Southern suburb of Tripoli, dominated by the international airport."
-    ,
+    },
     descriptionAdvanced: {
       en: "Qasr bin Ghashir is a bustling southern suburb of Tripoli, acting as the primary gateway to Tripoli International Airport. The town has grown rapidly from a quiet agricultural village into a densely populated logistical and industrial hub. Its strategic location makes it critical for the transport of goods from the capital to the southern interior. Unfortunately, its proximity to the airport has frequently made it a flashpoint during recent urban conflicts. Geography K8 — urban sprawl and strategic infrastructure."
     },
     factsAdvanced: {
       en: ["Located immediately south of Tripoli city center.", "Serves as the main access point to Tripoli International Airport.", "Has experienced rapid urbanization over the last two decades.", "Functions as a major industrial and transport hub.", "Historically surrounded by fertile citrus and olive orchards.", "Frequently contested due to its strategic logistical importance."]
-    }
-  },
+    },
     facts: {
       de: ["Standort des Tripolis International Airport.", "Verfügt über landwirtschaftliche Flächen am Stadtrand."],
       hu: ["A Tripoli Nemzetközi Repülőtér helyszíne.", "A város peremén mezőgazdasági területekkel rendelkezik."],
@@ -2011,14 +1960,13 @@ export const poiExtraLibyaCitiesV2: POI[] = [
       hu: "A főváros keleti elővárosa, amely nukleáris kutatóközpontjáról ismert.",
       ro: "Suburbia estică a capitalei, cunoscută pentru centrul său de cercetare nucleară.",
       en: "Eastern suburb of the capital, known for its nuclear research center."
-    ,
+    },
     descriptionAdvanced: {
       en: "Tajoura is a historic coastal city that has essentially merged into the eastern sprawl of the Tripoli metropolitan area. It is famous for its beautiful beaches, historic mosques, and its specialized industrial sector, particularly the Tajoura Nuclear Research Center. The city maintains a strong, distinct local identity despite being absorbed by the capital. Fishing and tourism remain important, alongside significant manufacturing facilities. Sociology K7 — urban integration and historic identity."
     },
     factsAdvanced: {
       en: ["Forms the eastern coastal boundary of the Tripoli metropolitan area.", "Home to the historic Murad Agha Mosque, built in the 16th century.", "Hosts the Tajoura Nuclear Research Center.", "Known for beautiful Mediterranean beaches and seafood.", "Maintains a fierce, independent local identity.", "Features significant light manufacturing and industrial zones."]
-    }
-  },
+    },
     facts: {
       de: ["Hat eine lange Küstenlinie mit Stränden.", "Bedeutend für industrielle Produktion."],
       hu: ["Hosszú, strandokkal teli tengerparttal rendelkezik.", "Jelentős ipari termelési központ."],
@@ -2049,14 +1997,13 @@ export const poiExtraLibyaCitiesV2: POI[] = [
       hu: "Dombvidéki város Tripolitániában, amelyet számtalan öreg olajfa vesz körül.",
       ro: "Un oraș colinar din Tripolitania, înconjurat de nenumărați măslini bătrâni.",
       en: "A hill town in Tripolitania, surrounded by countless ancient olive trees."
-    ,
+    },
     descriptionAdvanced: {
       en: "Msallata is perched in the hills overlooking the coastal plain east of Tripoli, renowned universally across Libya for its exceptional olive oil. The city is surrounded by ancient, sprawling olive groves that form the backbone of the local economy. It has a rich history as an Islamic educational center, hosting several important historic schools and mosques. The hilly terrain offers natural fortifications, which historically made it a stronghold during colonial resistance. Geography K7 — specialized agricultural economies."
     },
     factsAdvanced: {
       en: ["Located in the coastal hills approximately 130 kilometers east of Tripoli.", "Considered the premier producer of high-quality olive oil in Libya.", "Surrounded by vast, ancient olive orchards.", "Historically a major center for Islamic jurisprudence and education.", "Features a cooler climate than the immediate coastal strip.", "Played a notable role in the resistance against Italian colonization."]
-    }
-  },
+    },
     facts: {
       de: ["Berühmt für hochqualitatives Olivenöl.", "Verfügt über antike römische Siedlungsspuren."],
       hu: ["Kiváló minőségű olívaolajáról híres.", "Ókori római települések nyomait őrzi."],
@@ -2072,7 +2019,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
     factsAdvanced: {
       de: ["Zentrum der libyschen Olivenölproduktion", "Bekannt für historische Burgen und Moscheen", "Ehemaliges Zentrum islamischer Gelehrsamkeit", "Geprägt von hügeliger Landschaft", "Kurze Entfernung zur Mittelmeerküste", "Ort der libyschen Unabhängigkeitserklärung 1918"],
       hu: ["Líbia egyik legkiválóbb olívaolaját termelő régiója.", "A várost körülvevő dombvidékeken több millió olajfa található.", "Tripolitól körülbelül 130 kilométerre keletre helyezkedik el.", "1918-ban itt kiáltották ki a rövid életű Tripolitániai Köztársaságot.", "Az olajbogyó mellett fügét és szőlőt is jelentős mennyiségben termesztenek.", "Számos történelmi erőd (Ksar) romja található a környező hegyeken."],
-      ro: ["Produce cel mai apreciat și pur ulei de măsline virgin din întreaga Libie.", "Orașul este cunoscut sub vechiul său nume, Cussabat, în arhivele coloniale italiene.", "Aici s-a proclamat Republica Tripolitană în anul 1918, un moment esențial în istoria libiană modernă.", "Livezile din Msallata beneficiază de briza mării, situându-se la doar 20 km de țărm.", "Mai multe mori de piatră antice (ma’sara) folosite pentru măsline sunt încă vizibile în zonă.", "Climatul este favorabil dezvoltării unor plante mediteraneene extrem de aromate, cum ar fi rozmarinul."],
+      ro: ["Produce cel mai apreciat și pur ulei de măsline virgin din întreaga Libie.", "Orașul este cunoscut sub vechiul său nume, Cussabat, în arhivele coloniale italiene.", "Aici s-a proclamat Republica Tripolitană în anul 1918, un moment esențial în istoria libiană modernă.", "Livezile din Msallata beneficiază de briza mării, situându-se la doar 20 km de țărm.", "Mai multe mori de piatră antice (ma'sara) folosite pentru măsline sunt încă vizibile în zonă.", "Climatul este favorabil dezvoltării unor plante mediteraneene extrem de aromate, cum ar fi rozmarinul."],
       en: []
     }
   },
@@ -2087,14 +2034,13 @@ export const poiExtraLibyaCitiesV2: POI[] = [
       hu: "Északnyugati mezőgazdasági központ, amely a környéket látja el árukkal.",
       ro: "Centru agricol în nord-vest, care aprovizionează zona înconjurătoare cu bunuri.",
       en: "Agricultural center in the northwest supplying the surrounding area with goods."
-    ,
+    },
     descriptionAdvanced: {
       en: "Al Ajaylat is a densely populated agricultural town located in the western Nuqat al Khams district, set slightly inland from the coast. The town thrives on the fertile soil and groundwater of the Jafara plain, producing massive quantities of dates, citrus, and vegetables. It acts as a vital commercial center for surrounding farming communities. Al Ajaylat is also known for its strong tribal heritage and large traditional markets that draw traders from across the western region. Geography K7 — regional farming hubs."
     },
     factsAdvanced: {
       en: ["Situated in western Libya, inland from Sabratha and Surman.", "A major producer of agricultural goods on the Jafara plain.", "Famous for expansive date palm and citrus orchards.", "Functions as a central market hub for surrounding rural areas.", "Has a rapidly growing population due to urban centralization.", "Deeply rooted in traditional western Libyan tribal structures."]
-    }
-  },
+    },
     facts: {
       de: ["Produziert lokal angebautes Gemüse.", "Wirtschaftlich von der nahen Küste abhängig."],
       hu: ["Helyben termesztett zöldségeket állít elő.", "Gazdaságilag a közeli tengerparttól függ."],
@@ -2125,14 +2071,13 @@ export const poiExtraLibyaCitiesV2: POI[] = [
       hu: "Derna és Al-Bajda közötti legnagyobb város Kirenaikában.",
       ro: "Cel mai mare oraș între Derna și Al-Baida din Cirenaica.",
       en: "The largest city between Derna and Al Bayda in Cyrenaica."
-    ,
+    },
     descriptionAdvanced: {
       en: "Al Qubbah is the largest city in the Derna District, situated prominently in the green highlands of the Jabal al Akhdar. Historically a major agricultural hub during Italian colonization, it continues to be a massive producer of livestock and grain. The city's elevated position gives it a brisk, cool climate, very different from the coastal heat. It serves as a vital crossroad connecting the coastal highway to deep inland desert routes. Geography K7 — mountain agricultural crossroads."
     },
     factsAdvanced: {
       en: ["The largest city by population in the Derna District.", "Located high in the Jabal al Akhdar mountain range.", "A major center for grain production and livestock herding.", "Experiences a cool, Mediterranean mountain climate.", "Historically expanded during the Italian colonization period.", "Serves as a strategic road junction for eastern Libya."]
-    }
-  },
+    },
     facts: {
       de: ["Bekannt für traditionelle Bauweise.", "Wichtige Station auf der Bergstraße."],
       hu: ["Hagyományos építészetéről ismert.", "Fontos állomás a hegyi úton."],
@@ -2163,14 +2108,13 @@ export const poiExtraLibyaCitiesV2: POI[] = [
       hu: "Csendes hegyi falu, amely állattenyésztésből és földművelésből él.",
       ro: "Un sat de munte liniștit, care trăiește din creșterea animalelor și agricultură.",
       en: "A quiet mountain village that relies on livestock farming and agriculture."
-    ,
+    },
     descriptionAdvanced: {
       en: "Badr is a rugged, strategically located town in the western Nafusa Mountains, sitting near the border with Tunisia. It is heavily involved in the local agricultural economy, particularly olive and almond cultivation. Due to its proximity to the border, the town's economy is supplemented by cross-border trade and logistics. Badr is known for its strong sense of community and its traditional, fortified mountain architecture that provides protection against the elements. Sociology K8 — border economies and mountain life."
     },
     factsAdvanced: {
       en: ["Located in the western reaches of the Nafusa Mountains.", "Close to the international border with Tunisia.", "Economy blends traditional agriculture with border trade.", "Cultivates hardy crops like olives, figs, and almonds.", "Features historic, fortified stone architecture.", "Maintains strong tribal affiliations with neighboring regions."]
-    }
-  },
+    },
     facts: {
       de: ["Isolierte Lage im Gebirge.", "Erhält alte Berbertraditionen am Leben."],
       hu: ["Elszigetelt fekvésű a hegyvidéken.", "Őrzi a régi berber hagyományokat."],
@@ -2180,7 +2124,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
     descriptionAdvanced: {
       de: "Badr ist eine kleine, traditionelle Siedlung in den westlichen Nafusa-Bergen nahe der Grenze zu Tunesien. Die lokale Wirtschaft stützt sich fast ausschließlich auf subsistente Landwirtschaft und Schafzucht in einer sehr trockenen, rauen und von Canyons durchzogenen Gebirgslandschaft. Geografie K6 — Leben im Gebirge.",
       hu: "Badr egy csendes és elszigetelt hegyvidéki falu a Nafúsza-hegység mélyén, amely megőrizte a hagyományos líbiai vidéki élet tisztaságát. A falu gazdasága szinte teljes egészében az extenzív állattartásra (juh és kecske) és a teraszos mezőgazdaságra épül, amely alkalmazkodott a sziklás, száraz terephez. Badr nyugodt atmoszférája és a környező hegyek zord szépsége a természetbe visszavágyók számára nyújt különleges élményt, miközben hűen őrzi az amazigh (berber) és arab hegyi közösségek örökségét. Társadalomismeret K7 — hegyvidéki falvak és hagyományos gazdálkodás.",
-      ro: "Badr este o așezare îndepărtată din districtul Nalut, la baza versanților vestici ai Munților Nafusa. A fost considerată mult timp un „oraș de frontieră interioară”, deservind păstorii semi-nomazi care coborau din munți spre câmpia al-Jifara. Așezarea are un caracter profund rural, cu puține facilități urbane moderne. Badr se remarcă mai mult prin ritmul său lent, peisajele stâncoase severe și importanța sa în organizarea apărării și conservării tradițiilor marilor triburi beduine din vestul îndepărtat. Sociologie K7 — comunități de păstori și conservare rurală.",
+      ro: "Badr este o așezare îndepărtată din districtul Nalut, la baza versanților vestici ai Munților Nafusa. A fost considerată mult timp un \"oraș de frontieră interioară\", deservind păstorii semi-nomazi care coborau din munți spre câmpia al-Jifara. Așezarea are un caracter profund rural, cu puține facilități urbane moderne. Badr se remarcă mai mult prin ritmul său lent, peisajele stâncoase severe și importanța sa în organizarea apărării și conservării tradițiilor marilor triburi beduine din vestul îndepărtat. Sociologie K7 — comunități de păstori și conservare rurală.",
       en: ""
     },
     factsAdvanced: {
@@ -2201,14 +2145,13 @@ export const poiExtraLibyaCitiesV2: POI[] = [
       hu: "Kis tengerparti település a Szidra-öbölben, amelyet a halászat határoz meg.",
       ro: "Un mic oraș de coastă pe Golful Sidra, caracterizat de pescuit.",
       en: "A small coastal town on the Gulf of Sidra, characterized by fishing."
-    ,
+    },
     descriptionAdvanced: {
       en: "Al Magrun is a quiet coastal village situated south of Benghazi, functioning as a minor transit point along the highway to Ajdabiya. The village is surrounded by vast, flat plains used extensively for livestock grazing by local Bedouin populations. Its proximity to the sea allows for small-scale artisanal fishing, though agriculture dominates the local economy. It represents the sparse, spread-out nature of settlements along the Gulf of Sidra coast. Geography K6 — coastal plains and grazing."
     },
     factsAdvanced: {
       en: ["Located on the main coastal highway south of Benghazi.", "Economy is dominated by pastoral livestock grazing.", "Sits on the flat, semi-arid coastal plain.", "Features a very small, tightly knit local population.", "Supports minor, artisanal coastal fishing activities.", "Serves as a rest stop for highway travelers."]
-    }
-  },
+    },
     facts: {
       de: ["Ruhige Strände.", "Bedeutend für den lokalen Fischfang."],
       hu: ["Csendes strandokkal rendelkezik.", "Jelentős a helyi halászat szempontjából."],
@@ -2239,14 +2182,13 @@ export const poiExtraLibyaCitiesV2: POI[] = [
       hu: "Mezőgazdasági jellegű falu a Zöld-hegység fennsíkján.",
       ro: "Sat agricol pe platoul înalt al Munților Verzi.",
       en: "Agriculturally characterized village in the highlands of the Green Mountains."
-    ,
+    },
     descriptionAdvanced: {
       en: "Qandulah is a small, elevated village in the Jabal al Akhdar, known for its pristine natural environment and deep agricultural roots. The village is surrounded by thick Mediterranean brush, making it a beautiful, isolated retreat from the larger cities. Its economy relies entirely on family-owned farms producing honey, fruits, and livestock. The community is highly traditional, preserving older ways of life that have largely vanished in modern Libyan urban centers. Sociology K7 — traditional subsistence agriculture."
     },
     factsAdvanced: {
       en: ["Located in the heavily forested Jabal al Akhdar region.", "Features a very traditional, agriculture-based economy.", "Surrounded by natural Mediterranean maquis shrubland.", "Known locally for high-quality natural honey and fruits.", "Has a small, stable, and deeply rooted population.", "Offers a significantly cooler climate than the coastal plains."]
-    }
-  },
+    },
     facts: {
       de: ["Reich an Getreidefeldern.", "Bietet traditionelle dörfliche Atmosphäre."],
       hu: ["Gazdag gabonaföldekben.", "Hagyományos falusi atmoszférát kínál."],

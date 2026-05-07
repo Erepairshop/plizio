@@ -13,6 +13,12 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
       ro: "Casablanca",
       en: "Casablanca"
     },
+    descriptionAdvanced: {
+      hu: "Casablanca, Marokkó lüktető gazdasági fővárosa, egyben a Maghreb-régió legnagyobb városa. A 20. század elején, a francia protektorátus alatt vált modern metropolisszá, és építészete máig őrzi a mór stílust az Art Deco és a modernizmus elemeivel vegyítő egyedi karakterét. A város szimbóluma a világ egyik legnagyobb mecsete, a II. Hasszán-mecset, amelynek 210 méter magas minaretje az Atlanti-óceán fölé magasodik. Casablanca ad otthont Marokkó legnagyobb kikötőjének és legfontosabb pénzügyi intézményeinek, így az ország kereskedelmi és ipari központja. A híres filmklasszikus ellenére a város inkább egy nyüzsgő, modern üzleti központ, mint egy romantikus hely, de a történelmi medinája és az elegáns, gyarmati korabeli negyedei bepillantást engednek gazdag múltjába. Földrajz K10 - Megapoliszok és gazdasági központok."
+    },
+    factsAdvanced: {
+      hu: ["A 20. század elején a francia urbanisták tervei alapján gyors fejlődésnek indult.", "A II. Hasszán-mecset 1993-ban készült el, és részben a tenger fölé épült.", "Afrika egyik legnagyobb és legforgalmasabb kikötője itt található.", "A város agglomerációjának lakossága meghaladja a 4 millió főt.", "Jelentős Art Deco építészeti örökséggel rendelkezik.", "A Maghreb-régió elsődleges pénzügyi központja.", "A híres 'Casablanca' című filmet valójában Hollywoodban forgatták.", "A Mohammed V Nemzetközi Repülőtér Afrika egyik legforgalmasabbja."]
+    },
     description: {
       de: "Die größte Stadt Marokkos und sein wirtschaftliches Zentrum.",
       hu: "Marokkó legnagyobb városa és gazdasági központja.",
@@ -246,6 +252,12 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
       hu: "Agadir",
       ro: "Agadir",
       en: "Agadir"
+    },
+    descriptionAdvanced: {
+      ro: "Agadir, capitala regiunii Souss-Massa, este cel mai important oraș din sudul Marocului și o stațiune balneară de renume internațional. Distrus aproape în totalitate de un cutremur devastator în 1960, orașul a fost reconstruit complet, devenind un simbol al modernității marocane. Arhitectura sa este funcțională și aerisită, cu bulevarde largi și clădiri albe. Inima orașului este faleza sa magnifică, o plajă cu nisip fin, lungă de 9 km, mărginită de o promenadă plină de hoteluri, restaurante și cafenele. Portul său este unul dintre cele mai mari din Maroc, un centru vital pentru pescuit și comerț. Agadir este, de asemenea, un punct de plecare ideal pentru a explora Munții Anti-Atlas și parcurile naționale din sud. Urbanism K8 – reconstrucție și planificare urbană modernă."
+    },
+    factsAdvanced: {
+      ro: ["Cutremurul din 29 februarie 1960 a avut o magnitudine de 5.8 și a ucis peste 15.000 de oameni.", "Reconstrucția a fost supervizată de arhitecți precum Jean-François Zevaco.", "Numele 'Agadir' înseamnă 'grânar fortificat' în limba berberă.", "Orașul beneficiază de un climat blând, cu peste 300 de zile însorite pe an.", "Populația sa depășește 420.000 de locuitori.", "Universitatea Ibn Zohr din Agadir este una dintre cele mai mari din Maroc.", "Kasbah-ul (Agadir Oufella), deși în ruină, oferă vederi panoramice excepționale.", "Medina Polizzi, o reconstrucție a unei medine tradiționale, este o atracție turistică populară."]
     },
     description: {
       de: "Ein beliebtes Küstenzentrum im Süden Marokkos, bekannt für seine Strände.",
@@ -1213,6 +1225,12 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
       ro: "Al Hoceima",
       en: "Al Hoceima"
     },
+    descriptionAdvanced: {
+      ro: "Al Hoceima este un oraș situat pe coasta mediteraneană a Marocului, în inima regiunii muntoase Rif. Este renumit pentru golfurile sale spectaculoase și plajele cu nisip fin, precum Plage Quemado. Fondat de spanioli la începutul secolului al XX-lea sub numele de Villa Sanjurjo, orașul păstrează încă o anumită influență arhitecturală iberică. Este un port de pescuit important și o stațiune estivală populară printre marocani. Parcul Național Al Hoceima, situat în apropiere, protejează o porțiune de coastă sălbatică, cu stânci abrupte și o biodiversitate marină bogată, inclusiv colonii de vulturi pescari. Orașul este, de asemenea, un simbol al identității culturale a berberilor din Rif. Geografie K7 – interacțiunea dintre munte și mare."
+    },
+    factsAdvanced: {
+      ro: ["Orașul a fost fondat în 1925 și numit după generalul spaniol Sanjurjo.", "A fost redenumit Al Hoceima după independența Marocului în 1956.", "Numele 'Al Hoceima' înseamnă 'lavandă' în arabă.", "A fost epicentrul unor cutremure majore în 1994 și 2004.", "Parcul Național Al Hoceima, creat în 2004, este unul dintre cele mai importante situri mediteraneene.", "Populația este predominant berberă, vorbitoare a dialectului tarifit.", "Portul este specializat în pescuitul de pește-spadă.", "Insulele din largul coastei sunt un refugiu pentru păsările marine."]
+    },
     description: {
       de: "Eine Hafenstadt am Mittelmeer, die für ihre Strände und den Nationalpark bekannt ist.",
       hu: "Mediterrán kikötőváros, amely strandjairól és nemzeti parkjáról ismert.",
@@ -1548,6 +1566,12 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
       hu: "Azrou",
       ro: "Azrou",
       en: "Azrou"
+    },
+    descriptionAdvanced: {
+      ro: "Azrou este un oraș berber situat în inima Munților Atlasul Mijlociu, la o altitudine de 1.250 de metri. Numele său înseamnă 'stâncă' în limba berberă (tamazight), făcând referire la o formațiune vulcanică proeminentă din centrul orașului. Azrou este renumit pentru pădurile sale de cedru din jur, care adăpostesc o populație semnificativă de macaci de Barbaria, o atracție majoră pentru vizitatori. Orașul este un centru important pentru artizanatul local, în special pentru covoarele berbere lucrate manual și pentru obiectele sculptate din lemn de cedru. Clima sa răcoroasă vara îl face o destinație populară pentru a scăpa de căldura orașelor imperiale. Este o bază excelentă pentru drumeții și explorarea frumuseții naturale a Atlasului Mijlociu. Geografie K6 – așezări montane."
+    },
+    factsAdvanced: {
+      ro: ["Numele provine de la o stâncă vulcanică ('azrou') situată în oraș.", "Pădurea de cedri Gouraud, din apropiere, este faimoasă pentru maimuțele sale.", "Cedrul Gouraud, un copac monumental, avea o vechime estimată la 800-900 de ani înainte de a se usca.", "Azrou este un centru comercial important pentru comunitățile berbere din regiune.", "Covoarele Beni M'Guild, cunoscute pentru culorile lor vibrante, sunt produse aici.", "Colegiul Berbère, prima școală secundară pentru berberi, a fost înființat aici de francezi în 1927.", "Altitudinea este de 1.250 de metri.", "Iarna, zona este adesea acoperită de zăpadă."]
     },
     description: {
       de: "Eine Berberstadt im Mittleren Atlas, bekannt für ihre Zedernwälder.",
@@ -2095,6 +2119,12 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
       ro: "Asilah",
       en: "Asilah"
     },
+    descriptionAdvanced: {
+      ro: "Asilah este un oraș fortificat fermecător pe coasta Atlanticului, la sud de Tanger. Medina sa, înconjurată de ziduri impunătoare construite de portughezi în secolul al XV-lea, este renumită pentru casele sale văruite în alb și albastru și pentru străzile curate și liniștite. Orașul a devenit un important centru artistic, găzduind anual un Festival Cultural Internațional, în timpul căruia artiști din întreaga lume pictează muralii pe pereții caselor din medină, transformând orașul într-o galerie de artă în aer liber. Pe lângă artă, Asilah este și o stațiune estivală populară, cu plaje frumoase și restaurante excelente cu specific pescăresc. Atmosfera sa boemă și relaxată atrage artiști, scriitori și turiști în căutare de inspirație. Artă și cultură K7 – arta publică și festivaluri."
+    },
+    factsAdvanced: {
+      ro: ["Zidurile fortificate au fost construite de portughezi după cucerirea orașului în 1471.", "Festivalul Cultural Internațional din Asilah a fost fondat în 1978.", "Picturile murale sunt reînnoite în fiecare an în timpul festivalului.", "Palatul Raissouli, construit în 1909, este unul dintre monumentele importante ale orașului.", "Poarta Bab Homar este una dintre principalele intrări în medină.", "Asilah are o istorie bogată, fiind un port important încă din perioada feniciană.", "Orașul a fost sub control spaniol pentru o parte a secolului XX.", "Plaja Paradise, situată la câțiva kilometri sud, este una dintre cele mai apreciate din zonă."]
+    },
     description: {
       de: "Eine charmante Kunststadt an der Küste mit gut erhaltenen portugiesischen Festungsmauern.",
       hu: "Bájos művészváros a tengerparton, jól megőrzött portugál erődfalakkal.",
@@ -2304,6 +2334,12 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
       hu: "Azemmour",
       ro: "Azemmour",
       en: "Azemmour"
+    },
+    descriptionAdvanced: {
+      ro: "Azemmour este un oraș istoric situat pe malul stâng al râului Oum Er-Rbia, aproape de vărsarea acestuia în Oceanul Atlantic. Medina sa veche, înconjurată de ziduri ocru, păstrează o atmosferă autentică, mai puțin atinsă de turismul de masă. Orașul a fost sub control portughez în secolul al XVI-lea, iar fortificațiile și bastioanele masive amintesc de această perioadă. Este un loc care a inspirat mulți artiști, iar în ultimii ani, a devenit un centru pentru arta stradală, cu numeroase picturi murale care decorează casele din medină. Cartierul evreiesc (mellah) și sinagoga sa veche sunt, de asemenea, de interes istoric. Azemmour oferă o incursiune într-un Maroc mai tradițional și mai liniștit, la mică distanță de agitația Casablancăi. Istorie K7 – influențe portugheze în Maroc."
+    },
+    factsAdvanced: {
+      ro: ["A fost un port important încă din perioada romană.", "Portughezii au controlat orașul între 1513 și 1541.", "Râul Oum Er-Rbia este al doilea cel mai lung râu din Maroc.", "Estebanico (sau Estevanico), unul dintre primii exploratori africani ai Americii de Nord, s-a născut în Azemmour.", "Zidurile medinei au o lungime de peste un kilometru.", "În fiecare an are loc un festival de artă stradală, 'Rempart'.", "Sinagoga rabinului Abraham Moul-Niss este un loc de pelerinaj pentru evreii marocani.", "Economia locală se bazează pe pescuit și agricultură."]
     },
     description: {
       de: "Eine alte Stadt am Ufer des Oum er-Rbia mit portugiesischer Vergangenheit.",

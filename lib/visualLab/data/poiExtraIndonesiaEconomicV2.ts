@@ -177,7 +177,7 @@ export const poiExtraIndonesiaEconomicV2: POI[] = [
     description: {
       de: "Bekannt als das 'Stahlzentrum' Indonesiens, beherbergt es große Stahl- und Chemieanlagen.",
       hu: "Indonézia 'acélközpontjaként' ismert, otthont ad nagy acél- és vegyipari üzemeknek.",
-      ro: "Cunoscut ca „orașul oțelului” al Indoneziei, găzduiește importante uzine siderurgice și chimice.",
+      ro: "Cunoscut ca \"orașul oțelului\" al Indoneziei, găzduiește importante uzine siderurgice și chimice.",
       en: "Known as the 'Steel City' of Indonesia, it is home to major steel and chemical plants."
     },
     facts: {

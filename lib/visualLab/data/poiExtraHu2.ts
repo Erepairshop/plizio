@@ -2179,7 +2179,7 @@ export const poiExtraHu2: POI[] = [
     description: {
       de: "Berühmt für sein 'schwimmendes Dorf' aus Anglerhütten.",
       hu: "Híres a horgászházakból álló 'lebegő falujáról'.",
-      ro: "Faimos pentru „satul plutitor” format din căsuțe de pescari.",
+      ro: "Faimos pentru \"satul plutitor\" format din căsuțe de pescari.",
       en: "Famous for its 'floating village' of fishing huts."
     },
     facts: {
@@ -3598,7 +3598,7 @@ export const poiExtraHu2: POI[] = [
     description: {
       de: "Berühmt für seine gewaltigen Basaltsäulen, die 'Basaltorgeln'.",
       hu: "Híres hatalmas bazaltoszlopairól, a 'bazaltorgonákról'.",
-      ro: "Faimos pentru coloanele sale uriașe de bazalt, „orgile de bazalt”.",
+      ro: "Faimos pentru coloanele sale uriașe de bazalt, \"orgile de bazalt\".",
       en: "Famous for its massive basalt columns, the 'basalt organs'."
     },
     facts: {

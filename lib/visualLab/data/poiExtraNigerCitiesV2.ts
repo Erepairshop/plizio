@@ -109,7 +109,20 @@ export const poiExtraNigerCitiesV2: POI[] = [
       hu: ["A helyi mezőgazdaság központja.", "Nomád népek találkozási pontja."],
       ro: ["Centrul agriculturii locale.", "Punct de intersecție a popoarelor nomade."],
       en: ["Center of local agriculture.", "Crossroads of nomadic peoples."]
-    }, image: "/poi-images/tahoua-cities-v2.webp"},
+    }, image: "/poi-images/tahoua-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Tahoua ist eine bedeutende Provinzhauptstadt im Herzen Nigers und dient als essenzielles Bindeglied zwischen den trockenen Gebieten der Sahara im Norden und den agrarisch geprägten, fruchtbaren Zonen im Süden. Die Stadt ist ein dynamischer Schmelztiegel der Tuareg- und Fulani-Kulturen, die hier ihre traditionellen Waren und Viehbestände austauschen. Besonders bekannt ist Tahoua für seine lebhaften Wochenmärkte, auf denen lokale Handwerkskunst, darunter aufwendig bearbeitetes Leder und traditioneller Schmuck, gehandelt wird. In den letzten Jahrzehnten hat sich die Infrastruktur der Stadt erheblich verbessert, was Tahoua zu einem wichtigen Verkehrsknotenpunkt für Reisende und Händler in der Sahelzone macht.",
+      hu: "Tahoua a hagyományos tuareg és fulani kultúra találkozási pontja, amely Nyugat-Niger adminisztratív központjaként szolgál. A település különösen a 19. századi karavánutak csomópontjaként tett szert történelmi jelentőségre. Ma élénk kereskedelmi központ, amely mezőgazdasági piacáról és sajtkészítési hagyományairól, a \\\"tchoukou\\\" sajt révén vált ismertté az országban. A város földrajzi fekvése átmenetet képez a sivatagi és a szavannai éghajlat között. Földrajz K7 — társadalomföldrajz és afrikai városok.",
+      ro: "Orașul Tahoua servește drept capitală a regiunii omonime din Niger, situată într-o zonă de tranziție între deșertul Sahara și Sahel. Așezarea a fost fondată de comunitățile Hausa și Tuareg, devenind un important centru comercial și agricol. Tahoua este renumită pentru producția de fosfați și pentru piețele sale vibrante, unde se tranzacționează vite, cereale și meșteșuguri locale. Cultura locului este profund influențată de intersecția tradițiilor nomade și sedentare, reflectată în arhitectură și evenimentele anuale. Istoria orașului marchează rolul său ca punct strategic pe vechile rute ale caravanelor sahariene. (Geografie K7 — așezări urbane și tranziții climatice).",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Verbindet den Norden und Süden Nigers.", "Wichtiger Handelsort für Tuareg und Fulani.", "Bekannt für Lederwaren und Handwerk.", "Bedeutender Verkehrsknotenpunkt in der Sahelzone.", "Sitz der regionalen Verwaltung.", "Ausgangspunkt für Reisen in die Sahara."],
+      hu: ["Jelentős mezőgazdasági és kereskedelmi csomópont.", "A tradicionális tuareg kultúra egyik központja.", "Híres a helyi \\\"tchoukou\\\" nevű sajtról.", "Átmeneti zónában fekszik a sivatag és szavanna között.", "A régió közigazgatási székhelye.", "Népessége meghaladja a 100 000 főt."],
+      ro: ["Fondat ca punct de întâlnire între tuaregi și populația hausa.", "Populația depășește 100.000 de locuitori conform estimărilor recente.", "Tahoua a fost integrată în teritoriile franceze în jurul anului 1900.", "Regiunea sa găzduiește importante depozite de fosfați și gips.", "Situat la aproximativ 375 km nord-est de capitala Niamey.", "Un important centru pentru creșterea vitelor și a cămilelor.", "Cunoscut pentru piețele sale tradiționale duminicale."],
+      en: []
+    }
+  },
   {
     id: "agadez-cities-v2",
     type: "city",
@@ -127,7 +140,20 @@ export const poiExtraNigerCitiesV2: POI[] = [
       hu: ["Történelmi tuareg központ.", "Az óváros világörökségi helyszín."],
       ro: ["Centru istoric al tuaregilor.", "Orașul vechi este patrimoniu mondial."],
       en: ["Historic Tuareg center.", "The old town is a World Heritage site."]
-    }, image: "/poi-images/agadez-cities-v2.webp"},
+    }, image: "/poi-images/agadez-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Agadez, das historische Tor zur weiten Sahara, ist eine der faszinierendsten Städte Westafrikas und war einst ein florierendes Zentrum des Transsaharahandels. Die Architektur der Stadt, dominiert von ockerfarbenen Lehmbauten, zeugt von einer reichen Vergangenheit, die bis ins 11. Jahrhundert zurückreicht. Das markanteste Wahrzeichen ist die beeindruckende Große Moschee mit ihrem pyramidenförmigen Minarett, das komplett aus getrocknetem Schlamm errichtet wurde. Neben seiner architektonischen Bedeutung ist Agadez das kulturelle Herz der Tuareg, die das alljährliche Cure Salée-Festival feiern. Seit 2013 gehört das historische Zentrum von Agadez zum UNESCO-Weltkulturerbe, was die globale Bedeutung dieser Wüstenmetropole unterstreicht.",
+      hu: "Agadez a Szahara kapujaként ismert ősi város, amely a 15. század óta fontos kereskedelmi központ a transzszaharai útvonalakon. Történelmi óvárosa és az ikonikus, agyagból épült, 27 méter magas nagymecset 2013 óta az UNESCO Világörökség része. A település a tuareg kultúra, az ezüstművesség és a bőrdíszműves mesterségek fellegvára. A sivatagi klíma és a történelmi építészet lenyűgöző atmoszférát teremt. Történelem K8 — transzszaharai kereskedelem és afrikai birodalmak.",
+      ro: "Agadez este cel mai mare oraș din nordul Nigerului, situat la marginea sudică a Munților Aïr și în inima deșertului Sahara. Orașul are o moștenire istorică uriașă, fiind un punct crucial pe rutele comerciale transsahariene unde se schimbau sare, aur și mirodenii. Agadez este faimos pentru centrul său istoric, inclus în Patrimoniul Mondial UNESCO, și pentru Marea Moschee din secolul al XVI-lea, construită integral din cărămizi de lut. Astăzi, orașul rămâne un centru cultural vital pentru poporul Tuareg, păstrând tradiții vechi de secole, cum ar fi meșteșugurile din piele și bijuteriile din argint. (Istorie K8 — comerțul transsaharian).",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Historisches Tor zur Sahara.", "Ehemaliges Zentrum des Transsaharahandels.", "Große Moschee aus dem 16. Jahrhundert.", "Seit 2013 UNESCO-Weltkulturerbe.", "Kulturelles Zentrum der Tuareg.", "Bekannt für die typische Lehmarchitektur."],
+      hu: ["A 27 méteres agyagmecset az afrikai iszlám építészet remeke.", "2013-ban felkerült az UNESCO Világörökség listájára.", "A 15. századtól jelentős tuareg központ.", "Híres ezüst- és bőrműves hagyományairól.", "A transzszaharai kereskedelmi útvonalak történelmi csomópontja.", "Klímahajlatát sivatagi forróság jellemzi."],
+      ro: ["Marea Moschee din Agadez a fost construită inițial în 1515.", "Minaretul moscheii are o înălțime de aproximativ 27 de metri.", "Centrul istoric a fost adăugat pe lista UNESCO în 2013.", "Orașul a fost un pol major de tranzit pentru caravanele de cămile.", "Înființat în secolul al XIV-lea de triburile tuarege.", "A fost capitala Sultanatului de Aïr, un important stat istoric.", "Cunoscut pentru crucea de Agadez, o bijuterie tradițională tuaregă."],
+      en: []
+    }
+  },
   {
     id: "arlit-cities-v2",
     type: "city",
@@ -145,7 +171,20 @@ export const poiExtraNigerCitiesV2: POI[] = [
       hu: ["A bányászat határozza meg.", "Az Aïr-hegység közepén fekszik."],
       ro: ["Marcar de minerit.", "Situat în mijlocul masivului Aïr."],
       en: ["Characterized by mining.", "Located in the middle of the Aïr massif."]
-    }, image: "/poi-images/arlit-cities-v2.webp"},
+    }, image: "/poi-images/arlit-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Arlit liegt tief im rauen Norden Nigers und wurde erst in den späten 1960er Jahren nach der Entdeckung massiver Uranvorkommen in der Region gegründet. Die Stadt entwickelte sich rasant von einer kargen Wüstensiedlung zu einem industriellen Kraftzentrum, das stark von internationalen Bergbauunternehmen geprägt ist. Die Landschaft um Arlit ist von gewaltigen Tagebaugruben und industrieller Infrastruktur gezeichnet, die einen scharfen Kontrast zur unberührten Sahara bilden. Trotz der abgelegenen Lage zieht die Minenindustrie Tausende von Arbeitern aus ganz Westafrika an. Die Stadt steht jedoch vor ökologischen Herausforderungen, da der intensive Bergbau die ohnehin knappen Wasserressourcen der Wüste stark beansprucht.",
+      hu: "Arlit egy ipari város Észak-Nigerben, amely az 1960-as évek végén felfedezett uránkészleteknek köszönheti létezését és gyors növekedését. A város a sivatag közepén jött létre, és az ország gazdaságának egyik motorjává vált a francia bányavállalatok beruházásai révén. Az uránbányászat nemcsak gazdasági fellendülést, hanem komoly környezeti kihívásokat is hozott a térség számára. Földrajz K8 — nyersanyag-kitermelés és környezeti hatások.",
+      ro: "Arlit este un oraș industrial din nordul Nigerului, situat în deșertul Sahara, la vest de Munții Aïr. Dezvoltarea sa modernă a început la sfârșitul anilor 1960, odată cu descoperirea unora dintre cele mai mari zăcăminte de uraniu din lume. Economia orașului depinde aproape în totalitate de industria extractivă, facilitată de companii miniere care susțin infrastructura locală. Deși mediul înconjurător este extrem de arid, orașul a atras lucrători din toată țara, transformându-se într-un hub multicultural neobișnuit pentru această regiune izolată. Arlit este adesea un punct de tranzit pentru rutele din nord. (Geografie K7 — resurse naturale și minerit).",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Gegründet in den späten 1960er Jahren.", "Zentrum des nigrischen Uranbergbaus.", "Zieht Arbeiter aus ganz Westafrika an.", "Liegt im rauen Norden der Sahara.", "Landschaft geprägt von Tagebaugruben.", "Steht vor wasserökologischen Herausforderungen."],
+      hu: ["Az 1960-as évekban alapították uránbányászat céljából.", "Niger uránkitermelésének legfőbb központja.", "A Szahara sivatag zord környezetében helyezkedik el.", "Francia vállalatok jelentős beruházásokat hajtottak végre.", "Jelentős bevételt biztosít az állam számára.", "Környezetvédelmi kihívásokkal küzd az ipar miatt."],
+      ro: ["Exploatarea uraniului la Arlit a început în anul 1971.", "Primele zăcăminte au fost descoperite în regiune în 1969.", "Găzduiește două mine majore de uraniu: SOMAIR și COMINAK.", "Situat la aproximativ 200 de kilometri nord de Agadez.", "Orașul s-a format ca o așezare planificată pentru mineri.", "Economia bazată pe uraniu asigură un procent major din exporturile Nigerului.", "Climatul deșertic extrem face agricultura locală aproape imposibilă."],
+      en: []
+    }
+  },
   {
     id: "dosso-cities-v2",
     type: "city",
@@ -163,7 +202,20 @@ export const poiExtraNigerCitiesV2: POI[] = [
       hu: ["Történelmi uralkodói székhely.", "Jelentős az iszlám tudósok számára."],
       ro: ["Sediul istoric al conducătorilor.", "Important pentru învățații islamici."],
       en: ["Historic seat of rulers.", "Significant for Islamic scholars."]
-    }, image: "/poi-images/dosso-cities-v2.webp"},
+    }, image: "/poi-images/dosso-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Dosso ist ein kulturell reiches Zentrum im Südwesten Nigers, das tief in den vorkolonialen Traditionen des Zarma-Volkes verwurzelt ist. Als historischer Sitz des Djermakoye, des traditionellen Herrschers der Zarma, bewahrt die Stadt eine starke Bindung zu ihrer royalen Vergangenheit. Der farbenfrohe Palast des Djermakoye ist ein architektonisches Highlight und spiegelt die Bedeutung der traditionellen Autoritäten im modernen Niger wider. Wirtschaftlich profitiert Dosso von seiner günstigen Lage an den Hauptverkehrsrouten, die Niamey mit Benin und Nigeria verbinden. Die umliegenden Gebiete sind landwirtschaftlich produktiv und tragen wesentlich zur Nahrungsmittelversorgung der Region bei.",
+      hu: "Dosso a délnyugat-nigeri régió történelmi és kulturális központja, amely a prekoloniális időkben a Dosso Királyság fővárosa volt. A Djermakoye palota ma is a helyi uralkodó rezidenciája, és a zarma nép történelmének fontos szimbóluma. A város gazdasága a mezőgazdaságra épül, és fontos közlekedési csomópontként köti össze Niameyt Benin országával. Az iszlám kultúra és a helyi hagyományok szorosan összefonódnak a mindennapi életben. Történelem K7 — nyugat-afrikai királyságok.",
+      ro: "Dosso este un oraș strategic situat în colțul de sud-vest al Nigerului, funcționând ca o importantă intersecție rutieră către țările vecine, Benin și Nigeria. Așezarea are un trecut istoric bogat, fiind centrul regatului Dosso fondat de poporul Zarma înainte de venirea colonizatorilor. Astăzi, orașul este faimos pentru palatul său tradițional, Palatul Djermakoye, un simbol al autorității locale și o atracție culturală. Economia se bazează pe agricultură, în special pe cultura arahidelor, precum și pe comerțul facilitat de ruta de tranzit Niamey-Cotonou. Dosso a beneficiat de numeroase investiții în infrastructură în ultimele decenii. (Istorie K8 — regatele africane precoloniale).",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Historischer Sitz des Djermakoye.", "Zentrum der Zarma-Kultur.", "Wichtiger Verkehrsknotenpunkt im Südwesten.", "Verbindet Niamey mit Benin und Nigeria.", "Bekannt für den farbenfrohen Herrscherpalast.", "Umgeben von produktiven Agrarflächen."],
+      hu: ["A történelmi Dosso Királyság központja volt.", "A Djermakoye palota a zarma nép fontos szimbóluma.", "Fő közlekedési útvonalon fekszik Benin felé.", "Gazdasága elsősorban a regionális mezőgazdaságra épül.", "A helyi és az iszlám kultúra összefonódása jellemzi.", "Jelentős kereskedelmi tranzitváros."],
+      ro: ["Centru istoric al regatului Zarma din secolul al XVIII-lea.", "Palatul Djermakoye este un monument arhitectural major al orașului.", "Orașul servește ca punct cheie pe coridorul rutier către Benin.", "Dosso este situat la doar 130 km est de capitala Niamey.", "Regiunea este un producător important de arahide și cereale.", "Inclus în rutele comerciale regionale cu Nigeria.", "A devenit oficial capitală de departament în secolul al XX-lea."],
+      en: []
+    }
+  },
   {
     id: "diffa-cities-v2",
     type: "city",
@@ -181,7 +233,20 @@ export const poiExtraNigerCitiesV2: POI[] = [
       hu: ["Regionális közigazgatási központ.", "Tranzitkereskedelem jellemzi."],
       ro: ["Centru administrativ regional.", "Caracterizat prin comerțul de tranzit."],
       en: ["Regional administrative center.", "Characterized by transit trade."]
-    }, image: "/poi-images/diffa-cities-v2.webp"},
+    }, image: "/poi-images/diffa-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Diffa ist die östlichste Metropole Nigers und liegt in einer strategisch kritischen Position nahe der Grenze zu Nigeria und den schwindenden Ufern des Tschadsees. Die Stadt ist stark vom grenzüberschreitenden Handel geprägt und dient als wirtschaftlicher Motor für die gesamte Region. In den letzten Jahren hat Diffa aufgrund der geopolitischen Lage eine erhebliche demografische Veränderung durchgemacht, da viele Menschen aus den benachbarten Krisengebieten hier Zuflucht gesucht haben. Die lokale Wirtschaft stützt sich traditionell auf den Anbau von Paprika, Fischerei und Viehzucht, wobei die rote Paprika von Diffa landesweit für ihre außergewöhnliche Qualität geschätzt wird.",
+      hu: "Diffa Niger délkeleti peremén fekszik, közvetlenül a nigériai határ és a Csád-tó medencéjének közelében. A város évszázadok óta fontos szerepet játszik a regionális határkereskedelemben és a kulturális cserében. Az utóbbi évtizedekben a térség demográfiai és gazdasági kihívásokkal nézett szembe a környező konfliktusok és a menekülthullámok miatt, ami átalakította a város arculatát. Földrajz K8 — geopolitika és határmenti régiók Afrikában.",
+      ro: "Orașul Diffa este situat în extremitatea sud-estică a Nigerului, pe malurile râului Komadougou Yobé, care formează granița naturală cu Nigeria. Datorită apropierii sale de Bazinul Lacului Ciad, zona este esențială pentru agricultură, pescuit și creșterea animalelor. Istoric, Diffa a fost un avanpost la marginea Imperiului Kanem-Bornu, iar astăzi reflectă o diversitate culturală bogată, reunind grupuri Kanouri, Fulani și Hausa. În ciuda provocărilor climatice și de securitate recente, orașul rămâne un centru vital pentru piețele regionale unde se tranzacționează ardei iute și alte produse agricole locale. (Geografie K7 — resurse hidrologice africane).",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Östlichste Metropole in Niger.", "Nahe der Grenze zu Nigeria und dem Tschadsee.", "Wichtiger Knotenpunkt für Grenzhandel.", "Berühmt für den Anbau hochwertiger roter Paprika.", "Traditionell geprägt von Fischerei und Viehzucht.", "Zufluchtsort für Menschen aus Nachbarregionen."],
+      hu: ["A nigériai határ közvetlen közelében fekszik.", "A Csád-tó medencéjének fontos regionális városa.", "Történelmileg jelentős határkereskedelmi központ.", "Demográfiai összetételét nagymértékben befolyásolták a konfliktusok.", "A helyi gazdaság alapja a kereskedelem és a mezőgazdaság.", "A régió biztonsági helyzete complex."],
+      ro: ["Situat pe malul râului Komadougou Yobé, graniță cu Nigeria.", "Influențat istoric de marele Imperiu Kanem-Bornu.", "Populația locală este formată majoritar din grupul etnic Kanouri.", "Regiunea Diffa este renumită pentru producția de ardei iute roșu.", "Aflat la o distanță de peste 1.300 km de Niamey.", "Economia depinde puternic de agricultură și de pescuitul sezonier.", "Orașul a suferit influențe climatice din cauza secării Lacului Ciad."],
+      en: []
+    }
+  },
   {
     id: "birni-nkonni-cities-v2",
     type: "city",
@@ -199,7 +264,20 @@ export const poiExtraNigerCitiesV2: POI[] = [
       hu: ["Fontos tranzitpont.", "A Maggia völgyében fekszik."],
       ro: ["Punct de tranzit important.", "Situat în valea Maggia."],
       en: ["Important transit point.", "Located in the Maggia valley."]
-    }, image: "/poi-images/birni-nkonni-cities-v2.webp"},
+    }, image: "/poi-images/birni-nkonni-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Birni-Nkonni ist eine lebendige und stark frequentierte Grenzstadt im Süden Nigers, die massiv vom florierenden Austausch landwirtschaftlicher und kommerzieller Produkte profitiert. Dank der unmittelbaren Nähe zu Nigeria hat sich die Stadt zu einem pulsierenden Handelszentrum entwickelt, in dem täglich riesige Mengen an Waren den Besitzer wechseln. Die umliegenden Regionen sind bekannt für ihren intensiven Zwiebel- und Erdnussanbau, der die wirtschaftliche Basis der lokalen Bevölkerung bildet. Birni-Nkonni zeichnet sich durch seine dynamischen Freiluftmärkte aus, die Händler aus der gesamten Sahelzone anziehen und ein eindrucksvolles Bild des westafrikanischen Wirtschaftsaustauschs bieten.",
+      hu: "Birni N'Konni egy határ menti város, amely kulcsfontosságú kereskedelmi átkelőhely Niger és Nigéria között. A város neve haúsza nyelven annyit tesz: \\\"A bekerített város\\\", ami történelmi erődített múltjára utal. Ma a település nyüzsgő piacaival és élénk csempészkereskedelmével hívja fel magára a figyelmet, a haúsza kultúra és nyelv dominál a mindennapokban. Társadalomföldrajz K7 — határokon átnyúló kereskedelem.",
+      ro: "Birni-Nkonni este un oraș comercial animat situat în sudul Nigerului, la granița cu Nigeria, ceea ce îi conferă un avantaj economic semnificativ datorită comerțului transfrontalier. Originea orașului este legată de influența statelor Hausa, numele său însemnând cetatea fortificată din Nkonni. Datorită infrastructurii sale și poziției pe ruta principală dintre Niamey și Maradi, orașul este un nod esențial de transport. Zona este dominată de agricultura irigată, beneficiind de sisteme de bazine de retenție a apei pentru a cultiva ceapă, mei și sorg, produse esențiale pentru piețele naționale. (Geografie K7 — așezări de frontieră și economie).",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Pulsierende Grenzstadt im Süden Nigers.", "Unmittelbare Nähe zur nigerianischen Grenze.", "Zentrum für intensiven grenzüberschreitenden Handel.", "Umgeben von großen Zwiebel- und Erdnussfeldern.", "Verfügt über riesige, dynamische Freiluftmärkte.", "Wichtiger wirtschaftlicher Motor der Region."],
+      hu: ["Kiemelt fontosságú határátkelő Nigéria irányába.", "Neve haúsza nyelven bekerített várost jelent.", "A haúsza kultúra és nyelv az uralkodó a városban.", "Híres kiterjedt és nyüzsgő regionális piacáról.", "Történelmileg erődített településként védte a térséget.", "A határon átnyúló kereskedelem fő motorja."],
+      ro: ["Așezarea este un punct major de trecere a frontierei spre Nigeria.", "Numele orașului se traduce tradițional ca fiind o cetate fortificată.", "Economia este propulsată de un intens comerț transfrontalier nereglementat.", "Situat pe artera principală Route Nationale 1 a Nigerului.", "Agricultura este susținută de sisteme locale de irigații și baraje.", "Regiunea este renumită pe plan național pentru producția de ceapă.", "Istoria orașului este legată de vechile state independente Hausa."],
+      en: []
+    }
+  },
   {
     id: "tessaoua-cities-v2",
     type: "city",
@@ -217,7 +295,20 @@ export const poiExtraNigerCitiesV2: POI[] = [
       hu: ["Történelmi kereskedelmi központ.", "Helyi kézművességéről ismert."],
       ro: ["Centru comercial istoric.", "Cunoscut pentru meșteșugurile locale."],
       en: ["Historical trade center.", "Known for local craftsmanship."]
-    }, image: "/poi-images/tessaoua-cities-v2.webp"},
+    }, image: "/poi-images/tessaoua-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Tessaoua war einst ein mächtiges lokales Fürstentum, das während des 19. Jahrhunderts eine Schlüsselrolle in der regionalen Politik spielte, bevor es unter französische Kolonialherrschaft fiel. Heute ist der Ort ein friedliches und beschauliches Zentrum, das vorwiegend von Getreidebauern und Viehzüchtern bewohnt wird. Die historische Bedeutung der Stadt ist in den alten Vierteln noch spürbar, wo traditionelle Lehmarchitektur das Stadtbild prägt. Tessaoua dient als wichtiger lokaler Markt für Hirse und Sorghum, die in den trockenen, aber fruchtbaren Böden der Umgebung angebaut werden. Die Stadt verkörpert den ruhigen, agrarisch geprägten Lebensrhythmus im Herzen Nigers.",
+      hu: "Tessaoua egy történelmi város Niger középső-déli részén, amely egykor fontos csomópontként szolgált a szaharai karavánok számára. A 19. században a város jelentős függetlenséget élvezett, mielőtt a francia gyarmatosítók fennhatósága alá került volna. Ma a város a maradi régió egyik legfontosabb adminisztratív központja, és gazdaságát a földimogyoró, valamint az állattenyésztés határozza meg. Történelem K7 — gyarmatosítás előtti afrikai kereskedelem.",
+      ro: "Tessaoua se găsește în regiunea Maradi din sudul Nigerului, fiind un vechi centru istoric aflat la confluența rutelor caravaniere și o locație esențială în istoria regiunilor Hausa. Orașul a fost fondat ca un principat independent, devenind mai târziu o componentă importantă sub influența regatelor din sud și nord. În perioada precolonială și colonială, Tessaoua a menținut o identitate distinctă, susținută prin comerț și meșteșuguri locale. Astăzi, orașul se remarcă prin piețele sale agricole unde agricultorii vând cereale și arahide, iar arhitectura tradițională oferă vizitatorilor o fereastră către stilul de viață sudic-nigerian autentic. (Istorie K8 — societățile africane antice).",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Ehemaliges mächtiges lokales Fürstentum im 19. Jahrhundert.", "Heute ein ruhiges Zentrum für Getreidebauern.", "Traditionelle Lehmarchitektur im Stadtbild.", "Wichtiger lokaler Markt für Hirse und Sorghum.", "Geprägt von einem agrarischen Lebensrhythmus.", "Liegt im historischen Herzen Nigers."],
+      hu: ["Egykor fontos megálló volt a transzszaharai útvonalakon.", "A 19. században jelentős autonómiával rendelkezett.", "A maradi régió egyik kulcsfontosságú városa.", "Gazdasága a földimogyoró-termesztésre épül.", "Hagyományos afrikai építészet és piacok jellemzik.", "A francia gyarmatosítás előtt önálló kereskedőváros volt."],
+      ro: ["A funcționat ca o zonă tampon istorică între emiratele Maradi și Zinder.", "Fondat în secolul al XIX-lea ca o fortăreață independentă.", "Economia actuală este axată predominant pe agricultură și creșterea vitelor.", "Situat la aproximativ 115 km vest de Zinder pe ruta națională.", "Populația orașului este dominant de etnie Hausa.", "A găzduit una dintre primele administrații coloniale franceze din regiune.", "Piața locală este renumită pentru produsele meșteșugărești și textile."],
+      en: []
+    }
+  },
   {
     id: "dogondoutchi-cities-v2",
     type: "city",
@@ -235,7 +326,20 @@ export const poiExtraNigerCitiesV2: POI[] = [
       hu: ["Kulturális olvasztótégely.", "Gyakran Doutchi néven emlegetik."],
       ro: ["Creuzet cultural.", "Adesea denumit Doutchi."],
       en: ["Cultural melting pot.", "Often referred to as Doutchi."]
-    }, image: "/poi-images/dogondoutchi-cities-v2.webp"},
+    }, image: "/poi-images/dogondoutchi-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Dogondoutchi ist eine malerische Kleinstadt, die durch ihre einzigartige Geografie, bestehend aus trockenen Tälern und von alten Bäumen gesäumten Straßen, charakterisiert ist. Die Stadt ist ein spirituelles Zentrum für die Arewa-Kultur und hält stark an animistischen Traditionen fest, die hier parallel zum Islam praktiziert werden. Die umliegende Landschaft ist geprägt von markanten Hügeln und saisonalen Wasserläufen, die während der Regenzeit erblühen. Landwirtschaftlich konzentriert sich Dogondoutchi auf den Anbau von Hirse und die Aufzucht von Rindern. Kulturell ist die Stadt für ihre jährlichen Erntefeste und traditionellen Ringkämpfe überregional bekannt.",
+      hu: "Dogondoutchi az Arewa régió kulturális és vallási központja, amely lenyűgöző dombos környezetéről és hagyományos animista hitvilágáról ismert. A város különleges helyet foglal el Nigerben, mivel itt még mindig erősen jelen vannak az iszlám előtti bori kultuszok szertartásai, amelyek békésen megférnek a muszlim többséggel. A település vörös agyagépületei jellegzetes afrikai atmoszférát árasztanak. Társadalomtudomány K8 — vallási szinkretizmus és helyi hitvilág.",
+      ro: "Dogondoutchi, cunoscut și sub numele de Doutchi, este o așezare din regiunea Dosso, înconjurată de un peisaj de platouri pitorești și formațiuni stâncoase izolate care domină relieful plat. Populația orașului este majoritar formată din etnia Hausa, având o cultură animistă care s-a păstrat până târziu în ciuda expansiunii islamului. Economia este pur agrară, locuitorii cultivând mei și crescând vite, luptând adesea cu seceta și variațiile climatice. Dogondoutchi rămâne o referință importantă în studiile antropologice din cauza persistenței practicilor sale religioase tradiționale cunoscute sub numele de Bori. (Istorie K8 — religii și tradiții africane).",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Malerische Kleinstadt mit von Bäumen gesäumten Straßen.", "Spirituelles Zentrum der Arewa-Kultur.", "Geprägt von markanten Hügeln und trockenen Tälern.", "Bekannt für traditionelle Ringkämpfe.", "Wichtiger Produzent von Hirse.", "Bewahrt alte animistische Traditionen."],
+      hu: ["Az Arewa régió hagyományos kulturális központja.", "Jelentős a pre-iszlám bori animista kultuszok jelenléte.", "Dombos vidék veszi körül, ami ritka a térségben.", "Az építészetet a hagyományos vörös agyag dominálja.", "Példa a vallási toleranciára és szinkretizmusra.", "Fontos mezőgazdasági csomópont a térségben."],
+      ro: ["Înconjurat de dealuri stâncoase vizibile, tipice peisajului Arewa.", "A fost un bastion istoric al religiei tradiționale animiste Bori.", "Numele derivă din limba Hausa și înseamnă stânca lungă.", "Populația este formată din grupul etnic Arewa, o ramură Hausa.", "Un oraș axat aproape exclusiv pe cultura de subzistență a meiului.", "Atrage periodic cercetători europeni și antropologi pentru studiul tradițiilor.", "Orașul este străbătut de un curs de apă efemer în sezonul ploios."],
+      en: []
+    }
+  },
   {
     id: "gaya-cities-v2",
     type: "city",
@@ -253,7 +357,20 @@ export const poiExtraNigerCitiesV2: POI[] = [
       hu: ["Határátkelő Benin felé.", "Fontos a folyami hajózás számára."],
       ro: ["Punct de trecere a frontierei cu Benin.", "Important pentru navigația fluvială."],
       en: ["Border crossing to Benin.", "Important for river navigation."]
-    }, image: "/poi-images/gaya-cities-v2.webp"},
+    }, image: "/poi-images/gaya-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Gaya liegt äußerst strategisch direkt am Ufer des Nigers und an der Grenze zu Benin, was die Stadt zu einem der wichtigsten südlichen Knotenpunkte des Landes macht. Der Grenzverkehr prägt das tägliche Leben, da Tausende von Lkws und Händlern täglich die Brücke über den Fluss passieren, um Waren zwischen dem Binnenland Niger und den Seehäfen Westafrikas zu transportieren. Dank der fruchtbaren Böden entlang des Flusses ist Gaya auch ein wichtiges landwirtschaftliches Zentrum, das sich auf den Anbau von Reis und Gemüse spezialisiert hat. Die üppige, grüne Landschaft bildet hier einen starken Kontrast zu den trockeneren Regionen im Norden.",
+      hu: "Gaya Niger legdélebbi városa, amely a Niger folyó partján, a benini és nigériai hármashatár közvetlen közelében fekszik. Stratégiai elhelyezkedése miatt az ország legfontosabb folyami kikötőjével és szárazföldi határátkelőjével rendelkezik. A terület csapadékosabb éghajlata gazdagabb növényvilágot és intenzívebb mezőgazdaságot tesz lehetővé, mint a szárazabb északi régiókban. Földrajz K7 — vízrajz és hármashatárok.",
+      ro: "Gaya este cel mai sudic oraș al Nigerului, situat strategic la granița triplă cu Benin și Nigeria, de-a lungul impresionantului fluviu Niger. Datorită precipitațiilor sale relativ ridicate, Gaya se bucură de un climat mult mai fertil comparativ cu restul țării, permițând cultivarea orezului, a trestiei de zahăr și a altor culturi tropicale pe câmpiile inundabile. Fluviul servește drept arteră vitală pentru pescuit și transport, transformând orașul într-un nod logistic și comercial dinamic. Importanța orașului este dublată de prezența unui port fluvial și a punctului rutier de trecere, consolidând exporturile. (Geografie K7 — influența rețelelor fluviale).",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Direkt am Fluss Niger und der Grenze zu Benin gelegen.", "Einer der wichtigsten südlichen Verkehrsknotenpunkte.", "Zentraler Durchgangsort für den internationalen Handel.", "Fruchtbare Böden ermöglichen Reisanbau.", "Üppige Landschaft im Kontrast zum Wüsten-Norden.", "Wichtige Brückenverbindung nach Westafrika."],
+      hu: ["Niger legdélebbi, legcsapadékosabb régiójában található.", "Közvetlen közelében van a benini és nigériai hármashatár.", "A város rendelkezik az ország fő folyami kikötőjével.", "Jelentős a folyami halászat és a mezőgazdaság.", "A Niger folyó fontos közlekedési és élelemforrása.", "Kulcsfontosságú szárazföldi kereskedelmi kapu dél felé."],
+      ro: ["Cel mai sudic oraș al Nigerului, la granița cu Benin și Nigeria.", "Este zona cu cele mai multe precipitații anuale din întreaga țară.", "Găzduiește plantații extinse de orez și trestie de zahăr.", "Podul Gaya-Malanville peste fluviul Niger asigură un trafic intens de tranzit.", "Portul fluvial este un nod important pentru pescuitul local.", "Un centru esențial pentru comerțul agricol dintre țările vecine.", "Climatul de tip sudanez permite o vegetație mai densă decât în Sahel."],
+      en: []
+    }
+  },
   {
     id: "madaoua-cities-v2",
     type: "city",
@@ -271,7 +388,20 @@ export const poiExtraNigerCitiesV2: POI[] = [
       hu: ["Agrárellátó központ.", "Magas zöldségtermelés."],
       ro: ["Centru de aprovizionare agricolă.", "Producție ridicată de legume."],
       en: ["Agricultural supply center.", "High vegetable production."]
-    }, image: "/poi-images/madaoua-cities-v2.webp"},
+    }, image: "/poi-images/madaoua-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Inmitten einer der wichtigsten Agrarzonen des Landes gelegen, hat sich Madaoua einen hervorragenden Ruf für seinen extensiven Zwiebelanbau erarbeitet. Die \"Violette de Galmi\", eine weltberühmte Zwiebelsorte, stammt aus dieser Region und wird von Madaoua aus in ganz Westafrika exportiert. Die Stadt ist ein leuchtendes Beispiel für erfolgreiche Bewässerungswirtschaft in einer ansonsten niederschlagsarmen Region. Neben der Landwirtschaft ist die Stadt ein Knotenpunkt für den Viehhandel. Die florierende Agrarwirtschaft zieht während der Erntezeit zahlreiche Wanderarbeiter an und verleiht der Stadt eine spürbare wirtschaftliche Dynamik.",
+      hu: "Madaoua egy virágzó mezőgazdasági város a Tahoua régióban, amely elsősorban a hagyma és más zöldségek termesztéséről híres. A város földjeit a völgyekben összegyűlő esővíz és a kútásás teszi termékennyé a hosszú száraz évszakok ellenére. A helyi gazdák innovatív öntözési technikákat alkalmaznak, így Madaoua piacain egész évben friss termékek találhatók. Környezetismeret K6 — szárazságtűrő mezőgazdaság.",
+      ro: "Madaoua este un important centru agricol și administrativ aflat în regiunea Tahoua, caracterizat prin văile sale fertile și prin sisteme tradiționale de irigare care combat ariditatea climei din Sahel. Orașul este recunoscut național pentru producția uriașă de ceapă violet de Galmi, foarte căutată pe piețele din toată Africa de Vest. Economia depinde de cultivarea terenurilor de-a lungul văilor secate ale râurilor antice, care adună apă subterană abundentă. Populația este formată din Hausa și nomazi Peul, care folosesc așezarea ca punct de întâlnire pentru comerțul agro-pastoral de subzistență. (Geografie K7 — adaptări agricole la secetă).",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Zentrum einer der wichtigsten Agrarzonen Nigers.", "Berühmt für den Anbau der 'Violette de Galmi'-Zwiebel.", "Exportiert Zwiebeln in weite Teile Westafrikas.", "Erfolgreiches Beispiel für Bewässerungswirtschaft.", "Wichtiger Knotenpunkt für den regionalen Viehhandel.", "Erlebt während der Erntezeit hohe wirtschaftliche Dynamik."],
+      hu: ["Az ország egyik fő hagyma- és zöldségtermesztő központja.", "A helyi gazdák hatékony öntözési rendszereket használnak.", "A mezőgazdaság a város gazdaságának alapja.", "Hatalmas piaccal rendelkezik a helyi termékek számára.", "A száraz éghajlat ellenére egész évben termesztenek zöldséget.", "Kulturálisan a haúsza népesség a legjelentősebb."],
+      ro: ["Madaoua este centrul național pentru producția celebrei cepe violet de Galmi.", "Orașul este așezat în valea unui curs efemer, cu apă freatică abundentă.", "Populația este mixtă, incluzând etniile Hausa și nomazii Peul.", "Piața sa atrage comercianți din statele învecinate, mai ales Nigeria.", "Culturile de ceapă din regiune sunt exportate în mai multe țări africane.", "Zona beneficiază de micro-baraje și rețele extinse de irigații.", "Este situat strategic pe axa rutieră est-vest care traversează sudul Nigerului."],
+      en: []
+    }
+  },
   {
     id: "mayahi-cities-v2",
     type: "city",
@@ -289,7 +419,20 @@ export const poiExtraNigerCitiesV2: POI[] = [
       hu: ["Pásztorok központja.", "Falusi piacairól ismert."],
       ro: ["Centru pentru păstori.", "Cunoscut pentru piețele sătești."],
       en: ["Center for herders.", "Known for village markets."]
-    }, image: "/poi-images/mayahi-cities-v2.webp"},
+    }, image: "/poi-images/mayahi-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Mayahi ist eine wachsende und aufstrebende Gemeinde, in der traditionelle Landwirtschaft und lokale Viehzucht die tragenden Säulen der lokalen Ökonomie bilden. Trotz ihrer relativen Abgeschiedenheit hat die Stadt in den letzten Jahren durch verbesserte Straßennetze eine stärkere Anbindung an die großen Märkte von Maradi und Kano (Nigeria) erfahren. Die Bevölkerung von Mayahi ist bekannt für ihre Resilienz gegenüber den oft harten klimatischen Bedingungen der Sahelzone, indem sie dürreresistente Kulturen wie Hirse und Augenbohnen anbaut. Die lebhaften Wochenmärkte der Stadt sind ein sozialer und wirtschaftlicher Treffpunkt für die umliegenden ländlichen Gemeinschaften.",
+      hu: "Mayahi egy csendes adminisztratív és mezőgazdasági központ Maradi régióban, amelyet hatalmas baobabfák és szárazföldi szavannai táj vesz körül. A város lakossága elsősorban állattenyésztésből és földimogyoró-termesztésből él, a helyi piac pedig fontos találkozóhelye a nomád pásztoroknak és a letelepedett földműveseknek. A város az afrikai vidéki élet autentikus példája. Társadalomföldrajz K7 — nomád és letelepedett társadalmak.",
+      ro: "Mayahi este un oraș și sediu de departament în regiunea Maradi, situat într-o zonă vastă de savană deschisă. Așezarea se distinge ca un lider regional în cultivarea bumbacului, a arahidelor și a sorgului, datorită solului nisipos propice și eforturilor de refacere a ecosistemelor forestiere prin regenerare naturală gestionată de fermieri. Istoria sa include rezistența locală și adaptarea populațiilor tradiționale la schimbările de climă. Mayahi găzduiește piețe saptămânale active, servind ca punct central de aprovizionare pentru zeci de sate înconjurătoare și fiind renumit pentru spiritul comunitar al agricultorilor săi. (Geografie K7 — lupta împotriva deșertificării).",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Wachsende Gemeinde mit Fokus auf traditioneller Landwirtschaft.", "Starke wirtschaftliche Anbindung an Maradi und Kano.", "Bekannt für den Anbau von dürreresistenten Kulturen.", "Wöchentliche Märkte als wichtigster sozialer Treffpunkt.", "Tragende Säule ist die lokale Viehzucht.", "Bevölkerung zeigt hohe Resilienz gegen das Sahelklima."],
+      hu: ["Tipikus szárazföldi szavannai táj veszi körül.", "A gazdaság a földimogyoróra és az állattartásra épül.", "Találkozási pont a nomád és letelepedett közösségek számára.", "Hatalmas, ősi baobabfák találhatók a régióban.", "Maradi régió egyik fontos mezőgazdasági piaca.", "Megőrizte az autentikus, vidéki afrikai atmoszférát."],
+      ro: ["Centru agricol axat pe sorg, arahide și bumbac de subzistență.", "Orașul este recunoscut pentru proiectele de regenerare a pădurilor din zonă.", "Este capitala departamentului omonim din regiunea de sud Maradi.", "Populația locală practică masiv silvicultura gestionată de fermieri.", "Climatul prezintă sezoane ploioase extrem de scurte și imprevizibile.", "Satele din jurul Mayahi participă masiv la piața centrală a orașului.", "Un punct esențial pentru programele internaționale de securitate alimentară."],
+      en: []
+    }
+  },
   {
     id: "tera-cities-v2",
     type: "city",
@@ -307,7 +450,20 @@ export const poiExtraNigerCitiesV2: POI[] = [
       hu: ["Közel a száheli vízlelőhelyekhez.", "Helyi fejlesztési projektek helyszíne."],
       ro: ["Aproape de sursele de apă din Sahel.", "Locul proiectelor de dezvoltare locală."],
       en: ["Close to Sahel waterholes.", "Site of local development projects."]
-    }, image: "/poi-images/tera-cities-v2.webp"},
+    }, image: "/poi-images/tera-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Téra ist eine beschauliche Ortschaft im äußersten Westen Nigers, nur unweit der Grenze zu Burkina Faso gelegen. Die Stadt spielt eine wesentliche Rolle im regionalen Handel zwischen den beiden Nationen und zeichnet sich durch eine starke Präsenz von Goldgräbern aus, die in den handwerklichen Minen der Umgebung ihr Glück suchen. Die Landschaft um Téra ist geprägt von temporären Seen und flachen Senken, die nach der Regenzeit als wichtige Weidegründe für nomadische Viehhirten dienen. Kulturell ist die Stadt ein Treffpunkt der Songhai- und Fulani-Ethnien, was sich in einer reichen kulinarischen und handwerklichen Vielfalt widerspiegelt.",
+      hu: "Téra a Tillabéri régió egyik nyugati végvára, közel a Burkina Fasó-i határhoz. A város egy viszonylag nagy, mesterséges tó partján épült, amely létfontosságú vízforrást jelent az emberek és az állatállomány számára a száraz évszakokban. Téra történelmileg a zarma és a tuareg kultúrák ütköző- és találkozási pontja volt, ma pedig a helyi kézműves textíliáiról ismert. Földrajz K7 — víztározók jelentősége a Száhel-övezetben.",
+      ro: "Téra este un oraș vibrant situat în extremitatea vestică a regiunii Tillabéri din Niger, nu departe de granița cu Burkina Faso. Așezarea are un caracter agro-pastoral și comercial, fiind fondată pe locul unor rute vechi prin care se făcea schimb de animale, sare și cereale între nomazii nordici și popoarele din sud. Zona din jurul Téra este înzestrată cu lacuri de acumulare esențiale care asigură supraviețuirea turmelor de vite în timpul sezonului uscat îndelungat. Datorită minelor de aur artizanale și comercianților de frontieră, economia orașului a crescut semnificativ în ultimele decenii, păstrând o atmosferă specifică a savanei saheliene. (Geografie K7 — rezervele de apă din savană).",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Liegt im äußersten Westen nahe der Grenze zu Burkina Faso.", "Wichtiger Ort für den regionalen grenzüberschreitenden Handel.", "Bekannt für handwerklichen Goldbergbau in der Umgebung.", "Landschaft geprägt von temporären Seen und flachen Senken.", "Kultureller Treffpunkt der Songhai- und Fulani-Ethnien.", "Wichtige Weidegründe für nomadische Hirten."],
+      hu: ["Egy stratégiai fontosságú mesterséges tó partján fekszik.", "Közeli kapcsolatban áll a szomszédos Burkina Fasóval.", "A zarma és a tuareg népcsoportok fontos találkozási helye.", "Híres a hagyományos, kézzel szőtt textíliáiról.", "A tó kritikus vízforrás az aszályos időszakokban.", "Fontos szerepet játszik a regionális állatkereskedelemben."],
+      ro: ["Téra este un oraș frontalier situat aproape de Burkina Faso.", "Găzduiește rezerve de apă vitale pentru turmele de vite și oi.", "În apropiere se află mai multe mine artizanale de extracție a aurului.", "Un punct istoric pentru schimbul între păstori nomazi și agricultori.", "Téra este traversată de drumuri comerciale care duc spre vestul Africii.", "Piața locală este renumită pentru tranzacțiile mari de animale.", "Orașul are influențe culturale predominant Songhai și Peul."],
+      en: []
+    }
+  },
   {
     id: "mirriah-cities-v2",
     type: "city",
@@ -325,7 +481,20 @@ export const poiExtraNigerCitiesV2: POI[] = [
       hu: ["Köleselosztó központ.", "Gazdag falusi építészet."],
       ro: ["Centru de distribuție pentru mei.", "Arhitectură rurală bogată."],
       en: ["Distribution center for millet.", "Rich village architecture."]
-    }, image: "/poi-images/mirriah-cities-v2.webp"},
+    }, image: "/poi-images/mirriah-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Mirriah, ein historisch bedeutsames Dorf in der Nähe von Zinder, hat sich im Laufe der Jahrzehnte zu einer modernen Verwaltungseinheit mit starkem Fokus auf intensivierte Landwirtschaft entwickelt. Die Gegend ist berühmt für ihre Handwerkskunst, insbesondere für die Herstellung von hochqualitativen Lederwaren und traditioneller Töpferei. Das historische Erbe der Stadt ist eng mit dem alten Sultanat von Zinder verbunden, dessen Einflüsse in der Architektur der älteren Wohnviertel noch immer sichtbar sind. Heute treibt Mirriah seine Entwicklung durch Agrarprojekte voran, die auf die Kultivierung von Erdnüssen und verschiedenen Gemüsesorten spezialisiert sind.",
+      hu: "Mirriah Zinder városának közeli szomszédja, amely híres lenyűgöző kézművességéről, különösen a hagyományos ezüstművességről és a fazekasságról. A város gazdag történelemmel bír, mint a Damagaram Szultanátus egyik fontos végvára. Szűk, kanyargós utcái és agyagból épült, afrikai stílusú házai a múltba repítik a látogatókat, miközben a helyi piac színpompás forgataga a mindennapi élet ritmusát adja. Történelem K8 — afrikai kézművesség és birodalmak.",
+      ro: "Mirriah este un mic, dar istoric oraș din sudul Nigerului, situat la câțiva kilometri est de orașul principal Zinder. În istorie, Mirriah a funcționat adesea ca un centru agricol și de reședință secundară pentru demnitarii din Sultanatul Damagaram, iar arhitectura veche cu motive din lut și influențe arabe persistă parțial până astăzi. Economia orașului se învârte în jurul oazelor și a grădinilor irigate, unde se cultivă fructe, legume și palmieri curmali, formând o oază neașteptată în relieful arid. Atmosfera liniștită a orașului constrastează cu activitatea intensă de la periferia estică a regiunii Zinder. (Istorie K8 — orașe satelit ale sultanatelor africane).",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Historisch bedeutsames Zentrum nahe der Stadt Zinder.", "Moderne Verwaltungseinheit mit Fokus auf Landwirtschaft.", "Berühmt für hochqualitative Lederwaren und Töpferei.", "Eng verbunden mit dem historischen Sultanat von Zinder.", "Fördert Agrarprojekte für Erdnüsse und Gemüse.", "Traditionelle Architektur prägt die alten Wohnviertel."],
+      hu: ["Az egykori Damagaram Szultanátus fontos városa volt.", "Kiemelkedő hagyományokkal rendelkezik az ezüstművességben.", "Hagyományos agyagépítészete a térségre jellemző.", "Szoros gazdasági kapcsolatban áll a szomszédos Zinderrel.", "Élénk piaca a régió fontos kereskedelmi pontja.", "A fazekas mesterség generációk óta öröklődik."],
+      ro: ["Orașul este situat la aproximativ 20 de kilometri est de Zinder.", "A făcut parte istoric din influentul Sultanat de Damagaram.", "Regiunea beneficiază de oaze cu pânză freatică situată la mică adâncime.", "Agricultorii locali cresc palmieri curmali și pomi fructiferi în zonele irigate.", "Populația din Mirriah are tradiții vechi în meșteșugurile din lut.", "A servit drept reședință de vară pentru nobilii din regatele Hausa.", "Este faimos pentru arhitectura tradițională precolonială încă vizibilă."],
+      en: []
+    }
+  },
   {
     id: "tibiri-cities-v2",
     type: "city",
@@ -343,7 +512,20 @@ export const poiExtraNigerCitiesV2: POI[] = [
       hu: ["Történelmi királyi székhely.", "A hagyományos életmód dominál."],
       ro: ["Sediul regal istoric.", "Modul de viață tradițional predomină."],
       en: ["Historic royal seat.", "Traditional lifestyle prevails."]
-    }, image: "/poi-images/tibiri-cities-v2.webp"},
+    }, image: "/poi-images/tibiri-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Tibiri ist eine kompakte Ansiedlung im landwirtschaftlichen Herzen Nigers und funktionell eng mit der nahegelegenen Handelsmetropole Maradi verbunden. Historisch war Tibiri der Sitz eines bedeutenden Hausa-Königreichs, dessen Erbe bis heute in den königlichen Zeremonien und der starken lokalen Identität fortlebt. Die Wirtschaft der Stadt stützt sich fast vollständig auf den Ackerbau, wobei Sorghum, Hirse und Erdnüsse die Haupterzeugnisse darstellen. Die engen familiären und wirtschaftlichen Bindungen an Nigeria prägen das tägliche Leben, wodurch Tibiri ein reges und dynamisches Handelsumfeld für lokale landwirtschaftliche Güter bietet.",
+      hu: "Tibiri a haúsza Gobir Királyság történelmi örököse, egy olyan város, amely mélyen gyökerezik Nyugat-Afrika animista és muszlim hagyományaiban. A helyi vezető, a szultán még ma is nagy társadalmi befolyással rendelkezik. A település híres a Bori-kultuszhoz kapcsolódó fesztiválokról és gyógyító rituálékról, amelyek egyedülálló kulturális vonzerőt jelentenek a régióban. Társadalomtudomány K8 — tradicionális uralkodók modern szerepe.",
+      ro: "Tibiri este un oraș de mare importanță istorică și culturală, fiind capitala tradițională a regiunii Gobir, unul dintre cele mai influente state antice Hausa. Situat în regiunea Maradi, orașul își păstrează aura de centru tradițional, având o curte a sultanului care respectă și în prezent ceremoniile și ritualurile ancestrale, inclusiv celebrele procesiuni ale călăreților. Astăzi, Tibiri este în principal o așezare agrară, locuitorii dedicându-se cultivării cerealelor. În fiecare an, orașul găzduiește festivaluri unde se cântă istoria epică a poporului Hausa și unde curajul războinicilor din trecut este onorat prin evenimente colorate. (Istorie K8 — moștenirea regatului Gobir).",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Kompakte Ansiedlung nahe der Metropole Maradi.", "Historischer Sitz eines bedeutenden Hausa-Königreichs.", "Wirtschaft basiert stark auf Sorghum, Hirse und Erdnüssen.", "Eng familiär und wirtschaftlich mit Nigeria verbunden.", "Königliche Zeremonien bewahren das historische Erbe.", "Dynamisches Handelsumfeld für Agrargüter."],
+      hu: ["A történelmi Gobir Királyság szellemi örököse.", "A helyi szultán ma is jelentős társadalmi szerepet tölt be.", "Ismert a hagyományos Bori-kultusz rituáléiról.", "A muszlim és animista hagyományok egyedi ötvözete.", "Építészete a haúsza kulturális stílust tükrözi.", "A vallási fesztiválok jelentős közösségi események."],
+      ro: ["Tibiri servește drept capitală istorică și spirituală a teritoriului Gobir.", "Orașul menține și azi o curte a unui sultan tradițional funcțională.", "Cunoscut pentru festivalurile ecvestre și procesiunile în armuri de epocă.", "Statul Hausa din Gobir s-a relocat aici după căderea vechii sale capitale.", "Orașul este o destinație esențială pentru istoricii Africii de Vest.", "Economia sa cotidiană este asigurată din cultivarea și comerțul cu cereale.", "Păstrează arhiva orală a miturilor și bătăliilor istorice precoloniale."],
+      en: []
+    }
+  },
   {
     id: "tillaberi-cities-v2",
     type: "city",
@@ -361,7 +543,20 @@ export const poiExtraNigerCitiesV2: POI[] = [
       hu: ["Rizstermesztési központ.", "Fontos folyami oázis."],
       ro: ["Centru pentru cultivarea orezului.", "Oază fluvială importantă."],
       en: ["Center for rice cultivation.", "Important river oasis."]
-    }, image: "/poi-images/tillaberi-cities-v2.webp"},
+    }, image: "/poi-images/tillaberi-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Tillabéri fungiert als das westliche Tor zur Sahelzone und liegt malerisch am Ufer des majestätischen Flusses Niger. Die Stadt bietet einen faszinierenden Kontrast: Während die Umgebung aus trockenen, staubigen Gebieten besteht, gedeihen entlang des Flusses sattgrüne Reisfelder, die durch ausgeklügelte Bewässerungssysteme genährt werden. Diese Reisfelder machen Tillabéri zu einem der wichtigsten Zentren für die nationale Nahrungsmittelproduktion. Die Stadt ist zudem ein beliebter Ausgangspunkt für Flussexpeditionen und die Beobachtung von Nilpferden. Kulturell ist Tillabéri von den Traditionen der Songhai und Zarma geprägt, die eng mit dem Leben am Flussufer verwoben sind.",
+      hu: "Tillabéri a Niger folyó festői kanyarulatában fekszik, és a rizstermesztés, valamint a folyami halászat központja a régióban. A várost gyakran az ország mezőgazdasági kincsesládájaként emlegetik, ahol a folyó vize zöld oázist varázsol a száraz Száhel-övezetbe. Tillabéri a zsiráfok utolsó nyugat-afrikai menedékhelyének közelsége miatt is jelentős, amit a természetvédők kiemelten figyelnek. Környezetismeret K7 — folyómenti ökoszisztémák.",
+      ro: "Tillabéri, situat în nord-vestul Nigerului pe malurile stângi ale fluviului Niger, este capitala administrativă a regiunii cu același nume și un pol vital al culturii poporului Zarma. Datorită apropierii de marele fluviu, agricultura irigată, în special cultivarea orezului și a meiului, constituie baza existenței a mii de familii locale. Orașul a fost un punct de plecare pentru exploratorii francezi la sfârșitul secolului al XIX-lea și un fort militar strategic datorită navigației fluviale. Astăzi, Tillabéri este înconjurat de parcuri naționale și de habitatul unor turme mari de hipopotami care trăiesc în apele fluviului. (Geografie K7 — ecosistemele fluviale din Sahel).",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Fungiert als westliches Tor zur Sahelzone.", "Malerische Lage direkt am Ufer des Flusses Niger.", "Bekannt für sattgrüne Reisfelder und Bewässerungssysteme.", "Wichtiges Zentrum der nationalen Nahrungsmittelproduktion.", "Beliebter Ausgangspunkt für die Beobachtung von Nilpferden.", "Kultur stark von Songhai und Zarma geprägt."],
+      hu: ["Közvetlenül a Niger folyó partján épült fel.", "A régió legfőbb rizstermesztő központja.", "Fontos szerepet játszik a folyami halászatban.", "A nyugat-afrikai zsiráfok élőhelyének közelében található.", "Zöld oázisként emelkedik ki a száraz Száhel-övezetből.", "Jelentős mezőgazdasági termékeket exportál Niamey felé."],
+      ro: ["Situat pe malul stâng al fluviului Niger la nord de Niamey.", "Populația predominantă este formată din grupuri etnice Zarma și Songhai.", "Orașul beneficiază de mari culturi irigate de orez pe luncile inundabile.", "Este considerat un centru major pentru pescuitul de apă dulce în regiune.", "A funcționat ca o bază militară timpurie în timpul ocupației coloniale.", "Păstrează un comerț intens cu animale și orez către capitală.", "Zona fluvială adiacentă găzduiește mici populații izolate de hipopotami."],
+      en: []
+    }
+  },
   {
     id: "magaria-cities-v2",
     type: "city",
@@ -379,7 +574,20 @@ export const poiExtraNigerCitiesV2: POI[] = [
       hu: ["A határkereskedelem alakítja az életet.", "Jelentős a földimogyoró-export szempontjából."],
       ro: ["Comerțul de frontieră modelează viața.", "Important pentru exportul de arahide."],
       en: ["Border trade shapes daily life.", "Significant for peanut exports."]
-    }, image: "/poi-images/magaria-cities-v2.webp"},
+    }, image: "/poi-images/magaria-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Magaria, unmittelbar an der Grenze zu Nigeria gelegen, floriert dank eines konstanten und intensiven Austauschs von Handelswaren zwischen den beiden Nachbarstaaten. Die Stadt ist ein unverzichtbarer Umschlagplatz für Erdnüsse, die traditionell das wichtigste Exportgut der Region darstellen. Die Bevölkerungsdichte in und um Magaria ist aufgrund des fruchtbaren Bodens und der guten Handelsmöglichkeiten im Vergleich zum restlichen Niger außergewöhnlich hoch. Die dynamischen Märkte der Stadt sind ein Schmelztiegel der Kulturen, auf denen Händler aus dem ganzen Hausaland ihre Waren, von landwirtschaftlichen Erzeugnissen bis hin zu importierten Textilien, feilbieten.",
+      hu: "Magaria egy sűrűn lakott mezőgazdasági város Zinder régióban, a nigériai határhoz közel. A térség termékeny földjei kiválóan alkalmasak a földimogyoró és a köles termesztésére, amelyek a város gazdaságának gerincét adják. Határ menti fekvése miatt folyamatos kulturális és gazdasági csere zajlik, ugyanakkor a túlnépesedés kihívások elé állítja az infrastruktúrát. Földrajz K8 — túlnépesedés és mezőgazdaság.",
+      ro: "Magaria este un oraș sudic din departamentul Zinder, situat la câțiva pași de granița cu Nigeria, ceea ce face din el unul dintre cele mai vibrante și antreprenoriale așezări ale țării. Comerțul intens cu alimente, vite, electronice și textile transformă acest oraș de provincie într-un punct nodal al economiei de frontieră. Regiunea este unul dintre grânarele principale ale Nigerului, favorizată de un sol bogat care susține cultivarea arahidelor, faimoase în istoria de export a țării în anii '70. Magaria combină farmecul tradițional al piețelor aglomerate cu influențele comerciale și lingvistice transfrontaliere extrem de dinamice. (Geografie K7 — dinamica așezărilor de frontieră).",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Unmittelbar an der Grenze zu Nigeria gelegen.", "Unverzichtbarer Umschlagplatz für Erdnüsse.", "Hohe Bevölkerungsdichte durch fruchtbare Böden.", "Dynamische Märkte ziehen Händler aus dem Hausaland an.", "Konstanter und intensiver grenzüberschreitender Handel.", "Wichtiger Standort für den Textil- und Agrarhandel."],
+      hu: ["A nigériai határ közelében fekvő fontos kereskedelmi város.", "Az ország egyik legfontosabb földimogyoró-termelője.", "Sűrűn lakott település a termékeny vidéknek köszönhetően.", "A helyi gazdaság nagymértékben függ az esős évszaktól.", "Erős kulturális kötelékek fűzik a szomszédos Nigériához.", "A köles és cirok alapvető élelmiszernövények a térségben."],
+      ro: ["Unul dintre cele mai aglomerate puncte de trecere către statul nigerian Kano.", "În anii 1970 a fost epicentrul național al cultivării și exportului de arahide.", "Se află într-o regiune care primește cele mai mari precipitații din zona Zinder.", "Economia este dominată de contrabanda tolerată și tranzitele comerciale.", "Majoritatea schimburilor se fac folosind moneda Naira nigeriană, alături de CFA.", "Dispune de o infrastructură masivă de piețe care se reunesc în weekenduri.", "Populația sa vorbește frecvent o combinație de dialecte Hausa și franceză."],
+      en: []
+    }
+  },
   {
     id: "dakoro-cities-v2",
     type: "city",
@@ -397,7 +605,20 @@ export const poiExtraNigerCitiesV2: POI[] = [
       hu: ["Állatkereskedők csomópontja.", "Széles szavanna veszi körül."],
       ro: ["Nod pentru comercianții de animale.", "Înconjurat de o savană vastă."],
       en: ["Hub for livestock traders.", "Surrounded by wide savanna."]
-    }, image: "/poi-images/dakoro-cities-v2.webp"},
+    }, image: "/poi-images/dakoro-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Dakoro ist eine entlegene Kommune in Zentralniger, die von tief verwurzelten pastoralen Traditionen lebt und als Heimat für gewaltige Herden von Kamelen, Rindern und Ziegen bekannt ist. Die Stadt ist ein essenzieller Sammelpunkt für die nomadischen Tuareg und Fulani, besonders während der Regenzeit, wenn die umliegenden Steppen reichlich Weidefläche bieten. Dakoro dient auch als wichtiger Markt für Vieh, das von hier aus in die südlicheren, dichter besiedelten Regionen transportiert wird. Trotz der Herausforderungen durch wiederkehrende Dürreperioden bewahrt die Bevölkerung ihre Anpassungsfähigkeit und ihr reiches kulturelles Erbe in der Sahelzone.",
+      hu: "Dakoro egy forró és száraz sivatagi peremváros, amely a nomád fulani pásztorok és a letelepedett haúsza földművesek találkozási pontja. A város hatalmas állatpiaca az egész régióból vonzza a kereskedőket, ahol tevéket, szarvasmarhákat és juhokat adnak-vesznek. Dakoro emellett kulturálisan fontos helyszíne a \\\"Gerewol\\\" fesztiválnak, ahol a Wodaabe férfiak szépségversenyét tartják. Társadalomtudomány K8 — afrikai nomád fesztiválok.",
+      ro: "Dakoro se află într-o zonă semiaridă din regiunea Maradi, acționând ca o graniță culturală și ecologică între savana propice agriculturii din sud și deșertul dominat de păstori din nord. Istoric, a fost locul de refugiu al populațiilor tuarege și fulani în timpul diverselor secete majore din secolul al XX-lea, transformându-se într-un punct central al programelor de securitate alimentară internațională. Piața din Dakoro este un loc fascinant de convergență unde se întâlnesc cămilele din deșert și grânele din sud. Orașul este recunoscut pentru piețele sale vibrante de vite și eforturile recente de restaurare a pășunilor degradate. (Geografie K7 — tranziția ecologică Sahel-Sahara).",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Entlegene Kommune in der zentralen Sahelzone Nigers.", "Heimat für gewaltige Herden von Nutztieren.", "Essenzieller Sammelpunkt für Tuareg- und Fulani-Nomaden.", "Wichtiger Markt für den überregionalen Viehhandel.", "Umgeben von Steppen, die als Weidefläche dienen.", "Bewahrt pastorale Traditionen trotz wiederkehrender Dürren."],
+      hu: ["Az egyik legfontosabb állatpiac található itt a régióban.", "A nomád Wodaabe és fulani kultúrák központja.", "Helyszíne a híres afrikai Gerewol szépségversenyeknek.", "A sivatag és a szavanna átmeneti zónájában fekszik.", "A tevék és szarvasmarhák kereskedelme dominálja.", "A szárazság miatt a vízgazdálkodás kiemelt probléma."],
+      ro: ["Acționează ca un punct de convergență între agricultori și nomazi saharieni.", "A fost masiv afectat de crizele alimentare și secetele din anii 1970 și 1980.", "Un pol esențial pentru organizațiile internaționale de securitate alimentară.", "Piața din Dakoro atrage săptămânal mii de păstori Tuareg și Fulani.", "Zona reprezintă frontiera de nord a culturilor fiabile de mei și sorg.", "Este renumit pentru comerțul masiv de animale pe o rază de sute de kilometri.", "Se derulează campanii ample pentru reîmpădurire și salvarea pășunilor deșertificate."],
+      en: []
+    }
+  },
   {
     id: "nguigmi-cities-v2",
     type: "city",
@@ -415,6 +636,18 @@ export const poiExtraNigerCitiesV2: POI[] = [
       hu: ["Történelmi halásztelepülés.", "A Ténéré-sivatag kapuja."],
       ro: ["Sat istoric de pescari.", "Poarta către deșertul Ténéré."],
       en: ["Historic fishing village.", "Gateway to the Ténéré desert."]
+    },
+    descriptionAdvanced: {
+      de: "N'Guigmi war einst eine blühende Oasenstadt am Rande des Tschadsees, hat jedoch in den letzten Jahrzehnten durch den dramatischen Rückgang des Wasserspiegels massive ökologische Veränderungen erlebt. Heute grenzen die Ausläufer der Stadt direkt an die vorrückende Sahara. Trotz dieser widrigen Bedingungen ist N'Guigmi ein wichtiger Außenposten im Osten Nigers geblieben, der vom Karawanenhandel und der Gewinnung von Natron aus dem ausgetrockneten Seebett profitiert. Die Stadt dient zudem als wichtiger militärischer und humanitärer Stützpunkt, der die Stabilität in dieser grenzüberschreitend fragilen Region gewährleistet und Flüchtlingen Zuflucht bietet.",
+      hu: "Nguigmi egykor a Csád-tó partján fekvő virágzó halászváros volt, ám a tó drasztikus zsugorodása miatt ma kilométerekre van a víztől. A város kénytelen volt alkalmazkodni az ökológiai katasztrófához: a halászatot felváltotta a kiszáradt tómederben végzett mezőgazdaság és a nomád pásztorkodás. Története drámai példája a klímaváltozás és a környezetpusztulás emberi hatásainak. Földrajz K8 — ökológiai katasztrófák, a Csád-tó kiszáradása.",
+      ro: "Nguigmi este un oraș situat la marginea estică extremă a Nigerului, având o importanță istorică profundă datorită proximității sale față de fostele țărmuri ale Lacului Ciad. În trecut, orașul a fost un port vital la lac, unde pescarii și comercianții de sare din deșert se întâlneau, însă retragerea masivă a apelor lacului a forțat economia locală să se adapteze dramatic spre creșterea animalelor și agricultura uscată. Astăzi, peisajul este marcat de bărci abandonate pe dune de nisip, un simbol vizual al schimbărilor climatice globale. Nguigmi rămâne, totuși, un centru administrativ important și un simbol al rezilienței comunităților sahariene. (Geografie K7 — schimbările climatice și Lacul Ciad).",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Ehemalige Oasenstadt am Rande des schwindenden Tschadsees.", "Grenzt heute direkt an die vorrückenden Sanddünen der Sahara.", "Wichtiger Außenposten für Karawanenhandel und Natrongewinnung.", "Dient als bedeutender militärischer und humanitärer Stützpunkt.", "Bietet Zuflucht für Menschen in einer fragilen Region.", "Stark betroffen von dramatischen ökologischen Veränderungen."],
+      hu: ["Korábban közvetlenül a Csád-tó partján helyezkedett el.", "A tó visszahúzódása miatt elvesztette halászati jelentőségét.", "Ma a kiszáradt tómederben folytatnak növénytermesztést.", "Élő példája az afrikai klímaváltozás drámai hatásainak.", "Lakossága alkalmazkodott az új sivatagi körülményekhez.", "Fontos állomás a Csád felé tartó karavánutakon."],
+      ro: ["Orașul era un port prosper pe marginea de vest a Lacului Ciad.", "Recesiunea apelor lacului a transformat fostele docuri în dune de nisip.", "Locuitorii originali, de etnie Kanembu, s-au axat tradițional pe pescuit.", "Astăzi zona este esențială pentru rutele comerciale estice ale Nigerului.", "Bărcile de lemn îngropate în nisip sunt o atracție pentru cercetători.", "Este cel mai estic oraș administrativ major al Republicii Niger.", "Economia locală a fost recent perturbată de tensiuni de securitate regionale."],
+      en: []
     }
   },
   {
@@ -434,7 +667,20 @@ export const poiExtraNigerCitiesV2: POI[] = [
       hu: ["A gabonatermés központja.", "Sűrűn lakott terület."],
       ro: ["Centru al recoltei de cereale.", "Zonă dens populată."],
       en: ["Focus of the grain harvest.", "Densely populated area."]
-    }, image: "/poi-images/matameye-cities-v2.webp"},
+    }, image: "/poi-images/matameye-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Matameye liegt eingebettet in die fruchtbaren Ebenen Süd-Nigers und gilt als ein zentraler Pfeiler der lokalen Lebensmittelversorgung. Die Landwirtschaft floriert hier dank relativ verlässlicher Niederschläge und guter Bodenqualität, wobei Hirse und Bohnen im großen Stil angebaut werden. Die Stadt hat in jüngster Zeit in Infrastrukturprojekte investiert, um die Lagerung und den Transport von Agrargütern zu optimieren. Das Stadtbild ist geprägt von geschäftigen Silos und Marktplätzen, auf denen Bauern aus den umliegenden Dörfern ihre Ernten bündeln, um sie an Großhändler aus den städtischen Zentren zu verkaufen.",
+      hu: "Matameye Zinder régió déli részének egy nyüzsgő városa, amely élénk piacáról és a helyi földművesek szorgalmáról ismert. Bár a város viszonylag kicsi, stratégiai fontosságú közlekedési folyosón fekszik, amely összeköti a déli mezőgazdasági övezetet a szárazabb északi területekkel. A hagyományos építészet és a modern kereskedelem itt érdekes harmóniában él egymással. Földrajz K6 — közlekedés és kereskedelem.",
+      ro: "Matameye este un centru agricol activ din regiunea Zinder, poziționat pe soluri deosebit de fertile grație unor rezerve mici de apă și rețelei de depresiuni locale. Este un pol esențial pentru cultivarea leguminoaselor și cerealelor, contribuind semnificativ la aprovizionarea piețelor naționale cu hrană în sezoanele uscate. Oamenii locului sunt pricepuți meșteșugari și cultivatori experimentați care au implementat tehnici de stocare a recoltelor pentru perioade lungi. Fiind traversat de arterele rutiere care coboară către Kano, orașul profită și el din plin de fluxul economic transfrontalier tipic regiunilor sudice nigeriene. (Geografie K7 — producția agricolă în zonele de semideșert).",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Eingebettet in fruchtbare Ebenen Süd-Nigers.", "Zentraler Pfeiler der lokalen Lebensmittelversorgung.", "Profitiert von verlässlichen Niederschlägen und gutem Boden.", "Großflächiger Anbau von Hirse und Bohnen.", "Fokus auf Optimierung der Agrar-Infrastruktur.", "Geschäftige Marktplätze für Groß- und Einzelhandel."],
+      hu: ["Fontos tranzitváros Zinder régió déli részén.", "Élénk mezőgazdasági piaca a térség ellátását szolgálja.", "A hagyományos agyagtéglás építészet dominál a városban.", "Összeköti az északi sivatagi és a déli termékeny területeket.", "Jelentős a haúsza kulturális és nyelvi hatás.", "Kereskedelme nagymértékben függ a nigériai kapcsolatoktól."],
+      ro: ["Este situat de-a lungul rutei sudice principale care leagă Zinder de Nigeria.", "Cunoscut pentru un sol neobișnuit de fertil favorabil cultivării legumelor.", "Locuitorii practică tehnici tradiționale de depozitare a grânelor.", "Piața din Matameye este activă și specializată pe cereale și animale de tracțiune.", "Așezarea este puternic dependentă de fluctuația ploilor anuale de vară.", "Un centru regional pentru forța de muncă agricolă care migrează sezonier.", "Orașul păstrează o influență culturală profundă Hausa."],
+      en: []
+    }
+  },
   {
     id: "illela-cities-v2",
     type: "city",
@@ -452,6 +698,18 @@ export const poiExtraNigerCitiesV2: POI[] = [
       hu: ["Hagyományos orvoslásáról ismert.", "Rendszeres heti piacok."],
       ro: ["Cunoscut pentru medicina tradițională.", "Piețe săptămânale regulate."],
       en: ["Known for traditional medicine.", "Regular weekly markets."]
+    },
+    descriptionAdvanced: {
+      de: "Illéla ist ein markantes Handelsdorf in der Region Tahoua, das sich durch seine enorm dynamischen Freiluftmärkte einen überregionalen Namen gemacht hat. Jeden Sonntag strömen Tausende von Menschen in die Stadt, um Vieh, handgewebte Textilien und landwirtschaftliche Produkte zu handeln. Die Architektur der Stadt spiegelt eine Mischung aus modernem Beton und traditionellem Lehm wider, was den Übergang von einer ländlichen Siedlung zu einem modernen Handelszentrum verdeutlicht. Illéla ist auch ein Zentrum des politischen und sozialen Lebens für die umliegenden ländlichen Gemeinden und beherbergt mehrere wichtige Bildungseinrichtungen der Region.",
+      hu: "Illéla egy adminisztratív falu, amely a Tahoua régió mélyén fekszik, és híres a környéken működő kézműves közösségekről. A város lakói mesterei a hagyományos szőttesek és bőrdíszművek készítésének, amelyek az egész ország piacaira eljutnak. Az itt élő emberek szorosan kötődnek a földhöz, és a zord éghajlat ellenére fenntartható közösséget építettek fel a helyi erőforrásokra támaszkodva. Társadalomtudomány K7 — helyi kézművesség és fenntarthatóság.",
+      ro: "Illéla este o așezare tradițională și modernă situată în inima regiunii Tahoua, remarcându-se prin vasta sa implicare în creșterea vitelor și a caprinelor, care domină relieful semiarid. Istoric, Illéla a fost locul în care aristocrația locală Tuareg și Hausa a stabilit o puternică rețea de influență, fapt reflectat în structurile arhitecturale vechi din lut și lemn pe care le poți observa în centrul așezării. Orașul găzduiește una dintre cele mai autentice piețe de păstori din țară, o experiență culturală bogată în culori și zgomot. Illéla rămâne o localitate mândră de moștenirea sa ecvestră și pastorală milenară. (Istorie K8 — cultura pastorală și piețele tradiționale).",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Markantes Handelsdorf in der Region Tahoua.", "Bekannt für enorm dynamische wöchentliche Freiluftmärkte.", "Umschlagplatz für Vieh, Textilien und Agrarprodukte.", "Architektur mischt modernen Beton mit traditionellem Lehm.", "Zentrum des politischen und sozialen Lebens der Region.", "Beherbergt wichtige lokale Bildungseinrichtungen."],
+      hu: ["Híres a minőségi bőrdíszműveiről és hagyományos szőtteseiről.", "Tahoua régió fontos adminisztratív alegysége.", "A helyi gazdaság a kézműves termékek exportjára épül.", "Közössége alkalmazkodott a félsivatagi éghajlathoz.", "Erős szociális és törzsi hálózatok jellemzik.", "A piacok a régió kulturális találkozási pontjai."],
+      ro: ["Orașul este dominat de o economie pastorală bazată pe vite și caprine.", "Arhitectura centrală conservă fațade din lut tradiționale tuarege și hausa.", "Organizează piețe regulate de vite esențiale pentru economia regiunii Tahoua.", "Populația sa manifestă un profund respect pentru tradițiile ecvestre.", "Zona este supusă fluctuațiilor severe de temperatură în timpul anului.", "O importantă rețea de fântâni artizanale susține viața animalelor.", "Considerat un punct de echilibru pașnic între nomazi și sedentarizați."],
+      en: []
     }
   },
   {
@@ -471,7 +729,20 @@ export const poiExtraNigerCitiesV2: POI[] = [
       hu: ["A Száhel-övezet oázisa.", "Régi karavánutak kereszteződése."],
       ro: ["Oază din Sahel.", "Intersecția vechilor rute de caravane."],
       en: ["Oasis of the Sahel.", "Crossroads of ancient caravan routes."]
-    }, image: "/poi-images/tanout-cities-v2.webp"},
+    }, image: "/poi-images/tanout-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Tanout, gelegen am äußersten Rande der Sahara, ist eine Siedlung, die den trockenen und heißen Winden der Wüste mit einer bemerkenswerten Resilienz trotzt. Die Stadt ist stark auf widerstandsfähige Landwirtschaft und ausgedehnte nomadische Viehzucht angewiesen. Historisch diente Tanout als wichtiger Knotenpunkt für Handelskarawanen, die sich auf den beschwerlichen Weg nach Norden in Richtung Agadez machten. Heute kämpft die Gemeinde intensiv gegen die Wüstenbildung, indem sie großangelegte Aufforstungsprojekte und nachhaltige Wassermanagement-Techniken implementiert, um die fragilen Lebensgrundlagen der lokalen Bevölkerung für zukünftige Generationen zu sichern.",
+      hu: "Tanout egy kapuváros a hatalmas Ténéré sivatag felé, ahol a zöldellő déli szavanna végleg átadja helyét a homokdűnéknek. A település a történelem során a sószállító tuareg karavánok egyik fő pihenőhelye volt, és ma is fontos kereskedelmi pontja az észak-dél irányú cserének. A város körüli tájat látványos sziklaképződmények és szórványos akáciafák teszik egyedivé. Földrajz K8 — sivatagi átmeneti zónák.",
+      ro: "Tanout se ridică în peisajul aspru al regiunii Zinder, servind ca punct avansat al teritoriului sudanez spre deșertul Sahara. Orașul este recunoscut ca un hub indispensabil pe vechea axă comercială care lega sudul roditor de nordul extrem, un punct unde negustorii făceau popas pentru provizii. În Tanout, viața zilnică este marcată de schimbul dintre triburile de nomazi din Deșertul Ténéré și fermierii agricoli. Cunoscut pentru artizanatul în pielărie și așezările sale stâncoase înconjurătoare, orașul este, de asemenea, un centru strategic pentru stoparea avansului dunelor de nisip, având inițiative ecologice masive în desfășurare. (Geografie K7 — lupta împotriva înaintării deșertului).",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Gelegen am äußersten Rande der Sahara-Wüste.", "Trotzt extremen klimatischen Bedingungen mit hoher Resilienz.", "Historischer Knotenpunkt für Karawanen nach Agadez.", "Fokus auf widerstandsfähige Landwirtschaft und Viehzucht.", "Kämpft intensiv gegen die fortschreitende Wüstenbildung.", "Implementiert Aufforstungs- und Wassermanagement-Projekte."],
+      hu: ["A Szahara és a Száhel-övezet éles határvonalán fekszik.", "Történelmileg a szaharai sókaravánok pihenőhelye volt.", "A tájat homokdűnék és elszórt akáciafák jellemzik.", "Fontos logisztikai pont a Ténéré sivatag felé utazóknak.", "Északi és déli kereskedők találkozási csomópontja.", "A klímaváltozás miatt a sivatagosodás egyre fenyegetőbb."],
+      ro: ["Acționează ca o poartă geografică și climatică între Sahel și Sahara.", "Un loc esențial de oprire pentru rutele de comerț de la Zinder spre Agadez.", "Orașul se implică masiv în programe de combatere a deșertificării.", "Populația mixtă combină obiceiurile nomazilor cu cele ale fermierilor.", "Renume pentru articolele de meșteșugărit din piele tăbăcită de cămilă.", "Rețeaua de fântâni din Tanout este vitală pentru supraviețuirea turmelor locale.", "Se află pe un relief format din podișuri și roci sedimentare uscate."],
+      en: []
+    }
+  },
   {
     id: "goure-cities-v2",
     type: "city",
@@ -489,7 +760,20 @@ export const poiExtraNigerCitiesV2: POI[] = [
       hu: ["Történelmi Koutous-terület.", "Mezőgazdasági menedékhely."],
       ro: ["Zonă istorică Koutous.", "Zonă agricolă de refugiu."],
       en: ["Historic Koutous area.", "Agricultural retreat area."]
-    }, image: "/poi-images/goure-cities-v2.webp"},
+    }, image: "/poi-images/goure-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Umgeben von sanften Sandhügeln und vereinzelten Oasen bietet das abgelegene Zentrum Gouré eine friedliche und nahezu zeitlose Atmosphäre fernab der hektischen Hauptstadt. Als Agrarwirtschaftszentrum konzentriert sich die Region um Gouré auf die Dattelproduktion und den Anbau von Wüstenmelonen, die an das aride Klima perfekt angepasst sind. Die Stadt ist bekannt für ihre einzigartige Landschaft, in der sich Dünen und grüne Mulden (Cuivettes) abwechseln. Kulturell ist Gouré stark durch das Tubu-Volk geprägt, das für seine außergewöhnlichen Überlebensfähigkeiten in den rauesten Wüstenregionen der Erde bekannt ist.",
+      hu: "Gouré Zinder régió egy távoli, sivatagi városa, amely különleges tájával hívja fel magára a figyelmet: a várost vörös homokdűnék veszik körül, amelyek között kisebb pálmaligetek és oázisok bújnak meg. Az itt élők életmódja teljes mértékben az ivóvíz és a datolyapálmák köré szerveződik, miközben a város a nomád pásztorok fontos találkozási és cserekereskedelmi pontja is. Földrajz K7 — oázisok és dűnék világa.",
+      ro: "Gouré, așezat pe marginea estică a regiunii Zinder, este faimos pentru peisajul său ireal unde pajiștile semiaride întâlnesc bazinele de vegetație alimentate de izvoare subterane cunoscute sub numele de cuvettes. Aceste oaze verzi creează un ecosistem unic unde locuitorii cultivă curmale de o calitate excepțională, o resursă unică pe piețele naționale. Istoria orașului a fost definită de caravanele estice care călătoreau către Lacul Ciad. Gouré este un amestec pitoresc de dune masive de nisip și grădini luxuriante scufundate, adăpostind specii rare de păsări și o arhitectură definită de colibe rotunde din paie și noroi. (Geografie K7 — oazele din depresiuni și irigații).",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Abgelegenes Zentrum umgeben von Sandhügeln und Oasen.", "Spezialisiert auf Dattelproduktion und Wüstenmelonen.", "Einzigartige Landschaft aus Dünen und grünen Mulden.", "Bietet eine friedliche, zeitlose Atmosphäre.", "Kulturell stark durch das Tubu-Volk geprägt.", "Perfekt an das aride Klima der Sahelzone angepasst."],
+      hu: ["Látványos, hatalmas vörös homokdűnék veszik körül.", "A helyi gazdaság alapját a datolyatermesztés adja.", "Oázis-szerű mikrokörnyezet található a dűnék között.", "A nomád pásztorok elengedhetetlen találkozási pontja.", "A vízellátást mély kutak és helyi források biztosítják.", "Az épületek hagyományosan a hőség elleni védelemre épültek."],
+      ro: ["Orașul este faimos pentru depresiunile sale fertile numite cuvettes.", "Este unicul producător semnificativ de curmale din partea sud-estică a țării.", "Un ecosistem bizar unde dune uriașe de nisip contrastează cu oazele verzi.", "Istoric a fost un popas pe traseele lungi către Bazinul Ciad.", "Gouré este un loc renumit pentru meșteșugurile împletite din paie și frunze.", "Populația beneficiază de pânza freatică accesibilă manual din văi.", "Păsările migratoare folosesc adesea depresiunile de apă ale orașului."],
+      en: []
+    }
+  },
   {
     id: "abalak-cities-v2",
     type: "city",
@@ -507,7 +791,20 @@ export const poiExtraNigerCitiesV2: POI[] = [
       hu: ["A Wodaabe nép találkozóhelye.", "A Cure Salée fesztiválról ismert."],
       ro: ["Punct de întâlnire pentru Wodaabe.", "Cunoscut pentru festivalul Cure Salée."],
       en: ["Meeting point of the Wodaabe.", "Known for the Cure Salée festival."]
-    }, image: "/poi-images/abalak-cities-v2.webp"},
+    }, image: "/poi-images/abalak-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Abalak ist eine dynamische Gemeinde, die das nomadische Erbe Nigers zelebriert und als wichtiger Kreuzungspunkt für die Tuareg und Wodaabe-Fulani dient. Die Stadt ist alljährlich Gastgeber für farbenfrohe und aufsehenerregende kulturelle Zusammenkünfte, bei denen Heiratsmärkte, Kamelrennen und traditionelle Tänze im Mittelpunkt stehen. Trotz seiner tiefen Verwurzelung in der nomadischen Kultur hat sich Abalak in den letzten Jahren zunehmend sesshaft entwickelt, wobei moderne Schulen und Gesundheitszentren entstanden sind. Die lokale Wirtschaft profitiert stark vom Handel mit hochwertigem Vieh und kunstvoll gefertigten Silber- und Lederarbeiten.",
+      hu: "Abalak egy dinamikus tuareg város, amely az állattenyésztés és a regionális adminisztráció központjaként működik Tahoua régióban. A város a híres Cure Salée (Sós kúra) fesztivál útvonalán fekszik, amikor a nomád pásztorok hatalmas csordákkal vonulnak észak felé az ásványi anyagokban gazdag legelőkre. A település egy ritka mesterséges tó mellett fekszik, amely életmentő a hosszú aszályos időszakokban. Társadalomföldrajz K7 — nomád állattartás.",
+      ro: "Abalak este inima culturală a nomazilor Peul și Tuareg din regiunea Tahoua, situat într-o câmpie deschisă care prinde viață uimitoare în timpul scurtului sezon ploios. Este renumit mondial pentru Cure Salée parțială și festivalurile asociate unde păstorii Wodaabe desfășoară faimosul dans de curtare Guérewol, un spectacol vibrant de frumusețe, vopsele faciale și cântece. Abalak nu este doar un loc de comerț, ci un imens spațiu de reîntâlnire anuală a triburilor nomade care își aduc turmele să beneficieze de solurile bogate în minerale din zonă, consolidând legăturile sociale antice. (Istorie K8 — antropologia festivalurilor nomade).",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Wichtiger Kreuzungspunkt für Tuareg und Wodaabe-Fulani.", "Gastgeber farbenfroher kultureller Zusammenkünfte.", "Bekannt für Kamelrennen, traditionelle Tänze und Heiratsmärkte.", "Entwickelt sich zunehmend zu einer sesshaften Gemeinde.", "Wirtschaft basiert auf hochwertigem Viehhandel.", "Zentrum für kunstvoll gefertigte Silber- und Lederarbeiten."],
+      hu: ["A Cure Salée nomád fesztivál fontos tranzitállomása.", "A lakosság jelentős része a tuareg népcsoporthoz tartozik.", "Egy ritka mesterséges víztározó található a város határában.", "A helyi gazdaság gerince az extenzív állattenyésztés.", "Regionális adminisztratív központ a félsivatagi övezetben.", "Kiválóan szemlélteti a nomád és letelepedett életmód keveredését."],
+      ro: ["Centrul principal al culturii și nomazilor Wodaabe, o sub-etnie Peul.", "Abalak găzduiește variații ale celebrului festival anual Guérewol.", "Zona este faimoasă pentru solurile cu conținut ridicat de săruri naturale.", "Turmele de vite vin din regiuni îndepărtate pentru aportul mineral de aici.", "Este o așezare care explodează demografic și economic în timpul ploilor.", "Orașul este un centru pentru meșteșugarii tuaregi de săbii și bijuterii.", "Tradițiile orale și cântecele pastorale din Abalak sunt studiate global."],
+      en: []
+    }
+  },
   {
     id: "aguie-cities-v2",
     type: "city",
@@ -525,7 +822,20 @@ export const poiExtraNigerCitiesV2: POI[] = [
       hu: ["Helyi kézműves központ.", "A vidékfejlesztés központja."],
       ro: ["Centru meșteșugăresc local.", "Centrul dezvoltării rurale."],
       en: ["Local craft village.", "Center of rural development."]
-    }, image: "/poi-images/aguie-cities-v2.webp"},
+    }, image: "/poi-images/aguie-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Aguié ist ein dicht bevölkerter und wirtschaftlich pulsierender Ort im tiefen Süden Nigers. Die Stadt fällt besonders durch ihre florierenden Bauernmärkte und eine Vielzahl an kleinen handwerklichen Betrieben auf, die Werkzeuge und Alltagsgegenstände für die umliegenden ländlichen Gemeinden herstellen. Durch die unmittelbare Nähe zur nigerianischen Grenze profitiert Aguié enorm vom grenzüberschreitenden Schmuggel und formellen Handel, was die Stadt zu einem der reichsten landwirtschaftlichen Zentren der Region macht. Die intensive Bewirtschaftung der Böden mit Erdnüssen und Hirse ist hier dank der relativ hohen jährlichen Niederschlagsmengen möglich.",
+      hu: "Aguié egy sűrűn lakott agrárváros, amely Maradi régióban, Nigéria határához közel terül el. A terület kiváló termőföldekkel rendelkezik, és a város a gabonafélék, valamint a hüvelyesek elosztó központjaként működik. Az utóbbi években a város nemzetközi figyelmet kapott a helyi közösség által irányított faültetési és erdősítési programok miatt, amelyekkel sikeresen küzdenek a sivatagosodás ellen. Környezetismeret K8 — közösségi erdősítés és klímavédelem.",
+      ro: "Aguié, plasat în regiunea sudică Maradi, se află pe o axă aglomerată de transport național, dezvoltându-și economia în mod excepțional grație interacțiunilor comerciale și agriculturii pomicole. Locul este vestit pentru eforturile de împădurire participativă care au salvat terenurile erodate, transformând orașul într-un exemplu studiat de ONU despre cum comunitățile pot regenera copaci indigeni în mijlocul terenurilor cultivate. Astăzi, zonele din jurul Aguié sunt mai verzi și au o productivitate agricolă stabilă. Orașul pulsează de viață, cu o piață uriașă de alimente care aprovizionează zone extinse din Niger. (Geografie K7 — conservarea mediului prin metode indigene).",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Dicht bevölkerter, wirtschaftlich pulsierender Ort im Süden.", "Florierende Bauernmärkte und kleine handwerkliche Betriebe.", "Profitiert stark vom Handel nahe der nigerianischen Grenze.", "Gilt als eines der reichsten landwirtschaftlichen Zentren.", "Intensive Bewirtschaftung mit Erdnüssen und Hirse.", "Profitiert von relativ hohen jährlichen Niederschlagsmengen."],
+      hu: ["Jelentős közösségi erdősítési projektekről (FMNR) ismert.", "Az egyik legtermékenyebb mezőgazdasági területen fekszik.", "A gabonafélék fontos elosztó és kereskedelmi központja.", "Nigéria közelsége miatt élénk a határon átnyúló kereskedelem.", "Sikeresen küzd a sivatagosodás ellen a helyi fákkal.", "Lakossága rendkívül gyorsan növekszik az agrárlehetőségek miatt."],
+      ro: ["Este recunoscut internațional pentru reușita regenerării forestiere conduse de fermieri.", "A salvat zeci de mii de hectare de teren de la deșertificarea totală.", "Copacii nativi precum baobabul au fost reintegrați în culturile de sorg și mei.", "Piața din Aguié este un motor economic major al regiunii Maradi.", "Atrage delegații străine pentru studiul tehnicilor sale agricole durabile.", "Orașul se bucură de un boom demografic datorat stabilității agricole.", "Solurile nisipoase au fost stabilizate prin plantarea de arbori valoroși."],
+      en: []
+    }
+  },
   {
     id: "ouallam-cities-v2",
     type: "city",
@@ -543,7 +853,20 @@ export const poiExtraNigerCitiesV2: POI[] = [
       hu: ["Hagyományos állattenyésztés.", "Közel a niameyi nagyvárosi térséghez."],
       ro: ["Creșterea tradițională a animalelor.", "Aproape de zona metropolitană Niamey."],
       en: ["Traditional livestock farming.", "Close to the Niamey metropolitan area."]
-    }, image: "/poi-images/ouallam-cities-v2.webp"},
+    }, image: "/poi-images/ouallam-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Ouallam ist eine beschauliche Kleinstadt nördlich der Hauptstadt Niamey, die trotz ihrer Nähe zum urbanen Zentrum stark ländlich geprägt geblieben ist. Die Bevölkerung lebt vorwiegend vom traditionellen Hirtenwesen und einem extensiven Trockenfeldbau, bei dem Hirse das dominierende Getreide darstellt. Die Region um Ouallam kämpft häufig mit Dürren, was die Menschen zu einer hochgradig anpassungsfähigen Lebensweise gezwungen hat. In den letzten Jahren hat die Stadt internationale Unterstützung für landwirtschaftliche Entwicklungsprojekte erhalten, die darauf abzielen, die Bodendegradation aufzuhalten und die Ernährungssicherheit der lokalen Zarma-Bevölkerung zu verbessern.",
+      hu: "Ouallam egy északi város a Tillabéri régióban, amely a Száhel-övezet peremén próbál dacolni a zord természeti körülményekkel. Történelmileg a djerma nép fontos bázisa volt, ma azonban elsősorban a regionális piacáról és a szárazságtűrő növények termesztéséről ismert. A térség biztonsági kihívásai miatt a város az utóbbi években jelentős nemzetközi humanitárius jelenlétet tapasztalt. Történelem K8 — humanitárius krízisek és alkalmazkodás.",
+      ro: "Ouallam este un oraș încărcat de moștenire din regiunea Tillabéri, situat în zona nordică a capitalei Niamey. Considerat o veche cetate a triburilor Zarma, orașul a fost implicat în rezistența istorică și războaiele precoloniale din vestul țării. Ouallam are o istorie de mândrie militară indigenă și păstrează povești despre liderii locali care au apărat regiunea împotriva invaziilor succesive. Pe plan modern, orașul a traversat perioade de secetă aspră, depinzând în prezent de cultura meiului și o rețea de piețe satelit. Relieful stâncos, amestecat cu solul de stepă, oferă orașului un peisaj de o frumusețe austeră, dominat de istorie. (Istorie K8 — structurile militare precoloniale africane).",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Beschauliche Kleinstadt nördlich der Hauptstadt Niamey.", "Stark ländlich geprägt durch traditionelles Hirtenwesen.", "Dominierender Anbau ist extensiver Trockenfeldbau von Hirse.", "Häufig von Dürren betroffen, erfordert hohe Anpassungsfähigkeit.", "Zentrum internationaler landwirtschaftlicher Entwicklungsprojekte.", "Fokus auf Ernährungssicherheit der lokalen Zarma-Bevölkerung."],
+      hu: ["A djerma (zarma) népcsoport egyik történelmi központja.", "Kizárólag szárazságtűrő növények (pl. köles) termeszthetők itt.", "A Száhel-övezet peremének tipikus klímáját mutatja.", "Fontos találkozási pont a térség humanitárius missziói számára.", "A helyi piac a környező falvak legfőbb ellátója.", "A vízhiány a mindennapi élet legfőbb kihívása."],
+      ro: ["Ouallam este centrul administrativ și inima istorică a culturii Zarma de nord.", "A servit drept bastion de rezistență condus de liderii tradiționali Zarmakoy.", "Situat la aproximativ 90 km distanță la nord de capitala Niamey.", "Un loc al reliefului cu laterite stâncoase și pajiști saheliene.", "A fost un punct cheie pe vechiul traseu militar al cavaleriilor Zarma.", "Economia este definită de subzistența agricolă limitată de secetă.", "Orașul a suferit influențe recente din cauza tulburărilor transfrontaliere nordice."],
+      en: []
+    }
+  },
   {
     id: "filingue-cities-v2",
     type: "city",
@@ -561,7 +884,20 @@ export const poiExtraNigerCitiesV2: POI[] = [
       hu: ["Prefektúra székhelye.", "Jelentős a szarvasmarha-kereskedelem szempontjából."],
       ro: ["Capitală de prefectură.", "Important pentru comerțul cu vite."],
       en: ["Prefecture capital.", "Significant for cattle trade."]
-    }, image: "/poi-images/filingue-cities-v2.webp"},
+    }, image: "/poi-images/filingue-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Filingué, eingebettet in die weiten und trockenen Steppen der Region Tillabéri, bewahrt auf beeindruckende Weise den ursprünglichen Lebensstil der traditionellen Sahel-Bewohner. Die Region ist durch das Dallol Bosso, ein altes, ausgetrocknetes Flusstal, geprägt, das während der kurzen Regenzeit aufblüht und fruchtbares Land für die Landwirtschaft bietet. Hirse und Sorghum bilden die Basis der lokalen Ernährung, während die Viehzucht durch nomadische Fulani-Gruppen das wirtschaftliche Rückgrat stärkt. Filingué zeichnet sich durch seinen starken Gemeinschaftssinn aus und gilt als wichtiges Reservoir traditionellen agrarischen Wissens im Angesicht wachsender klimatischer Herausforderungen.",
+      hu: "Filingué a zarma és tuareg népcsoportok történelmi találkozási pontja, amely a Dallol Bosso száraz folyóvölgyben helyezkedik el. A város fontos agrármarkettel rendelkezik, amely a régió gazdasági motorjaként szolgál. Bár az éghajlat félsivatagi, a völgy talajvize lehetővé teszi a korlátozott földművelést és az állattartást. Az utóbbi évtizedekben a térség biztonsági kérdésekkel és aszályokkal küzdött. Földrajz K7 — száraz völgyek és agrárium.",
+      ro: "Filingué este o așezare istorică și agricolă din inima regiunii Tillabéri, amplasată pe valea spectaculoasă cunoscută sub numele de Dallol Bosso, o fostă albie de râu care ascunde rezerve vitale de apă subterană. Solul aluvionar umed a transformat acest loc într-un paradis neașteptat pentru fermieri, unde se cultivă masiv porumb, manioc și orez, chiar și în inima peisajului sahelian. Orașul poartă și urmele unor bătălii coloniale acerbe, păstrând în cultura orală amintiri ale cavaleriei Kurfey. (Geografie K7 — fostele albii fluviale africane).",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Eingebettet in die trockenen Steppen der Tillabéri-Region.", "Geprägt durch das ausgetrocknete Flusstal Dallol Bosso.", "Wichtiger Produzent von Hirse und Sorghum.", "Rückgrat der Wirtschaft ist die nomadische Viehzucht.", "Bewahrt den ursprünglichen Lebensstil der Sahel-Bewohner.", "Zentrum für traditionelles agrarisches Wissen."],
+      hu: ["A történelmi Dallol Bosso száraz folyóvölgyben fekszik.", "A zarma és tuareg kultúrák jelentős központja.", "A helyi piac a régió fő mezőgazdasági csomópontja.", "A talajvíz kulcsfontosságú a növénytermesztéshez.", "A félsivatagi éghajlat kihívás elé állítja a gazdákat.", "Átmeneti zónát képez a főváros és az északi sivatag között."],
+      ro: ["Aflat în depresiunea Dallol Bosso, un fost afluent masiv al fluviului Niger.", "Locul de origine al grupului etnic istoric Kurfey.", "Un important centru pentru cultivarea maniocului pe tot parcursul anului.", "Orașul este susținut de fântâni de mică adâncime datorită pânzei freatice.", "Filingué a rezistat o perioadă lungă atacurilor armatelor coloniale franceze.", "Astăzi, economia sa combină păstoritul vitelor cu legumicultura intensă.", "Găzduiește piețe saptămânale cu participanți de la sute de kilometri distanță."],
+      en: []
+    }
+  },
   {
     id: "bouza-cities-v2",
     type: "city",
@@ -579,7 +915,20 @@ export const poiExtraNigerCitiesV2: POI[] = [
       hu: ["Törekvések az elsivatagosodás ellen.", "Csendes agrárszékhely."],
       ro: ["Eforturi împotriva deșertificării.", "Locație agricolă liniștită."],
       en: ["Efforts against desertification.", "Quiet agricultural location."]
-    }, image: "/poi-images/bouza-cities-v2.webp"},
+    }, image: "/poi-images/bouza-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Bouza liegt inmitten einer rauen und steinigen Landschaft in der Region Tahoua, bietet jedoch dank innovativer lokaler Wasserprojekte erstaunliche grüne Rückzugsorte. Die Gemeinde hat in den letzten Jahrzehnten intensiv an der Bekämpfung der Wüstenbildung gearbeitet, indem sie Terrassierungstechniken und Aufforstungsprogramme implementierte. Diese Bemühungen haben nicht nur das lokale Mikroklima verbessert, sondern auch die Erträge beim Anbau von Zwiebeln und Getreide gesteigert. Bouza ist heute ein leuchtendes Beispiel für gemeinschaftliche Resilienz und nachhaltiges Landmanagement in einer der anspruchsvollsten Umgebungen der Erde.",
+      hu: "Bouza egy festői kisváros Tahoua régióban, amelyet hegyvidéki domborzat és zöldellő völgyek jellemeznek. Ez az egyedi mikroklíma kedvez a fatermesztésnek és a mezőgazdaságnak, így a település fás környezete éles kontrasztot mutat a környező száraz tájakkal. Bouza lakossága hagyományosan az állattenyésztésre és a teraszos földművelésre támaszkodik a sziklás domboldalakon. Természetismeret K6 — hegyvidéki mikroklímák a Száhelben.",
+      ro: "Bouza este un oraș rural izolat din regiunea Tahoua, situat pe un platou stâncos înconjurat de văi adânci. Datorită izolării sale geografice, așezarea a reușit să-și conserve arhitectura tradițională unică din piatră uscată și lut roșiatic, fiind considerată una dintre cele mai frumoase localități cu arhitectură nealterată din Niger. Economia este simplă și depinde strict de micile parcele terasate din văi unde fermierii plantează mei, în ciuda reliefului accidentat și a ploilor nesigure. (Geografie K7 — așezările de pe platourile stâncoase).",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Liegt in einer steinigen Landschaft der Region Tahoua.", "Bekannt für innovative lokale Wasser- und Aufforstungsprojekte.", "Leuchtendes Beispiel im Kampf gegen Wüstenbildung.", "Steigerte Erträge von Zwiebeln und Getreide deutlich.", "Nutzt traditionelle Terrassierungstechniken.", "Symbol für gemeinschaftliche Resilienz im Sahel."],
+      hu: ["Ritka hegyvidéki környezet jellemzi Tahoua régióban.", "Egyedi mikroklímája fásabb növényzetet tesz lehetővé.", "A lakosok teraszos földművelési technikákat alkalmaznak.", "Éles kontrasztot képez a sivatagos, száraz környékkel.", "Kiemelkedő a helyi kecske- és juhtenyésztés.", "Történelmileg fontos erődített település volt."],
+      ro: ["Renumit la nivel național pentru arhitectura sa pitorească de piatră și lut.", "Orașul este construit pe înălțimile unui platou dificil accesibil.", "Terasarea agricolă în văi este esențială pentru cultivarea meiului.", "Considerat un refugiu istoric datorită poziției sale defensive naturale.", "Populația locală este preponderent Hausa cu influențe tuarege.", "A fost evitat multă vreme de principalele rute de transport motorizat.", "Clima dură face din păstrarea apei o prioritate zilnică a locuitorilor."],
+      en: []
+    }
+  },
   {
     id: "keita-cities-v2",
     type: "city",
@@ -597,6 +946,18 @@ export const poiExtraNigerCitiesV2: POI[] = [
       hu: ["A Keita-projekt központja.", "Ökológiailag rehabilitált földterület."],
       ro: ["Centrul proiectului Keita.", "Teren reabilitat ecologic."],
       en: ["Center of the Keita Project.", "Ecologically rehabilitated land."]
+    },
+    descriptionAdvanced: {
+      de: "Keita ist weltweit bekannt geworden durch das ambitionierte 'Keita-Projekt', eine großangelegte, von Italien unterstützte Initiative zur ländlichen Entwicklung und Aufforstung, die in den 1980er Jahren begann. Vor diesem Projekt drohte die Stadt fast vollständig von der Wüste verschluckt zu werden. Durch den Bau tausender kleiner Dämme und das Pflanzen von Millionen von Bäumen konnte die Bodenerosion massiv verlangsamt werden. Heute ist Keita ein lebendiges Symbol für ökologische Wiederbelebung. Die verbesserte Wasserhaltung ermöglichte eine Rückkehr zu produktiver Landwirtschaft und sicherte das Überleben der lokalen Gemeinschaft in einer von extremen Dürren geprägten Region.",
+      hu: "Keita a fenntartható vidékfejlesztés nemzetközi szimbólumává vált a híres \\\"Keita Projekt\\\" révén, amely az elsivatagosodás elleni küzdelmet tűzte ki célul az 1980-as években. A város lakói, olasz támogatással, hatalmas területeken építettek kőgátakat és ültettek fákat a talajerózió megállítására. Bár a kihívások továbbra is fennállnak, Keita ma is az afrikai környezetvédelem egyik fontos esettanulmánya. Társadalomföldrajz K8 — sivatagosodás és talajvédelem.",
+      ro: "Keita este faimos în istoria Nigerului modern pentru proiectele sale ecologice, inițiative masive de dezvoltare susținute internațional în anii 1980 care au stopat eroziunea extremă a solului. Aflat într-o vale semiaridă grav degradată, eforturile comunitare au transformat versanții goi în sute de hectare de teren cultivabil prin construirea de diguri de piatră și plantarea a milioane de copaci. Astăzi, orașul este un simbol al succesului în conservarea apei, atrăgând experți în schimbări climatice din întreaga lume. (Geografie K7 — managementul resurselor în deșert).",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Weltbekannt durch das ökologische 'Keita-Projekt'.", "Kampf gegen Bodenerosion durch Bau kleiner Dämme.", "Millionen Bäume wurden seit den 1980er Jahren gepflanzt.", "Symbol für erfolgreiche ökologische Wiederbelebung.", "Ermöglichte die Rückkehr produktiver Landwirtschaft.", "Gerettet vor dem drohenden Verschlucken durch die Wüste."],
+      hu: ["Világhírűvé vált az 1980-as évek sivatagellenes projektje révén.", "Olasz nemzetközi segítséggel küzdött a talajerózió ellen.", "Több ezer kilométernyi kőgátat építettek a víz megtartására.", "A Száhel-övezet környezetvédelmi mintapéldája.", "A helyi lakosság aktívan részt vesz az erdősítésben.", "Fő gazdasági ágazata a helyreállított mezőgazdaság."],
+      ro: ["Cunoscut global pentru succesul proiectelor de dezvoltare contra deșertificării.", "S-au construit zeci de mii de mici baraje de piatră pentru reținerea apei.", "Peste 18 milioane de arbori au fost plantați pentru a stabiliza solul.", "Regiunea a fost salvată de la colapsul ecologic total în anii 1980.", "Populația a reușit să reînvie agricultura de subzistență a sorgului.", "Comunitatea locală este un exemplu studiat la nivelul Organizației Națiunilor Unite.", "Un oraș care îmbină expertiza științifică cu efortul fizic tradițional."],
+      en: []
     }
   },
   {
@@ -616,6 +977,18 @@ export const poiExtraNigerCitiesV2: POI[] = [
       hu: ["Niger legnagyobb szénbányája.", "Poros bányászati atmoszféra."],
       ro: ["Cea mai mare mină de cărbune din Niger.", "Atmosferă prăfuită de mină."],
       en: ["Niger's largest coal mine.", "Dusty mining atmosphere."]
+    },
+    descriptionAdvanced: {
+      de: "Tchirozérine, gelegen in den Ausläufern des Aïr-Gebirges unweit von Agadez, ist eine wichtige Industriestadt, die primär von der intensiven Kohleförderung lebt. Die hier abgebaute Kohle wird hauptsächlich genutzt, um das gigantische Kraftwerk Sonichar zu befeuern, welches wiederum den lebensnotwendigen Strom für die Uranminen in Arlit sowie für große Teile der Region Agadez liefert. Trotz ihres industriellen Charakters ist die Stadt tief in die traditionellen Territorien der Tuareg eingebettet. Tchirozérine stellt somit einen faszinierenden Kontrast zwischen moderner Energieinfrastruktur und jahrhundertealtem nomadischen Erbe dar.",
+      hu: "Tchirozerine az Agadez régió egyik kulcsfontosságú iparvárosa, amely az itt található jelentős szénbányáknak köszönheti létezését. A város biztosítja a közeli uránbányák és a régió energiaszükségletét a Sonichar hőerőmű révén. A sivatagos, kietlen tájon elterülő város élete szorosan összefonódott a bányászattal és a tuareg munkások mindennapjaival. Kémia és fizika K8 — szénbányászat és energiatermelés.",
+      ro: "Tchirozérine este un oraș minier vital situat la vest de Munții Aïr în regiunea Agadez. Existența și economia sa contemporană se bazează masiv pe extracția de cărbune, orașul găzduind singura centrală pe cărbune din Niger, care furnizează electricitate esențială pentru minele uriașe de uraniu din orașele vecine, Arlit și Akokan. Locuitorii sunt un amestec interesant de mineri veniți din sud și păstori nomazi tuaregi care folosesc perimetrul orașului ca loc de tranzit. (Geografie K7 — resurse de combustibili fosili).",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Gelegen in den Ausläufern des Aïr-Gebirges nahe Agadez.", "Zentrum der nigrischen Kohleförderung.", "Versorgt das wichtige Sonichar-Kraftwerk mit Brennstoff.", "Liefert Energie für den Uranbergbau in Arlit.", "Faszinierender Kontrast aus Industrie und Tuareg-Kultur.", "Wirtschaftlich essenziell für die gesamte Nordregion."],
+      hu: ["Niger legjelentősebb szénbányászati központja.", "Itt működik az országot ellátó Sonichar hőerőmű.", "Az ipari létesítmények látják el árammal az északi uránbányákat.", "Zord, sivatagi környezetben épült fel.", "Lakosságának jelentős része a bányászatban dolgozik.", "Fontos szerepet játszik az ország energiafüggetlenségében."],
+      ro: ["Singurul oraș din Niger care exploatează depozite comerciale de cărbune.", "Centrala termică livrează curent exclusiv minelor nordice de uraniu.", "Orașul s-a extins masiv după anii 1970 datorită industrializării.", "Tchirozérine funcționează ca o baterie critică pentru exporturile Nigerului.", "Poluarea aerului reprezintă o provocare semnificativă pentru locuitorii săi.", "Atrage forță de muncă specializată din regiunile de sud ale țării.", "Un oraș marcat de un contrast brutal între industrie și nomazii saharieni."],
+      en: []
     }
   },
   {
@@ -635,7 +1008,20 @@ export const poiExtraNigerCitiesV2: POI[] = [
       hu: ["Az iszlám fellegvára Nigerben.", "Az iszlám tudományosság székhelye."],
       ro: ["Bastion al islamului în Niger.", "Sediul erudiției islamice."],
       en: ["Stronghold of Islam in Niger.", "Seat of Islamic scholarship."]
-    }, image: "/poi-images/say-cities-v2.webp"},
+    }, image: "/poi-images/say-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Say ist ein tiefreligiöses und historisch bedeutsames Zentrum am Ufer des Nigers, südlich der Hauptstadt Niamey. Gegründet im 19. Jahrhundert, etablierte sich Say schnell als eine der wichtigsten Hochburgen islamischer Gelehrsamkeit in ganz Westafrika. Die Stadt lockt mit ihren zahlreichen alten Moscheen und Koranschulen noch heute Gelehrte und Gläubige aus der gesamten Sahelzone an. Wirtschaftlich ist die Ansiedlung von Landwirtschaft und Fischerei geprägt, wobei die Nähe zum Fluss ganzjährig Bewässerung ermöglicht. Die ruhige, spirituelle Atmosphäre der Stadt hebt sich deutlich vom Trubel der nahegelegenen Hauptstadt ab.",
+      hu: "Say a Niger folyó partján fekvő történelmi város, amely a 19. században Nyugat-Afrika egyik legfontosabb iszlám tudományos központja volt. A város alapítója, Alfa Mahaman Diobo, híres vallási iskolákat hozott létre itt, amelyek egész Afrikából vonzották a diákokat. Say gazdasága ma a folyami halászatra, a rizstermesztésre és a közeli Niamey piacainak ellátására fókuszál. Történelem K8 — iszlám tudományos központok Afrikában.",
+      ro: "Say este considerat inima spirituală islamică a Nigerului, având o influență istorică majoră asupra răspândirii religiei în Africa de Vest. Situat pitoresc pe malul drept al fluviului Niger, a fost fondat în secolul al XIX-lea de către clerici fulani și a devenit rapid un centru de pelerinaj și educație coranică. Orașul găzduiește și astăzi școli religioase de renume și o universitate islamică națională. În contrast cu alte așezări urbane, Say emană o liniște conservatoare, bazându-se economic pe agricultură, navigație fluvială și activități academice. (Istorie K8 — educația și religia islamică în Sahel).",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Tiefreligiöses Zentrum südlich von Niamey.", "Direkt am malerischen Ufer des Nigers gelegen.", "Historische Hochburg islamischer Gelehrsamkeit im 19. Jh.", "Lockt Gläubige mit alten Moscheen und Koranschulen.", "Wirtschaft geprägt von ganzjähriger Fischerei und Landwirtschaft.", "Bewahrt eine ruhige und spirituelle Atmosphäre."],
+      hu: ["A 19. századi nyugat-afrikai iszlám tudomány fellegvára.", "Alfa Mahaman Diobo alapította fontos vallási központként.", "Közvetlenül a Niger folyó termékeny partján fekszik.", "Gazdasága a folyami halászatra és rizstermesztésre épül.", "Közeli kulturális és gazdasági kapcsolatban áll Niamey-vel.", "Híres hagyományos afrikai vályogépítészetéről."],
+      ro: ["Orașul este centrul istoric al erudiției islamice din vestul Nigerului.", "A fost înființat în 1825 ca un focar religios și intelectual de către clerici Fulani.", "Găzduiește sediul Universității Islamice din Niger din anul 1986.", "Așezat pe malul vestic al fluviului Niger, facilitând un comerț fluvial restrâns.", "Școlile religioase atrag anual studenți din țările vecine francofone.", "Economia include pescuit tradițional și agricultură irigată pe luncă.", "Este faimos pentru marile adunări anuale de rugăciune și pelerinaj."],
+      en: []
+    }
+  },
   {
     id: "madarounfa-cities-v2",
     type: "city",
@@ -653,7 +1039,20 @@ export const poiExtraNigerCitiesV2: POI[] = [
       hu: ["A Madarounfa-tóról ismert.", "Gazdag helyi legendákban."],
       ro: ["Cunoscut pentru lacul Madarounfa.", "Bogat în legende locale."],
       en: ["Known for Lake Madarounfa.", "Rich in local legends."]
-    }, image: "/poi-images/madarounfa-cities-v2.webp"},
+    }, image: "/poi-images/madarounfa-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Madarounfa ist ein malerisches Dorf in der fruchtbaren Region Maradi, das vor allem durch seine Lage nahe einem mystischen See bekannt ist, der in der Mythenwelt der lokalen Hausa-Stämme eine zentrale Rolle spielt. Der See ist nicht nur eine wichtige Wasserquelle für die intensive Landwirtschaft, sondern auch ein Ort traditioneller Rituale, bei denen den Geistern des Wassers gehuldigt wird. Die landwirtschaftliche Produktion konzentriert sich auf nährstoffreiches Gemüse und Hirse, was Madarounfa zu einem wichtigen Lieferanten für die städtischen Märkte Maradis macht. Das Dorf verkörpert die tiefe Verbindung zwischen Natur und traditionellem Glauben.",
+      hu: "Madarounfa egy kulturálisan és természetileg is kiemelkedő város Maradi régióban, amely híres a közelében található szent tóról. A Madarounfa-tó körüli sűrű erdő és a víz animista és muszlim zarándoklatok helyszíne, mivel a helyiek szerint varázserővel bír. A város egyúttal fontos határ menti kereskedelmi csomópont is Nigéria irányába, különösen az élőállat-kereskedelem területén. Földrajz K7 — szent tavak és helyi hitvilág.",
+      ro: "Madarounfa este un oraș sudic liniștit, renumit pentru lacul său pitoresc, care se numără printre puținele întinderi permanente de apă dulce din regiunea Maradi. Lacul atrage pescari, dar este și un sanctuar sacru unde liderii religioși locali organizează ritualuri ceremoniale. Solul din jurul orașului beneficiază de umezeală, făcând din Madarounfa un paradis local pentru fermierii care cultivă porumb și orez. Zona funcționează de asemenea ca un filtru comercial datorită proximității cu imensa piață a Nigeriei, prelucrând materii prime înainte de export. (Geografie K7 — lacurile și mitologia apei).",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Malerisches Dorf in der fruchtbaren Region Maradi.", "Bekannt für einen lokal stark mystifizierten See.", "Ort traditioneller Hausa-Rituale und Wassergeister-Kulte.", "See dient als essenzielle Quelle für Bewässerung.", "Wichtiger Lieferant von Gemüse für die Märkte Maradis.", "Verkörpert die Verbindung zwischen Natur und Glauben."],
+      hu: ["A helyiek által szentként tisztelt tó partján fekszik.", "A tó környéke zarándoklatok és gyógyító rituálék helyszíne.", "Az animista és muszlim hiedelmek találkozási pontja.", "Jelentős határ menti állatkereskedelmi csomópont.", "Nigéria közelsége meghatározza a helyi gazdaságot.", "A tó vizét nem halásszák vallási okokból."],
+      ro: ["Găzduiește un lac permanent, raritate pentru corpurile de apă din regiune.", "Lacul este considerat sacru de către tradiționaliștii Hausa locali.", "Situat la câțiva kilometri de frontiera sudică cu statul Kano, Nigeria.", "Orașul este esențial pentru cultivarea legumelor proaspete și a orezului.", "O oază de biodiversitate care atrage păsări migratoare de apă.", "Populația combină convingerile islamice cu ritualuri preislamice acvatice.", "Comerțul informal transfrontalier susține majoritatea afacerilor din oraș."],
+      en: []
+    }
+  },
   {
     id: "guidan-roumdji-cities-v2",
     type: "city",
@@ -671,7 +1070,20 @@ export const poiExtraNigerCitiesV2: POI[] = [
       hu: ["Agropasztorális gazdaság.", "Jelentős Maradi délnyugati részén."],
       ro: ["Economie agro-pastorală.", "Important în sud-vestul Maradi."],
       en: ["Agro-pastoral economy.", "Significant in the southwest of Maradi."]
-    }, image: "/poi-images/guidan-roumdji-cities-v2.webp"},
+    }, image: "/poi-images/guidan-roumdji-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Versteckt zwischen schier endlosen Äckern im südlichen Zentralniger, hat sich Guidan Roumdji zu einer aufstrebenden und wirtschaftlich starken Kommune entwickelt. Als wichtiger landwirtschaftlicher Versorger der Provinz stützt sich der Ort auf den intensiven Anbau von Erdnüssen, Sorghum und Augenbohnen. Die Gemeinde profitiert stark von internationalen Hilfsprogrammen, die in moderne Lagerhäuser und Bewässerungstechniken investiert haben, um die Ernteverluste nach der Saison zu minimieren. Die dynamischen Wochenmärkte von Guidan Roumdji ziehen Zwischenhändler aus dem ganzen Land an und stärken die lokale Wirtschaftskraft enorm.",
+      hu: "Guidan Roumdji a haúsza kultúra egyik virágzó mezőgazdasági központja, amely a termékeny déli sávban helyezkedik el. A város híres a heti piacáról, amely az egész régióból vonzza a gazdákat és a nigériai felvásárlókat. A lakosság elsősorban köles, cirok és földimogyoró termesztésével foglalkozik, miközben a hagyományos kézművesség, például a szövés és kosárfonás is jelen van. Társadalomtudomány K6 — afrikai mezőgazdasági piacok.",
+      ro: "Guidan Roumdji este un oraș aflat la o importantă intersecție rutieră în estul regiunii Maradi, cunoscut ca un enorm punct de colectare pentru cerealele cultivate în satele satelit. Piața sa joacă un rol de regulator de prețuri pentru mei, sorg și fasole ochi-negru la nivel național, mii de tone de recoltă tranzitând anual pe aici. Ca multe alte orașe din regiune, a luptat intens cu deșertificarea, dar în ultimele două decenii a beneficiat de un val de sprijin agricol care a reintrodus perdelele forestiere de protecție împotriva vânturilor uscate, stabilizând agricultura locală. (Geografie K7 — piețele de cereale și securitatea alimentară).",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Aufstrebende Kommune im südlichen Zentralniger.", "Eingebettet in schier endlose landwirtschaftliche Äcker.", "Intensiver Anbau von Erdnüssen, Sorghum und Augenbohnen.", "Profitiert von modernen Lagerhäusern und Bewässerung.", "Wichtiger landwirtschaftlicher Versorger der Provinz.", "Dynamische Märkte ziehen landesweit Zwischenhändler an."],
+      hu: ["A déli termékeny sáv fontos mezőgazdasági városa.", "Jelentős heti piaccal rendelkezik a régióban.", "Gazdaságának alapja a köles és földimogyoró.", "Erős kereskedelmi szálak fűzik a szomszédos Nigériához.", "A haúsza kultúra hagyományai dominálják a mindennapokat.", "A lakosok jelentős része hagyományos kézművességgel is foglalkozik."],
+      ro: ["Servește drept o bursă informală de mărfuri pentru cerealele din Maradi.", "Situat pe autostrada principală est-vest a Nigerului.", "Centru major pentru colectarea și distribuirea fasolei ochi-negru.", "Zona a beneficiat extensiv de plantări de perdele forestiere anti-vânt.", "Comercianții vin cu camioane din întreaga țară pentru achiziții en-gros.", "Populația s-a dublat în ultimii 30 de ani datorită imigrației rurale.", "Un punct nodal pentru rutele de transport public și tranzit de mărfuri."],
+      en: []
+    }
+  },
   {
     id: "maine-soroa-cities-v2",
     type: "city",
@@ -689,7 +1101,20 @@ export const poiExtraNigerCitiesV2: POI[] = [
       hu: ["Helyi mezőgazdasági csomópont.", "Pálmafák és vízfolyások jellemzik."],
       ro: ["Nod agricol local.", "Caracterizat de palmieri și cursuri de apă."],
       en: ["Local agricultural hub.", "Characterized by palm trees and watercourses."]
-    }, image: "/poi-images/maine-soroa-cities-v2.webp"},
+    }, image: "/poi-images/maine-soroa-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Maïné-Soroa ist eine östliche Ansiedlung in der Region Diffa, die sich durch ihre strategische Nähe zum Fluss Komadougou-Yobé auszeichnet. Die fruchtbaren Uferzonen des Flusses ermöglichen eine intensive Landwirtschaft in einer ansonsten eher trockenen Umgebung, wobei besonders Pfeffer und Reis im Fokus stehen. Die Stadt ist zudem bekannt für ihre Pferdezucht und ihre farbenfrohen Reitfestivals. In der jüngeren Vergangenheit diente Maïné-Soroa als Zufluchtsort für Gemeinschaften, die vor Unruhen im grenzübergreifenden Tschadsee-Becken geflohen sind, was zu einem raschen, aber herausfordernden Bevölkerungswachstum geführt hat.",
+      hu: "Mainé-Soroa egy különleges határváros a Diffa régióban, ahol a hagyományos haúsza, kanuri és peul kultúrák keverednek. A település történelmileg jelentős volt a francia gyarmati adminisztráció alatt, építészetén ma is látszanak a vörös téglás koloniális nyomok. A város a Komadougou Yobe folyó termékeny völgyében fekszik, amely lehetővé teszi a zöldségtermesztést a száraz régióban. Történelem K7 — gyarmati építészet és határvidékek.",
+      ro: "Maïné-Soroa, situat în regiunea extremă estică Diffa, a fost istoric o așezare liniștită dedicată agriculturii pastorale și creșterii caprinelor faimoase pe plan internațional pentru calitatea pielii lor. De-a lungul istoriei recente, însă, zona a suferit transformări din cauza proximității zonelor de conflict asociate crizei din bazinul Lacului Ciad, orașul găzduind multiple valuri de refugiați strămutați. În ciuda acestor dificultăți profunde, locuitorii săi din grupul Kanouri și-au menținut tradițiile agricole seculare pe malurile râului efemer Komadougou, demonstrând o reziliență formidabilă. (Geografie K7 — conflicte moderne și refugiați).",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Östliche Ansiedlung in der Region Diffa.", "Liegt am fruchtbaren Fluss Komadougou-Yobé.", "Spezialisiert auf intensiven Anbau von Pfeffer und Reis.", "Bekannt für Pferdezucht und farbenfrohe Reitfestivals.", "Wichtiger Zufluchtsort für Menschen aus dem Tschadsee-Becken.", "Verzeichnet ein rasches demografisches Wachstum."],
+      hu: ["A kanuri, haúsza és peul kultúrák találkozási pontja.", "A Komadougou Yobe folyó termékeny völgyében található.", "Híres a vörös téglás, gyarmati kori épületeiről.", "A zöldségtermesztés a helyi gazdaság egyik alappillére.", "Fontos stratégiai határváros Nigéria közelében.", "Jelentős szerepet játszik a regionális paprika-exportban."],
+      ro: ["Oraș de frontieră amplasat în imediata vecinătate a fluviului Komadougou.", "Istoric renumit pentru exportul de piele de capră de calitatea superioară.", "Populația predominant Kanouri păstrează tehnici agricole ancestrale.", "Găzduiește mii de refugiați interni din cauza crizelor regionale recente.", "Râul seacă frecvent, necesitând extragerea apei din albiile subterane.", "Orașul deține rămășițe arhitecturale ale influenței imperiului Bornu.", "O localitate vitală pentru sprijinul umanitar în sud-estul extrem al țării."],
+      en: []
+    }
+  },
   {
     id: "tchin-tabaraden-cities-v2",
     type: "city",
@@ -707,7 +1132,20 @@ export const poiExtraNigerCitiesV2: POI[] = [
       hu: ["Központi szerep a tuaregek számára.", "Mélyen a sivatag peremvidékén."],
       ro: ["Rol central pentru tuaregi.", "Adânc în zona de margine a deșertului."],
       en: ["Central role for the Tuareg.", "Deep in the desert fringe area."]
-    }, image: "/poi-images/tchin-tabaraden-cities-v2.webp"},
+    }, image: "/poi-images/tchin-tabaraden-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Tchin-Tabaraden fungiert als entscheidendes administratives Zentrum im Herzen der nomadenreichen Azawagh-Region. Dieser entlegene Ort bietet lebenswichtige Infrastruktur wie Brunnen, Tierarztstationen und mobile Schulen in der sonst fast grenzenlosen, trockenen Sahel-Weite. Jeden Oktober verwandelt sich die Umgebung der Stadt, da Tausende von Tuareg- und Wodaabe-Hirten nach der Regenzeit hier zusammenkommen, um ihre großen Viehherden zu tränken und die traditionellen 'Cure Salée'-Feste zu feiern. Tchin-Tabaraden ist somit nicht nur ein administrativer Knotenpunkt, sondern das pulsierende kulturelle Herz der nomadischen Gemeinschaften Nigers.",
+      hu: "Tchin-Tabaraden a nomád tuareg közösségek egyik legfontosabb politikai és kulturális központja Tahoua régióban. Neve a helyi nyelven \\\"A fiatal lányok völgyét\\\" jelenti. A település az 1990-es évek tuareg lázadásának egyik kiindulópontja volt, ma azonban békés adminisztratív központ. A város minden évben hatalmas nomád gyűléseknek ad otthont, ahol a sivatagi pásztorok találkoznak. Történelem K8 — tuareg történelem és modern konfliktusok.",
+      ro: "Tchin-Tabaraden este considerată capitala nomazilor tuaregi dintr-o vastă depresiune saheliană aflată la vest de regiunea Tahoua. Istoria orașului poartă amprenta luptelor pentru autonomie și gestionare a resurselor de pășunat. Este punctul zero pentru triburile nomade majore și focarul negocierilor pacifice și a comerțului dintre tabere. Datorită puțurilor arteziene adânci forate aici, mii de cămile, oi și vaci zebu sunt adăpate zilnic, transformând localitatea într-un centru efervescent de negoț tradițional. Tchin-Tabaraden rămâne un simbol viu al culturii nomade contemporane. (Istorie K8 — mișcările nomade tuarege).",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Administratives Zentrum der Azawagh-Region.", "Bietet lebenswichtige Infrastruktur für Nomaden.", "Verfügt über tiefe Brunnen und Tierarztstationen.", "Sammelpunkt für Tuareg- und Wodaabe-Hirten.", "Bedeutender Ort für die jährlichen 'Cure Salée'-Feste.", "Pulsierendes kulturelles Herz der Nomaden Nigers."],
+      hu: ["A tuareg nomád közösségek fontos politikai bázisa.", "Neve tuareg nyelven \\\"A fiatal lányok völgyét\\\" jelenti.", "Az 1990-es évekbeli tuareg lázadások egyik történelmi helyszíne.", "A város környéke hatalmas kiterjedésű sivatagi legelő.", "Rendszeres nomád találkozóknak és vásároknak ad otthont.", "Gazdasága szinte teljes egészében a tevetenyésztésre épül."],
+      ro: ["Este recunoscută neoficial drept capitala culturală a depresiunii Azawagh.", "Populația majoritar tuaregă folosește orașul ca principal nod comercial.", "Un sistem de fântâni de adâncime menține turmele uriașe pe timp de secetă.", "Numele orașului s-ar traduce prin fântâna unde ne oprim în limba Tamasheq.", "Găzduiește frecvent adunări de pace și consilii tribale de reconciliere.", "Epicentrul istoric al unora dintre revoltele tuarege pentru autonomie.", "Comerțul cu sare de deșert și brânză tradițională este esențial economiei."],
+      en: []
+    }
+  },
   {
     id: "goudoumaria-cities-v2",
     type: "city",
@@ -725,7 +1163,20 @@ export const poiExtraNigerCitiesV2: POI[] = [
       hu: ["Jelentős a helyi oázisok számára.", "Kereskedelmi útvonalak találkozási pontja."],
       ro: ["Important pentru oazele locale.", "Punct de intersecție a rutelor comerciale."],
       en: ["Important for local oases.", "Intersection of trade routes."]
-    }, image: "/poi-images/goudoumaria-cities-v2.webp"},
+    }, image: "/poi-images/goudoumaria-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Goudoumaria ist eine isolierte, kleine Wüstenkommune tief im Osten Nigers, die sich durch eine erstaunliche Spezialisierung in einer feindlichen Umgebung auszeichnet. Die Oasen rund um das Dorf bieten optimale Bedingungen für den Dattelanbau, der das wirtschaftliche Rückgrat der lokalen Bevölkerung darstellt. Die geernteten Datteln gelten als besonders süß und widerstandsfähig gegen den Transport und werden auf den großen Märkten in Zinder und Agadez hoch geschätzt. Die Architektur von Goudoumaria ist geprägt von dicken Lehmwänden, die extremen Temperaturschwankungen zwischen heißen Tagen und eiskalten Nächten standhalten.",
+      hu: "Goudoumaria a Diffa régió sivatagi oázisvárosa, amely egyedülálló pálmaligeteiről és sós tavaiból ismert. A terület az ősi kanem-bornui birodalom hatásövezetébe tartozott, ma pedig fontos megálló a keleti nomád útvonalakon. A lakosság a datolyatermesztésből és a nátrium-karbonát (natron) bányászatából él, amelyet tevekaravánokon szállítanak dél felé. Földrajz K8 — sós tavak és oázisgazdálkodás.",
+      ro: "Goudoumaria este un oază uluitoare ascunsă printre dunele masive ale regiunii estice Manga, remarcându-se prin contrastele vizuale puternice dintre palmierii curmali și nisipul Saharei înconjurătoare. Așezarea s-a dezvoltat în jurul mai multor izvoare și lacuri mici care au permis locuitorilor să dezvolte o agricultură artizanală rafinată. Aici, recoltarea curmalelor și extracția tradițională a carbonatului de sodiu (natron), folosit pentru adăparea vitelor, constituie ocupațiile principale. Goudoumaria rămâne o localitate relativ necunoscută pe plan internațional, dar reprezintă o comoară a tehnicilor milenare de supraviețuire saheliană. (Geografie K7 — extracția mineralelor naturale).",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Isolierte kleine Wüstenkommune tief im Osten Nigers.", "Verfügt über Oasen mit optimalen Bedingungen für Dattelanbau.", "Datteln gelten als überregional süß und transportfähig.", "Wirtschaftliches Rückgrat ist der Dattelhandel mit Zinder.", "Architektur nutzt dicke Lehmwände zur Temperaturregulierung.", "Musterbeispiel für Anpassung an feindliche Wüstenumgebungen."],
+      hu: ["Sivatagi oázisváros, amely hatalmas pálmaligetekkel rendelkezik.", "A helyi gazdaság egyik alapja a natron (só) kitermelése.", "Történelmileg a Kanem-Bornu birodalom határvidéke volt.", "Jelentős a minőségi datolyatermesztés a régióban.", "A nomád karavánok kritikus fontosságú vízellátó pontja.", "Elszigetelt fekvése miatt a hagyományos életmód erősen megmaradt."],
+      ro: ["Aflată într-un bazin depresionar înconjurat de dune de nisip mișcătoare.", "Locul este faimos pentru extragerea tradițională a carbonatului de sodiu.", "Găzduiește oaze bogate care permit producția abundentă de curmale.", "Locuitorii își construiesc adăposturi adaptate strict la arșița deșertică.", "Izolarea sa a prezervat structurile tribale locale aproape intacte.", "Comerțul de subzistență se desfășoară prin caravane mici către Nigeria.", "Apa freatică este extrasă folosind pârghii din lemn acționate de animale."],
+      en: []
+    }
+  },
   {
     id: "dungass-cities-v2",
     type: "city",
@@ -743,6 +1194,18 @@ export const poiExtraNigerCitiesV2: POI[] = [
       hu: ["Erősen növekvő népesség.", "Erős mezőgazdasági fókusz."],
       ro: ["Populație în creștere rapidă.", "Accent puternic pe agricultură."],
       en: ["Rapidly growing population.", "Strong agricultural focus."]
+    },
+    descriptionAdvanced: {
+      de: "Dungass ist eine rasch wachsende Gemeinde in der Region Zinder, die stark von einer anhaltenden landwirtschaftlichen Expansion geprägt ist. Die jüngsten Investitionen in tiefe Brunnen und verbesserte Saatgutsorten haben Dungass zu einem echten Magneten für junge Familien gemacht, die nach wirtschaftlicher Stabilität suchen. Die Felder rings um die Stadt produzieren im großen Maßstab Hirse und Sesam, was Dungass zu einem wichtigen Exporteur in die benachbarten Regionen Nigerias macht. Der Optimismus in der Stadt ist spürbar, getragen von einer starken lokalen Gemeinschaftsführung, die Bildung und Infrastruktur priorisiert.",
+      hu: "Dungass egy fiatal, de dinamikusan növekvő mezőgazdasági város Zinder régió déli peremén. A település termékeny talajának köszönhetően az ország egyik \\\"éléskamrája\\\", ahol hatalmas mennyiségű gabonát és hüvelyest termesztenek. Központi fekvése a nigériai határon élénk feketepiacot és hivatalos kereskedelmet is generál, amely a lakosság gyors növekedését eredményezte. Társadalomföldrajz K7 — demográfiai robbanás a határokon.",
+      ro: "Dungass, relativ nou desemnat ca oraș departamental în regiunea Zinder, este situat periculos de aproape de linia de graniță unde traficul nereglementat alimentează viața locală. Regiunea din jurul său este o câmpie fertilă în timpul musonului, unde locuitorii cultivă zeci de varietăți de fasole și alune, esențiale pentru piețele din nordul Nigeriei. Orașul are puține structuri permanente din beton, viața comunității concentrându-se exclusiv în aer liber, în târgurile vibrante pline de produse agricole, piese auto și motociclete venite de peste graniță, reflectând spiritul afacerist nestăvilit al zonei. (Geografie K7 — micro-economiile africane informale).",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Rasch wachsende Gemeinde in der Region Zinder.", "Geprägt von starker landwirtschaftlicher Expansion.", "Profitiert von neuen Tiefbrunnen und modernem Saatgut.", "Produziert im großen Maßstab Hirse und Sesam.", "Wichtiger Agrar-Exporteur nach Nigeria.", "Magnet für junge Familien durch wirtschaftliche Stabilität."],
+      hu: ["Dinamikusan növekvő agrárváros a nigériai határnál.", "A régió egyik legfontosabb gabonatermesztő területe.", "Gazdaságát a hivatalos és informális határkereskedelem hajtja.", "Lakossága az elmúlt évtizedekben megsokszorozódott.", "A fiatalabb generációk számára fontos munkaerő-piaci bázis.", "Infrastruktúrája küzd a gyors demográfiai növekedéssel."],
+      ro: ["Este unul dintre cele mai tinere orașe-reședință de departament din Niger.", "Depinde aproape total de fluxul comercial cu statele de nord din Nigeria.", "Un producător imens de fasole ochi-negru de calitate pentru export regional.", "Piețele sale funcționează ca schimburi majore de mărfuri transfrontaliere.", "Climatul variază extrem, cu ploi concentrate în doar trei luni pe an.", "Găzduiește o populație extrem de tânără, majoritar activă în comerț.", "Drumurile din lut din jur devin adesea impracticabile pe timp de muson."],
+      en: []
     }
   },
   {
@@ -762,7 +1225,20 @@ export const poiExtraNigerCitiesV2: POI[] = [
       hu: ["Gyümölcstermesztő terület a főváros közelében.", "Idillikus folyóparti táj."],
       ro: ["Zonă pomicolă în apropierea capitalei.", "Peisaj fluvial idilic."],
       en: ["Fruit growing area near the capital.", "Idyllic river landscape."]
-    }, image: "/poi-images/kollo-cities-v2.webp"},
+    }, image: "/poi-images/kollo-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Kollo liegt nur einen Steinwurf von der geschäftigen Hauptstadt Niamey entfernt, hat es jedoch geschafft, seinen charmanten, dörflichen und entspannten Charakter vollständig zu bewahren. Die Stadt liegt ideal am Niger und ist umgeben von üppigen Obstgärten und weitläufigen Gemüsefeldern, die die nahegelegene Hauptstadt mit frischen Lebensmitteln versorgen. Am Wochenende entfliehen viele Hauptstadtbewohner der Hitze Niameys, um die Ruhe der Flussufer in Kollo zu genießen. Die Stadt beheimatet außerdem bedeutende Forschungsinstitute für Landwirtschaft, die sich der Zucht trockenresistenter Pflanzenarten für den gesamten Sahel widmen.",
+      hu: "Kollo egy nyugodt folyóparti település, mindössze rövid távolságra Niameytől, amely zöldellő mangó- és banánligeteiről híres. A város pihenőhelyként és mezőgazdasági beszállítóként is funkcionál a főváros számára. A Niger folyó közelsége gazdag madárvilágot vonz, így a környék a helyiek és a turisták körében is kedvelt természetjáró helyszín. Biológia K6 — folyóparti növénytermesztés.",
+      ro: "Kollo este o așezare liniștită situată chiar la sud de capitala Niamey, de-a lungul malurilor verzi ale fluviului Niger. Acest oraș servește drept o evadare agricolă și recreativă din agitația metropolei, oferind capitalei o sursă continuă de legume proaspete, fructe de mango delicioase și citrice. Malurile fluviului la Kollo sunt irigate intens cu motopompe moderne, creând o grădină continuă de-a lungul apei. Locul este vizitat frecvent pentru peisajele sale rurale calme, devenind încet o suburbie verde a metropolei Niamey, fără a-și pierde însă farmecul tipic satelor agricole Zarma. (Geografie K7 — agricultura periurbană).",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Liegt in unmittelbarer Nähe zur Hauptstadt Niamey.", "Bewahrt einen charmanten, dörflichen und entspannten Charakter.", "Umgeben von üppigen Obstgärten und Gemüsefeldern.", "Wichtiger Frischversorger für die Märkte der Hauptstadt.", "Beliebtes Wochenend-Ausflugsziel für Stadtbewohner.", "Beheimatet wichtige landwirtschaftliche Forschungsinstitute."],
+      hu: ["Közvetlenül a Niger folyó mentén, Niamey közelében fekszik.", "Hatalmas, sűrű mangó- és banánültetvényeiről ismert.", "A főváros egyik legfontosabb frissgyümölcs-beszállítója.", "Gazdag folyóparti madárvilággal büszkélkedhet.", "Kedvelt hétvégi pihenőhely a fővárosiak számára.", "A lakosság főleg a djerma (zarma) népcsoporthoz tartozik."],
+      ro: ["Situat la doar 35 de kilometri sud de capitala Niamey pe malul fluviului.", "Renumit pentru imensele plantații de pomi de mango și citrice.", "Fermierii folosesc intens motopompele pentru irigarea culturilor de luncă.", "Este sursa principală de legume proaspete pentru piețele capitalei.", "A devenit un refugiu recreativ de weekend pentru cetățenii din Niamey.", "Populația tradițională Zarma și-a adaptat agricultura la cererea urbană.", "Zona fluvială adăpostește o multitudine de păsări acvatice și faună diversă."],
+      en: []
+    }
+  },
   {
     id: "ayorou-cities-v2",
     type: "city",
@@ -780,7 +1256,20 @@ export const poiExtraNigerCitiesV2: POI[] = [
       hu: ["Kedvelt turisztikai megállóhely.", "Rendszeres vízilóészlelések."],
       ro: ["Popas turistic popular.", "Observări regulate ale hipopotamilor."],
       en: ["Popular tourist stop.", "Regular hippo sightings."]
-    }, image: "/poi-images/ayorou-cities-v2.webp"},
+    }, image: "/poi-images/ayorou-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Ayorou ist eine der malerischsten Siedlungen Nigers, die teilweise auf mehreren kleinen Inseln direkt im Fluss Niger erbaut wurde. Die Stadt ist vor allem für ihren spektakulären bunten Sonntagsmarkt bekannt, bei dem Händler der Zarma, Tuareg und Fulani per Piroge (traditionelles Kanu) anreisen, um Vieh, handgefertigte Töpferwaren und frischen Fisch auszutauschen. Ayorou gilt auch als herausragendes Ziel für Flussexpeditionen, bei denen man mit etwas Glück Herden von Flusspferden beobachten kann. Die einzigartige Symbiose aus flussbasierter Wirtschaft und traditioneller Architektur macht Ayorou zu einem kulturellen Juwel.",
+      hu: "Ayorou a Niger folyó szigetein és partján elterülő lenyűgöző város, amely Észak-Niger egyik legszebb természeti fekvésével bír. A város vasárnapi piaca legendás: tuareg, fulani és songhai kereskedők találkoznak itt, hogy állatokat, kézműves termékeket és sót cseréljenek. A folyóban élő vízilovak rendkívüli látványt nyújtanak, ami miatt a város korábban jelentős turisztikai célpont volt. Földrajz K8 — afrikai folyami piacok és vadvilág.",
+      ro: "Ayorou este un oraș insular și riveran spectaculos de pe fluviul Niger, faimos pentru peisajele sale fluviale dominate de bărci tradiționale cu pânze și pentru faimoasa piață de duminică. Târgul atrage o mulțime eterogenă de grupuri Songhai, Tuareg și Peul care sosesc pe apă și pe uscat pentru a vinde vite, păsări, condimente și bijuterii din piele. Dincolo de comerț, orașul atrage ecologiști datorită prezenței hipopotamilor sălbatici care cutreieră adesea insulele din jurul așezării. Cu toate acestea, reculul sezonier al nivelului apei fluviului rămâne o amenințare serioasă pentru un oraș a cărui identitate este inseparabilă de apă. (Geografie K7 — ecosistemele fluviale din Sahel).",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Malerisch auf kleinen Inseln im Fluss Niger erbaut.", "Berühmt für seinen spektakulären, bunten Sonntagsmarkt.", "Händler reisen traditionell mit Pirogen (Kanus) an.", "Wichtiger Handelsplatz für Zarma, Tuareg und Fulani.", "Herausragendes Ziel für Nilpferd-Beobachtungen.", "Zeigt einzigartige Symbiose aus Flusswirtschaft und Kultur."],
+      hu: ["A Niger folyó szigetein és festői partján épült fel.", "Vasárnapi állat- és kézműves piaca országos hírű.", "A régióban vadon élő vízilovak találhatók a folyóban.", "Tuareg, fulani és songhai kultúrák fontos olvasztótégelye.", "Történelmileg Mali és Niger közötti kulcsfontosságú kapu.", "A csónakos közlekedés a mindennapi élet szerves része."],
+      ro: ["Așezarea originală a fost construită pe o insulă centrală de pe fluviul Niger.", "Piața duminicală atrage mii de comercianți din nordul statului Mali.", "Zona este recunoscută internațional pentru coloniile de hipopotami sălbatici.", "Transportul local este dominat de bărci de lemn înguste numite pinasses.", "Populația Songhai locală este expertă în tehnici ancestrale de pescuit.", "Târgul de animale este considerat printre cele mai vibrante din Africa de Vest.", "A suferit secete masive care au transformat temporar insula într-o peninsulă."],
+      en: []
+    }
+  },
   {
     id: "bermo-cities-v2",
     type: "city",
@@ -798,7 +1287,20 @@ export const poiExtraNigerCitiesV2: POI[] = [
       hu: ["A fulani pásztorok által meghatározott.", "Vízlelőhely a kopár tájon."],
       ro: ["Modelat de păstorii Fulani.", "Sursă de apă într-un peisaj arid."],
       en: ["Characterized by Fulani herders.", "Watering hole in a barren landscape."]
-    }, image: "/poi-images/bermo-cities-v2.webp"},
+    }, image: "/poi-images/bermo-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Bermo, gelegen inmitten der unendlichen Weiten der nigrischen Halbwüste, fungiert als unverzichtbarer Knotenpunkt und Rastplatz für die wandernden Fulani-Hirten und ihre enormen Zebu-Herden. Die Gemeinde hat sich ganz auf die Bedürfnisse der nomadischen Bevölkerung spezialisiert und bietet ausgedehnte Trinkwasserbecken sowie spezialisierte Veterinärdienste, die für das Überleben des Viehs während der trockenen Monate unerlässlich sind. Trotz seiner Abgeschiedenheit herrscht in Bermo eine bemerkenswerte kulturelle Dynamik, insbesondere während der Regenzeit, wenn die Herden zurückkehren und die lokalen Gemeinschaften traditionelle Feste mit Musik und Poesie feiern.",
+      hu: "Bermo a fulani és wodaabe nomádok \\\"titkos fővárosa\\\" a Maradi régió északi, száraz szavannáin. A település egész évben csendes, kivéve az esős évszak végét, amikor a hatalmas csordák visszatérnek a legelőkről, és kezdetét veszik a hagyományos afrikai szépségversenyek és találkozók. Bermo gazdasága kizárólag a pásztorkodásra, az állatgyógyászatra és a tejtermékek kereskedelmére épül. Társadalomtudomány K7 — a Wodaabe nomádok élete.",
+      ro: "Bermo este una dintre puținele așezări complet dedicate sprijinirii comunităților de păstori nomazi din deșertul Nigerului, acționând mai degrabă ca un loc de adunare decât ca un oraș static. În timpul lunilor secetoase, mii de crescători de vite Wodaabe și Peul se adună în jurul fântânilor masive din Bermo, iar peisajul se umple de corturi și turme pe o rază de mulți kilometri. Orașul are infrastructură permanentă minimă, însă joacă un rol politic și social enorm, fiind un punct focal pentru inițiativele guvernamentale de vaccinare a animalelor și distribuire a ajutoarelor pentru nomazi. (Geografie K7 — nomadism și economii pastorale).",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Gelegen in den weiten Ebenen der nigrischen Halbwüste.", "Unverzichtbarer Knotenpunkt für wandernde Fulani-Hirten.", "Bietet ausgedehnte Trinkwasserbecken für Zebu-Herden.", "Spezialisiert auf veterinärmedizinische Nomaden-Dienste.", "Belebt sich extrem während der erlösenden Regenzeit.", "Ort für traditionelle Feste voller Musik und Poesie."],
+      hu: ["A wodaabe nomád pásztorok egyik legfőbb találkozási helye.", "Gazdasága szinte kizárólag a szarvasmarha-tenyésztésre épül.", "Hatalmas kulturális fesztiválok színhelye az esős évszak végén.", "Sivatagi átmeneti zónában, távol a nagy kereskedelmi utaktól fekszik.", "A tej- és hústermékek helyi feldolgozása a fő bevételi forrás.", "A vízkutak birtoklása és fenntartása társadalmi státuszt jelent."],
+      ro: ["Un oraș ale cărui granițe și populație se extind imens în funcție de anotimp.", "Punct de adunare critic pentru fântânile adânci esențiale turmelor pastorale.", "Așezarea are un rol major în campaniile guvernamentale de vaccinare veterinară.", "Este dominat aproape exclusiv de popoarele nomade Peul și Wodaabe.", "Nu dispune de agricultură de subzistență, fiind dependent de importul de mei.", "Organizează piețe spontane unde se schimbă lapte și carne pentru cereale.", "Păstrează un rol puternic de mediere socială între diferitele facțiuni nomade."],
+      en: []
+    }
+  },
   {
     id: "banibangou-cities-v2",
     type: "city",
@@ -816,6 +1318,18 @@ export const poiExtraNigerCitiesV2: POI[] = [
       hu: ["Stratégiai határpozíció.", "Szárazgazdálkodás az alapja."],
       ro: ["Poziție strategică de frontieră.", "Agricultura uscată ca bază."],
       en: ["Strategic border position.", "Dry farming as the foundation."]
+    },
+    descriptionAdvanced: {
+      de: "Banibangou ist eine kleine, widerstandsfähige Grenzsiedlung im Norden der Tillabéri-Region, die mutig mit extrem rauen klimatischen Bedingungen und geopolitischen Herausforderungen kämpft. Die lokale Wirtschaft stützt sich auf subsistenzbasierten Trockenfeldbau und marginale Viehzucht. Die Bewohner, überwiegend der Djerma-Ethnie angehörend, sind bekannt für ihre tiefe Verbundenheit mit dem Land und ihre komplexe traditionelle Selbstverwaltung. Banibangou ist ein Ort von stiller Ausdauer, an dem alte Bräuche und Überlebensstrategien von Generation zu Generation weitergegeben werden, um der fortschreitenden Desertifikation entgegenzuwirken.",
+      hu: "Banibangou a mali határ mentén fekvő zarma település, amely a történelmi Zarmaganda régió szívében található. A város kemény, sziklás talajon fekszik, ami megnehezíti a földművelést, így a lakosság elsősorban kölest termeszt és extenzív állattartást folytat. Stratégiai elhelyezkedése miatt Banibangou a határon átnyúló migráció és biztonsági kihívások fókuszpontjává vált az elmúlt években. Társadalomföldrajz K8 — határmenti konfliktusok és életmód.",
+      ro: "Banibangou, localizat în nordul instabil al regiunii Tillabéri, a fost inițial un nod pașnic de tranzit unde comunitățile Zarma și nomazii tuaregi negociau drepturile de pășunat. Relieful este definit de văi uscate acoperite cu tufișuri de salcâm, greu încercate de eroziune. În perioada modernă, Banibangou a atras atenția internațională, fiind o zonă cu tensiuni majore din cauza extinderii conflictelor de frontieră cu statul Mali. Orașul reprezintă reziliența extremă a civililor sahelieni care se străduiesc să-și cultive cerealele și să mențină o comunitate în fața unor greutăți formidabile, izolați într-un peisaj implacabil. (Geografie K7 — geopolitica și zonele de conflict).",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Kleine, widerstandsfähige Grenzsiedlung in Tillabéri.", "Kämpft mit extrem rauen klimatischen Bedingungen.", "Wirtschaft basiert auf subsistenzbasiertem Trockenfeldbau.", "Bewohner gehören überwiegend der Djerma-Ethnie an.", "Verfügt über ein komplexes, traditionelles Selbstverwaltungssystem.", "Symbol für stille Ausdauer gegen Desertifikation."],
+      hu: ["A történelmi Zarmaganda régió központja a mali határnál.", "A zord, sziklás talaj miatt a köles az egyetlen biztos termény.", "Fontos szerepe van a Mali felé irányuló tranzitforgalomban.", "A zarma népcsoport egyik legősibb települése a térségben.", "Az elmúlt években jelentős biztonsági kihívásokkal küzdött.", "Építészete erődített, zárt udvaros családi házakból áll."],
+      ro: ["Este situat la extremitatea de frontieră a Nigerului cu statul Mali.", "Populația locală supraviețuiește printr-o agricultură pluvială foarte dificilă.", "A servit istoric ca un pol de reconciliere pentru triburile tuarege și zarma.", "Orașul este înconjurat de un peisaj uscat acoperit de tufișuri scunde de salcâm.", "Localitatea a devenit un punct fierbinte de securitate în regiunea Sahel.", "Drumurile din regiune sunt în mare parte piste neasfaltate și stâncoase.", "Comunitatea menține tradiții stricte de sprijin reciproc pe timp de criză."],
+      en: []
     }
   },
   {
@@ -835,6 +1349,18 @@ export const poiExtraNigerCitiesV2: POI[] = [
       hu: ["Messze a nagy utaktól.", "Extrém éghajlati viszonyok."],
       ro: ["Departe de drumurile principale.", "Condiții climatice extreme."],
       en: ["Far from major roads.", "Extreme climatic conditions."]
+    },
+    descriptionAdvanced: {
+      de: "N'gourti ist eine der isoliertesten Gemeinden Nigers, tief in den weiten, gnadenlosen östlichen Steppen verloren. Die Siedlung verlässt sich fast ausschließlich auf uralte, bewährte Überlebensstrategien, um in einer Umgebung zu gedeihen, die fast das ganze Jahr über von extremer Dürre geplagt ist. Die Bewohner sind Experten darin, tiefes Grundwasser zu lokalisieren und widerstandsfähige Kamele zu züchten, die wochenlang ohne Wasser auskommen. Die Architektur besteht aus temporären und semi-permanenten Unterständen, die schnell abgebaut und an klimatische Veränderungen angepasst werden können, was die Flexibilität der Gemeinschaft unterstreicht.",
+      hu: "Ngourti a hatalmas Diffa régió legelszigeteltebb és legészakibb közigazgatási központja. A város a homokdűnék tengerében fekszik, ahol a tubu és toubou nomád törzsek uralják a tájat. A terület fontossága drasztikusan megnőtt az Agadem olajmező felfedezésével, amely jelentős befektetéseket és modern infrastruktúrát hozott ebbe az ősi, sivatagi környezetbe. Földrajz K8 — kőolaj-kitermelés a sivatagban.",
+      ro: "Ngourti este cea mai nordică așezare din bazinul Diffa, un pol complet izolat de vegetația tipică a sudului, o avangardă civilă ce marchează începutul deșertului pur. Orașul este celebru pentru izvoarele și forajele sale strategice care au susținut caravanele cu sare de-a lungul timpului. Cunoscut cel mai bine în prezent ca zonă viitoare de extracție și prospectare a țițeiului brut, Ngourti atrage investiții în infrastructură care îi modifică rapid ritmul de viață lent de altădată, devenind un oraș-boom modern cu o populație care muncește în taberele petroliere învecinate. (Geografie K7 — explorarea petrolieră în deșert).",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Eine der isoliertesten Gemeinden im tiefen Osten Nigers.", "Liegt in einer von extremer Dürre geplagten Steppe.", "Verlässt sich auf uralte Überlebensstrategien in der Wüste.", "Spezialisiert auf tiefe Brunnen und Kamelzucht.", "Nutzt temporäre und semi-permanente Architektur.", "Gemeinschaft zeichnet sich durch extreme Flexibilität aus."],
+      hu: ["A Diffa régió legészakibb, sivatagi közigazgatási pontja.", "A tubu nomád törzsek történelmi központja a régióban.", "A közelben felfedezett Agadem olajmező átalakította a gazdaságát.", "Extrém szárazság és hatalmas homokdűnék jellemzik a tájat.", "Az ivóvizet több száz méter mély kutakból nyerik.", "Az olajipar új utakat és modern technológiát hozott a térségbe."],
+      ro: ["Este cea mai nordică așezare administrativă din estul depărtat al regiunii Diffa.", "Așezarea servește drept punct central pentru noile zone de extracție petrolieră.", "În trecut, a fost exclusiv un popas pentru păstorii de cămile Toubou.", "Dezvoltarea sa a explodat odată cu crearea unui imens câmp petrolifer.", "Orașul combină corturile tradiționale cu taberele moderne ale inginerilor străini.", "Infrastructura rutieră de macadam se oprește adesea în favoarea drumurilor de nisip.", "Forajele au adus pentru prima dată rezerve uriașe de apă la suprafață."],
+      en: []
     }
   },
   {
@@ -854,7 +1380,20 @@ export const poiExtraNigerCitiesV2: POI[] = [
       hu: ["Alacsony népsűrűség.", "Tipikus szaharai mezőgazdaság."],
       ro: ["Densitate scăzută a populației.", "Agricultură tipică sahariană."],
       en: ["Low population density.", "Typical Saharan agriculture."]
-    }, image: "/poi-images/tassara-cities-v2.webp"},
+    }, image: "/poi-images/tassara-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Tassara fungiert als eine entscheidende Station auf den weiten Nomadenrouten im hohen Norden Nigers und dient als seltener Zufluchtsort im endlosen Sandmeer. Der Ort existiert hauptsächlich, um die transsaharischen Bewegungen der Tuareg-Familien zu unterstützen, und bietet neben Wasserstellen auch kleine Handelsposten für notwendige Grundgüter wie Tee, Salz und Hirse. Trotz der unwirtlichen Bedingungen ist Tassara ein wichtiger sozialer Treffpunkt, an dem Nachrichten zwischen den oft monatelang getrennten Karawanen ausgetauscht werden. Der Sternenhimmel über Tassara, völlig frei von Lichtverschmutzung, ist von atemberaubender Klarheit.",
+      hu: "Tassara egy újonnan fejlődő nomád város a Tahoua régió északi részén, amely kifejezetten a nomád lakosság letelepedésének elősegítésére jött létre. A város célja, hogy oktatási, egészségügyi és közigazgatási szolgáltatásokat nyújtson a vándorló arab és tuareg törzseknek. A település küzd a sivatagi környezet jelentette infrastrukturális nehézségekkel, de fontos kapocs a nomádok és az állam között. Társadalomtudomány K7 — nomádok letelepedési programjai.",
+      ro: "Tassara este o enclavă geografică spectaculoasă în nord-vestul regiunii Tahoua, locuită aproape exclusiv de familii de nomazi de origine arabă. Istoria sa este legată de migrația triburilor sudaneze în Niger, formând aici un oraș care, prin limbă și obiceiuri, se distinge total de cultura populațiilor tuareg sau hausa. Orașul este marcat de puțuri vitale ce alimentează un efectiv enorm de cămile și cai arabi folosiți la evenimente speciale. Deși trăiesc în corturi mari, rezidenții din Tassara sunt renumiți pentru influența politică națională și bogăția turmelor lor, făcând din acest pol izolat un centru de putere neașteptat. (Istorie K8 — migrațiile arabe în zona saheliană).",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Entscheidende Station auf nordnigrischen Nomadenrouten.", "Seltener Zufluchtsort im endlosen Sahara-Sandmeer.", "Unterstützt transsaharische Bewegungen der Tuareg.", "Bietet kleine Handelsposten für Tee, Salz und Hirse.", "Wichtiger sozialer Treffpunkt für Nachrichtenaustausch.", "Berühmt für extrem klaren, sternenreichen Nachthimmel."],
+      hu: ["Fiatal település, amelyet a nomádok integrálására alapítottak.", "Alapvető oktatási és egészségügyi szolgáltatásokat nyújt a pásztoroknak.", "Az arab és tuareg vándorló törzsek találkozási pontja.", "A szavanna és a Ténéré sivatag átmeneti határán található.", "Gazdasága a regionális állatpiacra és az államigazgatásra épül.", "Jelentős erőfeszítéseket tesznek a kutak fúrására és karbantartására."],
+      ro: ["Este centrul administrativ și cultural al populației minoritare arabo-saheliene.", "Triburile locale au migrat din Ciad și Sudan începând cu secolul al XIX-lea.", "Locuitorii cresc predominant rase faimoase de cămile și cai arabi valoroși.", "Nu există agricultură de subzistență, dieta fiind bazată pe lapte și carne.", "Un pol politic surprinzător de puternic având o influență extinsă la nivel național.", "Arhitectura se bazează pe mari așezăminte mobile din lână și pânză tare.", "Rutele de transport către Tassara sunt deosebit de izolate și greu practicabile."],
+      en: []
+    }
+  },
   {
     id: "bankilare-cities-v2",
     type: "city",
@@ -872,6 +1411,18 @@ export const poiExtraNigerCitiesV2: POI[] = [
       hu: ["Központi állatpiac.", "Bemutatja a helyi kultúrát."],
       ro: ["Piață centrală de animale.", "Prezintă cultura locală."],
       en: ["Central livestock market.", "Showcases local culture."]
+    },
+    descriptionAdvanced: {
+      de: "Bankilaré ist eine kleine, aber äußerst dynamische ländliche Gemeinde im Westen des Landes. Die Lebendigkeit des Ortes wird jeden Freitag unter Beweis gestellt, wenn der große Viehmarkt stattfindet und Händler aus den Nachbarländern Mali und Burkina Faso anlockt. Die Landschaft um Bankilaré besteht aus sanften Tälern, in denen während der kurzen Regenperiode kleine Wasserläufe entstehen, die den Anbau von Bohnen und Melonen erlauben. Die Stadt ist ein exzellentes Beispiel für die grenzüberschreitende wirtschaftliche Integration, die in der Sahelzone seit Jahrhunderten traditionell praktiziert wird.",
+      hu: "Bankilaré a Tillabéri régió egyik nyugati végpontja, amely a Liptako-Gourma térségben található, közvetlenül a Burkina Fasó-i határnál. A város lakossága meglehetősen sokszínű: tuaregek, songhaiok és fulanik élnek itt együtt. A gazdaság a helyi aranyásásra és a határon átnyúló állatkereskedelemre támaszkodik, miközben a település próbálja fenntartani a hagyományos életmódot a modern geopolitikai feszültségek közepette. Földrajz K8 — kézműves aranybányászat Afrikában.",
+      ro: "Bankilaré este cel mai vestic punct administrativ din Niger, poziționat pe un teritoriu fierbinte care formează faimoasa graniță a celor trei țări, Niger, Mali și Burkina Faso. Istoria așezării este una definită de schimburi intense, fiind locul tradițional de întâlnire pentru păstorii nomazi Peul și negustorii Dogon. Relieful accidentat și vegetația rară forțează locuitorii la un stil de viață nomad și alert. Astăzi, piața sa săptămânală funcționează ca un magnet comercial trinațional, în ciuda securității volatile. Orașul reprezintă cu mândrie tradițiile popoarelor frontaliere care sfidează diviziunile naționale. (Geografie K7 — frontierele africane și impactul lor).",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Dynamische ländliche Gemeinde im Westen Nigers.", "Berühmt für seinen großen, wöchentlichen Viehmarkt.", "Zieht Händler aus Mali und Burkina Faso an.", "Landschaft aus sanften Tälern und saisonalen Wasserläufen.", "Ermöglicht den lokalen Anbau von Bohnen und Melonen.", "Beispiel für grenzüberschreitende wirtschaftliche Integration."],
+      hu: ["A hármashatár régió (Liptako-Gourma) közelében található.", "Jelentős a hagyományos, kézműves aranyásás a környéken.", "Etnikailag rendkívül sokszínű (tuareg, songhai, fulani).", "Az állatkereskedelem Burkina Faso felé kiemelt fontosságú.", "Elszigetelt fekvése miatt az infrastruktúra fejlesztésre szorul.", "A helyi heti piac az egyik legnagyobb a térségben."],
+      ro: ["Orașul este poziționat în zona strategică cunoscută drept Liptako-Gourma.", "Acționează ca un teritoriu comercial pașnic între Niger, Mali și Burkina Faso.", "Așezarea este un epicentru pentru schimburile de animale ale triburilor Peul.", "A suferit numeroase strămutări ale locuitorilor săi pe timp de instabilitate.", "Piețele din Bankilaré sunt locuri unde circulă oficial trei monede naționale.", "Păstoritul de bovine Zebu reprezintă 90% din baza sa economică.", "Ecosistemul este unul de savană aridă cu precipitații neregulate extreme."],
+      en: []
     }
   },
   {
@@ -891,7 +1442,20 @@ export const poiExtraNigerCitiesV2: POI[] = [
       hu: ["Magányos oázis fekvés.", "A szelek által erősen formált."],
       ro: ["Locație de oază solitară.", "Puternic modelat de vânturi."],
       en: ["Lonely oasis location.", "Strongly shaped by winds."]
-    }, image: "/poi-images/tillia-cities-v2.webp"},
+    }, image: "/poi-images/tillia-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Tillia liegt tief im Nordwesten Nigers in der Region Tahoua und ist eine abgelegene Siedlung, die heroisch der vorrückenden feindlichen Wüstenlandschaft trotzt. Der Ort verdankt sein Überleben einer Reihe von uralten, artesischen Quellen, die das ganze Jahr über frisches Wasser liefern. Um diese Quellen hat sich ein komplexes System von kleinen Gärten gebildet, in denen Datteln und hitzeresistentes Gemüse angebaut werden. Für die vorbeiziehenden Karawanen und Nomaden der Azawagh-Senke ist Tillia nicht nur ein logistischer Lebensretter, sondern auch ein Ort tiefen kulturellen Austauschs und der Rast.",
+      hu: "Tillia egy forró, sivatagi falu Tahoua régió északi határán, amely a tuareg kultúra egyik legautentikusabb őrzője. A város hatalmas wadi-rendszerek (kiszáradt folyómedrek) mentén épült, amelyek az esős évszakban zöld legelőkké változnak, vonzva a pásztorokat. Tillia arról is ismert, hogy a hagyományos tuareg teveversenyek és fesztiválok fontos állomása az északi területeken. Történelem K6 — tuareg kultúra és hagyományok.",
+      ro: "Tillia este un oraș ascuns în nordul regiunii Tahoua, situat la nord-vest de Abalak, un paradis ascuns de dune masive de nisip care maschează depresiuni adânci capabile să rețină apă luni întregi. Aici se desfășoară una dintre cele mai pure expresii ale tradiției pastorale africane, neatinsă de influențele orașelor mari. Este inima zonei de pășunat pentru zeci de fracțiuni nomade Wodaabe. Infrastructura limitată menține localitatea ancorată în istorie, apa fiind obținută cu eforturi colosale folosind roți de lemn și scripeți manevrați de animalele de povară. Tillia rămâne un loc cu un profund sentiment de atemporalitate și izolare. (Istorie K8 — persistența comunităților pastorale izolate).",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Abgelegene Siedlung im tiefen Nordwesten der Tahoua-Region.", "Trotzt der vorrückenden feindlichen Wüstenlandschaft.", "Überleben basiert auf uralten, artesischen Quellen.", "Komplexes Gartensystem für Datteln und hitzeresistentes Gemüse.", "Logistischer Lebensretter für Nomaden der Azawagh-Senke.", "Wichtiger Ort für kulturellen Austausch und Rast."],
+      hu: ["Tahoua régió egyik legészakibb közigazgatási települése.", "Hatalmas wadi-rendszerek (száraz völgyek) veszik körül.", "A hagyományos tuareg teveversenyek kedvelt helyszíne.", "Kizárólag az extenzív, nomád tevetenyésztésből tartja fenn magát.", "Társadalmi élete szorosan kötődik az esős évszak ritmusához.", "A helyi kézművesség, főként a bőr- és fegyverművesség kiemelkedő."],
+      ro: ["Așezarea principală funcționează ca un imens adăpător sezonier pentru vite.", "Infrastructura tradițională folosește mecanisme ancestrale cu animale pentru apă.", "Este un pol vital al culturii de pășunat nealterată a nomazilor Wodaabe.", "Nu există drumuri asfaltate, accesul făcându-se exclusiv prin rute de nisip.", "Viața se organizează strict în jurul precipitațiilor care aduc renașterea pășunilor.", "Un centru unde autoritatea se bazează exclusiv pe liderii tribali tradiționali.", "Piața din Tillia se axează pe vânzarea sării din deșert adusă pe cămile."],
+      en: []
+    }
+  },
   {
     id: "belbedji-cities-v2",
     type: "city",
@@ -909,7 +1473,20 @@ export const poiExtraNigerCitiesV2: POI[] = [
       hu: ["Helyi kölestermesztés.", "A hausza lakosság települése."],
       ro: ["Cultivarea locală a meiului.", "Așezare a populației Hausa."],
       en: ["Local millet cultivation.", "Settlement of the Hausa population."]
-    }, image: "/poi-images/belbedji-cities-v2.webp"},
+    }, image: "/poi-images/belbedji-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Belbédji präsentiert sich als eine standhafte agrarische Bastion in den trockenen, weiten Ebenen der Region Zinder. Das Dorf steht landesweit für bemerkenswerte landwirtschaftliche Ausdauer, da die Bauern hier traditionelle 'Zaï'-Pflanzlöcher nutzen – eine Technik, die Regenwasser auffängt und direkt zu den Wurzeln der Hirsepflanzen leitet. Diese Anpassungsfähigkeit hat es Belbédji ermöglicht, trotz zunehmender klimatischer Herausforderungen stets ausreichend Nahrung zu produzieren. Die starke soziale Kohäsion der Gemeinde spiegelt sich in gemeinsamen Ernte-Aktionen und gemeinschaftlich gepflegten Getreidespeichern wider, die Hungersnöte erfolgreich verhindern.",
+      hu: "Belbédji egy tipikus száheli város, amely Zinder régió nyugati határán fekszik, és a nomád pásztorok, valamint a letelepedett haúsza földművesek békés együttélésének szimbóluma. A város gazdasága a földimogyoró, a köles és a szarvasmarha-kereskedelem kényes egyensúlyán nyugszik. Kiterjedt heti piacán mindkét életmód termékei gazdát cserélnek, így Belbédji kulcsszerepet játszik a régió élelmiszerellátásában. Társadalomtudomány K7 — agrár- és nomád gazdaságok szimbiózisa.",
+      ro: "Belbédji este o așezare sudică din regiunea Zinder cu rol predominant agrar, situată într-o depresiune fertilă naturală care a fost exploatată intens abia în ultimele decenii. Orașul a apărut ca o necesitate de descongestionare a polului Maradi-Zinder, oferind terenuri noi fermierilor tineri. Acum este un nod major de cultivare a alunelor de pământ și manioc. De asemenea, așezarea a promovat cu succes inițiative de stocare comunitară a recoltelor pentru a stabiliza prețurile locale. Belbédji reprezintă transformarea și adaptarea noilor generații de agricultori din Niger la o economie de piață orientată spre dezvoltare. (Geografie K7 — noile comunități agrare planificate).",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Standhafte agrarische Bastion in der trockenen Region Zinder.", "Bekannt für bemerkenswerte landwirtschaftliche Ausdauer.", "Nutzt traditionelle 'Zaï'-Pflanzlöcher zur Wasserspeicherung.", "Produziert trotz Dürren kontinuierlich Nahrungsmittel.", "Starke soziale Kohäsion bei gemeinsamen Ernte-Aktionen.", "Besitzt gemeinschaftlich gepflegte, präventive Getreidespeicher."],
+      hu: ["A haúsza földművesek és a nomád pásztorok találkozási pontja.", "Jelentős kereskedelmi csomópont a köles és a szarvasmarha számára.", "Zinder régió nyugati határvidékén, átmeneti övezetben fekszik.", "Élénk heti piaca az egész környék gazdasági motorja.", "Építészete egyszerű, lapos tetős agyagházakból áll.", "A vízgazdálkodás kritikus a város túlélése szempontjából."],
+      ro: ["Oraș cu dezvoltare recentă dedicat descongestionării rurale din zonele Zinder.", "Este lider în metodele de stocare și vânzare a cerealelor prin bănci comunitare.", "Un producător în plină ascensiune pentru piața națională de arahide și manioc.", "Beneficiază de un sol neobișnuit de fertil, favorizat de relieful de depresiune.", "Găzduiește anual târguri agricole majore care adună comercianți din capitală.", "Arhitectura se dezvoltă rapid dincolo de colibele din lut către beton.", "Guvernul susține aici ferme-școală pentru a crește eficiența agricolă sudică."],
+      en: []
+    }
+  },
   {
     id: "iferouane-cities-v2",
     type: "city",
@@ -927,7 +1504,20 @@ export const poiExtraNigerCitiesV2: POI[] = [
       hu: ["Tuareg kulturális központ.", "Ideális kiindulópont hegymászóknak."],
       ro: ["Centru cultural tuareg.", "Punct de plecare ideal pentru alpiniști."],
       en: ["Tuareg cultural center.", "Ideal starting point for mountaineers."]
-    }, image: "/poi-images/iferouane-cities-v2.webp"},
+    }, image: "/poi-images/iferouane-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Tief im Herzen des majestätischen Aïr-Gebirges verborgen, ist Iférouane eine wahrhaft verzauberte Oase, die Reisende mit ihren üppigen, schattigen Gärten überrascht. Der Ort profitiert von unterirdischen Wasseradern, die aus den felsigen Bergmassiven gespeist werden, und ermöglicht so den Anbau von Granatäpfeln, Trauben und Zitrusfrüchten in der absoluten Wüste. Historisch war Iférouane ein Rückzugsort für Karawanenführer und ist heute ein kulturelles Zentrum der Tuareg, die hier traditionelles Silberschmiedehandwerk in höchster Perfektion betreiben. Die atemberaubende vulkanische Kulisse macht das Dorf zu einem der landschaftlich schönsten Orte Nigers.",
+      hu: "Iférouane egy lenyűgöző oázisváros, amely az Air-hegység északi részének völgyeiben rejtőzik. A település a tuareg kultúra bölcsője, amely zöldellő pálmaligeteivel és termékeny kertjeivel földi paradicsomot alkot a zord hegyek között. A város híres az évente megrendezett \\\"Air Fesztiválról\\\", ahol a sivatagi zene, a költészet és a tevék versenyeznek. A térség turisztikai szempontból is kiemelkedő. Földrajz K8 — hegyvidéki oázisok a Szaharában.",
+      ro: "Iférouane se prezintă ca o bijuterie verde scufundată în peisajul de roci negre și lunare al Masivului Aïr din regiunea nordică Agadez. Orașul este recunoscut istoric ca una dintre cele mai spectaculoase oaze din deșertul Sahara, un nod comercial al caravanelor încă din antichitate. Cu mii de palmieri curmali, citrice și irigații care preiau cursul subteran din valea uedului, așezarea pare un miraj. Orașul este și locul de naștere al faimosului festival tuareg Cure Salée din munte și este vestit pentru meșteșugarii argintari care produc legendara Cruce Tuaregă de Iferouane. Din păcate, orașul este profund afectat de dispariția turiștilor. (Istorie K8 — meșteșugurile și oazele montane din Sahara).",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Verborgene, verzauberte Oase im majestätischen Aïr-Gebirge.", "Profitiert von unterirdischen Wasseradern aus Bergmassiven.", "Ermöglicht den Anbau von Granatäpfeln und Zitrusfrüchten.", "Kulturelles Zentrum der Tuareg-Nomaden.", "Berühmt für hochperfektes traditionelles Silberschmiedehandwerk.", "Umgeben von atemberaubender vulkanischer Bergkulisse."],
+      hu: ["Az Air-hegység északi részének legnagyobb oázisa.", "Rendkívül termékeny kertekkel és pálmaligetekkel rendelkezik.", "Házigazdája az évente megrendezett híres Air kulturális Fesztiválnak.", "A hagyományos tuareg zene (assouf) és művészet központja.", "Gazdasága a turizmusra, datolyára és a kézművességre épül.", "Lélegzetelállító vulkanikus hegycsúcsok veszik körül."],
+      ro: ["O așezare faimoasă din inima munților vulcanici Aïr din deșertul Sahara.", "Cunoscut pentru grădinile de curmali irigate din albii de râuri secate.", "Locul de origine al Crucii de Iférouane, o piesă majoră de argintărie tuaregă.", "Un centru esențial pentru popasul caravanelor antice transsahariene.", "Orașul găzduia mii de turiști internaționali anual înainte de crizele regionale.", "Păstrează urme geologice preistorice și picturi rupestre uimitoare în împrejurimi.", "A fost un pol strategic cheie în timpul rebeliunilor tuarege din anii 1990."],
+      en: []
+    }
+  },
   {
     id: "bilma-cities-v2",
     type: "city",
@@ -945,7 +1535,20 @@ export const poiExtraNigerCitiesV2: POI[] = [
       hu: ["A sótermelés központja.", "A Ténéré-sivatag közepén."],
       ro: ["Centrul producției de sare.", "În mijlocul deșertului Ténéré."],
       en: ["Center of salt production.", "In the middle of the Ténéré desert."]
-    }, image: "/poi-images/bilma-cities-v2.webp"},
+    }, image: "/poi-images/bilma-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Bilma, isoliert im Kaouar-Tal inmitten der gnadenlosen Ténéré-Wüste, ist in ganz Afrika legendär für seine jahrhundertealten Salzminen. Seit dem Mittelalter markiert dieser Ort den Endpunkt der historischen Karawanenrouten, bei denen Nomaden mit hunderten Kamelen anreisten, um das wertvolle Steinsalz gegen Getreide und Textilien einzutauschen. Die Salzgewinnung erfolgt noch heute nach alter Tradition in Verdunstungsbecken, die ein faszinierendes, schachbrettartiges Muster in der Wüste bilden. Bilma ist ein lebendes Museum des Transsaharahandels, das von einer kleinen, aber zutiefst stolzen Kanuri-Gemeinschaft erhalten wird.",
+      hu: "Bilma a Ténéré sivatag keleti peremén fekvő legendás oázis, amely évszázadok óta a szaharai sókereskedelem szíve. A város ősi sólepárló medencéiből (kawar) fejtik ki a sót, amelyet a híres Azalai tevekaravánok szállítanak Agadez és Dél-Niger felé. A települést datolyapálmák sűrű erdeje védi a folyamatosan vándorló homokdűnéktől. Bilma a szaharai túlélés és alkalmazkodás lenyűgöző példája. Történelem K8 — az Azalai sókaravánok.",
+      ro: "Bilma este ultimul mare avanpost locuibil la capătul deșertului Ténéré, o așezare străveche așezată de-a lungul stâncilor Kaouar care a definit comerțul african timp de secole. Orașul este faimos mondial pentru minele sale ancestrale de sare, unde bazinele multicolore de evaporare produc până și astăzi sare de calitate brută și rafinată. Până la apariția transportului modern, faimoasele caravane Azalai traversau sute de kilometri de nisip pustiu de la Agadez pentru a face schimb de cereale pentru sarea de Bilma. Orașul reprezintă o relicvă vie, absolut spectaculoasă, a comerțului saharian. (Istorie K8 — rutele caravaniere de sare).",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Isoliert im Kaouar-Tal der Ténéré-Wüste gelegen.", "In ganz Afrika legendär für jahrhundertealte Salzminen.", "Endpunkt historischer, mittelalterlicher Karawanenrouten.", "Salz wird noch heute in traditionellen Verdunstungsbecken gewonnen.", "Schachbrettartiges Muster der Becken prägt die Landschaft.", "Lebendes Museum des historischen Transsaharahandels."],
+      hu: ["A Ténéré sivatag egyik legismertebb és legelzártabb oázisa.", "Évszázadok óta az afrikai sókitermelés (natron és asztali só) központja.", "A híres Azalai tevekaravánok végállomása és indulási pontja.", "Hatalmas pálmaliget védi a települést a homokviharoktól.", "Lakossága a kanuri és toubou (tubu) népcsoportokból áll.", "Történelmileg az iszlám kereskedők fontos szaharai bázisa."],
+      ro: ["Este punctul final tradițional al uneia dintre cele mai periculoase rute din deșert.", "Cunoscut internațional pentru bazinele sale uriașe de extracție a sării.", "Sarea de Bilma este exportată tradițional sub formă de blocuri numite kantu.", "Așezarea este construită sub umbra stâncilor oazei Kaouar pentru a evita vânturile.", "Populația locală este formată majoritar din etnia Toubou și Kanouri.", "Caravana de cămile călătorea săptămâni întregi prin Sahara până aici.", "Temperatura estivală este printre cele mai extreme de pe planetă, izolând așezarea."],
+      en: []
+    }
+  },
   {
     id: "fachi-cities-v2",
     type: "city",
@@ -963,7 +1566,20 @@ export const poiExtraNigerCitiesV2: POI[] = [
       hu: ["Történelmi vályogerőd.", "Biztosítóállomás a sókereskedelemhez."],
       ro: ["Fortăreață istorică de lut.", "Post de securitate pentru comerțul cu sare."],
       en: ["Historic mud fortress.", "Security post for the salt trade."]
-    }, image: "/poi-images/fachi-cities-v2.webp"},
+    }, image: "/poi-images/fachi-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Völlig umgeben von wogenden Sandmeeren der Sahara, ist das kleine, ummauerte Dorf Fachi ein wahres Wunder menschlicher Überlebenskunst. Die Siedlung, die fast wie eine Festung gegen die Wüste wirkt, verdankt ihre Existenz einer einzigen, lebensspendenden Oase, um die sich die Dattelpalmen drängen. Historisch diente die massive Lehmmauer, die die Altstadt umgibt, als Schutz vor Plünderern und Wüstenstürmen. Heute ist Fachi ein friedlicher, aber isolierter Außenposten, in dem die Zeit stehen geblieben zu sein scheint und die Bewohner durch Dattelernte und Salzabbau ein genügsames Leben führen.",
+      hu: "Fachi egy apró, fallal körülvett erőd-oázis a Ténéré sivatag közepén, úton Agadez és Bilma között. A települést egy ősi agyagerődítmény, a \\\"ksar\\\" védi, amely történelmileg menedéket nyújtott a lakosoknak a sivatagi rablókkal szemben. A város lakói kizárólag a sószállításra megálló karavánok kiszolgálásából és a datolyatermesztésből élnek a Föld egyik legszélsőségesebb éghajlatú pontján. Földrajz K7 — erődített oázisok és túlélés.",
+      ro: "Fachi este o mică dar fortificată oază de neclintit aflată la jumătatea distanței infernale dintre Agadez și Bilma, chiar în mijlocul mării de nisip a deșertului Ténéré. Orașul a fost construit strategic ca un fort în mijlocul neantului, zidurile sale înalte din sare, nămol și argilă fiind ridicate în trecut pentru a proteja locuitorii de raidurile nomade. Cu doar câteva sute de familii care se ocupă de extracția sării și îngrijirea curmalelor, Fachi este un miracol al supraviețuirii umane. Astăzi, doar ocazionalele convoaie comerciale perturbă liniștea absolută a acestui colț uitat de timp. (Istorie K8 — supraviețuirea în ecosisteme extreme).",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Völlig umgeben von Sandmeeren der Sahara.", "Ummauertes Dorf als Wunder menschlicher Überlebenskunst.", "Existenz verdankt einer einzigen lebensspendenden Oase.", "Massive Lehmmauer schützte einst vor Wüstenstürmen.", "Bewohner leben ein genügsames Leben durch Dattelernte.", "Wirkt wie ein Außenposten, an dem die Zeit stehen blieb."],
+      hu: ["Elszigetelt oázis az Agadez és Bilma közötti karavánúton.", "Egyedülálló, ősrégi agyagerődítmény (ksar) található a központjában.", "Lakossága kizárólag a sókaravánok kiszolgálásából tartja fenn magát.", "Kizárólag a kanuri és toubou nyelvjárásokat beszélik.", "A világ egyik legforróbb és legszárazabb klímájú települése.", "A magas homokdűnék miatt közúton rendkívül nehezen megközelíthető."],
+      ro: ["Situat exact la mijlocul mării de nisip dintre masivul Aïr și stâncile Kaouar.", "A fost protejat istoric de ziduri înalte din sare și nămol, parțial vizibile azi.", "Orașul este o oază critică de tranzit pentru puținele caravane tuarege rămase.", "Locuitorii obțin apă potabilă din câteva fântâni adânci susținute artificial.", "Economia se bazează strict pe recoltarea curmalelor dulci și extracția sării.", "Izolarea localității a împiedicat crearea unor drumuri asfaltate moderne.", "A suferit numeroase asedii în secolele trecute datorită prezenței apei sale prețioase."],
+      en: []
+    }
+  },
   {
     id: "dirkou-cities-v2",
     type: "city",
@@ -981,7 +1597,20 @@ export const poiExtraNigerCitiesV2: POI[] = [
       hu: ["Migráns útvonalak megállója.", "Katonailag biztosított zóna."],
       ro: ["Oprire pentru rutele migranților.", "Zonă asigurată militar."],
       en: ["Stop for migrant routes.", "Militarily secured zone."]
-    }, image: "/poi-images/dirkou-cities-v2.webp"},
+    }, image: "/poi-images/dirkou-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Dirkou ist die wichtigste Transitsiedlung auf den nördlichen Wüstenrouten und verbindet Niger direkt mit den alten Karawanenwegen nach Libyen. In jüngerer Zeit hat die Stadt eine hohe geopolitische Bedeutung erlangt und sich zu einem logistischen Drehkreuz für Transporte und Sicherheitskräfte entwickelt. Trotz des rauen Klimas herrscht in Dirkou aufgrund des ständigen Durchgangsverkehrs von Lastwagen, Händlern und Reisenden eine rastlose Betriebsamkeit. Umgeben von atemberaubenden, windgepeitschten Sanddünen, bietet der Ort eine raue, funktionale Ästhetik und dient als letzter großer Versorgungsposten vor der Überquerung der nördlichen Sahara.",
+      hu: "Dirkou a Kawar-völgy északi végvárának számító stratégiai oázisváros, amely ma az észak-afrikai migrációs útvonalak és a csempészutak egyik legfontosabb csomópontja. A történelmi só- és datolyakereskedelmet mára nagyrészt felváltotta a tranzitforgalom kiszolgálása és a Líbia felé tartó utazók támogatása. A városban jelentős katonai jelenlét biztosítja az ország északi határainak védelmét. Társadalomföldrajz K8 — transzszaharai migráció.",
+      ro: "Dirkou este o oază vitală din regiunea extrem nord-estică Kaouar, la nord de Bilma, servind în mod istoric și modern ca poartă principală de trecere către statul vecin, Libia. Dacă în trecut era un punct de vamă pentru mirodenii și aur, în deceniile recente Dirkou s-a transformat într-un avanpost administrativ și de tranzit masiv pentru imigranții care încearcă traversarea periculoasă spre nord. Această schimbare geopolitică a adus la transformarea micii așezări într-un centru efervescent de trafic cu combustibil, garaje de vehicule de teren și refugii de tranzit, definind-o ca un epicentru de graniță. (Geografie K7 — rutele de migrație și geopolitica).",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Wichtigste Transitsiedlung auf den nördlichen Wüstenrouten.", "Verbindet Niger direkt mit historischen Wegen nach Libyen.", "Logistisches Drehkreuz für Transporte und Sicherheitskräfte.", "Rastlose Betriebsamkeit durch ständigen Durchgangsverkehr.", "Umgeben von windgepeitschten, riesigen Sanddünen.", "Letzter großer Versorgungsposten vor der nördlichen Sahara."],
+      hu: ["A Kawar-oázisrendszer legészakibb, kulcsfontosságú települése.", "A Líbia felé tartó modern transzszaharai migráció csomópontja.", "Kiemelkedő katonai bázissal rendelkezik az északi határ védelmére.", "Történelmileg fontos oázis volt a só- és rabszolgakereskedelemben.", "Gazdasága a tranzitutasok és kamionosok kiszolgálására épül.", "Klímahajlatát állandó, erős sivatagi szelek és hőség jellemzik."],
+      ro: ["O oază nordică pe ruta istorică Kaouar, faimoasă pentru curmale și apă dulce.", "Reprezintă ultima mare localitate administrativă a Nigerului înainte de Libia.", "Găzduiește un trafic imens de vehicule off-road folosite pentru transportul migranților.", "Locuitorii originari sunt triburile Toubou, specializați în comerț trans-saharian.", "Este faimos pentru comerțul neoficial dar extins de combustibil din nord.", "Include o garnizoană militară importantă și un aerodrom strategic.", "Localitatea depinde complet de importurile de alimente venite prin deșert."],
+      en: []
+    }
+  },
   {
     id: "ingall-cities-v2",
     type: "city",
@@ -999,7 +1628,20 @@ export const poiExtraNigerCitiesV2: POI[] = [
       hu: ["Egykori rezidenciaváros.", "Rendelkezik egy sólepárló fesztivállal."],
       ro: ["Fost oraș de reședință.", "Găzduiește un festival al salinelor."],
       en: ["Former residence city.", "Features a salt flat festival."]
-    }, image: "/poi-images/ingall-cities-v2.webp"},
+    }, image: "/poi-images/ingall-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "In'gall, ein historisches Rückzugsgebiet alter Sultane am Rande der Sahara, verzaubert Besucher mit seinen engen Gassen, jahrhundertealten Moscheen und faszinierenden Lehmruinen. Die Stadt ist das Epizentrum des jährlichen 'Cure Salée', dem Fest der Nomaden, bei dem sich tausende Tuareg und Wodaabe versammeln, um Eheschließungen zu verhandeln und das Ende der Regenzeit zu feiern. Die Region ist zudem berühmt für die nahegelegenen prähistorischen Dinosaurier-Ausgrabungsstätten und jahrtausendealten Felszeichnungen, die belegen, dass diese heute trockene Region einst ein blühendes, tierreiches Ökosystem war. In'gall ist ein Ort tiefer historischer und kultureller Resonanz.",
+      hu: "In-Gall az Agadez régió történelmi települése, amely különleges agyagépítészetéről és az évente megrendezett \\\"Cure Salée\\\" (Sós Kúra) fesztiválról világhírű. Szeptemberben több ezer tuareg és wodaabe nomád érkezik ide, hogy állataikat a helyi ásványi anyagokban gazdag forrásoknál megitassák. A város egyúttal a szaharai iszlám tudományosság egyik korai bázisa is volt, régi mecsetjének minaretje messziről kimagaslik. Történelem K7 — nomád hagyományok és ünnepek.",
+      ro: "Ingall este un mic oraș-oază la vest de Agadez, cu o profundă rezonanță istorică și agricolă, fiind locul în care se cultivă una dintre cele mai exclusiviste recolte de pe continent: curmalele rare din oaze izolate. Mai mult, Ingall a fost punctul central al întâlnirilor tradiționale pan-tuarege, locul originar al marii sărbători anuale a Sării, unde mii de nomazi veneau să vândă cămile și să își celebreze uniunile. Relieful sălbatic adăpostește importante depozite naturale de sare și izvoare minerale sulfuroase foarte căutate pentru sănătatea animalelor de pășune, făcând din Ingall o destinație esențială în circuitul sezonier nordic. (Istorie K8 — centrele comerciale de oază și festivalurile).",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Historisches Rückzugsgebiet alter Sultane am Rande der Sahara.", "Epizentrum des jährlichen Nomadenfestes 'Cure Salée'.", "Berühmt für enge Gassen, alte Moscheen und Lehmruinen.", "Sammelplatz für Tuareg und Wodaabe nach der Regenzeit.", "Nahegelegene Ausgrabungsstätten bezeugen prähistorisches Leben.", "Ort tiefer historischer und kultureller Resonanz."],
+      hu: ["Világhírű a Cure Salée (Sós Kúra) nomád fesztivál házigazdájaként.", "Az állatok számára elengedhetetlen ásványi források találhatók itt.", "Jellegzetes, ősi szaharai agyagépítészettel rendelkezik.", "Egykor fontos szaharai iszlám tudományos és oktatási központ volt.", "A wodaabe és tuareg kultúrák békés találkozóhelye.", "Az oázisban minőségi datolyát és sót termelnek."],
+      ro: ["Orașul este faimos la nivel național pentru producția unor soiuri rare de curmale.", "Locația tradițională unde se adunau turmele pentru evenimentul Cure Salée.", "Înconjurat de o vastă zonă argiloasă unde vitele consumă pământ bogat în săruri.", "Include clădiri vechi influențate de arhitectura arabă și tuaregă precolonială.", "Zona este traversată de fosile hidrologice secate cunoscute drept kori.", "Agricultura locală a suferit dramatic din cauza epuizării fântânilor tradiționale.", "Rămâne un sanctuar turistic cultural, păstrând artizanatul autentic din argint."],
+      en: []
+    }
+  },
   {
     id: "kantche-cities-v2",
     type: "city",
@@ -1017,7 +1659,20 @@ export const poiExtraNigerCitiesV2: POI[] = [
       hu: ["Peperoni-termesztéséről ismert.", "Élénk közösségi élet."],
       ro: ["Cunoscut pentru cultivarea de ardei iute.", "Viață comunitară vibrantă."],
       en: ["Known for pepperoni cultivation.", "Vibrant community life."]
-    }, image: "/poi-images/kantche-cities-v2.webp"},
+    }, image: "/poi-images/kantche-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Kantché ist ein überaus malerisches landwirtschaftliches Zentrum im Süden Nigers, das sich durch seine ausgedehnten, sorgfältig bestellten Felder auszeichnet. Die Gemeinde, die mehrheitlich von der Hausa-Ethnie bewohnt wird, nutzt die relativ verlässlichen Regenfälle der Region, um Hirse, Sorghum und Augenbohnen anzubauen. Neben dem Pflanzenbau ist Kantché bekannt für seine handwerkliche Tradition, insbesondere für die Herstellung von aufwendigen Korbwaren und geflochtenen Matten, die auf den lokalen Märkten hoch gehandelt werden. Die Region hat zudem beachtliche Erfolge bei lokalen Mikrokreditprojekten für Frauen verzeichnet, die die wirtschaftliche Unabhängigkeit der Familien nachhaltig gestärkt haben.",
+      hu: "Kantché egy csendes, történelmi falu Zinder régióban, amely a hagyományos haúsza építészet egyik legszebb fennmaradt példája. A település agyagból épült, lapos tetejű házai szorosan simulnak egymáshoz, védekezve a forró sivatagi szél ellen. A lakosság főleg a földimogyoró és köles termesztésére támaszkodik, miközben a helyi kézművesek generációk óta öröklődő technikákkal készítenek agyagedényeket és szőtteseket. Történelem K6 — haúsza agyagépítészet.",
+      ro: "Kantché este un centru rural situat în estul regiunii Zinder, faimos pentru pământurile sale care favorizează intens cultivarea arahidelor și a bumbacului, moștenind tradiția agricolă puternică a populației Hausa. Orașul este martorul unor transformări dramatice, unde agricultorii depun eforturi considerabile de adaptare la secetele ciclice prin diversificarea culturilor cu mei și sorg. Din punct de vedere istoric, comunitățile locale au păstrat o autonomie decizională solidă, bazându-se pe rețelele de solidaritate dintre familii. Deși nu dispune de infrastructură turistică, Kantché este un exemplu autentic de așezare sudaneză. (Geografie K7 — adaptabilitatea agriculturii rurale).",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Malerisches landwirtschaftliches Zentrum im südlichen Niger.", "Bewohnt mehrheitlich von der traditionellen Hausa-Ethnie.", "Profitiert von relativ verlässlichen saisonalen Regenfällen.", "Bekannt für aufwendige Korbwaren und geflochtene Matten.", "Erfolgreiche Mikrokreditprojekte stärken lokale Frauen.", "Großflächiger Anbau von Hirse, Sorghum und Augenbohnen."],
+      hu: ["A hagyományos haúsza agyagépítészet élő múzeuma.", "Kisméretű mezőgazdasági település Zinder régióban.", "A lakosság főleg földimogyoróval és kölessel foglalkozik.", "Kiemelkedő a helyi agyagművesség és szövés.", "A házak szorosan épültek a homokviharok elleni védekezésként.", "Történelmileg a Damagaram Szultanátushoz tartozott."],
+      ro: ["Situat pe pământurile tradiționale agricole ale regiunii estice Zinder.", "Populația predominant Hausa practică agricultura de subzistență avansată.", "Este un producător istoric de bumbac și arahide pentru piețele locale.", "Înregistrează un exod sezonier masiv al tinerilor spre marile centre urbane.", "Dispune de un sistem complex de păstrare a apei pe parcursul sezonului uscat.", "Agricultura a fost parțial readaptată către culturile mai rezistente la secetă.", "Găzduiește piețe periodice care atrag comercianți din nordul Nigeriei."],
+      en: []
+    }
+  },
   {
     id: "kornaka-cities-v2",
     type: "city",
@@ -1035,7 +1690,20 @@ export const poiExtraNigerCitiesV2: POI[] = [
       hu: ["A szarvasmarha-tenyésztők magas aránya.", "Messzire nyúló földterület."],
       ro: ["Proporție mare de crescători de vite.", "Teren extins."],
       en: ["High proportion of cattle farmers.", "Extensive land."]
-    }, image: "/poi-images/kornaka-cities-v2.webp"},
+    }, image: "/poi-images/kornaka-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Kornaka fungiert als ruhiges und stabilisierendes Bindeglied zwischen den weiten, trockenen Savannen im Norden und den geschäftigeren, städtischen Zentren im tiefen Süden Nigers. Die Wirtschaft der Gemeinde stützt sich auf einen ausgewogenen Mix aus nomadischer Viehzucht und sesshaftem Ackerbau, wobei sich die Bevölkerung perfekt an die oft unberechenbaren klimatischen Zyklen angepasst hat. In jüngster Zeit hat Kornaka durch den Ausbau lokaler Bildungseinrichtungen an Bedeutung gewonnen, was junge Menschen in der Region hält. Der wöchentliche Markt ist ein wichtiger Treffpunkt für den Austausch von landwirtschaftlichen Produkten und Vieh.",
+      hu: "Kornaka egy rendkívül gyorsan növekvő agrárváros Maradi régióban, amely a \\\"nigériai gazdasági mágnes\\\" hatását mutatja. A hatalmas, termékeny síkságon fekvő település rengeteg belső migránst vonzott az elmúlt évtizedben, akik a jobb földművelési lehetőségeket keresik. Bár a gazdaság fellendült, a gyors demográfiai növekedés komoly terhet ró a helyi vízellátásra és az oktatási rendszerre. Társadalomföldrajz K8 — belső migráció és urbanizáció.",
+      ro: "Kornaka, localizat în vasta regiune Maradi, este definit de o economie duală bazată pe o combinație strânsă între agricultura sezonieră a populațiilor sedentare și comerțul extins cu animalele nomazilor care tranzitează zona. Fiind amplasat la nord de drumurile principale, localitatea suferă un grad ridicat de izolare pe timp de ploi torențiale. Târgurile săptămânale din Kornaka sunt renumite pentru vitele de o calitate excepțională și schimbul intens de cunoștințe tradiționale legate de supraviețuirea în deșertul semi-arid. Tradițiile islamice se împletesc cu obiceiurile ancestrale, dând așezării un caracter cultural profund nuanțat. (Istorie K8 — interacțiuni interetnice în regiunile de tranziție).",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Ruhiges Bindeglied zwischen nördlichen Savannen und Süd-Städten.", "Wirtschaft basiert auf Mix aus Viehzucht und Ackerbau.", "Bevölkerung hoch anpassungsfähig an unberechenbares Klima.", "Bedeutungsgewinn durch Ausbau lokaler Bildungseinrichtungen.", "Wöchentlicher Markt als wichtiger wirtschaftlicher Treffpunkt.", "Zieht durch verbesserte Infrastruktur junge Familien an."],
+      hu: ["Az egyik leggyorsabban növekvő város Maradi régióban.", "Erős belső migrációs célpont a termékeny földek miatt.", "A nigériai határkereskedelem élénkítő hatással van rá.", "A vízhiány a gyors lakosságnövekedés egyik fő kihívása.", "Mezőgazdasága a gabonafélékre és hüvelyesekre épül.", "Kiváló példája az afrikai vidéki urbanizációnak."],
+      ro: ["Funcționează ca un nod comercial între fermierii din sud și nomazii din nord.", "Târgul său săptămânal este axat masiv pe vânzarea de bovine și ovine.", "Situat într-o regiune profund rurală a departamentului Maradi.", "A suferit adesea din cauza izolării pe timpul scurtului sezon ploios.", "Un exemplu clar de coexistență pașnică între etniile sedentare și cele nomade.", "Relieful este dominat de pășuni uscate cu acoperire arboricolă rară.", "Produsele lactate locale sunt esențiale pentru alimentația zilnică a zonei."],
+      en: []
+    }
+  },
   {
     id: "malbaza-cities-v2",
     type: "city",
@@ -1053,7 +1721,20 @@ export const poiExtraNigerCitiesV2: POI[] = [
       hu: ["A cementgyártás központja.", "Sok gyári munkahelyet kínál."],
       ro: ["Centrul producției de ciment.", "Oferă multe locuri de muncă în fabrică."],
       en: ["Center of cement production.", "Offers many factory jobs."]
-    }, image: "/poi-images/malbaza-cities-v2.webp"},
+    }, image: "/poi-images/malbaza-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Malbaza ist in ganz Niger ein fester Begriff für industrielle Produktion, dominiert von einer gewaltigen Zementfabrik, die den Ort zu einem der wenigen wirklich industriellen Eckpfeiler des Landes macht. Die Fabrik nutzt die immensen lokalen Kalksteinvorkommen der Region Tahoua und versorgt einen Großteil der wachsenden nigrischen Bauwirtschaft. Durch die industrielle Aktivität hat sich Malbaza schnell von einem kleinen Dorf zu einer städtischen Siedlung mit verbesserter Infrastruktur, Gesundheitsversorgung und festen Arbeitsplätzen entwickelt. Die Dynamik der Fabrik zieht zahlreiche Arbeiter aus dem ganzen Land an und prägt den urbanen Charakter des Ortes.",
+      hu: "Malbaza egy ipari fókuszú település Tahoua régióban, amely országos ismertségét az itt található jelentős cementgyárnak köszönheti. A gyár nemcsak a város, hanem egész Niger építőiparának alapköve, mivel a helyben bányászott mészkőre épül. Az ipari jelleg ellenére a város megőrizte haúsza kulturális gyökereit, és a mezőgazdaság is fontos kiegészítő jövedelemforrás maradt a lakosság számára. Kémia és földrajz K8 — mészkőbányászat és cementipar.",
+      ro: "Malbaza este unul dintre cele mai industrializate orașe mici din regiunea Tahoua, datorită prezenței îndelungate a uriașei uzine de ciment. Uzina a atras mii de lucrători de-a lungul deceniilor, creând un peisaj urban unic unde structurile industriale din beton se amestecă printre câmpurile tradiționale de ceapă cultivată în văile apropiate. Acest contrast fascinant face din Malbaza un adevărat motor economic al zonei, oferind materiale vitale pentru infrastructura din întreaga țară și modificând radical structura ocupațională a locuitorilor săi, dintr-o viață agrară, într-una semi-industrială. (Geografie K7 — industria grea și transformarea urbană).",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Fester Begriff für industrielle Zementproduktion in Niger.", "Dominiert von einer gewaltigen, national wichtigen Zementfabrik.", "Nutzt immense lokale Kalksteinvorkommen der Region Tahoua.", "Versorgt einen Großteil der wachsenden nigrischen Bauwirtschaft.", "Entwickelte sich rasch von einem Dorf zur städtischen Siedlung.", "Bietet feste Arbeitsplätze und zieht landesweit Arbeiter an."],
+      hu: ["Az ország egyik legfontosabb cementgyára itt működik.", "A helyi mészkőkészletekre alapozva épült ki az ipar.", "Jelentős munkáltató Tahoua régió déli részén.", "Az ipari fókusz ellenére a mezőgazdaság is jelen van.", "Kulcsszereplő a nigeri infrastruktúra-fejlesztésben.", "Erős haúsza kulturális hagyományokkal rendelkezik."],
+      ro: ["Cunoscut în toată țara datorită marii sale fabrici producătoare de ciment.", "Reprezintă unul dintre puținele centre industriale din zona rurală a țării.", "Uzina din Malbaza susține dezvoltarea infrastructurii naționale moderne.", "Orașul este împărțit vizual între sectorul industrial și terenurile agricole irigate.", "Cultivatorii de aici participă la piața masivă de ceapă, similar cu Galmi.", "Populația a crescut dramatic odată cu diversificarea industriei materialelor de construcții.", "Traficul greu de camioane domină peisajul cotidian al orașului."],
+      en: []
+    }
+  },
   {
     id: "loga-cities-v2",
     type: "city",
@@ -1071,7 +1752,20 @@ export const poiExtraNigerCitiesV2: POI[] = [
       hu: ["Kedvező talajvíz.", "Tipikus szárazgazdálkodó falu."],
       ro: ["Apă subterană favorabilă.", "Sat tipic de agricultori pe uscat."],
       en: ["Favorable groundwater.", "Typical dry farming village."]
-    }, image: "/poi-images/loga-cities-v2.webp"},
+    }, image: "/poi-images/loga-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Eingebettet in das weitläufige Dosso-Departement, verdankt Loga seine landwirtschaftliche Vitalität dem historischen Dallol-Tal-System, einem Netzwerk aus fossilen Flussbetten. Diese geografische Besonderheit speichert Grundwasser sehr nahe an der Oberfläche, wodurch Bauern selbst während der Trockenzeit Brunnen für die Bewässerung ihrer Felder graben können. Loga ist ein bedeutender Produzent von Maniok und verschiedenen Gemüsesorten. Die Gemeinde ist auch kulturell bedeutsam, da hier traditionelle Djerma-Feste gefeiert werden, die die tiefe Verbundenheit der Menschen mit den historischen Rhythmen von Regen- und Trockenzeit zelebrieren.",
+      hu: "Loga egy kis mezőgazdasági város Dosso régióban, amely a száraz évszakban is kitartó, apró forrásainak és kútjainak köszönheti túlélését. A település a zarma kultúra mélyen gyökerező hagyományait őrzi, ahol a helyi vezetők, a \\\"chef de canton\\\"-ok ma is fontos szerepet töltenek be a viták rendezésében. Loga környéke egyúttal fontos tranzitútvonal a nomád fulani pásztorok számára is. Társadalomföldrajz K7 — afrikai törzsi vezetés.",
+      ro: "Loga, aflat în regiunea de sud-vest Dosso, este un oraș cu rădăcini adânci în istoria regatelor Zarma-Songhai. Relieful său plat, întrerupt din când în când de grupuri de baobabi gigantici și salcâmi, este caracteristic savanei sudaneze clasice. Principala activitate de aici este cultivarea meiului, care este indisolubil legată de tradițiile religioase animiste Bori practicate încă într-o manieră sincretică alături de islam. Loga, prin curțile sale tradiționale și satele satelit, păstrează vie memoria vremurilor când căpeteniile locale administrau o rețea de securitate împotriva expansiunii regatelor nordice. (Istorie K8 — sincretismul religios și societățile sudaneze).",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Gelegen im weitläufigen Dosso-Departement.", "Verdankt Vitalität dem historischen Dallol-Tal-System.", "Grundwasser liegt in fossilen Flussbetten nah an der Oberfläche.", "Ermöglicht Feld-Bewässerung selbst während der Trockenzeit.", "Bedeutender Produzent von Maniok und frischem Gemüse.", "Kulturelles Zentrum für traditionelle Djerma-Feste."],
+      hu: ["A zarma (djerma) népcsoport egyik hagyományos települése.", "A hagyományos törzsi vezetők ma is komoly befolyással bírnak.", "A vízellátást mély kutak biztosítják a száraz hónapokban.", "A mezőgazdaság alapját a cirok és a köles képezi.", "A fulani pásztorok fontos vándorlási útvonalán fekszik.", "Dosso régió csendes, vidéki adminisztratív központja."],
+      ro: ["Este o așezare dominată cultural și demografic de grupul etnic Zarma.", "Cunoscut pentru păstrarea parțială a ceremoniilor spirituale preislamice Bori.", "Depinde de agricultura extensivă a meiului și creșterea ovinelor.", "Relieful din jurul său este o savană plană marcată de copaci mari de baobab.", "A servit drept punct de organizare împotriva invaziilor dinspre nordul deșertic.", "Piețele locale promovează obiecte artizanale din lemn și fibre vegetale.", "Satele înconjurătoare se bucură de pânze freatice bogate, dar greu accesibile."],
+      en: []
+    }
+  },
   {
     id: "balleyara-cities-v2",
     type: "city",
@@ -1089,6 +1783,18 @@ export const poiExtraNigerCitiesV2: POI[] = [
       hu: ["A környék legnagyobb állatpiaca.", "Számos etnikum találkozási pontja."],
       ro: ["Cea mai mare piață de animale din zonă.", "Punct de intersecție a multor etnii."],
       en: ["Largest animal market in the area.", "Intersection of many ethnic groups."]
+    },
+    descriptionAdvanced: {
+      de: "Balleyara explodiert regelrecht vor purer Energie und Farbenpracht, wenn jeden Sonntag sein landesweit bekannter Viehmarkt stattfindet, der zu den größten Westafrikas zählt. Dieser Markt zieht Tausende von Händlern, Viehzüchtern und Handwerkern aus Niger, Mali und Burkina Faso an. Neben hochgewachsenen Kamelen, Rindern und Schafen werden hier auch traditionelle Tuareg-Schwerter, aufwendiger Silberschmuck und bunte Textilien feilgeboten. Balleyara ist nicht nur ein Wirtschaftsmotor, sondern ein faszinierender kultureller Schmelztiegel, in dem die diversen Ethnien der Sahelzone wöchentlich zusammenkommen, um Nachrichten, Waren und Traditionen auszutauschen.",
+      hu: "Balleyara országos hírű vasárnapi állatpiacáról ismert, amely az egyik legnagyobb egész Nigerben. A Tillabéri régióban, Niameytől nem messze fekvő város hetente egyszer óriási tömegeket vonz: tuareg, fulani és djerma kereskedők hozzák ide tevéiket, szarvasmarháikat és juhaikat. A piac mellett a település fontos logisztikai csomópont is, amely összeköti a fővárost az északkeleti sivatagi régiókkal. Földrajz K6 — regionális állatpiacok.",
+      ro: "Balleyara se află la o scurtă distanță de capitala Niamey și a devenit renumit pe continent pentru piața sa spectaculoasă de duminică, una dintre cele mai vaste și fascinante piețe de animale din toată Africa de Vest. Triburile Tuareg, Peul și Zarma călătoresc zile întregi pentru a ajunge aici cu turme de zebu, cămile și ovine, creând o mare colorată de oameni și animale. Orașul în sine este un amestec zgomotos de negustori, meșteșugari și turiști, unde poți găsi totul, de la unelte agricole la medicamente tradiționale, ilustrând forța economică extraordinară a schimburilor rurale nigeriene. (Geografie K7 — marile piețe africane).",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Beheimatet einen der größten sonntäglichen Viehmärkte Westafrikas.", "Zieht wöchentlich Tausende Händler aus drei Ländern an.", "Zentraler Handelsplatz für Kamele, Rinder und Schafe.", "Bietet traditionellen Silberschmuck und Tuareg-Schwerter.", "Wichtiger Wirtschaftsmotor für die gesamte umliegende Region.", "Faszinierender kultureller Schmelztiegel der Sahel-Ethnien."],
+      hu: ["Az ország egyik legnagyobb és leghíresebb heti állatpiaca.", "A vasárnapi piac napokon a lakosság többszörösére duzzad.", "Stratégiai útvonalon fekszik Niamey és az északi területek között.", "Tuareg, fulani és zarma kereskedők olvasztótégelye.", "A tevék és szarvasmarhák kereskedelme a gazdaság alapja.", "A főváros húsellátásának egyik legfőbb biztosítója."],
+      ro: ["Găzduiește una dintre cele mai mari piețe de animale din întreaga Africă de Vest.", "Târgul săptămânal are loc duminica și reunește mii de nomazi și fermieri.", "Aflat la mai puțin de o sută de kilometri est de capitala națională Niamey.", "Animalele sunt vândute masiv pentru a aproviziona abatoarele metropolei.", "Constituie un pol crucial pentru stabilirea prețurilor la carne pe plan național.", "Comercianții vând de asemenea piei tăbăcite, ceramică și unt tradițional de shea.", "O vizită la piață este o imersiune totală în diversitatea etnică a Nigerului."],
+      en: []
     }
   },
   {
@@ -1108,7 +1814,20 @@ export const poiExtraNigerCitiesV2: POI[] = [
       hu: ["Hagyományos folyami hajózás.", "Festői part menti övezet."],
       ro: ["Navigație fluvială tradițională.", "Zonă riverană pitorească."],
       en: ["Traditional river navigation.", "Picturesque riparian zone."]
-    }, image: "/poi-images/gotheye-cities-v2.webp"},
+    }, image: "/poi-images/gotheye-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Gothèye liegt idyllisch am breiten Ufer des Flusses Niger und pflegt eine tief verwurzelte, jahrhundertealte Tradition des Bootsbaus. Die geschickten Handwerker der Stadt fertigen Pirogen aus massivem Holz, die für die Navigation auf dem Fluss für Fischerei, Transport und Handel unerlässlich sind. Die fruchtbaren Schwemmböden rund um Gothèye ermöglichen einen ertragreichen Reisanbau, der das Stadtbild durch saftig grüne Felder prägt. Als Knotenpunkt für den Flussverkehr verbindet die Stadt ländliche, isolierte Flussgemeinden mit den größeren Märkten in Niamey, was ihr eine beständige wirtschaftliche Stabilität verleiht.",
+      hu: "Gothèye egy festői település a Niger folyó nyugati partján, amely sűrű pálmaligeteiről és mangóültetvényeiről ismert. A folyó közelsége lehetővé teszi az egész éves öntözéses földművelést, ami ritka kincs ebben a száraz országban. A város történelmileg a songhai birodalom hatáskörébe tartozott, ma pedig a folyami hajózás és a halászat fontos regionális központja. Környezetismeret K7 — folyóparti oázisok.",
+      ro: "Gothèye este un oraș plin de viață pe malurile fluviului Niger, situat la nord-vest de Niamey, cunoscut pentru economia sa bazată pe agricultură fluvială și transport naval tradițional. Zona beneficiază de lunci bogate inundabile unde cultivarea orezului este vitală. Meșteșugarii locali produc frânghii și plase rezistente, susținând industria pescarilor Songhai. Orașul este marcat de pajiști fertile care atrag anual grupuri de nomazi Peul, declanșând negocieri complexe pentru drepturile de adăpare între comunitățile de agricultori și crescătorii de vite. (Geografie K7 — managementul resurselor fluviale).",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Idyllisch am breiten Ufer des Flusses Niger gelegen.", "Pflegt eine tief verwurzelte Tradition des Pirogen-Bootsbaus.", "Boote sind essenziell für Flussschifffahrt, Fischerei und Handel.", "Fruchtbare Schwemmböden ermöglichen intensiven Reisanbau.", "Wichtiger logistischer Knotenpunkt für den Flussverkehr.", "Verbindet isolierte Flussgemeinden mit den Märkten in Niamey."],
+      hu: ["A Niger folyó jobb partján elterülő zöldellő oázis.", "Egész évben képes öntözéses mezőgazdaságot folytatni.", "Híres kiterjedt mangó- és datolyapálma-ültetvényeiről.", "Történelmileg a hatalmas Songhai birodalom része volt.", "A folyami halászat komoly megélhetési forrást jelent.", "Festői fekvése miatt népszerű a belföldi utazók körében."],
+      ro: ["Amplasat pe malul vestic al fluviului Niger, foarte aproape de Niamey.", "Așezarea este susținută de culturile irigate de orez și legume de sezon.", "Locuitorii tradiționali Songhai se specializează în pescuitul fluvial cu plase.", "Gothèye atrage crescătorii de vite nomazi datorită apei sale abundente.", "Există o piață vibrantă pentru produse lactate, unelte de pescuit și cereale.", "Păstrează acorduri informale complexe pentru gestionarea terenurilor de pășunat.", "Traficul cu bărci motorizate și pirogi facilitează comerțul inter-sate."],
+      en: []
+    }
+  },
   {
     id: "damagaram-takaya-cities-v2",
     type: "city",
@@ -1126,6 +1845,18 @@ export const poiExtraNigerCitiesV2: POI[] = [
       hu: ["Gazdag birodalmi történelem.", "Békés agrárbázis."],
       ro: ["Istorie imperială bogată.", "Comunitate agricolă pașnică."],
       en: ["Rich imperial history.", "Peaceful agrarian community."]
+    },
+    descriptionAdvanced: {
+      de: "Damagaram Takaya ist tief in die lange und stolze Geschichte des mächtigen Damagaram-Sultanats eingetaucht, das im 19. Jahrhundert die Region um Zinder beherrschte. Dieser kleine, aber ehrwürdige Ort gilt als spiritueller und historischer Bewahrer der Vergangenheit. Die Architektur im Stadtkern zeugt von der traditionellen Hausa-Bauweise, geprägt von massiven Lehmhäusern mit charakteristischen geometrischen Reliefs. Heute ist Damagaram Takaya ein beschauliches Agrarzentrum, das sich auf den Erdnuss- und Hirseanbau spezialisiert hat. Die Ältesten der Gemeinde geben die epischen mündlichen Überlieferungen der einstigen Sultane an die jüngeren Generationen weiter.",
+      hu: "Damagaram Takaya a történelmi Damagaram Szultanátus örökségét őrző, mély kulturális gyökerekkel rendelkező város Zinder régióban. Bár ma csendes mezőgazdasági központ, a város alapítása a 19. századi prekoloniális időkre nyúlik vissza, amikor a karavánutak védelmét szolgálta. Ma a földimogyoró termesztése és a hagyományos iszlám oktatás, a Korán-iskolák (madrasszák) jelentik a mindennapi élet gerincét. Történelem K8 — a Damagaram Szultanátus.",
+      ro: "Damagaram Takaya este o așezare din nordul regiunii Zinder, purtând numele faimosului Sultanat de Damagaram, un testament al gloriei sale istorice. În contrast cu centrele urbane mari din sud, acest oraș se confruntă cu condiții deșertice aspre, fiind situat într-o regiune a platourilor pietroase. Izvoarele locale sunt puține, dar valoroase, atrăgând caravane rătăcite. Orașul este recunoscut pentru locuitorii săi cu o cultură extrem de rezilientă, specializați în creșterea cailor și pentru povestitorii care transmit epopeile sultanilor ce controlau cândva ruta către masivul Aïr. (Istorie K8 — supraviețuirea la marginea marilor sultanate).",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Eng verbunden mit der Geschichte des Damagaram-Sultanats.", "Ehrwürdiger spiritueller und historischer Bewahrer der Vergangenheit.", "Architektur geprägt von massiven Hausa-Lehmhäusern mit Reliefs.", "Beschauliches Agrarzentrum spezialisiert auf Erdnüsse und Hirse.", "Bewahrt epische mündliche Überlieferungen alter Herrscher.", "Liegt in der kulturell reichen Region um die Stadt Zinder."],
+      hu: ["A 19. századi Damagaram Szultanátus egyik kulcsvárosa volt.", "Eredetileg a karavánutak védelmére hozták létre.", "Jelentős központja a hagyományos iszlám (Korán) oktatásnak.", "Gazdasága ma nagyrészt a földimogyoró-termesztésre épül.", "A haúsza építészet és kultúra erősen jelen van a mindennapokban.", "Megőrizte az autentikus, gyarmatosítás előtti falusi hangulatot."],
+      ro: ["Poartă numele istoric al faimosului și puternicului Sultanat de Damagaram.", "Aflat într-o zonă de platou pietros cu vegetație de stepă saheliană aridă.", "Populația menține respectul pentru ierarhiile tradiționale ale vechilor regate.", "Crescătorii locali se specializează pe rase rezistente de cai și cămile de tracțiune.", "Agricultura este limitată, bazându-se pe mici parcele umede în depresiuni.", "Localitatea a păstrat structuri din argilă întărită specifice arhitecturii Zinder.", "Grioții locali mențin în viață tradiția orală a curajoșilor cavaleri Damagaram."],
+      en: []
     }
   }
 ];

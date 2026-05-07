@@ -14,6 +14,18 @@ export const poiExtraRwandaLifeV2: POI[] = [
       hu: ["Játszóterek és zöldfelületek.", "Központi elhelyezkedés."],
       ro: ["Locuri de joacă și spații verzi.", "Amplasare centrală."],
       en: ["Playgrounds and green spaces.", "Centrally located."]
+    },
+    descriptionAdvanced: {
+      ro: "Parcul pentru Copii din Kigali este o oază de bucurie și recreere situată în inima capitalei, fiind un reper esențial pentru viața de familie modernă din Rwanda. Într-un oraș aflat în plină urbanizare, acest spațiu verde oferă facilități de joacă sigure, zone de picnic și grădini bine întreținute unde copiii pot interacționa în aer liber. Parcul promovează un stil de viață sănătos și activ, fiind dotat cu tobogane, leagăne și spații pentru activități educative. Este locul unde familiile din diverse medii sociale se întâlnesc în weekend, reflectând spiritul comunității și importanța acordată bunăstării noilor generații. Designul parcului pune accent pe siguranță și pe integrarea elementelor naturale, oferind un contrast plăcut cu mediul construit din jur."
+    },
+    factsAdvanced: {
+      ro: ["Cel mai popular spațiu de joacă în aer liber din Kigali.", "Situat central, oferind acces facil pentru familiile urbane.", "Include zone dedicate pentru evenimente și zile de naștere.", "Promovează educația ecologică prin specii de plante etichetate.", "Echipat cu facilități de joacă moderne și sigure.", "Oază de liniște și aer curat în mijlocul zonelor comerciale.", "Centru comunitar pentru activități recreative de weekend."]
+    },
+    descriptionAdvanced: {
+      de: "Der Kigali Children's Park ist ein zentraler Ort für das Familienleben und die kindliche Entwicklung in der Hauptstadt. In einer Stadt, die rasant wächst, bietet dieser Park einen sicheren und kreativen Raum für Spiel und soziale Interaktion. Das Leben hier ist geprägt von fröhlichem Lärm, sportlichen Aktivitäten und Bildungsprogrammen im Freien. Der Park ist ein Symbol für die kinderfreundliche Stadtplanung Ruandas und dient als Vorbild für ähnliche Projekte im ganzen Land. Für viele Familien in Kigali ist der Besuch des Parks am Wochenende ein festes Ritual, das den Gemeinschaftssinn stärkt und den Kindern ermöglicht, in einer grünen Umgebung aufzuwachsen. Sachkunde K3 - Leben in der Stadt und Freizeit."
+    },
+    factsAdvanced: {
+      de: ["Größter öffentlicher Spielplatz in Kigali.", "Zentrum für frühkindliche Bewegungsförderung.", "Sicherer Raum für interkulturelle Begegnungen.", "Ort für regelmäßige Kinder-Kulturfestivals.", "Teil der städtischen Initiative für Grünflächen.", "Wichtiger Treffpunkt für Familien aus allen Stadtteilen."]
     }, image: "/poi-images/kigali-childrens-park-life-v2.webp"},
   {
     id: "nyarutarama-lake-kid-life-v2",

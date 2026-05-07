@@ -48,7 +48,7 @@ export const poiExtraDemocraticrepublicofcongoNatureV2: POI[] = [
     description: {
       de: "Ein großer Süßwassersee, dessen Name 'Schwarzes Wasser' bedeutet.",
       hu: "Nagy édesvízi tó, melynek neve 'fekete vizet' jelent.",
-      ro: "Un lac mare de apă dulce, al cărui nume înseamnă „Apă Neagră”.",
+      ro: "Un lac mare de apă dulce, al cărui nume înseamnă \"Apă Neagră\".",
       en: "A large freshwater lake whose name means 'Black Water'."
     },
     facts: {

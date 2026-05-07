@@ -36,7 +36,7 @@ export const poiExtraCanadaLifeV2: POI[] = [
       de: "Der Calgary Zoo ist einer der meistbesuchten Zoos in Nordamerika und bekannt für seine naturnahe Gestaltung, insbesondere in den Themenbereichen wie der kanadischen Wildnis und dem Pinguin-Gehege. Biologie K7 — Zoologie."
     },
     factsAdvanced: {
-      de: ["Einer der meistbesuchten Zoos Nordamerikas", "Spezialisiert auf kanadische Tierarten", "Bekanntes Pinguin-Gehege", "Engagement für den Schutz des Schreikranichs", "Standort: St. George’s Island, Calgary", "Große Vielfalt exotischer Tiere"]
+      de: ["Einer der meistbesuchten Zoos Nordamerikas", "Spezialisiert auf kanadische Tierarten", "Bekanntes Pinguin-Gehege", "Engagement für den Schutz des Schreikranichs", "Standort: St. George's Island, Calgary", "Große Vielfalt exotischer Tiere"]
     }, image: "/poi-images/calgary-zoo-life-v2.webp"},
   {
     id: "granby-zoo-life-v2",
@@ -87,7 +87,7 @@ export const poiExtraCanadaLifeV2: POI[] = [
       en: "A large public aquarium in downtown Toronto, right next to the CN Tower."
     },
     descriptionAdvanced: {
-      de: "Das Ripley’s Aquarium of Canada in Toronto besticht durch einen der längsten Unterwassertunnel Nordamerikas, der den Besuchern eine hautnahe Begegnung mit Haien und Rochen ermöglicht. Biologie K6 — Leben im Ozean."
+      de: "Das Ripley's Aquarium of Canada in Toronto besticht durch einen der längsten Unterwassertunnel Nordamerikas, der den Besuchern eine hautnahe Begegnung mit Haien und Rochen ermöglicht. Biologie K6 — Leben im Ozean."
     },
     factsAdvanced: {
       de: ["Standort: Toronto, nahe dem CN Tower", "Einer der längsten Unterwassertunnel Nordamerikas", "Beherbergt rund 20.000 Wassertiere", "Interaktive Ausstellungen für Besucher", "Großer Fokus auf Haie und Rochen", "Moderne Einrichtung zur Meereskunde"]
@@ -107,7 +107,7 @@ export const poiExtraCanadaLifeV2: POI[] = [
     facts: {
       de: ["Drive-Through-Reservate", "Bootsfahrt 'African Queen'", "Vogel- und Tiershows", "Erfolgreiches Zuchtprogramm für Nashörner"],
       hu: ["Autós szafari", "'Afrikai Királynő' hajókirándulás", "Madár- és állatbemutatók", "Sikeres orrszarvú tenyészprogram"],
-      ro: ["Rezerve drive-through", "Croazieră cu barca „African Queen”", "Spectacole cu păsări și animale", "Program de reproducere de succes pentru rinoceri"],
+      ro: ["Rezerve drive-through", "Croazieră cu barca \\\"African Queen\\\"", "Spectacole cu păsări și animale", "Program de reproducere de succes pentru rinoceri"],
       en: ["Drive-through game reserves", "'African Queen' boat cruise", "Bird and animal shows", "Successful rhino breeding program"]
     }, image: "/poi-images/african-lion-safari-life-v2.webp"},
   {
@@ -155,13 +155,13 @@ export const poiExtraCanadaLifeV2: POI[] = [
     description: {
       de: "Ein Zoo in Winnipeg, der für seine preisgekrönte Ausstellung 'Reise nach Churchill' bekannt ist.",
       hu: "Winnipegi állatkert, amely a díjnyertes 'Utazás Churchillbe' kiállításáról ismert.",
-      ro: "O grădină zoologică din Winnipeg, renumită pentru expoziția sa premiată „Călătorie la Churchill”.",
+      ro: "O grădină zoologică din Winnipeg, renumită pentru expoziția sa premiată \\\"Călătorie la Churchill\\\".",
       en: "A zoo in Winnipeg renowned for its award-winning 'Journey to Churchill' exhibit."
     },
     facts: {
       de: ["'Reise nach Churchill' Ausstellung", "Unterwasser-Beobachtungstunnel für Eisbären", "Schutz von bedrohten Arten", "Teil des größeren Assiniboine Parks"],
       hu: ["'Utazás Churchillbe' kiállítás", "Víz alatti megfigyelőalagút a jegesmedvékhez", "Veszélyeztetett fajok védelme", "A nagyobb Assiniboine Park része"],
-      ro: ["Expoziția „Călătorie la Churchill”", "Tunel subacvatic de observare a urșilor polari", "Conservarea speciilor pe cale de dispariție", "Parte a parcului mai mare Assiniboine"],
+      ro: ["Expoziția \\\"Călătorie la Churchill\\\"", "Tunel subacvatic de observare a urșilor polari", "Conservarea speciilor pe cale de dispariție", "Parte a parcului mai mare Assiniboine"],
       en: ["'Journey to Churchill' exhibit", "Underwater polar bear viewing tunnels", "Conservation of threatened species", "Part of the larger Assiniboine Park"]
     }, image: "/poi-images/assiniboine-park-zoo-life-v2.webp"},
   {
@@ -270,7 +270,7 @@ export const poiExtraCanadaLifeV2: POI[] = [
     facts: {
       de: ["Einer der größten Produzenten weltweit", "Ideales Klima und Boden", "Selbstpflück-Farmen im Sommer", "Reich an Antioxidantien"],
       hu: ["A világ egyik legnagyobb termelője", "Ideális éghajlat és talaj", "Szedd magad farmok nyáron", "Antioxidánsokban gazdag"],
-      ro: ["Unul dintre cei mai mari producători din lume", "Climă și sol ideale", "Ferme „culege singur” vara", "Bogat în antioxidanți"],
+      ro: ["Unul dintre cei mai mari producători din lume", "Climă și sol ideale", "Ferme \\\"culege singur\\\" vara", "Bogat în antioxidanți"],
       en: ["One of the world's largest producers", "Ideal climate and soil", "U-pick farms available in summer", "Rich in antioxidants"]
     }, image: "/poi-images/fraser-valley-blueberries-life-v2.webp"},
   {
@@ -342,7 +342,7 @@ export const poiExtraCanadaLifeV2: POI[] = [
     facts: {
       de: ["'Kanarienvögel der Meere'", "Tausende im Sommer", "Kajak- und Bootstouren", "Kalben in wärmeren Flussmündungen"],
       hu: ["'A tengerek kanárijai'", "Több ezer nyáron", "Kajak- és hajótúrák", "Borjadzás a melegebb folyótorkolatokban"],
-      ro: ["„Canarii mărilor”", "Mii de exemplare vara", "Tururi cu caiacul și barca", "Nasc pui în estuarele mai calde"],
+      ro: ["\\\"Canarii mărilor\\\"", "Mii de exemplare vara", "Tururi cu caiacul și barca", "Nasc pui în estuarele mai calde"],
       en: ["'Canaries of the sea'", "Thousands gather in summer", "Kayaking and boat tours available", "Calve in the warmer estuary waters"]
     }, image: "/poi-images/churchill-beluga-whales-life-v2.webp"},
   {
@@ -534,7 +534,7 @@ export const poiExtraCanadaLifeV2: POI[] = [
     description: {
       de: "Eines der größten Insektenmuseen in Nordamerika, Teil des 'Space for Life'-Komplexes.",
       hu: "Észak-Amerika egyik legnagyobb rovartani múzeuma, a 'Space for Life' komplexum része.",
-      ro: "Unul dintre cele mai mari muzee de insecte din America de Nord, parte a complexului „Space for Life”.",
+      ro: "Unul dintre cele mai mari muzee de insecte din America de Nord, parte a complexului \\\"Space for Life\\\".",
       en: "One of the largest insect museums in North America, part of the 'Space for Life' complex."
     },
     facts: {

@@ -12,7 +12,14 @@ export const poiExtraEritreaEconomicV2: POI[] = [
       hu: "Aszmara Sörgyár",
       ro: "Fabrica de bere Asmara",
       en: "Asmara Brewery"
+    ,
+    descriptionAdvanced: {
+      de: "Die Asmara-Brauerei wurde 1939 während der italienischen Kolonialzeit gegründet und ist eines der ältesten Industrieunternehmen Eritreas. Sie produziert bis heute das beliebte lokale Bier und Softdrinks nach traditionellen Rezepten, die über Generationen hinweg gepflegt wurden. Die architektonische Gestaltung der Anlage spiegelt den rationalistischen Stil wider, der für das moderne Asmara so charakteristisch ist. Die Brauerei spielt eine zentrale Rolle in der lokalen Wirtschaft und stellt einen wichtigen Arbeitgeber in der Hauptstadt dar. Erdkunde K7 – Industrie und lokale Produktion."
     },
+    factsAdvanced: {
+      de: ["Gegründet im Jahr 1939 durch italienische Investoren.", "Stilistisch geprägt durch die italienische Rationalismus-Architektur.", "Produktionsstätte für lokales Bier und Erfrischungsgetränke.", "Wichtiger historischer Industriebetrieb im Zentrum von Asmara.", "Die Anlagen wurden nach der Unabhängigkeit modernisiert.", "Symbol für die industrielle Kontinuität Eritreas."]
+    }
+  },
     description: {
       de: "Eine der ältesten Brauereien in Eritrea, die während der italienischen Kolonialzeit gegründet wurde.",
       hu: "Eritrea egyik legrégebbi sörgyára, amelyet az olasz gyarmati időszakban alapítottak.",
@@ -35,7 +42,14 @@ export const poiExtraEritreaEconomicV2: POI[] = [
       hu: "Bisha Bánya",
       ro: "Mina Bisha",
       en: "Bisha Mine"
+    ,
+    descriptionAdvanced: {
+      de: "Die Bisha-Mine im Gash-Barka-Gebiet ist das bedeutendste Bergbauprojekt Eritreas und ein entscheidender Treiber für das nationale Wirtschaftswachstum. Der Tagebau konzentriert sich primär auf die Gewinnung von Kupfer, Gold und Zink, die in großem Umfang exportiert werden. Die Erschließung der Lagerstätte hat moderne Infrastrukturen in dieser entlegenen Region des Landes gefördert. Die Einnahmen aus dem Bergbau tragen maßgeblich zum Staatshaushalt bei und unterstützen die Entwicklung nationaler Projekte. Geografie K8 – Rohstoffe und wirtschaftliche Globalisierung."
     },
+    factsAdvanced: {
+      de: ["Hauptlagerstätte für Kupfer, Gold und Zink.", "Bedeutendstes Bergbauprojekt des Landes seit der Unabhängigkeit.", "Tagebau-Anlage in der Region Gash-Barka.", "Wichtiger Exportfaktor für die eritreische Wirtschaft.", "Erhöhte Infrastrukturentwicklung durch Bergbauaktivitäten.", "Großer Arbeitgeber für die lokale Bevölkerung in der Region."]
+    }
+  },
     description: {
       de: "Ein bedeutendes Bergwerk im Westen Eritreas, in dem Gold, Kupfer und Zink abgebaut werden.",
       hu: "Jelentős bánya Eritrea nyugati részén, ahol aranyat, rezet és cinket bányásznak.",
@@ -58,7 +72,14 @@ export const poiExtraEritreaEconomicV2: POI[] = [
       hu: "Hirgigo Erőmű",
       ro: "Centrala electrică Hirgigo",
       en: "Hirgigo Power Plant"
+    ,
+    descriptionAdvanced: {
+      de: "Das Hirgigo-Kraftwerk in der Nähe der Hafenstadt Massawa ist das größte Wärmekraftwerk Eritreas und sichert die Energieversorgung für weite Teile des Landes, einschließlich der Hauptstadt Asmara. Es nutzt schwere Heizöle zur Stromerzeugung und ist für die Aufrechterhaltung der industriellen und privaten Kapazitäten von lebenswichtiger Bedeutung. Die Anlage wurde mit internationaler Unterstützung erbaut und unterliegt ständigen Modernisierungsprozessen, um die Effizienz zu steigern. Energiefragen sind ein zentraler Aspekt der nationalen Infrastrukturplanung. Sachkunde K6 – Energieerzeugung und Infrastruktur."
     },
+    factsAdvanced: {
+      de: ["Größtes Wärmekraftwerk Eritreas.", "Strategisch gelegen nahe der Küstenstadt Massawa.", "Primäre Energiequelle für den Großraum Asmara.", "Versorgungssicherheit als wirtschaftlicher Grundpfeiler.", "Betrieb mittels schwerer Heizöle zur Stromerzeugung.", "Wichtiger Bestandteil der nationalen Energieinfrastruktur."]
+    }
+  },
     description: {
       de: "Das größte Wärmekraftwerk Eritreas, das einen Großteil der nationalen Stromversorgung sichert.",
       hu: "Eritrea legnagyobb hőerőműve, amely az ország villamosenergia-ellátásának nagy részét biztosítja.",
@@ -81,7 +102,14 @@ export const poiExtraEritreaEconomicV2: POI[] = [
       hu: "Colluli Káliumprojekt",
       ro: "Proiectul de potasiu Colluli",
       en: "Colluli Potash Project"
+    ,
+    descriptionAdvanced: {
+      de: "Das Colluli-Projekt im Danakil-Senken-Gebiet ist eine der weltweit bedeutendsten und kostengünstigsten Potash-Lagerstätten, die kurz vor der groß angelegten Erschließung steht. Der Kalisalzabbau bietet enormes Potenzial zur Diversifizierung der eritreischen Wirtschaft und könnte eine neue Ära im Agrarsektor einleiten, da Kali ein essenzieller Düngestoff ist. Die geologische Lage im äthiopisch-eritreischen Grenzraum stellt sowohl eine technische Herausforderung als auch eine wirtschaftliche Chance dar. Das Projekt soll langfristig Tausende Arbeitsplätze schaffen. Wirtschaftslehre K8 – Zukunftsbranchen und Welthandel."
     },
+    factsAdvanced: {
+      de: ["Eine der weltweit größten Potash-Lagerstätten.", "Standort im geologisch einzigartigen Danakil-Senken-Gebiet.", "Potenziell kostengünstigste Förderung von Kalisalzen.", "Wichtige Säule für die künftige industrielle Entwicklung.", "Große Bedeutung als Düngemittellieferant für die Landwirtschaft.", "Erwartete Schaffung zahlreicher Arbeitsplätze in der Region."]
+    }
+  },
     description: {
       de: "Ein großes Bergbauprojekt in der Danakil-Senke zur Förderung von Kaliumsalzen für Düngemittel.",
       hu: "Nagyszabású bányászati projekt a Danakil-mélyföldön káliumsók kinyerésére műtrágyákhoz.",
@@ -104,7 +132,14 @@ export const poiExtraEritreaEconomicV2: POI[] = [
       hu: "Zara Aranybánya",
       ro: "Mina de aur Zara",
       en: "Zara Gold Mine"
+    ,
+    descriptionAdvanced: {
+      de: "Die Zara-Mine ist eine bedeutende Goldlagerstätte in der Anseba-Region und unterstreicht Eritreas wachsendes Potenzial im Sektor der Edelmetallgewinnung. Die Mine nutzt moderne Extraktionstechnologien, um den hohen Anforderungen an Effizienz und Umweltstandards gerecht zu werden. Neben der wirtschaftlichen Wertschöpfung durch den Goldexport leistet der Betrieb einen Beitrag zur Ausbildung der lokalen Arbeitskräfte in technischen Berufen. Die Erschließung solcher entlegener Standorte ist ein Beweis für die strategische Ausrichtung des Landes auf den Bergbau als Motor des Wirtschaftswachstums. Geografie K7 – Bergbau und regionale Entwicklung."
     },
+    factsAdvanced: {
+      de: ["Wichtige Gold-Extraktionsanlage im Anseba-Gebiet.", "Einsatz moderner technischer Extraktionsmethoden.", "Zentraler Bestandteil des eritreischen Gold-Exports.", "Förderung der beruflichen Bildung durch Fachkräftekurse.", "Strategische Entwicklung ländlicher Regionen durch Bergbau.", "Nachhaltige Rohstoffförderung als langfristiges Ziel."]
+    }
+  },
     description: {
       de: "Ein wichtiges Goldbergwerk im Koka-Gebiet, das maßgeblich zur Bergbauindustrie Eritreas beiträgt.",
       hu: "Fontos aranybánya a Koka régióban, amely jelentősen hozzájárul Eritrea bányászati iparához.",

@@ -57,8 +57,8 @@ export const poiExtraDe4a: POI[] = [
       "Das Gestein des Berges besteht hauptsächlich aus Quarzporphyr, einem vulkanischen Gestein.",
       "Das Beerbergmoor auf dem Gipfel steht unter strengem Naturschutz (Betreten verboten).",
       "Der Gipfel liegt direkt am Rennsteig, dem bekanntesten Weitwanderweg Deutschlands.",
-      "Der Aussichtspunkt \'Plänckners Aussicht\' wurde nach einem Kartografen des Rennsteigs benannt.",
-      "Zwischen dem Großen Beerberg und dem benachbarten Schneekopf liegt das tiefe Tal der \'Schmücke\'.",
+      "Der Aussichtspunkt \\'Plänckners Aussicht\\' wurde nach einem Kartografen des Rennsteigs benannt.",
+      "Zwischen dem Großen Beerberg und dem benachbarten Schneekopf liegt das tiefe Tal der \\'Schmücke\\'.",
       "Aufgrund der flachen Kuppe ist der höchste Punkt im Wald oft schwer genau zu erkennen."
     ],
       hu: [
@@ -66,8 +66,8 @@ export const poiExtraDe4a: POI[] = [
       "A hegy kőzete főként kvarcporfírból, egy vulkáni kőzetből áll.",
       "A csúcson található Beerbergmoor dagadóláp szigorú természetvédelem alatt áll (belépni tilos).",
       "A csúcs közvetlenül a Rennsteig, Németország legismertebb hosszú távú túraútvonala mentén található.",
-      "A \'Plänckners Aussicht\' kilátót a Rennsteig egyik térképészéről nevezték el.",
-      "A Großer Beerberg és a szomszédos Schneekopf között fekszik a \'Schmücke\' mély völgye.",
+      "A \\'Plänckners Aussicht\\' kilátót a Rennsteig egyik térképészéről nevezték el.",
+      "A Großer Beerberg és a szomszédos Schneekopf között fekszik a \\'Schmücke\\' mély völgye.",
       "A lapos csúcs miatt az erdőben gyakran nehéz pontosan felismerni a legmagasabb pontot."
     ],
       ro: [],
@@ -257,8 +257,8 @@ export const poiExtraDe4a: POI[] = [
       "Die Staumauer ist eine 65 Meter hohe und 212 Meter lange Schwergewichtsmauer aus Gussbeton.",
       "Der Bau dauerte fünf Jahre (1927–1932) und bot tausenden Arbeitslosen während der Weltwirtschaftskrise Arbeit.",
       "Das Kraftwerk am Fuß der Staumauer hat eine Leistung von 80 Megawatt.",
-      "Das Festival \'SonneMondSterne\' zieht jährlich bis zu 40.000 Besucher an die Talsperre.",
-      "Der Name \'Bleiloch\' stammt von alten Blei-Bergbauschächten, die vor dem Einstauen in diesem Tal lagen.",
+      "Das Festival \\'SonneMondSterne\\' zieht jährlich bis zu 40.000 Besucher an die Talsperre.",
+      "Der Name \\'Bleiloch\\' stammt von alten Blei-Bergbauschächten, die vor dem Einstauen in diesem Tal lagen.",
       "Das Staugebiet windet sich in unzähligen Schleifen durch das Tal und wirkt wie ein skandinavischer Fjord."
     ],
       hu: [
@@ -266,8 +266,8 @@ export const poiExtraDe4a: POI[] = [
       "A gát egy 65 méter magas és 212 méter hosszú, öntött betonból készült súlygát.",
       "Az építkezés öt évig (1927–1932) tartott, és munkanélküliek ezreinek adott munkát a nagy gazdasági világválság idején.",
       "A gát lábánál lévő erőmű 80 megawatt teljesítményű.",
-      "A \'SonneMondSterne\' fesztivál évente akár 40 000 látogatót is vonz a víztározóhoz.",
-      "A \'Bleiloch\' név a völgyben a duzzasztás előtt fekvő régi ólombányászati aknákból származik.",
+      "A \\'SonneMondSterne\\' fesztivál évente akár 40 000 látogatót is vonz a víztározóhoz.",
+      "A \\'Bleiloch\\' név a völgyben a duzzasztás előtt fekvő régi ólombányászati aknákból származik.",
       "A felduzzasztott terület számtalan kanyarral kanyarog a völgyön keresztül, és úgy néz ki, mint egy skandináv fjord."
     ],
       ro: [],
@@ -458,7 +458,7 @@ export const poiExtraDe4a: POI[] = [
       "Von den ursprünglich 62 Häusern auf der Brücke sind durch Zusammenlegungen heute noch 32 erhalten.",
       "Fast alle Gebäude auf der Brücke gehören heute der Stadt Erfurt und werden zur Förderung des Kunsthandwerks vermietet.",
       "Auf der Brücke darf laut städtischer Satzung nur traditionelles Gewerbe (kein Fast-Food oder Ramsch) ansässig sein.",
-      "Das jährlich im Juni stattfindende \'Krämerbrückenfest\' ist das größte Altstadtfest Thüringens.",
+      "Das jährlich im Juni stattfindende \\'Krämerbrückenfest\\' ist das größte Altstadtfest Thüringens.",
       "An beiden Enden der Brücke befanden sich früher Brückenköpfe mit Kirchen; heute steht nur noch die Ägidienkirche."
     ],
       hu: [
@@ -467,7 +467,7 @@ export const poiExtraDe4a: POI[] = [
       "A hídon lévő eredeti 62 házból az összevonások révén ma 32 maradt fenn.",
       "Ma a hídon lévő szinte összes épület Erfurt városának tulajdonában van, és a kézművesség népszerűsítése érdekében adják bérbe őket.",
       "A városi rendelet szerint a hídon csak hagyományos kereskedelem (nem gyorsétterem vagy bóvli) telepedhet le.",
-      "A minden év júniusában megrendezésre kerülő \'Krämerbrückenfest\' (Kalmárhíd-ünnep) Türingia legnagyobb óvárosi fesztiválja.",
+      "A minden év júniusában megrendezésre kerülő \\'Krämerbrückenfest\\' (Kalmárhíd-ünnep) Türingia legnagyobb óvárosi fesztiválja.",
       "A híd mindkét végén egykor hídfők álltak templomokkal; ma már csak az Ägidienkirche (Egyed-templom) áll."
     ],
       ro: [],
@@ -520,20 +520,20 @@ export const poiExtraDe4a: POI[] = [
     factsAdvanced: {
       de: [
       "Die Werra hat eine Gesamtlänge von 299,6 Kilometern.",
-      "Es gibt einen Streit um die \'echte\' Werraquelle; offiziell gibt es zwei anerkannte Quellen bei Eisfeld und Siegmundsburg.",
+      "Es gibt einen Streit um die \\'echte\\' Werraquelle; offiziell gibt es zwei anerkannte Quellen bei Eisfeld und Siegmundsburg.",
       "Der Fluss bildete während der deutschen Teilung über viele Kilometer den Grenzverlauf zwischen BRD und DDR.",
       "Der Werratal-Radweg ist über 300 Kilometer lang und einer der beliebtesten Radfernwege Deutschlands.",
       "Der Kalibergbau im Werratal sorgte jahrzehntelang für eine starke Versalzung des Flusses.",
-      "Bei Vacha ragt die mittelalterliche Werrabrücke (die \'Brücke der Einheit\') über den Fluss.",
+      "Bei Vacha ragt die mittelalterliche Werrabrücke (die \\'Brücke der Einheit\\') über den Fluss.",
       "Die Werra vereinigt sich in Hann. Münden mit der Fulda zur Weser."
     ],
       hu: [
       "A Werra teljes hossza 299,6 kilométer.",
-      "Vita van az \'igazi\' Werra-forrásról; hivatalosan két elismert forrás létezik Eisfeld és Siegmundsburg közelében.",
+      "Vita van az \\'igazi\\' Werra-forrásról; hivatalosan két elismert forrás létezik Eisfeld és Siegmundsburg közelében.",
       "A folyó a német megosztottság idején sok kilométeren át a határon folyt az NSZK és az NDK között.",
       "A Werra-völgyi kerékpárút (Werratal-Radweg) több mint 300 kilométer hosszú, és Németország egyik legnépszerűbb távolsági kerékpárútja.",
       "A Werra-völgyi káliumbányászat évtizedekig a folyó erős elsósodását okozta.",
-      "Vachánál a középkori Werra-híd (az \'Egység hídja\') ível át a folyón.",
+      "Vachánál a középkori Werra-híd (az \\'Egység hídja\\') ível át a folyón.",
       "A Werra Hann. Mündennél egyesül a Fuldával, és létrehozza a Wesert."
     ],
       ro: [],
@@ -588,7 +588,7 @@ export const poiExtraDe4a: POI[] = [
       de: [
       "Schloss Friedenstein in Gotha ist die größte frühbarocke Schlossanlage Deutschlands.",
       "Das im Schloss befindliche Ekhof-Theater besitzt die älteste noch funktionierende Bühnenmaschinerie der Welt.",
-      "Der Gothaische Hofkalender (der \'Gotha\') war ab dem 18. Jahrhundert das wichtigste Handbuch des europäischen Adels.",
+      "Der Gothaische Hofkalender (der \\'Gotha\\') war ab dem 18. Jahrhundert das wichtigste Handbuch des europäischen Adels.",
       "Das britische Königshaus Windsor stammt in direkter Linie vom Haus Sachsen-Coburg und Gotha ab.",
       "Der Gothaer Justus Perthes Verlag war ein weltweit führender Verlag für geografische Atlanten und Karten.",
       "Gotha gilt als die Geburtsstätte des deutschen Versicherungswesens (Gothaer Versicherungsbank, 1820).",
@@ -597,7 +597,7 @@ export const poiExtraDe4a: POI[] = [
       hu: [
       "A gothai Friedenstein-kastély Németország legnagyobb kora barokk kastélyegyüttese.",
       "A kastélyban található Ekhof Színház a világ legrégebbi, még mindig működő színpadtechnikájával rendelkezik.",
-      "A Gothai Udvari Naptár (a \'Gotha\') a 18. századtól az európai nemesség legfontosabb kézikönyve volt.",
+      "A Gothai Udvari Naptár (a \\'Gotha\\') a 18. századtól az európai nemesség legfontosabb kézikönyve volt.",
       "A brit királyi Windsor-ház egyenes ágon a Szász-Coburg és Gotha-házból származik.",
       "A gothai Justus Perthes Kiadó a világ egyik vezető kiadója volt a földrajzi atlaszok és térképek terén.",
       "Gothát a német biztosítási ipar szülőhelyének tartják (Gothaer Versicherungsbank, 1820).",
@@ -727,7 +727,7 @@ export const poiExtraDe4a: POI[] = [
       "In der Oberen Rathaushalle hängen detailreiche Modelle historischer Kriegsschiffe an der Decke.",
       "Der Bremer Ratskeller beherbergt die größte Sammlung deutscher Weine auf der ganzen Welt.",
       "Das Rathaus ist bis heute der Amtssitz des Bremer Bürgermeisters und des Senats.",
-      "Im Festsaal (der \'Güldenkammer\') finden die traditionellen Schaffermahlzeiten statt."
+      "Im Festsaal (der \\'Güldenkammer\\') finden die traditionellen Schaffermahlzeiten statt."
     ],
       hu: [
       "A brémai városháza 2004 óta az UNESCO világörökség része.",
@@ -736,7 +736,7 @@ export const poiExtraDe4a: POI[] = [
       "A Felső Városházi Terem mennyezetén történelmi hadihajók részletgazdag modelljei lógnak.",
       "A brémai Városházi Pince (Ratskeller) a világ legnagyobb német borgyűjteményének ad otthont.",
       "A városháza a mai napig Bréma polgármesterének és szenátusának hivatalos székhelye.",
-      "A díszteremben (a \'Güldenkammer\'-ben) tartják a hagyományos tengerészek vacsoráját (Schaffermahlzeit)."
+      "A díszteremben (a \\'Güldenkammer\\'-ben) tartják a hagyományos tengerészek vacsoráját (Schaffermahlzeit)."
     ],
       ro: [],
       en: ["UNESCO World Heritage site and a pinnacle of Weser Renaissance art.", "The only medieval town hall in Europe never destroyed or significantly altered.", "Home to the Bremer Ratskeller, featuring the world's largest German wine list.", "Construction began in 1405 as a Gothic structure.", "The 17th-century facade is a masterclass in Baroque and Renaissance fusion.", "Houses the 'Rose Cask', containing the oldest drinkable wine in Germany (1653)."],
@@ -789,19 +789,19 @@ export const poiExtraDe4a: POI[] = [
     factsAdvanced: {
       de: [
       "Der Bremer Roland ist die älteste erhaltene Rolandstatue in ganz Deutschland.",
-      "Der Abstand zwischen Rolands Knien beträgt exakt eine \'Bremer Elle\' (55,3 Zentimeter).",
+      "Der Abstand zwischen Rolands Knien beträgt exakt eine \\'Bremer Elle\\' (55,3 Zentimeter).",
       "Während des Zweiten Weltkriegs wurde die Figur durch eine dicke Mauer aus Sandsäcken vor Bomben geschützt.",
       "Der Schild des Rolands trägt das Wappen des Heiligen Römischen Reiches und nicht das der Stadt Bremen.",
-      "Unter den Füßen des Rolands ist ein \'Krüppel\' abgebildet, ein Sinnbild für die Unterwerfung von Feinden.",
+      "Unter den Füßen des Rolands ist ein \\'Krüppel\\' abgebildet, ein Sinnbild für die Unterwerfung von Feinden.",
       "Der Roland wurde zusammen mit dem Bremer Rathaus 2004 zum UNESCO-Weltkulturerbe ernannt.",
       "Gerüchten zufolge lagert in einem geheimen Kellergewölbe eine exakte Nachbildung als Ersatz."
     ],
       hu: [
       "A brémai Roland a legrégebbi fennmaradt Roland-szobor egész Németországban.",
-      "Roland térdei közötti távolság pontosan egy \'brémai rőf\' (55,3 centiméter).",
+      "Roland térdei közötti távolság pontosan egy \\'brémai rőf\\' (55,3 centiméter).",
       "A második világháború alatt a szobrot homokzsákokból épített vastag fallal védték a bombáktól.",
       "Roland pajzsa a Német-római Birodalom címerét viseli, és nem Bréma városáét.",
-      "Roland lábai alatt egy \'nyomorék\' látható, ami az ellenség leigázásának szimbóluma.",
+      "Roland lábai alatt egy \\'nyomorék\\' látható, ami az ellenség leigázásának szimbóluma.",
       "A Rolandot a brémai városházával együtt 2004-ben az UNESCO világörökség részévé nyilvánították.",
       "A pletykák szerint egy titkos pincében egy pontos másolatot tárolnak csereként."
     ],
@@ -922,19 +922,19 @@ export const poiExtraDe4a: POI[] = [
       de: [
       "Die Weser ist der einzige Strom Deutschlands, dessen Einzugsgebiet fast vollständig im Inland liegt.",
       "In Bremen ist die Weser durch das Weserwehr in Gezeiten (Unterweser) und Binnengewässer (Mittelweser) getrennt.",
-      "Die Weserpromenade \'Schlachte\' war historisch der Umschlagplatz für Koggen der Hanse.",
+      "Die Weserpromenade \\'Schlachte\\' war historisch der Umschlagplatz für Koggen der Hanse.",
       "Der Tidenhub (Unterschied zwischen Ebbe und Flut) in Bremen beträgt durch Flussbegradigungen heute über 4 Meter.",
-      "Das Segelschiff \'Alexander von Humboldt\', bekannt durch die Beck\'s-Werbung, lagert oft an der Schlachte.",
-      "Eine kleine Personenfähre namens \'Hal över\' bringt Fußgänger und Radfahrer traditionell über den Fluss.",
+      "Das Segelschiff \\'Alexander von Humboldt\\', bekannt durch die Beck\\'s-Werbung, lagert oft an der Schlachte.",
+      "Eine kleine Personenfähre namens \\'Hal över\\' bringt Fußgänger und Radfahrer traditionell über den Fluss.",
       "Der Flussabschnitt bis Bremerhaven ist künstlich tief ausgebaggert, um Seeschiffe aufzunehmen."
     ],
       hu: [
       "A Weser az egyetlen olyan folyó Németországban, amelynek vízgyűjtő területe szinte teljesen belföldön található.",
       "Brémában a Wesert a Weser-gát választja el árapályos (Unterweser) és belföldi vizekre (Mittelweser).",
-      "A \'Schlachte\' parti sétány történelmileg a Hanza koggék (teherhajók) rakodóhelye volt.",
+      "A \\'Schlachte\\' parti sétány történelmileg a Hanza koggék (teherhajók) rakodóhelye volt.",
       "Az árapálykülönbség (apadás és dagály közötti különbség) Brémában a folyószabályozás miatt ma már meghaladja a 4 métert.",
-      "Az \'Alexander von Humboldt\' vitorláshajó, amely a Beck\'s sörreklámokból ismert, gyakran a Schlachtén horgonyoz.",
-      "Egy kis személyszállító komp, a \'Hal över\' hagyományosan szállítja át a gyalogosokat és a kerékpárosokat a folyón.",
+      "Az \\'Alexander von Humboldt\\' vitorláshajó, amely a Beck\\'s sörreklámokból ismert, gyakran a Schlachtén horgonyoz.",
+      "Egy kis személyszállító komp, a \\'Hal över\\' hagyományosan szállítja át a gyalogosokat és a kerékpárosokat a folyón.",
       "A Bremerhavenig tartó folyószakaszt mesterségesen mélyre kotorták, hogy képes legyen tengerjáró hajókat fogadni."
     ],
       ro: [],
@@ -988,19 +988,19 @@ export const poiExtraDe4a: POI[] = [
     factsAdvanced: {
       de: [
       "Die Altstadt wird von den Bremer Wallanlagen, den ältesten öffentlichen Parkanlagen Deutschlands, umrahmt.",
-      "Der Marktplatz der Altstadt wird wegen seiner Form und Funktion oft als die \'gute Stube\' Bremens bezeichnet.",
+      "Der Marktplatz der Altstadt wird wegen seiner Form und Funktion oft als die \\'gute Stube\\' Bremens bezeichnet.",
       "Der St.-Petri-Dom auf dem Marktplatz verfügt über einen Bleikeller, in dem natürlich mumifizierte Leichen ruhen.",
       "Nahe dem Marktplatz befindet sich die berühmte Bronzestatue der Bremer Stadtmusikanten.",
-      "Der \'Spuckstein\' am Domplatz erinnert an die Hinrichtung der Giftmörderin Gesche Gottfried im Jahr 1831.",
+      "Der \\'Spuckstein\\' am Domplatz erinnert an die Hinrichtung der Giftmörderin Gesche Gottfried im Jahr 1831.",
       "Die Schütting, das traditionsreiche Gildehaus der Kaufleute, liegt direkt gegenüber dem Rathaus.",
       "Die Bremer Baumwollbörse, einst weltweites Handelszentrum, hat ihren Sitz ebenfalls in der Altstadt."
     ],
       hu: [
       "Az óvárost a brémai sáncok (Wallanlagen) veszik körül, amelyek Németország legrégebbi nyilvános parkjai.",
-      "Az óváros piacterét formája és funkciója miatt gyakran Bréma \'jó szobájának\' (gute Stube) is nevezik.",
+      "Az óváros piacterét formája és funkciója miatt gyakran Bréma \\'jó szobájának\\' (gute Stube) is nevezik.",
       "A piactéren álló Szent Péter-dómnak van egy ólompincéje (Bleikeller), ahol természetes módon mumifikálódott holttestek nyugszanak.",
       "A piactér közelében található a brémai muzsikusok (Bremer Stadtmusikanten) híres bronzszobra.",
-      "A dóm téren található \'Spuckstein\' (köpködő kő) az 1831-ben kivégzett méregkeverő, Gesche Gottfried kivégzésére emlékeztet.",
+      "A dóm téren található \\'Spuckstein\\' (köpködő kő) az 1831-ben kivégzett méregkeverő, Gesche Gottfried kivégzésére emlékeztet.",
       "A Schütting, a kereskedők nagy hagyományokkal rendelkező céhruháza közvetlenül a városházával szemben található.",
       "A brémai pamuttőzsde, amely egykor világméretű kereskedelmi központ volt, szintén az óvárosban található."
     ],
@@ -1060,7 +1060,7 @@ export const poiExtraDe4a: POI[] = [
       "Die beiden Türme des Bremer Doms sind beeindruckende 92,31 Meter hoch.",
       "Im Inneren ruhen die Reste von Bischöfen und Erzbischöfen in prachtvollen Steinsarkophagen.",
       "Der Dom war ursprünglich katholisch, ist aber seit der Reformation eine evangelische Kirche.",
-      "Die sogenannte \'Bibel aus Stein\' an der Fassade zeigt komplexe Sandsteinreliefs mit christlichen Motiven.",
+      "Die sogenannte \\'Bibel aus Stein\\' an der Fassade zeigt komplexe Sandsteinreliefs mit christlichen Motiven.",
       "Im Dom-Museum werden seltene mittelalterliche Textilien und Reliquien aus alten Bischofsgräbern ausgestellt.",
       "Der Nordturm stürzte im 17. Jahrhundert unerwartet ein und wurde erst 200 Jahre später wieder aufgebaut.",
       "Im legendären Bleikeller lagerten einst Bleischmelzen für die Kirchendächer, woraus der Name entstand."
@@ -1069,7 +1069,7 @@ export const poiExtraDe4a: POI[] = [
       "A brémai dóm két tornya lenyűgöző 92,31 méter magas.",
       "Belsejében püspökök és érsekek maradványai nyugszanak pompás kőszarkofágokban.",
       "A dóm eredetileg katolikus volt, de a reformáció óta evangélikus templom.",
-      "A homlokzaton lévő úgynevezett \'Kőből készült Biblia\' összetett homokkő domborműveket mutat be keresztény motívumokkal.",
+      "A homlokzaton lévő úgynevezett \\'Kőből készült Biblia\\' összetett homokkő domborműveket mutat be keresztény motívumokkal.",
       "A dóm múzeumában régi püspöksírokból származó ritka középkori textíliákat és ereklyéket állítanak ki.",
       "Az északi torony a 17. században váratlanul összeomlott, és csak 200 évvel később építették újjá.",
       "A legendás Ólompincében egykor ólomolvasztókat tároltak a templomtetőkhöz, innen ered a név."
@@ -1125,19 +1125,19 @@ export const poiExtraDe4a: POI[] = [
       de: [
       "Am Standort Bremen sind rund 4.500 hochqualifizierte Mitarbeiter für Airbus tätig.",
       "Jeder Tragflügel eines zivilen Airbus-Flugzeugs durchläuft in der Planung oder Fertigung die Bremer Hallen.",
-      "Das in Bremen gebaute Weltraumlabor \'Columbus\' ist seit 2008 Teil der internationalen Raumstation ISS.",
+      "Das in Bremen gebaute Weltraumlabor \\'Columbus\\' ist seit 2008 Teil der internationalen Raumstation ISS.",
       "In Bremen werden die gewaltigen Oberstufen für die europäische Trägerrakete Ariane 5 und Ariane 6 gefertigt.",
       "Historisch wurde in Bremen 1936 der erste funktionierende Hubschrauber der Welt (Focke-Wulf Fw 61) entwickelt.",
-      "Die Transportflugzeuge \'Beluga\' fliegen riesige Tragflächenteile aus Bremen zu den Endmontagelinien in Toulouse.",
+      "Die Transportflugzeuge \\'Beluga\\' fliegen riesige Tragflächenteile aus Bremen zu den Endmontagelinien in Toulouse.",
       "Das Werk besitzt eine der modernsten Anlagen für die Entwicklung von klimaschonendem Fliegen (Zero-Emission)."
     ],
       hu: [
       "A brémai telephelyen az Airbus mintegy 4500 magasan képzett munkatársat foglalkoztat.",
       "Minden civil Airbus repülőgép szárnya áthalad a brémai csarnokokon a tervezés vagy a gyártás során.",
-      "A Brémában épített \'Columbus\' űrlaboratórium 2008 óta a Nemzetközi Űrállomás (ISS) része.",
+      "A Brémában épített \\'Columbus\\' űrlaboratórium 2008 óta a Nemzetközi Űrállomás (ISS) része.",
       "Brémában gyártják az európai Ariane 5 és Ariane 6 hordozórakéták hatalmas felső fokozatait.",
       "Történelmileg 1936-ban Brémában fejlesztették ki a világ első működő helikopterét (Focke-Wulf Fw 61).",
-      "A \'Beluga\' szállító repülőgépek hatalmas szárnyalkatrészeket repítenek Brémából a toulouse-i végszerelő sorokra.",
+      "A \\'Beluga\\' szállító repülőgépek hatalmas szárnyalkatrészeket repítenek Brémából a toulouse-i végszerelő sorokra.",
       "A gyár az egyik legmodernebb létesítménnyel rendelkezik a klímabarát (kibocsátásmentes) repülés fejlesztésére."
     ],
       ro: [],
@@ -1192,18 +1192,18 @@ export const poiExtraDe4a: POI[] = [
       "Die Böttcherstraße ist genau 110 Meter lang und steht seit 1973 als Gesamtanlage unter Denkmalschutz.",
       "Das Lichtbringer-Relief von Bernhard Hoetger aus purem Gold ziert den markanten Eingang zur Straße.",
       "Das Paula Modersohn-Becker Museum wurde 1927 eröffnet und ist das älteste Museum für eine Künstlerin weltweit.",
-      "Ludwig Roselius finanzierte den Bau durch den Erfolg seines \'Kaffee HAG\' (erster entkoffeinierter Kaffee).",
+      "Ludwig Roselius finanzierte den Bau durch den Erfolg seines \\'Kaffee HAG\\' (erster entkoffeinierter Kaffee).",
       "Das Glockenspiel besteht aus 30 handgefertigten Glocken aus echtem Meißner Porzellan.",
-      "Die Architektur war den Nationalsozialisten zu modern; sie nannten es \'entartete Kunst\', ließen es aber stehen.",
+      "Die Architektur war den Nationalsozialisten zu modern; sie nannten es \\'entartete Kunst\\', ließen es aber stehen.",
       "Im Roselius-Haus finden sich wertvolle Kunstwerke aus dem Mittelalter und der Renaissance."
     ],
       hu: [
       "A Böttcherstraße pontosan 110 méter hosszú, és 1973 óta teljes egészként műemlékvédelem alatt áll.",
       "Az utca jellegzetes bejáratát Bernhard Hoetger tiszta aranyból készült Fényhozó-domborműve díszíti.",
       "A Paula Modersohn-Becker Múzeum 1927-ben nyílt meg, és a világ legrégebbi női művésznek szentelt múzeuma.",
-      "Ludwig Roselius a \'Kaffee HAG\' (az első koffeinmentes kávé) sikeréből finanszírozta az építkezést.",
+      "Ludwig Roselius a \\'Kaffee HAG\\' (az első koffeinmentes kávé) sikeréből finanszírozta az építkezést.",
       "A harangjáték 30 darab, valódi meisseni porcelánból készült, kézzel formált harangból áll.",
-      "Az építészet túl modern volt a nemzetiszocialisták számára; \'elfajzott művészetnek\' bélyegezték, de meghagyták.",
+      "Az építészet túl modern volt a nemzetiszocialisták számára; \\'elfajzott művészetnek\\' bélyegezték, de meghagyták.",
       "A Roselius-házban a középkorból és a reneszánsz korból származó értékes műalkotások találhatók."
     ],
       ro: [],
@@ -1260,7 +1260,7 @@ export const poiExtraDe4a: POI[] = [
       "Die größten Containerbrücken der Welt stehen hier; sie können Schiffe mit bis zu 24 Containerreihen be- und entladen.",
       "Bremerhaven ist über den direkten Hinterlandverkehr mit hunderten Güterzügen pro Woche vernetzt.",
       "Das Terminal wird vom Unternehmen EUROGATE betrieben und gehört zu den modernsten Anlagen Europas.",
-      "Vom Aussichtsturm \'Container-Aussichtsturm\' haben Besucher einen perfekten Panoramablick auf den laufenden Betrieb.",
+      "Vom Aussichtsturm \\'Container-Aussichtsturm\\' haben Besucher einen perfekten Panoramablick auf den laufenden Betrieb.",
       "Im Gegensatz zu Hamburg müssen die Schiffe hier nicht tideabhängig lange Flüsse hinauffahren."
     ],
       hu: [
@@ -1269,7 +1269,7 @@ export const poiExtraDe4a: POI[] = [
       "A világ legnagyobb konténerdarujai állnak itt; akár 24 konténersorral rendelkező hajókat is be- és ki tudnak rakodni.",
       "Bremerhaven közvetlen hátországi forgalom révén hetente több száz tehervonattal van összeköttetésben.",
       "A terminált az EUROGATE vállalat üzemelteti, és Európa legmodernebb létesítményei közé tartozik.",
-      "A \'Konténer-kilátótoronyból\' (Container-Aussichtsturm) a látogatók tökéletes panorámát élvezhetnek a folyamatban lévő műveletekre.",
+      "A \\'Konténer-kilátótoronyból\\' (Container-Aussichtsturm) a látogatók tökéletes panorámát élvezhetnek a folyamatban lévő műveletekre.",
       "Hamburggal ellentétben itt a hajóknak nem kell árapálytól függően hosszú folyókon felfelé haladniuk."
     ],
       ro: [],
@@ -1325,8 +1325,8 @@ export const poiExtraDe4a: POI[] = [
       "Die Außenhaut besteht aus genau 40.000 handgefertigten Edelstahlschindeln, die in der Sonne glänzen.",
       "Das Universum Bremen hat seit seiner Eröffnung im Jahr 2000 über 8 Millionen Besucher angezogen.",
       "Die Ausstellungsfläche umfasst rund 4.000 Quadratmeter drinnen sowie einen großen Außenbereich.",
-      "Im Themenbereich \'Natur\' können Besucher in einem Raum ein Erdbeben der Stärke 6 spüren.",
-      "Das Zentrum folgt dem \'Hands-on\'-Prinzip, das heißt, fast alles darf und soll angefasst werden.",
+      "Im Themenbereich \\'Natur\\' können Besucher in einem Raum ein Erdbeben der Stärke 6 spüren.",
+      "Das Zentrum folgt dem \\'Hands-on\\'-Prinzip, das heißt, fast alles darf und soll angefasst werden.",
       "Ein 27 Meter hoher Turm im Außenpark bietet Experimente rund um das Thema Wind und Wetter."
     ],
       hu: [
@@ -1334,8 +1334,8 @@ export const poiExtraDe4a: POI[] = [
       "A külső burkolat pontosan 40 000, kézzel készített rozsdamentes acélzsindelyből áll, amelyek csillognak a napon.",
       "Az Universum Bremen a 2000-es megnyitása óta több mint 8 millió látogatót vonzott.",
       "A kiállítási terület körülbelül 4000 négyzetmétert foglal magában beltéren, valamint egy nagy külső területet.",
-      "A \'Természet\' tematikus részen a látogatók egy 6-os erősségű földrengést érezhetnek át egy szobában.",
-      "A központ a \'Hands-on\' (fogd meg) elvet követi, ami azt jelenti, hogy szinte mindent meg szabad és meg is kell érinteni.",
+      "A \\'Természet\\' tematikus részen a látogatók egy 6-os erősségű földrengést érezhetnek át egy szobában.",
+      "A központ a \\'Hands-on\\' (fogd meg) elvet követi, ami azt jelenti, hogy szinte mindent meg szabad és meg is kell érinteni.",
       "A külső parkban lévő 27 méter magas torony a szél és az időjárás témájához kínál kísérleteket."
     ],
       ro: [],
@@ -1392,7 +1392,7 @@ export const poiExtraDe4a: POI[] = [
     },
     factsAdvanced: {
       de: [
-      "Das Viertel verdankt seinen architektonischen Charme den sogenannten \'Bremer Häusern\', die oft einen kleinen Vorgarten und Wintergarten haben.",
+      "Das Viertel verdankt seinen architektonischen Charme den sogenannten \\'Bremer Häusern\\', die oft einen kleinen Vorgarten und Wintergarten haben.",
       "In den 1970er Jahren verhinderten Proteste der Anwohner, dass das Viertel abgerissen und durch eine Stadtautobahn ersetzt wurde.",
       "Die Kunsthalle Bremen am Rand des Viertels beherbergt Kunstwerke aus sieben Jahrhunderten.",
       "Es ist das absolute Zentrum der Bremer Kneipen-, Club- und Kulturszene.",
@@ -1401,7 +1401,7 @@ export const poiExtraDe4a: POI[] = [
       "Der Ostertorsteinweg war früher Teil einer wichtigen historischen Handelsroute nach Osten."
     ],
       hu: [
-      "A Viertel építészeti varázsát az úgynevezett \'brémai házaknak\' köszönheti, amelyek gyakran kis előkerttel és télikerttel rendelkeznek.",
+      "A Viertel építészeti varázsát az úgynevezett \\'brémai házaknak\\' köszönheti, amelyek gyakran kis előkerttel és télikerttel rendelkeznek.",
       "Az 1970-es években a helyi lakosok tiltakozásai akadályozták meg, hogy a negyedet lerombolják, és egy városi autópályával helyettesítsék.",
       "A Viertel szélén található brémai Kunsthalle (Műcsarnok) hét évszázad művészeti alkotásainak ad otthont.",
       "Ez a brémai kocsma-, klub- és kulturális élet abszolút központja.",

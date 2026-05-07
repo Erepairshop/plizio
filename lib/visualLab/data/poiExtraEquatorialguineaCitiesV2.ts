@@ -73,7 +73,18 @@ export const poiExtraEquatorialguineaCitiesV2: POI[] = [
       hu: "Ebebiyín a szárazföld északkeleti részén fekszik, közvetlenül a gaboni és kameruni hármashatárnál.",
       ro: "Ebebiyín este situat în nord-estul continentului, direct la granița triplă cu Gabon și Camerun.",
       en: "Ebebiyín is located in the northeast of the mainland, right at the triple border with Gabon and Cameroon."
+    ,
+    descriptionAdvanced: {
+      de: "Ebebiyín, strategisch an der nordöstlichen Grenze gelegen, dient als wichtiger Handelsposten für den grenzüberschreitenden Verkehr zwischen Äquatorialguinea, Gabun und Kamerun. Die Stadt hat sich aufgrund ihrer Lage am sogenannten Dreiländereck zu einem vitalen wirtschaftlichen Knotenpunkt entwickelt, der täglich von Händlern und Reisenden frequentiert wird. Trotz ihrer geschäftigen Natur bewahrt Ebebiyín den Charakter einer lebendigen Grenzstadt, in der lokale Märkte das Stadtbild bestimmen und den Austausch von Waren und Kulturen fördern. Die Infrastruktur der Stadt wird kontinuierlich ausgebaut, um dem wachsenden Bedarf an effizienter Logistik in dieser vernetzten Grenzregion gerecht zu werden. Geografie K7, Wirtschaft K8.",
+      en: "Ebebiyin is strategically located on the northeastern border of Equatorial Guinea, serving as a vital trade outpost at the junction with Gabon and Cameroon. Situated in the Kie-Ntem province, the city has evolved into an essential economic hub due to its location at the 'tri-border' point, attracting daily transit of merchants and travelers. Despite the bustling cross-border activity, Ebebiyin maintains the vibrant character of a border town where local markets define the urban landscape and facilitate the exchange of goods and cultural influences. Infrastructure development continues to support the growing demand for efficient logistics in this connected border region. Geography K7, Economics K8."
     },
+    factsAdvanced: {
+      en: ["Located in the northeast of the Rio Muni region.", "Border crossing point with Cameroon and Gabon.", "Key transit hub for goods in the northeast.", "Population is a diverse mix of local ethnic groups.", "Climate characterized by lush tropical rainforests.", "Center of the regional service sector."]
+    },
+    factsAdvanced: {
+      de: ["Liegt im Nordosten der Region Río Muni.", "Grenzübergangsstelle zu Kamerun und Gabun.", "Wichtiger Umschlagplatz für Waren im Nordosten.", "Bevölkerung besteht aus einer Mischung lokaler Ethnien.", "Das Klima ist geprägt durch tropische Regenwälder.", "Zentrum des lokalen Dienstleistungssektors."]
+    }
+  },
     facts: {
       de: ["Bedeutendes Handelszentrum.", "Wichtiger Knotenpunkt für den grenzüberschreitenden Verkehr."],
       hu: ["Jelentős kereskedelmi központ.", "Fontos csomópont a határokon átnyúló forgalom számára."],
@@ -92,7 +103,18 @@ export const poiExtraEquatorialguineaCitiesV2: POI[] = [
       hu: "Mongomo egy modern város Río Muni keleti részén, a gaboni határ közelében.",
       ro: "Mongomo este un oraș modern în estul regiunii Río Muni, aproape de granița cu Gabon.",
       en: "Mongomo is a modern city in eastern Río Muni, located near the border with Gabon."
+    ,
+    descriptionAdvanced: {
+      de: "Mongomo ist eine moderne, aufstrebende Stadt im Osten der Region Río Muni und fungiert als einer der wichtigsten Verwaltungsstandorte Äquatorialguineas. Die Stadt ist vor allem als Heimatort einflussreicher politischer Persönlichkeiten bekannt und hat in den letzten Jahren eine rasante bauliche Entwicklung erfahren, die durch moderne Regierungsbauten und eine beeindruckende Basilika unterstrichen wird. Diese architektonischen Highlights heben Mongomo aus dem typischen Bild ländlicher Städte hervor und machen sie zu einem symbolischen Zentrum nationaler Ambitionen. Die Nähe zur gabunischen Grenze begünstigt zudem den regionalen Handel und stärkt die wirtschaftliche Anbindung des östlichen Festlands. Geschichte K8, Fächer: Sozialkunde K7.",
+      en: "Mongomo is a modern and rapidly developing city in the eastern part of the Rio Muni region, serving as one of the most important administrative centers in Equatorial Guinea. Known as the hometown of influential political figures, the city has seen significant structural investment in recent years, highlighted by modern government buildings and a majestic basilica. These landmarks distinguish Mongomo from typical rural towns and reflect the nation's ambitious development goals. Its proximity to the Gabonese border fosters regional trade and strengthens the economic integration of the eastern mainland. History K8, Social Studies K7."
     },
+    factsAdvanced: {
+      en: ["Dominated by the architecture of the Basilica of Mongomo.", "Strategically significant location near the Gabonese border.", "Substantial infrastructural investments in recent years.", "Key administrative hub for the eastern region.", "The Basilica is one of the largest in West Africa.", "Economic center for the eastern portion of the country."]
+    },
+    factsAdvanced: {
+      de: ["Stadtbild geprägt durch die Basilika von Mongomo.", "Strategisch wichtige Lage nahe der gabunischen Grenze.", "Erlebte in den letzten Jahren bedeutende infrastrukturelle Investitionen.", "Wichtiges Zentrum für die regionale Verwaltung.", "Die Basilika ist eine der größten ihrer Art in Westafrika.", "Wirtschaftliches Zentrum für den östlichen Teil des Landes."]
+    }
+  },
     facts: {
       de: ["Heimatstadt mehrerer Präsidenten des Landes.", "Verfügt über eine beeindruckende Basilika."],
       hu: ["Az ország több elnökének szülővárosa.", "Lenyűgöző bazilikával rendelkezik."],
@@ -110,7 +132,18 @@ export const poiExtraEquatorialguineaCitiesV2: POI[] = [
       hu: "Luba Bioko szigetének második legnagyobb városa és a faipar egyik jelentős kikötője.",
       ro: "Luba este al doilea oraș ca mărime de pe insula Bioko și un port semnificativ pentru industria lemnului.",
       en: "Luba is the second-largest city on Bioko Island and a significant port for the timber industry."
+    ,
+    descriptionAdvanced: {
+      de: "Luba, an der Südwestküste von Bioko gelegen, ist nach der Hauptstadt Malabo die zweitgrößte Stadt der Insel und fungiert als essenzieller Hafenstandort für die lokale Holzindustrie. Die Stadt ist durch ihre idyllische Lage zwischen den dichten Wäldern des Inselinneren und der weiten Küste des Atlantiks geprägt. Luba dient als Tor zur weniger erschlossenen Südseite der Insel Bioko und bietet Reisenden einen Einblick in eine authentischere Lebensweise. Mit ihren vulkanischen Stränden und der Nähe zu naturbelassenen Waldgebieten hat sich Luba zudem zu einem Ausgangspunkt für Naturliebhaber und Wanderer entwickelt, die die ökologische Vielfalt der Region erkunden möchten. Geografie K7, Ökologie K8.",
+      en: "Luba, situated on the southwest coast of Bioko Island, is the second-largest city on the island and a crucial port location for the local timber industry. Its idyllic setting between dense forests of the island's interior and the expansive Atlantic coast gives Luba a unique character. Serving as a gateway to the less explored southern side of Bioko, it offers travelers an authentic glimpse into the island's lifestyle. With volcanic beaches and proximity to unspoiled woodland, Luba has become a starting point for nature enthusiasts and hikers seeking to explore the ecological diversity of the region. Geography K7, Ecology K8."
     },
+    factsAdvanced: {
+      en: ["Second-largest settlement on Bioko Island.", "Major deep-water port for timber exports.", "Surrounded by fertile volcanic soil.", "Vital departure point for expeditions into the southern part of the island.", "Climate heavily influenced by moist Atlantic winds.", "Long historical significance as a trading center."]
+    },
+    factsAdvanced: {
+      de: ["Zweitgrößte Siedlung auf Bioko.", "Bedeutender Tiefseehafen für Holzexporte.", "Umgeben von vulkanischem Boden.", "Wichtiger Ausgangspunkt für Expeditionen in den Süden der Insel.", "Das Klima ist stark beeinflusst durch die feuchten Winde des Atlantiks.", "Die Stadt hat eine lange Geschichte als Handelsort."]
+    }
+  },
     facts: {
       de: ["Bekannt für seine vulkanischen Sandstrände.", "Tor zum südlichen Teil der Insel Bioko."],
       hu: ["Vulkanikus homokos strandjairól ismert.", "Kapu Bioko szigetének déli részéhez."],
@@ -128,7 +161,18 @@ export const poiExtraEquatorialguineaCitiesV2: POI[] = [
       hu: "Evinayong Centro Sur tartomány székhelye, amely festői környezetben, a központi felföldön található.",
       ro: "Evinayong este capitala provinciei Centro Sur, situată pitoresc în munții centrali.",
       en: "Evinayong is the capital of Centro Sur Province, scenically located in the central highlands."
+    ,
+    descriptionAdvanced: {
+      de: "Evinayong liegt als malerische Hauptstadt der Provinz Centro Sur in den bewaldeten Highlands und ist bekannt für ihr vergleichsweise mildes und angenehmes Klima im Landesinneren. Als administratives Herz der Region ist die Stadt ein zentraler Umschlagplatz für landwirtschaftliche Erzeugnisse aus dem Umland und ein wichtiger Verbindungspunkt für das Straßennetz von Río Muni. Die Stadt besticht durch eine entspannte Atmosphäre, die sie von den hektischen Küstenmetropolen abhebt. Trotz ihrer überschaubaren Größe ist Evinayong ein wesentlicher Akteur für die Versorgung der lokalen Bevölkerung und ein Zentrum der bäuerlichen Traditionen, die den Lebensrhythmus in den zentralen Provinzen Äquatorialguineas bestimmen. Geografie K6, Landwirtschaft K8.",
+      en: "Evinayong, the picturesque capital of the Centro Sur province, is nestled in the wooded highlands and is renowned for its comparatively mild and pleasant inland climate. As the administrative heart of the region, the city is a central hub for agricultural produce and a key connection point for the road network of Rio Muni. The city boasts a relaxed atmosphere, contrasting with the hectic coastal metropolises. Despite its modest size, Evinayong plays an essential role in supporting the local population and preserving traditional rural lifestyles that define the rhythm of life in Equatorial Guinea's central provinces. Geography K6, Agriculture K8."
     },
+    factsAdvanced: {
+      en: ["Capital of the Centro Sur province.", "Situated in the central highlands of Rio Muni.", "Known for trade in local agricultural products.", "Climate is more temperate than the coastal region due to altitude.", "Critical transit hub for the interior of the country.", "Surrounding area largely comprised of pristine secondary forest."]
+    },
+    factsAdvanced: {
+      de: ["Hauptstadt der Provinz Centro Sur.", "Liegt im zentralen Hochland von Río Muni.", "Bekannt für den Handel mit lokalen Agrarprodukten.", "Klima ist aufgrund der Höhenlage gemäßigter als an der Küste.", "Wichtiger Knotenpunkt für den Transit im Landesinneren.", "Die Umgebung besteht weitgehend aus unberührtem Sekundärwald."]
+    }
+  },
     facts: {
       de: ["Bekannt für sein kühleres Hochlandklima.", "Zentrum der landwirtschaftlichen Produktion der Region."],
       hu: ["Hűvösebb hegyvidéki éghajlatáról ismert.", "A régió mezőgazdasági termelésének központja."],
@@ -147,7 +191,18 @@ export const poiExtraEquatorialguineaCitiesV2: POI[] = [
       hu: "Annobón szigetének fővárosa egy távoli település, amely egyedülálló kultúrával rendelkezik.",
       ro: "Capitala insulei Annobón este o așezare izolată, cu o cultură unică.",
       en: "The capital of Annobón Island is a remote settlement with a unique culture."
+    ,
+    descriptionAdvanced: {
+      de: "San Antonio de Palé ist die einzige nennenswerte Siedlung und die Hauptstadt der abgelegenen Vulkaninsel Annobón, die weit südlich vom Äquator im Golf von Guinea liegt. Aufgrund ihrer geografischen Isolation hat sich dort eine einzigartige kulturelle Identität entwickelt, die sich stark von der des Festlandes und der Hauptinsel Bioko unterscheidet. Ein bemerkenswertes Merkmal der lokalen Gesellschaft ist der Gebrauch eines portugiesisch-basierten Dialekts, ein Überbleibsel der historischen Verbindungen zu den benachbarten Inseln São Tomé und Príncipe. Die Stadt ist bescheiden und eng mit dem Meer verbunden, das die Lebensgrundlage für die Mehrheit der Einwohner bildet. Geografie K5, Kultur K7.",
+      en: "San Antonio de Pale is the only significant settlement and capital of the remote volcanic island of Annobon, located far south of the equator in the Gulf of Guinea. Due to its geographical isolation, a unique cultural identity has emerged there, distinct from both the mainland and Bioko Island. A notable feature of local society is the use of a Portuguese-based dialect, a remnant of historical connections to neighboring Sao Tome and Principe. The town is modest and deeply connected to the sea, which serves as the primary livelihood for most inhabitants. Geography K5, Culture K7."
     },
+    factsAdvanced: {
+      en: ["Only town on the island of Annobon.", "Distinct linguistic identity rooted in Portuguese influences.", "Geographically distant from the mainland of Equatorial Guinea.", "Island of volcanic origin.", "Economy based largely on traditional small-scale fishing.", "Extremely isolated and peaceful location in the South Atlantic."]
+    },
+    factsAdvanced: {
+      de: ["Einzige Stadt auf der Insel Annobón.", "Besondere sprachliche Identität durch portugiesische Wurzeln.", "Geografisch weit vom äquatorialguineischen Festland entfernt.", "Die Insel ist vulkanischen Ursprungs.", "Wirtschaft basiert maßgeblich auf traditionellem Fischfang.", "Sehr isolierte und friedliche Lage im Südatlantik."]
+    }
+  },
     facts: {
       de: ["Einzige Stadt auf der Insel Annobón.", "Bewohner sprechen einen portugiesisch-basierten Dialekt."],
       hu: ["Az egyetlen város Annobón szigetén.", "A lakosok portugál alapú nyelvjárást beszélnek."],
@@ -195,7 +250,18 @@ export const poiExtraEquatorialguineaCitiesV2: POI[] = [
       hu: "Añisoc Río Muni belső részének egyik fontos városa, amely élénk piacáról ismert.",
       ro: "Añisoc este un oraș important din interiorul regiunii Río Muni, cunoscut pentru piața sa plină de viață.",
       en: "Añisoc is an important inland city in Río Muni, known for its lively market."
+    ,
+    descriptionAdvanced: {
+      de: "Añisoc ist eine pulsierende Stadt im Herzen von Río Muni und ein zentraler Handelsknotenpunkt, an dem wichtige Verkehrsachsen des Festlandes aufeinandertreffen. Die Stadt zeichnet sich durch ihren lebhaften Markt aus, der nicht nur für die lokale Bevölkerung, sondern auch für Händler aus der gesamten Provinz von großer Bedeutung ist. Durch die verkehrsgünstige Lage an einer der Hauptschlagadern der Region ist Añisoc ein wesentlicher Akteur im lokalen Warenverkehr und trägt maßgeblich zur wirtschaftlichen Dynamik des Landesinneren bei. Die städtische Umgebung vermittelt ein authentisches Bild vom Leben abseits der Küsten, in dem Handel und soziale Interaktion den Alltag bestimmen. Wirtschaft K7, Geografie K6.",
+      en: "Anisoc is a vibrant city in the heart of Rio Muni, serving as a central trade hub where major mainland transportation routes converge. The city is defined by its lively market, which holds great significance not only for the local population but also for merchants from across the entire province. Due to its advantageous location on one of the region's main arteries, Anisoc is an essential player in local goods traffic and contributes significantly to the economic vitality of the interior. The urban environment offers an authentic picture of life away from the coast, where trade and social interaction shape daily routines. Economics K7, Geography K6."
     },
+    factsAdvanced: {
+      en: ["Strategically located in the center of Rio Muni.", "Central marketplace for the surrounding region.", "Known for bustling exchange at the municipal market.", "Junction point for major regional road connections.", "Important supply location for the mainland interior.", "City experiencing steady growth in commercial activity."]
+    },
+    factsAdvanced: {
+      de: ["Verkehrsgünstige Lage im Zentrum von Río Muni.", "Zentraler Handelsplatz für die umliegende Region.", "Bekannt für den regen Austausch auf dem städtischen Markt.", "Schnittpunkt wichtiger regionaler Straßenverbindungen.", "Wichtiger Versorgungsstandort im Landesinneren.", "Die Stadt erlebt eine stetige Zunahme an kommerzieller Aktivität."]
+    }
+  },
     facts: {
       de: ["Bedeutendes Zentrum für den regionalen Handel.", "Liegt an einer wichtigen Straßenkreuzung."],
       hu: ["A regionális kereskedelem jelentős központja.", "Egy fontos útkereszteződésnél fekszik."],
@@ -213,7 +279,18 @@ export const poiExtraEquatorialguineaCitiesV2: POI[] = [
       hu: "Mbini a Benito-folyó torkolatánál fekszik, és festői tengerparti fekvéséről ismert.",
       ro: "Mbini este situat la gura de vărsare a râului Benito și este cunoscut pentru locația sa pitorească la mare.",
       en: "Mbini is located at the mouth of the Benito River and is known for its scenic seaside location."
+    ,
+    descriptionAdvanced: {
+      hu: "Mbini, a Río Muni régió part menti városa, a Benito-folyó torkolatánál fekszik. A város az elmúlt években jelentős fejlődésen ment keresztül, különösen a híd megépülése után, amely összeköti a tengerparti övezetet a szárazföld belsejével. A területet körülvevő sűrű mangroveerdők és folyóvízi élőhelyek gazdag élővilágot biztosítanak, ami a helyi halászat számára is meghatározó. Mbini egyre inkább fontos turisztikai és logisztikai központtá válik, amely összeköti a modern infrastruktúrát a hagyományos afrikai környezettel. Tanterv: Földrajz K6, Környezettan K8.",
+      en: "Mbini, a coastal city in the Rio Muni region, sits at the mouth of the Benito River. In recent years, the town has experienced significant development, particularly following the construction of a bridge that connects the coastal zone to the mainland interior. The dense mangrove forests and riverine habitats surrounding the area provide a rich biodiversity, which is also crucial for local fishing. Mbini is increasingly becoming an important tourist and logistical center, bridging the gap between modern infrastructure and the traditional African environment. Geography K6, Environmental Studies K8."
     },
+    factsAdvanced: {
+      en: ["Situated at the mouth of the Benito River.", "Features a modern bridge for regional connectivity.", "Surrounded by a rich mangrove ecosystem.", "Important local center for fishing.", "Increasing logistical importance.", "Promising location for coastal tourism development."]
+    },
+    factsAdvanced: {
+      hu: ["A Benito-folyó torkolatánál fekszik.", "A város egy modern híddal rendelkezik.", "Gazdag mangrove-ökoszisztéma veszi körül.", "Fontos helyi halászközpont.", "Növekvő logisztikai jelentőségű város.", "A part menti turizmus egyik ígéretes helyszíne."]
+    }
+  },
     facts: {
       de: ["Berühmt für die Brücke über den Benito-Fluss.", "Ein beliebtes Ziel für frische Meeresfrüchte."],
       hu: ["Híres a Benito-folyón átívelő hídjáról.", "A friss tengeri ételek kedvelt célpontja."],
@@ -231,7 +308,18 @@ export const poiExtraEquatorialguineaCitiesV2: POI[] = [
       hu: "Akonibe egy csendes város a szárazföld déli részén, sűrű esőerdővel körülvéve.",
       ro: "Akonibe este un oraș liniștit în partea de sud a continentului, înconjurat de pădure tropicală densă.",
       en: "Akonibe is a quiet town in the southern part of the mainland, surrounded by dense rainforest."
+    ,
+    descriptionAdvanced: {
+      hu: "Aconibe Egyenlítői-Guinea belsejében, Wele-Nzas tartományban található település, amely a mezőgazdasági régiók kereskedelmi központjaként ismert. A város környezete dombos, trópusi erdőkkel borított, ahol a helyi gazdálkodók főként maniókát és kakaót termesztenek. Aconibe stratégiai elhelyezkedése miatt fontos gyűjtőpont a környező falvakból érkező áruk számára. A település életét a hagyományos kereskedelmi utak és a helyi piacok nyüzsgése határozza meg, amelyek elengedhetetlenek a tartományi ellátás szempontjából. Tanterv: Földrajz K6, Gazdaságtan K7.",
+      en: "Aconibe is a settlement located in the interior of Equatorial Guinea, specifically in the Wele-Nzas province, known as a commercial center for agricultural regions. The city's environment is hilly and covered in tropical forests, where local farmers primarily cultivate cassava and cocoa. Due to its strategic location, Aconibe acts as a key collection point for goods arriving from surrounding villages. The life of the town is defined by traditional trade routes and the bustling activity of local markets, which are essential for provincial supply chains. Geography K6, Economics K7."
     },
+    factsAdvanced: {
+      en: ["Located in the province of Wele-Nzas.", "Commercial hub for agricultural trade.", "Main crops cultivated are cassava and cocoa.", "Plays an essential role in regional food supply.", "Surrounding forest areas possess significant biodiversity.", "Local markets serve as the social and economic meeting point of the region."]
+    },
+    factsAdvanced: {
+      hu: ["Wele-Nzas tartomány egyik települése.", "Mezőgazdasági kereskedelmi központ.", "Fő termények: manióka és kakaó.", "Fontos szerepet játszik a regionális élelmiszerellátásban.", "A környező erdős területek jelentős biodiverzitással bírnak.", "A helyi piacok a régió társadalmi és gazdasági találkozópontjai."]
+    }
+  },
     facts: {
       de: ["Wichtiger Außenposten im südlichen Waldgebiet.", "Traditionelles Zentrum der Fang-Kultur."],
       hu: ["Fontos bázis a déli erdővidéken.", "A fang kultúra hagyományos központja."],
@@ -250,7 +338,18 @@ export const poiExtraEquatorialguineaCitiesV2: POI[] = [
       hu: "Micomeseng a szárazföld északi részén található, és a kakaótermelés egyik központja.",
       ro: "Micomeseng este situat în nordul continentului și este un centru al producției de cacao.",
       en: "Micomeseng is located in the north of the mainland and is a center for cocoa production."
+    ,
+    descriptionAdvanced: {
+      hu: "Micomeseng a határ menti kereskedelem egyik fontos állomása Kie-Ntem tartományban. A város elhelyezkedése miatt élénk kapcsolatot tart fenn a környező területekkel, és a határátlépő forgalom révén a kereskedelem meghatározó része a helyi gazdaságnak. A környék domborzata és éghajlata kedvez a trópusi mezőgazdaságnak, különösen a gyümölcsök és zöldségek termesztésének, amelyek a helyi piacokon is megjelennek. Tanterv: Földrajz K7, Gazdaságtan K8.",
+      en: "Micomeseng is an important stop for border-related trade in the province of Kie-Ntem. Because of its location, the city maintains vibrant connections with the surrounding areas, and trade from cross-border traffic forms a crucial part of the local economy. The topography and climate of the surrounding area favor tropical agriculture, particularly the cultivation of fruits and vegetables, which also appear in the local markets. Geography K7, Economics K8."
     },
+    factsAdvanced: {
+      en: ["Located in the province of Kie-Ntem.", "Important commercial center near the border.", "Local economy is based on border-zone trade.", "Agricultural crop cultivation is characteristic of the area.", "City features continuously improving infrastructure.", "Central role in regional transit."]
+    },
+    factsAdvanced: {
+      hu: ["Kie-Ntem tartományban található.", "Fontos kereskedelmi központ a határ közelében.", "A helyi gazdaság alapja a határmenti cserekereskedelem.", "Mezőgazdasági termények termesztése jellemző.", "A város folyamatosan fejlődő infrastruktúrával rendelkezik.", "Központi szerepet játszik a regionális tranzitban."]
+    }
+  },
     facts: {
       de: ["Wichtig für die Landwirtschaft im Norden.", "Liegt nahe der Grenze zu Kamerun."],
       hu: ["Fontos az északi mezőgazdaság számára.", "A kameruni határ közelében fekszik."],
@@ -269,7 +368,18 @@ export const poiExtraEquatorialguineaCitiesV2: POI[] = [
       hu: "Nsok egy távoli határváros Egyenlítői-Guinea szárazföldi részének délkeleti felén.",
       ro: "Nsok este un oraș de frontieră izolat în partea de sud-est a continentului Guineei Ecuatoriale.",
       en: "Nsok is a remote border town in the southeastern part of mainland Equatorial Guinea."
+    ,
+    descriptionAdvanced: {
+      hu: "Nsok egy tipikus szárazföldi kisváros Egyenlítői-Guinea keleti részén, amely a helyi közösségek életében játszik központi szerepet. A település körül a trópusi erdőgazdálkodás és a kiskerti mezőgazdaság a meghatározó, amely a helyi élelmezés gerincét adja. Nsok a belső régiók közlekedési hálózatának egy fontos csomópontja, amelyen keresztül a vidéki termékek eljutnak a nagyobb városi piacokra. A város csendesebb ritmusa lehetőséget ad a hagyományos életmód megfigyelésére. Tanterv: Földrajz K6, Szociális ismeretek K7.",
+      en: "Nsok is a typical inland small town in the eastern part of Equatorial Guinea, playing a central role in the lives of local communities. The surrounding area is defined by tropical forest management and small-scale agriculture, providing the backbone for local sustenance. Nsok serves as an important junction in the inland transportation network, through which rural products reach larger city markets. The town's quieter pace offers an opportunity to observe traditional lifestyles. Geography K6, Social Studies K7."
     },
+    factsAdvanced: {
+      en: ["Inland town in the eastern region.", "Hub for agriculture and forestry management.", "Important connection point between rural and urban regions.", "Central hub for the local community.", "Quiet, traditional settlement.", "Part of the regional food supply chain."]
+    },
+    factsAdvanced: {
+      hu: ["Keleti régió szárazföldi városa.", "A mezőgazdaság és erdőgazdálkodás központja.", "Fontos összekötő pont a vidéki és városi régiók között.", "A helyi közösség életének meghatározó állomása.", "Csendesebb, hagyományőrző település.", "A regionális élelmiszerellátás láncolatának része."]
+    }
+  },
     facts: {
       de: ["Tor zum Handel mit Gabun.", "Umgeben von weitgehend unberührter Natur."],
       hu: ["A Gabonnal folytatott kereskedelem kapuja.", "Nagy részt érintetlen természet veszi körül."],
@@ -288,7 +398,18 @@ export const poiExtraEquatorialguineaCitiesV2: POI[] = [
       hu: "Cogo a Muni-folyó torkolatánál fekszik, és gyarmati múltjáról ismert.",
       ro: "Cogo se află la gura de vărsare a râului Muni și este cunoscut pentru trecutul său colonial.",
       en: "Cogo is located at the mouth of the Muni River and is known for its colonial past."
+    ,
+    descriptionAdvanced: {
+      hu: "Cogo a Río Muni régió déli határán, az Estuario de Muni folyó torkolatvidékén fekszik, és jelentős tengeri kikötője az országnak. A település történelmileg fontos szerepet játszott a régió kereskedelmében, ma pedig a halászat és az erdőgazdálkodás egyik legfontosabb központja. A környező mangroveerdők és vizes élőhelyek védett területnek számítanak, amelyek gazdag biodiverzitást biztosítanak. Cogo stratégiai fekvése révén fontos kapu a déli régiók számára, miközben természeti szépségei miatt a jövőbeni turisztikai fejlesztések számára is potenciállal bír. Tanterv: Földrajz K7, Környezettan K8.",
+      en: "Cogo lies on the southern border of the Rio Muni region, at the mouth of the Estuario de Muni, and is an important maritime port for the country. Historically, the town played a significant role in the trade of the region, and today it remains a key center for fishing and forestry management. The surrounding mangrove forests and wetlands are protected areas that ensure rich biodiversity. Cogo's strategic location makes it an important gateway for the southern regions, while its natural beauty holds potential for future tourism developments. Geography K7, Environmental Studies K8."
     },
+    factsAdvanced: {
+      en: ["Situated at the mouth of the Rio Muni estuary.", "Important maritime port city.", "Center for fishing and forestry operations.", "Surrounded by protected mangrove ecosystems.", "Strategic location for southern regional trade.", "Potential hub for future tourism development."]
+    },
+    factsAdvanced: {
+      hu: ["A Río Muni torkolatvidékén fekszik.", "Fontos tengeri kikötőváros.", "A halászat és erdőgazdálkodás központja.", "Védett mangrove-ökoszisztémák övezik.", "Stratégiai fekvésű a déli régiók számára.", "Potenciális turisztikai fejlesztési központ."]
+    }
+  },
     facts: {
       de: ["Bietet einen weiten Blick über das Ästuar.", "Besitzt gut erhaltene koloniale Gebäude."],
       hu: ["Tágas kilátást nyújt a torkolatra.", "Jól megőrzött gyarmati épületekkel rendelkezik."],
@@ -306,7 +427,18 @@ export const poiExtraEquatorialguineaCitiesV2: POI[] = [
       hu: "Nsork a távoli délen fekszik, és fontos kiindulópontként szolgál a Nsork Nemzeti Park látogatásához.",
       ro: "Nsork este situat în extremul sud și servește ca punct de plecare important pentru vizitarea Parcului Național Nsork.",
       en: "Nsork is located in the deep south and serves as a major starting point for visits to Nsork National Park."
+    ,
+    descriptionAdvanced: {
+      hu: "Nsork a szárazföldi rész keleti részén, Wele-Nzas tartományban található, és a környező erdővidékek kereskedelmi központjaként ismert. A város a mezőgazdasági termékek összegyűjtésében és a helyi kereskedelemben játszik alapvető szerepet. A környéken jellemző a hagyományos gazdálkodás és az erdő alapú megélhetés, amely meghatározza az itt élők mindennapjait. Nsork a központi fekvése miatt a régió fontos logisztikai pontja, amelyen keresztül a vidéki termékek eljutnak a távolabbi piacokra. Tanterv: Földrajz K6, Gazdaságtan K8.",
+      en: "Nsork is located in the eastern part of the mainland in the Wele-Nzas province and is known as a commercial center for the surrounding forest regions. The town plays a fundamental role in collecting agricultural products and local trade. Traditional farming and forest-based livelihoods are characteristic of the area, defining the daily lives of the inhabitants. Due to its central location, Nsork is an important logistical point for the region, through which rural products reach more distant markets. Geography K6, Economics K8."
     },
+    factsAdvanced: {
+      en: ["Town in the province of Wele-Nzas.", "Commercial hub for surrounding forest regions.", "Collection point for agricultural products.", "Center for traditional farming practices.", "Important regional logistical station.", "Link between rural and urban market chains."]
+    },
+    factsAdvanced: {
+      hu: ["Wele-Nzas tartomány városa.", "A környező erdővidékek kereskedelmi központja.", "Mezőgazdasági termékgyűjtőpont.", "Hagyományos gazdálkodási központ.", "Fontos regionális logisztikai állomás.", "A vidéki és városi piacokat összekötő pont."]
+    }
+  },
     facts: {
       de: ["Zentrum für Ökotourismus-Initiativen.", "Bekannt für seine hohe biologische Vielfalt."],
       hu: ["Az ökoturisztikai kezdeményezések központja.", "Magas biológiai sokféleségéről ismert."],
@@ -325,7 +457,18 @@ export const poiExtraEquatorialguineaCitiesV2: POI[] = [
       hu: "Riaba egy tengerparti város Bioko szigetén, amely egykori gyarmati kikötőként ismert.",
       ro: "Riaba este un oraș de coastă pe insula Bioko, cunoscut pentru istoria sa ca fost port colonial.",
       en: "Riaba is a coastal town on Bioko Island, known for its history as a former colonial port."
+    ,
+    descriptionAdvanced: {
+      hu: "Riaba egy kisebb, történelmi jelentőségű város Bioko szigetének keleti részén, amely egykor a mezőgazdasági export egyik központja volt. A város elhelyezkedése lehetővé teszi a környező vulkanikus tájak és a partvidék könnyű megközelítését, ami kedvez a lassú turizmus fejlődésének. Riaba atmoszférája csendes, tükrözi a sziget múltbeli gyarmati és agrárfejlődését, és jó példa a biokói életmód konzerválására. A település környékén számos trópusi növénytermesztési projekt valósult meg az évtizedek során. Tanterv: Földrajz K6, Történelem K8.",
+      en: "Riaba is a small town of historical significance in the eastern part of Bioko Island, which was once a center for agricultural exports. The town's location allows for easy access to the surrounding volcanic landscapes and the coast, favoring the development of slow tourism. Riaba's atmosphere is quiet, reflecting the island's past colonial and agricultural development, and it serves as a good example of preserving the Bioko way of life. Over the decades, numerous tropical plant cultivation projects have been implemented in the town's surroundings. Geography K6, History K8."
     },
+    factsAdvanced: {
+      en: ["Located in the eastern part of Bioko Island.", "Historical agricultural center.", "Easy access to volcanic landscapes.", "Quiet, traditional Bioko-style town.", "Played a prominent role in agricultural exports.", "Part of the island's cultural heritage."]
+    },
+    factsAdvanced: {
+      hu: ["Bioko szigetének keleti részén található.", "Történelmi mezőgazdasági központ.", "Könnyű hozzáférés a vulkanikus tájakhoz.", "Csendes, hagyományos biokói városka.", "Kiemelkedő szerepet játszott az agrárexportban.", "A sziget kulturális örökségének része."]
+    }
+  },
     facts: {
       de: ["Liegt an der malerischen Ostküste von Bioko.", "Einst ein wichtiges Zentrum für die Kakaoverarbeitung."],
       hu: ["Bioko festői keleti partján fekszik.", "Egykor a kakaófeldolgozás fontos központja volt."],
@@ -344,7 +487,18 @@ export const poiExtraEquatorialguineaCitiesV2: POI[] = [
       hu: "Baney egy város Bioko északkeleti részén, termékeny mezőgazdasági területekkel körülvéve.",
       ro: "Baney este un oraș în nord-estul insulei Bioko, înconjurat de terenuri agricole fertile.",
       en: "Baney is a town in the northeast of Bioko, surrounded by fertile agricultural land."
+    ,
+    descriptionAdvanced: {
+      hu: "Baney Bioko szigetének északi részén, a fővárostól nem messze található, és fontos szerepet játszik az északi tartomány ellátásában. A település környezete termékeny, vulkanikus talajon alapuló intenzív növénytermesztésre alkalmas, különösen a banán és más trópusi gyümölcsök tekintetében. Baney a Malabóhoz való közelsége miatt fontos elővárosi jellegű településsé vált, ahol a mezőgazdaság mellett a kereskedelem is meghatározó. A város fejlődése szorosan összekapcsolódik a sziget északi részének gazdasági növekedésével. Tanterv: Földrajz K6, Gazdaságtan K7.",
+      en: "Baney is situated in the northern part of Bioko Island, not far from the capital, and plays an important role in supplying the northern province. The surroundings are fertile, suitable for intensive plant cultivation based on volcanic soil, particularly regarding bananas and other tropical fruits. Due to its proximity to Malabo, Baney has become an important suburban settlement where, alongside agriculture, trade has also become a defining characteristic. The city's development is closely linked to the economic growth of the northern part of the island. Geography K6, Economics K7."
     },
+    factsAdvanced: {
+      en: ["Situated in the northern part of Bioko Island.", "Region with fertile volcanic soil.", "Hub for banana cultivation.", "Important suburb due to its proximity to Malabo.", "Combination of agriculture and commerce.", "One of the engines of the island's economic growth."]
+    },
+    factsAdvanced: {
+      hu: ["Bioko sziget északi részén fekszik.", "Termékeny, vulkanikus talajú régió.", "Központja a banántermesztésnek.", "Malabo közelsége miatt fontos előváros.", "A mezőgazdaság és kereskedelem ötvözete.", "A sziget gazdasági növekedésének egyik motorja."]
+    }
+  },
     facts: {
       de: ["Zentrum für den Gemüseanbau.", "Nahe dem Pico Basilé gelegen."],
       hu: ["A zöldségtermesztés központja.", "A Pico Basilé közelében található."],
@@ -362,7 +516,18 @@ export const poiExtraEquatorialguineaCitiesV2: POI[] = [
       hu: "Rebola egy festői kisváros Bioko szigetén, amely élénk bubi kultúrájáról ismert.",
       ro: "Rebola este un orășel pitoresc pe insula Bioko, cunoscut pentru cultura sa vibrantă Bubi.",
       en: "Rebola is a scenic small town on Bioko, known for its vibrant Bubi culture."
+    ,
+    descriptionAdvanced: {
+      hu: "Rebola Bioko északi részén helyezkedik el, és egyike a legrégebbi településeknek a környéken, amely megőrizte hagyományos kulturális értékeit. A város körüli területek alkalmasak a hagyományos növénytermesztésre, különösen a kakaó és a banán számára, amelyek alapvető megélhetési forrást biztosítanak a helyieknek. Rebola a sziget kulturális identitásának egyik pillére, ahol a közösségi élet és a tradicionális ünnepek nagy hangsúlyt kapnak. A település folyamatosan adaptálódik a modern kor igényeihez, miközben továbbra is a biokói örökség egyik őrzője. Tanterv: Szociális ismeretek K7, Földrajz K8.",
+      en: "Rebola is located in the northern part of Bioko and is one of the oldest settlements in the area, having preserved its traditional cultural values. The areas around the city are suitable for traditional plant cultivation, especially cocoa and bananas, which provide a basic source of livelihood for locals. Rebola is a pillar of the island's cultural identity, where community life and traditional celebrations are highly emphasized. The town constantly adapts to the needs of the modern age while continuing to be a guardian of Bioko heritage. Social Studies K7, Geography K8."
     },
+    factsAdvanced: {
+      en: ["One of the oldest towns in the northern part of Bioko.", "Center of traditional cultural values.", "Agriculture based on cocoa and banana cultivation.", "Defining scene for local community life.", "Guardian of the island's cultural heritage.", "Continuous modernization alongside traditional roots."]
+    },
+    factsAdvanced: {
+      hu: ["Bioko északi részének egyik legrégebbi városa.", "A hagyományos kulturális értékek központja.", "Kakaó és banántermesztés alapú mezőgazdaság.", "A helyi közösségi élet meghatározó színtere.", "A sziget kulturális örökségének egyik őrzője.", "Folyamatos modernizáció a hagyományok mellett."]
+    }
+  },
     facts: {
       de: ["Berühmt für traditionelle Tänze und Feste.", "Bietet einen herrlichen Blick auf den Atlantik."],
       hu: ["Híres a hagyományos táncairól és fesztiváljairól.", "Pompás kilátást nyújt az Atlanti-óceánra."],
@@ -380,7 +545,18 @@ export const poiExtraEquatorialguineaCitiesV2: POI[] = [
       hu: "Niefang egy fontos közlekedési csomópont a szárazföld központi részén.",
       ro: "Niefang este un nod de transport important în centrul continentului.",
       en: "Niefang is a key transportation hub in the center of the mainland."
+    ,
+    descriptionAdvanced: {
+      hu: "Niefang Egyenlítői-Guinea kontinentális részén, a Río Muni régióban helyezkedik el, és fontos szerepet játszik az ország belső úthálózatának összekötésében. A város környéke sűrű, buja trópusi esőerdőkkel borított, amelyek az ország biodiverzitásának szerves részét képezik. Niefang kereskedelmi központként is szolgál, ahol a környező erdőkből származó javak cserélnek gazdát, így hozzájárulva a helyi gazdasági stabilitáshoz. A város folyamatosan fejlődik, miközben környezete továbbra is a természet és az ember harmonikus együttélésének egyik példája. Tanterv: Földrajz K6, Ökológia K8.",
+      en: "Niefang is situated in the continental part of Equatorial Guinea, in the Rio Muni region, and plays an important role in connecting the country's internal road network. The area surrounding the town is covered by dense, lush tropical rainforests, which form an integral part of the country's biodiversity. Niefang also serves as a commercial center where goods from the surrounding forests are exchanged, thus contributing to local economic stability. The town continues to develop, while its environment remains an example of the harmonious coexistence of nature and human settlement. Geography K6, Ecology K8."
     },
+    factsAdvanced: {
+      en: ["Important city in the Rio Muni region.", "Connecting point for the country's internal road network.", "Surrounded by tropical rainforests.", "Commercial hub in the region.", "Contributes to economic stability.", "Example of harmony between nature and human settlement."]
+    },
+    factsAdvanced: {
+      hu: ["Río Muni régió egyik fontos városa.", "Az ország belső úthálózatának összekötő pontja.", "Trópusi esőerdők övezik.", "Kereskedelmi központ a régióban.", "Hozzájárul a gazdasági stabilitáshoz.", "A természet és az emberi település harmóniája."]
+    }
+  },
     facts: {
       de: ["Tor zum Landesinneren.", "Strategisch günstig an Hauptstraßen gelegen."],
       hu: ["Kapu a belső országrész felé.", "Stratégiailag előnyös helyen, főutak mentén fekszik."],
@@ -399,7 +575,18 @@ export const poiExtraEquatorialguineaCitiesV2: POI[] = [
       hu: "Nkue egy város Río Muni északi részén, amely a regionális kereskedelemben betöltött szerepéről ismert.",
       ro: "Nkue este un oraș în nordul regiunii Río Muni, cunoscut pentru rolul său în comerțul regional.",
       en: "Nkue is a town in northern Río Muni, known for its role in regional trade."
+    ,
+    descriptionAdvanced: {
+      hu: "Nkue egy fontos közigazgatási és kereskedelmi központ a szárazföldi Egyenlítői-Guineában, Kie-Ntem tartományban. A város elhelyezkedése miatt stratégiai jelentőséggel bír a regionális logisztikában, összekötve a környező mezőgazdasági területeket a távolabbi központokkal. Nkue folyamatos infrastruktúra-fejlesztéseken megy keresztül, ami növeli a régió gazdasági potenciálját. A környező táj jellegzetes trópusi erdőkből és kisebb termőterületekből áll, amelyek fontosak az önellátás és a kereskedelem számára. Tanterv: Földrajz K6, Gazdaságtan K7.",
+      en: "Nkue is an important administrative and commercial center in mainland Equatorial Guinea, in the Kie-Ntem province. Due to its location, the city holds strategic significance in regional logistics, connecting surrounding agricultural areas with more distant centers. Nkue is undergoing continuous infrastructure development, which increases the economic potential of the region. The surrounding landscape consists of characteristic tropical forests and smaller cultivated areas, which are important for self-sufficiency and trade. Geography K6, Economics K7."
     },
+    factsAdvanced: {
+      en: ["Important city in Kie-Ntem province.", "Regional commercial center.", "Strategic logistical role.", "Continuous infrastructural developments.", "Tropical forest and agricultural environment.", "Contributes to local economic growth."]
+    },
+    factsAdvanced: {
+      hu: ["Kie-Ntem tartomány fontos városa.", "Regionális kereskedelmi központ.", "Stratégiai logisztikai szerep.", "Folyamatos infrastrukturális fejlesztések.", "Trópusi erdős és mezőgazdasági környezet.", "Hozzájárul a helyi gazdaság növekedéséhez."]
+    }
+  },
     facts: {
       de: ["Wichtiger Marktort der Provinz Kié-Ntem.", "Zentrum für landwirtschaftliche Erzeugnisse."],
       hu: ["Kié-Ntem tartomány fontos piaci helyszíne.", "A mezőgazdasági termékek központja."],
@@ -417,7 +604,18 @@ export const poiExtraEquatorialguineaCitiesV2: POI[] = [
       hu: "Machinda egy növekvő település Bata városa közelében a szárazföldön.",
       ro: "Machinda este o așezare în creștere lângă orașul Bata, pe continent.",
       en: "Machinda is a growing settlement near the city of Bata on the mainland."
+    ,
+    descriptionAdvanced: {
+      hu: "Machinda a Río Muni régió egyik kisebb, de fontos kereskedelmi állomása, amely szorosan kapcsolódik a környék mezőgazdasági termeléséhez. A település életét a helyi gazdálkodók terményeinek cseréje határozza meg, így a piaci aktivitás a mindennapok részévé vált. Machinda elhelyezkedése révén kényelmes hozzáférést biztosít a környező falvak számára a kereskedelmi szolgáltatásokhoz. A város folyamatosan fejlődik, miközben környezete továbbra is a hagyományos életmód és a trópusi természeti adottságok ötvözetét mutatja. Tanterv: Földrajz K6, Szociális ismeretek K7.",
+      en: "Machinda is a small but important commercial station in the Rio Muni region, closely linked to the surrounding agricultural production. The life of the settlement is determined by the exchange of local farmers' products, making market activity a part of daily routine. Through its location, Machinda provides convenient access for surrounding villages to commercial services. The town is constantly developing, while its environment continues to showcase a mix of traditional lifestyles and tropical natural features. Geography K6, Social Studies K7."
     },
+    factsAdvanced: {
+      en: ["Small town in the Rio Muni region.", "Important agricultural commercial station.", "Center for local market activity.", "Convenient commercial services.", "Blend of traditional and modern lifestyles.", "Strong connection to agricultural producers."]
+    },
+    factsAdvanced: {
+      hu: ["Río Muni régió kisvárosa.", "Fontos mezőgazdasági kereskedelmi állomás.", "A helyi piaci aktivitás központja.", "Kényelmes kereskedelmi szolgáltatások.", "A hagyományos és modern életmód ötvözete.", "Erős kötődés a mezőgazdasági termelőkhöz."]
+    }
+  },
     facts: {
       de: ["Wohngebiet für Pendler nach Bata.", "Gute Anbindung an die Küsteninfrastruktur."],
       hu: ["Lakóövezet a Batába ingázók számára.", "Jó összeköttetés a tengerparti infrastruktúrával."],
@@ -436,7 +634,18 @@ export const poiExtraEquatorialguineaCitiesV2: POI[] = [
       hu: "Acurenam egy déli város Centro Sur tartományban, a gaboni határ közelében.",
       ro: "Acurenam este un oraș sudic în provincia Centro Sur, aproape de granița cu Gabon.",
       en: "Acurenam is a southern town in Centro Sur Province, located near the Gabon border."
+    ,
+    descriptionAdvanced: {
+      hu: "Acurenam a Centro Sur tartomány egy eldugottabb, de kulturálisan gazdag települése, amely mélyen a trópusi esőerdők szívében helyezkedik el. A város környéke kiváló példája az érintetlen természetnek, ahol a helyi lakosok évszázadok óta hagyományos módszerekkel élnek összhangban az erdővel. Acurenam fontos szerepet játszik a közösségi élet fenntartásában, és egyben egyfajta kapu az ökoturizmus számára azoknak, akik felfedeznék a Río Muni belső területeinek rejtett kincseit. A város infrastruktúrája fokozatosan javul, miközben igyekszik megőrizni egyedi, csendes jellegét. Tanterv: Földrajz K6, Ökológia K8.",
+      en: "Acurenam is a somewhat secluded but culturally rich settlement in the Centro Sur province, located deep in the heart of tropical rainforests. The surroundings of the town are an excellent example of untouched nature, where local inhabitants have lived in harmony with the forest using traditional methods for centuries. Acurenam plays an important role in maintaining community life and is also a gateway for ecotourism for those exploring the hidden treasures of Rio Muni's interior. The town's infrastructure is gradually improving while it strives to preserve its unique, quiet character. Geography K6, Ecology K8."
     },
+    factsAdvanced: {
+      en: ["Settlement in the Centro Sur province.", "Located in the heart of tropical rainforests.", "Center for traditional lifestyles.", "One of the starting points for ecotourism.", "Gateway to the hidden treasures of the region.", "Quiet town with a unique character."]
+    },
+    factsAdvanced: {
+      hu: ["Centro Sur tartomány települése.", "Trópusi esőerdők szívében található.", "A hagyományos életmód központja.", "Az ökoturizmus egyik kiindulópontja.", "A régió rejtett kincseinek kapuja.", "Csendes, egyedi karakterű település."]
+    }
+  },
     facts: {
       de: ["Zentrum des grenzüberschreitenden Austauschs.", "Umgeben von hügeliger Landschaft."],
       hu: ["A határokon átnyúló csereforgalom központja.", "Dombos táj veszi körül."],
@@ -455,7 +664,18 @@ export const poiExtraEquatorialguineaCitiesV2: POI[] = [
       hu: "Bicurga egy kis közösség Centro Sur tartomány szívében.",
       ro: "Bicurga este o mică comunitate în inima provinciei Centro Sur.",
       en: "Bicurga is a small community in the heart of Centro Sur Province."
+    ,
+    descriptionAdvanced: {
+      hu: "Bicurga a Centro Sur tartomány egyik meghatározó mezőgazdasági városa, amely fontos szerepet tölt be a régió ellátásában. A település életét a termékeny földeken folytatott gazdálkodás jellemzi, ahol a helyiek főként alapvető élelmiszereket termesztenek. Bicurga elhelyezkedése lehetővé teszi a környező falvak számára a kereskedelmi szolgáltatások elérését, ezzel is ösztönözve a helyi gazdasági tevékenységet. A város lassú, de biztos fejlődésen megy keresztül, miközben megőrzi a központi régió falusi báját és hagyományait. Tanterv: Földrajz K6, Gazdaságtan K7.",
+      en: "Bicurga is a defining agricultural town in the Centro Sur province, playing an important role in the region's supply. The life of the settlement is characterized by farming on fertile lands, where locals mainly cultivate basic food items. Bicurga's location allows surrounding villages to reach commercial services, thereby encouraging local economic activity. The town is experiencing slow but steady growth while preserving the rural charm and traditions of the central region. Geography K6, Economics K7."
     },
+    factsAdvanced: {
+      en: ["One of the towns in the Centro Sur province.", "Agricultural production center.", "Central role in regional supply.", "Provides access to commercial services.", "Slow, sustainable economic development.", "Preserves the rural traditions of the central region."]
+    },
+    factsAdvanced: {
+      hu: ["Centro Sur tartomány egyik városa.", "Mezőgazdasági termelő központ.", "Központi szerep a régió ellátásában.", "Hozzáférést biztosít a kereskedelmi szolgáltatásokhoz.", "Lassú, fenntartható gazdasági fejlődés.", "Megőrzi a központi régió falusi hagyományait."]
+    }
+  },
     facts: {
       de: ["Bekannt für traditionelle Landwirtschaft.", "Ruhiger Rückzugsort im Binnenland."],
       hu: ["Hagyományos mezőgazdaságáról ismert.", "Csendes menedék a belső országrészben."],
@@ -474,7 +694,18 @@ export const poiExtraEquatorialguineaCitiesV2: POI[] = [
       hu: "Bitica Batától délre fekszik, és a környező falvak regionális központjaként szolgál.",
       ro: "Bitica este situat la sud de Bata și servește ca centru regional pentru satele din jur.",
       en: "Bitica is located south of Bata and serves as a regional hub for surrounding villages."
+    ,
+    descriptionAdvanced: {
+      hu: "Bitica a szárazföldi rész déli részén elhelyezkedő település, amely szorosan kapcsolódik a Río Muni folyó által meghatározott életmódhoz. A helyi lakosok számára az erdő és a víz közelsége egyaránt fontos, mivel a halászat és a gyűjtögetés kiegészíti a kiskerti gazdálkodást. Bitica fontos csomópont a környéken, ahol a különböző településekről érkező áruk cserélnek gazdát. A város folyamatos fejlődésen megy át, miközben a helyi közösség megőrzi tradícióit és a természettel való szoros kapcsolatát. Tanterv: Földrajz K6, Gazdaságtan K7.",
+      en: "Bitica is a settlement located in the southern part of the mainland, closely linked to the lifestyle defined by the Rio Muni River. For the local inhabitants, the proximity of the forest and water is equally important, as fishing and foraging complement small-scale farming. Bitica acts as an important junction in the area, where goods from different settlements are exchanged. The town is experiencing continuous development while the local community preserves its traditions and close connection to nature. Geography K6, Economics K7."
     },
+    factsAdvanced: {
+      en: ["Settlement in the southern part of the mainland.", "Center for water and forest-based lifestyles.", "Complementary economic activities: fishing and foraging.", "Regional commercial junction.", "Close connections to nature.", "Traditional local community."]
+    },
+    factsAdvanced: {
+      hu: ["A szárazföldi rész déli települése.", "A víz és erdő alapú életmód központja.", "Kiegészítő gazdálkodás: halászat és gyűjtögetés.", "Regionális kereskedelmi csomópont.", "Szoros természeti kapcsolatok.", "Hagyományőrző helyi közösség."]
+    }
+  },
     facts: {
       de: ["Landwirtschaftliches Versorgungszentrum.", "In der Nähe unberührter Küstenabschnitte."],
       hu: ["Mezőgazdasági ellátó központ.", "Érintetlen tengerparti szakaszok közelében."],
@@ -493,7 +724,18 @@ export const poiExtraEquatorialguineaCitiesV2: POI[] = [
       hu: "Corisco az azonos nevű sziget fő települése Río Muni partjainál.",
       ro: "Corisco este așezarea principală de pe insula cu același nume, în largul coastei Río Muni.",
       en: "Corisco is the main settlement on the island of the same name, off the coast of Río Muni."
+    ,
+    descriptionAdvanced: {
+      hu: "Corisco a hasonló nevű szigeten található, amely történelmileg és turisztikailag is meghatározó pont Egyenlítői-Guinea életében. A sziget lenyűgöző homokos strandjaival és tiszta vizeivel az ökoturizmus és a pihenés egyedülálló helyszíne az országban. Corisco történelmi jelentősége a gyarmati időkig nyúlik vissza, és a mai napig megőrizte a szigetvilágra jellemző egyedi kultúráját és nyugalmát. A sziget modernizációja, miközben fenntartja természeti kincseit, komoly vonzerővel bír a látogatók számára. Tanterv: Földrajz K6, Turizmus K8.",
+      en: "Corisco is located on the island of the same name, which is historically and touristically a defining point in the life of Equatorial Guinea. With its stunning sandy beaches and clear waters, the island is a unique destination for ecotourism and relaxation in the country. The historical significance of Corisco dates back to colonial times, and it has preserved the unique culture and tranquility characteristic of the island world to this day. The modernization of the island, while maintaining its natural treasures, holds significant appeal for visitors. Geography K6, Tourism K8."
     },
+    factsAdvanced: {
+      en: ["Located on the island of Corisco.", "Stunning beaches and waters.", "Hub for ecotourism.", "Island of historical significance.", "Unique island culture.", "Potential for sustainable tourism development."]
+    },
+    factsAdvanced: {
+      hu: ["Corisco szigetén található.", "Lenyűgöző strandok és vizek.", "Ökoturizmus központja.", "Történelmi jelentőségű sziget.", "Egyedi szigeti kultúra.", "Fenntartható turisztikai potenciál."]
+    }
+  },
     facts: {
       de: ["Bekannt für weiße Sandstrände.", "Historisch bedeutend als alter Handelsposten."],
       hu: ["Fehér homokos strandjairól ismert.", "Történelmileg jelentős régi kereskedelmi állomásként."],
@@ -511,7 +753,21 @@ export const poiExtraEquatorialguineaCitiesV2: POI[] = [
       hu: "Moka Bioko szigetének felföldjén található, és hűvös éghajlatáról ismert.",
       ro: "Moka este situat în zonele înalte ale insulei Bioko și este cunoscut pentru climatul său răcoros.",
       en: "Moka is located in the highlands of Bioko Island and is known for its cool climate."
+    ,
+    descriptionAdvanced: {
+      ro: "Moka, situat în zona înaltă a insulei Bioko, este un sat renumit pentru clima sa răcoroasă și peisajele verzi. Localitatea este un punct de plecare important pentru drumețiile spre lacurile vulcanice din apropiere, precum Lacul Biao. Această zonă a insulei păstrează un farmec tradițional, fiind locuită predominant de etnia Bubi, care a menținut practici agricole sustenabile de-a lungul generațiilor. Aerul proaspăt de munte și biodiversitatea bogată fac din Moka o destinație esențială pentru cercetarea ecosistemelor montane din Africa Centrală. Fächer: Geografie K7, Biologie K8.",
+      en: "Moca, located in the high altitude of Bioko Island, is a village renowned for its cool climate and green landscapes. The locality is an important starting point for hikes toward nearby volcanic lakes, such as Lake Biao. This area of the island preserves traditional charm, being inhabited predominantly by the Bubi ethnic group, which has maintained sustainable agricultural practices over generations. Fresh mountain air and rich biodiversity make Moca an essential destination for researching montane ecosystems in Central Africa. Geography K7, Biology K8."
     },
+    factsAdvanced: {
+      en: ["Located at an altitude of approximately 1,400 m.", "Renowned for its cool mountain climate.", "Main access point to Lake Biao.", "Majority population of Bubi ethnicity.", "Region is rich in protected mountain forests.", "Historical ties to the development of subsistence agriculture on Bioko."]
+    },
+    factsAdvanced: {
+      ro: ["Situat la o altitudine de aproximativ 1.400 m.", "Renumit pentru clima montană rece.", "Punct principal de acces către Lacul Biao.", "Populație majoritară din etnia Bubi.", "Regiunea este bogată în păduri montane protejate.", "Istoric legat de dezvoltarea agriculturii de subzistență în Bioko."]
+    },
+    factsAdvanced: {
+      ro: ["Situat la o altitudine de aproximativ 1.400 m.", "Renumit pentru clima montană rece.", "Punct principal de acces către Lacul Biao.", "Populație majoritară din etnia Bubi.", "Regiunea este bogată în păduri montane protejate.", "Istoric legat de dezvoltarea agriculturii de subzistență în Bioko."]
+    }
+  },
     facts: {
       de: ["Heimat des Moca-Tals.", "Wichtiges Gebiet für den Naturschutz."],
       hu: ["A Moka-völgy otthona.", "Fontos természetvédelmi terület."],
@@ -530,7 +786,21 @@ export const poiExtraEquatorialguineaCitiesV2: POI[] = [
       hu: "Basakato egy hagyományos falu Bioko szigetén, mély kulturális gyökerekkel.",
       ro: "Basakato este un sat tradițional de pe insula Bioko, cu rădăcini culturale strânse.",
       en: "Basakato is a traditional village on Bioko Island with close cultural roots."
+    ,
+    descriptionAdvanced: {
+      ro: "Basakato, situat pe coasta insulei Bioko, este un centru rural care reflectă viața tradițională din această regiune izolată. Satul este înconjurat de plantații de cacao și păduri tropicale, oferind un context autentic pentru înțelegerea agriculturii de export care a definit istoria economică a insulei. Viața în Basakato se desfășoară într-un ritm lent, conectat la ciclurile naturale ale recoltei și ale mării din apropiere. Comunitatea locală păstrează vii tradițiile culturale care fac din Bioko un teritoriu cu o identitate distinctă în Guineea Ecuatorială. Fächer: Geografie K7, Economie K8.",
+      en: "Basakato, located on the coast of Bioko Island, is a rural center reflecting the traditional life in this isolated region. The village is surrounded by cocoa plantations and tropical forests, offering an authentic context for understanding the export agriculture that defined the island's economic history. Life in Basakato unfolds at a slow pace, connected to the natural cycles of the harvest and the nearby sea. The local community keeps alive cultural traditions that make Bioko a territory with a distinct identity in Equatorial Guinea. Geography K7, Economics K8."
     },
+    factsAdvanced: {
+      en: ["Locality situated near the northwestern coast.", "Local economy based on cocoa cultivation.", "Region benefits from a humid climate ideal for tropical crops.", "Limited accessibility, preserving its traditional character.", "Population predominantly involved in agriculture.", "Part of the rural network around Malabo."]
+    },
+    factsAdvanced: {
+      ro: ["Localitate situată în apropierea coastei nord-vestice.", "Economia locală bazată pe cultivarea cacauălui.", "Regiunea beneficiază de un climat umed ideal pentru culturi tropicale.", "Accesibilitate limitată, păstrând caracterul tradițional.", "Populație implicată predominant în agricultură.", "Parte a rețelei rurale din jurul Malabo."]
+    },
+    factsAdvanced: {
+      ro: ["Localitate situată în apropierea coastei nord-vestice.", "Economia locală bazată pe cultivarea cacauălui.", "Regiunea beneficiază de un climat umed ideal pentru culturi tropicale.", "Accesibilitate limitată, păstrând caracterul tradițional.", "Populație implicată predominant în agricultură.", "Parte a rețelei rurale din jurul Malabo."]
+    }
+  },
     facts: {
       de: ["Bekannt für seine Kakaoplantagen.", "Bewahrt viele lokale Traditionen."],
       hu: ["Kakaóültetvényeiről ismert.", "Sok helyi hagyományt őriz."],

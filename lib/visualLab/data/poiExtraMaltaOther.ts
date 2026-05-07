@@ -20,8 +20,8 @@ export const poiExtraMaltaOther: POI[] = [
       ro: "O importantÄƒ rezervaÈ›ie de pÄƒsÄƒri È™i zonÄƒ umedÄƒ, Ã®n special Ã®n timpul sezoanelor de migraÈ›ie a pÄƒsÄƒrilor.",
       en: "An important bird sanctuary and wetland, especially during bird migration seasons."
     },
-    descriptionAdvanced: { de: "", hu: "Plizio tanterv: Földrajz 7. évfolyam. Málta egyéb látnivalói, mint a természetvédelmi területek és kertek, fontos szerepet játszanak a szigetek ökológiai egyensúlyának megorzésében, és remek lehetoséget kínálnak a környezeti nevelésre.", ro: "TODO", en: "" },
-    factsAdvanced: { de: [], hu: ["Málta természeti értékei különösen érzékenyek a turizmus hatásaira.", "A Ghadira-rezervátum fontos állomás a vándormadarak számára.", "A Buskett-kertek az egyetlen nagyobb erdos terület a szigeten.", "A természetvédelmi területek védelme elengedhetetlen a fajok megmaradásához.", "A szigetország száraz éghajlata miatt a vizes élohelyek ritkaságszámba mennek.", "Málta kormánya számos projektet indított a biodiverzitás növelésére.", "A helyi növényvilág számos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
+    descriptionAdvanced: { de: "", hu: "Plizio tanterv: FÃ¶ldrajz 7. Ã©vfolyam. MÃ¡lta egyÃ©b lÃ¡tnivalÃ³i, mint a termÃ©szetvÃ©delmi terÃ¼letek Ã©s kertek, fontos szerepet jÃ¡tszanak a szigetek Ã¶kolÃ³giai egyensÃºlyÃ¡nak megorzÃ©sÃ©ben, Ã©s remek lehetosÃ©get kÃ­nÃ¡lnak a kÃ¶rnyezeti nevelÃ©sre.", ro: "TODO", en: "" },
+    factsAdvanced: { de: [], hu: ["MÃ¡lta termÃ©szeti Ã©rtÃ©kei kÃ¼lÃ¶nÃ¶sen Ã©rzÃ©kenyek a turizmus hatÃ¡saira.", "A Ghadira-rezervÃ¡tum fontos Ã¡llomÃ¡s a vÃ¡ndormadarak szÃ¡mÃ¡ra.", "A Buskett-kertek az egyetlen nagyobb erdos terÃ¼let a szigeten.", "A termÃ©szetvÃ©delmi terÃ¼letek vÃ©delme elengedhetetlen a fajok megmaradÃ¡sÃ¡hoz.", "A szigetorszÃ¡g szÃ¡raz Ã©ghajlata miatt a vizes Ã©lohelyek ritkasÃ¡gszÃ¡mba mennek.", "MÃ¡lta kormÃ¡nya szÃ¡mos projektet indÃ­tott a biodiverzitÃ¡s nÃ¶velÃ©sÃ©re.", "A helyi nÃ¶vÃ©nyvilÃ¡g szÃ¡mos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
   },
   {
     id: "animal-habitat-simar-nature-reserve-extra",
@@ -40,8 +40,8 @@ export const poiExtraMaltaOther: POI[] = [
       ro: "O altÄƒ zonÄƒ umedÄƒ importantÄƒ lÃ¢ngÄƒ Xemxija, care oferÄƒ habitat pentru pÄƒsÄƒri È™i alte animale sÄƒlbatice.",
       en: "Another important wetland area near Xemxija, providing a habitat for birds and other wildlife."
     },
-    descriptionAdvanced: { de: "", hu: "Plizio tanterv: Földrajz 7. évfolyam. Málta egyéb látnivalói, mint a természetvédelmi területek és kertek, fontos szerepet játszanak a szigetek ökológiai egyensúlyának megorzésében, és remek lehetoséget kínálnak a környezeti nevelésre.", ro: "TODO", en: "" },
-    factsAdvanced: { de: [], hu: ["Málta természeti értékei különösen érzékenyek a turizmus hatásaira.", "A Ghadira-rezervátum fontos állomás a vándormadarak számára.", "A Buskett-kertek az egyetlen nagyobb erdos terület a szigeten.", "A természetvédelmi területek védelme elengedhetetlen a fajok megmaradásához.", "A szigetország száraz éghajlata miatt a vizes élohelyek ritkaságszámba mennek.", "Málta kormánya számos projektet indított a biodiverzitás növelésére.", "A helyi növényvilág számos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
+    descriptionAdvanced: { de: "", hu: "Plizio tanterv: FÃ¶ldrajz 7. Ã©vfolyam. MÃ¡lta egyÃ©b lÃ¡tnivalÃ³i, mint a termÃ©szetvÃ©delmi terÃ¼letek Ã©s kertek, fontos szerepet jÃ¡tszanak a szigetek Ã¶kolÃ³giai egyensÃºlyÃ¡nak megorzÃ©sÃ©ben, Ã©s remek lehetosÃ©get kÃ­nÃ¡lnak a kÃ¶rnyezeti nevelÃ©sre.", ro: "TODO", en: "" },
+    factsAdvanced: { de: [], hu: ["MÃ¡lta termÃ©szeti Ã©rtÃ©kei kÃ¼lÃ¶nÃ¶sen Ã©rzÃ©kenyek a turizmus hatÃ¡saira.", "A Ghadira-rezervÃ¡tum fontos Ã¡llomÃ¡s a vÃ¡ndormadarak szÃ¡mÃ¡ra.", "A Buskett-kertek az egyetlen nagyobb erdos terÃ¼let a szigeten.", "A termÃ©szetvÃ©delmi terÃ¼letek vÃ©delme elengedhetetlen a fajok megmaradÃ¡sÃ¡hoz.", "A szigetorszÃ¡g szÃ¡raz Ã©ghajlata miatt a vizes Ã©lohelyek ritkasÃ¡gszÃ¡mba mennek.", "MÃ¡lta kormÃ¡nya szÃ¡mos projektet indÃ­tott a biodiverzitÃ¡s nÃ¶velÃ©sÃ©re.", "A helyi nÃ¶vÃ©nyvilÃ¡g szÃ¡mos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
   },
   {
     id: "animal-habitat-buskett-gardens-extra",
@@ -60,8 +60,8 @@ export const poiExtraMaltaOther: POI[] = [
       ro: "Una dintre puÈ›inele zone Ã®mpÄƒdurite din Malta, casÄƒ pentru multe specii de pÄƒsÄƒri È™i insecte.",
       en: "One of Malta's few woodland areas, home to many bird species and insects."
     },
-    descriptionAdvanced: { de: "", hu: "Plizio tanterv: Földrajz 7. évfolyam. Málta egyéb látnivalói, mint a természetvédelmi területek és kertek, fontos szerepet játszanak a szigetek ökológiai egyensúlyának megorzésében, és remek lehetoséget kínálnak a környezeti nevelésre.", ro: "TODO", en: "" },
-    factsAdvanced: { de: [], hu: ["Málta természeti értékei különösen érzékenyek a turizmus hatásaira.", "A Ghadira-rezervátum fontos állomás a vándormadarak számára.", "A Buskett-kertek az egyetlen nagyobb erdos terület a szigeten.", "A természetvédelmi területek védelme elengedhetetlen a fajok megmaradásához.", "A szigetország száraz éghajlata miatt a vizes élohelyek ritkaságszámba mennek.", "Málta kormánya számos projektet indított a biodiverzitás növelésére.", "A helyi növényvilág számos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
+    descriptionAdvanced: { de: "", hu: "Plizio tanterv: FÃ¶ldrajz 7. Ã©vfolyam. MÃ¡lta egyÃ©b lÃ¡tnivalÃ³i, mint a termÃ©szetvÃ©delmi terÃ¼letek Ã©s kertek, fontos szerepet jÃ¡tszanak a szigetek Ã¶kolÃ³giai egyensÃºlyÃ¡nak megorzÃ©sÃ©ben, Ã©s remek lehetosÃ©get kÃ­nÃ¡lnak a kÃ¶rnyezeti nevelÃ©sre.", ro: "TODO", en: "" },
+    factsAdvanced: { de: [], hu: ["MÃ¡lta termÃ©szeti Ã©rtÃ©kei kÃ¼lÃ¶nÃ¶sen Ã©rzÃ©kenyek a turizmus hatÃ¡saira.", "A Ghadira-rezervÃ¡tum fontos Ã¡llomÃ¡s a vÃ¡ndormadarak szÃ¡mÃ¡ra.", "A Buskett-kertek az egyetlen nagyobb erdos terÃ¼let a szigeten.", "A termÃ©szetvÃ©delmi terÃ¼letek vÃ©delme elengedhetetlen a fajok megmaradÃ¡sÃ¡hoz.", "A szigetorszÃ¡g szÃ¡raz Ã©ghajlata miatt a vizes Ã©lohelyek ritkasÃ¡gszÃ¡mba mennek.", "MÃ¡lta kormÃ¡nya szÃ¡mos projektet indÃ­tott a biodiverzitÃ¡s nÃ¶velÃ©sÃ©re.", "A helyi nÃ¶vÃ©nyvilÃ¡g szÃ¡mos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
   },
   {
     id: "animal-habitat-filfla-island-extra",
@@ -80,8 +80,8 @@ export const poiExtraMaltaOther: POI[] = [
       ro: "O insulÄƒ micÄƒ, nelocuitÄƒ, care este o importantÄƒ arie protejatÄƒ pentru pÄƒsÄƒrile marine, Ã®n special pentru furtunarul mediteranean.",
       en: "A small, uninhabited islet that is an important seabird reserve, especially for the Yelkouan shearwater."
     },
-    descriptionAdvanced: { de: "", hu: "Plizio tanterv: Földrajz 7. évfolyam. Málta egyéb látnivalói, mint a természetvédelmi területek és kertek, fontos szerepet játszanak a szigetek ökológiai egyensúlyának megorzésében, és remek lehetoséget kínálnak a környezeti nevelésre.", ro: "TODO", en: "" },
-    factsAdvanced: { de: [], hu: ["Málta természeti értékei különösen érzékenyek a turizmus hatásaira.", "A Ghadira-rezervátum fontos állomás a vándormadarak számára.", "A Buskett-kertek az egyetlen nagyobb erdos terület a szigeten.", "A természetvédelmi területek védelme elengedhetetlen a fajok megmaradásához.", "A szigetország száraz éghajlata miatt a vizes élohelyek ritkaságszámba mennek.", "Málta kormánya számos projektet indított a biodiverzitás növelésére.", "A helyi növényvilág számos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
+    descriptionAdvanced: { de: "", hu: "Plizio tanterv: FÃ¶ldrajz 7. Ã©vfolyam. MÃ¡lta egyÃ©b lÃ¡tnivalÃ³i, mint a termÃ©szetvÃ©delmi terÃ¼letek Ã©s kertek, fontos szerepet jÃ¡tszanak a szigetek Ã¶kolÃ³giai egyensÃºlyÃ¡nak megorzÃ©sÃ©ben, Ã©s remek lehetosÃ©get kÃ­nÃ¡lnak a kÃ¶rnyezeti nevelÃ©sre.", ro: "TODO", en: "" },
+    factsAdvanced: { de: [], hu: ["MÃ¡lta termÃ©szeti Ã©rtÃ©kei kÃ¼lÃ¶nÃ¶sen Ã©rzÃ©kenyek a turizmus hatÃ¡saira.", "A Ghadira-rezervÃ¡tum fontos Ã¡llomÃ¡s a vÃ¡ndormadarak szÃ¡mÃ¡ra.", "A Buskett-kertek az egyetlen nagyobb erdos terÃ¼let a szigeten.", "A termÃ©szetvÃ©delmi terÃ¼letek vÃ©delme elengedhetetlen a fajok megmaradÃ¡sÃ¡hoz.", "A szigetorszÃ¡g szÃ¡raz Ã©ghajlata miatt a vizes Ã©lohelyek ritkasÃ¡gszÃ¡mba mennek.", "MÃ¡lta kormÃ¡nya szÃ¡mos projektet indÃ­tott a biodiverzitÃ¡s nÃ¶velÃ©sÃ©re.", "A helyi nÃ¶vÃ©nyvilÃ¡g szÃ¡mos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
   },
   {
     id: "animal-habitat-ta-cenc-cliffs-gozo-extra",
@@ -100,8 +100,8 @@ export const poiExtraMaltaOther: POI[] = [
       ro: "Aceste stÃ¢nci de pe Gozo sunt un loc important de cuibÄƒrit pentru coloniile de pÄƒsÄƒri marine.",
       en: "These cliffs on Gozo are a major nesting site for colonies of seabirds."
     },
-    descriptionAdvanced: { de: "", hu: "Plizio tanterv: Földrajz 7. évfolyam. Málta egyéb látnivalói, mint a természetvédelmi területek és kertek, fontos szerepet játszanak a szigetek ökológiai egyensúlyának megorzésében, és remek lehetoséget kínálnak a környezeti nevelésre.", ro: "TODO", en: "" },
-    factsAdvanced: { de: [], hu: ["Málta természeti értékei különösen érzékenyek a turizmus hatásaira.", "A Ghadira-rezervátum fontos állomás a vándormadarak számára.", "A Buskett-kertek az egyetlen nagyobb erdos terület a szigeten.", "A természetvédelmi területek védelme elengedhetetlen a fajok megmaradásához.", "A szigetország száraz éghajlata miatt a vizes élohelyek ritkaságszámba mennek.", "Málta kormánya számos projektet indított a biodiverzitás növelésére.", "A helyi növényvilág számos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
+    descriptionAdvanced: { de: "", hu: "Plizio tanterv: FÃ¶ldrajz 7. Ã©vfolyam. MÃ¡lta egyÃ©b lÃ¡tnivalÃ³i, mint a termÃ©szetvÃ©delmi terÃ¼letek Ã©s kertek, fontos szerepet jÃ¡tszanak a szigetek Ã¶kolÃ³giai egyensÃºlyÃ¡nak megorzÃ©sÃ©ben, Ã©s remek lehetosÃ©get kÃ­nÃ¡lnak a kÃ¶rnyezeti nevelÃ©sre.", ro: "TODO", en: "" },
+    factsAdvanced: { de: [], hu: ["MÃ¡lta termÃ©szeti Ã©rtÃ©kei kÃ¼lÃ¶nÃ¶sen Ã©rzÃ©kenyek a turizmus hatÃ¡saira.", "A Ghadira-rezervÃ¡tum fontos Ã¡llomÃ¡s a vÃ¡ndormadarak szÃ¡mÃ¡ra.", "A Buskett-kertek az egyetlen nagyobb erdos terÃ¼let a szigeten.", "A termÃ©szetvÃ©delmi terÃ¼letek vÃ©delme elengedhetetlen a fajok megmaradÃ¡sÃ¡hoz.", "A szigetorszÃ¡g szÃ¡raz Ã©ghajlata miatt a vizes Ã©lohelyek ritkasÃ¡gszÃ¡mba mennek.", "MÃ¡lta kormÃ¡nya szÃ¡mos projektet indÃ­tott a biodiverzitÃ¡s nÃ¶velÃ©sÃ©re.", "A helyi nÃ¶vÃ©nyvilÃ¡g szÃ¡mos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
   },
   {
     id: "animal-habitat-dwejra-bay-gozo-extra",
@@ -120,8 +120,8 @@ export const poiExtraMaltaOther: POI[] = [
       ro: "O arie marinÄƒ protejatÄƒ, cunoscutÄƒ pentru viaÈ›a sa marinÄƒ bogatÄƒ È™i biodiversitate.",
       en: "A marine protected area known for its rich underwater life and biodiversity."
     },
-    descriptionAdvanced: { de: "", hu: "Plizio tanterv: Földrajz 7. évfolyam. Málta egyéb látnivalói, mint a természetvédelmi területek és kertek, fontos szerepet játszanak a szigetek ökológiai egyensúlyának megorzésében, és remek lehetoséget kínálnak a környezeti nevelésre.", ro: "TODO", en: "" },
-    factsAdvanced: { de: [], hu: ["Málta természeti értékei különösen érzékenyek a turizmus hatásaira.", "A Ghadira-rezervátum fontos állomás a vándormadarak számára.", "A Buskett-kertek az egyetlen nagyobb erdos terület a szigeten.", "A természetvédelmi területek védelme elengedhetetlen a fajok megmaradásához.", "A szigetország száraz éghajlata miatt a vizes élohelyek ritkaságszámba mennek.", "Málta kormánya számos projektet indított a biodiverzitás növelésére.", "A helyi növényvilág számos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
+    descriptionAdvanced: { de: "", hu: "Plizio tanterv: FÃ¶ldrajz 7. Ã©vfolyam. MÃ¡lta egyÃ©b lÃ¡tnivalÃ³i, mint a termÃ©szetvÃ©delmi terÃ¼letek Ã©s kertek, fontos szerepet jÃ¡tszanak a szigetek Ã¶kolÃ³giai egyensÃºlyÃ¡nak megorzÃ©sÃ©ben, Ã©s remek lehetosÃ©get kÃ­nÃ¡lnak a kÃ¶rnyezeti nevelÃ©sre.", ro: "TODO", en: "" },
+    factsAdvanced: { de: [], hu: ["MÃ¡lta termÃ©szeti Ã©rtÃ©kei kÃ¼lÃ¶nÃ¶sen Ã©rzÃ©kenyek a turizmus hatÃ¡saira.", "A Ghadira-rezervÃ¡tum fontos Ã¡llomÃ¡s a vÃ¡ndormadarak szÃ¡mÃ¡ra.", "A Buskett-kertek az egyetlen nagyobb erdos terÃ¼let a szigeten.", "A termÃ©szetvÃ©delmi terÃ¼letek vÃ©delme elengedhetetlen a fajok megmaradÃ¡sÃ¡hoz.", "A szigetorszÃ¡g szÃ¡raz Ã©ghajlata miatt a vizes Ã©lohelyek ritkasÃ¡gszÃ¡mba mennek.", "MÃ¡lta kormÃ¡nya szÃ¡mos projektet indÃ­tott a biodiverzitÃ¡s nÃ¶velÃ©sÃ©re.", "A helyi nÃ¶vÃ©nyvilÃ¡g szÃ¡mos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
   },
   {
     id: "animal-habitat-l-rdum-tal-madonna-extra",
@@ -140,8 +140,8 @@ export const poiExtraMaltaOther: POI[] = [
       ro: "O arie protejatÄƒ cunoscutÄƒ pentru colonia sa de furtunari mediteraneeni.",
       en: "A protected area known for its colony of Yelkouan shearwaters."
     },
-    descriptionAdvanced: { de: "", hu: "Plizio tanterv: Földrajz 7. évfolyam. Málta egyéb látnivalói, mint a természetvédelmi területek és kertek, fontos szerepet játszanak a szigetek ökológiai egyensúlyának megorzésében, és remek lehetoséget kínálnak a környezeti nevelésre.", ro: "TODO", en: "" },
-    factsAdvanced: { de: [], hu: ["Málta természeti értékei különösen érzékenyek a turizmus hatásaira.", "A Ghadira-rezervátum fontos állomás a vándormadarak számára.", "A Buskett-kertek az egyetlen nagyobb erdos terület a szigeten.", "A természetvédelmi területek védelme elengedhetetlen a fajok megmaradásához.", "A szigetország száraz éghajlata miatt a vizes élohelyek ritkaságszámba mennek.", "Málta kormánya számos projektet indított a biodiverzitás növelésére.", "A helyi növényvilág számos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
+    descriptionAdvanced: { de: "", hu: "Plizio tanterv: FÃ¶ldrajz 7. Ã©vfolyam. MÃ¡lta egyÃ©b lÃ¡tnivalÃ³i, mint a termÃ©szetvÃ©delmi terÃ¼letek Ã©s kertek, fontos szerepet jÃ¡tszanak a szigetek Ã¶kolÃ³giai egyensÃºlyÃ¡nak megorzÃ©sÃ©ben, Ã©s remek lehetosÃ©get kÃ­nÃ¡lnak a kÃ¶rnyezeti nevelÃ©sre.", ro: "TODO", en: "" },
+    factsAdvanced: { de: [], hu: ["MÃ¡lta termÃ©szeti Ã©rtÃ©kei kÃ¼lÃ¶nÃ¶sen Ã©rzÃ©kenyek a turizmus hatÃ¡saira.", "A Ghadira-rezervÃ¡tum fontos Ã¡llomÃ¡s a vÃ¡ndormadarak szÃ¡mÃ¡ra.", "A Buskett-kertek az egyetlen nagyobb erdos terÃ¼let a szigeten.", "A termÃ©szetvÃ©delmi terÃ¼letek vÃ©delme elengedhetetlen a fajok megmaradÃ¡sÃ¡hoz.", "A szigetorszÃ¡g szÃ¡raz Ã©ghajlata miatt a vizes Ã©lohelyek ritkasÃ¡gszÃ¡mba mennek.", "MÃ¡lta kormÃ¡nya szÃ¡mos projektet indÃ­tott a biodiverzitÃ¡s nÃ¶velÃ©sÃ©re.", "A helyi nÃ¶vÃ©nyvilÃ¡g szÃ¡mos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
   },
   {
     id: "animal-habitat-salina-nature-park-extra",
@@ -160,8 +160,8 @@ export const poiExtraMaltaOther: POI[] = [
       ro: "Saline restaurate care acum servesc drept zonÄƒ umedÄƒ pentru pÄƒsÄƒri.",
       en: "Restored salt pans that now serve as a wetland habitat for birds."
     },
-    descriptionAdvanced: { de: "", hu: "Plizio tanterv: Földrajz 7. évfolyam. Málta egyéb látnivalói, mint a természetvédelmi területek és kertek, fontos szerepet játszanak a szigetek ökológiai egyensúlyának megorzésében, és remek lehetoséget kínálnak a környezeti nevelésre.", ro: "TODO", en: "" },
-    factsAdvanced: { de: [], hu: ["Málta természeti értékei különösen érzékenyek a turizmus hatásaira.", "A Ghadira-rezervátum fontos állomás a vándormadarak számára.", "A Buskett-kertek az egyetlen nagyobb erdos terület a szigeten.", "A természetvédelmi területek védelme elengedhetetlen a fajok megmaradásához.", "A szigetország száraz éghajlata miatt a vizes élohelyek ritkaságszámba mennek.", "Málta kormánya számos projektet indított a biodiverzitás növelésére.", "A helyi növényvilág számos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
+    descriptionAdvanced: { de: "", hu: "Plizio tanterv: FÃ¶ldrajz 7. Ã©vfolyam. MÃ¡lta egyÃ©b lÃ¡tnivalÃ³i, mint a termÃ©szetvÃ©delmi terÃ¼letek Ã©s kertek, fontos szerepet jÃ¡tszanak a szigetek Ã¶kolÃ³giai egyensÃºlyÃ¡nak megorzÃ©sÃ©ben, Ã©s remek lehetosÃ©get kÃ­nÃ¡lnak a kÃ¶rnyezeti nevelÃ©sre.", ro: "TODO", en: "" },
+    factsAdvanced: { de: [], hu: ["MÃ¡lta termÃ©szeti Ã©rtÃ©kei kÃ¼lÃ¶nÃ¶sen Ã©rzÃ©kenyek a turizmus hatÃ¡saira.", "A Ghadira-rezervÃ¡tum fontos Ã¡llomÃ¡s a vÃ¡ndormadarak szÃ¡mÃ¡ra.", "A Buskett-kertek az egyetlen nagyobb erdos terÃ¼let a szigeten.", "A termÃ©szetvÃ©delmi terÃ¼letek vÃ©delme elengedhetetlen a fajok megmaradÃ¡sÃ¡hoz.", "A szigetorszÃ¡g szÃ¡raz Ã©ghajlata miatt a vizes Ã©lohelyek ritkasÃ¡gszÃ¡mba mennek.", "MÃ¡lta kormÃ¡nya szÃ¡mos projektet indÃ­tott a biodiverzitÃ¡s nÃ¶velÃ©sÃ©re.", "A helyi nÃ¶vÃ©nyvilÃ¡g szÃ¡mos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
   },
   {
     id: "animal-habitat-st-pauls-islands-extra",
@@ -180,8 +180,8 @@ export const poiExtraMaltaOther: POI[] = [
       ro: "DouÄƒ insule mici care sunt un refugiu pentru animale sÄƒlbatice, inclusiv È™opÃ¢rla de ziduri maltezÄƒ endemicÄƒ.",
       en: "Two small islands that are a haven for wildlife, including the endemic Maltese wall lizard."
     },
-    descriptionAdvanced: { de: "", hu: "Plizio tanterv: Földrajz 7. évfolyam. Málta egyéb látnivalói, mint a természetvédelmi területek és kertek, fontos szerepet játszanak a szigetek ökológiai egyensúlyának megorzésében, és remek lehetoséget kínálnak a környezeti nevelésre.", ro: "TODO", en: "" },
-    factsAdvanced: { de: [], hu: ["Málta természeti értékei különösen érzékenyek a turizmus hatásaira.", "A Ghadira-rezervátum fontos állomás a vándormadarak számára.", "A Buskett-kertek az egyetlen nagyobb erdos terület a szigeten.", "A természetvédelmi területek védelme elengedhetetlen a fajok megmaradásához.", "A szigetország száraz éghajlata miatt a vizes élohelyek ritkaságszámba mennek.", "Málta kormánya számos projektet indított a biodiverzitás növelésére.", "A helyi növényvilág számos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
+    descriptionAdvanced: { de: "", hu: "Plizio tanterv: FÃ¶ldrajz 7. Ã©vfolyam. MÃ¡lta egyÃ©b lÃ¡tnivalÃ³i, mint a termÃ©szetvÃ©delmi terÃ¼letek Ã©s kertek, fontos szerepet jÃ¡tszanak a szigetek Ã¶kolÃ³giai egyensÃºlyÃ¡nak megorzÃ©sÃ©ben, Ã©s remek lehetosÃ©get kÃ­nÃ¡lnak a kÃ¶rnyezeti nevelÃ©sre.", ro: "TODO", en: "" },
+    factsAdvanced: { de: [], hu: ["MÃ¡lta termÃ©szeti Ã©rtÃ©kei kÃ¼lÃ¶nÃ¶sen Ã©rzÃ©kenyek a turizmus hatÃ¡saira.", "A Ghadira-rezervÃ¡tum fontos Ã¡llomÃ¡s a vÃ¡ndormadarak szÃ¡mÃ¡ra.", "A Buskett-kertek az egyetlen nagyobb erdos terÃ¼let a szigeten.", "A termÃ©szetvÃ©delmi terÃ¼letek vÃ©delme elengedhetetlen a fajok megmaradÃ¡sÃ¡hoz.", "A szigetorszÃ¡g szÃ¡raz Ã©ghajlata miatt a vizes Ã©lohelyek ritkasÃ¡gszÃ¡mba mennek.", "MÃ¡lta kormÃ¡nya szÃ¡mos projektet indÃ­tott a biodiverzitÃ¡s nÃ¶velÃ©sÃ©re.", "A helyi nÃ¶vÃ©nyvilÃ¡g szÃ¡mos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
   },
   {
     id: "animal-habitat-comino-bird-sanctuary-extra",
@@ -200,8 +200,8 @@ export const poiExtraMaltaOther: POI[] = [
       ro: "Ãntreaga insulÄƒ Comino este un sanctuar pentru pÄƒsÄƒri È™i un important loc de popas pentru pÄƒsÄƒrile migratoare.",
       en: "The entire island of Comino is a bird sanctuary and an important stopover for migratory birds."
     },
-    descriptionAdvanced: { de: "", hu: "Plizio tanterv: Földrajz 7. évfolyam. Málta egyéb látnivalói, mint a természetvédelmi területek és kertek, fontos szerepet játszanak a szigetek ökológiai egyensúlyának megorzésében, és remek lehetoséget kínálnak a környezeti nevelésre.", ro: "TODO", en: "" },
-    factsAdvanced: { de: [], hu: ["Málta természeti értékei különösen érzékenyek a turizmus hatásaira.", "A Ghadira-rezervátum fontos állomás a vándormadarak számára.", "A Buskett-kertek az egyetlen nagyobb erdos terület a szigeten.", "A természetvédelmi területek védelme elengedhetetlen a fajok megmaradásához.", "A szigetország száraz éghajlata miatt a vizes élohelyek ritkaságszámba mennek.", "Málta kormánya számos projektet indított a biodiverzitás növelésére.", "A helyi növényvilág számos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
+    descriptionAdvanced: { de: "", hu: "Plizio tanterv: FÃ¶ldrajz 7. Ã©vfolyam. MÃ¡lta egyÃ©b lÃ¡tnivalÃ³i, mint a termÃ©szetvÃ©delmi terÃ¼letek Ã©s kertek, fontos szerepet jÃ¡tszanak a szigetek Ã¶kolÃ³giai egyensÃºlyÃ¡nak megorzÃ©sÃ©ben, Ã©s remek lehetosÃ©get kÃ­nÃ¡lnak a kÃ¶rnyezeti nevelÃ©sre.", ro: "TODO", en: "" },
+    factsAdvanced: { de: [], hu: ["MÃ¡lta termÃ©szeti Ã©rtÃ©kei kÃ¼lÃ¶nÃ¶sen Ã©rzÃ©kenyek a turizmus hatÃ¡saira.", "A Ghadira-rezervÃ¡tum fontos Ã¡llomÃ¡s a vÃ¡ndormadarak szÃ¡mÃ¡ra.", "A Buskett-kertek az egyetlen nagyobb erdos terÃ¼let a szigeten.", "A termÃ©szetvÃ©delmi terÃ¼letek vÃ©delme elengedhetetlen a fajok megmaradÃ¡sÃ¡hoz.", "A szigetorszÃ¡g szÃ¡raz Ã©ghajlata miatt a vizes Ã©lohelyek ritkasÃ¡gszÃ¡mba mennek.", "MÃ¡lta kormÃ¡nya szÃ¡mos projektet indÃ­tott a biodiverzitÃ¡s nÃ¶velÃ©sÃ©re.", "A helyi nÃ¶vÃ©nyvilÃ¡g szÃ¡mos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
   },
   {
     id: "animal-habitat-malta-falconry-centre-extra",
@@ -220,8 +220,8 @@ export const poiExtraMaltaOther: POI[] = [
       ro: "Un centru dedicat conservÄƒrii È™i reproducerii pÄƒsÄƒrilor de pradÄƒ.",
       en: "A center dedicated to the conservation and breeding of birds of prey."
     },
-    descriptionAdvanced: { de: "", hu: "Plizio tanterv: Földrajz 7. évfolyam. Málta egyéb látnivalói, mint a természetvédelmi területek és kertek, fontos szerepet játszanak a szigetek ökológiai egyensúlyának megorzésében, és remek lehetoséget kínálnak a környezeti nevelésre.", ro: "TODO", en: "" },
-    factsAdvanced: { de: [], hu: ["Málta természeti értékei különösen érzékenyek a turizmus hatásaira.", "A Ghadira-rezervátum fontos állomás a vándormadarak számára.", "A Buskett-kertek az egyetlen nagyobb erdos terület a szigeten.", "A természetvédelmi területek védelme elengedhetetlen a fajok megmaradásához.", "A szigetország száraz éghajlata miatt a vizes élohelyek ritkaságszámba mennek.", "Málta kormánya számos projektet indított a biodiverzitás növelésére.", "A helyi növényvilág számos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
+    descriptionAdvanced: { de: "", hu: "Plizio tanterv: FÃ¶ldrajz 7. Ã©vfolyam. MÃ¡lta egyÃ©b lÃ¡tnivalÃ³i, mint a termÃ©szetvÃ©delmi terÃ¼letek Ã©s kertek, fontos szerepet jÃ¡tszanak a szigetek Ã¶kolÃ³giai egyensÃºlyÃ¡nak megorzÃ©sÃ©ben, Ã©s remek lehetosÃ©get kÃ­nÃ¡lnak a kÃ¶rnyezeti nevelÃ©sre.", ro: "TODO", en: "" },
+    factsAdvanced: { de: [], hu: ["MÃ¡lta termÃ©szeti Ã©rtÃ©kei kÃ¼lÃ¶nÃ¶sen Ã©rzÃ©kenyek a turizmus hatÃ¡saira.", "A Ghadira-rezervÃ¡tum fontos Ã¡llomÃ¡s a vÃ¡ndormadarak szÃ¡mÃ¡ra.", "A Buskett-kertek az egyetlen nagyobb erdos terÃ¼let a szigeten.", "A termÃ©szetvÃ©delmi terÃ¼letek vÃ©delme elengedhetetlen a fajok megmaradÃ¡sÃ¡hoz.", "A szigetorszÃ¡g szÃ¡raz Ã©ghajlata miatt a vizes Ã©lohelyek ritkasÃ¡gszÃ¡mba mennek.", "MÃ¡lta kormÃ¡nya szÃ¡mos projektet indÃ­tott a biodiverzitÃ¡s nÃ¶velÃ©sÃ©re.", "A helyi nÃ¶vÃ©nyvilÃ¡g szÃ¡mos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
   },
   {
     id: "animal-habitat-tal-maghluq-marsaxlokk-extra",
@@ -240,8 +240,8 @@ export const poiExtraMaltaOther: POI[] = [
       ro: "O mlaÈ™tinÄƒ salmastrÄƒ cunoscutÄƒ pentru flora È™i fauna sa specializatÄƒ.",
       en: "A saline marshland known for its specialized flora and fauna."
     },
-    descriptionAdvanced: { de: "", hu: "Plizio tanterv: Földrajz 7. évfolyam. Málta egyéb látnivalói, mint a természetvédelmi területek és kertek, fontos szerepet játszanak a szigetek ökológiai egyensúlyának megorzésében, és remek lehetoséget kínálnak a környezeti nevelésre.", ro: "TODO", en: "" },
-    factsAdvanced: { de: [], hu: ["Málta természeti értékei különösen érzékenyek a turizmus hatásaira.", "A Ghadira-rezervátum fontos állomás a vándormadarak számára.", "A Buskett-kertek az egyetlen nagyobb erdos terület a szigeten.", "A természetvédelmi területek védelme elengedhetetlen a fajok megmaradásához.", "A szigetország száraz éghajlata miatt a vizes élohelyek ritkaságszámba mennek.", "Málta kormánya számos projektet indított a biodiverzitás növelésére.", "A helyi növényvilág számos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
+    descriptionAdvanced: { de: "", hu: "Plizio tanterv: FÃ¶ldrajz 7. Ã©vfolyam. MÃ¡lta egyÃ©b lÃ¡tnivalÃ³i, mint a termÃ©szetvÃ©delmi terÃ¼letek Ã©s kertek, fontos szerepet jÃ¡tszanak a szigetek Ã¶kolÃ³giai egyensÃºlyÃ¡nak megorzÃ©sÃ©ben, Ã©s remek lehetosÃ©get kÃ­nÃ¡lnak a kÃ¶rnyezeti nevelÃ©sre.", ro: "TODO", en: "" },
+    factsAdvanced: { de: [], hu: ["MÃ¡lta termÃ©szeti Ã©rtÃ©kei kÃ¼lÃ¶nÃ¶sen Ã©rzÃ©kenyek a turizmus hatÃ¡saira.", "A Ghadira-rezervÃ¡tum fontos Ã¡llomÃ¡s a vÃ¡ndormadarak szÃ¡mÃ¡ra.", "A Buskett-kertek az egyetlen nagyobb erdos terÃ¼let a szigeten.", "A termÃ©szetvÃ©delmi terÃ¼letek vÃ©delme elengedhetetlen a fajok megmaradÃ¡sÃ¡hoz.", "A szigetorszÃ¡g szÃ¡raz Ã©ghajlata miatt a vizes Ã©lohelyek ritkasÃ¡gszÃ¡mba mennek.", "MÃ¡lta kormÃ¡nya szÃ¡mos projektet indÃ­tott a biodiverzitÃ¡s nÃ¶velÃ©sÃ©re.", "A helyi nÃ¶vÃ©nyvilÃ¡g szÃ¡mos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
   },
   {
     id: "animal-habitat-wied-ghollieqa-nature-reserve-extra",
@@ -260,8 +260,8 @@ export const poiExtraMaltaOther: POI[] = [
       ro: "Un ecosistem de vale mic, dar important, aproape de Universitatea din Malta.",
       en: "A small but important valley ecosystem located near the University of Malta."
     },
-    descriptionAdvanced: { de: "", hu: "Plizio tanterv: Földrajz 7. évfolyam. Málta egyéb látnivalói, mint a természetvédelmi területek és kertek, fontos szerepet játszanak a szigetek ökológiai egyensúlyának megorzésében, és remek lehetoséget kínálnak a környezeti nevelésre.", ro: "TODO", en: "" },
-    factsAdvanced: { de: [], hu: ["Málta természeti értékei különösen érzékenyek a turizmus hatásaira.", "A Ghadira-rezervátum fontos állomás a vándormadarak számára.", "A Buskett-kertek az egyetlen nagyobb erdos terület a szigeten.", "A természetvédelmi területek védelme elengedhetetlen a fajok megmaradásához.", "A szigetország száraz éghajlata miatt a vizes élohelyek ritkaságszámba mennek.", "Málta kormánya számos projektet indított a biodiverzitás növelésére.", "A helyi növényvilág számos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
+    descriptionAdvanced: { de: "", hu: "Plizio tanterv: FÃ¶ldrajz 7. Ã©vfolyam. MÃ¡lta egyÃ©b lÃ¡tnivalÃ³i, mint a termÃ©szetvÃ©delmi terÃ¼letek Ã©s kertek, fontos szerepet jÃ¡tszanak a szigetek Ã¶kolÃ³giai egyensÃºlyÃ¡nak megorzÃ©sÃ©ben, Ã©s remek lehetosÃ©get kÃ­nÃ¡lnak a kÃ¶rnyezeti nevelÃ©sre.", ro: "TODO", en: "" },
+    factsAdvanced: { de: [], hu: ["MÃ¡lta termÃ©szeti Ã©rtÃ©kei kÃ¼lÃ¶nÃ¶sen Ã©rzÃ©kenyek a turizmus hatÃ¡saira.", "A Ghadira-rezervÃ¡tum fontos Ã¡llomÃ¡s a vÃ¡ndormadarak szÃ¡mÃ¡ra.", "A Buskett-kertek az egyetlen nagyobb erdos terÃ¼let a szigeten.", "A termÃ©szetvÃ©delmi terÃ¼letek vÃ©delme elengedhetetlen a fajok megmaradÃ¡sÃ¡hoz.", "A szigetorszÃ¡g szÃ¡raz Ã©ghajlata miatt a vizes Ã©lohelyek ritkasÃ¡gszÃ¡mba mennek.", "MÃ¡lta kormÃ¡nya szÃ¡mos projektet indÃ­tott a biodiverzitÃ¡s nÃ¶velÃ©sÃ©re.", "A helyi nÃ¶vÃ©nyvilÃ¡g szÃ¡mos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
   },
   {
     id: "animal-habitat-l-ahrax-tal-mellieha-extra",
@@ -280,8 +280,8 @@ export const poiExtraMaltaOther: POI[] = [
       ro: "O zonÄƒ Ã®mpÄƒduritÄƒ care oferÄƒ habitat pentru diverse specii È™i este popularÄƒ printre camperi.",
       en: "A woodland area that provides a habitat for various species and is popular with campers."
     },
-    descriptionAdvanced: { de: "", hu: "Plizio tanterv: Földrajz 7. évfolyam. Málta egyéb látnivalói, mint a természetvédelmi területek és kertek, fontos szerepet játszanak a szigetek ökológiai egyensúlyának megorzésében, és remek lehetoséget kínálnak a környezeti nevelésre.", ro: "TODO", en: "" },
-    factsAdvanced: { de: [], hu: ["Málta természeti értékei különösen érzékenyek a turizmus hatásaira.", "A Ghadira-rezervátum fontos állomás a vándormadarak számára.", "A Buskett-kertek az egyetlen nagyobb erdos terület a szigeten.", "A természetvédelmi területek védelme elengedhetetlen a fajok megmaradásához.", "A szigetország száraz éghajlata miatt a vizes élohelyek ritkaságszámba mennek.", "Málta kormánya számos projektet indított a biodiverzitás növelésére.", "A helyi növényvilág számos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
+    descriptionAdvanced: { de: "", hu: "Plizio tanterv: FÃ¶ldrajz 7. Ã©vfolyam. MÃ¡lta egyÃ©b lÃ¡tnivalÃ³i, mint a termÃ©szetvÃ©delmi terÃ¼letek Ã©s kertek, fontos szerepet jÃ¡tszanak a szigetek Ã¶kolÃ³giai egyensÃºlyÃ¡nak megorzÃ©sÃ©ben, Ã©s remek lehetosÃ©get kÃ­nÃ¡lnak a kÃ¶rnyezeti nevelÃ©sre.", ro: "TODO", en: "" },
+    factsAdvanced: { de: [], hu: ["MÃ¡lta termÃ©szeti Ã©rtÃ©kei kÃ¼lÃ¶nÃ¶sen Ã©rzÃ©kenyek a turizmus hatÃ¡saira.", "A Ghadira-rezervÃ¡tum fontos Ã¡llomÃ¡s a vÃ¡ndormadarak szÃ¡mÃ¡ra.", "A Buskett-kertek az egyetlen nagyobb erdos terÃ¼let a szigeten.", "A termÃ©szetvÃ©delmi terÃ¼letek vÃ©delme elengedhetetlen a fajok megmaradÃ¡sÃ¡hoz.", "A szigetorszÃ¡g szÃ¡raz Ã©ghajlata miatt a vizes Ã©lohelyek ritkasÃ¡gszÃ¡mba mennek.", "MÃ¡lta kormÃ¡nya szÃ¡mos projektet indÃ­tott a biodiverzitÃ¡s nÃ¶velÃ©sÃ©re.", "A helyi nÃ¶vÃ©nyvilÃ¡g szÃ¡mos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
   },
   {
     id: "animal-habitat-petting-farm-ta-qali-extra",
@@ -300,8 +300,8 @@ export const poiExtraMaltaOther: POI[] = [
       ro: "Un loc unde copiii pot experimenta animalele de fermÄƒ de aproape.",
       en: "A place where children can experience farm animals up close."
     },
-    descriptionAdvanced: { de: "", hu: "Plizio tanterv: Földrajz 7. évfolyam. Málta egyéb látnivalói, mint a természetvédelmi területek és kertek, fontos szerepet játszanak a szigetek ökológiai egyensúlyának megorzésében, és remek lehetoséget kínálnak a környezeti nevelésre.", ro: "TODO", en: "" },
-    factsAdvanced: { de: [], hu: ["Málta természeti értékei különösen érzékenyek a turizmus hatásaira.", "A Ghadira-rezervátum fontos állomás a vándormadarak számára.", "A Buskett-kertek az egyetlen nagyobb erdos terület a szigeten.", "A természetvédelmi területek védelme elengedhetetlen a fajok megmaradásához.", "A szigetország száraz éghajlata miatt a vizes élohelyek ritkaságszámba mennek.", "Málta kormánya számos projektet indított a biodiverzitás növelésére.", "A helyi növényvilág számos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
+    descriptionAdvanced: { de: "", hu: "Plizio tanterv: FÃ¶ldrajz 7. Ã©vfolyam. MÃ¡lta egyÃ©b lÃ¡tnivalÃ³i, mint a termÃ©szetvÃ©delmi terÃ¼letek Ã©s kertek, fontos szerepet jÃ¡tszanak a szigetek Ã¶kolÃ³giai egyensÃºlyÃ¡nak megorzÃ©sÃ©ben, Ã©s remek lehetosÃ©get kÃ­nÃ¡lnak a kÃ¶rnyezeti nevelÃ©sre.", ro: "TODO", en: "" },
+    factsAdvanced: { de: [], hu: ["MÃ¡lta termÃ©szeti Ã©rtÃ©kei kÃ¼lÃ¶nÃ¶sen Ã©rzÃ©kenyek a turizmus hatÃ¡saira.", "A Ghadira-rezervÃ¡tum fontos Ã¡llomÃ¡s a vÃ¡ndormadarak szÃ¡mÃ¡ra.", "A Buskett-kertek az egyetlen nagyobb erdos terÃ¼let a szigeten.", "A termÃ©szetvÃ©delmi terÃ¼letek vÃ©delme elengedhetetlen a fajok megmaradÃ¡sÃ¡hoz.", "A szigetorszÃ¡g szÃ¡raz Ã©ghajlata miatt a vizes Ã©lohelyek ritkasÃ¡gszÃ¡mba mennek.", "MÃ¡lta kormÃ¡nya szÃ¡mos projektet indÃ­tott a biodiverzitÃ¡s nÃ¶velÃ©sÃ©re.", "A helyi nÃ¶vÃ©nyvilÃ¡g szÃ¡mos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
   },
   {
     id: "animal-habitat-dreams-of-horses-farm-gozo-extra",
@@ -320,8 +320,8 @@ export const poiExtraMaltaOther: POI[] = [
       ro: "Un centru de salvare pentru cai È™i alte animale, care oferÄƒ activitÄƒÈ›i terapeutice.",
       en: "A rescue farm for horses and other animals, offering therapeutic activities."
     },
-    descriptionAdvanced: { de: "", hu: "Plizio tanterv: Földrajz 7. évfolyam. Málta egyéb látnivalói, mint a természetvédelmi területek és kertek, fontos szerepet játszanak a szigetek ökológiai egyensúlyának megorzésében, és remek lehetoséget kínálnak a környezeti nevelésre.", ro: "TODO", en: "" },
-    factsAdvanced: { de: [], hu: ["Málta természeti értékei különösen érzékenyek a turizmus hatásaira.", "A Ghadira-rezervátum fontos állomás a vándormadarak számára.", "A Buskett-kertek az egyetlen nagyobb erdos terület a szigeten.", "A természetvédelmi területek védelme elengedhetetlen a fajok megmaradásához.", "A szigetország száraz éghajlata miatt a vizes élohelyek ritkaságszámba mennek.", "Málta kormánya számos projektet indított a biodiverzitás növelésére.", "A helyi növényvilág számos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
+    descriptionAdvanced: { de: "", hu: "Plizio tanterv: FÃ¶ldrajz 7. Ã©vfolyam. MÃ¡lta egyÃ©b lÃ¡tnivalÃ³i, mint a termÃ©szetvÃ©delmi terÃ¼letek Ã©s kertek, fontos szerepet jÃ¡tszanak a szigetek Ã¶kolÃ³giai egyensÃºlyÃ¡nak megorzÃ©sÃ©ben, Ã©s remek lehetosÃ©get kÃ­nÃ¡lnak a kÃ¶rnyezeti nevelÃ©sre.", ro: "TODO", en: "" },
+    factsAdvanced: { de: [], hu: ["MÃ¡lta termÃ©szeti Ã©rtÃ©kei kÃ¼lÃ¶nÃ¶sen Ã©rzÃ©kenyek a turizmus hatÃ¡saira.", "A Ghadira-rezervÃ¡tum fontos Ã¡llomÃ¡s a vÃ¡ndormadarak szÃ¡mÃ¡ra.", "A Buskett-kertek az egyetlen nagyobb erdos terÃ¼let a szigeten.", "A termÃ©szetvÃ©delmi terÃ¼letek vÃ©delme elengedhetetlen a fajok megmaradÃ¡sÃ¡hoz.", "A szigetorszÃ¡g szÃ¡raz Ã©ghajlata miatt a vizes Ã©lohelyek ritkasÃ¡gszÃ¡mba mennek.", "MÃ¡lta kormÃ¡nya szÃ¡mos projektet indÃ­tott a biodiverzitÃ¡s nÃ¶velÃ©sÃ©re.", "A helyi nÃ¶vÃ©nyvilÃ¡g szÃ¡mos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
   },
   {
     id: "animal-habitat-lunzjata-valley-gozo-extra",
@@ -340,8 +340,8 @@ export const poiExtraMaltaOther: POI[] = [
       ro: "O vale luxuriantÄƒ, verde, pe Gozo, care adÄƒposteÈ™te o florÄƒ È™i faunÄƒ bogatÄƒ, inclusiv crabi de apÄƒ dulce.",
       en: "A lush, green valley on Gozo that hosts rich flora and fauna, including freshwater crabs."
     },
-    descriptionAdvanced: { de: "", hu: "Plizio tanterv: Földrajz 7. évfolyam. Málta egyéb látnivalói, mint a természetvédelmi területek és kertek, fontos szerepet játszanak a szigetek ökológiai egyensúlyának megorzésében, és remek lehetoséget kínálnak a környezeti nevelésre.", ro: "TODO", en: "" },
-    factsAdvanced: { de: [], hu: ["Málta természeti értékei különösen érzékenyek a turizmus hatásaira.", "A Ghadira-rezervátum fontos állomás a vándormadarak számára.", "A Buskett-kertek az egyetlen nagyobb erdos terület a szigeten.", "A természetvédelmi területek védelme elengedhetetlen a fajok megmaradásához.", "A szigetország száraz éghajlata miatt a vizes élohelyek ritkaságszámba mennek.", "Málta kormánya számos projektet indított a biodiverzitás növelésére.", "A helyi növényvilág számos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
+    descriptionAdvanced: { de: "", hu: "Plizio tanterv: FÃ¶ldrajz 7. Ã©vfolyam. MÃ¡lta egyÃ©b lÃ¡tnivalÃ³i, mint a termÃ©szetvÃ©delmi terÃ¼letek Ã©s kertek, fontos szerepet jÃ¡tszanak a szigetek Ã¶kolÃ³giai egyensÃºlyÃ¡nak megorzÃ©sÃ©ben, Ã©s remek lehetosÃ©get kÃ­nÃ¡lnak a kÃ¶rnyezeti nevelÃ©sre.", ro: "TODO", en: "" },
+    factsAdvanced: { de: [], hu: ["MÃ¡lta termÃ©szeti Ã©rtÃ©kei kÃ¼lÃ¶nÃ¶sen Ã©rzÃ©kenyek a turizmus hatÃ¡saira.", "A Ghadira-rezervÃ¡tum fontos Ã¡llomÃ¡s a vÃ¡ndormadarak szÃ¡mÃ¡ra.", "A Buskett-kertek az egyetlen nagyobb erdos terÃ¼let a szigeten.", "A termÃ©szetvÃ©delmi terÃ¼letek vÃ©delme elengedhetetlen a fajok megmaradÃ¡sÃ¡hoz.", "A szigetorszÃ¡g szÃ¡raz Ã©ghajlata miatt a vizes Ã©lohelyek ritkasÃ¡gszÃ¡mba mennek.", "MÃ¡lta kormÃ¡nya szÃ¡mos projektet indÃ­tott a biodiverzitÃ¡s nÃ¶velÃ©sÃ©re.", "A helyi nÃ¶vÃ©nyvilÃ¡g szÃ¡mos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
   },
   {
     id: "animal-habitat-marine-park-bahar-ic-caghaq-extra",
@@ -360,8 +360,8 @@ export const poiExtraMaltaOther: POI[] = [
       ro: "Un parc cu delfini, lei de mare È™i alte animale marine, care oferÄƒ spectacole educaÈ›ionale.",
       en: "A park featuring dolphins, sea lions, and other marine animals, offering educational shows."
     },
-    descriptionAdvanced: { de: "", hu: "Plizio tanterv: Földrajz 7. évfolyam. Málta egyéb látnivalói, mint a természetvédelmi területek és kertek, fontos szerepet játszanak a szigetek ökológiai egyensúlyának megorzésében, és remek lehetoséget kínálnak a környezeti nevelésre.", ro: "TODO", en: "" },
-    factsAdvanced: { de: [], hu: ["Málta természeti értékei különösen érzékenyek a turizmus hatásaira.", "A Ghadira-rezervátum fontos állomás a vándormadarak számára.", "A Buskett-kertek az egyetlen nagyobb erdos terület a szigeten.", "A természetvédelmi területek védelme elengedhetetlen a fajok megmaradásához.", "A szigetország száraz éghajlata miatt a vizes élohelyek ritkaságszámba mennek.", "Málta kormánya számos projektet indított a biodiverzitás növelésére.", "A helyi növényvilág számos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
+    descriptionAdvanced: { de: "", hu: "Plizio tanterv: FÃ¶ldrajz 7. Ã©vfolyam. MÃ¡lta egyÃ©b lÃ¡tnivalÃ³i, mint a termÃ©szetvÃ©delmi terÃ¼letek Ã©s kertek, fontos szerepet jÃ¡tszanak a szigetek Ã¶kolÃ³giai egyensÃºlyÃ¡nak megorzÃ©sÃ©ben, Ã©s remek lehetosÃ©get kÃ­nÃ¡lnak a kÃ¶rnyezeti nevelÃ©sre.", ro: "TODO", en: "" },
+    factsAdvanced: { de: [], hu: ["MÃ¡lta termÃ©szeti Ã©rtÃ©kei kÃ¼lÃ¶nÃ¶sen Ã©rzÃ©kenyek a turizmus hatÃ¡saira.", "A Ghadira-rezervÃ¡tum fontos Ã¡llomÃ¡s a vÃ¡ndormadarak szÃ¡mÃ¡ra.", "A Buskett-kertek az egyetlen nagyobb erdos terÃ¼let a szigeten.", "A termÃ©szetvÃ©delmi terÃ¼letek vÃ©delme elengedhetetlen a fajok megmaradÃ¡sÃ¡hoz.", "A szigetorszÃ¡g szÃ¡raz Ã©ghajlata miatt a vizes Ã©lohelyek ritkasÃ¡gszÃ¡mba mennek.", "MÃ¡lta kormÃ¡nya szÃ¡mos projektet indÃ­tott a biodiverzitÃ¡s nÃ¶velÃ©sÃ©re.", "A helyi nÃ¶vÃ©nyvilÃ¡g szÃ¡mos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
   },
   {
     id: "animal-habitat-foresta-2000-extra",
@@ -380,8 +380,8 @@ export const poiExtraMaltaOther: POI[] = [
       ro: "Un proiect de reÃ®mpÄƒdurire care reface o pÄƒdure mediteraneanÄƒ È™i creeazÄƒ habitat pentru fauna sÄƒlbaticÄƒ.",
       en: "A reforestation project that is recreating a Mediterranean woodland, providing habitat for wildlife."
     },
-    descriptionAdvanced: { de: "", hu: "Plizio tanterv: Földrajz 7. évfolyam. Málta egyéb látnivalói, mint a természetvédelmi területek és kertek, fontos szerepet játszanak a szigetek ökológiai egyensúlyának megorzésében, és remek lehetoséget kínálnak a környezeti nevelésre.", ro: "TODO", en: "" },
-    factsAdvanced: { de: [], hu: ["Málta természeti értékei különösen érzékenyek a turizmus hatásaira.", "A Ghadira-rezervátum fontos állomás a vándormadarak számára.", "A Buskett-kertek az egyetlen nagyobb erdos terület a szigeten.", "A természetvédelmi területek védelme elengedhetetlen a fajok megmaradásához.", "A szigetország száraz éghajlata miatt a vizes élohelyek ritkaságszámba mennek.", "Málta kormánya számos projektet indított a biodiverzitás növelésére.", "A helyi növényvilág számos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
+    descriptionAdvanced: { de: "", hu: "Plizio tanterv: FÃ¶ldrajz 7. Ã©vfolyam. MÃ¡lta egyÃ©b lÃ¡tnivalÃ³i, mint a termÃ©szetvÃ©delmi terÃ¼letek Ã©s kertek, fontos szerepet jÃ¡tszanak a szigetek Ã¶kolÃ³giai egyensÃºlyÃ¡nak megorzÃ©sÃ©ben, Ã©s remek lehetosÃ©get kÃ­nÃ¡lnak a kÃ¶rnyezeti nevelÃ©sre.", ro: "TODO", en: "" },
+    factsAdvanced: { de: [], hu: ["MÃ¡lta termÃ©szeti Ã©rtÃ©kei kÃ¼lÃ¶nÃ¶sen Ã©rzÃ©kenyek a turizmus hatÃ¡saira.", "A Ghadira-rezervÃ¡tum fontos Ã¡llomÃ¡s a vÃ¡ndormadarak szÃ¡mÃ¡ra.", "A Buskett-kertek az egyetlen nagyobb erdos terÃ¼let a szigeten.", "A termÃ©szetvÃ©delmi terÃ¼letek vÃ©delme elengedhetetlen a fajok megmaradÃ¡sÃ¡hoz.", "A szigetorszÃ¡g szÃ¡raz Ã©ghajlata miatt a vizes Ã©lohelyek ritkasÃ¡gszÃ¡mba mennek.", "MÃ¡lta kormÃ¡nya szÃ¡mos projektet indÃ­tott a biodiverzitÃ¡s nÃ¶velÃ©sÃ©re.", "A helyi nÃ¶vÃ©nyvilÃ¡g szÃ¡mos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
   },
   {
     id: "animal-habitat-wied-tal-luq-extra",
@@ -400,8 +400,8 @@ export const poiExtraMaltaOther: POI[] = [
       ro: "O vale lÃ¢ngÄƒ Buskett, cunoscutÄƒ pentru biodiversitatea sa bogatÄƒ.",
       en: "A valley near Buskett known for its rich biodiversity."
     },
-    descriptionAdvanced: { de: "", hu: "Plizio tanterv: Földrajz 7. évfolyam. Málta egyéb látnivalói, mint a természetvédelmi területek és kertek, fontos szerepet játszanak a szigetek ökológiai egyensúlyának megorzésében, és remek lehetoséget kínálnak a környezeti nevelésre.", ro: "TODO", en: "" },
-    factsAdvanced: { de: [], hu: ["Málta természeti értékei különösen érzékenyek a turizmus hatásaira.", "A Ghadira-rezervátum fontos állomás a vándormadarak számára.", "A Buskett-kertek az egyetlen nagyobb erdos terület a szigeten.", "A természetvédelmi területek védelme elengedhetetlen a fajok megmaradásához.", "A szigetország száraz éghajlata miatt a vizes élohelyek ritkaságszámba mennek.", "Málta kormánya számos projektet indított a biodiverzitás növelésére.", "A helyi növényvilág számos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
+    descriptionAdvanced: { de: "", hu: "Plizio tanterv: FÃ¶ldrajz 7. Ã©vfolyam. MÃ¡lta egyÃ©b lÃ¡tnivalÃ³i, mint a termÃ©szetvÃ©delmi terÃ¼letek Ã©s kertek, fontos szerepet jÃ¡tszanak a szigetek Ã¶kolÃ³giai egyensÃºlyÃ¡nak megorzÃ©sÃ©ben, Ã©s remek lehetosÃ©get kÃ­nÃ¡lnak a kÃ¶rnyezeti nevelÃ©sre.", ro: "TODO", en: "" },
+    factsAdvanced: { de: [], hu: ["MÃ¡lta termÃ©szeti Ã©rtÃ©kei kÃ¼lÃ¶nÃ¶sen Ã©rzÃ©kenyek a turizmus hatÃ¡saira.", "A Ghadira-rezervÃ¡tum fontos Ã¡llomÃ¡s a vÃ¡ndormadarak szÃ¡mÃ¡ra.", "A Buskett-kertek az egyetlen nagyobb erdos terÃ¼let a szigeten.", "A termÃ©szetvÃ©delmi terÃ¼letek vÃ©delme elengedhetetlen a fajok megmaradÃ¡sÃ¡hoz.", "A szigetorszÃ¡g szÃ¡raz Ã©ghajlata miatt a vizes Ã©lohelyek ritkasÃ¡gszÃ¡mba mennek.", "MÃ¡lta kormÃ¡nya szÃ¡mos projektet indÃ­tott a biodiverzitÃ¡s nÃ¶velÃ©sÃ©re.", "A helyi nÃ¶vÃ©nyvilÃ¡g szÃ¡mos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
   },
   {
     id: "animal-habitat-il-maqluba-extra",
@@ -420,8 +420,8 @@ export const poiExtraMaltaOther: POI[] = [
       ro: "O dolinÄƒ mare care a creat un microhabitat unic cu o varietate de copaci È™i plante.",
       en: "A large sinkhole that has created a unique micro-habitat with a variety of trees and plants."
     },
-    descriptionAdvanced: { de: "", hu: "Plizio tanterv: Földrajz 7. évfolyam. Málta egyéb látnivalói, mint a természetvédelmi területek és kertek, fontos szerepet játszanak a szigetek ökológiai egyensúlyának megorzésében, és remek lehetoséget kínálnak a környezeti nevelésre.", ro: "TODO", en: "" },
-    factsAdvanced: { de: [], hu: ["Málta természeti értékei különösen érzékenyek a turizmus hatásaira.", "A Ghadira-rezervátum fontos állomás a vándormadarak számára.", "A Buskett-kertek az egyetlen nagyobb erdos terület a szigeten.", "A természetvédelmi területek védelme elengedhetetlen a fajok megmaradásához.", "A szigetország száraz éghajlata miatt a vizes élohelyek ritkaságszámba mennek.", "Málta kormánya számos projektet indított a biodiverzitás növelésére.", "A helyi növényvilág számos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
+    descriptionAdvanced: { de: "", hu: "Plizio tanterv: FÃ¶ldrajz 7. Ã©vfolyam. MÃ¡lta egyÃ©b lÃ¡tnivalÃ³i, mint a termÃ©szetvÃ©delmi terÃ¼letek Ã©s kertek, fontos szerepet jÃ¡tszanak a szigetek Ã¶kolÃ³giai egyensÃºlyÃ¡nak megorzÃ©sÃ©ben, Ã©s remek lehetosÃ©get kÃ­nÃ¡lnak a kÃ¶rnyezeti nevelÃ©sre.", ro: "TODO", en: "" },
+    factsAdvanced: { de: [], hu: ["MÃ¡lta termÃ©szeti Ã©rtÃ©kei kÃ¼lÃ¶nÃ¶sen Ã©rzÃ©kenyek a turizmus hatÃ¡saira.", "A Ghadira-rezervÃ¡tum fontos Ã¡llomÃ¡s a vÃ¡ndormadarak szÃ¡mÃ¡ra.", "A Buskett-kertek az egyetlen nagyobb erdos terÃ¼let a szigeten.", "A termÃ©szetvÃ©delmi terÃ¼letek vÃ©delme elengedhetetlen a fajok megmaradÃ¡sÃ¡hoz.", "A szigetorszÃ¡g szÃ¡raz Ã©ghajlata miatt a vizes Ã©lohelyek ritkasÃ¡gszÃ¡mba mennek.", "MÃ¡lta kormÃ¡nya szÃ¡mos projektet indÃ­tott a biodiverzitÃ¡s nÃ¶velÃ©sÃ©re.", "A helyi nÃ¶vÃ©nyvilÃ¡g szÃ¡mos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
   },
   {
     id: "animal-habitat-wied-il-qlejgha-chadwick-lakes-extra",
@@ -440,8 +440,8 @@ export const poiExtraMaltaOther: POI[] = [
       ro: "O serie de baraje care colecteazÄƒ apÄƒ Ã®n timpul sezonului ploios, formÃ¢nd un habitat important de apÄƒ dulce.",
       en: "A series of dams that collect water during the rainy season, forming an important freshwater habitat."
     },
-    descriptionAdvanced: { de: "", hu: "Plizio tanterv: Földrajz 7. évfolyam. Málta egyéb látnivalói, mint a természetvédelmi területek és kertek, fontos szerepet játszanak a szigetek ökológiai egyensúlyának megorzésében, és remek lehetoséget kínálnak a környezeti nevelésre.", ro: "TODO", en: "" },
-    factsAdvanced: { de: [], hu: ["Málta természeti értékei különösen érzékenyek a turizmus hatásaira.", "A Ghadira-rezervátum fontos állomás a vándormadarak számára.", "A Buskett-kertek az egyetlen nagyobb erdos terület a szigeten.", "A természetvédelmi területek védelme elengedhetetlen a fajok megmaradásához.", "A szigetország száraz éghajlata miatt a vizes élohelyek ritkaságszámba mennek.", "Málta kormánya számos projektet indított a biodiverzitás növelésére.", "A helyi növényvilág számos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
+    descriptionAdvanced: { de: "", hu: "Plizio tanterv: FÃ¶ldrajz 7. Ã©vfolyam. MÃ¡lta egyÃ©b lÃ¡tnivalÃ³i, mint a termÃ©szetvÃ©delmi terÃ¼letek Ã©s kertek, fontos szerepet jÃ¡tszanak a szigetek Ã¶kolÃ³giai egyensÃºlyÃ¡nak megorzÃ©sÃ©ben, Ã©s remek lehetosÃ©get kÃ­nÃ¡lnak a kÃ¶rnyezeti nevelÃ©sre.", ro: "TODO", en: "" },
+    factsAdvanced: { de: [], hu: ["MÃ¡lta termÃ©szeti Ã©rtÃ©kei kÃ¼lÃ¶nÃ¶sen Ã©rzÃ©kenyek a turizmus hatÃ¡saira.", "A Ghadira-rezervÃ¡tum fontos Ã¡llomÃ¡s a vÃ¡ndormadarak szÃ¡mÃ¡ra.", "A Buskett-kertek az egyetlen nagyobb erdos terÃ¼let a szigeten.", "A termÃ©szetvÃ©delmi terÃ¼letek vÃ©delme elengedhetetlen a fajok megmaradÃ¡sÃ¡hoz.", "A szigetorszÃ¡g szÃ¡raz Ã©ghajlata miatt a vizes Ã©lohelyek ritkasÃ¡gszÃ¡mba mennek.", "MÃ¡lta kormÃ¡nya szÃ¡mos projektet indÃ­tott a biodiverzitÃ¡s nÃ¶velÃ©sÃ©re.", "A helyi nÃ¶vÃ©nyvilÃ¡g szÃ¡mos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
   },
   {
     id: "animal-habitat-is-simar-bird-sanctuary-extra",
@@ -460,8 +460,8 @@ export const poiExtraMaltaOther: POI[] = [
       ro: "O arie protejatÄƒ care atrage o varietate de pÄƒsÄƒri, Ã®n special Ã®n timpul sezoanelor de migraÈ›ie.",
       en: "A protected area attracting a variety of birds, especially during migration seasons."
     },
-    descriptionAdvanced: { de: "", hu: "Plizio tanterv: Földrajz 7. évfolyam. Málta egyéb látnivalói, mint a természetvédelmi területek és kertek, fontos szerepet játszanak a szigetek ökológiai egyensúlyának megorzésében, és remek lehetoséget kínálnak a környezeti nevelésre.", ro: "TODO", en: "" },
-    factsAdvanced: { de: [], hu: ["Málta természeti értékei különösen érzékenyek a turizmus hatásaira.", "A Ghadira-rezervátum fontos állomás a vándormadarak számára.", "A Buskett-kertek az egyetlen nagyobb erdos terület a szigeten.", "A természetvédelmi területek védelme elengedhetetlen a fajok megmaradásához.", "A szigetország száraz éghajlata miatt a vizes élohelyek ritkaságszámba mennek.", "Málta kormánya számos projektet indított a biodiverzitás növelésére.", "A helyi növényvilág számos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
+    descriptionAdvanced: { de: "", hu: "Plizio tanterv: FÃ¶ldrajz 7. Ã©vfolyam. MÃ¡lta egyÃ©b lÃ¡tnivalÃ³i, mint a termÃ©szetvÃ©delmi terÃ¼letek Ã©s kertek, fontos szerepet jÃ¡tszanak a szigetek Ã¶kolÃ³giai egyensÃºlyÃ¡nak megorzÃ©sÃ©ben, Ã©s remek lehetosÃ©get kÃ­nÃ¡lnak a kÃ¶rnyezeti nevelÃ©sre.", ro: "TODO", en: "" },
+    factsAdvanced: { de: [], hu: ["MÃ¡lta termÃ©szeti Ã©rtÃ©kei kÃ¼lÃ¶nÃ¶sen Ã©rzÃ©kenyek a turizmus hatÃ¡saira.", "A Ghadira-rezervÃ¡tum fontos Ã¡llomÃ¡s a vÃ¡ndormadarak szÃ¡mÃ¡ra.", "A Buskett-kertek az egyetlen nagyobb erdos terÃ¼let a szigeten.", "A termÃ©szetvÃ©delmi terÃ¼letek vÃ©delme elengedhetetlen a fajok megmaradÃ¡sÃ¡hoz.", "A szigetorszÃ¡g szÃ¡raz Ã©ghajlata miatt a vizes Ã©lohelyek ritkasÃ¡gszÃ¡mba mennek.", "MÃ¡lta kormÃ¡nya szÃ¡mos projektet indÃ­tott a biodiverzitÃ¡s nÃ¶velÃ©sÃ©re.", "A helyi nÃ¶vÃ©nyvilÃ¡g szÃ¡mos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
   },
   {
     id: "animal-habitat-ballut-ta-marsaxlokk-extra",
@@ -480,8 +480,8 @@ export const poiExtraMaltaOther: POI[] = [
       ro: "O zonÄƒ de mlaÈ™tinÄƒ sÄƒratÄƒ importantÄƒ pentru conservarea peÈ™tilor killifish.",
       en: "A salt marsh area important for the conservation of killifish."
     },
-    descriptionAdvanced: { de: "", hu: "Plizio tanterv: Földrajz 7. évfolyam. Málta egyéb látnivalói, mint a természetvédelmi területek és kertek, fontos szerepet játszanak a szigetek ökológiai egyensúlyának megorzésében, és remek lehetoséget kínálnak a környezeti nevelésre.", ro: "TODO", en: "" },
-    factsAdvanced: { de: [], hu: ["Málta természeti értékei különösen érzékenyek a turizmus hatásaira.", "A Ghadira-rezervátum fontos állomás a vándormadarak számára.", "A Buskett-kertek az egyetlen nagyobb erdos terület a szigeten.", "A természetvédelmi területek védelme elengedhetetlen a fajok megmaradásához.", "A szigetország száraz éghajlata miatt a vizes élohelyek ritkaságszámba mennek.", "Málta kormánya számos projektet indított a biodiverzitás növelésére.", "A helyi növényvilág számos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
+    descriptionAdvanced: { de: "", hu: "Plizio tanterv: FÃ¶ldrajz 7. Ã©vfolyam. MÃ¡lta egyÃ©b lÃ¡tnivalÃ³i, mint a termÃ©szetvÃ©delmi terÃ¼letek Ã©s kertek, fontos szerepet jÃ¡tszanak a szigetek Ã¶kolÃ³giai egyensÃºlyÃ¡nak megorzÃ©sÃ©ben, Ã©s remek lehetosÃ©get kÃ­nÃ¡lnak a kÃ¶rnyezeti nevelÃ©sre.", ro: "TODO", en: "" },
+    factsAdvanced: { de: [], hu: ["MÃ¡lta termÃ©szeti Ã©rtÃ©kei kÃ¼lÃ¶nÃ¶sen Ã©rzÃ©kenyek a turizmus hatÃ¡saira.", "A Ghadira-rezervÃ¡tum fontos Ã¡llomÃ¡s a vÃ¡ndormadarak szÃ¡mÃ¡ra.", "A Buskett-kertek az egyetlen nagyobb erdos terÃ¼let a szigeten.", "A termÃ©szetvÃ©delmi terÃ¼letek vÃ©delme elengedhetetlen a fajok megmaradÃ¡sÃ¡hoz.", "A szigetorszÃ¡g szÃ¡raz Ã©ghajlata miatt a vizes Ã©lohelyek ritkasÃ¡gszÃ¡mba mennek.", "MÃ¡lta kormÃ¡nya szÃ¡mos projektet indÃ­tott a biodiverzitÃ¡s nÃ¶velÃ©sÃ©re.", "A helyi nÃ¶vÃ©nyvilÃ¡g szÃ¡mos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
   },
   {
     id: "animal-habitat-bird-park-malta-extra",
@@ -500,8 +500,8 @@ export const poiExtraMaltaOther: POI[] = [
       ro: "Un parc care gÄƒzduieÈ™te o varietate de pÄƒsÄƒri din Ã®ntreaga lume, precum È™i alte animale.",
       en: "A park housing a variety of birds from around the world, as well as other animals."
     },
-    descriptionAdvanced: { de: "", hu: "Plizio tanterv: Földrajz 7. évfolyam. Málta egyéb látnivalói, mint a természetvédelmi területek és kertek, fontos szerepet játszanak a szigetek ökológiai egyensúlyának megorzésében, és remek lehetoséget kínálnak a környezeti nevelésre.", ro: "TODO", en: "" },
-    factsAdvanced: { de: [], hu: ["Málta természeti értékei különösen érzékenyek a turizmus hatásaira.", "A Ghadira-rezervátum fontos állomás a vándormadarak számára.", "A Buskett-kertek az egyetlen nagyobb erdos terület a szigeten.", "A természetvédelmi területek védelme elengedhetetlen a fajok megmaradásához.", "A szigetország száraz éghajlata miatt a vizes élohelyek ritkaságszámba mennek.", "Málta kormánya számos projektet indított a biodiverzitás növelésére.", "A helyi növényvilág számos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
+    descriptionAdvanced: { de: "", hu: "Plizio tanterv: FÃ¶ldrajz 7. Ã©vfolyam. MÃ¡lta egyÃ©b lÃ¡tnivalÃ³i, mint a termÃ©szetvÃ©delmi terÃ¼letek Ã©s kertek, fontos szerepet jÃ¡tszanak a szigetek Ã¶kolÃ³giai egyensÃºlyÃ¡nak megorzÃ©sÃ©ben, Ã©s remek lehetosÃ©get kÃ­nÃ¡lnak a kÃ¶rnyezeti nevelÃ©sre.", ro: "TODO", en: "" },
+    factsAdvanced: { de: [], hu: ["MÃ¡lta termÃ©szeti Ã©rtÃ©kei kÃ¼lÃ¶nÃ¶sen Ã©rzÃ©kenyek a turizmus hatÃ¡saira.", "A Ghadira-rezervÃ¡tum fontos Ã¡llomÃ¡s a vÃ¡ndormadarak szÃ¡mÃ¡ra.", "A Buskett-kertek az egyetlen nagyobb erdos terÃ¼let a szigeten.", "A termÃ©szetvÃ©delmi terÃ¼letek vÃ©delme elengedhetetlen a fajok megmaradÃ¡sÃ¡hoz.", "A szigetorszÃ¡g szÃ¡raz Ã©ghajlata miatt a vizes Ã©lohelyek ritkasÃ¡gszÃ¡mba mennek.", "MÃ¡lta kormÃ¡nya szÃ¡mos projektet indÃ­tott a biodiverzitÃ¡s nÃ¶velÃ©sÃ©re.", "A helyi nÃ¶vÃ©nyvilÃ¡g szÃ¡mos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
   },
   {
     id: "animal-habitat-tal-had-dingli-extra",
@@ -520,8 +520,8 @@ export const poiExtraMaltaOther: POI[] = [
       ro: "O zonÄƒ de stÃ¢nci care serveÈ™te drept habitat pentru plante È™i insecte endemice.",
       en: "A cliff area serving as a habitat for endemic plants and insects."
     },
-    descriptionAdvanced: { de: "", hu: "Plizio tanterv: Földrajz 7. évfolyam. Málta egyéb látnivalói, mint a természetvédelmi területek és kertek, fontos szerepet játszanak a szigetek ökológiai egyensúlyának megorzésében, és remek lehetoséget kínálnak a környezeti nevelésre.", ro: "TODO", en: "" },
-    factsAdvanced: { de: [], hu: ["Málta természeti értékei különösen érzékenyek a turizmus hatásaira.", "A Ghadira-rezervátum fontos állomás a vándormadarak számára.", "A Buskett-kertek az egyetlen nagyobb erdos terület a szigeten.", "A természetvédelmi területek védelme elengedhetetlen a fajok megmaradásához.", "A szigetország száraz éghajlata miatt a vizes élohelyek ritkaságszámba mennek.", "Málta kormánya számos projektet indított a biodiverzitás növelésére.", "A helyi növényvilág számos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
+    descriptionAdvanced: { de: "", hu: "Plizio tanterv: FÃ¶ldrajz 7. Ã©vfolyam. MÃ¡lta egyÃ©b lÃ¡tnivalÃ³i, mint a termÃ©szetvÃ©delmi terÃ¼letek Ã©s kertek, fontos szerepet jÃ¡tszanak a szigetek Ã¶kolÃ³giai egyensÃºlyÃ¡nak megorzÃ©sÃ©ben, Ã©s remek lehetosÃ©get kÃ­nÃ¡lnak a kÃ¶rnyezeti nevelÃ©sre.", ro: "TODO", en: "" },
+    factsAdvanced: { de: [], hu: ["MÃ¡lta termÃ©szeti Ã©rtÃ©kei kÃ¼lÃ¶nÃ¶sen Ã©rzÃ©kenyek a turizmus hatÃ¡saira.", "A Ghadira-rezervÃ¡tum fontos Ã¡llomÃ¡s a vÃ¡ndormadarak szÃ¡mÃ¡ra.", "A Buskett-kertek az egyetlen nagyobb erdos terÃ¼let a szigeten.", "A termÃ©szetvÃ©delmi terÃ¼letek vÃ©delme elengedhetetlen a fajok megmaradÃ¡sÃ¡hoz.", "A szigetorszÃ¡g szÃ¡raz Ã©ghajlata miatt a vizes Ã©lohelyek ritkasÃ¡gszÃ¡mba mennek.", "MÃ¡lta kormÃ¡nya szÃ¡mos projektet indÃ­tott a biodiverzitÃ¡s nÃ¶velÃ©sÃ©re.", "A helyi nÃ¶vÃ©nyvilÃ¡g szÃ¡mos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
   },
   {
     id: "animal-habitat-ramla-l-hamra-gozo-extra",
@@ -540,8 +540,8 @@ export const poiExtraMaltaOther: POI[] = [
       ro: "Plaja de nisip È™i dunele sunt un loc de cuibÄƒrit pentru broasca È›estoasÄƒ Loggerhead.",
       en: "The sandy beach and dunes are a nesting site for the Loggerhead Turtle."
     },
-    descriptionAdvanced: { de: "", hu: "Plizio tanterv: Földrajz 7. évfolyam. Málta egyéb látnivalói, mint a természetvédelmi területek és kertek, fontos szerepet játszanak a szigetek ökológiai egyensúlyának megorzésében, és remek lehetoséget kínálnak a környezeti nevelésre.", ro: "TODO", en: "" },
-    factsAdvanced: { de: [], hu: ["Málta természeti értékei különösen érzékenyek a turizmus hatásaira.", "A Ghadira-rezervátum fontos állomás a vándormadarak számára.", "A Buskett-kertek az egyetlen nagyobb erdos terület a szigeten.", "A természetvédelmi területek védelme elengedhetetlen a fajok megmaradásához.", "A szigetország száraz éghajlata miatt a vizes élohelyek ritkaságszámba mennek.", "Málta kormánya számos projektet indított a biodiverzitás növelésére.", "A helyi növényvilág számos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
+    descriptionAdvanced: { de: "", hu: "Plizio tanterv: FÃ¶ldrajz 7. Ã©vfolyam. MÃ¡lta egyÃ©b lÃ¡tnivalÃ³i, mint a termÃ©szetvÃ©delmi terÃ¼letek Ã©s kertek, fontos szerepet jÃ¡tszanak a szigetek Ã¶kolÃ³giai egyensÃºlyÃ¡nak megorzÃ©sÃ©ben, Ã©s remek lehetosÃ©get kÃ­nÃ¡lnak a kÃ¶rnyezeti nevelÃ©sre.", ro: "TODO", en: "" },
+    factsAdvanced: { de: [], hu: ["MÃ¡lta termÃ©szeti Ã©rtÃ©kei kÃ¼lÃ¶nÃ¶sen Ã©rzÃ©kenyek a turizmus hatÃ¡saira.", "A Ghadira-rezervÃ¡tum fontos Ã¡llomÃ¡s a vÃ¡ndormadarak szÃ¡mÃ¡ra.", "A Buskett-kertek az egyetlen nagyobb erdos terÃ¼let a szigeten.", "A termÃ©szetvÃ©delmi terÃ¼letek vÃ©delme elengedhetetlen a fajok megmaradÃ¡sÃ¡hoz.", "A szigetorszÃ¡g szÃ¡raz Ã©ghajlata miatt a vizes Ã©lohelyek ritkasÃ¡gszÃ¡mba mennek.", "MÃ¡lta kormÃ¡nya szÃ¡mos projektet indÃ­tott a biodiverzitÃ¡s nÃ¶velÃ©sÃ©re.", "A helyi nÃ¶vÃ©nyvilÃ¡g szÃ¡mos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
   },
   {
     id: "animal-habitat-ghajn-barrani-gozo-extra",
@@ -560,8 +560,8 @@ export const poiExtraMaltaOther: POI[] = [
       ro: "O zonÄƒ de stÃ¢nci izolatÄƒ, importantÄƒ pentru flora È™i fauna localÄƒ.",
       en: "A remote cliff area important for local flora and fauna."
     },
-    descriptionAdvanced: { de: "", hu: "Plizio tanterv: Földrajz 7. évfolyam. Málta egyéb látnivalói, mint a természetvédelmi területek és kertek, fontos szerepet játszanak a szigetek ökológiai egyensúlyának megorzésében, és remek lehetoséget kínálnak a környezeti nevelésre.", ro: "TODO", en: "" },
-    factsAdvanced: { de: [], hu: ["Málta természeti értékei különösen érzékenyek a turizmus hatásaira.", "A Ghadira-rezervátum fontos állomás a vándormadarak számára.", "A Buskett-kertek az egyetlen nagyobb erdos terület a szigeten.", "A természetvédelmi területek védelme elengedhetetlen a fajok megmaradásához.", "A szigetország száraz éghajlata miatt a vizes élohelyek ritkaságszámba mennek.", "Málta kormánya számos projektet indított a biodiverzitás növelésére.", "A helyi növényvilág számos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
+    descriptionAdvanced: { de: "", hu: "Plizio tanterv: FÃ¶ldrajz 7. Ã©vfolyam. MÃ¡lta egyÃ©b lÃ¡tnivalÃ³i, mint a termÃ©szetvÃ©delmi terÃ¼letek Ã©s kertek, fontos szerepet jÃ¡tszanak a szigetek Ã¶kolÃ³giai egyensÃºlyÃ¡nak megorzÃ©sÃ©ben, Ã©s remek lehetosÃ©get kÃ­nÃ¡lnak a kÃ¶rnyezeti nevelÃ©sre.", ro: "TODO", en: "" },
+    factsAdvanced: { de: [], hu: ["MÃ¡lta termÃ©szeti Ã©rtÃ©kei kÃ¼lÃ¶nÃ¶sen Ã©rzÃ©kenyek a turizmus hatÃ¡saira.", "A Ghadira-rezervÃ¡tum fontos Ã¡llomÃ¡s a vÃ¡ndormadarak szÃ¡mÃ¡ra.", "A Buskett-kertek az egyetlen nagyobb erdos terÃ¼let a szigeten.", "A termÃ©szetvÃ©delmi terÃ¼letek vÃ©delme elengedhetetlen a fajok megmaradÃ¡sÃ¡hoz.", "A szigetorszÃ¡g szÃ¡raz Ã©ghajlata miatt a vizes Ã©lohelyek ritkasÃ¡gszÃ¡mba mennek.", "MÃ¡lta kormÃ¡nya szÃ¡mos projektet indÃ­tott a biodiverzitÃ¡s nÃ¶velÃ©sÃ©re.", "A helyi nÃ¶vÃ©nyvilÃ¡g szÃ¡mos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
   },
   {
     id: "animal-habitat-ta-kole-donkey-sanctuary-extra",
@@ -580,8 +580,8 @@ export const poiExtraMaltaOther: POI[] = [
       ro: "Un sanctuar care Ã®ngrijeÈ™te mÄƒgarii abandonaÈ›i È™i maltrataÈ›i.",
       en: "A sanctuary that cares for abandoned and mistreated donkeys."
     },
-    descriptionAdvanced: { de: "", hu: "Plizio tanterv: Földrajz 7. évfolyam. Málta egyéb látnivalói, mint a természetvédelmi területek és kertek, fontos szerepet játszanak a szigetek ökológiai egyensúlyának megorzésében, és remek lehetoséget kínálnak a környezeti nevelésre.", ro: "TODO", en: "" },
-    factsAdvanced: { de: [], hu: ["Málta természeti értékei különösen érzékenyek a turizmus hatásaira.", "A Ghadira-rezervátum fontos állomás a vándormadarak számára.", "A Buskett-kertek az egyetlen nagyobb erdos terület a szigeten.", "A természetvédelmi területek védelme elengedhetetlen a fajok megmaradásához.", "A szigetország száraz éghajlata miatt a vizes élohelyek ritkaságszámba mennek.", "Málta kormánya számos projektet indított a biodiverzitás növelésére.", "A helyi növényvilág számos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
+    descriptionAdvanced: { de: "", hu: "Plizio tanterv: FÃ¶ldrajz 7. Ã©vfolyam. MÃ¡lta egyÃ©b lÃ¡tnivalÃ³i, mint a termÃ©szetvÃ©delmi terÃ¼letek Ã©s kertek, fontos szerepet jÃ¡tszanak a szigetek Ã¶kolÃ³giai egyensÃºlyÃ¡nak megorzÃ©sÃ©ben, Ã©s remek lehetosÃ©get kÃ­nÃ¡lnak a kÃ¶rnyezeti nevelÃ©sre.", ro: "TODO", en: "" },
+    factsAdvanced: { de: [], hu: ["MÃ¡lta termÃ©szeti Ã©rtÃ©kei kÃ¼lÃ¶nÃ¶sen Ã©rzÃ©kenyek a turizmus hatÃ¡saira.", "A Ghadira-rezervÃ¡tum fontos Ã¡llomÃ¡s a vÃ¡ndormadarak szÃ¡mÃ¡ra.", "A Buskett-kertek az egyetlen nagyobb erdos terÃ¼let a szigeten.", "A termÃ©szetvÃ©delmi terÃ¼letek vÃ©delme elengedhetetlen a fajok megmaradÃ¡sÃ¡hoz.", "A szigetorszÃ¡g szÃ¡raz Ã©ghajlata miatt a vizes Ã©lohelyek ritkasÃ¡gszÃ¡mba mennek.", "MÃ¡lta kormÃ¡nya szÃ¡mos projektet indÃ­tott a biodiverzitÃ¡s nÃ¶velÃ©sÃ©re.", "A helyi nÃ¶vÃ©nyvilÃ¡g szÃ¡mos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
   },
   {
     id: "animal-habitat-xrobb-l-ghagin-nature-park-extra",
@@ -600,8 +600,8 @@ export const poiExtraMaltaOther: POI[] = [
       ro: "Un parc de coastÄƒ axat pe durabilitate È™i conservarea naturii.",
       en: "A coastal park focused on sustainability and nature conservation."
     },
-    descriptionAdvanced: { de: "", hu: "Plizio tanterv: Földrajz 7. évfolyam. Málta egyéb látnivalói, mint a természetvédelmi területek és kertek, fontos szerepet játszanak a szigetek ökológiai egyensúlyának megorzésében, és remek lehetoséget kínálnak a környezeti nevelésre.", ro: "TODO", en: "" },
-    factsAdvanced: { de: [], hu: ["Málta természeti értékei különösen érzékenyek a turizmus hatásaira.", "A Ghadira-rezervátum fontos állomás a vándormadarak számára.", "A Buskett-kertek az egyetlen nagyobb erdos terület a szigeten.", "A természetvédelmi területek védelme elengedhetetlen a fajok megmaradásához.", "A szigetország száraz éghajlata miatt a vizes élohelyek ritkaságszámba mennek.", "Málta kormánya számos projektet indított a biodiverzitás növelésére.", "A helyi növényvilág számos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
+    descriptionAdvanced: { de: "", hu: "Plizio tanterv: FÃ¶ldrajz 7. Ã©vfolyam. MÃ¡lta egyÃ©b lÃ¡tnivalÃ³i, mint a termÃ©szetvÃ©delmi terÃ¼letek Ã©s kertek, fontos szerepet jÃ¡tszanak a szigetek Ã¶kolÃ³giai egyensÃºlyÃ¡nak megorzÃ©sÃ©ben, Ã©s remek lehetosÃ©get kÃ­nÃ¡lnak a kÃ¶rnyezeti nevelÃ©sre.", ro: "TODO", en: "" },
+    factsAdvanced: { de: [], hu: ["MÃ¡lta termÃ©szeti Ã©rtÃ©kei kÃ¼lÃ¶nÃ¶sen Ã©rzÃ©kenyek a turizmus hatÃ¡saira.", "A Ghadira-rezervÃ¡tum fontos Ã¡llomÃ¡s a vÃ¡ndormadarak szÃ¡mÃ¡ra.", "A Buskett-kertek az egyetlen nagyobb erdos terÃ¼let a szigeten.", "A termÃ©szetvÃ©delmi terÃ¼letek vÃ©delme elengedhetetlen a fajok megmaradÃ¡sÃ¡hoz.", "A szigetorszÃ¡g szÃ¡raz Ã©ghajlata miatt a vizes Ã©lohelyek ritkasÃ¡gszÃ¡mba mennek.", "MÃ¡lta kormÃ¡nya szÃ¡mos projektet indÃ­tott a biodiverzitÃ¡s nÃ¶velÃ©sÃ©re.", "A helyi nÃ¶vÃ©nyvilÃ¡g szÃ¡mos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
   },
 
   // Kid Landmark
@@ -622,8 +622,8 @@ export const poiExtraMaltaOther: POI[] = [
       ro: "Platoul de filmare original al filmului Popeye din 1980, acum un parc tematic pentru familii.",
       en: "The original film set of the 1980 Popeye movie, now a theme park for families."
     },
-    descriptionAdvanced: { de: "", hu: "Plizio tanterv: Földrajz 7. évfolyam. Málta egyéb látnivalói, mint a természetvédelmi területek és kertek, fontos szerepet játszanak a szigetek ökológiai egyensúlyának megorzésében, és remek lehetoséget kínálnak a környezeti nevelésre.", ro: "TODO", en: "" },
-    factsAdvanced: { de: [], hu: ["Málta természeti értékei különösen érzékenyek a turizmus hatásaira.", "A Ghadira-rezervátum fontos állomás a vándormadarak számára.", "A Buskett-kertek az egyetlen nagyobb erdos terület a szigeten.", "A természetvédelmi területek védelme elengedhetetlen a fajok megmaradásához.", "A szigetország száraz éghajlata miatt a vizes élohelyek ritkaságszámba mennek.", "Málta kormánya számos projektet indított a biodiverzitás növelésére.", "A helyi növényvilág számos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
+    descriptionAdvanced: { de: "", hu: "Plizio tanterv: FÃ¶ldrajz 7. Ã©vfolyam. MÃ¡lta egyÃ©b lÃ¡tnivalÃ³i, mint a termÃ©szetvÃ©delmi terÃ¼letek Ã©s kertek, fontos szerepet jÃ¡tszanak a szigetek Ã¶kolÃ³giai egyensÃºlyÃ¡nak megorzÃ©sÃ©ben, Ã©s remek lehetosÃ©get kÃ­nÃ¡lnak a kÃ¶rnyezeti nevelÃ©sre.", ro: "TODO", en: "" },
+    factsAdvanced: { de: [], hu: ["MÃ¡lta termÃ©szeti Ã©rtÃ©kei kÃ¼lÃ¶nÃ¶sen Ã©rzÃ©kenyek a turizmus hatÃ¡saira.", "A Ghadira-rezervÃ¡tum fontos Ã¡llomÃ¡s a vÃ¡ndormadarak szÃ¡mÃ¡ra.", "A Buskett-kertek az egyetlen nagyobb erdos terÃ¼let a szigeten.", "A termÃ©szetvÃ©delmi terÃ¼letek vÃ©delme elengedhetetlen a fajok megmaradÃ¡sÃ¡hoz.", "A szigetorszÃ¡g szÃ¡raz Ã©ghajlata miatt a vizes Ã©lohelyek ritkasÃ¡gszÃ¡mba mennek.", "MÃ¡lta kormÃ¡nya szÃ¡mos projektet indÃ­tott a biodiverzitÃ¡s nÃ¶velÃ©sÃ©re.", "A helyi nÃ¶vÃ©nyvilÃ¡g szÃ¡mos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
   },
   {
     id: "kid-landmark-malta-national-aquarium-extra",
@@ -642,8 +642,8 @@ export const poiExtraMaltaOther: POI[] = [
       ro: "Un acvariu modern cu peÈ™ti din Marea MediteranÄƒ È™i ape tropicale.",
       en: "A modern aquarium featuring fish from the Mediterranean and tropical waters."
     },
-    descriptionAdvanced: { de: "", hu: "Plizio tanterv: Földrajz 7. évfolyam. Málta egyéb látnivalói, mint a természetvédelmi területek és kertek, fontos szerepet játszanak a szigetek ökológiai egyensúlyának megorzésében, és remek lehetoséget kínálnak a környezeti nevelésre.", ro: "TODO", en: "" },
-    factsAdvanced: { de: [], hu: ["Málta természeti értékei különösen érzékenyek a turizmus hatásaira.", "A Ghadira-rezervátum fontos állomás a vándormadarak számára.", "A Buskett-kertek az egyetlen nagyobb erdos terület a szigeten.", "A természetvédelmi területek védelme elengedhetetlen a fajok megmaradásához.", "A szigetország száraz éghajlata miatt a vizes élohelyek ritkaságszámba mennek.", "Málta kormánya számos projektet indított a biodiverzitás növelésére.", "A helyi növényvilág számos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
+    descriptionAdvanced: { de: "", hu: "Plizio tanterv: FÃ¶ldrajz 7. Ã©vfolyam. MÃ¡lta egyÃ©b lÃ¡tnivalÃ³i, mint a termÃ©szetvÃ©delmi terÃ¼letek Ã©s kertek, fontos szerepet jÃ¡tszanak a szigetek Ã¶kolÃ³giai egyensÃºlyÃ¡nak megorzÃ©sÃ©ben, Ã©s remek lehetosÃ©get kÃ­nÃ¡lnak a kÃ¶rnyezeti nevelÃ©sre.", ro: "TODO", en: "" },
+    factsAdvanced: { de: [], hu: ["MÃ¡lta termÃ©szeti Ã©rtÃ©kei kÃ¼lÃ¶nÃ¶sen Ã©rzÃ©kenyek a turizmus hatÃ¡saira.", "A Ghadira-rezervÃ¡tum fontos Ã¡llomÃ¡s a vÃ¡ndormadarak szÃ¡mÃ¡ra.", "A Buskett-kertek az egyetlen nagyobb erdos terÃ¼let a szigeten.", "A termÃ©szetvÃ©delmi terÃ¼letek vÃ©delme elengedhetetlen a fajok megmaradÃ¡sÃ¡hoz.", "A szigetorszÃ¡g szÃ¡raz Ã©ghajlata miatt a vizes Ã©lohelyek ritkasÃ¡gszÃ¡mba mennek.", "MÃ¡lta kormÃ¡nya szÃ¡mos projektet indÃ­tott a biodiverzitÃ¡s nÃ¶velÃ©sÃ©re.", "A helyi nÃ¶vÃ©nyvilÃ¡g szÃ¡mos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
   },
   {
     id: "kid-landmark-esplora-interactive-science-centre-extra",
@@ -662,8 +662,8 @@ export const poiExtraMaltaOther: POI[] = [
       ro: "Un centru È™tiinÈ›ific interactiv unde copiii pot Ã®nvÄƒÈ›a prin experimente.",
       en: "An interactive science center where children can learn through experiments."
     },
-    descriptionAdvanced: { de: "", hu: "Plizio tanterv: Földrajz 7. évfolyam. Málta egyéb látnivalói, mint a természetvédelmi területek és kertek, fontos szerepet játszanak a szigetek ökológiai egyensúlyának megorzésében, és remek lehetoséget kínálnak a környezeti nevelésre.", ro: "TODO", en: "" },
-    factsAdvanced: { de: [], hu: ["Málta természeti értékei különösen érzékenyek a turizmus hatásaira.", "A Ghadira-rezervátum fontos állomás a vándormadarak számára.", "A Buskett-kertek az egyetlen nagyobb erdos terület a szigeten.", "A természetvédelmi területek védelme elengedhetetlen a fajok megmaradásához.", "A szigetország száraz éghajlata miatt a vizes élohelyek ritkaságszámba mennek.", "Málta kormánya számos projektet indított a biodiverzitás növelésére.", "A helyi növényvilág számos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
+    descriptionAdvanced: { de: "", hu: "Plizio tanterv: FÃ¶ldrajz 7. Ã©vfolyam. MÃ¡lta egyÃ©b lÃ¡tnivalÃ³i, mint a termÃ©szetvÃ©delmi terÃ¼letek Ã©s kertek, fontos szerepet jÃ¡tszanak a szigetek Ã¶kolÃ³giai egyensÃºlyÃ¡nak megorzÃ©sÃ©ben, Ã©s remek lehetosÃ©get kÃ­nÃ¡lnak a kÃ¶rnyezeti nevelÃ©sre.", ro: "TODO", en: "" },
+    factsAdvanced: { de: [], hu: ["MÃ¡lta termÃ©szeti Ã©rtÃ©kei kÃ¼lÃ¶nÃ¶sen Ã©rzÃ©kenyek a turizmus hatÃ¡saira.", "A Ghadira-rezervÃ¡tum fontos Ã¡llomÃ¡s a vÃ¡ndormadarak szÃ¡mÃ¡ra.", "A Buskett-kertek az egyetlen nagyobb erdos terÃ¼let a szigeten.", "A termÃ©szetvÃ©delmi terÃ¼letek vÃ©delme elengedhetetlen a fajok megmaradÃ¡sÃ¡hoz.", "A szigetorszÃ¡g szÃ¡raz Ã©ghajlata miatt a vizes Ã©lohelyek ritkasÃ¡gszÃ¡mba mennek.", "MÃ¡lta kormÃ¡nya szÃ¡mos projektet indÃ­tott a biodiverzitÃ¡s nÃ¶velÃ©sÃ©re.", "A helyi nÃ¶vÃ©nyvilÃ¡g szÃ¡mos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
   },
   {
     id: "kid-landmark-splash-and-fun-water-park-extra",
@@ -682,8 +682,8 @@ export const poiExtraMaltaOther: POI[] = [
       ro: "Cel mai mare parc acvatic din Malta, cu tobogane, o piscinÄƒ cu valuri È™i un parc de dinozauri.",
       en: "Malta's largest water park, with slides, a wave pool, and a dinosaur park."
     },
-    descriptionAdvanced: { de: "", hu: "Plizio tanterv: Földrajz 7. évfolyam. Málta egyéb látnivalói, mint a természetvédelmi területek és kertek, fontos szerepet játszanak a szigetek ökológiai egyensúlyának megorzésében, és remek lehetoséget kínálnak a környezeti nevelésre.", ro: "TODO", en: "" },
-    factsAdvanced: { de: [], hu: ["Málta természeti értékei különösen érzékenyek a turizmus hatásaira.", "A Ghadira-rezervátum fontos állomás a vándormadarak számára.", "A Buskett-kertek az egyetlen nagyobb erdos terület a szigeten.", "A természetvédelmi területek védelme elengedhetetlen a fajok megmaradásához.", "A szigetország száraz éghajlata miatt a vizes élohelyek ritkaságszámba mennek.", "Málta kormánya számos projektet indított a biodiverzitás növelésére.", "A helyi növényvilág számos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
+    descriptionAdvanced: { de: "", hu: "Plizio tanterv: FÃ¶ldrajz 7. Ã©vfolyam. MÃ¡lta egyÃ©b lÃ¡tnivalÃ³i, mint a termÃ©szetvÃ©delmi terÃ¼letek Ã©s kertek, fontos szerepet jÃ¡tszanak a szigetek Ã¶kolÃ³giai egyensÃºlyÃ¡nak megorzÃ©sÃ©ben, Ã©s remek lehetosÃ©get kÃ­nÃ¡lnak a kÃ¶rnyezeti nevelÃ©sre.", ro: "TODO", en: "" },
+    factsAdvanced: { de: [], hu: ["MÃ¡lta termÃ©szeti Ã©rtÃ©kei kÃ¼lÃ¶nÃ¶sen Ã©rzÃ©kenyek a turizmus hatÃ¡saira.", "A Ghadira-rezervÃ¡tum fontos Ã¡llomÃ¡s a vÃ¡ndormadarak szÃ¡mÃ¡ra.", "A Buskett-kertek az egyetlen nagyobb erdos terÃ¼let a szigeten.", "A termÃ©szetvÃ©delmi terÃ¼letek vÃ©delme elengedhetetlen a fajok megmaradÃ¡sÃ¡hoz.", "A szigetorszÃ¡g szÃ¡raz Ã©ghajlata miatt a vizes Ã©lohelyek ritkasÃ¡gszÃ¡mba mennek.", "MÃ¡lta kormÃ¡nya szÃ¡mos projektet indÃ­tott a biodiverzitÃ¡s nÃ¶velÃ©sÃ©re.", "A helyi nÃ¶vÃ©nyvilÃ¡g szÃ¡mos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
   },
   {
     id: "kid-landmark-bugibba-water-park-extra",
@@ -702,8 +702,8 @@ export const poiExtraMaltaOther: POI[] = [
       ro: "Un parc acvatic mai mic, gratuit, pe promenada din Bugibba, ideal pentru copiii mai mici.",
       en: "A smaller, free water park on the Bugibba promenade, ideal for younger children."
     },
-    descriptionAdvanced: { de: "", hu: "Plizio tanterv: Földrajz 7. évfolyam. Málta egyéb látnivalói, mint a természetvédelmi területek és kertek, fontos szerepet játszanak a szigetek ökológiai egyensúlyának megorzésében, és remek lehetoséget kínálnak a környezeti nevelésre.", ro: "TODO", en: "" },
-    factsAdvanced: { de: [], hu: ["Málta természeti értékei különösen érzékenyek a turizmus hatásaira.", "A Ghadira-rezervátum fontos állomás a vándormadarak számára.", "A Buskett-kertek az egyetlen nagyobb erdos terület a szigeten.", "A természetvédelmi területek védelme elengedhetetlen a fajok megmaradásához.", "A szigetország száraz éghajlata miatt a vizes élohelyek ritkaságszámba mennek.", "Málta kormánya számos projektet indított a biodiverzitás növelésére.", "A helyi növényvilág számos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
+    descriptionAdvanced: { de: "", hu: "Plizio tanterv: FÃ¶ldrajz 7. Ã©vfolyam. MÃ¡lta egyÃ©b lÃ¡tnivalÃ³i, mint a termÃ©szetvÃ©delmi terÃ¼letek Ã©s kertek, fontos szerepet jÃ¡tszanak a szigetek Ã¶kolÃ³giai egyensÃºlyÃ¡nak megorzÃ©sÃ©ben, Ã©s remek lehetosÃ©get kÃ­nÃ¡lnak a kÃ¶rnyezeti nevelÃ©sre.", ro: "TODO", en: "" },
+    factsAdvanced: { de: [], hu: ["MÃ¡lta termÃ©szeti Ã©rtÃ©kei kÃ¼lÃ¶nÃ¶sen Ã©rzÃ©kenyek a turizmus hatÃ¡saira.", "A Ghadira-rezervÃ¡tum fontos Ã¡llomÃ¡s a vÃ¡ndormadarak szÃ¡mÃ¡ra.", "A Buskett-kertek az egyetlen nagyobb erdos terÃ¼let a szigeten.", "A termÃ©szetvÃ©delmi terÃ¼letek vÃ©delme elengedhetetlen a fajok megmaradÃ¡sÃ¡hoz.", "A szigetorszÃ¡g szÃ¡raz Ã©ghajlata miatt a vizes Ã©lohelyek ritkasÃ¡gszÃ¡mba mennek.", "MÃ¡lta kormÃ¡nya szÃ¡mos projektet indÃ­tott a biodiverzitÃ¡s nÃ¶velÃ©sÃ©re.", "A helyi nÃ¶vÃ©nyvilÃ¡g szÃ¡mos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
   },
   {
     id: "kid-landmark-playmobil-funpark-extra",
@@ -722,8 +722,8 @@ export const poiExtraMaltaOther: POI[] = [
       ro: "O zonÄƒ de joacÄƒ interioarÄƒ È™i exterioarÄƒ cu lumi tematice Playmobil lÃ¢ngÄƒ fabricÄƒ.",
       en: "An indoor and outdoor play area with Playmobil themed worlds, located near the factory."
     },
-    descriptionAdvanced: { de: "", hu: "Plizio tanterv: Földrajz 7. évfolyam. Málta egyéb látnivalói, mint a természetvédelmi területek és kertek, fontos szerepet játszanak a szigetek ökológiai egyensúlyának megorzésében, és remek lehetoséget kínálnak a környezeti nevelésre.", ro: "TODO", en: "" },
-    factsAdvanced: { de: [], hu: ["Málta természeti értékei különösen érzékenyek a turizmus hatásaira.", "A Ghadira-rezervátum fontos állomás a vándormadarak számára.", "A Buskett-kertek az egyetlen nagyobb erdos terület a szigeten.", "A természetvédelmi területek védelme elengedhetetlen a fajok megmaradásához.", "A szigetország száraz éghajlata miatt a vizes élohelyek ritkaságszámba mennek.", "Málta kormánya számos projektet indított a biodiverzitás növelésére.", "A helyi növényvilág számos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
+    descriptionAdvanced: { de: "", hu: "Plizio tanterv: FÃ¶ldrajz 7. Ã©vfolyam. MÃ¡lta egyÃ©b lÃ¡tnivalÃ³i, mint a termÃ©szetvÃ©delmi terÃ¼letek Ã©s kertek, fontos szerepet jÃ¡tszanak a szigetek Ã¶kolÃ³giai egyensÃºlyÃ¡nak megorzÃ©sÃ©ben, Ã©s remek lehetosÃ©get kÃ­nÃ¡lnak a kÃ¶rnyezeti nevelÃ©sre.", ro: "TODO", en: "" },
+    factsAdvanced: { de: [], hu: ["MÃ¡lta termÃ©szeti Ã©rtÃ©kei kÃ¼lÃ¶nÃ¶sen Ã©rzÃ©kenyek a turizmus hatÃ¡saira.", "A Ghadira-rezervÃ¡tum fontos Ã¡llomÃ¡s a vÃ¡ndormadarak szÃ¡mÃ¡ra.", "A Buskett-kertek az egyetlen nagyobb erdos terÃ¼let a szigeten.", "A termÃ©szetvÃ©delmi terÃ¼letek vÃ©delme elengedhetetlen a fajok megmaradÃ¡sÃ¡hoz.", "A szigetorszÃ¡g szÃ¡raz Ã©ghajlata miatt a vizes Ã©lohelyek ritkasÃ¡gszÃ¡mba mennek.", "MÃ¡lta kormÃ¡nya szÃ¡mos projektet indÃ­tott a biodiverzitÃ¡s nÃ¶velÃ©sÃ©re.", "A helyi nÃ¶vÃ©nyvilÃ¡g szÃ¡mos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
   },
   {
     id: "kid-landmark-birdpark-malta-for-kids-extra",
@@ -742,8 +742,8 @@ export const poiExtraMaltaOther: POI[] = [
       ro: "Un parc unde copiii pot vedea È™i hrÄƒni pÄƒsÄƒri È™i alte animale.",
       en: "A park where children can see and feed birds and other animals."
     },
-    descriptionAdvanced: { de: "", hu: "Plizio tanterv: Földrajz 7. évfolyam. Málta egyéb látnivalói, mint a természetvédelmi területek és kertek, fontos szerepet játszanak a szigetek ökológiai egyensúlyának megorzésében, és remek lehetoséget kínálnak a környezeti nevelésre.", ro: "TODO", en: "" },
-    factsAdvanced: { de: [], hu: ["Málta természeti értékei különösen érzékenyek a turizmus hatásaira.", "A Ghadira-rezervátum fontos állomás a vándormadarak számára.", "A Buskett-kertek az egyetlen nagyobb erdos terület a szigeten.", "A természetvédelmi területek védelme elengedhetetlen a fajok megmaradásához.", "A szigetország száraz éghajlata miatt a vizes élohelyek ritkaságszámba mennek.", "Málta kormánya számos projektet indított a biodiverzitás növelésére.", "A helyi növényvilág számos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
+    descriptionAdvanced: { de: "", hu: "Plizio tanterv: FÃ¶ldrajz 7. Ã©vfolyam. MÃ¡lta egyÃ©b lÃ¡tnivalÃ³i, mint a termÃ©szetvÃ©delmi terÃ¼letek Ã©s kertek, fontos szerepet jÃ¡tszanak a szigetek Ã¶kolÃ³giai egyensÃºlyÃ¡nak megorzÃ©sÃ©ben, Ã©s remek lehetosÃ©get kÃ­nÃ¡lnak a kÃ¶rnyezeti nevelÃ©sre.", ro: "TODO", en: "" },
+    factsAdvanced: { de: [], hu: ["MÃ¡lta termÃ©szeti Ã©rtÃ©kei kÃ¼lÃ¶nÃ¶sen Ã©rzÃ©kenyek a turizmus hatÃ¡saira.", "A Ghadira-rezervÃ¡tum fontos Ã¡llomÃ¡s a vÃ¡ndormadarak szÃ¡mÃ¡ra.", "A Buskett-kertek az egyetlen nagyobb erdos terÃ¼let a szigeten.", "A termÃ©szetvÃ©delmi terÃ¼letek vÃ©delme elengedhetetlen a fajok megmaradÃ¡sÃ¡hoz.", "A szigetorszÃ¡g szÃ¡raz Ã©ghajlata miatt a vizes Ã©lohelyek ritkasÃ¡gszÃ¡mba mennek.", "MÃ¡lta kormÃ¡nya szÃ¡mos projektet indÃ­tott a biodiverzitÃ¡s nÃ¶velÃ©sÃ©re.", "A helyi nÃ¶vÃ©nyvilÃ¡g szÃ¡mos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
   },
   {
     id: "kid-landmark-lws-animal-park-extra",
@@ -762,8 +762,8 @@ export const poiExtraMaltaOther: POI[] = [
       ro: "Un mic parc de animale cu o varietate de animale, inclusiv tigri È™i maimuÈ›e.",
       en: "A small animal park with a variety of animals, including tigers and monkeys."
     },
-    descriptionAdvanced: { de: "", hu: "Plizio tanterv: Földrajz 7. évfolyam. Málta egyéb látnivalói, mint a természetvédelmi területek és kertek, fontos szerepet játszanak a szigetek ökológiai egyensúlyának megorzésében, és remek lehetoséget kínálnak a környezeti nevelésre.", ro: "TODO", en: "" },
-    factsAdvanced: { de: [], hu: ["Málta természeti értékei különösen érzékenyek a turizmus hatásaira.", "A Ghadira-rezervátum fontos állomás a vándormadarak számára.", "A Buskett-kertek az egyetlen nagyobb erdos terület a szigeten.", "A természetvédelmi területek védelme elengedhetetlen a fajok megmaradásához.", "A szigetország száraz éghajlata miatt a vizes élohelyek ritkaságszámba mennek.", "Málta kormánya számos projektet indított a biodiverzitás növelésére.", "A helyi növényvilág számos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
+    descriptionAdvanced: { de: "", hu: "Plizio tanterv: FÃ¶ldrajz 7. Ã©vfolyam. MÃ¡lta egyÃ©b lÃ¡tnivalÃ³i, mint a termÃ©szetvÃ©delmi terÃ¼letek Ã©s kertek, fontos szerepet jÃ¡tszanak a szigetek Ã¶kolÃ³giai egyensÃºlyÃ¡nak megorzÃ©sÃ©ben, Ã©s remek lehetosÃ©get kÃ­nÃ¡lnak a kÃ¶rnyezeti nevelÃ©sre.", ro: "TODO", en: "" },
+    factsAdvanced: { de: [], hu: ["MÃ¡lta termÃ©szeti Ã©rtÃ©kei kÃ¼lÃ¶nÃ¶sen Ã©rzÃ©kenyek a turizmus hatÃ¡saira.", "A Ghadira-rezervÃ¡tum fontos Ã¡llomÃ¡s a vÃ¡ndormadarak szÃ¡mÃ¡ra.", "A Buskett-kertek az egyetlen nagyobb erdos terÃ¼let a szigeten.", "A termÃ©szetvÃ©delmi terÃ¼letek vÃ©delme elengedhetetlen a fajok megmaradÃ¡sÃ¡hoz.", "A szigetorszÃ¡g szÃ¡raz Ã©ghajlata miatt a vizes Ã©lohelyek ritkasÃ¡gszÃ¡mba mennek.", "MÃ¡lta kormÃ¡nya szÃ¡mos projektet indÃ­tott a biodiverzitÃ¡s nÃ¶velÃ©sÃ©re.", "A helyi nÃ¶vÃ©nyvilÃ¡g szÃ¡mos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
   },
   {
     id: "kid-landmark-limestone-heritage-park-gardens-extra",
@@ -782,8 +782,8 @@ export const poiExtraMaltaOther: POI[] = [
       ro: "Un muzeu experimental despre istoria calcarului maltez, cu un mic parc de animale.",
       en: "An experiential museum about the history of Maltese limestone, with a small animal park."
     },
-    descriptionAdvanced: { de: "", hu: "Plizio tanterv: Földrajz 7. évfolyam. Málta egyéb látnivalói, mint a természetvédelmi területek és kertek, fontos szerepet játszanak a szigetek ökológiai egyensúlyának megorzésében, és remek lehetoséget kínálnak a környezeti nevelésre.", ro: "TODO", en: "" },
-    factsAdvanced: { de: [], hu: ["Málta természeti értékei különösen érzékenyek a turizmus hatásaira.", "A Ghadira-rezervátum fontos állomás a vándormadarak számára.", "A Buskett-kertek az egyetlen nagyobb erdos terület a szigeten.", "A természetvédelmi területek védelme elengedhetetlen a fajok megmaradásához.", "A szigetország száraz éghajlata miatt a vizes élohelyek ritkaságszámba mennek.", "Málta kormánya számos projektet indított a biodiverzitás növelésére.", "A helyi növényvilág számos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
+    descriptionAdvanced: { de: "", hu: "Plizio tanterv: FÃ¶ldrajz 7. Ã©vfolyam. MÃ¡lta egyÃ©b lÃ¡tnivalÃ³i, mint a termÃ©szetvÃ©delmi terÃ¼letek Ã©s kertek, fontos szerepet jÃ¡tszanak a szigetek Ã¶kolÃ³giai egyensÃºlyÃ¡nak megorzÃ©sÃ©ben, Ã©s remek lehetosÃ©get kÃ­nÃ¡lnak a kÃ¶rnyezeti nevelÃ©sre.", ro: "TODO", en: "" },
+    factsAdvanced: { de: [], hu: ["MÃ¡lta termÃ©szeti Ã©rtÃ©kei kÃ¼lÃ¶nÃ¶sen Ã©rzÃ©kenyek a turizmus hatÃ¡saira.", "A Ghadira-rezervÃ¡tum fontos Ã¡llomÃ¡s a vÃ¡ndormadarak szÃ¡mÃ¡ra.", "A Buskett-kertek az egyetlen nagyobb erdos terÃ¼let a szigeten.", "A termÃ©szetvÃ©delmi terÃ¼letek vÃ©delme elengedhetetlen a fajok megmaradÃ¡sÃ¡hoz.", "A szigetorszÃ¡g szÃ¡raz Ã©ghajlata miatt a vizes Ã©lohelyek ritkasÃ¡gszÃ¡mba mennek.", "MÃ¡lta kormÃ¡nya szÃ¡mos projektet indÃ­tott a biodiverzitÃ¡s nÃ¶velÃ©sÃ©re.", "A helyi nÃ¶vÃ©nyvilÃ¡g szÃ¡mos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
   },
   {
     id: "kid-landmark-bowling-at-eden-superbowl-extra",
@@ -802,8 +802,8 @@ export const poiExtraMaltaOther: POI[] = [
       ro: "O pistÄƒ mare de bowling care oferÄƒ distracÈ›ie pentru Ã®ntreaga familie.",
       en: "A large bowling alley offering fun for the whole family."
     },
-    descriptionAdvanced: { de: "", hu: "Plizio tanterv: Földrajz 7. évfolyam. Málta egyéb látnivalói, mint a természetvédelmi területek és kertek, fontos szerepet játszanak a szigetek ökológiai egyensúlyának megorzésében, és remek lehetoséget kínálnak a környezeti nevelésre.", ro: "TODO", en: "" },
-    factsAdvanced: { de: [], hu: ["Málta természeti értékei különösen érzékenyek a turizmus hatásaira.", "A Ghadira-rezervátum fontos állomás a vándormadarak számára.", "A Buskett-kertek az egyetlen nagyobb erdos terület a szigeten.", "A természetvédelmi területek védelme elengedhetetlen a fajok megmaradásához.", "A szigetország száraz éghajlata miatt a vizes élohelyek ritkaságszámba mennek.", "Málta kormánya számos projektet indított a biodiverzitás növelésére.", "A helyi növényvilág számos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
+    descriptionAdvanced: { de: "", hu: "Plizio tanterv: FÃ¶ldrajz 7. Ã©vfolyam. MÃ¡lta egyÃ©b lÃ¡tnivalÃ³i, mint a termÃ©szetvÃ©delmi terÃ¼letek Ã©s kertek, fontos szerepet jÃ¡tszanak a szigetek Ã¶kolÃ³giai egyensÃºlyÃ¡nak megorzÃ©sÃ©ben, Ã©s remek lehetosÃ©get kÃ­nÃ¡lnak a kÃ¶rnyezeti nevelÃ©sre.", ro: "TODO", en: "" },
+    factsAdvanced: { de: [], hu: ["MÃ¡lta termÃ©szeti Ã©rtÃ©kei kÃ¼lÃ¶nÃ¶sen Ã©rzÃ©kenyek a turizmus hatÃ¡saira.", "A Ghadira-rezervÃ¡tum fontos Ã¡llomÃ¡s a vÃ¡ndormadarak szÃ¡mÃ¡ra.", "A Buskett-kertek az egyetlen nagyobb erdos terÃ¼let a szigeten.", "A termÃ©szetvÃ©delmi terÃ¼letek vÃ©delme elengedhetetlen a fajok megmaradÃ¡sÃ¡hoz.", "A szigetorszÃ¡g szÃ¡raz Ã©ghajlata miatt a vizes Ã©lohelyek ritkasÃ¡gszÃ¡mba mennek.", "MÃ¡lta kormÃ¡nya szÃ¡mos projektet indÃ­tott a biodiverzitÃ¡s nÃ¶velÃ©sÃ©re.", "A helyi nÃ¶vÃ©nyvilÃ¡g szÃ¡mos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
   },
   {
     id: "kid-landmark-the-fun-park-at-tigne-point-extra",
@@ -822,8 +822,8 @@ export const poiExtraMaltaOther: POI[] = [
       ro: "Un loc de joacÄƒ interior Ã®n centrul comercial The Point.",
       en: "An indoor playground located in The Point shopping mall."
     },
-    descriptionAdvanced: { de: "", hu: "Plizio tanterv: Földrajz 7. évfolyam. Málta egyéb látnivalói, mint a természetvédelmi területek és kertek, fontos szerepet játszanak a szigetek ökológiai egyensúlyának megorzésében, és remek lehetoséget kínálnak a környezeti nevelésre.", ro: "TODO", en: "" },
-    factsAdvanced: { de: [], hu: ["Málta természeti értékei különösen érzékenyek a turizmus hatásaira.", "A Ghadira-rezervátum fontos állomás a vándormadarak számára.", "A Buskett-kertek az egyetlen nagyobb erdos terület a szigeten.", "A természetvédelmi területek védelme elengedhetetlen a fajok megmaradásához.", "A szigetország száraz éghajlata miatt a vizes élohelyek ritkaságszámba mennek.", "Málta kormánya számos projektet indított a biodiverzitás növelésére.", "A helyi növényvilág számos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
+    descriptionAdvanced: { de: "", hu: "Plizio tanterv: FÃ¶ldrajz 7. Ã©vfolyam. MÃ¡lta egyÃ©b lÃ¡tnivalÃ³i, mint a termÃ©szetvÃ©delmi terÃ¼letek Ã©s kertek, fontos szerepet jÃ¡tszanak a szigetek Ã¶kolÃ³giai egyensÃºlyÃ¡nak megorzÃ©sÃ©ben, Ã©s remek lehetosÃ©get kÃ­nÃ¡lnak a kÃ¶rnyezeti nevelÃ©sre.", ro: "TODO", en: "" },
+    factsAdvanced: { de: [], hu: ["MÃ¡lta termÃ©szeti Ã©rtÃ©kei kÃ¼lÃ¶nÃ¶sen Ã©rzÃ©kenyek a turizmus hatÃ¡saira.", "A Ghadira-rezervÃ¡tum fontos Ã¡llomÃ¡s a vÃ¡ndormadarak szÃ¡mÃ¡ra.", "A Buskett-kertek az egyetlen nagyobb erdos terÃ¼let a szigeten.", "A termÃ©szetvÃ©delmi terÃ¼letek vÃ©delme elengedhetetlen a fajok megmaradÃ¡sÃ¡hoz.", "A szigetorszÃ¡g szÃ¡raz Ã©ghajlata miatt a vizes Ã©lohelyek ritkasÃ¡gszÃ¡mba mennek.", "MÃ¡lta kormÃ¡nya szÃ¡mos projektet indÃ­tott a biodiverzitÃ¡s nÃ¶velÃ©sÃ©re.", "A helyi nÃ¶vÃ©nyvilÃ¡g szÃ¡mos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
   },
   {
     id: "kid-landmark-gozo-3d-cinema-citadel-extra",
@@ -842,8 +842,8 @@ export const poiExtraMaltaOther: POI[] = [
       ro: "Un cinematograf Ã®n Cetatea Gozo care prezintÄƒ un film 3D despre istoria insulei.",
       en: "A cinema in the Gozo Citadel showing a 3D film about the island's history."
     },
-    descriptionAdvanced: { de: "", hu: "Plizio tanterv: Földrajz 7. évfolyam. Málta egyéb látnivalói, mint a természetvédelmi területek és kertek, fontos szerepet játszanak a szigetek ökológiai egyensúlyának megorzésében, és remek lehetoséget kínálnak a környezeti nevelésre.", ro: "TODO", en: "" },
-    factsAdvanced: { de: [], hu: ["Málta természeti értékei különösen érzékenyek a turizmus hatásaira.", "A Ghadira-rezervátum fontos állomás a vándormadarak számára.", "A Buskett-kertek az egyetlen nagyobb erdos terület a szigeten.", "A természetvédelmi területek védelme elengedhetetlen a fajok megmaradásához.", "A szigetország száraz éghajlata miatt a vizes élohelyek ritkaságszámba mennek.", "Málta kormánya számos projektet indított a biodiverzitás növelésére.", "A helyi növényvilág számos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
+    descriptionAdvanced: { de: "", hu: "Plizio tanterv: FÃ¶ldrajz 7. Ã©vfolyam. MÃ¡lta egyÃ©b lÃ¡tnivalÃ³i, mint a termÃ©szetvÃ©delmi terÃ¼letek Ã©s kertek, fontos szerepet jÃ¡tszanak a szigetek Ã¶kolÃ³giai egyensÃºlyÃ¡nak megorzÃ©sÃ©ben, Ã©s remek lehetosÃ©get kÃ­nÃ¡lnak a kÃ¶rnyezeti nevelÃ©sre.", ro: "TODO", en: "" },
+    factsAdvanced: { de: [], hu: ["MÃ¡lta termÃ©szeti Ã©rtÃ©kei kÃ¼lÃ¶nÃ¶sen Ã©rzÃ©kenyek a turizmus hatÃ¡saira.", "A Ghadira-rezervÃ¡tum fontos Ã¡llomÃ¡s a vÃ¡ndormadarak szÃ¡mÃ¡ra.", "A Buskett-kertek az egyetlen nagyobb erdos terÃ¼let a szigeten.", "A termÃ©szetvÃ©delmi terÃ¼letek vÃ©delme elengedhetetlen a fajok megmaradÃ¡sÃ¡hoz.", "A szigetorszÃ¡g szÃ¡raz Ã©ghajlata miatt a vizes Ã©lohelyek ritkasÃ¡gszÃ¡mba mennek.", "MÃ¡lta kormÃ¡nya szÃ¡mos projektet indÃ­tott a biodiverzitÃ¡s nÃ¶velÃ©sÃ©re.", "A helyi nÃ¶vÃ©nyvilÃ¡g szÃ¡mos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
   },
   {
     id: "kid-landmark-villa-rundle-gardens-gozo-extra",
@@ -862,8 +862,8 @@ export const poiExtraMaltaOther: POI[] = [
       ro: "O grÄƒdinÄƒ publicÄƒ Ã®n Victoria cu un loc de joacÄƒ È™i multe pÄƒsÄƒri Ã®n voliere.",
       en: "A public garden in Victoria with a playground and many birds in aviaries."
     },
-    descriptionAdvanced: { de: "", hu: "Plizio tanterv: Földrajz 7. évfolyam. Málta egyéb látnivalói, mint a természetvédelmi területek és kertek, fontos szerepet játszanak a szigetek ökológiai egyensúlyának megorzésében, és remek lehetoséget kínálnak a környezeti nevelésre.", ro: "TODO", en: "" },
-    factsAdvanced: { de: [], hu: ["Málta természeti értékei különösen érzékenyek a turizmus hatásaira.", "A Ghadira-rezervátum fontos állomás a vándormadarak számára.", "A Buskett-kertek az egyetlen nagyobb erdos terület a szigeten.", "A természetvédelmi területek védelme elengedhetetlen a fajok megmaradásához.", "A szigetország száraz éghajlata miatt a vizes élohelyek ritkaságszámba mennek.", "Málta kormánya számos projektet indított a biodiverzitás növelésére.", "A helyi növényvilág számos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
+    descriptionAdvanced: { de: "", hu: "Plizio tanterv: FÃ¶ldrajz 7. Ã©vfolyam. MÃ¡lta egyÃ©b lÃ¡tnivalÃ³i, mint a termÃ©szetvÃ©delmi terÃ¼letek Ã©s kertek, fontos szerepet jÃ¡tszanak a szigetek Ã¶kolÃ³giai egyensÃºlyÃ¡nak megorzÃ©sÃ©ben, Ã©s remek lehetosÃ©get kÃ­nÃ¡lnak a kÃ¶rnyezeti nevelÃ©sre.", ro: "TODO", en: "" },
+    factsAdvanced: { de: [], hu: ["MÃ¡lta termÃ©szeti Ã©rtÃ©kei kÃ¼lÃ¶nÃ¶sen Ã©rzÃ©kenyek a turizmus hatÃ¡saira.", "A Ghadira-rezervÃ¡tum fontos Ã¡llomÃ¡s a vÃ¡ndormadarak szÃ¡mÃ¡ra.", "A Buskett-kertek az egyetlen nagyobb erdos terÃ¼let a szigeten.", "A termÃ©szetvÃ©delmi terÃ¼letek vÃ©delme elengedhetetlen a fajok megmaradÃ¡sÃ¡hoz.", "A szigetorszÃ¡g szÃ¡raz Ã©ghajlata miatt a vizes Ã©lohelyek ritkasÃ¡gszÃ¡mba mennek.", "MÃ¡lta kormÃ¡nya szÃ¡mos projektet indÃ­tott a biodiverzitÃ¡s nÃ¶velÃ©sÃ©re.", "A helyi nÃ¶vÃ©nyvilÃ¡g szÃ¡mos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
   },
   {
     id: "kid-landmark-bouncy-castles-ghadira-bay-extra",
@@ -882,8 +882,8 @@ export const poiExtraMaltaOther: POI[] = [
       ro: "Parcuri acvatice gonflabile instalate Ã®n golful Mellieha Ã®n timpul verii.",
       en: "Inflatable water parks set up in Mellieha Bay during the summer."
     },
-    descriptionAdvanced: { de: "", hu: "Plizio tanterv: Földrajz 7. évfolyam. Málta egyéb látnivalói, mint a természetvédelmi területek és kertek, fontos szerepet játszanak a szigetek ökológiai egyensúlyának megorzésében, és remek lehetoséget kínálnak a környezeti nevelésre.", ro: "TODO", en: "" },
-    factsAdvanced: { de: [], hu: ["Málta természeti értékei különösen érzékenyek a turizmus hatásaira.", "A Ghadira-rezervátum fontos állomás a vándormadarak számára.", "A Buskett-kertek az egyetlen nagyobb erdos terület a szigeten.", "A természetvédelmi területek védelme elengedhetetlen a fajok megmaradásához.", "A szigetország száraz éghajlata miatt a vizes élohelyek ritkaságszámba mennek.", "Málta kormánya számos projektet indított a biodiverzitás növelésére.", "A helyi növényvilág számos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
+    descriptionAdvanced: { de: "", hu: "Plizio tanterv: FÃ¶ldrajz 7. Ã©vfolyam. MÃ¡lta egyÃ©b lÃ¡tnivalÃ³i, mint a termÃ©szetvÃ©delmi terÃ¼letek Ã©s kertek, fontos szerepet jÃ¡tszanak a szigetek Ã¶kolÃ³giai egyensÃºlyÃ¡nak megorzÃ©sÃ©ben, Ã©s remek lehetosÃ©get kÃ­nÃ¡lnak a kÃ¶rnyezeti nevelÃ©sre.", ro: "TODO", en: "" },
+    factsAdvanced: { de: [], hu: ["MÃ¡lta termÃ©szeti Ã©rtÃ©kei kÃ¼lÃ¶nÃ¶sen Ã©rzÃ©kenyek a turizmus hatÃ¡saira.", "A Ghadira-rezervÃ¡tum fontos Ã¡llomÃ¡s a vÃ¡ndormadarak szÃ¡mÃ¡ra.", "A Buskett-kertek az egyetlen nagyobb erdos terÃ¼let a szigeten.", "A termÃ©szetvÃ©delmi terÃ¼letek vÃ©delme elengedhetetlen a fajok megmaradÃ¡sÃ¡hoz.", "A szigetorszÃ¡g szÃ¡raz Ã©ghajlata miatt a vizes Ã©lohelyek ritkasÃ¡gszÃ¡mba mennek.", "MÃ¡lta kormÃ¡nya szÃ¡mos projektet indÃ­tott a biodiverzitÃ¡s nÃ¶velÃ©sÃ©re.", "A helyi nÃ¶vÃ©nyvilÃ¡g szÃ¡mos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
   },
   {
     id: "kid-landmark-san-anton-gardens-swans-extra",
@@ -902,8 +902,8 @@ export const poiExtraMaltaOther: POI[] = [
       ro: "GrÄƒdini frumoase cunoscute pentru lebedele È™i raÈ›ele din iazuri.",
       en: "Beautiful gardens known for their swans and ducks in the ponds."
     },
-    descriptionAdvanced: { de: "", hu: "Plizio tanterv: Földrajz 7. évfolyam. Málta egyéb látnivalói, mint a természetvédelmi területek és kertek, fontos szerepet játszanak a szigetek ökológiai egyensúlyának megorzésében, és remek lehetoséget kínálnak a környezeti nevelésre.", ro: "TODO", en: "" },
-    factsAdvanced: { de: [], hu: ["Málta természeti értékei különösen érzékenyek a turizmus hatásaira.", "A Ghadira-rezervátum fontos állomás a vándormadarak számára.", "A Buskett-kertek az egyetlen nagyobb erdos terület a szigeten.", "A természetvédelmi területek védelme elengedhetetlen a fajok megmaradásához.", "A szigetország száraz éghajlata miatt a vizes élohelyek ritkaságszámba mennek.", "Málta kormánya számos projektet indított a biodiverzitás növelésére.", "A helyi növényvilág számos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
+    descriptionAdvanced: { de: "", hu: "Plizio tanterv: FÃ¶ldrajz 7. Ã©vfolyam. MÃ¡lta egyÃ©b lÃ¡tnivalÃ³i, mint a termÃ©szetvÃ©delmi terÃ¼letek Ã©s kertek, fontos szerepet jÃ¡tszanak a szigetek Ã¶kolÃ³giai egyensÃºlyÃ¡nak megorzÃ©sÃ©ben, Ã©s remek lehetosÃ©get kÃ­nÃ¡lnak a kÃ¶rnyezeti nevelÃ©sre.", ro: "TODO", en: "" },
+    factsAdvanced: { de: [], hu: ["MÃ¡lta termÃ©szeti Ã©rtÃ©kei kÃ¼lÃ¶nÃ¶sen Ã©rzÃ©kenyek a turizmus hatÃ¡saira.", "A Ghadira-rezervÃ¡tum fontos Ã¡llomÃ¡s a vÃ¡ndormadarak szÃ¡mÃ¡ra.", "A Buskett-kertek az egyetlen nagyobb erdos terÃ¼let a szigeten.", "A termÃ©szetvÃ©delmi terÃ¼letek vÃ©delme elengedhetetlen a fajok megmaradÃ¡sÃ¡hoz.", "A szigetorszÃ¡g szÃ¡raz Ã©ghajlata miatt a vizes Ã©lohelyek ritkasÃ¡gszÃ¡mba mennek.", "MÃ¡lta kormÃ¡nya szÃ¡mos projektet indÃ­tott a biodiverzitÃ¡s nÃ¶velÃ©sÃ©re.", "A helyi nÃ¶vÃ©nyvilÃ¡g szÃ¡mos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
   },
   {
     id: "kid-landmark-dreams-of-horses-farm-for-kids-gozo-extra",
@@ -922,8 +922,8 @@ export const poiExtraMaltaOther: POI[] = [
       ro: "O fermÄƒ de salvare unde copiii pot interacÈ›iona cu cai È™i alte animale.",
       en: "A rescue farm where children can interact with horses and other animals."
     },
-    descriptionAdvanced: { de: "", hu: "Plizio tanterv: Földrajz 7. évfolyam. Málta egyéb látnivalói, mint a természetvédelmi területek és kertek, fontos szerepet játszanak a szigetek ökológiai egyensúlyának megorzésében, és remek lehetoséget kínálnak a környezeti nevelésre.", ro: "TODO", en: "" },
-    factsAdvanced: { de: [], hu: ["Málta természeti értékei különösen érzékenyek a turizmus hatásaira.", "A Ghadira-rezervátum fontos állomás a vándormadarak számára.", "A Buskett-kertek az egyetlen nagyobb erdos terület a szigeten.", "A természetvédelmi területek védelme elengedhetetlen a fajok megmaradásához.", "A szigetország száraz éghajlata miatt a vizes élohelyek ritkaságszámba mennek.", "Málta kormánya számos projektet indított a biodiverzitás növelésére.", "A helyi növényvilág számos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
+    descriptionAdvanced: { de: "", hu: "Plizio tanterv: FÃ¶ldrajz 7. Ã©vfolyam. MÃ¡lta egyÃ©b lÃ¡tnivalÃ³i, mint a termÃ©szetvÃ©delmi terÃ¼letek Ã©s kertek, fontos szerepet jÃ¡tszanak a szigetek Ã¶kolÃ³giai egyensÃºlyÃ¡nak megorzÃ©sÃ©ben, Ã©s remek lehetosÃ©get kÃ­nÃ¡lnak a kÃ¶rnyezeti nevelÃ©sre.", ro: "TODO", en: "" },
+    factsAdvanced: { de: [], hu: ["MÃ¡lta termÃ©szeti Ã©rtÃ©kei kÃ¼lÃ¶nÃ¶sen Ã©rzÃ©kenyek a turizmus hatÃ¡saira.", "A Ghadira-rezervÃ¡tum fontos Ã¡llomÃ¡s a vÃ¡ndormadarak szÃ¡mÃ¡ra.", "A Buskett-kertek az egyetlen nagyobb erdos terÃ¼let a szigeten.", "A termÃ©szetvÃ©delmi terÃ¼letek vÃ©delme elengedhetetlen a fajok megmaradÃ¡sÃ¡hoz.", "A szigetorszÃ¡g szÃ¡raz Ã©ghajlata miatt a vizes Ã©lohelyek ritkasÃ¡gszÃ¡mba mennek.", "MÃ¡lta kormÃ¡nya szÃ¡mos projektet indÃ­tott a biodiverzitÃ¡s nÃ¶velÃ©sÃ©re.", "A helyi nÃ¶vÃ©nyvilÃ¡g szÃ¡mos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
   },
   {
     id: "kid-landmark-family-park-marsaskala-extra",
@@ -942,8 +942,8 @@ export const poiExtraMaltaOther: POI[] = [
       ro: "Un parc mare cu locuri de joacÄƒ, un skatepark È™i o zonÄƒ pentru animale de fermÄƒ.",
       en: "A large park with playgrounds, a skate park, and an area for farm animals."
     },
-    descriptionAdvanced: { de: "", hu: "Plizio tanterv: Földrajz 7. évfolyam. Málta egyéb látnivalói, mint a természetvédelmi területek és kertek, fontos szerepet játszanak a szigetek ökológiai egyensúlyának megorzésében, és remek lehetoséget kínálnak a környezeti nevelésre.", ro: "TODO", en: "" },
-    factsAdvanced: { de: [], hu: ["Málta természeti értékei különösen érzékenyek a turizmus hatásaira.", "A Ghadira-rezervátum fontos állomás a vándormadarak számára.", "A Buskett-kertek az egyetlen nagyobb erdos terület a szigeten.", "A természetvédelmi területek védelme elengedhetetlen a fajok megmaradásához.", "A szigetország száraz éghajlata miatt a vizes élohelyek ritkaságszámba mennek.", "Málta kormánya számos projektet indított a biodiverzitás növelésére.", "A helyi növényvilág számos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
+    descriptionAdvanced: { de: "", hu: "Plizio tanterv: FÃ¶ldrajz 7. Ã©vfolyam. MÃ¡lta egyÃ©b lÃ¡tnivalÃ³i, mint a termÃ©szetvÃ©delmi terÃ¼letek Ã©s kertek, fontos szerepet jÃ¡tszanak a szigetek Ã¶kolÃ³giai egyensÃºlyÃ¡nak megorzÃ©sÃ©ben, Ã©s remek lehetosÃ©get kÃ­nÃ¡lnak a kÃ¶rnyezeti nevelÃ©sre.", ro: "TODO", en: "" },
+    factsAdvanced: { de: [], hu: ["MÃ¡lta termÃ©szeti Ã©rtÃ©kei kÃ¼lÃ¶nÃ¶sen Ã©rzÃ©kenyek a turizmus hatÃ¡saira.", "A Ghadira-rezervÃ¡tum fontos Ã¡llomÃ¡s a vÃ¡ndormadarak szÃ¡mÃ¡ra.", "A Buskett-kertek az egyetlen nagyobb erdos terÃ¼let a szigeten.", "A termÃ©szetvÃ©delmi terÃ¼letek vÃ©delme elengedhetetlen a fajok megmaradÃ¡sÃ¡hoz.", "A szigetorszÃ¡g szÃ¡raz Ã©ghajlata miatt a vizes Ã©lohelyek ritkasÃ¡gszÃ¡mba mennek.", "MÃ¡lta kormÃ¡nya szÃ¡mos projektet indÃ­tott a biodiverzitÃ¡s nÃ¶velÃ©sÃ©re.", "A helyi nÃ¶vÃ©nyvilÃ¡g szÃ¡mos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
   },
   {
     id: "kid-landmark-the-toy-museum-valletta-extra",
@@ -962,8 +962,8 @@ export const poiExtraMaltaOther: POI[] = [
       ro: "Un mic muzeu cu o colecÈ›ie de jucÄƒrii vechi, din anii 1950 pÃ¢nÄƒ Ã®n anii 1970.",
       en: "A small museum with a collection of old toys, from the 1950s to the 1970s."
     },
-    descriptionAdvanced: { de: "", hu: "Plizio tanterv: Földrajz 7. évfolyam. Málta egyéb látnivalói, mint a természetvédelmi területek és kertek, fontos szerepet játszanak a szigetek ökológiai egyensúlyának megorzésében, és remek lehetoséget kínálnak a környezeti nevelésre.", ro: "TODO", en: "" },
-    factsAdvanced: { de: [], hu: ["Málta természeti értékei különösen érzékenyek a turizmus hatásaira.", "A Ghadira-rezervátum fontos állomás a vándormadarak számára.", "A Buskett-kertek az egyetlen nagyobb erdos terület a szigeten.", "A természetvédelmi területek védelme elengedhetetlen a fajok megmaradásához.", "A szigetország száraz éghajlata miatt a vizes élohelyek ritkaságszámba mennek.", "Málta kormánya számos projektet indított a biodiverzitás növelésére.", "A helyi növényvilág számos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
+    descriptionAdvanced: { de: "", hu: "Plizio tanterv: FÃ¶ldrajz 7. Ã©vfolyam. MÃ¡lta egyÃ©b lÃ¡tnivalÃ³i, mint a termÃ©szetvÃ©delmi terÃ¼letek Ã©s kertek, fontos szerepet jÃ¡tszanak a szigetek Ã¶kolÃ³giai egyensÃºlyÃ¡nak megorzÃ©sÃ©ben, Ã©s remek lehetosÃ©get kÃ­nÃ¡lnak a kÃ¶rnyezeti nevelÃ©sre.", ro: "TODO", en: "" },
+    factsAdvanced: { de: [], hu: ["MÃ¡lta termÃ©szeti Ã©rtÃ©kei kÃ¼lÃ¶nÃ¶sen Ã©rzÃ©kenyek a turizmus hatÃ¡saira.", "A Ghadira-rezervÃ¡tum fontos Ã¡llomÃ¡s a vÃ¡ndormadarak szÃ¡mÃ¡ra.", "A Buskett-kertek az egyetlen nagyobb erdos terÃ¼let a szigeten.", "A termÃ©szetvÃ©delmi terÃ¼letek vÃ©delme elengedhetetlen a fajok megmaradÃ¡sÃ¡hoz.", "A szigetorszÃ¡g szÃ¡raz Ã©ghajlata miatt a vizes Ã©lohelyek ritkasÃ¡gszÃ¡mba mennek.", "MÃ¡lta kormÃ¡nya szÃ¡mos projektet indÃ­tott a biodiverzitÃ¡s nÃ¶velÃ©sÃ©re.", "A helyi nÃ¶vÃ©nyvilÃ¡g szÃ¡mos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
   },
   {
     id: "kid-landmark-lasermaxx-bay-street-extra",
@@ -982,8 +982,8 @@ export const poiExtraMaltaOther: POI[] = [
       ro: "O arenÄƒ de laser tag Ã®n Complexul Comercial Bay Street.",
       en: "A laser tag arena in the Bay Street Shopping Complex."
     },
-    descriptionAdvanced: { de: "", hu: "Plizio tanterv: Földrajz 7. évfolyam. Málta egyéb látnivalói, mint a természetvédelmi területek és kertek, fontos szerepet játszanak a szigetek ökológiai egyensúlyának megorzésében, és remek lehetoséget kínálnak a környezeti nevelésre.", ro: "TODO", en: "" },
-    factsAdvanced: { de: [], hu: ["Málta természeti értékei különösen érzékenyek a turizmus hatásaira.", "A Ghadira-rezervátum fontos állomás a vándormadarak számára.", "A Buskett-kertek az egyetlen nagyobb erdos terület a szigeten.", "A természetvédelmi területek védelme elengedhetetlen a fajok megmaradásához.", "A szigetország száraz éghajlata miatt a vizes élohelyek ritkaságszámba mennek.", "Málta kormánya számos projektet indított a biodiverzitás növelésére.", "A helyi növényvilág számos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
+    descriptionAdvanced: { de: "", hu: "Plizio tanterv: FÃ¶ldrajz 7. Ã©vfolyam. MÃ¡lta egyÃ©b lÃ¡tnivalÃ³i, mint a termÃ©szetvÃ©delmi terÃ¼letek Ã©s kertek, fontos szerepet jÃ¡tszanak a szigetek Ã¶kolÃ³giai egyensÃºlyÃ¡nak megorzÃ©sÃ©ben, Ã©s remek lehetosÃ©get kÃ­nÃ¡lnak a kÃ¶rnyezeti nevelÃ©sre.", ro: "TODO", en: "" },
+    factsAdvanced: { de: [], hu: ["MÃ¡lta termÃ©szeti Ã©rtÃ©kei kÃ¼lÃ¶nÃ¶sen Ã©rzÃ©kenyek a turizmus hatÃ¡saira.", "A Ghadira-rezervÃ¡tum fontos Ã¡llomÃ¡s a vÃ¡ndormadarak szÃ¡mÃ¡ra.", "A Buskett-kertek az egyetlen nagyobb erdos terÃ¼let a szigeten.", "A termÃ©szetvÃ©delmi terÃ¼letek vÃ©delme elengedhetetlen a fajok megmaradÃ¡sÃ¡hoz.", "A szigetorszÃ¡g szÃ¡raz Ã©ghajlata miatt a vizes Ã©lohelyek ritkasÃ¡gszÃ¡mba mennek.", "MÃ¡lta kormÃ¡nya szÃ¡mos projektet indÃ­tott a biodiverzitÃ¡s nÃ¶velÃ©sÃ©re.", "A helyi nÃ¶vÃ©nyvilÃ¡g szÃ¡mos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
   },
   {
     id: "kid-landmark-rolling-geeks-tour-extra",
@@ -1002,8 +1002,8 @@ export const poiExtraMaltaOther: POI[] = [
       ro: "Un tur autoghidat Ã®n maÈ™ini electrice mici prin Cele Trei OraÈ™e.",
       en: "A self-driving tour in small electric cars around the Three Cities."
     },
-    descriptionAdvanced: { de: "", hu: "Plizio tanterv: Földrajz 7. évfolyam. Málta egyéb látnivalói, mint a természetvédelmi területek és kertek, fontos szerepet játszanak a szigetek ökológiai egyensúlyának megorzésében, és remek lehetoséget kínálnak a környezeti nevelésre.", ro: "TODO", en: "" },
-    factsAdvanced: { de: [], hu: ["Málta természeti értékei különösen érzékenyek a turizmus hatásaira.", "A Ghadira-rezervátum fontos állomás a vándormadarak számára.", "A Buskett-kertek az egyetlen nagyobb erdos terület a szigeten.", "A természetvédelmi területek védelme elengedhetetlen a fajok megmaradásához.", "A szigetország száraz éghajlata miatt a vizes élohelyek ritkaságszámba mennek.", "Málta kormánya számos projektet indított a biodiverzitás növelésére.", "A helyi növényvilág számos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
+    descriptionAdvanced: { de: "", hu: "Plizio tanterv: FÃ¶ldrajz 7. Ã©vfolyam. MÃ¡lta egyÃ©b lÃ¡tnivalÃ³i, mint a termÃ©szetvÃ©delmi terÃ¼letek Ã©s kertek, fontos szerepet jÃ¡tszanak a szigetek Ã¶kolÃ³giai egyensÃºlyÃ¡nak megorzÃ©sÃ©ben, Ã©s remek lehetosÃ©get kÃ­nÃ¡lnak a kÃ¶rnyezeti nevelÃ©sre.", ro: "TODO", en: "" },
+    factsAdvanced: { de: [], hu: ["MÃ¡lta termÃ©szeti Ã©rtÃ©kei kÃ¼lÃ¶nÃ¶sen Ã©rzÃ©kenyek a turizmus hatÃ¡saira.", "A Ghadira-rezervÃ¡tum fontos Ã¡llomÃ¡s a vÃ¡ndormadarak szÃ¡mÃ¡ra.", "A Buskett-kertek az egyetlen nagyobb erdos terÃ¼let a szigeten.", "A termÃ©szetvÃ©delmi terÃ¼letek vÃ©delme elengedhetetlen a fajok megmaradÃ¡sÃ¡hoz.", "A szigetorszÃ¡g szÃ¡raz Ã©ghajlata miatt a vizes Ã©lohelyek ritkasÃ¡gszÃ¡mba mennek.", "MÃ¡lta kormÃ¡nya szÃ¡mos projektet indÃ­tott a biodiverzitÃ¡s nÃ¶velÃ©sÃ©re.", "A helyi nÃ¶vÃ©nyvilÃ¡g szÃ¡mos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
   },
   {
     id: "kid-landmark-malta-5d-valletta-extra",
@@ -1022,8 +1022,8 @@ export const poiExtraMaltaOther: POI[] = [
       ro: "O experienÈ›Äƒ cinematograficÄƒ 5D care prezintÄƒ istoria È™i cultura Maltei.",
       en: "A 5D cinema experience showcasing the history and culture of Malta."
     },
-    descriptionAdvanced: { de: "", hu: "Plizio tanterv: Földrajz 7. évfolyam. Málta egyéb látnivalói, mint a természetvédelmi területek és kertek, fontos szerepet játszanak a szigetek ökológiai egyensúlyának megorzésében, és remek lehetoséget kínálnak a környezeti nevelésre.", ro: "TODO", en: "" },
-    factsAdvanced: { de: [], hu: ["Málta természeti értékei különösen érzékenyek a turizmus hatásaira.", "A Ghadira-rezervátum fontos állomás a vándormadarak számára.", "A Buskett-kertek az egyetlen nagyobb erdos terület a szigeten.", "A természetvédelmi területek védelme elengedhetetlen a fajok megmaradásához.", "A szigetország száraz éghajlata miatt a vizes élohelyek ritkaságszámba mennek.", "Málta kormánya számos projektet indított a biodiverzitás növelésére.", "A helyi növényvilág számos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
+    descriptionAdvanced: { de: "", hu: "Plizio tanterv: FÃ¶ldrajz 7. Ã©vfolyam. MÃ¡lta egyÃ©b lÃ¡tnivalÃ³i, mint a termÃ©szetvÃ©delmi terÃ¼letek Ã©s kertek, fontos szerepet jÃ¡tszanak a szigetek Ã¶kolÃ³giai egyensÃºlyÃ¡nak megorzÃ©sÃ©ben, Ã©s remek lehetosÃ©get kÃ­nÃ¡lnak a kÃ¶rnyezeti nevelÃ©sre.", ro: "TODO", en: "" },
+    factsAdvanced: { de: [], hu: ["MÃ¡lta termÃ©szeti Ã©rtÃ©kei kÃ¼lÃ¶nÃ¶sen Ã©rzÃ©kenyek a turizmus hatÃ¡saira.", "A Ghadira-rezervÃ¡tum fontos Ã¡llomÃ¡s a vÃ¡ndormadarak szÃ¡mÃ¡ra.", "A Buskett-kertek az egyetlen nagyobb erdos terÃ¼let a szigeten.", "A termÃ©szetvÃ©delmi terÃ¼letek vÃ©delme elengedhetetlen a fajok megmaradÃ¡sÃ¡hoz.", "A szigetorszÃ¡g szÃ¡raz Ã©ghajlata miatt a vizes Ã©lohelyek ritkasÃ¡gszÃ¡mba mennek.", "MÃ¡lta kormÃ¡nya szÃ¡mos projektet indÃ­tott a biodiverzitÃ¡s nÃ¶velÃ©sÃ©re.", "A helyi nÃ¶vÃ©nyvilÃ¡g szÃ¡mos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
   },
   {
     id: "kid-landmark-duck-village-gzira-extra",
@@ -1042,8 +1042,8 @@ export const poiExtraMaltaOther: POI[] = [
       ro: "Un adÄƒpost informal pentru raÈ›e È™i pisici, condus de voluntari.",
       en: "An informal sanctuary for ducks and cats run by volunteers."
     },
-    descriptionAdvanced: { de: "", hu: "Plizio tanterv: Földrajz 7. évfolyam. Málta egyéb látnivalói, mint a természetvédelmi területek és kertek, fontos szerepet játszanak a szigetek ökológiai egyensúlyának megorzésében, és remek lehetoséget kínálnak a környezeti nevelésre.", ro: "TODO", en: "" },
-    factsAdvanced: { de: [], hu: ["Málta természeti értékei különösen érzékenyek a turizmus hatásaira.", "A Ghadira-rezervátum fontos állomás a vándormadarak számára.", "A Buskett-kertek az egyetlen nagyobb erdos terület a szigeten.", "A természetvédelmi területek védelme elengedhetetlen a fajok megmaradásához.", "A szigetország száraz éghajlata miatt a vizes élohelyek ritkaságszámba mennek.", "Málta kormánya számos projektet indított a biodiverzitás növelésére.", "A helyi növényvilág számos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
+    descriptionAdvanced: { de: "", hu: "Plizio tanterv: FÃ¶ldrajz 7. Ã©vfolyam. MÃ¡lta egyÃ©b lÃ¡tnivalÃ³i, mint a termÃ©szetvÃ©delmi terÃ¼letek Ã©s kertek, fontos szerepet jÃ¡tszanak a szigetek Ã¶kolÃ³giai egyensÃºlyÃ¡nak megorzÃ©sÃ©ben, Ã©s remek lehetosÃ©get kÃ­nÃ¡lnak a kÃ¶rnyezeti nevelÃ©sre.", ro: "TODO", en: "" },
+    factsAdvanced: { de: [], hu: ["MÃ¡lta termÃ©szeti Ã©rtÃ©kei kÃ¼lÃ¶nÃ¶sen Ã©rzÃ©kenyek a turizmus hatÃ¡saira.", "A Ghadira-rezervÃ¡tum fontos Ã¡llomÃ¡s a vÃ¡ndormadarak szÃ¡mÃ¡ra.", "A Buskett-kertek az egyetlen nagyobb erdos terÃ¼let a szigeten.", "A termÃ©szetvÃ©delmi terÃ¼letek vÃ©delme elengedhetetlen a fajok megmaradÃ¡sÃ¡hoz.", "A szigetorszÃ¡g szÃ¡raz Ã©ghajlata miatt a vizes Ã©lohelyek ritkasÃ¡gszÃ¡mba mennek.", "MÃ¡lta kormÃ¡nya szÃ¡mos projektet indÃ­tott a biodiverzitÃ¡s nÃ¶velÃ©sÃ©re.", "A helyi nÃ¶vÃ©nyvilÃ¡g szÃ¡mos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
   },
   {
     id: "kid-landmark-kennedy-grove-extra",
@@ -1062,8 +1062,8 @@ export const poiExtraMaltaOther: POI[] = [
       ro: "O zonÄƒ de parc cu un mic loc de joacÄƒ, idealÄƒ pentru un picnic.",
       en: "A park area with a small playground, ideal for a picnic."
     },
-    descriptionAdvanced: { de: "", hu: "Plizio tanterv: Földrajz 7. évfolyam. Málta egyéb látnivalói, mint a természetvédelmi területek és kertek, fontos szerepet játszanak a szigetek ökológiai egyensúlyának megorzésében, és remek lehetoséget kínálnak a környezeti nevelésre.", ro: "TODO", en: "" },
-    factsAdvanced: { de: [], hu: ["Málta természeti értékei különösen érzékenyek a turizmus hatásaira.", "A Ghadira-rezervátum fontos állomás a vándormadarak számára.", "A Buskett-kertek az egyetlen nagyobb erdos terület a szigeten.", "A természetvédelmi területek védelme elengedhetetlen a fajok megmaradásához.", "A szigetország száraz éghajlata miatt a vizes élohelyek ritkaságszámba mennek.", "Málta kormánya számos projektet indított a biodiverzitás növelésére.", "A helyi növényvilág számos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
+    descriptionAdvanced: { de: "", hu: "Plizio tanterv: FÃ¶ldrajz 7. Ã©vfolyam. MÃ¡lta egyÃ©b lÃ¡tnivalÃ³i, mint a termÃ©szetvÃ©delmi terÃ¼letek Ã©s kertek, fontos szerepet jÃ¡tszanak a szigetek Ã¶kolÃ³giai egyensÃºlyÃ¡nak megorzÃ©sÃ©ben, Ã©s remek lehetosÃ©get kÃ­nÃ¡lnak a kÃ¶rnyezeti nevelÃ©sre.", ro: "TODO", en: "" },
+    factsAdvanced: { de: [], hu: ["MÃ¡lta termÃ©szeti Ã©rtÃ©kei kÃ¼lÃ¶nÃ¶sen Ã©rzÃ©kenyek a turizmus hatÃ¡saira.", "A Ghadira-rezervÃ¡tum fontos Ã¡llomÃ¡s a vÃ¡ndormadarak szÃ¡mÃ¡ra.", "A Buskett-kertek az egyetlen nagyobb erdos terÃ¼let a szigeten.", "A termÃ©szetvÃ©delmi terÃ¼letek vÃ©delme elengedhetetlen a fajok megmaradÃ¡sÃ¡hoz.", "A szigetorszÃ¡g szÃ¡raz Ã©ghajlata miatt a vizes Ã©lohelyek ritkasÃ¡gszÃ¡mba mennek.", "MÃ¡lta kormÃ¡nya szÃ¡mos projektet indÃ­tott a biodiverzitÃ¡s nÃ¶velÃ©sÃ©re.", "A helyi nÃ¶vÃ©nyvilÃ¡g szÃ¡mos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
   },
   {
     id: "kid-landmark-sea-kayaking-gozo-extra",
@@ -1082,8 +1082,8 @@ export const poiExtraMaltaOther: POI[] = [
       ro: "Tururi ghidate cu caiacul de-a lungul coastei Gozo, potrivite pentru copiii mai mari È™i familii.",
       en: "Guided kayaking tours along the Gozo coast, suitable for older children and families."
     },
-    descriptionAdvanced: { de: "", hu: "Plizio tanterv: Földrajz 7. évfolyam. Málta egyéb látnivalói, mint a természetvédelmi területek és kertek, fontos szerepet játszanak a szigetek ökológiai egyensúlyának megorzésében, és remek lehetoséget kínálnak a környezeti nevelésre.", ro: "TODO", en: "" },
-    factsAdvanced: { de: [], hu: ["Málta természeti értékei különösen érzékenyek a turizmus hatásaira.", "A Ghadira-rezervátum fontos állomás a vándormadarak számára.", "A Buskett-kertek az egyetlen nagyobb erdos terület a szigeten.", "A természetvédelmi területek védelme elengedhetetlen a fajok megmaradásához.", "A szigetország száraz éghajlata miatt a vizes élohelyek ritkaságszámba mennek.", "Málta kormánya számos projektet indított a biodiverzitás növelésére.", "A helyi növényvilág számos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
+    descriptionAdvanced: { de: "", hu: "Plizio tanterv: FÃ¶ldrajz 7. Ã©vfolyam. MÃ¡lta egyÃ©b lÃ¡tnivalÃ³i, mint a termÃ©szetvÃ©delmi terÃ¼letek Ã©s kertek, fontos szerepet jÃ¡tszanak a szigetek Ã¶kolÃ³giai egyensÃºlyÃ¡nak megorzÃ©sÃ©ben, Ã©s remek lehetosÃ©get kÃ­nÃ¡lnak a kÃ¶rnyezeti nevelÃ©sre.", ro: "TODO", en: "" },
+    factsAdvanced: { de: [], hu: ["MÃ¡lta termÃ©szeti Ã©rtÃ©kei kÃ¼lÃ¶nÃ¶sen Ã©rzÃ©kenyek a turizmus hatÃ¡saira.", "A Ghadira-rezervÃ¡tum fontos Ã¡llomÃ¡s a vÃ¡ndormadarak szÃ¡mÃ¡ra.", "A Buskett-kertek az egyetlen nagyobb erdos terÃ¼let a szigeten.", "A termÃ©szetvÃ©delmi terÃ¼letek vÃ©delme elengedhetetlen a fajok megmaradÃ¡sÃ¡hoz.", "A szigetorszÃ¡g szÃ¡raz Ã©ghajlata miatt a vizes Ã©lohelyek ritkasÃ¡gszÃ¡mba mennek.", "MÃ¡lta kormÃ¡nya szÃ¡mos projektet indÃ­tott a biodiverzitÃ¡s nÃ¶velÃ©sÃ©re.", "A helyi nÃ¶vÃ©nyvilÃ¡g szÃ¡mos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
   },
   {
     id: "kid-landmark-trackless-train-rabat-mdina-extra",
@@ -1102,8 +1102,8 @@ export const poiExtraMaltaOther: POI[] = [
       ro: "Un tren turistic care oferÄƒ un tur al Rabatului, Mtarfei È™i periferiei Mdinei.",
       en: "A tourist train ride offering a tour of Rabat, Mtarfa and the outskirts of Mdina."
     },
-    descriptionAdvanced: { de: "", hu: "Plizio tanterv: Földrajz 7. évfolyam. Málta egyéb látnivalói, mint a természetvédelmi területek és kertek, fontos szerepet játszanak a szigetek ökológiai egyensúlyának megorzésében, és remek lehetoséget kínálnak a környezeti nevelésre.", ro: "TODO", en: "" },
-    factsAdvanced: { de: [], hu: ["Málta természeti értékei különösen érzékenyek a turizmus hatásaira.", "A Ghadira-rezervátum fontos állomás a vándormadarak számára.", "A Buskett-kertek az egyetlen nagyobb erdos terület a szigeten.", "A természetvédelmi területek védelme elengedhetetlen a fajok megmaradásához.", "A szigetország száraz éghajlata miatt a vizes élohelyek ritkaságszámba mennek.", "Málta kormánya számos projektet indított a biodiverzitás növelésére.", "A helyi növényvilág számos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
+    descriptionAdvanced: { de: "", hu: "Plizio tanterv: FÃ¶ldrajz 7. Ã©vfolyam. MÃ¡lta egyÃ©b lÃ¡tnivalÃ³i, mint a termÃ©szetvÃ©delmi terÃ¼letek Ã©s kertek, fontos szerepet jÃ¡tszanak a szigetek Ã¶kolÃ³giai egyensÃºlyÃ¡nak megorzÃ©sÃ©ben, Ã©s remek lehetosÃ©get kÃ­nÃ¡lnak a kÃ¶rnyezeti nevelÃ©sre.", ro: "TODO", en: "" },
+    factsAdvanced: { de: [], hu: ["MÃ¡lta termÃ©szeti Ã©rtÃ©kei kÃ¼lÃ¶nÃ¶sen Ã©rzÃ©kenyek a turizmus hatÃ¡saira.", "A Ghadira-rezervÃ¡tum fontos Ã¡llomÃ¡s a vÃ¡ndormadarak szÃ¡mÃ¡ra.", "A Buskett-kertek az egyetlen nagyobb erdos terÃ¼let a szigeten.", "A termÃ©szetvÃ©delmi terÃ¼letek vÃ©delme elengedhetetlen a fajok megmaradÃ¡sÃ¡hoz.", "A szigetorszÃ¡g szÃ¡raz Ã©ghajlata miatt a vizes Ã©lohelyek ritkasÃ¡gszÃ¡mba mennek.", "MÃ¡lta kormÃ¡nya szÃ¡mos projektet indÃ­tott a biodiverzitÃ¡s nÃ¶velÃ©sÃ©re.", "A helyi nÃ¶vÃ©nyvilÃ¡g szÃ¡mos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
   },
   {
     id: "kid-landmark-go-karting-ta-qali-extra",
@@ -1122,8 +1122,8 @@ export const poiExtraMaltaOther: POI[] = [
       ro: "O pistÄƒ de go-kart potrivitÄƒ pentru diferite grupe de vÃ¢rstÄƒ.",
       en: "A go-kart track suitable for different age groups."
     },
-    descriptionAdvanced: { de: "", hu: "Plizio tanterv: Földrajz 7. évfolyam. Málta egyéb látnivalói, mint a természetvédelmi területek és kertek, fontos szerepet játszanak a szigetek ökológiai egyensúlyának megorzésében, és remek lehetoséget kínálnak a környezeti nevelésre.", ro: "TODO", en: "" },
-    factsAdvanced: { de: [], hu: ["Málta természeti értékei különösen érzékenyek a turizmus hatásaira.", "A Ghadira-rezervátum fontos állomás a vándormadarak számára.", "A Buskett-kertek az egyetlen nagyobb erdos terület a szigeten.", "A természetvédelmi területek védelme elengedhetetlen a fajok megmaradásához.", "A szigetország száraz éghajlata miatt a vizes élohelyek ritkaságszámba mennek.", "Málta kormánya számos projektet indított a biodiverzitás növelésére.", "A helyi növényvilág számos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
+    descriptionAdvanced: { de: "", hu: "Plizio tanterv: FÃ¶ldrajz 7. Ã©vfolyam. MÃ¡lta egyÃ©b lÃ¡tnivalÃ³i, mint a termÃ©szetvÃ©delmi terÃ¼letek Ã©s kertek, fontos szerepet jÃ¡tszanak a szigetek Ã¶kolÃ³giai egyensÃºlyÃ¡nak megorzÃ©sÃ©ben, Ã©s remek lehetosÃ©get kÃ­nÃ¡lnak a kÃ¶rnyezeti nevelÃ©sre.", ro: "TODO", en: "" },
+    factsAdvanced: { de: [], hu: ["MÃ¡lta termÃ©szeti Ã©rtÃ©kei kÃ¼lÃ¶nÃ¶sen Ã©rzÃ©kenyek a turizmus hatÃ¡saira.", "A Ghadira-rezervÃ¡tum fontos Ã¡llomÃ¡s a vÃ¡ndormadarak szÃ¡mÃ¡ra.", "A Buskett-kertek az egyetlen nagyobb erdos terÃ¼let a szigeten.", "A termÃ©szetvÃ©delmi terÃ¼letek vÃ©delme elengedhetetlen a fajok megmaradÃ¡sÃ¡hoz.", "A szigetorszÃ¡g szÃ¡raz Ã©ghajlata miatt a vizes Ã©lohelyek ritkasÃ¡gszÃ¡mba mennek.", "MÃ¡lta kormÃ¡nya szÃ¡mos projektet indÃ­tott a biodiverzitÃ¡s nÃ¶velÃ©sÃ©re.", "A helyi nÃ¶vÃ©nyvilÃ¡g szÃ¡mos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
   },
   {
     id: "kid-landmark-marsaxlokk-playground-extra",
@@ -1142,8 +1142,8 @@ export const poiExtraMaltaOther: POI[] = [
       ro: "Un loc de joacÄƒ mare chiar lÃ¢ngÄƒ portul satului pescÄƒresc.",
       en: "A large playground right by the harbour of the fishing village."
     },
-    descriptionAdvanced: { de: "", hu: "Plizio tanterv: Földrajz 7. évfolyam. Málta egyéb látnivalói, mint a természetvédelmi területek és kertek, fontos szerepet játszanak a szigetek ökológiai egyensúlyának megorzésében, és remek lehetoséget kínálnak a környezeti nevelésre.", ro: "TODO", en: "" },
-    factsAdvanced: { de: [], hu: ["Málta természeti értékei különösen érzékenyek a turizmus hatásaira.", "A Ghadira-rezervátum fontos állomás a vándormadarak számára.", "A Buskett-kertek az egyetlen nagyobb erdos terület a szigeten.", "A természetvédelmi területek védelme elengedhetetlen a fajok megmaradásához.", "A szigetország száraz éghajlata miatt a vizes élohelyek ritkaságszámba mennek.", "Málta kormánya számos projektet indított a biodiverzitás növelésére.", "A helyi növényvilág számos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
+    descriptionAdvanced: { de: "", hu: "Plizio tanterv: FÃ¶ldrajz 7. Ã©vfolyam. MÃ¡lta egyÃ©b lÃ¡tnivalÃ³i, mint a termÃ©szetvÃ©delmi terÃ¼letek Ã©s kertek, fontos szerepet jÃ¡tszanak a szigetek Ã¶kolÃ³giai egyensÃºlyÃ¡nak megorzÃ©sÃ©ben, Ã©s remek lehetosÃ©get kÃ­nÃ¡lnak a kÃ¶rnyezeti nevelÃ©sre.", ro: "TODO", en: "" },
+    factsAdvanced: { de: [], hu: ["MÃ¡lta termÃ©szeti Ã©rtÃ©kei kÃ¼lÃ¶nÃ¶sen Ã©rzÃ©kenyek a turizmus hatÃ¡saira.", "A Ghadira-rezervÃ¡tum fontos Ã¡llomÃ¡s a vÃ¡ndormadarak szÃ¡mÃ¡ra.", "A Buskett-kertek az egyetlen nagyobb erdos terÃ¼let a szigeten.", "A termÃ©szetvÃ©delmi terÃ¼letek vÃ©delme elengedhetetlen a fajok megmaradÃ¡sÃ¡hoz.", "A szigetorszÃ¡g szÃ¡raz Ã©ghajlata miatt a vizes Ã©lohelyek ritkasÃ¡gszÃ¡mba mennek.", "MÃ¡lta kormÃ¡nya szÃ¡mos projektet indÃ­tott a biodiverzitÃ¡s nÃ¶velÃ©sÃ©re.", "A helyi nÃ¶vÃ©nyvilÃ¡g szÃ¡mos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
   },
   {
     id: "kid-landmark-pretty-bay-playground-extra",
@@ -1162,8 +1162,8 @@ export const poiExtraMaltaOther: POI[] = [
       ro: "Un loc de joacÄƒ chiar pe plaja de nisip din Birzebbuga.",
       en: "A playground located right on the sandy beach of Birzebbuga."
     },
-    descriptionAdvanced: { de: "", hu: "Plizio tanterv: Földrajz 7. évfolyam. Málta egyéb látnivalói, mint a természetvédelmi területek és kertek, fontos szerepet játszanak a szigetek ökológiai egyensúlyának megorzésében, és remek lehetoséget kínálnak a környezeti nevelésre.", ro: "TODO", en: "" },
-    factsAdvanced: { de: [], hu: ["Málta természeti értékei különösen érzékenyek a turizmus hatásaira.", "A Ghadira-rezervátum fontos állomás a vándormadarak számára.", "A Buskett-kertek az egyetlen nagyobb erdos terület a szigeten.", "A természetvédelmi területek védelme elengedhetetlen a fajok megmaradásához.", "A szigetország száraz éghajlata miatt a vizes élohelyek ritkaságszámba mennek.", "Málta kormánya számos projektet indított a biodiverzitás növelésére.", "A helyi növényvilág számos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
+    descriptionAdvanced: { de: "", hu: "Plizio tanterv: FÃ¶ldrajz 7. Ã©vfolyam. MÃ¡lta egyÃ©b lÃ¡tnivalÃ³i, mint a termÃ©szetvÃ©delmi terÃ¼letek Ã©s kertek, fontos szerepet jÃ¡tszanak a szigetek Ã¶kolÃ³giai egyensÃºlyÃ¡nak megorzÃ©sÃ©ben, Ã©s remek lehetosÃ©get kÃ­nÃ¡lnak a kÃ¶rnyezeti nevelÃ©sre.", ro: "TODO", en: "" },
+    factsAdvanced: { de: [], hu: ["MÃ¡lta termÃ©szeti Ã©rtÃ©kei kÃ¼lÃ¶nÃ¶sen Ã©rzÃ©kenyek a turizmus hatÃ¡saira.", "A Ghadira-rezervÃ¡tum fontos Ã¡llomÃ¡s a vÃ¡ndormadarak szÃ¡mÃ¡ra.", "A Buskett-kertek az egyetlen nagyobb erdos terÃ¼let a szigeten.", "A termÃ©szetvÃ©delmi terÃ¼letek vÃ©delme elengedhetetlen a fajok megmaradÃ¡sÃ¡hoz.", "A szigetorszÃ¡g szÃ¡raz Ã©ghajlata miatt a vizes Ã©lohelyek ritkasÃ¡gszÃ¡mba mennek.", "MÃ¡lta kormÃ¡nya szÃ¡mos projektet indÃ­tott a biodiverzitÃ¡s nÃ¶velÃ©sÃ©re.", "A helyi nÃ¶vÃ©nyvilÃ¡g szÃ¡mos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
   },
   {
     id: "kid-landmark-holiday-inn-express-arena-extra",
@@ -1182,8 +1182,8 @@ export const poiExtraMaltaOther: POI[] = [
       ro: "Un complex de divertisment cu cinematograf, bowling È™i alte activitÄƒÈ›i.",
       en: "An entertainment complex with a cinema, bowling, and other activities."
     },
-    descriptionAdvanced: { de: "", hu: "Plizio tanterv: Földrajz 7. évfolyam. Málta egyéb látnivalói, mint a természetvédelmi területek és kertek, fontos szerepet játszanak a szigetek ökológiai egyensúlyának megorzésében, és remek lehetoséget kínálnak a környezeti nevelésre.", ro: "TODO", en: "" },
-    factsAdvanced: { de: [], hu: ["Málta természeti értékei különösen érzékenyek a turizmus hatásaira.", "A Ghadira-rezervátum fontos állomás a vándormadarak számára.", "A Buskett-kertek az egyetlen nagyobb erdos terület a szigeten.", "A természetvédelmi területek védelme elengedhetetlen a fajok megmaradásához.", "A szigetország száraz éghajlata miatt a vizes élohelyek ritkaságszámba mennek.", "Málta kormánya számos projektet indított a biodiverzitás növelésére.", "A helyi növényvilág számos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
+    descriptionAdvanced: { de: "", hu: "Plizio tanterv: FÃ¶ldrajz 7. Ã©vfolyam. MÃ¡lta egyÃ©b lÃ¡tnivalÃ³i, mint a termÃ©szetvÃ©delmi terÃ¼letek Ã©s kertek, fontos szerepet jÃ¡tszanak a szigetek Ã¶kolÃ³giai egyensÃºlyÃ¡nak megorzÃ©sÃ©ben, Ã©s remek lehetosÃ©get kÃ­nÃ¡lnak a kÃ¶rnyezeti nevelÃ©sre.", ro: "TODO", en: "" },
+    factsAdvanced: { de: [], hu: ["MÃ¡lta termÃ©szeti Ã©rtÃ©kei kÃ¼lÃ¶nÃ¶sen Ã©rzÃ©kenyek a turizmus hatÃ¡saira.", "A Ghadira-rezervÃ¡tum fontos Ã¡llomÃ¡s a vÃ¡ndormadarak szÃ¡mÃ¡ra.", "A Buskett-kertek az egyetlen nagyobb erdos terÃ¼let a szigeten.", "A termÃ©szetvÃ©delmi terÃ¼letek vÃ©delme elengedhetetlen a fajok megmaradÃ¡sÃ¡hoz.", "A szigetorszÃ¡g szÃ¡raz Ã©ghajlata miatt a vizes Ã©lohelyek ritkasÃ¡gszÃ¡mba mennek.", "MÃ¡lta kormÃ¡nya szÃ¡mos projektet indÃ­tott a biodiverzitÃ¡s nÃ¶velÃ©sÃ©re.", "A helyi nÃ¶vÃ©nyvilÃ¡g szÃ¡mos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
   },
   {
     id: "kid-landmark-city-sightseeing-hop-on-hop-off-bus-extra",
@@ -1202,8 +1202,8 @@ export const poiExtraMaltaOther: POI[] = [
       ro: "O modalitate uÈ™oarÄƒ pentru familii de a explora principalele atracÈ›ii din Malta cu un autobuz deschis.",
       en: "An easy way for families to explore Malta's main attractions on an open-top bus."
     },
-    descriptionAdvanced: { de: "", hu: "Plizio tanterv: Földrajz 7. évfolyam. Málta egyéb látnivalói, mint a természetvédelmi területek és kertek, fontos szerepet játszanak a szigetek ökológiai egyensúlyának megorzésében, és remek lehetoséget kínálnak a környezeti nevelésre.", ro: "TODO", en: "" },
-    factsAdvanced: { de: [], hu: ["Málta természeti értékei különösen érzékenyek a turizmus hatásaira.", "A Ghadira-rezervátum fontos állomás a vándormadarak számára.", "A Buskett-kertek az egyetlen nagyobb erdos terület a szigeten.", "A természetvédelmi területek védelme elengedhetetlen a fajok megmaradásához.", "A szigetország száraz éghajlata miatt a vizes élohelyek ritkaságszámba mennek.", "Málta kormánya számos projektet indított a biodiverzitás növelésére.", "A helyi növényvilág számos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
+    descriptionAdvanced: { de: "", hu: "Plizio tanterv: FÃ¶ldrajz 7. Ã©vfolyam. MÃ¡lta egyÃ©b lÃ¡tnivalÃ³i, mint a termÃ©szetvÃ©delmi terÃ¼letek Ã©s kertek, fontos szerepet jÃ¡tszanak a szigetek Ã¶kolÃ³giai egyensÃºlyÃ¡nak megorzÃ©sÃ©ben, Ã©s remek lehetosÃ©get kÃ­nÃ¡lnak a kÃ¶rnyezeti nevelÃ©sre.", ro: "TODO", en: "" },
+    factsAdvanced: { de: [], hu: ["MÃ¡lta termÃ©szeti Ã©rtÃ©kei kÃ¼lÃ¶nÃ¶sen Ã©rzÃ©kenyek a turizmus hatÃ¡saira.", "A Ghadira-rezervÃ¡tum fontos Ã¡llomÃ¡s a vÃ¡ndormadarak szÃ¡mÃ¡ra.", "A Buskett-kertek az egyetlen nagyobb erdos terÃ¼let a szigeten.", "A termÃ©szetvÃ©delmi terÃ¼letek vÃ©delme elengedhetetlen a fajok megmaradÃ¡sÃ¡hoz.", "A szigetorszÃ¡g szÃ¡raz Ã©ghajlata miatt a vizes Ã©lohelyek ritkasÃ¡gszÃ¡mba mennek.", "MÃ¡lta kormÃ¡nya szÃ¡mos projektet indÃ­tott a biodiverzitÃ¡s nÃ¶velÃ©sÃ©re.", "A helyi nÃ¶vÃ©nyvilÃ¡g szÃ¡mos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
   },
 
   // Agriculture
@@ -1224,8 +1224,8 @@ export const poiExtraMaltaOther: POI[] = [
       ro: "Unul dintre cei mai vechi producÄƒtori de vin din Malta, care oferÄƒ tururi ale cramelor È™i degustÄƒri de vin.",
       en: "One of Malta's oldest wine producers, offering cellar tours and wine tasting sessions."
     },
-    descriptionAdvanced: { de: "", hu: "Plizio tanterv: Földrajz 7. évfolyam. Málta egyéb látnivalói, mint a természetvédelmi területek és kertek, fontos szerepet játszanak a szigetek ökológiai egyensúlyának megorzésében, és remek lehetoséget kínálnak a környezeti nevelésre.", ro: "TODO", en: "" },
-    factsAdvanced: { de: [], hu: ["Málta természeti értékei különösen érzékenyek a turizmus hatásaira.", "A Ghadira-rezervátum fontos állomás a vándormadarak számára.", "A Buskett-kertek az egyetlen nagyobb erdos terület a szigeten.", "A természetvédelmi területek védelme elengedhetetlen a fajok megmaradásához.", "A szigetország száraz éghajlata miatt a vizes élohelyek ritkaságszámba mennek.", "Málta kormánya számos projektet indított a biodiverzitás növelésére.", "A helyi növényvilág számos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
+    descriptionAdvanced: { de: "", hu: "Plizio tanterv: FÃ¶ldrajz 7. Ã©vfolyam. MÃ¡lta egyÃ©b lÃ¡tnivalÃ³i, mint a termÃ©szetvÃ©delmi terÃ¼letek Ã©s kertek, fontos szerepet jÃ¡tszanak a szigetek Ã¶kolÃ³giai egyensÃºlyÃ¡nak megorzÃ©sÃ©ben, Ã©s remek lehetosÃ©get kÃ­nÃ¡lnak a kÃ¶rnyezeti nevelÃ©sre.", ro: "TODO", en: "" },
+    factsAdvanced: { de: [], hu: ["MÃ¡lta termÃ©szeti Ã©rtÃ©kei kÃ¼lÃ¶nÃ¶sen Ã©rzÃ©kenyek a turizmus hatÃ¡saira.", "A Ghadira-rezervÃ¡tum fontos Ã¡llomÃ¡s a vÃ¡ndormadarak szÃ¡mÃ¡ra.", "A Buskett-kertek az egyetlen nagyobb erdos terÃ¼let a szigeten.", "A termÃ©szetvÃ©delmi terÃ¼letek vÃ©delme elengedhetetlen a fajok megmaradÃ¡sÃ¡hoz.", "A szigetorszÃ¡g szÃ¡raz Ã©ghajlata miatt a vizes Ã©lohelyek ritkasÃ¡gszÃ¡mba mennek.", "MÃ¡lta kormÃ¡nya szÃ¡mos projektet indÃ­tott a biodiverzitÃ¡s nÃ¶velÃ©sÃ©re.", "A helyi nÃ¶vÃ©nyvilÃ¡g szÃ¡mos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
   },
   {
     id: "agriculture-meridiana-wine-estate-extra",
@@ -1244,8 +1244,8 @@ export const poiExtraMaltaOther: POI[] = [
       ro: "O cramÄƒ modernÄƒ Ã®n Ta' Qali, cunoscutÄƒ pentru vinurile sale de calitate din soiuri internaÈ›ionale de struguri.",
       en: "A modern winery in Ta' Qali known for its quality wines made from international grape varieties."
     },
-    descriptionAdvanced: { de: "", hu: "Plizio tanterv: Földrajz 7. évfolyam. Málta egyéb látnivalói, mint a természetvédelmi területek és kertek, fontos szerepet játszanak a szigetek ökológiai egyensúlyának megorzésében, és remek lehetoséget kínálnak a környezeti nevelésre.", ro: "TODO", en: "" },
-    factsAdvanced: { de: [], hu: ["Málta természeti értékei különösen érzékenyek a turizmus hatásaira.", "A Ghadira-rezervátum fontos állomás a vándormadarak számára.", "A Buskett-kertek az egyetlen nagyobb erdos terület a szigeten.", "A természetvédelmi területek védelme elengedhetetlen a fajok megmaradásához.", "A szigetország száraz éghajlata miatt a vizes élohelyek ritkaságszámba mennek.", "Málta kormánya számos projektet indított a biodiverzitás növelésére.", "A helyi növényvilág számos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
+    descriptionAdvanced: { de: "", hu: "Plizio tanterv: FÃ¶ldrajz 7. Ã©vfolyam. MÃ¡lta egyÃ©b lÃ¡tnivalÃ³i, mint a termÃ©szetvÃ©delmi terÃ¼letek Ã©s kertek, fontos szerepet jÃ¡tszanak a szigetek Ã¶kolÃ³giai egyensÃºlyÃ¡nak megorzÃ©sÃ©ben, Ã©s remek lehetosÃ©get kÃ­nÃ¡lnak a kÃ¶rnyezeti nevelÃ©sre.", ro: "TODO", en: "" },
+    factsAdvanced: { de: [], hu: ["MÃ¡lta termÃ©szeti Ã©rtÃ©kei kÃ¼lÃ¶nÃ¶sen Ã©rzÃ©kenyek a turizmus hatÃ¡saira.", "A Ghadira-rezervÃ¡tum fontos Ã¡llomÃ¡s a vÃ¡ndormadarak szÃ¡mÃ¡ra.", "A Buskett-kertek az egyetlen nagyobb erdos terÃ¼let a szigeten.", "A termÃ©szetvÃ©delmi terÃ¼letek vÃ©delme elengedhetetlen a fajok megmaradÃ¡sÃ¡hoz.", "A szigetorszÃ¡g szÃ¡raz Ã©ghajlata miatt a vizes Ã©lohelyek ritkasÃ¡gszÃ¡mba mennek.", "MÃ¡lta kormÃ¡nya szÃ¡mos projektet indÃ­tott a biodiverzitÃ¡s nÃ¶velÃ©sÃ©re.", "A helyi nÃ¶vÃ©nyvilÃ¡g szÃ¡mos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
   },
   {
     id: "agriculture-ta-mena-estate-gozo-extra",
@@ -1264,8 +1264,8 @@ export const poiExtraMaltaOther: POI[] = [
       ro: "O proprietate de agroturism pe Gozo care produce vin, ulei de mÄƒsline È™i alte produse locale.",
       en: "An agritourism estate on Gozo that produces wine, olive oil, and other local products."
     },
-    descriptionAdvanced: { de: "", hu: "Plizio tanterv: Földrajz 7. évfolyam. Málta egyéb látnivalói, mint a természetvédelmi területek és kertek, fontos szerepet játszanak a szigetek ökológiai egyensúlyának megorzésében, és remek lehetoséget kínálnak a környezeti nevelésre.", ro: "TODO", en: "" },
-    factsAdvanced: { de: [], hu: ["Málta természeti értékei különösen érzékenyek a turizmus hatásaira.", "A Ghadira-rezervátum fontos állomás a vándormadarak számára.", "A Buskett-kertek az egyetlen nagyobb erdos terület a szigeten.", "A természetvédelmi területek védelme elengedhetetlen a fajok megmaradásához.", "A szigetország száraz éghajlata miatt a vizes élohelyek ritkaságszámba mennek.", "Málta kormánya számos projektet indított a biodiverzitás növelésére.", "A helyi növényvilág számos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
+    descriptionAdvanced: { de: "", hu: "Plizio tanterv: FÃ¶ldrajz 7. Ã©vfolyam. MÃ¡lta egyÃ©b lÃ¡tnivalÃ³i, mint a termÃ©szetvÃ©delmi terÃ¼letek Ã©s kertek, fontos szerepet jÃ¡tszanak a szigetek Ã¶kolÃ³giai egyensÃºlyÃ¡nak megorzÃ©sÃ©ben, Ã©s remek lehetosÃ©get kÃ­nÃ¡lnak a kÃ¶rnyezeti nevelÃ©sre.", ro: "TODO", en: "" },
+    factsAdvanced: { de: [], hu: ["MÃ¡lta termÃ©szeti Ã©rtÃ©kei kÃ¼lÃ¶nÃ¶sen Ã©rzÃ©kenyek a turizmus hatÃ¡saira.", "A Ghadira-rezervÃ¡tum fontos Ã¡llomÃ¡s a vÃ¡ndormadarak szÃ¡mÃ¡ra.", "A Buskett-kertek az egyetlen nagyobb erdos terÃ¼let a szigeten.", "A termÃ©szetvÃ©delmi terÃ¼letek vÃ©delme elengedhetetlen a fajok megmaradÃ¡sÃ¡hoz.", "A szigetorszÃ¡g szÃ¡raz Ã©ghajlata miatt a vizes Ã©lohelyek ritkasÃ¡gszÃ¡mba mennek.", "MÃ¡lta kormÃ¡nya szÃ¡mos projektet indÃ­tott a biodiverzitÃ¡s nÃ¶velÃ©sÃ©re.", "A helyi nÃ¶vÃ©nyvilÃ¡g szÃ¡mos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
   },
   {
     id: "agriculture-tal-massar-winery-gozo-extra",
@@ -1284,8 +1284,8 @@ export const poiExtraMaltaOther: POI[] = [
       ro: "O cramÄƒ de tip boutique pe Gozo, specializatÄƒ Ã®n producerea de vinuri din soiuri locale de struguri.",
       en: "A boutique winery on Gozo specializing in producing wines from local grape varieties."
     },
-    descriptionAdvanced: { de: "", hu: "Plizio tanterv: Földrajz 7. évfolyam. Málta egyéb látnivalói, mint a természetvédelmi területek és kertek, fontos szerepet játszanak a szigetek ökológiai egyensúlyának megorzésében, és remek lehetoséget kínálnak a környezeti nevelésre.", ro: "TODO", en: "" },
-    factsAdvanced: { de: [], hu: ["Málta természeti értékei különösen érzékenyek a turizmus hatásaira.", "A Ghadira-rezervátum fontos állomás a vándormadarak számára.", "A Buskett-kertek az egyetlen nagyobb erdos terület a szigeten.", "A természetvédelmi területek védelme elengedhetetlen a fajok megmaradásához.", "A szigetország száraz éghajlata miatt a vizes élohelyek ritkaságszámba mennek.", "Málta kormánya számos projektet indított a biodiverzitás növelésére.", "A helyi növényvilág számos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
+    descriptionAdvanced: { de: "", hu: "Plizio tanterv: FÃ¶ldrajz 7. Ã©vfolyam. MÃ¡lta egyÃ©b lÃ¡tnivalÃ³i, mint a termÃ©szetvÃ©delmi terÃ¼letek Ã©s kertek, fontos szerepet jÃ¡tszanak a szigetek Ã¶kolÃ³giai egyensÃºlyÃ¡nak megorzÃ©sÃ©ben, Ã©s remek lehetosÃ©get kÃ­nÃ¡lnak a kÃ¶rnyezeti nevelÃ©sre.", ro: "TODO", en: "" },
+    factsAdvanced: { de: [], hu: ["MÃ¡lta termÃ©szeti Ã©rtÃ©kei kÃ¼lÃ¶nÃ¶sen Ã©rzÃ©kenyek a turizmus hatÃ¡saira.", "A Ghadira-rezervÃ¡tum fontos Ã¡llomÃ¡s a vÃ¡ndormadarak szÃ¡mÃ¡ra.", "A Buskett-kertek az egyetlen nagyobb erdos terÃ¼let a szigeten.", "A termÃ©szetvÃ©delmi terÃ¼letek vÃ©delme elengedhetetlen a fajok megmaradÃ¡sÃ¡hoz.", "A szigetorszÃ¡g szÃ¡raz Ã©ghajlata miatt a vizes Ã©lohelyek ritkasÃ¡gszÃ¡mba mennek.", "MÃ¡lta kormÃ¡nya szÃ¡mos projektet indÃ­tott a biodiverzitÃ¡s nÃ¶velÃ©sÃ©re.", "A helyi nÃ¶vÃ©nyvilÃ¡g szÃ¡mos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
   },
   {
     id: "agriculture-vincent-eco-farm-extra",
@@ -1304,8 +1304,8 @@ export const poiExtraMaltaOther: POI[] = [
       ro: "Una dintre cele mai mari ferme ecologice din Malta, care cultivÄƒ o varietate de legume È™i fructe.",
       en: "One of the largest organic farms in Malta, growing a variety of vegetables and fruits."
     },
-    descriptionAdvanced: { de: "", hu: "Plizio tanterv: Földrajz 7. évfolyam. Málta egyéb látnivalói, mint a természetvédelmi területek és kertek, fontos szerepet játszanak a szigetek ökológiai egyensúlyának megorzésében, és remek lehetoséget kínálnak a környezeti nevelésre.", ro: "TODO", en: "" },
-    factsAdvanced: { de: [], hu: ["Málta természeti értékei különösen érzékenyek a turizmus hatásaira.", "A Ghadira-rezervátum fontos állomás a vándormadarak számára.", "A Buskett-kertek az egyetlen nagyobb erdos terület a szigeten.", "A természetvédelmi területek védelme elengedhetetlen a fajok megmaradásához.", "A szigetország száraz éghajlata miatt a vizes élohelyek ritkaságszámba mennek.", "Málta kormánya számos projektet indított a biodiverzitás növelésére.", "A helyi növényvilág számos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
+    descriptionAdvanced: { de: "", hu: "Plizio tanterv: FÃ¶ldrajz 7. Ã©vfolyam. MÃ¡lta egyÃ©b lÃ¡tnivalÃ³i, mint a termÃ©szetvÃ©delmi terÃ¼letek Ã©s kertek, fontos szerepet jÃ¡tszanak a szigetek Ã¶kolÃ³giai egyensÃºlyÃ¡nak megorzÃ©sÃ©ben, Ã©s remek lehetosÃ©get kÃ­nÃ¡lnak a kÃ¶rnyezeti nevelÃ©sre.", ro: "TODO", en: "" },
+    factsAdvanced: { de: [], hu: ["MÃ¡lta termÃ©szeti Ã©rtÃ©kei kÃ¼lÃ¶nÃ¶sen Ã©rzÃ©kenyek a turizmus hatÃ¡saira.", "A Ghadira-rezervÃ¡tum fontos Ã¡llomÃ¡s a vÃ¡ndormadarak szÃ¡mÃ¡ra.", "A Buskett-kertek az egyetlen nagyobb erdos terÃ¼let a szigeten.", "A termÃ©szetvÃ©delmi terÃ¼letek vÃ©delme elengedhetetlen a fajok megmaradÃ¡sÃ¡hoz.", "A szigetorszÃ¡g szÃ¡raz Ã©ghajlata miatt a vizes Ã©lohelyek ritkasÃ¡gszÃ¡mba mennek.", "MÃ¡lta kormÃ¡nya szÃ¡mos projektet indÃ­tott a biodiverzitÃ¡s nÃ¶velÃ©sÃ©re.", "A helyi nÃ¶vÃ©nyvilÃ¡g szÃ¡mos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
   },
   {
     id: "agriculture-ta-qali-farmers-market-extra",
@@ -1324,8 +1324,8 @@ export const poiExtraMaltaOther: POI[] = [
       ro: "O piaÈ›Äƒ unde fermierii locali Ã®È™i vÃ¢nd produsele proaspete direct consumatorilor.",
       en: "A market where local farmers sell their fresh produce directly to consumers."
     },
-    descriptionAdvanced: { de: "", hu: "Plizio tanterv: Földrajz 7. évfolyam. Málta egyéb látnivalói, mint a természetvédelmi területek és kertek, fontos szerepet játszanak a szigetek ökológiai egyensúlyának megorzésében, és remek lehetoséget kínálnak a környezeti nevelésre.", ro: "TODO", en: "" },
-    factsAdvanced: { de: [], hu: ["Málta természeti értékei különösen érzékenyek a turizmus hatásaira.", "A Ghadira-rezervátum fontos állomás a vándormadarak számára.", "A Buskett-kertek az egyetlen nagyobb erdos terület a szigeten.", "A természetvédelmi területek védelme elengedhetetlen a fajok megmaradásához.", "A szigetország száraz éghajlata miatt a vizes élohelyek ritkaságszámba mennek.", "Málta kormánya számos projektet indított a biodiverzitás növelésére.", "A helyi növényvilág számos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
+    descriptionAdvanced: { de: "", hu: "Plizio tanterv: FÃ¶ldrajz 7. Ã©vfolyam. MÃ¡lta egyÃ©b lÃ¡tnivalÃ³i, mint a termÃ©szetvÃ©delmi terÃ¼letek Ã©s kertek, fontos szerepet jÃ¡tszanak a szigetek Ã¶kolÃ³giai egyensÃºlyÃ¡nak megorzÃ©sÃ©ben, Ã©s remek lehetosÃ©get kÃ­nÃ¡lnak a kÃ¶rnyezeti nevelÃ©sre.", ro: "TODO", en: "" },
+    factsAdvanced: { de: [], hu: ["MÃ¡lta termÃ©szeti Ã©rtÃ©kei kÃ¼lÃ¶nÃ¶sen Ã©rzÃ©kenyek a turizmus hatÃ¡saira.", "A Ghadira-rezervÃ¡tum fontos Ã¡llomÃ¡s a vÃ¡ndormadarak szÃ¡mÃ¡ra.", "A Buskett-kertek az egyetlen nagyobb erdos terÃ¼let a szigeten.", "A termÃ©szetvÃ©delmi terÃ¼letek vÃ©delme elengedhetetlen a fajok megmaradÃ¡sÃ¡hoz.", "A szigetorszÃ¡g szÃ¡raz Ã©ghajlata miatt a vizes Ã©lohelyek ritkasÃ¡gszÃ¡mba mennek.", "MÃ¡lta kormÃ¡nya szÃ¡mos projektet indÃ­tott a biodiverzitÃ¡s nÃ¶velÃ©sÃ©re.", "A helyi nÃ¶vÃ©nyvilÃ¡g szÃ¡mos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
   },
   {
     id: "agriculture-gozo-cottage-products-extra",
@@ -1342,10 +1342,10 @@ export const poiExtraMaltaOther: POI[] = [
       de: "Ein GeschÃ¤ft, das traditionelle gozitanische Produkte wie KÃ¤se (Ä bejna), Honig und Marmeladen verkauft.",
       hu: "HagyomÃ¡nyos gozÃ³i termÃ©keket, pÃ©ldÃ¡ul sajtot (Ä bejna), mÃ©zet Ã©s lekvÃ¡rokat Ã¡rusÃ­tÃ³ Ã¼zlet.",
       ro: "Un magazin care vinde produse tradiÈ›ionale gozitane, cum ar fi brÃ¢nzÄƒ (Ä bejna), miere È™i gemuri.",
-      en: "A shop selling traditional Gozitan products like cheese (Ä bejna), honey, and jams."
+      en: "A shop selling traditional Gozitan products like cheese (Ã„Â bejna), honey, and jams."
     },
-    descriptionAdvanced: { de: "", hu: "Plizio tanterv: Földrajz 7. évfolyam. Málta egyéb látnivalói, mint a természetvédelmi területek és kertek, fontos szerepet játszanak a szigetek ökológiai egyensúlyának megorzésében, és remek lehetoséget kínálnak a környezeti nevelésre.", ro: "TODO", en: "" },
-    factsAdvanced: { de: [], hu: ["Málta természeti értékei különösen érzékenyek a turizmus hatásaira.", "A Ghadira-rezervátum fontos állomás a vándormadarak számára.", "A Buskett-kertek az egyetlen nagyobb erdos terület a szigeten.", "A természetvédelmi területek védelme elengedhetetlen a fajok megmaradásához.", "A szigetország száraz éghajlata miatt a vizes élohelyek ritkaságszámba mennek.", "Málta kormánya számos projektet indított a biodiverzitás növelésére.", "A helyi növényvilág számos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
+    descriptionAdvanced: { de: "", hu: "Plizio tanterv: FÃ¶ldrajz 7. Ã©vfolyam. MÃ¡lta egyÃ©b lÃ¡tnivalÃ³i, mint a termÃ©szetvÃ©delmi terÃ¼letek Ã©s kertek, fontos szerepet jÃ¡tszanak a szigetek Ã¶kolÃ³giai egyensÃºlyÃ¡nak megorzÃ©sÃ©ben, Ã©s remek lehetosÃ©get kÃ­nÃ¡lnak a kÃ¶rnyezeti nevelÃ©sre.", ro: "TODO", en: "" },
+    factsAdvanced: { de: [], hu: ["MÃ¡lta termÃ©szeti Ã©rtÃ©kei kÃ¼lÃ¶nÃ¶sen Ã©rzÃ©kenyek a turizmus hatÃ¡saira.", "A Ghadira-rezervÃ¡tum fontos Ã¡llomÃ¡s a vÃ¡ndormadarak szÃ¡mÃ¡ra.", "A Buskett-kertek az egyetlen nagyobb erdos terÃ¼let a szigeten.", "A termÃ©szetvÃ©delmi terÃ¼letek vÃ©delme elengedhetetlen a fajok megmaradÃ¡sÃ¡hoz.", "A szigetorszÃ¡g szÃ¡raz Ã©ghajlata miatt a vizes Ã©lohelyek ritkasÃ¡gszÃ¡mba mennek.", "MÃ¡lta kormÃ¡nya szÃ¡mos projektet indÃ­tott a biodiverzitÃ¡s nÃ¶velÃ©sÃ©re.", "A helyi nÃ¶vÃ©nyvilÃ¡g szÃ¡mos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
   },
   {
     id: "agriculture-magro-food-village-gozo-extra",
@@ -1364,8 +1364,8 @@ export const poiExtraMaltaOther: POI[] = [
       ro: "Un centru de procesare a alimentelor care oferÄƒ, de asemenea, tururi È™i degustÄƒri de produse locale.",
       en: "A food processing center that also offers tours and tastings of local products."
     },
-    descriptionAdvanced: { de: "", hu: "Plizio tanterv: Földrajz 7. évfolyam. Málta egyéb látnivalói, mint a természetvédelmi területek és kertek, fontos szerepet játszanak a szigetek ökológiai egyensúlyának megorzésében, és remek lehetoséget kínálnak a környezeti nevelésre.", ro: "TODO", en: "" },
-    factsAdvanced: { de: [], hu: ["Málta természeti értékei különösen érzékenyek a turizmus hatásaira.", "A Ghadira-rezervátum fontos állomás a vándormadarak számára.", "A Buskett-kertek az egyetlen nagyobb erdos terület a szigeten.", "A természetvédelmi területek védelme elengedhetetlen a fajok megmaradásához.", "A szigetország száraz éghajlata miatt a vizes élohelyek ritkaságszámba mennek.", "Málta kormánya számos projektet indított a biodiverzitás növelésére.", "A helyi növényvilág számos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
+    descriptionAdvanced: { de: "", hu: "Plizio tanterv: FÃ¶ldrajz 7. Ã©vfolyam. MÃ¡lta egyÃ©b lÃ¡tnivalÃ³i, mint a termÃ©szetvÃ©delmi terÃ¼letek Ã©s kertek, fontos szerepet jÃ¡tszanak a szigetek Ã¶kolÃ³giai egyensÃºlyÃ¡nak megorzÃ©sÃ©ben, Ã©s remek lehetosÃ©get kÃ­nÃ¡lnak a kÃ¶rnyezeti nevelÃ©sre.", ro: "TODO", en: "" },
+    factsAdvanced: { de: [], hu: ["MÃ¡lta termÃ©szeti Ã©rtÃ©kei kÃ¼lÃ¶nÃ¶sen Ã©rzÃ©kenyek a turizmus hatÃ¡saira.", "A Ghadira-rezervÃ¡tum fontos Ã¡llomÃ¡s a vÃ¡ndormadarak szÃ¡mÃ¡ra.", "A Buskett-kertek az egyetlen nagyobb erdos terÃ¼let a szigeten.", "A termÃ©szetvÃ©delmi terÃ¼letek vÃ©delme elengedhetetlen a fajok megmaradÃ¡sÃ¡hoz.", "A szigetorszÃ¡g szÃ¡raz Ã©ghajlata miatt a vizes Ã©lohelyek ritkasÃ¡gszÃ¡mba mennek.", "MÃ¡lta kormÃ¡nya szÃ¡mos projektet indÃ­tott a biodiverzitÃ¡s nÃ¶velÃ©sÃ©re.", "A helyi nÃ¶vÃ©nyvilÃ¡g szÃ¡mos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
   },
   {
     id: "agriculture-sun-ripe-farms-extra",
@@ -1384,8 +1384,8 @@ export const poiExtraMaltaOther: POI[] = [
       ro: "O fermÄƒ agricolÄƒ cunoscutÄƒ pentru cÄƒpÈ™unile È™i alte fructe.",
       en: "An agricultural holding known for its strawberries and other fruits."
     },
-    descriptionAdvanced: { de: "", hu: "Plizio tanterv: Földrajz 7. évfolyam. Málta egyéb látnivalói, mint a természetvédelmi területek és kertek, fontos szerepet játszanak a szigetek ökológiai egyensúlyának megorzésében, és remek lehetoséget kínálnak a környezeti nevelésre.", ro: "TODO", en: "" },
-    factsAdvanced: { de: [], hu: ["Málta természeti értékei különösen érzékenyek a turizmus hatásaira.", "A Ghadira-rezervátum fontos állomás a vándormadarak számára.", "A Buskett-kertek az egyetlen nagyobb erdos terület a szigeten.", "A természetvédelmi területek védelme elengedhetetlen a fajok megmaradásához.", "A szigetország száraz éghajlata miatt a vizes élohelyek ritkaságszámba mennek.", "Málta kormánya számos projektet indított a biodiverzitás növelésére.", "A helyi növényvilág számos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
+    descriptionAdvanced: { de: "", hu: "Plizio tanterv: FÃ¶ldrajz 7. Ã©vfolyam. MÃ¡lta egyÃ©b lÃ¡tnivalÃ³i, mint a termÃ©szetvÃ©delmi terÃ¼letek Ã©s kertek, fontos szerepet jÃ¡tszanak a szigetek Ã¶kolÃ³giai egyensÃºlyÃ¡nak megorzÃ©sÃ©ben, Ã©s remek lehetosÃ©get kÃ­nÃ¡lnak a kÃ¶rnyezeti nevelÃ©sre.", ro: "TODO", en: "" },
+    factsAdvanced: { de: [], hu: ["MÃ¡lta termÃ©szeti Ã©rtÃ©kei kÃ¼lÃ¶nÃ¶sen Ã©rzÃ©kenyek a turizmus hatÃ¡saira.", "A Ghadira-rezervÃ¡tum fontos Ã¡llomÃ¡s a vÃ¡ndormadarak szÃ¡mÃ¡ra.", "A Buskett-kertek az egyetlen nagyobb erdos terÃ¼let a szigeten.", "A termÃ©szetvÃ©delmi terÃ¼letek vÃ©delme elengedhetetlen a fajok megmaradÃ¡sÃ¡hoz.", "A szigetorszÃ¡g szÃ¡raz Ã©ghajlata miatt a vizes Ã©lohelyek ritkasÃ¡gszÃ¡mba mennek.", "MÃ¡lta kormÃ¡nya szÃ¡mos projektet indÃ­tott a biodiverzitÃ¡s nÃ¶velÃ©sÃ©re.", "A helyi nÃ¶vÃ©nyvilÃ¡g szÃ¡mos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
   },
   {
     id: "agriculture-frescos-olive-grove-extra",
@@ -1404,8 +1404,8 @@ export const poiExtraMaltaOther: POI[] = [
       ro: "O livadÄƒ de mÄƒslini care produce ulei de mÄƒsline extravirgin de Ã®naltÄƒ calitate.",
       en: "An olive grove producing high-quality extra virgin olive oil."
     },
-    descriptionAdvanced: { de: "", hu: "Plizio tanterv: Földrajz 7. évfolyam. Málta egyéb látnivalói, mint a természetvédelmi területek és kertek, fontos szerepet játszanak a szigetek ökológiai egyensúlyának megorzésében, és remek lehetoséget kínálnak a környezeti nevelésre.", ro: "TODO", en: "" },
-    factsAdvanced: { de: [], hu: ["Málta természeti értékei különösen érzékenyek a turizmus hatásaira.", "A Ghadira-rezervátum fontos állomás a vándormadarak számára.", "A Buskett-kertek az egyetlen nagyobb erdos terület a szigeten.", "A természetvédelmi területek védelme elengedhetetlen a fajok megmaradásához.", "A szigetország száraz éghajlata miatt a vizes élohelyek ritkaságszámba mennek.", "Málta kormánya számos projektet indított a biodiverzitás növelésére.", "A helyi növényvilág számos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
+    descriptionAdvanced: { de: "", hu: "Plizio tanterv: FÃ¶ldrajz 7. Ã©vfolyam. MÃ¡lta egyÃ©b lÃ¡tnivalÃ³i, mint a termÃ©szetvÃ©delmi terÃ¼letek Ã©s kertek, fontos szerepet jÃ¡tszanak a szigetek Ã¶kolÃ³giai egyensÃºlyÃ¡nak megorzÃ©sÃ©ben, Ã©s remek lehetosÃ©get kÃ­nÃ¡lnak a kÃ¶rnyezeti nevelÃ©sre.", ro: "TODO", en: "" },
+    factsAdvanced: { de: [], hu: ["MÃ¡lta termÃ©szeti Ã©rtÃ©kei kÃ¼lÃ¶nÃ¶sen Ã©rzÃ©kenyek a turizmus hatÃ¡saira.", "A Ghadira-rezervÃ¡tum fontos Ã¡llomÃ¡s a vÃ¡ndormadarak szÃ¡mÃ¡ra.", "A Buskett-kertek az egyetlen nagyobb erdos terÃ¼let a szigeten.", "A termÃ©szetvÃ©delmi terÃ¼letek vÃ©delme elengedhetetlen a fajok megmaradÃ¡sÃ¡hoz.", "A szigetorszÃ¡g szÃ¡raz Ã©ghajlata miatt a vizes Ã©lohelyek ritkasÃ¡gszÃ¡mba mennek.", "MÃ¡lta kormÃ¡nya szÃ¡mos projektet indÃ­tott a biodiverzitÃ¡s nÃ¶velÃ©sÃ©re.", "A helyi nÃ¶vÃ©nyvilÃ¡g szÃ¡mos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
   },
   {
     id: "agriculture-mgarr-strawberry-fields-extra",
@@ -1424,8 +1424,8 @@ export const poiExtraMaltaOther: POI[] = [
       ro: "Zona din jurul Mgarr este renumitÄƒ pentru fermele sale de cÄƒpÈ™uni, Ã®n special Ã®n timpul festivalului anual al cÄƒpÈ™unilor.",
       en: "The area around Mgarr is famous for its strawberry farms, especially during the annual strawberry festival."
     },
-    descriptionAdvanced: { de: "", hu: "Plizio tanterv: Földrajz 7. évfolyam. Málta egyéb látnivalói, mint a természetvédelmi területek és kertek, fontos szerepet játszanak a szigetek ökológiai egyensúlyának megorzésében, és remek lehetoséget kínálnak a környezeti nevelésre.", ro: "TODO", en: "" },
-    factsAdvanced: { de: [], hu: ["Málta természeti értékei különösen érzékenyek a turizmus hatásaira.", "A Ghadira-rezervátum fontos állomás a vándormadarak számára.", "A Buskett-kertek az egyetlen nagyobb erdos terület a szigeten.", "A természetvédelmi területek védelme elengedhetetlen a fajok megmaradásához.", "A szigetország száraz éghajlata miatt a vizes élohelyek ritkaságszámba mennek.", "Málta kormánya számos projektet indított a biodiverzitás növelésére.", "A helyi növényvilág számos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
+    descriptionAdvanced: { de: "", hu: "Plizio tanterv: FÃ¶ldrajz 7. Ã©vfolyam. MÃ¡lta egyÃ©b lÃ¡tnivalÃ³i, mint a termÃ©szetvÃ©delmi terÃ¼letek Ã©s kertek, fontos szerepet jÃ¡tszanak a szigetek Ã¶kolÃ³giai egyensÃºlyÃ¡nak megorzÃ©sÃ©ben, Ã©s remek lehetosÃ©get kÃ­nÃ¡lnak a kÃ¶rnyezeti nevelÃ©sre.", ro: "TODO", en: "" },
+    factsAdvanced: { de: [], hu: ["MÃ¡lta termÃ©szeti Ã©rtÃ©kei kÃ¼lÃ¶nÃ¶sen Ã©rzÃ©kenyek a turizmus hatÃ¡saira.", "A Ghadira-rezervÃ¡tum fontos Ã¡llomÃ¡s a vÃ¡ndormadarak szÃ¡mÃ¡ra.", "A Buskett-kertek az egyetlen nagyobb erdos terÃ¼let a szigeten.", "A termÃ©szetvÃ©delmi terÃ¼letek vÃ©delme elengedhetetlen a fajok megmaradÃ¡sÃ¡hoz.", "A szigetorszÃ¡g szÃ¡raz Ã©ghajlata miatt a vizes Ã©lohelyek ritkasÃ¡gszÃ¡mba mennek.", "MÃ¡lta kormÃ¡nya szÃ¡mos projektet indÃ­tott a biodiverzitÃ¡s nÃ¶velÃ©sÃ©re.", "A helyi nÃ¶vÃ©nyvilÃ¡g szÃ¡mos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
   },
   {
     id: "agriculture-bahrija-farms-extra",
@@ -1444,8 +1444,8 @@ export const poiExtraMaltaOther: POI[] = [
       ro: "O zonÄƒ ruralÄƒ cu multe ferme mici care practicÄƒ agricultura tradiÈ›ionalÄƒ.",
       en: "A rural area with many small farms practicing traditional agriculture."
     },
-    descriptionAdvanced: { de: "", hu: "Plizio tanterv: Földrajz 7. évfolyam. Málta egyéb látnivalói, mint a természetvédelmi területek és kertek, fontos szerepet játszanak a szigetek ökológiai egyensúlyának megorzésében, és remek lehetoséget kínálnak a környezeti nevelésre.", ro: "TODO", en: "" },
-    factsAdvanced: { de: [], hu: ["Málta természeti értékei különösen érzékenyek a turizmus hatásaira.", "A Ghadira-rezervátum fontos állomás a vándormadarak számára.", "A Buskett-kertek az egyetlen nagyobb erdos terület a szigeten.", "A természetvédelmi területek védelme elengedhetetlen a fajok megmaradásához.", "A szigetország száraz éghajlata miatt a vizes élohelyek ritkaságszámba mennek.", "Málta kormánya számos projektet indított a biodiverzitás növelésére.", "A helyi növényvilág számos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
+    descriptionAdvanced: { de: "", hu: "Plizio tanterv: FÃ¶ldrajz 7. Ã©vfolyam. MÃ¡lta egyÃ©b lÃ¡tnivalÃ³i, mint a termÃ©szetvÃ©delmi terÃ¼letek Ã©s kertek, fontos szerepet jÃ¡tszanak a szigetek Ã¶kolÃ³giai egyensÃºlyÃ¡nak megorzÃ©sÃ©ben, Ã©s remek lehetosÃ©get kÃ­nÃ¡lnak a kÃ¶rnyezeti nevelÃ©sre.", ro: "TODO", en: "" },
+    factsAdvanced: { de: [], hu: ["MÃ¡lta termÃ©szeti Ã©rtÃ©kei kÃ¼lÃ¶nÃ¶sen Ã©rzÃ©kenyek a turizmus hatÃ¡saira.", "A Ghadira-rezervÃ¡tum fontos Ã¡llomÃ¡s a vÃ¡ndormadarak szÃ¡mÃ¡ra.", "A Buskett-kertek az egyetlen nagyobb erdos terÃ¼let a szigeten.", "A termÃ©szetvÃ©delmi terÃ¼letek vÃ©delme elengedhetetlen a fajok megmaradÃ¡sÃ¡hoz.", "A szigetorszÃ¡g szÃ¡raz Ã©ghajlata miatt a vizes Ã©lohelyek ritkasÃ¡gszÃ¡mba mennek.", "MÃ¡lta kormÃ¡nya szÃ¡mos projektet indÃ­tott a biodiverzitÃ¡s nÃ¶velÃ©sÃ©re.", "A helyi nÃ¶vÃ©nyvilÃ¡g szÃ¡mos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
   },
   {
     id: "agriculture-emmanuel-delicata-winemaker-extra",
@@ -1464,8 +1464,8 @@ export const poiExtraMaltaOther: POI[] = [
       ro: "Un alt producÄƒtor de vin de top din Malta, cu o istorie lungÄƒ, care gÄƒzduieÈ™te festivaluri de vin.",
       en: "Another of Malta's leading winemakers with a long history, hosting wine festivals."
     },
-    descriptionAdvanced: { de: "", hu: "Plizio tanterv: Földrajz 7. évfolyam. Málta egyéb látnivalói, mint a természetvédelmi területek és kertek, fontos szerepet játszanak a szigetek ökológiai egyensúlyának megorzésében, és remek lehetoséget kínálnak a környezeti nevelésre.", ro: "TODO", en: "" },
-    factsAdvanced: { de: [], hu: ["Málta természeti értékei különösen érzékenyek a turizmus hatásaira.", "A Ghadira-rezervátum fontos állomás a vándormadarak számára.", "A Buskett-kertek az egyetlen nagyobb erdos terület a szigeten.", "A természetvédelmi területek védelme elengedhetetlen a fajok megmaradásához.", "A szigetország száraz éghajlata miatt a vizes élohelyek ritkaságszámba mennek.", "Málta kormánya számos projektet indított a biodiverzitás növelésére.", "A helyi növényvilág számos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
+    descriptionAdvanced: { de: "", hu: "Plizio tanterv: FÃ¶ldrajz 7. Ã©vfolyam. MÃ¡lta egyÃ©b lÃ¡tnivalÃ³i, mint a termÃ©szetvÃ©delmi terÃ¼letek Ã©s kertek, fontos szerepet jÃ¡tszanak a szigetek Ã¶kolÃ³giai egyensÃºlyÃ¡nak megorzÃ©sÃ©ben, Ã©s remek lehetosÃ©get kÃ­nÃ¡lnak a kÃ¶rnyezeti nevelÃ©sre.", ro: "TODO", en: "" },
+    factsAdvanced: { de: [], hu: ["MÃ¡lta termÃ©szeti Ã©rtÃ©kei kÃ¼lÃ¶nÃ¶sen Ã©rzÃ©kenyek a turizmus hatÃ¡saira.", "A Ghadira-rezervÃ¡tum fontos Ã¡llomÃ¡s a vÃ¡ndormadarak szÃ¡mÃ¡ra.", "A Buskett-kertek az egyetlen nagyobb erdos terÃ¼let a szigeten.", "A termÃ©szetvÃ©delmi terÃ¼letek vÃ©delme elengedhetetlen a fajok megmaradÃ¡sÃ¡hoz.", "A szigetorszÃ¡g szÃ¡raz Ã©ghajlata miatt a vizes Ã©lohelyek ritkasÃ¡gszÃ¡mba mennek.", "MÃ¡lta kormÃ¡nya szÃ¡mos projektet indÃ­tott a biodiverzitÃ¡s nÃ¶velÃ©sÃ©re.", "A helyi nÃ¶vÃ©nyvilÃ¡g szÃ¡mos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
   },
   {
     id: "agriculture-farmer-s-deli-bistro-extra",
@@ -1484,8 +1484,8 @@ export const poiExtraMaltaOther: POI[] = [
       ro: "Un restaurant È™i magazin care se concentreazÄƒ pe utilizarea produselor locale È™i ecologice.",
       en: "A restaurant and shop focusing on using local and organic produce."
     },
-    descriptionAdvanced: { de: "", hu: "Plizio tanterv: Földrajz 7. évfolyam. Málta egyéb látnivalói, mint a természetvédelmi területek és kertek, fontos szerepet játszanak a szigetek ökológiai egyensúlyának megorzésében, és remek lehetoséget kínálnak a környezeti nevelésre.", ro: "TODO", en: "" },
-    factsAdvanced: { de: [], hu: ["Málta természeti értékei különösen érzékenyek a turizmus hatásaira.", "A Ghadira-rezervátum fontos állomás a vándormadarak számára.", "A Buskett-kertek az egyetlen nagyobb erdos terület a szigeten.", "A természetvédelmi területek védelme elengedhetetlen a fajok megmaradásához.", "A szigetország száraz éghajlata miatt a vizes élohelyek ritkaságszámba mennek.", "Málta kormánya számos projektet indított a biodiverzitás növelésére.", "A helyi növényvilág számos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
+    descriptionAdvanced: { de: "", hu: "Plizio tanterv: FÃ¶ldrajz 7. Ã©vfolyam. MÃ¡lta egyÃ©b lÃ¡tnivalÃ³i, mint a termÃ©szetvÃ©delmi terÃ¼letek Ã©s kertek, fontos szerepet jÃ¡tszanak a szigetek Ã¶kolÃ³giai egyensÃºlyÃ¡nak megorzÃ©sÃ©ben, Ã©s remek lehetosÃ©get kÃ­nÃ¡lnak a kÃ¶rnyezeti nevelÃ©sre.", ro: "TODO", en: "" },
+    factsAdvanced: { de: [], hu: ["MÃ¡lta termÃ©szeti Ã©rtÃ©kei kÃ¼lÃ¶nÃ¶sen Ã©rzÃ©kenyek a turizmus hatÃ¡saira.", "A Ghadira-rezervÃ¡tum fontos Ã¡llomÃ¡s a vÃ¡ndormadarak szÃ¡mÃ¡ra.", "A Buskett-kertek az egyetlen nagyobb erdos terÃ¼let a szigeten.", "A termÃ©szetvÃ©delmi terÃ¼letek vÃ©delme elengedhetetlen a fajok megmaradÃ¡sÃ¡hoz.", "A szigetorszÃ¡g szÃ¡raz Ã©ghajlata miatt a vizes Ã©lohelyek ritkasÃ¡gszÃ¡mba mennek.", "MÃ¡lta kormÃ¡nya szÃ¡mos projektet indÃ­tott a biodiverzitÃ¡s nÃ¶velÃ©sÃ©re.", "A helyi nÃ¶vÃ©nyvilÃ¡g szÃ¡mos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
   },
   {
     id: "agriculture-gozo-artisan-network-extra",
@@ -1504,8 +1504,8 @@ export const poiExtraMaltaOther: POI[] = [
       ro: "O iniÈ›iativÄƒ care promoveazÄƒ artizanii È™i producÄƒtorii de alimente locali de pe Gozo.",
       en: "An initiative promoting local artisans and food producers on Gozo."
     },
-    descriptionAdvanced: { de: "", hu: "Plizio tanterv: Földrajz 7. évfolyam. Málta egyéb látnivalói, mint a természetvédelmi területek és kertek, fontos szerepet játszanak a szigetek ökológiai egyensúlyának megorzésében, és remek lehetoséget kínálnak a környezeti nevelésre.", ro: "TODO", en: "" },
-    factsAdvanced: { de: [], hu: ["Málta természeti értékei különösen érzékenyek a turizmus hatásaira.", "A Ghadira-rezervátum fontos állomás a vándormadarak számára.", "A Buskett-kertek az egyetlen nagyobb erdos terület a szigeten.", "A természetvédelmi területek védelme elengedhetetlen a fajok megmaradásához.", "A szigetország száraz éghajlata miatt a vizes élohelyek ritkaságszámba mennek.", "Málta kormánya számos projektet indított a biodiverzitás növelésére.", "A helyi növényvilág számos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
+    descriptionAdvanced: { de: "", hu: "Plizio tanterv: FÃ¶ldrajz 7. Ã©vfolyam. MÃ¡lta egyÃ©b lÃ¡tnivalÃ³i, mint a termÃ©szetvÃ©delmi terÃ¼letek Ã©s kertek, fontos szerepet jÃ¡tszanak a szigetek Ã¶kolÃ³giai egyensÃºlyÃ¡nak megorzÃ©sÃ©ben, Ã©s remek lehetosÃ©get kÃ­nÃ¡lnak a kÃ¶rnyezeti nevelÃ©sre.", ro: "TODO", en: "" },
+    factsAdvanced: { de: [], hu: ["MÃ¡lta termÃ©szeti Ã©rtÃ©kei kÃ¼lÃ¶nÃ¶sen Ã©rzÃ©kenyek a turizmus hatÃ¡saira.", "A Ghadira-rezervÃ¡tum fontos Ã¡llomÃ¡s a vÃ¡ndormadarak szÃ¡mÃ¡ra.", "A Buskett-kertek az egyetlen nagyobb erdos terÃ¼let a szigeten.", "A termÃ©szetvÃ©delmi terÃ¼letek vÃ©delme elengedhetetlen a fajok megmaradÃ¡sÃ¡hoz.", "A szigetorszÃ¡g szÃ¡raz Ã©ghajlata miatt a vizes Ã©lohelyek ritkasÃ¡gszÃ¡mba mennek.", "MÃ¡lta kormÃ¡nya szÃ¡mos projektet indÃ­tott a biodiverzitÃ¡s nÃ¶velÃ©sÃ©re.", "A helyi nÃ¶vÃ©nyvilÃ¡g szÃ¡mos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
   },
   {
     id: "agriculture-sammy-s-strawberry-farm-extra",
@@ -1524,8 +1524,8 @@ export const poiExtraMaltaOther: POI[] = [
       ro: "O fermÄƒ cunoscutÄƒ Ã®n Mgarr, unde vizitatorii Ã®È™i pot culege propriile cÄƒpÈ™uni.",
       en: "A well-known farm in Mgarr where visitors can pick their own strawberries."
     },
-    descriptionAdvanced: { de: "", hu: "Plizio tanterv: Földrajz 7. évfolyam. Málta egyéb látnivalói, mint a természetvédelmi területek és kertek, fontos szerepet játszanak a szigetek ökológiai egyensúlyának megorzésében, és remek lehetoséget kínálnak a környezeti nevelésre.", ro: "TODO", en: "" },
-    factsAdvanced: { de: [], hu: ["Málta természeti értékei különösen érzékenyek a turizmus hatásaira.", "A Ghadira-rezervátum fontos állomás a vándormadarak számára.", "A Buskett-kertek az egyetlen nagyobb erdos terület a szigeten.", "A természetvédelmi területek védelme elengedhetetlen a fajok megmaradásához.", "A szigetország száraz éghajlata miatt a vizes élohelyek ritkaságszámba mennek.", "Málta kormánya számos projektet indított a biodiverzitás növelésére.", "A helyi növényvilág számos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
+    descriptionAdvanced: { de: "", hu: "Plizio tanterv: FÃ¶ldrajz 7. Ã©vfolyam. MÃ¡lta egyÃ©b lÃ¡tnivalÃ³i, mint a termÃ©szetvÃ©delmi terÃ¼letek Ã©s kertek, fontos szerepet jÃ¡tszanak a szigetek Ã¶kolÃ³giai egyensÃºlyÃ¡nak megorzÃ©sÃ©ben, Ã©s remek lehetosÃ©get kÃ­nÃ¡lnak a kÃ¶rnyezeti nevelÃ©sre.", ro: "TODO", en: "" },
+    factsAdvanced: { de: [], hu: ["MÃ¡lta termÃ©szeti Ã©rtÃ©kei kÃ¼lÃ¶nÃ¶sen Ã©rzÃ©kenyek a turizmus hatÃ¡saira.", "A Ghadira-rezervÃ¡tum fontos Ã¡llomÃ¡s a vÃ¡ndormadarak szÃ¡mÃ¡ra.", "A Buskett-kertek az egyetlen nagyobb erdos terÃ¼let a szigeten.", "A termÃ©szetvÃ©delmi terÃ¼letek vÃ©delme elengedhetetlen a fajok megmaradÃ¡sÃ¡hoz.", "A szigetorszÃ¡g szÃ¡raz Ã©ghajlata miatt a vizes Ã©lohelyek ritkasÃ¡gszÃ¡mba mennek.", "MÃ¡lta kormÃ¡nya szÃ¡mos projektet indÃ­tott a biodiverzitÃ¡s nÃ¶velÃ©sÃ©re.", "A helyi nÃ¶vÃ©nyvilÃ¡g szÃ¡mos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
   },
   {
     id: "agriculture-citrus-groves-of-san-anton-extra",
@@ -1544,8 +1544,8 @@ export const poiExtraMaltaOther: POI[] = [
       ro: "GrÄƒdinile Palatului San Anton sunt renumite pentru citricele lor vechi.",
       en: "The gardens of San Anton Palace are famous for their old citrus trees."
     },
-    descriptionAdvanced: { de: "", hu: "Plizio tanterv: Földrajz 7. évfolyam. Málta egyéb látnivalói, mint a természetvédelmi területek és kertek, fontos szerepet játszanak a szigetek ökológiai egyensúlyának megorzésében, és remek lehetoséget kínálnak a környezeti nevelésre.", ro: "TODO", en: "" },
-    factsAdvanced: { de: [], hu: ["Málta természeti értékei különösen érzékenyek a turizmus hatásaira.", "A Ghadira-rezervátum fontos állomás a vándormadarak számára.", "A Buskett-kertek az egyetlen nagyobb erdos terület a szigeten.", "A természetvédelmi területek védelme elengedhetetlen a fajok megmaradásához.", "A szigetország száraz éghajlata miatt a vizes élohelyek ritkaságszámba mennek.", "Málta kormánya számos projektet indított a biodiverzitás növelésére.", "A helyi növényvilág számos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
+    descriptionAdvanced: { de: "", hu: "Plizio tanterv: FÃ¶ldrajz 7. Ã©vfolyam. MÃ¡lta egyÃ©b lÃ¡tnivalÃ³i, mint a termÃ©szetvÃ©delmi terÃ¼letek Ã©s kertek, fontos szerepet jÃ¡tszanak a szigetek Ã¶kolÃ³giai egyensÃºlyÃ¡nak megorzÃ©sÃ©ben, Ã©s remek lehetosÃ©get kÃ­nÃ¡lnak a kÃ¶rnyezeti nevelÃ©sre.", ro: "TODO", en: "" },
+    factsAdvanced: { de: [], hu: ["MÃ¡lta termÃ©szeti Ã©rtÃ©kei kÃ¼lÃ¶nÃ¶sen Ã©rzÃ©kenyek a turizmus hatÃ¡saira.", "A Ghadira-rezervÃ¡tum fontos Ã¡llomÃ¡s a vÃ¡ndormadarak szÃ¡mÃ¡ra.", "A Buskett-kertek az egyetlen nagyobb erdos terÃ¼let a szigeten.", "A termÃ©szetvÃ©delmi terÃ¼letek vÃ©delme elengedhetetlen a fajok megmaradÃ¡sÃ¡hoz.", "A szigetorszÃ¡g szÃ¡raz Ã©ghajlata miatt a vizes Ã©lohelyek ritkasÃ¡gszÃ¡mba mennek.", "MÃ¡lta kormÃ¡nya szÃ¡mos projektet indÃ­tott a biodiverzitÃ¡s nÃ¶velÃ©sÃ©re.", "A helyi nÃ¶vÃ©nyvilÃ¡g szÃ¡mos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
   },
   {
     id: "agriculture-xwejni-salt-pans-gozo-extra",
@@ -1564,8 +1564,8 @@ export const poiExtraMaltaOther: POI[] = [
       ro: "Saline tradiÈ›ionale unde sarea de mare este recoltatÄƒ manual de secole.",
       en: "Traditional salt pans where sea salt has been harvested by hand for centuries."
     },
-    descriptionAdvanced: { de: "", hu: "Plizio tanterv: Földrajz 7. évfolyam. Málta egyéb látnivalói, mint a természetvédelmi területek és kertek, fontos szerepet játszanak a szigetek ökológiai egyensúlyának megorzésében, és remek lehetoséget kínálnak a környezeti nevelésre.", ro: "TODO", en: "" },
-    factsAdvanced: { de: [], hu: ["Málta természeti értékei különösen érzékenyek a turizmus hatásaira.", "A Ghadira-rezervátum fontos állomás a vándormadarak számára.", "A Buskett-kertek az egyetlen nagyobb erdos terület a szigeten.", "A természetvédelmi területek védelme elengedhetetlen a fajok megmaradásához.", "A szigetország száraz éghajlata miatt a vizes élohelyek ritkaságszámba mennek.", "Málta kormánya számos projektet indított a biodiverzitás növelésére.", "A helyi növényvilág számos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
+    descriptionAdvanced: { de: "", hu: "Plizio tanterv: FÃ¶ldrajz 7. Ã©vfolyam. MÃ¡lta egyÃ©b lÃ¡tnivalÃ³i, mint a termÃ©szetvÃ©delmi terÃ¼letek Ã©s kertek, fontos szerepet jÃ¡tszanak a szigetek Ã¶kolÃ³giai egyensÃºlyÃ¡nak megorzÃ©sÃ©ben, Ã©s remek lehetosÃ©get kÃ­nÃ¡lnak a kÃ¶rnyezeti nevelÃ©sre.", ro: "TODO", en: "" },
+    factsAdvanced: { de: [], hu: ["MÃ¡lta termÃ©szeti Ã©rtÃ©kei kÃ¼lÃ¶nÃ¶sen Ã©rzÃ©kenyek a turizmus hatÃ¡saira.", "A Ghadira-rezervÃ¡tum fontos Ã¡llomÃ¡s a vÃ¡ndormadarak szÃ¡mÃ¡ra.", "A Buskett-kertek az egyetlen nagyobb erdos terÃ¼let a szigeten.", "A termÃ©szetvÃ©delmi terÃ¼letek vÃ©delme elengedhetetlen a fajok megmaradÃ¡sÃ¡hoz.", "A szigetorszÃ¡g szÃ¡raz Ã©ghajlata miatt a vizes Ã©lohelyek ritkasÃ¡gszÃ¡mba mennek.", "MÃ¡lta kormÃ¡nya szÃ¡mos projektet indÃ­tott a biodiverzitÃ¡s nÃ¶velÃ©sÃ©re.", "A helyi nÃ¶vÃ©nyvilÃ¡g szÃ¡mos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
   },
   {
     id: "agriculture-melita-honey-extra",
@@ -1584,8 +1584,8 @@ export const poiExtraMaltaOther: POI[] = [
       ro: "ProducÄƒtori de miere maltezÄƒ, cunoscutÄƒ pentru aroma sa unicÄƒ derivatÄƒ din flora localÄƒ.",
       en: "Producers of Maltese honey, known for its unique flavour derived from the local flora."
     },
-    descriptionAdvanced: { de: "", hu: "Plizio tanterv: Földrajz 7. évfolyam. Málta egyéb látnivalói, mint a természetvédelmi területek és kertek, fontos szerepet játszanak a szigetek ökológiai egyensúlyának megorzésében, és remek lehetoséget kínálnak a környezeti nevelésre.", ro: "TODO", en: "" },
-    factsAdvanced: { de: [], hu: ["Málta természeti értékei különösen érzékenyek a turizmus hatásaira.", "A Ghadira-rezervátum fontos állomás a vándormadarak számára.", "A Buskett-kertek az egyetlen nagyobb erdos terület a szigeten.", "A természetvédelmi területek védelme elengedhetetlen a fajok megmaradásához.", "A szigetország száraz éghajlata miatt a vizes élohelyek ritkaságszámba mennek.", "Málta kormánya számos projektet indított a biodiverzitás növelésére.", "A helyi növényvilág számos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
+    descriptionAdvanced: { de: "", hu: "Plizio tanterv: FÃ¶ldrajz 7. Ã©vfolyam. MÃ¡lta egyÃ©b lÃ¡tnivalÃ³i, mint a termÃ©szetvÃ©delmi terÃ¼letek Ã©s kertek, fontos szerepet jÃ¡tszanak a szigetek Ã¶kolÃ³giai egyensÃºlyÃ¡nak megorzÃ©sÃ©ben, Ã©s remek lehetosÃ©get kÃ­nÃ¡lnak a kÃ¶rnyezeti nevelÃ©sre.", ro: "TODO", en: "" },
+    factsAdvanced: { de: [], hu: ["MÃ¡lta termÃ©szeti Ã©rtÃ©kei kÃ¼lÃ¶nÃ¶sen Ã©rzÃ©kenyek a turizmus hatÃ¡saira.", "A Ghadira-rezervÃ¡tum fontos Ã¡llomÃ¡s a vÃ¡ndormadarak szÃ¡mÃ¡ra.", "A Buskett-kertek az egyetlen nagyobb erdos terÃ¼let a szigeten.", "A termÃ©szetvÃ©delmi terÃ¼letek vÃ©delme elengedhetetlen a fajok megmaradÃ¡sÃ¡hoz.", "A szigetorszÃ¡g szÃ¡raz Ã©ghajlata miatt a vizes Ã©lohelyek ritkasÃ¡gszÃ¡mba mennek.", "MÃ¡lta kormÃ¡nya szÃ¡mos projektet indÃ­tott a biodiverzitÃ¡s nÃ¶velÃ©sÃ©re.", "A helyi nÃ¶vÃ©nyvilÃ¡g szÃ¡mos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
   },
   {
     id: "agriculture-lord- chambray-brewery-gozo-extra",
@@ -1604,8 +1604,8 @@ export const poiExtraMaltaOther: POI[] = [
       ro: "Prima fabricÄƒ de bere artizanalÄƒ de pe Gozo, care produce o gamÄƒ de beri cu influenÈ›e locale.",
       en: "The first craft brewery on Gozo, producing a range of beers with local influences."
     },
-    descriptionAdvanced: { de: "", hu: "Plizio tanterv: Földrajz 7. évfolyam. Málta egyéb látnivalói, mint a természetvédelmi területek és kertek, fontos szerepet játszanak a szigetek ökológiai egyensúlyának megorzésében, és remek lehetoséget kínálnak a környezeti nevelésre.", ro: "TODO", en: "" },
-    factsAdvanced: { de: [], hu: ["Málta természeti értékei különösen érzékenyek a turizmus hatásaira.", "A Ghadira-rezervátum fontos állomás a vándormadarak számára.", "A Buskett-kertek az egyetlen nagyobb erdos terület a szigeten.", "A természetvédelmi területek védelme elengedhetetlen a fajok megmaradásához.", "A szigetország száraz éghajlata miatt a vizes élohelyek ritkaságszámba mennek.", "Málta kormánya számos projektet indított a biodiverzitás növelésére.", "A helyi növényvilág számos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
+    descriptionAdvanced: { de: "", hu: "Plizio tanterv: FÃ¶ldrajz 7. Ã©vfolyam. MÃ¡lta egyÃ©b lÃ¡tnivalÃ³i, mint a termÃ©szetvÃ©delmi terÃ¼letek Ã©s kertek, fontos szerepet jÃ¡tszanak a szigetek Ã¶kolÃ³giai egyensÃºlyÃ¡nak megorzÃ©sÃ©ben, Ã©s remek lehetosÃ©get kÃ­nÃ¡lnak a kÃ¶rnyezeti nevelÃ©sre.", ro: "TODO", en: "" },
+    factsAdvanced: { de: [], hu: ["MÃ¡lta termÃ©szeti Ã©rtÃ©kei kÃ¼lÃ¶nÃ¶sen Ã©rzÃ©kenyek a turizmus hatÃ¡saira.", "A Ghadira-rezervÃ¡tum fontos Ã¡llomÃ¡s a vÃ¡ndormadarak szÃ¡mÃ¡ra.", "A Buskett-kertek az egyetlen nagyobb erdos terÃ¼let a szigeten.", "A termÃ©szetvÃ©delmi terÃ¼letek vÃ©delme elengedhetetlen a fajok megmaradÃ¡sÃ¡hoz.", "A szigetorszÃ¡g szÃ¡raz Ã©ghajlata miatt a vizes Ã©lohelyek ritkasÃ¡gszÃ¡mba mennek.", "MÃ¡lta kormÃ¡nya szÃ¡mos projektet indÃ­tott a biodiverzitÃ¡s nÃ¶velÃ©sÃ©re.", "A helyi nÃ¶vÃ©nyvilÃ¡g szÃ¡mos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
   },
   {
     id: "agriculture-kunserva-factory-gozo-extra",
@@ -1624,8 +1624,8 @@ export const poiExtraMaltaOther: POI[] = [
       ro: "Un producÄƒtor important de 'Kunserva', o pastÄƒ de tomate tradiÈ›ionalÄƒ maltezÄƒ.",
       en: "A major producer of 'Kunserva', a traditional Maltese tomato paste."
     },
-    descriptionAdvanced: { de: "", hu: "Plizio tanterv: Földrajz 7. évfolyam. Málta egyéb látnivalói, mint a természetvédelmi területek és kertek, fontos szerepet játszanak a szigetek ökológiai egyensúlyának megorzésében, és remek lehetoséget kínálnak a környezeti nevelésre.", ro: "TODO", en: "" },
-    factsAdvanced: { de: [], hu: ["Málta természeti értékei különösen érzékenyek a turizmus hatásaira.", "A Ghadira-rezervátum fontos állomás a vándormadarak számára.", "A Buskett-kertek az egyetlen nagyobb erdos terület a szigeten.", "A természetvédelmi területek védelme elengedhetetlen a fajok megmaradásához.", "A szigetország száraz éghajlata miatt a vizes élohelyek ritkaságszámba mennek.", "Málta kormánya számos projektet indított a biodiverzitás növelésére.", "A helyi növényvilág számos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
+    descriptionAdvanced: { de: "", hu: "Plizio tanterv: FÃ¶ldrajz 7. Ã©vfolyam. MÃ¡lta egyÃ©b lÃ¡tnivalÃ³i, mint a termÃ©szetvÃ©delmi terÃ¼letek Ã©s kertek, fontos szerepet jÃ¡tszanak a szigetek Ã¶kolÃ³giai egyensÃºlyÃ¡nak megorzÃ©sÃ©ben, Ã©s remek lehetosÃ©get kÃ­nÃ¡lnak a kÃ¶rnyezeti nevelÃ©sre.", ro: "TODO", en: "" },
+    factsAdvanced: { de: [], hu: ["MÃ¡lta termÃ©szeti Ã©rtÃ©kei kÃ¼lÃ¶nÃ¶sen Ã©rzÃ©kenyek a turizmus hatÃ¡saira.", "A Ghadira-rezervÃ¡tum fontos Ã¡llomÃ¡s a vÃ¡ndormadarak szÃ¡mÃ¡ra.", "A Buskett-kertek az egyetlen nagyobb erdos terÃ¼let a szigeten.", "A termÃ©szetvÃ©delmi terÃ¼letek vÃ©delme elengedhetetlen a fajok megmaradÃ¡sÃ¡hoz.", "A szigetorszÃ¡g szÃ¡raz Ã©ghajlata miatt a vizes Ã©lohelyek ritkasÃ¡gszÃ¡mba mennek.", "MÃ¡lta kormÃ¡nya szÃ¡mos projektet indÃ­tott a biodiverzitÃ¡s nÃ¶velÃ©sÃ©re.", "A helyi nÃ¶vÃ©nyvilÃ¡g szÃ¡mos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
   },
   {
     id: "agriculture-olive-oil-tasting-malta-extra",
@@ -1644,8 +1644,8 @@ export const poiExtraMaltaOther: POI[] = [
       ro: "Mai multe ferme oferÄƒ degustÄƒri ale uleiului lor de mÄƒsline produs local.",
       en: "Several farms offer tasting sessions of their locally produced olive oil."
     },
-    descriptionAdvanced: { de: "", hu: "Plizio tanterv: Földrajz 7. évfolyam. Málta egyéb látnivalói, mint a természetvédelmi területek és kertek, fontos szerepet játszanak a szigetek ökológiai egyensúlyának megorzésében, és remek lehetoséget kínálnak a környezeti nevelésre.", ro: "TODO", en: "" },
-    factsAdvanced: { de: [], hu: ["Málta természeti értékei különösen érzékenyek a turizmus hatásaira.", "A Ghadira-rezervátum fontos állomás a vándormadarak számára.", "A Buskett-kertek az egyetlen nagyobb erdos terület a szigeten.", "A természetvédelmi területek védelme elengedhetetlen a fajok megmaradásához.", "A szigetország száraz éghajlata miatt a vizes élohelyek ritkaságszámba mennek.", "Málta kormánya számos projektet indított a biodiverzitás növelésére.", "A helyi növényvilág számos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
+    descriptionAdvanced: { de: "", hu: "Plizio tanterv: FÃ¶ldrajz 7. Ã©vfolyam. MÃ¡lta egyÃ©b lÃ¡tnivalÃ³i, mint a termÃ©szetvÃ©delmi terÃ¼letek Ã©s kertek, fontos szerepet jÃ¡tszanak a szigetek Ã¶kolÃ³giai egyensÃºlyÃ¡nak megorzÃ©sÃ©ben, Ã©s remek lehetosÃ©get kÃ­nÃ¡lnak a kÃ¶rnyezeti nevelÃ©sre.", ro: "TODO", en: "" },
+    factsAdvanced: { de: [], hu: ["MÃ¡lta termÃ©szeti Ã©rtÃ©kei kÃ¼lÃ¶nÃ¶sen Ã©rzÃ©kenyek a turizmus hatÃ¡saira.", "A Ghadira-rezervÃ¡tum fontos Ã¡llomÃ¡s a vÃ¡ndormadarak szÃ¡mÃ¡ra.", "A Buskett-kertek az egyetlen nagyobb erdos terÃ¼let a szigeten.", "A termÃ©szetvÃ©delmi terÃ¼letek vÃ©delme elengedhetetlen a fajok megmaradÃ¡sÃ¡hoz.", "A szigetorszÃ¡g szÃ¡raz Ã©ghajlata miatt a vizes Ã©lohelyek ritkasÃ¡gszÃ¡mba mennek.", "MÃ¡lta kormÃ¡nya szÃ¡mos projektet indÃ­tott a biodiverzitÃ¡s nÃ¶velÃ©sÃ©re.", "A helyi nÃ¶vÃ©nyvilÃ¡g szÃ¡mos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
   },
   {
     id: "agriculture-rural-herita-ge-trail-dingli-extra",
@@ -1664,8 +1664,8 @@ export const poiExtraMaltaOther: POI[] = [
       ro: "Un traseu de drumeÈ›ie care trece pe lÃ¢ngÄƒ ferme tradiÈ›ionale È™i peisaje agricole.",
       en: "A walking trail that passes by traditional farms and agricultural landscapes."
     },
-    descriptionAdvanced: { de: "", hu: "Plizio tanterv: Földrajz 7. évfolyam. Málta egyéb látnivalói, mint a természetvédelmi területek és kertek, fontos szerepet játszanak a szigetek ökológiai egyensúlyának megorzésében, és remek lehetoséget kínálnak a környezeti nevelésre.", ro: "TODO", en: "" },
-    factsAdvanced: { de: [], hu: ["Málta természeti értékei különösen érzékenyek a turizmus hatásaira.", "A Ghadira-rezervátum fontos állomás a vándormadarak számára.", "A Buskett-kertek az egyetlen nagyobb erdos terület a szigeten.", "A természetvédelmi területek védelme elengedhetetlen a fajok megmaradásához.", "A szigetország száraz éghajlata miatt a vizes élohelyek ritkaságszámba mennek.", "Málta kormánya számos projektet indított a biodiverzitás növelésére.", "A helyi növényvilág számos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
+    descriptionAdvanced: { de: "", hu: "Plizio tanterv: FÃ¶ldrajz 7. Ã©vfolyam. MÃ¡lta egyÃ©b lÃ¡tnivalÃ³i, mint a termÃ©szetvÃ©delmi terÃ¼letek Ã©s kertek, fontos szerepet jÃ¡tszanak a szigetek Ã¶kolÃ³giai egyensÃºlyÃ¡nak megorzÃ©sÃ©ben, Ã©s remek lehetosÃ©get kÃ­nÃ¡lnak a kÃ¶rnyezeti nevelÃ©sre.", ro: "TODO", en: "" },
+    factsAdvanced: { de: [], hu: ["MÃ¡lta termÃ©szeti Ã©rtÃ©kei kÃ¼lÃ¶nÃ¶sen Ã©rzÃ©kenyek a turizmus hatÃ¡saira.", "A Ghadira-rezervÃ¡tum fontos Ã¡llomÃ¡s a vÃ¡ndormadarak szÃ¡mÃ¡ra.", "A Buskett-kertek az egyetlen nagyobb erdos terÃ¼let a szigeten.", "A termÃ©szetvÃ©delmi terÃ¼letek vÃ©delme elengedhetetlen a fajok megmaradÃ¡sÃ¡hoz.", "A szigetorszÃ¡g szÃ¡raz Ã©ghajlata miatt a vizes Ã©lohelyek ritkasÃ¡gszÃ¡mba mennek.", "MÃ¡lta kormÃ¡nya szÃ¡mos projektet indÃ­tott a biodiverzitÃ¡s nÃ¶velÃ©sÃ©re.", "A helyi nÃ¶vÃ©nyvilÃ¡g szÃ¡mos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
   },
   {
     id: "agriculture-the-vegetable-patch-extra",
@@ -1684,8 +1684,8 @@ export const poiExtraMaltaOther: POI[] = [
       ro: "O fermÄƒ specializatÄƒ Ã®n cultivarea unei varietÄƒÈ›i de legume.",
       en: "A farm specializing in the cultivation of a variety of vegetables."
     },
-    descriptionAdvanced: { de: "", hu: "Plizio tanterv: Földrajz 7. évfolyam. Málta egyéb látnivalói, mint a természetvédelmi területek és kertek, fontos szerepet játszanak a szigetek ökológiai egyensúlyának megorzésében, és remek lehetoséget kínálnak a környezeti nevelésre.", ro: "TODO", en: "" },
-    factsAdvanced: { de: [], hu: ["Málta természeti értékei különösen érzékenyek a turizmus hatásaira.", "A Ghadira-rezervátum fontos állomás a vándormadarak számára.", "A Buskett-kertek az egyetlen nagyobb erdos terület a szigeten.", "A természetvédelmi területek védelme elengedhetetlen a fajok megmaradásához.", "A szigetország száraz éghajlata miatt a vizes élohelyek ritkaságszámba mennek.", "Málta kormánya számos projektet indított a biodiverzitás növelésére.", "A helyi növényvilág számos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
+    descriptionAdvanced: { de: "", hu: "Plizio tanterv: FÃ¶ldrajz 7. Ã©vfolyam. MÃ¡lta egyÃ©b lÃ¡tnivalÃ³i, mint a termÃ©szetvÃ©delmi terÃ¼letek Ã©s kertek, fontos szerepet jÃ¡tszanak a szigetek Ã¶kolÃ³giai egyensÃºlyÃ¡nak megorzÃ©sÃ©ben, Ã©s remek lehetosÃ©get kÃ­nÃ¡lnak a kÃ¶rnyezeti nevelÃ©sre.", ro: "TODO", en: "" },
+    factsAdvanced: { de: [], hu: ["MÃ¡lta termÃ©szeti Ã©rtÃ©kei kÃ¼lÃ¶nÃ¶sen Ã©rzÃ©kenyek a turizmus hatÃ¡saira.", "A Ghadira-rezervÃ¡tum fontos Ã¡llomÃ¡s a vÃ¡ndormadarak szÃ¡mÃ¡ra.", "A Buskett-kertek az egyetlen nagyobb erdos terÃ¼let a szigeten.", "A termÃ©szetvÃ©delmi terÃ¼letek vÃ©delme elengedhetetlen a fajok megmaradÃ¡sÃ¡hoz.", "A szigetorszÃ¡g szÃ¡raz Ã©ghajlata miatt a vizes Ã©lohelyek ritkasÃ¡gszÃ¡mba mennek.", "MÃ¡lta kormÃ¡nya szÃ¡mos projektet indÃ­tott a biodiverzitÃ¡s nÃ¶velÃ©sÃ©re.", "A helyi nÃ¶vÃ©nyvilÃ¡g szÃ¡mos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
   },
   {
     id: "agriculture-fig-trees-in-xaghra-gozo-extra",
@@ -1704,8 +1704,8 @@ export const poiExtraMaltaOther: POI[] = [
       ro: "Zona din jurul Xaghra este cunoscutÄƒ pentru smochinii sÄƒi È™i producÈ›ia de produse din smochine.",
       en: "The area around Xaghra is known for its fig trees and production of fig products."
     },
-    descriptionAdvanced: { de: "", hu: "Plizio tanterv: Földrajz 7. évfolyam. Málta egyéb látnivalói, mint a természetvédelmi területek és kertek, fontos szerepet játszanak a szigetek ökológiai egyensúlyának megorzésében, és remek lehetoséget kínálnak a környezeti nevelésre.", ro: "TODO", en: "" },
-    factsAdvanced: { de: [], hu: ["Málta természeti értékei különösen érzékenyek a turizmus hatásaira.", "A Ghadira-rezervátum fontos állomás a vándormadarak számára.", "A Buskett-kertek az egyetlen nagyobb erdos terület a szigeten.", "A természetvédelmi területek védelme elengedhetetlen a fajok megmaradásához.", "A szigetország száraz éghajlata miatt a vizes élohelyek ritkaságszámba mennek.", "Málta kormánya számos projektet indított a biodiverzitás növelésére.", "A helyi növényvilág számos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
+    descriptionAdvanced: { de: "", hu: "Plizio tanterv: FÃ¶ldrajz 7. Ã©vfolyam. MÃ¡lta egyÃ©b lÃ¡tnivalÃ³i, mint a termÃ©szetvÃ©delmi terÃ¼letek Ã©s kertek, fontos szerepet jÃ¡tszanak a szigetek Ã¶kolÃ³giai egyensÃºlyÃ¡nak megorzÃ©sÃ©ben, Ã©s remek lehetosÃ©get kÃ­nÃ¡lnak a kÃ¶rnyezeti nevelÃ©sre.", ro: "TODO", en: "" },
+    factsAdvanced: { de: [], hu: ["MÃ¡lta termÃ©szeti Ã©rtÃ©kei kÃ¼lÃ¶nÃ¶sen Ã©rzÃ©kenyek a turizmus hatÃ¡saira.", "A Ghadira-rezervÃ¡tum fontos Ã¡llomÃ¡s a vÃ¡ndormadarak szÃ¡mÃ¡ra.", "A Buskett-kertek az egyetlen nagyobb erdos terÃ¼let a szigeten.", "A termÃ©szetvÃ©delmi terÃ¼letek vÃ©delme elengedhetetlen a fajok megmaradÃ¡sÃ¡hoz.", "A szigetorszÃ¡g szÃ¡raz Ã©ghajlata miatt a vizes Ã©lohelyek ritkasÃ¡gszÃ¡mba mennek.", "MÃ¡lta kormÃ¡nya szÃ¡mos projektet indÃ­tott a biodiverzitÃ¡s nÃ¶velÃ©sÃ©re.", "A helyi nÃ¶vÃ©nyvilÃ¡g szÃ¡mos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
   },
   {
     id: "agriculture-caper-bushes-of-gozo-extra",
@@ -1724,8 +1724,8 @@ export const poiExtraMaltaOther: POI[] = [
       ro: "Gozo este renumit pentru arbuÈ™tii sÄƒi de capere care cresc sÄƒlbatic, ai cÄƒror muguri sunt recoltaÈ›i È™i conservaÈ›i.",
       en: "Gozo is known for its wild-growing caper bushes, whose buds are harvested and preserved."
     },
-    descriptionAdvanced: { de: "", hu: "Plizio tanterv: Földrajz 7. évfolyam. Málta egyéb látnivalói, mint a természetvédelmi területek és kertek, fontos szerepet játszanak a szigetek ökológiai egyensúlyának megorzésében, és remek lehetoséget kínálnak a környezeti nevelésre.", ro: "TODO", en: "" },
-    factsAdvanced: { de: [], hu: ["Málta természeti értékei különösen érzékenyek a turizmus hatásaira.", "A Ghadira-rezervátum fontos állomás a vándormadarak számára.", "A Buskett-kertek az egyetlen nagyobb erdos terület a szigeten.", "A természetvédelmi területek védelme elengedhetetlen a fajok megmaradásához.", "A szigetország száraz éghajlata miatt a vizes élohelyek ritkaságszámba mennek.", "Málta kormánya számos projektet indított a biodiverzitás növelésére.", "A helyi növényvilág számos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
+    descriptionAdvanced: { de: "", hu: "Plizio tanterv: FÃ¶ldrajz 7. Ã©vfolyam. MÃ¡lta egyÃ©b lÃ¡tnivalÃ³i, mint a termÃ©szetvÃ©delmi terÃ¼letek Ã©s kertek, fontos szerepet jÃ¡tszanak a szigetek Ã¶kolÃ³giai egyensÃºlyÃ¡nak megorzÃ©sÃ©ben, Ã©s remek lehetosÃ©get kÃ­nÃ¡lnak a kÃ¶rnyezeti nevelÃ©sre.", ro: "TODO", en: "" },
+    factsAdvanced: { de: [], hu: ["MÃ¡lta termÃ©szeti Ã©rtÃ©kei kÃ¼lÃ¶nÃ¶sen Ã©rzÃ©kenyek a turizmus hatÃ¡saira.", "A Ghadira-rezervÃ¡tum fontos Ã¡llomÃ¡s a vÃ¡ndormadarak szÃ¡mÃ¡ra.", "A Buskett-kertek az egyetlen nagyobb erdos terÃ¼let a szigeten.", "A termÃ©szetvÃ©delmi terÃ¼letek vÃ©delme elengedhetetlen a fajok megmaradÃ¡sÃ¡hoz.", "A szigetorszÃ¡g szÃ¡raz Ã©ghajlata miatt a vizes Ã©lohelyek ritkasÃ¡gszÃ¡mba mennek.", "MÃ¡lta kormÃ¡nya szÃ¡mos projektet indÃ­tott a biodiverzitÃ¡s nÃ¶velÃ©sÃ©re.", "A helyi nÃ¶vÃ©nyvilÃ¡g szÃ¡mos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
   },
   {
     id: "agriculture-bee-keeping-experience-extra",
@@ -1744,8 +1744,8 @@ export const poiExtraMaltaOther: POI[] = [
       ro: "Mai mulÈ›i apicultori oferÄƒ tururi unde vizitatorii pot Ã®nvÄƒÈ›a despre producÈ›ia de miere.",
       en: "Several beekeepers offer tours where visitors can learn about honey production."
     },
-    descriptionAdvanced: { de: "", hu: "Plizio tanterv: Földrajz 7. évfolyam. Málta egyéb látnivalói, mint a természetvédelmi területek és kertek, fontos szerepet játszanak a szigetek ökológiai egyensúlyának megorzésében, és remek lehetoséget kínálnak a környezeti nevelésre.", ro: "TODO", en: "" },
-    factsAdvanced: { de: [], hu: ["Málta természeti értékei különösen érzékenyek a turizmus hatásaira.", "A Ghadira-rezervátum fontos állomás a vándormadarak számára.", "A Buskett-kertek az egyetlen nagyobb erdos terület a szigeten.", "A természetvédelmi területek védelme elengedhetetlen a fajok megmaradásához.", "A szigetország száraz éghajlata miatt a vizes élohelyek ritkaságszámba mennek.", "Málta kormánya számos projektet indított a biodiverzitás növelésére.", "A helyi növényvilág számos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
+    descriptionAdvanced: { de: "", hu: "Plizio tanterv: FÃ¶ldrajz 7. Ã©vfolyam. MÃ¡lta egyÃ©b lÃ¡tnivalÃ³i, mint a termÃ©szetvÃ©delmi terÃ¼letek Ã©s kertek, fontos szerepet jÃ¡tszanak a szigetek Ã¶kolÃ³giai egyensÃºlyÃ¡nak megorzÃ©sÃ©ben, Ã©s remek lehetosÃ©get kÃ­nÃ¡lnak a kÃ¶rnyezeti nevelÃ©sre.", ro: "TODO", en: "" },
+    factsAdvanced: { de: [], hu: ["MÃ¡lta termÃ©szeti Ã©rtÃ©kei kÃ¼lÃ¶nÃ¶sen Ã©rzÃ©kenyek a turizmus hatÃ¡saira.", "A Ghadira-rezervÃ¡tum fontos Ã¡llomÃ¡s a vÃ¡ndormadarak szÃ¡mÃ¡ra.", "A Buskett-kertek az egyetlen nagyobb erdos terÃ¼let a szigeten.", "A termÃ©szetvÃ©delmi terÃ¼letek vÃ©delme elengedhetetlen a fajok megmaradÃ¡sÃ¡hoz.", "A szigetorszÃ¡g szÃ¡raz Ã©ghajlata miatt a vizes Ã©lohelyek ritkasÃ¡gszÃ¡mba mennek.", "MÃ¡lta kormÃ¡nya szÃ¡mos projektet indÃ­tott a biodiverzitÃ¡s nÃ¶velÃ©sÃ©re.", "A helyi nÃ¶vÃ©nyvilÃ¡g szÃ¡mos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
   },
   {
     id: "agriculture-bacchus-winery-extra",
@@ -1764,8 +1764,8 @@ export const poiExtraMaltaOther: POI[] = [
       ro: "Un restaurant È™i loc de evenimente Ã®n Mdina, cu o cramÄƒ istoricÄƒ.",
       en: "A restaurant and venue in Mdina with a historic wine cellar."
     },
-    descriptionAdvanced: { de: "", hu: "Plizio tanterv: Földrajz 7. évfolyam. Málta egyéb látnivalói, mint a természetvédelmi területek és kertek, fontos szerepet játszanak a szigetek ökológiai egyensúlyának megorzésében, és remek lehetoséget kínálnak a környezeti nevelésre.", ro: "TODO", en: "" },
-    factsAdvanced: { de: [], hu: ["Málta természeti értékei különösen érzékenyek a turizmus hatásaira.", "A Ghadira-rezervátum fontos állomás a vándormadarak számára.", "A Buskett-kertek az egyetlen nagyobb erdos terület a szigeten.", "A természetvédelmi területek védelme elengedhetetlen a fajok megmaradásához.", "A szigetország száraz éghajlata miatt a vizes élohelyek ritkaságszámba mennek.", "Málta kormánya számos projektet indított a biodiverzitás növelésére.", "A helyi növényvilág számos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
+    descriptionAdvanced: { de: "", hu: "Plizio tanterv: FÃ¶ldrajz 7. Ã©vfolyam. MÃ¡lta egyÃ©b lÃ¡tnivalÃ³i, mint a termÃ©szetvÃ©delmi terÃ¼letek Ã©s kertek, fontos szerepet jÃ¡tszanak a szigetek Ã¶kolÃ³giai egyensÃºlyÃ¡nak megorzÃ©sÃ©ben, Ã©s remek lehetosÃ©get kÃ­nÃ¡lnak a kÃ¶rnyezeti nevelÃ©sre.", ro: "TODO", en: "" },
+    factsAdvanced: { de: [], hu: ["MÃ¡lta termÃ©szeti Ã©rtÃ©kei kÃ¼lÃ¶nÃ¶sen Ã©rzÃ©kenyek a turizmus hatÃ¡saira.", "A Ghadira-rezervÃ¡tum fontos Ã¡llomÃ¡s a vÃ¡ndormadarak szÃ¡mÃ¡ra.", "A Buskett-kertek az egyetlen nagyobb erdos terÃ¼let a szigeten.", "A termÃ©szetvÃ©delmi terÃ¼letek vÃ©delme elengedhetetlen a fajok megmaradÃ¡sÃ¡hoz.", "A szigetorszÃ¡g szÃ¡raz Ã©ghajlata miatt a vizes Ã©lohelyek ritkasÃ¡gszÃ¡mba mennek.", "MÃ¡lta kormÃ¡nya szÃ¡mos projektet indÃ­tott a biodiverzitÃ¡s nÃ¶velÃ©sÃ©re.", "A helyi nÃ¶vÃ©nyvilÃ¡g szÃ¡mos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
   },
   {
     id: "agriculture-potato-farms-qrendi-extra",
@@ -1784,8 +1784,8 @@ export const poiExtraMaltaOther: POI[] = [
       ro: "Regiunea din jurul Qrendi este unul dintre principalii producÄƒtori de cartofi din Malta, care sunt È™i exportaÈ›i.",
       en: "The region around Qrendi is a major producer of potatoes in Malta, which are also exported."
     },
-    descriptionAdvanced: { de: "", hu: "Plizio tanterv: Földrajz 7. évfolyam. Málta egyéb látnivalói, mint a természetvédelmi területek és kertek, fontos szerepet játszanak a szigetek ökológiai egyensúlyának megorzésében, és remek lehetoséget kínálnak a környezeti nevelésre.", ro: "TODO", en: "" },
-    factsAdvanced: { de: [], hu: ["Málta természeti értékei különösen érzékenyek a turizmus hatásaira.", "A Ghadira-rezervátum fontos állomás a vándormadarak számára.", "A Buskett-kertek az egyetlen nagyobb erdos terület a szigeten.", "A természetvédelmi területek védelme elengedhetetlen a fajok megmaradásához.", "A szigetország száraz éghajlata miatt a vizes élohelyek ritkaságszámba mennek.", "Málta kormánya számos projektet indított a biodiverzitás növelésére.", "A helyi növényvilág számos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
+    descriptionAdvanced: { de: "", hu: "Plizio tanterv: FÃ¶ldrajz 7. Ã©vfolyam. MÃ¡lta egyÃ©b lÃ¡tnivalÃ³i, mint a termÃ©szetvÃ©delmi terÃ¼letek Ã©s kertek, fontos szerepet jÃ¡tszanak a szigetek Ã¶kolÃ³giai egyensÃºlyÃ¡nak megorzÃ©sÃ©ben, Ã©s remek lehetosÃ©get kÃ­nÃ¡lnak a kÃ¶rnyezeti nevelÃ©sre.", ro: "TODO", en: "" },
+    factsAdvanced: { de: [], hu: ["MÃ¡lta termÃ©szeti Ã©rtÃ©kei kÃ¼lÃ¶nÃ¶sen Ã©rzÃ©kenyek a turizmus hatÃ¡saira.", "A Ghadira-rezervÃ¡tum fontos Ã¡llomÃ¡s a vÃ¡ndormadarak szÃ¡mÃ¡ra.", "A Buskett-kertek az egyetlen nagyobb erdos terÃ¼let a szigeten.", "A termÃ©szetvÃ©delmi terÃ¼letek vÃ©delme elengedhetetlen a fajok megmaradÃ¡sÃ¡hoz.", "A szigetorszÃ¡g szÃ¡raz Ã©ghajlata miatt a vizes Ã©lohelyek ritkasÃ¡gszÃ¡mba mennek.", "MÃ¡lta kormÃ¡nya szÃ¡mos projektet indÃ­tott a biodiverzitÃ¡s nÃ¶velÃ©sÃ©re.", "A helyi nÃ¶vÃ©nyvilÃ¡g szÃ¡mos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
   },
   {
     id: "agriculture-mgarr-local-council-farmers-market-extra",
@@ -1804,8 +1804,8 @@ export const poiExtraMaltaOther: POI[] = [
       ro: "O piaÈ›Äƒ localÄƒ mai micÄƒ, care oferÄƒ produse agricole proaspete din regiune.",
       en: "A smaller, local market offering fresh agricultural produce from the region."
     },
-    descriptionAdvanced: { de: "", hu: "Plizio tanterv: Földrajz 7. évfolyam. Málta egyéb látnivalói, mint a természetvédelmi területek és kertek, fontos szerepet játszanak a szigetek ökológiai egyensúlyának megorzésében, és remek lehetoséget kínálnak a környezeti nevelésre.", ro: "TODO", en: "" },
-    factsAdvanced: { de: [], hu: ["Málta természeti értékei különösen érzékenyek a turizmus hatásaira.", "A Ghadira-rezervátum fontos állomás a vándormadarak számára.", "A Buskett-kertek az egyetlen nagyobb erdos terület a szigeten.", "A természetvédelmi területek védelme elengedhetetlen a fajok megmaradásához.", "A szigetország száraz éghajlata miatt a vizes élohelyek ritkaságszámba mennek.", "Málta kormánya számos projektet indított a biodiverzitás növelésére.", "A helyi növényvilág számos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
+    descriptionAdvanced: { de: "", hu: "Plizio tanterv: FÃ¶ldrajz 7. Ã©vfolyam. MÃ¡lta egyÃ©b lÃ¡tnivalÃ³i, mint a termÃ©szetvÃ©delmi terÃ¼letek Ã©s kertek, fontos szerepet jÃ¡tszanak a szigetek Ã¶kolÃ³giai egyensÃºlyÃ¡nak megorzÃ©sÃ©ben, Ã©s remek lehetosÃ©get kÃ­nÃ¡lnak a kÃ¶rnyezeti nevelÃ©sre.", ro: "TODO", en: "" },
+    factsAdvanced: { de: [], hu: ["MÃ¡lta termÃ©szeti Ã©rtÃ©kei kÃ¼lÃ¶nÃ¶sen Ã©rzÃ©kenyek a turizmus hatÃ¡saira.", "A Ghadira-rezervÃ¡tum fontos Ã¡llomÃ¡s a vÃ¡ndormadarak szÃ¡mÃ¡ra.", "A Buskett-kertek az egyetlen nagyobb erdos terÃ¼let a szigeten.", "A termÃ©szetvÃ©delmi terÃ¼letek vÃ©delme elengedhetetlen a fajok megmaradÃ¡sÃ¡hoz.", "A szigetorszÃ¡g szÃ¡raz Ã©ghajlata miatt a vizes Ã©lohelyek ritkasÃ¡gszÃ¡mba mennek.", "MÃ¡lta kormÃ¡nya szÃ¡mos projektet indÃ­tott a biodiverzitÃ¡s nÃ¶velÃ©sÃ©re.", "A helyi nÃ¶vÃ©nyvilÃ¡g szÃ¡mos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
   },
 
   // Industry
@@ -1826,8 +1826,8 @@ export const poiExtraMaltaOther: POI[] = [
       ro: "Una dintre cele mai mari unitÄƒÈ›i de producÈ›ie pentru jucÄƒriile Playmobil la nivel mondial.",
       en: "One of the largest production facilities for Playmobil toys in the world."
     },
-    descriptionAdvanced: { de: "", hu: "Plizio tanterv: Földrajz 7. évfolyam. Málta egyéb látnivalói, mint a természetvédelmi területek és kertek, fontos szerepet játszanak a szigetek ökológiai egyensúlyának megorzésében, és remek lehetoséget kínálnak a környezeti nevelésre.", ro: "TODO", en: "" },
-    factsAdvanced: { de: [], hu: ["Málta természeti értékei különösen érzékenyek a turizmus hatásaira.", "A Ghadira-rezervátum fontos állomás a vándormadarak számára.", "A Buskett-kertek az egyetlen nagyobb erdos terület a szigeten.", "A természetvédelmi területek védelme elengedhetetlen a fajok megmaradásához.", "A szigetország száraz éghajlata miatt a vizes élohelyek ritkaságszámba mennek.", "Málta kormánya számos projektet indított a biodiverzitás növelésére.", "A helyi növényvilág számos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
+    descriptionAdvanced: { de: "", hu: "Plizio tanterv: FÃ¶ldrajz 7. Ã©vfolyam. MÃ¡lta egyÃ©b lÃ¡tnivalÃ³i, mint a termÃ©szetvÃ©delmi terÃ¼letek Ã©s kertek, fontos szerepet jÃ¡tszanak a szigetek Ã¶kolÃ³giai egyensÃºlyÃ¡nak megorzÃ©sÃ©ben, Ã©s remek lehetosÃ©get kÃ­nÃ¡lnak a kÃ¶rnyezeti nevelÃ©sre.", ro: "TODO", en: "" },
+    factsAdvanced: { de: [], hu: ["MÃ¡lta termÃ©szeti Ã©rtÃ©kei kÃ¼lÃ¶nÃ¶sen Ã©rzÃ©kenyek a turizmus hatÃ¡saira.", "A Ghadira-rezervÃ¡tum fontos Ã¡llomÃ¡s a vÃ¡ndormadarak szÃ¡mÃ¡ra.", "A Buskett-kertek az egyetlen nagyobb erdos terÃ¼let a szigeten.", "A termÃ©szetvÃ©delmi terÃ¼letek vÃ©delme elengedhetetlen a fajok megmaradÃ¡sÃ¡hoz.", "A szigetorszÃ¡g szÃ¡raz Ã©ghajlata miatt a vizes Ã©lohelyek ritkasÃ¡gszÃ¡mba mennek.", "MÃ¡lta kormÃ¡nya szÃ¡mos projektet indÃ­tott a biodiverzitÃ¡s nÃ¶velÃ©sÃ©re.", "A helyi nÃ¶vÃ©nyvilÃ¡g szÃ¡mos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
   },
   {
     id: "industry-farsons-brewery-extra",
@@ -1846,8 +1846,8 @@ export const poiExtraMaltaOther: POI[] = [
       ro: "Cel mai mare producÄƒtor de bÄƒuturi din Malta, producÄƒtorul Cisk Lager È™i Kinnie.",
       en: "Malta's largest beverage producer, the maker of Cisk lager and Kinnie."
     },
-    descriptionAdvanced: { de: "", hu: "Plizio tanterv: Földrajz 7. évfolyam. Málta egyéb látnivalói, mint a természetvédelmi területek és kertek, fontos szerepet játszanak a szigetek ökológiai egyensúlyának megorzésében, és remek lehetoséget kínálnak a környezeti nevelésre.", ro: "TODO", en: "" },
-    factsAdvanced: { de: [], hu: ["Málta természeti értékei különösen érzékenyek a turizmus hatásaira.", "A Ghadira-rezervátum fontos állomás a vándormadarak számára.", "A Buskett-kertek az egyetlen nagyobb erdos terület a szigeten.", "A természetvédelmi területek védelme elengedhetetlen a fajok megmaradásához.", "A szigetország száraz éghajlata miatt a vizes élohelyek ritkaságszámba mennek.", "Málta kormánya számos projektet indított a biodiverzitás növelésére.", "A helyi növényvilág számos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
+    descriptionAdvanced: { de: "", hu: "Plizio tanterv: FÃ¶ldrajz 7. Ã©vfolyam. MÃ¡lta egyÃ©b lÃ¡tnivalÃ³i, mint a termÃ©szetvÃ©delmi terÃ¼letek Ã©s kertek, fontos szerepet jÃ¡tszanak a szigetek Ã¶kolÃ³giai egyensÃºlyÃ¡nak megorzÃ©sÃ©ben, Ã©s remek lehetosÃ©get kÃ­nÃ¡lnak a kÃ¶rnyezeti nevelÃ©sre.", ro: "TODO", en: "" },
+    factsAdvanced: { de: [], hu: ["MÃ¡lta termÃ©szeti Ã©rtÃ©kei kÃ¼lÃ¶nÃ¶sen Ã©rzÃ©kenyek a turizmus hatÃ¡saira.", "A Ghadira-rezervÃ¡tum fontos Ã¡llomÃ¡s a vÃ¡ndormadarak szÃ¡mÃ¡ra.", "A Buskett-kertek az egyetlen nagyobb erdos terÃ¼let a szigeten.", "A termÃ©szetvÃ©delmi terÃ¼letek vÃ©delme elengedhetetlen a fajok megmaradÃ¡sÃ¡hoz.", "A szigetorszÃ¡g szÃ¡raz Ã©ghajlata miatt a vizes Ã©lohelyek ritkasÃ¡gszÃ¡mba mennek.", "MÃ¡lta kormÃ¡nya szÃ¡mos projektet indÃ­tott a biodiverzitÃ¡s nÃ¶velÃ©sÃ©re.", "A helyi nÃ¶vÃ©nyvilÃ¡g szÃ¡mos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
   },
   {
     id: "industry-malta-freeport-extra",
@@ -1866,8 +1866,8 @@ export const poiExtraMaltaOther: POI[] = [
       ro: "Unul dintre cele mai importante hub-uri de transbordare din Mediterana.",
       en: "One of the most important transshipment hubs in the Mediterranean."
     },
-    descriptionAdvanced: { de: "", hu: "Plizio tanterv: Földrajz 7. évfolyam. Málta egyéb látnivalói, mint a természetvédelmi területek és kertek, fontos szerepet játszanak a szigetek ökológiai egyensúlyának megorzésében, és remek lehetoséget kínálnak a környezeti nevelésre.", ro: "TODO", en: "" },
-    factsAdvanced: { de: [], hu: ["Málta természeti értékei különösen érzékenyek a turizmus hatásaira.", "A Ghadira-rezervátum fontos állomás a vándormadarak számára.", "A Buskett-kertek az egyetlen nagyobb erdos terület a szigeten.", "A természetvédelmi területek védelme elengedhetetlen a fajok megmaradásához.", "A szigetország száraz éghajlata miatt a vizes élohelyek ritkaságszámba mennek.", "Málta kormánya számos projektet indított a biodiverzitás növelésére.", "A helyi növényvilág számos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
+    descriptionAdvanced: { de: "", hu: "Plizio tanterv: FÃ¶ldrajz 7. Ã©vfolyam. MÃ¡lta egyÃ©b lÃ¡tnivalÃ³i, mint a termÃ©szetvÃ©delmi terÃ¼letek Ã©s kertek, fontos szerepet jÃ¡tszanak a szigetek Ã¶kolÃ³giai egyensÃºlyÃ¡nak megorzÃ©sÃ©ben, Ã©s remek lehetosÃ©get kÃ­nÃ¡lnak a kÃ¶rnyezeti nevelÃ©sre.", ro: "TODO", en: "" },
+    factsAdvanced: { de: [], hu: ["MÃ¡lta termÃ©szeti Ã©rtÃ©kei kÃ¼lÃ¶nÃ¶sen Ã©rzÃ©kenyek a turizmus hatÃ¡saira.", "A Ghadira-rezervÃ¡tum fontos Ã¡llomÃ¡s a vÃ¡ndormadarak szÃ¡mÃ¡ra.", "A Buskett-kertek az egyetlen nagyobb erdos terÃ¼let a szigeten.", "A termÃ©szetvÃ©delmi terÃ¼letek vÃ©delme elengedhetetlen a fajok megmaradÃ¡sÃ¡hoz.", "A szigetorszÃ¡g szÃ¡raz Ã©ghajlata miatt a vizes Ã©lohelyek ritkasÃ¡gszÃ¡mba mennek.", "MÃ¡lta kormÃ¡nya szÃ¡mos projektet indÃ­tott a biodiverzitÃ¡s nÃ¶velÃ©sÃ©re.", "A helyi nÃ¶vÃ©nyvilÃ¡g szÃ¡mos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
   },
   {
     id: "industry-rinella-film-studios-extra",
@@ -1886,8 +1886,8 @@ export const poiExtraMaltaOther: POI[] = [
       ro: "Un studio de film cu rezervoare de apÄƒ, folosit pentru multe producÈ›ii cinematografice internaÈ›ionale.",
       en: "A film studio with water tanks, used for many international film productions."
     },
-    descriptionAdvanced: { de: "", hu: "Plizio tanterv: Földrajz 7. évfolyam. Málta egyéb látnivalói, mint a természetvédelmi területek és kertek, fontos szerepet játszanak a szigetek ökológiai egyensúlyának megorzésében, és remek lehetoséget kínálnak a környezeti nevelésre.", ro: "TODO", en: "" },
-    factsAdvanced: { de: [], hu: ["Málta természeti értékei különösen érzékenyek a turizmus hatásaira.", "A Ghadira-rezervátum fontos állomás a vándormadarak számára.", "A Buskett-kertek az egyetlen nagyobb erdos terület a szigeten.", "A természetvédelmi területek védelme elengedhetetlen a fajok megmaradásához.", "A szigetország száraz éghajlata miatt a vizes élohelyek ritkaságszámba mennek.", "Málta kormánya számos projektet indított a biodiverzitás növelésére.", "A helyi növényvilág számos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
+    descriptionAdvanced: { de: "", hu: "Plizio tanterv: FÃ¶ldrajz 7. Ã©vfolyam. MÃ¡lta egyÃ©b lÃ¡tnivalÃ³i, mint a termÃ©szetvÃ©delmi terÃ¼letek Ã©s kertek, fontos szerepet jÃ¡tszanak a szigetek Ã¶kolÃ³giai egyensÃºlyÃ¡nak megorzÃ©sÃ©ben, Ã©s remek lehetosÃ©get kÃ­nÃ¡lnak a kÃ¶rnyezeti nevelÃ©sre.", ro: "TODO", en: "" },
+    factsAdvanced: { de: [], hu: ["MÃ¡lta termÃ©szeti Ã©rtÃ©kei kÃ¼lÃ¶nÃ¶sen Ã©rzÃ©kenyek a turizmus hatÃ¡saira.", "A Ghadira-rezervÃ¡tum fontos Ã¡llomÃ¡s a vÃ¡ndormadarak szÃ¡mÃ¡ra.", "A Buskett-kertek az egyetlen nagyobb erdos terÃ¼let a szigeten.", "A termÃ©szetvÃ©delmi terÃ¼letek vÃ©delme elengedhetetlen a fajok megmaradÃ¡sÃ¡hoz.", "A szigetorszÃ¡g szÃ¡raz Ã©ghajlata miatt a vizes Ã©lohelyek ritkasÃ¡gszÃ¡mba mennek.", "MÃ¡lta kormÃ¡nya szÃ¡mos projektet indÃ­tott a biodiverzitÃ¡s nÃ¶velÃ©sÃ©re.", "A helyi nÃ¶vÃ©nyvilÃ¡g szÃ¡mos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
   },
   {
     id: "industry-bulebel-industrial-estate-extra",
@@ -1906,8 +1906,8 @@ export const poiExtraMaltaOther: POI[] = [
       ro: "Una dintre cele mai mari zone industriale din Malta, care gÄƒzduieÈ™te numeroase fabrici È™i companii.",
       en: "One of the largest industrial estates in Malta, home to many factories and businesses."
     },
-    descriptionAdvanced: { de: "", hu: "Plizio tanterv: Földrajz 7. évfolyam. Málta egyéb látnivalói, mint a természetvédelmi területek és kertek, fontos szerepet játszanak a szigetek ökológiai egyensúlyának megorzésében, és remek lehetoséget kínálnak a környezeti nevelésre.", ro: "TODO", en: "" },
-    factsAdvanced: { de: [], hu: ["Málta természeti értékei különösen érzékenyek a turizmus hatásaira.", "A Ghadira-rezervátum fontos állomás a vándormadarak számára.", "A Buskett-kertek az egyetlen nagyobb erdos terület a szigeten.", "A természetvédelmi területek védelme elengedhetetlen a fajok megmaradásához.", "A szigetország száraz éghajlata miatt a vizes élohelyek ritkaságszámba mennek.", "Málta kormánya számos projektet indított a biodiverzitás növelésére.", "A helyi növényvilág számos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
+    descriptionAdvanced: { de: "", hu: "Plizio tanterv: FÃ¶ldrajz 7. Ã©vfolyam. MÃ¡lta egyÃ©b lÃ¡tnivalÃ³i, mint a termÃ©szetvÃ©delmi terÃ¼letek Ã©s kertek, fontos szerepet jÃ¡tszanak a szigetek Ã¶kolÃ³giai egyensÃºlyÃ¡nak megorzÃ©sÃ©ben, Ã©s remek lehetosÃ©get kÃ­nÃ¡lnak a kÃ¶rnyezeti nevelÃ©sre.", ro: "TODO", en: "" },
+    factsAdvanced: { de: [], hu: ["MÃ¡lta termÃ©szeti Ã©rtÃ©kei kÃ¼lÃ¶nÃ¶sen Ã©rzÃ©kenyek a turizmus hatÃ¡saira.", "A Ghadira-rezervÃ¡tum fontos Ã¡llomÃ¡s a vÃ¡ndormadarak szÃ¡mÃ¡ra.", "A Buskett-kertek az egyetlen nagyobb erdos terÃ¼let a szigeten.", "A termÃ©szetvÃ©delmi terÃ¼letek vÃ©delme elengedhetetlen a fajok megmaradÃ¡sÃ¡hoz.", "A szigetorszÃ¡g szÃ¡raz Ã©ghajlata miatt a vizes Ã©lohelyek ritkasÃ¡gszÃ¡mba mennek.", "MÃ¡lta kormÃ¡nya szÃ¡mos projektet indÃ­tott a biodiverzitÃ¡s nÃ¶velÃ©sÃ©re.", "A helyi nÃ¶vÃ©nyvilÃ¡g szÃ¡mos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
   },
   {
     id: "industry-hal-far-industrial-estate-extra",
@@ -1926,8 +1926,8 @@ export const poiExtraMaltaOther: POI[] = [
       ro: "O altÄƒ zonÄƒ industrialÄƒ mare lÃ¢ngÄƒ aeroport.",
       en: "Another large industrial estate located near the airport."
     },
-    descriptionAdvanced: { de: "", hu: "Plizio tanterv: Földrajz 7. évfolyam. Málta egyéb látnivalói, mint a természetvédelmi területek és kertek, fontos szerepet játszanak a szigetek ökológiai egyensúlyának megorzésében, és remek lehetoséget kínálnak a környezeti nevelésre.", ro: "TODO", en: "" },
-    factsAdvanced: { de: [], hu: ["Málta természeti értékei különösen érzékenyek a turizmus hatásaira.", "A Ghadira-rezervátum fontos állomás a vándormadarak számára.", "A Buskett-kertek az egyetlen nagyobb erdos terület a szigeten.", "A természetvédelmi területek védelme elengedhetetlen a fajok megmaradásához.", "A szigetország száraz éghajlata miatt a vizes élohelyek ritkaságszámba mennek.", "Málta kormánya számos projektet indított a biodiverzitás növelésére.", "A helyi növényvilág számos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
+    descriptionAdvanced: { de: "", hu: "Plizio tanterv: FÃ¶ldrajz 7. Ã©vfolyam. MÃ¡lta egyÃ©b lÃ¡tnivalÃ³i, mint a termÃ©szetvÃ©delmi terÃ¼letek Ã©s kertek, fontos szerepet jÃ¡tszanak a szigetek Ã¶kolÃ³giai egyensÃºlyÃ¡nak megorzÃ©sÃ©ben, Ã©s remek lehetosÃ©get kÃ­nÃ¡lnak a kÃ¶rnyezeti nevelÃ©sre.", ro: "TODO", en: "" },
+    factsAdvanced: { de: [], hu: ["MÃ¡lta termÃ©szeti Ã©rtÃ©kei kÃ¼lÃ¶nÃ¶sen Ã©rzÃ©kenyek a turizmus hatÃ¡saira.", "A Ghadira-rezervÃ¡tum fontos Ã¡llomÃ¡s a vÃ¡ndormadarak szÃ¡mÃ¡ra.", "A Buskett-kertek az egyetlen nagyobb erdos terÃ¼let a szigeten.", "A termÃ©szetvÃ©delmi terÃ¼letek vÃ©delme elengedhetetlen a fajok megmaradÃ¡sÃ¡hoz.", "A szigetorszÃ¡g szÃ¡raz Ã©ghajlata miatt a vizes Ã©lohelyek ritkasÃ¡gszÃ¡mba mennek.", "MÃ¡lta kormÃ¡nya szÃ¡mos projektet indÃ­tott a biodiverzitÃ¡s nÃ¶velÃ©sÃ©re.", "A helyi nÃ¶vÃ©nyvilÃ¡g szÃ¡mos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
   },
   {
     id: "industry-mosta-technopark-extra",
@@ -1946,8 +1946,8 @@ export const poiExtraMaltaOther: POI[] = [
       ro: "Un parc industrial axat pe companii de tehnologie È™i cunoaÈ™tere.",
       en: "An industrial park focusing on technology and knowledge-based companies."
     },
-    descriptionAdvanced: { de: "", hu: "Plizio tanterv: Földrajz 7. évfolyam. Málta egyéb látnivalói, mint a természetvédelmi területek és kertek, fontos szerepet játszanak a szigetek ökológiai egyensúlyának megorzésében, és remek lehetoséget kínálnak a környezeti nevelésre.", ro: "TODO", en: "" },
-    factsAdvanced: { de: [], hu: ["Málta természeti értékei különösen érzékenyek a turizmus hatásaira.", "A Ghadira-rezervátum fontos állomás a vándormadarak számára.", "A Buskett-kertek az egyetlen nagyobb erdos terület a szigeten.", "A természetvédelmi területek védelme elengedhetetlen a fajok megmaradásához.", "A szigetország száraz éghajlata miatt a vizes élohelyek ritkaságszámba mennek.", "Málta kormánya számos projektet indított a biodiverzitás növelésére.", "A helyi növényvilág számos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
+    descriptionAdvanced: { de: "", hu: "Plizio tanterv: FÃ¶ldrajz 7. Ã©vfolyam. MÃ¡lta egyÃ©b lÃ¡tnivalÃ³i, mint a termÃ©szetvÃ©delmi terÃ¼letek Ã©s kertek, fontos szerepet jÃ¡tszanak a szigetek Ã¶kolÃ³giai egyensÃºlyÃ¡nak megorzÃ©sÃ©ben, Ã©s remek lehetosÃ©get kÃ­nÃ¡lnak a kÃ¶rnyezeti nevelÃ©sre.", ro: "TODO", en: "" },
+    factsAdvanced: { de: [], hu: ["MÃ¡lta termÃ©szeti Ã©rtÃ©kei kÃ¼lÃ¶nÃ¶sen Ã©rzÃ©kenyek a turizmus hatÃ¡saira.", "A Ghadira-rezervÃ¡tum fontos Ã¡llomÃ¡s a vÃ¡ndormadarak szÃ¡mÃ¡ra.", "A Buskett-kertek az egyetlen nagyobb erdos terÃ¼let a szigeten.", "A termÃ©szetvÃ©delmi terÃ¼letek vÃ©delme elengedhetetlen a fajok megmaradÃ¡sÃ¡hoz.", "A szigetorszÃ¡g szÃ¡raz Ã©ghajlata miatt a vizes Ã©lohelyek ritkasÃ¡gszÃ¡mba mennek.", "MÃ¡lta kormÃ¡nya szÃ¡mos projektet indÃ­tott a biodiverzitÃ¡s nÃ¶velÃ©sÃ©re.", "A helyi nÃ¶vÃ©nyvilÃ¡g szÃ¡mos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
   },
   {
     id: "industry-lufthansa-technik-malta-extra",
@@ -1966,8 +1966,8 @@ export const poiExtraMaltaOther: POI[] = [
       ro: "Un centru important pentru Ã®ntreÈ›inerea, repararea È™i revizia aeronavelor.",
       en: "A major aircraft maintenance, repair, and overhaul (MRO) facility."
     },
-    descriptionAdvanced: { de: "", hu: "Plizio tanterv: Földrajz 7. évfolyam. Málta egyéb látnivalói, mint a természetvédelmi területek és kertek, fontos szerepet játszanak a szigetek ökológiai egyensúlyának megorzésében, és remek lehetoséget kínálnak a környezeti nevelésre.", ro: "TODO", en: "" },
-    factsAdvanced: { de: [], hu: ["Málta természeti értékei különösen érzékenyek a turizmus hatásaira.", "A Ghadira-rezervátum fontos állomás a vándormadarak számára.", "A Buskett-kertek az egyetlen nagyobb erdos terület a szigeten.", "A természetvédelmi területek védelme elengedhetetlen a fajok megmaradásához.", "A szigetország száraz éghajlata miatt a vizes élohelyek ritkaságszámba mennek.", "Málta kormánya számos projektet indított a biodiverzitás növelésére.", "A helyi növényvilág számos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
+    descriptionAdvanced: { de: "", hu: "Plizio tanterv: FÃ¶ldrajz 7. Ã©vfolyam. MÃ¡lta egyÃ©b lÃ¡tnivalÃ³i, mint a termÃ©szetvÃ©delmi terÃ¼letek Ã©s kertek, fontos szerepet jÃ¡tszanak a szigetek Ã¶kolÃ³giai egyensÃºlyÃ¡nak megorzÃ©sÃ©ben, Ã©s remek lehetosÃ©get kÃ­nÃ¡lnak a kÃ¶rnyezeti nevelÃ©sre.", ro: "TODO", en: "" },
+    factsAdvanced: { de: [], hu: ["MÃ¡lta termÃ©szeti Ã©rtÃ©kei kÃ¼lÃ¶nÃ¶sen Ã©rzÃ©kenyek a turizmus hatÃ¡saira.", "A Ghadira-rezervÃ¡tum fontos Ã¡llomÃ¡s a vÃ¡ndormadarak szÃ¡mÃ¡ra.", "A Buskett-kertek az egyetlen nagyobb erdos terÃ¼let a szigeten.", "A termÃ©szetvÃ©delmi terÃ¼letek vÃ©delme elengedhetetlen a fajok megmaradÃ¡sÃ¡hoz.", "A szigetorszÃ¡g szÃ¡raz Ã©ghajlata miatt a vizes Ã©lohelyek ritkasÃ¡gszÃ¡mba mennek.", "MÃ¡lta kormÃ¡nya szÃ¡mos projektet indÃ­tott a biodiverzitÃ¡s nÃ¶velÃ©sÃ©re.", "A helyi nÃ¶vÃ©nyvilÃ¡g szÃ¡mos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
   },
   {
     id: "industry-xewkija-industrial-estate-gozo-extra",
@@ -1986,8 +1986,8 @@ export const poiExtraMaltaOther: POI[] = [
       ro: "Principala zonÄƒ industrialÄƒ de pe insula Gozo.",
       en: "The main industrial estate on the island of Gozo."
     },
-    descriptionAdvanced: { de: "", hu: "Plizio tanterv: Földrajz 7. évfolyam. Málta egyéb látnivalói, mint a természetvédelmi területek és kertek, fontos szerepet játszanak a szigetek ökológiai egyensúlyának megorzésében, és remek lehetoséget kínálnak a környezeti nevelésre.", ro: "TODO", en: "" },
-    factsAdvanced: { de: [], hu: ["Málta természeti értékei különösen érzékenyek a turizmus hatásaira.", "A Ghadira-rezervátum fontos állomás a vándormadarak számára.", "A Buskett-kertek az egyetlen nagyobb erdos terület a szigeten.", "A természetvédelmi területek védelme elengedhetetlen a fajok megmaradásához.", "A szigetország száraz éghajlata miatt a vizes élohelyek ritkaságszámba mennek.", "Málta kormánya számos projektet indított a biodiverzitás növelésére.", "A helyi növényvilág számos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
+    descriptionAdvanced: { de: "", hu: "Plizio tanterv: FÃ¶ldrajz 7. Ã©vfolyam. MÃ¡lta egyÃ©b lÃ¡tnivalÃ³i, mint a termÃ©szetvÃ©delmi terÃ¼letek Ã©s kertek, fontos szerepet jÃ¡tszanak a szigetek Ã¶kolÃ³giai egyensÃºlyÃ¡nak megorzÃ©sÃ©ben, Ã©s remek lehetosÃ©get kÃ­nÃ¡lnak a kÃ¶rnyezeti nevelÃ©sre.", ro: "TODO", en: "" },
+    factsAdvanced: { de: [], hu: ["MÃ¡lta termÃ©szeti Ã©rtÃ©kei kÃ¼lÃ¶nÃ¶sen Ã©rzÃ©kenyek a turizmus hatÃ¡saira.", "A Ghadira-rezervÃ¡tum fontos Ã¡llomÃ¡s a vÃ¡ndormadarak szÃ¡mÃ¡ra.", "A Buskett-kertek az egyetlen nagyobb erdos terÃ¼let a szigeten.", "A termÃ©szetvÃ©delmi terÃ¼letek vÃ©delme elengedhetetlen a fajok megmaradÃ¡sÃ¡hoz.", "A szigetorszÃ¡g szÃ¡raz Ã©ghajlata miatt a vizes Ã©lohelyek ritkasÃ¡gszÃ¡mba mennek.", "MÃ¡lta kormÃ¡nya szÃ¡mos projektet indÃ­tott a biodiverzitÃ¡s nÃ¶velÃ©sÃ©re.", "A helyi nÃ¶vÃ©nyvilÃ¡g szÃ¡mos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
   },
   {
     id: "industry-delimara-power-station-extra",
@@ -2006,8 +2006,8 @@ export const poiExtraMaltaOther: POI[] = [
       ro: "Principala centralÄƒ electricÄƒ din Malta, care genereazÄƒ o mare parte din electricitatea insulei.",
       en: "Malta's main power station, generating a large portion of the island's electricity."
     },
-    descriptionAdvanced: { de: "", hu: "Plizio tanterv: Földrajz 7. évfolyam. Málta egyéb látnivalói, mint a természetvédelmi területek és kertek, fontos szerepet játszanak a szigetek ökológiai egyensúlyának megorzésében, és remek lehetoséget kínálnak a környezeti nevelésre.", ro: "TODO", en: "" },
-    factsAdvanced: { de: [], hu: ["Málta természeti értékei különösen érzékenyek a turizmus hatásaira.", "A Ghadira-rezervátum fontos állomás a vándormadarak számára.", "A Buskett-kertek az egyetlen nagyobb erdos terület a szigeten.", "A természetvédelmi területek védelme elengedhetetlen a fajok megmaradásához.", "A szigetország száraz éghajlata miatt a vizes élohelyek ritkaságszámba mennek.", "Málta kormánya számos projektet indított a biodiverzitás növelésére.", "A helyi növényvilág számos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
+    descriptionAdvanced: { de: "", hu: "Plizio tanterv: FÃ¶ldrajz 7. Ã©vfolyam. MÃ¡lta egyÃ©b lÃ¡tnivalÃ³i, mint a termÃ©szetvÃ©delmi terÃ¼letek Ã©s kertek, fontos szerepet jÃ¡tszanak a szigetek Ã¶kolÃ³giai egyensÃºlyÃ¡nak megorzÃ©sÃ©ben, Ã©s remek lehetosÃ©get kÃ­nÃ¡lnak a kÃ¶rnyezeti nevelÃ©sre.", ro: "TODO", en: "" },
+    factsAdvanced: { de: [], hu: ["MÃ¡lta termÃ©szeti Ã©rtÃ©kei kÃ¼lÃ¶nÃ¶sen Ã©rzÃ©kenyek a turizmus hatÃ¡saira.", "A Ghadira-rezervÃ¡tum fontos Ã¡llomÃ¡s a vÃ¡ndormadarak szÃ¡mÃ¡ra.", "A Buskett-kertek az egyetlen nagyobb erdos terÃ¼let a szigeten.", "A termÃ©szetvÃ©delmi terÃ¼letek vÃ©delme elengedhetetlen a fajok megmaradÃ¡sÃ¡hoz.", "A szigetorszÃ¡g szÃ¡raz Ã©ghajlata miatt a vizes Ã©lohelyek ritkasÃ¡gszÃ¡mba mennek.", "MÃ¡lta kormÃ¡nya szÃ¡mos projektet indÃ­tott a biodiverzitÃ¡s nÃ¶velÃ©sÃ©re.", "A helyi nÃ¶vÃ©nyvilÃ¡g szÃ¡mos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
   },
   {
     id: "industry-water-services-corporation-pembroke-extra",
@@ -2026,8 +2026,8 @@ export const poiExtraMaltaOther: POI[] = [
       ro: "O mare instalaÈ›ie de osmozÄƒ inversÄƒ care transformÄƒ apa de mare Ã®n apÄƒ potabilÄƒ.",
       en: "A major reverse osmosis plant that converts seawater into drinking water."
     },
-    descriptionAdvanced: { de: "", hu: "Plizio tanterv: Földrajz 7. évfolyam. Málta egyéb látnivalói, mint a természetvédelmi területek és kertek, fontos szerepet játszanak a szigetek ökológiai egyensúlyának megorzésében, és remek lehetoséget kínálnak a környezeti nevelésre.", ro: "TODO", en: "" },
-    factsAdvanced: { de: [], hu: ["Málta természeti értékei különösen érzékenyek a turizmus hatásaira.", "A Ghadira-rezervátum fontos állomás a vándormadarak számára.", "A Buskett-kertek az egyetlen nagyobb erdos terület a szigeten.", "A természetvédelmi területek védelme elengedhetetlen a fajok megmaradásához.", "A szigetország száraz éghajlata miatt a vizes élohelyek ritkaságszámba mennek.", "Málta kormánya számos projektet indított a biodiverzitás növelésére.", "A helyi növényvilág számos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
+    descriptionAdvanced: { de: "", hu: "Plizio tanterv: FÃ¶ldrajz 7. Ã©vfolyam. MÃ¡lta egyÃ©b lÃ¡tnivalÃ³i, mint a termÃ©szetvÃ©delmi terÃ¼letek Ã©s kertek, fontos szerepet jÃ¡tszanak a szigetek Ã¶kolÃ³giai egyensÃºlyÃ¡nak megorzÃ©sÃ©ben, Ã©s remek lehetosÃ©get kÃ­nÃ¡lnak a kÃ¶rnyezeti nevelÃ©sre.", ro: "TODO", en: "" },
+    factsAdvanced: { de: [], hu: ["MÃ¡lta termÃ©szeti Ã©rtÃ©kei kÃ¼lÃ¶nÃ¶sen Ã©rzÃ©kenyek a turizmus hatÃ¡saira.", "A Ghadira-rezervÃ¡tum fontos Ã¡llomÃ¡s a vÃ¡ndormadarak szÃ¡mÃ¡ra.", "A Buskett-kertek az egyetlen nagyobb erdos terÃ¼let a szigeten.", "A termÃ©szetvÃ©delmi terÃ¼letek vÃ©delme elengedhetetlen a fajok megmaradÃ¡sÃ¡hoz.", "A szigetorszÃ¡g szÃ¡raz Ã©ghajlata miatt a vizes Ã©lohelyek ritkasÃ¡gszÃ¡mba mennek.", "MÃ¡lta kormÃ¡nya szÃ¡mos projektet indÃ­tott a biodiverzitÃ¡s nÃ¶velÃ©sÃ©re.", "A helyi nÃ¶vÃ©nyvilÃ¡g szÃ¡mos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
   },
   {
     id: "industry-malta-shipyards-site-extra",
@@ -2046,8 +2046,8 @@ export const poiExtraMaltaOther: POI[] = [
       ro: "È˜antierele navale istorice din Grand Harbour, acum folosite pentru reparaÈ›ii navale.",
       en: "The historic dockyards in the Grand Harbour, now used for ship repair."
     },
-    descriptionAdvanced: { de: "", hu: "Plizio tanterv: Földrajz 7. évfolyam. Málta egyéb látnivalói, mint a természetvédelmi területek és kertek, fontos szerepet játszanak a szigetek ökológiai egyensúlyának megorzésében, és remek lehetoséget kínálnak a környezeti nevelésre.", ro: "TODO", en: "" },
-    factsAdvanced: { de: [], hu: ["Málta természeti értékei különösen érzékenyek a turizmus hatásaira.", "A Ghadira-rezervátum fontos állomás a vándormadarak számára.", "A Buskett-kertek az egyetlen nagyobb erdos terület a szigeten.", "A természetvédelmi területek védelme elengedhetetlen a fajok megmaradásához.", "A szigetország száraz éghajlata miatt a vizes élohelyek ritkaságszámba mennek.", "Málta kormánya számos projektet indított a biodiverzitás növelésére.", "A helyi növényvilág számos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
+    descriptionAdvanced: { de: "", hu: "Plizio tanterv: FÃ¶ldrajz 7. Ã©vfolyam. MÃ¡lta egyÃ©b lÃ¡tnivalÃ³i, mint a termÃ©szetvÃ©delmi terÃ¼letek Ã©s kertek, fontos szerepet jÃ¡tszanak a szigetek Ã¶kolÃ³giai egyensÃºlyÃ¡nak megorzÃ©sÃ©ben, Ã©s remek lehetosÃ©get kÃ­nÃ¡lnak a kÃ¶rnyezeti nevelÃ©sre.", ro: "TODO", en: "" },
+    factsAdvanced: { de: [], hu: ["MÃ¡lta termÃ©szeti Ã©rtÃ©kei kÃ¼lÃ¶nÃ¶sen Ã©rzÃ©kenyek a turizmus hatÃ¡saira.", "A Ghadira-rezervÃ¡tum fontos Ã¡llomÃ¡s a vÃ¡ndormadarak szÃ¡mÃ¡ra.", "A Buskett-kertek az egyetlen nagyobb erdos terÃ¼let a szigeten.", "A termÃ©szetvÃ©delmi terÃ¼letek vÃ©delme elengedhetetlen a fajok megmaradÃ¡sÃ¡hoz.", "A szigetorszÃ¡g szÃ¡raz Ã©ghajlata miatt a vizes Ã©lohelyek ritkasÃ¡gszÃ¡mba mennek.", "MÃ¡lta kormÃ¡nya szÃ¡mos projektet indÃ­tott a biodiverzitÃ¡s nÃ¶velÃ©sÃ©re.", "A helyi nÃ¶vÃ©nyvilÃ¡g szÃ¡mos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
   },
   {
     id: "industry-smartcity-malta-extra",
@@ -2066,8 +2066,8 @@ export const poiExtraMaltaOther: POI[] = [
       ro: "Un parc tehnologic conceput ca un hub pentru companiile din domeniul TIC È™i media.",
       en: "A technology park designed to be a hub for ICT and media companies."
     },
-    descriptionAdvanced: { de: "", hu: "Plizio tanterv: Földrajz 7. évfolyam. Málta egyéb látnivalói, mint a természetvédelmi területek és kertek, fontos szerepet játszanak a szigetek ökológiai egyensúlyának megorzésében, és remek lehetoséget kínálnak a környezeti nevelésre.", ro: "TODO", en: "" },
-    factsAdvanced: { de: [], hu: ["Málta természeti értékei különösen érzékenyek a turizmus hatásaira.", "A Ghadira-rezervátum fontos állomás a vándormadarak számára.", "A Buskett-kertek az egyetlen nagyobb erdos terület a szigeten.", "A természetvédelmi területek védelme elengedhetetlen a fajok megmaradásához.", "A szigetország száraz éghajlata miatt a vizes élohelyek ritkaságszámba mennek.", "Málta kormánya számos projektet indított a biodiverzitás növelésére.", "A helyi növényvilág számos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
+    descriptionAdvanced: { de: "", hu: "Plizio tanterv: FÃ¶ldrajz 7. Ã©vfolyam. MÃ¡lta egyÃ©b lÃ¡tnivalÃ³i, mint a termÃ©szetvÃ©delmi terÃ¼letek Ã©s kertek, fontos szerepet jÃ¡tszanak a szigetek Ã¶kolÃ³giai egyensÃºlyÃ¡nak megorzÃ©sÃ©ben, Ã©s remek lehetosÃ©get kÃ­nÃ¡lnak a kÃ¶rnyezeti nevelÃ©sre.", ro: "TODO", en: "" },
+    factsAdvanced: { de: [], hu: ["MÃ¡lta termÃ©szeti Ã©rtÃ©kei kÃ¼lÃ¶nÃ¶sen Ã©rzÃ©kenyek a turizmus hatÃ¡saira.", "A Ghadira-rezervÃ¡tum fontos Ã¡llomÃ¡s a vÃ¡ndormadarak szÃ¡mÃ¡ra.", "A Buskett-kertek az egyetlen nagyobb erdos terÃ¼let a szigeten.", "A termÃ©szetvÃ©delmi terÃ¼letek vÃ©delme elengedhetetlen a fajok megmaradÃ¡sÃ¡hoz.", "A szigetorszÃ¡g szÃ¡raz Ã©ghajlata miatt a vizes Ã©lohelyek ritkasÃ¡gszÃ¡mba mennek.", "MÃ¡lta kormÃ¡nya szÃ¡mos projektet indÃ­tott a biodiverzitÃ¡s nÃ¶velÃ©sÃ©re.", "A helyi nÃ¶vÃ©nyvilÃ¡g szÃ¡mos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
   },
   {
     id: "industry-kirkop-industrial-area-extra",
@@ -2086,8 +2086,8 @@ export const poiExtraMaltaOther: POI[] = [
       ro: "O zonÄƒ industrialÄƒ care gÄƒzduieÈ™te fabrica STMicroelectronics.",
       en: "An industrial area hosting the STMicroelectronics factory."
     },
-    descriptionAdvanced: { de: "", hu: "Plizio tanterv: Földrajz 7. évfolyam. Málta egyéb látnivalói, mint a természetvédelmi területek és kertek, fontos szerepet játszanak a szigetek ökológiai egyensúlyának megorzésében, és remek lehetoséget kínálnak a környezeti nevelésre.", ro: "TODO", en: "" },
-    factsAdvanced: { de: [], hu: ["Málta természeti értékei különösen érzékenyek a turizmus hatásaira.", "A Ghadira-rezervátum fontos állomás a vándormadarak számára.", "A Buskett-kertek az egyetlen nagyobb erdos terület a szigeten.", "A természetvédelmi területek védelme elengedhetetlen a fajok megmaradásához.", "A szigetország száraz éghajlata miatt a vizes élohelyek ritkaságszámba mennek.", "Málta kormánya számos projektet indított a biodiverzitás növelésére.", "A helyi növényvilág számos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
+    descriptionAdvanced: { de: "", hu: "Plizio tanterv: FÃ¶ldrajz 7. Ã©vfolyam. MÃ¡lta egyÃ©b lÃ¡tnivalÃ³i, mint a termÃ©szetvÃ©delmi terÃ¼letek Ã©s kertek, fontos szerepet jÃ¡tszanak a szigetek Ã¶kolÃ³giai egyensÃºlyÃ¡nak megorzÃ©sÃ©ben, Ã©s remek lehetosÃ©get kÃ­nÃ¡lnak a kÃ¶rnyezeti nevelÃ©sre.", ro: "TODO", en: "" },
+    factsAdvanced: { de: [], hu: ["MÃ¡lta termÃ©szeti Ã©rtÃ©kei kÃ¼lÃ¶nÃ¶sen Ã©rzÃ©kenyek a turizmus hatÃ¡saira.", "A Ghadira-rezervÃ¡tum fontos Ã¡llomÃ¡s a vÃ¡ndormadarak szÃ¡mÃ¡ra.", "A Buskett-kertek az egyetlen nagyobb erdos terÃ¼let a szigeten.", "A termÃ©szetvÃ©delmi terÃ¼letek vÃ©delme elengedhetetlen a fajok megmaradÃ¡sÃ¡hoz.", "A szigetorszÃ¡g szÃ¡raz Ã©ghajlata miatt a vizes Ã©lohelyek ritkasÃ¡gszÃ¡mba mennek.", "MÃ¡lta kormÃ¡nya szÃ¡mos projektet indÃ­tott a biodiverzitÃ¡s nÃ¶velÃ©sÃ©re.", "A helyi nÃ¶vÃ©nyvilÃ¡g szÃ¡mos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
   },
   {
     id: "industry-stmicroelectronics-malta-ltd-extra",
@@ -2106,8 +2106,8 @@ export const poiExtraMaltaOther: POI[] = [
       ro: "Un producÄƒtor major de semiconductori È™i un exportator semnificativ pentru Malta.",
       en: "A major manufacturer of semiconductors and a significant exporter for Malta."
     },
-    descriptionAdvanced: { de: "", hu: "Plizio tanterv: Földrajz 7. évfolyam. Málta egyéb látnivalói, mint a természetvédelmi területek és kertek, fontos szerepet játszanak a szigetek ökológiai egyensúlyának megorzésében, és remek lehetoséget kínálnak a környezeti nevelésre.", ro: "TODO", en: "" },
-    factsAdvanced: { de: [], hu: ["Málta természeti értékei különösen érzékenyek a turizmus hatásaira.", "A Ghadira-rezervátum fontos állomás a vándormadarak számára.", "A Buskett-kertek az egyetlen nagyobb erdos terület a szigeten.", "A természetvédelmi területek védelme elengedhetetlen a fajok megmaradásához.", "A szigetország száraz éghajlata miatt a vizes élohelyek ritkaságszámba mennek.", "Málta kormánya számos projektet indított a biodiverzitás növelésére.", "A helyi növényvilág számos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
+    descriptionAdvanced: { de: "", hu: "Plizio tanterv: FÃ¶ldrajz 7. Ã©vfolyam. MÃ¡lta egyÃ©b lÃ¡tnivalÃ³i, mint a termÃ©szetvÃ©delmi terÃ¼letek Ã©s kertek, fontos szerepet jÃ¡tszanak a szigetek Ã¶kolÃ³giai egyensÃºlyÃ¡nak megorzÃ©sÃ©ben, Ã©s remek lehetosÃ©get kÃ­nÃ¡lnak a kÃ¶rnyezeti nevelÃ©sre.", ro: "TODO", en: "" },
+    factsAdvanced: { de: [], hu: ["MÃ¡lta termÃ©szeti Ã©rtÃ©kei kÃ¼lÃ¶nÃ¶sen Ã©rzÃ©kenyek a turizmus hatÃ¡saira.", "A Ghadira-rezervÃ¡tum fontos Ã¡llomÃ¡s a vÃ¡ndormadarak szÃ¡mÃ¡ra.", "A Buskett-kertek az egyetlen nagyobb erdos terÃ¼let a szigeten.", "A termÃ©szetvÃ©delmi terÃ¼letek vÃ©delme elengedhetetlen a fajok megmaradÃ¡sÃ¡hoz.", "A szigetorszÃ¡g szÃ¡raz Ã©ghajlata miatt a vizes Ã©lohelyek ritkasÃ¡gszÃ¡mba mennek.", "MÃ¡lta kormÃ¡nya szÃ¡mos projektet indÃ­tott a biodiverzitÃ¡s nÃ¶velÃ©sÃ©re.", "A helyi nÃ¶vÃ©nyvilÃ¡g szÃ¡mos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
   },
   {
     id: "industry-quarrying-industry-siggiewi-extra",
@@ -2126,8 +2126,8 @@ export const poiExtraMaltaOther: POI[] = [
       ro: "Zona din jurul Siggiewi È™i Qrendi este centrul industriei de carierÄƒ a calcarului din Malta.",
       en: "The area around Siggiewi and Qrendi is the center of Malta's limestone quarrying industry."
     },
-    descriptionAdvanced: { de: "", hu: "Plizio tanterv: Földrajz 7. évfolyam. Málta egyéb látnivalói, mint a természetvédelmi területek és kertek, fontos szerepet játszanak a szigetek ökológiai egyensúlyának megorzésében, és remek lehetoséget kínálnak a környezeti nevelésre.", ro: "TODO", en: "" },
-    factsAdvanced: { de: [], hu: ["Málta természeti értékei különösen érzékenyek a turizmus hatásaira.", "A Ghadira-rezervátum fontos állomás a vándormadarak számára.", "A Buskett-kertek az egyetlen nagyobb erdos terület a szigeten.", "A természetvédelmi területek védelme elengedhetetlen a fajok megmaradásához.", "A szigetország száraz éghajlata miatt a vizes élohelyek ritkaságszámba mennek.", "Málta kormánya számos projektet indított a biodiverzitás növelésére.", "A helyi növényvilág számos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
+    descriptionAdvanced: { de: "", hu: "Plizio tanterv: FÃ¶ldrajz 7. Ã©vfolyam. MÃ¡lta egyÃ©b lÃ¡tnivalÃ³i, mint a termÃ©szetvÃ©delmi terÃ¼letek Ã©s kertek, fontos szerepet jÃ¡tszanak a szigetek Ã¶kolÃ³giai egyensÃºlyÃ¡nak megorzÃ©sÃ©ben, Ã©s remek lehetosÃ©get kÃ­nÃ¡lnak a kÃ¶rnyezeti nevelÃ©sre.", ro: "TODO", en: "" },
+    factsAdvanced: { de: [], hu: ["MÃ¡lta termÃ©szeti Ã©rtÃ©kei kÃ¼lÃ¶nÃ¶sen Ã©rzÃ©kenyek a turizmus hatÃ¡saira.", "A Ghadira-rezervÃ¡tum fontos Ã¡llomÃ¡s a vÃ¡ndormadarak szÃ¡mÃ¡ra.", "A Buskett-kertek az egyetlen nagyobb erdos terÃ¼let a szigeten.", "A termÃ©szetvÃ©delmi terÃ¼letek vÃ©delme elengedhetetlen a fajok megmaradÃ¡sÃ¡hoz.", "A szigetorszÃ¡g szÃ¡raz Ã©ghajlata miatt a vizes Ã©lohelyek ritkasÃ¡gszÃ¡mba mennek.", "MÃ¡lta kormÃ¡nya szÃ¡mos projektet indÃ­tott a biodiverzitÃ¡s nÃ¶velÃ©sÃ©re.", "A helyi nÃ¶vÃ©nyvilÃ¡g szÃ¡mos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
   },
   {
     id: "industry-malta-dairy-products-extra",
@@ -2146,8 +2146,8 @@ export const poiExtraMaltaOther: POI[] = [
       ro: "Principalul producÄƒtor de lapte È™i produse lactate din Malta, cunoscut pentru marca Benna.",
       en: "The main producer of milk and dairy products in Malta, known for the Benna brand."
     },
-    descriptionAdvanced: { de: "", hu: "Plizio tanterv: Földrajz 7. évfolyam. Málta egyéb látnivalói, mint a természetvédelmi területek és kertek, fontos szerepet játszanak a szigetek ökológiai egyensúlyának megorzésében, és remek lehetoséget kínálnak a környezeti nevelésre.", ro: "TODO", en: "" },
-    factsAdvanced: { de: [], hu: ["Málta természeti értékei különösen érzékenyek a turizmus hatásaira.", "A Ghadira-rezervátum fontos állomás a vándormadarak számára.", "A Buskett-kertek az egyetlen nagyobb erdos terület a szigeten.", "A természetvédelmi területek védelme elengedhetetlen a fajok megmaradásához.", "A szigetország száraz éghajlata miatt a vizes élohelyek ritkaságszámba mennek.", "Málta kormánya számos projektet indított a biodiverzitás növelésére.", "A helyi növényvilág számos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
+    descriptionAdvanced: { de: "", hu: "Plizio tanterv: FÃ¶ldrajz 7. Ã©vfolyam. MÃ¡lta egyÃ©b lÃ¡tnivalÃ³i, mint a termÃ©szetvÃ©delmi terÃ¼letek Ã©s kertek, fontos szerepet jÃ¡tszanak a szigetek Ã¶kolÃ³giai egyensÃºlyÃ¡nak megorzÃ©sÃ©ben, Ã©s remek lehetosÃ©get kÃ­nÃ¡lnak a kÃ¶rnyezeti nevelÃ©sre.", ro: "TODO", en: "" },
+    factsAdvanced: { de: [], hu: ["MÃ¡lta termÃ©szeti Ã©rtÃ©kei kÃ¼lÃ¶nÃ¶sen Ã©rzÃ©kenyek a turizmus hatÃ¡saira.", "A Ghadira-rezervÃ¡tum fontos Ã¡llomÃ¡s a vÃ¡ndormadarak szÃ¡mÃ¡ra.", "A Buskett-kertek az egyetlen nagyobb erdos terÃ¼let a szigeten.", "A termÃ©szetvÃ©delmi terÃ¼letek vÃ©delme elengedhetetlen a fajok megmaradÃ¡sÃ¡hoz.", "A szigetorszÃ¡g szÃ¡raz Ã©ghajlata miatt a vizes Ã©lohelyek ritkasÃ¡gszÃ¡mba mennek.", "MÃ¡lta kormÃ¡nya szÃ¡mos projektet indÃ­tott a biodiverzitÃ¡s nÃ¶velÃ©sÃ©re.", "A helyi nÃ¶vÃ©nyvilÃ¡g szÃ¡mos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
   },
   {
     id: "industry-foster-clark-products-ltd-extra",
@@ -2166,8 +2166,8 @@ export const poiExtraMaltaOther: POI[] = [
       ro: "O companie de alimente È™i bÄƒuturi care produce o gamÄƒ largÄƒ de produse pentru export.",
       en: "A food and beverage company that produces a wide range of products for export."
     },
-    descriptionAdvanced: { de: "", hu: "Plizio tanterv: Földrajz 7. évfolyam. Málta egyéb látnivalói, mint a természetvédelmi területek és kertek, fontos szerepet játszanak a szigetek ökológiai egyensúlyának megorzésében, és remek lehetoséget kínálnak a környezeti nevelésre.", ro: "TODO", en: "" },
-    factsAdvanced: { de: [], hu: ["Málta természeti értékei különösen érzékenyek a turizmus hatásaira.", "A Ghadira-rezervátum fontos állomás a vándormadarak számára.", "A Buskett-kertek az egyetlen nagyobb erdos terület a szigeten.", "A természetvédelmi területek védelme elengedhetetlen a fajok megmaradásához.", "A szigetország száraz éghajlata miatt a vizes élohelyek ritkaságszámba mennek.", "Málta kormánya számos projektet indított a biodiverzitás növelésére.", "A helyi növényvilág számos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
+    descriptionAdvanced: { de: "", hu: "Plizio tanterv: FÃ¶ldrajz 7. Ã©vfolyam. MÃ¡lta egyÃ©b lÃ¡tnivalÃ³i, mint a termÃ©szetvÃ©delmi terÃ¼letek Ã©s kertek, fontos szerepet jÃ¡tszanak a szigetek Ã¶kolÃ³giai egyensÃºlyÃ¡nak megorzÃ©sÃ©ben, Ã©s remek lehetosÃ©get kÃ­nÃ¡lnak a kÃ¶rnyezeti nevelÃ©sre.", ro: "TODO", en: "" },
+    factsAdvanced: { de: [], hu: ["MÃ¡lta termÃ©szeti Ã©rtÃ©kei kÃ¼lÃ¶nÃ¶sen Ã©rzÃ©kenyek a turizmus hatÃ¡saira.", "A Ghadira-rezervÃ¡tum fontos Ã¡llomÃ¡s a vÃ¡ndormadarak szÃ¡mÃ¡ra.", "A Buskett-kertek az egyetlen nagyobb erdos terÃ¼let a szigeten.", "A termÃ©szetvÃ©delmi terÃ¼letek vÃ©delme elengedhetetlen a fajok megmaradÃ¡sÃ¡hoz.", "A szigetorszÃ¡g szÃ¡raz Ã©ghajlata miatt a vizes Ã©lohelyek ritkasÃ¡gszÃ¡mba mennek.", "MÃ¡lta kormÃ¡nya szÃ¡mos projektet indÃ­tott a biodiverzitÃ¡s nÃ¶velÃ©sÃ©re.", "A helyi nÃ¶vÃ©nyvilÃ¡g szÃ¡mos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
   },
   {
     id: "industry-toly-products-extra",
@@ -2186,8 +2186,8 @@ export const poiExtraMaltaOther: POI[] = [
       ro: "Un producÄƒtor de frunte de ambalaje de lux pentru industria cosmeticÄƒ.",
       en: "A leading manufacturer of luxury packaging for the cosmetics industry."
     },
-    descriptionAdvanced: { de: "", hu: "Plizio tanterv: Földrajz 7. évfolyam. Málta egyéb látnivalói, mint a természetvédelmi területek és kertek, fontos szerepet játszanak a szigetek ökológiai egyensúlyának megorzésében, és remek lehetoséget kínálnak a környezeti nevelésre.", ro: "TODO", en: "" },
-    factsAdvanced: { de: [], hu: ["Málta természeti értékei különösen érzékenyek a turizmus hatásaira.", "A Ghadira-rezervátum fontos állomás a vándormadarak számára.", "A Buskett-kertek az egyetlen nagyobb erdos terület a szigeten.", "A természetvédelmi területek védelme elengedhetetlen a fajok megmaradásához.", "A szigetország száraz éghajlata miatt a vizes élohelyek ritkaságszámba mennek.", "Málta kormánya számos projektet indított a biodiverzitás növelésére.", "A helyi növényvilág számos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
+    descriptionAdvanced: { de: "", hu: "Plizio tanterv: FÃ¶ldrajz 7. Ã©vfolyam. MÃ¡lta egyÃ©b lÃ¡tnivalÃ³i, mint a termÃ©szetvÃ©delmi terÃ¼letek Ã©s kertek, fontos szerepet jÃ¡tszanak a szigetek Ã¶kolÃ³giai egyensÃºlyÃ¡nak megorzÃ©sÃ©ben, Ã©s remek lehetosÃ©get kÃ­nÃ¡lnak a kÃ¶rnyezeti nevelÃ©sre.", ro: "TODO", en: "" },
+    factsAdvanced: { de: [], hu: ["MÃ¡lta termÃ©szeti Ã©rtÃ©kei kÃ¼lÃ¶nÃ¶sen Ã©rzÃ©kenyek a turizmus hatÃ¡saira.", "A Ghadira-rezervÃ¡tum fontos Ã¡llomÃ¡s a vÃ¡ndormadarak szÃ¡mÃ¡ra.", "A Buskett-kertek az egyetlen nagyobb erdos terÃ¼let a szigeten.", "A termÃ©szetvÃ©delmi terÃ¼letek vÃ©delme elengedhetetlen a fajok megmaradÃ¡sÃ¡hoz.", "A szigetorszÃ¡g szÃ¡raz Ã©ghajlata miatt a vizes Ã©lohelyek ritkasÃ¡gszÃ¡mba mennek.", "MÃ¡lta kormÃ¡nya szÃ¡mos projektet indÃ­tott a biodiverzitÃ¡s nÃ¶velÃ©sÃ©re.", "A helyi nÃ¶vÃ©nyvilÃ¡g szÃ¡mos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
   },
   {
     id: "industry-actavis-factory-extra",
@@ -2206,8 +2206,8 @@ export const poiExtraMaltaOther: POI[] = [
       ro: "O mare companie farmaceuticÄƒ care produce medicamente generice.",
       en: "A large pharmaceutical company that manufactures generic medicines."
     },
-    descriptionAdvanced: { de: "", hu: "Plizio tanterv: Földrajz 7. évfolyam. Málta egyéb látnivalói, mint a természetvédelmi területek és kertek, fontos szerepet játszanak a szigetek ökológiai egyensúlyának megorzésében, és remek lehetoséget kínálnak a környezeti nevelésre.", ro: "TODO", en: "" },
-    factsAdvanced: { de: [], hu: ["Málta természeti értékei különösen érzékenyek a turizmus hatásaira.", "A Ghadira-rezervátum fontos állomás a vándormadarak számára.", "A Buskett-kertek az egyetlen nagyobb erdos terület a szigeten.", "A természetvédelmi területek védelme elengedhetetlen a fajok megmaradásához.", "A szigetország száraz éghajlata miatt a vizes élohelyek ritkaságszámba mennek.", "Málta kormánya számos projektet indított a biodiverzitás növelésére.", "A helyi növényvilág számos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
+    descriptionAdvanced: { de: "", hu: "Plizio tanterv: FÃ¶ldrajz 7. Ã©vfolyam. MÃ¡lta egyÃ©b lÃ¡tnivalÃ³i, mint a termÃ©szetvÃ©delmi terÃ¼letek Ã©s kertek, fontos szerepet jÃ¡tszanak a szigetek Ã¶kolÃ³giai egyensÃºlyÃ¡nak megorzÃ©sÃ©ben, Ã©s remek lehetosÃ©get kÃ­nÃ¡lnak a kÃ¶rnyezeti nevelÃ©sre.", ro: "TODO", en: "" },
+    factsAdvanced: { de: [], hu: ["MÃ¡lta termÃ©szeti Ã©rtÃ©kei kÃ¼lÃ¶nÃ¶sen Ã©rzÃ©kenyek a turizmus hatÃ¡saira.", "A Ghadira-rezervÃ¡tum fontos Ã¡llomÃ¡s a vÃ¡ndormadarak szÃ¡mÃ¡ra.", "A Buskett-kertek az egyetlen nagyobb erdos terÃ¼let a szigeten.", "A termÃ©szetvÃ©delmi terÃ¼letek vÃ©delme elengedhetetlen a fajok megmaradÃ¡sÃ¡hoz.", "A szigetorszÃ¡g szÃ¡raz Ã©ghajlata miatt a vizes Ã©lohelyek ritkasÃ¡gszÃ¡mba mennek.", "MÃ¡lta kormÃ¡nya szÃ¡mos projektet indÃ­tott a biodiverzitÃ¡s nÃ¶velÃ©sÃ©re.", "A helyi nÃ¶vÃ©nyvilÃ¡g szÃ¡mos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
   },
   {
     id: "industry-methode-electronics-malta-ltd-extra",
@@ -2226,8 +2226,8 @@ export const poiExtraMaltaOther: POI[] = [
       ro: "Un producÄƒtor de componente electronice, Ã®n principal pentru industria auto.",
       en: "A manufacturer of electronic components, mainly for the automotive industry."
     },
-    descriptionAdvanced: { de: "", hu: "Plizio tanterv: Földrajz 7. évfolyam. Málta egyéb látnivalói, mint a természetvédelmi területek és kertek, fontos szerepet játszanak a szigetek ökológiai egyensúlyának megorzésében, és remek lehetoséget kínálnak a környezeti nevelésre.", ro: "TODO", en: "" },
-    factsAdvanced: { de: [], hu: ["Málta természeti értékei különösen érzékenyek a turizmus hatásaira.", "A Ghadira-rezervátum fontos állomás a vándormadarak számára.", "A Buskett-kertek az egyetlen nagyobb erdos terület a szigeten.", "A természetvédelmi területek védelme elengedhetetlen a fajok megmaradásához.", "A szigetország száraz éghajlata miatt a vizes élohelyek ritkaságszámba mennek.", "Málta kormánya számos projektet indított a biodiverzitás növelésére.", "A helyi növényvilág számos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
+    descriptionAdvanced: { de: "", hu: "Plizio tanterv: FÃ¶ldrajz 7. Ã©vfolyam. MÃ¡lta egyÃ©b lÃ¡tnivalÃ³i, mint a termÃ©szetvÃ©delmi terÃ¼letek Ã©s kertek, fontos szerepet jÃ¡tszanak a szigetek Ã¶kolÃ³giai egyensÃºlyÃ¡nak megorzÃ©sÃ©ben, Ã©s remek lehetosÃ©get kÃ­nÃ¡lnak a kÃ¶rnyezeti nevelÃ©sre.", ro: "TODO", en: "" },
+    factsAdvanced: { de: [], hu: ["MÃ¡lta termÃ©szeti Ã©rtÃ©kei kÃ¼lÃ¶nÃ¶sen Ã©rzÃ©kenyek a turizmus hatÃ¡saira.", "A Ghadira-rezervÃ¡tum fontos Ã¡llomÃ¡s a vÃ¡ndormadarak szÃ¡mÃ¡ra.", "A Buskett-kertek az egyetlen nagyobb erdos terÃ¼let a szigeten.", "A termÃ©szetvÃ©delmi terÃ¼letek vÃ©delme elengedhetetlen a fajok megmaradÃ¡sÃ¡hoz.", "A szigetorszÃ¡g szÃ¡raz Ã©ghajlata miatt a vizes Ã©lohelyek ritkasÃ¡gszÃ¡mba mennek.", "MÃ¡lta kormÃ¡nya szÃ¡mos projektet indÃ­tott a biodiverzitÃ¡s nÃ¶velÃ©sÃ©re.", "A helyi nÃ¶vÃ©nyvilÃ¡g szÃ¡mos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
   },
   {
     id: "industry-gaming-industry-hub-sliema-st-julians-extra",
@@ -2246,8 +2246,8 @@ export const poiExtraMaltaOther: POI[] = [
       ro: "Zona este un centru pentru industria jocurilor de noroc online, un pilon important al economiei malteze.",
       en: "The area is a hub for the online gaming industry, a major pillar of the Maltese economy."
     },
-    descriptionAdvanced: { de: "", hu: "Plizio tanterv: Földrajz 7. évfolyam. Málta egyéb látnivalói, mint a természetvédelmi területek és kertek, fontos szerepet játszanak a szigetek ökológiai egyensúlyának megorzésében, és remek lehetoséget kínálnak a környezeti nevelésre.", ro: "TODO", en: "" },
-    factsAdvanced: { de: [], hu: ["Málta természeti értékei különösen érzékenyek a turizmus hatásaira.", "A Ghadira-rezervátum fontos állomás a vándormadarak számára.", "A Buskett-kertek az egyetlen nagyobb erdos terület a szigeten.", "A természetvédelmi területek védelme elengedhetetlen a fajok megmaradásához.", "A szigetország száraz éghajlata miatt a vizes élohelyek ritkaságszámba mennek.", "Málta kormánya számos projektet indított a biodiverzitás növelésére.", "A helyi növényvilág számos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
+    descriptionAdvanced: { de: "", hu: "Plizio tanterv: FÃ¶ldrajz 7. Ã©vfolyam. MÃ¡lta egyÃ©b lÃ¡tnivalÃ³i, mint a termÃ©szetvÃ©delmi terÃ¼letek Ã©s kertek, fontos szerepet jÃ¡tszanak a szigetek Ã¶kolÃ³giai egyensÃºlyÃ¡nak megorzÃ©sÃ©ben, Ã©s remek lehetosÃ©get kÃ­nÃ¡lnak a kÃ¶rnyezeti nevelÃ©sre.", ro: "TODO", en: "" },
+    factsAdvanced: { de: [], hu: ["MÃ¡lta termÃ©szeti Ã©rtÃ©kei kÃ¼lÃ¶nÃ¶sen Ã©rzÃ©kenyek a turizmus hatÃ¡saira.", "A Ghadira-rezervÃ¡tum fontos Ã¡llomÃ¡s a vÃ¡ndormadarak szÃ¡mÃ¡ra.", "A Buskett-kertek az egyetlen nagyobb erdos terÃ¼let a szigeten.", "A termÃ©szetvÃ©delmi terÃ¼letek vÃ©delme elengedhetetlen a fajok megmaradÃ¡sÃ¡hoz.", "A szigetorszÃ¡g szÃ¡raz Ã©ghajlata miatt a vizes Ã©lohelyek ritkasÃ¡gszÃ¡mba mennek.", "MÃ¡lta kormÃ¡nya szÃ¡mos projektet indÃ­tott a biodiverzitÃ¡s nÃ¶velÃ©sÃ©re.", "A helyi nÃ¶vÃ©nyvilÃ¡g szÃ¡mos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
   },
   {
     id: "industry-construction-industry-cranes-extra",
@@ -2266,8 +2266,8 @@ export const poiExtraMaltaOther: POI[] = [
       ro: "Orizontul este dominat de macarale de construcÈ›ii, reflectÃ¢nd industria construcÈ›iilor Ã®n plinÄƒ expansiune de pe insulÄƒ.",
       en: "The skyline is dominated by construction cranes, reflecting the booming construction industry on the island."
     },
-    descriptionAdvanced: { de: "", hu: "Plizio tanterv: Földrajz 7. évfolyam. Málta egyéb látnivalói, mint a természetvédelmi területek és kertek, fontos szerepet játszanak a szigetek ökológiai egyensúlyának megorzésében, és remek lehetoséget kínálnak a környezeti nevelésre.", ro: "TODO", en: "" },
-    factsAdvanced: { de: [], hu: ["Málta természeti értékei különösen érzékenyek a turizmus hatásaira.", "A Ghadira-rezervátum fontos állomás a vándormadarak számára.", "A Buskett-kertek az egyetlen nagyobb erdos terület a szigeten.", "A természetvédelmi területek védelme elengedhetetlen a fajok megmaradásához.", "A szigetország száraz éghajlata miatt a vizes élohelyek ritkaságszámba mennek.", "Málta kormánya számos projektet indított a biodiverzitás növelésére.", "A helyi növényvilág számos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
+    descriptionAdvanced: { de: "", hu: "Plizio tanterv: FÃ¶ldrajz 7. Ã©vfolyam. MÃ¡lta egyÃ©b lÃ¡tnivalÃ³i, mint a termÃ©szetvÃ©delmi terÃ¼letek Ã©s kertek, fontos szerepet jÃ¡tszanak a szigetek Ã¶kolÃ³giai egyensÃºlyÃ¡nak megorzÃ©sÃ©ben, Ã©s remek lehetosÃ©get kÃ­nÃ¡lnak a kÃ¶rnyezeti nevelÃ©sre.", ro: "TODO", en: "" },
+    factsAdvanced: { de: [], hu: ["MÃ¡lta termÃ©szeti Ã©rtÃ©kei kÃ¼lÃ¶nÃ¶sen Ã©rzÃ©kenyek a turizmus hatÃ¡saira.", "A Ghadira-rezervÃ¡tum fontos Ã¡llomÃ¡s a vÃ¡ndormadarak szÃ¡mÃ¡ra.", "A Buskett-kertek az egyetlen nagyobb erdos terÃ¼let a szigeten.", "A termÃ©szetvÃ©delmi terÃ¼letek vÃ©delme elengedhetetlen a fajok megmaradÃ¡sÃ¡hoz.", "A szigetorszÃ¡g szÃ¡raz Ã©ghajlata miatt a vizes Ã©lohelyek ritkasÃ¡gszÃ¡mba mennek.", "MÃ¡lta kormÃ¡nya szÃ¡mos projektet indÃ­tott a biodiverzitÃ¡s nÃ¶velÃ©sÃ©re.", "A helyi nÃ¶vÃ©nyvilÃ¡g szÃ¡mos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
   },
   {
     id: "industry-go-p-l-c-head-office-extra",
@@ -2286,8 +2286,8 @@ export const poiExtraMaltaOther: POI[] = [
       ro: "Sediul central al principalului furnizor de telecomunicaÈ›ii din Malta.",
       en: "The head office of the leading telecommunications provider in Malta."
     },
-    descriptionAdvanced: { de: "", hu: "Plizio tanterv: Földrajz 7. évfolyam. Málta egyéb látnivalói, mint a természetvédelmi területek és kertek, fontos szerepet játszanak a szigetek ökológiai egyensúlyának megorzésében, és remek lehetoséget kínálnak a környezeti nevelésre.", ro: "TODO", en: "" },
-    factsAdvanced: { de: [], hu: ["Málta természeti értékei különösen érzékenyek a turizmus hatásaira.", "A Ghadira-rezervátum fontos állomás a vándormadarak számára.", "A Buskett-kertek az egyetlen nagyobb erdos terület a szigeten.", "A természetvédelmi területek védelme elengedhetetlen a fajok megmaradásához.", "A szigetország száraz éghajlata miatt a vizes élohelyek ritkaságszámba mennek.", "Málta kormánya számos projektet indított a biodiverzitás növelésére.", "A helyi növényvilág számos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
+    descriptionAdvanced: { de: "", hu: "Plizio tanterv: FÃ¶ldrajz 7. Ã©vfolyam. MÃ¡lta egyÃ©b lÃ¡tnivalÃ³i, mint a termÃ©szetvÃ©delmi terÃ¼letek Ã©s kertek, fontos szerepet jÃ¡tszanak a szigetek Ã¶kolÃ³giai egyensÃºlyÃ¡nak megorzÃ©sÃ©ben, Ã©s remek lehetosÃ©get kÃ­nÃ¡lnak a kÃ¶rnyezeti nevelÃ©sre.", ro: "TODO", en: "" },
+    factsAdvanced: { de: [], hu: ["MÃ¡lta termÃ©szeti Ã©rtÃ©kei kÃ¼lÃ¶nÃ¶sen Ã©rzÃ©kenyek a turizmus hatÃ¡saira.", "A Ghadira-rezervÃ¡tum fontos Ã¡llomÃ¡s a vÃ¡ndormadarak szÃ¡mÃ¡ra.", "A Buskett-kertek az egyetlen nagyobb erdos terÃ¼let a szigeten.", "A termÃ©szetvÃ©delmi terÃ¼letek vÃ©delme elengedhetetlen a fajok megmaradÃ¡sÃ¡hoz.", "A szigetorszÃ¡g szÃ¡raz Ã©ghajlata miatt a vizes Ã©lohelyek ritkasÃ¡gszÃ¡mba mennek.", "MÃ¡lta kormÃ¡nya szÃ¡mos projektet indÃ­tott a biodiverzitÃ¡s nÃ¶velÃ©sÃ©re.", "A helyi nÃ¶vÃ©nyvilÃ¡g szÃ¡mos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
   },
   {
     id: "industry-dedomenico-group-extra",
@@ -2306,8 +2306,8 @@ export const poiExtraMaltaOther: POI[] = [
       ro: "O companie diversificatÄƒ implicatÄƒ Ã®n electronicÄƒ, ospitalitate È™i imobiliare.",
       en: "A diversified company involved in electronics, hospitality, and real estate."
     },
-    descriptionAdvanced: { de: "", hu: "Plizio tanterv: Földrajz 7. évfolyam. Málta egyéb látnivalói, mint a természetvédelmi területek és kertek, fontos szerepet játszanak a szigetek ökológiai egyensúlyának megorzésében, és remek lehetoséget kínálnak a környezeti nevelésre.", ro: "TODO", en: "" },
-    factsAdvanced: { de: [], hu: ["Málta természeti értékei különösen érzékenyek a turizmus hatásaira.", "A Ghadira-rezervátum fontos állomás a vándormadarak számára.", "A Buskett-kertek az egyetlen nagyobb erdos terület a szigeten.", "A természetvédelmi területek védelme elengedhetetlen a fajok megmaradásához.", "A szigetország száraz éghajlata miatt a vizes élohelyek ritkaságszámba mennek.", "Málta kormánya számos projektet indított a biodiverzitás növelésére.", "A helyi növényvilág számos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
+    descriptionAdvanced: { de: "", hu: "Plizio tanterv: FÃ¶ldrajz 7. Ã©vfolyam. MÃ¡lta egyÃ©b lÃ¡tnivalÃ³i, mint a termÃ©szetvÃ©delmi terÃ¼letek Ã©s kertek, fontos szerepet jÃ¡tszanak a szigetek Ã¶kolÃ³giai egyensÃºlyÃ¡nak megorzÃ©sÃ©ben, Ã©s remek lehetosÃ©get kÃ­nÃ¡lnak a kÃ¶rnyezeti nevelÃ©sre.", ro: "TODO", en: "" },
+    factsAdvanced: { de: [], hu: ["MÃ¡lta termÃ©szeti Ã©rtÃ©kei kÃ¼lÃ¶nÃ¶sen Ã©rzÃ©kenyek a turizmus hatÃ¡saira.", "A Ghadira-rezervÃ¡tum fontos Ã¡llomÃ¡s a vÃ¡ndormadarak szÃ¡mÃ¡ra.", "A Buskett-kertek az egyetlen nagyobb erdos terÃ¼let a szigeten.", "A termÃ©szetvÃ©delmi terÃ¼letek vÃ©delme elengedhetetlen a fajok megmaradÃ¡sÃ¡hoz.", "A szigetorszÃ¡g szÃ¡raz Ã©ghajlata miatt a vizes Ã©lohelyek ritkasÃ¡gszÃ¡mba mennek.", "MÃ¡lta kormÃ¡nya szÃ¡mos projektet indÃ­tott a biodiverzitÃ¡s nÃ¶velÃ©sÃ©re.", "A helyi nÃ¶vÃ©nyvilÃ¡g szÃ¡mos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
   },
   {
     id: "industry-maltapost-head-office-extra",
@@ -2326,8 +2326,8 @@ export const poiExtraMaltaOther: POI[] = [
       ro: "Centrul central de sortare È™i sediul central al serviciului poÈ™tal naÈ›ional.",
       en: "The central sorting hub and head office for the national postal service."
     },
-    descriptionAdvanced: { de: "", hu: "Plizio tanterv: Földrajz 7. évfolyam. Málta egyéb látnivalói, mint a természetvédelmi területek és kertek, fontos szerepet játszanak a szigetek ökológiai egyensúlyának megorzésében, és remek lehetoséget kínálnak a környezeti nevelésre.", ro: "TODO", en: "" },
-    factsAdvanced: { de: [], hu: ["Málta természeti értékei különösen érzékenyek a turizmus hatásaira.", "A Ghadira-rezervátum fontos állomás a vándormadarak számára.", "A Buskett-kertek az egyetlen nagyobb erdos terület a szigeten.", "A természetvédelmi területek védelme elengedhetetlen a fajok megmaradásához.", "A szigetország száraz éghajlata miatt a vizes élohelyek ritkaságszámba mennek.", "Málta kormánya számos projektet indított a biodiverzitás növelésére.", "A helyi növényvilág számos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
+    descriptionAdvanced: { de: "", hu: "Plizio tanterv: FÃ¶ldrajz 7. Ã©vfolyam. MÃ¡lta egyÃ©b lÃ¡tnivalÃ³i, mint a termÃ©szetvÃ©delmi terÃ¼letek Ã©s kertek, fontos szerepet jÃ¡tszanak a szigetek Ã¶kolÃ³giai egyensÃºlyÃ¡nak megorzÃ©sÃ©ben, Ã©s remek lehetosÃ©get kÃ­nÃ¡lnak a kÃ¶rnyezeti nevelÃ©sre.", ro: "TODO", en: "" },
+    factsAdvanced: { de: [], hu: ["MÃ¡lta termÃ©szeti Ã©rtÃ©kei kÃ¼lÃ¶nÃ¶sen Ã©rzÃ©kenyek a turizmus hatÃ¡saira.", "A Ghadira-rezervÃ¡tum fontos Ã¡llomÃ¡s a vÃ¡ndormadarak szÃ¡mÃ¡ra.", "A Buskett-kertek az egyetlen nagyobb erdos terÃ¼let a szigeten.", "A termÃ©szetvÃ©delmi terÃ¼letek vÃ©delme elengedhetetlen a fajok megmaradÃ¡sÃ¡hoz.", "A szigetorszÃ¡g szÃ¡raz Ã©ghajlata miatt a vizes Ã©lohelyek ritkasÃ¡gszÃ¡mba mennek.", "MÃ¡lta kormÃ¡nya szÃ¡mos projektet indÃ­tott a biodiverzitÃ¡s nÃ¶velÃ©sÃ©re.", "A helyi nÃ¶vÃ©nyvilÃ¡g szÃ¡mos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
   },
   {
     id: "industry-medserv-plc-base-extra",
@@ -2346,8 +2346,8 @@ export const poiExtraMaltaOther: POI[] = [
       ro: "O companie care oferÄƒ servicii de logisticÄƒ È™i inginerie pentru industria petrolierÄƒ È™i de gaze offshore.",
       en: "A company providing logistics and engineering services to the offshore oil and gas industry."
     },
-    descriptionAdvanced: { de: "", hu: "Plizio tanterv: Földrajz 7. évfolyam. Málta egyéb látnivalói, mint a természetvédelmi területek és kertek, fontos szerepet játszanak a szigetek ökológiai egyensúlyának megorzésében, és remek lehetoséget kínálnak a környezeti nevelésre.", ro: "TODO", en: "" },
-    factsAdvanced: { de: [], hu: ["Málta természeti értékei különösen érzékenyek a turizmus hatásaira.", "A Ghadira-rezervátum fontos állomás a vándormadarak számára.", "A Buskett-kertek az egyetlen nagyobb erdos terület a szigeten.", "A természetvédelmi területek védelme elengedhetetlen a fajok megmaradásához.", "A szigetország száraz éghajlata miatt a vizes élohelyek ritkaságszámba mennek.", "Málta kormánya számos projektet indított a biodiverzitás növelésére.", "A helyi növényvilág számos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
+    descriptionAdvanced: { de: "", hu: "Plizio tanterv: FÃ¶ldrajz 7. Ã©vfolyam. MÃ¡lta egyÃ©b lÃ¡tnivalÃ³i, mint a termÃ©szetvÃ©delmi terÃ¼letek Ã©s kertek, fontos szerepet jÃ¡tszanak a szigetek Ã¶kolÃ³giai egyensÃºlyÃ¡nak megorzÃ©sÃ©ben, Ã©s remek lehetosÃ©get kÃ­nÃ¡lnak a kÃ¶rnyezeti nevelÃ©sre.", ro: "TODO", en: "" },
+    factsAdvanced: { de: [], hu: ["MÃ¡lta termÃ©szeti Ã©rtÃ©kei kÃ¼lÃ¶nÃ¶sen Ã©rzÃ©kenyek a turizmus hatÃ¡saira.", "A Ghadira-rezervÃ¡tum fontos Ã¡llomÃ¡s a vÃ¡ndormadarak szÃ¡mÃ¡ra.", "A Buskett-kertek az egyetlen nagyobb erdos terÃ¼let a szigeten.", "A termÃ©szetvÃ©delmi terÃ¼letek vÃ©delme elengedhetetlen a fajok megmaradÃ¡sÃ¡hoz.", "A szigetorszÃ¡g szÃ¡raz Ã©ghajlata miatt a vizes Ã©lohelyek ritkasÃ¡gszÃ¡mba mennek.", "MÃ¡lta kormÃ¡nya szÃ¡mos projektet indÃ­tott a biodiverzitÃ¡s nÃ¶velÃ©sÃ©re.", "A helyi nÃ¶vÃ©nyvilÃ¡g szÃ¡mos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
   },
   {
     id: "industry-concrete-batching-plants-extra",
@@ -2366,8 +2366,8 @@ export const poiExtraMaltaOther: POI[] = [
       ro: "Mai multe staÈ›ii de pe insulÄƒ produc beton pentru industria construcÈ›iilor.",
       en: "Several plants across the island produce concrete for the construction industry."
     },
-    descriptionAdvanced: { de: "", hu: "Plizio tanterv: Földrajz 7. évfolyam. Málta egyéb látnivalói, mint a természetvédelmi területek és kertek, fontos szerepet játszanak a szigetek ökológiai egyensúlyának megorzésében, és remek lehetoséget kínálnak a környezeti nevelésre.", ro: "TODO", en: "" },
-    factsAdvanced: { de: [], hu: ["Málta természeti értékei különösen érzékenyek a turizmus hatásaira.", "A Ghadira-rezervátum fontos állomás a vándormadarak számára.", "A Buskett-kertek az egyetlen nagyobb erdos terület a szigeten.", "A természetvédelmi területek védelme elengedhetetlen a fajok megmaradásához.", "A szigetország száraz éghajlata miatt a vizes élohelyek ritkaságszámba mennek.", "Málta kormánya számos projektet indított a biodiverzitás növelésére.", "A helyi növényvilág számos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
+    descriptionAdvanced: { de: "", hu: "Plizio tanterv: FÃ¶ldrajz 7. Ã©vfolyam. MÃ¡lta egyÃ©b lÃ¡tnivalÃ³i, mint a termÃ©szetvÃ©delmi terÃ¼letek Ã©s kertek, fontos szerepet jÃ¡tszanak a szigetek Ã¶kolÃ³giai egyensÃºlyÃ¡nak megorzÃ©sÃ©ben, Ã©s remek lehetosÃ©get kÃ­nÃ¡lnak a kÃ¶rnyezeti nevelÃ©sre.", ro: "TODO", en: "" },
+    factsAdvanced: { de: [], hu: ["MÃ¡lta termÃ©szeti Ã©rtÃ©kei kÃ¼lÃ¶nÃ¶sen Ã©rzÃ©kenyek a turizmus hatÃ¡saira.", "A Ghadira-rezervÃ¡tum fontos Ã¡llomÃ¡s a vÃ¡ndormadarak szÃ¡mÃ¡ra.", "A Buskett-kertek az egyetlen nagyobb erdos terÃ¼let a szigeten.", "A termÃ©szetvÃ©delmi terÃ¼letek vÃ©delme elengedhetetlen a fajok megmaradÃ¡sÃ¡hoz.", "A szigetorszÃ¡g szÃ¡raz Ã©ghajlata miatt a vizes Ã©lohelyek ritkasÃ¡gszÃ¡mba mennek.", "MÃ¡lta kormÃ¡nya szÃ¡mos projektet indÃ­tott a biodiverzitÃ¡s nÃ¶velÃ©sÃ©re.", "A helyi nÃ¶vÃ©nyvilÃ¡g szÃ¡mos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
   },
   {
     id: "industry-printing-presses-extra",
@@ -2386,8 +2386,8 @@ export const poiExtraMaltaOther: POI[] = [
       ro: "Malta are o industrie tipograficÄƒ bine stabilitÄƒ, care produce cÄƒrÈ›i, ziare È™i ambalaje.",
       en: "Malta has an established printing industry, producing books, newspapers and packaging."
     },
-    descriptionAdvanced: { de: "", hu: "Plizio tanterv: Földrajz 7. évfolyam. Málta egyéb látnivalói, mint a természetvédelmi területek és kertek, fontos szerepet játszanak a szigetek ökológiai egyensúlyának megorzésében, és remek lehetoséget kínálnak a környezeti nevelésre.", ro: "TODO", en: "" },
-    factsAdvanced: { de: [], hu: ["Málta természeti értékei különösen érzékenyek a turizmus hatásaira.", "A Ghadira-rezervátum fontos állomás a vándormadarak számára.", "A Buskett-kertek az egyetlen nagyobb erdos terület a szigeten.", "A természetvédelmi területek védelme elengedhetetlen a fajok megmaradásához.", "A szigetország száraz éghajlata miatt a vizes élohelyek ritkaságszámba mennek.", "Málta kormánya számos projektet indított a biodiverzitás növelésére.", "A helyi növényvilág számos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
+    descriptionAdvanced: { de: "", hu: "Plizio tanterv: FÃ¶ldrajz 7. Ã©vfolyam. MÃ¡lta egyÃ©b lÃ¡tnivalÃ³i, mint a termÃ©szetvÃ©delmi terÃ¼letek Ã©s kertek, fontos szerepet jÃ¡tszanak a szigetek Ã¶kolÃ³giai egyensÃºlyÃ¡nak megorzÃ©sÃ©ben, Ã©s remek lehetosÃ©get kÃ­nÃ¡lnak a kÃ¶rnyezeti nevelÃ©sre.", ro: "TODO", en: "" },
+    factsAdvanced: { de: [], hu: ["MÃ¡lta termÃ©szeti Ã©rtÃ©kei kÃ¼lÃ¶nÃ¶sen Ã©rzÃ©kenyek a turizmus hatÃ¡saira.", "A Ghadira-rezervÃ¡tum fontos Ã¡llomÃ¡s a vÃ¡ndormadarak szÃ¡mÃ¡ra.", "A Buskett-kertek az egyetlen nagyobb erdos terÃ¼let a szigeten.", "A termÃ©szetvÃ©delmi terÃ¼letek vÃ©delme elengedhetetlen a fajok megmaradÃ¡sÃ¡hoz.", "A szigetorszÃ¡g szÃ¡raz Ã©ghajlata miatt a vizes Ã©lohelyek ritkasÃ¡gszÃ¡mba mennek.", "MÃ¡lta kormÃ¡nya szÃ¡mos projektet indÃ­tott a biodiverzitÃ¡s nÃ¶velÃ©sÃ©re.", "A helyi nÃ¶vÃ©nyvilÃ¡g szÃ¡mos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
   },
   {
     id: "industry-maghtab-waste-management-complex-extra",
@@ -2406,8 +2406,8 @@ export const poiExtraMaltaOther: POI[] = [
       ro: "Principala facilitate de gestionare a deÈ™eurilor din Malta, aflatÄƒ Ã®n prezent Ã®n curs de reabilitare.",
       en: "Malta's main waste management facility, currently undergoing rehabilitation."
     },
-    descriptionAdvanced: { de: "", hu: "Plizio tanterv: Földrajz 7. évfolyam. Málta egyéb látnivalói, mint a természetvédelmi területek és kertek, fontos szerepet játszanak a szigetek ökológiai egyensúlyának megorzésében, és remek lehetoséget kínálnak a környezeti nevelésre.", ro: "TODO", en: "" },
-    factsAdvanced: { de: [], hu: ["Málta természeti értékei különösen érzékenyek a turizmus hatásaira.", "A Ghadira-rezervátum fontos állomás a vándormadarak számára.", "A Buskett-kertek az egyetlen nagyobb erdos terület a szigeten.", "A természetvédelmi területek védelme elengedhetetlen a fajok megmaradásához.", "A szigetország száraz éghajlata miatt a vizes élohelyek ritkaságszámba mennek.", "Málta kormánya számos projektet indított a biodiverzitás növelésére.", "A helyi növényvilág számos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
+    descriptionAdvanced: { de: "", hu: "Plizio tanterv: FÃ¶ldrajz 7. Ã©vfolyam. MÃ¡lta egyÃ©b lÃ¡tnivalÃ³i, mint a termÃ©szetvÃ©delmi terÃ¼letek Ã©s kertek, fontos szerepet jÃ¡tszanak a szigetek Ã¶kolÃ³giai egyensÃºlyÃ¡nak megorzÃ©sÃ©ben, Ã©s remek lehetosÃ©get kÃ­nÃ¡lnak a kÃ¶rnyezeti nevelÃ©sre.", ro: "TODO", en: "" },
+    factsAdvanced: { de: [], hu: ["MÃ¡lta termÃ©szeti Ã©rtÃ©kei kÃ¼lÃ¶nÃ¶sen Ã©rzÃ©kenyek a turizmus hatÃ¡saira.", "A Ghadira-rezervÃ¡tum fontos Ã¡llomÃ¡s a vÃ¡ndormadarak szÃ¡mÃ¡ra.", "A Buskett-kertek az egyetlen nagyobb erdos terÃ¼let a szigeten.", "A termÃ©szetvÃ©delmi terÃ¼letek vÃ©delme elengedhetetlen a fajok megmaradÃ¡sÃ¡hoz.", "A szigetorszÃ¡g szÃ¡raz Ã©ghajlata miatt a vizes Ã©lohelyek ritkasÃ¡gszÃ¡mba mennek.", "MÃ¡lta kormÃ¡nya szÃ¡mos projektet indÃ­tott a biodiverzitÃ¡s nÃ¶velÃ©sÃ©re.", "A helyi nÃ¶vÃ©nyvilÃ¡g szÃ¡mos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
   },
 
   // Port
@@ -2428,8 +2428,8 @@ export const poiExtraMaltaOther: POI[] = [
       ro: "Principalul port al Maltei, un port natural adÃ¢nc folosit de nave de croazierÄƒ È™i pentru mÄƒrfuri.",
       en: "Malta's main port, a natural deep-water harbour used by cruise liners and for cargo."
     },
-    descriptionAdvanced: { de: "", hu: "Plizio tanterv: Földrajz 7. évfolyam. Málta egyéb látnivalói, mint a természetvédelmi területek és kertek, fontos szerepet játszanak a szigetek ökológiai egyensúlyának megorzésében, és remek lehetoséget kínálnak a környezeti nevelésre.", ro: "TODO", en: "" },
-    factsAdvanced: { de: [], hu: ["Málta természeti értékei különösen érzékenyek a turizmus hatásaira.", "A Ghadira-rezervátum fontos állomás a vándormadarak számára.", "A Buskett-kertek az egyetlen nagyobb erdos terület a szigeten.", "A természetvédelmi területek védelme elengedhetetlen a fajok megmaradásához.", "A szigetország száraz éghajlata miatt a vizes élohelyek ritkaságszámba mennek.", "Málta kormánya számos projektet indított a biodiverzitás növelésére.", "A helyi növényvilág számos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
+    descriptionAdvanced: { de: "", hu: "Plizio tanterv: FÃ¶ldrajz 7. Ã©vfolyam. MÃ¡lta egyÃ©b lÃ¡tnivalÃ³i, mint a termÃ©szetvÃ©delmi terÃ¼letek Ã©s kertek, fontos szerepet jÃ¡tszanak a szigetek Ã¶kolÃ³giai egyensÃºlyÃ¡nak megorzÃ©sÃ©ben, Ã©s remek lehetosÃ©get kÃ­nÃ¡lnak a kÃ¶rnyezeti nevelÃ©sre.", ro: "TODO", en: "" },
+    factsAdvanced: { de: [], hu: ["MÃ¡lta termÃ©szeti Ã©rtÃ©kei kÃ¼lÃ¶nÃ¶sen Ã©rzÃ©kenyek a turizmus hatÃ¡saira.", "A Ghadira-rezervÃ¡tum fontos Ã¡llomÃ¡s a vÃ¡ndormadarak szÃ¡mÃ¡ra.", "A Buskett-kertek az egyetlen nagyobb erdos terÃ¼let a szigeten.", "A termÃ©szetvÃ©delmi terÃ¼letek vÃ©delme elengedhetetlen a fajok megmaradÃ¡sÃ¡hoz.", "A szigetorszÃ¡g szÃ¡raz Ã©ghajlata miatt a vizes Ã©lohelyek ritkasÃ¡gszÃ¡mba mennek.", "MÃ¡lta kormÃ¡nya szÃ¡mos projektet indÃ­tott a biodiverzitÃ¡s nÃ¶velÃ©sÃ©re.", "A helyi nÃ¶vÃ©nyvilÃ¡g szÃ¡mos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
   },
   {
     id: "port-marsamxett-harbour-extra",
@@ -2448,8 +2448,8 @@ export const poiExtraMaltaOther: POI[] = [
       ro: "Al doilea port natural important, folosit Ã®n principal de iahturi È™i bÄƒrci de agrement.",
       en: "The second major natural harbour, mainly used by yachts and leisure craft."
     },
-    descriptionAdvanced: { de: "", hu: "Plizio tanterv: Földrajz 7. évfolyam. Málta egyéb látnivalói, mint a természetvédelmi területek és kertek, fontos szerepet játszanak a szigetek ökológiai egyensúlyának megorzésében, és remek lehetoséget kínálnak a környezeti nevelésre.", ro: "TODO", en: "" },
-    factsAdvanced: { de: [], hu: ["Málta természeti értékei különösen érzékenyek a turizmus hatásaira.", "A Ghadira-rezervátum fontos állomás a vándormadarak számára.", "A Buskett-kertek az egyetlen nagyobb erdos terület a szigeten.", "A természetvédelmi területek védelme elengedhetetlen a fajok megmaradásához.", "A szigetország száraz éghajlata miatt a vizes élohelyek ritkaságszámba mennek.", "Málta kormánya számos projektet indított a biodiverzitás növelésére.", "A helyi növényvilág számos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
+    descriptionAdvanced: { de: "", hu: "Plizio tanterv: FÃ¶ldrajz 7. Ã©vfolyam. MÃ¡lta egyÃ©b lÃ¡tnivalÃ³i, mint a termÃ©szetvÃ©delmi terÃ¼letek Ã©s kertek, fontos szerepet jÃ¡tszanak a szigetek Ã¶kolÃ³giai egyensÃºlyÃ¡nak megorzÃ©sÃ©ben, Ã©s remek lehetosÃ©get kÃ­nÃ¡lnak a kÃ¶rnyezeti nevelÃ©sre.", ro: "TODO", en: "" },
+    factsAdvanced: { de: [], hu: ["MÃ¡lta termÃ©szeti Ã©rtÃ©kei kÃ¼lÃ¶nÃ¶sen Ã©rzÃ©kenyek a turizmus hatÃ¡saira.", "A Ghadira-rezervÃ¡tum fontos Ã¡llomÃ¡s a vÃ¡ndormadarak szÃ¡mÃ¡ra.", "A Buskett-kertek az egyetlen nagyobb erdos terÃ¼let a szigeten.", "A termÃ©szetvÃ©delmi terÃ¼letek vÃ©delme elengedhetetlen a fajok megmaradÃ¡sÃ¡hoz.", "A szigetorszÃ¡g szÃ¡raz Ã©ghajlata miatt a vizes Ã©lohelyek ritkasÃ¡gszÃ¡mba mennek.", "MÃ¡lta kormÃ¡nya szÃ¡mos projektet indÃ­tott a biodiverzitÃ¡s nÃ¶velÃ©sÃ©re.", "A helyi nÃ¶vÃ©nyvilÃ¡g szÃ¡mos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
   },
   {
     id: "port-malta-freeport-birzebbuga-extra",
@@ -2468,8 +2468,8 @@ export const poiExtraMaltaOther: POI[] = [
       ro: "Un important port de transbordare a containerelor din Mediterana.",
       en: "A major container transshipment port in the Mediterranean."
     },
-    descriptionAdvanced: { de: "", hu: "Plizio tanterv: Földrajz 7. évfolyam. Málta egyéb látnivalói, mint a természetvédelmi területek és kertek, fontos szerepet játszanak a szigetek ökológiai egyensúlyának megorzésében, és remek lehetoséget kínálnak a környezeti nevelésre.", ro: "TODO", en: "" },
-    factsAdvanced: { de: [], hu: ["Málta természeti értékei különösen érzékenyek a turizmus hatásaira.", "A Ghadira-rezervátum fontos állomás a vándormadarak számára.", "A Buskett-kertek az egyetlen nagyobb erdos terület a szigeten.", "A természetvédelmi területek védelme elengedhetetlen a fajok megmaradásához.", "A szigetország száraz éghajlata miatt a vizes élohelyek ritkaságszámba mennek.", "Málta kormánya számos projektet indított a biodiverzitás növelésére.", "A helyi növényvilág számos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
+    descriptionAdvanced: { de: "", hu: "Plizio tanterv: FÃ¶ldrajz 7. Ã©vfolyam. MÃ¡lta egyÃ©b lÃ¡tnivalÃ³i, mint a termÃ©szetvÃ©delmi terÃ¼letek Ã©s kertek, fontos szerepet jÃ¡tszanak a szigetek Ã¶kolÃ³giai egyensÃºlyÃ¡nak megorzÃ©sÃ©ben, Ã©s remek lehetosÃ©get kÃ­nÃ¡lnak a kÃ¶rnyezeti nevelÃ©sre.", ro: "TODO", en: "" },
+    factsAdvanced: { de: [], hu: ["MÃ¡lta termÃ©szeti Ã©rtÃ©kei kÃ¼lÃ¶nÃ¶sen Ã©rzÃ©kenyek a turizmus hatÃ¡saira.", "A Ghadira-rezervÃ¡tum fontos Ã¡llomÃ¡s a vÃ¡ndormadarak szÃ¡mÃ¡ra.", "A Buskett-kertek az egyetlen nagyobb erdos terÃ¼let a szigeten.", "A termÃ©szetvÃ©delmi terÃ¼letek vÃ©delme elengedhetetlen a fajok megmaradÃ¡sÃ¡hoz.", "A szigetorszÃ¡g szÃ¡raz Ã©ghajlata miatt a vizes Ã©lohelyek ritkasÃ¡gszÃ¡mba mennek.", "MÃ¡lta kormÃ¡nya szÃ¡mos projektet indÃ­tott a biodiverzitÃ¡s nÃ¶velÃ©sÃ©re.", "A helyi nÃ¶vÃ©nyvilÃ¡g szÃ¡mos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
   },
   {
     id: "port-mgarr-harbour-gozo-extra",
@@ -2488,8 +2488,8 @@ export const poiExtraMaltaOther: POI[] = [
       ro: "Principalul port al insulei Gozo, care leagÄƒ insula de Malta printr-un serviciu de feribot.",
       en: "Gozo's main harbour, connecting the island to Malta via a ferry service."
     },
-    descriptionAdvanced: { de: "", hu: "Plizio tanterv: Földrajz 7. évfolyam. Málta egyéb látnivalói, mint a természetvédelmi területek és kertek, fontos szerepet játszanak a szigetek ökológiai egyensúlyának megorzésében, és remek lehetoséget kínálnak a környezeti nevelésre.", ro: "TODO", en: "" },
-    factsAdvanced: { de: [], hu: ["Málta természeti értékei különösen érzékenyek a turizmus hatásaira.", "A Ghadira-rezervátum fontos állomás a vándormadarak számára.", "A Buskett-kertek az egyetlen nagyobb erdos terület a szigeten.", "A természetvédelmi területek védelme elengedhetetlen a fajok megmaradásához.", "A szigetország száraz éghajlata miatt a vizes élohelyek ritkaságszámba mennek.", "Málta kormánya számos projektet indított a biodiverzitás növelésére.", "A helyi növényvilág számos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
+    descriptionAdvanced: { de: "", hu: "Plizio tanterv: FÃ¶ldrajz 7. Ã©vfolyam. MÃ¡lta egyÃ©b lÃ¡tnivalÃ³i, mint a termÃ©szetvÃ©delmi terÃ¼letek Ã©s kertek, fontos szerepet jÃ¡tszanak a szigetek Ã¶kolÃ³giai egyensÃºlyÃ¡nak megorzÃ©sÃ©ben, Ã©s remek lehetosÃ©get kÃ­nÃ¡lnak a kÃ¶rnyezeti nevelÃ©sre.", ro: "TODO", en: "" },
+    factsAdvanced: { de: [], hu: ["MÃ¡lta termÃ©szeti Ã©rtÃ©kei kÃ¼lÃ¶nÃ¶sen Ã©rzÃ©kenyek a turizmus hatÃ¡saira.", "A Ghadira-rezervÃ¡tum fontos Ã¡llomÃ¡s a vÃ¡ndormadarak szÃ¡mÃ¡ra.", "A Buskett-kertek az egyetlen nagyobb erdos terÃ¼let a szigeten.", "A termÃ©szetvÃ©delmi terÃ¼letek vÃ©delme elengedhetetlen a fajok megmaradÃ¡sÃ¡hoz.", "A szigetorszÃ¡g szÃ¡raz Ã©ghajlata miatt a vizes Ã©lohelyek ritkasÃ¡gszÃ¡mba mennek.", "MÃ¡lta kormÃ¡nya szÃ¡mos projektet indÃ­tott a biodiverzitÃ¡s nÃ¶velÃ©sÃ©re.", "A helyi nÃ¶vÃ©nyvilÃ¡g szÃ¡mos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
   },
   {
     id: "port-cirkewwa-ferry-terminal-extra",
@@ -2508,8 +2508,8 @@ export const poiExtraMaltaOther: POI[] = [
       ro: "Terminalul de feribot de la cel mai nordic punct al Maltei pentru serviciile cÄƒtre Gozo.",
       en: "The ferry terminal on the northernmost point of Malta for services to Gozo."
     },
-    descriptionAdvanced: { de: "", hu: "Plizio tanterv: Földrajz 7. évfolyam. Málta egyéb látnivalói, mint a természetvédelmi területek és kertek, fontos szerepet játszanak a szigetek ökológiai egyensúlyának megorzésében, és remek lehetoséget kínálnak a környezeti nevelésre.", ro: "TODO", en: "" },
-    factsAdvanced: { de: [], hu: ["Málta természeti értékei különösen érzékenyek a turizmus hatásaira.", "A Ghadira-rezervátum fontos állomás a vándormadarak számára.", "A Buskett-kertek az egyetlen nagyobb erdos terület a szigeten.", "A természetvédelmi területek védelme elengedhetetlen a fajok megmaradásához.", "A szigetország száraz éghajlata miatt a vizes élohelyek ritkaságszámba mennek.", "Málta kormánya számos projektet indított a biodiverzitás növelésére.", "A helyi növényvilág számos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
+    descriptionAdvanced: { de: "", hu: "Plizio tanterv: FÃ¶ldrajz 7. Ã©vfolyam. MÃ¡lta egyÃ©b lÃ¡tnivalÃ³i, mint a termÃ©szetvÃ©delmi terÃ¼letek Ã©s kertek, fontos szerepet jÃ¡tszanak a szigetek Ã¶kolÃ³giai egyensÃºlyÃ¡nak megorzÃ©sÃ©ben, Ã©s remek lehetosÃ©get kÃ­nÃ¡lnak a kÃ¶rnyezeti nevelÃ©sre.", ro: "TODO", en: "" },
+    factsAdvanced: { de: [], hu: ["MÃ¡lta termÃ©szeti Ã©rtÃ©kei kÃ¼lÃ¶nÃ¶sen Ã©rzÃ©kenyek a turizmus hatÃ¡saira.", "A Ghadira-rezervÃ¡tum fontos Ã¡llomÃ¡s a vÃ¡ndormadarak szÃ¡mÃ¡ra.", "A Buskett-kertek az egyetlen nagyobb erdos terÃ¼let a szigeten.", "A termÃ©szetvÃ©delmi terÃ¼letek vÃ©delme elengedhetetlen a fajok megmaradÃ¡sÃ¡hoz.", "A szigetorszÃ¡g szÃ¡raz Ã©ghajlata miatt a vizes Ã©lohelyek ritkasÃ¡gszÃ¡mba mennek.", "MÃ¡lta kormÃ¡nya szÃ¡mos projektet indÃ­tott a biodiverzitÃ¡s nÃ¶velÃ©sÃ©re.", "A helyi nÃ¶vÃ©nyvilÃ¡g szÃ¡mos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
   },
   {
     id: "port-valletta-waterfront-extra",
@@ -2528,8 +2528,8 @@ export const poiExtraMaltaOther: POI[] = [
       ro: "Terminalul de croazierÄƒ È™i o zonÄƒ cu restaurante È™i magazine Ã®n depozite istorice.",
       en: "The cruise liner terminal and an area of restaurants and shops in historic warehouses."
     },
-    descriptionAdvanced: { de: "", hu: "Plizio tanterv: Földrajz 7. évfolyam. Málta egyéb látnivalói, mint a természetvédelmi területek és kertek, fontos szerepet játszanak a szigetek ökológiai egyensúlyának megorzésében, és remek lehetoséget kínálnak a környezeti nevelésre.", ro: "TODO", en: "" },
-    factsAdvanced: { de: [], hu: ["Málta természeti értékei különösen érzékenyek a turizmus hatásaira.", "A Ghadira-rezervátum fontos állomás a vándormadarak számára.", "A Buskett-kertek az egyetlen nagyobb erdos terület a szigeten.", "A természetvédelmi területek védelme elengedhetetlen a fajok megmaradásához.", "A szigetország száraz éghajlata miatt a vizes élohelyek ritkaságszámba mennek.", "Málta kormánya számos projektet indított a biodiverzitás növelésére.", "A helyi növényvilág számos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
+    descriptionAdvanced: { de: "", hu: "Plizio tanterv: FÃ¶ldrajz 7. Ã©vfolyam. MÃ¡lta egyÃ©b lÃ¡tnivalÃ³i, mint a termÃ©szetvÃ©delmi terÃ¼letek Ã©s kertek, fontos szerepet jÃ¡tszanak a szigetek Ã¶kolÃ³giai egyensÃºlyÃ¡nak megorzÃ©sÃ©ben, Ã©s remek lehetosÃ©get kÃ­nÃ¡lnak a kÃ¶rnyezeti nevelÃ©sre.", ro: "TODO", en: "" },
+    factsAdvanced: { de: [], hu: ["MÃ¡lta termÃ©szeti Ã©rtÃ©kei kÃ¼lÃ¶nÃ¶sen Ã©rzÃ©kenyek a turizmus hatÃ¡saira.", "A Ghadira-rezervÃ¡tum fontos Ã¡llomÃ¡s a vÃ¡ndormadarak szÃ¡mÃ¡ra.", "A Buskett-kertek az egyetlen nagyobb erdos terÃ¼let a szigeten.", "A termÃ©szetvÃ©delmi terÃ¼letek vÃ©delme elengedhetetlen a fajok megmaradÃ¡sÃ¡hoz.", "A szigetorszÃ¡g szÃ¡raz Ã©ghajlata miatt a vizes Ã©lohelyek ritkasÃ¡gszÃ¡mba mennek.", "MÃ¡lta kormÃ¡nya szÃ¡mos projektet indÃ­tott a biodiverzitÃ¡s nÃ¶velÃ©sÃ©re.", "A helyi nÃ¶vÃ©nyvilÃ¡g szÃ¡mos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
   },
   {
     id: "port-msida-marina-extra",
@@ -2548,8 +2548,8 @@ export const poiExtraMaltaOther: POI[] = [
       ro: "Un port mare de agrement Ã®n portul Marsamxett pentru ambarcaÈ›iuni de agrement.",
       en: "A large marina in Marsamxett Harbour for leisure boats."
     },
-    descriptionAdvanced: { de: "", hu: "Plizio tanterv: Földrajz 7. évfolyam. Málta egyéb látnivalói, mint a természetvédelmi területek és kertek, fontos szerepet játszanak a szigetek ökológiai egyensúlyának megorzésében, és remek lehetoséget kínálnak a környezeti nevelésre.", ro: "TODO", en: "" },
-    factsAdvanced: { de: [], hu: ["Málta természeti értékei különösen érzékenyek a turizmus hatásaira.", "A Ghadira-rezervátum fontos állomás a vándormadarak számára.", "A Buskett-kertek az egyetlen nagyobb erdos terület a szigeten.", "A természetvédelmi területek védelme elengedhetetlen a fajok megmaradásához.", "A szigetország száraz éghajlata miatt a vizes élohelyek ritkaságszámba mennek.", "Málta kormánya számos projektet indított a biodiverzitás növelésére.", "A helyi növényvilág számos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
+    descriptionAdvanced: { de: "", hu: "Plizio tanterv: FÃ¶ldrajz 7. Ã©vfolyam. MÃ¡lta egyÃ©b lÃ¡tnivalÃ³i, mint a termÃ©szetvÃ©delmi terÃ¼letek Ã©s kertek, fontos szerepet jÃ¡tszanak a szigetek Ã¶kolÃ³giai egyensÃºlyÃ¡nak megorzÃ©sÃ©ben, Ã©s remek lehetosÃ©get kÃ­nÃ¡lnak a kÃ¶rnyezeti nevelÃ©sre.", ro: "TODO", en: "" },
+    factsAdvanced: { de: [], hu: ["MÃ¡lta termÃ©szeti Ã©rtÃ©kei kÃ¼lÃ¶nÃ¶sen Ã©rzÃ©kenyek a turizmus hatÃ¡saira.", "A Ghadira-rezervÃ¡tum fontos Ã¡llomÃ¡s a vÃ¡ndormadarak szÃ¡mÃ¡ra.", "A Buskett-kertek az egyetlen nagyobb erdos terÃ¼let a szigeten.", "A termÃ©szetvÃ©delmi terÃ¼letek vÃ©delme elengedhetetlen a fajok megmaradÃ¡sÃ¡hoz.", "A szigetorszÃ¡g szÃ¡raz Ã©ghajlata miatt a vizes Ã©lohelyek ritkasÃ¡gszÃ¡mba mennek.", "MÃ¡lta kormÃ¡nya szÃ¡mos projektet indÃ­tott a biodiverzitÃ¡s nÃ¶velÃ©sÃ©re.", "A helyi nÃ¶vÃ©nyvilÃ¡g szÃ¡mos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
   },
   {
     id: "port-portomaso-marina-st-julians-extra",
@@ -2568,8 +2568,8 @@ export const poiExtraMaltaOther: POI[] = [
       ro: "Un port de agrement de lux, parte a complexului Portomaso.",
       en: "A luxury marina as part of the Portomaso complex."
     },
-    descriptionAdvanced: { de: "", hu: "Plizio tanterv: Földrajz 7. évfolyam. Málta egyéb látnivalói, mint a természetvédelmi területek és kertek, fontos szerepet játszanak a szigetek ökológiai egyensúlyának megorzésében, és remek lehetoséget kínálnak a környezeti nevelésre.", ro: "TODO", en: "" },
-    factsAdvanced: { de: [], hu: ["Málta természeti értékei különösen érzékenyek a turizmus hatásaira.", "A Ghadira-rezervátum fontos állomás a vándormadarak számára.", "A Buskett-kertek az egyetlen nagyobb erdos terület a szigeten.", "A természetvédelmi területek védelme elengedhetetlen a fajok megmaradásához.", "A szigetország száraz éghajlata miatt a vizes élohelyek ritkaságszámba mennek.", "Málta kormánya számos projektet indított a biodiverzitás növelésére.", "A helyi növényvilág számos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
+    descriptionAdvanced: { de: "", hu: "Plizio tanterv: FÃ¶ldrajz 7. Ã©vfolyam. MÃ¡lta egyÃ©b lÃ¡tnivalÃ³i, mint a termÃ©szetvÃ©delmi terÃ¼letek Ã©s kertek, fontos szerepet jÃ¡tszanak a szigetek Ã¶kolÃ³giai egyensÃºlyÃ¡nak megorzÃ©sÃ©ben, Ã©s remek lehetosÃ©get kÃ­nÃ¡lnak a kÃ¶rnyezeti nevelÃ©sre.", ro: "TODO", en: "" },
+    factsAdvanced: { de: [], hu: ["MÃ¡lta termÃ©szeti Ã©rtÃ©kei kÃ¼lÃ¶nÃ¶sen Ã©rzÃ©kenyek a turizmus hatÃ¡saira.", "A Ghadira-rezervÃ¡tum fontos Ã¡llomÃ¡s a vÃ¡ndormadarak szÃ¡mÃ¡ra.", "A Buskett-kertek az egyetlen nagyobb erdos terÃ¼let a szigeten.", "A termÃ©szetvÃ©delmi terÃ¼letek vÃ©delme elengedhetetlen a fajok megmaradÃ¡sÃ¡hoz.", "A szigetorszÃ¡g szÃ¡raz Ã©ghajlata miatt a vizes Ã©lohelyek ritkasÃ¡gszÃ¡mba mennek.", "MÃ¡lta kormÃ¡nya szÃ¡mos projektet indÃ­tott a biodiverzitÃ¡s nÃ¶velÃ©sÃ©re.", "A helyi nÃ¶vÃ©nyvilÃ¡g szÃ¡mos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
   },
   {
     id: "port-manoel-island-yacht-marina-extra",
@@ -2588,8 +2588,8 @@ export const poiExtraMaltaOther: POI[] = [
       ro: "Un port mare de iahturi È™i un È™antier naval pe insula Manoel.",
       en: "A large yacht marina and yard on Manoel Island."
     },
-    descriptionAdvanced: { de: "", hu: "Plizio tanterv: Földrajz 7. évfolyam. Málta egyéb látnivalói, mint a természetvédelmi területek és kertek, fontos szerepet játszanak a szigetek ökológiai egyensúlyának megorzésében, és remek lehetoséget kínálnak a környezeti nevelésre.", ro: "TODO", en: "" },
-    factsAdvanced: { de: [], hu: ["Málta természeti értékei különösen érzékenyek a turizmus hatásaira.", "A Ghadira-rezervátum fontos állomás a vándormadarak számára.", "A Buskett-kertek az egyetlen nagyobb erdos terület a szigeten.", "A természetvédelmi területek védelme elengedhetetlen a fajok megmaradásához.", "A szigetország száraz éghajlata miatt a vizes élohelyek ritkaságszámba mennek.", "Málta kormánya számos projektet indított a biodiverzitás növelésére.", "A helyi növényvilág számos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
+    descriptionAdvanced: { de: "", hu: "Plizio tanterv: FÃ¶ldrajz 7. Ã©vfolyam. MÃ¡lta egyÃ©b lÃ¡tnivalÃ³i, mint a termÃ©szetvÃ©delmi terÃ¼letek Ã©s kertek, fontos szerepet jÃ¡tszanak a szigetek Ã¶kolÃ³giai egyensÃºlyÃ¡nak megorzÃ©sÃ©ben, Ã©s remek lehetosÃ©get kÃ­nÃ¡lnak a kÃ¶rnyezeti nevelÃ©sre.", ro: "TODO", en: "" },
+    factsAdvanced: { de: [], hu: ["MÃ¡lta termÃ©szeti Ã©rtÃ©kei kÃ¼lÃ¶nÃ¶sen Ã©rzÃ©kenyek a turizmus hatÃ¡saira.", "A Ghadira-rezervÃ¡tum fontos Ã¡llomÃ¡s a vÃ¡ndormadarak szÃ¡mÃ¡ra.", "A Buskett-kertek az egyetlen nagyobb erdos terÃ¼let a szigeten.", "A termÃ©szetvÃ©delmi terÃ¼letek vÃ©delme elengedhetetlen a fajok megmaradÃ¡sÃ¡hoz.", "A szigetorszÃ¡g szÃ¡raz Ã©ghajlata miatt a vizes Ã©lohelyek ritkasÃ¡gszÃ¡mba mennek.", "MÃ¡lta kormÃ¡nya szÃ¡mos projektet indÃ­tott a biodiverzitÃ¡s nÃ¶velÃ©sÃ©re.", "A helyi nÃ¶vÃ©nyvilÃ¡g szÃ¡mos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
   },
   {
     id: "port-marsaxlokk-harbour-fishing-village-extra",
@@ -2608,8 +2608,8 @@ export const poiExtraMaltaOther: POI[] = [
       ro: "Renumit pentru bÄƒrcile sale de pescuit colorate, numite 'Luzzu'.",
       en: "Famous for its colourful fishing boats called 'Luzzu'."
     },
-    descriptionAdvanced: { de: "", hu: "Plizio tanterv: Földrajz 7. évfolyam. Málta egyéb látnivalói, mint a természetvédelmi területek és kertek, fontos szerepet játszanak a szigetek ökológiai egyensúlyának megorzésében, és remek lehetoséget kínálnak a környezeti nevelésre.", ro: "TODO", en: "" },
-    factsAdvanced: { de: [], hu: ["Málta természeti értékei különösen érzékenyek a turizmus hatásaira.", "A Ghadira-rezervátum fontos állomás a vándormadarak számára.", "A Buskett-kertek az egyetlen nagyobb erdos terület a szigeten.", "A természetvédelmi területek védelme elengedhetetlen a fajok megmaradásához.", "A szigetország száraz éghajlata miatt a vizes élohelyek ritkaságszámba mennek.", "Málta kormánya számos projektet indított a biodiverzitás növelésére.", "A helyi növényvilág számos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
+    descriptionAdvanced: { de: "", hu: "Plizio tanterv: FÃ¶ldrajz 7. Ã©vfolyam. MÃ¡lta egyÃ©b lÃ¡tnivalÃ³i, mint a termÃ©szetvÃ©delmi terÃ¼letek Ã©s kertek, fontos szerepet jÃ¡tszanak a szigetek Ã¶kolÃ³giai egyensÃºlyÃ¡nak megorzÃ©sÃ©ben, Ã©s remek lehetosÃ©get kÃ­nÃ¡lnak a kÃ¶rnyezeti nevelÃ©sre.", ro: "TODO", en: "" },
+    factsAdvanced: { de: [], hu: ["MÃ¡lta termÃ©szeti Ã©rtÃ©kei kÃ¼lÃ¶nÃ¶sen Ã©rzÃ©kenyek a turizmus hatÃ¡saira.", "A Ghadira-rezervÃ¡tum fontos Ã¡llomÃ¡s a vÃ¡ndormadarak szÃ¡mÃ¡ra.", "A Buskett-kertek az egyetlen nagyobb erdos terÃ¼let a szigeten.", "A termÃ©szetvÃ©delmi terÃ¼letek vÃ©delme elengedhetetlen a fajok megmaradÃ¡sÃ¡hoz.", "A szigetorszÃ¡g szÃ¡raz Ã©ghajlata miatt a vizes Ã©lohelyek ritkasÃ¡gszÃ¡mba mennek.", "MÃ¡lta kormÃ¡nya szÃ¡mos projektet indÃ­tott a biodiverzitÃ¡s nÃ¶velÃ©sÃ©re.", "A helyi nÃ¶vÃ©nyvilÃ¡g szÃ¡mos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
   },
   {
     id: "port-sliema-ferry-service-extra",
@@ -2628,8 +2628,8 @@ export const poiExtraMaltaOther: POI[] = [
       ro: "Un serviciu de feribot pentru pasageri care leagÄƒ Sliema de Valletta.",
       en: "A passenger ferry service connecting Sliema to Valletta."
     },
-    descriptionAdvanced: { de: "", hu: "Plizio tanterv: Földrajz 7. évfolyam. Málta egyéb látnivalói, mint a természetvédelmi területek és kertek, fontos szerepet játszanak a szigetek ökológiai egyensúlyának megorzésében, és remek lehetoséget kínálnak a környezeti nevelésre.", ro: "TODO", en: "" },
-    factsAdvanced: { de: [], hu: ["Málta természeti értékei különösen érzékenyek a turizmus hatásaira.", "A Ghadira-rezervátum fontos állomás a vándormadarak számára.", "A Buskett-kertek az egyetlen nagyobb erdos terület a szigeten.", "A természetvédelmi területek védelme elengedhetetlen a fajok megmaradásához.", "A szigetország száraz éghajlata miatt a vizes élohelyek ritkaságszámba mennek.", "Málta kormánya számos projektet indított a biodiverzitás növelésére.", "A helyi növényvilág számos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
+    descriptionAdvanced: { de: "", hu: "Plizio tanterv: FÃ¶ldrajz 7. Ã©vfolyam. MÃ¡lta egyÃ©b lÃ¡tnivalÃ³i, mint a termÃ©szetvÃ©delmi terÃ¼letek Ã©s kertek, fontos szerepet jÃ¡tszanak a szigetek Ã¶kolÃ³giai egyensÃºlyÃ¡nak megorzÃ©sÃ©ben, Ã©s remek lehetosÃ©get kÃ­nÃ¡lnak a kÃ¶rnyezeti nevelÃ©sre.", ro: "TODO", en: "" },
+    factsAdvanced: { de: [], hu: ["MÃ¡lta termÃ©szeti Ã©rtÃ©kei kÃ¼lÃ¶nÃ¶sen Ã©rzÃ©kenyek a turizmus hatÃ¡saira.", "A Ghadira-rezervÃ¡tum fontos Ã¡llomÃ¡s a vÃ¡ndormadarak szÃ¡mÃ¡ra.", "A Buskett-kertek az egyetlen nagyobb erdos terÃ¼let a szigeten.", "A termÃ©szetvÃ©delmi terÃ¼letek vÃ©delme elengedhetetlen a fajok megmaradÃ¡sÃ¡hoz.", "A szigetorszÃ¡g szÃ¡raz Ã©ghajlata miatt a vizes Ã©lohelyek ritkasÃ¡gszÃ¡mba mennek.", "MÃ¡lta kormÃ¡nya szÃ¡mos projektet indÃ­tott a biodiverzitÃ¡s nÃ¶velÃ©sÃ©re.", "A helyi nÃ¶vÃ©nyvilÃ¡g szÃ¡mos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
   },
   {
     id: "port-three-cities-ferry-service-extra",
@@ -2648,8 +2648,8 @@ export const poiExtraMaltaOther: POI[] = [
       ro: "Un serviciu de feribot care leagÄƒ Valletta de Cele Trei OraÈ™e (Birgu, Senglea).",
       en: "A ferry service connecting Valletta to the Three Cities (Birgu, Senglea)."
     },
-    descriptionAdvanced: { de: "", hu: "Plizio tanterv: Földrajz 7. évfolyam. Málta egyéb látnivalói, mint a természetvédelmi területek és kertek, fontos szerepet játszanak a szigetek ökológiai egyensúlyának megorzésében, és remek lehetoséget kínálnak a környezeti nevelésre.", ro: "TODO", en: "" },
-    factsAdvanced: { de: [], hu: ["Málta természeti értékei különösen érzékenyek a turizmus hatásaira.", "A Ghadira-rezervátum fontos állomás a vándormadarak számára.", "A Buskett-kertek az egyetlen nagyobb erdos terület a szigeten.", "A természetvédelmi területek védelme elengedhetetlen a fajok megmaradásához.", "A szigetország száraz éghajlata miatt a vizes élohelyek ritkaságszámba mennek.", "Málta kormánya számos projektet indított a biodiverzitás növelésére.", "A helyi növényvilág számos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
+    descriptionAdvanced: { de: "", hu: "Plizio tanterv: FÃ¶ldrajz 7. Ã©vfolyam. MÃ¡lta egyÃ©b lÃ¡tnivalÃ³i, mint a termÃ©szetvÃ©delmi terÃ¼letek Ã©s kertek, fontos szerepet jÃ¡tszanak a szigetek Ã¶kolÃ³giai egyensÃºlyÃ¡nak megorzÃ©sÃ©ben, Ã©s remek lehetosÃ©get kÃ­nÃ¡lnak a kÃ¶rnyezeti nevelÃ©sre.", ro: "TODO", en: "" },
+    factsAdvanced: { de: [], hu: ["MÃ¡lta termÃ©szeti Ã©rtÃ©kei kÃ¼lÃ¶nÃ¶sen Ã©rzÃ©kenyek a turizmus hatÃ¡saira.", "A Ghadira-rezervÃ¡tum fontos Ã¡llomÃ¡s a vÃ¡ndormadarak szÃ¡mÃ¡ra.", "A Buskett-kertek az egyetlen nagyobb erdos terÃ¼let a szigeten.", "A termÃ©szetvÃ©delmi terÃ¼letek vÃ©delme elengedhetetlen a fajok megmaradÃ¡sÃ¡hoz.", "A szigetorszÃ¡g szÃ¡raz Ã©ghajlata miatt a vizes Ã©lohelyek ritkasÃ¡gszÃ¡mba mennek.", "MÃ¡lta kormÃ¡nya szÃ¡mos projektet indÃ­tott a biodiverzitÃ¡s nÃ¶velÃ©sÃ©re.", "A helyi nÃ¶vÃ©nyvilÃ¡g szÃ¡mos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
   },
   {
     id: "port-bugibba-jetty-for-boat-trips-extra",
@@ -2668,8 +2668,8 @@ export const poiExtraMaltaOther: POI[] = [
       ro: "Un punct de plecare important pentru bÄƒrcile turistice cÄƒtre Comino È™i Gozo.",
       en: "A major departure point for tourist boats to Comino and Gozo."
     },
-    descriptionAdvanced: { de: "", hu: "Plizio tanterv: Földrajz 7. évfolyam. Málta egyéb látnivalói, mint a természetvédelmi területek és kertek, fontos szerepet játszanak a szigetek ökológiai egyensúlyának megorzésében, és remek lehetoséget kínálnak a környezeti nevelésre.", ro: "TODO", en: "" },
-    factsAdvanced: { de: [], hu: ["Málta természeti értékei különösen érzékenyek a turizmus hatásaira.", "A Ghadira-rezervátum fontos állomás a vándormadarak számára.", "A Buskett-kertek az egyetlen nagyobb erdos terület a szigeten.", "A természetvédelmi területek védelme elengedhetetlen a fajok megmaradásához.", "A szigetország száraz éghajlata miatt a vizes élohelyek ritkaságszámba mennek.", "Málta kormánya számos projektet indított a biodiverzitás növelésére.", "A helyi növényvilág számos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
+    descriptionAdvanced: { de: "", hu: "Plizio tanterv: FÃ¶ldrajz 7. Ã©vfolyam. MÃ¡lta egyÃ©b lÃ¡tnivalÃ³i, mint a termÃ©szetvÃ©delmi terÃ¼letek Ã©s kertek, fontos szerepet jÃ¡tszanak a szigetek Ã¶kolÃ³giai egyensÃºlyÃ¡nak megorzÃ©sÃ©ben, Ã©s remek lehetosÃ©get kÃ­nÃ¡lnak a kÃ¶rnyezeti nevelÃ©sre.", ro: "TODO", en: "" },
+    factsAdvanced: { de: [], hu: ["MÃ¡lta termÃ©szeti Ã©rtÃ©kei kÃ¼lÃ¶nÃ¶sen Ã©rzÃ©kenyek a turizmus hatÃ¡saira.", "A Ghadira-rezervÃ¡tum fontos Ã¡llomÃ¡s a vÃ¡ndormadarak szÃ¡mÃ¡ra.", "A Buskett-kertek az egyetlen nagyobb erdos terÃ¼let a szigeten.", "A termÃ©szetvÃ©delmi terÃ¼letek vÃ©delme elengedhetetlen a fajok megmaradÃ¡sÃ¡hoz.", "A szigetorszÃ¡g szÃ¡raz Ã©ghajlata miatt a vizes Ã©lohelyek ritkasÃ¡gszÃ¡mba mennek.", "MÃ¡lta kormÃ¡nya szÃ¡mos projektet indÃ­tott a biodiverzitÃ¡s nÃ¶velÃ©sÃ©re.", "A helyi nÃ¶vÃ©nyvilÃ¡g szÃ¡mos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
   },
   {
     id: "port-st-thomas-bay-extra",
@@ -2688,8 +2688,8 @@ export const poiExtraMaltaOther: POI[] = [
       ro: "Un golf Ã®n Marsaskala folosit de bÄƒrci mici de pescuit È™i de agrement.",
       en: "A bay in Marsaskala used by small fishing and leisure boats."
     },
-    descriptionAdvanced: { de: "", hu: "Plizio tanterv: Földrajz 7. évfolyam. Málta egyéb látnivalói, mint a természetvédelmi területek és kertek, fontos szerepet játszanak a szigetek ökológiai egyensúlyának megorzésében, és remek lehetoséget kínálnak a környezeti nevelésre.", ro: "TODO", en: "" },
-    factsAdvanced: { de: [], hu: ["Málta természeti értékei különösen érzékenyek a turizmus hatásaira.", "A Ghadira-rezervátum fontos állomás a vándormadarak számára.", "A Buskett-kertek az egyetlen nagyobb erdos terület a szigeten.", "A természetvédelmi területek védelme elengedhetetlen a fajok megmaradásához.", "A szigetország száraz éghajlata miatt a vizes élohelyek ritkaságszámba mennek.", "Málta kormánya számos projektet indított a biodiverzitás növelésére.", "A helyi növényvilág számos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
+    descriptionAdvanced: { de: "", hu: "Plizio tanterv: FÃ¶ldrajz 7. Ã©vfolyam. MÃ¡lta egyÃ©b lÃ¡tnivalÃ³i, mint a termÃ©szetvÃ©delmi terÃ¼letek Ã©s kertek, fontos szerepet jÃ¡tszanak a szigetek Ã¶kolÃ³giai egyensÃºlyÃ¡nak megorzÃ©sÃ©ben, Ã©s remek lehetosÃ©get kÃ­nÃ¡lnak a kÃ¶rnyezeti nevelÃ©sre.", ro: "TODO", en: "" },
+    factsAdvanced: { de: [], hu: ["MÃ¡lta termÃ©szeti Ã©rtÃ©kei kÃ¼lÃ¶nÃ¶sen Ã©rzÃ©kenyek a turizmus hatÃ¡saira.", "A Ghadira-rezervÃ¡tum fontos Ã¡llomÃ¡s a vÃ¡ndormadarak szÃ¡mÃ¡ra.", "A Buskett-kertek az egyetlen nagyobb erdos terÃ¼let a szigeten.", "A termÃ©szetvÃ©delmi terÃ¼letek vÃ©delme elengedhetetlen a fajok megmaradÃ¡sÃ¡hoz.", "A szigetorszÃ¡g szÃ¡raz Ã©ghajlata miatt a vizes Ã©lohelyek ritkasÃ¡gszÃ¡mba mennek.", "MÃ¡lta kormÃ¡nya szÃ¡mos projektet indÃ­tott a biodiverzitÃ¡s nÃ¶velÃ©sÃ©re.", "A helyi nÃ¶vÃ©nyvilÃ¡g szÃ¡mos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
   },
   {
     id: "port-xlendi-bay-gozo-extra",
@@ -2708,8 +2708,8 @@ export const poiExtraMaltaOther: POI[] = [
       ro: "Un golf pitoresc folosit de bÄƒrci mici È™i un loc popular pentru scufundÄƒri.",
       en: "A picturesque inlet used by small boats and a popular spot for diving."
     },
-    descriptionAdvanced: { de: "", hu: "Plizio tanterv: Földrajz 7. évfolyam. Málta egyéb látnivalói, mint a természetvédelmi területek és kertek, fontos szerepet játszanak a szigetek ökológiai egyensúlyának megorzésében, és remek lehetoséget kínálnak a környezeti nevelésre.", ro: "TODO", en: "" },
-    factsAdvanced: { de: [], hu: ["Málta természeti értékei különösen érzékenyek a turizmus hatásaira.", "A Ghadira-rezervátum fontos állomás a vándormadarak számára.", "A Buskett-kertek az egyetlen nagyobb erdos terület a szigeten.", "A természetvédelmi területek védelme elengedhetetlen a fajok megmaradásához.", "A szigetország száraz éghajlata miatt a vizes élohelyek ritkaságszámba mennek.", "Málta kormánya számos projektet indított a biodiverzitás növelésére.", "A helyi növényvilág számos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
+    descriptionAdvanced: { de: "", hu: "Plizio tanterv: FÃ¶ldrajz 7. Ã©vfolyam. MÃ¡lta egyÃ©b lÃ¡tnivalÃ³i, mint a termÃ©szetvÃ©delmi terÃ¼letek Ã©s kertek, fontos szerepet jÃ¡tszanak a szigetek Ã¶kolÃ³giai egyensÃºlyÃ¡nak megorzÃ©sÃ©ben, Ã©s remek lehetosÃ©get kÃ­nÃ¡lnak a kÃ¶rnyezeti nevelÃ©sre.", ro: "TODO", en: "" },
+    factsAdvanced: { de: [], hu: ["MÃ¡lta termÃ©szeti Ã©rtÃ©kei kÃ¼lÃ¶nÃ¶sen Ã©rzÃ©kenyek a turizmus hatÃ¡saira.", "A Ghadira-rezervÃ¡tum fontos Ã¡llomÃ¡s a vÃ¡ndormadarak szÃ¡mÃ¡ra.", "A Buskett-kertek az egyetlen nagyobb erdos terÃ¼let a szigeten.", "A termÃ©szetvÃ©delmi terÃ¼letek vÃ©delme elengedhetetlen a fajok megmaradÃ¡sÃ¡hoz.", "A szigetorszÃ¡g szÃ¡raz Ã©ghajlata miatt a vizes Ã©lohelyek ritkasÃ¡gszÃ¡mba mennek.", "MÃ¡lta kormÃ¡nya szÃ¡mos projektet indÃ­tott a biodiverzitÃ¡s nÃ¶velÃ©sÃ©re.", "A helyi nÃ¶vÃ©nyvilÃ¡g szÃ¡mos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
   },
   {
     id: "port-wied-iz-zurrieq-boat-trips-to-blue-grotto-extra",
@@ -2728,8 +2728,8 @@ export const poiExtraMaltaOther: POI[] = [
       ro: "Un mic port de unde pleacÄƒ bÄƒrcile spre faimoasa GrotÄƒ AlbastrÄƒ.",
       en: "A small harbour from where boats depart to the famous Blue Grotto."
     },
-    descriptionAdvanced: { de: "", hu: "Plizio tanterv: Földrajz 7. évfolyam. Málta egyéb látnivalói, mint a természetvédelmi területek és kertek, fontos szerepet játszanak a szigetek ökológiai egyensúlyának megorzésében, és remek lehetoséget kínálnak a környezeti nevelésre.", ro: "TODO", en: "" },
-    factsAdvanced: { de: [], hu: ["Málta természeti értékei különösen érzékenyek a turizmus hatásaira.", "A Ghadira-rezervátum fontos állomás a vándormadarak számára.", "A Buskett-kertek az egyetlen nagyobb erdos terület a szigeten.", "A természetvédelmi területek védelme elengedhetetlen a fajok megmaradásához.", "A szigetország száraz éghajlata miatt a vizes élohelyek ritkaságszámba mennek.", "Málta kormánya számos projektet indított a biodiverzitás növelésére.", "A helyi növényvilág számos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
+    descriptionAdvanced: { de: "", hu: "Plizio tanterv: FÃ¶ldrajz 7. Ã©vfolyam. MÃ¡lta egyÃ©b lÃ¡tnivalÃ³i, mint a termÃ©szetvÃ©delmi terÃ¼letek Ã©s kertek, fontos szerepet jÃ¡tszanak a szigetek Ã¶kolÃ³giai egyensÃºlyÃ¡nak megorzÃ©sÃ©ben, Ã©s remek lehetosÃ©get kÃ­nÃ¡lnak a kÃ¶rnyezeti nevelÃ©sre.", ro: "TODO", en: "" },
+    factsAdvanced: { de: [], hu: ["MÃ¡lta termÃ©szeti Ã©rtÃ©kei kÃ¼lÃ¶nÃ¶sen Ã©rzÃ©kenyek a turizmus hatÃ¡saira.", "A Ghadira-rezervÃ¡tum fontos Ã¡llomÃ¡s a vÃ¡ndormadarak szÃ¡mÃ¡ra.", "A Buskett-kertek az egyetlen nagyobb erdos terÃ¼let a szigeten.", "A termÃ©szetvÃ©delmi terÃ¼letek vÃ©delme elengedhetetlen a fajok megmaradÃ¡sÃ¡hoz.", "A szigetorszÃ¡g szÃ¡raz Ã©ghajlata miatt a vizes Ã©lohelyek ritkasÃ¡gszÃ¡mba mennek.", "MÃ¡lta kormÃ¡nya szÃ¡mos projektet indÃ­tott a biodiverzitÃ¡s nÃ¶velÃ©sÃ©re.", "A helyi nÃ¶vÃ©nyvilÃ¡g szÃ¡mos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
   },
   {
     id: "port-ghadira-bay-boat-rentals-extra",
@@ -2748,8 +2748,8 @@ export const poiExtraMaltaOther: POI[] = [
       ro: "Diverse ambarcaÈ›iuni pot fi Ã®nchiriate de pe populara plajÄƒ din Mellieha.",
       en: "Various watercraft are available for rent at the popular Mellieha beach."
     },
-    descriptionAdvanced: { de: "", hu: "Plizio tanterv: Földrajz 7. évfolyam. Málta egyéb látnivalói, mint a természetvédelmi területek és kertek, fontos szerepet játszanak a szigetek ökológiai egyensúlyának megorzésében, és remek lehetoséget kínálnak a környezeti nevelésre.", ro: "TODO", en: "" },
-    factsAdvanced: { de: [], hu: ["Málta természeti értékei különösen érzékenyek a turizmus hatásaira.", "A Ghadira-rezervátum fontos állomás a vándormadarak számára.", "A Buskett-kertek az egyetlen nagyobb erdos terület a szigeten.", "A természetvédelmi területek védelme elengedhetetlen a fajok megmaradásához.", "A szigetország száraz éghajlata miatt a vizes élohelyek ritkaságszámba mennek.", "Málta kormánya számos projektet indított a biodiverzitás növelésére.", "A helyi növényvilág számos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
+    descriptionAdvanced: { de: "", hu: "Plizio tanterv: FÃ¶ldrajz 7. Ã©vfolyam. MÃ¡lta egyÃ©b lÃ¡tnivalÃ³i, mint a termÃ©szetvÃ©delmi terÃ¼letek Ã©s kertek, fontos szerepet jÃ¡tszanak a szigetek Ã¶kolÃ³giai egyensÃºlyÃ¡nak megorzÃ©sÃ©ben, Ã©s remek lehetosÃ©get kÃ­nÃ¡lnak a kÃ¶rnyezeti nevelÃ©sre.", ro: "TODO", en: "" },
+    factsAdvanced: { de: [], hu: ["MÃ¡lta termÃ©szeti Ã©rtÃ©kei kÃ¼lÃ¶nÃ¶sen Ã©rzÃ©kenyek a turizmus hatÃ¡saira.", "A Ghadira-rezervÃ¡tum fontos Ã¡llomÃ¡s a vÃ¡ndormadarak szÃ¡mÃ¡ra.", "A Buskett-kertek az egyetlen nagyobb erdos terÃ¼let a szigeten.", "A termÃ©szetvÃ©delmi terÃ¼letek vÃ©delme elengedhetetlen a fajok megmaradÃ¡sÃ¡hoz.", "A szigetorszÃ¡g szÃ¡raz Ã©ghajlata miatt a vizes Ã©lohelyek ritkasÃ¡gszÃ¡mba mennek.", "MÃ¡lta kormÃ¡nya szÃ¡mos projektet indÃ­tott a biodiverzitÃ¡s nÃ¶velÃ©sÃ©re.", "A helyi nÃ¶vÃ©nyvilÃ¡g szÃ¡mos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
   },
   {
     id: "port-dwejra-inland-sea-boat-trips-gozo-extra",
@@ -2768,8 +2768,8 @@ export const poiExtraMaltaOther: POI[] = [
       ro: "BÄƒrcile mici trec printr-un tunel Ã®n stÃ¢ncÄƒ de la Marea InterioarÄƒ la marea liberÄƒ.",
       en: "Small boats pass through a tunnel in the cliff from the Inland Sea to the open sea."
     },
-    descriptionAdvanced: { de: "", hu: "Plizio tanterv: Földrajz 7. évfolyam. Málta egyéb látnivalói, mint a természetvédelmi területek és kertek, fontos szerepet játszanak a szigetek ökológiai egyensúlyának megorzésében, és remek lehetoséget kínálnak a környezeti nevelésre.", ro: "TODO", en: "" },
-    factsAdvanced: { de: [], hu: ["Málta természeti értékei különösen érzékenyek a turizmus hatásaira.", "A Ghadira-rezervátum fontos állomás a vándormadarak számára.", "A Buskett-kertek az egyetlen nagyobb erdos terület a szigeten.", "A természetvédelmi területek védelme elengedhetetlen a fajok megmaradásához.", "A szigetország száraz éghajlata miatt a vizes élohelyek ritkaságszámba mennek.", "Málta kormánya számos projektet indított a biodiverzitás növelésére.", "A helyi növényvilág számos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
+    descriptionAdvanced: { de: "", hu: "Plizio tanterv: FÃ¶ldrajz 7. Ã©vfolyam. MÃ¡lta egyÃ©b lÃ¡tnivalÃ³i, mint a termÃ©szetvÃ©delmi terÃ¼letek Ã©s kertek, fontos szerepet jÃ¡tszanak a szigetek Ã¶kolÃ³giai egyensÃºlyÃ¡nak megorzÃ©sÃ©ben, Ã©s remek lehetosÃ©get kÃ­nÃ¡lnak a kÃ¶rnyezeti nevelÃ©sre.", ro: "TODO", en: "" },
+    factsAdvanced: { de: [], hu: ["MÃ¡lta termÃ©szeti Ã©rtÃ©kei kÃ¼lÃ¶nÃ¶sen Ã©rzÃ©kenyek a turizmus hatÃ¡saira.", "A Ghadira-rezervÃ¡tum fontos Ã¡llomÃ¡s a vÃ¡ndormadarak szÃ¡mÃ¡ra.", "A Buskett-kertek az egyetlen nagyobb erdos terÃ¼let a szigeten.", "A termÃ©szetvÃ©delmi terÃ¼letek vÃ©delme elengedhetetlen a fajok megmaradÃ¡sÃ¡hoz.", "A szigetorszÃ¡g szÃ¡raz Ã©ghajlata miatt a vizes Ã©lohelyek ritkasÃ¡gszÃ¡mba mennek.", "MÃ¡lta kormÃ¡nya szÃ¡mos projektet indÃ­tott a biodiverzitÃ¡s nÃ¶velÃ©sÃ©re.", "A helyi nÃ¶vÃ©nyvilÃ¡g szÃ¡mos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
   },
   {
     id: "port-blue-lagoon-ferry-point-comino-extra",
@@ -2788,8 +2788,8 @@ export const poiExtraMaltaOther: POI[] = [
       ro: "Principalul punct de acostare pentru feriboturile È™i bÄƒrcile turistice care aduc vizitatorii la Laguna AlbastrÄƒ.",
       en: "The main drop-off point for ferries and tourist boats bringing visitors to the Blue Lagoon."
     },
-    descriptionAdvanced: { de: "", hu: "Plizio tanterv: Földrajz 7. évfolyam. Málta egyéb látnivalói, mint a természetvédelmi területek és kertek, fontos szerepet játszanak a szigetek ökológiai egyensúlyának megorzésében, és remek lehetoséget kínálnak a környezeti nevelésre.", ro: "TODO", en: "" },
-    factsAdvanced: { de: [], hu: ["Málta természeti értékei különösen érzékenyek a turizmus hatásaira.", "A Ghadira-rezervátum fontos állomás a vándormadarak számára.", "A Buskett-kertek az egyetlen nagyobb erdos terület a szigeten.", "A természetvédelmi területek védelme elengedhetetlen a fajok megmaradásához.", "A szigetország száraz éghajlata miatt a vizes élohelyek ritkaságszámba mennek.", "Málta kormánya számos projektet indított a biodiverzitás növelésére.", "A helyi növényvilág számos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
+    descriptionAdvanced: { de: "", hu: "Plizio tanterv: FÃ¶ldrajz 7. Ã©vfolyam. MÃ¡lta egyÃ©b lÃ¡tnivalÃ³i, mint a termÃ©szetvÃ©delmi terÃ¼letek Ã©s kertek, fontos szerepet jÃ¡tszanak a szigetek Ã¶kolÃ³giai egyensÃºlyÃ¡nak megorzÃ©sÃ©ben, Ã©s remek lehetosÃ©get kÃ­nÃ¡lnak a kÃ¶rnyezeti nevelÃ©sre.", ro: "TODO", en: "" },
+    factsAdvanced: { de: [], hu: ["MÃ¡lta termÃ©szeti Ã©rtÃ©kei kÃ¼lÃ¶nÃ¶sen Ã©rzÃ©kenyek a turizmus hatÃ¡saira.", "A Ghadira-rezervÃ¡tum fontos Ã¡llomÃ¡s a vÃ¡ndormadarak szÃ¡mÃ¡ra.", "A Buskett-kertek az egyetlen nagyobb erdos terÃ¼let a szigeten.", "A termÃ©szetvÃ©delmi terÃ¼letek vÃ©delme elengedhetetlen a fajok megmaradÃ¡sÃ¡hoz.", "A szigetorszÃ¡g szÃ¡raz Ã©ghajlata miatt a vizes Ã©lohelyek ritkasÃ¡gszÃ¡mba mennek.", "MÃ¡lta kormÃ¡nya szÃ¡mos projektet indÃ­tott a biodiverzitÃ¡s nÃ¶velÃ©sÃ©re.", "A helyi nÃ¶vÃ©nyvilÃ¡g szÃ¡mos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
   },
   {
     id: "port-kalanka-bay-extra",
@@ -2808,8 +2808,8 @@ export const poiExtraMaltaOther: POI[] = [
       ro: "Un golf izolat folosit de localnici È™i bÄƒrci mici.",
       en: "A secluded bay used by locals and small boats."
     },
-    descriptionAdvanced: { de: "", hu: "Plizio tanterv: Földrajz 7. évfolyam. Málta egyéb látnivalói, mint a természetvédelmi területek és kertek, fontos szerepet játszanak a szigetek ökológiai egyensúlyának megorzésében, és remek lehetoséget kínálnak a környezeti nevelésre.", ro: "TODO", en: "" },
-    factsAdvanced: { de: [], hu: ["Málta természeti értékei különösen érzékenyek a turizmus hatásaira.", "A Ghadira-rezervátum fontos állomás a vándormadarak számára.", "A Buskett-kertek az egyetlen nagyobb erdos terület a szigeten.", "A természetvédelmi területek védelme elengedhetetlen a fajok megmaradásához.", "A szigetország száraz éghajlata miatt a vizes élohelyek ritkaságszámba mennek.", "Málta kormánya számos projektet indított a biodiverzitás növelésére.", "A helyi növényvilág számos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
+    descriptionAdvanced: { de: "", hu: "Plizio tanterv: FÃ¶ldrajz 7. Ã©vfolyam. MÃ¡lta egyÃ©b lÃ¡tnivalÃ³i, mint a termÃ©szetvÃ©delmi terÃ¼letek Ã©s kertek, fontos szerepet jÃ¡tszanak a szigetek Ã¶kolÃ³giai egyensÃºlyÃ¡nak megorzÃ©sÃ©ben, Ã©s remek lehetosÃ©get kÃ­nÃ¡lnak a kÃ¶rnyezeti nevelÃ©sre.", ro: "TODO", en: "" },
+    factsAdvanced: { de: [], hu: ["MÃ¡lta termÃ©szeti Ã©rtÃ©kei kÃ¼lÃ¶nÃ¶sen Ã©rzÃ©kenyek a turizmus hatÃ¡saira.", "A Ghadira-rezervÃ¡tum fontos Ã¡llomÃ¡s a vÃ¡ndormadarak szÃ¡mÃ¡ra.", "A Buskett-kertek az egyetlen nagyobb erdos terÃ¼let a szigeten.", "A termÃ©szetvÃ©delmi terÃ¼letek vÃ©delme elengedhetetlen a fajok megmaradÃ¡sÃ¡hoz.", "A szigetorszÃ¡g szÃ¡raz Ã©ghajlata miatt a vizes Ã©lohelyek ritkasÃ¡gszÃ¡mba mennek.", "MÃ¡lta kormÃ¡nya szÃ¡mos projektet indÃ­tott a biodiverzitÃ¡s nÃ¶velÃ©sÃ©re.", "A helyi nÃ¶vÃ©nyvilÃ¡g szÃ¡mos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
   },
   {
     id: "port-spinola-bay-st-julians-extra",
@@ -2828,8 +2828,8 @@ export const poiExtraMaltaOther: POI[] = [
       ro: "Un golf pitoresc cu bÄƒrci de pescuit tradiÈ›ionale lÃ¢ngÄƒ restaurante moderne.",
       en: "A picturesque bay with traditional fishing boats alongside modern restaurants."
     },
-    descriptionAdvanced: { de: "", hu: "Plizio tanterv: Földrajz 7. évfolyam. Málta egyéb látnivalói, mint a természetvédelmi területek és kertek, fontos szerepet játszanak a szigetek ökológiai egyensúlyának megorzésében, és remek lehetoséget kínálnak a környezeti nevelésre.", ro: "TODO", en: "" },
-    factsAdvanced: { de: [], hu: ["Málta természeti értékei különösen érzékenyek a turizmus hatásaira.", "A Ghadira-rezervátum fontos állomás a vándormadarak számára.", "A Buskett-kertek az egyetlen nagyobb erdos terület a szigeten.", "A természetvédelmi területek védelme elengedhetetlen a fajok megmaradásához.", "A szigetország száraz éghajlata miatt a vizes élohelyek ritkaságszámba mennek.", "Málta kormánya számos projektet indított a biodiverzitás növelésére.", "A helyi növényvilág számos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
+    descriptionAdvanced: { de: "", hu: "Plizio tanterv: FÃ¶ldrajz 7. Ã©vfolyam. MÃ¡lta egyÃ©b lÃ¡tnivalÃ³i, mint a termÃ©szetvÃ©delmi terÃ¼letek Ã©s kertek, fontos szerepet jÃ¡tszanak a szigetek Ã¶kolÃ³giai egyensÃºlyÃ¡nak megorzÃ©sÃ©ben, Ã©s remek lehetosÃ©get kÃ­nÃ¡lnak a kÃ¶rnyezeti nevelÃ©sre.", ro: "TODO", en: "" },
+    factsAdvanced: { de: [], hu: ["MÃ¡lta termÃ©szeti Ã©rtÃ©kei kÃ¼lÃ¶nÃ¶sen Ã©rzÃ©kenyek a turizmus hatÃ¡saira.", "A Ghadira-rezervÃ¡tum fontos Ã¡llomÃ¡s a vÃ¡ndormadarak szÃ¡mÃ¡ra.", "A Buskett-kertek az egyetlen nagyobb erdos terÃ¼let a szigeten.", "A termÃ©szetvÃ©delmi terÃ¼letek vÃ©delme elengedhetetlen a fajok megmaradÃ¡sÃ¡hoz.", "A szigetorszÃ¡g szÃ¡raz Ã©ghajlata miatt a vizes Ã©lohelyek ritkasÃ¡gszÃ¡mba mennek.", "MÃ¡lta kormÃ¡nya szÃ¡mos projektet indÃ­tott a biodiverzitÃ¡s nÃ¶velÃ©sÃ©re.", "A helyi nÃ¶vÃ©nyvilÃ¡g szÃ¡mos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
   },
   {
     id: "port-hay-wharf-floriana-extra",
@@ -2848,8 +2848,8 @@ export const poiExtraMaltaOther: POI[] = [
       ro: "Baza Escadrilei Maritime a ForÈ›elor Armate din Malta.",
       en: "The base for the Maritime Squadron of the Armed Forces of Malta."
     },
-    descriptionAdvanced: { de: "", hu: "Plizio tanterv: Földrajz 7. évfolyam. Málta egyéb látnivalói, mint a természetvédelmi területek és kertek, fontos szerepet játszanak a szigetek ökológiai egyensúlyának megorzésében, és remek lehetoséget kínálnak a környezeti nevelésre.", ro: "TODO", en: "" },
-    factsAdvanced: { de: [], hu: ["Málta természeti értékei különösen érzékenyek a turizmus hatásaira.", "A Ghadira-rezervátum fontos állomás a vándormadarak számára.", "A Buskett-kertek az egyetlen nagyobb erdos terület a szigeten.", "A természetvédelmi területek védelme elengedhetetlen a fajok megmaradásához.", "A szigetország száraz éghajlata miatt a vizes élohelyek ritkaságszámba mennek.", "Málta kormánya számos projektet indított a biodiverzitás növelésére.", "A helyi növényvilág számos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
+    descriptionAdvanced: { de: "", hu: "Plizio tanterv: FÃ¶ldrajz 7. Ã©vfolyam. MÃ¡lta egyÃ©b lÃ¡tnivalÃ³i, mint a termÃ©szetvÃ©delmi terÃ¼letek Ã©s kertek, fontos szerepet jÃ¡tszanak a szigetek Ã¶kolÃ³giai egyensÃºlyÃ¡nak megorzÃ©sÃ©ben, Ã©s remek lehetosÃ©get kÃ­nÃ¡lnak a kÃ¶rnyezeti nevelÃ©sre.", ro: "TODO", en: "" },
+    factsAdvanced: { de: [], hu: ["MÃ¡lta termÃ©szeti Ã©rtÃ©kei kÃ¼lÃ¶nÃ¶sen Ã©rzÃ©kenyek a turizmus hatÃ¡saira.", "A Ghadira-rezervÃ¡tum fontos Ã¡llomÃ¡s a vÃ¡ndormadarak szÃ¡mÃ¡ra.", "A Buskett-kertek az egyetlen nagyobb erdos terÃ¼let a szigeten.", "A termÃ©szetvÃ©delmi terÃ¼letek vÃ©delme elengedhetetlen a fajok megmaradÃ¡sÃ¡hoz.", "A szigetorszÃ¡g szÃ¡raz Ã©ghajlata miatt a vizes Ã©lohelyek ritkasÃ¡gszÃ¡mba mennek.", "MÃ¡lta kormÃ¡nya szÃ¡mos projektet indÃ­tott a biodiverzitÃ¡s nÃ¶velÃ©sÃ©re.", "A helyi nÃ¶vÃ©nyvilÃ¡g szÃ¡mos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
   },
   {
     id: "port-kalkara-marina-extra",
@@ -2868,8 +2868,8 @@ export const poiExtraMaltaOther: POI[] = [
       ro: "Un port de agrement Ã®n pÃ¢rÃ¢ul Kalkara din Marele Port.",
       en: "A marina located in Kalkara Creek within the Grand Harbour."
     },
-    descriptionAdvanced: { de: "", hu: "Plizio tanterv: Földrajz 7. évfolyam. Málta egyéb látnivalói, mint a természetvédelmi területek és kertek, fontos szerepet játszanak a szigetek ökológiai egyensúlyának megorzésében, és remek lehetoséget kínálnak a környezeti nevelésre.", ro: "TODO", en: "" },
-    factsAdvanced: { de: [], hu: ["Málta természeti értékei különösen érzékenyek a turizmus hatásaira.", "A Ghadira-rezervátum fontos állomás a vándormadarak számára.", "A Buskett-kertek az egyetlen nagyobb erdos terület a szigeten.", "A természetvédelmi területek védelme elengedhetetlen a fajok megmaradásához.", "A szigetország száraz éghajlata miatt a vizes élohelyek ritkaságszámba mennek.", "Málta kormánya számos projektet indított a biodiverzitás növelésére.", "A helyi növényvilág számos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
+    descriptionAdvanced: { de: "", hu: "Plizio tanterv: FÃ¶ldrajz 7. Ã©vfolyam. MÃ¡lta egyÃ©b lÃ¡tnivalÃ³i, mint a termÃ©szetvÃ©delmi terÃ¼letek Ã©s kertek, fontos szerepet jÃ¡tszanak a szigetek Ã¶kolÃ³giai egyensÃºlyÃ¡nak megorzÃ©sÃ©ben, Ã©s remek lehetosÃ©get kÃ­nÃ¡lnak a kÃ¶rnyezeti nevelÃ©sre.", ro: "TODO", en: "" },
+    factsAdvanced: { de: [], hu: ["MÃ¡lta termÃ©szeti Ã©rtÃ©kei kÃ¼lÃ¶nÃ¶sen Ã©rzÃ©kenyek a turizmus hatÃ¡saira.", "A Ghadira-rezervÃ¡tum fontos Ã¡llomÃ¡s a vÃ¡ndormadarak szÃ¡mÃ¡ra.", "A Buskett-kertek az egyetlen nagyobb erdos terÃ¼let a szigeten.", "A termÃ©szetvÃ©delmi terÃ¼letek vÃ©delme elengedhetetlen a fajok megmaradÃ¡sÃ¡hoz.", "A szigetorszÃ¡g szÃ¡raz Ã©ghajlata miatt a vizes Ã©lohelyek ritkasÃ¡gszÃ¡mba mennek.", "MÃ¡lta kormÃ¡nya szÃ¡mos projektet indÃ­tott a biodiverzitÃ¡s nÃ¶velÃ©sÃ©re.", "A helyi nÃ¶vÃ©nyvilÃ¡g szÃ¡mos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
   },
   {
     id: "port-san-giljan-waterpolo-club-extra",
@@ -2888,8 +2888,8 @@ export const poiExtraMaltaOther: POI[] = [
       ro: "Un club de polo pe apÄƒ cu o piscinÄƒ cu apÄƒ de mare È™i dane.",
       en: "A waterpolo club with a seawater pool and mooring facilities."
     },
-    descriptionAdvanced: { de: "", hu: "Plizio tanterv: Földrajz 7. évfolyam. Málta egyéb látnivalói, mint a természetvédelmi területek és kertek, fontos szerepet játszanak a szigetek ökológiai egyensúlyának megorzésében, és remek lehetoséget kínálnak a környezeti nevelésre.", ro: "TODO", en: "" },
-    factsAdvanced: { de: [], hu: ["Málta természeti értékei különösen érzékenyek a turizmus hatásaira.", "A Ghadira-rezervátum fontos állomás a vándormadarak számára.", "A Buskett-kertek az egyetlen nagyobb erdos terület a szigeten.", "A természetvédelmi területek védelme elengedhetetlen a fajok megmaradásához.", "A szigetország száraz éghajlata miatt a vizes élohelyek ritkaságszámba mennek.", "Málta kormánya számos projektet indított a biodiverzitás növelésére.", "A helyi növényvilág számos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
+    descriptionAdvanced: { de: "", hu: "Plizio tanterv: FÃ¶ldrajz 7. Ã©vfolyam. MÃ¡lta egyÃ©b lÃ¡tnivalÃ³i, mint a termÃ©szetvÃ©delmi terÃ¼letek Ã©s kertek, fontos szerepet jÃ¡tszanak a szigetek Ã¶kolÃ³giai egyensÃºlyÃ¡nak megorzÃ©sÃ©ben, Ã©s remek lehetosÃ©get kÃ­nÃ¡lnak a kÃ¶rnyezeti nevelÃ©sre.", ro: "TODO", en: "" },
+    factsAdvanced: { de: [], hu: ["MÃ¡lta termÃ©szeti Ã©rtÃ©kei kÃ¼lÃ¶nÃ¶sen Ã©rzÃ©kenyek a turizmus hatÃ¡saira.", "A Ghadira-rezervÃ¡tum fontos Ã¡llomÃ¡s a vÃ¡ndormadarak szÃ¡mÃ¡ra.", "A Buskett-kertek az egyetlen nagyobb erdos terÃ¼let a szigeten.", "A termÃ©szetvÃ©delmi terÃ¼letek vÃ©delme elengedhetetlen a fajok megmaradÃ¡sÃ¡hoz.", "A szigetorszÃ¡g szÃ¡raz Ã©ghajlata miatt a vizes Ã©lohelyek ritkasÃ¡gszÃ¡mba mennek.", "MÃ¡lta kormÃ¡nya szÃ¡mos projektet indÃ­tott a biodiverzitÃ¡s nÃ¶velÃ©sÃ©re.", "A helyi nÃ¶vÃ©nyvilÃ¡g szÃ¡mos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
   },
   {
     id: "port-anchor-bay-extra",
@@ -2908,8 +2908,8 @@ export const poiExtraMaltaOther: POI[] = [
       ro: "Golful unde se aflÄƒ Satul Popeye, folosit È™i ca loc de ancorare.",
       en: "The bay where Popeye Village is located, also used as an anchorage."
     },
-    descriptionAdvanced: { de: "", hu: "Plizio tanterv: Földrajz 7. évfolyam. Málta egyéb látnivalói, mint a természetvédelmi területek és kertek, fontos szerepet játszanak a szigetek ökológiai egyensúlyának megorzésében, és remek lehetoséget kínálnak a környezeti nevelésre.", ro: "TODO", en: "" },
-    factsAdvanced: { de: [], hu: ["Málta természeti értékei különösen érzékenyek a turizmus hatásaira.", "A Ghadira-rezervátum fontos állomás a vándormadarak számára.", "A Buskett-kertek az egyetlen nagyobb erdos terület a szigeten.", "A természetvédelmi területek védelme elengedhetetlen a fajok megmaradásához.", "A szigetország száraz éghajlata miatt a vizes élohelyek ritkaságszámba mennek.", "Málta kormánya számos projektet indított a biodiverzitás növelésére.", "A helyi növényvilág számos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
+    descriptionAdvanced: { de: "", hu: "Plizio tanterv: FÃ¶ldrajz 7. Ã©vfolyam. MÃ¡lta egyÃ©b lÃ¡tnivalÃ³i, mint a termÃ©szetvÃ©delmi terÃ¼letek Ã©s kertek, fontos szerepet jÃ¡tszanak a szigetek Ã¶kolÃ³giai egyensÃºlyÃ¡nak megorzÃ©sÃ©ben, Ã©s remek lehetosÃ©get kÃ­nÃ¡lnak a kÃ¶rnyezeti nevelÃ©sre.", ro: "TODO", en: "" },
+    factsAdvanced: { de: [], hu: ["MÃ¡lta termÃ©szeti Ã©rtÃ©kei kÃ¼lÃ¶nÃ¶sen Ã©rzÃ©kenyek a turizmus hatÃ¡saira.", "A Ghadira-rezervÃ¡tum fontos Ã¡llomÃ¡s a vÃ¡ndormadarak szÃ¡mÃ¡ra.", "A Buskett-kertek az egyetlen nagyobb erdos terÃ¼let a szigeten.", "A termÃ©szetvÃ©delmi terÃ¼letek vÃ©delme elengedhetetlen a fajok megmaradÃ¡sÃ¡hoz.", "A szigetorszÃ¡g szÃ¡raz Ã©ghajlata miatt a vizes Ã©lohelyek ritkasÃ¡gszÃ¡mba mennek.", "MÃ¡lta kormÃ¡nya szÃ¡mos projektet indÃ­tott a biodiverzitÃ¡s nÃ¶velÃ©sÃ©re.", "A helyi nÃ¶vÃ©nyvilÃ¡g szÃ¡mos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
   },
   {
     id: "port-marsalforn-bay-gozo-extra",
@@ -2928,8 +2928,8 @@ export const poiExtraMaltaOther: POI[] = [
       ro: "O staÈ›iune popularÄƒ cu un mic port pentru bÄƒrcile de pescuit.",
       en: "A popular resort town with a small harbour for fishing boats."
     },
-    descriptionAdvanced: { de: "", hu: "Plizio tanterv: Földrajz 7. évfolyam. Málta egyéb látnivalói, mint a természetvédelmi területek és kertek, fontos szerepet játszanak a szigetek ökológiai egyensúlyának megorzésében, és remek lehetoséget kínálnak a környezeti nevelésre.", ro: "TODO", en: "" },
-    factsAdvanced: { de: [], hu: ["Málta természeti értékei különösen érzékenyek a turizmus hatásaira.", "A Ghadira-rezervátum fontos állomás a vándormadarak számára.", "A Buskett-kertek az egyetlen nagyobb erdos terület a szigeten.", "A természetvédelmi területek védelme elengedhetetlen a fajok megmaradásához.", "A szigetország száraz éghajlata miatt a vizes élohelyek ritkaságszámba mennek.", "Málta kormánya számos projektet indított a biodiverzitás növelésére.", "A helyi növényvilág számos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
+    descriptionAdvanced: { de: "", hu: "Plizio tanterv: FÃ¶ldrajz 7. Ã©vfolyam. MÃ¡lta egyÃ©b lÃ¡tnivalÃ³i, mint a termÃ©szetvÃ©delmi terÃ¼letek Ã©s kertek, fontos szerepet jÃ¡tszanak a szigetek Ã¶kolÃ³giai egyensÃºlyÃ¡nak megorzÃ©sÃ©ben, Ã©s remek lehetosÃ©get kÃ­nÃ¡lnak a kÃ¶rnyezeti nevelÃ©sre.", ro: "TODO", en: "" },
+    factsAdvanced: { de: [], hu: ["MÃ¡lta termÃ©szeti Ã©rtÃ©kei kÃ¼lÃ¶nÃ¶sen Ã©rzÃ©kenyek a turizmus hatÃ¡saira.", "A Ghadira-rezervÃ¡tum fontos Ã¡llomÃ¡s a vÃ¡ndormadarak szÃ¡mÃ¡ra.", "A Buskett-kertek az egyetlen nagyobb erdos terÃ¼let a szigeten.", "A termÃ©szetvÃ©delmi terÃ¼letek vÃ©delme elengedhetetlen a fajok megmaradÃ¡sÃ¡hoz.", "A szigetorszÃ¡g szÃ¡raz Ã©ghajlata miatt a vizes Ã©lohelyek ritkasÃ¡gszÃ¡mba mennek.", "MÃ¡lta kormÃ¡nya szÃ¡mos projektet indÃ­tott a biodiverzitÃ¡s nÃ¶velÃ©sÃ©re.", "A helyi nÃ¶vÃ©nyvilÃ¡g szÃ¡mos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
   },
   {
     id: "port-ta-xbiex-marina-extra",
@@ -2948,8 +2948,8 @@ export const poiExtraMaltaOther: POI[] = [
       ro: "Unul dintre cele mai mari porturi de agrement din Malta, cu multe ambasade strÄƒine Ã®n apropiere.",
       en: "One of the largest marinas in Malta, with many foreign embassies nearby."
     },
-    descriptionAdvanced: { de: "", hu: "Plizio tanterv: Földrajz 7. évfolyam. Málta egyéb látnivalói, mint a természetvédelmi területek és kertek, fontos szerepet játszanak a szigetek ökológiai egyensúlyának megorzésében, és remek lehetoséget kínálnak a környezeti nevelésre.", ro: "TODO", en: "" },
-    factsAdvanced: { de: [], hu: ["Málta természeti értékei különösen érzékenyek a turizmus hatásaira.", "A Ghadira-rezervátum fontos állomás a vándormadarak számára.", "A Buskett-kertek az egyetlen nagyobb erdos terület a szigeten.", "A természetvédelmi területek védelme elengedhetetlen a fajok megmaradásához.", "A szigetország száraz éghajlata miatt a vizes élohelyek ritkaságszámba mennek.", "Málta kormánya számos projektet indított a biodiverzitás növelésére.", "A helyi növényvilág számos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
+    descriptionAdvanced: { de: "", hu: "Plizio tanterv: FÃ¶ldrajz 7. Ã©vfolyam. MÃ¡lta egyÃ©b lÃ¡tnivalÃ³i, mint a termÃ©szetvÃ©delmi terÃ¼letek Ã©s kertek, fontos szerepet jÃ¡tszanak a szigetek Ã¶kolÃ³giai egyensÃºlyÃ¡nak megorzÃ©sÃ©ben, Ã©s remek lehetosÃ©get kÃ­nÃ¡lnak a kÃ¶rnyezeti nevelÃ©sre.", ro: "TODO", en: "" },
+    factsAdvanced: { de: [], hu: ["MÃ¡lta termÃ©szeti Ã©rtÃ©kei kÃ¼lÃ¶nÃ¶sen Ã©rzÃ©kenyek a turizmus hatÃ¡saira.", "A Ghadira-rezervÃ¡tum fontos Ã¡llomÃ¡s a vÃ¡ndormadarak szÃ¡mÃ¡ra.", "A Buskett-kertek az egyetlen nagyobb erdos terÃ¼let a szigeten.", "A termÃ©szetvÃ©delmi terÃ¼letek vÃ©delme elengedhetetlen a fajok megmaradÃ¡sÃ¡hoz.", "A szigetorszÃ¡g szÃ¡raz Ã©ghajlata miatt a vizes Ã©lohelyek ritkasÃ¡gszÃ¡mba mennek.", "MÃ¡lta kormÃ¡nya szÃ¡mos projektet indÃ­tott a biodiverzitÃ¡s nÃ¶velÃ©sÃ©re.", "A helyi nÃ¶vÃ©nyvilÃ¡g szÃ¡mos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
   },
   {
     id: "port-st-georges-bay-boat-charters-extra",
@@ -2968,8 +2968,8 @@ export const poiExtraMaltaOther: POI[] = [
       ro: "ExistÄƒ mai multe companii de Ã®nchiriere È™i charter de ambarcaÈ›iuni Ã®n acest golf din St. Julian's.",
       en: "Several boat rental and charter companies operate from this bay in St. Julian's."
     },
-    descriptionAdvanced: { de: "", hu: "Plizio tanterv: Földrajz 7. évfolyam. Málta egyéb látnivalói, mint a természetvédelmi területek és kertek, fontos szerepet játszanak a szigetek ökológiai egyensúlyának megorzésében, és remek lehetoséget kínálnak a környezeti nevelésre.", ro: "TODO", en: "" },
-    factsAdvanced: { de: [], hu: ["Málta természeti értékei különösen érzékenyek a turizmus hatásaira.", "A Ghadira-rezervátum fontos állomás a vándormadarak számára.", "A Buskett-kertek az egyetlen nagyobb erdos terület a szigeten.", "A természetvédelmi területek védelme elengedhetetlen a fajok megmaradásához.", "A szigetország száraz éghajlata miatt a vizes élohelyek ritkaságszámba mennek.", "Málta kormánya számos projektet indított a biodiverzitás növelésére.", "A helyi növényvilág számos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
+    descriptionAdvanced: { de: "", hu: "Plizio tanterv: FÃ¶ldrajz 7. Ã©vfolyam. MÃ¡lta egyÃ©b lÃ¡tnivalÃ³i, mint a termÃ©szetvÃ©delmi terÃ¼letek Ã©s kertek, fontos szerepet jÃ¡tszanak a szigetek Ã¶kolÃ³giai egyensÃºlyÃ¡nak megorzÃ©sÃ©ben, Ã©s remek lehetosÃ©get kÃ­nÃ¡lnak a kÃ¶rnyezeti nevelÃ©sre.", ro: "TODO", en: "" },
+    factsAdvanced: { de: [], hu: ["MÃ¡lta termÃ©szeti Ã©rtÃ©kei kÃ¼lÃ¶nÃ¶sen Ã©rzÃ©kenyek a turizmus hatÃ¡saira.", "A Ghadira-rezervÃ¡tum fontos Ã¡llomÃ¡s a vÃ¡ndormadarak szÃ¡mÃ¡ra.", "A Buskett-kertek az egyetlen nagyobb erdos terÃ¼let a szigeten.", "A termÃ©szetvÃ©delmi terÃ¼letek vÃ©delme elengedhetetlen a fajok megmaradÃ¡sÃ¡hoz.", "A szigetorszÃ¡g szÃ¡raz Ã©ghajlata miatt a vizes Ã©lohelyek ritkasÃ¡gszÃ¡mba mennek.", "MÃ¡lta kormÃ¡nya szÃ¡mos projektet indÃ­tott a biodiverzitÃ¡s nÃ¶velÃ©sÃ©re.", "A helyi nÃ¶vÃ©nyvilÃ¡g szÃ¡mos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
   },
   {
     id: "port-hondoq-ir-rummien-gozo-extra",
@@ -2988,8 +2988,8 @@ export const poiExtraMaltaOther: POI[] = [
       ro: "Un mic golf cu un debarcader folosit anterior pentru transportul blocurilor de piatrÄƒ.",
       en: "A small bay with a jetty formerly used for transporting stone blocks."
     },
-    descriptionAdvanced: { de: "", hu: "Plizio tanterv: Földrajz 7. évfolyam. Málta egyéb látnivalói, mint a természetvédelmi területek és kertek, fontos szerepet játszanak a szigetek ökológiai egyensúlyának megorzésében, és remek lehetoséget kínálnak a környezeti nevelésre.", ro: "TODO", en: "" },
-    factsAdvanced: { de: [], hu: ["Málta természeti értékei különösen érzékenyek a turizmus hatásaira.", "A Ghadira-rezervátum fontos állomás a vándormadarak számára.", "A Buskett-kertek az egyetlen nagyobb erdos terület a szigeten.", "A természetvédelmi területek védelme elengedhetetlen a fajok megmaradásához.", "A szigetország száraz éghajlata miatt a vizes élohelyek ritkaságszámba mennek.", "Málta kormánya számos projektet indított a biodiverzitás növelésére.", "A helyi növényvilág számos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
+    descriptionAdvanced: { de: "", hu: "Plizio tanterv: FÃ¶ldrajz 7. Ã©vfolyam. MÃ¡lta egyÃ©b lÃ¡tnivalÃ³i, mint a termÃ©szetvÃ©delmi terÃ¼letek Ã©s kertek, fontos szerepet jÃ¡tszanak a szigetek Ã¶kolÃ³giai egyensÃºlyÃ¡nak megorzÃ©sÃ©ben, Ã©s remek lehetosÃ©get kÃ­nÃ¡lnak a kÃ¶rnyezeti nevelÃ©sre.", ro: "TODO", en: "" },
+    factsAdvanced: { de: [], hu: ["MÃ¡lta termÃ©szeti Ã©rtÃ©kei kÃ¼lÃ¶nÃ¶sen Ã©rzÃ©kenyek a turizmus hatÃ¡saira.", "A Ghadira-rezervÃ¡tum fontos Ã¡llomÃ¡s a vÃ¡ndormadarak szÃ¡mÃ¡ra.", "A Buskett-kertek az egyetlen nagyobb erdos terÃ¼let a szigeten.", "A termÃ©szetvÃ©delmi terÃ¼letek vÃ©delme elengedhetetlen a fajok megmaradÃ¡sÃ¡hoz.", "A szigetorszÃ¡g szÃ¡raz Ã©ghajlata miatt a vizes Ã©lohelyek ritkasÃ¡gszÃ¡mba mennek.", "MÃ¡lta kormÃ¡nya szÃ¡mos projektet indÃ­tott a biodiverzitÃ¡s nÃ¶velÃ©sÃ©re.", "A helyi nÃ¶vÃ©nyvilÃ¡g szÃ¡mos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
   },
   {
     id: "port-lascaris-wharf-valletta-extra",
@@ -3008,8 +3008,8 @@ export const poiExtraMaltaOther: POI[] = [
       ro: "O parte a Marelui Port, aproape de GrÄƒdinile Barrakka de Sus.",
       en: "A part of the Grand Harbour, near the Upper Barrakka Gardens."
     },
-    descriptionAdvanced: { de: "", hu: "Plizio tanterv: Földrajz 7. évfolyam. Málta egyéb látnivalói, mint a természetvédelmi területek és kertek, fontos szerepet játszanak a szigetek ökológiai egyensúlyának megorzésében, és remek lehetoséget kínálnak a környezeti nevelésre.", ro: "TODO", en: "" },
-    factsAdvanced: { de: [], hu: ["Málta természeti értékei különösen érzékenyek a turizmus hatásaira.", "A Ghadira-rezervátum fontos állomás a vándormadarak számára.", "A Buskett-kertek az egyetlen nagyobb erdos terület a szigeten.", "A természetvédelmi területek védelme elengedhetetlen a fajok megmaradásához.", "A szigetország száraz éghajlata miatt a vizes élohelyek ritkaságszámba mennek.", "Málta kormánya számos projektet indított a biodiverzitás növelésére.", "A helyi növényvilág számos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
+    descriptionAdvanced: { de: "", hu: "Plizio tanterv: FÃ¶ldrajz 7. Ã©vfolyam. MÃ¡lta egyÃ©b lÃ¡tnivalÃ³i, mint a termÃ©szetvÃ©delmi terÃ¼letek Ã©s kertek, fontos szerepet jÃ¡tszanak a szigetek Ã¶kolÃ³giai egyensÃºlyÃ¡nak megorzÃ©sÃ©ben, Ã©s remek lehetosÃ©get kÃ­nÃ¡lnak a kÃ¶rnyezeti nevelÃ©sre.", ro: "TODO", en: "" },
+    factsAdvanced: { de: [], hu: ["MÃ¡lta termÃ©szeti Ã©rtÃ©kei kÃ¼lÃ¶nÃ¶sen Ã©rzÃ©kenyek a turizmus hatÃ¡saira.", "A Ghadira-rezervÃ¡tum fontos Ã¡llomÃ¡s a vÃ¡ndormadarak szÃ¡mÃ¡ra.", "A Buskett-kertek az egyetlen nagyobb erdos terÃ¼let a szigeten.", "A termÃ©szetvÃ©delmi terÃ¼letek vÃ©delme elengedhetetlen a fajok megmaradÃ¡sÃ¡hoz.", "A szigetorszÃ¡g szÃ¡raz Ã©ghajlata miatt a vizes Ã©lohelyek ritkasÃ¡gszÃ¡mba mennek.", "MÃ¡lta kormÃ¡nya szÃ¡mos projektet indÃ­tott a biodiverzitÃ¡s nÃ¶velÃ©sÃ©re.", "A helyi nÃ¶vÃ©nyvilÃ¡g szÃ¡mos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
   },
 
   // Landscape (using various types)
@@ -3030,8 +3030,8 @@ export const poiExtraMaltaOther: POI[] = [
       ro: "Cel mai Ã®nalt punct din Malta, oferind vederi uluitoare ale mÄƒrii deschise.",
       en: "The highest point in Malta, offering breathtaking views of the open sea."
     },
-    descriptionAdvanced: { de: "", hu: "Plizio tanterv: Földrajz 7. évfolyam. Málta egyéb látnivalói, mint a természetvédelmi területek és kertek, fontos szerepet játszanak a szigetek ökológiai egyensúlyának megorzésében, és remek lehetoséget kínálnak a környezeti nevelésre.", ro: "TODO", en: "" },
-    factsAdvanced: { de: [], hu: ["Málta természeti értékei különösen érzékenyek a turizmus hatásaira.", "A Ghadira-rezervátum fontos állomás a vándormadarak számára.", "A Buskett-kertek az egyetlen nagyobb erdos terület a szigeten.", "A természetvédelmi területek védelme elengedhetetlen a fajok megmaradásához.", "A szigetország száraz éghajlata miatt a vizes élohelyek ritkaságszámba mennek.", "Málta kormánya számos projektet indított a biodiverzitás növelésére.", "A helyi növényvilág számos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
+    descriptionAdvanced: { de: "", hu: "Plizio tanterv: FÃ¶ldrajz 7. Ã©vfolyam. MÃ¡lta egyÃ©b lÃ¡tnivalÃ³i, mint a termÃ©szetvÃ©delmi terÃ¼letek Ã©s kertek, fontos szerepet jÃ¡tszanak a szigetek Ã¶kolÃ³giai egyensÃºlyÃ¡nak megorzÃ©sÃ©ben, Ã©s remek lehetosÃ©get kÃ­nÃ¡lnak a kÃ¶rnyezeti nevelÃ©sre.", ro: "TODO", en: "" },
+    factsAdvanced: { de: [], hu: ["MÃ¡lta termÃ©szeti Ã©rtÃ©kei kÃ¼lÃ¶nÃ¶sen Ã©rzÃ©kenyek a turizmus hatÃ¡saira.", "A Ghadira-rezervÃ¡tum fontos Ã¡llomÃ¡s a vÃ¡ndormadarak szÃ¡mÃ¡ra.", "A Buskett-kertek az egyetlen nagyobb erdos terÃ¼let a szigeten.", "A termÃ©szetvÃ©delmi terÃ¼letek vÃ©delme elengedhetetlen a fajok megmaradÃ¡sÃ¡hoz.", "A szigetorszÃ¡g szÃ¡raz Ã©ghajlata miatt a vizes Ã©lohelyek ritkasÃ¡gszÃ¡mba mennek.", "MÃ¡lta kormÃ¡nya szÃ¡mos projektet indÃ­tott a biodiverzitÃ¡s nÃ¶velÃ©sÃ©re.", "A helyi nÃ¶vÃ©nyvilÃ¡g szÃ¡mos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
   },
   {
     id: "landscape-blue-grotto-extra",
@@ -3050,8 +3050,8 @@ export const poiExtraMaltaOther: POI[] = [
       ro: "Un complex de È™apte peÈ™teri marine, renumit pentru apa sa albastrÄƒ strÄƒlucitoare.",
       en: "A complex of seven sea caves famous for the brilliant blue water."
     },
-    descriptionAdvanced: { de: "", hu: "Plizio tanterv: Földrajz 7. évfolyam. Málta egyéb látnivalói, mint a természetvédelmi területek és kertek, fontos szerepet játszanak a szigetek ökológiai egyensúlyának megorzésében, és remek lehetoséget kínálnak a környezeti nevelésre.", ro: "TODO", en: "" },
-    factsAdvanced: { de: [], hu: ["Málta természeti értékei különösen érzékenyek a turizmus hatásaira.", "A Ghadira-rezervátum fontos állomás a vándormadarak számára.", "A Buskett-kertek az egyetlen nagyobb erdos terület a szigeten.", "A természetvédelmi területek védelme elengedhetetlen a fajok megmaradásához.", "A szigetország száraz éghajlata miatt a vizes élohelyek ritkaságszámba mennek.", "Málta kormánya számos projektet indított a biodiverzitás növelésére.", "A helyi növényvilág számos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
+    descriptionAdvanced: { de: "", hu: "Plizio tanterv: FÃ¶ldrajz 7. Ã©vfolyam. MÃ¡lta egyÃ©b lÃ¡tnivalÃ³i, mint a termÃ©szetvÃ©delmi terÃ¼letek Ã©s kertek, fontos szerepet jÃ¡tszanak a szigetek Ã¶kolÃ³giai egyensÃºlyÃ¡nak megorzÃ©sÃ©ben, Ã©s remek lehetosÃ©get kÃ­nÃ¡lnak a kÃ¶rnyezeti nevelÃ©sre.", ro: "TODO", en: "" },
+    factsAdvanced: { de: [], hu: ["MÃ¡lta termÃ©szeti Ã©rtÃ©kei kÃ¼lÃ¶nÃ¶sen Ã©rzÃ©kenyek a turizmus hatÃ¡saira.", "A Ghadira-rezervÃ¡tum fontos Ã¡llomÃ¡s a vÃ¡ndormadarak szÃ¡mÃ¡ra.", "A Buskett-kertek az egyetlen nagyobb erdos terÃ¼let a szigeten.", "A termÃ©szetvÃ©delmi terÃ¼letek vÃ©delme elengedhetetlen a fajok megmaradÃ¡sÃ¡hoz.", "A szigetorszÃ¡g szÃ¡raz Ã©ghajlata miatt a vizes Ã©lohelyek ritkasÃ¡gszÃ¡mba mennek.", "MÃ¡lta kormÃ¡nya szÃ¡mos projektet indÃ­tott a biodiverzitÃ¡s nÃ¶velÃ©sÃ©re.", "A helyi nÃ¶vÃ©nyvilÃ¡g szÃ¡mos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
   },
   {
     id: "landscape-ghajn-tuffieha-bay-extra",
@@ -3070,8 +3070,8 @@ export const poiExtraMaltaOther: POI[] = [
       ro: "O plajÄƒ frumoasÄƒ de nisip Ã®nconjuratÄƒ de pante de argilÄƒ È™i stÃ¢nci.",
       en: "A beautiful sandy beach surrounded by clay slopes and cliffs."
     },
-    descriptionAdvanced: { de: "", hu: "Plizio tanterv: Földrajz 7. évfolyam. Málta egyéb látnivalói, mint a természetvédelmi területek és kertek, fontos szerepet játszanak a szigetek ökológiai egyensúlyának megorzésében, és remek lehetoséget kínálnak a környezeti nevelésre.", ro: "TODO", en: "" },
-    factsAdvanced: { de: [], hu: ["Málta természeti értékei különösen érzékenyek a turizmus hatásaira.", "A Ghadira-rezervátum fontos állomás a vándormadarak számára.", "A Buskett-kertek az egyetlen nagyobb erdos terület a szigeten.", "A természetvédelmi területek védelme elengedhetetlen a fajok megmaradásához.", "A szigetország száraz éghajlata miatt a vizes élohelyek ritkaságszámba mennek.", "Málta kormánya számos projektet indított a biodiverzitás növelésére.", "A helyi növényvilág számos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
+    descriptionAdvanced: { de: "", hu: "Plizio tanterv: FÃ¶ldrajz 7. Ã©vfolyam. MÃ¡lta egyÃ©b lÃ¡tnivalÃ³i, mint a termÃ©szetvÃ©delmi terÃ¼letek Ã©s kertek, fontos szerepet jÃ¡tszanak a szigetek Ã¶kolÃ³giai egyensÃºlyÃ¡nak megorzÃ©sÃ©ben, Ã©s remek lehetosÃ©get kÃ­nÃ¡lnak a kÃ¶rnyezeti nevelÃ©sre.", ro: "TODO", en: "" },
+    factsAdvanced: { de: [], hu: ["MÃ¡lta termÃ©szeti Ã©rtÃ©kei kÃ¼lÃ¶nÃ¶sen Ã©rzÃ©kenyek a turizmus hatÃ¡saira.", "A Ghadira-rezervÃ¡tum fontos Ã¡llomÃ¡s a vÃ¡ndormadarak szÃ¡mÃ¡ra.", "A Buskett-kertek az egyetlen nagyobb erdos terÃ¼let a szigeten.", "A termÃ©szetvÃ©delmi terÃ¼letek vÃ©delme elengedhetetlen a fajok megmaradÃ¡sÃ¡hoz.", "A szigetorszÃ¡g szÃ¡raz Ã©ghajlata miatt a vizes Ã©lohelyek ritkasÃ¡gszÃ¡mba mennek.", "MÃ¡lta kormÃ¡nya szÃ¡mos projektet indÃ­tott a biodiverzitÃ¡s nÃ¶velÃ©sÃ©re.", "A helyi nÃ¶vÃ©nyvilÃ¡g szÃ¡mos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
   },
   {
     id: "landscape-golden-bay-extra",
@@ -3090,8 +3090,8 @@ export const poiExtraMaltaOther: POI[] = [
       ro: "Una dintre cele mai populare plaje de nisip din Malta.",
       en: "One of Malta's most popular sandy beaches."
     },
-    descriptionAdvanced: { de: "", hu: "Plizio tanterv: Földrajz 7. évfolyam. Málta egyéb látnivalói, mint a természetvédelmi területek és kertek, fontos szerepet játszanak a szigetek ökológiai egyensúlyának megorzésében, és remek lehetoséget kínálnak a környezeti nevelésre.", ro: "TODO", en: "" },
-    factsAdvanced: { de: [], hu: ["Málta természeti értékei különösen érzékenyek a turizmus hatásaira.", "A Ghadira-rezervátum fontos állomás a vándormadarak számára.", "A Buskett-kertek az egyetlen nagyobb erdos terület a szigeten.", "A természetvédelmi területek védelme elengedhetetlen a fajok megmaradásához.", "A szigetország száraz éghajlata miatt a vizes élohelyek ritkaságszámba mennek.", "Málta kormánya számos projektet indított a biodiverzitás növelésére.", "A helyi növényvilág számos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
+    descriptionAdvanced: { de: "", hu: "Plizio tanterv: FÃ¶ldrajz 7. Ã©vfolyam. MÃ¡lta egyÃ©b lÃ¡tnivalÃ³i, mint a termÃ©szetvÃ©delmi terÃ¼letek Ã©s kertek, fontos szerepet jÃ¡tszanak a szigetek Ã¶kolÃ³giai egyensÃºlyÃ¡nak megorzÃ©sÃ©ben, Ã©s remek lehetosÃ©get kÃ­nÃ¡lnak a kÃ¶rnyezeti nevelÃ©sre.", ro: "TODO", en: "" },
+    factsAdvanced: { de: [], hu: ["MÃ¡lta termÃ©szeti Ã©rtÃ©kei kÃ¼lÃ¶nÃ¶sen Ã©rzÃ©kenyek a turizmus hatÃ¡saira.", "A Ghadira-rezervÃ¡tum fontos Ã¡llomÃ¡s a vÃ¡ndormadarak szÃ¡mÃ¡ra.", "A Buskett-kertek az egyetlen nagyobb erdos terÃ¼let a szigeten.", "A termÃ©szetvÃ©delmi terÃ¼letek vÃ©delme elengedhetetlen a fajok megmaradÃ¡sÃ¡hoz.", "A szigetorszÃ¡g szÃ¡raz Ã©ghajlata miatt a vizes Ã©lohelyek ritkasÃ¡gszÃ¡mba mennek.", "MÃ¡lta kormÃ¡nya szÃ¡mos projektet indÃ­tott a biodiverzitÃ¡s nÃ¶velÃ©sÃ©re.", "A helyi nÃ¶vÃ©nyvilÃ¡g szÃ¡mos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
   },
   {
     id: "landscape-ramla-bay-gozo-extra",
@@ -3110,8 +3110,8 @@ export const poiExtraMaltaOther: POI[] = [
       ro: "O plajÄƒ mare pe Gozo, renumitÄƒ pentru nisipul sÄƒu roÈ™iatic unic.",
       en: "A large beach on Gozo, famous for its unique reddish sand."
     },
-    descriptionAdvanced: { de: "", hu: "Plizio tanterv: Földrajz 7. évfolyam. Málta egyéb látnivalói, mint a természetvédelmi területek és kertek, fontos szerepet játszanak a szigetek ökológiai egyensúlyának megorzésében, és remek lehetoséget kínálnak a környezeti nevelésre.", ro: "TODO", en: "" },
-    factsAdvanced: { de: [], hu: ["Málta természeti értékei különösen érzékenyek a turizmus hatásaira.", "A Ghadira-rezervátum fontos állomás a vándormadarak számára.", "A Buskett-kertek az egyetlen nagyobb erdos terület a szigeten.", "A természetvédelmi területek védelme elengedhetetlen a fajok megmaradásához.", "A szigetország száraz éghajlata miatt a vizes élohelyek ritkaságszámba mennek.", "Málta kormánya számos projektet indított a biodiverzitás növelésére.", "A helyi növényvilág számos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
+    descriptionAdvanced: { de: "", hu: "Plizio tanterv: FÃ¶ldrajz 7. Ã©vfolyam. MÃ¡lta egyÃ©b lÃ¡tnivalÃ³i, mint a termÃ©szetvÃ©delmi terÃ¼letek Ã©s kertek, fontos szerepet jÃ¡tszanak a szigetek Ã¶kolÃ³giai egyensÃºlyÃ¡nak megorzÃ©sÃ©ben, Ã©s remek lehetosÃ©get kÃ­nÃ¡lnak a kÃ¶rnyezeti nevelÃ©sre.", ro: "TODO", en: "" },
+    factsAdvanced: { de: [], hu: ["MÃ¡lta termÃ©szeti Ã©rtÃ©kei kÃ¼lÃ¶nÃ¶sen Ã©rzÃ©kenyek a turizmus hatÃ¡saira.", "A Ghadira-rezervÃ¡tum fontos Ã¡llomÃ¡s a vÃ¡ndormadarak szÃ¡mÃ¡ra.", "A Buskett-kertek az egyetlen nagyobb erdos terÃ¼let a szigeten.", "A termÃ©szetvÃ©delmi terÃ¼letek vÃ©delme elengedhetetlen a fajok megmaradÃ¡sÃ¡hoz.", "A szigetorszÃ¡g szÃ¡raz Ã©ghajlata miatt a vizes Ã©lohelyek ritkasÃ¡gszÃ¡mba mennek.", "MÃ¡lta kormÃ¡nya szÃ¡mos projektet indÃ­tott a biodiverzitÃ¡s nÃ¶velÃ©sÃ©re.", "A helyi nÃ¶vÃ©nyvilÃ¡g szÃ¡mos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
   },
   {
     id: "landscape-dwejra-bay-and-fungus-rock-gozo-extra",
@@ -3130,8 +3130,8 @@ export const poiExtraMaltaOther: POI[] = [
       ro: "O formaÈ›iune de coastÄƒ dramaticÄƒ cu Marea InterioarÄƒ È™i StÃ¢nca Ciupercii.",
       en: "A dramatic coastal formation featuring the Inland Sea and Fungus Rock."
     },
-    descriptionAdvanced: { de: "", hu: "Plizio tanterv: Földrajz 7. évfolyam. Málta egyéb látnivalói, mint a természetvédelmi területek és kertek, fontos szerepet játszanak a szigetek ökológiai egyensúlyának megorzésében, és remek lehetoséget kínálnak a környezeti nevelésre.", ro: "TODO", en: "" },
-    factsAdvanced: { de: [], hu: ["Málta természeti értékei különösen érzékenyek a turizmus hatásaira.", "A Ghadira-rezervátum fontos állomás a vándormadarak számára.", "A Buskett-kertek az egyetlen nagyobb erdos terület a szigeten.", "A természetvédelmi területek védelme elengedhetetlen a fajok megmaradásához.", "A szigetország száraz éghajlata miatt a vizes élohelyek ritkaságszámba mennek.", "Málta kormánya számos projektet indított a biodiverzitás növelésére.", "A helyi növényvilág számos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
+    descriptionAdvanced: { de: "", hu: "Plizio tanterv: FÃ¶ldrajz 7. Ã©vfolyam. MÃ¡lta egyÃ©b lÃ¡tnivalÃ³i, mint a termÃ©szetvÃ©delmi terÃ¼letek Ã©s kertek, fontos szerepet jÃ¡tszanak a szigetek Ã¶kolÃ³giai egyensÃºlyÃ¡nak megorzÃ©sÃ©ben, Ã©s remek lehetosÃ©get kÃ­nÃ¡lnak a kÃ¶rnyezeti nevelÃ©sre.", ro: "TODO", en: "" },
+    factsAdvanced: { de: [], hu: ["MÃ¡lta termÃ©szeti Ã©rtÃ©kei kÃ¼lÃ¶nÃ¶sen Ã©rzÃ©kenyek a turizmus hatÃ¡saira.", "A Ghadira-rezervÃ¡tum fontos Ã¡llomÃ¡s a vÃ¡ndormadarak szÃ¡mÃ¡ra.", "A Buskett-kertek az egyetlen nagyobb erdos terÃ¼let a szigeten.", "A termÃ©szetvÃ©delmi terÃ¼letek vÃ©delme elengedhetetlen a fajok megmaradÃ¡sÃ¡hoz.", "A szigetorszÃ¡g szÃ¡raz Ã©ghajlata miatt a vizes Ã©lohelyek ritkasÃ¡gszÃ¡mba mennek.", "MÃ¡lta kormÃ¡nya szÃ¡mos projektet indÃ­tott a biodiverzitÃ¡s nÃ¶velÃ©sÃ©re.", "A helyi nÃ¶vÃ©nyvilÃ¡g szÃ¡mos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
   },
   {
     id: "landscape-blue-lagoon-comino-extra",
@@ -3150,8 +3150,8 @@ export const poiExtraMaltaOther: POI[] = [
       ro: "RenumitÄƒ pentru apa sa cristalinÄƒ, de culoare turcoaz.",
       en: "Famous for its crystal clear, turquoise water."
     },
-    descriptionAdvanced: { de: "", hu: "Plizio tanterv: Földrajz 7. évfolyam. Málta egyéb látnivalói, mint a természetvédelmi területek és kertek, fontos szerepet játszanak a szigetek ökológiai egyensúlyának megorzésében, és remek lehetoséget kínálnak a környezeti nevelésre.", ro: "TODO", en: "" },
-    factsAdvanced: { de: [], hu: ["Málta természeti értékei különösen érzékenyek a turizmus hatásaira.", "A Ghadira-rezervátum fontos állomás a vándormadarak számára.", "A Buskett-kertek az egyetlen nagyobb erdos terület a szigeten.", "A természetvédelmi területek védelme elengedhetetlen a fajok megmaradásához.", "A szigetország száraz éghajlata miatt a vizes élohelyek ritkaságszámba mennek.", "Málta kormánya számos projektet indított a biodiverzitás növelésére.", "A helyi növényvilág számos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
+    descriptionAdvanced: { de: "", hu: "Plizio tanterv: FÃ¶ldrajz 7. Ã©vfolyam. MÃ¡lta egyÃ©b lÃ¡tnivalÃ³i, mint a termÃ©szetvÃ©delmi terÃ¼letek Ã©s kertek, fontos szerepet jÃ¡tszanak a szigetek Ã¶kolÃ³giai egyensÃºlyÃ¡nak megorzÃ©sÃ©ben, Ã©s remek lehetosÃ©get kÃ­nÃ¡lnak a kÃ¶rnyezeti nevelÃ©sre.", ro: "TODO", en: "" },
+    factsAdvanced: { de: [], hu: ["MÃ¡lta termÃ©szeti Ã©rtÃ©kei kÃ¼lÃ¶nÃ¶sen Ã©rzÃ©kenyek a turizmus hatÃ¡saira.", "A Ghadira-rezervÃ¡tum fontos Ã¡llomÃ¡s a vÃ¡ndormadarak szÃ¡mÃ¡ra.", "A Buskett-kertek az egyetlen nagyobb erdos terÃ¼let a szigeten.", "A termÃ©szetvÃ©delmi terÃ¼letek vÃ©delme elengedhetetlen a fajok megmaradÃ¡sÃ¡hoz.", "A szigetorszÃ¡g szÃ¡raz Ã©ghajlata miatt a vizes Ã©lohelyek ritkasÃ¡gszÃ¡mba mennek.", "MÃ¡lta kormÃ¡nya szÃ¡mos projektet indÃ­tott a biodiverzitÃ¡s nÃ¶velÃ©sÃ©re.", "A helyi nÃ¶vÃ©nyvilÃ¡g szÃ¡mos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
   },
   {
     id: "landscape-st-peters-pool-extra",
@@ -3170,8 +3170,8 @@ export const poiExtraMaltaOther: POI[] = [
       ro: "O piscinÄƒ naturalÄƒ Ã®n stÃ¢ncÄƒ, popularÄƒ printre sÄƒritorii de pe stÃ¢nci.",
       en: "A natural rock pool popular with cliff divers."
     },
-    descriptionAdvanced: { de: "", hu: "Plizio tanterv: Földrajz 7. évfolyam. Málta egyéb látnivalói, mint a természetvédelmi területek és kertek, fontos szerepet játszanak a szigetek ökológiai egyensúlyának megorzésében, és remek lehetoséget kínálnak a környezeti nevelésre.", ro: "TODO", en: "" },
-    factsAdvanced: { de: [], hu: ["Málta természeti értékei különösen érzékenyek a turizmus hatásaira.", "A Ghadira-rezervátum fontos állomás a vándormadarak számára.", "A Buskett-kertek az egyetlen nagyobb erdos terület a szigeten.", "A természetvédelmi területek védelme elengedhetetlen a fajok megmaradásához.", "A szigetország száraz éghajlata miatt a vizes élohelyek ritkaságszámba mennek.", "Málta kormánya számos projektet indított a biodiverzitás növelésére.", "A helyi növényvilág számos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
+    descriptionAdvanced: { de: "", hu: "Plizio tanterv: FÃ¶ldrajz 7. Ã©vfolyam. MÃ¡lta egyÃ©b lÃ¡tnivalÃ³i, mint a termÃ©szetvÃ©delmi terÃ¼letek Ã©s kertek, fontos szerepet jÃ¡tszanak a szigetek Ã¶kolÃ³giai egyensÃºlyÃ¡nak megorzÃ©sÃ©ben, Ã©s remek lehetosÃ©get kÃ­nÃ¡lnak a kÃ¶rnyezeti nevelÃ©sre.", ro: "TODO", en: "" },
+    factsAdvanced: { de: [], hu: ["MÃ¡lta termÃ©szeti Ã©rtÃ©kei kÃ¼lÃ¶nÃ¶sen Ã©rzÃ©kenyek a turizmus hatÃ¡saira.", "A Ghadira-rezervÃ¡tum fontos Ã¡llomÃ¡s a vÃ¡ndormadarak szÃ¡mÃ¡ra.", "A Buskett-kertek az egyetlen nagyobb erdos terÃ¼let a szigeten.", "A termÃ©szetvÃ©delmi terÃ¼letek vÃ©delme elengedhetetlen a fajok megmaradÃ¡sÃ¡hoz.", "A szigetorszÃ¡g szÃ¡raz Ã©ghajlata miatt a vizes Ã©lohelyek ritkasÃ¡gszÃ¡mba mennek.", "MÃ¡lta kormÃ¡nya szÃ¡mos projektet indÃ­tott a biodiverzitÃ¡s nÃ¶velÃ©sÃ©re.", "A helyi nÃ¶vÃ©nyvilÃ¡g szÃ¡mos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
   },
   {
     id: "landscape-wied-il-ghasri-gozo-extra",
@@ -3190,8 +3190,8 @@ export const poiExtraMaltaOther: POI[] = [
       ro: "Un golf izolat tÄƒiat ca un fiord Ã®ntre stÃ¢nci Ã®nalte.",
       en: "A secluded inlet cut like a fjord between high cliffs."
     },
-    descriptionAdvanced: { de: "", hu: "Plizio tanterv: Földrajz 7. évfolyam. Málta egyéb látnivalói, mint a természetvédelmi területek és kertek, fontos szerepet játszanak a szigetek ökológiai egyensúlyának megorzésében, és remek lehetoséget kínálnak a környezeti nevelésre.", ro: "TODO", en: "" },
-    factsAdvanced: { de: [], hu: ["Málta természeti értékei különösen érzékenyek a turizmus hatásaira.", "A Ghadira-rezervátum fontos állomás a vándormadarak számára.", "A Buskett-kertek az egyetlen nagyobb erdos terület a szigeten.", "A természetvédelmi területek védelme elengedhetetlen a fajok megmaradásához.", "A szigetország száraz éghajlata miatt a vizes élohelyek ritkaságszámba mennek.", "Málta kormánya számos projektet indított a biodiverzitás növelésére.", "A helyi növényvilág számos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
+    descriptionAdvanced: { de: "", hu: "Plizio tanterv: FÃ¶ldrajz 7. Ã©vfolyam. MÃ¡lta egyÃ©b lÃ¡tnivalÃ³i, mint a termÃ©szetvÃ©delmi terÃ¼letek Ã©s kertek, fontos szerepet jÃ¡tszanak a szigetek Ã¶kolÃ³giai egyensÃºlyÃ¡nak megorzÃ©sÃ©ben, Ã©s remek lehetosÃ©get kÃ­nÃ¡lnak a kÃ¶rnyezeti nevelÃ©sre.", ro: "TODO", en: "" },
+    factsAdvanced: { de: [], hu: ["MÃ¡lta termÃ©szeti Ã©rtÃ©kei kÃ¼lÃ¶nÃ¶sen Ã©rzÃ©kenyek a turizmus hatÃ¡saira.", "A Ghadira-rezervÃ¡tum fontos Ã¡llomÃ¡s a vÃ¡ndormadarak szÃ¡mÃ¡ra.", "A Buskett-kertek az egyetlen nagyobb erdos terÃ¼let a szigeten.", "A termÃ©szetvÃ©delmi terÃ¼letek vÃ©delme elengedhetetlen a fajok megmaradÃ¡sÃ¡hoz.", "A szigetorszÃ¡g szÃ¡raz Ã©ghajlata miatt a vizes Ã©lohelyek ritkasÃ¡gszÃ¡mba mennek.", "MÃ¡lta kormÃ¡nya szÃ¡mos projektet indÃ­tott a biodiverzitÃ¡s nÃ¶velÃ©sÃ©re.", "A helyi nÃ¶vÃ©nyvilÃ¡g szÃ¡mos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
   },
   {
     id: "landscape-tal-mixta-cave-gozo-extra",
@@ -3210,8 +3210,8 @@ export const poiExtraMaltaOther: POI[] = [
       ro: "O peÈ™terÄƒ cu vedere la Golful Ramla, oferind un loc celebru pentru fotografii.",
       en: "A cave overlooking Ramla Bay, providing a famous photo spot."
     },
-    descriptionAdvanced: { de: "", hu: "Plizio tanterv: Földrajz 7. évfolyam. Málta egyéb látnivalói, mint a természetvédelmi területek és kertek, fontos szerepet játszanak a szigetek ökológiai egyensúlyának megorzésében, és remek lehetoséget kínálnak a környezeti nevelésre.", ro: "TODO", en: "" },
-    factsAdvanced: { de: [], hu: ["Málta természeti értékei különösen érzékenyek a turizmus hatásaira.", "A Ghadira-rezervátum fontos állomás a vándormadarak számára.", "A Buskett-kertek az egyetlen nagyobb erdos terület a szigeten.", "A természetvédelmi területek védelme elengedhetetlen a fajok megmaradásához.", "A szigetország száraz éghajlata miatt a vizes élohelyek ritkaságszámba mennek.", "Málta kormánya számos projektet indított a biodiverzitás növelésére.", "A helyi növényvilág számos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
+    descriptionAdvanced: { de: "", hu: "Plizio tanterv: FÃ¶ldrajz 7. Ã©vfolyam. MÃ¡lta egyÃ©b lÃ¡tnivalÃ³i, mint a termÃ©szetvÃ©delmi terÃ¼letek Ã©s kertek, fontos szerepet jÃ¡tszanak a szigetek Ã¶kolÃ³giai egyensÃºlyÃ¡nak megorzÃ©sÃ©ben, Ã©s remek lehetosÃ©get kÃ­nÃ¡lnak a kÃ¶rnyezeti nevelÃ©sre.", ro: "TODO", en: "" },
+    factsAdvanced: { de: [], hu: ["MÃ¡lta termÃ©szeti Ã©rtÃ©kei kÃ¼lÃ¶nÃ¶sen Ã©rzÃ©kenyek a turizmus hatÃ¡saira.", "A Ghadira-rezervÃ¡tum fontos Ã¡llomÃ¡s a vÃ¡ndormadarak szÃ¡mÃ¡ra.", "A Buskett-kertek az egyetlen nagyobb erdos terÃ¼let a szigeten.", "A termÃ©szetvÃ©delmi terÃ¼letek vÃ©delme elengedhetetlen a fajok megmaradÃ¡sÃ¡hoz.", "A szigetorszÃ¡g szÃ¡raz Ã©ghajlata miatt a vizes Ã©lohelyek ritkasÃ¡gszÃ¡mba mennek.", "MÃ¡lta kormÃ¡nya szÃ¡mos projektet indÃ­tott a biodiverzitÃ¡s nÃ¶velÃ©sÃ©re.", "A helyi nÃ¶vÃ©nyvilÃ¡g szÃ¡mos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
   },
   {
     id: "landscape-buskett-gardens-woodland-extra",
@@ -3230,8 +3230,8 @@ export const poiExtraMaltaOther: POI[] = [
       ro: "Una dintre puÈ›inele zone Ã®mpÄƒdurite din Malta, plantatÄƒ iniÈ›ial ca teren de vÃ¢nÄƒtoare de cÄƒtre Cavaleri.",
       en: "One of Malta's few woodland areas, originally planted as a hunting ground by the Knights."
     },
-    descriptionAdvanced: { de: "", hu: "Plizio tanterv: Földrajz 7. évfolyam. Málta egyéb látnivalói, mint a természetvédelmi területek és kertek, fontos szerepet játszanak a szigetek ökológiai egyensúlyának megorzésében, és remek lehetoséget kínálnak a környezeti nevelésre.", ro: "TODO", en: "" },
-    factsAdvanced: { de: [], hu: ["Málta természeti értékei különösen érzékenyek a turizmus hatásaira.", "A Ghadira-rezervátum fontos állomás a vándormadarak számára.", "A Buskett-kertek az egyetlen nagyobb erdos terület a szigeten.", "A természetvédelmi területek védelme elengedhetetlen a fajok megmaradásához.", "A szigetország száraz éghajlata miatt a vizes élohelyek ritkaságszámba mennek.", "Málta kormánya számos projektet indított a biodiverzitás növelésére.", "A helyi növényvilág számos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
+    descriptionAdvanced: { de: "", hu: "Plizio tanterv: FÃ¶ldrajz 7. Ã©vfolyam. MÃ¡lta egyÃ©b lÃ¡tnivalÃ³i, mint a termÃ©szetvÃ©delmi terÃ¼letek Ã©s kertek, fontos szerepet jÃ¡tszanak a szigetek Ã¶kolÃ³giai egyensÃºlyÃ¡nak megorzÃ©sÃ©ben, Ã©s remek lehetosÃ©get kÃ­nÃ¡lnak a kÃ¶rnyezeti nevelÃ©sre.", ro: "TODO", en: "" },
+    factsAdvanced: { de: [], hu: ["MÃ¡lta termÃ©szeti Ã©rtÃ©kei kÃ¼lÃ¶nÃ¶sen Ã©rzÃ©kenyek a turizmus hatÃ¡saira.", "A Ghadira-rezervÃ¡tum fontos Ã¡llomÃ¡s a vÃ¡ndormadarak szÃ¡mÃ¡ra.", "A Buskett-kertek az egyetlen nagyobb erdos terÃ¼let a szigeten.", "A termÃ©szetvÃ©delmi terÃ¼letek vÃ©delme elengedhetetlen a fajok megmaradÃ¡sÃ¡hoz.", "A szigetorszÃ¡g szÃ¡raz Ã©ghajlata miatt a vizes Ã©lohelyek ritkasÃ¡gszÃ¡mba mennek.", "MÃ¡lta kormÃ¡nya szÃ¡mos projektet indÃ­tott a biodiverzitÃ¡s nÃ¶velÃ©sÃ©re.", "A helyi nÃ¶vÃ©nyvilÃ¡g szÃ¡mos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
   },
   {
     id: "landscape-chadwick-lakes-freshwater-extra",
@@ -3250,8 +3250,8 @@ export const poiExtraMaltaOther: POI[] = [
       ro: "Un sistem de baraje create de om care formeazÄƒ un habitat de apÄƒ dulce Ã®n timpul sezonului ploios.",
       en: "A man-made system of dams that forms a freshwater habitat during the rainy season."
     },
-    descriptionAdvanced: { de: "", hu: "Plizio tanterv: Földrajz 7. évfolyam. Málta egyéb látnivalói, mint a természetvédelmi területek és kertek, fontos szerepet játszanak a szigetek ökológiai egyensúlyának megorzésében, és remek lehetoséget kínálnak a környezeti nevelésre.", ro: "TODO", en: "" },
-    factsAdvanced: { de: [], hu: ["Málta természeti értékei különösen érzékenyek a turizmus hatásaira.", "A Ghadira-rezervátum fontos állomás a vándormadarak számára.", "A Buskett-kertek az egyetlen nagyobb erdos terület a szigeten.", "A természetvédelmi területek védelme elengedhetetlen a fajok megmaradásához.", "A szigetország száraz éghajlata miatt a vizes élohelyek ritkaságszámba mennek.", "Málta kormánya számos projektet indított a biodiverzitás növelésére.", "A helyi növényvilág számos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
+    descriptionAdvanced: { de: "", hu: "Plizio tanterv: FÃ¶ldrajz 7. Ã©vfolyam. MÃ¡lta egyÃ©b lÃ¡tnivalÃ³i, mint a termÃ©szetvÃ©delmi terÃ¼letek Ã©s kertek, fontos szerepet jÃ¡tszanak a szigetek Ã¶kolÃ³giai egyensÃºlyÃ¡nak megorzÃ©sÃ©ben, Ã©s remek lehetosÃ©get kÃ­nÃ¡lnak a kÃ¶rnyezeti nevelÃ©sre.", ro: "TODO", en: "" },
+    factsAdvanced: { de: [], hu: ["MÃ¡lta termÃ©szeti Ã©rtÃ©kei kÃ¼lÃ¶nÃ¶sen Ã©rzÃ©kenyek a turizmus hatÃ¡saira.", "A Ghadira-rezervÃ¡tum fontos Ã¡llomÃ¡s a vÃ¡ndormadarak szÃ¡mÃ¡ra.", "A Buskett-kertek az egyetlen nagyobb erdos terÃ¼let a szigeten.", "A termÃ©szetvÃ©delmi terÃ¼letek vÃ©delme elengedhetetlen a fajok megmaradÃ¡sÃ¡hoz.", "A szigetorszÃ¡g szÃ¡raz Ã©ghajlata miatt a vizes Ã©lohelyek ritkasÃ¡gszÃ¡mba mennek.", "MÃ¡lta kormÃ¡nya szÃ¡mos projektet indÃ­tott a biodiverzitÃ¡s nÃ¶velÃ©sÃ©re.", "A helyi nÃ¶vÃ©nyvilÃ¡g szÃ¡mos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
   },
   {
     id: "landscape-ghar-lapsi-cove-extra",
@@ -3270,8 +3270,8 @@ export const poiExtraMaltaOther: POI[] = [
       ro: "Un mic golf stÃ¢ncos, popular printre scafandri È™i practicanÈ›ii de snorkeling.",
       en: "A small rocky inlet popular with divers and snorkelers."
     },
-    descriptionAdvanced: { de: "", hu: "Plizio tanterv: Földrajz 7. évfolyam. Málta egyéb látnivalói, mint a természetvédelmi területek és kertek, fontos szerepet játszanak a szigetek ökológiai egyensúlyának megorzésében, és remek lehetoséget kínálnak a környezeti nevelésre.", ro: "TODO", en: "" },
-    factsAdvanced: { de: [], hu: ["Málta természeti értékei különösen érzékenyek a turizmus hatásaira.", "A Ghadira-rezervátum fontos állomás a vándormadarak számára.", "A Buskett-kertek az egyetlen nagyobb erdos terület a szigeten.", "A természetvédelmi területek védelme elengedhetetlen a fajok megmaradásához.", "A szigetország száraz éghajlata miatt a vizes élohelyek ritkaságszámba mennek.", "Málta kormánya számos projektet indított a biodiverzitás növelésére.", "A helyi növényvilág számos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
+    descriptionAdvanced: { de: "", hu: "Plizio tanterv: FÃ¶ldrajz 7. Ã©vfolyam. MÃ¡lta egyÃ©b lÃ¡tnivalÃ³i, mint a termÃ©szetvÃ©delmi terÃ¼letek Ã©s kertek, fontos szerepet jÃ¡tszanak a szigetek Ã¶kolÃ³giai egyensÃºlyÃ¡nak megorzÃ©sÃ©ben, Ã©s remek lehetosÃ©get kÃ­nÃ¡lnak a kÃ¶rnyezeti nevelÃ©sre.", ro: "TODO", en: "" },
+    factsAdvanced: { de: [], hu: ["MÃ¡lta termÃ©szeti Ã©rtÃ©kei kÃ¼lÃ¶nÃ¶sen Ã©rzÃ©kenyek a turizmus hatÃ¡saira.", "A Ghadira-rezervÃ¡tum fontos Ã¡llomÃ¡s a vÃ¡ndormadarak szÃ¡mÃ¡ra.", "A Buskett-kertek az egyetlen nagyobb erdos terÃ¼let a szigeten.", "A termÃ©szetvÃ©delmi terÃ¼letek vÃ©delme elengedhetetlen a fajok megmaradÃ¡sÃ¡hoz.", "A szigetorszÃ¡g szÃ¡raz Ã©ghajlata miatt a vizes Ã©lohelyek ritkasÃ¡gszÃ¡mba mennek.", "MÃ¡lta kormÃ¡nya szÃ¡mos projektet indÃ­tott a biodiverzitÃ¡s nÃ¶velÃ©sÃ©re.", "A helyi nÃ¶vÃ©nyvilÃ¡g szÃ¡mos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
   },
   {
     id: "landscape-sanap-cliffs-gozo-extra",
@@ -3290,8 +3290,8 @@ export const poiExtraMaltaOther: POI[] = [
       ro: "StÃ¢nci spectaculoase pe coasta de sud a insulei Gozo, cu o potecÄƒ de coastÄƒ.",
       en: "Spectacular cliffs on the south coast of Gozo with a coastal walking path."
     },
-    descriptionAdvanced: { de: "", hu: "Plizio tanterv: Földrajz 7. évfolyam. Málta egyéb látnivalói, mint a természetvédelmi területek és kertek, fontos szerepet játszanak a szigetek ökológiai egyensúlyának megorzésében, és remek lehetoséget kínálnak a környezeti nevelésre.", ro: "TODO", en: "" },
-    factsAdvanced: { de: [], hu: ["Málta természeti értékei különösen érzékenyek a turizmus hatásaira.", "A Ghadira-rezervátum fontos állomás a vándormadarak számára.", "A Buskett-kertek az egyetlen nagyobb erdos terület a szigeten.", "A természetvédelmi területek védelme elengedhetetlen a fajok megmaradásához.", "A szigetország száraz éghajlata miatt a vizes élohelyek ritkaságszámba mennek.", "Málta kormánya számos projektet indított a biodiverzitás növelésére.", "A helyi növényvilág számos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
+    descriptionAdvanced: { de: "", hu: "Plizio tanterv: FÃ¶ldrajz 7. Ã©vfolyam. MÃ¡lta egyÃ©b lÃ¡tnivalÃ³i, mint a termÃ©szetvÃ©delmi terÃ¼letek Ã©s kertek, fontos szerepet jÃ¡tszanak a szigetek Ã¶kolÃ³giai egyensÃºlyÃ¡nak megorzÃ©sÃ©ben, Ã©s remek lehetosÃ©get kÃ­nÃ¡lnak a kÃ¶rnyezeti nevelÃ©sre.", ro: "TODO", en: "" },
+    factsAdvanced: { de: [], hu: ["MÃ¡lta termÃ©szeti Ã©rtÃ©kei kÃ¼lÃ¶nÃ¶sen Ã©rzÃ©kenyek a turizmus hatÃ¡saira.", "A Ghadira-rezervÃ¡tum fontos Ã¡llomÃ¡s a vÃ¡ndormadarak szÃ¡mÃ¡ra.", "A Buskett-kertek az egyetlen nagyobb erdos terÃ¼let a szigeten.", "A termÃ©szetvÃ©delmi terÃ¼letek vÃ©delme elengedhetetlen a fajok megmaradÃ¡sÃ¡hoz.", "A szigetorszÃ¡g szÃ¡raz Ã©ghajlata miatt a vizes Ã©lohelyek ritkasÃ¡gszÃ¡mba mennek.", "MÃ¡lta kormÃ¡nya szÃ¡mos projektet indÃ­tott a biodiverzitÃ¡s nÃ¶velÃ©sÃ©re.", "A helyi nÃ¶vÃ©nyvilÃ¡g szÃ¡mos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
   },
   {
     id: "landscape-wied-il-mielah-window-gozo-extra",
@@ -3310,8 +3310,8 @@ export const poiExtraMaltaOther: POI[] = [
       ro: "Un arc natural de stÃ¢ncÄƒ pe coastÄƒ, similar cu Fereastra AlbastrÄƒ prÄƒbuÈ™itÄƒ.",
       en: "A natural rock arch on the coast, similar to the collapsed Azure Window."
     },
-    descriptionAdvanced: { de: "", hu: "Plizio tanterv: Földrajz 7. évfolyam. Málta egyéb látnivalói, mint a természetvédelmi területek és kertek, fontos szerepet játszanak a szigetek ökológiai egyensúlyának megorzésében, és remek lehetoséget kínálnak a környezeti nevelésre.", ro: "TODO", en: "" },
-    factsAdvanced: { de: [], hu: ["Málta természeti értékei különösen érzékenyek a turizmus hatásaira.", "A Ghadira-rezervátum fontos állomás a vándormadarak számára.", "A Buskett-kertek az egyetlen nagyobb erdos terület a szigeten.", "A természetvédelmi területek védelme elengedhetetlen a fajok megmaradásához.", "A szigetország száraz éghajlata miatt a vizes élohelyek ritkaságszámba mennek.", "Málta kormánya számos projektet indított a biodiverzitás növelésére.", "A helyi növényvilág számos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
+    descriptionAdvanced: { de: "", hu: "Plizio tanterv: FÃ¶ldrajz 7. Ã©vfolyam. MÃ¡lta egyÃ©b lÃ¡tnivalÃ³i, mint a termÃ©szetvÃ©delmi terÃ¼letek Ã©s kertek, fontos szerepet jÃ¡tszanak a szigetek Ã¶kolÃ³giai egyensÃºlyÃ¡nak megorzÃ©sÃ©ben, Ã©s remek lehetosÃ©get kÃ­nÃ¡lnak a kÃ¶rnyezeti nevelÃ©sre.", ro: "TODO", en: "" },
+    factsAdvanced: { de: [], hu: ["MÃ¡lta termÃ©szeti Ã©rtÃ©kei kÃ¼lÃ¶nÃ¶sen Ã©rzÃ©kenyek a turizmus hatÃ¡saira.", "A Ghadira-rezervÃ¡tum fontos Ã¡llomÃ¡s a vÃ¡ndormadarak szÃ¡mÃ¡ra.", "A Buskett-kertek az egyetlen nagyobb erdos terÃ¼let a szigeten.", "A termÃ©szetvÃ©delmi terÃ¼letek vÃ©delme elengedhetetlen a fajok megmaradÃ¡sÃ¡hoz.", "A szigetorszÃ¡g szÃ¡raz Ã©ghajlata miatt a vizes Ã©lohelyek ritkasÃ¡gszÃ¡mba mennek.", "MÃ¡lta kormÃ¡nya szÃ¡mos projektet indÃ­tott a biodiverzitÃ¡s nÃ¶velÃ©sÃ©re.", "A helyi nÃ¶vÃ©nyvilÃ¡g szÃ¡mos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
   },
   {
     id: "landscape-coral-lagoon-malta-extra",
@@ -3330,8 +3330,8 @@ export const poiExtraMaltaOther: POI[] = [
       ro: "O peÈ™terÄƒ marinÄƒ mare cu un acoperiÈ™ prÄƒbuÈ™it, formÃ¢nd o lagunÄƒ ascunsÄƒ.",
       en: "A large sea cave with a collapsed roof, forming a hidden lagoon."
     },
-    descriptionAdvanced: { de: "", hu: "Plizio tanterv: Földrajz 7. évfolyam. Málta egyéb látnivalói, mint a természetvédelmi területek és kertek, fontos szerepet játszanak a szigetek ökológiai egyensúlyának megorzésében, és remek lehetoséget kínálnak a környezeti nevelésre.", ro: "TODO", en: "" },
-    factsAdvanced: { de: [], hu: ["Málta természeti értékei különösen érzékenyek a turizmus hatásaira.", "A Ghadira-rezervátum fontos állomás a vándormadarak számára.", "A Buskett-kertek az egyetlen nagyobb erdos terület a szigeten.", "A természetvédelmi területek védelme elengedhetetlen a fajok megmaradásához.", "A szigetország száraz éghajlata miatt a vizes élohelyek ritkaságszámba mennek.", "Málta kormánya számos projektet indított a biodiverzitás növelésére.", "A helyi növényvilág számos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
+    descriptionAdvanced: { de: "", hu: "Plizio tanterv: FÃ¶ldrajz 7. Ã©vfolyam. MÃ¡lta egyÃ©b lÃ¡tnivalÃ³i, mint a termÃ©szetvÃ©delmi terÃ¼letek Ã©s kertek, fontos szerepet jÃ¡tszanak a szigetek Ã¶kolÃ³giai egyensÃºlyÃ¡nak megorzÃ©sÃ©ben, Ã©s remek lehetosÃ©get kÃ­nÃ¡lnak a kÃ¶rnyezeti nevelÃ©sre.", ro: "TODO", en: "" },
+    factsAdvanced: { de: [], hu: ["MÃ¡lta termÃ©szeti Ã©rtÃ©kei kÃ¼lÃ¶nÃ¶sen Ã©rzÃ©kenyek a turizmus hatÃ¡saira.", "A Ghadira-rezervÃ¡tum fontos Ã¡llomÃ¡s a vÃ¡ndormadarak szÃ¡mÃ¡ra.", "A Buskett-kertek az egyetlen nagyobb erdos terÃ¼let a szigeten.", "A termÃ©szetvÃ©delmi terÃ¼letek vÃ©delme elengedhetetlen a fajok megmaradÃ¡sÃ¡hoz.", "A szigetorszÃ¡g szÃ¡raz Ã©ghajlata miatt a vizes Ã©lohelyek ritkasÃ¡gszÃ¡mba mennek.", "MÃ¡lta kormÃ¡nya szÃ¡mos projektet indÃ­tott a biodiverzitÃ¡s nÃ¶velÃ©sÃ©re.", "A helyi nÃ¶vÃ©nyvilÃ¡g szÃ¡mos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
   },
   {
     id: "landscape-il-maqluba-sinkhole-extra",
@@ -3350,8 +3350,8 @@ export const poiExtraMaltaOther: POI[] = [
       ro: "O dolinÄƒ uriaÈ™Äƒ formatÄƒ prin prÄƒbuÈ™irea unei peÈ™teri, acum un microhabitat Ã®mpÄƒdurit.",
       en: "A giant sinkhole formed by the collapse of a cave, now a wooded micro-habitat."
     },
-    descriptionAdvanced: { de: "", hu: "Plizio tanterv: Földrajz 7. évfolyam. Málta egyéb látnivalói, mint a természetvédelmi területek és kertek, fontos szerepet játszanak a szigetek ökológiai egyensúlyának megorzésében, és remek lehetoséget kínálnak a környezeti nevelésre.", ro: "TODO", en: "" },
-    factsAdvanced: { de: [], hu: ["Málta természeti értékei különösen érzékenyek a turizmus hatásaira.", "A Ghadira-rezervátum fontos állomás a vándormadarak számára.", "A Buskett-kertek az egyetlen nagyobb erdos terület a szigeten.", "A természetvédelmi területek védelme elengedhetetlen a fajok megmaradásához.", "A szigetország száraz éghajlata miatt a vizes élohelyek ritkaságszámba mennek.", "Málta kormánya számos projektet indított a biodiverzitás növelésére.", "A helyi növényvilág számos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
+    descriptionAdvanced: { de: "", hu: "Plizio tanterv: FÃ¶ldrajz 7. Ã©vfolyam. MÃ¡lta egyÃ©b lÃ¡tnivalÃ³i, mint a termÃ©szetvÃ©delmi terÃ¼letek Ã©s kertek, fontos szerepet jÃ¡tszanak a szigetek Ã¶kolÃ³giai egyensÃºlyÃ¡nak megorzÃ©sÃ©ben, Ã©s remek lehetosÃ©get kÃ­nÃ¡lnak a kÃ¶rnyezeti nevelÃ©sre.", ro: "TODO", en: "" },
+    factsAdvanced: { de: [], hu: ["MÃ¡lta termÃ©szeti Ã©rtÃ©kei kÃ¼lÃ¶nÃ¶sen Ã©rzÃ©kenyek a turizmus hatÃ¡saira.", "A Ghadira-rezervÃ¡tum fontos Ã¡llomÃ¡s a vÃ¡ndormadarak szÃ¡mÃ¡ra.", "A Buskett-kertek az egyetlen nagyobb erdos terÃ¼let a szigeten.", "A termÃ©szetvÃ©delmi terÃ¼letek vÃ©delme elengedhetetlen a fajok megmaradÃ¡sÃ¡hoz.", "A szigetorszÃ¡g szÃ¡raz Ã©ghajlata miatt a vizes Ã©lohelyek ritkasÃ¡gszÃ¡mba mennek.", "MÃ¡lta kormÃ¡nya szÃ¡mos projektet indÃ­tott a biodiverzitÃ¡s nÃ¶velÃ©sÃ©re.", "A helyi nÃ¶vÃ©nyvilÃ¡g szÃ¡mos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
   },
   {
     id: "landscape-ghajn-barrani-cliffs-gozo-extra",
@@ -3370,8 +3370,8 @@ export const poiExtraMaltaOther: POI[] = [
       ro: "StÃ¢nci de argilÄƒ izolate È™i neatinse Ã®ntre Ramla È™i Marsalforn.",
       en: "Remote and untouched clay cliffs between Ramla and Marsalforn."
     },
-    descriptionAdvanced: { de: "", hu: "Plizio tanterv: Földrajz 7. évfolyam. Málta egyéb látnivalói, mint a természetvédelmi területek és kertek, fontos szerepet játszanak a szigetek ökológiai egyensúlyának megorzésében, és remek lehetoséget kínálnak a környezeti nevelésre.", ro: "TODO", en: "" },
-    factsAdvanced: { de: [], hu: ["Málta természeti értékei különösen érzékenyek a turizmus hatásaira.", "A Ghadira-rezervátum fontos állomás a vándormadarak számára.", "A Buskett-kertek az egyetlen nagyobb erdos terület a szigeten.", "A természetvédelmi területek védelme elengedhetetlen a fajok megmaradásához.", "A szigetország száraz éghajlata miatt a vizes élohelyek ritkaságszámba mennek.", "Málta kormánya számos projektet indított a biodiverzitás növelésére.", "A helyi növényvilág számos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
+    descriptionAdvanced: { de: "", hu: "Plizio tanterv: FÃ¶ldrajz 7. Ã©vfolyam. MÃ¡lta egyÃ©b lÃ¡tnivalÃ³i, mint a termÃ©szetvÃ©delmi terÃ¼letek Ã©s kertek, fontos szerepet jÃ¡tszanak a szigetek Ã¶kolÃ³giai egyensÃºlyÃ¡nak megorzÃ©sÃ©ben, Ã©s remek lehetosÃ©get kÃ­nÃ¡lnak a kÃ¶rnyezeti nevelÃ©sre.", ro: "TODO", en: "" },
+    factsAdvanced: { de: [], hu: ["MÃ¡lta termÃ©szeti Ã©rtÃ©kei kÃ¼lÃ¶nÃ¶sen Ã©rzÃ©kenyek a turizmus hatÃ¡saira.", "A Ghadira-rezervÃ¡tum fontos Ã¡llomÃ¡s a vÃ¡ndormadarak szÃ¡mÃ¡ra.", "A Buskett-kertek az egyetlen nagyobb erdos terÃ¼let a szigeten.", "A termÃ©szetvÃ©delmi terÃ¼letek vÃ©delme elengedhetetlen a fajok megmaradÃ¡sÃ¡hoz.", "A szigetorszÃ¡g szÃ¡raz Ã©ghajlata miatt a vizes Ã©lohelyek ritkasÃ¡gszÃ¡mba mennek.", "MÃ¡lta kormÃ¡nya szÃ¡mos projektet indÃ­tott a biodiverzitÃ¡s nÃ¶velÃ©sÃ©re.", "A helyi nÃ¶vÃ©nyvilÃ¡g szÃ¡mos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
   },
   {
     id: "landscape-mtahleb-valley-extra",
@@ -3390,8 +3390,8 @@ export const poiExtraMaltaOther: POI[] = [
       ro: "O vale fertilÄƒ care coboarÄƒ spre mare È™i gÄƒzduieÈ™te unul dintre puÈ›inele pÃ¢raie din Malta.",
       en: "A fertile valley that slopes down to the sea, home to one of Malta's few streams."
     },
-    descriptionAdvanced: { de: "", hu: "Plizio tanterv: Földrajz 7. évfolyam. Málta egyéb látnivalói, mint a természetvédelmi területek és kertek, fontos szerepet játszanak a szigetek ökológiai egyensúlyának megorzésében, és remek lehetoséget kínálnak a környezeti nevelésre.", ro: "TODO", en: "" },
-    factsAdvanced: { de: [], hu: ["Málta természeti értékei különösen érzékenyek a turizmus hatásaira.", "A Ghadira-rezervátum fontos állomás a vándormadarak számára.", "A Buskett-kertek az egyetlen nagyobb erdos terület a szigeten.", "A természetvédelmi területek védelme elengedhetetlen a fajok megmaradásához.", "A szigetország száraz éghajlata miatt a vizes élohelyek ritkaságszámba mennek.", "Málta kormánya számos projektet indított a biodiverzitás növelésére.", "A helyi növényvilág számos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
+    descriptionAdvanced: { de: "", hu: "Plizio tanterv: FÃ¶ldrajz 7. Ã©vfolyam. MÃ¡lta egyÃ©b lÃ¡tnivalÃ³i, mint a termÃ©szetvÃ©delmi terÃ¼letek Ã©s kertek, fontos szerepet jÃ¡tszanak a szigetek Ã¶kolÃ³giai egyensÃºlyÃ¡nak megorzÃ©sÃ©ben, Ã©s remek lehetosÃ©get kÃ­nÃ¡lnak a kÃ¶rnyezeti nevelÃ©sre.", ro: "TODO", en: "" },
+    factsAdvanced: { de: [], hu: ["MÃ¡lta termÃ©szeti Ã©rtÃ©kei kÃ¼lÃ¶nÃ¶sen Ã©rzÃ©kenyek a turizmus hatÃ¡saira.", "A Ghadira-rezervÃ¡tum fontos Ã¡llomÃ¡s a vÃ¡ndormadarak szÃ¡mÃ¡ra.", "A Buskett-kertek az egyetlen nagyobb erdos terÃ¼let a szigeten.", "A termÃ©szetvÃ©delmi terÃ¼letek vÃ©delme elengedhetetlen a fajok megmaradÃ¡sÃ¡hoz.", "A szigetorszÃ¡g szÃ¡raz Ã©ghajlata miatt a vizes Ã©lohelyek ritkasÃ¡gszÃ¡mba mennek.", "MÃ¡lta kormÃ¡nya szÃ¡mos projektet indÃ­tott a biodiverzitÃ¡s nÃ¶velÃ©sÃ©re.", "A helyi nÃ¶vÃ©nyvilÃ¡g szÃ¡mos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
   },
   {
     id: "landscape-fomm-ir-rih-bay-extra",
@@ -3410,8 +3410,8 @@ export const poiExtraMaltaOther: POI[] = [
       ro: "Un golf izolat È™i greu accesibil, cu stÃ¢nci dramatice È™i apÄƒ limpede.",
       en: "A secluded and hard-to-reach bay with dramatic cliffs and clear water."
     },
-    descriptionAdvanced: { de: "", hu: "Plizio tanterv: Földrajz 7. évfolyam. Málta egyéb látnivalói, mint a természetvédelmi területek és kertek, fontos szerepet játszanak a szigetek ökológiai egyensúlyának megorzésében, és remek lehetoséget kínálnak a környezeti nevelésre.", ro: "TODO", en: "" },
-    factsAdvanced: { de: [], hu: ["Málta természeti értékei különösen érzékenyek a turizmus hatásaira.", "A Ghadira-rezervátum fontos állomás a vándormadarak számára.", "A Buskett-kertek az egyetlen nagyobb erdos terület a szigeten.", "A természetvédelmi területek védelme elengedhetetlen a fajok megmaradásához.", "A szigetország száraz éghajlata miatt a vizes élohelyek ritkaságszámba mennek.", "Málta kormánya számos projektet indított a biodiverzitás növelésére.", "A helyi növényvilág számos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
+    descriptionAdvanced: { de: "", hu: "Plizio tanterv: FÃ¶ldrajz 7. Ã©vfolyam. MÃ¡lta egyÃ©b lÃ¡tnivalÃ³i, mint a termÃ©szetvÃ©delmi terÃ¼letek Ã©s kertek, fontos szerepet jÃ¡tszanak a szigetek Ã¶kolÃ³giai egyensÃºlyÃ¡nak megorzÃ©sÃ©ben, Ã©s remek lehetosÃ©get kÃ­nÃ¡lnak a kÃ¶rnyezeti nevelÃ©sre.", ro: "TODO", en: "" },
+    factsAdvanced: { de: [], hu: ["MÃ¡lta termÃ©szeti Ã©rtÃ©kei kÃ¼lÃ¶nÃ¶sen Ã©rzÃ©kenyek a turizmus hatÃ¡saira.", "A Ghadira-rezervÃ¡tum fontos Ã¡llomÃ¡s a vÃ¡ndormadarak szÃ¡mÃ¡ra.", "A Buskett-kertek az egyetlen nagyobb erdos terÃ¼let a szigeten.", "A termÃ©szetvÃ©delmi terÃ¼letek vÃ©delme elengedhetetlen a fajok megmaradÃ¡sÃ¡hoz.", "A szigetorszÃ¡g szÃ¡raz Ã©ghajlata miatt a vizes Ã©lohelyek ritkasÃ¡gszÃ¡mba mennek.", "MÃ¡lta kormÃ¡nya szÃ¡mos projektet indÃ­tott a biodiverzitÃ¡s nÃ¶velÃ©sÃ©re.", "A helyi nÃ¶vÃ©nyvilÃ¡g szÃ¡mos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
   },
   {
     id: "landscape-qammieh-point-extra",
@@ -3430,8 +3430,8 @@ export const poiExtraMaltaOther: POI[] = [
       ro: "Un promontoriu stÃ¢ncos cu vederi minunate asupra Golfului Ghadira È™i a insulei Gozo.",
       en: "A rocky headland with great views towards Ghadira Bay and Gozo."
     },
-    descriptionAdvanced: { de: "", hu: "Plizio tanterv: Földrajz 7. évfolyam. Málta egyéb látnivalói, mint a természetvédelmi területek és kertek, fontos szerepet játszanak a szigetek ökológiai egyensúlyának megorzésében, és remek lehetoséget kínálnak a környezeti nevelésre.", ro: "TODO", en: "" },
-    factsAdvanced: { de: [], hu: ["Málta természeti értékei különösen érzékenyek a turizmus hatásaira.", "A Ghadira-rezervátum fontos állomás a vándormadarak számára.", "A Buskett-kertek az egyetlen nagyobb erdos terület a szigeten.", "A természetvédelmi területek védelme elengedhetetlen a fajok megmaradásához.", "A szigetország száraz éghajlata miatt a vizes élohelyek ritkaságszámba mennek.", "Málta kormánya számos projektet indított a biodiverzitás növelésére.", "A helyi növényvilág számos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
+    descriptionAdvanced: { de: "", hu: "Plizio tanterv: FÃ¶ldrajz 7. Ã©vfolyam. MÃ¡lta egyÃ©b lÃ¡tnivalÃ³i, mint a termÃ©szetvÃ©delmi terÃ¼letek Ã©s kertek, fontos szerepet jÃ¡tszanak a szigetek Ã¶kolÃ³giai egyensÃºlyÃ¡nak megorzÃ©sÃ©ben, Ã©s remek lehetosÃ©get kÃ­nÃ¡lnak a kÃ¶rnyezeti nevelÃ©sre.", ro: "TODO", en: "" },
+    factsAdvanced: { de: [], hu: ["MÃ¡lta termÃ©szeti Ã©rtÃ©kei kÃ¼lÃ¶nÃ¶sen Ã©rzÃ©kenyek a turizmus hatÃ¡saira.", "A Ghadira-rezervÃ¡tum fontos Ã¡llomÃ¡s a vÃ¡ndormadarak szÃ¡mÃ¡ra.", "A Buskett-kertek az egyetlen nagyobb erdos terÃ¼let a szigeten.", "A termÃ©szetvÃ©delmi terÃ¼letek vÃ©delme elengedhetetlen a fajok megmaradÃ¡sÃ¡hoz.", "A szigetorszÃ¡g szÃ¡raz Ã©ghajlata miatt a vizes Ã©lohelyek ritkasÃ¡gszÃ¡mba mennek.", "MÃ¡lta kormÃ¡nya szÃ¡mos projektet indÃ­tott a biodiverzitÃ¡s nÃ¶velÃ©sÃ©re.", "A helyi nÃ¶vÃ©nyvilÃ¡g szÃ¡mos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
   },
   {
     id: "landscape-cominotto-island-extra",
@@ -3450,8 +3450,8 @@ export const poiExtraMaltaOther: POI[] = [
       ro: "O micÄƒ insulÄƒ nelocuitÄƒ vizavi de Laguna AlbastrÄƒ.",
       en: "A small uninhabited island opposite the Blue Lagoon."
     },
-    descriptionAdvanced: { de: "", hu: "Plizio tanterv: Földrajz 7. évfolyam. Málta egyéb látnivalói, mint a természetvédelmi területek és kertek, fontos szerepet játszanak a szigetek ökológiai egyensúlyának megorzésében, és remek lehetoséget kínálnak a környezeti nevelésre.", ro: "TODO", en: "" },
-    factsAdvanced: { de: [], hu: ["Málta természeti értékei különösen érzékenyek a turizmus hatásaira.", "A Ghadira-rezervátum fontos állomás a vándormadarak számára.", "A Buskett-kertek az egyetlen nagyobb erdos terület a szigeten.", "A természetvédelmi területek védelme elengedhetetlen a fajok megmaradásához.", "A szigetország száraz éghajlata miatt a vizes élohelyek ritkaságszámba mennek.", "Málta kormánya számos projektet indított a biodiverzitás növelésére.", "A helyi növényvilág számos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
+    descriptionAdvanced: { de: "", hu: "Plizio tanterv: FÃ¶ldrajz 7. Ã©vfolyam. MÃ¡lta egyÃ©b lÃ¡tnivalÃ³i, mint a termÃ©szetvÃ©delmi terÃ¼letek Ã©s kertek, fontos szerepet jÃ¡tszanak a szigetek Ã¶kolÃ³giai egyensÃºlyÃ¡nak megorzÃ©sÃ©ben, Ã©s remek lehetosÃ©get kÃ­nÃ¡lnak a kÃ¶rnyezeti nevelÃ©sre.", ro: "TODO", en: "" },
+    factsAdvanced: { de: [], hu: ["MÃ¡lta termÃ©szeti Ã©rtÃ©kei kÃ¼lÃ¶nÃ¶sen Ã©rzÃ©kenyek a turizmus hatÃ¡saira.", "A Ghadira-rezervÃ¡tum fontos Ã¡llomÃ¡s a vÃ¡ndormadarak szÃ¡mÃ¡ra.", "A Buskett-kertek az egyetlen nagyobb erdos terÃ¼let a szigeten.", "A termÃ©szetvÃ©delmi terÃ¼letek vÃ©delme elengedhetetlen a fajok megmaradÃ¡sÃ¡hoz.", "A szigetorszÃ¡g szÃ¡raz Ã©ghajlata miatt a vizes Ã©lohelyek ritkasÃ¡gszÃ¡mba mennek.", "MÃ¡lta kormÃ¡nya szÃ¡mos projektet indÃ­tott a biodiverzitÃ¡s nÃ¶velÃ©sÃ©re.", "A helyi nÃ¶vÃ©nyvilÃ¡g szÃ¡mos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
   },
   {
     id: "landscape-mistra-bay-extra",
@@ -3470,8 +3470,8 @@ export const poiExtraMaltaOther: POI[] = [
       ro: "Un golf adÄƒpostit lÃ¢ngÄƒ Golful St. Paul.",
       en: "A sheltered bay near St. Paul's Bay."
     },
-    descriptionAdvanced: { de: "", hu: "Plizio tanterv: Földrajz 7. évfolyam. Málta egyéb látnivalói, mint a természetvédelmi területek és kertek, fontos szerepet játszanak a szigetek ökológiai egyensúlyának megorzésében, és remek lehetoséget kínálnak a környezeti nevelésre.", ro: "TODO", en: "" },
-    factsAdvanced: { de: [], hu: ["Málta természeti értékei különösen érzékenyek a turizmus hatásaira.", "A Ghadira-rezervátum fontos állomás a vándormadarak számára.", "A Buskett-kertek az egyetlen nagyobb erdos terület a szigeten.", "A természetvédelmi területek védelme elengedhetetlen a fajok megmaradásához.", "A szigetország száraz éghajlata miatt a vizes élohelyek ritkaságszámba mennek.", "Málta kormánya számos projektet indított a biodiverzitás növelésére.", "A helyi növényvilág számos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
+    descriptionAdvanced: { de: "", hu: "Plizio tanterv: FÃ¶ldrajz 7. Ã©vfolyam. MÃ¡lta egyÃ©b lÃ¡tnivalÃ³i, mint a termÃ©szetvÃ©delmi terÃ¼letek Ã©s kertek, fontos szerepet jÃ¡tszanak a szigetek Ã¶kolÃ³giai egyensÃºlyÃ¡nak megorzÃ©sÃ©ben, Ã©s remek lehetosÃ©get kÃ­nÃ¡lnak a kÃ¶rnyezeti nevelÃ©sre.", ro: "TODO", en: "" },
+    factsAdvanced: { de: [], hu: ["MÃ¡lta termÃ©szeti Ã©rtÃ©kei kÃ¼lÃ¶nÃ¶sen Ã©rzÃ©kenyek a turizmus hatÃ¡saira.", "A Ghadira-rezervÃ¡tum fontos Ã¡llomÃ¡s a vÃ¡ndormadarak szÃ¡mÃ¡ra.", "A Buskett-kertek az egyetlen nagyobb erdos terÃ¼let a szigeten.", "A termÃ©szetvÃ©delmi terÃ¼letek vÃ©delme elengedhetetlen a fajok megmaradÃ¡sÃ¡hoz.", "A szigetorszÃ¡g szÃ¡raz Ã©ghajlata miatt a vizes Ã©lohelyek ritkasÃ¡gszÃ¡mba mennek.", "MÃ¡lta kormÃ¡nya szÃ¡mos projektet indÃ­tott a biodiverzitÃ¡s nÃ¶velÃ©sÃ©re.", "A helyi nÃ¶vÃ©nyvilÃ¡g szÃ¡mos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
   },
   {
     id: "landscape-selmunett-island-st-pauls-islands-extra",
@@ -3490,8 +3490,8 @@ export const poiExtraMaltaOther: POI[] = [
       ro: "Cea mai mare dintre cele douÄƒ Insule ale Sf. Paul, unde se spune cÄƒ a naufragiat SfÃ¢ntul Apostol Pavel.",
       en: "The larger of the two St. Paul's Islands, where St. Paul the Apostle is said to have been shipwrecked."
     },
-    descriptionAdvanced: { de: "", hu: "Plizio tanterv: Földrajz 7. évfolyam. Málta egyéb látnivalói, mint a természetvédelmi területek és kertek, fontos szerepet játszanak a szigetek ökológiai egyensúlyának megorzésében, és remek lehetoséget kínálnak a környezeti nevelésre.", ro: "TODO", en: "" },
-    factsAdvanced: { de: [], hu: ["Málta természeti értékei különösen érzékenyek a turizmus hatásaira.", "A Ghadira-rezervátum fontos állomás a vándormadarak számára.", "A Buskett-kertek az egyetlen nagyobb erdos terület a szigeten.", "A természetvédelmi területek védelme elengedhetetlen a fajok megmaradásához.", "A szigetország száraz éghajlata miatt a vizes élohelyek ritkaságszámba mennek.", "Málta kormánya számos projektet indított a biodiverzitás növelésére.", "A helyi növényvilág számos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
+    descriptionAdvanced: { de: "", hu: "Plizio tanterv: FÃ¶ldrajz 7. Ã©vfolyam. MÃ¡lta egyÃ©b lÃ¡tnivalÃ³i, mint a termÃ©szetvÃ©delmi terÃ¼letek Ã©s kertek, fontos szerepet jÃ¡tszanak a szigetek Ã¶kolÃ³giai egyensÃºlyÃ¡nak megorzÃ©sÃ©ben, Ã©s remek lehetosÃ©get kÃ­nÃ¡lnak a kÃ¶rnyezeti nevelÃ©sre.", ro: "TODO", en: "" },
+    factsAdvanced: { de: [], hu: ["MÃ¡lta termÃ©szeti Ã©rtÃ©kei kÃ¼lÃ¶nÃ¶sen Ã©rzÃ©kenyek a turizmus hatÃ¡saira.", "A Ghadira-rezervÃ¡tum fontos Ã¡llomÃ¡s a vÃ¡ndormadarak szÃ¡mÃ¡ra.", "A Buskett-kertek az egyetlen nagyobb erdos terÃ¼let a szigeten.", "A termÃ©szetvÃ©delmi terÃ¼letek vÃ©delme elengedhetetlen a fajok megmaradÃ¡sÃ¡hoz.", "A szigetorszÃ¡g szÃ¡raz Ã©ghajlata miatt a vizes Ã©lohelyek ritkasÃ¡gszÃ¡mba mennek.", "MÃ¡lta kormÃ¡nya szÃ¡mos projektet indÃ­tott a biodiverzitÃ¡s nÃ¶velÃ©sÃ©re.", "A helyi nÃ¶vÃ©nyvilÃ¡g szÃ¡mos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
   },
   {
     id: "landscape-b Ghar-hasan-cave-extra",
@@ -3510,8 +3510,8 @@ export const poiExtraMaltaOther: POI[] = [
       ro: "O peÈ™terÄƒ marinÄƒ mare pe stÃ¢ncile de lÃ¢ngÄƒ Birzebbuga, cu o legendÄƒ despre un pirat sarazin.",
       en: "A large sea cave on the cliffs near Birzebbuga with a legend about a Saracen pirate."
     },
-    descriptionAdvanced: { de: "", hu: "Plizio tanterv: Földrajz 7. évfolyam. Málta egyéb látnivalói, mint a természetvédelmi területek és kertek, fontos szerepet játszanak a szigetek ökológiai egyensúlyának megorzésében, és remek lehetoséget kínálnak a környezeti nevelésre.", ro: "TODO", en: "" },
-    factsAdvanced: { de: [], hu: ["Málta természeti értékei különösen érzékenyek a turizmus hatásaira.", "A Ghadira-rezervátum fontos állomás a vándormadarak számára.", "A Buskett-kertek az egyetlen nagyobb erdos terület a szigeten.", "A természetvédelmi területek védelme elengedhetetlen a fajok megmaradásához.", "A szigetország száraz éghajlata miatt a vizes élohelyek ritkaságszámba mennek.", "Málta kormánya számos projektet indított a biodiverzitás növelésére.", "A helyi növényvilág számos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
+    descriptionAdvanced: { de: "", hu: "Plizio tanterv: FÃ¶ldrajz 7. Ã©vfolyam. MÃ¡lta egyÃ©b lÃ¡tnivalÃ³i, mint a termÃ©szetvÃ©delmi terÃ¼letek Ã©s kertek, fontos szerepet jÃ¡tszanak a szigetek Ã¶kolÃ³giai egyensÃºlyÃ¡nak megorzÃ©sÃ©ben, Ã©s remek lehetosÃ©get kÃ­nÃ¡lnak a kÃ¶rnyezeti nevelÃ©sre.", ro: "TODO", en: "" },
+    factsAdvanced: { de: [], hu: ["MÃ¡lta termÃ©szeti Ã©rtÃ©kei kÃ¼lÃ¶nÃ¶sen Ã©rzÃ©kenyek a turizmus hatÃ¡saira.", "A Ghadira-rezervÃ¡tum fontos Ã¡llomÃ¡s a vÃ¡ndormadarak szÃ¡mÃ¡ra.", "A Buskett-kertek az egyetlen nagyobb erdos terÃ¼let a szigeten.", "A termÃ©szetvÃ©delmi terÃ¼letek vÃ©delme elengedhetetlen a fajok megmaradÃ¡sÃ¡hoz.", "A szigetorszÃ¡g szÃ¡raz Ã©ghajlata miatt a vizes Ã©lohelyek ritkasÃ¡gszÃ¡mba mennek.", "MÃ¡lta kormÃ¡nya szÃ¡mos projektet indÃ­tott a biodiverzitÃ¡s nÃ¶velÃ©sÃ©re.", "A helyi nÃ¶vÃ©nyvilÃ¡g szÃ¡mos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
   },
   {
     id: "landscape-bahrija-plateau-extra",
@@ -3530,8 +3530,8 @@ export const poiExtraMaltaOther: POI[] = [
       ro: "Un platou rural cu vederi frumoase È™i trasee de drumeÈ›ie.",
       en: "A rural plateau with beautiful views and walking trails."
     },
-    descriptionAdvanced: { de: "", hu: "Plizio tanterv: Földrajz 7. évfolyam. Málta egyéb látnivalói, mint a természetvédelmi területek és kertek, fontos szerepet játszanak a szigetek ökológiai egyensúlyának megorzésében, és remek lehetoséget kínálnak a környezeti nevelésre.", ro: "TODO", en: "" },
-    factsAdvanced: { de: [], hu: ["Málta természeti értékei különösen érzékenyek a turizmus hatásaira.", "A Ghadira-rezervátum fontos állomás a vándormadarak számára.", "A Buskett-kertek az egyetlen nagyobb erdos terület a szigeten.", "A természetvédelmi területek védelme elengedhetetlen a fajok megmaradásához.", "A szigetország száraz éghajlata miatt a vizes élohelyek ritkaságszámba mennek.", "Málta kormánya számos projektet indított a biodiverzitás növelésére.", "A helyi növényvilág számos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
+    descriptionAdvanced: { de: "", hu: "Plizio tanterv: FÃ¶ldrajz 7. Ã©vfolyam. MÃ¡lta egyÃ©b lÃ¡tnivalÃ³i, mint a termÃ©szetvÃ©delmi terÃ¼letek Ã©s kertek, fontos szerepet jÃ¡tszanak a szigetek Ã¶kolÃ³giai egyensÃºlyÃ¡nak megorzÃ©sÃ©ben, Ã©s remek lehetosÃ©get kÃ­nÃ¡lnak a kÃ¶rnyezeti nevelÃ©sre.", ro: "TODO", en: "" },
+    factsAdvanced: { de: [], hu: ["MÃ¡lta termÃ©szeti Ã©rtÃ©kei kÃ¼lÃ¶nÃ¶sen Ã©rzÃ©kenyek a turizmus hatÃ¡saira.", "A Ghadira-rezervÃ¡tum fontos Ã¡llomÃ¡s a vÃ¡ndormadarak szÃ¡mÃ¡ra.", "A Buskett-kertek az egyetlen nagyobb erdos terÃ¼let a szigeten.", "A termÃ©szetvÃ©delmi terÃ¼letek vÃ©delme elengedhetetlen a fajok megmaradÃ¡sÃ¡hoz.", "A szigetorszÃ¡g szÃ¡raz Ã©ghajlata miatt a vizes Ã©lohelyek ritkasÃ¡gszÃ¡mba mennek.", "MÃ¡lta kormÃ¡nya szÃ¡mos projektet indÃ­tott a biodiverzitÃ¡s nÃ¶velÃ©sÃ©re.", "A helyi nÃ¶vÃ©nyvilÃ¡g szÃ¡mos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
   },
   {
     id: "landscape-lunzjata-valley-fountain-gozo-extra",
@@ -3550,8 +3550,8 @@ export const poiExtraMaltaOther: POI[] = [
       ro: "O vale luxuriantÄƒ alimentatÄƒ de un izvor natural, verde pe tot parcursul anului.",
       en: "A lush valley fed by a natural spring, keeping it green year-round."
     },
-    descriptionAdvanced: { de: "", hu: "Plizio tanterv: Földrajz 7. évfolyam. Málta egyéb látnivalói, mint a természetvédelmi területek és kertek, fontos szerepet játszanak a szigetek ökológiai egyensúlyának megorzésében, és remek lehetoséget kínálnak a környezeti nevelésre.", ro: "TODO", en: "" },
-    factsAdvanced: { de: [], hu: ["Málta természeti értékei különösen érzékenyek a turizmus hatásaira.", "A Ghadira-rezervátum fontos állomás a vándormadarak számára.", "A Buskett-kertek az egyetlen nagyobb erdos terület a szigeten.", "A természetvédelmi területek védelme elengedhetetlen a fajok megmaradásához.", "A szigetország száraz éghajlata miatt a vizes élohelyek ritkaságszámba mennek.", "Málta kormánya számos projektet indított a biodiverzitás növelésére.", "A helyi növényvilág számos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
+    descriptionAdvanced: { de: "", hu: "Plizio tanterv: FÃ¶ldrajz 7. Ã©vfolyam. MÃ¡lta egyÃ©b lÃ¡tnivalÃ³i, mint a termÃ©szetvÃ©delmi terÃ¼letek Ã©s kertek, fontos szerepet jÃ¡tszanak a szigetek Ã¶kolÃ³giai egyensÃºlyÃ¡nak megorzÃ©sÃ©ben, Ã©s remek lehetosÃ©get kÃ­nÃ¡lnak a kÃ¶rnyezeti nevelÃ©sre.", ro: "TODO", en: "" },
+    factsAdvanced: { de: [], hu: ["MÃ¡lta termÃ©szeti Ã©rtÃ©kei kÃ¼lÃ¶nÃ¶sen Ã©rzÃ©kenyek a turizmus hatÃ¡saira.", "A Ghadira-rezervÃ¡tum fontos Ã¡llomÃ¡s a vÃ¡ndormadarak szÃ¡mÃ¡ra.", "A Buskett-kertek az egyetlen nagyobb erdos terÃ¼let a szigeten.", "A termÃ©szetvÃ©delmi terÃ¼letek vÃ©delme elengedhetetlen a fajok megmaradÃ¡sÃ¡hoz.", "A szigetorszÃ¡g szÃ¡raz Ã©ghajlata miatt a vizes Ã©lohelyek ritkasÃ¡gszÃ¡mba mennek.", "MÃ¡lta kormÃ¡nya szÃ¡mos projektet indÃ­tott a biodiverzitÃ¡s nÃ¶velÃ©sÃ©re.", "A helyi nÃ¶vÃ©nyvilÃ¡g szÃ¡mos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
   },
   {
     id: "landscape-victoria-lines-fault-extra",
@@ -3570,8 +3570,8 @@ export const poiExtraMaltaOther: POI[] = [
       ro: "O falie geologicÄƒ naturalÄƒ de-a lungul cÄƒreia a fost construit un È™ir de fortificaÈ›ii Ã®n secolul al XIX-lea.",
       en: "A natural geological fault along which a line of fortifications was built in the 19th century."
     },
-    descriptionAdvanced: { de: "", hu: "Plizio tanterv: Földrajz 7. évfolyam. Málta egyéb látnivalói, mint a természetvédelmi területek és kertek, fontos szerepet játszanak a szigetek ökológiai egyensúlyának megorzésében, és remek lehetoséget kínálnak a környezeti nevelésre.", ro: "TODO", en: "" },
-    factsAdvanced: { de: [], hu: ["Málta természeti értékei különösen érzékenyek a turizmus hatásaira.", "A Ghadira-rezervátum fontos állomás a vándormadarak számára.", "A Buskett-kertek az egyetlen nagyobb erdos terület a szigeten.", "A természetvédelmi területek védelme elengedhetetlen a fajok megmaradásához.", "A szigetország száraz éghajlata miatt a vizes élohelyek ritkaságszámba mennek.", "Málta kormánya számos projektet indított a biodiverzitás növelésére.", "A helyi növényvilág számos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
+    descriptionAdvanced: { de: "", hu: "Plizio tanterv: FÃ¶ldrajz 7. Ã©vfolyam. MÃ¡lta egyÃ©b lÃ¡tnivalÃ³i, mint a termÃ©szetvÃ©delmi terÃ¼letek Ã©s kertek, fontos szerepet jÃ¡tszanak a szigetek Ã¶kolÃ³giai egyensÃºlyÃ¡nak megorzÃ©sÃ©ben, Ã©s remek lehetosÃ©get kÃ­nÃ¡lnak a kÃ¶rnyezeti nevelÃ©sre.", ro: "TODO", en: "" },
+    factsAdvanced: { de: [], hu: ["MÃ¡lta termÃ©szeti Ã©rtÃ©kei kÃ¼lÃ¶nÃ¶sen Ã©rzÃ©kenyek a turizmus hatÃ¡saira.", "A Ghadira-rezervÃ¡tum fontos Ã¡llomÃ¡s a vÃ¡ndormadarak szÃ¡mÃ¡ra.", "A Buskett-kertek az egyetlen nagyobb erdos terÃ¼let a szigeten.", "A termÃ©szetvÃ©delmi terÃ¼letek vÃ©delme elengedhetetlen a fajok megmaradÃ¡sÃ¡hoz.", "A szigetorszÃ¡g szÃ¡raz Ã©ghajlata miatt a vizes Ã©lohelyek ritkasÃ¡gszÃ¡mba mennek.", "MÃ¡lta kormÃ¡nya szÃ¡mos projektet indÃ­tott a biodiverzitÃ¡s nÃ¶velÃ©sÃ©re.", "A helyi nÃ¶vÃ©nyvilÃ¡g szÃ¡mos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
   },
   {
     id: "landscape-mgarr-ix-xini-valley-gozo-extra",
@@ -3590,8 +3590,8 @@ export const poiExtraMaltaOther: POI[] = [
       ro: "O vale abruptÄƒ care duce la un golf izolat, folosit ca locaÈ›ie de filmare pentru filmul 'By the Sea'.",
       en: "A steep-sided valley leading to a secluded bay, used as a filming location for the movie 'By the Sea'."
     },
-    descriptionAdvanced: { de: "", hu: "Plizio tanterv: Földrajz 7. évfolyam. Málta egyéb látnivalói, mint a természetvédelmi területek és kertek, fontos szerepet játszanak a szigetek ökológiai egyensúlyának megorzésében, és remek lehetoséget kínálnak a környezeti nevelésre.", ro: "TODO", en: "" },
-    factsAdvanced: { de: [], hu: ["Málta természeti értékei különösen érzékenyek a turizmus hatásaira.", "A Ghadira-rezervátum fontos állomás a vándormadarak számára.", "A Buskett-kertek az egyetlen nagyobb erdos terület a szigeten.", "A természetvédelmi területek védelme elengedhetetlen a fajok megmaradásához.", "A szigetország száraz éghajlata miatt a vizes élohelyek ritkaságszámba mennek.", "Málta kormánya számos projektet indított a biodiverzitás növelésére.", "A helyi növényvilág számos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
+    descriptionAdvanced: { de: "", hu: "Plizio tanterv: FÃ¶ldrajz 7. Ã©vfolyam. MÃ¡lta egyÃ©b lÃ¡tnivalÃ³i, mint a termÃ©szetvÃ©delmi terÃ¼letek Ã©s kertek, fontos szerepet jÃ¡tszanak a szigetek Ã¶kolÃ³giai egyensÃºlyÃ¡nak megorzÃ©sÃ©ben, Ã©s remek lehetosÃ©get kÃ­nÃ¡lnak a kÃ¶rnyezeti nevelÃ©sre.", ro: "TODO", en: "" },
+    factsAdvanced: { de: [], hu: ["MÃ¡lta termÃ©szeti Ã©rtÃ©kei kÃ¼lÃ¶nÃ¶sen Ã©rzÃ©kenyek a turizmus hatÃ¡saira.", "A Ghadira-rezervÃ¡tum fontos Ã¡llomÃ¡s a vÃ¡ndormadarak szÃ¡mÃ¡ra.", "A Buskett-kertek az egyetlen nagyobb erdos terÃ¼let a szigeten.", "A termÃ©szetvÃ©delmi terÃ¼letek vÃ©delme elengedhetetlen a fajok megmaradÃ¡sÃ¡hoz.", "A szigetorszÃ¡g szÃ¡raz Ã©ghajlata miatt a vizes Ã©lohelyek ritkasÃ¡gszÃ¡mba mennek.", "MÃ¡lta kormÃ¡nya szÃ¡mos projektet indÃ­tott a biodiverzitÃ¡s nÃ¶velÃ©sÃ©re.", "A helyi nÃ¶vÃ©nyvilÃ¡g szÃ¡mos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
   },
   {
     id: "landscape-marfa-ridge-extra",
@@ -3610,8 +3610,8 @@ export const poiExtraMaltaOther: POI[] = [
       ro: "O creastÄƒ la capÄƒtul de nord-vest al Maltei, cu vedere spre Comino È™i Gozo.",
       en: "A ridge at the north-western end of Malta, overlooking Comino and Gozo."
     },
-    descriptionAdvanced: { de: "", hu: "Plizio tanterv: Földrajz 7. évfolyam. Málta egyéb látnivalói, mint a természetvédelmi területek és kertek, fontos szerepet játszanak a szigetek ökológiai egyensúlyának megorzésében, és remek lehetoséget kínálnak a környezeti nevelésre.", ro: "TODO", en: "" },
-    factsAdvanced: { de: [], hu: ["Málta természeti értékei különösen érzékenyek a turizmus hatásaira.", "A Ghadira-rezervátum fontos állomás a vándormadarak számára.", "A Buskett-kertek az egyetlen nagyobb erdos terület a szigeten.", "A természetvédelmi területek védelme elengedhetetlen a fajok megmaradásához.", "A szigetország száraz éghajlata miatt a vizes élohelyek ritkaságszámba mennek.", "Málta kormánya számos projektet indított a biodiverzitás növelésére.", "A helyi növényvilág számos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
+    descriptionAdvanced: { de: "", hu: "Plizio tanterv: FÃ¶ldrajz 7. Ã©vfolyam. MÃ¡lta egyÃ©b lÃ¡tnivalÃ³i, mint a termÃ©szetvÃ©delmi terÃ¼letek Ã©s kertek, fontos szerepet jÃ¡tszanak a szigetek Ã¶kolÃ³giai egyensÃºlyÃ¡nak megorzÃ©sÃ©ben, Ã©s remek lehetosÃ©get kÃ­nÃ¡lnak a kÃ¶rnyezeti nevelÃ©sre.", ro: "TODO", en: "" },
+    factsAdvanced: { de: [], hu: ["MÃ¡lta termÃ©szeti Ã©rtÃ©kei kÃ¼lÃ¶nÃ¶sen Ã©rzÃ©kenyek a turizmus hatÃ¡saira.", "A Ghadira-rezervÃ¡tum fontos Ã¡llomÃ¡s a vÃ¡ndormadarak szÃ¡mÃ¡ra.", "A Buskett-kertek az egyetlen nagyobb erdos terÃ¼let a szigeten.", "A termÃ©szetvÃ©delmi terÃ¼letek vÃ©delme elengedhetetlen a fajok megmaradÃ¡sÃ¡hoz.", "A szigetorszÃ¡g szÃ¡raz Ã©ghajlata miatt a vizes Ã©lohelyek ritkasÃ¡gszÃ¡mba mennek.", "MÃ¡lta kormÃ¡nya szÃ¡mos projektet indÃ­tott a biodiverzitÃ¡s nÃ¶velÃ©sÃ©re.", "A helyi nÃ¶vÃ©nyvilÃ¡g szÃ¡mos endemikus fajt tartalmaz."], ro: ["TODO"], en: [] }
   }
 ];
 

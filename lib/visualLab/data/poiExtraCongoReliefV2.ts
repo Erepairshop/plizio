@@ -12,7 +12,14 @@ export const poiExtraCongoReliefV2: POI[] = [
       hu: "Nabemba-hegy",
       ro: "Muntele Nabemba",
       en: "Mount Nabemba"
+    ,
+    descriptionAdvanced: {
+      en: "Mount Nabemba, rising to 1,020 meters, is the highest peak in the Republic of the Congo. It stands as a solitary, rugged sentinel in the remote northern rainforests. Geologically, it is part of the country's ancient crystalline basement and contains significant deposits of high-grade iron ore. Its summit offers a rare vantage point above the dense canopy of the Sangha Basin. Geography K8 — mountain geography and geological resources."
     },
+    factsAdvanced: {
+      en: ["Highest elevation in the Republic of the Congo.", "Reaches a peak of 1,020 meters.", "Composed of ancient Precambrian crystalline rock.", "Significant national reserve of high-grade iron ore.", "Dominant feature of the remote northern landscape.", "Provides a vantage point above the Sangha rainforest."]
+    }
+  },
     description: {
       de: "Der Mont Nabemba ist mit 1020 Metern der höchste Berg der Republik Kongo und liegt im abgelegenen Norden des Landes.",
       hu: "A Nabemba-hegy a Kongói Köztársaság legmagasabb pontja, amely 1020 méteres magasságával emelkedik ki az északi esőerdőkből.",
@@ -35,7 +42,14 @@ export const poiExtraCongoReliefV2: POI[] = [
       hu: "Diosso-szurdok",
       ro: "Cheile Diosso",
       en: "Diosso Gorges"
+    ,
+    descriptionAdvanced: {
+      en: "The Gorges of Diosso, often referred to as the 'Grand Canyon of the Congo,' are a striking geological formation near the Atlantic coast. Formed by centuries of relentless marine and wind erosion, these vibrant red laterite cliffs create a dramatic, deeply incised landscape. The gorges are a must-see for those interested in the raw, visible forces of nature that continue to reshape the coastal plateau. Geography K6 — erosion patterns and coastal topography."
     },
+    factsAdvanced: {
+      en: ["Often called the 'Grand Canyon of the Congo'.", "Formed by long-term marine and wind erosion.", "Bright red laterite cliffs and ravines.", "Reaches depths of up to 100 meters.", "Striking visual landmark of the Kouilou region.", "Demonstrates active coastal geological processes."]
+    }
+  },
     description: {
       de: "Spektakuläre rote Felsklippen und Erosionslandschaften nahe der Küste, die oft als der Grand Canyon des Kongo bezeichnet werden.",
       hu: "Látványos vörös sziklafalak és eróziós formák a tengerpart közelében, melyeket gyakran a Kongó Grand Canyonjaként emlegetnek.",
@@ -58,7 +72,14 @@ export const poiExtraCongoReliefV2: POI[] = [
       hu: "Chaillu-masszívum",
       ro: "Masivul Chaillu",
       en: "Chaillu Massif"
+    ,
+    descriptionAdvanced: {
+      en: "The Chaillu Massif is an ancient, sprawling mountain range shared by Congo and Gabon, characterized by crystalline geology and dense forest cover. Beyond its rugged aesthetic, it acts as a critical watershed, feeding several important regional river systems that sustain both wildlife and human populations. This massive geological feature is home to significant biodiversity and remains a frontier for ecological research. Geography K7 — regional mountain ranges and hydrological impact."
     },
+    factsAdvanced: {
+      en: ["Ancient geological mountain massif system.", "Shared across the border with Gabon.", "Acts as a major watershed for regional rivers.", "Composed largely of dense crystalline rock.", "Supports diverse flora and rare primate species.", "Significant ecological frontier in Central Africa."]
+    }
+  },
     description: {
       de: "Ein Gebirgszug im Süden des Kongo und Gabun, der aus kristallinem Gestein besteht und eine wichtige Wasserscheide bildet.",
       hu: "Közép-afrikai hegység Kongó és Gabon határán, amely kristályos kőzetekből áll és fontos vízválasztó.",
@@ -81,7 +102,14 @@ export const poiExtraCongoReliefV2: POI[] = [
       hu: "Kristály-hegység",
       ro: "Munții de Cristal",
       en: "Crystal Mountains"
+    ,
+    descriptionAdvanced: {
+      en: "Running parallel to the Atlantic coastline, the Crystal Mountains form a jagged, rain-fed range known for its dramatic topography and incredible species richness. These mountains capture moisture from oceanic winds, supporting lush montane forests that differ significantly from the lowland basins. Their steep slopes are a challenging environment, harboring high levels of endemism that attract scientists from across the globe. Geography K8 — biodiversity and coastal montane ecosystems."
     },
+    factsAdvanced: {
+      en: ["Mountain range parallel to the Atlantic coast.", "Known for steep, rain-fed montane rainforests.", "Significant barrier to oceanic moisture currents.", "Harbors extremely high levels of plant endemism.", "Rugged topography challenges infrastructure.", "Essential for maintaining regional rainfall patterns."]
+    }
+  },
     description: {
       de: "Ein zerklüfteter Gebirgszug parallel zur Atlantikküste, der für seine steilen Hänge und hohe Biodiversität bekannt ist.",
       hu: "Az Atlanti-óceán partjával párhuzamosan futó, meredek lejtőiről és gazdag élővilágáról híres hegylánc.",
@@ -104,7 +132,14 @@ export const poiExtraCongoReliefV2: POI[] = [
       hu: "Koukouya-fennsík",
       ro: "Platoul Koukouya",
       en: "Koukouya Plateau"
+    ,
+    descriptionAdvanced: {
+      en: "The Koukouya Plateau, situated in the Plateaux region, is a fertile highland characterized by volcanic-influenced soils and a remarkably pleasant climate compared to the sweltering lowlands. Its elevation supports a unique agricultural landscape where vegetables thrive, marking it as an essential farming hub. The combination of gentle hills and temperate conditions makes it one of the most habitable areas of the country. Geography K5 — highland agriculture and temperate microclimates."
     },
+    factsAdvanced: {
+      en: ["Fertile high plateau with volcanic soil influence.", "Elevated landscape with a temperate microclimate.", "Primary center for vegetable farming in the region.", "Stands at an average altitude of 800 meters.", "Picturesque, rolling hills and agricultural terraces.", "Distinctly more pleasant climate than low basins."]
+    }
+  },
     description: {
       de: "Ein fruchtbares Hochplateau in der Plateaux-Region, das durch vulkanische Böden und ein milderes Klima geprägt ist.",
       hu: "Termékeny felföld a Plateaux-régióban, amelyet vulkáni talaj és mérsékeltebb éghajlat jellemez.",
@@ -127,7 +162,14 @@ export const poiExtraCongoReliefV2: POI[] = [
       hu: "Mbé-fennsík",
       ro: "Platoul Mbé",
       en: "Mbé Plateau"
+    ,
+    descriptionAdvanced: {
+      en: "The Mbé Plateau is a vast, iconic sandstone highland that has served as the political and spiritual center for the Téké people for many centuries. Its sprawling, arid savanna landscape is starkly beautiful and carries heavy historical and cultural weight. As the historical residence of the Makoko (King), it remains a site of immense traditional and national importance within the Congo. History K7 — cultural identity and sacred landscapes."
     },
+    factsAdvanced: {
+      en: ["Vast sandstone highland plateau system.", "Historical seat of the Téké Kingdom.", "Long-standing residence of the Makoko (King).", "Landscape dominated by open, arid savanna.", "Significant sacred site for Téké history.", "Candidate site for UNESCO World Heritage status."]
+    }
+  },
     description: {
       de: "Ein weitläufiges Sandsteinplateau, das für das Volk der Téké eine heilige Bedeutung hat und das Zentrum ihres Königreichs bildete.",
       hu: "Hatalmas homokkő fennsík, amely a téke nép számára szent jelentőséggel bír és királyságuk központja volt.",
@@ -151,7 +193,14 @@ export const poiExtraCongoReliefV2: POI[] = [
       hu: "Niari-medence",
       ro: "Bazinul Niari",
       en: "Niari Basin"
+    ,
+    descriptionAdvanced: {
+      en: "The Niari Basin is a large, fertile tectonic depression in the southwest, acting as the agricultural engine room for the Republic of the Congo. Drained by the Niari River, the basin's rich alluvial soils support intensive farming and diverse crop production. Its position between surrounding mountain ranges creates a contained, protected environment that has shaped the history and economy of southern Congo. Geography K6 — tectonic basins and agricultural productivity."
     },
+    factsAdvanced: {
+      en: ["Extensive tectonic depression in the southwest.", "Most agriculturally productive region of Congo.", "Drained by the essential Niari River system.", "Contains rich limestone and ore deposits.", "Surrounded by protective mountain ranges.", "Characterized by highly fertile alluvial soils."]
+    }
+  },
     description: {
       de: "Eine ausgedehnte tektonische Senke im Südwesten des Landes, die durch den Niari-Fluss entwässert wird.",
       hu: "Kiterjedt tektonikai süllyedék az ország délnyugati részén, melyet a Niari-folyó hálóz be.",
@@ -174,7 +223,14 @@ export const poiExtraCongoReliefV2: POI[] = [
       hu: "Pangala-hegy",
       ro: "Muntele Pangala",
       en: "Mount Pangala"
+    ,
+    descriptionAdvanced: {
+      en: "Mount Pangala is a prominent, isolated peak in the Pool region, offering expansive views over the surrounding landscape of valleys and dry savannas. Its distinct profile and elevation make it a key landmark for the local community and a popular site for those interested in trekking through the rugged south. It illustrates the diverse relief found within the Pool department, contrasting sharply with the flatter lowlands. Geography K5 — regional landmarks and topographical variety."
     },
+    factsAdvanced: {
+      en: ["Prominent peak located in the Pool region.", "Popular destination for local trekking.", "Offers wide views over valleys and savannas.", "Dominates the local topography near Mindouli.", "Characterized by dry savanna vegetation.", "Key regional landmark and orienting peak."]
+    }
+  },
     description: {
       de: "Ein markanter Gipfel in der Pool-Region, der weite Ausblicke über die umliegenden Täler und Savannen bietet.",
       hu: "Jellegzetes csúcs a Pool-régióban, amely széles kilátást nyújt a környező völgyekre és szavannákra.",
@@ -197,7 +253,14 @@ export const poiExtraCongoReliefV2: POI[] = [
       hu: "Doulo-sziklafalak",
       ro: "Faleza Doulo",
       en: "Doulo Cliffs"
+    ,
+    descriptionAdvanced: {
+      en: "The Doulo Cliffs present a stunning vertical display of geology at the edge of the Niari Valley. These steep sandstone facades have been dramatically shaped by intense vertical erosion, creating white and yellow rock layers that stand out sharply against the landscape. They represent the volatile, ever-changing nature of the region's topography, making them a significant geological site. Geography K6 — geological erosion and sedimentary cliffs."
     },
+    factsAdvanced: {
+      en: ["Steep sandstone cliffs at the Niari Valley edge.", "Displays vivid white and yellow rock layers.", "Subjected to intense vertical erosion processes.", "Significant site for studying local geology.", "Dramatically textured natural viewpoint.", "Example of rapid topographical transformation."]
+    }
+  },
     description: {
       de: "Steile Sandsteinklippen am Rande des Niari-Tals, die durch dramatische Erosionsformen beeindrucken.",
       hu: "Meredek homokkő sziklák a Niari-völgy szélén, melyek drámai eróziós formáikkal nyűgözik le a látogatót.",
@@ -220,7 +283,14 @@ export const poiExtraCongoReliefV2: POI[] = [
       hu: "Fouari-hegy",
       ro: "Muntele Fouari",
       en: "Mount Fouari"
+    ,
+    descriptionAdvanced: {
+      en: "Mount Fouari is an isolated mountain massif in the southwest, situated right on the border with Gabon. It sits within a protected area that safeguards a rich array of flora and fauna, including rare antelope species. Its isolated nature has allowed for the preservation of a distinct ecosystem, making it a critical point for biodiversity protection in a region under pressure from development. Geography K7 — biodiversity islands and protected peaks."
     },
+    factsAdvanced: {
+      en: ["Significant mountain massif on the Gabon border.", "Located within a protected reserve area.", "Provides critical refuge for antelope species.", "Isolated peak supporting a distinct ecosystem.", "Critical focal point for regional biodiversity.", "Stable, preserved mountain forest environment."]
+    }
+  },
     description: {
       de: "Ein Berg im Südwesten an der Grenze zu Gabun, der Teil eines bedeutenden Naturschutzgebiets ist.",
       hu: "Hegy az ország délnyugati részén, a gaboni határnál, egy fontos természetvédelmi terület része.",

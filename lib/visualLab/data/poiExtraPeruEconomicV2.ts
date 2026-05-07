@@ -15,10 +15,7 @@ export const poiExtraPeruEconomicV2: POI[] = [
       en: "The most important and largest port in Peru, handling the majority of the country's international trade."
     },
     descriptionAdvanced: {
-      de: "",
-      hu: "",
-      ro: "",
-      en: "The Port of Callao stands as the maritime gateway to Peru and its bustling capital, Lima. As the largest and most important port in the country, it handles a vast majority of Peru's international trade, connecting the nation to global markets. The port's history dates back to the colonial era, but today it is a state-of-the-art facility equipped with modern container terminals. Its strategic location on the Pacific coast makes it a vital hub for South American commerce. Visitors can witness the non-stop activity of massive cargo ships and the essential flow of goods that drive the Peruvian economy."
+      en: "The Port of Callao is the maritime heartbeat of Peru and its primary gateway to the world's oceans. Located just west of the capital city, Lima, this bustling port handles over 70% of the country's international trade, from massive containers to bulk minerals like copper and zinc. Since its founding in 1537, Callao has been a strategic hub for South American commerce, once serving as the most important port for the Spanish Empire in the Pacific. Today, it is a modern, high-tech facility operated by global leaders like DP World and APM Terminals. Beyond its cranes and ships, Callao is also home to the historic Real Felipe Fortress and the Jorge Chávez International Airport, making it the country's most vital transport and logistics center. Geography K8 — Global trade and port infrastructure."
     },
     facts: {
       de: ["Größter Hafen in Peru.", "Wickelt einen Großteil der Fracht ab."],
@@ -27,17 +24,10 @@ export const poiExtraPeruEconomicV2: POI[] = [
       en: ["Largest port in Peru.", "Handles a majority of cargo."]
     },
     factsAdvanced: {
-      de: [],
-      hu: [],
-      ro: [],
-      en: [
-        "Largest port in Peru by cargo volume.",
-        "Founded in 1537 by Spanish colonists.",
-        "Crucial hub for the export of Peruvian minerals and agricultural products.",
-        "Located just west of Lima's historic city center.",
-        "Underwent major modernization to accommodate large Panamax vessels."
-      ]
-    }, image: "/poi-images/port-callao-economic-v2.webp"},
+      en: ["The largest and busiest seaport in Peru and one of the most important in South America.", "Founded in 1537 by Spanish colonists as a gateway for the riches of the Andes.", "Handles the vast majority of Peru's mineral exports, including copper, zinc, and lead.", "The Real Felipe Fortress, located at the port, was the last Spanish stronghold in South America.", "Features the DP World and APM Terminals, which have undergone major modernizations.", "Connected to Lima by the 'Metropolitano' and major industrial avenues.", "The nearby Palomino Islands are home to a massive colony of sea lions.", "Callao holds the special status of a 'Constitutional Province' in Peru."]
+    },
+    image: "/poi-images/port-callao-economic-v2.webp"
+  },
   {
     id: "port-matarani-economic-v2",
     type: "port",
@@ -51,10 +41,7 @@ export const poiExtraPeruEconomicV2: POI[] = [
       en: "A major seaport in southern Peru, primarily used for exporting minerals from nearby mines."
     },
     descriptionAdvanced: {
-      de: "",
-      hu: "",
-      ro: "",
-      en: "The Port of Matarani is a cornerstone of the economy in southern Peru, serving as the primary outlet for the region's massive mining output. Located in the Arequipa department, this deep-water port is essential for the export of copper, molybdenum, and other precious minerals. It has become one of the most efficient ports on the South American Pacific coast, thanks to significant private investment and modernization. The port's activity supports thousands of jobs and facilitates trade for the entire southern Andean region. Its strategic importance continues to grow as new mining projects come online in the surrounding mountains."
+      en: "The Port of Matarani is the principal outlet for the massive mining industry of southern Peru, playing a crucial role in the national economy. Located in the Arequipa region, this deep-water port is one of the most efficient on the Pacific coast, specializing in the high-speed loading of mineral concentrates from giant mines like Cerro Verde and Las Bambas. Operated by TISUR, the port has transformed the region into a vital logistical corridor, connecting the Andean highlands with global markets in Asia and Europe. Its strategic importance extends beyond Peru, as it serves as a key transit point for goods entering and leaving landlocked Bolivia. Matarani's growth is a testament to the industrial power of the southern Andes and its integration into the global supply chain. Geography K8 — Mining logistics and international trade corridors."
     },
     facts: {
       de: ["Wichtiger Hafen im Süden.", "Exportiert Mineralien."],
@@ -63,17 +50,10 @@ export const poiExtraPeruEconomicV2: POI[] = [
       en: ["Important southern port.", "Exports minerals."]
     },
     factsAdvanced: {
-      de: [],
-      hu: [],
-      ro: [],
-      en: [
-        "Principal export point for the Cerro Verde and Las Bambas mines.",
-        "Operated by Tisur, a leader in Peruvian port logistics.",
-        "Features a specialized terminal for mineral concentrates.",
-        "Handles millions of tons of cargo annually.",
-        "Essential link in the South Andean railroad network."
-      ]
-    }, image: "/poi-images/port-matarani-economic-v2.webp"},
+      en: ["The most efficient mineral-handling terminal in Peru.", "Primary export hub for southern Peru's 'Copper Belt' mines.", "Operated by Terminal Internacional del Sur (TISUR) since 1999.", "Serves as a major gateway for Bolivian imports and exports.", "Located 120 kilometers from the city of Arequipa.", "Features automated high-speed mineral storage and loading systems.", "A key component of the 'South Interoceanic Highway' trade axis.", "The bay offers excellent natural protection from strong Pacific currents."]
+    },
+    image: "/poi-images/port-matarani-economic-v2.webp"
+  },
   {
     id: "port-salaverry-economic-v2",
     type: "port",
@@ -87,10 +67,7 @@ export const poiExtraPeruEconomicV2: POI[] = [
       en: "A strategically important port for the La Libertad region, exporting agricultural products and minerals."
     },
     descriptionAdvanced: {
-      de: "",
-      hu: "",
-      ro: "",
-      en: "Located near the historic city of Trujillo, the Port of Salaverry is the vital heart of trade for the La Libertad region. This multi-purpose port specializes in the export of agricultural products, such as sugar and asparagus, alongside mineral concentrates. It has recently seen substantial upgrades to improve its depth and capacity, allowing for larger vessels to dock. The port plays a dual role by also welcoming international cruise ships, bringing tourists to explore the nearby ruins of Chan Chan. Its efficiency is a key driver for the agro-industrial boom that has transformed the northern Peruvian coast."
+      en: "The Port of Salaverry is the primary maritime terminal for northern Peru's booming agricultural and mining sectors, located just south of Trujillo. Known for its strategic role in the 'Chavimochic' irrigation project, the port facilitates the export of massive volumes of sugar, asparagus, and fruit produced in the fertile coastal valleys. Recently modernized to accommodate larger vessels, Salaverry has become one of the most versatile ports in the country, handling everything from bulk grain to copper concentrates. It also plays a growing role in tourism, serving as a docking point for international cruise ships bringing visitors to the archaeological wonders of Chan Chan. Its efficiency and capacity are essential for the economic growth of the La Libertad region. Geography K8 — Agro-industrial export and port modernization."
     },
     facts: {
       de: ["Wichtig für La Libertad.", "Exportiert Agrarprodukte."],
@@ -99,17 +76,10 @@ export const poiExtraPeruEconomicV2: POI[] = [
       en: ["Important for La Libertad.", "Exports agricultural goods."]
     },
     factsAdvanced: {
-      de: [],
-      hu: [],
-      ro: [],
-      en: [
-        "Strategically located near the Pan-American Highway.",
-        "Key exit point for the Chavimochic irrigation project's produce.",
-        "Modernized in 2018 with significant infrastructure investments.",
-        "Handles both solid bulk cargo and liquid fuels.",
-        "Gateway for tourists visiting the archaeological sites of northern Peru."
-      ]
-    }, image: "/poi-images/port-salaverry-economic-v2.webp"},
+      en: ["Located 14 kilometers south of Trujillo, the capital of La Libertad.", "A multi-purpose port that handles minerals, agricultural products, and bulk fertilizers.", "Underwent a major $270 million modernization project starting in 2018.", "Essential for the export of sugar from the historic Casa Grande and Laredo plantations.", "The port requires constant dredging to maintain its operational depth due to coastal currents.", "Connected to the Pan-American Highway, facilitating inland logistics.", "Hosts specialized terminals for liquid cargo and grains.", "A key arrival point for cruise ships exploring northern Peru's 'Moche Route'."]
+    },
+    image: "/poi-images/port-salaverry-economic-v2.webp"
+  },
   {
     id: "port-marcona-economic-v2",
     type: "port",
@@ -123,10 +93,7 @@ export const poiExtraPeruEconomicV2: POI[] = [
       en: "This port in the Ica region is primarily used for exporting iron ore from nearby mines."
     },
     descriptionAdvanced: {
-      de: "",
-      hu: "",
-      ro: "",
-      en: "The Port of San Juan de Marcona is a specialized maritime facility in the Ica region, primarily dedicated to the massive iron ore industry. It serves as the main exit point for the Marcona mine, which is the only major iron ore operation in Peru. The port's deep-water natural harbor provides an ideal setting for large bulk carriers to transport minerals to international markets, especially in Asia. Beyond its industrial focus, the surrounding area is known for its unique coastal biodiversity and wind energy projects. Marcona's role is fundamental to Peru's mining sector and its long-term industrial development."
+      en: "The Port of Marcona, situated in the Ica region, is the premier iron ore export hub of Peru, deeply tied to the massive Marcona Mine. This specialized port is designed to handle the enormous volumes of iron ore produced by the Shougang Hierro Perú operations, which are the largest in the country. The port's landscape is dominated by massive conveyor belts and loading docks that move minerals directly from the desert mines to awaiting cargo ships bound for steel mills in China and beyond. Marcona's dry, windy climate and rugged coastline make it a unique industrial site where mining meets the sea. The port's activity is a cornerstone of Peru's mineral wealth and a vital link in the global steel production chain. Geography K8 — Iron ore mining and specialized port facilities."
     },
     facts: {
       de: ["Liegt in der Region Ica.", "Exportiert Eisenerz."],
@@ -135,17 +102,10 @@ export const poiExtraPeruEconomicV2: POI[] = [
       en: ["Located in the Ica region.", "Exports iron ore."]
     },
     factsAdvanced: {
-      de: [],
-      hu: [],
-      ro: [],
-      en: [
-        "Peru's primary port for iron ore exports.",
-        "Located in a region with some of the highest wind speeds in the country.",
-        "Crucial for the operations of the Shougang Hierro Peru mining company.",
-        "Features a deep natural bay capable of hosting large vessels.",
-        "Surrounded by some of the most diverse marine reserves in Peru."
-      ]
-    }, image: "/poi-images/port-marcona-economic-v2.webp"},
+      en: ["Primary export terminal for Shougang Hierro Perú, the country's only iron ore producer.", "Located in the Nazca province of the Ica department.", "Features specialized piers designed specifically for iron ore bulk carriers.", "The nearby Marcona mine has been in operation since the 1950s.", "A key destination for Capesize vessels, some of the largest cargo ships in the world.", "The area is also known for the San Juan de Marcona wind farm, one of Peru's largest.", "Surrounded by the San Fernando National Reserve, home to condors and guanacos.", "Vital for Peru's trade relationship with China, its primary iron ore customer."]
+    },
+    image: "/poi-images/port-marcona-economic-v2.webp"
+  },
   {
     id: "port-bayovar-economic-v2",
     type: "port",
@@ -159,10 +119,7 @@ export const poiExtraPeruEconomicV2: POI[] = [
       en: "A specialized port terminal in the Piura region, mainly used for the export of phosphate."
     },
     descriptionAdvanced: {
-      de: "",
-      hu: "",
-      ro: "",
-      en: "The Bayóvar Port Terminal is a key industrial landmark in the Piura region of northern Peru, specializing in the export of phosphates. This dedicated facility handles the output from the nearby Bayóvar mine, which is one of the largest phosphate deposits in South America. The minerals exported from here are essential for the global production of fertilizers, making the port a significant player in international agriculture. Its location in the Sechura Desert highlights the incredible engineering required to facilitate trade in such an arid environment. The port remains a vital asset for regional development and national export revenue."
+      en: "The Port of Bayovar, located in the Sechura Desert of northern Peru, is a specialized industrial terminal critical for the country's phosphate and oil industries. It serves as the terminus for the Norperuano Pipeline, which transports crude oil from the Amazon rainforest across the Andes to the Pacific coast. Additionally, Bayovar is the primary export point for the massive phosphate mines in the region, which are among the largest in South America. The port's infrastructure includes specialized docks for loading fertilizers and tankers, making it a vital node for global food security and energy. Despite its stark desert surroundings, the port is a hive of industrial activity that powers the regional economy and connects Peru's inland resources to the global market. Geography K8 — Hydrocarbons and phosphate mining."
     },
     facts: {
       de: ["Spezialisiert auf Phosphat.", "Mit der Bayóvar-Mine verbunden."],
@@ -171,17 +128,10 @@ export const poiExtraPeruEconomicV2: POI[] = [
       en: ["Specialized in phosphate.", "Connected to the Bayóvar mine."]
     },
     factsAdvanced: {
-      de: [],
-      hu: [],
-      ro: [],
-      en: [
-        "Specialized in the handling of phosphate rock and concentrates.",
-        "Managed by the company Miski Mayo.",
-        "Located in the heart of the Sechura Desert.",
-        "Provides essential raw materials for the global fertilizer industry.",
-        "One of the northernmost major port terminals in Peru."
-      ]
-    }, image: "/poi-images/port-bayovar-economic-v2.webp"},
+      en: ["Terminus of the 854-kilometer Norperuano Pipeline (ONP).", "The largest phosphate export terminal in Peru, operated by Miski Mayo.", "Located on the Sechura Peninsula, one of the most arid regions in the world.", "Crucial for the export of fertilizers used in global agriculture.", "Features deep-water berths capable of handling large oil tankers.", "The port area is also a major center for artisanal fishing and shellfishing.", "Home to a massive storage facility for crude oil before it is shipped to refineries.", "A key strategic asset for Peru's energy security and industrial mining."]
+    },
+    image: "/poi-images/port-bayovar-economic-v2.webp"
+  },
   {
     id: "port-chancay-economic-v2",
     type: "port",
@@ -195,10 +145,7 @@ export const poiExtraPeruEconomicV2: POI[] = [
       en: "A major deep-water port project aimed at significantly increasing trade between South America and Asia."
     },
     descriptionAdvanced: {
-      de: "",
-      hu: "",
-      ro: "",
-      en: "The Chancay Megaport is one of the most ambitious infrastructure projects in modern Peruvian history, aimed at transforming the country into a premier South American logistics hub. Located just north of Lima, this deep-water port is designed to handle the largest container ships in the world, facilitating direct trade with Asia. Once fully operational, it is expected to significantly reduce shipping times and costs for Peruvian exporters. The project represents a massive international investment and is poised to reshape the economic landscape of the entire Pacific coast. Its scale and advanced technology will set a new standard for maritime operations in the region."
+      en: "The Port of Chancay, currently undergoing a massive transformation into a world-class mega-port, is set to become the most important logistical hub in the South Pacific. Located 80 kilometers north of Lima, this ambitious project is designed to handle the largest container ships in the world, serving as a direct link between South America and Asia. With a deep natural harbor and state-of-the-art automated terminals, Chancay is poised to challenge the dominance of other regional ports and significantly reduce shipping times across the Pacific. The project represents a multibillion-dollar investment that will transform the central Peruvian coast into a global trade powerhouse. It is a symbol of Peru's future as a key player in international maritime commerce. Geography K8 — Maritime infrastructure and global logistics."
     },
     facts: {
       de: ["Großes Hafenprojekt.", "Zielt auf den Asien-Handel ab."],
@@ -207,17 +154,10 @@ export const poiExtraPeruEconomicV2: POI[] = [
       en: ["Major port project.", "Aims at Asian trade."]
     },
     factsAdvanced: {
-      de: [],
-      hu: [],
-      ro: [],
-      en: [
-        "A multi-billion dollar project led by COSCO Shipping.",
-        "Designed to be the first 'megaport' in South America with direct Asian routes.",
-        "Estimated to handle over 1 million TEUs (containers) per year in its first phase.",
-        "Includes a dedicated tunnel to connect the port directly to the Pan-American Highway.",
-        "Aims to compete with other major regional ports like Valparaíso and San Antonio."
-      ]
-    }, image: "/poi-images/port-chancay-economic-v2.webp"},
+      en: ["A multi-billion dollar 'mega-port' project primarily funded by Cosco Shipping.", "Designed to accommodate ultra-large container ships with a capacity of 18,000 TEUs.", "Features a natural depth of 16 meters, one of the deepest on the coast.", "Located strategically 80 km north of Callao, reducing congestion in the capital.", "Includes a massive 1.8-kilometer tunnel to connect the port directly to the Pan-American Highway.", "Set to become a primary hub for South American trade with the Asia-Pacific region.", "Will include specialized terminals for containers, bulk cargo, and rolling cargo (RO-RO).", "The project is expected to generate thousands of jobs and spur regional industrial development."]
+    },
+    image: "/poi-images/port-chancay-economic-v2.webp"
+  },
   {
     id: "port-iquitos-economic-v2",
     type: "port",
@@ -231,10 +171,7 @@ export const poiExtraPeruEconomicV2: POI[] = [
       en: "A crucial river port on the Amazon, accessible by ocean-going vessels from the Atlantic."
     },
     descriptionAdvanced: {
-      de: "",
-      hu: "",
-      ro: "",
-      en: "The Port of Iquitos is the lifeline of the Peruvian Amazon, serving as the main entry and exit point for goods in this roadless jungle metropolis. Located on the banks of the mighty Amazon River, it is remarkably accessible to ocean-going vessels coming from the Atlantic Ocean, thousands of miles away. The port facilitates the transport of everything from fuel and food to construction materials for the city's inhabitants. It also serves as a hub for regional trade, connecting smaller jungle communities with the wider world. The constant movement of boats and ferries makes it a vibrant and essential part of Iquitos' unique identity."
+      en: "The Port of Iquitos is the vital lifeline of the Peruvian Amazon, acting as the primary hub for river transport and trade in the vast, roadless jungle region. Situated on the banks of the Amazon River, this port handles nearly all the supplies, fuel, and food required by the city of Iquitos and its surrounding river communities. The port's activity is defined by a constant stream of 'lanchas'—large wooden riverboats—and barges that travel for days or even weeks to reach remote outposts. It is also a key center for the export of Amazonian timber, camu-camu, and other jungle products. The port's infrastructure must adapt to the dramatic seasonal fluctuations in the river's water level, which can vary by more than 10 meters. It remains a bustling, chaotic, and essential part of life in the rainforest. Geography K7 — River logistics and Amazonian trade."
     },
     facts: {
       de: ["Wichtiger Flusshafen.", "Erreichbar vom Atlantik."],
@@ -243,16 +180,7 @@ export const poiExtraPeruEconomicV2: POI[] = [
       en: ["Important river port.", "Accessible from the Atlantic."]
     },
     factsAdvanced: {
-      de: [],
-      hu: [],
-      ro: [],
-      en: [
-        "World's most distant inland port from the sea for ocean-going vessels.",
-        "Primary logistics hub for the Loreto region.",
-        "Essential for the supply of goods to Iquitos, which is inaccessible by road.",
-        "Facilitates the export of timber, petroleum, and exotic fruits.",
-        "Located over 3,000 kilometers from the Atlantic Ocean."
-      ]
+      en: ["The largest and most important river port in the Peruvian Amazon.", "Iquitos is the highest point on the Amazon River that can be reached by ocean-going vessels.", "The port is roughly 3,700 kilometers from the Atlantic Ocean.", "Essential for the transport of heavy machinery and fuel to the Amazon's oil and gas fields.", "Operated by ENAPU, the national port authority of Peru.", "The river's 'low water' season (August to October) significantly complicates navigation.", "Primary arrival point for the famous Amazonian river cruises.", "Handles a diverse range of cargo, from motorcycles to exotic tropical fruits."]
     }
   },
   {
@@ -268,10 +196,7 @@ export const poiExtraPeruEconomicV2: POI[] = [
       en: "An important river port on the Ucayali River, vital for transport and trade in the Amazon region."
     },
     descriptionAdvanced: {
-      de: "",
-      hu: "",
-      ro: "",
-      en: "The Port of Pucallpa is a vital river terminal on the Ucayali River, acting as a crucial link between the Amazon rainforest and the rest of Peru. Unlike Iquitos, Pucallpa is connected to Lima by road, making this port a strategic point for transshipping goods from the jungle to the capital. It handles a significant portion of the region's timber, agricultural products, and livestock, which are then transported by truck over the Andes. The port's activity fluctuates with the river levels, reflecting the rhythmic nature of life in the Amazon. It remains a bustling center of commerce and a symbol of Pucallpa's growing economic importance."
+      en: "The Port of Pucallpa is a bustling river terminal on the Ucayali River, serving as the critical 'intermodal' link between the Amazon rainforest and the Peruvian highlands. Unlike Iquitos, Pucallpa is connected to Lima by the Federico Basadre Highway, making this port a strategic point where road transport meets river navigation. It is the primary gateway for goods traveling from the jungle to the capital and for supplies heading deep into the Loreto region. The port is a major hub for the region's timber, palm oil, and livestock industries, with countless logs and trucks lining its shores. Despite its simple infrastructure, the port's economic impact is massive, facilitating the movement of thousands of tons of cargo every year. It is a place of constant energy, reflecting the rapid growth of the Ucayali region. Geography K8 — Intermodal transport and regional development."
     },
     facts: {
       de: ["Hafen am Río Ucayali.", "Wichtig für die Amazonasregion."],
@@ -280,16 +205,7 @@ export const poiExtraPeruEconomicV2: POI[] = [
       en: ["Port on the Ucayali River.", "Important for the Amazon region."]
     },
     factsAdvanced: {
-      de: [],
-      hu: [],
-      ro: [],
-      en: [
-        "Strategic connection point between the Ucayali River and the Federico Basadre Highway.",
-        "Major hub for the Peruvian timber and palm oil industries.",
-        "Facilitates the transport of goods to the roadless Loreto region via river.",
-        "Located in one of the fastest-growing cities in the Peruvian Amazon.",
-        "Key terminal for the 'Interoceanic Highway' fluvial network."
-      ]
+      en: ["Located on the banks of the Ucayali River in the city of Pucallpa.", "The terminus of the Federico Basadre Highway, connecting the Amazon to Lima.", "A major hub for the Peruvian timber industry, with numerous sawmills nearby.", "The Ucayali River is a major tributary of the Amazon, known for its meandering course.", "The port area is known as 'La Hoyada' and is a center of intense commercial activity.", "Essential for the transport of cattle and agricultural products from the jungle to Lima.", "River levels can vary by up to 10 meters between the dry and rainy seasons.", "Provides a vital link for the isolated city of Iquitos via the Ucayali and Amazon rivers."]
     }
   },
   {
@@ -305,10 +221,7 @@ export const poiExtraPeruEconomicV2: POI[] = [
       en: "A key river port on the Huallaga River, serving as a hub connecting the Amazon with the Andes."
     },
     descriptionAdvanced: {
-      de: "",
-      hu: "",
-      ro: "",
-      en: "The Port of Yurimaguas is an essential river hub located on the Huallaga River, serving as a gateway between the northern Peruvian highlands and the Amazon lowlands. As part of a major multi-modal transport corridor, it connects the Pacific coast with the Atlantic via the Amazon River system. The port has recently undergone modernization to improve its capacity and efficiency in handling diverse cargo. It plays a critical role in the development of the San Martín and Loreto regions by facilitating the movement of agricultural goods and supplies. Yurimaguas' position makes it a cornerstone of Peru's efforts to integrate its remote jungle territories with the national economy."
+      en: "The Port of Yurimaguas, known as the 'Gateway to the Northern Amazon', is a strategic river terminal on the Huallaga River in the Loreto region. It serves as a vital transition point in the 'IIRSA North' transport axis, which connects the Pacific port of Paita to the Amazon rainforest. The port has recently seen major modernization with the opening of the Nueva Reforma terminal, which features automated cranes and modern warehouses. This facility allows for the efficient transfer of goods from trucks coming from the highlands onto barges bound for Iquitos. Yurimaguas is a key center for the trade of rice, corn, and tropical timber, and its development is essential for integrating the northern Peruvian jungle into the national economy. It is a symbol of modern logistics transforming remote regions. Geography K8 — Multi-modal corridors and northern Amazonian trade."
     },
     facts: {
       de: ["Hafen am Río Huallaga.", "Verbindet Amazonas und Anden."],
@@ -317,17 +230,10 @@ export const poiExtraPeruEconomicV2: POI[] = [
       en: ["Port on the Huallaga River.", "Connects the Amazon and the Andes."]
     },
     factsAdvanced: {
-      de: [],
-      hu: [],
-      ro: [],
-      en: [
-        "Part of the IIRSA North multi-modal axis connecting Peru and Brazil.",
-        "Modernized with the new 'Puerto Nueva Reforma' terminal.",
-        "Primary link for cargo traveling from the coast to Iquitos.",
-        "Handles significant volumes of rice, corn, and fuel.",
-        "Essential for the economic development of the northern Peruvian jungle."
-      ]
-    }, image: "/poi-images/port-yurimaguas-economic-v2.webp"},
+      en: ["Located on the Huallaga River, a major tributary of the Marañón.", "The new 'Puerto Nueva Reforma' is one of the most modern river terminals in Peru.", "A key link in the multi-modal corridor connecting the Pacific Ocean to the Amazon.", "Facilitates the movement of cargo from the San Martín region to the city of Iquitos.", "Managed by the concessionaire COPAM (Concesionaria Puerto Amazonas).", "Strategic for the regional export of agricultural products like sacha inchi and heart of palm.", "The port's modernization has significantly reduced loading and unloading times.", "Yurimaguas is the second most important city in the Loreto region after Iquitos."]
+    },
+    image: "/poi-images/port-yurimaguas-economic-v2.webp"
+  },
   {
     id: "ind-antamina-economic-v2",
     type: "industry",
@@ -341,10 +247,7 @@ export const poiExtraPeruEconomicV2: POI[] = [
       en: "One of the largest copper and zinc mines in the world, located high in the Andes mountains."
     },
     descriptionAdvanced: {
-      de: "",
-      hu: "",
-      ro: "",
-      en: "Antamina is one of the world's most productive copper and zinc mines, situated high in the Peruvian Andes of the Ancash region. This massive open-pit operation is a marvel of modern engineering, operating at altitudes exceeding 4,000 meters above sea level. It represents one of the largest mining investments in Peru's history and is a major contributor to the national GDP. The mine utilizes a sophisticated slurry pipeline to transport mineral concentrates hundreds of kilometers to the coast for export. Antamina is also recognized for its significant social and environmental programs in the surrounding mountain communities. Its vast scale and efficiency make it a flagship of the global mining industry."
+      en: "Antamina is one of the world's largest and most technologically advanced mining operations, located high in the Andes of the Ancash region. This massive open-pit mine is a global leader in the production of copper and zinc, as well as silver and lead. Situated at an altitude of 4,300 meters, it represents a monumental engineering feat, including a 302-kilometer-long ore pipeline that transports mineral concentrates to the Port of Huarmey on the coast. Antamina is not only an economic giant, contributing significantly to Peru's GDP, but also a major employer and a leader in sustainable mining practices in the country. The mine's scale is difficult to grasp, with massive trucks and state-of-the-art processing plants working around the clock to fuel the global demand for minerals. Geography K8 — Large-scale mining and Andean geology."
     },
     facts: {
       de: ["Große Kupfer- und Zinkmine.", "Liegt hoch in den Anden."],
@@ -353,17 +256,10 @@ export const poiExtraPeruEconomicV2: POI[] = [
       en: ["Large copper and zinc mine.", "Located high in the Andes."]
     },
     factsAdvanced: {
-      de: [],
-      hu: [],
-      ro: [],
-      en: [
-        "One of the top 10 largest copper mines in the world.",
-        "Uses a 302 km long pipeline to transport minerals to the port of Huarmey.",
-        "Located at an average altitude of 4,300 meters.",
-        "Produces copper, zinc, molybdenum, silver, and lead.",
-        "Jointly owned by global mining giants BHP, Glencore, Teck, and Mitsubishi."
-      ]
-    }, image: "/poi-images/ind-antamina-economic-v2.webp"},
+      en: ["One of the largest copper-zinc mines in the world by production volume.", "Located in the San Marcos district, Ancash, at an elevation of 4,300 meters.", "A joint venture between global mining giants BHP, Glencore, Teck, and Mitsubishi.", "Features a 302-km underground concentrate pipeline to the Pacific coast.", "The ore body is a 'skarn' type deposit, rich in diverse minerals.", "Employs thousands of people and is a major contributor to Peru's national taxes.", "The mine has a dedicated port facility, Punta Lobitos, in Huarmey.", "Recognized for its large-scale social investment programs in the surrounding communities."]
+    },
+    image: "/poi-images/ind-antamina-economic-v2.webp"
+  },
   {
     id: "ind-cerroverde-economic-v2",
     type: "industry",
@@ -377,10 +273,7 @@ export const poiExtraPeruEconomicV2: POI[] = [
       en: "A massive open-pit copper mine located near the city of Arequipa."
     },
     descriptionAdvanced: {
-      de: "",
-      hu: "",
-      ro: "",
-      en: "The Cerro Verde Mine is a colossal open-pit copper and molybdenum operation located just outside the city of Arequipa. It is one of Peru's most significant mining assets, contributing a substantial portion of the country's total copper production. The mine is notable for its massive scale and its integration with the local community, including the funding of a major wastewater treatment plant for the city of Arequipa. This facility not only improves local sanitation but also provides recycled water for the mine's operations. Cerro Verde's continued expansion highlights Arequipa's role as a primary mining hub in southern Peru. It remains a critical driver of regional economic growth and technological innovation."
+      en: "Cerro Verde is a titan of the global copper industry, located in the arid mountains just south of the city of Arequipa. This colossal open-pit mining complex is one of the largest copper producers in the world, playing a fundamental role in the economy of southern Peru. The operation is famous for its massive concentrator plants, which process hundreds of thousands of tons of ore every day using state-of-the-art technology. Cerro Verde has a unique relationship with its neighboring city, having funded the construction of Arequipa's wastewater treatment plant, which in turn provides treated water for the mining process—a world-class example of industrial-urban synergy. The mine's vast scale and its impact on global supply chains make it a cornerstone of Peru's status as a top mineral producer. Geography K8 — Copper mining and industrial water management."
     },
     facts: {
       de: ["Riesige Kupfermine.", "In der Nähe von Arequipa."],
@@ -389,17 +282,10 @@ export const poiExtraPeruEconomicV2: POI[] = [
       en: ["Massive copper mine.", "Near Arequipa."]
     },
     factsAdvanced: {
-      de: [],
-      hu: [],
-      ro: [],
-      en: [
-        "One of the largest copper producers in the world.",
-        "Features some of the largest concentrator plants in the mining industry.",
-        "Funded Arequipa's La Enlozada wastewater treatment plant.",
-        "Operational since the 1970s with several major expansions.",
-        "Majority-owned by Freeport-McMoRan."
-      ]
-    }, image: "/poi-images/ind-cerroverde-economic-v2.webp"},
+      en: ["One of the world's largest copper concentrator complexes.", "Majority-owned and operated by Freeport-McMoRan.", "Located just 30 kilometers south of Arequipa, the 'White City'.", "The mine produces copper, molybdenum, and silver.", "Funded the 'La Enlozada' wastewater treatment plant for the city of Arequipa.", "Features two massive open pits: Cerro Verde and Santa Rosa.", "A major contributor to the regional economy and the development of the Port of Matarani.", "One of the largest private employers in the Arequipa region."]
+    },
+    image: "/poi-images/ind-cerroverde-economic-v2.webp"
+  },
   {
     id: "ind-lasbambas-economic-v2",
     type: "industry",
@@ -413,10 +299,7 @@ export const poiExtraPeruEconomicV2: POI[] = [
       en: "A major copper mining project in the Apurímac region, ranking among the country's largest."
     },
     descriptionAdvanced: {
-      de: "",
-      hu: "",
-      ro: "",
-      en: "Las Bambas is a world-class copper mine located in the Apurímac region, high in the southern Peruvian Andes. It is one of the largest copper mines globally in terms of production capacity and represents a cornerstone of Peru's mining sector. The operation involves the extraction of ore from several pits and its processing into high-quality concentrates. Despite its remote location and logistical challenges, Las Bambas has become a major contributor to the national economy and regional development. The mine is also a focal point for social dialogue and community engagement in the highlands. Its long-term reserves ensure that it will remain a key player in the global copper market for decades to come."
+      en: "Las Bambas is a massive, high-altitude copper mine located in the remote Apurímac region, representing one of the largest mining investments in Peruvian history. Situated at 4,000 meters above sea level, this world-class operation is a major driver of the national economy and a key player in the global copper market. The mine's ore is transported via a complex logistical chain, involving heavy trucks that travel hundreds of kilometers across the Andes to reach the railway in Cusco, and eventually the Port of Matarani on the coast. Las Bambas has brought significant development to a traditionally isolated region, though its operation remains a focus of complex social and environmental dialogues. The mine's colossal scale and its strategic importance for the future of green energy make it a vital part of Peru's industrial landscape. Geography K8 — Remote mining and logistical challenges."
     },
     facts: {
       de: ["Bedeutendes Kupferprojekt.", "In der Region Apurímac."],
@@ -425,17 +308,10 @@ export const poiExtraPeruEconomicV2: POI[] = [
       en: ["Major copper project.", "In the Apurímac region."]
     },
     factsAdvanced: {
-      de: [],
-      hu: [],
-      ro: [],
-      en: [
-        "Produces over 2% of the world's copper.",
-        "Located at an altitude of approximately 4,000 meters.",
-        "Acquired by a Chinese consortium led by MMG Limited in 2014.",
-        "Transports minerals via a 'mining corridor' to the Matarani port.",
-        "A major source of tax revenue for the Apurímac region."
-      ]
-    }, image: "/poi-images/ind-lasbambas-economic-v2.webp"},
+      en: ["One of the top copper mines globally, owned by MMG Limited.", "Located in the Cotabambas province of the Apurímac region.", "The project required the relocation of the entire town of Fuerabamba to a modern new site.", "Transports copper concentrate via the 'Southern Mining Corridor' (Corredor Minero del Sur).", "A major source of silver and molybdenum as secondary products.", "Produces roughly 2% of the world's copper supply.", "The mine is situated at an average elevation of 4,000 meters above sea level.", "Key for the economic development of the Apurímac and Cusco regions."]
+    },
+    image: "/poi-images/ind-lasbambas-economic-v2.webp"
+  },
   {
     id: "ind-cuajone-economic-v2",
     type: "industry",
@@ -449,10 +325,7 @@ export const poiExtraPeruEconomicV2: POI[] = [
       en: "A significant copper mine in southern Peru, part of a large mining complex."
     },
     descriptionAdvanced: {
-      de: "",
-      hu: "",
-      ro: "",
-      en: "The Cuajone Mine is a significant open-pit copper mine located in the Moquegua region of southern Peru. Operated by Southern Copper Corporation, it forms part of a massive mining complex that has been a pillar of the Peruvian economy for half a century. The mine is famous for its massive spiral pit and the incredible logistics involved in transporting ore to the coastal smelter in Ilo. Cuajone's high-grade copper deposits have made it one of the most profitable mines in the country. The operation also includes an extensive railway system that is a feat of Andean engineering. It continues to be a major employer and a source of regional prosperity in the south."
+      en: "The Cuajone mine is a pillar of the copper industry in southern Peru, located in the high-altitude desert of the Moquegua region. Operating since 1976, this massive open-pit mine is part of the 'Southern Mining Corridor' and is operated by Southern Copper Corporation. Cuajone is famous for its incredible depth and the precision of its industrial operations, which include a large-scale concentrator and a dedicated railway system. The ore from Cuajone is transported by train to the Ilo smelter and refinery on the coast, creating a fully integrated production chain from the Andes to the sea. The mine's long history and consistent production have made it a fundamental part of the regional identity and a key contributor to Peru's mineral wealth. Geography K8 — Integrated mining and industrial railways."
     },
     facts: {
       de: ["Bedeutende Kupfermine.", "Teil eines großen Komplexes."],
@@ -461,17 +334,10 @@ export const poiExtraPeruEconomicV2: POI[] = [
       en: ["Significant copper mine.", "Part of a large complex."]
     },
     factsAdvanced: {
-      de: [],
-      hu: [],
-      ro: [],
-      en: [
-        "Operational since 1976.",
-        "The open pit is over 800 meters deep.",
-        "Connected by a private railway to the Ilo smelter and refinery.",
-        "One of the most efficient copper operations in South America.",
-        "Part of Southern Copper's vertically integrated production system."
-      ]
-    }, image: "/poi-images/ind-cuajone-economic-v2.webp"},
+      en: ["One of the oldest and most productive copper mines in southern Peru.", "Operated by Southern Copper Corporation (a subsidiary of Grupo México).", "Located in the Torata district of Moquegua at an elevation of 3,500 meters.", "Connected to the Toquepala mine and the Port of Ilo by a specialized industrial railway.", "The open pit is several kilometers wide and hundreds of meters deep.", "A major producer of copper, silver, and molybdenum.", "The mine has its own industrial town, Villa Cuajone, for its workers.", "Integral to the economic stability of the Moquegua region for decades."]
+    },
+    image: "/poi-images/ind-cuajone-economic-v2.webp"
+  },
   {
     id: "ind-toquepala-economic-v2",
     type: "industry",
@@ -485,10 +351,7 @@ export const poiExtraPeruEconomicV2: POI[] = [
       en: "Known for its large open-pit copper extraction and has a dedicated railway to the coast."
     },
     descriptionAdvanced: {
-      de: "",
-      hu: "",
-      ro: "",
-      en: "Toquepala is a legendary copper mine in the Tacna region, known for its massive open pit that has been in operation for over 60 years. It was one of the first major modern mining projects in Peru and remains a vital contributor to the country's mineral exports. The mine has undergone numerous expansions, incorporating the latest technology to maintain its productivity and efficiency. Toquepala is also notable for the discovery of ancient rock paintings nearby, showing the long history of human presence in the area. The mine's dedicated infrastructure, including its own town and railway, demonstrates the scale of industrial development in the Peruvian desert. It stands as a testament to the enduring importance of mining in Peru's national identity."
+      en: "The Toquepala mine is one of the most historic and iconic mining operations in Peru, located in the rugged mountains of the Tacna region. Since it began operations in 1960, it has been a cornerstone of the country's copper production and a pioneer of large-scale open-pit mining in the Andes. Toquepala is famous not only for its mineral wealth but also for the archaeological discoveries made in the nearby Toquepala Caves, which contain prehistoric rock paintings showing ancient hunters—a reminder of the long human presence in this arid landscape. The modern mine is a high-tech marvel, featuring a massive new concentrator plant that has significantly increased its production capacity. Together with its sister mine Cuajone, it fuels the massive industrial operations at the Port of Ilo. Geography K8 — Historic mining and Andean prehistory."
     },
     facts: {
       de: ["Großer Kupferabbau.", "Hat eine eigene Eisenbahn."],
@@ -497,17 +360,10 @@ export const poiExtraPeruEconomicV2: POI[] = [
       en: ["Large copper extraction.", "Has a dedicated railway."]
     },
     factsAdvanced: {
-      de: [],
-      hu: [],
-      ro: [],
-      en: [
-        "One of the oldest large-scale open-pit mines in Peru.",
-        "Features a recently expanded concentrator plant with state-of-the-art tech.",
-        "Home to the Toquepala Caves, which contain 9,000-year-old rock art.",
-        "Operated by Southern Copper Corporation.",
-        "Uses a dedicated railway to transport concentrates to the coast."
-      ]
-    }, image: "/poi-images/ind-toquepala-economic-v2.webp"},
+      en: ["One of Peru's first large-scale open-pit copper mines, starting in 1960.", "Located in the Tacna region at an elevation of 3,100 meters.", "Owned and operated by Southern Copper Corporation.", "The nearby Toquepala Caves feature 9,000-year-old rock art, some of the oldest in Peru.", "Recently expanded with a second concentrator plant, doubling its processing capacity.", "Connected to the Ilo smelter by an impressive 214-kilometer industrial railroad.", "Primary products are copper, molybdenum, and silver.", "A major contributor to the regional budget of the Tacna department."]
+    },
+    image: "/poi-images/ind-toquepala-economic-v2.webp"
+  },
   {
     id: "ind-yanacocha-economic-v2",
     type: "industry",
@@ -521,10 +377,7 @@ export const poiExtraPeruEconomicV2: POI[] = [
       en: "Was once the largest gold mine in South America, located in the Cajamarca region."
     },
     descriptionAdvanced: {
-      de: "",
-      hu: "",
-      ro: "",
-      en: "Yanacocha was for many years the largest and most productive gold mine in South America, located in the Cajamarca region of northern Peru. This sprawling open-pit operation transformed the regional economy and made Peru one of the world's top gold producers. The mine utilizes advanced heap-leaching technology to extract precious metals from the Andean soil. While production has decreased from its peak, Yanacocha remains a major industrial site and is currently transitioning towards more complex copper and gold projects. The mine has been a center for both significant economic benefit and complex social and environmental discussions in the region. Its legacy is deeply intertwined with the development of modern Cajamarca."
+      en: "Yanacocha was for many years the largest and most productive gold mine in South America, located high in the Andes of the Cajamarca region. This sprawling complex of open pits and leach pads has produced tens of millions of ounces of gold since it began operations in 1993, transforming the economy of northern Peru. Situated at altitudes reaching 4,000 meters, Yanacocha is a world-class example of large-scale 'heap leaching' technology. While the mine is currently transitioning from gold to a massive copper-gold project called Yanacocha Sulfides, its legacy as a global gold titan remains unquestioned. The mine has been a focal point for intense environmental and social discussions, highlighting the complexities of mining in sensitive Andean watersheds. Geography K8 — Gold mining and Andean watersheds."
     },
     facts: {
       de: ["Ehemalige größte Goldmine.", "In der Region Cajamarca."],
@@ -533,17 +386,10 @@ export const poiExtraPeruEconomicV2: POI[] = [
       en: ["Former largest gold mine.", "In the Cajamarca region."]
     },
     factsAdvanced: {
-      de: [],
-      hu: [],
-      ro: [],
-      en: [
-        "Located at altitudes between 3,500 and 4,100 meters.",
-        "A joint venture between Newmont and Buenaventura.",
-        "Once produced over 3 million ounces of gold per year.",
-        "The largest gold mine in the world during the late 1990s.",
-        "Currently developing the Yanacocha Sulfides project to extend its life."
-      ]
-    }, image: "/poi-images/ind-yanacocha-economic-v2.webp"},
+      en: ["Located in the Cajamarca region, roughly 30 km north of the city of Cajamarca.", "Owned primarily by Newmont Corporation.", "Once the second-largest gold mine in the world by production.", "Utilized the Merrill-Crowe and heap leaching processes to extract gold.", "The mine's name in Quechua, Yana Qucha, means 'Black Lagoon'.", "Currently undergoing a major transition to the 'Yanacocha Sulfides' copper-gold project.", "Has produced over 35 million ounces of gold since its inception.", "A major employer in northern Peru and a key driver of the regional GDP."]
+    },
+    image: "/poi-images/ind-yanacocha-economic-v2.webp"
+  },
   {
     id: "ind-toromocho-economic-v2",
     type: "industry",
@@ -557,10 +403,7 @@ export const poiExtraPeruEconomicV2: POI[] = [
       en: "A large open-pit copper and molybdenum mine situated at a high altitude in Junín."
     },
     descriptionAdvanced: {
-      de: "",
-      hu: "",
-      ro: "",
-      en: "Toromocho is a major open-pit copper and molybdenum mine located at a staggering altitude in the Junín region, in the central Andes of Peru. The mine is situated on a mountain of the same name and involves the processing of a massive mineral deposit. One of the most unique aspects of the project was the complete relocation of the town of Morococha to a new, modern site to allow for the mine's expansion. Toromocho utilizes some of the largest mining equipment in the world and is a significant source of export revenue for Peru. Its high-altitude operations are a testament to the country's expertise in mountain mining. The project represents a massive long-term investment in Peru's industrial future."
+      en: "Toromocho is a major copper mining project located high in the central Peruvian Andes, in the Junín region. Situated at an extraordinary altitude of over 4,500 meters, it is one of the highest mining operations in the world. The mine is famous for its massive porphyry copper deposit, which also contains significant amounts of molybdenum and silver. Its development required the complete relocation of the town of Morococha to a modern, planned city nearby, a project known as Nueva Morococha. Toromocho utilizes a massive concentrator plant and a sophisticated logistics system to transport minerals via the Central Andean Railroad to the Port of Callao. The mine's scale and its contribution to global copper supplies make it a cornerstone of Peru's industrial strength. Geography K8 — High-altitude mining and urban relocation."
     },
     facts: {
       de: ["Kupfer- und Molybdänmine.", "Liegt auf großer Höhe."],
@@ -569,17 +412,10 @@ export const poiExtraPeruEconomicV2: POI[] = [
       en: ["Copper and molybdenum mine.", "Located at high altitude."]
     },
     factsAdvanced: {
-      de: [],
-      hu: [],
-      ro: [],
-      en: [
-        "Located at an altitude of over 4,500 meters.",
-        "Developed by Chinalco (Aluminum Corporation of China).",
-        "Involved the construction of the new town of Nueva Morococha.",
-        "Has one of the largest copper reserves in Peru.",
-        "Uses massive 400-ton capacity haul trucks."
-      ]
-    }, image: "/poi-images/ind-toromocho-economic-v2.webp"},
+      en: ["One of the largest copper mines in central Peru, owned by Chinalco.", "Located in the Morococha district at an elevation of 4,500 to 4,900 meters.", "Primary products are copper concentrate, molybdenum, and silver.", "Included the construction of Nueva Morococha, a relocation project for 5,000 residents.", "Utilizes some of the largest semi-autogenous (SAG) mills in the world.", "The ore is transported to the coast via the world's second-highest railway.", "A major source of molybdenum, used in high-strength steel alloys.", "The mine has an expected lifespan of over 30 years."]
+    },
+    image: "/poi-images/ind-toromocho-economic-v2.webp"
+  },
   {
     id: "ind-quellaveco-economic-v2",
     type: "industry",
@@ -593,10 +429,7 @@ export const poiExtraPeruEconomicV2: POI[] = [
       en: "A major modern copper mining project in the Moquegua region, highly automated."
     },
     descriptionAdvanced: {
-      de: "",
-      hu: "",
-      ro: "",
-      en: "Quellaveco is one of the world's most modern and technologically advanced copper mines, located in the Moquegua region of southern Peru. This mega-project, which recently began operations, is designed as a 'smart mine,' utilizing autonomous trucks and advanced data analytics to maximize efficiency. It represents one of the largest recent foreign investments in Peru and is expected to significantly boost the country's total copper output. Quellaveco was built with a strong focus on sustainable water management, utilizing a dedicated dam to avoid impacting local agriculture. The mine's startup is a major milestone for the Peruvian economy, reinforcing its position as a global mining leader. Its success is seen as a model for future large-scale mining developments."
+      en: "Quellaveco is one of the newest and most advanced copper mines in the world, located in the Moquegua region of southern Peru. As a flagship project for Anglo American, it represents a new era of 'FutureSmart' mining, utilizing high levels of automation and 100% renewable energy for its operations. The mine is situated in a rugged Andean valley and required innovative engineering, including the diversion of the Asana River through a massive tunnel to protect water quality. Quellaveco is expected to significantly boost Peru's national copper production, reinforcing its position as a top global producer. The mine's digital-first approach and its commitment to sustainable development make it a model for modern industrial operations in South America. Geography K8 — Digital mining and renewable energy."
     },
     facts: {
       de: ["Modernes Kupferprojekt.", "Stark automatisiert."],
@@ -605,17 +438,10 @@ export const poiExtraPeruEconomicV2: POI[] = [
       en: ["Modern copper project.", "Highly automated."]
     },
     factsAdvanced: {
-      de: [],
-      hu: [],
-      ro: [],
-      en: [
-        "Developed by Anglo American in partnership with Mitsubishi.",
-        "The first mine in Peru to feature a 100% autonomous haulage fleet.",
-        "Expected to produce an average of 300,000 tons of copper per year.",
-        "Includes the Vizcachas dam to provide water for both the mine and local farmers.",
-        "One of the largest copper deposits discovered in the last 20 years."
-      ]
-    }, image: "/poi-images/ind-quellaveco-economic-v2.webp"},
+      en: ["One of the largest copper deposits in the world, developed by Anglo American and Mitsubishi.", "First mine in Peru to be 100% powered by renewable energy (wind and solar).", "Utilizes a fleet of autonomous (driverless) trucks and drills.", "The Asana River was diverted through a 7.7-kilometer tunnel to ensure environmental safety.", "Expected to produce an average of 300,000 tons of copper annually in its first decade.", "Located at an altitude of approximately 3,500 meters in the Moquegua region.", "Primary destination for the mine's concentrate is the Port of Enapu in Ilo.", "A major driver of economic growth and social investment in southern Peru."]
+    },
+    image: "/poi-images/ind-quellaveco-economic-v2.webp"
+  },
   {
     id: "ind-constancia-economic-v2",
     type: "industry",
@@ -629,10 +455,7 @@ export const poiExtraPeruEconomicV2: POI[] = [
       en: "An open-pit copper and molybdenum mine located in the Chumbivilcas province of Cusco."
     },
     descriptionAdvanced: {
-      de: "",
-      hu: "",
-      ro: "",
-      en: "The Constancia Mine is a prominent open-pit copper operation located in the Chumbivilcas province of Cusco. This mine produces both copper and molybdenum concentrates and is a key contributor to the economic development of the southern Andean highlands. Constancia is known for its commitment to high environmental standards and its proactive engagement with the local indigenous communities. The operation has successfully navigated the challenges of its remote location, implementing efficient logistics to transport its products to the coast. As part of Peru's vibrant mining sector, Constancia helps sustain the country's status as a top global copper producer. The mine's ongoing operations provide vital jobs and investment in a traditionally underserved region."
+      en: "The Constancia mine is a major open-pit copper operation located in the high-altitude provinces of Chumbivilcas, in the Cusco region. Operated by Hudbay Minerals, it is a world-class example of efficient mining in a challenging Andean environment. The mine produces copper concentrate, as well as significant amounts of molybdenum and precious metals. Constancia is known for its strong emphasis on community relations and environmental stewardship, working closely with local Quechua communities to ensure shared benefits. The mine's infrastructure includes a large-scale concentrator and a logistical network that connects the remote highlands to the southern mining corridor. Its consistent production is vital for the economic stability of the Cusco region and Peru's mining exports. Geography K8 — Community-based mining and Andean logistics."
     },
     facts: {
       de: ["Kupfer- und Molybdänmine.", "In der Region Cusco."],
@@ -641,17 +464,10 @@ export const poiExtraPeruEconomicV2: POI[] = [
       en: ["Copper and molybdenum mine.", "In the Cusco region."]
     },
     factsAdvanced: {
-      de: [],
-      hu: [],
-      ro: [],
-      en: [
-        "Operated by Hudbay Minerals.",
-        "Started commercial production in 2015.",
-        "Located at an altitude of approximately 4,100 meters.",
-        "Focused on the Pampacancha high-grade satellite deposit for future growth.",
-        "A major employer in the Cusco region."
-      ]
-    }, image: "/poi-images/ind-constancia-economic-v2.webp"},
+      en: ["Owned and operated by the Canadian company Hudbay Minerals.", "Located in the Cusco department at an elevation of 4,100 meters.", "Produces copper concentrate, molybdenum, silver, and gold.", "Features a state-of-the-art concentrator with a capacity of 90,000 tons per day.", "Known for the 'Constancia-Pampacancha' expansion, which increased its mineral reserves.", "Actively supports local development through community agreements and agricultural projects.", "Transported concentrate travels by truck to the railway and then to the Port of Matarani.", "The mine utilizes recycled water for over 90% of its processing needs."]
+    },
+    image: "/poi-images/ind-constancia-economic-v2.webp"
+  },
   {
     id: "ind-lagunasnorte-economic-v2",
     type: "industry",
@@ -665,10 +481,7 @@ export const poiExtraPeruEconomicV2: POI[] = [
       en: "An important gold mine in the Andes, located in the La Libertad region."
     },
     descriptionAdvanced: {
-      de: "",
-      hu: "",
-      ro: "",
-      en: "Lagunas Norte is a significant gold mine located in the La Libertad region, high in the northern Andes of Peru. For years, it was one of the country's most productive gold assets, utilizing open-pit mining and heap leaching to extract precious metals. The mine has played a crucial role in the economic prosperity of the surrounding provinces, providing significant tax revenue and social investment. Although it has entered a more mature phase of its lifecycle, the project continues to seek ways to optimize its remaining resources. Lagunas Norte is a testament to the gold mining potential of the Peruvian cordillera. Its operations remain a key component of the regional industrial landscape."
+      en: "Lagunas Norte is a significant gold mining operation located in the northern Peruvian Andes, in the La Libertad region. Situated at an altitude of over 4,000 meters, it was once one of the most productive gold mines in the world. The operation utilizes 'heap leaching' technology to extract gold and silver from the volcanic rock of the Andes. While the mine is currently in a phase of optimization and looking into processing deeper sulfide ores, its impact on the regional economy has been profound. Lagunas Norte is a testament to the mineral wealth of the 'Alto Chicama' district and the engineering challenges of mining in the high-altitude 'puna' landscape. Its legacy continues to shape the industrial profile of northern Peru. Geography K8 — Gold extraction and high-altitude puna."
     },
     facts: {
       de: ["Wichtige Goldmine.", "In der Region La Libertad."],
@@ -677,17 +490,10 @@ export const poiExtraPeruEconomicV2: POI[] = [
       en: ["Important gold mine.", "In the La Libertad region."]
     },
     factsAdvanced: {
-      de: [],
-      hu: [],
-      ro: [],
-      en: [
-        "Located at an elevation of over 4,000 meters.",
-        "Formerly operated by Barrick Gold, now owned by Boroo Pte Ltd.",
-        "Has produced millions of ounces of gold since its inception.",
-        "Key driver of the economy in the Santiago de Chuco province.",
-        "Undergoing studies to process refractory gold ores to extend mine life."
-      ]
-    }, image: "/poi-images/ind-lagunasnorte-economic-v2.webp"},
+      en: ["Located in the Santiago de Chuco province, La Libertad, at 4,000 to 4,200 meters altitude.", "Originally developed by Barrick Gold, now owned by Boroo Gold.", "Utilizes a massive heap-leaching facility to process gold and silver ore.", "Was once one of the lowest-cost gold producers in the world.", "The 'Carbonaceous Material Optimization' project is designed to extend the mine's life.", "A major contributor to the regional budget of La Libertad through the 'Canon Minero'.", "Known for its rigorous water treatment and environmental monitoring systems.", "The mine's discovery in the early 2000s sparked a major mining boom in northern Peru."]
+    },
+    image: "/poi-images/ind-lagunasnorte-economic-v2.webp"
+  },
   {
     id: "ind-laarena-economic-v2",
     type: "industry",
@@ -701,10 +507,7 @@ export const poiExtraPeruEconomicV2: POI[] = [
       en: "A gold and copper mining operation that contributes to regional mineral exports."
     },
     descriptionAdvanced: {
-      de: "",
-      hu: "",
-      ro: "",
-      en: "The La Arena Mine is a versatile mining operation in the La Libertad region of northern Peru, producing both gold and copper. This project is characterized by its efficient open-pit operations and its ability to consistently meet production targets. La Arena is an important contributor to the local economy, particularly in the Huamachuco area, where it supports various community development initiatives. The mine's success highlights the mineral richness of northern Peru beyond its famous gold deposits. With plans for future expansions into deeper copper-gold porphyry deposits, La Arena is poised to remain a productive asset for many years. It represents the steady and reliable side of the Peruvian mining industry."
+      en: "La Arena is a versatile gold and copper mine located in the Huamachuco district of northern Peru. It is known for its dual-stage development: a successful gold oxide operation using heap leaching and a massive underlying copper-gold sulfide deposit. Situated in a region with a long history of mining, La Arena is a major employer and a key driver of local development in the La Libertad highlands. The mine's operations are characterized by their efficiency and their strong focus on social responsibility, including initiatives to support local agriculture and education. As the mine looks toward its transition into a large-scale copper producer, it remains a vital part of Peru's diverse mineral portfolio. Geography K8 — Multi-stage mining and regional development."
     },
     facts: {
       de: ["Gold- und Kupferbergbau.", "Wichtig für den Export."],
@@ -713,16 +516,7 @@ export const poiExtraPeruEconomicV2: POI[] = [
       en: ["Gold and copper mining.", "Important for exports."]
     },
     factsAdvanced: {
-      de: [],
-      hu: [],
-      ro: [],
-      en: [
-        "Owned and operated by Pan American Silver.",
-        "Features a gold oxide heap leach operation and a copper-gold sulfide project.",
-        "Strategically located in a well-known mining district.",
-        "Consistently recognized for its safety and environmental performance.",
-        "A significant contributor to regional employment and local supply chains."
-      ]
+      en: ["Owned and operated by Pan American Silver.", "Located in the La Libertad region at an elevation of 3,400 meters.", "Currently produces gold and silver through a heap-leaching process.", "Features a significant future project to extract copper and gold from deeper sulfide layers.", "Directly supports thousands of jobs in the Huamachuco and Sanchez Carrion provinces.", "The 'La Arena II' project is expected to significantly increase the mine's lifespan.", "Known for its high standards of environmental compliance and water management.", "A key participant in the 'Obras por Impuestos' program for regional infrastructure."]
     }
   },
   {
@@ -738,10 +532,7 @@ export const poiExtraPeruEconomicV2: POI[] = [
       en: "The only major iron ore mine in Peru, located near the coast in the Ica region."
     },
     descriptionAdvanced: {
-      de: "",
-      hu: "",
-      ro: "",
-      en: "The Marcona Mine is Peru's only major producer of iron ore, located on the arid coastal plains of the Ica region. This massive open-pit operation has been a cornerstone of the country's industrial sector for decades, supplying the raw materials needed for steel production. The mine's proximity to the coast allows for efficient export via its own dedicated port facilities in San Juan de Marcona. It is operated by Shougang Hierro Peru, which has invested heavily in modernizing the facilities and expanding production capacity. The Marcona mine is not only economically vital but also geographically unique, as most major Peruvian mines are located high in the Andes. It remains a key link in the global iron ore supply chain."
+      en: "The Marcona Mine is the historic and industrial heart of Peru's iron ore production, located in the coastal desert of the Ica region. It is the only significant iron ore operation in the country, owned and operated by Shougang Hierro Perú. The mine is famous for its vast open pits that carve through the arid landscape, revealing high-grade iron deposits that have been extracted since 1953. The operation is fully integrated, with a massive processing plant and a dedicated port facility in San Juan de Marcona. The mine's proximity to the Pacific Ocean allows for efficient transport to global steel markets, particularly in China. Marcona represents a unique intersection of heavy industry, desert geology, and maritime logistics. Geography K8 — Iron ore extraction and coastal industry."
     },
     facts: {
       de: ["Einzige große Eisenerzmine.", "Nahe der Küste."],
@@ -750,17 +541,10 @@ export const poiExtraPeruEconomicV2: POI[] = [
       en: ["Only major iron ore mine.", "Near the coast."]
     },
     factsAdvanced: {
-      de: [],
-      hu: [],
-      ro: [],
-      en: [
-        "Peru's primary source of iron ore since 1953.",
-        "Operated by the Chinese company Shougang Group.",
-        "Features a massive industrial complex including a pelletizing plant.",
-        "Located in the Nazca province, known for its desert climate.",
-        "Essential for the domestic steel industry and export to Asian markets."
-      ]
-    }, image: "/poi-images/ind-marcona-economic-v2.webp"},
+      en: ["The largest and most important iron ore mine in Peru.", "Operated by the Chinese company Shougang Hierro Perú since 1992.", "Located in the Nazca province, Ica, on the shores of the Pacific.", "The first iron ore shipments from Marcona took place in 1953.", "Features massive magnetic separators and pelletizing plants to process the ore.", "Connects to the Port of Marcona via a long-distance conveyor belt system.", "Vital for the world's steel production, with most exports bound for Asia.", "A major economic driver for the towns of San Juan and San Nicolás."]
+    },
+    image: "/poi-images/ind-marcona-economic-v2.webp"
+  },
   {
     id: "ind-bayovarmine-economic-v2",
     type: "industry",
@@ -774,10 +558,7 @@ export const poiExtraPeruEconomicV2: POI[] = [
       en: "One of the largest phosphate deposits in South America, crucial for fertilizer production."
     },
     descriptionAdvanced: {
-      de: "",
-      hu: "",
-      ro: "",
-      en: "The Bayóvar Phosphate Mine is a world-class mineral deposit located in the Sechura Desert of northern Peru. It is one of the largest and highest-quality phosphate sources in the world, making it a critical asset for the global agricultural industry. The phosphate rock mined here is processed and exported primarily for use in fertilizers, helping to support food production across the planet. The mine's location in a vast, arid coastal plain allows for large-scale open-pit operations and relatively straightforward logistics compared to mountain mines. Bayóvar represents a key diversification of Peru's mineral exports, moving beyond traditional metals into industrial minerals. Its development has brought significant investment and infrastructure to the Piura region."
+      en: "The Bayovar Mine is a massive open-pit phosphate operation located in the heart of the Sechura Desert, one of the driest places on Earth. This world-class deposit is essential for global agriculture, as it produces high-quality phosphate rock used in the manufacture of fertilizers. Operated by Miski Mayo, the mine features an incredible landscape of white desert sands and deep excavations. The phosphate is extracted using massive draglines and transported by a 32-kilometer conveyor belt to the Port of Bayovar for export. This operation is a vital link in the global food supply chain, helping to improve soil fertility around the world. The Bayovar mine is a testament to the industrial potential of Peru's coastal deserts. Geography K8 — Phosphate mining and global food security."
     },
     facts: {
       de: ["Große Phosphatlagerstätte.", "Wichtig für Düngemittel."],
@@ -786,17 +567,10 @@ export const poiExtraPeruEconomicV2: POI[] = [
       en: ["Large phosphate deposit.", "Important for fertilizers."]
     },
     factsAdvanced: {
-      de: [],
-      hu: [],
-      ro: [],
-      en: [
-        "Owned by the Miski Mayo joint venture (Vale, Mitsui, and Mosaic).",
-        "One of the largest phosphate deposits in the Southern Hemisphere.",
-        "Produces millions of tons of phosphate rock annually.",
-        "Key supplier to the agricultural markets of the Americas and Asia.",
-        "Located in a unique desert ecosystem near the Pacific coast."
-      ]
-    }, image: "/poi-images/ind-bayovarmine-economic-v2.webp"},
+      en: ["One of the largest phosphate deposits in South America.", "Operated by Miski Mayo, a joint venture involving Mosaic and Mitsui.", "Located in the Sechura Desert, Piura, near the Pacific coast.", "Produces several million tons of phosphate rock annually for export.", "Uses a 32-kilometer-long conveyor belt to transport minerals to the port.", "The phosphate is used globally to produce fertilizers for various crops.", "The mine is situated in a highly sensitive desert ecosystem with unique flora.", "A major source of employment and industrial development in northern Peru."]
+    },
+    image: "/poi-images/ind-bayovarmine-economic-v2.webp"
+  },
   {
     id: "ind-camisea-economic-v2",
     type: "industry",
@@ -810,10 +584,7 @@ export const poiExtraPeruEconomicV2: POI[] = [
       en: "A major natural gas extraction project located in the Amazon rainforest of the Cusco region."
     },
     descriptionAdvanced: {
-      de: "",
-      hu: "",
-      ro: "",
-      en: "The Camisea Gas Project is the most important energy project in Peru's history, located deep in the Amazon rainforest of the Cusco region. It involves the extraction of vast natural gas and condensate reserves from beneath the jungle floor. This project has fundamentally transformed Peru's energy matrix, providing a clean and affordable source of power for the country's growing economy. The gas is transported via a massive pipeline over the Andes to the coast, where it is used for electricity generation, industrial fuel, and export as LNG. Camisea is also a major source of royalties and taxes for the Peruvian government. Its operations are conducted with a high level of environmental sensitivity due to its location in a biodiverse and indigenous territory."
+      en: "Camisea is the most important energy project in Peru's history, consisting of massive natural gas fields located deep in the Amazon rainforest of the Cusco region. Discovered in the 1980s, it has transformed the country's energy landscape, providing a clean and affordable source of power for industries and households. The project is famous for its 'offshore in the jungle' approach, using remote wells and underground pipelines to transport gas and liquids across the Andes to the coast without building roads through the rainforest. Camisea's gas fuels the majority of Peru's electricity generation and is a major source of export revenue through the Melchorita LNG plant. It represents a complex balance between energy security and the protection of the Amazon's biodiversity and indigenous territories. Geography K8 — Natural gas and Amazonian energy policy."
     },
     facts: {
       de: ["Erdgasförderprojekt.", "Im Amazonas-Regenwald."],
@@ -822,16 +593,7 @@ export const poiExtraPeruEconomicV2: POI[] = [
       en: ["Natural gas extraction.", "In the Amazon rainforest."]
     },
     factsAdvanced: {
-      de: [],
-      hu: [],
-      ro: [],
-      en: [
-        "The largest natural gas reserve in Peru and one of the largest in South America.",
-        "Contributes to over 40% of Peru's electricity generation.",
-        "Involves a pipeline that crosses the Andes at over 4,800 meters.",
-        "Includes the Pampa Melchorita LNG plant, the first in South America.",
-        "Operated by a consortium led by Pluspetrol."
-      ]
+      en: ["The largest natural gas reserve in Peru and one of the most important in South America.", "Located in the Lower Urubamba Valley, Cusco, in a roadless jungle area.", "Operated by a consortium led by Pluspetrol and including Hunt Oil and SK Innovation.", "The gas is transported via a 700-km pipeline that climbs over the Andes (reaching 4,800m).", "Fuels over 40% of Peru's national electricity generation.", "Includes the 'Malvinas' separation plant and the 'Pisco' fractionation plant.", "A major contributor to the 'Canon Gasífero' which funds the Cusco regional government.", "Under strict environmental and social monitoring due to its proximity to indigenous reserves."]
     }
   },
   {
@@ -847,10 +609,7 @@ export const poiExtraPeruEconomicV2: POI[] = [
       en: "One of the main oil refineries in Peru, which recently underwent a massive modernization."
     },
     descriptionAdvanced: {
-      de: "",
-      hu: "",
-      ro: "",
-      en: "The Talara Refinery is a major industrial landmark on Peru's northern coast and the cornerstone of the country's oil processing industry. It has recently undergone a massive, multi-billion dollar modernization project to become one of the most advanced refineries in the region. The new facility is designed to produce cleaner, high-quality fuels that meet international environmental standards. Located in the historic oil-producing city of Talara, the refinery is a major employer and a symbol of national industrial pride. This upgrade allows Peru to reduce its reliance on fuel imports and improve its energy security. The refinery's prominent position on the Pacific coast makes it a vital hub for petroleum logistics."
+      en: "Talara is the historical heart of Peru's oil industry, located on the northern coast where the first oil wells in South America were drilled. The city is defined by the massive Talara Refinery, which has recently undergone a multi-billion dollar modernization to become one of the most advanced in the region. This facility is crucial for the country's energy independence, processing heavy crude into high-quality, low-sulfur fuels. The surrounding landscape is a forest of oil derricks, both old and new, that have fueled the Peruvian economy for over a century. Talara is a city of hardworking people, a dry desert climate, and a deep-seated identity as the 'Oil Capital' of Peru. Its strategic port and refinery make it a vital node in the country's industrial network. Geography K8 — Oil refining and energy infrastructure."
     },
     facts: {
       de: ["Wichtige Ölraffinerie.", "Kürzlich modernisiert."],
@@ -859,17 +618,10 @@ export const poiExtraPeruEconomicV2: POI[] = [
       en: ["Main oil refinery.", "Recently modernized."]
     },
     factsAdvanced: {
-      de: [],
-      hu: [],
-      ro: [],
-      en: [
-        "Owned by the state company Petroperú.",
-        "Founded in 1917, making it one of the oldest refineries in the country.",
-        "The New Talara Refinery project is the largest energy investment in Peru.",
-        "Features advanced deep conversion technology (Flexicoking).",
-        "Can process up to 95,000 barrels of crude oil per day."
-      ]
-    }, image: "/poi-images/ind-talara-economic-v2.webp"},
+      en: ["Site of the first oil well in Peru and South America (Pariñas), drilled in 1863.", "Home to the New Talara Refinery, which has a processing capacity of 95,000 barrels per day.", "The refinery is owned and operated by the state company Petroperú.", "The modernization project cost over $5 billion and is the largest industrial project in Peru.", "Produces clean fuels with very low sulfur content (Euro VI standard).", "Located in the Piura region, a major center for both onshore and offshore oil extraction.", "The city features a unique 'petroleum museum' documenting its long industrial history.", "A vital center for the supply of fuel to the entire northern region of Peru."]
+    },
+    image: "/poi-images/ind-talara-economic-v2.webp"
+  },
   {
     id: "ind-lapampilla-economic-v2",
     type: "industry",
@@ -883,10 +635,7 @@ export const poiExtraPeruEconomicV2: POI[] = [
       en: "The largest oil refinery in Peru, located in the coastal region of Callao."
     },
     descriptionAdvanced: {
-      de: "",
-      hu: "",
-      ro: "",
-      en: "La Pampilla is Peru's largest and most sophisticated oil refinery, located in the Callao region near Lima. It plays a critical role in the country's fuel supply, producing a wide range of petroleum products including gasoline, diesel, and aviation fuel. The refinery has undergone continuous modernization to produce low-sulfur fuels, aligning with global environmental trends. As a major industrial facility on the coast, it is equipped with advanced maritime terminals for receiving crude oil and distributing finished products. La Pampilla's strategic location ensures that the capital and the central region of Peru have a steady and reliable energy supply. It remains a key asset for the national economy and the transport sector."
+      en: "La Pampilla is Peru's largest and most important oil refinery, located in the Callao province near Lima. Operated by Repsol, it plays a critical role in the country's energy security by providing the majority of the gasoline, diesel, and aviation fuel consumed in the capital and central regions. The refinery's massive silver towers and storage tanks are a prominent feature of the Ventanilla coastline. Over the years, La Pampilla has invested significantly in advanced technology to produce cleaner fuels with lower sulfur content, meeting international environmental standards. As a vital part of the national logistics chain, the refinery is connected to underwater pipelines for offloading crude from tankers and loading refined products for distribution. It is a cornerstone of Peru's industrial infrastructure. Geography K8 — Petroleum refining and urban energy supply."
     },
     facts: {
       de: ["Größte Ölraffinerie.", "Befindet sich in Callao."],
@@ -895,17 +644,10 @@ export const poiExtraPeruEconomicV2: POI[] = [
       en: ["Largest oil refinery.", "Located in Callao."]
     },
     factsAdvanced: {
-      de: [],
-      hu: [],
-      ro: [],
-      en: [
-        "Operated by the Spanish energy company Repsol.",
-        "Accounts for approximately half of Peru's refining capacity.",
-        "Features modern hydro-desulfurization units for cleaner fuels.",
-        "Includes a sophisticated sea terminal with multiple berths.",
-        "Crucial for the supply of jet fuel to Lima's Jorge Chávez International Airport."
-      ]
-    }, image: "/poi-images/ind-lapampilla-economic-v2.webp"},
+      en: ["The largest oil refinery in Peru by processing capacity (117,000 barrels per day).", "Owned and operated by the Spanish company Repsol since 1996.", "Supplies over 50% of the liquid fuel market in Peru.", "Features advanced 'desulfurization' units to produce ultra-low sulfur diesel.", "Located in the Ventanilla district of Callao, north of the main port.", "Includes a major maritime terminal for the reception of crude oil tankers.", "A key supplier of Jet A-1 fuel for the Jorge Chávez International Airport.", "Under constant environmental scrutiny and rigorous safety monitoring."]
+    },
+    image: "/poi-images/ind-lapampilla-economic-v2.webp"
+  },
   {
     id: "ind-siderperu-economic-v2",
     type: "industry",
@@ -919,10 +661,7 @@ export const poiExtraPeruEconomicV2: POI[] = [
       en: "The first steel plant established in Peru, located in the coastal city of Chimbote."
     },
     descriptionAdvanced: {
-      de: "",
-      hu: "",
-      ro: "",
-      en: "Siderperu is the pioneer of the Peruvian steel industry, located in the coastal city of Chimbote. For decades, it has been the country's primary producer of long and flat steel products, supporting the construction, mining, and manufacturing sectors. The plant's location in Chimbote was chosen for its excellent port facilities and its role as an industrial growth pole. Siderperu has evolved from a state-owned enterprise to a modern, private operation that incorporates advanced technology and sustainable practices. Its steel is used in everything from major infrastructure projects to everyday consumer goods. The company remains a major player in the national industrial landscape and a key employer in the Ancash region."
+      en: "SiderPerú is the pioneer of the steel industry in Peru, located in the industrial port city of Chimbote. Founded in 1956, it was the first company to produce steel on a large scale in the country, transforming Chimbote into a major manufacturing hub. The massive complex includes blast furnaces and rolling mills that process scrap metal and iron ore into essential products for construction, mining, and industry. Now owned by the Gerdau group, SiderPerú has modernized its operations to focus on sustainability and efficiency, including a strong emphasis on recycling. The company is a pillar of the regional economy and a symbol of Peru's industrial development during the mid-20th century. Its steel has built the bridges, skyscrapers, and infrastructure that define modern Peru. Geography K8 — Steel production and heavy industry."
     },
     facts: {
       de: ["Erstes Stahlwerk Perus.", "Gelegen in Chimbote."],
@@ -931,17 +670,10 @@ export const poiExtraPeruEconomicV2: POI[] = [
       en: ["First steel plant in Peru.", "Located in Chimbote."]
     },
     factsAdvanced: {
-      de: [],
-      hu: [],
-      ro: [],
-      en: [
-        "The first steel plant in Peru, established in 1956.",
-        "Owned by the Brazilian steel giant Gerdau.",
-        "Features an industrial complex with blast furnaces and rolling mills.",
-        "Major supplier for the Peruvian construction industry.",
-        "Located in Chimbote, the 'Fishery and Steel Capital' of Peru."
-      ]
-    }, image: "/poi-images/ind-siderperu-economic-v2.webp"},
+      en: ["The first and largest steel mill in Peru, founded as a state company in 1956.", "Acquired by the Brazilian group Gerdau in 2006.", "Located in Chimbote, Ancash, chosen for its proximity to iron ore and deep-water port.", "A major recycler of scrap metal, which is melted to produce new steel.", "Produces rebar, wire rod, and galvanized sheets for the construction industry.", "Features its own maritime terminal for the import and export of materials.", "Directly supports thousands of jobs in the Chimbote and Santa province.", "The plant has a production capacity of over 500,000 tons of liquid steel per year."]
+    },
+    image: "/poi-images/ind-siderperu-economic-v2.webp"
+  },
   {
     id: "ind-ilosmelter-economic-v2",
     type: "industry",
@@ -955,10 +687,7 @@ export const poiExtraPeruEconomicV2: POI[] = [
       en: "Processes copper ore from nearby mines and includes a refinery and a sulfuric acid plant."
     },
     descriptionAdvanced: {
-      de: "",
-      hu: "",
-      ro: "",
-      en: "The Ilo Copper Smelter is a critical industrial facility in southern Peru, serving as the final processing point for copper ore from the Cuajone and Toquepala mines. Located on the coast of the Moquegua region, this massive plant converts mineral concentrates into high-purity copper anodes. The facility also includes a modern refinery and a sulfuric acid plant, which captures emissions to produce a valuable industrial byproduct. The smelter's operations are essential for the vertical integration of Peru's copper industry, allowing for the export of value-added products. Its presence has made the city of Ilo a major industrial and maritime center. It remains one of the largest and most efficient copper processing plants in South America."
+      en: "The Ilo Smelter and Refinery is a massive industrial complex on the southern coast of Peru, serving as the final destination for copper concentrates from the Cuajone and Toquepala mines. Operated by Southern Copper, it is one of the most important metallurgical facilities in South America. Here, raw ore is transformed through intense heat into high-purity copper anodes and cathodes, which are then exported globally. The facility also features a large-scale sulfuric acid plant that captures emissions, a critical environmental and industrial byproduct. The smelter's towering chimney and vast industrial docks are the economic engine of the city of Ilo, connecting the mineral wealth of the Andes to the global market. It represents the peak of Peru's mineral processing capabilities. Geography K8 — Metallurgy and copper refining."
     },
     facts: {
       de: ["Verarbeitet Kupfererze.", "Hat eine Schwefelsäureanlage."],
@@ -967,17 +696,10 @@ export const poiExtraPeruEconomicV2: POI[] = [
       en: ["Processes copper ore.", "Includes a sulfuric acid plant."]
     },
     factsAdvanced: {
-      de: [],
-      hu: [],
-      ro: [],
-      en: [
-        "Operated by Southern Copper Corporation.",
-        "Modernized with Isasmelt technology for higher efficiency and lower emissions.",
-        "Connected to the mines by an extensive private industrial railway.",
-        "The sulfuric acid produced is used in leaching processes at the mines.",
-        "One of the few major copper smelters on the Pacific coast of South America."
-      ]
-    }, image: "/poi-images/ind-ilosmelter-economic-v2.webp"},
+      en: ["Operated by Southern Copper Corporation in the port city of Ilo, Moquegua.", "Processes copper concentrate into 99.99% pure copper cathodes.", "Includes a major modernization that captures over 95% of sulfur dioxide emissions.", "Produces sulfuric acid as a byproduct, used in other industrial and mining processes.", "Connected to the Cuajone and Toquepala mines by a dedicated industrial railway.", "Features a modern marine terminal for the export of copper and acid.", "The refinery uses state-of-the-art 'electro-winning' technology.", "A key contributor to the regional GDP of the Moquegua department."]
+    },
+    image: "/poi-images/ind-ilosmelter-economic-v2.webp"
+  },
   {
     id: "ind-cajamarquilla-economic-v2",
     type: "industry",
@@ -991,10 +713,7 @@ export const poiExtraPeruEconomicV2: POI[] = [
       en: "One of the largest zinc refineries in the world, located near the capital city of Lima."
     },
     descriptionAdvanced: {
-      de: "",
-      hu: "",
-      ro: "",
-      en: "Cajamarquilla is one of the world's largest and most efficient zinc refineries, located on the outskirts of Lima. The facility processes zinc concentrates from various mines across the Peruvian Andes into high-purity refined zinc and alloys. Refined zinc from Cajamarquilla is exported globally for use in galvanizing steel and manufacturing various industrial products. The refinery is known for its advanced hydrometallurgical processes and its focus on operational excellence. Its location near the capital provides excellent access to labor, logistics, and the country's main port in Callao. Cajamarquilla is a key component of Peru's mineral processing sector, adding significant value to the country's natural resources. It continues to be a major contributor to national export earnings."
+      en: "Cajamarquilla is Peru's primary zinc refinery, located on the eastern outskirts of Lima in the Lurigancho-Chosica district. Operated by Nexa Resources, it is one of the largest and most efficient zinc processing plants in the world. The facility takes zinc concentrates from diverse mines in the central Andes and uses a complex electrolytic process to produce high-purity zinc ingots. This metal is essential for galvanizing steel, protecting it from rust, and is a vital export for the Peruvian economy. Cajamarquilla is known for its advanced environmental controls and its strategic location, which allows for efficient distribution to the domestic market and the Port of Callao for export. It is a critical node in the global zinc supply chain and a pillar of the Lima industrial belt. Geography K8 — Zinc refining and industrial logistics."
     },
     facts: {
       de: ["Große Zinkraffinerie.", "Nahe Lima."],
@@ -1003,17 +722,10 @@ export const poiExtraPeruEconomicV2: POI[] = [
       en: ["Large zinc refinery.", "Near Lima."]
     },
     factsAdvanced: {
-      de: [],
-      hu: [],
-      ro: [],
-      en: [
-        "Owned by Nexa Resources (formerly Votorantim Metais).",
-        "One of the top 5 largest zinc refineries in the world.",
-        "Produces special high-grade zinc and sulfuric acid.",
-        "Began operations in 1981 and has seen several expansions.",
-        "Strategically located to process minerals from the central Andean region."
-      ]
-    }, image: "/poi-images/ind-cajamarquilla-economic-v2.webp"},
+      en: ["One of the top five largest zinc refineries in the world.", "Owned and operated by Nexa Resources (formerly Votorantim Metais).", "Located in the Rimac Valley, roughly 20 km from downtown Lima.", "Processes over 340,000 tons of zinc annually.", "Produces high-purity zinc, sulfuric acid, and minor metals like silver and cadmium.", "A major consumer of electricity, supplied by the national grid.", "Strategic proximity to the central railway for mineral transport from the Andes.", "Recognized for its high safety standards and environmental management systems."]
+    },
+    image: "/poi-images/ind-cajamarquilla-economic-v2.webp"
+  },
   {
     id: "ind-orcopampa-economic-v2",
     type: "industry",
@@ -1027,10 +739,7 @@ export const poiExtraPeruEconomicV2: POI[] = [
       en: "An underground gold and silver mine located at high elevation in the Arequipa region."
     },
     descriptionAdvanced: {
-      de: "",
-      hu: "",
-      ro: "",
-      en: "Orcopampa is a high-altitude underground mine in the Arequipa region, renowned for its production of gold and silver. This operation is a classic example of the challenges and rewards of Andean mining, with tunnels reaching deep into the mountains at elevations over 3,800 meters. The mine has a long history and has consistently been one of Peru's most important precious metal producers. Orcopampa is also notable for its efforts in sustainable mining and its close collaboration with the local highland communities. The mine's concentrates are processed on-site to produce doré bars for export. Its endurance and productivity make it a pillar of the regional economy in the southern Andes. It continues to explore new veins to extend its rich mining legacy."
+      en: "Orcopampa is a historic and highly productive underground gold and silver mine located in the volcanic highlands of the Arequipa region. At an altitude of over 3,800 meters, it is a world-class example of narrow-vein mining, where miners follow rich mineralized layers deep into the earth. Operated by Buenaventura, Peru's largest precious metals company, Orcopampa has been a consistent producer for decades, contributing significantly to the country's status as a top gold exporter. The mine is known for its sophisticated 'cyanidation' and 'Merrill-Crowe' processing plants, which extract every ounce of value from the ore. Beyond its economic impact, the mine is a major supporter of local development in the remote Orcopampa district, fostering education and traditional Andean crafts. Geography K8 — Underground gold mining and Andean geology."
     },
     facts: {
       de: ["Unterirdische Mine.", "Fördert Gold und Silber."],
@@ -1039,17 +748,10 @@ export const poiExtraPeruEconomicV2: POI[] = [
       en: ["Underground mine.", "Produces gold and silver."]
     },
     factsAdvanced: {
-      de: [],
-      hu: [],
-      ro: [],
-      en: [
-        "Owned and operated by Cía. de Minas Buenaventura.",
-        "One of the oldest and most traditional gold mines in Peru.",
-        "Focused on high-grade gold and silver mineralization.",
-        "Operates at an altitude of approximately 3,800 to 4,500 meters.",
-        "A major source of high-quality silver for international markets."
-      ]
-    }, image: "/poi-images/ind-orcopampa-economic-v2.webp"},
+      en: ["Owned and operated by Compañía de Minas Buenaventura since 1967.", "Located in the Castilla province of Arequipa at an elevation of 3,800 to 4,500 meters.", "A high-grade, narrow-vein underground mining operation.", "Primary products are gold and silver doré bars.", "The 'Chipmo' mine is the main producing area of the Orcopampa complex.", "Utilizes modern tailing storage facilities and water recycling systems.", "A major contributor to the economy of the remote Arequipa highlands.", "Known for its commitment to safety and the 'Buenaventura' corporate culture."]
+    },
+    image: "/poi-images/ind-orcopampa-economic-v2.webp"
+  },
   {
     id: "ind-tintaya-economic-v2",
     type: "industry",
@@ -1063,10 +765,7 @@ export const poiExtraPeruEconomicV2: POI[] = [
       en: "A historically significant copper mine located in the southern Andean region of Cusco."
     },
     descriptionAdvanced: {
-      de: "",
-      hu: "",
-      ro: "",
-      en: "Tintaya is a historically significant copper mine located in the Espinar province of Cusco, which has played a major role in the development of the southern Peruvian mining belt. Originally an open-pit operation, it has transitioned over time and paved the way for the development of the nearby Antapaccay project. The site includes extensive processing facilities and has been a center for technological innovation in mineral extraction. Tintaya is also well-known for being one of the first mines in Peru to establish a comprehensive social agreement with local communities, setting a precedent for the industry. Its location in the high Andean plateau highlights the rugged beauty and mineral wealth of the Cusco region. The mine remains a key reference point for the history and future of copper mining in Peru."
+      en: "Tintaya is a legendary copper mine located in the Espinar province of the Cusco region, marking the starting point of the 'Southern Mining Corridor'. After decades of producing copper from its massive open pit, the operation has transitioned into the 'Antapaccay' project, which utilizes advanced technology to extract copper from deeper and more complex ores. Operated by Glencore, Tintaya-Antapaccay is a cornerstone of the regional economy, providing thousands of jobs and funding vital social infrastructure. The mine's landscape is a testament to the industrial scale of modern mining, with vast processing plants and waste rock facilities nestled in the high-altitude Andean puna. It remains a focal point for dialogues on sustainable development and the shared benefits of mineral wealth in the Cusco highlands. Geography K8 — Copper mining and regional transformation."
     },
     facts: {
       de: ["Historische Kupfermine.", "In der Region Cusco."],
@@ -1075,17 +774,7 @@ export const poiExtraPeruEconomicV2: POI[] = [
       en: ["Historical copper mine.", "In the Cusco region."]
     },
     factsAdvanced: {
-      de: [],
-      hu: [],
-      ro: [],
-      en: [
-        "Currently integrated into the Antapaccay mining complex operated by Glencore.",
-        "Located at an altitude of 4,100 meters in the Cusco region.",
-        "One of the first major state-owned mines to be privatized in the 1990s.",
-        "Was a pioneer in the use of solvent extraction and electrowinning (SX-EW) technology in Peru.",
-        "Central to the economy and social development of the Espinar province."
-      ]
+      en: ["Located in the Espinar province, Cusco, at an altitude of 4,000 meters.", "Owned and operated by the global company Glencore.", "Transitioned from the original 'Tintaya' open pit to the 'Antapaccay' expansion.", "Produces high-grade copper concentrate with significant gold and silver as byproducts.", "A major contributor to the 'Convenio Marco' (Framework Agreement) for local development.", "Features a modern concentrator plant with a capacity of 70,000 tons per day.", "The concentrate is transported by truck to the railhead in Imata and then to Matarani.", "A key player in the southern Peruvian mining belt for over 30 years."]
     }
   }
 ];
-

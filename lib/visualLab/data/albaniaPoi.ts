@@ -250,7 +250,7 @@ export const albaniaCities: POI[] = [
     description: { de: "Stadt der Serenaden", hu: "A szerenádok városa", ro: "Orașul serenadelor", en: "City of serenades" },
     descriptionAdvanced: {
       de: "Korçë, oft das 'Paris Albaniens' genannt, besticht durch eine elegante Architektur im französischen Stil und eine ausgeprägte intellektuelle Tradition. Die Stadt auf einer Hochebene im Südosten ist bekannt für ihre romantischen Serenaden. Als Ort der ersten albanischsprachigen Schule des Landes hat sie eine große nationale Bedeutung.",
-      hu: "Korçë, amelyet gyakran az „albán Párizsként” is emlegetnek, az ország délkeleti részén fekvő elegáns, kulturális hagyományokban gazdag város. A település híres a 19. századi polgári építészetéről, macskaköves utcáiról és a „szerenádok” hagyományáról.",
+      hu: "Korçë, amelyet gyakran az \\\"albán Párizsként\\\" is emlegetnek, az ország délkeleti részén fekvő elegáns, kulturális hagyományokban gazdag város. A település híres a 19. századi polgári építészetéről, macskaköves utcáiról és a \\\"szerenádok\\\" hagyományáról.",
       ro: "Cunoscut pentru cultură, muzee și arhitectură.",
       en: "Korçë, often called the 'Paris of Albania,' is a city of elegance, serenades, and intellectual tradition located in a high plateau in the southeast."
     },
@@ -262,7 +262,7 @@ export const albaniaCities: POI[] = [
       ],
       hu: [
         "Korçë városában nyílt meg 1887-ben az első albán nyelvű iskola.",
-        "A várost gyakran nevezik az „albán Párizsnak” elegáns villái miatt.",
+        "A várost gyakran nevezik az \\\"albán Párizsnak\\\" elegáns villái miatt.",
         "Korçë híres a sörgyáráról, amely az ország első és egyik legnépszerűbb sörmárkáját gyártja."],
       ro: [
         "Korçë este cunoscut drept orașul serenadelor.",
@@ -330,7 +330,7 @@ export const albaniaCities: POI[] = [
     description: { de: "Stadt der tausend Fenster", hu: "Az ezer ablak városa", ro: "Orașul celor o mie de ferestre", en: "City of a thousand windows" },
     descriptionAdvanced: {
       de: "Berat gehört zum UNESCO-Welterbe und ist ein Meisterwerk osmanischer Baukunst. Die charakteristischen weißen Häuser mit ihren vielen kleinen Fenstern scheinen sich den Hügel hinaufzustapeln. Die Altstadt, bestehend aus Mangalem und Gorica, bietet eine bezaubernde Atmosphäre mit engen Gassen und einer reichen Geschichte.",
-      hu: "Berat, az „ezer ablak városa”, az UNESCO Világörökség része és Albánia egyik legszebb, legjobb állapotban megőrzött történelmi városa. A várost az Osum folyó osztja két történelmi negyedre, Mangalemre és Goricára.",
+      hu: "Berat, az \\\"ezer ablak városa\\\", az UNESCO Világörökség része és Albánia egyik legszebb, legjobb állapotban megőrzött történelmi városa. A várost az Osum folyó osztja két történelmi negyedre, Mangalemre és Goricára.",
       ro: "Patrimoniu UNESCO, cunoscut pentru arhitectura otomană.",
       en: "Berat, known as the 'City of a Thousand Windows,' is a UNESCO World Heritage site and one of Albania's most beautiful historic towns."
     },
@@ -370,7 +370,7 @@ export const albaniaCities: POI[] = [
     description: { de: "Stadt der Steine", hu: "A kövek városa", ro: "Orașul de piatră", en: "City of stone" },
     descriptionAdvanced: {
       de: "Gjirokastra wird oft als die 'Stadt der Steine' bezeichnet und gehört zum UNESCO-Welterbe. Die osmanische Architektur hier ist besonders wehrhaft und beeindruckend, geprägt von den charakteristischen 'Kulle'-Häusern. Die Stadt thront majestätisch am Hang über dem Drino-Tal, und ihre riesige Burg ist eine der größten in der gesamten Balkanregion.",
-      hu: "Gjirokastra, egy másik UNESCO világörökségi kincs, egy lenyűgöző „kőváros”, amely a Drino-völgy meredek lejtőire épült. Híres az erődített toronyházairól, az úgynevezett „kule”-kről.",
+      hu: "Gjirokastra, egy másik UNESCO világörökségi kincs, egy lenyűgöző \\\"kőváros\\\", amely a Drino-völgy meredek lejtőire épült. Híres az erődített toronyházairól, az úgynevezett \\\"kule\\\"-kről.",
       ro: "Un oraș otoman bine conservat, locul de naștere al lui Ismail Kadare și Enver Hoxha.",
       en: "Gjirokastra, another UNESCO World Heritage site, is a strikingly beautiful 'Stone City' built on the steep slopes of the Drino Valley."
     },
@@ -614,7 +614,7 @@ export const albaniaHistorical: POI[] = [
     description: { de: "Dominante Festung", hu: "Domináns erőd", ro: "Fortăreață dominantă", en: "Dominant fortress" },
     descriptionAdvanced: {
       de: "Die Burg Gjirokastra ist ein gewaltiges Bollwerk, das hoch über der 'Stadt der Steine' thront. Sie ist eine der größten Festungen der gesamten Balkanregion und Zeugnis einer langen, bewegten Geschichte als Zitadelle und Gefängnis. Neben einer beeindruckenden Sammlung von Artilleriegeschützen und einem kleinen Museum bietet der Ort tiefe Einblicke.",
-      hu: "A Gjirokastrai vár a Balkán egyik legnagyobb és legimpozánsabb erődítménye, amely az UNESCO által védett „kőváros” látképét uralja. A stratégiai hegygerincre épült várat évszázadokon át bővítették.",
+      hu: "A Gjirokastrai vár a Balkán egyik legnagyobb és legimpozánsabb erődítménye, amely az UNESCO által védett \\\"kőváros\\\" látképét uralja. A stratégiai hegygerincre épült várat évszázadokon át bővítették.",
       ro: "O cetate masivă care domină peisajul urban al Gjirokastrei.",
       en: "The Gjirokastra Castle is one of the largest and most imposing fortresses in the Balkans, dominating the skyline of the UNESCO-protected 'Stone City.'"
     },
@@ -818,7 +818,7 @@ export const albaniaNature: POI[] = [
     description: { de: "UNESCO-Naturerbe", hu: "UNESCO természeti örökség", ro: "Patrimoniu natural UNESCO", en: "UNESCO Natural Heritage" },
     descriptionAdvanced: {
       de: "Der Ohridsee ist einer der ältesten und tiefsten Seen der Welt und wurde aufgrund seiner einzigartigen biologischen Vielfalt in die UNESCO-Liste aufgenommen. Oft als 'Museum lebender Fossilien' bezeichnet, beherbergt er hunderte endemische Arten.",
-      hu: "Az Ohridi-tó a világ egyik legrégebbi és legmélyebb tava, amelyet egyedülálló ökoszisztémája miatt gyakran „élő kövületek múzeumaként” emlegetnek.",
+      hu: "Az Ohridi-tó a világ egyik legrégebbi és legmélyebb tava, amelyet egyedülálló ökoszisztémája miatt gyakran \\\"élő kövületek múzeumaként\\\" emlegetnek.",
       ro: "Unul dintre cele mai vechi și mai adânci lacuri din Europa.",
       en: "Lake Ohrid is one of the oldest and deepest lakes in the world, often described as a 'museum of living fossils' due to its unique ecosystem."
     },
@@ -858,7 +858,7 @@ export const albaniaNature: POI[] = [
     description: { de: "Albanische Alpen", hu: "Albán Alpok", ro: "Alpii Albanezi", en: "Albanian Alps" },
     descriptionAdvanced: {
       de: "Das Valbona-Tal ist die 'Perle der albanischen Alpen' und besticht durch dramatische Gipfel, reißende türkisblaue Flüsse und unberührte Natur. Es gilt als eines der wildesten Täler Europas und bietet Wanderern unvergleichliche Erlebnisse.",
-      hu: "A Valbona-völgyet gyakran az „Albán-Alpok ékköveként” emlegetik, ahol meredek sziklafalak, türkizkék folyók alkotnak lélegzetelállító tájat.",
+      hu: "A Valbona-völgyet gyakran az \\\"Albán-Alpok ékköveként\\\" emlegetik, ahol meredek sziklafalak, türkizkék folyók alkotnak lélegzetelállító tájat.",
       ro: "O vale montană spectaculoasă în nordul Albaniei.",
       en: "The Valbona Valley is often hailed as the 'Gem of the Albanian Alps,' a breathtaking alpine landscape of jagged peaks and turquoise rivers."
     },
@@ -869,7 +869,7 @@ export const albaniaNature: POI[] = [
         "Traditionelle Kulle-Türme dienten früher auch zur Verteidigung."
       ],
       hu: [
-        "A Valbona-völgyet gyakran nevezik az „Albán Alpok ékkövének” kristálytiszta folyója miatt.",
+        "A Valbona-völgyet gyakran nevezik az \\\"Albán Alpok ékkövének\\\" kristálytiszta folyója miatt.",
         "A környék a túrázók paradicsoma.",
         "A völgy lakói még mindig őrizik az ősi albán vendégszeretetet."],
       ro: [
@@ -950,7 +950,7 @@ export const albaniaNature: POI[] = [
       ],
       hu: [
         "A Llogara-hágó az a pont, ahol az Adriai- és a Jón-tenger látványa egyesül.",
-        "A hágó környékén található „Zászló-fenyő” egy különleges fa.",
+        "A hágó környékén található \\\"Zászló-fenyő\\\" egy különleges fa.",
         "A Llogara Nemzeti Parkban számos ritka állatfaj él."],
       ro: [
         "Pasul Llogara se află la o altitudine de 1027 de metri deasupra nivelului mării.",
@@ -978,7 +978,7 @@ export const albaniaNature: POI[] = [
     description: { de: "Albaniens Grand Canyon", hu: "Albánia Grand Canyonja", ro: "Grand Canyon al Albaniei", en: "Albania's Grand Canyon" },
     descriptionAdvanced: {
       de: "Der Osum-Canyon ist eine beeindruckende, 26 Kilometer lange Schlucht, die tief in die Kalksteinlandschaft des Südens eingeschnitten ist. Oft als der 'Grand Canyon Albaniens' bezeichnet, besticht er durch seine gewaltigen senkrechten Felswände.",
-      hu: "Az Osum-kanyont gyakran „Albánia Grand Canyonjának” nevezik, amely egy látványos, 26 kilométer hosszú szurdok a déli felvidéken.",
+      hu: "Az Osum-kanyont gyakran \\\"Albánia Grand Canyonjának\\\" nevezik, amely egy látványos, 26 kilométer hosszú szurdok a déli felvidéken.",
       ro: "Un canion spectaculos în sudul Albaniei.",
       en: "The Osum Canyon is often called the 'Grand Canyon of Albania,' a spectacular 26-kilometer-long gorge carved into the limestone."
     },
@@ -1069,7 +1069,7 @@ export const albaniaNature: POI[] = [
         "Theth ist einer der wenigen Orte in Europa, die noch völlig abseits der Moderne liegen."
       ],
       hu: [
-        "Theth faluja híres a „kulla”-ról, azaz a vérbosszú elől menedéket nyújtó toronyházról.",
+        "Theth faluja híres a \\\"kulla\\\"-ról, azaz a vérbosszú elől menedéket nyújtó toronyházról.",
         "A Grunas-vízesés egy 30 méter magas, lenyűgöző vízzuhatag.",
         "A nemzeti park területén még mindig élnek farkasok és barnamedvék."],
       ro: [
@@ -1098,7 +1098,7 @@ export const albaniaNature: POI[] = [
     description: { de: "Hausberg von Tirana", hu: "Tirana házhegye", ro: "Muntele local al Tiranei", en: "Tirana's backyard mountain" },
     descriptionAdvanced: {
       de: "Der Dajti ist Tiranas Hausberg und das 'grüne Lungen' der Hauptstadt. Mit der Dajti Ekspres Seilbahn erreicht man in wenigen Minuten eine beeindruckende Höhe, von der aus man Tirana aus der Vogelperspektive betrachten kann.",
-      hu: "A Dajti-hegy Tirana kedvelt „hátsó kertje”, amely zöld menedéket nyújt mindössze néhány kilométerre a nyüzsgő városközponttól.",
+      hu: "A Dajti-hegy Tirana kedvelt \\\"hátsó kertje\\\", amely zöld menedéket nyújt mindössze néhány kilométerre a nyüzsgő városközponttól.",
       ro: "O destinație de excursie populară cu telecabină lângă capitală.",
       en: "Mount Dajti is the beloved 'backyard mountain' of Tirana, providing a fresh and green escape just a few kilometers from the city center."
     },
@@ -1114,7 +1114,7 @@ export const albaniaNature: POI[] = [
         "A hegy Albánia egyik legrégebbi nemzeti parkja."],
       ro: [
         "Telecabina Dajti Ekspres este cea mai lungă de acest tip din Balcani.",
-        "Muntele este considerat „balconul Tiranei” datorită vederii asupra capitalei.",
+        "Muntele este considerat \\\"balconul Tiranei\\\" datorită vederii asupra capitalei.",
         "Parcul Național găzduiește o biodiversitate bogată."
       ],
       en: [

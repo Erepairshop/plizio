@@ -29,7 +29,7 @@ export const elsalvadorCities: POI[] = [
     facts: {
       de: ["Gegründet 1525.", "Liegt im 'Tal der Hängematten'.", "Größte Stadt des Landes.", "Sitz der Regierung."],
       hu: ["1525-ben alapították.", "A 'Függőágyak völgyében' fekszik.", "Az ország legnagyobb városa.", "A kormány székhelye."],
-      ro: ["Fondat în 1525.", "Situat în „Valea Hamacelor”.", "Cel mai mare oraș al țării.", "Sediul guvernului."],
+      ro: ["Fondat în 1525.", "Situat în \\\"Valea Hamacelor\\\".", "Cel mai mare oraș al țării.", "Sediul guvernului."],
       en: ["Founded in 1525.", "Located in the 'Valley of the Hammocks.'", "Largest city in El Salvador.", "Seat of the national government."]
     },
     factsAdvanced: {
@@ -61,8 +61,8 @@ export const elsalvadorCities: POI[] = [
     },
     factsAdvanced: {
       de: ["Das Nationaltheater von Santa Ana gilt als eines der schönsten Gebäude Mittelamerikas.", "Die Stadt dient als Tor zum Vulkan Santa Ana und zum Coatepeque-See.", "Santa Ana war einst als 'Stadt der heroischen Stadt' bekannt."],
-      hu: ["A Santa Ana-i Nemzeti Színházat Közép-Amerika egyik legszebb épületének tartják.", "A város kapuként szolgál a Santa Ana-vulkánhoz és a Coatepeque-tóhoz.", "Santa Anát egykor a „Hősies Város” néven ismerték."],
-      ro: ["Teatrul Național din Santa Ana este considerat una dintre cele mai frumoase clădiri din America Centrală.", "Orașul servește ca poartă către vulcanul Santa Ana și lacul Coatepeque.", "Santa Ana a fost cunoscut odată ca „Orașul Eroic”."],
+      hu: ["A Santa Ana-i Nemzeti Színházat Közép-Amerika egyik legszebb épületének tartják.", "A város kapuként szolgál a Santa Ana-vulkánhoz és a Coatepeque-tóhoz.", "Santa Anát egykor a \\\"Hősies Város\\\" néven ismerték."],
+      ro: ["Teatrul Național din Santa Ana este considerat una dintre cele mai frumoase clădiri din America Centrală.", "Orașul servește ca poartă către vulcanul Santa Ana și lacul Coatepeque.", "Santa Ana a fost cunoscut odată ca \\\"Orașul Eroic\\\"."],
       en: ["The National Theater of Santa Ana is widely considered one of the finest in Central America.", "The city is the main gateway to the Santa Ana Volcano and Lake Coatepeque.", "It was historically a major center for intellectual and artistic life in the country."]
     },
     historyYear: 1569,
@@ -77,7 +77,7 @@ export const elsalvadorCities: POI[] = [
     descriptionAdvanced: {
       de: "San Miguel ist das wirtschaftliche Zentrum des östlichen El Salvador und liegt am Fuße des imposanten Vulkans Chaparrastique. Die Stadt ist landesweit bekannt für den 'Carnaval de San Miguel', eines der größten und lebhaftesten Volksfeste in ganz Mittelamerika.",
       hu: "San Miguel Kelet-El Salvador gazdasági központja, amely az impozáns Chaparrastique-vulkán lábánál fekszik. A város országosan híres a 'Carnaval de San Miguel' ünnepségről, amely Közép-Amerika egyik legnagyobb és legélénkebb népi fesztiválja.",
-      ro: "San Miguel este centrul economic al zonei de est a El Salvador și este situat la poalele impunătorului vulcan Chaparrastique. Orașul este cunoscut la nivel național pentru „Carnavalul din San Miguel”, unul dintre cele mai mari și mai vibrante festivaluri populare.",
+      ro: "San Miguel este centrul economic al zonei de est a El Salvador și este situat la poalele impunătorului vulcan Chaparrastique. Orașul este cunoscut la nivel național pentru \\\"Carnavalul din San Miguel\\\", unul dintre cele mai mari și mai vibrante festivaluri populare.",
       en: "San Miguel is the primary economic hub of eastern El Salvador, located at the base of the towering Chaparrastique Volcano. The city is famous for the 'Carnaval de San Miguel,' one of the largest and most energetic festivals in all of Central America."
     },
     facts: {
@@ -131,19 +131,19 @@ export const elsalvadorCities: POI[] = [
     descriptionAdvanced: {
       de: "La Libertad ist der bedeutendste Badeort an der pazifischen Zentralküste El Salvadors. Die Stadt ist berühmt für ihren lebhaften Fischmarkt auf dem langen Pier und für 'Punta Roca', einen der besten Surfspots der Welt mit perfekten Rechtswellen.",
       hu: "La Libertad El Salvador csendes-óceáni partvidékének legjelentősebb üdülőhelye. A város híres a hosszú mólón található élénk halpiacáról és a 'Punta Roca' nevű helyről, amely a világ egyik legjobb szörfparadicsoma tökéletes hullámokkal.",
-      ro: "La Libertad este cea mai importantă stațiune balneară de pe coasta centrală a Pacificului din El Salvador. Orașul este faimos pentru piața sa de pește animată de pe digul lung și pentru „Punta Roca”, un loc de surf de clasă mondială.",
+      ro: "La Libertad este cea mai importantă stațiune balneară de pe coasta centrală a Pacificului din El Salvador. Orașul este faimos pentru piața sa de pește animată de pe digul lung și pentru \\\"Punta Roca\\\", un loc de surf de clasă mondială.",
       en: "La Libertad is the most prominent coastal town on El Salvador's central Pacific shore. It is celebrated for its bustling fish market on the long pier and 'Punta Roca,' a world-class surfing break known for its long, powerful right-hand waves."
     },
     facts: {
       de: ["Wichtigster Surfort des Landes.", "Bekannt für den 'Puerto de La Libertad'.", "Berühmter Fischmarkt auf dem Pier.", "Nahe bei San Salvador gelegen."],
       hu: ["Az ország legfontosabb szörfös helye.", "A 'Puerto de La Libertad' néven ismert.", "Híres halpiac a mólón.", "San Salvador közelében fekszik."],
-      ro: ["Cel mai important loc de surf din țară.", "Cunoscut sub numele de „Puerto de La Libertad”.", "Piață de pește celebră pe dig.", "Situat aproape de San Salvador."],
+      ro: ["Cel mai important loc de surf din țară.", "Cunoscut sub numele de \\\"Puerto de La Libertad\\\".", "Piață de pește celebră pe dig.", "Situat aproape de San Salvador."],
       en: ["Premier surfing destination in El Salvador.", "Home to the historic Puerto de La Libertad pier.", "Famous for its fresh seafood market.", "Located just 30 minutes from the capital."]
     },
     factsAdvanced: {
       de: ["Der Pier von La Libertad wurde ursprünglich im 19. Jahrhundert für den Export erbaut.", "Das Surfen hat die lokale Wirtschaft in den letzten Jahrzehnten transformiert.", "Die Zone 'Sunset Park' bietet moderne Freizeitmöglichkeiten direkt am Meer."],
       hu: ["A la libertadi mólót eredetileg a 19. században építették export célokra.", "A szörfözés az elmúlt évtizedekben teljesen átalakította a helyi gazdaságot.", "A 'Sunset Park' zóna modern szabadidős lehetőségeket kínál közvetlenül a tengerparton."],
-      ro: ["Digul din La Libertad a fost construit inițial în secolul al XIX-lea pentru export.", "Surfing-ul a transformat economia locală în ultimele decenii.", "Zona „Sunset Park” oferă facilități moderne de recreere pe malul mării."],
+      ro: ["Digul din La Libertad a fost construit inițial în secolul al XIX-lea pentru export.", "Surfing-ul a transformat economia locală în ultimele decenii.", "Zona \\\"Sunset Park\\\" oferă facilități moderne de recreere pe malul mării."],
       en: ["The iconic iron pier was first constructed in 1869 for shipping goods.", "The town is the starting point of 'Surf City,' a major national tourism initiative.", "Punta Roca has hosted numerous international surfing competitions."]
     },
     historyYear: 1869, image: "/poi-images/sv-lalibertad.webp"},
@@ -221,7 +221,7 @@ export const elsalvadorCities: POI[] = [
     factsAdvanced: {
       de: ["Die Eruption von 535 n. Chr. gilt als eine der stärksten der letzten Jahrtausende.", "Im See befinden sich kleine vulkanische Inseln wie die 'Cerros Quemados'.", "Das klare, oft warme Wasser zieht viele Taucher an."],
       hu: ["Az i.sz. 535-ös kitörést az elmúlt évezredek egyik legerősebbjének tartják.", "A tóban kis vulkáni szigetek találhatók, mint például a 'Cerros Quemados'.", "A tiszta, gyakran meleg víz sok búvárt vonz."],
-      ro: ["Erupția din 535 d.Hr. este considerată una dintre cele mai puternice din ultimele milenii.", "În lac se află mici insule vulcanice, cum ar fi „Cerros Quemados”.", "Apa limpede și adesea caldă atrage mulți scafandri."],
+      ro: ["Erupția din 535 d.Hr. este considerată una dintre cele mai puternice din ultimele milenii.", "În lac se află mici insule vulcanice, cum ar fi \\\"Cerros Quemados\\\".", "Apa limpede și adesea caldă atrage mulți scafandri."],
       en: ["The volcanic eruption that formed the caldera is linked to a global cooling event in 535 AD.", "Small volcanic domes known as 'Cerros Quemados' emerged in the lake in 1880.", "The lake reaches depths of over 230 meters in some areas."]
     },
     area: 72, image: "/poi-images/sv-ilopango.webp"},
@@ -235,7 +235,7 @@ export const elsalvadorCities: POI[] = [
     descriptionAdvanced: {
       de: "Der Nationalpark Montecristo, auch bekannt als 'El Trifinio', liegt am Zusammentreffen der Grenzen von El Salvador, Guatemala und Honduras. Dieser mystische Nebelwald beherbergt eine unglaubliche Vielfalt an Farnen, Orchideen und Moosen und ist ein Rückzugsort für seltene Tierarten wie den Quetzal.",
       hu: "A Montecristo Nemzeti Park, más néven 'El Trifinio', El Salvador, Guatemala és Honduras hármas határánál fekszik. Ez a misztikus felhőerdő páfrányok, orchideák és mohák hihetetlen változatosságának ad otthont, és olyan ritka állatfajok menedéke, mint a kvézál.",
-      ro: "Parcul Național Montecristo, cunoscut și sub numele de „El Trifinio”, se află la punctul de întâlnire al granițelor El Salvador, Guatemala și Honduras. Această pădure de ceață mistică găzduiește o varietate incredibilă de plante.",
+      ro: "Parcul Național Montecristo, cunoscut și sub numele de \\\"El Trifinio\\\", se află la punctul de întâlnire al granițelor El Salvador, Guatemala și Honduras. Această pădure de ceață mistică găzduiește o varietate incredibilă de plante.",
       en: "Montecristo National Park, also known as 'El Trifinio,' is located at the unique tri-point where El Salvador, Guatemala, and Honduras meet. This mystical cloud forest is a sanctuary for ancient ferns, orchids, and rare wildlife like the Resplendent Quetzal."
     },
     facts: {
@@ -294,7 +294,7 @@ export const elsalvadorCities: POI[] = [
     facts: {
       de: ["Fläche: ca. 3 km².", "Name bedeutet 'Ort der Frau'.", "Zwei große Ballspielplätze.", "Postklassische Periode."],
       hu: ["Területe: kb. 3 km².", "Jelentése: 'az asszony helye'.", "Két nagy labdajáték-pálya.", "Posztklasszikus korszak."],
-      ro: ["Suprafață: aprox. 3 km².", "Numele înseamnă „locul femeii”.", "Două terenuri mari de joc cu mingea.", "Perioada postclasică."],
+      ro: ["Suprafață: aprox. 3 km².", "Numele înseamnă \\\"locul femeii\\\".", "Două terenuri mari de joc cu mingea.", "Perioada postclasică."],
       en: ["Covers over 3 square kilometers.", "Name means 'Place of the Woman' in Nahuat.", "Features two massive ritual ball courts.", "Occupied during the Early Postclassic period."]
     },
     factsAdvanced: {
@@ -379,7 +379,7 @@ export const elsalvadorLandmarks: POI[] = [
     facts: {
       de: ["Größte Pyramide El Salvadors.", "Teil des Chalchuapa-Areals.", "Blütezeit: 100 bis 1200 n. Chr.", "Name bedeutet 'Ort der verbrannten Opfer'."],
       hu: ["El Salvador legnagyobb piramisa.", "A chalchuapai terület része.", "Fénykora: i.sz. 100-1200 között.", "Jelentése: 'ahol az áldozatokat elégetik'."],
-      ro: ["Cea mai mare piramidă din El Salvador.", "Parte a zonei Chalchuapa.", "Perioada de glorie: 100-1200 d.Hr.", "Numele înseamnă „locul unde se ard victimele”."],
+      ro: ["Cea mai mare piramidă din El Salvador.", "Parte a zonei Chalchuapa.", "Perioada de glorie: 100-1200 d.Hr.", "Numele înseamnă \\\"locul unde se ard victimele\\\"."],
       en: ["Tallest pyramid in El Salvador.", "Located within the Chalchuapa archaeological zone.", "Continuously inhabited for over 1,000 years.", "Name means 'The place where victims are burned.'"]
     },
     factsAdvanced: {
@@ -412,7 +412,7 @@ export const elsalvadorLandmarks: POI[] = [
     factsAdvanced: {
       de: ["Gelegentlich ändert der See seine Farbe aufgrund von Algenphänomenen zu Türkis.", "Im See gibt es eine Insel namens 'Isla Teopán', ein ehemaliges Maya-Heiligtum.", "Die Caldera entstand durch Einstürze vor Zehntausenden von Jahren."],
       hu: ["Alkalmanként a tó színe algásodás miatt türkizkékre változik.", "A tóban található egy 'Isla Teopán' nevű sziget, amely egykori maja szentély volt.", "A kaldera több tízezer évvel ezelőtti beomlások során jött létre."],
-      ro: ["Ocazional, lacul își schimbă culoarea în turcoaz din cauza algelor.", "În lac există o insulă numită „Isla Teopán”, un fost sanctuar mayaș.", "Caldera s-a format prin prăbușiri în urmă cu zeci de mii de ani."],
+      ro: ["Ocazional, lacul își schimbă culoarea în turcoaz din cauza algelor.", "În lac există o insulă numită \\\"Isla Teopán\\\", un fost sanctuar mayaș.", "Caldera s-a format prin prăbușiri în urmă cu zeci de mii de ani."],
       en: ["The lake's water occasionally turns a vibrant turquoise due to seasonal algae blooms.", "Isla Teopán, located in the lake, was a sacred site for the ancient Pipil and Maya.", "The lake is surrounded by steep caldera walls rising up to 250 meters above the water."]
     },
     area: 26, image: "/poi-images/sv-coatepeque.webp"},
@@ -452,13 +452,13 @@ export const elsalvadorLandmarks: POI[] = [
     descriptionAdvanced: {
       de: "Der Izalco Vulkan ist einer der jüngsten Vulkane Amerikas und entstand 1770 auf der Flanke des Santa Ana Vulkans. Über 150 Jahre lang war er fast ständig aktiv, und seine glühende Lava war so weit auf dem Meer sichtbar, dass er als 'Leuchtturm des Pazifiks' bekannt wurde.",
       hu: "Az Izalco-vulkán Amerika egyik legfiatalabb vulkánja, amely 1770-ben keletkezett a Santa Ana-vulkán oldalán. Több mint 150 éven keresztül szinte folyamatosan aktív volt, izzó lávája pedig olyan messzire ellátszott a tengeren, hogy a 'Csendes-óceán világítótornyaként' vált ismertté.",
-      ro: "Vulcanul Izalco este unul dintre cei mai tineri vulcani din America, format în 1770. Timp de peste 150 de ani a fost aproape constant activ, fiind supranumit „Farul Pacificului”.",
+      ro: "Vulcanul Izalco este unul dintre cei mai tineri vulcani din America, format în 1770. Timp de peste 150 de ani a fost aproape constant activ, fiind supranumit \\\"Farul Pacificului\\\".",
       en: "Izalco Volcano is one of the youngest volcanoes in the Americas, born in 1770 on the flank of Santa Ana. For nearly two centuries, its near-constant eruptions were visible from the ocean, earning it the nickname 'Lighthouse of the Pacific.'"
     },
     facts: {
       de: ["Beiname: 'Leuchtturm des Pazifiks'.", "Einer der jüngsten Vulkane weltweit.", "Sehr markante Kegelform.", "Letzter Ausbruch 1966."],
       hu: ["Beceneve: 'A Csendes-óceán világítótornya'.", "A világ egyik legfiatalabb vulkánja.", "Jellegzetes kúp alak.", "Utolsó kitörése 1966-ban volt."],
-      ro: ["Poreclă: „Farul Pacificului”.", "Unul dintre cei mai tineri vulcani din lume.", "Formă conică foarte pronunțată.", "Ultima erupție în 1966."],
+      ro: ["Poreclă: \\\"Farul Pacificului\\\".", "Unul dintre cei mai tineri vulcani din lume.", "Formă conică foarte pronunțată.", "Ultima erupție în 1966."],
       en: ["Nickname: 'Lighthouse of the Pacific.'", "One of the youngest volcanoes in the world.", "Perfect symmetrical cone shape.", "Dormant since its last eruption in 1966."]
     },
     factsAdvanced: {
@@ -484,13 +484,13 @@ export const elsalvadorLandmarks: POI[] = [
     facts: {
       de: ["Krater des Vulkans San Salvador.", "Kraterdurchmesser: 1,5 km.", "Enthält den 'Boqueroncito'.", "Direkt bei der Hauptstadt."],
       hu: ["A San Salvador-vulkán krátere.", "Kráter átmérője: 1,5 km.", "Itt látható a 'Boqueroncito'.", "Közvetlenül a főváros mellett."],
-      ro: ["Craterul vulcanului San Salvador.", "Diametrul craterului: 1,5 km.", "Conține „Boqueroncito”.", "Chiar lângă capitală."],
+      ro: ["Craterul vulcanului San Salvador.", "Diametrul craterului: 1,5 km.", "Conține \\\"Boqueroncito\\\".", "Chiar lângă capitală."],
       en: ["The main crater of San Salvador Volcano.", "Crater diameter: 1.5 kilometers.", "Features a mini-crater called 'Boqueroncito.'", "Most accessible volcano park from the city."]
     },
     factsAdvanced: {
       de: ["Der Name El Boquerón bedeutet 'Der große Mund'.", "Früher gab es im Krater einen See, der bei der Eruption 1917 verdampfte.", "Der Park bietet Aussichtspunkte mit Blick über ganz San Salvador."],
-      hu: ["Az El Boquerón név jelentése: „A nagy száj”.", "Korábban a kráterben egy tó volt, amely az 1917-es kitöréskor elpárolgott.", "A park kilátóiból rálátni egész San Salvadorra."],
-      ro: ["Numele El Boquerón înseamnă „Gura mare”.", "Anterior exista un lac în crater, care s-a evaporat la erupția din 1917.", "Parcul oferă puncte de observație cu vedere peste tot orașul."],
+      hu: ["Az El Boquerón név jelentése: \\\"A nagy száj\\\".", "Korábban a kráterben egy tó volt, amely az 1917-es kitöréskor elpárolgott.", "A park kilátóiból rálátni egész San Salvadorra."],
+      ro: ["Numele El Boquerón înseamnă \\\"Gura mare\\\".", "Anterior exista un lac în crater, care s-a evaporat la erupția din 1917.", "Parcul oferă puncte de observație cu vedere peste tot orașul."],
       en: ["The 1917 eruption caused the crater's lake to evaporate and formed the Boqueroncito.", "The high altitude provides a cool, pine-scented environment.", "On clear days, you can see as far as the Pacific Ocean and Lake Ilopango."]
     },
     area: 6, image: "/poi-images/sv-boqueron.webp"},
@@ -542,7 +542,7 @@ export const elsalvadorLandmarks: POI[] = [
     factsAdvanced: {
       de: ["Der Name El Tunco kommt von der Felsformation, die wie ein Schwein (Tunco) aussieht.", "Der Ort ist ein wichtiger Bestandteil des 'Surf City'-Projekts.", "Hier finden regelmäßig internationale Surf-Wettbewerbe statt."],
       hu: ["Az El Tunco név a sziklaalakzatról kapta a nevét, amely egy disznóra (Tunco) hasonlít.", "A település a 'Surf City' projekt egyik kulcsfontosságú helyszíne.", "Rendszeresen tartanak itt nemzetközi szörfversenyeket."],
-      ro: ["Numele El Tunco provine de la formațiunea stâncoasă care seamănă cu un porc (Tunco).", "Localitatea este o parte importantă a proiectului „Surf City”.", "Aici au loc regulat competiții internaționale de surf."],
+      ro: ["Numele El Tunco provine de la formațiunea stâncoasă care seamănă cu un porc (Tunco).", "Localitatea este o parte importantă a proiectului \\\"Surf City\\\".", "Aici au loc regulat competiții internaționale de surf."],
       en: ["The name 'Tunco' is local slang for a pig, describing the shape of the offshore rock.", "The village is the spiritual center of El Salvador's 'Surf City' tourism brand.", "It features some of the best right-hand point breaks in the region."]
     }
   },

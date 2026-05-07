@@ -444,8 +444,8 @@ export const poiExtraPanamaHistoryV3: POI[] = [
     name: { de: "Santo-Tomás-Krankenhaus", hu: "Santo Tomás Kórház", ro: "Spitalul Santo Tomás", en: "Santo Tomás Hospital" },
     description: {
       de: "Das Santo-Tomás-Krankenhaus ist ein prächtiges Gebäude, das oft als 'Der weiße Elefant' bezeichnet wird. Es ist das wichtigste öffentliche Krankenhaus des Landes.",
-      hu: "A Santo Tomás Kórház egy pompás épület, amelyet gyakran „Fehér Elefántnak” neveznek. Ez az ország legfontosabb állami kórháza.",
-      ro: "Spitalul Santo Tomás este o clădire splendidă, supranumită adesea „Elefantul Alb”. Este cel mai important spital public din țară.",
+      hu: "A Santo Tomás Kórház egy pompás épület, amelyet gyakran \"Fehér Elefántnak\" neveznek. Ez az ország legfontosabb állami kórháza.",
+      ro: "Spitalul Santo Tomás este o clădire splendidă, supranumită adesea \"Elefantul Alb\". Este cel mai important spital public din țară.",
       en: "Santo Tomás Hospital is a magnificent building often referred to as 'The White Elephant.' It is the country's most important public hospital."
     },
     facts: {
@@ -469,7 +469,7 @@ export const poiExtraPanamaHistoryV3: POI[] = [
     facts: {
       de: ["Ort des 'Grito de La Villa'.", "Erbaut im 18. Jahrhundert.", "Nationales historisches Denkmal.", "Wichtig für die Unabhängigkeit."],
       hu: ["A 'Grito de La Villa' helyszíne.", "A 18. században épült.", "Nemzeti történelmi műemlék.", "Fontos a függetlenség szempontjából."],
-      ro: ["Locul „Grito de La Villa”.", "Construită în secolul al XVIII-lea.", "Monument istoric național.", "Importantă pentru independență."],
+      ro: ["Locul \"Grito de La Villa\".", "Construită în secolul al XVIII-lea.", "Monument istoric național.", "Importantă pentru independență."],
       en: ["Site of the 'Grito de La Villa'.", "Built in the 18th century.", "National historic monument.", "Crucial for independence."]
     }, image: "/poi-images/panama-iglesia-san-atanasio-history-v2.webp"},
   {

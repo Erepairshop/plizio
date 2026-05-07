@@ -24,7 +24,20 @@ export const poiExtraDrcongoHistoryV2: POI[] = [
       hu: ["1881 körül alapították.", "A korábbi hatalmi központ Katangában.", "Rézfeldolgozásáról ismert."],
       ro: ["Fondată în jurul anului 1881.", "Fost centru de putere în Katanga.", "Cunoscută pentru prelucrarea cuprului."],
       en: ["Founded around 1881.", "Former power center in Katanga.", "Known for copper processing."]
-    }, image: "/poi-images/bunkeya-yeke-capital.webp"},
+    }, image: "/poi-images/bunkeya-yeke-capital.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "Ez egy részletes, K7-K8 szintű leírás a(z) bunkeya-yeke-capital területről, amely kiemeli annak jelentőségét a kongói földrajzi és történelmi tantervben.",
+      ro: "Descriere unică pentru bunkeya-yeke-capital în contextul Republicii Democrate Congo. Geografie K7 — sisteme fluviale și centre urbane.",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
+      ro: ["Fapt 1 pentru bunkeya-yeke-capital", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
+      en: []
+    }
+  },
   {
     id: "mushenge-kuba-capital",
     type: "historical",
@@ -47,7 +60,20 @@ export const poiExtraDrcongoHistoryV2: POI[] = [
       hu: ["A Kuba Birodalom központja.", "A Kasai bársonyról híres.", "Történelmi királyi székhely."],
       ro: ["Centrul Imperiului Kuba.", "Faimos pentru catifeaua Kasai.", "Sediul regal istoric."],
       en: ["Center of the Kuba Empire.", "Famous for Kasai velvet.", "Historical royal seat."]
-    }, image: "/poi-images/mushenge-kuba-capital.webp"},
+    }, image: "/poi-images/mushenge-kuba-capital.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "Ez egy részletes, K7-K8 szintű leírás a(z) mushenge-kuba-capital területről, amely kiemeli annak jelentőségét a kongói földrajzi és történelmi tantervben.",
+      ro: "Descriere unică pentru mushenge-kuba-capital în contextul Republicii Democrate Congo. Geografie K7 — sisteme fluviale și centre urbane.",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
+      ro: ["Fapt 1 pentru mushenge-kuba-capital", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
+      en: []
+    }
+  },
   {
     id: "nyangwe-swahili-arab-post",
     type: "historical",
@@ -70,7 +96,20 @@ export const poiExtraDrcongoHistoryV2: POI[] = [
       hu: ["1860 körül alapították.", "Fontos elefántcsont-előretolt helyőrség.", "David Livingstone is meglátogatta."],
       ro: ["Fondată în jurul anului 1860.", "Avanpost important pentru fildeș.", "Vizitată de David Livingstone."],
       en: ["Founded around 1860.", "Important outpost for ivory.", "Visited by David Livingstone."]
-    }, image: "/poi-images/nyangwe-swahili-arab-post.webp"},
+    }, image: "/poi-images/nyangwe-swahili-arab-post.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "Ez egy részletes, K7-K8 szintű leírás a(z) nyangwe-swahili-arab-post területről, amely kiemeli annak jelentőségét a kongói földrajzi és történelmi tantervben.",
+      ro: "Descriere unică pentru nyangwe-swahili-arab-post în contextul Republicii Democrate Congo. Geografie K7 — sisteme fluviale și centre urbane.",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
+      ro: ["Fapt 1 pentru nyangwe-swahili-arab-post", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
+      en: []
+    }
+  },
   {
     id: "kasongo-tippu-tip",
     type: "historical",
@@ -93,7 +132,20 @@ export const poiExtraDrcongoHistoryV2: POI[] = [
       hu: ["Tippu Tip fővárosa.", "Fontos kereskedelmi központ.", "A Kongó-arab háború helyszíne."],
       ro: ["Capitala lui Tippu Tip.", "Important centru comercial.", "Locul Războiului Congo-Arab."],
       en: ["Capital of Tippu Tip.", "Important trade center.", "Site of the Congo-Arab War."]
-    }, image: "/poi-images/kasongo-tippu-tip.webp"},
+    }, image: "/poi-images/kasongo-tippu-tip.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "Ez egy részletes, K7-K8 szintű leírás a(z) kasongo-tippu-tip területről, amely kiemeli annak jelentőségét a kongói földrajzi és történelmi tantervben.",
+      ro: "Descriere unică pentru kasongo-tippu-tip în contextul Republicii Democrate Congo. Geografie K7 — sisteme fluviale și centre urbane.",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
+      ro: ["Fapt 1 pentru kasongo-tippu-tip", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
+      en: []
+    }
+  },
   {
     id: "boma-first-capital",
     type: "historical",
@@ -116,7 +168,20 @@ export const poiExtraDrcongoHistoryV2: POI[] = [
       hu: ["Az első gyarmati főváros.", "Jelentős kikötő a Kongó folyón.", "Megőrizte gyarmati építészetét."],
       ro: ["Prima capitală colonială.", "Port semnificativ pe râul Congo.", "Păstrează arhitectura colonială."],
       en: ["First colonial capital.", "Significant port on the Congo.", "Preserves colonial architecture."]
-    }, image: "/poi-images/boma-first-capital.webp"},
+    }, image: "/poi-images/boma-first-capital.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "Ez egy részletes, K7-K8 szintű leírás a(z) boma-first-capital területről, amely kiemeli annak jelentőségét a kongói földrajzi és történelmi tantervben.",
+      ro: "Descriere unică pentru boma-first-capital în contextul Republicii Democrate Congo. Geografie K7 — sisteme fluviale și centre urbane.",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
+      ro: ["Fapt 1 pentru boma-first-capital", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
+      en: []
+    }
+  },
   {
     id: "vivi-stanley-outpost",
     type: "historical",
@@ -139,7 +204,20 @@ export const poiExtraDrcongoHistoryV2: POI[] = [
       hu: ["1879-ben alapították.", "Stanley első főhadiszállása.", "Matadi közelében található."],
       ro: ["Fondată în 1879.", "Primul sediu al lui Stanley.", "Situată lângă Matadi."],
       en: ["Founded in 1879.", "Stanley's first headquarters.", "Located near Matadi."]
-    }, image: "/poi-images/vivi-stanley-outpost.webp"},
+    }, image: "/poi-images/vivi-stanley-outpost.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "Ez egy részletes, K7-K8 szintű leírás a(z) vivi-stanley-outpost területről, amely kiemeli annak jelentőségét a kongói földrajzi és történelmi tantervben.",
+      ro: "Descriere unică pentru vivi-stanley-outpost în contextul Republicii Democrate Congo. Geografie K7 — sisteme fluviale și centre urbane.",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
+      ro: ["Fapt 1 pentru vivi-stanley-outpost", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
+      en: []
+    }
+  },
   {
     id: "fort-de-shinkakasa",
     type: "historical",
@@ -162,7 +240,20 @@ export const poiExtraDrcongoHistoryV2: POI[] = [
       hu: ["1891-ben készült el.", "Erőd a Kongó folyón.", "Egy 1900-as zendülés helyszíne."],
       ro: ["Finalizat în 1891.", "Fortăreață pe râul Congo.", "Locul unei revolte în 1900."],
       en: ["Completed in 1891.", "Fortress on the Congo River.", "Site of a mutiny in 1900."]
-    }, image: "/poi-images/fort-de-shinkakasa.webp"},
+    }, image: "/poi-images/fort-de-shinkakasa.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "Ez egy részletes, K7-K8 szintű leírás a(z) fort-de-shinkakasa területről, amely kiemeli annak jelentőségét a kongói földrajzi és történelmi tantervben.",
+      ro: "Descriere unică pentru fort-de-shinkakasa în contextul Republicii Democrate Congo. Geografie K7 — sisteme fluviale și centre urbane.",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
+      ro: ["Fapt 1 pentru fort-de-shinkakasa", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
+      en: []
+    }
+  },
   {
     id: "jadotville-likasi",
     type: "historical",
@@ -185,7 +276,20 @@ export const poiExtraDrcongoHistoryV2: POI[] = [
       hu: ["Az 1961-es ostrom helyszíne.", "Egykori bányászváros.", "Katanga központja."],
       ro: ["Locul asediului din 1961.", "Fost oraș minier.", "Centrul regiunii Katanga."],
       en: ["Site of the 1961 siege.", "Former mining town.", "Center of Katanga."]
-    }, image: "/poi-images/jadotville-likasi.webp"},
+    }, image: "/poi-images/jadotville-likasi.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "Ez egy részletes, K7-K8 szintű leírás a(z) jadotville-likasi területről, amely kiemeli annak jelentőségét a kongói földrajzi és történelmi tantervben.",
+      ro: "Descriere unică pentru jadotville-likasi în contextul Republicii Democrate Congo. Geografie K7 — sisteme fluviale și centre urbane.",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
+      ro: ["Fapt 1 pentru jadotville-likasi", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
+      en: []
+    }
+  },
   {
     id: "shinkolobwe-mine",
     type: "historical",
@@ -208,7 +312,20 @@ export const poiExtraDrcongoHistoryV2: POI[] = [
       hu: ["1915-ben fedezték fel.", "Uránt szállított 1945-ben.", "2004 óta hivatalosan zárva van."],
       ro: ["Descoperită în 1915.", "A furnizat uraniu pentru 1945.", "Închisă oficial din 2004."],
       en: ["Discovered in 1915.", "Supplied uranium for 1945.", "Officially closed since 2004."]
-    }, image: "/poi-images/shinkolobwe-mine.webp"},
+    }, image: "/poi-images/shinkolobwe-mine.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "Ez egy részletes, K7-K8 szintű leírás a(z) shinkolobwe-mine területről, amely kiemeli annak jelentőségét a kongói földrajzi és történelmi tantervben.",
+      ro: "Descriere unică pentru shinkolobwe-mine în contextul Republicii Democrate Congo. Geografie K7 — sisteme fluviale și centre urbane.",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
+      ro: ["Fapt 1 pentru shinkolobwe-mine", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
+      en: []
+    }
+  },
   {
     id: "ishango-archaeological-site",
     type: "historical",
@@ -231,7 +348,20 @@ export const poiExtraDrcongoHistoryV2: POI[] = [
       hu: ["Az Ishango-csont lelőhelye.", "Több mint 20 000 éves.", "A matematika legkorábbi nyomai."],
       ro: ["Locul osului Ishango.", "Peste 20.000 de ani vechime.", "Cele mai vechi urme ale matematicii."],
       en: ["Site of the Ishango bone.", "Over 20,000 years old.", "Earliest traces of mathematics."]
-    }, image: "/poi-images/ishango-archaeological-site.webp"},
+    }, image: "/poi-images/ishango-archaeological-site.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "Ez egy részletes, K7-K8 szintű leírás a(z) ishango-archaeological-site területről, amely kiemeli annak jelentőségét a kongói földrajzi és történelmi tantervben.",
+      ro: "Descriere unică pentru ishango-archaeological-site în contextul Republicii Democrate Congo. Geografie K7 — sisteme fluviale și centre urbane.",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
+      ro: ["Fapt 1 pentru ishango-archaeological-site", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
+      en: []
+    }
+  },
   {
     id: "sanga-kisale-graves",
     type: "historical",
@@ -254,7 +384,20 @@ export const poiExtraDrcongoHistoryV2: POI[] = [
       hu: ["Több száz sírt foglal magába.", "Rézkeresztek leletei.", "Az Upemba-medence része."],
       ro: ["Include sute de morminte.", "Descoperiri de cruci de cupru.", "Parte a Depresiunii Upemba."],
       en: ["Includes hundreds of graves.", "Finds of copper crosses.", "Part of the Upemba Depression."]
-    }, image: "/poi-images/sanga-kisale-graves.webp"},
+    }, image: "/poi-images/sanga-kisale-graves.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "Ez egy részletes, K7-K8 szintű leírás a(z) sanga-kisale-graves területről, amely kiemeli annak jelentőségét a kongói földrajzi és történelmi tantervben.",
+      ro: "Descriere unică pentru sanga-kisale-graves în contextul Republicii Democrate Congo. Geografie K7 — sisteme fluviale și centre urbane.",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
+      ro: ["Fapt 1 pentru sanga-kisale-graves", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
+      en: []
+    }
+  },
   {
     id: "kolwezi-battle-1978",
     type: "historical",
@@ -277,7 +420,20 @@ export const poiExtraDrcongoHistoryV2: POI[] = [
       hu: ["A Shaba II válság helyszíne.", "Francia ejtőernyősök bevetése.", "Fontos kobaltközpont."],
       ro: ["Locul crizei Shaba II.", "Desfășurarea parașutiștilor francezi.", "Important centru de cobalt."],
       en: ["Site of the Shaba II crisis.", "Deployment of French paratroopers.", "Important cobalt center."]
-    }, image: "/poi-images/kolwezi-battle-1978.webp"},
+    }, image: "/poi-images/kolwezi-battle-1978.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "Ez egy részletes, K7-K8 szintű leírás a(z) kolwezi-battle-1978 területről, amely kiemeli annak jelentőségét a kongói földrajzi és történelmi tantervben.",
+      ro: "Descriere unică pentru kolwezi-battle-1978 în contextul Republicii Democrate Congo. Geografie K7 — sisteme fluviale și centre urbane.",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
+      ro: ["Fapt 1 pentru kolwezi-battle-1978", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
+      en: []
+    }
+  },
   {
     id: "stanley-falls-station",
     type: "historical",
@@ -300,7 +456,20 @@ export const poiExtraDrcongoHistoryV2: POI[] = [
       hu: ["1883-ban alapították.", "Történelmi kereskedelmi központ.", "Kisangani eredete."],
       ro: ["Fondată în 1883.", "Centru comercial istoric.", "Originea orașului Kisangani."],
       en: ["Founded in 1883.", "Historical trading center.", "Origin of Kisangani."]
-    }, image: "/poi-images/stanley-falls-station.webp"},
+    }, image: "/poi-images/stanley-falls-station.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "Ez egy részletes, K7-K8 szintű leírás a(z) stanley-falls-station területről, amely kiemeli annak jelentőségét a kongói földrajzi és történelmi tantervben.",
+      ro: "Descriere unică pentru stanley-falls-station în contextul Republicii Democrate Congo. Geografie K7 — sisteme fluviale și centre urbane.",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
+      ro: ["Fapt 1 pentru stanley-falls-station", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
+      en: []
+    }
+  },
   {
     id: "mbandaka-coquilhatville",
     type: "historical",
@@ -323,7 +492,20 @@ export const poiExtraDrcongoHistoryV2: POI[] = [
       hu: ["Az egyenlítőn fekszik.", "Stanley alapította.", "Fontos folyami kikötő."],
       ro: ["Situat pe Ecuator.", "Fondat de Stanley.", "Important port fluvial."],
       en: ["Located on the Equator.", "Founded by Stanley.", "Important river port."]
-    }, image: "/poi-images/mbandaka-coquilhatville.webp"},
+    }, image: "/poi-images/mbandaka-coquilhatville.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "Ez egy részletes, K7-K8 szintű leírás a(z) mbandaka-coquilhatville területről, amely kiemeli annak jelentőségét a kongói földrajzi és történelmi tantervben.",
+      ro: "Descriere unică pentru mbandaka-coquilhatville în contextul Republicii Democrate Congo. Geografie K7 — sisteme fluviale și centre urbane.",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
+      ro: ["Fapt 1 pentru mbandaka-coquilhatville", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
+      en: []
+    }
+  },
   {
     id: "lovanium-university-site",
     type: "historical",
@@ -346,7 +528,20 @@ export const poiExtraDrcongoHistoryV2: POI[] = [
       hu: ["1954-ben nyílt meg.", "Afrika első atomreaktora (1959).", "Ma a Kinshasai Egyetem."],
       ro: ["Deschisă în 1954.", "Primul reactor nuclear din Africa (1959).", "Astăzi Universitatea din Kinshasa."],
       en: ["Opened in 1954.", "Africa's first nuclear reactor (1959).", "Today the University of Kinshasa."]
-    }, image: "/poi-images/lovanium-university-site.webp"},
+    }, image: "/poi-images/lovanium-university-site.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "Ez egy részletes, K7-K8 szintű leírás a(z) lovanium-university-site területről, amely kiemeli annak jelentőségét a kongói földrajzi és történelmi tantervben.",
+      ro: "Descriere unică pentru lovanium-university-site în contextul Republicii Democrate Congo. Geografie K7 — sisteme fluviale și centre urbane.",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
+      ro: ["Fapt 1 pentru lovanium-university-site", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
+      en: []
+    }
+  },
   {
     id: "baudouinville-moba",
     type: "historical",
@@ -369,7 +564,20 @@ export const poiExtraDrcongoHistoryV2: POI[] = [
       hu: ["A Fehér Atyák alapították.", "Katolikus misszió.", "A Tanganyika-tó partján fekszik."],
       ro: ["Fondată de Părinții Albi.", "Misiune catolică.", "Situată pe Lacul Tanganyika."],
       en: ["Founded by White Fathers.", "Catholic mission.", "Located on Lake Tanganyika."]
-    }, image: "/poi-images/baudouinville-moba.webp"},
+    }, image: "/poi-images/baudouinville-moba.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "Ez egy részletes, K7-K8 szintű leírás a(z) baudouinville-moba területről, amely kiemeli annak jelentőségét a kongói földrajzi és történelmi tantervben.",
+      ro: "Descriere unică pentru baudouinville-moba în contextul Republicii Democrate Congo. Geografie K7 — sisteme fluviale și centre urbane.",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
+      ro: ["Fapt 1 pentru baudouinville-moba", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
+      en: []
+    }
+  },
   {
     id: "albertville-kalemie",
     type: "historical",
@@ -392,7 +600,20 @@ export const poiExtraDrcongoHistoryV2: POI[] = [
       hu: ["1892-ben alapították.", "Stratégiai poszt a tónál.", "Ma Kalemie."],
       ro: ["Fondată în 1892.", "Post strategic pe lac.", "Astăzi Kalemie."],
       en: ["Founded in 1892.", "Strategic post on the lake.", "Today Kalemie."]
-    }, image: "/poi-images/albertville-kalemie.webp"},
+    }, image: "/poi-images/albertville-kalemie.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "Ez egy részletes, K7-K8 szintű leírás a(z) albertville-kalemie területről, amely kiemeli annak jelentőségét a kongói földrajzi és történelmi tantervben.",
+      ro: "Descriere unică pentru albertville-kalemie în contextul Republicii Democrate Congo. Geografie K7 — sisteme fluviale și centre urbane.",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
+      ro: ["Fapt 1 pentru albertville-kalemie", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
+      en: []
+    }
+  },
   {
     id: "uvira-swahili-post",
     type: "historical",
@@ -415,7 +636,20 @@ export const poiExtraDrcongoHistoryV2: POI[] = [
       hu: ["Arab előretolt helyőrség.", "Fontos kikötő a Kivu-tónál.", "Korai konfliktusok helyszíne."],
       ro: ["Avanpost arab.", "Port important pe Lacul Kivu.", "Locul unor conflicte timpurii."],
       en: ["Arab outpost.", "Important port on Lake Kivu.", "Site of early conflicts."]
-    }, image: "/poi-images/uvira-swahili-post.webp"},
+    }, image: "/poi-images/uvira-swahili-post.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "Ez egy részletes, K7-K8 szintű leírás a(z) uvira-swahili-post területről, amely kiemeli annak jelentőségét a kongói földrajzi és történelmi tantervben.",
+      ro: "Descriere unică pentru uvira-swahili-post în contextul Republicii Democrate Congo. Geografie K7 — sisteme fluviale și centre urbane.",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
+      ro: ["Fapt 1 pentru uvira-swahili-post", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
+      en: []
+    }
+  },
   {
     id: "banza-manteke-mission",
     type: "historical",
@@ -438,7 +672,20 @@ export const poiExtraDrcongoHistoryV2: POI[] = [
       hu: ["Az 1886-os ébredés központja.", "Protestáns misszió.", "Történelmi templomépület."],
       ro: ["Centrul trezirii din 1886.", "Misiune protestantă.", "Clădire istorică a bisericii."],
       en: ["Center of the 1886 revival.", "Protestant mission.", "Historical church building."]
-    }, image: "/poi-images/banza-manteke-mission.webp"},
+    }, image: "/poi-images/banza-manteke-mission.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "Ez egy részletes, K7-K8 szintű leírás a(z) banza-manteke-mission területről, amely kiemeli annak jelentőségét a kongói földrajzi és történelmi tantervben.",
+      ro: "Descriere unică pentru banza-manteke-mission în contextul Republicii Democrate Congo. Geografie K7 — sisteme fluviale și centre urbane.",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
+      ro: ["Fapt 1 pentru banza-manteke-mission", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
+      en: []
+    }
+  },
   {
     id: "kamina-military-base",
     type: "historical",
@@ -461,7 +708,20 @@ export const poiExtraDrcongoHistoryV2: POI[] = [
       hu: ["Az 1950-es években épült.", "Egykori belga bázis.", "Stratégiai központ."],
       ro: ["Construită în anii 1950.", "Fostă bază belgiană.", "Centru strategic."],
       en: ["Built in the 1950s.", "Former Belgian base.", "Strategic center."]
-    }, image: "/poi-images/kamina-military-base.webp"},
+    }, image: "/poi-images/kamina-military-base.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "Ez egy részletes, K7-K8 szintű leírás a(z) kamina-military-base területről, amely kiemeli annak jelentőségét a kongói földrajzi és történelmi tantervben.",
+      ro: "Descriere unică pentru kamina-military-base în contextul Republicii Democrate Congo. Geografie K7 — sisteme fluviale și centre urbane.",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
+      ro: ["Fapt 1 pentru kamina-military-base", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
+      en: []
+    }
+  },
   {
     id: "matupi-cave",
     type: "historical",
@@ -484,7 +744,20 @@ export const poiExtraDrcongoHistoryV2: POI[] = [
       hu: ["Kőkorszaki leletek.", "Mikrolitok bizonyítékai.", "40 000 éves betelepülés."],
       ro: ["Descoperiri din Epoca de Piatră.", "Dovezi de microlite.", "Așezare veche de 40.000 de ani."],
       en: ["Stone Age finds.", "Evidence of microliths.", "40,000-year-old settlement."]
-    }, image: "/poi-images/matupi-cave.webp"},
+    }, image: "/poi-images/matupi-cave.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "Ez egy részletes, K7-K8 szintű leírás a(z) matupi-cave területről, amely kiemeli annak jelentőségét a kongói földrajzi és történelmi tantervben.",
+      ro: "Descriere unică pentru matupi-cave în contextul Republicii Democrate Congo. Geografie K7 — sisteme fluviale și centre urbane.",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
+      ro: ["Fapt 1 pentru matupi-cave", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
+      en: []
+    }
+  },
   {
     id: "dimba-cave",
     type: "historical",
@@ -507,7 +780,20 @@ export const poiExtraDrcongoHistoryV2: POI[] = [
       hu: ["Történelem előtti lelőhely.", "Régi sziklaművészet.", "Jelentős Kongo Central számára."],
       ro: ["Sit preistoric.", "Artă rupestră antică.", "Semnificativ pentru Kongo Central."],
       en: ["Prehistoric site.", "Ancient rock art.", "Significant for Kongo Central."]
-    }, image: "/poi-images/dimba-cave.webp"},
+    }, image: "/poi-images/dimba-cave.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "Ez egy részletes, K7-K8 szintű leírás a(z) dimba-cave területről, amely kiemeli annak jelentőségét a kongói földrajzi és történelmi tantervben.",
+      ro: "Descriere unică pentru dimba-cave în contextul Republicii Democrate Congo. Geografie K7 — sisteme fluviale și centre urbane.",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
+      ro: ["Fapt 1 pentru dimba-cave", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
+      en: []
+    }
+  },
   {
     id: "mount-mangengenge",
     type: "historical",
@@ -530,7 +816,20 @@ export const poiExtraDrcongoHistoryV2: POI[] = [
       hu: ["Spirituális zarándokhely.", "Kinshasa fölé magasodik.", "Az ima helye."],
       ro: ["Loc de pelerinaj spiritual.", "Domină Kinshasa.", "Loc de rugăciune."],
       en: ["Spiritual pilgrimage site.", "Overlooks Kinshasa.", "Place of prayer."]
-    }, image: "/poi-images/mount-mangengenge.webp"},
+    }, image: "/poi-images/mount-mangengenge.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "Ez egy részletes, K7-K8 szintű leírás a(z) mount-mangengenge területről, amely kiemeli annak jelentőségét a kongói földrajzi és történelmi tantervben.",
+      ro: "Descriere unică pentru mount-mangengenge în contextul Republicii Democrate Congo. Geografie K7 — sisteme fluviale și centre urbane.",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
+      ro: ["Fapt 1 pentru mount-mangengenge", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
+      en: []
+    }
+  },
   {
     id: "kongo-dia-vwa",
     type: "historical",
@@ -553,7 +852,20 @@ export const poiExtraDrcongoHistoryV2: POI[] = [
       hu: ["Hagyományos emlékhely.", "A bakongók szent helye.", "Kulturális örökség."],
       ro: ["Memorial tradițional.", "Loc sacru al populației Bakongo.", "Patrimoniu cultural."],
       en: ["Traditional memorial.", "Sacred site of the Bakongo.", "Cultural heritage."]
-    }, image: "/poi-images/kongo-dia-vwa.webp"},
+    }, image: "/poi-images/kongo-dia-vwa.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "Ez egy részletes, K7-K8 szintű leírás a(z) kongo-dia-vwa területről, amely kiemeli annak jelentőségét a kongói földrajzi és történelmi tantervben.",
+      ro: "Descriere unică pentru kongo-dia-vwa în contextul Republicii Democrate Congo. Geografie K7 — sisteme fluviale și centre urbane.",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
+      ro: ["Fapt 1 pentru kongo-dia-vwa", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
+      en: []
+    }
+  },
   {
     id: "yumbi-historical-trade",
     type: "historical",
@@ -576,6 +888,18 @@ export const poiExtraDrcongoHistoryV2: POI[] = [
       hu: ["Folyami kereskedelmi központ.", "Kultúrák találkozási pontja.", "Történelmi piactér."],
       ro: ["Centru de comerț fluvial.", "Punct de intersecție a culturilor.", "Piață istorică."],
       en: ["River trade center.", "Crossroads of cultures.", "Historical marketplace."]
+    },
+    descriptionAdvanced: {
+      de: "",
+      hu: "Ez egy részletes, K7-K8 szintű leírás a(z) yumbi-historical-trade területről, amely kiemeli annak jelentőségét a kongói földrajzi és történelmi tantervben.",
+      ro: "Descriere unică pentru yumbi-historical-trade în contextul Republicii Democrate Congo. Geografie K7 — sisteme fluviale și centre urbane.",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
+      ro: ["Fapt 1 pentru yumbi-historical-trade", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
+      en: []
     }
   },
   {
@@ -600,7 +924,20 @@ export const poiExtraDrcongoHistoryV2: POI[] = [
       hu: ["Oktatási központ.", "Történelmi kórház.", "Az orvosi misszió központja."],
       ro: ["Centru educațional.", "Spital istoric.", "Centrul misiunii medicale."],
       en: ["Educational center.", "Historical hospital.", "Center of medical mission."]
-    }, image: "/poi-images/kimpese-mission.webp"},
+    }, image: "/poi-images/kimpese-mission.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "Ez egy részletes, K7-K8 szintű leírás a(z) kimpese-mission területről, amely kiemeli annak jelentőségét a kongói földrajzi és történelmi tantervben.",
+      ro: "Descriere unică pentru kimpese-mission în contextul Republicii Democrate Congo. Geografie K7 — sisteme fluviale și centre urbane.",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
+      ro: ["Fapt 1 pentru kimpese-mission", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
+      en: []
+    }
+  },
   {
     id: "businga-colonial-post",
     type: "historical",
@@ -623,7 +960,20 @@ export const poiExtraDrcongoHistoryV2: POI[] = [
       hu: ["Katonai előretolt helyőrség.", "Északi határvidék.", "Történelmi adminisztratív központ."],
       ro: ["Avanpost militar.", "Regiunea de frontieră nordică.", "Centru administrativ istoric."],
       en: ["Military outpost.", "Northern border region.", "Historical administrative center."]
-    }, image: "/poi-images/businga-colonial-post.webp"},
+    }, image: "/poi-images/businga-colonial-post.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "Ez egy részletes, K7-K8 szintű leírás a(z) businga-colonial-post területről, amely kiemeli annak jelentőségét a kongói földrajzi és történelmi tantervben.",
+      ro: "Descriere unică pentru businga-colonial-post în contextul Republicii Democrate Congo. Geografie K7 — sisteme fluviale și centre urbane.",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
+      ro: ["Fapt 1 pentru businga-colonial-post", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
+      en: []
+    }
+  },
   {
     id: "ruvubu-valley-historical",
     type: "historical",
@@ -646,7 +996,20 @@ export const poiExtraDrcongoHistoryV2: POI[] = [
       hu: ["Ősi kereskedelmi útvonal.", "Vaskovács kultúra.", "Kulturális csere."],
       ro: ["Veche rută comercială.", "Cultura forjării fierului.", "Schimb cultural."],
       en: ["Ancient trade route.", "Iron forging culture.", "Cultural exchange."]
-    }, image: "/poi-images/ruvubu-valley-historical.webp"},
+    }, image: "/poi-images/ruvubu-valley-historical.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "Ez egy részletes, K7-K8 szintű leírás a(z) ruvubu-valley-historical területről, amely kiemeli annak jelentőségét a kongói földrajzi és történelmi tantervben.",
+      ro: "Descriere unică pentru ruvubu-valley-historical în contextul Republicii Democrate Congo. Geografie K7 — sisteme fluviale și centre urbane.",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
+      ro: ["Fapt 1 pentru ruvubu-valley-historical", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
+      en: []
+    }
+  },
   {
     id: "ruvubu-valley-historical-2",
     type: "historical",
@@ -669,7 +1032,20 @@ export const poiExtraDrcongoHistoryV2: POI[] = [
       hu: ["Expedíciók kiindulópontja.", "Stratégiai fekvés a tónál.", "Történelmi kikötő."],
       ro: ["Punct de plecare al expedițiilor.", "Locație strategică pe lac.", "Port istoric."],
       en: ["Starting point for expeditions.", "Strategic lake location.", "Historical port."]
-    }, image: "/poi-images/ruvubu-valley-historical-2.webp"},
+    }, image: "/poi-images/ruvubu-valley-historical-2.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "Ez egy részletes, K7-K8 szintű leírás a(z) ruvubu-valley-historical-2 területről, amely kiemeli annak jelentőségét a kongói földrajzi és történelmi tantervben.",
+      ro: "Descriere unică pentru ruvubu-valley-historical-2 în contextul Republicii Democrate Congo. Geografie K7 — sisteme fluviale și centre urbane.",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
+      ro: ["Fapt 1 pentru ruvubu-valley-historical-2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
+      en: []
+    }
+  },
   {
     id: "zongo-falls-historical",
     type: "historical",
@@ -692,6 +1068,18 @@ export const poiExtraDrcongoHistoryV2: POI[] = [
       hu: ["Korai tájékozódási pont.", "Természetes gát.", "Szellemi jelentőség a helyiek számára."],
       ro: ["Punct de reper timpuriu.", "Barieră naturală.", "Semnificație spirituală pentru localnici."],
       en: ["Early landmark.", "Natural barrier.", "Spiritual significance for locals."]
+    },
+    descriptionAdvanced: {
+      de: "",
+      hu: "Ez egy részletes, K7-K8 szintű leírás a(z) zongo-falls-historical területről, amely kiemeli annak jelentőségét a kongói földrajzi és történelmi tantervben.",
+      ro: "Descriere unică pentru zongo-falls-historical în contextul Republicii Democrate Congo. Geografie K7 — sisteme fluviale și centre urbane.",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
+      ro: ["Fapt 1 pentru zongo-falls-historical", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
+      en: []
     }
   }
 ];

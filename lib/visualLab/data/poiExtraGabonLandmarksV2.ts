@@ -34,10 +34,13 @@ export const poiExtraGabonLandmarksV2: POI[] = [
     coords: [9.4464, 0.3958],
     name: { de: "Kathedrale Sainte-Marie", hu: "Szent Mária-székesegyház", ro: "Catedrala Sfânta Maria", en: "Sainte-Marie Cathedral" },
     descriptionAdvanced: {
-      de: "Die Kathedrale Sainte-Marie in Libreville ist ein historisches Juwel aus dem 19. Jahrhundert. Als erste katholische Kirche der Stadt symbolisiert sie die Anfänge der Kolonialzeit und den Einfluss der Missionare in Gabun. Der Bau besticht durch seine einfache, aber würdevolle Architektur, die das Stadtbild von Libreville bis heute maßgeblich prägt. Sie ist ein zentraler Ort für religiöse Feierlichkeiten. Geschichte K8 — Kolonialgeschichte und Religion.",
+      de: "Die Kathedrale Sainte-Marie in Libreville ist ein historisches Juwel und eine der ältesten Kathedralen des Landes. Ihre Architektur ist durch ihre Schlichtheit und Eleganz geprägt, die einen Kontrast zu modernen urbanen Strukturen bildet. Die Kathedrale steht als Zeugnis für die frühen Tage der katholischen Missionierung in Gabun und ist ein wichtiger Ort für die historische Forschung zur christlichen Präsenz. Für viele Besucher ist sie ein Ruhepol in der geschäftigen Hauptstadt. Geschichte K7 — Sakrale Architektur.",
       hu: "A libreville-i Szent Mária-székesegyház egy történelmi ékszer a 19. századból. A város első katolikus templomaként a gyarmati korszak kezdetét és a misszionáriusok gaboni befolyását jelképezi. Az épület egyszerű, mégis méltóságteljes építészete a mai napig meghatározza Libreville arculatát. Vallási szertartások központi helyszíne. Történelem K8 — gyarmati történelem és vallás.",
       ro: "Catedrala Sfânta Maria din Libreville este o bijuterie istorică din secolul al XIX-lea. Fiind prima biserică catolică din oraș, simbolizează începuturile perioadei coloniale și influența misionarilor în Gabon. Construcția impresionează prin arhitectura sa simplă, dar demnă, care definește în mod semnificativ peisajul urban din Libreville. Este un loc central pentru celebrațiile religioase. Istorie K8 — istorie colonială și religie.",
       en: "Sainte-Marie Cathedral in Libreville is a historic gem from the 19th century. As the first Catholic church in the city, it symbolizes the beginnings of the colonial era and the influence of missionaries in Gabon. The building is striking for its simple yet dignified architecture, which continues to shape the cityscape of Libreville to this day. It is a central place for religious celebrations. History K8 — colonial history and religion."
+    },
+    factsAdvanced: {
+      de: ["Sainte-Marie ist eine der ältesten Kathedralen in Gabun.", "Die Architektur besticht durch ihre Eleganz.", "Sie ist ein wichtiger Zeuge der frühen Missionierung.", "Die Kathedrale bildet einen Ruhepol in Libreville.", "Das Gebäude ist von großem historischem Wert für die Hauptstadt.", "Der Standort ist fest mit der Religionsgeschichte verwurzelt."]
     },
     factsAdvanced: {
       de: ["Erbaut im 19. Jahrhundert", "Erste katholische Kirche Librevilles", "Zentrales religiöses Monument", "Architektonisches Wahrzeichen", "Bezug zur Kolonialzeit", "Ort für Gottesdienste"],
@@ -64,6 +67,12 @@ export const poiExtraGabonLandmarksV2: POI[] = [
       hu: ["31 faragott faoszlop", "A helyi művészet remekműve"],
       ro: ["31 de coloane de lemn sculptate", "Capodoperă a artei locale"],
       en: ["31 carved wooden columns", "Masterpiece of local art"]
+    },
+    descriptionAdvanced: {
+      de: "Die Kirche Saint-Michel in Libreville ist weit über die Grenzen Gabuns hinaus für ihre kunstvoll geschnitzten Säulen aus Okoumé-Holz bekannt. Jede Säule erzählt eine eigene biblische Geschichte und zeugt vom handwerklichen Können lokaler Künstler. Die Verbindung von christlicher Symbolik mit der traditionellen gabunischen Schnitzkunst macht die Kirche zu einem einmaligen kulturellen Erlebnis. Saint-Michel ist damit nicht nur ein Ort des Gebets, sondern auch ein Zentrum für die Förderung und Bewahrung lokaler Kunsthandwerkstraditionen. Kunst K7 — Regionale Handwerkskunst."
+    },
+    factsAdvanced: {
+      de: ["Die Kirche ist berühmt für ihre geschnitzten Säulen.", "Die Schnitzereien bestehen aus einheimischem Okoumé-Holz.", "Jede Säule zeigt eine biblische Darstellung.", "Das Werk kombiniert christliche und lokale Kunsttraditionen.", "Saint-Michel ist ein Zentrum für lokales Kunsthandwerk.", "Die Kirche ist ein einzigartiges kulturelles Wahrzeichen."]
     }, image: "/poi-images/eglise-saint-michel-landmarks-v2.webp"},
   {
     id: "monument-de-la-liberte-landmarks-v2",
@@ -116,6 +125,12 @@ export const poiExtraGabonLandmarksV2: POI[] = [
       hu: ["Az első elnök sírja", "Az emlékezés helyszíne"],
       ro: ["Mormântul primului președinte", "Loc de comemorare"],
       en: ["Tomb of the first president", "Place of remembrance"]
+    },
+    descriptionAdvanced: {
+      de: "Das Mausoleum von Léon Mba ist eine wichtige Gedenkstätte in Libreville, die dem ersten Präsidenten Gabuns gewidmet ist. Das Bauwerk ist ein Ort der nationalen Erinnerungskultur und reflektiert die politische Geschichte des Landes seit der Unabhängigkeit. Die Architektur des Mausoleums ist von Würde und nationaler Symbolik geprägt. Es ist ein zentraler Ort für staatliche Gedenkfeiern und ein Symbol für die Entwicklung des modernen gabunischen Staates unter der Führung seines ersten Präsidenten. Geschichte K8 — Nationale Identität und Politik."
+    },
+    factsAdvanced: {
+      de: ["Das Mausoleum ist Léon Mba gewidmet.", "Léon Mba war der erste Präsident Gabuns.", "Das Bauwerk dient der nationalen Erinnerungskultur.", "Es ist ein zentraler Ort für staatliche Zeremonien.", "Die Gedenkstätte symbolisiert die Unabhängigkeit des Landes.", "Das Mausoleum prägt das politische Gedächtnis von Libreville."]
     }, image: "/poi-images/mausolee-leon-mba-landmarks-v2.webp"},
   {
     id: "pont-ozouri-landmarks-v2",
@@ -142,6 +157,12 @@ export const poiExtraGabonLandmarksV2: POI[] = [
       hu: ["Franceville központja", "Vallási jelkép"],
       ro: ["Centrul orașului Franceville", "Repere religioase"],
       en: ["Center of Franceville", "Religious landmark"]
+    },
+    descriptionAdvanced: {
+      de: "Die Kathedrale Saint-Hilaire ist ein bedeutendes sakrales Bauwerk und ein architektonisches Wahrzeichen der Stadt Franceville. Mit ihrer beeindruckenden Fassade und dem geräumigen Inneren ist sie ein zentraler Ort der christlichen Gemeinschaft in der Provinz Haut-Ogooué. Der Bau reflektiert die lange Geschichte der christlichen Präsenz in der Region und ist ein wichtiger kultureller Ankerpunkt. Die Architektur verbindet regionale Stilelemente mit klassischen sakralen Formen, was die Kathedrale zu einem besonderen Ziel für Besucher macht. Kultur K7 — Sakralbau und Gesellschaft."
+    },
+    factsAdvanced: {
+      de: ["Saint-Hilaire ist die Hauptkirche in Franceville.", "Die Kathedrale ist ein wichtiges architektonisches Wahrzeichen.", "Sie ist das Zentrum der christlichen Gemeinde in Haut-Ogooué.", "Die Bauweise zeigt eine gelungene Synthese aus verschiedenen Stilen.", "Die Kathedrale ist ein kultureller Ankerpunkt für die Region.", "Sie ist von großer Bedeutung für das religiöse Leben."]
     }, image: "/poi-images/cathedrale-saint-hilaire-landmarks-v2.webp"},
   {
     id: "hopital-schweitzer-landmarks-v2",
@@ -155,6 +176,12 @@ export const poiExtraGabonLandmarksV2: POI[] = [
       hu: ["Történelmi kórház", "UNESCO Világörökség várományos"],
       ro: ["Spital istoric", "Candidat la patrimoniul UNESCO"],
       en: ["Historic hospital", "UNESCO World Heritage candidate"]
+    },
+    descriptionAdvanced: {
+      de: "Das Krankenhaus Albert Schweitzer in Lambaréné ist eine weltberühmte medizinische Einrichtung, die durch den Friedensnobelpreisträger Albert Schweitzer gegründet wurde. Das Hospital ist ein lebendiges Zeugnis seiner humanitären Arbeit und bleibt ein wichtiger Standort für die medizinische Forschung, insbesondere im Bereich von Tropenkrankheiten. Die Anlage ist von historischer Bedeutung und zieht Wissenschaftler aus der ganzen Welt an. Das Schweitzer-Hospital ist ein Symbol für die humanitäre Hilfe in Afrika und für das tiefe Engagement einer Einzelperson. Geschichte K8 — Humanitarismus und Medizin."
+    },
+    factsAdvanced: {
+      de: ["Das Krankenhaus wurde von Albert Schweitzer gegründet.", "Lambaréné ist ein Zentrum für Tropenmedizin.", "Die Einrichtung ist ein Symbol humanitärer Hilfe.", "Es ist ein Ort für medizinische Forschung internationaler Wissenschaftler.", "Das Krankenhaus hat eine weltweit bedeutsame Geschichte.", "Das Erbe von Schweitzer prägt Lambaréné bis heute."]
     }, image: "/poi-images/hopital-schweitzer-landmarks-v2.webp"},
   {
     id: "mission-sainte-anne-landmarks-v2",
@@ -247,6 +274,12 @@ export const poiExtraGabonLandmarksV2: POI[] = [
       hu: ["Energiatermelés", "Az Ogooué folyón"],
       ro: ["Producție de energie", "Pe râul Ogooué"],
       en: ["Energy production", "On the Ogooué River"]
+    },
+    descriptionAdvanced: {
+      de: "Die Poubara-Talsperre am Ogooué ist eine imposante technische Anlage, die maßgeblich zur Stromversorgung der Region Franceville beiträgt. Sie ist nicht nur ein Symbol für die moderne Energieinfrastruktur Gabuns, sondern auch ein architektonisches Highlight, das sich in die landschaftliche Umgebung einfügt. Das Stauwehr reguliert den Wasserfluss und ermöglicht eine konstante Energieerzeugung. Als technisches Denkmal zeugt es vom Willen des Landes, moderne Technologien zur nachhaltigen Ressourcennutzung einzusetzen. Technik K8 — Wasserenergie und moderne Infrastruktur."
+    },
+    factsAdvanced: {
+      de: ["Die Talsperre befindet sich am Fluss Ogooué.", "Sie ist ein zentraler Pfeiler für die Energieversorgung der Region.", "Die Anlage symbolisiert die industrielle Entwicklung.", "Das Stauwehr reguliert den Wasserfluss des Ogooué.", "Es ist ein wichtiges Beispiel moderner technischer Baukunst in Gabun.", "Die Stromerzeugung ist essenziell für die lokale Wirtschaft."]
     }, image: "/poi-images/barrage-poubara-landmarks-v2.webp"},
   {
     id: "grottes-lastoursville-landmarks-v2",
@@ -260,6 +293,12 @@ export const poiExtraGabonLandmarksV2: POI[] = [
       hu: ["UNESCO várományos", "Geológiai csoda"],
       ro: ["Candidat UNESCO", "Minune geologică"],
       en: ["UNESCO candidate", "Geological wonder"]
+    },
+    descriptionAdvanced: {
+      de: "Die Höhlen von Lastoursville sind ein spektakuläres Naturwahrzeichen, das eine faszinierende unterirdische Welt aus Stalaktiten und Stalagmiten offenbart. Diese Höhlensysteme sind nicht nur für Geologen interessant, sondern auch ein wichtiges Ziel für den Ökotourismus in Gabun. Die Erforschung dieser versteckten Orte liefert zudem wichtige Erkenntnisse über die Erdgeschichte der Region. Als Wahrzeichen der Region Ogooué-Lolo unterstreichen sie die Vielfalt der gabunischen Landschaften, die über den bekannten Regenwald hinausgeht. Geografie K8 — Karstlandschaften und Naturdenkmäler."
+    },
+    factsAdvanced: {
+      de: ["Lastoursville ist für seine ausgedehnten Höhlensysteme bekannt.", "Die Höhlen bieten beeindruckende Stalaktiten-Formationen.", "Sie sind ein Ziel für den aufstrebenden Ökotourismus.", "Die Erforschung der Höhlen liefert wichtige geologische Daten.", "Sie sind ein bedeutendes Naturwahrzeichen für Gabun.", "Die Höhlen zeigen die Vielfalt des lokalen Reliefs."]
     }, image: "/poi-images/grottes-lastoursville-landmarks-v2.webp"},
   {
     id: "palais-roi-denis-landmarks-v2",
@@ -286,6 +325,12 @@ export const poiExtraGabonLandmarksV2: POI[] = [
       hu: ["Port-Gentil központja", "Fontos templom"],
       ro: ["Centrul orașului Port-Gentil", "Biserică importantă"],
       en: ["Center of Port-Gentil", "Important church"]
+    },
+    descriptionAdvanced: {
+      de: "Die Kathedrale Saint-Pierre ist eine architektonische Landmarke in Libreville, die durch ihr monumentales Erscheinungsbild besticht. Als geistliches Zentrum in der Hauptstadt ist sie ein Ort bedeutender religiöser Ereignisse und zieht sowohl Gläubige als auch interessierte Architekturbegeisterte an. Das Gebäude mit seinen markanten Türmen prägt die Silhouette der Stadt und ist ein Symbol für die religiöse Vielfalt und Geschichte Gabuns. Die Kathedrale ist ein bedeutender Ort für das öffentliche Leben der Hauptstadt. Kultur K8 — Architektur und religiöses Leben."
+    },
+    factsAdvanced: {
+      de: ["Die Kathedrale ist eine bedeutende Landmarke in Libreville.", "Sie ist eines der größten Sakralbauwerke in Gabun.", "Das Bauwerk prägt die Silhouette der Hauptstadt.", "Die Kathedrale ist zentraler Ort für religiöse Ereignisse.", "Ihre Architektur ist von monumentaler Gestaltung geprägt.", "Sie ist ein Symbol für die christliche Geschichte Gabuns."]
     }, image: "/poi-images/cathedrale-saint-pierre-landmarks-v2.webp"},
   {
     id: "memorial-omar-bongo-landmarks-v2",
@@ -299,6 +344,12 @@ export const poiExtraGabonLandmarksV2: POI[] = [
       hu: ["Monumentális sír", "Franceville-ben"],
       ro: ["Mormânt monumental", "În Franceville"],
       en: ["Monumental tomb", "In Franceville"]
+    },
+    descriptionAdvanced: {
+      de: "Das Denkmal für Omar Bongo Ondimba, den langjährigen Präsidenten Gabuns, ist ein markantes Bauwerk in der Hauptstadt Libreville. Es ist ein Ort der politischen Reflexion und ein Zeugnis der Ära, die den gabunischen Staat über Jahrzehnte hinweg maßgeblich prägte. Die architektonische Gestaltung und der Standort unterstreichen die Bedeutung der Präsidentschaft Bongos für die nationale Geschichte. Das Memorial ist heute ein integraler Bestandteil des politischen Stadtbildes von Libreville. Geschichte K8 — Moderne Geschichte und Staatssymbolik."
+    },
+    factsAdvanced: {
+      de: ["Das Denkmal ist Omar Bongo Ondimba gewidmet.", "Omar Bongo prägte die Geschichte Gabuns über Jahrzehnte.", "Die Anlage ist ein wichtiger Ort für die staatliche Symbolik.", "Das Memorial reflektiert eine bedeutende politische Ära.", "Die Gedenkstätte ist ein markantes Bauwerk in Libreville.", "Sie spielt eine zentrale Rolle in der Erinnerungskultur."]
     }, image: "/poi-images/memorial-omar-bongo-landmarks-v2.webp"},
   {
     id: "pont-lianes-poubara-landmarks-v2",
@@ -325,6 +376,12 @@ export const poiExtraGabonLandmarksV2: POI[] = [
       hu: ["A Transzgaboni vasút kiindulópontja", "Közlekedési csomópont"],
       ro: ["Punctul de plecare al Transgabonais", "Nod de transport"],
       en: ["Starting point of the Transgabonais", "Transport hub"]
+    },
+    descriptionAdvanced: {
+      de: "Der Bahnhof der Transgabonais-Eisenbahn ist eine bedeutende technische Landmarke in Libreville, die das Tor zum Landesinneren darstellt. Die Bahnlinie verbindet die Hauptstadt mit Franceville und ist das Rückgrat des güter- und personenorientierten Transports in Gabun. Der Bahnhof ist ein Ort des Kommens und Gehens und spiegelt die wirtschaftliche Verbindung zwischen der Küste und den Rohstoffgebieten im Hinterland wider. Die Architektur des Bahnhofs zeugt von der Bedeutung der modernen Infrastruktur für die nationale Einheit. Geografie K7 — Infrastruktur und Wirtschaft."
+    },
+    factsAdvanced: {
+      de: ["Der Bahnhof ist ein zentrales Tor zum Landesinneren.", "Er bildet den Startpunkt der Transgabonais-Linie.", "Der Bahnhof ist ein Knotenpunkt für den nationalen Transport.", "Er spiegelt die Verbindung zwischen Küste und Hinterland wider.", "Die Bahnlinie ist essentiell für die wirtschaftliche Entwicklung.", "Das Bauwerk zeugt von der Modernisierung des Verkehrswesens."]
     }, image: "/poi-images/gare-transgabonais-landmarks-v2.webp"},
   {
     id: "universite-omar-bongo-landmarks-v2",

@@ -11,9 +11,13 @@ export const poiExtraEgyptCitiesV2: POI[] = [
     description: { de: "Die pulsierende Hauptstadt Ägyptens und die größte Stadt der arabischen Welt.", hu: "Egyiptom lüktető fővárosa és az arab világ legnagyobb városa.", ro: "Capitala vibrantă a Egiptului și cel mai mare oraș din lumea arabă.", en: "The vibrant capital of Egypt and the largest city in the Arab world." },
     descriptionAdvanced: {
       de: "Kairo, mit über 20 Millionen Einwohnern in der Metropolregion, ist das Herz Ägyptens. Die 969 n. Chr. gegründete Stadt beherbergt das Ägyptische Museum, in dem tausende Artefakte wie der Schatz des Tutanchamun ausgestellt sind. Földrajz K7 — városok és metropoliszok.",
-      hu: "Kairó, a több mint 20 millió lakosú metropolisz Egyiptom szíve. A 969-ben alapított város ad otthont az Egyiptomi Múzeumnak, ahol több ezer lelet, például Tutanhamon kincsei láthatók. Földrajz K7 — városok és metropoliszok.",
+      hu: "Kairó, Egyiptom fővárosa és az arab világ egyik legnagyobb metropolisza, a Nílus folyó partján terül el, ötvözve az ősi és a modern világot. A várost 969-ben alapították, és történelme során a muszlim kultúra központjává vált, ma pedig múzeumok, mecsetek és nyüzsgő bazárok városa. Kairó közelében található a gízai fennsík, amely a világhírű piramisok otthona, így a történelem szerelmeseinek kihagyhatatlan úti cél. Földrajz K7 — világvárosok és történelem.",
       ro: "Cairo, cu peste 20 de milioane de locuitori în zona metropolitană, este inima Egiptului. Fondat în 969 d.Hr., orașul găzduiește Muzeul Egiptean, unde sunt expuse mii de artefacte, cum ar fi comoara lui Tutankhamon. Földrajz K7 — orașe și metropole.",
-      en: "Cairo, with over 20 million people in its metro area, is the heart of Egypt. Founded in 969 AD, the city houses the Egyptian Museum, where thousands of artifacts like Tutankhamun's treasure are on display. Földrajz K7 — cities and metropolises."
+      en: "Cairo, the sprawling capital of Egypt, is the largest city in the Arab world and a massive urban center located along the banks of the Nile. Established in 969 AD by the Fatimid dynasty, the city served as a center for Islamic learning and culture, today blending centuries-old architecture with modern high-rises. It is the gateway to the world-famous Giza Plateau, home to the Pyramids and the Sphinx. Földrajz K7 — world cities and history."
+    },
+    factsAdvanced: {
+      hu: ["A metropolisz több mint 20 millió lakosú.", "969-ben alapították.", "Itt található az Egyiptomi Múzeum, amely Tutanhamon kincseit őrzi.", "Az al-Azhar Egyetem a világ egyik legrégebbi felsőoktatási intézménye.", "Kairó az egyiptomi politika és kultúra központja.", "A várost a '1000 minaret városa' néven is emlegetik."],
+      en: ["The metropolitan area has over 20 million residents.", "Founded by the Fatimid Caliphate in 969 AD.", "Home to the Egyptian Museum, housing the treasures of Tutankhamun.", "Known as 'The City of a Thousand Minarets'.", "The Al-Azhar University is one of the oldest in the world.", "Cairo serves as the political and cultural hub of Egypt."]
     },
     facts: {
       de: ["Liegt am Nil.", "Zentrum von Politik und Kultur."],
@@ -39,6 +43,14 @@ export const poiExtraEgyptCitiesV2: POI[] = [
       hu: ["Egyiptom második legnagyobb városa.", "Nagy Sándor alapította."],
       ro: ["Al doilea oraș ca mărime din Egipt.", "Fondat de Alexandru cel Mare."],
       en: ["Second largest city in Egypt.", "Founded by Alexander the Great."]
+    },
+    descriptionAdvanced: {
+      hu: "Alexandria, Egyiptom második legnagyobb városa, a Földközi-tenger partján fekszik, és gazdag történelme egészen az ókori Görögországig nyúlik vissza. A várost Nagy Sándor alapította i. e. 331-ben, és egykor a tudomány és kultúra központja volt, otthont adva a híres alexandriai könyvtárnak és a Pharoszi világítótoronynak. Napjainkban Alexandria modern kikötőváros, amely ötvözi az ősi örökséget a modern élettel. Földrajz K7 — kikötővárosok és ókori örökség.",
+      en: "Alexandria is Egypt's second-largest city and its principal port, gracefully stretching along the Mediterranean coast. Founded by Alexander the Great in 331 BC, it was once the intellectual beacon of the ancient world, famous for its Great Library and the Pharos Lighthouse. Today, Alexandria remains a bustling port city that uniquely balances its Hellenistic-era heritage with a vibrant, modern Egyptian lifestyle. Földrajz K7 — port cities and ancient heritage."
+    },
+    factsAdvanced: {
+      hu: ["Egyiptom legfontosabb kikötője.", "Nagy Sándor alapította i. e. 331-ben.", "A híres világítótorony egyike volt az ókori világ hét csodájának.", "A híres könyvtár az antik világ tudományos központja volt.", "A város lakossága meghaladja az 5 milliót.", "A Földközi-tenger mentén húzódik több mint 30 km hosszan."],
+      en: ["Egypt's most important Mediterranean seaport.", "Founded by Alexander the Great in 331 BC.", "The Great Library was a global scientific center in antiquity.", "Home to the modern Bibliotheca Alexandrina, a major cultural hub.", "The city stretches over 30 km along the Mediterranean coast.", "Population exceeds 5 million people."]
     }, image: "/poi-images/alexandria-cities-v2.webp"},
   {
     id: "giza-cities-v2",
@@ -52,6 +64,14 @@ export const poiExtraEgyptCitiesV2: POI[] = [
       hu: ["Kairó metropoliszövezetének része.", "A nagy piramisok otthona."],
       ro: ["Face parte din zona metropolitană Cairo.", "Căminul marilor piramide."],
       en: ["Part of the Greater Cairo metropolis.", "Home to the Great Pyramids."]
+    },
+    descriptionAdvanced: {
+      hu: "Gíza városa a Nílus nyugati partján, közvetlenül Kairó szomszédságában található, és világszerte a gízai fennsíkon álló ókori piramisairól ismert. A területen található a híres nagy szfinx és az ókori világ hét csodája közül az egyetlen fennmaradt emlék, a Kheopsz-piramis. Gíza ma már Kairó metropoliszövezetének része, és milliók keresik fel évente, hogy megcsodálják az ókori egyiptomi mérnöki tudás remekeit. Történelem K6 — ókori Egyiptom.",
+      en: "Situated on the west bank of the Nile, Giza is famous globally as the home to the Giza Necropolis, which includes the iconic Great Pyramids and the Great Sphinx. These monumental structures were built during the Fourth Dynasty of the Old Kingdom. Today, Giza has merged into the larger Cairo metropolitan area, attracting millions of tourists annually to witness the pinnacle of ancient Egyptian engineering. Történelem K6 — ancient Egypt."
+    },
+    factsAdvanced: {
+      hu: ["A Kheopsz-piramis a világ egyik legmagasabb ókori építménye.", "A gízai nekropolisz több mint 4500 éves.", "A nagy szfinx mészkőből faragott alakja az oroszlán testű, emberfejű lény.", "Gíza a kairói nagyvárosi régió része.", "A területet az UNESCO világörökség részeként tartják számon.", "Kairótól mintegy 20 km-re délnyugatra fekszik."],
+      en: ["The Great Pyramid of Khufu is the last remaining wonder of the ancient world.", "The necropolis is over 4,500 years old.", "The Great Sphinx is a massive monolith carved from limestone.", "Giza is part of the vast Cairo urban sprawl.", "The site is designated as a UNESCO World Heritage site.", "Located approximately 20 km southwest of central Cairo."]
     }, image: "/poi-images/giza-cities-v2.webp"},
   {
     id: "shubra-el-kheima-cities-v2",
@@ -65,6 +85,14 @@ export const poiExtraEgyptCitiesV2: POI[] = [
       hu: ["Fontos textilipari központ.", "Sűrűn lakott terület."],
       ro: ["Important centru textil.", "Zonă dens populată."],
       en: ["Important textile center.", "Densely populated area."]
+    },
+    descriptionAdvanced: {
+      hu: "Subra el-Hajma jelentős ipari központ, amely Kairó közvetlen északi elővárosaként helyezkedik el a Nílus deltájának peremén. A város alapvetően a 20. században fejlődött nagyvárossá, elsősorban a textilipar és a gépgyártás köré épülő gazdasága révén. Bár sűrűn lakott és iparilag fejlett, szerves része a Kairót övező nagyvárosi régiónak. Földrajz K8 — ipari központok és városi fejlődés.",
+      en: "Shubra El-Kheima is a major industrial city located just north of Cairo, sitting on the edge of the Nile Delta. It grew rapidly in the 20th century, becoming a hub for textile manufacturing, chemicals, and engineering. Despite its dense urban environment, the city serves as a crucial component of the Greater Cairo industrial landscape. Földrajz K8 — industrial hubs and urban growth."
+    },
+    factsAdvanced: {
+      hu: ["A város lakossága meghaladja az 1 milliót.", "Kairó egyik legfontosabb ipari elővárosa.", "Jelentős textil- és gépipari központ.", "A Nílus partján fekvő sűrűn lakott terület.", "A modern egyiptomi iparosítás egyik szimbóluma.", "A város gyorsan növekedett a 20. század második felében."],
+      en: ["Major suburb and industrial hub of Greater Cairo.", "Experienced significant industrial growth in the 20th century.", "Centered around textile manufacturing and engineering industries.", "Located on the banks of the Nile Delta.", "One of the most densely populated cities in Egypt.", "Essential economic link in the capital's periphery."]
     }, image: "/poi-images/shubra-el-kheima-cities-v2.webp"},
   {
     id: "port-said-cities-v2",
@@ -78,6 +106,14 @@ export const poiExtraEgyptCitiesV2: POI[] = [
       hu: ["1859-ben alapították.", "Vámmentes övezet."],
       ro: ["Fondat în 1859.", "Zonă liberă."],
       en: ["Founded in 1859.", "Duty-free zone."]
+    },
+    descriptionAdvanced: {
+      hu: "Port Szaíd stratégiailag kulcsfontosságú kikötőváros, amely a Szuezi-csatorna északi bejáratánál, a Földközi-tenger partján fekszik. 1859-ben alapították a csatorna építésének kezdetekor, és máig a világ egyik legforgalmasabb tengeri kereskedelmi csomópontja. A város építészetén ma is látszanak az európai hatások, amelyek az egykori gyarmati időszakból maradtak fenn. Földrajz K8 — nemzetközi kereskedelmi csomópontok.",
+      en: "Port Said is a strategically vital port city located at the northern entrance of the Suez Canal, where the Mediterranean Sea meets the canal. Founded in 1859 during the canal's initial construction, it has evolved into a global maritime trade hub. The city is known for its distinct late 19th-century architecture, reflecting its colonial history. Földrajz K8 — global trade corridors."
+    },
+    factsAdvanced: {
+      hu: ["A Szuezi-csatorna északi végpontja.", "1859-ben alapították.", "Fontos vámmentes övezet és kereskedelmi központ.", "Építészetében keverednek az európai és egyiptomi stílusok.", "A Földközi-tenger és a csatorna találkozásánál fekszik.", "A város lakossága kb. 600 ezer fő."],
+      en: ["Situated at the northern entrance of the Suez Canal.", "Founded in 1859 for canal construction.", "Acts as a major international maritime transit point.", "Features unique 19th-century colonial-style architecture.", "A key economic driver for Egypt's trade.", "Located on the coast of the Mediterranean Sea."]
     }, image: "/poi-images/port-said-cities-v2.webp"},
   {
     id: "suez-cities-v2",
@@ -91,6 +127,14 @@ export const poiExtraEgyptCitiesV2: POI[] = [
       hu: ["Nagy olajfinomítók.", "Történelmi kereskedelmi csomópont."],
       ro: ["Mari rafinării de petrol.", "Nod comercial istoric."],
       en: ["Large oil refineries.", "Historic trade hub."]
+    },
+    descriptionAdvanced: {
+      hu: "Szuez egy stratégiailag kulcsfontosságú kikötőváros, amely a Vörös-tenger északi partján, a világhírű Szuezi-csatorna déli végpontjánál helyezkedik el. A város a nemzetközi kereskedelem egyik legfontosabb csomópontja, hiszen összeköti a Földközi-tengert a Vörös-tengerrel, lerövidítve a hajózási útvonalakat Európa és Ázsia között. A város gazdasága döntően a kikötői forgalomra és a kőolaj-finomításra épül. Földrajz K8 — globális kereskedelmi útvonalak.",
+      en: "Suez is a critical port city on the Red Sea, marking the southern endpoint of the Suez Canal. It is a cornerstone of global maritime commerce, linking Europe and Asia via the canal route. The local economy is dominated by port operations, oil refining, and canal-related services. Földrajz K8 — global maritime logistics."
+    },
+    factsAdvanced: {
+      hu: ["A Szuezi-csatorna déli végpontja.", "Kulcsfontosságú kikötőváros a Vörös-tengeren.", "A város gazdaságának alapja az olajfinomítás.", "A világ egyik legforgalmasabb tengeri útvonala halad itt át.", "Fontos kereskedelmi kapu Ázsia és Európa között.", "A 19. század óta jelentős szerepet játszik a globális hajózásban."],
+      en: ["Located at the southern gateway of the Suez Canal.", "Crucial hub for Red Sea and global trade.", "Dominant industries include petroleum refining and shipping.", "Connects Europe to Asian markets via the canal.", "Significant city for Egyptian energy and maritime security.", "Strategically located between the canal and the Red Sea."]
     }, image: "/poi-images/suez-cities-v2.webp"},
   {
     id: "mansoura-cities-v2",
@@ -104,6 +148,14 @@ export const poiExtraEgyptCitiesV2: POI[] = [
       hu: ["Veseátültetések központja.", "Történelmi csaták helyszíne."],
       ro: ["Centru pentru transplanturi de rinichi.", "Locul unor bătălii istorice."],
       en: ["Center for kidney transplants.", "Site of historic battles."]
+    },
+    descriptionAdvanced: {
+      hu: "Manszúra a Nílus deltájának szívében fekvő, élénk város, amely híres kiváló orvosi egyeteméről és oktatási intézményeiről. A 13. században alapított város történelmileg jelentős szerepet játszott az keresztes hadjáratok elleni védelemben, ma pedig a régió egyik tudományos és kulturális központja. A város környezete termékeny, a Nílus Damietta-ága mentén fekszik. Földrajz K8 — egyetemi városok és mezőgazdasági régiók.",
+      en: "Mansoura, located in the heart of the Nile Delta, is a vibrant city famed for its prestigious university and medical research facilities. Founded in the 13th century, it played a pivotal role in resisting Crusader forces. Today, it serves as a major scientific and cultural hub for the region, set amidst the fertile landscape along the Damietta branch of the Nile. Földrajz K8 — university cities and agriculture."
+    },
+    factsAdvanced: {
+      hu: ["A 13. században alapították a keresztesek elleni harcok idején.", "Híres az orvostudományi egyeteméről.", "A Nílus Damietta-ága mentén helyezkedik el.", "Fontos kereskedelmi központ a Nílus-deltában.", "A város lakossága meghaladja az 500 ezer főt.", "A régió egyik tudományos és oktatási fellegvára."],
+      en: ["Founded in the 13th century during battles against Crusaders.", "Renowned for its excellent medical university.", "Located along the Damietta branch of the Nile.", "Serves as a vital trade center in the Nile Delta.", "Population exceeds 500,000.", "A major hub for science and higher education in the region."]
     }, image: "/poi-images/mansoura-cities-v2.webp"},
   {
     id: "el-mahalla-el-kubra-cities-v2",
@@ -117,6 +169,14 @@ export const poiExtraEgyptCitiesV2: POI[] = [
       hu: ["A Misr Fonó és Szövő Vállalat otthona.", "Fontos gazdasági helyszín."],
       ro: ["Căminul companiei Misr Spinning and Weaving.", "Locație economică importantă."],
       en: ["Home of Misr Spinning and Weaving.", "Important economic location."]
+    },
+    descriptionAdvanced: {
+      hu: "El-Mahalla el-Kubra az egyiptomi textilipar és a gyapotfeldolgozás fellegvára, amely a Nílus deltájának közepén, Gharbia kormányzóságban terül el. A város a 20. században vált ipari nagyhatalommá, amikor megalapították a hatalmas állami textilgyárakat, amelyek ma is sok ezer embernek adnak munkát. A város ipari karaktere meghatározza az egész környék gazdasági életét. Földrajz K8 — ipari központok és gazdaság.",
+      en: "El-Mahalla El-Kubra is the undisputed powerhouse of the Egyptian textile and cotton processing industry, located centrally in the Nile Delta in Gharbia Governorate. The city transformed into a major industrial giant during the 20th century with the establishment of massive state-owned textile mills, which remain the backbone of the local economy and employ thousands. Földrajz K8 — industrial centers."
+    },
+    factsAdvanced: {
+      hu: ["Egyiptom legnagyobb textilipari központja.", "A gyapotfeldolgozás és ruhaipar központi városa.", "Gharbia kormányzóság legnagyobb városa.", "A 20. században vált jelentős ipari központtá.", "Hatalmas állami textilüzemek otthona.", "A város gazdasága döntően a textiliparra épül."],
+      en: ["Largest textile industrial hub in Egypt.", "Central city for cotton processing and garment manufacturing.", "Largest city in Gharbia Governorate.", "Rose to industrial prominence in the 20th century.", "Home to massive state-owned textile facilities.", "Local economy is heavily dependent on the textile sector."]
     }, image: "/poi-images/el-mahalla-el-kubra-cities-v2.webp"},
   {
     id: "tanta-cities-v2",

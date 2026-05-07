@@ -240,8 +240,8 @@ export const poiExtraElsalvadorHistoryV2: POI[] = [
         "Híres az indigófestési technikájáról."
       ],
       ro: [
-        "Este adesea numit „Capitala Culturală” a El Salvadorului datorită moștenirii sale artistice.",
-        "Numele original în limba Pipil se traduce prin „Locul păsărilor și florilor”.",
+        "Este adesea numit \"Capitala Culturală\" a El Salvadorului datorită moștenirii sale artistice.",
+        "Numele original în limba Pipil se traduce prin \"Locul păsărilor și florilor\".",
         "A fost fondat oficial de colonizatorii spanioli la mijlocul secolului al XVI-lea.",
         "Este renumit la nivel internațional pentru tehnicile tradiționale de vopsire cu indigo."
       ],
@@ -278,7 +278,7 @@ export const poiExtraElsalvadorHistoryV2: POI[] = [
     descriptionAdvanced: {
       de: "",
       hu: "A Corinto barlang, más néven a Szentlélek-barlang, Közép-Amerika egyik legfontosabb őskori lelőhelye. A barlang falait díszítő vörös pigmenttel készült sziklafestmények több mint tízezer éves múltra tekintenek vissza, bepillantást engedve az első telepesek életébe. Vadászjelenetek, emberi alakok és rejtélyes szimbólumok sorakoznak a kőzetfelületeken, amelyek a mai napig lázban tartják a régészeket. A barlang környéke vadregényes, a dús vegetáció és a csend különleges spirituális élményt nyújt a látogatóknak. Ez a helyszín emlékeztet minket arra, hogy az emberi kultúra gyökerei milyen mélyre nyúlnak ezen a vidéken.",
-      ro: "Peștera din Corinto, cunoscută și sub numele de „Peștera Duhului Sfânt”, este unul dintre cele mai semnificative situri preistorice din America Centrală. Picturile rupestre care împodobesc pereții peșterii, create cu pigmenți roșii, datează de peste zece mii de ani, oferind o perspectivă rară asupra vieții primilor locuitori. Scene de vânătoare, figuri umane și simboluri misterioase sunt trasate pe suprafețele de piatră, continuând să fascineze arheologii și istoricii contemporani. Zona care înconjoară peștera este sălbatică și curată, vegetația luxuriantă și liniștea oferind o experiență spirituală unică vizitatorilor. Acest sit este o amintire puternică a rădăcinilor adânci ale culturii umane în această regiune a lumii.",
+      ro: "Peștera din Corinto, cunoscută și sub numele de \"Peștera Duhului Sfânt\", este unul dintre cele mai semnificative situri preistorice din America Centrală. Picturile rupestre care împodobesc pereții peșterii, create cu pigmenți roșii, datează de peste zece mii de ani, oferind o perspectivă rară asupra vieții primilor locuitori. Scene de vânătoare, figuri umane și simboluri misterioase sunt trasate pe suprafețele de piatră, continuând să fascineze arheologii și istoricii contemporani. Zona care înconjoară peștera este sălbatică și curată, vegetația luxuriantă și liniștea oferind o experiență spirituală unică vizitatorilor. Acest sit este o amintire puternică a rădăcinilor adânci ale culturii umane în această regiune a lumii.",
       en: "The Corinto Cave, also known as the 'Cave of the Holy Spirit', is one of Central America's most significant prehistoric sites. The rock paintings adorning the cave walls, created with deep red pigments, date back over ten thousand years, offering a rare glimpse into the lives of the earliest settlers. Hunting scenes, human figures, and mysterious symbols are lined across the stone surfaces, continuing to fascinate archaeologists and historians today. The area surrounding the cave is wild and pristine, with lush vegetation and silence providing a unique spiritual experience for visitors. This site serves as a powerful reminder of how deep the roots of human culture reach in this part of the world. History K8"
     },
     factsAdvanced: {
@@ -343,7 +343,7 @@ export const poiExtraElsalvadorHistoryV2: POI[] = [
         "Înființat în 1992, la scurt timp după semnarea Acordurilor de Pace de la Chapultepec.",
         "Este administrat și operat de rezidenți locali și foști comandanți de gherilă.",
         "Expoziția în aer liber include resturile unui elicopter militar doborât.",
-        "Orașul a adoptat oficial titlul onorific de „Oraș al Păcii”."
+        "Orașul a adoptat oficial titlul onorific de \"Oraș al Păcii\"."
       ],
       en: [
         "Established in 1992 shortly after the signing of the Chapultepec Peace Accords.",
@@ -443,7 +443,7 @@ export const poiExtraElsalvadorHistoryV2: POI[] = [
         "Actuala structură a bisericii a fost finalizată și sfințită în jurul anului 1730.",
         "Prezintă o fațadă clasică barocă colonială spaniolă cu detalii ornamentale.",
         "Zidurile de sprijin masive ale bisericii au o grosime de peste un metru.",
-        "Servește ca locație principală pentru celebrul festival anual „Flori și Palme”."
+        "Servește ca locație principală pentru celebrul festival anual \"Flori și Palme\"."
       ],
       en: [
         "The current church structure was completed and consecrated around 1730.",
@@ -527,8 +527,8 @@ export const poiExtraElsalvadorHistoryV2: POI[] = [
     },
     descriptionAdvanced: {
       de: "",
-      hu: "Izalco városa mellett található az az emlékhely, amely az 1932-es parasztfelkelés és az azt követő véres megtorlás áldozatainak állít emléket. A „La Matanza” néven elhíresült események során több tízezer őslakos és paraszt vesztette életét, mély sebet ejtve a salvadori társadalmon. Az emlékmű a néma tiszteletadás helye, ahol a látogatók megismerhetik a földreformért és az emberi méltóságért folytatott küzdelem történetét. Ez a tragikus esemény évtizedekre meghatározta az ország politikai irányvonalát és az őslakos kultúra visszaszorulását. A helyszín ma a történelmi igazságtétel és a kulturális identitás újjáéledésének fontos pontja.",
-      ro: "Situat lângă orașul Izalco, acest sit memorial este dedicat victimelor revoltei țărănești din 1932 și represaliilor sângeroase care au urmat. În timpul evenimentelor cunoscute sub numele de „La Matanza”, zeci de mii de indigeni și țărani au fost uciși, lăsând o rană adâncă și durabilă în societatea salvadorană. Monumentul servește ca un loc de respect tăcut unde vizitatorii pot învăța despre istoria complexă a luptei pentru reforma agrară și demnitatea umană. Acest eveniment tragic a definit traiectoria politică a țării timp de decenii și a dus la o suprimare pe termen lung a culturii indigene. Astăzi, situl reprezintă un punct critic pentru dreptatea istorică și renașterea identității culturale.",
+      hu: "Izalco városa mellett található az az emlékhely, amely az 1932-es parasztfelkelés és az azt követő véres megtorlás áldozatainak állít emléket. A \"La Matanza\" néven elhíresült események során több tízezer őslakos és paraszt vesztette életét, mély sebet ejtve a salvadori társadalmon. Az emlékmű a néma tiszteletadás helye, ahol a látogatók megismerhetik a földreformért és az emberi méltóságért folytatott küzdelem történetét. Ez a tragikus esemény évtizedekre meghatározta az ország politikai irányvonalát és az őslakos kultúra visszaszorulását. A helyszín ma a történelmi igazságtétel és a kulturális identitás újjáéledésének fontos pontja.",
+      ro: "Situat lângă orașul Izalco, acest sit memorial este dedicat victimelor revoltei țărănești din 1932 și represaliilor sângeroase care au urmat. În timpul evenimentelor cunoscute sub numele de \"La Matanza\", zeci de mii de indigeni și țărani au fost uciși, lăsând o rană adâncă și durabilă în societatea salvadorană. Monumentul servește ca un loc de respect tăcut unde vizitatorii pot învăța despre istoria complexă a luptei pentru reforma agrară și demnitatea umană. Acest eveniment tragic a definit traiectoria politică a țării timp de decenii și a dus la o suprimare pe termen lung a culturii indigene. Astăzi, situl reprezintă un punct critic pentru dreptatea istorică și renașterea identității culturale.",
       en: "Located near the town of Izalco is the memorial site dedicated to the victims of the 1932 peasant uprising and the subsequent bloody retaliation. During the events widely known as 'La Matanza', tens of thousands of indigenous people and peasants were killed, leaving a deep and lasting wound on Salvadoran society. The monument serves as a place for silent respect where visitors can learn about the complex history of the struggle for land reform and human dignity. This tragic event defined the country's political trajectory for decades and led to a long-term suppression of indigenous culture. Today, the site stands as a critical point for historical justice and the revival of cultural identity. History K8"
     },
     factsAdvanced: {
@@ -777,8 +777,8 @@ export const poiExtraElsalvadorHistoryV2: POI[] = [
     },
     descriptionAdvanced: {
       de: "",
-      hu: "Quelepa az egyik legfontosabb régészeti lelőhely El Salvador keleti részén, amely több mint másfélezer éves folyamatos lakottságról tanúskodik. A város a Lenca kultúra egyik központja volt, mielőtt más népcsoportok befolyása alá került volna. A látogatók megcsodálhatják a monumentális teraszokat és azokat a híres „jaguár-oltárokat”, amelyek a vallási rituálék központi elemei voltak. A leletek gazdagsága bizonyítja, hogy Quelepa fontos kereskedelmi csomópontként kötötte össze a mai Honduras és Nicaragua területét a nyugati vidékekkel. A helyszín mélyebb betekintést nyújt az ország prekolumbán történelmének sokszínűségébe.",
-      ro: "Quelepa este unul dintre cele mai vitale situri arheologice din estul El Salvadorului, depunând mărturie pentru peste cincisprezece sute de ani de locuire umană continuă. Orașul a servit ca centru principal pentru cultura Lenca înainte de a intra sub influența altor grupuri regionale. Vizitatorii de astăzi pot admira terasele monumentale și faimoasele „altare de jaguar” care serveau ca elemente centrale pentru ritualurile religioase. Bogăția descoperirilor arheologice demonstrează că Quelepa a fost un nod comercial esențial care lega Hondurasul și Nicaragua de astăzi cu teritoriile vestice. Situl oferă o perspectivă profundă asupra istoriei precolumbiene diverse și complexe a națiunii.",
+      hu: "Quelepa az egyik legfontosabb régészeti lelőhely El Salvador keleti részén, amely több mint másfélezer éves folyamatos lakottságról tanúskodik. A város a Lenca kultúra egyik központja volt, mielőtt más népcsoportok befolyása alá került volna. A látogatók megcsodálhatják a monumentális teraszokat és azokat a híres \"jaguár-oltárokat\", amelyek a vallási rituálék központi elemei voltak. A leletek gazdagsága bizonyítja, hogy Quelepa fontos kereskedelmi csomópontként kötötte össze a mai Honduras és Nicaragua területét a nyugati vidékekkel. A helyszín mélyebb betekintést nyújt az ország prekolumbán történelmének sokszínűségébe.",
+      ro: "Quelepa este unul dintre cele mai vitale situri arheologice din estul El Salvadorului, depunând mărturie pentru peste cincisprezece sute de ani de locuire umană continuă. Orașul a servit ca centru principal pentru cultura Lenca înainte de a intra sub influența altor grupuri regionale. Vizitatorii de astăzi pot admira terasele monumentale și faimoasele \"altare de jaguar\" care serveau ca elemente centrale pentru ritualurile religioase. Bogăția descoperirilor arheologice demonstrează că Quelepa a fost un nod comercial esențial care lega Hondurasul și Nicaragua de astăzi cu teritoriile vestice. Situl oferă o perspectivă profundă asupra istoriei precolumbiene diverse și complexe a națiunii.",
       en: "Quelepa is among the most vital archaeological sites in eastern El Salvador, testifying to over fifteen hundred years of continuous human occupation. The city served as a primary center for the Lenca culture before later coming under the influence of other regional groups. Visitors today can admire the monumental terraces and the famous 'jaguar altars' that served as central elements for religious rituals. The richness of the archaeological finds proves that Quelepa was an essential trade hub connecting modern-day Honduras and Nicaragua with western territories. The site offers a profound insight into the diverse and complex pre-Columbian history of the nation. History K8"
     },
     factsAdvanced: {
@@ -891,8 +891,8 @@ export const poiExtraElsalvadorHistoryV2: POI[] = [
       ],
       ro: [
         "Situat la o altitudine revigorantă de 1.260 de metri deasupra nivelului mării.",
-        "Numele orașului se traduce din limba indigenă Pipil prin „Locul izvoarelor”.",
-        "Faimos pentru picturile murale iconice create de artiști locali precum „Dito” și „Axul”.",
+        "Numele orașului se traduce din limba indigenă Pipil prin \"Locul izvoarelor\".",
+        "Faimos pentru picturile murale iconice create de artiști locali precum \"Dito\" și \"Axul\".",
         "Se clasează constant printre cele mai vizitate și iubite destinații turistice din țară."
       ],
       en: [
@@ -990,7 +990,7 @@ export const poiExtraElsalvadorHistoryV2: POI[] = [
         "Erős kötődés az őslakos pipil (Nahuat) gyökerekhez."
       ],
       ro: [
-        "Servește ca prima oprire majoră pe „Ruta de las Flores” când se călătorește dinspre Sonsonate.",
+        "Servește ca prima oprire majoră pe \"Ruta de las Flores\" când se călătorește dinspre Sonsonate.",
         "Renumit pentru piața sa de noapte atmosferică, unde comerțul se desfășoară tradițional la lumina lumânărilor.",
         "Un centru regional pentru împletitul coșurilor de înaltă calitate și producția de mobilier artizanal.",
         "Menține o conexiune profundă și activă cu rădăcinile sale indigene Pipil (Nahuat)."
@@ -1472,7 +1472,7 @@ export const poiExtraElsalvadorHistoryV2: POI[] = [
     facts: {
       de: ["Heimat des 'La Palma'-Stils.", "Gegründet von Fernando Llort.", "Bunte Wandmalereien und Kunsthandwerk.", "Symbol des Friedensprozesses."],
       hu: ["A 'La Palma' stílus otthona.", "Fernando Llort alapította.", "Színes falfestmények és kézművesség.", "A békefolyamat szimbóluma."],
-      ro: ["Casa stilului „La Palma”.", "Fondat de Fernando Llort.", "Picturi murale colorate și artizanat.", "Simbol al procesului de pace."],
+      ro: ["Casa stilului \"La Palma\".", "Fondat de Fernando Llort.", "Picturi murale colorate și artizanat.", "Simbol al procesului de pace."],
       en: ["Home of the 'La Palma' style.", "Founded by artist Fernando Llort.", "Colorful murals and crafts.", "Symbol of the peace process."]
     },
     descriptionAdvanced: {
@@ -1490,9 +1490,9 @@ export const poiExtraElsalvadorHistoryV2: POI[] = [
         "A tengerszint feletti magassága 1050 méter."
       ],
       ro: [
-        "Fernando Llort și-a stabilit influenta școală de artă „La Semilla de Dios” aici în anii 1970.",
+        "Fernando Llort și-a stabilit influenta școală de artă \"La Semilla de Dios\" aici în anii 1970.",
         "Orașul contribuie cu o parte semnificativă la exporturile artizanale ale El Salvadorului.",
-        "Stilul artistic local distinctiv este recunoscut oficial ca „Arta Naivă din La Palma”.",
+        "Stilul artistic local distinctiv este recunoscut oficial ca \"Arta Naivă din La Palma\".",
         "Orașul este situat într-o regiune muntoasă cu păduri de pini, la 1.050 de metri altitudine."
       ],
       en: [

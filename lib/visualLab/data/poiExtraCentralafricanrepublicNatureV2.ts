@@ -12,7 +12,7 @@ export const poiExtraCentralafricanrepublicNatureV2: POI[] = [
       hu: "Ubangi folyó",
       ro: "Râul Ubangi",
       en: "Ubangi River"
-    ,
+    },
     descriptionAdvanced: {
       ro: "Râul Ubangi este cel mai mare afluent al fluviului Congo, servind ca arteră principală de transport și sursă de apă pentru milioane de oameni de-a lungul cursului său prin Republica Centrafricană. Geografie K7 – Hidrografie.",
       en: "The Ubangi River is the largest tributary of the Congo River and acts as the primary natural border for the Central African Republic in the south. Its extensive drainage basin sustains the country's southern forest ecosystems and provides a vital waterway for transport and local trade. The river is essential to both the ecological diversity and the economic connectivity of the nation. Geography K7 — River systems."
@@ -22,8 +22,7 @@ export const poiExtraCentralafricanrepublicNatureV2: POI[] = [
     },
     factsAdvanced: {
       ro: ["Tip: curs fluvial principal.", "Importanță: arteră de transport.", "Rol: sursă de apă.", "Impact: infrastructură vitală.", "Conexiune: fluviul Congo.", "Economie: transport și pescuit."]
-    }
-  },
+    },
     description: {
       de: "Der größte rechte Nebenfluss des Kongo-Flusses bildet eine wichtige Lebensader und Grenzregion für das Land.",
       hu: "A Kongó folyó legnagyobb jobb oldali mellékága, az ország fontos élettere és határvidéke.",
@@ -46,7 +45,7 @@ export const poiExtraCentralafricanrepublicNatureV2: POI[] = [
       hu: "Sangha folyó",
       ro: "Râul Sangha",
       en: "Sangha River"
-    ,
+    },
     descriptionAdvanced: {
       ro: "Râul Sangha traversează regiunea dens împădurită din sud-vest, fiind un ecosistem vital pentru biodiversitatea forestieră și o resursă cheie pentru transportul resurselor forestiere. Geografie K7 – Ecosisteme fluviale.",
       en: "The Sangha River flows through the southwestern part of the Central African Republic, passing through dense tropical rainforests. It is a critical river system that supports unique aquatic wildlife and provides essential transport for the forestry industry in the Sangha-Mbaéré prefecture. The river is a key part of the larger Congo River basin network. Geography K7 — Rainforest rivers."
@@ -56,8 +55,7 @@ export const poiExtraCentralafricanrepublicNatureV2: POI[] = [
     },
     factsAdvanced: {
       ro: ["Tip: curs fluvial forestier.", "Regiune: sud-vest.", "Importanță: biodiversitate forestieră.", "Rol: transport de resurse.", "Impact: ecosistem cheie.", "Economie: industria forestieră."]
-    }
-  },
+    },
     description: {
       de: "Ein bedeutender Fluss im Südwesten, der durch dichte Regenwälder fließt und Teil eines UNESCO-Welterbes ist.",
       hu: "Jelentős folyó délnyugaton, amely sűrű esőerdőkön folyik keresztül, és az UNESCO Világörökség része.",
@@ -80,7 +78,7 @@ export const poiExtraCentralafricanrepublicNatureV2: POI[] = [
       hu: "Chari folyó",
       ro: "Râul Chari",
       en: "Chari River"
-    ,
+    },
     descriptionAdvanced: {
       ro: "Râul Chari curge spre nord, fiind o sursă importantă de apă în regiunile de savană și susținând viața agricolă și piscicolă în zonele traversate de acesta. Geografie K7 – Hidrografie.",
       en: "The Chari River originates in the Central African Republic and flows northward towards Lake Chad. It is the most important river in the northern part of the country, acting as the lifeblood for the savanna ecosystems and local agricultural communities. Its seasonal cycles dictate the rhythm of life for those living along its banks in the northern regions. Geography K7 — Northern water systems."
@@ -90,8 +88,7 @@ export const poiExtraCentralafricanrepublicNatureV2: POI[] = [
     },
     factsAdvanced: {
       ro: ["Tip: curs fluvial nordic.", "Regiune: nordul țării.", "Importanță: agricultură și pescuit.", "Rol: sursă de apă.", "Impact: susținerea savanei.", "Economie: resurse naturale."]
-    }
-  },
+    },
     description: {
       de: "Dieser Fluss im Norden des Landes fließt in Richtung Tschadsee und speist das dortige Ökosystem.",
       hu: "Az ország északi részén található folyó a Csád-tó irányába folyik, és táplálja az ottani ökoszisztémát.",
@@ -114,7 +111,7 @@ export const poiExtraCentralafricanrepublicNatureV2: POI[] = [
       hu: "Mbomou folyó",
       ro: "Râul Mbomou",
       en: "Mbomou River"
-    ,
+    },
     descriptionAdvanced: {
       ro: "Râul Mbomou delimitează granița naturală a țării în est, fiind un ecosistem bogat și o resursă esențială pentru comunitățile riverane care depind de pescuit și agricultură. Geografie K7 – Geografie politică și fizică.",
       en: "The Mbomou River is a key watercourse in the southeastern part of the Central African Republic, forming a significant portion of the border with the Democratic Republic of the Congo. It flows through forest and transitional woodland zones, acting as an important habitat for aquatic wildlife and a transport route for regional communities. Geography K7 — Border rivers."
@@ -124,8 +121,7 @@ export const poiExtraCentralafricanrepublicNatureV2: POI[] = [
     },
     factsAdvanced: {
       ro: ["Tip: râu de graniță (est).", "Importanță: ecosistem bogat.", "Rol: sursă pentru comunități.", "Economie: pescuit și agricultură.", "Impact: graniță naturală.", "Resursă: apă."]
-    }
-  },
+    },
     description: {
       de: "Der Fluss bildet einen großen Teil der südlichen Grenze zur Demokratischen Republik Kongo.",
       hu: "A folyó a Kongói Demokratikus Köztársasággal közös déli határ jelentős részét alkotja.",
@@ -148,7 +144,7 @@ export const poiExtraCentralafricanrepublicNatureV2: POI[] = [
       hu: "Lobaye folyó",
       ro: "Râul Lobaye",
       en: "Lobaye River"
-    ,
+    },
     descriptionAdvanced: {
       ro: "Râul Lobaye traversează pădurile tropicale din sud-vest, fiind un element vital în gestionarea resurselor naturale și susținerea stilului de viață al populațiilor forestiere. Geografie K7 – Ecosisteme.",
       en: "The Lobaye River is a major tributary in the south, known for the lush, rain-abundant forest basin it drains. This area is highly biodiverse and rich in natural resources. The river system supports local agriculture, such as coffee and tropical crop farming, and remains a central ecological feature for the southern prefectures. Geography K7 — Forest river basins."
@@ -158,8 +154,7 @@ export const poiExtraCentralafricanrepublicNatureV2: POI[] = [
     },
     factsAdvanced: {
       ro: ["Tip: râu forestier.", "Regiune: sud-vest.", "Importanță: gestionarea resurselor.", "Rol: susținerea populațiilor.", "Impact: echilibru ecologic.", "Resursă: apă."]
-    }
-  },
+    },
     description: {
       de: "Ein wichtiger Nebenfluss des Ubangi, der durch die regenwaldreiche Region Lobaye fließt.",
       hu: "Az Ubangi fontos mellékfolyója, amely a gazdag esőerdőkkel borított Lobaye régión folyik keresztül.",
@@ -182,7 +177,7 @@ export const poiExtraCentralafricanrepublicNatureV2: POI[] = [
       hu: "Ouham folyó",
       ro: "Râul Ouham",
       en: "Ouham River"
-    ,
+    },
     descriptionAdvanced: {
       ro: "Râul Ouham este esențial pentru agricultură în centrul și nordul țării, susținând producția de bumbac și cereale prin sistemele sale de irigație naturale și sursele de apă. Geografie K7 – Irigații și agricultură.",
       en: "The Ouham River is a primary water source in the central and northern parts of the Central African Republic. It drains into the Chari river system and is crucial for supporting agricultural communities in the fertile northern plains. Its seasonal flow is a fundamental component of the environmental stability and economic production of the Ouham prefecture. Geography K7 — Fertile river systems."
@@ -192,8 +187,7 @@ export const poiExtraCentralafricanrepublicNatureV2: POI[] = [
     },
     factsAdvanced: {
       ro: ["Tip: râu agricol.", "Regiune: centru și nord.", "Importanță: irigații.", "Economie: bumbac și cereale.", "Impact: producție agricolă.", "Resursă: apă."]
-    }
-  },
+    },
     description: {
       de: "Ein bedeutender Fluss im Nordwesten, der eine wichtige Wasserquelle für die Landwirtschaft darstellt.",
       hu: "Jelentős folyó északnyugaton, amely a mezőgazdaság számára fontos vízforrást jelent.",
@@ -216,7 +210,7 @@ export const poiExtraCentralafricanrepublicNatureV2: POI[] = [
       hu: "Kotto folyó",
       ro: "Râul Kotto",
       en: "Kotto River"
-    ,
+    },
     descriptionAdvanced: {
       ro: "Râul Kotto traversează estul țării, fiind un punct vital pentru comunitățile care depind de pescuit și resursele acvatice din această regiune izolată. Geografie K7 – Resurse acvatice.",
       en: "The Kotto River flows through the eastern part of the country, draining the central plateau into the Ubangi system. It is characteristic of the eastern geography, with fluctuating water levels and diverse riparian habitats. The river basin supports both local communities and the unique wildlife populations of the remote eastern prefectures. Geography K7 — Eastern river networks."
@@ -226,8 +220,7 @@ export const poiExtraCentralafricanrepublicNatureV2: POI[] = [
     },
     factsAdvanced: {
       ro: ["Tip: curs fluvial estic.", "Importanță: comunități izolate.", "Rol: pescuit.", "Impact: resurse acvatice.", "Economie: trai local.", "Resursă: apă."]
-    }
-  },
+    },
     description: {
       de: "Dieser Fluss fließt durch das Herz des Landes und ist bekannt für seine zahlreichen Wasserfälle.",
       hu: "Ez a folyó az ország szívén folyik keresztül, és számos vízeséséről ismert.",
@@ -250,7 +243,7 @@ export const poiExtraCentralafricanrepublicNatureV2: POI[] = [
       hu: "Mambéré folyó",
       ro: "Râul Mambéré",
       en: "Mambéré River"
-    ,
+    },
     descriptionAdvanced: {
       ro: "Râul Mambéré este situat în zona minieră a sud-vestului, având un rol în spălarea minereurilor și susținerea activităților de extracție, fiind în același timp o resursă de apă importantă. Geografie K7 – Resurse miniere.",
       en: "The Mambéré River is a major watercourse in the western Central African Republic, known for its association with the diamond and gold mining regions. It flows through hilly terrain, shaping the landscape and providing a primary source of water for both mining operations and surrounding forest-based communities. Geography K7 — River systems and minerals."
@@ -260,8 +253,7 @@ export const poiExtraCentralafricanrepublicNatureV2: POI[] = [
     },
     factsAdvanced: {
       ro: ["Tip: râu minier.", "Regiune: sud-vest.", "Importanță: extracție minieră.", "Rol: resursă de apă.", "Economie: minerit.", "Impact: dezvoltare locală."]
-    }
-  },
+    },
     description: {
       de: "Ein wichtiger Fluss im Westen, der zusammen mit dem Kadeï den Sangha bildet.",
       hu: "Fontos folyó nyugaton, amely a Kadeï folyóval együtt alkotja a Sangha folyót.",
@@ -284,7 +276,7 @@ export const poiExtraCentralafricanrepublicNatureV2: POI[] = [
       hu: "Kadeï folyó",
       ro: "Râul Kadeï",
       en: "Kadeï River"
-    ,
+    },
     descriptionAdvanced: {
       ro: "Râul Kadéï, alături de Mambéré, contribuie la rețeaua hidrografică din sud-vest, având un rol semnificativ în susținerea biodiversității și a resurselor locale. Geografie K7 – Hidrografie.",
       en: "The Kadéï River is another significant waterway in the west, critical for the forestry and agricultural potential of the region. It contributes to the wider Congo basin and is characterized by a high degree of ecological integrity, supporting vast areas of tropical rainforest. The river's basin is central to the livelihood of western forest-dwellers. Geography K7 — Western forest rivers."
@@ -294,8 +286,7 @@ export const poiExtraCentralafricanrepublicNatureV2: POI[] = [
     },
     factsAdvanced: {
       ro: ["Tip: curs fluvial sud-vestic.", "Importanță: biodiversitate.", "Rol: resurse locale.", "Impact: rețea hidrografică.", "Economie: agricultură.", "Resursă: apă."]
-    }
-  },
+    },
     description: {
       de: "Ein westlicher Fluss, der in Kamerun entspringt und in Nola mit dem Mambéré zusammenfließt.",
       hu: "Nyugati folyó, amely Kamerunban ered, és Nolánál egyesül a Mambéré folyóval.",
@@ -318,7 +309,7 @@ export const poiExtraCentralafricanrepublicNatureV2: POI[] = [
       hu: "Ouaka folyó",
       ro: "Râul Ouaka",
       en: "Ouaka River"
-    ,
+    },
     descriptionAdvanced: {
       ro: "Râul Ouaka este un pilon al vieții în prefectura cu același nume, susținând activitățile agricole și oferind apă potabilă comunităților din jurul orașului Bambari. Geografie K7 – Resurse locale.",
       en: "The Ouaka River runs through the heart of the central region, passing near the city of Bambari. It is a vital artery for the central plains, providing water for agricultural processing and the needs of regional populations. Its ecological importance is linked to the agricultural productivity of the Ouaka prefecture and its tributaries. Geography K7 — Central plains hydrology."
@@ -328,8 +319,7 @@ export const poiExtraCentralafricanrepublicNatureV2: POI[] = [
     },
     factsAdvanced: {
       ro: ["Tip: râu regional.", "Regiune: Ouaka.", "Importanță: viața locală.", "Rol: agricultură și apă potabilă.", "Impact: susținerea comunităților.", "Resursă: apă."]
-    }
-  },
+    },
     description: {
       de: "Ein Nebenfluss des Ubangi, der durch das Zentrum des Landes fließt und der Präfektur Ouaka ihren Namen gibt.",
       hu: "Az Ubangi egyik mellékfolyója, amely az ország közepén folyik keresztül, és nevet ad Ouaka prefektúrának.",
@@ -352,14 +342,13 @@ export const poiExtraCentralafricanrepublicNatureV2: POI[] = [
       hu: "Bamingui folyó",
       ro: "Râul Bamingui",
       en: "Bamingui River"
-    ,
+    },
     descriptionAdvanced: {
       ro: "Râul Bamingui curge prin parcul național cu același nume, fiind vital pentru fauna sălbatică și menținerea ecosistemelor de savană din regiune. Geografie K7 – Arii protejate."
     },
     factsAdvanced: {
       ro: ["Tip: râu în parc național.", "Regiune: centru-nord.", "Importanță: conservarea faunei.", "Rol: ecosisteme de savană.", "Impact: conservare.", "Resursă: apă."]
-    }
-  },
+    },
     description: {
       de: "Ein Fluss im Norden, der Teil des Einzugsgebiets des Chari-Flusses ist und durch Wildschutzgebiete fließt.",
       hu: "Északi folyó, amely a Chari folyó vízgyűjtő területéhez tartozik, és vadrezervátumokon folyik keresztül.",
@@ -382,14 +371,13 @@ export const poiExtraCentralafricanrepublicNatureV2: POI[] = [
       hu: "Bangoran folyó",
       ro: "Râul Bangoran",
       en: "Bangoran River"
-    ,
+    },
     descriptionAdvanced: {
       ro: "Râul Bangoran, un afluent important în nord, contribuie la rețeaua hidrografică care menține umiditatea necesară vegetației și faunei în perioadele de secetă. Geografie K7 – Hidrografie."
     },
     factsAdvanced: {
       ro: ["Tip: curs fluvial nordic.", "Importanță: ecosistem local.", "Rol: umiditate pentru vegetație.", "Impact: menținerea faunei.", "Economie: resurse naturale.", "Resursă: apă."]
-    }
-  },
+    },
     description: {
       de: "Ein nördlicher Fluss, der zusammen mit dem Bamingui eine bedeutende Naturregion bildet.",
       hu: "Északi folyó, amely a Bamingui folyóval együtt jelentős természeti régiót alkot.",
@@ -412,14 +400,13 @@ export const poiExtraCentralafricanrepublicNatureV2: POI[] = [
       hu: "Ngaoui-hegy",
       ro: "Muntele Ngaoui",
       en: "Mount Ngaoui"
-    ,
+    },
     descriptionAdvanced: {
       ro: "Muntele Ngaoui este cel mai înalt punct din Republica Centrafricană, oferind un peisaj montan spectaculos și un microclimat unic care susține specii de plante specifice. Geografie K7 – Relief și altitudine."
     },
     factsAdvanced: {
       ro: ["Tip: punct culminant național.", "Regiune: sud-vest.", "Importanță: microclimat.", "Impact: peisaj montan.", "Resursă: relief.", "Biodiversitate: specii unice."]
-    }
-  },
+    },
     description: {
       de: "Der höchste Punkt der Zentralafrikanischen Republik liegt an der Grenze zu Kamerun.",
       hu: "A Közép-afrikai Köztársaság legmagasabb pontja, a kameruni határon fekszik.",
@@ -442,14 +429,13 @@ export const poiExtraCentralafricanrepublicNatureV2: POI[] = [
       hu: "Toussoro-hegy",
       ro: "Muntele Toussoro",
       en: "Mount Toussoro"
-    ,
+    },
     descriptionAdvanced: {
       ro: "Muntele Toussoro face parte din reliefurile montane din estul țării, contribuind la diversitatea geologică și oferind habitate pentru specii endemice de faună și floră. Geografie K7 – Geologie și relief."
     },
     factsAdvanced: {
       ro: ["Tip: relief montan.", "Regiune: estul țării.", "Importanță: diversitate geologică.", "Impact: habitat pentru specii.", "Resursă: relief.", "Biodiversitate: endemisme."]
-    }
-  },
+    },
     description: {
       de: "Ein markanter Berg im Bongo-Massiv im Nordosten des Landes.",
       hu: "Jellegzetes hegy a Bongo-masszívumban, az ország északkeleti részén.",
@@ -472,14 +458,13 @@ export const poiExtraCentralafricanrepublicNatureV2: POI[] = [
       hu: "Kayang-hegy",
       ro: "Muntele Kayang",
       en: "Mount Kayang"
-    ,
+    },
     descriptionAdvanced: {
       ro: "Muntele Kayang reprezintă un element de relief important în regiunile centrale, oferind puncte de observare și un ecosistem montan care diferă de savanele adiacente. Geografie K7 – Relieful."
     },
     factsAdvanced: {
       ro: ["Tip: munte.", "Regiune: centru.", "Importanță: ecosistem montan.", "Impact: diversitate de relief.", "Resursă: relief.", "Peisaj: observare."]
-    }
-  },
+    },
     description: {
       de: "Ein Berg im Westen des Landes, der Teil der gebirgigen Grenzregion zu Kamerun ist.",
       hu: "Hegy az ország nyugati részén, amely a kameruni határmenti hegyvidéki régió része.",
@@ -503,14 +488,13 @@ export const poiExtraCentralafricanrepublicNatureV2: POI[] = [
       hu: "Ngaya-hegy",
       ro: "Muntele Ngaya",
       en: "Mount Ngaya"
-    ,
+    },
     descriptionAdvanced: {
       ro: "Muntele Ngaya contribuie la diversitatea geografică a Republicii Centrafricane, fiind o zonă cu importanță pentru ecoturismul montan și explorarea peisajelor naturale locale. Geografie K7 – Ecoturism."
     },
     factsAdvanced: {
       ro: ["Tip: munte.", "Regiune: diversitate geografică.", "Importanță: ecoturism montan.", "Impact: explorare naturală.", "Resursă: relief.", "Activitate: turism."]
-    }
-  },
+    },
     description: {
       de: "Ein bedeutender Gipfel im zentralen Hochland der Zentralafrikanischen Republik.",
       hu: "Jelentős csúcs a Közép-afrikai Köztársaság középső felföldjén.",
@@ -533,14 +517,13 @@ export const poiExtraCentralafricanrepublicNatureV2: POI[] = [
       hu: "Bongo-masszívum",
       ro: "Masivul Bongo",
       en: "Bongo Massif"
-    ,
+    },
     descriptionAdvanced: {
       ro: "Masivul Bongo ocupă o zonă vastă în nord-est, fiind o regiune montană cu o geologie complexă care influențează drenajul hidrografic și climatul local. Geografie K7 – Geologie și climat."
     },
     factsAdvanced: {
       ro: ["Tip: masiv muntos.", "Regiune: nord-est.", "Importanță: geologie complexă.", "Impact: climat local.", "Resursă: relief.", "Drenaj: hidrografic."]
-    }
-  },
+    },
     description: {
       de: "Ein ausgedehntes Gebirgsmassiv im Nordosten, das als natürliche Grenze fungiert.",
       hu: "Kiterjedt hegység északkeleten, amely természetes határként szolgál.",
@@ -563,14 +546,13 @@ export const poiExtraCentralafricanrepublicNatureV2: POI[] = [
       hu: "Yadé-masszívum",
       ro: "Masivul Yadé",
       en: "Yadé Massif"
-    ,
+    },
     descriptionAdvanced: {
       ro: "Masivul Yadé reprezintă un relief montan important în vestul țării, cu o influență directă asupra regimului de precipitații și a calității solurilor din zonele limitrofe. Geografie K7 – Relief și precipitații."
     },
     factsAdvanced: {
       ro: ["Tip: masiv muntos.", "Regiune: vest.", "Importanță: influență climatică.", "Impact: regim de precipitații.", "Resursă: relief.", "Impact: calitate sol."]
-    }
-  },
+    },
     description: {
       de: "Ein Hochlandgebiet im Westen des Landes, das eine Fortsetzung des Adamaoua-Plateaus ist.",
       hu: "Felföldi terület az ország nyugati részén, amely az Adamaoua-fennsík folytatása.",
@@ -594,14 +576,13 @@ export const poiExtraCentralafricanrepublicNatureV2: POI[] = [
       hu: "Dzanga-Sangha esőerdő",
       ro: "Pădurea tropicală Dzanga-Sangha",
       en: "Dzanga-Sangha Rainforest"
-    ,
+    },
     descriptionAdvanced: {
       ro: "Pădurea Dzanga-Sangha este una dintre cele mai importante rezervații de pădure tropicală, recunoscută la nivel mondial pentru biodiversitatea sa incredibilă și speciile protejate. Geografie K7 – Arii protejate."
     },
     factsAdvanced: {
       ro: ["Tip: pădure tropicală.", "Regiune: sud-vest.", "Importanță: biodiversitate mondială.", "Impact: conservarea speciilor.", "Resursă: biodiversitate.", "Rol: rezervație."]
-    }
-  },
+    },
     description: {
       de: "Ein dichter tropischer Regenwald im tiefen Süden, berühmt für seine biologische Vielfalt.",
       hu: "Sűrű trópusi esőerdő a távoli délen, biológiai sokféleségéről híres.",
@@ -624,14 +605,13 @@ export const poiExtraCentralafricanrepublicNatureV2: POI[] = [
       hu: "Chinko-erdő",
       ro: "Pădurea Chinko",
       en: "Chinko Forest"
-    ,
+    },
     descriptionAdvanced: {
       ro: "Pădurea Chinko este o zonă de conservare majoră în estul țării, care protejează ecosisteme complexe și specii rare, contribuind la echilibrul natural al regiunii. Geografie K7 – arii protejate."
     },
     factsAdvanced: {
       ro: ["Tip: zonă de conservare.", "Regiune: est.", "Importanță: ecosisteme complexe.", "Impact: echilibru natural.", "Resursă: biodiversitate.", "Rol: protecție."]
-    }
-  },
+    },
     description: {
       de: "Ein riesiges Wildnisgebiet im Osten, das eine Mischung aus Savanne und Regenwald darstellt.",
       hu: "Hatalmas vadon keleten, amely a szavanna és az esőerdő keveréke.",
@@ -654,14 +634,13 @@ export const poiExtraCentralafricanrepublicNatureV2: POI[] = [
       hu: "Zemongo-erdő",
       ro: "Pădurea Zemongo",
       en: "Zemongo Forest"
-    ,
+    },
     descriptionAdvanced: {
       ro: "Zona forestieră Zemongo este o componentă vitală a patrimoniului natural, oferind un habitat sigur pentru fauna sălbatică și susținând ciclurile biologice în regiunea estică. Geografie K7 – Arii naturale."
     },
     factsAdvanced: {
       ro: ["Tip: zonă forestieră.", "Regiune: est.", "Importanță: patrimoniu natural.", "Impact: cicluri biologice.", "Resursă: biodiversitate.", "Habitat: faună sălbatică."]
-    }
-  },
+    },
     description: {
       de: "Ein abgelegenes Waldgebiet im Osten, das für seine unberührte Natur bekannt ist.",
       hu: "Távoli erdős terület keleten, amely érintetlen természetéről ismert.",
@@ -684,14 +663,13 @@ export const poiExtraCentralafricanrepublicNatureV2: POI[] = [
       hu: "Goumba-tó",
       ro: "Lacul Goumba",
       en: "Lake Goumba"
-    ,
+    },
     descriptionAdvanced: {
       ro: "Lacul Goumba este un corp de apă important în regiunile centrale, servind ca resursă de apă pentru agricultură și ca habitat pentru diverse specii de păsări migratoare. Geografie K7 – Ecosisteme acvatice."
     },
     factsAdvanced: {
       ro: ["Tip: lac.", "Regiune: centru.", "Importanță: resursă agricolă.", "Impact: habitat pentru păsări.", "Economie: agricultură.", "Resursă: apă."]
-    }
-  },
+    },
     description: {
       de: "Ein kleiner, aber ökologisch wichtiger See im zentralen Hochland des Landes.",
       hu: "Kicsi, de ökológiailag fontos tó az ország középső felföldjén.",
@@ -714,14 +692,13 @@ export const poiExtraCentralafricanrepublicNatureV2: POI[] = [
       hu: "Maméré-tó",
       ro: "Lacul Maméré",
       en: "Lake Mamere"
-    ,
+    },
     descriptionAdvanced: {
       ro: "Lacul Mamere este o zonă umedă esențială pentru echilibrul ecosistemului local, oferind refugiu faunei și resurse de apă pentru comunitățile din apropiere. Geografie K7 – Zone umede."
     },
     factsAdvanced: {
       ro: ["Tip: lac/zonă umedă.", "Importanță: echilibru ecosistem.", "Impact: refugiu pentru faună.", "Rol: resurse de apă.", "Economie: comunități locale.", "Resursă: apă."]
-    }
-  },
+    },
     description: {
       de: "Ein natürlicher See in der Haute-Kotto Region, der eine wichtige lokale Ressource darstellt.",
       hu: "Természetes tó a Haute-Kotto régióban, amely fontos helyi erőforrást jelent.",
@@ -744,14 +721,13 @@ export const poiExtraCentralafricanrepublicNatureV2: POI[] = [
       hu: "Matoumbou-dombok",
       ro: "Dealurile Matoumbou",
       en: "Matoumbou Hills"
-    ,
+    },
     descriptionAdvanced: {
       ro: "Dealurile Matoumbou sunt o formă de relief locală care contribuie la peisajul variat al regiunii, oferind habitate pentru specii de plante și animale specifice mediilor deluroase. Geografie K7 – Relief și biodiversitate."
     },
     factsAdvanced: {
       ro: ["Tip: relief deluros.", "Importanță: biodiversitate.", "Impact: peisaj variat.", "Resursă: relief.", "Habitat: specii locale.", "Biodiversitate: plante și animale."]
-    }
-  },
+    },
     description: {
       de: "Eine Hügelkette im Süden, die von dichtem Wald bedeckt ist und das Lobaye-Becken überragt.",
       hu: "Dombvidék délen, amelyet sűrű erdő borít, és a Lobaye-medence fölé magasodik.",
@@ -774,14 +750,13 @@ export const poiExtraCentralafricanrepublicNatureV2: POI[] = [
       hu: "Fertit-hegység",
       ro: "Munții Fertit",
       en: "Fertit Mountains"
-    ,
+    },
     descriptionAdvanced: {
       ro: "Munții Fertit, în nord-est, sunt formațiuni geologice care influențează climatul local și adăpostesc ecosisteme montane deosebite, fiind o resursă naturală importantă. Geografie K7 – Relief montan."
     },
     factsAdvanced: {
       ro: ["Tip: munți.", "Regiune: nord-est.", "Importanță: ecosisteme montane.", "Impact: climat local.", "Resursă: relief.", "Diversitate: formațiuni geologice."]
-    }
-  },
+    },
     description: {
       de: "Ein Gebirgszug im äußersten Nordosten des Landes an der Grenze zum Sudan.",
       hu: "Hegylánc az ország távoli északkeleti részén, a szudáni határon.",

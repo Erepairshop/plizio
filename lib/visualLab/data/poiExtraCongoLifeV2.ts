@@ -12,7 +12,14 @@ export const poiExtraCongoLifeV2: POI[] = [
       hu: "Lossi Gorilla-szentély",
       ro: "Sanctuarul de Gorile Lossi",
       en: "Lossi Gorilla Sanctuary"
+    ,
+    descriptionAdvanced: {
+      en: "The Lossi Gorilla Sanctuary is a pioneering site for community-led conservation in the Republic of the Congo. It offers a critical refuge for Western Lowland Gorillas, integrating habitat protection with the active participation and stewardship of local villages. By demonstrating that conservation can thrive alongside community development, the sanctuary serves as a vital model for wildlife management in Central Africa. Sachkunde K5 — endangered species and community-led conservation."
     },
+    factsAdvanced: {
+      en: ["Pioneering model for community-led conservation.", "Crucial refuge for Western Lowland Gorillas.", "Managed in close partnership with local villages.", "Significant example of biodiversity stewardship.", "Demonstrates sustainable wildlife management.", "Located in the ecologically rich Sangha region."]
+    }
+  },
     description: {
       de: "Ein bedeutendes Schutzgebiet für Flachlandgorillas, das in enger Zusammenarbeit mit der lokalen Bevölkerung verwaltet wird.",
       hu: "A síkvidéki gorillák jelentős védett területe, amelyet a helyi közösséggel szoros együttműködésben kezelnek.",
@@ -35,7 +42,14 @@ export const poiExtraCongoLifeV2: POI[] = [
       hu: "Tchimpounga Csimpánz-rezervátum",
       ro: "Rezervația de Cimpanzei Tchimpounga",
       en: "Tchimpounga Chimpanzee Sanctuary"
+    ,
+    descriptionAdvanced: {
+      en: "The Tchimpounga Chimpanzee Sanctuary is the largest facility of its kind in Africa, providing essential care for orphaned chimpanzees. Founded by the Jane Goodall Institute, it offers a safe environment for animals rescued from the illegal pet and bushmeat trades, emphasizing rehabilitation and, where possible, eventual reintroduction to protected areas. It is an internationally recognized center for chimpanzee welfare and conservation education. Sachkunde K6 — primate welfare and rehabilitation."
     },
+    factsAdvanced: {
+      en: ["Largest chimpanzee sanctuary in Africa.", "Founded by the Jane Goodall Institute.", "Primary refuge for rescued orphaned chimpanzees.", "Focuses on chimpanzee welfare and rehabilitation.", "Leading center for conservation education.", "Critical sanctuary against bushmeat trade impacts."]
+    }
+  },
     description: {
       de: "Das größte Schimpansen-Waisenhaus in Afrika, gegründet vom Jane-Goodall-Institut für gerettete Jungtiere.",
       hu: "Afrika legnagyobb csimpánz-árvaháza, amelyet a Jane Goodall Intézet alapított mentett fiatal állatok számára.",
@@ -58,7 +72,14 @@ export const poiExtraCongoLifeV2: POI[] = [
       hu: "Brazzaville-i Állatkert",
       ro: "Grădina Zoologică Brazzaville",
       en: "Brazzaville Zoo"
+    ,
+    descriptionAdvanced: {
+      en: "The Brazzaville Zoo is the primary facility in the capital for displaying native fauna and educating the public about the country's rich natural heritage. It hosts various species, ranging from monkeys and reptiles to birds, providing city dwellers and families with an accessible connection to local wildlife. The zoo is a central point for wildlife appreciation and awareness within the urban landscape. Sachkunde K4 — wildlife awareness and urban public education."
     },
+    factsAdvanced: {
+      en: ["Central educational zoo for the capital city.", "Focuses on native Congolese wildlife species.", "Popular destination for families and schools.", "Hosts a variety of monkeys and local reptiles.", "Central urban location for wildlife appreciation.", "Important educational center for city residents."]
+    }
+  },
     description: {
       de: "Der zentrale Zoo der Hauptstadt, der einheimische Tierarten zeigt und ein beliebtes Ziel für Familien ist.",
       hu: "A főváros központi állatkertje, amely őshonos fajokat mutat be, és a családok kedvelt célpontja.",
@@ -81,7 +102,14 @@ export const poiExtraCongoLifeV2: POI[] = [
       hu: "Brazzaville-i Botanikus Kert",
       ro: "Grădina Botanică din Brazzaville",
       en: "Brazzaville Botanical Garden"
+    ,
+    descriptionAdvanced: {
+      en: "The Brazzaville Botanical Garden offers a serene green escape in the middle of the capital, showcasing the diverse and often spectacular tropical flora native to the Congo Basin. Beyond its role as a beautiful public park, it serves as a significant site for botanical study and environmental awareness. Its preserved landscape is an essential lung for the city, housing rare tree and plant species. Sachkunde K5 — tropical botany and urban environments."
     },
+    factsAdvanced: {
+      en: ["Green botanical lung within Brazzaville.", "Showcases diverse flora of the Congo Basin.", "Established for botanical study and recreation.", "Features rare tropical plants and trees.", "Important site for environmental awareness.", "Serene public space for city residents."]
+    }
+  },
     description: {
       de: "Eine grüne Oase in der Stadt, die die Vielfalt der tropischen Flora des Kongos präsentiert.",
       hu: "Zöld oázis a városban, amely Kongó trópusi flórájának sokszínűségét mutatja be.",
@@ -105,7 +133,14 @@ export const poiExtraCongoLifeV2: POI[] = [
       hu: "Nkayi cukornádültetvények",
       ro: "Câmpurile de trestie de zahăr din Nkayi",
       en: "Nkayi Sugar Cane Fields"
+    ,
+    descriptionAdvanced: {
+      en: "The vast sugar cane fields around Nkayi represent one of Congo's most significant agricultural landscapes. These plantations, which form the backbone of the region's economy, illustrate the large-scale modification of the environment for industrial food production. The cyclical harvesting and processing of sugar cane are central to the rhythm of life in this fertile agricultural hub. Geography K6 — industrial agriculture and rural life."
     },
+    factsAdvanced: {
+      en: ["Extensive plantations driving the Nkayi economy.", "Central hub for Congo's sugar production.", "Example of large-scale industrial farming.", "Cyclical nature of sugar cane harvest.", "Optimizes fertile plains in the Bouenza region.", "Key agricultural landscape for national food trade."]
+    }
+  },
     description: {
       de: "Ausgedehnte Plantagen rund um Nkayi, die das Zentrum der kongolesischen Zuckerproduktion bilden.",
       hu: "Hatalmas ültetvények Nkayi körül, amelyek a kongói cukortermelés központját alkotják.",
@@ -128,7 +163,14 @@ export const poiExtraCongoLifeV2: POI[] = [
       hu: "Mossaka rizsföldjei",
       ro: "Câmpurile de orez din Mossaka",
       en: "Mossaka Rice Fields"
+    ,
+    descriptionAdvanced: {
+      en: "The rice fields of Mossaka are a testament to the traditional mastery of the Congo River's seasonal flood patterns. By cultivating resilient rice varieties in these fertile floodplains, the local community secures a staple food source for the entire region. This agricultural system is a prime example of human adaptation to complex tropical river environments. Sachkunde K4 — agricultural adaptation to water systems."
     },
+    factsAdvanced: {
+      en: ["Traditional cultivation in seasonal floodplains.", "Vital staple food source for the Mossaka region.", "Uses natural annual flooding for irrigation.", "Adaptation of farming to river topography.", "Key component of regional food security.", "Rice production is foundational to local commerce."]
+    }
+  },
     description: {
       de: "Fruchtbare Überschwemmungsgebiete am Kongo-Fluss, die für den Reisanbau genutzt werden.",
       hu: "Termékeny ártéri területek a Kongó-folyó mentén, amelyeket rizstermesztésre használnak.",
@@ -151,7 +193,14 @@ export const poiExtraCongoLifeV2: POI[] = [
       hu: "Sangha kakaóültetvények",
       ro: "Plantațiile de cacao din Sangha",
       en: "Sangha Cocoa Plantations"
+    ,
+    descriptionAdvanced: {
+      en: "The cocoa plantations in the Sangha region flourish in the unique conditions provided by the dense tropical rainforest canopy. Cocoa, as a high-value export crop, has become an increasingly important part of the northern agricultural sector, providing economic livelihoods for many local farmers. Cultivated under protective shade trees, this sustainable agro-forestry practice supports both the economy and biodiversity. Geography K7 — sustainable agriculture in tropical forest regions."
     },
+    factsAdvanced: {
+      en: ["High-value export crop for northern Congo.", "Grown under traditional shade-tree methods.", "Supports agro-forestry as a sustainable practice.", "Increasingly important livelihood for farmers.", "Thrives in Sangha's humid forest conditions.", "Growing export sector for the northern region."]
+    }
+  },
     description: {
       de: "In den Regenwäldern der Sangha-Region gelegene Plantagen, die hochwertigen Kakao für den Export produzieren.",
       hu: "A Sangha-régió esőerdőiben található ültetvények, amelyek kiváló minőségű kakaót termelnek exportra.",
@@ -175,7 +224,14 @@ export const poiExtraCongoLifeV2: POI[] = [
       hu: "Ouésso pálmaolaj-ültetvények",
       ro: "Plantațiile de ulei de palmier din Ouésso",
       en: "Ouésso Palm Oil Plantations"
+    ,
+    descriptionAdvanced: {
+      en: "The palm oil plantations around Ouesso represent the large-scale industrial cultivation of oil palms, which is a major contributor to regional trade. Palm oil is essential for both domestic culinary uses and as a commodity in the broader national market. These plantations are a dominant feature of the rural landscape in the north, shaping both the local economy and traditional dietary practices. Sachkunde K5 — industrial plantation agriculture."
     },
+    factsAdvanced: {
+      en: ["Major industrial plantation for oil palm.", "Essential commodity for domestic consumption.", "Significant feature of northern rural economy.", "Vital palm oil trade hub in the Sangha region.", "Traditional and modern extraction used.", "Supports local and national supply chains."]
+    }
+  },
     description: {
       de: "Großflächige Ölpalmen-Anbaugebiete im Norden des Landes, die für die lokale Versorgung und den Handel wichtig sind.",
       hu: "Nagy kiterjedésű olajpálma-termesztő területek az ország északi részén, amelyek fontosak a helyi ellátás szempontjából.",
@@ -198,7 +254,14 @@ export const poiExtraCongoLifeV2: POI[] = [
       hu: "Madingou maniókamezők",
       ro: "Câmpurile de manioc din Madingou",
       en: "Madingou Cassava Farms"
+    ,
+    descriptionAdvanced: {
+      en: "Madingou's cassava farms are the heart of the region's agricultural landscape, where this hardy root vegetable serves as the absolute staple food for the majority of the population. The daily cultivation, processing, and transformation of cassava into products like chikwangue is an fundamental part of life in the Bouenza region. These farms illustrate the importance of subsistence and local market-oriented smallholder agriculture. Sachkunde K5 — food security and root crop farming."
     },
+    factsAdvanced: {
+      en: ["Cassava is the primary staple food crop.", "Essential to the diet and local economy.", "Smallholder farms dominate the landscape.", "Foundational to Chikwangue production.", "Central to regional food security efforts.", "Highly adapted to the Bouenza climate."]
+    }
+  },
     description: {
       de: "Zahlreiche kleinbäuerliche Betriebe in der Bouenza-Region, die Maniok als Hauptnahrungsmittel anbauen.",
       hu: "Számos kisbirtokos gazdaság a Bouenza-régióban, ahol a maniokot mint fő élelmiszert termesztik.",
@@ -221,7 +284,14 @@ export const poiExtraCongoLifeV2: POI[] = [
       hu: "Niari kávéültetvények",
       ro: "Plantațiile de cafea din Niari",
       en: "Niari Coffee Plantations"
+    ,
+    descriptionAdvanced: {
+      en: "The coffee plantations in the Niari region take advantage of the favorable climate of the cooler highlands to produce high-quality Robusta beans. Coffee farming here combines agricultural heritage with modern export demand, serving as an important income source for local cultivators. This unique highland microclimate allows for distinctive agricultural patterns not found elsewhere in the Congo Basin. Geography K6 — highland agriculture and specialty crops."
     },
+    factsAdvanced: {
+      en: ["Favorable highland climate for Robusta coffee.", "Important income source for local farmers.", "Distinctive agricultural landscape in Niari.", "Product of unique regional microclimate.", "Growing contributor to the agricultural export mix.", "High-quality bean production in the highlands."]
+    }
+  },
     description: {
       de: "In den kühleren Höhenlagen der Niari-Region wird hochwertiger Robusta-Kaffee angebaut.",
       hu: "A Niari-régió hűvösebb magaslatain kiváló minőségű Robusta kávét termesztenek.",

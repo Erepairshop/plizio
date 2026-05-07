@@ -12,7 +12,14 @@ export const poiExtraEquatorialguineaLandmarksV2: POI[] = [
       hu: "Malabói Nemzeti Stadion",
       ro: "Stadionul Național din Malabo",
       en: "Malabo National Stadium"
+    ,
+    descriptionAdvanced: {
+      de: "Das Nationalstadion von Malabo ist eine zentrale Sportstätte Äquatorialguineas und ein Symbol für die Bemühungen des Landes, internationale Großereignisse auszurichten. Mit einer Kapazität von etwa 15.250 Zuschauern wurde es 2007 eröffnet und erlangte durch die Austragung des Afrika-Cups 2012 weltweite Aufmerksamkeit. Die moderne Anlage bietet neben einem hochwertigen Fußballfeld auch eine Leichtathletikbahn und dient als Heimspielstätte der äquatorialguineischen Nationalmannschaft, bekannt als 'Nzalang Nacional'. Als eines der wichtigsten sportlichen Zentren des Landes spielt das Stadion eine bedeutende Rolle im gesellschaftlichen Leben Malabos und ist Ausdruck einer modernen Sportinfrastruktur. Sport K6, Architektur K8."
     },
+    factsAdvanced: {
+      de: ["Kapazität von rund 15.250 Plätzen.", "Eröffnet im Jahr 2007 für nationale und internationale Events.", "Hauptspielort für internationale Fußballbegegnungen.", "Wichtiger Austragungsort des Afrika-Cups 2012.", "Besitzt eine voll ausgestattete Leichtathletikanlage.", "Heimstätte der Nationalmannschaft 'Nzalang Nacional'."]
+    }
+  },
     description: {
       de: "Ein modernes Mehrzweckstadion in Malabo, das als Heimspielstätte der Fußballnationalmannschaft dient.",
       hu: "Modern többfunkciós stadion Malabóban, amely a nemzeti labdarúgó-válogatott hazai pályája.",
@@ -35,7 +42,14 @@ export const poiExtraEquatorialguineaLandmarksV2: POI[] = [
       hu: "Bata stadion",
       ro: "Stadionul din Bata",
       en: "Bata Stadium"
+    ,
+    descriptionAdvanced: {
+      de: "Das Stadion von Bata ist die größte Sportarena Äquatorialguineas und ein Wahrzeichen der sportlichen Ambitionen der Festlandregion. Nach umfangreichen Modernisierungen, die unter anderem für die Rolle als einer der Hauptaustragungsorte des Afrika-Cups 2015 erfolgten, bietet das Stadion Platz für über 35.000 Zuschauer. Es ist nicht nur ein Ort für sportliche Höchstleistungen, sondern dient auch als symbolträchtige Arena für große nationale Feierlichkeiten und staatliche Events in Bata. Die Arena zeigt deutlich das Bestreben des Landes, sich als Akteur im afrikanischen Sport zu etablieren und die Infrastruktur auf dem Festland massiv auszubauen. Sport K7, Geografie K8."
     },
+    factsAdvanced: {
+      de: ["Größte Sportarena des Landes mit über 35.000 Plätzen.", "Hauptaustragungsort des Afrika-Cups 2015 in Äquatorialguinea.", "Wichtiges Wahrzeichen für die Entwicklung von Bata.", "Modernste Ausstattung für internationale Turniere.", "Symbol für den wachsenden Stellenwert des Sports in der Region.", "Zentrum großer nationaler Veranstaltungen."]
+    }
+  },
     description: {
       de: "Das größte Stadion Äquatorialguineas, gelegen in der Hafenstadt Bata auf dem Festland.",
       hu: "Egyenlítői-Guinea legnagyobb stadionja, amely a szárazföldi Bata kikötővárosában található.",
@@ -106,7 +120,14 @@ export const poiExtraEquatorialguineaLandmarksV2: POI[] = [
       hu: "Sipopói konferenciaközpont",
       ro: "Centrul de Conferințe Sipopo",
       en: "Sipopo Congress Center"
+    ,
+    descriptionAdvanced: {
+      de: "Das Sipopo-Konferenzzentrum bei Malabo ist ein architektonisch anspruchsvolles Bauwerk, das speziell für hochrangige internationale Gipfeltreffen, wie etwa die Treffen der Afrikanischen Union, entworfen wurde. Es liegt eingebettet in einen luxuriösen Resort-Komplex an der Küste und besticht durch modernste Tagungstechnik sowie eine funktionale und gleichzeitig beeindruckende Architektur. Sipopo hat Äquatorialguinea auf der diplomatischen Weltkarte sichtbar gemacht und dient als zentrale Bühne für globale Verhandlungen und politische Dialoge. Das Bauwerk ist ein Paradebeispiel für die Strategie des Landes, durch moderne Konferenzinfrastruktur international an Bedeutung zu gewinnen. Politik K8, Geografie K7."
     },
+    factsAdvanced: {
+      de: ["Speziell für Gipfeltreffen der Afrikanischen Union konzipiert.", "Ausgestattet mit modernster Konferenz- und Kommunikationstechnik.", "Teil eines exklusiven touristischen Komplexes am Meer.", "Architektonisches Highlight an der Küste von Bioko.", "Wichtiger Standort für die Diplomatie des Landes.", "Bietet eine repräsentative Kulisse für internationale Staatsgäste."]
+    }
+  },
     description: {
       de: "Ein hochmodernes internationales Konferenzzentrum in der Nähe von Malabo, Austragungsort globaler Gipfeltreffen.",
       hu: "Ultramodern nemzetközi konferenciaközpont Malabo közelében, globális csúcstalálkozók helyszíne.",
@@ -129,7 +150,14 @@ export const poiExtraEquatorialguineaLandmarksV2: POI[] = [
       hu: "Grand Hotel Djibloho",
       ro: "Grand Hotel Djibloho",
       en: "Grand Hotel Djibloho"
+    ,
+    descriptionAdvanced: {
+      de: "Das Grand Hotel Djibloho ist ein monumentales Bauwerk inmitten des dichten Regenwaldes der neuen Provinz Djibloho und dient als architektonisches Prunkstück für die geplante Hauptstadt Ciudad de la Paz. Das Luxushotel, das mit einem beeindruckenden Golfressort und exklusiven Annehmlichkeiten aufwartet, ist ein klares Symbol für die großangelegten staatlichen Investitionen in die Modernisierung des Landesinneren. Als eines der luxuriösesten Häuser in Zentralafrika unterstreicht es den Anspruch der Regierung, ein neues administratives und wirtschaftliches Zentrum zu schaffen. Die Integration von luxuriösem Komfort in die raue Kulisse des Dschungels ist ein weltweit beachtetes Projekt des Städtebaus. Architektur K8, Geografie K7."
     },
+    factsAdvanced: {
+      de: ["Luxuriöses Hotel mitten im tropischen Urwald.", "Enthält einen der exklusivsten Golfplätze der Region.", "Zentrales Symbol für die Entwicklung der neuen Hauptstadt.", "Eines der größten und modernsten Häuser Zentralafrikas.", "Bietet eine völlig neue Infrastruktur in einer abgelegenen Region.", "Architektonisches Meisterstück als Zeichen für staatlichen Aufbruch."]
+    }
+  },
     description: {
       de: "Ein monumentales Luxushotel im Herzen der geplanten neuen Hauptstadt Ciudad de la Paz.",
       hu: "Monumentális luxusszálloda a tervezett új főváros, Ciudad de la Paz szívében.",
@@ -176,7 +204,14 @@ export const poiExtraEquatorialguineaLandmarksV2: POI[] = [
       hu: "Március 7. vértanúinak emlékműve",
       ro: "Monumentul Martirilor din 7 martie",
       en: "7M Martyrs Monument"
+    ,
+    descriptionAdvanced: {
+      de: "Das Denkmal der Märtyrer vom 7. März in Bata ist ein Mahnmal, das tief in das kollektive Gedächtnis des Landes eingegangen ist. Es erinnert an die Opfer der verheerenden Explosionen vom 7. März 2021 im Militärlager Nkoantoma, einer Tragödie, die die Stadt Bata tief erschütterte. Das Monument ist nicht nur ein Ort des Gedenkens und der nationalen Reflexion, sondern auch ein architektonisches Zeichen der Solidarität und der Stärke der Bewohner von Bata. Sein modernes Design und die hohe symbolische Bedeutung machen es zu einem zentralen Punkt für Gedenkfeiern und zum Nachdenken über die Fragilität und den Zusammenhalt in Krisenzeiten. Geschichte K8, Soziologie K7."
     },
+    factsAdvanced: {
+      de: ["Gedenkstätte für die Opfer der Explosionen vom 7. März 2021.", "Wichtiger Ort für das nationale Gedenken und die Trauerarbeit.", "Modernes, minimalistisches Design mit großer Wirkung.", "Ein Symbol für den Zusammenhalt der Menschen in Bata.", "Wird regelmäßig für offizielle Gedenkveranstaltungen genutzt.", "Steht für die Bewältigung nationaler Traumata."]
+    }
+  },
     description: {
       de: "Ein Denkmal in Bata, das den Opfern der verheerenden Explosionen in der Kaserne von Nkoantoma gedenkt.",
       hu: "Emlékmű Batában, amely a nkoantomai laktanyában történt pusztító robbanások áldozatainak állít emléket.",
@@ -222,7 +257,14 @@ export const poiExtraEquatorialguineaLandmarksV2: POI[] = [
       hu: "GEPetrol székház",
       ro: "Sediul GEPetrol",
       en: "GEPetrol Headquarters"
+    ,
+    descriptionAdvanced: {
+      de: "Der Hauptsitz von GEPetrol im modernen Geschäftsviertel von Malabo II ist eines der repräsentativsten Bürogebäude des Landes und Ausdruck der wirtschaftlichen Bedeutung des Öl- und Energiesektors für den äquatorialguineischen Staat. Das gläserne Hochhaus zeichnet sich durch seine hochmoderne Architektur aus und stellt ein Symbol für den nationalen Wohlstand sowie die Modernisierung der urbanen Infrastruktur dar. Das Gebäude beherbergt nicht nur die Führungsebene der nationalen Ölgesellschaft, sondern dient auch als architektonischer Fixpunkt in der neuen Business-Zone. Die transparente Gestaltung und die Lage am Boulevard unterstreichen den Anspruch des Landes, sich als moderner, international orientierter Wirtschaftsakteur in Zentralafrika zu präsentieren. Wirtschaft K8, Architektur K7."
     },
+    factsAdvanced: {
+      de: ["Sitz des staatlichen Erdölkonzerns von Äquatorialguinea.", "Ein Beispiel für moderne, gläserne Architektur in Malabo II.", "Teil des neuen dynamischen Geschäftsviertels der Hauptstadt.", "Symbol für den Ressourcenreichtum und den Aufstieg des Landes.", "Enthält hochmoderne Büro- und Konferenzräume.", "Wichtiges wirtschaftliches Wahrzeichen des modernen Malabo."]
+    }
+  },
     description: {
       de: "Ein markantes modernes Bürogebäude in Malabo II, Sitz der nationalen Ölgesellschaft Äquatorialguineas.",
       hu: "Jellegzetes modern irodaépület Malabo II-ben, az Egyenlítői-Guineai nemzeti olajtársaság székhelye.",

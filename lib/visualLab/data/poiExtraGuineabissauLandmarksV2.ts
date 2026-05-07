@@ -662,7 +662,7 @@ export const poiExtraGuineabissauLandmarksV2: POI[] = [
     description: {
       de: "Ein Denkmal in Bissau, das dem 'Tag der Nationalhelden' gewidmet ist und an den Todestag von Amílcar Cabral im Jahr 1973 erinnert.",
       hu: "Bissaui emlékmű, amelyet a 'Nemzeti Hősök Napjának' szenteltek, Amílcar Cabral 1973-as halálának évfordulójára emlékezve.",
-      ro: "Un monument din Bissau dedicat „Zilei Eroilor Naționali”, comemorând aniversarea morții lui Amílcar Cabral în 1973.",
+      ro: "Un monument din Bissau dedicat \"Zilei Eroilor Naționali\", comemorând aniversarea morții lui Amílcar Cabral în 1973.",
       en: "A monument in Bissau dedicated to the 'Day of National Heroes', commemorating the anniversary of Amílcar Cabral's death in 1973."
     },
     facts: {

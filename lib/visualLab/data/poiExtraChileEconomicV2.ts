@@ -12,14 +12,15 @@ export const poiExtraChileEconomicV2: POI[] = [
       hu: "Iquique kikötője",
       ro: "Portul Iquique",
       en: "Port of Iquique"
-    ,
+    },
     descriptionAdvanced: {
-      ro: "Puerto de Iquique, situat în nordul extrem al Chile, funcționează ca o zonă liberă de importanță internațională și un port crucial pentru comerțul maritim din Pacific. Orașul Iquique a fost istoric dependent de industria salpetrului, dar astăzi economia sa este diversificată prin turism și logistica portuară avansată. Zona liberă (Zofri) a orașului facilitează comerțul cu țările vecine, devenind un motor economic esențial pentru regiunea Tarapacá. Infrastructura portuară permite exportul eficient al resurselor miniere extrase din regiunile deșertice din proximitate. Industrie K9 — economie globală."
+      ro: "Puerto de Iquique, situat în nordul extrem al Chile, funcționează ca o zonă liberă de importanță internațională și un port crucial pentru comerțul maritim din Pacific. Orașul Iquique a fost istoric dependent de industria salpetrului, dar astăzi economia sa este diversificată prin turism și logistica portuară avansată. Zona liberă (Zofri) a orașului facilitează comerțul cu țările vecine, devenind un motor economic esențial pentru regiunea Tarapacá. Infrastructura portuară permite exportul eficient al resurselor miniere extrase din regiunile deșertice din proximitate. Industrie K9 — economie globală.",
+      en: "The Port of Iquique is a vital maritime gateway in northern Chile, specializing in the export of copper and fishmeal, and the import of consumer goods through its extensive Duty-Free Zone (ZOFRI). Established during the saltpeter era, the port played a pivotal role in the region's 19th-century wealth and remains a cornerstone of the regional economy. Its deep-water facilities allow for the handling of large container ships and bulk carriers. Beyond its industrial functions, the port area is adjacent to historic wooden piers and the site of the famous naval Battle of Iquique. The synergy between the port and the ZOFRI makes Iquique a key commercial hub for the entire Southern Cone, including landlocked Bolivia. Economics K8 - Trade Zones and Maritime Logistics."
     },
     factsAdvanced: {
-      ro: ["Locație: Regiunea Tarapacá", "Statut: Zonă Liberă (Zofri)", "Economie: Logistică portuară", "Istoric: Industrie salpetru", "Rol: Export minier", "Importanță: Comerț internațional"]
-    }
-  },
+      ro: ["Locație: Regiunea Tarapacá", "Statut: Zonă Liberă (Zofri)", "Economie: Logistică portuară", "Istoric: Industrie salpetru", "Rol: Export minier", "Importanță: Comerț internațional"],
+      en: ["Managed by the Empresa Portuaria Iquique (EPI).", "Directly connected to the ZOFRI, the largest duty-free zone in South America.", "Key export hub for iodine and nitrates from the Atacama Desert.", "The port was significantly modernized after the 2014 earthquake.", "Handles over 2 million tons of cargo annually.", "Strategically located to serve markets in Bolivia, Paraguay, and northern Argentina."]
+    },
     description: {
       de: "Ein bedeutender Seehafen in Nordchile, wichtig für die Freihandelszone ZOFRI.",
       hu: "Észak-Chile egyik legfontosabb tengeri kikötője, a ZOFRI szabadkereskedelmi övezet központja.",
@@ -87,14 +88,15 @@ export const poiExtraChileEconomicV2: POI[] = [
       hu: "Coronel kikötő",
       ro: "Portul Coronel",
       en: "Port of Coronel"
-    ,
+    },
     descriptionAdvanced: {
-      ro: "Puerto Coronel este un terminal portuar strategic situat în regiunea Biobío, esențial pentru gestionarea volumelor mari de mărfuri din centrul-sudul Chile. Portul joacă un rol vital în exportul produselor forestiere, agricole și miniere, fiind unul dintre cei mai eficienți operatori din țară. Situat lângă orașul Coronel, portul a fost un motor de dezvoltare pentru comunitățile locale, facilitând legătura dintre resursele naturale ale regiunii și piețele globale. Tehnologia utilizată în operarea portuară permite manipularea unei game variate de mărfuri, inclusiv cherestea și celuloză. Economie K9 — comerț maritim."
+      ro: "Puerto Coronel este un terminal portuar strategic situat în regiunea Biobío, esențial pentru gestionarea volumelor mari de mărfuri din centrul-sudul Chile. Portul joacă un rol vital în exportul produselor forestiere, agricole și miniere, fiind unul dintre cei mai eficienți operatori din țară. Situat lângă orașul Coronel, portul a fost un motor de dezvoltare pentru comunitățile locale, facilitând legătura dintre resursele naturale ale regiunii și piețele globale. Tehnologia utilizată în operarea portuară permite manipularea unei game variate de mărfuri, inclusiv cherestea și celuloză. Economie K9 — comerț maritim.",
+      en: "Puerto Coronel is the largest terminal in the Biobío Region and a leader in the export of forestry products, such as cellulose, timber, and paper. Located south of Concepción, this multi-purpose port has seen massive private investment, transforming it into a high-efficiency logistics center. It features specialized docks for containers, bulk cargo, and general merchandise, supported by advanced automated systems. The port's strategic location provides excellent rail and road connectivity to Chile's southern industrial heartland. As a major employer in the area, Puerto Coronel is essential for the economic stability of the former coal-mining district, bridging the transition from old extractive industries to modern global trade. Economics K7 - Forestry Industry and Export Logistics."
     },
     factsAdvanced: {
-      ro: ["Localizare: Regiunea Biobío", "Rol principal: Export forestier", "Operare: Terminal maritim eficient", "Tip mărfuri: Cherestea, celuloză", "Importanță: Dezvoltare regională", "Conexiune: Piețe globale"]
-    }
-  },
+      ro: ["Localizare: Regiunea Biobío", "Rol principal: Export forestier", "Operare: Terminal maritim eficient", "Tip mărfuri: Cherestea, celuloză", "Importanță: Dezvoltare regională", "Conexiune: Piețe globale"],
+      en: ["Chile's main port for the export of forestry and wood products.", "Equipped with four ship-to-shore (STS) gantry cranes for container handling.", "Features a specialized terminal for bulk cargo with a 14.5-meter draft.", "The port area covers over 90 hectares of operational space.", "Connected to the southern railway network for efficient timber transport.", "Successfully transitioned from a coal-dependent economy to a global maritime hub."]
+    },
     description: {
       de: "Die größte Hafenanlage in der Region Biobío, spezialisiert auf Forstwirtschaft und Container.",
       hu: "A Biobío régió legnagyobb kikötői létesítménye, amely erdészetre és konténerekre specializálódott.",
@@ -161,14 +163,15 @@ export const poiExtraChileEconomicV2: POI[] = [
       hu: "Lirquén kikötő",
       ro: "Portul Lirquén",
       en: "Port of Lirquén"
-    ,
+    },
     descriptionAdvanced: {
-      ro: "Puerto Lirquén este un port cu istorie îndelungată în golful Concepción, specializat în manipularea produselor forestiere și mărfuri generale. Situat strategic în regiunea Biobío, portul este un pilon pentru economia locală și națională, oferind servicii logistice integrate pentru exportatori. Lirquén a evoluat constant, investind în echipamente moderne de încărcare pentru a răspunde cererii crescute de pe piețele internaționale. Poziția sa geografică protejată în golf oferă un avantaj operațional major pentru navele cargo care vizitează coasta chiliană. Economie K9 — logistică portuară."
+      ro: "Puerto Lirquén este un port cu istorie îndelungată în golful Concepción, specializat în manipularea produselor forestiere și mărfuri generale. Situat strategic în regiunea Biobío, portul este un pilon pentru economia locală și națională, oferind servicii logistice integrate pentru exportatori. Lirquén a evoluat constant, investind în echipamente moderne de încărcare pentru a răspunde cererii crescute de pe piețele internaționale. Poziția sa geografică protejată în golf oferă un avantaj operațional major pentru navele cargo care vizitează coasta chiliană. Economie K9 — logistică portuară.",
+      en: "Puerto Lirquén is a prominent privately-owned port located in the Bay of Concepción, specifically in the commune of Penco. It is a major player in the shipment of forestry products and break-bulk cargo, serving as a primary outlet for the region's vast timber plantations. The port is known for its high productivity and specialized handling of delicate wood products like plywood and sawn timber. With two main piers and multiple berths, it accommodates a steady flow of international vessels. Puerto Lirquén's operation is integrated with the local community, maintaining a long-standing tradition of maritime labor that dates back to the mid-20th century. Geography K8 - Industrial Landscapes and Maritime Trade."
     },
     factsAdvanced: {
-      ro: ["Localizare: Golful Concepción", "Specializare: Produse forestiere", "Regiune: Biobío", "Rol: Servicii logistice", "Avantaj: Poziție geografică protejată", "Evoluție: Modernizare continuă"]
-    }
-  },
+      ro: ["Localizare: Golful Concepción", "Specializare: Produse forestiere", "Regiune: Biobío", "Rol: Servicii logistice", "Avantaj: Poziție geografică protejată", "Evoluție: Modernizare continuă"],
+      en: ["One of the largest private-use public ports in Chile.", "Mainly exports cellulose and wood products to Asian and North American markets.", "Features approximately 500 meters of docking space across two piers.", "Operates seven days a week, 24 hours a day to maximize throughput.", "The terminal has specialized storage for over 400,000 cubic meters of wood products.", "Owned by DP World, a global leader in terminal operations."]
+    },
     description: {
       de: "Ein großer privater Hafen in der Region Biobío, der hauptsächlich Forstprodukte umschlägt.",
       hu: "Egy jelentős magánkikötő a Biobío régióban, amely főként erdészeti termékeket rakod át.",
@@ -235,14 +238,15 @@ export const poiExtraChileEconomicV2: POI[] = [
       hu: "San Vicente kikötő",
       ro: "Portul San Vicente",
       en: "Port of San Vicente"
-    ,
+    },
     descriptionAdvanced: {
-      ro: "Puerto San Vicente, situat în apropierea orașului Talcahuano, este un terminal portuar cheie în centrul Chile, jucând un rol crucial în importurile și exporturile țării. Portul este cunoscut pentru capacitatea sa de a manipula containere și produse de pescuit, fiind o infrastructură vitală pentru regiunea industrială din jurul orașului Concepción. După reconstrucții necesare în urma evenimentelor seismice, San Vicente s-a repoziționat ca un port modern, cu tehnologie de vârf pentru gestionarea fluxurilor comerciale complexe. Este un nod logistic strategic care leagă industria prelucrătoare chiliană de restul lumii. Economie K9 — logistică industrială."
+      ro: "Puerto San Vicente, situat în apropierea orașului Talcahuano, este un terminal portuar cheie în centrul Chile, jucând un rol crucial în importurile și exporturile țării. Portul este cunoscut pentru capacitatea sa de a manipula containere și produse de pescuit, fiind o infrastructură vitală pentru regiunea industrială din jurul orașului Concepción. După reconstrucții necesare în urma evenimentelor seismice, San Vicente s-a repoziționat ca un port modern, cu tehnologie de vârf pentru gestionarea fluxurilor comerciale complexe. Este un nod logistic strategic care leagă industria prelucrătoare chiliană de restul lumii. Economie K9 — logistică industrială.",
+      en: "Puerto San Vicente, located in the industrial bay of Talcahuano, is one of Chile's most versatile and high-capacity maritime terminals. It handles a wide range of cargo, including containers, steel, chemicals, and bulk minerals, making it a critical node for the regional manufacturing sector. The port is strategically adjacent to the Huachipato steel plant and several petrochemical facilities, creating a dense industrial cluster. Following the 2010 earthquake and tsunami, the port underwent significant reconstruction and modernization to improve its resilience and efficiency. Today, it stands as a model of multi-modal integration, connecting sea routes with the region's robust road and rail infrastructure. Economics K8 - Industrial Clusters and Infrastructure Resilience."
     },
     factsAdvanced: {
-      ro: ["Localizare: Lângă Talcahuano", "Tip terminal: Containere și pescuit", "Regiune: Concepción", "Rol: Nod logistic strategic", "Infrastructură: Modernă", "Importanță: Comerț industrial"]
-    }
-  },
+      ro: ["Localizare: Lângă Talcahuano", "Tip terminal: Containere și pescuit", "Regiune: Concepción", "Rol: Nod logistic strategic", "Infrastructură: Modernă", "Importanță: Comerț industrial"],
+      en: ["Part of the Talcahuano-San Vicente port complex in the Biobío Region.", "Operated by San Vicente Terminal Internacional (SVTI).", "The main wharf is approximately 600 meters long with a draft of 12 meters.", "Crucial for the export of steel products from the nearby CAP Acero plant.", "Handles nearly 5 million tons of diverse cargo annually.", "Equipped with specialized equipment for heavy-lift and oversized industrial cargo."]
+    },
     description: {
       de: "Ein wichtiger Handelshafen in Talcahuano, der mit dem regionalen Industriezentrum verbunden ist.",
       hu: "Fontos kereskedelmi kikötő Talcahuano városában, amely a regionális ipari központhoz kapcsolódik.",
@@ -309,14 +313,15 @@ export const poiExtraChileEconomicV2: POI[] = [
       hu: "Ventanas kikötő",
       ro: "Portul Ventanas",
       en: "Port of Ventanas"
-    ,
+    },
     descriptionAdvanced: {
-      ro: "Puerto Ventanas este un terminal privat situat în golful Quintero, fiind specializat în manipularea mărfurilor vrac, în special a cărbunelui și a concentratelor minerale. Acest port joacă un rol critic în furnizarea energiei și a materiilor prime pentru industria chiliană, fiind conectat prin rute feroviare și drumuri la marile centre de producție. Ventanas se remarcă prin eficiența sa operațională și prin standardele riguroase de mediu aplicate într-o zonă industrială sensibilă. Importanța sa strategică este dată de capacitatea de a deservi industriile energetice care susțin rețeaua electrică a țării. Industrie K9 — energie și minerit."
+      ro: "Puerto Ventanas este un terminal privat situat în golful Quintero, fiind specializat în manipularea mărfurilor vrac, în special a cărbunelui și a concentratelor minerale. Acest port joacă un rol critic în furnizarea energiei și a materiilor prime pentru industria chiliană, fiind conectat prin rute feroviare și drumuri la marile centre de producție. Ventanas se remarcă prin eficiența sa operațională și prin standardele riguroase de mediu aplicate într-o zonă industrială sensibilă. Importanța sa strategică este dată de capacitatea de a deservi industriile energetice care susțin rețeaua electrică a țării. Industrie K9 — energie și minerit.",
+      en: "Puerto Ventanas is the primary bulk cargo terminal in central Chile, located in the Valparaíso Region. It specializes in the handling of solid and liquid bulk, such as copper concentrates, coal, and sulfuric acid, serving the nearby industrial and mining sectors. The port features a unique conveyor belt system that connects directly to industrial facilities, minimizing environmental impact and maximizing safety. As a private terminal, it has focused heavily on technological innovation to streamline the unloading of raw materials for energy production and mining processes. Its strategic position makes it a vital link in the supply chain for Chile's central power plants and refineries. Geography K7 - Energy Resources and Industrial Logistics."
     },
     factsAdvanced: {
-      ro: ["Localizare: Golful Quintero", "Specializare: Mărfuri vrac (cărbune)", "Rol: Furnizor energie/materii prime", "Conectivitate: Feroviară și rutieră", "Standarde: Ecologice riguroase", "Importanță: Strategică"]
-    }
-  },
+      ro: ["Localizare: Golful Quintero", "Specializare: Mărfuri vrac (cărbune)", "Rol: Furnizor energie/materii prime", "Conectivitate: Feroviară și rutieră", "Standarde: Ecologice riguroase", "Importanță: Strategică"],
+      en: ["The largest private bulk port in central Chile.", "Uses a 2.5-kilometer automated conveyor belt for clean mineral transport.", "Handles over 5 million tons of bulk materials per year.", "The pier extends 1,200 meters into the bay to reach deep water.", "Key terminal for the Codelco Ventanas copper smelter and refinery.", "Operates under strict environmental monitoring protocols due to its industrial location."]
+    },
     description: {
       de: "Ein großer Schüttguthafen in der Region Valparaíso, der mit der lokalen Schwerindustrie verbunden ist.",
       hu: "Jelentős ömlesztettáru-kikötő a Valparaíso régióban, amely a helyi nehéziparhoz kapcsolódik.",
@@ -394,7 +399,7 @@ export const poiExtraChileEconomicV2: POI[] = [
       de: "Das moderne Mehrzweck-Hafenterminal Angamos in Mejillones ist exakt auf die hochspezifischen Bedürfnisse der chilenischen Bergbauindustrie zugeschnitten. Durch fortschrittliche Logistiklösungen und modernste Umschlagkapazitäten spielt dieser Hafen eine maßgebliche Rolle bei der effizienten Verschiffung von Kupfer und anderen Mineralien in die globalen Märkte. Industrie K8 — Bergbaulogistik.",
       hu: "A modern, többcélú Angamos kikötői terminál Mejillonesben pontosan a chilei bányászat speciális igényeire van szabva. A fejlett logisztikai megoldásoknak és a legmodernebb rakodási kapacitásoknak köszönhetően ez a kikötő döntő szerepet játszik a réz és más ásványi anyagok hatékony szállításában a globális piacokra. Ipar K8 — Bányászati logisztika.",
       ro: "Terminalul portuar multifuncțional modern Angamos din Mejillones este optimizat pentru nevoile specifice ale industriei miniere chiliene. Datorită soluțiilor logistice avansate și capacităților moderne de operare, acest port joacă un rol determinant în transportul eficient al cuprului și al altor minerale către piețele internaționale. Importanța sa strategică este amplificată de tehnologia utilizată, care permite gestionarea unor volume mari de resurse cu precizie. Industrie K8 — Logistica minieră.",
-      en: "The modern Angamos multipurpose port terminal in Mejillones is precision-engineered for the specific needs of the Chilean mining industry. With advanced logistics solutions and state-of-the-art handling capacities, this port plays a decisive role in the efficient shipment of copper and other minerals to global markets. Industry K8 — Mining logistics."
+      en: "Puerto Angamos, situated in the protected bay of Mejillones, is a modern maritime terminal designed specifically to support the large-scale copper mining operations of northern Chile. Opened in 2003, it was built to alleviate congestion in other northern ports and provide a dedicated outlet for the world's largest copper mines. The port is famous for its 'Rotabox' system, an innovative method for handling mineral concentrates that reduces dust and environmental contamination. Its strategic location and deep-water access allow it to receive the largest container ships in the Pacific. Puerto Angamos is a key component of the Capricorn Axis, a proposed corridor for trade between the Atlantic and Pacific oceans. Economics K8 - Innovation in Resource Export."
     },
     factsAdvanced: {
       de: [
@@ -415,12 +420,7 @@ export const poiExtraChileEconomicV2: POI[] = [
         "Punct esențial de export pentru cupru și alte resurse minerale.",
         "Simbol al modernizării tehnologice în logistica portuară chiliană."
       ],
-      en: [
-        "State-of-the-art multipurpose terminal in the Bay of Mejillones.",
-        "Strategically optimized for mining industry requirements.",
-        "Essential export point for copper and other mineral resources.",
-        "Symbol of technological modernization in Chilean port logistics."
-      ]
+      en: ["Located 65 kilometers north of Antofagasta in the Bay of Mejillones.", "Pioneered the use of hermetic containers for mineral transport in Chile.", "The terminal has a total wharf length of 700 meters.", "Processes approximately 40% of the copper produced in the Antofagasta region.", "Designed to withstand the seismic activity characteristic of the Chilean coast.", "The port operates three berthing positions for Post-Panamax vessels."]
     },
     facts: {
       de: [
@@ -461,7 +461,7 @@ export const poiExtraChileEconomicV2: POI[] = [
       de: "Der industrielle Hafenkomplex von Mejillones stellt eine fundamentale logistische Stütze für die Wirtschaft Nordchiles dar. Durch die gezielte Entlastung des Hafens von Antofagasta hat sich Mejillones zu einem unverzichtbaren Zentrum für den Export von Kupfer und anderen industriellen Gütern entwickelt, das die Effizienz des chilenischen Außenhandels nachhaltig steigert. Wirtschaft K8 — Exportinfrastruktur.",
       hu: "A Mejillones ipari kikötőkomplexum alapvető logisztikai támaszt nyújt Észak-Chile gazdasága számára. Az antofagastai kikötő tehermentesítésére irányuló célzott fejlesztéseknek köszönhetően Mejillones a réz és egyéb ipari termékek exportjának nélkülözhetetlen központjává vált, tartósan növelve a chilei külkereskedelem hatékonyságát. Gazdaság K8 — Exportinfrastruktúra.",
       ro: "Complexul portuar industrial din Mejillones constituie un pilon logistic fundamental pentru economia nordului statului Chile. Prin rolul său strategic de a degreva activitatea portului Antofagasta, Mejillones a evoluat într-un hub esențial pentru exportul de cupru și diverse mărfuri industriale. Această dezvoltare a îmbunătățit semnificativ eficiența comerțului exterior chilian, consolidându-i relevanța pe scena internațională. Economie K8 — Infrastructură de export.",
-      en: "The industrial port complex of Mejillones provides fundamental logistical support for the economy of Northern Chile. Through targeted development to relieve the Port of Antofagasta, Mejillones has become an indispensable center for the export of copper and other industrial goods, sustainably increasing the efficiency of Chilean foreign trade. Economics K8 — Export infrastructure."
+      en: "The Port of Mejillones is a massive industrial and maritime complex that has transformed a quiet coastal town into a global mining logistics hub. The bay's natural depth and calm waters make it one of the best locations for deep-water ports in South America. The complex includes multiple terminals specializing in bulk solids, liquids, and containers, primarily serving the lithium and copper mines of the Atacama Desert. It is also home to significant energy infrastructure, including LNG regasification plants that provide gas for power generation in northern Chile. The development of Mejillones is a central part of Chile's strategy to become a premier logistics platform for the Asia-Pacific region. Geography K8 - Natural Harbors and Global Trade."
     },
     factsAdvanced: {
       de: [
@@ -482,12 +482,7 @@ export const poiExtraChileEconomicV2: POI[] = [
         "Unul dintre cele mai dinamice complexe industriale și portuare din nordul Chile.",
         "Esențial pentru conectarea la piețele internaționale ale industriei miniere."
       ],
-      en: [
-        "Main hub for copper exports in the Antofagasta region.",
-        "Strategically developed to relieve congestion in the Antofagasta port region.",
-        "One of the most dynamic industrial and port complexes in Northern Chile.",
-        "Essential for connecting to international mining markets."
-      ]
+      en: ["The Bay of Mejillones is naturally protected from the prevailing southwest winds.", "Home to the GNL Mejillones terminal, a critical entry point for Liquefied Natural Gas.", "The port complex serves the world's largest copper mines like Escondida.", "Includes the Complejo Portuario Mejillones (CPM), a state-owned master developer.", "The area has seen over $2 billion in infrastructure investment since the late 1990s.", "Mejillones was historically a center for guano and saltpeter exports in the 19th century."]
     },
     facts: {
       de: [
@@ -529,7 +524,7 @@ export const poiExtraChileEconomicV2: POI[] = [
       de: "Der Hafen von Guacolda, tief in der Region Atacama gelegen, ist ein kritischer Umschlagpunkt für die industrielle Entwicklung des Huasco-Tals. Durch seine Spezialisierung auf den Transport von Kohle und bergbaulichen Rohstoffen ist er fest in die regionale Wirtschaft integriert und dient als unverzichtbare Infrastruktur für die energetische und produktive Versorgung lokaler Betriebe. Industrie K8 — Versorgungslogistik.",
       hu: "A mélyen az Atacama régióban fekvő Guacolda kikötő kritikus átrakodási pont a Huasco-völgy ipari fejlődése számára. A szén és bányászati nyersanyagok szállítására való szakosodása szilárdan beágyazza a regionális gazdaságba, és nélkülözhetetlen infrastruktúraként szolgál a helyi vállalkozások energia- és termelési ellátásához. Ipar K8 — Ellátási logisztika.",
       ro: "Portul Guacolda, amplasat adânc în regiunea Atacama, reprezintă un punct critic de transbordare pentru dezvoltarea industrială a Văii Huasco. Specializarea sa în transportul cărbunelui și al resurselor miniere îi conferă un rol esențial în integrarea economică regională. Acesta funcționează ca o infrastructură indispensabilă pentru furnizarea resurselor energetice și productive necesare numeroaselor întreprinderi locale. Rolul său în susținerea operațiunilor miniere este crucial pentru stabilitatea economică a zonei. Industrie K8 — Logistica aprovizionării.",
-      en: "The Port of Guacolda, located deep in the Atacama region, is a critical transshipment point for the industrial development of the Huasco Valley. Its specialization in the transport of coal and mining raw materials integrates it firmly into the regional economy and serves as indispensable infrastructure for the energy and production supply of local businesses. Industry K8 — Supply logistics."
+      en: "Puerto Guacolda, located in the Huasco province of the Atacama Region, is a specialized industrial port primarily dedicated to the export of iron ore and the import of coal for power generation. It serves the Los Colorados iron mine, one of the most productive in the country, and the nearby Guacolda thermal power plant. The port is characterized by its heavy-duty loading equipment, including high-capacity ship loaders that can handle thousands of tons per hour. Its operations are vital for the iron and steel industry, supplying raw materials both to domestic plants like Huachipato and to international markets in Asia. Puerto Guacolda represents the specialized, resource-driven nature of Chile's northern economic landscape. Economics K7 - Mining and Energy Supply Chains."
     },
     factsAdvanced: {
       de: [
@@ -550,12 +545,7 @@ export const poiExtraChileEconomicV2: POI[] = [
         "Semnificație majoră pentru infrastructura energetică regională.",
         "Pilon logistic esențial pentru sectorul minier local."
       ],
-      en: [
-        "Specialized port for the needs of the Atacama industry.",
-        "Central hub for coal imports and material transport in the Huasco Valley.",
-        "Significant importance for regional energy infrastructure.",
-        "Important logistical pillar for the local mining sector."
-      ]
+      en: ["Mainly exports iron ore pellets produced by the CAP Minería company.", "Equipped with a mechanized pier that can load vessels up to 200,000 DWT.", "Supplies coal to the five units of the Guacolda Power Plant.", "The terminal is located on the southern side of the Huasco Bay.", "Features a specialized storage yard for iron ore with a capacity of 500,000 tons.", "Crucial for the economy of the Huasco Valley and its agricultural hinterland."]
     },
     facts: {
       de: [
@@ -596,7 +586,7 @@ export const poiExtraChileEconomicV2: POI[] = [
       de: "Als südlichster Seehafen Chiles nimmt der Hafen von Punta Arenas eine Sonderstellung ein. Er fungiert nicht nur als wirtschaftliche Lebensader für die Magallanes-Region, sondern auch als essenzielles Tor für den Antarktisverkehr. Diese doppelte Rolle macht ihn zu einem logistischen Knotenpunkt von nationaler und internationaler strategischer Bedeutung. Geografie K7 — Maritime Verkehrsknotenpunkte.",
       hu: "Chile legdélibb tengeri kikötőjeként a Punta Arenas kikötő különleges szerepet tölt be. Nemcsak a Magallanes régió gazdasági ütőereként, hanem az antarktiszi forgalom alapvető kapujaként is szolgál. Ez a kettős szerep nemzeti és nemzetközi szinten is stratégiai jelentőségű logisztikai csomóponttá teszi. Földrajz K7 — Tengeri közlekedési csomópontok.",
       ro: "Fiind cel mai sudic port maritim al Chile, portul Punta Arenas ocupă o poziție excepțională pe harta logistică națională. Acesta acționează nu doar ca o linie vitală pentru dezvoltarea economică a regiunii Magallanes, ci și ca o poartă esențială pentru traficul către Antarctica. Acest rol dublu îl transformă într-un nod logistic de o importanță strategică majoră, atât la nivel național, cât și internațional. Geografie K7 — Noduri de transport maritim.",
-      en: "As the southernmost seaport in Chile, the Port of Punta Arenas holds a unique position. It functions not only as an economic lifeline for the Magallanes region but also as an essential gateway for Antarctic traffic. This dual role makes it a logistical hub of national and international strategic importance. Geography K7 — Maritime transport hubs."
+      en: "The Port of Punta Arenas is the most important maritime hub in the Strait of Magellan, serving as a strategic gateway for Antarctic expeditions, regional tourism, and international shipping. Due to its extreme southern location, it provides essential logistics for the Magallanes Region, including the transport of sheep products, seafood, and oil and gas. The port consists of two main terminals: Muelle Prat, located in the city center for cruises and scientific vessels, and Muelle Mardones, designed for industrial and cargo operations. It plays a critical role in maintaining Chile's presence in the Antarctic and facilitates the passage of vessels avoiding the Panama Canal. Geography K8 - Strategic Waterways and Polar Logistics."
     },
     factsAdvanced: {
       de: [
@@ -617,12 +607,7 @@ export const poiExtraChileEconomicV2: POI[] = [
         "Punct logistic central pentru interconectarea economică regională în Magallanes.",
         "Locație strategică pentru expedițiile internaționale de cercetare."
       ],
-      en: [
-        "Most important maritime gateway for all Antarctic traffic.",
-        "Southernmost main seaport of Chilean territory.",
-        "Central logistical point for regional economic networking in Magallanes.",
-        "Strategic location for international research expeditions."
-      ]
+      en: ["The southernmost major commercial port in mainland South America.", "Key logistics base for over 20 international Antarctic programs.", "Receives over 100 cruise ship visits during the southern summer season.", "Managed by the Empresa Portuaria Austral (EPAustral).", "The Muelle Mardones can handle vessels up to 240 meters in length.", "Historically, it was a vital refueling stop for ships traveling between the Atlantic and Pacific."]
     },
     facts: {
       de: [
@@ -664,7 +649,7 @@ export const poiExtraChileEconomicV2: POI[] = [
       de: "Der Hafen von Chacabuco ist die unverzichtbare maritime Schnittstelle für die gesamte Region Aysén. Angesichts der komplexen geografischen Lage spielt er eine entscheidende Rolle für den Passagier- und Güterverkehr. Zudem ist er ein wesentlicher Umschlagplatz für die lokale Lachsindustrie, die ein tragender Pfeiler der wirtschaftlichen Stabilität dieser abgelegenen Region ist. Geografie K7 — Regionale Konnektivität.",
       hu: "A Chacabuco kikötő az egész Aysén régió nélkülözhetetlen tengeri csomópontja. A komplex földrajzi helyzetre való tekintettel döntő szerepet játszik a személy- és áruszállításban. Ezenkívül a helyi lazacipar alapvető átrakodási pontja, amely a távoli régió gazdasági stabilitásának tartópillére. Földrajz K7 — Regionális összeköttetés.",
       ro: "Portul Chacabuco reprezintă interfața maritimă indispensabilă pentru întreaga regiune Aysén. Având în vedere geografia complexă a zonei, acesta joacă un rol decisiv în operarea traficului de pasageri și a fluxurilor de mărfuri. Mai mult, este un punct central de transbordare pentru industria locală a somonului, care constituie un pilon de bază pentru stabilitatea economică a acestei regiuni izolate. Geografie K7 — Conectivitate regională.",
-      en: "The Port of Chacabuco is the indispensable maritime interface for the entire Aysén region. Given the complex geographical location, it plays a decisive role in passenger and freight transport. Furthermore, it is a key transshipment point for the local salmon industry, which is a cornerstone of the economic stability of this remote region. Geography K7 — Regional connectivity."
+      en: "Puerto Chacabuco is the main maritime entry point for the rugged Aysén Region in Chilean Patagonia. Located at the end of the Aisén Fjord, it serves as the primary link between this isolated territory and the rest of the country via the Navimag ferry service and cargo ships. The port is essential for the regional economy, handling the export of salmon from local aquaculture farms and minerals from the region's mines. Because the Aysén Region has no direct road connection to central Chile through Chilean territory, Puerto Chacabuco acts as a lifeline for the delivery of fuel, food, and vehicles. It is a stunning example of how maritime infrastructure overcomes extreme geographical isolation. Geography K7 - Connectivity and Isolated Territories."
     },
     factsAdvanced: {
       de: [
@@ -685,12 +670,7 @@ export const poiExtraChileEconomicV2: POI[] = [
         "Punct central pentru traficul zilnic de pasageri și feriboturi.",
         "Coloana vertebrală a infrastructurii pentru conectarea zonelor izolate."
       ],
-      en: [
-        "Most significant maritime connection for the Aysén region.",
-        "Critical logistics hub for the local salmon and fishing industry.",
-        "Central point for daily passenger and ferry traffic.",
-        "Infrastructural backbone for connecting isolated areas."
-      ]
+      en: ["Located 15 kilometers from the city of Puerto Aysén.", "The main port for the export of Atlantic salmon from Patagonian fjords.", "Terminal for the ferry route connecting to Puerto Montt (approx. 24-hour trip).", "The port operates in a deep-water fjord with spectacular mountain views.", "Essential for the transport of concentrates from the El Toqui mine.", "Managed by the Empresa Portuaria Chacabuco (Emporcha)."]
     },
     facts: {
       de: [
@@ -732,7 +712,7 @@ export const poiExtraChileEconomicV2: POI[] = [
       de: "Der Hafen von Coquimbo verbindet eine lange maritime Tradition mit modernen Exportanforderungen. Er ist für die Region Coquimbo von existenzieller Bedeutung, da er die effiziente Ausfuhr von hochwertigen Obstprodukten und bergbaulichen Erzeugnissen in internationale Märkte ermöglicht. Damit ist er ein maßgeblicher Motor für die regionale Wirtschaft. Wirtschaft K8 — Regionale Exporte.",
       hu: "A coquimbói kikötő a hosszú tengerészeti hagyományokat ötvözi a modern exportigényekkel. Létfontosságú a Coquimbo régió számára, mivel lehetővé teszi a kiváló minőségű gyümölcstermékek és bányászati termékek hatékony kivitelét a nemzetközi piacokra. Ezzel a regionális gazdaság meghatározó motorjává vált. Gazdaság K8 — Regionális export.",
       ro: "Portul Coquimbo îmbină o lungă tradiție maritimă cu cerințele moderne de export. Acesta este de o importanță existențială pentru regiunea Coquimbo, facilitând transportul eficient al produselor agricole de înaltă calitate și al resurselor miniere către piețele internaționale. Astfel, portul acționează ca un motor major pentru economia regională. Rolul său în susținerea exporturilor a modelat dezvoltarea zonei de-a lungul deceniilor. Economie K8 — Exporturi regionale.",
-      en: "The Port of Coquimbo combines a long maritime tradition with modern export requirements. It is of existential importance for the Coquimbo region, enabling the efficient export of high-quality fruit products and mining resources to international markets. Thus, it acts as a major engine for the regional economy. Economics K8 — Regional exports."
+      en: "The Port of Coquimbo is a multi-purpose terminal located in a naturally protected bay in north-central Chile. It is a vital outlet for the region's high-quality agricultural exports, including table grapes, citrus fruits, and wine destined for North American and European markets. The port also handles significant quantities of copper and iron concentrates from local mining operations. In recent years, it has become an increasingly popular destination for international cruise ships, allowing tourists to explore the nearby Elqui Valley. The port is currently undergoing a major expansion project to add a new multi-purpose pier and modernize its container-handling capabilities, ensuring it remains competitive in the global market. Economics K8 - Diversified Regional Exports."
     },
     factsAdvanced: {
       de: [
@@ -753,12 +733,7 @@ export const poiExtraChileEconomicV2: POI[] = [
         "Infrastructură logistică critică pentru sectoarele minier și agricol.",
         "Dezvoltare continuă pentru promovarea comerțului exterior regional."
       ],
-      en: [
-        "Central export location for the region's agricultural products.",
-        "Important maritime center with a long historical tradition.",
-        "Critical logistics infrastructure for the mining and agricultural sectors.",
-        "Continuous development to promote regional foreign trade."
-      ]
+      en: ["One of the oldest ports in Chile, with activity dating back to the 16th century.", "The bay is protected by the Coquimbo Peninsula from oceanic swells.", "Home to a specialized cold storage facility for fruit exports.", "Currently expanding to include a 204-meter long new wharf.", "The port is a key node for the Paso Agua Negra project, connecting to Argentina.", "Handles over 1 million tons of cargo and 30,000 cruise passengers annually."]
     },
     facts: {
       de: [
@@ -800,7 +775,7 @@ export const poiExtraChileEconomicV2: POI[] = [
       de: "Der Hafen von Arica nimmt durch seine geografische Lage im äußersten Norden Chiles eine einzigartige geopolitische Stellung ein. Er ist nicht nur für Chile essenziell, sondern fungiert als der zentrale maritime Zugang für den Großteil des internationalen Handels Boliviens. Diese Funktion macht ihn zu einem der kritischsten logistischen Knotenpunkte in ganz Südamerika. Geografie K7 — Geopolitische Logistik.",
       hu: "Az Arica kikötő egyedülálló geopolitikai pozíciót tölt be Chile legészakibb részén. Nemcsak Chile számára alapvető fontosságú, hanem Bolívia nemzetközi kereskedelmének nagy részét is ez a kikötő szolgálja ki. Ez a funkció az egész Dél-Amerika egyik legkritikusabb logisztikai csomópontjává teszi. Földrajz K7 — Geopolitikai logisztika.",
       ro: "Portul Arica deține o poziție geopolitică unică datorită localizării sale în extremul nordic al Chile. Acesta nu este doar esențial pentru economia națională, ci funcționează și drept principala poartă maritimă pentru cea mai mare parte a comerțului internațional al Boliviei. Această funcție complexă îl transformă într-unul dintre cele mai critice noduri logistice din întreg continentul sud-american. Importanța sa strategică este amplificată de fluxurile comerciale transfrontaliere constante. Geografie K7 — Logistica geopolitică.",
-      en: "The Port of Arica holds a unique geopolitical position due to its location in the far north of Chile. It is essential not only for Chile, but serves as the central maritime access point for the majority of Bolivia's international trade. This complex function makes it one of the most critical logistical hubs in all of South America. Geography K7 — Geopolitical logistics."
+      en: "The Port of Arica is Chile's northernmost maritime terminal and functions as a critical international gateway under the Treaty of 1904, which guarantees landlocked Bolivia free transit to the Pacific. A significant portion of the port's activity is dedicated to Bolivian imports and exports, including minerals, soy, and consumer goods. Its strategic location near the borders of Peru and Bolivia makes it a vital hub for regional integration. The port is known for its high efficiency and has implemented advanced digital systems to manage the complex logistics of cross-border trade. It also serves as a major port of call for cruise ships, offering access to the world's oldest mummies in the nearby Azapa Valley. History K8 - International Treaties and Border Relations."
     },
     factsAdvanced: {
       de: [
@@ -821,12 +796,7 @@ export const poiExtraChileEconomicV2: POI[] = [
         "Nod logistic central în regiunea Arica y Parinacota.",
         "Infrastructură esențială pentru tranzitul transfrontalier de mărfuri."
       ],
-      en: [
-        "Port of major geopolitical importance in the far north of Chile.",
-        "Vital access to the sea for Bolivia's foreign trade.",
-        "Central logistics hub in the Arica y Parinacota region.",
-        "Essential infrastructure for cross-border transit of goods."
-      ]
+      en: ["Nearly 80% of the port's total cargo is destined for or originates from Bolivia.", "Operated by the Terminal Puerto Arica (TPA) under a 30-year concession.", "Connected to Bolivia by the Arica-La Paz railway.", "Features a specialized terminal for mineral concentrates with environmental controls.", "The port area is dominated by the 'Morro de Arica' historic headland.", "Handles over 3 million tons of cargo annually despite its compact size."]
     },
     facts: {
       de: [
@@ -868,7 +838,7 @@ export const poiExtraChileEconomicV2: POI[] = [
       de: "Chuquicamata ist mehr als nur eine Mine – es ist ein gigantisches Monument der chilenischen Industriegeschichte. Als einer der größten Tagebaue der Welt spielt die von Codelco betriebene Mine eine alles überragende Rolle für die chilenische Wirtschaft. Ihre monumentalen Ausmaße und ihre technologische Bedeutung machen sie zu einem globalen Referenzpunkt im Kupferbergbau. Industrie K8 — Bergbautechnik.",
       hu: "Chuquicamata több mint egy bánya – a chilei ipartörténet hatalmas emlékműve. A világ egyik legnagyobb külszíni bányájaként a Codelco által üzemeltetett bánya kiemelkedő szerepet játszik a chilei gazdaságban. Monumentális méretei és technológiai jelentősége a rézbányászat globális referenciapontjává teszi. Ipar K8 — Bányászati technológia.",
       ro: "Chuquicamata este mai mult decât o simplă mină, fiind un monument grandios al istoriei industriale chiliene. Ca una dintre cele mai mari mine la suprafață din lume, operată de compania Codelco, aceasta joacă un rol determinant în economia națională a Chile. Dimensiunile sale monumentale și semnificația tehnologică o transformă într-un punct de referință global pentru mineritul cuprului. Industrie K8 — Tehnologie minieră.",
-      en: "Chuquicamata is more than just a mine – it is a grandiose monument of Chilean industrial history. As one of the largest open-pit mines in the world, operated by the company Codelco, it plays a determinant role in Chile's national economy. Its monumental dimensions and technological significance make it a global benchmark for copper mining. Industry K8 — Mining technology."
+      en: "Chuquicamata, often simply called 'Chuqui,' is one of the most iconic and largest open-pit copper mines in history. Located at 2,870 meters above sea level in the Atacama Desert, its massive pit is over 4 kilometers long and 1 kilometer deep, a testament to over a century of industrial mining. For decades, it was the primary driver of the Chilean economy and remains a symbol of national pride. Due to the increasing depth of the pit and the depletion of surface ores, the mine has recently undergone a historic transition to underground operations, utilizing advanced 'block caving' methods to access deeper high-grade minerals. This engineering marvel ensures that Chuquicamata will continue to produce copper for decades to come. Economics K8 - Mining Technology and National Economy."
     },
     factsAdvanced: {
       de: [
@@ -889,12 +859,7 @@ export const poiExtraChileEconomicV2: POI[] = [
         "Sursă determinantă pentru exporturile de cupru ale Chile.",
         "Punct central din punct de vedere istoric și tehnologic pentru dezvoltarea regiunii miniere."
       ],
-      en: [
-        "Gigantic open-pit mine of global economic importance.",
-        "Flagship operation of the Chilean state-owned company Codelco.",
-        "Determinant source for Chile's copper exports.",
-        "Historically and technologically central to the development of the mining region."
-      ]
+      en: ["Opened for industrial-scale production in 1915.", "The open pit is the largest of its kind in the world by volume excavated.", "Historically owned by the Anaconda Copper Company before nationalization in 1971.", "The Chuquicamata Underground project involved building over 140 km of tunnels.", "The mine produces over 300,000 tons of fine copper annually.", "The former company town of Chuquicamata was declared a National Monument in 2015."]
     },
     facts: {
       de: [
@@ -935,7 +900,7 @@ export const poiExtraChileEconomicV2: POI[] = [
       de: "Die Mine Escondida ist ein Kraftzentrum inmitten der rauen Atacama-Wüste und hält unangefochten den Titel der produktivsten Kupfermine der Welt. Ihre technologische Exzellenz und schiere Produktionskapazität machen sie zu einem Eckpfeiler des chilenischen Wohlstands und zu einem essenziellen Akteur auf den globalen Märkten für Industriemetalle. Industrie K8 — Rohstoffmärkte.",
       hu: "Az Escondida bánya az Atacama-sivatag zord közepén fekvő hatalmi központ, amely vitathatatlanul birtokolja a világ legtermelékenyebb rézbányájának címét. Technológiai kiválósága és hatalmas termelési kapacitása a chilei jólét sarokkövévé és az ipari fémek globális piacának alapvető szereplőjévé teszi. Ipar K8 — Nyersanyagpiacok.",
       ro: "Mina Escondida reprezintă un centru de forță situat în mijlocul deșertului arid Atacama, deținând titlul incontestabil de cea mai productivă mină de cupru din lume. Excelența sa tehnologică și capacitatea uriașă de producție o fac pilonul principal al prosperității chiliene și un actor esențial pe piețele globale ale metalelor industriale. Industrie K8 — Piețele materiilor prime.",
-      en: "The Escondida mine is a powerhouse in the middle of the harsh Atacama Desert, holding the undisputed title of the world's most productive copper mine. Its technological excellence and sheer production capacity make it a cornerstone of Chilean prosperity and an essential actor in the global markets for industrial metals. Industry K8 — Commodity markets."
+      en: "Mina Escondida is the world's most productive copper mine, located high in the Atacama Desert, 170 kilometers southeast of Antofagasta. Since its discovery in 1981, it has become the global benchmark for copper mining, often accounting for more than 5% of the world's total supply. The operation includes two massive open pits and multiple processing plants that produce copper concentrates and cathodes. Escondida is a leader in implementing sustainable practices in the desert, having built one of the world's largest desalination plants to eliminate the use of freshwater from Andean aquifers. Its massive scale and economic impact make it a cornerstone of the global mining industry and Chile's primary source of export revenue. Economics K8 - Global Resource Markets and Sustainability."
     },
     factsAdvanced: {
       de: [
@@ -956,12 +921,7 @@ export const poiExtraChileEconomicV2: POI[] = [
         "Pilon principal al sectorului minier chilian cu o semnificație globală masivă.",
         "Lider tehnologic în implementarea metodelor eficiente de extracție."
       ],
-      en: [
-        "World's most productive copper mine.",
-        "Strategically important facility in the heart of the Atacama Desert.",
-        "Main pillar of the Chilean mining sector with massive global significance.",
-        "Technological leader in implementing efficient extraction methods."
-      ]
+      en: ["Produces over 1 million tons of copper annually, more than any other mine.", "Owned by a consortium led by BHP (57.5%) and Rio Tinto (30%).", "The name 'Escondida' (Hidden) refers to the fact that the ore body was buried under 300m of barren rock.", "Home to the Escondida Water Supply (EWS) desalination plant with a capacity of 2,500 liters per second.", "The mine is located at an altitude of approximately 3,100 meters.", "Employs over 10,000 people directly and through contractors."]
     },
     facts: {
       de: [
@@ -1002,7 +962,7 @@ export const poiExtraChileEconomicV2: POI[] = [
       de: "El Teniente ist eine ingenieurtechnische Meisterleistung und die größte unterirdische Kupfermine der Welt. Hoch in den Anden gelegen, repräsentiert diese Mine die lange Tradition und die technologische Raffinesse des chilenischen Bergbaus. Mit einem Tunnelsystem von über 3.000 Kilometern Länge ist sie ein beeindruckendes Beispiel für industrielle Erschließung unter Extrembedingungen. Ingenieurwesen K8 — Bergbautechnik.",
       hu: "El Teniente egy mérnöki mestermű, a világ legnagyobb földalatti rézbányája. A magas Andokban fekvő bánya a chilei bányászat hosszú hagyományát és technológiai kifinomultságát képviseli. Több mint 3000 kilométer hosszú alagútrendszerével a szélsőséges körülmények közötti ipari feltárás lenyűgöző példája. Mérnöki tudományok K8 — Bányászati technika.",
       ro: "El Teniente constituie o capodoperă a ingineriei și reprezintă cea mai mare mină subterană de cupru din lume. Situată la mare altitudine în munții Anzi, această mină reprezintă tradiția îndelungată și rafinamentul tehnologic al mineritului chilian. Cu o rețea de tuneluri ce depășește 3.000 de kilometri lungime, aceasta oferă un exemplu impresionant de dezvoltare industrială în condiții extreme. Inginerie K8 — Tehnologie minieră.",
-      en: "El Teniente is an engineering masterpiece and the world's largest underground copper mine. Located high in the Andes, this mine represents the long tradition and technological sophistication of Chilean mining. With a tunnel network over 3,000 kilometers long, it is an impressive example of industrial development under extreme conditions. Engineering K8 — Mining technology."
+      en: "El Teniente is the world's largest underground copper mine, located in the Andes mountains near the city of Rancagua. Its history dates back to the early 20th century, and it features an incredible labyrinth of over 3,000 kilometers of tunnels—a distance nearly as long as Chile itself. Unlike the open pits of the north, El Teniente operates entirely within the mountain, using the 'panel caving' method where gravity helps break and collect the ore. The mine is famous for the historic Sewell mining camp, a UNESCO World Heritage site known as the 'City of Stairs,' where workers once lived in vibrant wooden buildings perched on steep slopes. Today, El Teniente is a high-tech operation undergoing massive expansions to tap into its vast remaining reserves. History K8 - Industrial Heritage and Mining Methods."
     },
     factsAdvanced: {
       de: [
@@ -1023,12 +983,7 @@ export const poiExtraChileEconomicV2: POI[] = [
         "Operațiune semnificativă din punct de vedere istoric pentru sectorul minier chilian.",
         "Exemplu remarcabil de inginerie industrială realizată în condiții dificile."
       ],
-      en: [
-        "World's largest underground copper mine.",
-        "Impressive network of over 3,000 kilometers of tunnels in the Andes.",
-        "Historically significant operation for the Chilean mining sector.",
-        "Outstanding example of industrial engineering under difficult conditions."
-      ]
+      en: ["Located at an elevation between 2,100 and 2,800 meters in the O'Higgins Region.", "In operation since 1905, originally by the Braden Copper Company.", "The 'New Mine Level' project aims to extend the mine's life by another 50 years.", "Produces approximately 450,000 tons of fine copper per year.", "The Sewell camp, located within the mine's grounds, was built without any streets for cars.", "Features the largest copper smelting furnace in the world."]
     },
     facts: {
       de: [

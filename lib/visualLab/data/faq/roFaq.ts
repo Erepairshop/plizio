@@ -107,7 +107,7 @@ export const roFaq: CountryFaqMap = {
       { q: "Ce reprezintă RO-B în împărțirea administrativă?", a: "Reprezintă Municipiul București, capitala României." },
       { q: "Care este cea mai mare clădire administrativă din București?", a: "Palatul Parlamentului, a doua cea mai mare clădire din lume." },
       { q: "Ce râu traversează Bucureștiul?", a: "Râul Dâmbovița." },
-      { q: "Care este cel mai vechi muzeu în aer liber din București?", a: "Muzeul Național al Satului „Dimitrie Gusti”." },
+      { q: "Care este cel mai vechi muzeu în aer liber din București?", a: "Muzeul Național al Satului \"Dimitrie Gusti\"." },
     ],
     de: [
       { q: "Was ist die historische Bedeutung von RO-B?", a: "RO-B ist ein wichtiges kulturelles und geografisches Wahrzeichen." },
@@ -124,7 +124,7 @@ export const roFaq: CountryFaqMap = {
   en: [
       { q: "Care este cea mai mare clădire administrativă din București?", a: "Palatul Parlamentului, a doua cea mai mare clădire din lume." },
       { q: "Ce râu traversează Bucureștiul?", a: "Râul Dâmbovița." },
-      { q: "Care este cel mai vechi muzeu în aer liber din București?", a: "Muzeul Național al Satului „Dimitrie Gusti”." },
+      { q: "Care este cel mai vechi muzeu în aer liber din București?", a: "Muzeul Național al Satului \"Dimitrie Gusti\"." },
   ],
   },
   "RO-BC": {
@@ -181,7 +181,7 @@ export const roFaq: CountryFaqMap = {
     ro: [
       { q: "Care este reședința județului Bistrița-Năsăud?", a: "Municipiul Bistrița." },
       { q: "Ce zonă montană spectaculoasă se află în acest județ?", a: "Munții Rodnei." },
-      { q: "Ce lac de munte din acest județ este supranumit „Marea de la munte”?", a: "Lacul Colibița." },
+      { q: "Ce lac de munte din acest județ este supranumit \"Marea de la munte\"?", a: "Lacul Colibița." },
       { q: "Ce pas faimos leagă Transilvania de Moldova în acest județ?", a: "Pasul Tihuța (sau Pasul Bârgău)." },
     ],
     de: [
@@ -198,7 +198,7 @@ export const roFaq: CountryFaqMap = {
     ],
   en: [
       { q: "Ce zonă montană spectaculoasă se află în acest județ?", a: "Munții Rodnei." },
-      { q: "Ce lac de munte din acest județ este supranumit „Marea de la munte”?", a: "Lacul Colibița." },
+      { q: "Ce lac de munte din acest județ este supranumit \"Marea de la munte\"?", a: "Lacul Colibița." },
       { q: "Ce pas faimos leagă Transilvania de Moldova în acest județ?", a: "Pasul Tihuța (sau Pasul Bârgău)." },
   ],
   },
@@ -656,7 +656,7 @@ export const roFaq: CountryFaqMap = {
     ro: [
       { q: "Care este reședința județului Iași?", a: "Municipiul Iași." },
       { q: "Care este simbolul arhitectural al orașului Iași?", a: "Palatul Culturii." },
-      { q: "Ce universitate din Iași este cea mai veche din România?", a: "Universitatea „Alexandru Ioan Cuza”." },
+      { q: "Ce universitate din Iași este cea mai veche din România?", a: "Universitatea \"Alexandru Ioan Cuza\"." },
       { q: "Ce râu formează granița de est a județului Iași?", a: "Râul Prut." },
     ],
     de: [
@@ -673,7 +673,7 @@ export const roFaq: CountryFaqMap = {
     ],
   en: [
       { q: "Care este simbolul arhitectural al orașului Iași?", a: "Palatul Culturii." },
-      { q: "Ce universitate din Iași este cea mai veche din România?", a: "Universitatea „Alexandru Ioan Cuza”." },
+      { q: "Ce universitate din Iași este cea mai veche din România?", a: "Universitatea \"Alexandru Ioan Cuza\"." },
       { q: "Ce râu formează granița de est a județului Iași?", a: "Râul Prut." },
   ],
   },
@@ -982,7 +982,7 @@ export const roFaq: CountryFaqMap = {
       { q: "Care este reședința județului Teleorman?", a: "Municipiul Alexandria." },
       { q: "Ce fluviu formează granița de sud a județului Teleorman?", a: "Fluviul Dunărea." },
       { q: "Care este cel mai sudic punct al României, aflat în acest județ?", a: "Orașul Zimnicea." },
-      { q: "Ce înseamnă numele „Teleorman” în limba cumană?", a: "Pădure nebună (deli orman)." },
+      { q: "Ce înseamnă numele \"Teleorman\" în limba cumană?", a: "Pădure nebună (deli orman)." },
     ],
     de: [
       { q: "Was ist die historische Bedeutung von RO-TR?", a: "RO-TR ist ein wichtiges kulturelles und geografisches Wahrzeichen." },
@@ -999,7 +999,7 @@ export const roFaq: CountryFaqMap = {
   en: [
       { q: "Ce fluviu formează granița de sud a județului Teleorman?", a: "Fluviul Dunărea." },
       { q: "Care este cel mai sudic punct al României, aflat în acest județ?", a: "Orașul Zimnicea." },
-      { q: "Ce înseamnă numele „Teleorman” în limba cumană?", a: "Pădure nebună (deli orman)." },
+      { q: "Ce înseamnă numele \"Teleorman\" în limba cumană?", a: "Pădure nebună (deli orman)." },
   ],
   },
   "RO-VL": {
@@ -1332,7 +1332,7 @@ export const roFaq: CountryFaqMap = {
   "city-craiova": {
     ro: [
       { q: "Ce mare parc natural se află în orașul Craiova?", a: "Parcul Nicolae Romanescu." },
-      { q: "Ce operă de artă celebră a lui Brâncuși se poate vedea la Muzeul de Artă din Craiova?", a: "Mai multe sculpturi timpurii, printre care „Sărutul”." },
+      { q: "Ce operă de artă celebră a lui Brâncuși se poate vedea la Muzeul de Artă din Craiova?", a: "Mai multe sculpturi timpurii, printre care \"Sărutul\"." },
       { q: "Pentru ce industrie este renumit orașul Craiova?", a: "Pentru industria constructoare de mașini (Fabrica Ford)." },
       { q: "Cum este supranumită Craiova în regiunea Olteniei?", a: "Capitală Olteniei." },
     ],
@@ -1349,7 +1349,7 @@ export const roFaq: CountryFaqMap = {
       { q: "Melyik a legjobb évszak a látogatásra?", a: "A hely egész évben vonzó, de különösen tavasszal és nyáron." },
     ],
   en: [
-      { q: "Ce operă de artă celebră a lui Brâncuși se poate vedea la Muzeul de Artă din Craiova?", a: "Mai multe sculpturi timpurii, printre care „Sărutul”." },
+      { q: "Ce operă de artă celebră a lui Brâncuși se poate vedea la Muzeul de Artă din Craiova?", a: "Mai multe sculpturi timpurii, printre care \"Sărutul\"." },
       { q: "Pentru ce industrie este renumit orașul Craiova?", a: "Pentru industria constructoare de mașini (Fabrica Ford)." },
       { q: "Cum este supranumită Craiova în regiunea Olteniei?", a: "Capitală Olteniei." },
   ],
@@ -1459,7 +1459,7 @@ export const roFaq: CountryFaqMap = {
       { q: "Ce rol istoric a avut orașul Iași între 1916 și 1918?", a: "A fost capitala provizorie a României în timpul Primului Război Mondial." },
       { q: "Care este cel mai cunoscut monument de pe Copou, în Iași?", a: "Teiul lui Eminescu." },
       { q: "Ce clădire neogotică găzduiește patru muzee naționale în Iași?", a: "Palatul Culturii." },
-      { q: "Care este prima universitate modernă din România?", a: "Universitatea „Alexandru Ioan Cuza” din Iași." },
+      { q: "Care este prima universitate modernă din România?", a: "Universitatea \"Alexandru Ioan Cuza\" din Iași." },
     ],
     de: [
       { q: "Was ist die historische Bedeutung von city-iasi?", a: "city-iasi ist ein wichtiges kulturelles und geografisches Wahrzeichen." },
@@ -1476,7 +1476,7 @@ export const roFaq: CountryFaqMap = {
   en: [
       { q: "Care este cel mai cunoscut monument de pe Copou, în Iași?", a: "Teiul lui Eminescu." },
       { q: "Ce clădire neogotică găzduiește patru muzee naționale în Iași?", a: "Palatul Culturii." },
-      { q: "Care este prima universitate modernă din România?", a: "Universitatea „Alexandru Ioan Cuza” din Iași." },
+      { q: "Care este prima universitate modernă din România?", a: "Universitatea \"Alexandru Ioan Cuza\" din Iași." },
   ],
   },
   "city-miercurea-ciuc": {
@@ -1806,10 +1806,10 @@ export const roFaq: CountryFaqMap = {
   },
   "city-village-museum": {
     ro: [
-      { q: "Care este principala atracție sau caracteristică a Muzeul Național al Satului „Dimitrie Gusti”?", a: "Este un muzeu în aer liber care prezintă peste 300 de construcții autentice din toată țara. Este situat în incinta Parcului Herăstrău din București." },
-      { q: "Ce fapt interesant ne poți spune despre Muzeul Național al Satului „Dimitrie Gusti”?", a: "A fost fondat în 1936 de sociologul Dimitrie Gusti." },
-      { q: "Prin ce se remarcă Muzeul Național al Satului „Dimitrie Gusti” în contextul României?", a: "Găzduiește gospodării țărănești, biserici de lemn și ateliere meșteșugărești." },
-      { q: "Mai există și alte detalii notabile despre Muzeul Național al Satului „Dimitrie Gusti”?", a: "Este situat în incinta Parcului Herăstrău din București." },
+      { q: "Care este principala atracție sau caracteristică a Muzeul Național al Satului \"Dimitrie Gusti\"?", a: "Este un muzeu în aer liber care prezintă peste 300 de construcții autentice din toată țara. Este situat în incinta Parcului Herăstrău din București." },
+      { q: "Ce fapt interesant ne poți spune despre Muzeul Național al Satului \"Dimitrie Gusti\"?", a: "A fost fondat în 1936 de sociologul Dimitrie Gusti." },
+      { q: "Prin ce se remarcă Muzeul Național al Satului \"Dimitrie Gusti\" în contextul României?", a: "Găzduiește gospodării țărănești, biserici de lemn și ateliere meșteșugărești." },
+      { q: "Mai există și alte detalii notabile despre Muzeul Național al Satului \"Dimitrie Gusti\"?", a: "Este situat în incinta Parcului Herăstrău din București." },
     ],
     de: [
       { q: "Was ist die historische Bedeutung von city-village-museum?", a: "city-village-museum ist ein wichtiges kulturelles und geografisches Wahrzeichen." },
@@ -1824,14 +1824,14 @@ export const roFaq: CountryFaqMap = {
       { q: "Melyik a legjobb évszak a látogatásra?", a: "A hely egész évben vonzó, de különösen tavasszal és nyáron." },
     ],
   en: [
-      { q: "Ce fapt interesant ne poți spune despre Muzeul Național al Satului „Dimitrie Gusti”?", a: "A fost fondat în 1936 de sociologul Dimitrie Gusti." },
-      { q: "Prin ce se remarcă Muzeul Național al Satului „Dimitrie Gusti” în contextul României?", a: "Găzduiește gospodării țărănești, biserici de lemn și ateliere meșteșugărești." },
-      { q: "Mai există și alte detalii notabile despre Muzeul Național al Satului „Dimitrie Gusti”?", a: "Este situat în incinta Parcului Herăstrău din București." },
+      { q: "Ce fapt interesant ne poți spune despre Muzeul Național al Satului \"Dimitrie Gusti\"?", a: "A fost fondat în 1936 de sociologul Dimitrie Gusti." },
+      { q: "Prin ce se remarcă Muzeul Național al Satului \"Dimitrie Gusti\" în contextul României?", a: "Găzduiește gospodării țărănești, biserici de lemn și ateliere meșteșugărești." },
+      { q: "Mai există și alte detalii notabile despre Muzeul Național al Satului \"Dimitrie Gusti\"?", a: "Este situat în incinta Parcului Herăstrău din București." },
   ],
   },
   "cultura-festivalul-enab": {
     ro: [
-      { q: "Ce este Festivalul Internațional „George Enescu”?", a: "Este cel mai important eveniment cultural internațional organizat în România și unul dintre cele mai prestigioase festivaluri de muzică clasică din lume." },
+      { q: "Ce este Festivalul Internațional \"George Enescu\"?", a: "Este cel mai important eveniment cultural internațional organizat în România și unul dintre cele mai prestigioase festivaluri de muzică clasică din lume." },
       { q: "Cât de des are loc festivalul?", a: "Festivalul se desfășoară o dată la doi ani, de obicei în luna septembrie, aducând la București cele mai mari orchestre și soliști ai lumii." },
       { q: "Unde se desfășoară principalele concerte în București?", a: "Concertele au loc la Ateneul Român, Sala Palatului, Sala Radio și în alte spații culturale neconvenționale." },
       { q: "Care este legătura festivalului cu George Enescu?", a: "Festivalul a fost înființat în 1958 pentru a onora memoria și opera marelui compozitor, violonist și dirijor român George Enescu." },
@@ -1856,7 +1856,7 @@ export const roFaq: CountryFaqMap = {
   },
   "cultura-muzeul-antipa": {
     ro: [
-      { q: "Ce fel de exponate se găsesc la Muzeul Național de Istorie Naturală „Grigore Antipa”?", a: "Muzeul adăpostește colecții impresionante de animale împăiate, schelete de animale preistorice (inclusiv un faimos Deinotherium), minerale și insecte." },
+      { q: "Ce fel de exponate se găsesc la Muzeul Național de Istorie Naturală \"Grigore Antipa\"?", a: "Muzeul adăpostește colecții impresionante de animale împăiate, schelete de animale preistorice (inclusiv un faimos Deinotherium), minerale și insecte." },
       { q: "Este acest muzeu potrivit pentru copii?", a: "Da, este unul dintre cele mai iubite muzee de către copii, oferind numeroase diorame interactive, ecrane tactile și ateliere educaționale." },
       { q: "Unde se află muzeul în București?", a: "Sediul se află în Piața Victoriei, fiind găzduit într-o clădire istorică inaugurată în anul 1908." },
       { q: "Cine a fost Grigore Antipa?", a: "A fost un mare savant român, biolog și hidrobiolog, care a condus muzeul timp de 51 de ani și a fost pionierul conceptului modern de dioramă." },
@@ -1931,7 +1931,7 @@ export const roFaq: CountryFaqMap = {
   },
   "cultura-opera-cluj": {
     ro: [
-      { q: "Ce instituții funcționează în clădirea Operei din Cluj?", a: "Clădirea adăpostește două instituții culturale majore: Opera Națională Română Cluj-Napoca și Teatrul Național „Lucian Blaga”." },
+      { q: "Ce instituții funcționează în clădirea Operei din Cluj?", a: "Clădirea adăpostește două instituții culturale majore: Opera Națională Română Cluj-Napoca și Teatrul Național \"Lucian Blaga\"." },
       { q: "Când a fost construită clădirea Operei?", a: "Edificiul a fost construit între anii 1904 și 1906 de celebrii arhitecți vienezi Helmer și Fellner, în stil neobaroc cu elemente rococo." },
       { q: "Unde este situată clădirea în oraș?", a: "Opera se află în Piața Avram Iancu, fiind unul dintre cele mai importante și vizibile repere din centrul istoric al Clujului." },
       { q: "A fost aceasta prima operă românească din Transilvania?", a: "Da, Opera Națională Română din Cluj este prima instituție lirică a statului român înființată în Transilvania (1919)." },
@@ -1957,7 +1957,7 @@ export const roFaq: CountryFaqMap = {
   "cultura-opera-timisoara": {
     ro: [
       { q: "Unde se află Opera Națională Română din Timișoara?", a: "Este situată în centrul orașului, în Piața Victoriei, ocupând aceeași clădire monumentală cu Teatrul Național, Teatrul Maghiar și Teatrul German." },
-      { q: "Când a fost înființată instituția operei?", a: "Opera a fost înființată prin decret regal în anul 1946, primul spectacol fiind „Aida” de Giuseppe Verdi." },
+      { q: "Când a fost înființată instituția operei?", a: "Opera a fost înființată prin decret regal în anul 1946, primul spectacol fiind \"Aida\" de Giuseppe Verdi." },
       { q: "Cine a proiectat clădirea teatrului și operei?", a: "Clădirea originală a fost proiectată de firma Fellner & Helmer din Viena, fiind inaugurată în 1875." },
       { q: "Ce eveniment istoric major a pornit din balconul acestei clădiri?", a: "Balconul Operei din Timișoara este locul de unde a fost proclamat primul oraș liber de comunism pe 20 decembrie 1989, în timpul Revoluției." },
     ],
@@ -1974,7 +1974,7 @@ export const roFaq: CountryFaqMap = {
       { q: "Melyik a legjobb évszak a látogatásra?", a: "A hely egész évben vonzó, de különösen tavasszal és nyáron." },
     ],
   en: [
-      { q: "Când a fost înființată instituția operei?", a: "Opera a fost înființată prin decret regal în anul 1946, primul spectacol fiind „Aida” de Giuseppe Verdi." },
+      { q: "Când a fost înființată instituția operei?", a: "Opera a fost înființată prin decret regal în anul 1946, primul spectacol fiind \"Aida\" de Giuseppe Verdi." },
       { q: "Cine a proiectat clădirea teatrului și operei?", a: "Clădirea originală a fost proiectată de firma Fellner & Helmer din Viena, fiind inaugurată în 1875." },
       { q: "Ce eveniment istoric major a pornit din balconul acestei clădiri?", a: "Balconul Operei din Timișoara este locul de unde a fost proclamat primul oraș liber de comunism pe 20 decembrie 1989, în timpul Revoluției." },
   ],
@@ -1983,7 +1983,7 @@ export const roFaq: CountryFaqMap = {
     ro: [
       { q: "Unde se află cel mai faimos Palat al Culturii din România?", a: "Cel mai cunoscut este cel din Iași, o clădire monumentală construită în stil neogotic, situată în centrul orașului." },
       { q: "Câte muzee se află în interiorul palatului din Iași?", a: "Palatul găzduiește patru muzee de importanță națională: Muzeul de Artă, Muzeul de Istorie a Moldovei, Muzeul de Etnografie și Muzeul Științei și Tehnicii." },
-      { q: "Ce element este considerat simbolul clădirii?", a: "Simbolul palatului este turnul cu ceas, care are un mecanism cu carillon ce redă „Hora Unirii” la fiecare oră fixă." },
+      { q: "Ce element este considerat simbolul clădirii?", a: "Simbolul palatului este turnul cu ceas, care are un mecanism cu carillon ce redă \"Hora Unirii\" la fiecare oră fixă." },
       { q: "Din ce perioadă datează clădirea actuală?", a: "Clădirea a fost ridicată pe parcursul a două decenii (1906-1925), fiind inaugurată de regele Ferdinand I al României." },
     ],
     de: [
@@ -2000,7 +2000,7 @@ export const roFaq: CountryFaqMap = {
     ],
   en: [
       { q: "Câte muzee se află în interiorul palatului din Iași?", a: "Palatul găzduiește patru muzee de importanță națională: Muzeul de Artă, Muzeul de Istorie a Moldovei, Muzeul de Etnografie și Muzeul Științei și Tehnicii." },
-      { q: "Ce element este considerat simbolul clădirii?", a: "Simbolul palatului este turnul cu ceas, care are un mecanism cu carillon ce redă „Hora Unirii” la fiecare oră fixă." },
+      { q: "Ce element este considerat simbolul clădirii?", a: "Simbolul palatului este turnul cu ceas, care are un mecanism cu carillon ce redă \"Hora Unirii\" la fiecare oră fixă." },
       { q: "Din ce perioadă datează clădirea actuală?", a: "Clădirea a fost ridicată pe parcursul a două decenii (1906-1925), fiind inaugurată de regele Ferdinand I al României." },
   ],
   },
@@ -2059,7 +2059,7 @@ export const roFaq: CountryFaqMap = {
       { q: "Ce este UNTOLD și unde se desfășoară?", a: "UNTOLD este unul dintre cele mai mari festivaluri de muzică electronică din lume și are loc anual în parcul central și pe stadionul Cluj Arena din Cluj-Napoca." },
       { q: "Câți oameni participă de obicei la acest festival?", a: "Festivalul atrage anual sute de mii de participanți (peste 350.000 pe parcursul celor 4 zile), fiind o destinație globală pentru fanii muzicii dance și EDM." },
       { q: "Ce artiști faimoși au urcat pe scena UNTOLD?", a: "Pe scena principală au concertat nume mari precum Armin van Buuren, David Guetta, Martin Garrix, Avicii sau Robbie Williams." },
-      { q: "Ce premii internaționale a câștigat festivalul?", a: "UNTOLD a câștigat de mai multe ori titlul de „Best Major Festival” la European Festival Awards, concurând cu evenimente de renume precum Tomorrowland." },
+      { q: "Ce premii internaționale a câștigat festivalul?", a: "UNTOLD a câștigat de mai multe ori titlul de \"Best Major Festival\" la European Festival Awards, concurând cu evenimente de renume precum Tomorrowland." },
     ],
     de: [
       { q: "Was ist die historische Bedeutung von cultura-untold?", a: "cultura-untold ist ein wichtiges kulturelles und geografisches Wahrzeichen." },
@@ -2076,15 +2076,15 @@ export const roFaq: CountryFaqMap = {
   en: [
       { q: "Câți oameni participă de obicei la acest festival?", a: "Festivalul atrage anual sute de mii de participanți (peste 350.000 pe parcursul celor 4 zile), fiind o destinație globală pentru fanii muzicii dance și EDM." },
       { q: "Ce artiști faimoși au urcat pe scena UNTOLD?", a: "Pe scena principală au concertat nume mari precum Armin van Buuren, David Guetta, Martin Garrix, Avicii sau Robbie Williams." },
-      { q: "Ce premii internaționale a câștigat festivalul?", a: "UNTOLD a câștigat de mai multe ori titlul de „Best Major Festival” la European Festival Awards, concurând cu evenimente de renume precum Tomorrowland." },
+      { q: "Ce premii internaționale a câștigat festivalul?", a: "UNTOLD a câștigat de mai multe ori titlul de \"Best Major Festival\" la European Festival Awards, concurând cu evenimente de renume precum Tomorrowland." },
   ],
   },
   "folk-bucovina": {
     ro: [
       { q: "Prin ce se caracterizează tradițiile din Bucovina?", a: "Bucovina este celebră pentru arta încondeierii ouălor, gastronomia bogată și portul popular de o eleganță aparte, cu broderii fine și mărgele." },
       { q: "Ce este încondeierea ouălor în Bucovina?", a: "Este o artă străveche prin care ouăle sunt decorate cu motive geometrice și simbolice folosind ceară de albine și culori naturale." },
-      { q: "Cum arată costumul popular bucovinean?", a: "Bărbații poartă ițari lungi și sumane decorate, iar femeile poartă cămăși brodate cu fir de aur sau argint și „catrință” neagră cu dungi subțiri." },
-      { q: "Ce reprezintă „Jocul Ursului” în Bucovina?", a: "Este un dans ritual de iarnă, foarte spectaculos, în care tinerii se costumează în blăni de urs și dansează pe ritmul tobelor pentru a alunga spiritele rele." },
+      { q: "Cum arată costumul popular bucovinean?", a: "Bărbații poartă ițari lungi și sumane decorate, iar femeile poartă cămăși brodate cu fir de aur sau argint și \"catrință\" neagră cu dungi subțiri." },
+      { q: "Ce reprezintă \"Jocul Ursului\" în Bucovina?", a: "Este un dans ritual de iarnă, foarte spectaculos, în care tinerii se costumează în blăni de urs și dansează pe ritmul tobelor pentru a alunga spiritele rele." },
     ],
     de: [
       { q: "Was ist die historische Bedeutung von folk-bucovina?", a: "folk-bucovina ist ein wichtiges kulturelles und geografisches Wahrzeichen." },
@@ -2100,16 +2100,16 @@ export const roFaq: CountryFaqMap = {
     ],
   en: [
       { q: "Ce este încondeierea ouălor în Bucovina?", a: "Este o artă străveche prin care ouăle sunt decorate cu motive geometrice și simbolice folosind ceară de albine și culori naturale." },
-      { q: "Cum arată costumul popular bucovinean?", a: "Bărbații poartă ițari lungi și sumane decorate, iar femeile poartă cămăși brodate cu fir de aur sau argint și „catrință” neagră cu dungi subțiri." },
-      { q: "Ce reprezintă „Jocul Ursului” în Bucovina?", a: "Este un dans ritual de iarnă, foarte spectaculos, în care tinerii se costumează în blăni de urs și dansează pe ritmul tobelor pentru a alunga spiritele rele." },
+      { q: "Cum arată costumul popular bucovinean?", a: "Bărbații poartă ițari lungi și sumane decorate, iar femeile poartă cămăși brodate cu fir de aur sau argint și \"catrință\" neagră cu dungi subțiri." },
+      { q: "Ce reprezintă \"Jocul Ursului\" în Bucovina?", a: "Este un dans ritual de iarnă, foarte spectaculos, în care tinerii se costumează în blăni de urs și dansează pe ritmul tobelor pentru a alunga spiritele rele." },
   ],
   },
   "folk-dobrogea": {
     ro: [
       { q: "Ce influențe se regăsesc în folclorul din Dobrogea?", a: "Folclorul dobrogean este un mozaic cultural unic, împletind tradițiile românești cu influențe turcești, tătărești, lipovenești și grecești." },
-      { q: "Care este dansul simbol al Dobrogei?", a: "„Geamparaua” este cel mai cunoscut dans dobrogean, caracterizat prin ritmuri asimetrice și pași rapizi, plini de energie." },
+      { q: "Care este dansul simbol al Dobrogei?", a: "\"Geamparaua\" este cel mai cunoscut dans dobrogean, caracterizat prin ritmuri asimetrice și pași rapizi, plini de energie." },
       { q: "Cum se distinge portul popular dobrogean?", a: "Se remarcă prin simplitate și eleganță, folosind materiale precum borangicul și bumbacul, decorate cu motive geometrice discrete în culori calde." },
-      { q: "Ce sunt „păpușile de stuf”?", a: "Sunt obiecte de artizanat specifice zonei Deltei Dunării, realizate manual din stuf și papură, reprezentând scene din viața pescarilor." },
+      { q: "Ce sunt \"păpușile de stuf\"?", a: "Sunt obiecte de artizanat specifice zonei Deltei Dunării, realizate manual din stuf și papură, reprezentând scene din viața pescarilor." },
     ],
     de: [
       { q: "Was ist die historische Bedeutung von folk-dobrogea?", a: "folk-dobrogea ist ein wichtiges kulturelles und geografisches Wahrzeichen." },
@@ -2124,17 +2124,17 @@ export const roFaq: CountryFaqMap = {
       { q: "Melyik a legjobb évszak a látogatásra?", a: "A hely egész évben vonzó, de különösen tavasszal és nyáron." },
     ],
   en: [
-      { q: "Care este dansul simbol al Dobrogei?", a: "„Geamparaua” este cel mai cunoscut dans dobrogean, caracterizat prin ritmuri asimetrice și pași rapizi, plini de energie." },
+      { q: "Care este dansul simbol al Dobrogei?", a: "\"Geamparaua\" este cel mai cunoscut dans dobrogean, caracterizat prin ritmuri asimetrice și pași rapizi, plini de energie." },
       { q: "Cum se distinge portul popular dobrogean?", a: "Se remarcă prin simplitate și eleganță, folosind materiale precum borangicul și bumbacul, decorate cu motive geometrice discrete în culori calde." },
-      { q: "Ce sunt „păpușile de stuf”?", a: "Sunt obiecte de artizanat specifice zonei Deltei Dunării, realizate manual din stuf și papură, reprezentând scene din viața pescarilor." },
+      { q: "Ce sunt \"păpușile de stuf\"?", a: "Sunt obiecte de artizanat specifice zonei Deltei Dunării, realizate manual din stuf și papură, reprezentând scene din viața pescarilor." },
   ],
   },
   "folk-maramures": {
     ro: [
-      { q: "Ce este specific folclorului din Maramureș?", a: "Maramureșul este renumit pentru conservarea arhaică a tradițiilor, porțile monumentale de lemn sculptat și muzica distinctivă de „cetera” și „zongoră”." },
+      { q: "Ce este specific folclorului din Maramureș?", a: "Maramureșul este renumit pentru conservarea arhaică a tradițiilor, porțile monumentale de lemn sculptat și muzica distinctivă de \"cetera\" și \"zongoră\"." },
       { q: "Ce reprezintă poarta maramureșeană?", a: "Este un simbol al statutului social și spiritual, decorată cu motive ancestrale precum funia răsucită, soarele și arborele vieții." },
-      { q: "Care este portul popular specific Maramureșului?", a: "Se distinge prin „zadie” (catrință) cu dungi orizontale viu colorate pentru femei și cămăși scurte și „clop” (pălărie mică) pentru bărbați." },
-      { q: "Ce este „horia în gura cuțitului”?", a: "Este un stil de interpretare vocală extrem de vechi și dificil, specific zonei, caracterizat prin noduri și inflexiuni unice ale vocii." },
+      { q: "Care este portul popular specific Maramureșului?", a: "Se distinge prin \"zadie\" (catrință) cu dungi orizontale viu colorate pentru femei și cămăși scurte și \"clop\" (pălărie mică) pentru bărbați." },
+      { q: "Ce este \"horia în gura cuțitului\"?", a: "Este un stil de interpretare vocală extrem de vechi și dificil, specific zonei, caracterizat prin noduri și inflexiuni unice ale vocii." },
     ],
     de: [
       { q: "Was ist die historische Bedeutung von folk-maramures?", a: "folk-maramures ist ein wichtiges kulturelles und geografisches Wahrzeichen." },
@@ -2150,15 +2150,15 @@ export const roFaq: CountryFaqMap = {
     ],
   en: [
       { q: "Ce reprezintă poarta maramureșeană?", a: "Este un simbol al statutului social și spiritual, decorată cu motive ancestrale precum funia răsucită, soarele și arborele vieții." },
-      { q: "Care este portul popular specific Maramureșului?", a: "Se distinge prin „zadie” (catrință) cu dungi orizontale viu colorate pentru femei și cămăși scurte și „clop” (pălărie mică) pentru bărbați." },
-      { q: "Ce este „horia în gura cuțitului”?", a: "Este un stil de interpretare vocală extrem de vechi și dificil, specific zonei, caracterizat prin noduri și inflexiuni unice ale vocii." },
+      { q: "Care este portul popular specific Maramureșului?", a: "Se distinge prin \"zadie\" (catrință) cu dungi orizontale viu colorate pentru femei și cămăși scurte și \"clop\" (pălărie mică) pentru bărbați." },
+      { q: "Ce este \"horia în gura cuțitului\"?", a: "Este un stil de interpretare vocală extrem de vechi și dificil, specific zonei, caracterizat prin noduri și inflexiuni unice ale vocii." },
   ],
   },
   "folk-marginimea-sibiului": {
     ro: [
       { q: "Care este ocupația tradițională de bază în Mărginimea Sibiului?", a: "Ocupația principală a fost de secole oieritul (transhumanța), fapt ce a influențat întreaga cultură și prosperitate a regiunii." },
-      { q: "Cum arată costumul popular din Mărginime?", a: "Este celebru pentru sobrietatea sa, fiind compus aproape exclusiv din alb și negru, motiv pentru care este numit uneori costum „de doliu” sau „aristocratic”." },
-      { q: "Ce eveniment tradițional are loc la Săliște de sărbători?", a: "„Întâlnirea Cetelor de Juni” este o mare sărbătoare ce are loc pe 28 decembrie, reunind junii din toate satele Mărginimii în costume de gală." },
+      { q: "Cum arată costumul popular din Mărginime?", a: "Este celebru pentru sobrietatea sa, fiind compus aproape exclusiv din alb și negru, motiv pentru care este numit uneori costum \"de doliu\" sau \"aristocratic\"." },
+      { q: "Ce eveniment tradițional are loc la Săliște de sărbători?", a: "\"Întâlnirea Cetelor de Juni\" este o mare sărbătoare ce are loc pe 28 decembrie, reunind junii din toate satele Mărginimii în costume de gală." },
       { q: "Ce este specific gastronomiei din Mărginime?", a: "Regiunea este celebră pentru produsele lactate, în special telemeaua de Sibiu (produs cu Indicație Geografică Protejată) și preparatele din carne de oaie." },
     ],
     de: [
@@ -2174,17 +2174,17 @@ export const roFaq: CountryFaqMap = {
       { q: "Melyik a legjobb évszak a látogatásra?", a: "A hely egész évben vonzó, de különösen tavasszal és nyáron." },
     ],
   en: [
-      { q: "Cum arată costumul popular din Mărginime?", a: "Este celebru pentru sobrietatea sa, fiind compus aproape exclusiv din alb și negru, motiv pentru care este numit uneori costum „de doliu” sau „aristocratic”." },
-      { q: "Ce eveniment tradițional are loc la Săliște de sărbători?", a: "„Întâlnirea Cetelor de Juni” este o mare sărbătoare ce are loc pe 28 decembrie, reunind junii din toate satele Mărginimii în costume de gală." },
+      { q: "Cum arată costumul popular din Mărginime?", a: "Este celebru pentru sobrietatea sa, fiind compus aproape exclusiv din alb și negru, motiv pentru care este numit uneori costum \"de doliu\" sau \"aristocratic\"." },
+      { q: "Ce eveniment tradițional are loc la Săliște de sărbători?", a: "\"Întâlnirea Cetelor de Juni\" este o mare sărbătoare ce are loc pe 28 decembrie, reunind junii din toate satele Mărginimii în costume de gală." },
       { q: "Ce este specific gastronomiei din Mărginime?", a: "Regiunea este celebră pentru produsele lactate, în special telemeaua de Sibiu (produs cu Indicație Geografică Protejată) și preparatele din carne de oaie." },
   ],
   },
   "folk-oltenia": {
     ro: [
       { q: "Care sunt elementele definitorii ale folclorului oltenesc?", a: "Oltenia este cunoscută pentru temperamentul vioi, dansurile extrem de rapide (precum Călușul sau Alunelul) și ceramica de Horezu." },
-      { q: "Ce este special la ceramica de Horezu?", a: "Este inclusă în patrimoniul UNESCO și se remarcă prin simbolul „cocoșului de Hurez” și tehnica unică de decorare manuală." },
-      { q: "Cum se distinge portul popular din Oltenia?", a: "Elementul central este „vâlnicul” – o fustă plisată din lână, bogat decorată, purtată de femei peste cămășile lungi brodate." },
-      { q: "Ce este „cula” oltenească?", a: "Cula este o casă-turn fortificată, specifică boierilor olteni din trecut, construită pentru apărare împotriva incursiunilor cetelor de prădători de peste Dunăre." },
+      { q: "Ce este special la ceramica de Horezu?", a: "Este inclusă în patrimoniul UNESCO și se remarcă prin simbolul \"cocoșului de Hurez\" și tehnica unică de decorare manuală." },
+      { q: "Cum se distinge portul popular din Oltenia?", a: "Elementul central este \"vâlnicul\" – o fustă plisată din lână, bogat decorată, purtată de femei peste cămășile lungi brodate." },
+      { q: "Ce este \"cula\" oltenească?", a: "Cula este o casă-turn fortificată, specifică boierilor olteni din trecut, construită pentru apărare împotriva incursiunilor cetelor de prădători de peste Dunăre." },
     ],
     de: [
       { q: "Was ist die historische Bedeutung von folk-oltenia?", a: "folk-oltenia ist ein wichtiges kulturelles und geografisches Wahrzeichen." },
@@ -2199,16 +2199,16 @@ export const roFaq: CountryFaqMap = {
       { q: "Melyik a legjobb évszak a látogatásra?", a: "A hely egész évben vonzó, de különösen tavasszal és nyáron." },
     ],
   en: [
-      { q: "Ce este special la ceramica de Horezu?", a: "Este inclusă în patrimoniul UNESCO și se remarcă prin simbolul „cocoșului de Hurez” și tehnica unică de decorare manuală." },
-      { q: "Cum se distinge portul popular din Oltenia?", a: "Elementul central este „vâlnicul” – o fustă plisată din lână, bogat decorată, purtată de femei peste cămășile lungi brodate." },
-      { q: "Ce este „cula” oltenească?", a: "Cula este o casă-turn fortificată, specifică boierilor olteni din trecut, construită pentru apărare împotriva incursiunilor cetelor de prădători de peste Dunăre." },
+      { q: "Ce este special la ceramica de Horezu?", a: "Este inclusă în patrimoniul UNESCO și se remarcă prin simbolul \"cocoșului de Hurez\" și tehnica unică de decorare manuală." },
+      { q: "Cum se distinge portul popular din Oltenia?", a: "Elementul central este \"vâlnicul\" – o fustă plisată din lână, bogat decorată, purtată de femei peste cămășile lungi brodate." },
+      { q: "Ce este \"cula\" oltenească?", a: "Cula este o casă-turn fortificată, specifică boierilor olteni din trecut, construită pentru apărare împotriva incursiunilor cetelor de prădători de peste Dunăre." },
   ],
   },
   "folk-tara-fagarasului": {
     ro: [
-      { q: "Ce tradiție de iarnă este emblematică pentru Țara Făgărașului?", a: "„Ceata de feciori” este tradiția centrală, inclusă în UNESCO, prin care tinerii se organizează în cete pentru a colinda satul și a organiza baluri." },
-      { q: "Cum se distinge portul popular făgărășean?", a: "Este caracterizat prin contrastul puternic dintre alb și negru, cu mărgele colorate fin aplicate pe iile femeilor și „șerpare” late de piele pentru bărbați." },
-      { q: "Ce sunt „vâltorile” din Țara Făgărașului?", a: "Sunt instalații hidraulice tradiționale folosite pentru spălarea și îngroșarea țesăturilor de lână (cergi, pături) folosind forța apei râurilor de munte." },
+      { q: "Ce tradiție de iarnă este emblematică pentru Țara Făgărașului?", a: "\"Ceata de feciori\" este tradiția centrală, inclusă în UNESCO, prin care tinerii se organizează în cete pentru a colinda satul și a organiza baluri." },
+      { q: "Cum se distinge portul popular făgărășean?", a: "Este caracterizat prin contrastul puternic dintre alb și negru, cu mărgele colorate fin aplicate pe iile femeilor și \"șerpare\" late de piele pentru bărbați." },
+      { q: "Ce sunt \"vâltorile\" din Țara Făgărașului?", a: "Sunt instalații hidraulice tradiționale folosite pentru spălarea și îngroșarea țesăturilor de lână (cergi, pături) folosind forța apei râurilor de munte." },
       { q: "Prin ce se remarcă arhitectura satelor făgărășene?", a: "Satele au un aspect ordonat, cu case de piatră și cărămidă, porți masive și fațade decorate cu motive florale sau geometrice." },
     ],
     de: [
@@ -2224,8 +2224,8 @@ export const roFaq: CountryFaqMap = {
       { q: "Melyik a legjobb évszak a látogatásra?", a: "A hely egész évben vonzó, de különösen tavasszal és nyáron." },
     ],
   en: [
-      { q: "Cum se distinge portul popular făgărășean?", a: "Este caracterizat prin contrastul puternic dintre alb și negru, cu mărgele colorate fin aplicate pe iile femeilor și „șerpare” late de piele pentru bărbați." },
-      { q: "Ce sunt „vâltorile” din Țara Făgărașului?", a: "Sunt instalații hidraulice tradiționale folosite pentru spălarea și îngroșarea țesăturilor de lână (cergi, pături) folosind forța apei râurilor de munte." },
+      { q: "Cum se distinge portul popular făgărășean?", a: "Este caracterizat prin contrastul puternic dintre alb și negru, cu mărgele colorate fin aplicate pe iile femeilor și \"șerpare\" late de piele pentru bărbați." },
+      { q: "Ce sunt \"vâltorile\" din Țara Făgărașului?", a: "Sunt instalații hidraulice tradiționale folosite pentru spălarea și îngroșarea țesăturilor de lână (cergi, pături) folosind forța apei râurilor de munte." },
       { q: "Prin ce se remarcă arhitectura satelor făgărășene?", a: "Satele au un aspect ordonat, cu case de piatră și cărămidă, porți masive și fațade decorate cu motive florale sau geometrice." },
   ],
   },
@@ -2233,7 +2233,7 @@ export const roFaq: CountryFaqMap = {
     ro: [
       { q: "Cine sunt moții și unde trăiesc ei?", a: "Moții sunt locuitorii din zona centrală a Munților Apuseni, cunoscuți pentru spiritul lor independent și măiestria în prelucrarea lemnului." },
       { q: "Ce este tulnicul și la ce se folosește?", a: "Tulnicul este un instrument muzical de suflat, lung de până la 3 metri, folosit în trecut pentru comunicarea la distanță între crestele munților." },
-      { q: "Ce eveniment tradițional faimos are loc în Țara Moților?", a: "Cel mai cunoscut este „Târgul de Fete de pe Muntele Găina”, o sărbătoare străveche ce are loc anual în cea mai apropiată duminică de Sfântul Ilie." },
+      { q: "Ce eveniment tradițional faimos are loc în Țara Moților?", a: "Cel mai cunoscut este \"Târgul de Fete de pe Muntele Găina\", o sărbătoare străveche ce are loc anual în cea mai apropiată duminică de Sfântul Ilie." },
       { q: "Prin ce se remarcă arhitectura tradițională a moților?", a: "Casele moților sunt construite integral din lemn, cu acoperișuri foarte înalte și ascuțite, adaptate la ninsorile abundente din regiune." },
     ],
     de: [
@@ -2250,16 +2250,16 @@ export const roFaq: CountryFaqMap = {
     ],
   en: [
       { q: "Ce este tulnicul și la ce se folosește?", a: "Tulnicul este un instrument muzical de suflat, lung de până la 3 metri, folosit în trecut pentru comunicarea la distanță între crestele munților." },
-      { q: "Ce eveniment tradițional faimos are loc în Țara Moților?", a: "Cel mai cunoscut este „Târgul de Fete de pe Muntele Găina”, o sărbătoare străveche ce are loc anual în cea mai apropiată duminică de Sfântul Ilie." },
+      { q: "Ce eveniment tradițional faimos are loc în Țara Moților?", a: "Cel mai cunoscut este \"Târgul de Fete de pe Muntele Găina\", o sărbătoare străveche ce are loc anual în cea mai apropiată duminică de Sfântul Ilie." },
       { q: "Prin ce se remarcă arhitectura tradițională a moților?", a: "Casele moților sunt construite integral din lemn, cu acoperișuri foarte înalte și ascuțite, adaptate la ninsorile abundente din regiune." },
   ],
   },
   "folk-tara-oasului": {
     ro: [
-      { q: "Prin ce este celebră Țara Oașului în folclorul românesc?", a: "Este una dintre cele mai originale zone etno-folclorice, faimoasă pentru muzica de „țipurit” și costumele populare extrem de bogate și grele." },
-      { q: "Ce este „țipuritura”?", a: "Este un stil de cântat vocal, ascuțit și strident, specific oșenilor, care însoțește de obicei dansul de grup numit „roata”." },
+      { q: "Prin ce este celebră Țara Oașului în folclorul românesc?", a: "Este una dintre cele mai originale zone etno-folclorice, faimoasă pentru muzica de \"țipurit\" și costumele populare extrem de bogate și grele." },
+      { q: "Ce este \"țipuritura\"?", a: "Este un stil de cântat vocal, ascuțit și strident, specific oșenilor, care însoțește de obicei dansul de grup numit \"roata\"." },
       { q: "Cum arată costumul de nuntă în Țara Oașului?", a: "Este spectaculos: mireasa poartă o cunună imensă de mărgele și flori, iar costumul este brodat cu mii de mărgele colorate, cântărind zeci de kilograme." },
-      { q: "Ce este „danțul oșenesc”?", a: "Este un dans de grup foarte dinamic, caracterizat prin bătăi ritmice din palme și pași apăsați, reflectând mândria și vigoarea locuitorilor zonei." },
+      { q: "Ce este \"danțul oșenesc\"?", a: "Este un dans de grup foarte dinamic, caracterizat prin bătăi ritmice din palme și pași apăsați, reflectând mândria și vigoarea locuitorilor zonei." },
     ],
     de: [
       { q: "Was ist die historische Bedeutung von folk-tara-oasului?", a: "folk-tara-oasului ist ein wichtiges kulturelles und geografisches Wahrzeichen." },
@@ -2274,16 +2274,16 @@ export const roFaq: CountryFaqMap = {
       { q: "Melyik a legjobb évszak a látogatásra?", a: "A hely egész évben vonzó, de különösen tavasszal és nyáron." },
     ],
   en: [
-      { q: "Ce este „țipuritura”?", a: "Este un stil de cântat vocal, ascuțit și strident, specific oșenilor, care însoțește de obicei dansul de grup numit „roata”." },
+      { q: "Ce este \"țipuritura\"?", a: "Este un stil de cântat vocal, ascuțit și strident, specific oșenilor, care însoțește de obicei dansul de grup numit \"roata\"." },
       { q: "Cum arată costumul de nuntă în Țara Oașului?", a: "Este spectaculos: mireasa poartă o cunună imensă de mărgele și flori, iar costumul este brodat cu mii de mărgele colorate, cântărind zeci de kilograme." },
-      { q: "Ce este „danțul oșenesc”?", a: "Este un dans de grup foarte dinamic, caracterizat prin bătăi ritmice din palme și pași apăsați, reflectând mândria și vigoarea locuitorilor zonei." },
+      { q: "Ce este \"danțul oșenesc\"?", a: "Este un dans de grup foarte dinamic, caracterizat prin bătăi ritmice din palme și pași apăsați, reflectând mândria și vigoarea locuitorilor zonei." },
   ],
   },
   "folk-transilvania-saseasca": {
     ro: [
       { q: "Prin ce se remarcă folclorul sașilor din Transilvania?", a: "Se remarcă prin rigoare, conservarea dialectului săsesc, fanfara tradițională și portul popular sobră, de o eleganță clasică." },
-      { q: "Ce este „Lolele” și unde se sărbătorește?", a: "Este un obicei tradițional săsesc din Agnita, unde oameni mascați (lole) aleargă pe străzi făcând zgomot cu bicele pentru a alunga iarna și spiritele rele." },
-      { q: "Cum arată costumul popular săsesc?", a: "Este dominat de alb și negru, cu broderii geometrice fine. Femeile poartă „borta” (coroana de catifea), iar bărbații pieptare de piele bogat ornamentate." },
+      { q: "Ce este \"Lolele\" și unde se sărbătorește?", a: "Este un obicei tradițional săsesc din Agnita, unde oameni mascați (lole) aleargă pe străzi făcând zgomot cu bicele pentru a alunga iarna și spiritele rele." },
+      { q: "Cum arată costumul popular săsesc?", a: "Este dominat de alb și negru, cu broderii geometrice fine. Femeile poartă \"borta\" (coroana de catifea), iar bărbații pieptare de piele bogat ornamentate." },
       { q: "Care este rolul fanfarei în comunitatea săsească?", a: "Fanfara este inima sărbătorilor săsești, acompaniind toate evenimentele importante ale comunității, de la nunți la sărbătorile recoltei." },
     ],
     de: [
@@ -2299,8 +2299,8 @@ export const roFaq: CountryFaqMap = {
       { q: "Melyik a legjobb évszak a látogatásra?", a: "A hely egész évben vonzó, de különösen tavasszal és nyáron." },
     ],
   en: [
-      { q: "Ce este „Lolele” și unde se sărbătorește?", a: "Este un obicei tradițional săsesc din Agnita, unde oameni mascați (lole) aleargă pe străzi făcând zgomot cu bicele pentru a alunga iarna și spiritele rele." },
-      { q: "Cum arată costumul popular săsesc?", a: "Este dominat de alb și negru, cu broderii geometrice fine. Femeile poartă „borta” (coroana de catifea), iar bărbații pieptare de piele bogat ornamentate." },
+      { q: "Ce este \"Lolele\" și unde se sărbătorește?", a: "Este un obicei tradițional săsesc din Agnita, unde oameni mascați (lole) aleargă pe străzi făcând zgomot cu bicele pentru a alunga iarna și spiritele rele." },
+      { q: "Cum arată costumul popular săsesc?", a: "Este dominat de alb și negru, cu broderii geometrice fine. Femeile poartă \"borta\" (coroana de catifea), iar bărbații pieptare de piele bogat ornamentate." },
       { q: "Care este rolul fanfarei în comunitatea săsească?", a: "Fanfara este inima sărbătorilor săsești, acompaniind toate evenimentele importante ale comunității, de la nunți la sărbătorile recoltei." },
   ],
   },
@@ -2382,7 +2382,7 @@ export const roFaq: CountryFaqMap = {
   "hist-biertan": {
     ro: [
       { q: "De ce este celebră Biserica Fortificată din Biertan?", a: "Este una dintre cele mai impunătoare biserici fortificate săsești din Transilvania, fiind inclusă în patrimoniul mondial UNESCO." },
-      { q: "Ce era „închisoarea matrimonială” de la Biertan?", a: "Era o mică încăpere unde cuplurile care doreau să divorțeze erau închise timp de două săptămâni, fiind nevoite să împartă un singur set de tacâmuri și un singur pat pentru a se împăca." },
+      { q: "Ce era \"închisoarea matrimonială\" de la Biertan?", a: "Era o mică încăpere unde cuplurile care doreau să divorțeze erau închise timp de două săptămâni, fiind nevoite să împartă un singur set de tacâmuri și un singur pat pentru a se împăca." },
       { q: "Ce element tehnic remarcabil are ușa sacristiei?", a: "Ușa sacristiei are un mecanism de închidere foarte complicat, cu 19 încuietori acționate simultan de o singură cheie, premiat la Expoziția Mondială de la Paris din 1900." },
       { q: "Câte ziduri de incintă are cetatea din Biertan?", a: "Biserica este înconjurată de trei rânduri de ziduri de incintă, întărite cu turnuri și bastioane, fiind aproape imposibil de cucerit în perioada medievală." },
     ],
@@ -2399,7 +2399,7 @@ export const roFaq: CountryFaqMap = {
       { q: "Melyik a legjobb évszak a látogatásra?", a: "A hely egész évben vonzó, de különösen tavasszal és nyáron." },
     ],
   en: [
-      { q: "Ce era „închisoarea matrimonială” de la Biertan?", a: "Era o mică încăpere unde cuplurile care doreau să divorțeze erau închise timp de două săptămâni, fiind nevoite să împartă un singur set de tacâmuri și un singur pat pentru a se împăca." },
+      { q: "Ce era \"închisoarea matrimonială\" de la Biertan?", a: "Era o mică încăpere unde cuplurile care doreau să divorțeze erau închise timp de două săptămâni, fiind nevoite să împartă un singur set de tacâmuri și un singur pat pentru a se împăca." },
       { q: "Ce element tehnic remarcabil are ușa sacristiei?", a: "Ușa sacristiei are un mecanism de închidere foarte complicat, cu 19 încuietori acționate simultan de o singură cheie, premiat la Expoziția Mondială de la Paris din 1900." },
       { q: "Câte ziduri de incintă are cetatea din Biertan?", a: "Biserica este înconjurată de trei rânduri de ziduri de incintă, întărite cu turnuri și bastioane, fiind aproape imposibil de cucerit în perioada medievală." },
   ],
@@ -2560,7 +2560,7 @@ export const roFaq: CountryFaqMap = {
     ro: [
       { q: "Ce reprezintă Curtea Veche din București?", a: "Sunt resturile primei curți domnești din București, care a servit ca reședință pentru voievozii Țării Românești." },
       { q: "Cine este domnitorul care a stabilit aici prima reședință domnească?", a: "Vlad Țepeș este cel care a construit prima cetate pe acest loc, atestată documentar la 20 septembrie 1459." },
-      { q: "Unde se află situat acest sit arheologic?", a: "Se află în centrul istoric al capitalei (Lipscani), în zona numită „Centrul Vechi”." },
+      { q: "Unde se află situat acest sit arheologic?", a: "Se află în centrul istoric al capitalei (Lipscani), în zona numită \"Centrul Vechi\"." },
       { q: "Ce biserică importantă se află lângă Curtea Veche?", a: "Biserica Curtea Veche (Biserica Sfântul Anton), cea mai veche biserică din București care și-a păstrat forma originală." },
     ],
     de: [
@@ -2577,7 +2577,7 @@ export const roFaq: CountryFaqMap = {
     ],
   en: [
       { q: "Cine este domnitorul care a stabilit aici prima reședință domnească?", a: "Vlad Țepeș este cel care a construit prima cetate pe acest loc, atestată documentar la 20 septembrie 1459." },
-      { q: "Unde se află situat acest sit arheologic?", a: "Se află în centrul istoric al capitalei (Lipscani), în zona numită „Centrul Vechi”." },
+      { q: "Unde se află situat acest sit arheologic?", a: "Se află în centrul istoric al capitalei (Lipscani), în zona numită \"Centrul Vechi\"." },
       { q: "Ce biserică importantă se află lângă Curtea Veche?", a: "Biserica Curtea Veche (Biserica Sfântul Anton), cea mai veche biserică din București care și-a păstrat forma originală." },
   ],
   },
@@ -2686,7 +2686,7 @@ export const roFaq: CountryFaqMap = {
       { q: "Care este starea de conservare a Cetății Făgăraș?", a: "Cetatea Făgăraș este una dintre cele mai mari și mai bine conservate fortificații de tip castel din România și din Europa." },
       { q: "Ce element de apărare inedit înconjoară cetatea?", a: "Cetatea este înconjurată de un șanț de apărare larg, umplut cu apă, care în trecut făcea asediul extrem de dificil." },
       { q: "Ce funcție a avut cetatea în perioada comunistă?", a: "Între anii 1948 și 1960, cetatea a fost utilizată ca închisoare pentru deținuții politici, fiind cunoscută pentru regimul dur de detenție." },
-      { q: "Ce găsim astăzi în interiorul Cetății Făgăraș?", a: "În prezent, cetatea găzduiește Muzeul Țării Făgărașului „Valer Literat” și Biblioteca Municipală, fiind un punct central al turismului regional." },
+      { q: "Ce găsim astăzi în interiorul Cetății Făgăraș?", a: "În prezent, cetatea găzduiește Muzeul Țării Făgărașului \"Valer Literat\" și Biblioteca Municipală, fiind un punct central al turismului regional." },
     ],
     de: [
       { q: "Was ist die historische Bedeutung von hist-fagaras-fortress?", a: "hist-fagaras-fortress ist ein wichtiges kulturelles und geografisches Wahrzeichen." },
@@ -2703,7 +2703,7 @@ export const roFaq: CountryFaqMap = {
   en: [
       { q: "Ce element de apărare inedit înconjoară cetatea?", a: "Cetatea este înconjurată de un șanț de apărare larg, umplut cu apă, care în trecut făcea asediul extrem de dificil." },
       { q: "Ce funcție a avut cetatea în perioada comunistă?", a: "Între anii 1948 și 1960, cetatea a fost utilizată ca închisoare pentru deținuții politici, fiind cunoscută pentru regimul dur de detenție." },
-      { q: "Ce găsim astăzi în interiorul Cetății Făgăraș?", a: "În prezent, cetatea găzduiește Muzeul Țării Făgărașului „Valer Literat” și Biblioteca Municipală, fiind un punct central al turismului regional." },
+      { q: "Ce găsim astăzi în interiorul Cetății Făgăraș?", a: "În prezent, cetatea găzduiește Muzeul Țării Făgărașului \"Valer Literat\" și Biblioteca Municipală, fiind un punct central al turismului regional." },
   ],
   },
   "hist-histria": {
@@ -2759,7 +2759,7 @@ export const roFaq: CountryFaqMap = {
   "hist-moldovita": {
     ro: [
       { q: "Când a fost construită Mănăstirea Moldovița?", a: "Actuala biserică a fost ctitorită de domnitorul Petru Rareș în anul 1532." },
-      { q: "Care este tema principală a picturii exterioare de la Moldovița?", a: "Cea mai celebră scenă pictată pe pereții exteriori este „Asediul Constantinopolului”." },
+      { q: "Care este tema principală a picturii exterioare de la Moldovița?", a: "Cea mai celebră scenă pictată pe pereții exteriori este \"Asediul Constantinopolului\"." },
       { q: "Prin ce se caracterizează stilul arhitectural al mănăstirii?", a: "Aparține stilului moldovenesc, combinând elemente bizantine cu influențe gotice locale." },
       { q: "Este Mănăstirea Moldovița inclusă în patrimoniul UNESCO?", a: "Da, face parte din grupul bisericilor pictate din nordul Moldovei înscrise în lista Patrimoniului Mondial UNESCO." },
     ],
@@ -2776,7 +2776,7 @@ export const roFaq: CountryFaqMap = {
       { q: "Melyik a legjobb évszak a látogatásra?", a: "A hely egész évben vonzó, de különösen tavasszal és nyáron." },
     ],
   en: [
-      { q: "Care este tema principală a picturii exterioare de la Moldovița?", a: "Cea mai celebră scenă pictată pe pereții exteriori este „Asediul Constantinopolului”." },
+      { q: "Care este tema principală a picturii exterioare de la Moldovița?", a: "Cea mai celebră scenă pictată pe pereții exteriori este \"Asediul Constantinopolului\"." },
       { q: "Prin ce se caracterizează stilul arhitectural al mănăstirii?", a: "Aparține stilului moldovenesc, combinând elemente bizantine cu influențe gotice locale." },
       { q: "Este Mănăstirea Moldovița inclusă în patrimoniul UNESCO?", a: "Da, face parte din grupul bisericilor pictate din nordul Moldovei înscrise în lista Patrimoniului Mondial UNESCO." },
   ],
@@ -2836,7 +2836,7 @@ export const roFaq: CountryFaqMap = {
       { q: "Cine a construit Castelul Peleș?", a: "Castelul a fost construit la inițiativa Regelui Carol I, servind ca reședință de vară pentru familia regală a României." },
       { q: "Unde este situat Castelul Peleș?", a: "Se află în stațiunea Sinaia, județul Prahova, pe valea râului Prahova." },
       { q: "Prin ce s-a remarcat Castelul Peleș la momentul inaugurării sale?", a: "A fost primul castel din Europa complet electrificat și dotat cu încălzire centrală și lift." },
-      { q: "Ce stil arhitectural predomină la Castelul Peleș?", a: "Castelul este construit în stilul Neo-Renașterii germane, cu decorațiuni exterioare de tip „half-timber” (fachwerk)." },
+      { q: "Ce stil arhitectural predomină la Castelul Peleș?", a: "Castelul este construit în stilul Neo-Renașterii germane, cu decorațiuni exterioare de tip \"half-timber\" (fachwerk)." },
     ],
     de: [
       { q: "Was ist die historische Bedeutung von hist-peles-castle?", a: "hist-peles-castle ist ein wichtiges kulturelles und geografisches Wahrzeichen." },
@@ -2853,7 +2853,7 @@ export const roFaq: CountryFaqMap = {
   en: [
       { q: "Unde este situat Castelul Peleș?", a: "Se află în stațiunea Sinaia, județul Prahova, pe valea râului Prahova." },
       { q: "Prin ce s-a remarcat Castelul Peleș la momentul inaugurării sale?", a: "A fost primul castel din Europa complet electrificat și dotat cu încălzire centrală și lift." },
-      { q: "Ce stil arhitectural predomină la Castelul Peleș?", a: "Castelul este construit în stilul Neo-Renașterii germane, cu decorațiuni exterioare de tip „half-timber” (fachwerk)." },
+      { q: "Ce stil arhitectural predomină la Castelul Peleș?", a: "Castelul este construit în stilul Neo-Renașterii germane, cu decorațiuni exterioare de tip \"half-timber\" (fachwerk)." },
   ],
   },
   "hist-poenari": {
@@ -2884,8 +2884,8 @@ export const roFaq: CountryFaqMap = {
   "hist-prejmer": {
     ro: [
       { q: "De ce este considerată Cetatea Prejmer cea mai puternică din Transilvania?", a: "A fost construită pentru a fi prima linie de apărare împotriva invaziilor turcești, având ziduri de 5 metri grosime și un sistem de apărare extrem de eficient." },
-      { q: "Ce sunt faimoasele „camere” din zidul cetății Prejmer?", a: "În interiorul zidului de incintă se află 272 de încăperi dispuse pe patru etaje, fiecare familie din sat având propria cameră pentru refugiu și depozitarea proviziilor." },
-      { q: "Ce este „Orga Morții” din Cetatea Prejmer?", a: "Era un dispozitiv militar format din mai multe puști care trăgeau simultan, provocând pierderi mari inamicului în timpul asediilor." },
+      { q: "Ce sunt faimoasele \"camere\" din zidul cetății Prejmer?", a: "În interiorul zidului de incintă se află 272 de încăperi dispuse pe patru etaje, fiecare familie din sat având propria cameră pentru refugiu și depozitarea proviziilor." },
+      { q: "Ce este \"Orga Morții\" din Cetatea Prejmer?", a: "Era un dispozitiv militar format din mai multe puști care trăgeau simultan, provocând pierderi mari inamicului în timpul asediilor." },
       { q: "Ce stil arhitectural are biserica din interiorul cetății?", a: "Biserica are un plan în formă de cruce greacă, fiind influențată de stilul gotic timpuriu introdus de cavalerii teutoni." },
     ],
     de: [
@@ -2901,14 +2901,14 @@ export const roFaq: CountryFaqMap = {
       { q: "Melyik a legjobb évszak a látogatásra?", a: "A hely egész évben vonzó, de különösen tavasszal és nyáron." },
     ],
   en: [
-      { q: "Ce sunt faimoasele „camere” din zidul cetății Prejmer?", a: "În interiorul zidului de incintă se află 272 de încăperi dispuse pe patru etaje, fiecare familie din sat având propria cameră pentru refugiu și depozitarea proviziilor." },
-      { q: "Ce este „Orga Morții” din Cetatea Prejmer?", a: "Era un dispozitiv militar format din mai multe puști care trăgeau simultan, provocând pierderi mari inamicului în timpul asediilor." },
+      { q: "Ce sunt faimoasele \"camere\" din zidul cetății Prejmer?", a: "În interiorul zidului de incintă se află 272 de încăperi dispuse pe patru etaje, fiecare familie din sat având propria cameră pentru refugiu și depozitarea proviziilor." },
+      { q: "Ce este \"Orga Morții\" din Cetatea Prejmer?", a: "Era un dispozitiv militar format din mai multe puști care trăgeau simultan, provocând pierderi mari inamicului în timpul asediilor." },
       { q: "Ce stil arhitectural are biserica din interiorul cetății?", a: "Biserica are un plan în formă de cruce greacă, fiind influențată de stilul gotic timpuriu introdus de cavalerii teutoni." },
   ],
   },
   "hist-putna": {
     ro: [
-      { q: "De ce este Mănăstirea Putna supranumită „Ierusalimul Neamului Românesc”?", a: "Mănăstirea este un simbol central al spiritualității și istoriei românești, fiind prima ctitorie a lui Ștefan cel Mare." },
+      { q: "De ce este Mănăstirea Putna supranumită \"Ierusalimul Neamului Românesc\"?", a: "Mănăstirea este un simbol central al spiritualității și istoriei românești, fiind prima ctitorie a lui Ștefan cel Mare." },
       { q: "Unde este îngropat domnitorul Ștefan cel Mare?", a: "Mormântul lui Ștefan cel Mare se află în interiorul bisericii Mănăstirii Putna, fiind un loc de pelerinaj pentru românii de pretutindeni." },
       { q: "Ce comori se pot vedea în muzeul mănăstirii?", a: "Muzeul adăpostește manuscrise vechi, broderii de o valoare inestimabilă, obiecte de cult din argint și faimoasa acoperitoare de mormânt a Mariei de Mangop." },
       { q: "Când a fost finalizată construcția mănăstirii?", a: "Construcția a început în 1466 și a fost finalizată în 1469, fiind sfințită în anul 1470." },
@@ -3084,7 +3084,7 @@ export const roFaq: CountryFaqMap = {
   "hist-sucevita": {
     ro: [
       { q: "Ce deosebește Mănăstirea Sucevița de celelalte biserici pictate din Bucovina?", a: "Are cel mai mare număr de imagini religioase și a fost ultima biserică pictată la exterior în acest stil." },
-      { q: "Care este cea mai impresionantă frescă exterioară de la Sucevița?", a: "„Scara Virtuților”, o compoziție monumentală ce înfățișează lupta dintre bine și rău și ascensiunea spre divinitate." },
+      { q: "Care este cea mai impresionantă frescă exterioară de la Sucevița?", a: "\"Scara Virtuților\", o compoziție monumentală ce înfățișează lupta dintre bine și rău și ascensiunea spre divinitate." },
       { q: "Cine au fost ctitorii Mănăstirii Sucevița?", a: "A fost ctitorită de familia Movileștilor, mari boieri și domnitori ai Moldovei, la sfârșitul secolului al XVI-lea." },
       { q: "Cum se prezintă fortificațiile mănăstirii?", a: "Sucevița are un aspect de cetate reală, fiind înconjurată de ziduri înalte și groase, dotate cu turnuri de apărare la colțuri." },
     ],
@@ -3101,7 +3101,7 @@ export const roFaq: CountryFaqMap = {
       { q: "Melyik a legjobb évszak a látogatásra?", a: "A hely egész évben vonzó, de különösen tavasszal és nyáron." },
     ],
   en: [
-      { q: "Care este cea mai impresionantă frescă exterioară de la Sucevița?", a: "„Scara Virtuților”, o compoziție monumentală ce înfățișează lupta dintre bine și rău și ascensiunea spre divinitate." },
+      { q: "Care este cea mai impresionantă frescă exterioară de la Sucevița?", a: "\"Scara Virtuților\", o compoziție monumentală ce înfățișează lupta dintre bine și rău și ascensiunea spre divinitate." },
       { q: "Cine au fost ctitorii Mănăstirii Sucevița?", a: "A fost ctitorită de familia Movileștilor, mari boieri și domnitori ai Moldovei, la sfârșitul secolului al XVI-lea." },
       { q: "Cum se prezintă fortificațiile mănăstirii?", a: "Sucevița are un aspect de cetate reală, fiind înconjurată de ziduri înalte și groase, dotate cu turnuri de apărare la colțuri." },
   ],
@@ -3136,7 +3136,7 @@ export const roFaq: CountryFaqMap = {
       { q: "Care este importanța istorică a Mănăstirii Tismana?", a: "Este cea mai veche mănăstire ortodoxă din Țara Românească care și-a păstrat activitatea neîntreruptă, fiind întemeiată de Sfântul Nicodim în secolul al XIV-lea." },
       { q: "Unde este situată mănăstirea?", a: "Se află în județul Gorj, fiind construită pe o stâncă abruptă a muntelui Stârmina, înconjurată de păduri de castan și nuc." },
       { q: "Ce secret istoric a adăpostit mănăstirea în timpul celui de-al Doilea Război Mondial?", a: "Într-o peșteră de lângă mănăstire a fost ascuns Tezaurul Băncii Naționale a României (peste 200 de tone de aur) pentru a fi protejat de armatele germane și sovietice." },
-      { q: "Cărei sfinte este dedicată mănăstirii?", a: "Hramul principal al mănăstirii este „Adormirea Maicii Domnului”, sărbătorit anual cu mare fast pe 15 august." },
+      { q: "Cărei sfinte este dedicată mănăstirii?", a: "Hramul principal al mănăstirii este \"Adormirea Maicii Domnului\", sărbătorit anual cu mare fast pe 15 august." },
     ],
     de: [
       { q: "Was ist die historische Bedeutung von hist-tismana?", a: "hist-tismana ist ein wichtiges kulturelles und geografisches Wahrzeichen." },
@@ -3153,7 +3153,7 @@ export const roFaq: CountryFaqMap = {
   en: [
       { q: "Unde este situată mănăstirea?", a: "Se află în județul Gorj, fiind construită pe o stâncă abruptă a muntelui Stârmina, înconjurată de păduri de castan și nuc." },
       { q: "Ce secret istoric a adăpostit mănăstirea în timpul celui de-al Doilea Război Mondial?", a: "Într-o peșteră de lângă mănăstire a fost ascuns Tezaurul Băncii Naționale a României (peste 200 de tone de aur) pentru a fi protejat de armatele germane și sovietice." },
-      { q: "Cărei sfinte este dedicată mănăstirii?", a: "Hramul principal al mănăstirii este „Adormirea Maicii Domnului”, sărbătorit anual cu mare fast pe 15 august." },
+      { q: "Cărei sfinte este dedicată mănăstirii?", a: "Hramul principal al mănăstirii este \"Adormirea Maicii Domnului\", sărbătorit anual cu mare fast pe 15 august." },
   ],
   },
   "hist-ulpia-traiana": {
@@ -3183,8 +3183,8 @@ export const roFaq: CountryFaqMap = {
   },
   "hist-voronet": {
     ro: [
-      { q: "De ce este Mănăstirea Voroneț supranumită „Capela Sixtină a Estului”?", a: "Datorită frescelor sale exterioare de o valoare artistică excepțională, în special pentru scena grandioasă a „Judecății de Apoi”." },
-      { q: "Ce este unic la culoarea folosită în frescele de la Voroneț?", a: "Culoarea specifică, cunoscută sub numele de „Albastru de Voroneț”, a cărei compoziție chimică exactă rămâne și astăzi un mister parțial." },
+      { q: "De ce este Mănăstirea Voroneț supranumită \"Capela Sixtină a Estului\"?", a: "Datorită frescelor sale exterioare de o valoare artistică excepțională, în special pentru scena grandioasă a \"Judecății de Apoi\"." },
+      { q: "Ce este unic la culoarea folosită în frescele de la Voroneț?", a: "Culoarea specifică, cunoscută sub numele de \"Albastru de Voroneț\", a cărei compoziție chimică exactă rămâne și astăzi un mister parțial." },
       { q: "Cine a ctitorit Mănăstirea Voroneț?", a: "A fost ctitorită de domnitorul Ștefan cel Mare în anul 1488, fiind construită într-un timp record de mai puțin de patru luni." },
       { q: "În ce regiune istorică se află mănăstirea?", a: "Se află în Bucovina, lângă orașul Gura Humorului, județul Suceava." },
     ],
@@ -3201,7 +3201,7 @@ export const roFaq: CountryFaqMap = {
       { q: "Melyik a legjobb évszak a látogatásra?", a: "A hely egész évben vonzó, de különösen tavasszal és nyáron." },
     ],
   en: [
-      { q: "Ce este unic la culoarea folosită în frescele de la Voroneț?", a: "Culoarea specifică, cunoscută sub numele de „Albastru de Voroneț”, a cărei compoziție chimică exactă rămâne și astăzi un mister parțial." },
+      { q: "Ce este unic la culoarea folosită în frescele de la Voroneț?", a: "Culoarea specifică, cunoscută sub numele de \"Albastru de Voroneț\", a cărei compoziție chimică exactă rămâne și astăzi un mister parțial." },
       { q: "Cine a ctitorit Mănăstirea Voroneț?", a: "A fost ctitorită de domnitorul Ștefan cel Mare în anul 1488, fiind construită într-un timp record de mai puțin de patru luni." },
       { q: "În ce regiune istorică se află mănăstirea?", a: "Se află în Bucovina, lângă orașul Gura Humorului, județul Suceava." },
   ],
@@ -3309,7 +3309,7 @@ export const roFaq: CountryFaqMap = {
   "lake-rosu": {
     ro: [
       { q: "Cum s-a format Lacul Roșu?", a: "S-a format în 1837 prin surparea unui versant al muntelui Ghilcoș, care a blocat cursul pârâului Licaș." },
-      { q: "De unde provine numele de „Lacul Roșu”?", a: "Numele provine de la oxizii de fier aduși de pârâul Roșu, care colorează sedimentele de pe fundul lacului, dar și de la reflexia muntelui „Ucigașul”." },
+      { q: "De unde provine numele de \"Lacul Roșu\"?", a: "Numele provine de la oxizii de fier aduși de pârâul Roșu, care colorează sedimentele de pe fundul lacului, dar și de la reflexia muntelui \"Ucigașul\"." },
       { q: "Ce caracteristică vizuală deosebită are Lacul Roșu?", a: "Din apă ies numeroase trunchiuri de brazi pietrificați, resturi ale pădurii care a fost inundată la formarea lacului." },
       { q: "În ce zonă turistică importantă se află Lacul Roșu?", a: "Se află în apropierea Cheilor Bicazului, la granița dintre județele Neamț și Harghita." },
     ],
@@ -3326,7 +3326,7 @@ export const roFaq: CountryFaqMap = {
       { q: "Melyik a legjobb évszak a látogatásra?", a: "A hely egész évben vonzó, de különösen tavasszal és nyáron." },
     ],
   en: [
-      { q: "De unde provine numele de „Lacul Roșu”?", a: "Numele provine de la oxizii de fier aduși de pârâul Roșu, care colorează sedimentele de pe fundul lacului, dar și de la reflexia muntelui „Ucigașul”." },
+      { q: "De unde provine numele de \"Lacul Roșu\"?", a: "Numele provine de la oxizii de fier aduși de pârâul Roșu, care colorează sedimentele de pe fundul lacului, dar și de la reflexia muntelui \"Ucigașul\"." },
       { q: "Ce caracteristică vizuală deosebită are Lacul Roșu?", a: "Din apă ies numeroase trunchiuri de brazi pietrificați, resturi ale pădurii care a fost inundată la formarea lacului." },
       { q: "În ce zonă turistică importantă se află Lacul Roșu?", a: "Se află în apropierea Cheilor Bicazului, la granița dintre județele Neamț și Harghita." },
   ],
@@ -3359,7 +3359,7 @@ export const roFaq: CountryFaqMap = {
   "lake-sovata": {
     ro: [
       { q: "Care este cel mai faimos lac din stațiunea Sovata?", a: "Cel mai cunoscut este Lacul Ursu, fiind cel mai mare lac helioterm din lume." },
-      { q: "Ce înseamnă că Lacul Ursu este „helioterm”?", a: "Înseamnă că apa lacului înmagazinează căldura soarelui datorită stratificării salinității: apa sărată și densă la fund reține căldura, fiind protejată de un strat de apă dulce la suprafață." },
+      { q: "Ce înseamnă că Lacul Ursu este \"helioterm\"?", a: "Înseamnă că apa lacului înmagazinează căldura soarelui datorită stratificării salinității: apa sărată și densă la fund reține căldura, fiind protejată de un strat de apă dulce la suprafață." },
       { q: "Pentru ce afecțiuni este recomandată apa Lacului Ursu?", a: "Apa și nămolul sapropelic sunt utilizate în tratarea afecțiunilor reumatice, ginecologice și dermatologice." },
       { q: "Când a fost format Lacul Ursu?", a: "S-a format în anul 1875, în urma prăbușirii unei exploatări de sare inundate ulterior de precipitații și pârâuri." },
     ],
@@ -3376,7 +3376,7 @@ export const roFaq: CountryFaqMap = {
       { q: "Melyik a legjobb évszak a látogatásra?", a: "A hely egész évben vonzó, de különösen tavasszal és nyáron." },
     ],
   en: [
-      { q: "Ce înseamnă că Lacul Ursu este „helioterm”?", a: "Înseamnă că apa lacului înmagazinează căldura soarelui datorită stratificării salinității: apa sărată și densă la fund reține căldura, fiind protejată de un strat de apă dulce la suprafață." },
+      { q: "Ce înseamnă că Lacul Ursu este \"helioterm\"?", a: "Înseamnă că apa lacului înmagazinează căldura soarelui datorită stratificării salinității: apa sărată și densă la fund reține căldura, fiind protejată de un strat de apă dulce la suprafață." },
       { q: "Pentru ce afecțiuni este recomandată apa Lacului Ursu?", a: "Apa și nămolul sapropelic sunt utilizate în tratarea afecțiunilor reumatice, ginecologice și dermatologice." },
       { q: "Când a fost format Lacul Ursu?", a: "S-a format în anul 1875, în urma prăbușirii unei exploatări de sare inundate ulterior de precipitații și pârâuri." },
   ],
@@ -3408,10 +3408,10 @@ export const roFaq: CountryFaqMap = {
   },
   "landmark-asachi-university": {
     ro: [
-      { q: "Care este principala atracție sau caracteristică a Universitatea Tehnică „Gheorghe Asachi”?", a: "Este una dintre cele mai vechi instituții de învățământ tehnic din România, cu sediul în Iași. Clădirea istorică a universității este un monument de arhitectură deosebit." },
-      { q: "Ce fapt interesant ne poți spune despre Universitatea Tehnică „Gheorghe Asachi”?", a: "Găzduiește una dintre cele mai frumoase biblioteci din lume." },
-      { q: "Prin ce se remarcă Universitatea Tehnică „Gheorghe Asachi” în contextul României?", a: "A fost fondată pe bazele școlii de inginerie deschise de Gheorghe Asachi în 1813." },
-      { q: "Mai există și alte detalii notabile despre Universitatea Tehnică „Gheorghe Asachi”?", a: "Clădirea istorică a universității este un monument de arhitectură deosebit." },
+      { q: "Care este principala atracție sau caracteristică a Universitatea Tehnică \"Gheorghe Asachi\"?", a: "Este una dintre cele mai vechi instituții de învățământ tehnic din România, cu sediul în Iași. Clădirea istorică a universității este un monument de arhitectură deosebit." },
+      { q: "Ce fapt interesant ne poți spune despre Universitatea Tehnică \"Gheorghe Asachi\"?", a: "Găzduiește una dintre cele mai frumoase biblioteci din lume." },
+      { q: "Prin ce se remarcă Universitatea Tehnică \"Gheorghe Asachi\" în contextul României?", a: "A fost fondată pe bazele școlii de inginerie deschise de Gheorghe Asachi în 1813." },
+      { q: "Mai există și alte detalii notabile despre Universitatea Tehnică \"Gheorghe Asachi\"?", a: "Clădirea istorică a universității este un monument de arhitectură deosebit." },
     ],
     de: [
       { q: "Was ist die historische Bedeutung von landmark-asachi-university?", a: "landmark-asachi-university ist ein wichtiges kulturelles und geografisches Wahrzeichen." },
@@ -3426,9 +3426,9 @@ export const roFaq: CountryFaqMap = {
       { q: "Melyik a legjobb évszak a látogatásra?", a: "A hely egész évben vonzó, de különösen tavasszal és nyáron." },
     ],
   en: [
-      { q: "Ce fapt interesant ne poți spune despre Universitatea Tehnică „Gheorghe Asachi”?", a: "Găzduiește una dintre cele mai frumoase biblioteci din lume." },
-      { q: "Prin ce se remarcă Universitatea Tehnică „Gheorghe Asachi” în contextul României?", a: "A fost fondată pe bazele școlii de inginerie deschise de Gheorghe Asachi în 1813." },
-      { q: "Mai există și alte detalii notabile despre Universitatea Tehnică „Gheorghe Asachi”?", a: "Clădirea istorică a universității este un monument de arhitectură deosebit." },
+      { q: "Ce fapt interesant ne poți spune despre Universitatea Tehnică \"Gheorghe Asachi\"?", a: "Găzduiește una dintre cele mai frumoase biblioteci din lume." },
+      { q: "Prin ce se remarcă Universitatea Tehnică \"Gheorghe Asachi\" în contextul României?", a: "A fost fondată pe bazele școlii de inginerie deschise de Gheorghe Asachi în 1813." },
+      { q: "Mai există și alte detalii notabile despre Universitatea Tehnică \"Gheorghe Asachi\"?", a: "Clădirea istorică a universității este un monument de arhitectură deosebit." },
   ],
   },
   "landmark-astra-museum": {
@@ -3458,8 +3458,8 @@ export const roFaq: CountryFaqMap = {
   },
   "landmark-ateneul-roman": {
     ro: [
-      { q: "Ce reprezintă Ateneul Român pentru cultura română?", a: "Este simbolul culturii naționale și una dintre cele mai frumoase clădiri din București, fiind sediul Filarmonicii „George Enescu”." },
-      { q: "Cum a fost finanțată construcția clădirii?", a: "O mare parte din fonduri a fost strânsă prin subscripție publică, sub faimosul slogan: „Dați un leu pentru Ateneu!”." },
+      { q: "Ce reprezintă Ateneul Român pentru cultura română?", a: "Este simbolul culturii naționale și una dintre cele mai frumoase clădiri din București, fiind sediul Filarmonicii \"George Enescu\"." },
+      { q: "Cum a fost finanțată construcția clădirii?", a: "O mare parte din fonduri a fost strânsă prin subscripție publică, sub faimosul slogan: \"Dați un leu pentru Ateneu!\"." },
       { q: "Când a fost inaugurat Ateneul Român?", a: "Clădirea a fost inaugurată în anul 1888, fiind proiectată de arhitectul francez Albert Galleron." },
       { q: "Ce se află pictat pe marea frescă din sala de concerte?", a: "Marea frescă circulară de 75 de metri lungime redă 25 de episoade fundamentale din istoria poporului român." },
     ],
@@ -3476,7 +3476,7 @@ export const roFaq: CountryFaqMap = {
       { q: "Melyik a legjobb évszak a látogatásra?", a: "A hely egész évben vonzó, de különösen tavasszal és nyáron." },
     ],
   en: [
-      { q: "Cum a fost finanțată construcția clădirii?", a: "O mare parte din fonduri a fost strânsă prin subscripție publică, sub faimosul slogan: „Dați un leu pentru Ateneu!”." },
+      { q: "Cum a fost finanțată construcția clădirii?", a: "O mare parte din fonduri a fost strânsă prin subscripție publică, sub faimosul slogan: \"Dați un leu pentru Ateneu!\"." },
       { q: "Când a fost inaugurat Ateneul Român?", a: "Clădirea a fost inaugurată în anul 1888, fiind proiectată de arhitectul francez Albert Galleron." },
       { q: "Ce se află pictat pe marea frescă din sala de concerte?", a: "Marea frescă circulară de 75 de metri lungime redă 25 de episoade fundamentale din istoria poporului român." },
   ],
@@ -3558,10 +3558,10 @@ export const roFaq: CountryFaqMap = {
   },
   "landmark-cluj-botanical": {
     ro: [
-      { q: "Care este principala atracție sau caracteristică a Grădina Botanică „Alexandru Borza”?", a: "Este grădina botanică a Universității Babeș-Bolyai din Cluj-Napoca. Găzduiește peste 10.000 de specii de plante din toată lumea." },
-      { q: "Ce fapt interesant ne poți spune despre Grădina Botanică „Alexandru Borza”?", a: "Aici pot fi admirate o grădină japoneză și o grădină romană cu vestigii arheologice." },
-      { q: "Prin ce se remarcă Grădina Botanică „Alexandru Borza” în contextul României?", a: "Este considerată una dintre cele mai frumoase și complexe grădini botanice din regiune." },
-      { q: "Mai există și alte detalii notabile despre Grădina Botanică „Alexandru Borza”?", a: "Găzduiește peste 10.000 de specii de plante din toată lumea." },
+      { q: "Care este principala atracție sau caracteristică a Grădina Botanică \"Alexandru Borza\"?", a: "Este grădina botanică a Universității Babeș-Bolyai din Cluj-Napoca. Găzduiește peste 10.000 de specii de plante din toată lumea." },
+      { q: "Ce fapt interesant ne poți spune despre Grădina Botanică \"Alexandru Borza\"?", a: "Aici pot fi admirate o grădină japoneză și o grădină romană cu vestigii arheologice." },
+      { q: "Prin ce se remarcă Grădina Botanică \"Alexandru Borza\" în contextul României?", a: "Este considerată una dintre cele mai frumoase și complexe grădini botanice din regiune." },
+      { q: "Mai există și alte detalii notabile despre Grădina Botanică \"Alexandru Borza\"?", a: "Găzduiește peste 10.000 de specii de plante din toată lumea." },
     ],
     de: [
       { q: "Was ist die historische Bedeutung von landmark-cluj-botanical?", a: "landmark-cluj-botanical ist ein wichtiges kulturelles und geografisches Wahrzeichen." },
@@ -3576,9 +3576,9 @@ export const roFaq: CountryFaqMap = {
       { q: "Melyik a legjobb évszak a látogatásra?", a: "A hely egész évben vonzó, de különösen tavasszal és nyáron." },
     ],
   en: [
-      { q: "Ce fapt interesant ne poți spune despre Grădina Botanică „Alexandru Borza”?", a: "Aici pot fi admirate o grădină japoneză și o grădină romană cu vestigii arheologice." },
-      { q: "Prin ce se remarcă Grădina Botanică „Alexandru Borza” în contextul României?", a: "Este considerată una dintre cele mai frumoase și complexe grădini botanice din regiune." },
-      { q: "Mai există și alte detalii notabile despre Grădina Botanică „Alexandru Borza”?", a: "Găzduiește peste 10.000 de specii de plante din toată lumea." },
+      { q: "Ce fapt interesant ne poți spune despre Grădina Botanică \"Alexandru Borza\"?", a: "Aici pot fi admirate o grădină japoneză și o grădină romană cu vestigii arheologice." },
+      { q: "Prin ce se remarcă Grădina Botanică \"Alexandru Borza\" în contextul României?", a: "Este considerată una dintre cele mai frumoase și complexe grădini botanice din regiune." },
+      { q: "Mai există și alte detalii notabile despre Grădina Botanică \"Alexandru Borza\"?", a: "Găzduiește peste 10.000 de specii de plante din toată lumea." },
   ],
   },
   "landmark-delta-dunarii": {
@@ -3636,7 +3636,7 @@ export const roFaq: CountryFaqMap = {
       { q: "De ce este Cimitirul Vesel din Săpânța unic în lume?", a: "Spre deosebire de majoritatea cimitirelor, acesta este celebru pentru crucile sale din lemn viu colorate, pictate cu scene din viața persoanelor decedate și însoțite de epitafuri umoristice." },
       { q: "Cine a început tradiția sculptării acestor cruci?", a: "Tradiția a fost începută în 1935 de meșterul popular local Stan Ioan Pătraș, a cărui casă memorială poate fi vizitată în sat." },
       { q: "Unde se află localitatea Săpânța?", a: "Săpânța se află în Maramureș, în nordul României, la granița cu Ucraina." },
-      { q: "Ce culoare predomină pe crucile din cimitir?", a: "Culoarea dominantă este o nuanță specifică de albastru, cunoscută sub numele de „Albastru de Săpânța”, care simbolizează speranța și cerul." },
+      { q: "Ce culoare predomină pe crucile din cimitir?", a: "Culoarea dominantă este o nuanță specifică de albastru, cunoscută sub numele de \"Albastru de Săpânța\", care simbolizează speranța și cerul." },
     ],
     de: [
       { q: "Was ist die historische Bedeutung von landmark-merry-cemetery?", a: "landmark-merry-cemetery ist ein wichtiges kulturelles und geografisches Wahrzeichen." },
@@ -3653,7 +3653,7 @@ export const roFaq: CountryFaqMap = {
   en: [
       { q: "Cine a început tradiția sculptării acestor cruci?", a: "Tradiția a fost începută în 1935 de meșterul popular local Stan Ioan Pătraș, a cărui casă memorială poate fi vizitată în sat." },
       { q: "Unde se află localitatea Săpânța?", a: "Săpânța se află în Maramureș, în nordul României, la granița cu Ucraina." },
-      { q: "Ce culoare predomină pe crucile din cimitir?", a: "Culoarea dominantă este o nuanță specifică de albastru, cunoscută sub numele de „Albastru de Săpânța”, care simbolizează speranța și cerul." },
+      { q: "Ce culoare predomină pe crucile din cimitir?", a: "Culoarea dominantă este o nuanță specifică de albastru, cunoscută sub numele de \"Albastru de Săpânța\", care simbolizează speranța și cerul." },
   ],
   },
   "landmark-mud-volcanoes": {
@@ -3684,7 +3684,7 @@ export const roFaq: CountryFaqMap = {
   "landmark-palace-parliament": {
     ro: [
       { q: "Cât de mare este Palatul Parlamentului din București?", a: "Este a doua cea mai mare clădire administrativă din lume (după Pentagon) și cea mai grea clădire de pe glob, conform Guinness World Records." },
-      { q: "Când a fost construită clădirea și cine a ordonat-o?", a: "Construcția a început în 1984, la ordinul lui Nicolae Ceaușescu, sub numele de „Casa Republicii”." },
+      { q: "Când a fost construită clădirea și cine a ordonat-o?", a: "Construcția a început în 1984, la ordinul lui Nicolae Ceaușescu, sub numele de \"Casa Republicii\"." },
       { q: "Se poate vizita interiorul palatului?", a: "Da, există tururi ghidate zilnice care permit vizitarea unor săli monumentale, galerii și balcoane care oferă o vedere panoramică asupra Bulevardului Unirii." },
       { q: "Ce instituții funcționează în această clădire?", a: "Aici își au sediul Camera Deputaților, Senatul României, Curtea Constituțională și Muzeul Național de Artă Contemporană (MNAC)." },
     ],
@@ -3701,7 +3701,7 @@ export const roFaq: CountryFaqMap = {
       { q: "Melyik a legjobb évszak a látogatásra?", a: "A hely egész évben vonzó, de különösen tavasszal és nyáron." },
     ],
   en: [
-      { q: "Când a fost construită clădirea și cine a ordonat-o?", a: "Construcția a început în 1984, la ordinul lui Nicolae Ceaușescu, sub numele de „Casa Republicii”." },
+      { q: "Când a fost construită clădirea și cine a ordonat-o?", a: "Construcția a început în 1984, la ordinul lui Nicolae Ceaușescu, sub numele de \"Casa Republicii\"." },
       { q: "Se poate vizita interiorul palatului?", a: "Da, există tururi ghidate zilnice care permit vizitarea unor săli monumentale, galerii și balcoane care oferă o vedere panoramică asupra Bulevardului Unirii." },
       { q: "Ce instituții funcționează în această clădire?", a: "Aici își au sediul Camera Deputaților, Senatul României, Curtea Constituțională și Muzeul Național de Artă Contemporană (MNAC)." },
   ],
@@ -3783,7 +3783,7 @@ export const roFaq: CountryFaqMap = {
   },
   "landmark-salina-praid": {
     ro: [
-      { q: "Unde se află Salina Praid?", a: "Salina este situată în județul Harghita, în bazinul munților Gurghiu, într-o zonă cunoscută drept „Ținutul Sării”." },
+      { q: "Unde se află Salina Praid?", a: "Salina este situată în județul Harghita, în bazinul munților Gurghiu, într-o zonă cunoscută drept \"Ținutul Sării\"." },
       { q: "Cum se face accesul în interiorul salinei?", a: "Accesul turiștilor până la baza de tratament se face cu autobuzele salinei, care parcurg un tunel lung de aproximativ 1.5 kilometri." },
       { q: "Ce facilități de relaxare există în Salina Praid?", a: "Salina oferă un parc de aventură, cafenele, o bibliotecă, spații de joacă pentru copii și chiar o capelă ecumenică." },
       { q: "Există și facilități la suprafață la Praid?", a: "Da, în apropierea salinei se află un modern ștrand cu apă sărată, cel mai mare de acest tip din România." },
@@ -3811,7 +3811,7 @@ export const roFaq: CountryFaqMap = {
       { q: "Prin ce se remarcă Salina Slănic Prahova?", a: "Este considerată cea mai mare salină din Europa ca volum de sare excavat, având săli uriașe cu înălțimi de peste 50 de metri." },
       { q: "Cât de adânc este situată baza turistică?", a: "Mina Unirea, deschisă vizitării, se află la o adâncime de 208 metri sub nivelul solului." },
       { q: "Ce temperatură este în interiorul salinei?", a: "Temperatura este constantă tot timpul anului, fiind de aproximativ 12-13 grade Celsius." },
-      { q: "Ce pot vedea turiștii în „Sala Genezei”?", a: "Aici se află sculpturi monumentale în sare realizate de artistul Iustin Năstase, reprezentându-i pe Decebal, Traian și Mihai Viteazul." },
+      { q: "Ce pot vedea turiștii în \"Sala Genezei\"?", a: "Aici se află sculpturi monumentale în sare realizate de artistul Iustin Năstase, reprezentându-i pe Decebal, Traian și Mihai Viteazul." },
     ],
     de: [
       { q: "Was ist die historische Bedeutung von landmark-salina-slanic?", a: "landmark-salina-slanic ist ein wichtiges kulturelles und geografisches Wahrzeichen." },
@@ -3828,7 +3828,7 @@ export const roFaq: CountryFaqMap = {
   en: [
       { q: "Cât de adânc este situată baza turistică?", a: "Mina Unirea, deschisă vizitării, se află la o adâncime de 208 metri sub nivelul solului." },
       { q: "Ce temperatură este în interiorul salinei?", a: "Temperatura este constantă tot timpul anului, fiind de aproximativ 12-13 grade Celsius." },
-      { q: "Ce pot vedea turiștii în „Sala Genezei”?", a: "Aici se află sculpturi monumentale în sare realizate de artistul Iustin Năstase, reprezentându-i pe Decebal, Traian și Mihai Viteazul." },
+      { q: "Ce pot vedea turiștii în \"Sala Genezei\"?", a: "Aici se află sculpturi monumentale în sare realizate de artistul Iustin Năstase, reprezentându-i pe Decebal, Traian și Mihai Viteazul." },
   ],
   },
   "landmark-salina-turda": {
@@ -3934,7 +3934,7 @@ export const roFaq: CountryFaqMap = {
   "landmark-transalpina": {
     ro: [
       { q: "Prin ce se remarcă Transalpina față de alte drumuri montane?", a: "Transalpina (DN67C) este cea mai înaltă șosea din România, atingând altitudinea de 2145 metri în Pasul Urdele." },
-      { q: "Cum mai este numită Transalpina?", a: "Mai este cunoscută sub numele de „Drumul Regelui”, deoarece a fost reconstruită și inaugurată de regele Carol al II-lea în 1938." },
+      { q: "Cum mai este numită Transalpina?", a: "Mai este cunoscută sub numele de \"Drumul Regelui\", deoarece a fost reconstruită și inaugurată de regele Carol al II-lea în 1938." },
       { q: "Ce regiuni leagă acest drum?", a: "Drumul traversează Munții Parâng de la sud la nord, legând orașul Novaci (Oltenia) de Sebeș (Transilvania)." },
       { q: "Ce stațiune montană este traversată de Transalpina?", a: "Drumul trece prin stațiunea Rânca, una dintre cele mai înalte stațiuni montane din România." },
     ],
@@ -3951,7 +3951,7 @@ export const roFaq: CountryFaqMap = {
       { q: "Melyik a legjobb évszak a látogatásra?", a: "A hely egész évben vonzó, de különösen tavasszal és nyáron." },
     ],
   en: [
-      { q: "Cum mai este numită Transalpina?", a: "Mai este cunoscută sub numele de „Drumul Regelui”, deoarece a fost reconstruită și inaugurată de regele Carol al II-lea în 1938." },
+      { q: "Cum mai este numită Transalpina?", a: "Mai este cunoscută sub numele de \"Drumul Regelui\", deoarece a fost reconstruită și inaugurată de regele Carol al II-lea în 1938." },
       { q: "Ce regiuni leagă acest drum?", a: "Drumul traversează Munții Parâng de la sud la nord, legând orașul Novaci (Oltenia) de Sebeș (Transilvania)." },
       { q: "Ce stațiune montană este traversată de Transalpina?", a: "Drumul trece prin stațiunea Rânca, una dintre cele mai înalte stațiuni montane din România." },
   ],
@@ -4058,9 +4058,9 @@ export const roFaq: CountryFaqMap = {
   },
   "mountain-ceahlau": {
     ro: [
-      { q: "Cum mai este supranumit Muntele Ceahlău?", a: "Ceahlăul este adesea numit „Olimpul Moldovei” sau „Muntele Sfânt al românilor”." },
+      { q: "Cum mai este supranumit Muntele Ceahlău?", a: "Ceahlăul este adesea numit \"Olimpul Moldovei\" sau \"Muntele Sfânt al românilor\"." },
       { q: "Care sunt principalele vârfuri ale masivului Ceahlău?", a: "Cele mai cunoscute vârfuri sunt Toaca (1904 m) și Ocolașul Mare (1907 m)." },
-      { q: "Ce fenomen optic unic poate fi observat pe Ceahlău în luna august?", a: "La răsăritul soarelui, în jurul datei de 6 august, se poate observa fenomenul „Umbra Piramidei”, o proiecție gigantică a muntelui." },
+      { q: "Ce fenomen optic unic poate fi observat pe Ceahlău în luna august?", a: "La răsăritul soarelui, în jurul datei de 6 august, se poate observa fenomenul \"Umbra Piramidei\", o proiecție gigantică a muntelui." },
       { q: "Care este principala poartă de intrare pentru turiști pe Ceahlău?", a: "Stațiunea Durău este principala bază de plecare pentru traseele ce urcă spre vârful Toaca și cabana Dochia." },
     ],
     de: [
@@ -4077,7 +4077,7 @@ export const roFaq: CountryFaqMap = {
     ],
   en: [
       { q: "Care sunt principalele vârfuri ale masivului Ceahlău?", a: "Cele mai cunoscute vârfuri sunt Toaca (1904 m) și Ocolașul Mare (1907 m)." },
-      { q: "Ce fenomen optic unic poate fi observat pe Ceahlău în luna august?", a: "La răsăritul soarelui, în jurul datei de 6 august, se poate observa fenomenul „Umbra Piramidei”, o proiecție gigantică a muntelui." },
+      { q: "Ce fenomen optic unic poate fi observat pe Ceahlău în luna august?", a: "La răsăritul soarelui, în jurul datei de 6 august, se poate observa fenomenul \"Umbra Piramidei\", o proiecție gigantică a muntelui." },
       { q: "Care este principala poartă de intrare pentru turiști pe Ceahlău?", a: "Stațiunea Durău este principala bază de plecare pentru traseele ce urcă spre vârful Toaca și cabana Dochia." },
   ],
   },
@@ -4133,7 +4133,7 @@ export const roFaq: CountryFaqMap = {
   },
   "mountain-meridionali": {
     ro: [
-      { q: "De ce sunt numiți Carpații Meridionali și „Alpii Transilvaniei”?", a: "Sunt numiți astfel datorită aspectului lor alpin, cu creste ascuțite, relief glaciar pronunțat și altitudini ce depășesc frecvent 2000 de metri." },
+      { q: "De ce sunt numiți Carpații Meridionali și \"Alpii Transilvaniei\"?", a: "Sunt numiți astfel datorită aspectului lor alpin, cu creste ascuțite, relief glaciar pronunțat și altitudini ce depășesc frecvent 2000 de metri." },
       { q: "Care este cel mai înalt vârf din România și în ce grupă muntoasă se află?", a: "Vârful Moldoveanu (2544 m) este cel mai înalt și se află în Munții Făgăraș, parte a Carpaților Meridionali." },
       { q: "Care sunt cele patru grupe mari ale Carpaților Meridionali?", a: "Aceștia cuprind grupele: Bucegi, Făgăraș, Parâng și Retezat-Godeanu." },
       { q: "Ce șosele spectaculoase traversează Carpații Meridionali?", a: "Cele mai faimoase sunt Transfăgărășanul (prin Munții Făgăraș) și Transalpina (prin Munții Parâng)." },
@@ -4434,7 +4434,7 @@ export const roFaq: CountryFaqMap = {
   "nature-calimani-np": {
     ro: [
       { q: "Ce tip de relief domină Parcul Național Călimani?", a: "Este dominat de relieful vulcanic, Munții Călimani fiind cel mai mare masiv vulcanic din România." },
-      { q: "Care este cea mai impresionantă formațiune geologică din Călimani?", a: "Rezervația „12 Apostoli”, un grup de stânci cu forme antropomorfe și zoomorfe sculptate de natură." },
+      { q: "Care este cea mai impresionantă formațiune geologică din Călimani?", a: "Rezervația \"12 Apostoli\", un grup de stânci cu forme antropomorfe și zoomorfe sculptate de natură." },
       { q: "Ce activitate industrială a lăsat urme vizibile în acest parc?", a: "Fosta exploatare de sulf, care a creat o uriașă rană în munte, vizibilă și astăzi sub vârful Negoiu Unguresc." },
       { q: "Care este cel mai înalt vârf din Masivul Călimani?", a: "Vârful Pietrosul Călimanilor, având o altitudine de 2100 metri." },
     ],
@@ -4451,7 +4451,7 @@ export const roFaq: CountryFaqMap = {
       { q: "Melyik a legjobb évszak a látogatásra?", a: "A hely egész évben vonzó, de különösen tavasszal és nyáron." },
     ],
   en: [
-      { q: "Care este cea mai impresionantă formațiune geologică din Călimani?", a: "Rezervația „12 Apostoli”, un grup de stânci cu forme antropomorfe și zoomorfe sculptate de natură." },
+      { q: "Care este cea mai impresionantă formațiune geologică din Călimani?", a: "Rezervația \"12 Apostoli\", un grup de stânci cu forme antropomorfe și zoomorfe sculptate de natură." },
       { q: "Ce activitate industrială a lăsat urme vizibile în acest parc?", a: "Fosta exploatare de sulf, care a creat o uriașă rană în munte, vizibilă și astăzi sub vârful Negoiu Unguresc." },
       { q: "Care este cel mai înalt vârf din Masivul Călimani?", a: "Vârful Pietrosul Călimanilor, având o altitudine de 2100 metri." },
   ],
@@ -4535,7 +4535,7 @@ export const roFaq: CountryFaqMap = {
     ro: [
       { q: "Ce sunt Detunatele?", a: "Sunt două masive de bazalt, Detunata Golașă și Detunata Flocoasă, formate din coloane hexagonale spectaculoase." },
       { q: "Unde se află Detunatele?", a: "Sunt situate în Munții Metaliferi, în județul Alba, aproape de localitatea Bucium." },
-      { q: "De unde provine numele de „Detunatele”?", a: "Numele provine de la sunetul asemănător tunetului pe care îl scot coloanele de piatră atunci când se desprind și cad." },
+      { q: "De unde provine numele de \"Detunatele\"?", a: "Numele provine de la sunetul asemănător tunetului pe care îl scot coloanele de piatră atunci când se desprind și cad." },
       { q: "Prin ce se deosebește Detunata Golașă de cea Flocoasă?", a: "Detunata Golașă este lipsită de vegetație pe versantul cu coloane, oferind o vedere clară asupra structurii geologice, în timp ce Detunata Flocoasă este acoperită de pădure." },
     ],
     de: [
@@ -4552,7 +4552,7 @@ export const roFaq: CountryFaqMap = {
     ],
   en: [
       { q: "Unde se află Detunatele?", a: "Sunt situate în Munții Metaliferi, în județul Alba, aproape de localitatea Bucium." },
-      { q: "De unde provine numele de „Detunatele”?", a: "Numele provine de la sunetul asemănător tunetului pe care îl scot coloanele de piatră atunci când se desprind și cad." },
+      { q: "De unde provine numele de \"Detunatele\"?", a: "Numele provine de la sunetul asemănător tunetului pe care îl scot coloanele de piatră atunci când se desprind și cad." },
       { q: "Prin ce se deosebește Detunata Golașă de cea Flocoasă?", a: "Detunata Golașă este lipsită de vegetație pe versantul cu coloane, oferind o vedere clară asupra structurii geologice, în timp ce Detunata Flocoasă este acoperită de pădure." },
   ],
   },
@@ -4583,7 +4583,7 @@ export const roFaq: CountryFaqMap = {
   },
   "nature-lacul-colibita": {
     ro: [
-      { q: "Unde se află Lacul Colibița și cum mai este numit?", a: "Se află în județul Bistrița-Năsăud, în Munții Călimani, și este supranumit „Marea de la munte”." },
+      { q: "Unde se află Lacul Colibița și cum mai este numit?", a: "Se află în județul Bistrița-Năsăud, în Munții Călimani, și este supranumit \"Marea de la munte\"." },
       { q: "Ce proprietate specială are aerul din zona Colibița?", a: "Se spune că zona are cel mai pur aer din România, cu o concentrație ridicată de ozon, similară cu cea din Munții Alpi." },
       { q: "Cum a luat naștere actualul lac Colibița?", a: "Este un lac de acumulare creat în anii '80 prin construirea unui baraj pe râul Bistrița Ardeleană, inundând vechea localitate Colibița." },
       { q: "Ce activități de agrement se pot face la Colibița?", a: "Turiștii pot practica caiacul, plimbările cu barca, pescuitul sau drumețiile montane în împrejurimi." },
@@ -4683,7 +4683,7 @@ export const roFaq: CountryFaqMap = {
   },
   "nature-padurea-verde": {
     ro: [
-      { q: "Unde se află Pădurea Verde și ce rol are pentru comunitate?", a: "Se află la marginea orașului Timișoara și reprezintă „plămânul verde” al orașului, fiind principala zonă de recreere." },
+      { q: "Unde se află Pădurea Verde și ce rol are pentru comunitate?", a: "Se află la marginea orașului Timișoara și reprezintă \"plămânul verde\" al orașului, fiind principala zonă de recreere." },
       { q: "Ce obiective turistice se găsesc în incinta Pădurii Verzi?", a: "Aici se află Muzeul Satului Bănățean și Grădina Zoologică din Timișoara." },
       { q: "Ce activități pot practica vizitatorii în Pădurea Verde?", a: "Este un loc ideal pentru ciclism, alergare, plimbări lungi și picnicuri în zonele special amenajate." },
       { q: "Ce tip de vegetație predomină în Pădurea Verde?", a: "Este o pădure de foioase, unde predomină stejarul, cerul și gârnița." },
@@ -4708,7 +4708,7 @@ export const roFaq: CountryFaqMap = {
   },
   "nature-pestera-muierilor": {
     ro: [
-      { q: "De unde provine numele de „Peștera Muierilor”?", a: "Numele provine din vremurile vechi când bărbații plecau la război, iar femeile, copiii și bătrânii se adăposteau în peșteră." },
+      { q: "De unde provine numele de \"Peștera Muierilor\"?", a: "Numele provine din vremurile vechi când bărbații plecau la război, iar femeile, copiii și bătrânii se adăposteau în peșteră." },
       { q: "Unde este situată Peștera Muierilor?", a: "Se află în comuna Baia de Fier, județul Gorj, fiind sculptată în calcarele Masivului Parâng." },
       { q: "Ce atracție paleontologică se găsește în această peșteră?", a: "În peșteră se află un schelet complet de urs de peșteră, dar și resturi umane foarte vechi (Homo sapiens)." },
       { q: "Este Peștera Muierilor electrificată?", a: "Da, a fost prima peșteră electrificată din România, fiind ușor accesibilă turiștilor pe o lungime de circa 600 de metri." },
@@ -4784,7 +4784,7 @@ export const roFaq: CountryFaqMap = {
   "nature-sapte-scari": {
     ro: [
       { q: "Ce este Canionul Șapte Scări și unde se află?", a: "Este un defileu săpat în calcar situat în Masivul Piatra Mare, lângă localitatea Timișu de Jos, județul Brașov." },
-      { q: "De unde provine numele de „Șapte Scări”?", a: "Numele vine de la cele șapte trepte de cădere ale apei, transformate în cascade, care sunt parcurse cu ajutorul unor scări metalice." },
+      { q: "De unde provine numele de \"Șapte Scări\"?", a: "Numele vine de la cele șapte trepte de cădere ale apei, transformate în cascade, care sunt parcurse cu ajutorul unor scări metalice." },
       { q: "Este periculos parcursul prin canion?", a: "Traseul este amenajat modern cu scări și platforme metalice sigure, dar necesită o condiție fizică minimă și încălțăminte adecvată." },
       { q: "Ce altă atracție modernă a fost instalată în apropierea canionului?", a: "În zona canionului a fost amenajată cea mai lungă tiroliană din România, care pornește de la intrarea în defileu." },
     ],
@@ -4801,7 +4801,7 @@ export const roFaq: CountryFaqMap = {
       { q: "Melyik a legjobb évszak a látogatásra?", a: "A hely egész évben vonzó, de különösen tavasszal és nyáron." },
     ],
   en: [
-      { q: "De unde provine numele de „Șapte Scări”?", a: "Numele vine de la cele șapte trepte de cădere ale apei, transformate în cascade, care sunt parcurse cu ajutorul unor scări metalice." },
+      { q: "De unde provine numele de \"Șapte Scări\"?", a: "Numele vine de la cele șapte trepte de cădere ale apei, transformate în cascade, care sunt parcurse cu ajutorul unor scări metalice." },
       { q: "Este periculos parcursul prin canion?", a: "Traseul este amenajat modern cu scări și platforme metalice sigure, dar necesită o condiție fizică minimă și încălțăminte adecvată." },
       { q: "Ce altă atracție modernă a fost instalată în apropierea canionului?", a: "În zona canionului a fost amenajată cea mai lungă tiroliană din România, care pornește de la intrarea în defileu." },
   ],
@@ -4834,7 +4834,7 @@ export const roFaq: CountryFaqMap = {
   "nature-urlatoarea": {
     ro: [
       { q: "Unde se află Cascada Urlătoarea?", a: "Se află în Munții Bucegi, la o altitudine de 1100 de metri, în apropierea stațiunii Bușteni." },
-      { q: "De unde îi vine numele de „Urlătoarea”?", a: "Numele provine de la zgomotul puternic, ca un urlet, pe care îl face apa în cădere, mai ales după ploi abundente." },
+      { q: "De unde îi vine numele de \"Urlătoarea\"?", a: "Numele provine de la zgomotul puternic, ca un urlet, pe care îl face apa în cădere, mai ales după ploi abundente." },
       { q: "Este dificil traseul până la cascadă?", a: "Nu, este unul dintre cele mai accesibile și populare trasee din Bucegi, putând fi parcurs ușor în aproximativ 30-45 de minute din Bușteni." },
       { q: "Care este înălțimea căderii de apă la Cascada Urlătoarea?", a: "Cascada are o înălțime de aproximativ 15 metri." },
     ],
@@ -4851,7 +4851,7 @@ export const roFaq: CountryFaqMap = {
       { q: "Melyik a legjobb évszak a látogatásra?", a: "A hely egész évben vonzó, de különösen tavasszal és nyáron." },
     ],
   en: [
-      { q: "De unde îi vine numele de „Urlătoarea”?", a: "Numele provine de la zgomotul puternic, ca un urlet, pe care îl face apa în cădere, mai ales după ploi abundente." },
+      { q: "De unde îi vine numele de \"Urlătoarea\"?", a: "Numele provine de la zgomotul puternic, ca un urlet, pe care îl face apa în cădere, mai ales după ploi abundente." },
       { q: "Este dificil traseul până la cascadă?", a: "Nu, este unul dintre cele mai accesibile și populare trasee din Bucegi, putând fi parcurs ușor în aproximativ 30-45 de minute din Bușteni." },
       { q: "Care este înălțimea căderii de apă la Cascada Urlătoarea?", a: "Cascada are o înălțime de aproximativ 15 metri." },
   ],
@@ -5287,7 +5287,7 @@ export const roFaq: CountryFaqMap = {
   },
   "ro-poi-baile-herculane": {
     ro: [
-      { q: "Care este vechimea stațiunii Băile Herculane?", a: "Este cea mai veche stațiune balneară din România, fiind atestată documentar încă din anul 153 d.Hr., în perioada romană, sub numele de „Ad Aquas Herculi Sacras”." },
+      { q: "Care este vechimea stațiunii Băile Herculane?", a: "Este cea mai veche stațiune balneară din România, fiind atestată documentar încă din anul 153 d.Hr., în perioada romană, sub numele de \"Ad Aquas Herculi Sacras\"." },
       { q: "Ce tip de ape minerale se găsesc la Herculane?", a: "Stațiunea este renumită pentru izvoarele sale termale sulfuroase, clorurate și sodice, cu proprietăți remarcabile în tratarea afecțiunilor osteoarticulare." },
       { q: "Ce obiective arhitecturale pot fi vizitate în stațiune?", a: "Centrul istoric păstrează clădiri monumentale în stil baroc austriac, precum Pavilionul Neptun, Cazinoul și statuia lui Hercule, simbolul stațiunii." },
       { q: "Unde este situată stațiunea?", a: "Băile Herculane se află în județul Caraș-Severin, pe Valea Cernei, într-un cadru natural deosebit între Munții Mehedinți și Munții Cernei." },
@@ -5363,8 +5363,8 @@ export const roFaq: CountryFaqMap = {
   "ro-poi-bistrita": {
     ro: [
       { q: "Care este simbolul orașului Bistrița?", a: "Simbolul principal este Biserica Evanghelică din centrul orașului, care are cel mai înalt turn de piatră din Transilvania (75 de metri)." },
-      { q: "Ce sunt „Sugerile” din Bistrița?", a: "Sugerile sunt un complex de 13 clădiri medievale cu arcade, cele mai reprezentative construcții de tip renascentist din oraș." },
-      { q: "Ce legătură are orașul cu romanul „Dracula”?", a: "Bistrița este locul unde personajul Jonathan Harker înnoptează la hotelul „Coroana de Aur” înainte de a pleca spre castelul contelui Dracula din Pasul Tihuța." },
+      { q: "Ce sunt \"Sugerile\" din Bistrița?", a: "Sugerile sunt un complex de 13 clădiri medievale cu arcade, cele mai reprezentative construcții de tip renascentist din oraș." },
+      { q: "Ce legătură are orașul cu romanul \"Dracula\"?", a: "Bistrița este locul unde personajul Jonathan Harker înnoptează la hotelul \"Coroana de Aur\" înainte de a pleca spre castelul contelui Dracula din Pasul Tihuța." },
       { q: "Unde se află situat orașul Bistrița?", a: "Bistrița este reședința județului Bistrița-Năsăud, fiind situată în nord-estul Transilvaniei, pe valea râului cu același nume." },
     ],
     de: [
@@ -5380,8 +5380,8 @@ export const roFaq: CountryFaqMap = {
       { q: "Melyik a legjobb évszak a látogatásra?", a: "A hely egész évben vonzó, de különösen tavasszal és nyáron." },
     ],
   en: [
-      { q: "Ce sunt „Sugerile” din Bistrița?", a: "Sugerile sunt un complex de 13 clădiri medievale cu arcade, cele mai reprezentative construcții de tip renascentist din oraș." },
-      { q: "Ce legătură are orașul cu romanul „Dracula”?", a: "Bistrița este locul unde personajul Jonathan Harker înnoptează la hotelul „Coroana de Aur” înainte de a pleca spre castelul contelui Dracula din Pasul Tihuța." },
+      { q: "Ce sunt \"Sugerile\" din Bistrița?", a: "Sugerile sunt un complex de 13 clădiri medievale cu arcade, cele mai reprezentative construcții de tip renascentist din oraș." },
+      { q: "Ce legătură are orașul cu romanul \"Dracula\"?", a: "Bistrița este locul unde personajul Jonathan Harker înnoptează la hotelul \"Coroana de Aur\" înainte de a pleca spre castelul contelui Dracula din Pasul Tihuța." },
       { q: "Unde se află situat orașul Bistrița?", a: "Bistrița este reședința județului Bistrița-Năsăud, fiind situată în nord-estul Transilvaniei, pe valea râului cu același nume." },
   ],
   },
@@ -5389,7 +5389,7 @@ export const roFaq: CountryFaqMap = {
     ro: [
       { q: "Prin ce este cunoscut orașul Botoșani în cultura română?", a: "Botoșani este renumit ca orașul marilor genii, fiind locul de naștere sau de formare al unor personalități precum Mihai Eminescu, George Enescu, Nicolae Iorga și Ștefan Luchian." },
       { q: "Ce se poate vizita în Centrul Vechi al orașului?", a: "Centrul Vechi este o zonă istorică superbă cu arhitectură de secol XIX, fiind singurul ansamblu de acest tip din Moldova care s-a păstrat aproape intact." },
-      { q: "Care este cea mai veche biserică din Botoșani?", a: "Biserica armenească „Sfânta Maria” este una dintre cele mai vechi din oraș, atestând prezența unei comunități armenești prospere încă din secolul al XIV-lea." },
+      { q: "Care este cea mai veche biserică din Botoșani?", a: "Biserica armenească \"Sfânta Maria\" este una dintre cele mai vechi din oraș, atestând prezența unei comunități armenești prospere încă din secolul al XIV-lea." },
       { q: "Unde este situat orașul Botoșani?", a: "Se află în nord-estul României, fiind reședința județului cu același nume, într-o zonă de dealuri domoale între râurile Siret și Prut." },
     ],
     de: [
@@ -5406,14 +5406,14 @@ export const roFaq: CountryFaqMap = {
     ],
   en: [
       { q: "Ce se poate vizita în Centrul Vechi al orașului?", a: "Centrul Vechi este o zonă istorică superbă cu arhitectură de secol XIX, fiind singurul ansamblu de acest tip din Moldova care s-a păstrat aproape intact." },
-      { q: "Care este cea mai veche biserică din Botoșani?", a: "Biserica armenească „Sfânta Maria” este una dintre cele mai vechi din oraș, atestând prezența unei comunități armenești prospere încă din secolul al XIV-lea." },
+      { q: "Care este cea mai veche biserică din Botoșani?", a: "Biserica armenească \"Sfânta Maria\" este una dintre cele mai vechi din oraș, atestând prezența unei comunități armenești prospere încă din secolul al XIV-lea." },
       { q: "Unde este situat orașul Botoșani?", a: "Se află în nord-estul României, fiind reședința județului cu același nume, într-o zonă de dealuri domoale între râurile Siret și Prut." },
   ],
   },
   "ro-poi-braila": {
     ro: [
       { q: "Prin ce a fost faimos orașul Brăila în trecut?", a: "În secolul al XIX-lea și începutul secolului XX, Brăila a fost unul dintre cele mai importante porturi de la Dunăre și principalul centru de export al cerealelor din România." },
-      { q: "Ce se poate vizita în centrul istoric al Brăilei?", a: "Orașul are un plan urbanistic unic „în evantai”, cu străzi radiale ce pornesc de la Dunăre, Grădina Publică și numeroase clădiri cu arhitectură neoclasică." },
+      { q: "Ce se poate vizita în centrul istoric al Brăilei?", a: "Orașul are un plan urbanistic unic \"în evantai\", cu străzi radiale ce pornesc de la Dunăre, Grădina Publică și numeroase clădiri cu arhitectură neoclasică." },
       { q: "Ce este special la ceasul din Piața Traian?", a: "Orologiul de tip turn din Brăila, construit în 1909, este un simbol al orașului și unul dintre puținele ceasuri publice de acest tip păstrate în România." },
       { q: "Unde se află situată Brăila?", a: "Orașul este situat pe malul stâng al Dunării, în estul țării, fiind reședința județului Brăila." },
     ],
@@ -5430,7 +5430,7 @@ export const roFaq: CountryFaqMap = {
       { q: "Melyik a legjobb évszak a látogatásra?", a: "A hely egész évben vonzó, de különösen tavasszal és nyáron." },
     ],
   en: [
-      { q: "Ce se poate vizita în centrul istoric al Brăilei?", a: "Orașul are un plan urbanistic unic „în evantai”, cu străzi radiale ce pornesc de la Dunăre, Grădina Publică și numeroase clădiri cu arhitectură neoclasică." },
+      { q: "Ce se poate vizita în centrul istoric al Brăilei?", a: "Orașul are un plan urbanistic unic \"în evantai\", cu străzi radiale ce pornesc de la Dunăre, Grădina Publică și numeroase clădiri cu arhitectură neoclasică." },
       { q: "Ce este special la ceasul din Piața Traian?", a: "Orologiul de tip turn din Brăila, construit în 1909, este un simbol al orașului și unul dintre puținele ceasuri publice de acest tip păstrate în România." },
       { q: "Unde se află situată Brăila?", a: "Orașul este situat pe malul stâng al Dunării, în estul țării, fiind reședința județului Brăila." },
   ],
@@ -5537,7 +5537,7 @@ export const roFaq: CountryFaqMap = {
   },
   "ro-poi-cascada-bigar": {
     ro: [
-      { q: "De ce a devenit Cascada Bigăr celebră în întreaga lume?", a: "Cascada a devenit faimoasă după ce a fost clasată de site-ul „The World Geography” drept cea mai frumoasă și neobișnuită cascadă din lume, datorită aspectului său de clopot de mușchi." },
+      { q: "De ce a devenit Cascada Bigăr celebră în întreaga lume?", a: "Cascada a devenit faimoasă după ce a fost clasată de site-ul \"The World Geography\" drept cea mai frumoasă și neobișnuită cascadă din lume, datorită aspectului său de clopot de mușchi." },
       { q: "Unde se află Cascada Bigăr?", a: "Se află în județul Caraș-Severin, chiar pe linia paralelei 45, pe drumul dintre localitățile Anina și Bozovici." },
       { q: "Ce face ca această cascadă să fie specială?", a: "Izvorul Bigăr iese de sub o stâncă și se varsă în râul Miniș de pe un prag stâncos acoperit cu mușchi, formând o perdea de apă de o frumusețe rară." },
       { q: "A suferit cascada modificări recente?", a: "În iunie 2021, o parte din peretele de mușchi al cascadei s-a prăbușit din cauze naturale, însă locul rămâne spectaculos și vizitat de numeroși turiști." },
@@ -5962,7 +5962,7 @@ export const roFaq: CountryFaqMap = {
   },
   "ro-poi-focul-viu": {
     ro: [
-      { q: "Ce este fenomenul „Focul Viu”?", a: "Este un fenomen natural rar în care gazele naturale (metanul) ies prin crăpăturile solului și se aprind spontan sau accidental, arzând cu flăcări continue." },
+      { q: "Ce este fenomenul \"Focul Viu\"?", a: "Este un fenomen natural rar în care gazele naturale (metanul) ies prin crăpăturile solului și se aprind spontan sau accidental, arzând cu flăcări continue." },
       { q: "Unde poate fi văzut Focul Viu în România?", a: "Cel mai cunoscut loc este în localitatea Lopătari (comuna Terca), județul Buzău, într-o zonă montană spectaculoasă." },
       { q: "Cât de mari sunt flăcările Focului Viu?", a: "Înălțimea flăcărilor variază în funcție de presiunea gazelor și de condițiile meteo, putând atinge de la câțiva centimetri până la jumătate de metru." },
       { q: "Care este atmosfera locului în timpul nopții?", a: "Pe timpul nopții, imaginea flăcărilor care țâșnesc direct din pământ în liniștea muntelui oferă o experiență mistică și fascinantă pentru turiști." },
@@ -6087,7 +6087,7 @@ export const roFaq: CountryFaqMap = {
   },
   "ro-poi-insula-mica": {
     ro: [
-      { q: "Ce reprezintă Parcul Natural Balta Mică a Brăilei?", a: "Este un complex de zone umede situat între brațele Dunării, fiind considerat o „mică Deltă” datorită biodiversității sale și a regimului hidrologic natural." },
+      { q: "Ce reprezintă Parcul Natural Balta Mică a Brăilei?", a: "Este un complex de zone umede situat între brațele Dunării, fiind considerat o \"mică Deltă\" datorită biodiversității sale și a regimului hidrologic natural." },
       { q: "Cum se poate vizita Insula Mică a Brăilei?", a: "Accesul se face exclusiv cu ambarcațiuni, parcul fiind o destinație ideală pentru ecoturism, observarea păsărilor și drumeții prin pădurile riverane." },
       { q: "Ce specii de păsări pot fi văzute aici?", a: "Zona adăpostește peste 200 de specii de păsări, printre care vulturul codalb, egreta mare și numeroase colonii de stârci." },
       { q: "De ce este acest parc important din punct de vedere ecologic?", a: "Este una dintre puținele zone de pe cursul Dunării care nu a fost desecată în perioada comunistă, păstrând ecosistemele naturale de luncă inundabilă." },
@@ -6138,7 +6138,7 @@ export const roFaq: CountryFaqMap = {
   "ro-poi-lacul-colibita": {
     ro: [
       { q: "Unde se află Lacul Colibița?", a: "Lacul se află în județul Bistrița-Năsăud, la poalele Munților Călimani, fiind un lac de acumulare situat la o altitudine de 900 de metri." },
-      { q: "De ce este supranumită zona „Marea de la munte”?", a: "Este numită astfel datorită dimensiunilor impresionante ale lacului și a calității aerului, despre care se spune că este la fel de pur ca în Alpi." },
+      { q: "De ce este supranumită zona \"Marea de la munte\"?", a: "Este numită astfel datorită dimensiunilor impresionante ale lacului și a calității aerului, despre care se spune că este la fel de pur ca în Alpi." },
       { q: "Ce activități pot practica turiștii la Colibița?", a: "Turiștii se pot bucura de plimbări cu barca sau caiacul pe lac, pescuit, drumeții montane și relaxare în pensiunile de pe malul apei." },
       { q: "Există legende despre vechiul sat Colibița?", a: "Se spune că sub apele lacului actual se află ruinele vechiului sat, inclusiv turla bisericii care, conform legendei, ar fi vizibilă în perioadele de secetă extremă." },
     ],
@@ -6155,7 +6155,7 @@ export const roFaq: CountryFaqMap = {
       { q: "Melyik a legjobb évszak a látogatásra?", a: "A hely egész évben vonzó, de különösen tavasszal és nyáron." },
     ],
   en: [
-      { q: "De ce este supranumită zona „Marea de la munte”?", a: "Este numită astfel datorită dimensiunilor impresionante ale lacului și a calității aerului, despre care se spune că este la fel de pur ca în Alpi." },
+      { q: "De ce este supranumită zona \"Marea de la munte\"?", a: "Este numită astfel datorită dimensiunilor impresionante ale lacului și a calității aerului, despre care se spune că este la fel de pur ca în Alpi." },
       { q: "Ce activități pot practica turiștii la Colibița?", a: "Turiștii se pot bucura de plimbări cu barca sau caiacul pe lac, pescuit, drumeții montane și relaxare în pensiunile de pe malul apei." },
       { q: "Există legende despre vechiul sat Colibița?", a: "Se spune că sub apele lacului actual se află ruinele vechiului sat, inclusiv turla bisericii care, conform legendei, ar fi vizibilă în perioadele de secetă extremă." },
   ],
@@ -6188,8 +6188,8 @@ export const roFaq: CountryFaqMap = {
   "ro-poi-lacul-vulturilor": {
     ro: [
       { q: "Ce este Lacul Vulturilor și unde se află?", a: "Lacul Vulturilor (sau Lacul Fără Fund) este un lac periglaciar situat în Munții Siriului, județul Buzău, la o altitudine de 1420 de metri." },
-      { q: "De ce i se spune „Lacul Vulturilor”?", a: "Numele provine dintr-o legendă menționată de Alexandru Vlahuță, care spunea că aici vulturii veneau primăvara să-și învețe puii să zboare și să se întinerească bând apa lacului." },
-      { q: "Este lacul cu adevărat fără fund?", a: "Nu, adâncimea maximă este de aproximativ 2.5 metri, dar numele de „Lacul Fără Fund” vine din legendele locale care spun că ar exista canale subterane ce comunică direct cu marea." },
+      { q: "De ce i se spune \"Lacul Vulturilor\"?", a: "Numele provine dintr-o legendă menționată de Alexandru Vlahuță, care spunea că aici vulturii veneau primăvara să-și învețe puii să zboare și să se întinerească bând apa lacului." },
+      { q: "Este lacul cu adevărat fără fund?", a: "Nu, adâncimea maximă este de aproximativ 2.5 metri, dar numele de \"Lacul Fără Fund\" vine din legendele locale care spun că ar exista canale subterane ce comunică direct cu marea." },
       { q: "Cum se poate ajunge la Lacul Vulturilor?", a: "Accesul se face prin trasee montane spectaculoase din localitățile Siriu sau Crasna, drumul fiind accesibil și pentru vehicule 4x4 pe timp de vară." },
     ],
     de: [
@@ -6205,8 +6205,8 @@ export const roFaq: CountryFaqMap = {
       { q: "Melyik a legjobb évszak a látogatásra?", a: "A hely egész évben vonzó, de különösen tavasszal és nyáron." },
     ],
   en: [
-      { q: "De ce i se spune „Lacul Vulturilor”?", a: "Numele provine dintr-o legendă menționată de Alexandru Vlahuță, care spunea că aici vulturii veneau primăvara să-și învețe puii să zboare și să se întinerească bând apa lacului." },
-      { q: "Este lacul cu adevărat fără fund?", a: "Nu, adâncimea maximă este de aproximativ 2.5 metri, dar numele de „Lacul Fără Fund” vine din legendele locale care spun că ar exista canale subterane ce comunică direct cu marea." },
+      { q: "De ce i se spune \"Lacul Vulturilor\"?", a: "Numele provine dintr-o legendă menționată de Alexandru Vlahuță, care spunea că aici vulturii veneau primăvara să-și învețe puii să zboare și să se întinerească bând apa lacului." },
+      { q: "Este lacul cu adevărat fără fund?", a: "Nu, adâncimea maximă este de aproximativ 2.5 metri, dar numele de \"Lacul Fără Fund\" vine din legendele locale care spun că ar exista canale subterane ce comunică direct cu marea." },
       { q: "Cum se poate ajunge la Lacul Vulturilor?", a: "Accesul se face prin trasee montane spectaculoase din localitățile Siriu sau Crasna, drumul fiind accesibil și pentru vehicule 4x4 pe timp de vară." },
   ],
   },
@@ -6362,7 +6362,7 @@ export const roFaq: CountryFaqMap = {
   },
   "ro-poi-moneasa": {
     ro: [
-      { q: "Pentru ce este cunoscută stațiunea Moneasa?", a: "Moneasa, supranumită „Perla Munților Apuseni”, este o cunoscută stațiune balneoclimaterică renumită pentru apele sale termale și aerul puternic ionizat." },
+      { q: "Pentru ce este cunoscută stațiunea Moneasa?", a: "Moneasa, supranumită \"Perla Munților Apuseni\", este o cunoscută stațiune balneoclimaterică renumită pentru apele sale termale și aerul puternic ionizat." },
       { q: "Ce afecțiuni se pot trata la Moneasa?", a: "Apele mezotermale de aici sunt indicate pentru tratarea afecțiunilor sistemului nervos central și periferic, precum și a bolilor reumatismale." },
       { q: "Ce activități de relaxare oferă stațiunea?", a: "Vizitatorii se pot bucura de plimbări pe lacul cu bărci, drumeții către Peștera Liliecilor sau pot vizita resturile cuptorului de topit fier din secolul al XIX-lea." },
       { q: "Unde este situată localitatea Moneasa?", a: "Se află în județul Arad, la poalele Munților Codru-Moma, într-o zonă peisagistică deosebită." },
@@ -6712,7 +6712,7 @@ export const roFaq: CountryFaqMap = {
   },
   "ro-poi-pestera-ursilor": {
     ro: [
-      { q: "De ce se numește „Peștera Ursilor”?", a: "Numele provine de la numeroasele schelete de urs de cavernă (Ursus spelaeus) descoperite aici, specie dispărută de peste 15.000 de ani." },
+      { q: "De ce se numește \"Peștera Ursilor\"?", a: "Numele provine de la numeroasele schelete de urs de cavernă (Ursus spelaeus) descoperite aici, specie dispărută de peste 15.000 de ani." },
       { q: "Unde se află Peștera Ursilor?", a: "Este situată în localitatea Chișcău, județul Bihor, fiind una dintre cele mai spectaculoase peșteri amenajate din România." },
       { q: "Care sunt principalele galerii ale peșterii?", a: "Peștera este compusă din trei galerii principale deschise publicului: Galeria Urșilor, Galeria Emil Racoviță și Galeria Lumânărilor." },
       { q: "Ce formațiuni carstice pot fi admirate în interior?", a: "Vizitatorii pot vedea stalactite și stalagmite impresionante, coloane de chihlimbar și celebrul schelet de urs expus în poziția în care a fost găsit." },
@@ -6987,8 +6987,8 @@ export const roFaq: CountryFaqMap = {
   },
   "ro-poi-slanic-moldova": {
     ro: [
-      { q: "De ce este supranumită Slănic Moldova „Perla Moldovei”?", a: "Stațiunea este celebră pentru peisajele montane superbe și, mai ales, pentru cele peste 20 de izvoare de ape minerale premiate la expoziții internaționale." },
-      { q: "Ce se poate vizita în Slănic Moldova?", a: "Principalele atracții sunt Parcul Central, Cazinoul istoric, traseul turistic „300 de scări” și Cascada Slănic." },
+      { q: "De ce este supranumită Slănic Moldova \"Perla Moldovei\"?", a: "Stațiunea este celebră pentru peisajele montane superbe și, mai ales, pentru cele peste 20 de izvoare de ape minerale premiate la expoziții internaționale." },
+      { q: "Ce se poate vizita în Slănic Moldova?", a: "Principalele atracții sunt Parcul Central, Cazinoul istoric, traseul turistic \"300 de scări\" și Cascada Slănic." },
       { q: "Unde este situată stațiunea?", a: "Se află în județul Bacău, pe versantul estic al Munților Nemira, la o altitudine de aproximativ 530 de metri." },
       { q: "Există facilități de schi în zonă?", a: "Da, în stațiune funcționează Pârtia Nemira, dotată cu instalație de telescaun și tunuri de zăpadă, fiind o destinație populară iarna." },
     ],
@@ -7005,7 +7005,7 @@ export const roFaq: CountryFaqMap = {
       { q: "Melyik a legjobb évszak a látogatásra?", a: "A hely egész évben vonzó, de különösen tavasszal és nyáron." },
     ],
   en: [
-      { q: "Ce se poate vizita în Slănic Moldova?", a: "Principalele atracții sunt Parcul Central, Cazinoul istoric, traseul turistic „300 de scări” și Cascada Slănic." },
+      { q: "Ce se poate vizita în Slănic Moldova?", a: "Principalele atracții sunt Parcul Central, Cazinoul istoric, traseul turistic \"300 de scări\" și Cascada Slănic." },
       { q: "Unde este situată stațiunea?", a: "Se află în județul Bacău, pe versantul estic al Munților Nemira, la o altitudine de aproximativ 530 de metri." },
       { q: "Există facilități de schi în zonă?", a: "Da, în stațiune funcționează Pârtia Nemira, dotată cu instalație de telescaun și tunuri de zăpadă, fiind o destinație populară iarna." },
   ],
@@ -7087,10 +7087,10 @@ export const roFaq: CountryFaqMap = {
   },
   "ro-poi-statiunea-covasna": {
     ro: [
-      { q: "Pentru ce este renumită stațiunea Covasna?", a: "Covasna este cunoscută sub numele de „Stațiunea celor o mie de izvoare de sănătate”, fiind renumită pentru apele minerale carbogazoase și mofete (emanații naturale de CO2)." },
+      { q: "Pentru ce este renumită stațiunea Covasna?", a: "Covasna este cunoscută sub numele de \"Stațiunea celor o mie de izvoare de sănătate\", fiind renumită pentru apele minerale carbogazoase și mofete (emanații naturale de CO2)." },
       { q: "Ce este o mofetă și la ce folosește?", a: "Mofeta este o emanație naturală de dioxid de carbon, folosită în cure balneare pentru tratarea afecțiunilor cardiovasculare, fiind unică prin puritatea gazului." },
-      { q: "Ce atracție turistică inedită se află în apropiere?", a: "În apropiere se poate vizita „Planul Înclinat” de la Comandău, o instalație feroviară istorică unică în Europa, folosită în trecut pentru transportul buștenilor." },
-      { q: "Ce fenomen geologic rar poate fi văzut chiar în centrul stațiunii?", a: "În centrul orașului se află „Balta Dracului”, o rămășiță a unei erupții vulcanice, care constă dintr-un noroi ce bolborosește din cauza emanațiilor de gaze." },
+      { q: "Ce atracție turistică inedită se află în apropiere?", a: "În apropiere se poate vizita \"Planul Înclinat\" de la Comandău, o instalație feroviară istorică unică în Europa, folosită în trecut pentru transportul buștenilor." },
+      { q: "Ce fenomen geologic rar poate fi văzut chiar în centrul stațiunii?", a: "În centrul orașului se află \"Balta Dracului\", o rămășiță a unei erupții vulcanice, care constă dintr-un noroi ce bolborosește din cauza emanațiilor de gaze." },
     ],
     de: [
       { q: "Was ist die historische Bedeutung von ro-poi-statiunea-covasna?", a: "ro-poi-statiunea-covasna ist ein wichtiges kulturelles und geografisches Wahrzeichen." },
@@ -7106,8 +7106,8 @@ export const roFaq: CountryFaqMap = {
     ],
   en: [
       { q: "Ce este o mofetă și la ce folosește?", a: "Mofeta este o emanație naturală de dioxid de carbon, folosită în cure balneare pentru tratarea afecțiunilor cardiovasculare, fiind unică prin puritatea gazului." },
-      { q: "Ce atracție turistică inedită se află în apropiere?", a: "În apropiere se poate vizita „Planul Înclinat” de la Comandău, o instalație feroviară istorică unică în Europa, folosită în trecut pentru transportul buștenilor." },
-      { q: "Ce fenomen geologic rar poate fi văzut chiar în centrul stațiunii?", a: "În centrul orașului se află „Balta Dracului”, o rămășiță a unei erupții vulcanice, care constă dintr-un noroi ce bolborosește din cauza emanațiilor de gaze." },
+      { q: "Ce atracție turistică inedită se află în apropiere?", a: "În apropiere se poate vizita \"Planul Înclinat\" de la Comandău, o instalație feroviară istorică unică în Europa, folosită în trecut pentru transportul buștenilor." },
+      { q: "Ce fenomen geologic rar poate fi văzut chiar în centrul stațiunii?", a: "În centrul orașului se află \"Balta Dracului\", o rămășiță a unei erupții vulcanice, care constă dintr-un noroi ce bolborosește din cauza emanațiilor de gaze." },
   ],
   },
   "ro-poi-targu-mures-trandafirilor": {
@@ -7137,10 +7137,10 @@ export const roFaq: CountryFaqMap = {
   },
   "ro-poi-teatrul-filotti": {
     ro: [
-      { q: "Unde se află Teatrul „Maria Filotti”?", a: "Acest teatru monumental se află în Brăila, fiind găzduit într-o clădire istorică superbă construită în anul 1850." },
+      { q: "Unde se află Teatrul \"Maria Filotti\"?", a: "Acest teatru monumental se află în Brăila, fiind găzduit într-o clădire istorică superbă construită în anul 1850." },
       { q: "Cine a fost Maria Filotti?", a: "A fost una dintre cele mai mari actrițe ale scenei românești, care și-a început cariera în Brăila și a cărei memorie este onorată prin numele teatrului." },
       { q: "Cum este interiorul acestui teatru?", a: "Teatrul este renumit pentru eleganța sălii de spectacole, decorată cu elemente aurite, catifea roșie și candelabre de cristal, având o acustică deosebită." },
-      { q: "Ce evenimente culturale importante au loc aici?", a: "Pe lângă stagiunile obișnuite, teatrul găzduiește Festivalul Internațional de Canto „Hariclea Darclée” și festivaluri naționale de teatru." },
+      { q: "Ce evenimente culturale importante au loc aici?", a: "Pe lângă stagiunile obișnuite, teatrul găzduiește Festivalul Internațional de Canto \"Hariclea Darclée\" și festivaluri naționale de teatru." },
     ],
     de: [
       { q: "Was ist die historische Bedeutung von ro-poi-teatrul-filotti?", a: "ro-poi-teatrul-filotti ist ein wichtiges kulturelles und geografisches Wahrzeichen." },
@@ -7157,7 +7157,7 @@ export const roFaq: CountryFaqMap = {
   en: [
       { q: "Cine a fost Maria Filotti?", a: "A fost una dintre cele mai mari actrițe ale scenei românești, care și-a început cariera în Brăila și a cărei memorie este onorată prin numele teatrului." },
       { q: "Cum este interiorul acestui teatru?", a: "Teatrul este renumit pentru eleganța sălii de spectacole, decorată cu elemente aurite, catifea roșie și candelabre de cristal, având o acustică deosebită." },
-      { q: "Ce evenimente culturale importante au loc aici?", a: "Pe lângă stagiunile obișnuite, teatrul găzduiește Festivalul Internațional de Canto „Hariclea Darclée” și festivaluri naționale de teatru." },
+      { q: "Ce evenimente culturale importante au loc aici?", a: "Pe lângă stagiunile obișnuite, teatrul găzduiește Festivalul Internațional de Canto \"Hariclea Darclée\" și festivaluri naționale de teatru." },
   ],
   },
   "ro-poi-timisoara-opera": {
@@ -7365,7 +7365,7 @@ export const roFaq: CountryFaqMap = {
   "trad-boboteaza": {
     ro: [
       { q: "Ce se sărbătorește de Bobotează?", a: "Boboteaza, celebrată pe 6 ianuarie, marchează Botezul Domnului în apele Iordanului și reprezintă sfârșitul ciclului sărbătorilor de iarnă." },
-      { q: "Ce este „Agheasma Mare”?", a: "Este apa sfințită în cadrul slujbei speciale de Bobotează, despre care se crede că are puteri tămăduitoare și purificatoare." },
+      { q: "Ce este \"Agheasma Mare\"?", a: "Este apa sfințită în cadrul slujbei speciale de Bobotează, despre care se crede că are puteri tămăduitoare și purificatoare." },
       { q: "Care este ritualul aruncării crucii în apă?", a: "Preotul aruncă o cruce de lemn într-o apă curgătoare sau înghețată, iar tinerii curajoși sar să o recupereze, cel care reușește fiind considerat binecuvântat tot anul." },
       { q: "Ce tradiție au fetele tinere în noaptea de Bobotează?", a: "Fetele își pun sub pernă un fir de busuioc sfințit pentru a-și visa viitorul ursit în noaptea magică dinaintea sărbătorii." },
     ],
@@ -7382,7 +7382,7 @@ export const roFaq: CountryFaqMap = {
       { q: "Melyik a legjobb évszak a látogatásra?", a: "A hely egész évben vonzó, de különösen tavasszal és nyáron." },
     ],
   en: [
-      { q: "Ce este „Agheasma Mare”?", a: "Este apa sfințită în cadrul slujbei speciale de Bobotează, despre care se crede că are puteri tămăduitoare și purificatoare." },
+      { q: "Ce este \"Agheasma Mare\"?", a: "Este apa sfințită în cadrul slujbei speciale de Bobotează, despre care se crede că are puteri tămăduitoare și purificatoare." },
       { q: "Care este ritualul aruncării crucii în apă?", a: "Preotul aruncă o cruce de lemn într-o apă curgătoare sau înghețată, iar tinerii curajoși sar să o recupereze, cel care reușește fiind considerat binecuvântat tot anul." },
       { q: "Ce tradiție au fetele tinere în noaptea de Bobotează?", a: "Fetele își pun sub pernă un fir de busuioc sfințit pentru a-și visa viitorul ursit în noaptea magică dinaintea sărbătorii." },
   ],
@@ -7442,7 +7442,7 @@ export const roFaq: CountryFaqMap = {
       { q: "Ce sărbătoresc românii prin Dragobete?", a: "Dragobetele este sărbătoarea tradițională a iubirii la români, celebrată pe 24 februarie, marcând începutul simbolic al primăverii și renașterea naturii." },
       { q: "Cine este Dragobetele în mitologia populară?", a: "Dragobete este considerat fiul Babei Dochia, un zeu al tinereții și al veseliei, patronul dragostei și al bunei dispoziții." },
       { q: "Ce credință există despre păsări de Dragobete?", a: "Se spune că de Dragobete păsările se logodesc și încep să-și construiască cuiburile, acesta fiind momentul în care natura prinde viață." },
-      { q: "Care este zicala celebră legată de această zi?", a: "Cea mai cunoscută expresie este „Dragobetele sărută fetele!”, sugerând veselia și afecțiunea specifice acestei sărbători." },
+      { q: "Care este zicala celebră legată de această zi?", a: "Cea mai cunoscută expresie este \"Dragobetele sărută fetele!\", sugerând veselia și afecțiunea specifice acestei sărbători." },
     ],
     de: [
       { q: "Was ist die historische Bedeutung von trad-dragobete?", a: "trad-dragobete ist ein wichtiges kulturelles und geografisches Wahrzeichen." },
@@ -7459,14 +7459,14 @@ export const roFaq: CountryFaqMap = {
   en: [
       { q: "Cine este Dragobetele în mitologia populară?", a: "Dragobete este considerat fiul Babei Dochia, un zeu al tinereții și al veseliei, patronul dragostei și al bunei dispoziții." },
       { q: "Ce credință există despre păsări de Dragobete?", a: "Se spune că de Dragobete păsările se logodesc și încep să-și construiască cuiburile, acesta fiind momentul în care natura prinde viață." },
-      { q: "Care este zicala celebră legată de această zi?", a: "Cea mai cunoscută expresie este „Dragobetele sărută fetele!”, sugerând veselia și afecțiunea specifice acestei sărbători." },
+      { q: "Care este zicala celebră legată de această zi?", a: "Cea mai cunoscută expresie este \"Dragobetele sărută fetele!\", sugerând veselia și afecțiunea specifice acestei sărbători." },
   ],
   },
   "trad-ignatul": {
     ro: [
       { q: "Ce reprezintă sărbătoarea de Ignat?", a: "Ignatul este o sărbătoare tradițională celebrată pe 20 decembrie, dedicată tăierii porcului, ritual esențial pentru pregătirea meselor de Crăciun." },
       { q: "Care este semnificația religioasă a zilei?", a: "În calendarul ortodox, ziua este dedicată Sfântului Mucenic Ignatie Teoforul, însă tradițiile populare sunt preponderent legate de ritualul sacrificiului." },
-      { q: "Ce preparate tradiționale se fac după Ignat?", a: "Din carnea de porc se prepară specialități precum tobă, caltaboș, lebăr, cârnați și faimoasa „pomană a porcului”." },
+      { q: "Ce preparate tradiționale se fac după Ignat?", a: "Din carnea de porc se prepară specialități precum tobă, caltaboș, lebăr, cârnați și faimoasa \"pomană a porcului\"." },
       { q: "Există superstiții legate de ziua de Ignat?", a: "Se crede că în această zi nu este bine să se lucreze nimic altceva în afară de tăierea porcului, pentru a nu atrage ghinionul asupra gospodăriei." },
     ],
     de: [
@@ -7483,7 +7483,7 @@ export const roFaq: CountryFaqMap = {
     ],
   en: [
       { q: "Care este semnificația religioasă a zilei?", a: "În calendarul ortodox, ziua este dedicată Sfântului Mucenic Ignatie Teoforul, însă tradițiile populare sunt preponderent legate de ritualul sacrificiului." },
-      { q: "Ce preparate tradiționale se fac după Ignat?", a: "Din carnea de porc se prepară specialități precum tobă, caltaboș, lebăr, cârnați și faimoasa „pomană a porcului”." },
+      { q: "Ce preparate tradiționale se fac după Ignat?", a: "Din carnea de porc se prepară specialități precum tobă, caltaboș, lebăr, cârnați și faimoasa \"pomană a porcului\"." },
       { q: "Există superstiții legate de ziua de Ignat?", a: "Se crede că în această zi nu este bine să se lucreze nimic altceva în afară de tăierea porcului, pentru a nu atrage ghinionul asupra gospodăriei." },
   ],
   },
@@ -7517,7 +7517,7 @@ export const roFaq: CountryFaqMap = {
       { q: "Ce se sărbătorește de ziua Mucenicilor?", a: "Pe data de 9 martie, creștinii ortodocși îi sărbătoresc pe cei 40 de Sfinți Mucenici din Sevastia, moment care marchează și începutul simbolic al anului agricol." },
       { q: "Care este preparatul tradițional gătit de Mucenici?", a: "Se prepară colaci în forma cifrei 8, numiți mucenici (sau sfințișori). Aceștia pot fi copți cu miere și nucă (în Moldova) sau fierți ca o supă cu scorțișoară (în Muntenia)." },
       { q: "Ce tradiție legată de băutură există în această zi?", a: "Conform credinței populare, bărbații trebuie să bea în această zi 40 de pahare de vin, pentru a fi sănătoși și voinici tot anul." },
-      { q: "Ce activități se fac în gospodărie de 9 martie?", a: "În mod tradițional, se curăță grădinile și se face foc în fața casei pentru a „arde iarna” și a lăsa primăvara să vină." },
+      { q: "Ce activități se fac în gospodărie de 9 martie?", a: "În mod tradițional, se curăță grădinile și se face foc în fața casei pentru a \"arde iarna\" și a lăsa primăvara să vină." },
     ],
     de: [
       { q: "Was ist die historische Bedeutung von trad-mucenici?", a: "trad-mucenici ist ein wichtiges kulturelles und geografisches Wahrzeichen." },
@@ -7534,7 +7534,7 @@ export const roFaq: CountryFaqMap = {
   en: [
       { q: "Care este preparatul tradițional gătit de Mucenici?", a: "Se prepară colaci în forma cifrei 8, numiți mucenici (sau sfințișori). Aceștia pot fi copți cu miere și nucă (în Moldova) sau fierți ca o supă cu scorțișoară (în Muntenia)." },
       { q: "Ce tradiție legată de băutură există în această zi?", a: "Conform credinței populare, bărbații trebuie să bea în această zi 40 de pahare de vin, pentru a fi sănătoși și voinici tot anul." },
-      { q: "Ce activități se fac în gospodărie de 9 martie?", a: "În mod tradițional, se curăță grădinile și se face foc în fața casei pentru a „arde iarna” și a lăsa primăvara să vină." },
+      { q: "Ce activități se fac în gospodărie de 9 martie?", a: "În mod tradițional, se curăță grădinile și se face foc în fața casei pentru a \"arde iarna\" și a lăsa primăvara să vină." },
   ],
   },
   "trad-paparudele": {
@@ -7564,10 +7564,10 @@ export const roFaq: CountryFaqMap = {
   },
   "trad-paste": {
     ro: [
-      { q: "Care sunt tradițiile principale de Paște în România?", a: "Printre cele mai importante se numără încondeierea ouălor, participarea la slujba de Înviere pentru a lua „lumină” și masa în familie cu preparate din miel." },
+      { q: "Care sunt tradițiile principale de Paște în România?", a: "Printre cele mai importante se numără încondeierea ouălor, participarea la slujba de Înviere pentru a lua \"lumină\" și masa în familie cu preparate din miel." },
       { q: "Ce simbolizează ouăle roșii de Paște?", a: "Ouăle roșii simbolizează sângele curs de Iisus pe cruce și miracolul Învierii, fiind nelipsite de pe masa de sărbătoare." },
       { q: "Care sunt preparatele culinare specifice de Paște?", a: "Românii pregătesc drob de miel, pască cu brânză dulce și stafide, cozonac pufos și friptură de miel." },
-      { q: "Ce este „ciocnitul ouălor”?", a: "Este un obicei prin care membrii familiei lovesc ouăle fierte spunând „Hristos a Înviat!” și primind răspunsul „Adevărat a Înviat!”, cel a cărui ou nu se sparge fiind considerat cel mai norocos." },
+      { q: "Ce este \"ciocnitul ouălor\"?", a: "Este un obicei prin care membrii familiei lovesc ouăle fierte spunând \"Hristos a Înviat!\" și primind răspunsul \"Adevărat a Înviat!\", cel a cărui ou nu se sparge fiind considerat cel mai norocos." },
     ],
     de: [
       { q: "Was ist die historische Bedeutung von trad-paste?", a: "trad-paste ist ein wichtiges kulturelles und geografisches Wahrzeichen." },
@@ -7584,7 +7584,7 @@ export const roFaq: CountryFaqMap = {
   en: [
       { q: "Ce simbolizează ouăle roșii de Paște?", a: "Ouăle roșii simbolizează sângele curs de Iisus pe cruce și miracolul Învierii, fiind nelipsite de pe masa de sărbătoare." },
       { q: "Care sunt preparatele culinare specifice de Paște?", a: "Românii pregătesc drob de miel, pască cu brânză dulce și stafide, cozonac pufos și friptură de miel." },
-      { q: "Ce este „ciocnitul ouălor”?", a: "Este un obicei prin care membrii familiei lovesc ouăle fierte spunând „Hristos a Înviat!” și primind răspunsul „Adevărat a Înviat!”, cel a cărui ou nu se sparge fiind considerat cel mai norocos." },
+      { q: "Ce este \"ciocnitul ouălor\"?", a: "Este un obicei prin care membrii familiei lovesc ouăle fierte spunând \"Hristos a Înviat!\" și primind răspunsul \"Adevărat a Înviat!\", cel a cărui ou nu se sparge fiind considerat cel mai norocos." },
   ],
   },
   "trad-sanzaiene": {
@@ -7640,7 +7640,7 @@ export const roFaq: CountryFaqMap = {
   "wild-cocosul-de-munte": {
     ro: [
       { q: "Unde trăiește cocoșul de munte în România?", a: "Această pasăre rară preferă pădurile de conifere bătrâne și liniștite din zonele înalte ale Carpaților." },
-      { q: "Ce este „rotitul” cocoșului de munte?", a: "Rotitul este un ritual spectaculos de împerechere care are loc primăvara devreme, când masculii scot sunete specifice și își etalează penajul pentru a atrage femelele." },
+      { q: "Ce este \"rotitul\" cocoșului de munte?", a: "Rotitul este un ritual spectaculos de împerechere care are loc primăvara devreme, când masculii scot sunete specifice și își etalează penajul pentru a atrage femelele." },
       { q: "De ce este considerat un simbol al sălbăticiei?", a: "Este o pasăre extrem de timidă și precaută, prezența ei fiind un semn al integrității și sănătății ecosistemelor forestiere montane." },
       { q: "Cum arată masculul față de femelă?", a: "Masculul este mult mai mare, are un penaj negru-verzui strălucitor și o coadă în formă de evantai, în timp ce femela este mai mică și are culori de camuflaj." },
     ],
@@ -7657,7 +7657,7 @@ export const roFaq: CountryFaqMap = {
       { q: "Melyik a legjobb évszak a látogatásra?", a: "A hely egész évben vonzó, de különösen tavasszal és nyáron." },
     ],
   en: [
-      { q: "Ce este „rotitul” cocoșului de munte?", a: "Rotitul este un ritual spectaculos de împerechere care are loc primăvara devreme, când masculii scot sunete specifice și își etalează penajul pentru a atrage femelele." },
+      { q: "Ce este \"rotitul\" cocoșului de munte?", a: "Rotitul este un ritual spectaculos de împerechere care are loc primăvara devreme, când masculii scot sunete specifice și își etalează penajul pentru a atrage femelele." },
       { q: "De ce este considerat un simbol al sălbăticiei?", a: "Este o pasăre extrem de timidă și precaută, prezența ei fiind un semn al integrității și sănătății ecosistemelor forestiere montane." },
       { q: "Cum arată masculul față de femelă?", a: "Masculul este mult mai mare, are un penaj negru-verzui strălucitor și o coadă în formă de evantai, în timp ce femela este mai mică și are culori de camuflaj." },
   ],
@@ -7666,7 +7666,7 @@ export const roFaq: CountryFaqMap = {
     ro: [
       { q: "Câți lupi trăiesc în pădurile României?", a: "România are una dintre cele mai mari populații de lupi din Europa, estimată la aproximativ 2500 - 3000 de exemplare." },
       { q: "Cum este organizată viața lupilor?", a: "Lupii sunt animale extrem de sociale care trăiesc în haite cu o ierarhie strictă, conduse de o pereche alfa." },
-      { q: "Care este rolul lupului în ecosistem?", a: "Lupul este considerat „sanitarul pădurii”, deoarece vânează în special animalele bolnave sau bătrâne, menținând echilibrul natural al populațiilor de erbivore." },
+      { q: "Care este rolul lupului în ecosistem?", a: "Lupul este considerat \"sanitarul pădurii\", deoarece vânează în special animalele bolnave sau bătrâne, menținând echilibrul natural al populațiilor de erbivore." },
       { q: "De ce urlă lupii?", a: "Urletul este un mijloc complex de comunicare folosit pentru a marca teritoriul, pentru a aduna haita sau pentru a întări legăturile sociale dintre membrii grupului." },
     ],
     de: [
@@ -7683,14 +7683,14 @@ export const roFaq: CountryFaqMap = {
     ],
   en: [
       { q: "Cum este organizată viața lupilor?", a: "Lupii sunt animale extrem de sociale care trăiesc în haite cu o ierarhie strictă, conduse de o pereche alfa." },
-      { q: "Care este rolul lupului în ecosistem?", a: "Lupul este considerat „sanitarul pădurii”, deoarece vânează în special animalele bolnave sau bătrâne, menținând echilibrul natural al populațiilor de erbivore." },
+      { q: "Care este rolul lupului în ecosistem?", a: "Lupul este considerat \"sanitarul pădurii\", deoarece vânează în special animalele bolnave sau bătrâne, menținând echilibrul natural al populațiilor de erbivore." },
       { q: "De ce urlă lupii?", a: "Urletul este un mijloc complex de comunicare folosit pentru a marca teritoriul, pentru a aduna haita sau pentru a întări legăturile sociale dintre membrii grupului." },
   ],
   },
   "wild-marmota": {
     ro: [
       { q: "Unde pot fi văzute marmotele în România?", a: "Marmotele trăiesc în zonele înalte din Munții Retezat, Făgăraș și Rodnei, în pajiștile alpine presărate cu stânci." },
-      { q: "Cum se protejează marmotele de prădători?", a: "Ele au un sistem de pază foarte eficient; când un pericol este detectat, „străjerul” emite un fluierat ascuțit, avertizând restul coloniei să se ascundă în galerii." },
+      { q: "Cum se protejează marmotele de prădători?", a: "Ele au un sistem de pază foarte eficient; când un pericol este detectat, \"străjerul\" emite un fluierat ascuțit, avertizând restul coloniei să se ascundă în galerii." },
       { q: "Cât durează perioada de hibernare a marmotei?", a: "Marmotele hibernează aproximativ 6-7 luni pe an, din toamnă până în primăvara târzie, retrăgându-se în galerii subterane adânci." },
       { q: "Sunt marmotele specii native în toți munții României?", a: "Marmota alpină a fost reintrodusă în Carpații Românești în anii '70, după ce dispăruse complet din fauna noastră în secolul al XIX-lea." },
     ],
@@ -7707,7 +7707,7 @@ export const roFaq: CountryFaqMap = {
       { q: "Melyik a legjobb évszak a látogatásra?", a: "A hely egész évben vonzó, de különösen tavasszal és nyáron." },
     ],
   en: [
-      { q: "Cum se protejează marmotele de prădători?", a: "Ele au un sistem de pază foarte eficient; când un pericol este detectat, „străjerul” emite un fluierat ascuțit, avertizând restul coloniei să se ascundă în galerii." },
+      { q: "Cum se protejează marmotele de prădători?", a: "Ele au un sistem de pază foarte eficient; când un pericol este detectat, \"străjerul\" emite un fluierat ascuțit, avertizând restul coloniei să se ascundă în galerii." },
       { q: "Cât durează perioada de hibernare a marmotei?", a: "Marmotele hibernează aproximativ 6-7 luni pe an, din toamnă până în primăvara târzie, retrăgându-se în galerii subterane adânci." },
       { q: "Sunt marmotele specii native în toți munții României?", a: "Marmota alpină a fost reintrodusă în Carpații Românești în anii '70, după ce dispăruse complet din fauna noastră în secolul al XIX-lea." },
   ],
@@ -7739,7 +7739,7 @@ export const roFaq: CountryFaqMap = {
   },
   "wild-rasul": {
     ro: [
-      { q: "Ce este râsul și de ce este numit „pantera Carpaților”?", a: "Râsul este cea mai mare felină din Europa, fiind numit astfel datorită agilității sale și a abilităților remarcabile de vânător în mediul montan." },
+      { q: "Ce este râsul și de ce este numit \"pantera Carpaților\"?", a: "Râsul este cea mai mare felină din Europa, fiind numit astfel datorită agilității sale și a abilităților remarcabile de vânător în mediul montan." },
       { q: "Cum arată un râs carpatin?", a: "Are o blană groasă cu pete, picioare lungi și puternice și trăsătura sa distinctivă: ciuful de peri negri din vârful urechilor." },
       { q: "Cât de greu este de observat un râs în sălbăticie?", a: "Râsul este un animal extrem de discret și solitar, fiind foarte rar văzut de oameni, activând în special la amurg și în timpul nopții." },
       { q: "Unde trăiește râsul în România?", a: "Preferă pădurile întinse și accidentate din Carpați, unde poate găsi hrană (căprioare, iepuri) și adăpost sigur." },
@@ -7764,7 +7764,7 @@ export const roFaq: CountryFaqMap = {
   },
   "wild-sturionul": {
     ro: [
-      { q: "Care este importanța sturionilor în Dunăre?", a: "Sturionii sunt considerați „fosile vii”, supraviețuind din timpul dinozaurilor. Dunărea este unul dintre ultimele locuri din lume unde aceștia se mai reproduc natural." },
+      { q: "Care este importanța sturionilor în Dunăre?", a: "Sturionii sunt considerați \"fosile vii\", supraviețuind din timpul dinozaurilor. Dunărea este unul dintre ultimele locuri din lume unde aceștia se mai reproduc natural." },
       { q: "Ce specii de sturioni se găsesc în România?", a: "Cele mai cunoscute specii sunt morunul (cel mai mare), nisetrul, păstruga și cega." },
       { q: "De ce sunt sturionii amenințați cu dispariția?", a: "Principalele amenințări sunt pescuitul ilegal pentru caviar, poluarea apelor și barajele care le blochează traseele de migrație." },
       { q: "Cât de mare poate ajunge un morun?", a: "Morunul este un pește gigant, putând ajunge la lungimi de peste 5 metri și greutăți de peste o tonă, trăind peste 100 de ani." },

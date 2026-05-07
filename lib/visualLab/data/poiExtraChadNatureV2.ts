@@ -12,7 +12,7 @@ export const poiExtraChadNatureV2: POI[] = [
       hu: "Csád-tó",
       ro: "Lacul Ciad",
       en: "Lake Chad"
-    ,
+    },
     descriptionAdvanced: {
       de: "Der Tschadsee ist ein ökologisches Wunderwerk im Herzen der Sahelzone, dessen Ausdehnung sich jahreszeitlich dramatisch verändert. Einst war er Teil des gewaltigen 'Mega-Tschad'-Beckens und bildet heute die wichtigste Süßwasserquelle für Millionen Menschen in einem ariden Umfeld. Die flachen Uferzonen des Sees beherbergen eine einzigartige Biodiversität, darunter zahlreiche Zugvogelarten, die den See als Rastplatz auf ihrer weiten Reise nutzen. Die ökologische Stabilität des Tschadsees ist für das soziale und wirtschaftliche Gefüge von vier Anrainerstaaten von existenzieller Bedeutung. Geografie K7 — Feuchtgebiete und ihre Bedeutung.",
       hu: "A(z) lake-chad-nature-v2 település a régió egyik meghatározó központja, amely a helyi gazdasági és társadalmi életben játszik kulcsszerepet. A környék földrajzi adottságai és a közösség hagyományai együttesen formálják a város fejlődését, amely nélkülözhetetlen a régió közigazgatása és az áruforgalom szempontjából. Földrajz K5 — Régiók és települések.",
@@ -26,8 +26,7 @@ export const poiExtraChadNatureV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Wichtigste Süßwasserquelle der gesamten Sahelregion", "Historisches Relikt des gewaltigen Mega-Tschad-Beckens", "Extrem flacher See mit hoher saisonaler Dynamik", "Essenzielles Rastgebiet für tausende Zugvögel", "Wirtschaftliche Lebensgrundlage für vier Anrainerstaaten", "Einzigartiges Ökosystem mit hoher Biodiversität"]
-    }
-  },
+    },
     description: {
       de: "Ein historisch bedeutender, flacher See am Rande der Sahara.",
       hu: "Történelmileg jelentős, sekély tó a Szahara szélén.",
@@ -50,7 +49,7 @@ export const poiExtraChadNatureV2: POI[] = [
       hu: "Chari",
       ro: "Râul Chari",
       en: "Chari River"
-    ,
+    },
     descriptionAdvanced: {
       de: "Der Schari ist die Lebensader des Tschad und ein mächtiger Strom, der den Großteil des Wassers in den Tschadsee befördert. Von seinem Quellgebiet bis zur Einmündung in den Tschadsee durchfließt er vielfältige Landschaften und unterstützt als zentrales Transport- und Fischerei-Adernetz die wirtschaftliche Entwicklung des Landes. Die saisonalen Hochwasserstände des Schari sind ein entscheidender Faktor für die Landwirtschaft, da sie fruchtbare Auen schaffen und die Bewässerung ermöglichen. Seine ökologische Rolle als Lebensraum für zahlreiche Spezies ist in einem trockenen Kontinent von unschätzbarem Wert. Geografie K6 — Hydrologie.",
       hu: "A(z) chari-river-nature-v2 település a régió egyik meghatározó központja, amely a helyi gazdasági és társadalmi életben játszik kulcsszerepet. A környék földrajzi adottságai és a közösség hagyományai együttesen formálják a város fejlődését, amely nélkülözhetetlen a régió közigazgatása és az áruforgalom szempontjából. Földrajz K5 — Régiók és települések.",
@@ -64,8 +63,7 @@ export const poiExtraChadNatureV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Hauptzufluss des Tschadsees mit 90% Wassereintrag", "Etwa 1.400 Kilometer langer Strom durch Zentralafrika", "Zentraler Faktor für Bewässerungslandwirtschaft im Tschad", "Wichtige Lebensader für den Binnenhandel und Transport", "Saisonale Hochwasserzyklen formen fruchtbare Auen", "Essenzielles Ökosystem für aquatische Fauna"]
-    }
-  },
+    },
     description: {
       de: "Der Hauptzufluss des Tschadsees, der durch die Hauptstadt fließt.",
       hu: "A Csád-tó fő mellékfolyója, amely a fővároson is keresztülfolyik.",
@@ -88,7 +86,7 @@ export const poiExtraChadNatureV2: POI[] = [
       hu: "Logone",
       ro: "Râul Logone",
       en: "Logone River"
-    ,
+    },
     descriptionAdvanced: {
       de: "Der Logone-Fluss ist ein wesentlicher Strom im Südwesten, der die natürliche Grenze zu Kamerun markiert und maßgeblich zur ökologischen Vielfalt der Region beiträgt. Durch seine periodischen Überflutungen schafft er ausgedehnte Feuchtgebiete, die als wichtige Brut- und Nahrungsstätten für Vögel und aquatische Wildtiere dienen. Das Flussbecken des Logone ist ein wirtschaftlicher Kernbereich des Tschad, in dem Reisbau und Fischerei florieren. Die ökologische Vernetzung mit dem Schari-Fluss macht den Logone zu einem strategisch wichtigen Wasserlauf für das gesamte Ökosystem der Region. Geografie K6 — Flussökosysteme.",
       hu: "A(z) logone-river-nature-v2 település a régió egyik meghatározó központja, amely a helyi gazdasági és társadalmi életben játszik kulcsszerepet. A környék földrajzi adottságai és a közösség hagyományai együttesen formálják a város fejlődését, amely nélkülözhetetlen a régió közigazgatása és az áruforgalom szempontjából. Földrajz K5 — Régiók és települések.",
@@ -102,8 +100,7 @@ export const poiExtraChadNatureV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Natürliche Grenzlinie zwischen Tschad und Kamerun", "Schafft durch Überflutungen weitreichende Feuchtgebiete", "Wichtiger Lebensraum für eine Vielzahl aquatischer Arten", "Zentrum für bedeutenden Reisbau und Fischerei", "Hydrologisch eng mit dem Schari-Flusssystem vernetzt", "Strukturgebendes Element der Landschaft im Südwesten"]
-    }
-  },
+    },
     description: {
       de: "Ein bedeutender Fluss im Südwesten, der die Grenze zu Kamerun bildet.",
       hu: "Jelentős folyó délnyugaton, amely Kamerunnal alkot határt.",
@@ -126,7 +123,7 @@ export const poiExtraChadNatureV2: POI[] = [
       hu: "Emi Koussi",
       ro: "Emi Koussi",
       en: "Emi Koussi"
-    ,
+    },
     descriptionAdvanced: {
       de: "Der Emi Koussi ist der höchste Gipfel der Sahara und ein majestätisches Monument vulkanischer Aktivität im Tibesti-Gebirge. Die markanten Lavaströme und die riesigen Krater des erloschenen Vulkans zeugen von der gewaltigen geologischen Energie, die diese Region einst geformt hat. Inmitten der steinernen Wüste ist der Gipfel eine Herausforderung für Expeditionen und ein wichtiger Ort für die geologische Erforschung. Die karge Schönheit und die monumentale Höhe von 3.415 Metern machen den Emi Koussi zu einem der beeindruckendsten Ziele der gesamten Sahara-Region. Geografie K8 — Vulkanismus.",
       hu: "A(z) emi-koussi-nature-v2 település a régió egyik meghatározó központja, amely a helyi gazdasági és társadalmi életben játszik kulcsszerepet. A környék földrajzi adottságai és a közösség hagyományai együttesen formálják a város fejlődését, amely nélkülözhetetlen a régió közigazgatása és az áruforgalom szempontjából. Földrajz K5 — Régiók és települések.",
@@ -140,8 +137,7 @@ export const poiExtraChadNatureV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Höchster Gipfel der gesamten Sahara-Wüste", "Gigantisches vulkanisches Massiv im Tibesti", "Besitzt zwei beeindruckende, tiefgelegene Krater", "Geologisch faszinierende Lavafelder und Gesteinsformationen", "Ein herausforderndes Ziel für geologische Expeditionen", "Monumentales Zeugnis prähistorischer vulkanischer Aktivität"]
-    }
-  },
+    },
     description: {
       de: "Ein erloschener Vulkan und der höchste Gipfel der Sahara.",
       hu: "Egy kialudt tűzhányó és a Szahara legmagasabb csúcsa.",
@@ -164,7 +160,7 @@ export const poiExtraChadNatureV2: POI[] = [
       hu: "Tibeszti-hegység",
       ro: "Munții Tibesti",
       en: "Tibesti Mountains"
-    ,
+    },
     descriptionAdvanced: {
       de: "Das Tibesti-Gebirge ist ein raues, vulkanisch geprägtes Hochland im Norden des Tschad, das die Sahara dominiert. Die Region ist die Heimat der Toubou-Nomaden, die sich an das harte Klima und die karge Umgebung perfekt angepasst haben. Überall finden sich hier Zeugnisse vergangener Epochen, wie etwa prähistorische Felsmalereien, die auf eine einst grünere Vergangenheit der Wüste hinweisen. Das Tibesti ist ein Ort der Extreme, an dem sich Geologie und Kultur in einer einzigartigen Weise begegnen und ein unvergessliches Bild der Nordwüste zeichnen. Geografie K9 — Gebirgsökosysteme.",
       hu: "A(z) tibesti-mountains-nature-v2 település a régió egyik meghatározó központja, amely a helyi gazdasági és társadalmi életben játszik kulcsszerepet. A környék földrajzi adottságai és a közösség hagyományai együttesen formálják a város fejlődését, amely nélkülözhetetlen a régió közigazgatása és az áruforgalom szempontjából. Földrajz K5 — Régiók és települések.",
@@ -178,8 +174,7 @@ export const poiExtraChadNatureV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Gewaltiges vulkanisches Massiv in der Nord-Sahara", "Höchste und abgelegenste Bergregion der Sahara", "Traditionelle Heimat der Toubou-Nomaden", "Fundort zahlreicher prähistorischer Felsmalereien", "Extrem trockenes und lebensfeindliches Klima", "Einzigartige Symbiose aus Geologie und nomadischer Kultur"]
-    }
-  },
+    },
     description: {
       de: "Ein gewaltiges Gebirgsmassiv vulkanischen Ursprungs im Norden des Tschad.",
       hu: "Hatalmas vulkáni eredetű hegység Csád északi részén.",
@@ -202,7 +197,7 @@ export const poiExtraChadNatureV2: POI[] = [
       hu: "Ennedi-fennsík",
       ro: "Podișul Ennedi",
       en: "Ennedi Plateau"
-    ,
+    },
     descriptionAdvanced: {
       de: "Das Ennedi-Massiv ist eine der spektakulärsten Sandsteinlandschaften der Erde und ein UNESCO-Welterbe der Natur. Die Kombination aus massiven natürlichen Sandsteinbögen, hohen Türmen und versteckten Gueltas macht es zu einem geologischen Meisterwerk. Das Plateau ist ein Refugium für seltene Tierarten, darunter die letzten Wüstenkrokodile, die in den abgelegenen Felsschluchten überleben konnten. Die prähistorische Kunst in den Höhlen von Ennedi ergänzt das Naturerlebnis und erzählt von der frühen Besiedlung der Region. Geografie K7 — UNESCO-Welterbe.",
       hu: "A(z) ennedi-plateau-nature-v2 település a régió egyik meghatározó központja, amely a helyi gazdasági és társadalmi életben játszik kulcsszerepet. A környék földrajzi adottságai és a közösség hagyományai együttesen formálják a város fejlődését, amely nélkülözhetetlen a régió közigazgatása és az áruforgalom szempontjából. Földrajz K5 — Régiók és települések.",
@@ -216,8 +211,7 @@ export const poiExtraChadNatureV2: POI[] = [
     },
     factsAdvanced: {
       de: ["UNESCO-Welterbe für seine Sandsteinformationen", "Heimat beeindruckender natürlicher Felsbögen und Türme", "Refugium für seltene Wüstenkrokodile", "Reichhaltige prähistorische Kunst in Felsgrotten", "Geologische Meisterleistung durch Erosion", "Einzigartige Kombination aus Kultur- und Naturerbe"]
-    }
-  },
+    },
     description: {
       de: "Eine spektakuläre Sandsteinlandschaft mit natürlichen Bögen und Türmen.",
       hu: "Látványos homokkő táj természetes boltívekkel és tornyokkal.",
@@ -240,7 +234,7 @@ export const poiExtraChadNatureV2: POI[] = [
       hu: "Fitri-tó",
       ro: "Lacul Fitri",
       en: "Lake Fitri"
-    ,
+    },
     descriptionAdvanced: {
       de: "Der Fitri-See ist ein bedeutendes Süßwasser-Refugium in Zentral-Tschad und ein geschütztes Ramsar-Gebiet. Er stellt einen Überrest der gewaltigen historischen Wasserstände des Mega-Tschad dar und fungiert als Lebensader für die lokale Bevölkerung, insbesondere in der Viehzucht. Die Feuchtgebiete rund um den See bieten einer reichhaltigen Fisch- und Vogelwelt einen Rückzugsort in einer trockenen Umgebung. Durch die saisonale Dynamik des Wasserspiegels bleibt das Ökosystem lebendig und ist für die Region von immenser Bedeutung für die Ernährungssicherheit. Geografie K6 — Ramsar-Gebiete.",
       hu: "A(z) lake-fitri-nature-v2 település a régió egyik meghatározó központja, amely a helyi gazdasági és társadalmi életben játszik kulcsszerepet. A környék földrajzi adottságai és a közösség hagyományai együttesen formálják a város fejlődését, amely nélkülözhetetlen a régió közigazgatása és az áruforgalom szempontjából. Földrajz K5 — Régiók és települések.",
@@ -254,8 +248,7 @@ export const poiExtraChadNatureV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Wichtiger Süßwasser-See und geschütztes Ramsar-Gebiet", "Relikt des Mega-Tschad-Systems", "Essenziell für die lokale Viehzucht und Fischerei", "Lebensader in der ariden zentralen Region", "Reichhaltige Vogel- und Fischfauna", "Stark durch saisonale Dynamik geprägtes Ökosystem"]
-    }
-  },
+    },
     description: {
       de: "Ein wichtiger Süßwassersee in der Mitte des Landes, ein Ramsar-Gebiet.",
       hu: "Fontos édesvizű tó az ország közepén, Ramsari terület.",
@@ -278,7 +271,7 @@ export const poiExtraChadNatureV2: POI[] = [
       hu: "Iro-tó",
       ro: "Lacul Iro",
       en: "Lake Iro"
-    ,
+    },
     descriptionAdvanced: {
       de: "Der Iro-See ist ein geologisches Rätsel im Süden, das aufgrund seiner fast kreisrunden Form wahrscheinlich als Einschlagkrater entstanden ist. Inmitten der südlichen Savanne bildet er ein abgeschiedenes und ökologisch hochinteressantes Gewässer. Die Verbindung zum Bahr Salamat während der Regenzeit sorgt für einen ständigen Austausch von Fauna und Nährstoffen, was die Fischdichte des Sees außergewöhnlich macht. Der Iro-See ist ein wichtiger Wirtschaftsfaktor für die lokalen Fischer und ein landschaftliches Highlight für die Region. Geografie K8 — Meteoritenkrater.",
       hu: "A(z) lake-iro-nature-v2 település a régió egyik meghatározó központja, amely a helyi gazdasági és társadalmi életben játszik kulcsszerepet. A környék földrajzi adottságai és a közösség hagyományai együttesen formálják a város fejlődését, amely nélkülözhetetlen a régió közigazgatása és az áruforgalom szempontjából. Földrajz K5 — Régiók és települések.",
@@ -292,8 +285,7 @@ export const poiExtraChadNatureV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Fast kreisrunder See, wahrscheinlich ein Einschlagkrater", "Reiche Fischbestände dank saisonaler Wasserzufuhr", "Essenziell für die Fischereiwirtschaft im Süden", "Geografisches und geologisches Rätsel der Region", "Ökologische Vernetzung mit dem Bahr Salamat-System", "Landschaftliches Highlight in der Savannenzone"]
-    }
-  },
+    },
     description: {
       de: "Ein kleiner, fast kreisrunder See im Süden, wahrscheinlich ein Einschlagkrater.",
       hu: "Kicsi, majdnem kör alakú tó délen, valószínűleg becsapódási kráter.",
@@ -316,7 +308,7 @@ export const poiExtraChadNatureV2: POI[] = [
       hu: "Ounianga-tavak",
       ro: "Lacurile Ounianga",
       en: "Lakes of Ounianga"
-    ,
+    },
     descriptionAdvanced: {
       de: "Die Seen von Ounianga bilden ein atemberaubendes UNESCO-Welterbe aus 18 einzelnen Seen inmitten der Sahara, die durch ihr leuchtendes Blau bestechen. Diese Seen überleben in einer der trockensten Umgebungen der Welt, da sie durch unterirdische fossile Grundwasserreserven gespeist werden. Die Vielfalt zwischen Süß- und Salzwasserseen innerhalb einer so dichten Gruppe ist weltweit einzigartig. Ounianga ist ein lebendiges Zeugnis für die feuchteren Klimazeiten der Sahara-Geschichte und eine oasenhafte Lebensinsel, die Forscher und Besucher weltweit fasziniert. Geografie K7 — Fossiles Grundwasser.",
       hu: "A(z) ounianga-lakes-nature-v2 település a régió egyik meghatározó központja, amely a helyi gazdasági és társadalmi életben játszik kulcsszerepet. A környék földrajzi adottságai és a közösség hagyományai együttesen formálják a város fejlődését, amely nélkülözhetetlen a régió közigazgatása és az áruforgalom szempontjából. Földrajz K5 — Régiók és települések.",
@@ -330,8 +322,7 @@ export const poiExtraChadNatureV2: POI[] = [
     },
     factsAdvanced: {
       de: ["UNESCO-Welterbe aus 18 Seen in der Sahara", "Speisung durch unterirdische fossile Aquifere", "Einzigartige Vielfalt von Süß- und Salzwasserseen", "Faszinierende oasenhafte Wasserlandschaft", "Relikt einer feuchteren Klimaphase der Sahara", "Ökologisches Wunder inmitten der Wüste"]
-    }
-  },
+    },
     description: {
       de: "Eine Gruppe von 18 Seen in der Wüste, ein UNESCO-Weltnaturerbe.",
       hu: "18 tóból álló csoport a sivatagban, UNESCO világörökségi helyszín.",
@@ -354,7 +345,7 @@ export const poiExtraChadNatureV2: POI[] = [
       hu: "Katam-tó",
       ro: "Lacul Katam",
       en: "Lake Katam"
-    ,
+    },
     descriptionAdvanced: {
       de: "Der Katam-See ist eines der farbenfrohesten Gewässer innerhalb der Ounianga-Seenplatte und ein visuelles Highlight. Seine lebendigen Kontraste zwischen der Wasserfläche, den umgebenden Sanddünen und der Schilfvegetation bieten einen beeindruckenden Ausblick. Als ganzjährig wasserführendes Becken dient er als wichtige ökologische Nische in einer ansonsten lebensfeindlichen Wüstenlandschaft. Die Einzigartigkeit des Katam-Sees liegt in seiner Fähigkeit, trotz der extremen Verdunstung beständig Wasser zu halten und eine lebendige Ufervegetation zu stützen. Geografie K6 — Oasenökologie.",
       hu: "A(z) lake-katam-nature-v2 település a régió egyik meghatározó központja, amely a helyi gazdasági és társadalmi életben játszik kulcsszerepet. A környék földrajzi adottságai és a közösség hagyományai együttesen formálják a város fejlődését, amely nélkülözhetetlen a régió közigazgatása és az áruforgalom szempontjából. Földrajz K5 — Régiók és települések.",
@@ -368,8 +359,7 @@ export const poiExtraChadNatureV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Einer der farbenprächtigsten Seen der Ounianga-Gruppe", "Ganzjährig wasserführende Oase inmitten von Dünen", "Lebendige Ufervegetation als Kontrast zur Wüste", "Wichtige ökologische Nische für Wüstenbewohner", "Visuelles Highlight durch starke Kontraste", "Resilient gegenüber extremer Verdunstung"]
-    }
-  },
+    },
     description: {
       de: "Einer der malerischsten Seen der Ounianga-Gruppe, bekannt für seine Farben.",
       hu: "Az Ounianga-csoport egyik legfestőibb tava, színeiről ismert.",
@@ -392,7 +382,7 @@ export const poiExtraChadNatureV2: POI[] = [
       hu: "Guelta d'Archei",
       ro: "Guelta d'Archei",
       en: "Guelta d'Archei"
-    ,
+    },
     descriptionAdvanced: {
       de: "Die Guelta d'Archei ist eine legendäre Schlucht im Ennedi-Massiv und gilt als einer der dramatischsten Orte der Sahara. Hier, in den schattigen Felsschluchten, überleben noch heute seltene Wüstenkrokodile, die ein Relikt einer längst vergangenen Zeit darstellen. Die Guelta dient seit Jahrhunderten Nomaden als entscheidende Tränke für ihre Kamelkarawanen, die auf den Handelsrouten durch die Wüste ziehen. Die hohen Sandsteinwände und das dunkle Wasser erzeugen eine Atmosphäre, die die Geschichte und Geheimnisse der Sahara spürbar macht. Geografie K7 — Ökosysteme in der Wüste.",
       hu: "A(z) guelta-archei-nature-v2 település a régió egyik meghatározó központja, amely a helyi gazdasági és társadalmi életben játszik kulcsszerepet. A környék földrajzi adottságai és a közösség hagyományai együttesen formálják a város fejlődését, amely nélkülözhetetlen a régió közigazgatása és az áruforgalom szempontjából. Földrajz K5 — Régiók és települések.",
@@ -406,8 +396,7 @@ export const poiExtraChadNatureV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Legendäre Schlucht und Wasserstelle im Ennedi", "Letztes Rückzugsort für seltene Wüstenkrokodile", "Essenzielle Tränkestelle für Karawanen", "Dramatische Sandsteinkulisse mit tiefem Wasser", "Symbol für die Geheimnisse und Geschichte der Sahara", "Isolation sorgt für ein einzigartiges Ökosystem"]
-    }
-  },
+    },
     description: {
       de: "Einer der bekanntesten Guelta-Wasserlöcher in der Sahara, im Ennedi-Massiv.",
       hu: "A Szahara egyik legismertebb sziklamedencéje az Ennedi-hegységben.",
@@ -430,7 +419,7 @@ export const poiExtraChadNatureV2: POI[] = [
       hu: "Bahr Salamat",
       ro: "Bahr Salamat",
       en: "Bahr Salamat"
-    ,
+    },
     descriptionAdvanced: {
       de: "Der Bahr Salamat ist der Lebensnerv für das Ökosystem des Zakouma-Nationalparks und eine entscheidende saisonale Wasserader. Mit seinen weitreichenden Überschwemmungsgebieten schafft er ideale Bedingungen für die Tierwelt, die in den trockeneren Monaten in dieser Region Schutz findet. Die saisonalen Wasserbewegungen des Bahr Salamat sind das Fundament für die Artenvielfalt von Zakouma, da sie für Nahrung und Tränke sorgen. Die Auenlandschaften des Salamat sind ein essentielles Beispiel für das Zusammenspiel zwischen Flussdynamik und Wildlife-Management. Geografie K6 — Savannenökosysteme.",
       hu: "A(z) bahr-salamat-nature-v2 település a régió egyik meghatározó központja, amely a helyi gazdasági és társadalmi életben játszik kulcsszerepet. A környék földrajzi adottságai és a közösség hagyományai együttesen formálják a város fejlődését, amely nélkülözhetetlen a régió közigazgatása és az áruforgalom szempontjából. Földrajz K5 — Régiók és települések.",
@@ -444,8 +433,7 @@ export const poiExtraChadNatureV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Lebensader für den Zakouma-Nationalpark", "Saisonale Wasserader mit großer Bedeutung für Wildtiere", "Formt ausgedehnte Auen mit hoher Produktivität", "Fundament für die Artenvielfalt von Zakouma", "Essenziell für die Tränke von Großtieren", "Beispiel für Flussdynamik in Savannen"]
-    }
-  },
+    },
     description: {
       de: "Ein saisonaler Fluss im Südosten, der durch den Zakouma-Nationalpark fließt.",
       hu: "Szezonális folyó délkeleten, amely a Zakouma Nemzeti Parkon folyik át.",
@@ -468,11 +456,11 @@ export const poiExtraChadNatureV2: POI[] = [
       hu: "Bahr Aouk",
       ro: "Bahr Aouk",
       en: "Bahr Aouk"
-    ,
+    },
     descriptionAdvanced: {
       de: "Der Bahr Aouk bildet eine natürliche Grenze und ist ein wasserreicher Strom, der tief durch die entlegenen Feuchtsavannen im Süden fließt. Seine entlegene Lage sorgt dafür, dass die Flussökosysteme hier weitgehend unberührt und in einem natürlichen Zustand geblieben sind. Die Vielfalt an Fischarten und die üppige Ufervegetation machen den Bahr Aouk zu einem wichtigen Puffer für das ökologische Gleichgewicht in dieser Grenzregion. Aufgrund des schwierigen Zugangs ist der Fluss ein Rückzugsort für viele scheue Wildtierarten. Geografie K8 — Unberührte Natur.",
       hu: "A(z) bahr-aouk-nature-v2 település a régió egyik meghatározó központja, amely a helyi gazdasági és társadalmi életben játszik kulcsszerepet. A környék földrajzi adottságai és a közösség hagyományai együttesen formálják a város fejlődését, amely nélkülözhetetlen a régió közigazgatása és az áruforgalom szempontjából. Földrajz K5 — Régiók és települések.",
-      en: "The Bahr Aouk is a major river that forms a significant portion of the border between Chad and the Central African Republic. It feeds into the Chari river basin, providing a vital pathway for water through the savanna woodlands of southern Chad. The river environment is a hub for fishing and is surrounded by dense savanna vegetation that supports a variety of wildlife. Its remote location makes the river basin an important, yet relatively undisturbed, part of Chad’s natural water network. Geography K7 — savanna rivers and border geography."
+      en: "The Bahr Aouk is a major river that forms a significant portion of the border between Chad and the Central African Republic. It feeds into the Chari river basin, providing a vital pathway for water through the savanna woodlands of southern Chad. The river environment is a hub for fishing and is surrounded by dense savanna vegetation that supports a variety of wildlife. Its remote location makes the river basin an important, yet relatively undisturbed, part of Chad's natural water network. Geography K7 — savanna rivers and border geography."
     },
     factsAdvanced: {
       en: ["Forms a major part of the Chad-CAR border.", "A primary tributary feeding the Chari River system.", "Flows through dense savanna woodlands of the south.", "Important region for subsistence fishing and wildlife.", "Water flow is heavily dependent on tropical rainfall.", "Remote landscape characterized by low human density."]
@@ -482,8 +470,7 @@ export const poiExtraChadNatureV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Wichtiger Grenzfluss zwischen Tschad und Zentralafrika", "Wasserreicher Strom durch entlegene Feuchtsavannen", "Weitgehend unberührte und natürliche Flussökosysteme", "Hohe Vielfalt an Fisch- und Pflanzenarten", "Wichtiger ökologischer Puffer für die Grenzregion", "Abgelegener Rückzugsort für seltene Wildtiere"]
-    }
-  },
+    },
     description: {
       de: "Ein Grenzfluss zwischen dem Tschad und der Zentralafrikanischen Republik.",
       hu: "Határfolyó Csád és a Közép-afrikai Köztársaság között.",
@@ -506,7 +493,7 @@ export const poiExtraChadNatureV2: POI[] = [
       hu: "Bahr Keïta",
       ro: "Bahr Keïta",
       en: "Bahr Keïta"
-    ,
+    },
     descriptionAdvanced: {
       de: "Der Bahr Keïta ist ein Nebenfluss im Salamat-Becken, der besonders in der Regenzeit als wichtige Wasserquelle dient. Er unterstützt das komplexe Netz an Wasserläufen, die die südöstlichen Savannen durchziehen. Während der Trockenzeit dient er als Rückzugsort für Viehherden und ist für die nomadische Wirtschaft der Region unersetzlich. Seine Rolle als Wasserader im Salamat-Becken unterstreicht die Abhängigkeit der lokalen Wirtschaft von saisonalen Flussdynamiken. Geografie K6 — Hydrologische Zyklen.",
       hu: "A(z) bahr-keita-nature-v2 település a régió egyik meghatározó központja, amely a helyi gazdasági és társadalmi életben játszik kulcsszerepet. A környék földrajzi adottságai és a közösség hagyományai együttesen formálják a város fejlődését, amely nélkülözhetetlen a régió közigazgatása és az áruforgalom szempontjából. Földrajz K5 — Régiók és települések.",
@@ -520,8 +507,7 @@ export const poiExtraChadNatureV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Wichtiger Nebenfluss im komplexen Salamat-Becken", "Zentral für das Netz der südöstlichen Wasserläufe", "Regenzeit bestimmt den Wasserfluss maßgeblich", "Unerlässlich für die nomadische Viehzucht", "Wasserader für das ökologische Gefüge der Region", "Abhängigkeit lokaler Wirtschaft von saisonalen Dynamiken"]
-    }
-  },
+    },
     description: {
       de: "Ein wichtiger Nebenfluss im Salamat-Becken.",
       hu: "Fontos mellékfolyó a Salamat-medencében.",
@@ -544,7 +530,7 @@ export const poiExtraChadNatureV2: POI[] = [
       hu: "Mayo Kébbi",
       ro: "Mayo Kébbi",
       en: "Mayo Kébbi"
-    ,
+    },
     descriptionAdvanced: {
       de: "Das System des Mayo Kébbi ist ein faszinierendes hydrologisches Netz im Südwesten, das Seen mit dem benachbarten Benue-System verbindet. Bekannt für seine landschaftlichen Wasserfälle, ist dieser Fluss ein Hotspot für Biodiversität und ein Beispiel für die Vernetzung verschiedener Wassersysteme in Zentralafrika. Die saisonalen Schwankungen des Wasserstandes prägen das Leben der Menschen und die lokale Landwirtschaft gleichermaßen. Das Mayo Kébbi ist eine Region, die zeigt, wie ökologische Systeme über Landesgrenzen hinweg interagieren. Geografie K7 — Interaktion der Flusssysteme.",
       hu: "A(z) mayo-kebbi-nature-v2 település a régió egyik meghatározó központja, amely a helyi gazdasági és társadalmi életben játszik kulcsszerepet. A környék földrajzi adottságai és a közösség hagyományai együttesen formálják a város fejlődését, amely nélkülözhetetlen a régió közigazgatása és az áruforgalom szempontjából. Földrajz K5 — Régiók és települések.",
@@ -558,8 +544,7 @@ export const poiExtraChadNatureV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Hydrologisches Netz verbindet Seen und Benue-Fluss", "Bekannt für seine malerischen Wasserfälle", "Hotspot der regionalen Biodiversität", "Vernetzung über Landesgrenzen hinweg", "Starke saisonale Prägung von Leben und Landwirtschaft", "Beispiel für Interaktion verschiedener Flusssysteme"]
-    }
-  },
+    },
     description: {
       de: "Ein Fluss im Südwesten, der den Léré-See entwässert.",
       hu: "Folyó délnyugaton, amely a Léré-tavat csapolja le.",
@@ -582,7 +567,7 @@ export const poiExtraChadNatureV2: POI[] = [
       hu: "Léré-tó",
       ro: "Lacul Léré",
       en: "Lake Léré"
-    ,
+    },
     descriptionAdvanced: {
       de: "Der Léré-See im Südwesten des Tschad ist ein einzigartiges Süßwasser-Refugium, das vor allem für seine Population an afrikanischen Rundschwanzseekühen bekannt ist. In der wasserreichen Umgebung des Mayo-Kebbi ist der See ein Paradies für Vögel und eine entscheidende Ressource für den Fischfang der lokalen Bevölkerung. Die ökologische Bedeutung des Léré-Sees liegt in seiner Fähigkeit, ein dauerhaftes Habitat für seltene aquatische Säugetiere zu bieten, was in dieser Region Seltenheitswert hat. Ein Besuch am See ist ein faszinierender Einblick in eine wasserbetonte Naturlandschaft. Geografie K7 — Aquatische Ökosysteme.",
       hu: "A(z) lake-lere-nature-v2 település a régió egyik meghatározó központja, amely a helyi gazdasági és társadalmi életben játszik kulcsszerepet. A környék földrajzi adottságai és a közösség hagyományai együttesen formálják a város fejlődését, amely nélkülözhetetlen a régió közigazgatása és az áruforgalom szempontjából. Földrajz K5 — Régiók és települések.",
@@ -596,8 +581,7 @@ export const poiExtraChadNatureV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Einzigartiges Refugium für afrikanische Rundschwanzseekühe", "Essenziell für die lokale Fischerei im Südwesten", "Wichtiges Vogelparadies am Seeufer", "Lebenswichtige Ressource für die umliegenden Gemeinschaften", "Stabile ökologische Nische für aquatische Säuger", "Wichtiger Grenzsee zu Kamerun"]
-    }
-  },
+    },
     description: {
       de: "Ein flacher See im Südwesten des Tschad, bekannt für seine Rundschwanzseekühe.",
       hu: "Sekély tó Csád délnyugati részén, lamantinokról ismert.",
@@ -620,7 +604,7 @@ export const poiExtraChadNatureV2: POI[] = [
       hu: "Trené-tó",
       ro: "Lacul Trené",
       en: "Lake Trené"
-    ,
+    },
     descriptionAdvanced: {
       de: "Der Trené-See ist ein idyllischer Nachbar des Léré-Sees, der die wasserreiche Flora des Mayo-Kebbi-Beckens vervollständigt. Mit seinem klaren Wasser und der üppigen Ufervegetation bietet er einen ruhigen Gegenpol zu den geschäftigeren Wasserwegen der Umgebung. Als Teil des Mayo-Kebbi-Ökosystems ist er für die lokale Fischerei und den Erhalt der biologischen Vielfalt unverzichtbar. Die Schönheit des Trené-Sees liegt in seiner Unberührtheit, die ihn zu einem Kleinod der Naturlandschaft im Südwesten des Tschad macht. Geografie K6 — Gewässernetzwerke.",
       hu: "A(z) lake-trene-nature-v2 település a régió egyik meghatározó központja, amely a helyi gazdasági és társadalmi életben játszik kulcsszerepet. A környék földrajzi adottságai és a közösség hagyományai együttesen formálják a város fejlődését, amely nélkülözhetetlen a régió közigazgatása és az áruforgalom szempontjából. Földrajz K5 — Régiók és települések.",
@@ -634,8 +618,7 @@ export const poiExtraChadNatureV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Idyllisches Gewässer im Mayo-Kebbi-Becken", "Üppige Ufervegetation sorgt für hohes ökologisches Potenzial", "Wichtiger Bestandteil der lokalen Fischereiwirtschaft", "Ein Kleinod der unberührten Natur", "Teil der biologischen Vielfalt des Südwestens", "Harmonische Ergänzung zum Léré-See"]
-    }
-  },
+    },
     description: {
       de: "Ein Nachbarsee des Léré-Sees im Mayo-Kebbi-Gebiet.",
       hu: "A Léré-tó szomszédja a Mayo-Kebbi területen.",
@@ -658,7 +641,7 @@ export const poiExtraChadNatureV2: POI[] = [
       hu: "Pic Toussidé",
       ro: "Vârful Toussidé",
       en: "Pic Toussidé"
-    ,
+    },
     descriptionAdvanced: {
       de: "Der Pic Toussidé ist ein markanter, vulkanischer Gipfel im Tibesti-Gebirge, dessen Gestalt die wilde Geologie des Nordens prägt. Als jüngster Vulkan der gesamten Tibesti-Gruppe bietet er Forschern und Abenteurern faszinierende Einblicke in die vulkanische Geschichte der Sahara. Die steilen Gipfelflanken und die aktiven Fumarolen unterstreichen die noch immer vorhandene geologische Energie. Der Anstieg auf den Toussidé wird mit einem spektakulären Blick über das Tibesti-Massiv belohnt. Geografie K9 — Vulkanische Geologie.",
       hu: "A(z) pic-tousside-nature-v2 település a régió egyik meghatározó központja, amely a helyi gazdasági és társadalmi életben játszik kulcsszerepet. A környék földrajzi adottságai és a közösség hagyományai együttesen formálják a város fejlődését, amely nélkülözhetetlen a régió közigazgatása és az áruforgalom szempontjából. Földrajz K5 — Régiók és települések.",
@@ -672,8 +655,7 @@ export const poiExtraChadNatureV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Markanter, junger Vulkankegel im Tibesti", "Prägt die Geologie des nördlichen Hochlands", "Bekannt für seine noch aktiven Fumarolen", "Spektakulärer Blick über das Tibesti-Massiv", "Herausforderndes Ziel für geologische Forschung", "Zeugnis vulkanischer Aktivität in der Sahara"]
-    }
-  },
+    },
     description: {
       de: "Ein markanter Vulkankegel im Tibesti-Gebirge.",
       hu: "Jellegzetes vulkáni kúp a Tibeszti-hegységben.",
@@ -696,7 +678,7 @@ export const poiExtraChadNatureV2: POI[] = [
       hu: "Tarso Voon",
       ro: "Tarso Voon",
       en: "Tarso Voon"
-    ,
+    },
     descriptionAdvanced: {
       de: "Das vulkanische Massiv des Tarso Voon ist ein geologisches Schwergewicht im Tibesti, das für seine weite Kaldera und seine Thermalquellen bekannt ist. Diese heißen Quellen sind ein seltenes Phänomen in der wüstenartigen Umgebung und dienen seit jeher als wichtige Ankerpunkte für Mensch und Tier. Die Basaltströme, die das Massiv umgeben, bilden ein monumentales Landschaftsbild, das die vulkanische Vergangenheit des Tschad dokumentiert. Tarso Voon ist ein Ort, an dem die geologische Geschichte des Tibesti in einer beeindruckenden Weise erlebbar wird. Geografie K8 — Vulkansysteme.",
       hu: "A(z) tarso-voon-nature-v2 település a régió egyik meghatározó központja, amely a helyi gazdasági és társadalmi életben játszik kulcsszerepet. A környék földrajzi adottságai és a közösség hagyományai együttesen formálják a város fejlődését, amely nélkülözhetetlen a régió közigazgatása és az áruforgalom szempontjából. Földrajz K5 — Régiók és települések.",
@@ -710,8 +692,7 @@ export const poiExtraChadNatureV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Großes vulkanisches Massiv mit weiter Kaldera", "Bekannt für seltene Thermalquellen in der Wüste", "Beeindruckende Basaltströme als geologische Zeugen", "Zentraler Baustein des Tibesti-Vulkansystems", "Wichtige Ankerpunkte für Mensch und Tier", "Landschaft aus monumentaler vulkanischer Vergangenheit"]
-    }
-  },
+    },
     description: {
       de: "Ein großes vulkanisches Massiv mit einer weiten Kaldera.",
       hu: "Hatalmas vulkáni masszívum széles kalderával.",
@@ -734,7 +715,7 @@ export const poiExtraChadNatureV2: POI[] = [
       hu: "Tarso Toh",
       ro: "Tarso Toh",
       en: "Tarso Toh"
-    ,
+    },
     descriptionAdvanced: {
       de: "Das Hochland des Tarso Toh ist eine weitläufige vulkanische Ebene, die durch ihre isolierte Lage und ihre besondere Geologie besticht. Die weiten Lavafelder und die zahlreichen Vulkankegel erzeugen eine Mondlandschaft, die in ihrer Art in der zentralen Sahara ihresgleichen sucht. Hier herrscht eine absolute Stille, die nur von den rauen Wüstenwinden unterbrochen wird. Die Abgeschiedenheit von Tarso Toh ist sein besonderes Merkmal, das es für Geologen und Abenteurer zu einem der faszinierendsten Ziele macht. Geografie K8 — Wüstenlandschaften.",
       hu: "A(z) tarso-toh-nature-v2 település a régió egyik meghatározó központja, amely a helyi gazdasági és társadalmi életben játszik kulcsszerepet. A környék földrajzi adottságai és a közösség hagyományai együttesen formálják a város fejlődését, amely nélkülözhetetlen a régió közigazgatása és az áruforgalom szempontjából. Földrajz K5 — Régiók és települések.",
@@ -748,8 +729,7 @@ export const poiExtraChadNatureV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Weitläufiges vulkanisches Hochland im Tibesti", "Landschaft geprägt von Lavaebenen und Vulkankegeln", "Extrem isolierte Lage in der zentralen Sahara", "Geologisch einzigartige Mondlandschaft", "Ort der absoluten Stille", "Faszinierendes Ziel für geologische Entdecker"]
-    }
-  },
+    },
     description: {
       de: "Ein vulkanisches Hochland im nördlichen Tibesti.",
       hu: "Vulkáni fennsík az északi Tibesztiben.",
@@ -772,7 +752,7 @@ export const poiExtraChadNatureV2: POI[] = [
       hu: "Bikku Bitti",
       ro: "Bikku Bitti",
       en: "Bikku Bitti"
-    ,
+    },
     descriptionAdvanced: {
       hu: "A(z) bikku-bitti-nature-v2 település a régió egyik meghatározó központja, amely a helyi gazdasági és társadalmi életben játszik kulcsszerepet. A környék földrajzi adottságai és a közösség hagyományai együttesen formálják a város fejlődését, amely nélkülözhetetlen a régió közigazgatása és az áruforgalom szempontjából. Földrajz K5 — Régiók és települések.",
       en: "Bikku Bitti is a remote, extremely rugged mountain range located in the heart of the Sahara Desert within Chad. It is famous for being one of the least accessible and most untouched geological sites in Africa. The range consists of jagged sandstone formations and hidden valleys that provide a sanctuary for desert-adapted flora. It remains a frontier for explorers and geologists interested in the pristine desert landscape that has remained virtually unchanged for millennia. Geography K8 — desert topography."
@@ -782,8 +762,7 @@ export const poiExtraChadNatureV2: POI[] = [
     },
     factsAdvanced: {
       hu: ["Fontos regionális központ", "Mezőgazdasági csomópont", "Közigazgatási szerep", "Hagyományos közösségi élet", "Kulcsfontosságú áruforgalom", "A régió meghatározó települése"]
-    }
-  },
+    },
     description: {
       de: "Der höchste Berg Libyens, der direkt an der Grenze zum Tschad liegt.",
       hu: "Líbia legmagasabb hegye, közvetlenül a csádi határon.",
@@ -806,7 +785,7 @@ export const poiExtraChadNatureV2: POI[] = [
       hu: "Mandara-hegység",
       ro: "Munții Mandara",
       en: "Mandara Mountains"
-    ,
+    },
     descriptionAdvanced: {
       hu: "A(z) mandara-mountains-nature-v2 település a régió egyik meghatározó központja, amely a helyi gazdasági és társadalmi életben játszik kulcsszerepet. A környék földrajzi adottságai és a közösség hagyományai együttesen formálják a város fejlődését, amely nélkülözhetetlen a régió közigazgatása és az áruforgalom szempontjából. Földrajz K5 — Régiók és települések.",
       en: "The Mandara Mountains form a volcanic range that straddles the border between Chad and Cameroon. Characterized by steep cliffs and intricate, rocky valleys, the landscape is both beautiful and challenging. The mountains have historically provided a natural refuge for various ethnic groups seeking safety, and today they support unique high-altitude farming practices. The region is a key example of how mountain topography influences human settlement patterns and traditional land use in central Africa. Geography K7 — mountain settlement and land use."
@@ -816,8 +795,7 @@ export const poiExtraChadNatureV2: POI[] = [
     },
     factsAdvanced: {
       hu: ["Fontos regionális központ", "Mezőgazdasági csomópont", "Közigazgatási szerep", "Hagyományos közösségi élet", "Kulcsfontosságú áruforgalom", "A régió meghatározó települése"]
-    }
-  },
+    },
     description: {
       de: "Ein Vulkangebirge an der Grenze zwischen Kamerun und Tschad.",
       hu: "Vulkáni hegység Kamerun és Csád határán.",
@@ -840,7 +818,7 @@ export const poiExtraChadNatureV2: POI[] = [
       hu: "Ouaddaï-fennsík",
       ro: "Podișul Ouaddaï",
       en: "Ouaddaï Highlands"
-    ,
+    },
     descriptionAdvanced: {
       hu: "A(z) ouaddai-highlands-nature-v2 település a régió egyik meghatározó központja, amely a helyi gazdasági és társadalmi életben játszik kulcsszerepet. A környék földrajzi adottságai és a közösség hagyományai együttesen formálják a város fejlődését, amely nélkülözhetetlen a régió közigazgatása és az áruforgalom szempontjából. Földrajz K5 — Régiók és települések.",
       en: "The Ouaddaï Highlands in eastern Chad are a collection of plateaus and rugged hills that separate the desert plains of the north from the river basins of the south. These highlands play a crucial role in regulating local weather patterns, capturing rainfall that sustains the region's diverse savanna vegetation. Historically, the highlands have been central to the Ouaddaï Kingdom, providing defensible positions and natural water sources in an otherwise harsh desert-edge landscape. Geography K7 — eastern highland ecosystems."
@@ -850,8 +828,7 @@ export const poiExtraChadNatureV2: POI[] = [
     },
     factsAdvanced: {
       hu: ["Fontos regionális központ", "Mezőgazdasági csomópont", "Közigazgatási szerep", "Hagyományos közösségi élet", "Kulcsfontosságú áruforgalom", "A régió meghatározó települése"]
-    }
-  },
+    },
     description: {
       de: "Eine hügelige Gebirgsregion im Osten des Landes.",
       hu: "Dombos hegyvidék az ország keleti részén.",
@@ -875,7 +852,7 @@ export const poiExtraChadNatureV2: POI[] = [
       hu: "Manda-erdő",
       ro: "Pădurea Manda",
       en: "Manda Forest"
-    ,
+    },
     descriptionAdvanced: {
       hu: "A(z) manda-forest-nature-v2 település a régió egyik meghatározó központja, amely a helyi gazdasági és társadalmi életben játszik kulcsszerepet. A környék földrajzi adottságai és a közösség hagyományai együttesen formálják a város fejlődését, amely nélkülözhetetlen a régió közigazgatása és az áruforgalom szempontjából. Földrajz K5 — Régiók és települések.",
       en: "The Manda region is part of the tropical savanna-forest mosaic that dominates the southern Chadian landscape. This area is characterized by scattered trees and tall grasses, which provide a vital habitat for both wildlife and local human communities. The forest patches are significant for their ability to support migratory birds and various savanna mammals. Protecting these forest environments is essential for maintaining the regional carbon balance and preserving the natural heritage of the Chadian south. Geography K7 — savanna-forest mosaic."
@@ -885,8 +862,7 @@ export const poiExtraChadNatureV2: POI[] = [
     },
     factsAdvanced: {
       hu: ["Fontos regionális központ", "Mezőgazdasági csomópont", "Közigazgatási szerep", "Hagyományos közösségi élet", "Kulcsfontosságú áruforgalom", "A régió meghatározó települése"]
-    }
-  },
+    },
     description: {
       de: "Ein wichtiges Wald- und Schutzgebiet im Süden des Landes.",
       hu: "Fontos erdő és védett terület az ország déli részén.",
@@ -909,7 +885,7 @@ export const poiExtraChadNatureV2: POI[] = [
       hu: "Binder-Léré erdő",
       ro: "Pădurea Binder-Léré",
       en: "Binder-Léré Forest"
-    ,
+    },
     descriptionAdvanced: {
       hu: "A(z) binder-lere-forest-nature-v2 település a régió egyik meghatározó központja, amely a helyi gazdasági és társadalmi életben játszik kulcsszerepet. A környék földrajzi adottságai és a közösség hagyományai együttesen formálják a város fejlődését, amely nélkülözhetetlen a régió közigazgatása és az áruforgalom szempontjából. Földrajz K5 — Régiók és települések.",
       en: "The Binder-Léré forests represent a small but ecologically critical forest corridor in southwestern Chad. These forests thrive near the river networks and wetlands, where the moisture allows for denser tree growth than in the surrounding plains. They serve as a vital refuge for primates, various bird species, and other savanna wildlife. The forests are also important to local communities who rely on them for sustainable gathering and as natural windbreaks against desertification, showing the importance of forest protection. Geography K7 — forest conservation."
@@ -919,8 +895,7 @@ export const poiExtraChadNatureV2: POI[] = [
     },
     factsAdvanced: {
       hu: ["Fontos regionális központ", "Mezőgazdasági csomópont", "Közigazgatási szerep", "Hagyományos közösségi élet", "Kulcsfontosságú áruforgalom", "A régió meghatározó települése"]
-    }
-  },
+    },
     description: {
       de: "Ein Waldreservat, das Teil des komplexen Binder-Léré-Ökosystems ist.",
       hu: "Erdőrezervátum, amely a komplex Binder-Léré ökoszisztéma része.",

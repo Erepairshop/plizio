@@ -873,7 +873,7 @@ export const canadaCities: POI[] = [
     parent: "CA",
     coords: [-94.1, 58.7],
     name: { de: "Churchill-Eisbären", hu: "Churchill-i jegesmedvék", ro: "Urșii polari din Churchill", en: "Churchill Polar Bears" },
-    description: { de: "Die 'Weltstadt der Eisbären' an der Hudson Bay.", hu: "A 'jegesmedvék világfővárosa' a Hudson-öböl partján.", ro: "„Capitala mondială a urșilor polari” la Golful Hudson.", en: "The 'Polar Bear Capital of the World' on the Hudson Bay." },
+    description: { de: "Die 'Weltstadt der Eisbären' an der Hudson Bay.", hu: "A 'jegesmedvék világfővárosa' a Hudson-öböl partján.", ro: "\\\"Capitala mondială a urșilor polari\\\" la Golful Hudson.", en: "The 'Polar Bear Capital of the World' on the Hudson Bay." },
     descriptionAdvanced: {
       de: "Churchill in Manitoba gilt als die Welthauptstadt der Eisbären, da sich hier im Herbst hunderte von Bären versammeln, um auf das Gefrieren der Hudson Bay zu warten. Dies bietet die seltene Gelegenheit, das größte an Land lebende Raubtier der Erde in freier Wildbahn zu beobachten.",
       hu: "A manitobai Churchill a világ jegesmedve-fővárosa, mivel ősszel több száz medve gyűlik itt össze, várva a Hudson-öböl befagyását. Ez ritka lehetőséget kínál a Föld legnagyobb szárazföldi ragadozójának megfigyelésére természetes élőhelyén.",
@@ -882,7 +882,7 @@ export const canadaCities: POI[] = [
     },
     factsAdvanced: {
       de: [],
-      hu: ["A legnagyobb szárazföldi ragadozó emlősök", "A tengeri jégre várnak a fókavadászathoz", "Churchillben „medvebörtön” is van az eltévedt állatoknak"],
+      hu: ["A legnagyobb szárazföldi ragadozó emlősök", "A tengeri jégre várnak a fókavadászathoz", "Churchillben \\\"medvebörtön\\\" is van az eltévedt állatoknak"],
       ro: [],
       en: []
     },
@@ -917,7 +917,7 @@ export const canadaCities: POI[] = [
     description: { de: "Weltweit führender Produzent von echtem Ahornsirup.", hu: "A világ vezető valódi juharszirup-termelője.", ro: "Lider mondial în producția de sirop de arțar autentic.", en: "The world's leading producer of authentic maple syrup." },
     descriptionAdvanced: {
       de: "Die Provinz Québec ist das weltweite Zentrum der Ahornsirupproduktion und liefert über 70 % des weltweiten Bedarfs. Die Tradition der 'Cabanes à Sucre' (Zuckerhütten) ist tief in der Kultur verwurzelt, wenn im Frühjahr der Saft der Zuckerahornbäume geerntet und eingekocht wird.",
-      hu: "Québec tartomány a juharszirup-termelés világközpontja, a globális szükséglet több mint 70%-át biztosítja. A „Cabanes à Sucre” (cukorházak) hagyománya mélyen gyökerezik a kultúrában, amikor tavasszal a cukorjuharok nedvét csapolják és besűrítik.",
+      hu: "Québec tartomány a juharszirup-termelés világközpontja, a globális szükséglet több mint 70%-át biztosítja. A \\\"Cabanes à Sucre\\\" (cukorházak) hagyománya mélyen gyökerezik a kultúrában, amikor tavasszal a cukorjuharok nedvét csapolják és besűrítik.",
       ro: "",
       en: ""
     },
@@ -935,10 +935,10 @@ export const canadaCities: POI[] = [
     parent: "CA",
     coords: [-106.6, 52.1],
     name: { de: "Saskatchewan Weizenfelder", hu: "Saskatchewani búzaföldek", ro: "Câmpurile de grâu din Saskatchewan", en: "Saskatchewan Wheat Fields" },
-    description: { de: "Die 'Brotkammer Kanadas' in den Prärieprovinzen.", hu: "Kanada 'kenyérkosara' a préri tartományokban.", ro: "„Grânarul Canadei” în provinciile de prerie.", en: "The 'Breadbasket of Canada' in the prairie provinces." },
+    description: { de: "Die 'Brotkammer Kanadas' in den Prärieprovinzen.", hu: "Kanada 'kenyérkosara' a préri tartományokban.", ro: "\\\"Grânarul Canadei\\\" în provinciile de prerie.", en: "The 'Breadbasket of Canada' in the prairie provinces." },
     descriptionAdvanced: {
       de: "Saskatchewan ist bekannt als die 'Brotkammer Kanadas' und verfügt über fast die Hälfte des gesamten Ackerlandes des Landes. Die riesigen Weizenfelder, die sich bis zum Horizont erstrecken, sind ein prägendes Bild der kanadischen Prärie und ein Eckpfeiler der nationalen Wirtschaft.",
-      hu: "Saskatchewan Kanada „magtáraként” ismert, itt található az ország összes szántóföldjének csaknem fele. A láthatárig nyúló hatalmas búzatáblák a kanadai préri meghatározó képét adják, és a nemzetgazdaság egyik sarokkövét jelentik.",
+      hu: "Saskatchewan Kanada \\\"magtáraként\\\" ismert, itt található az ország összes szántóföldjének csaknem fele. A láthatárig nyúló hatalmas búzatáblák a kanadai préri meghatározó képét adják, és a nemzetgazdaság egyik sarokkövét jelentik.",
       ro: "",
       en: ""
     },
@@ -1033,7 +1033,7 @@ export const canadaCities: POI[] = [
     parent: "CA",
     coords: [-123.1, 49.3],
     name: { de: "Vancouver Filmindustrie", hu: "Vancouveri filmipar", ro: "Industria cinematografică din Vancouver", en: "Vancouver Film Industry" },
-    description: { de: "Häufig als 'Hollywood North' bezeichnet.", hu: "Gyakran 'Északi Hollywoodként' emlegetik.", ro: "Adesea supranumit „Hollywood-ul Nordului”.", en: "Often referred to as 'Hollywood North'." },
+    description: { de: "Häufig als 'Hollywood North' bezeichnet.", hu: "Gyakran 'Északi Hollywoodként' emlegetik.", ro: "Adesea supranumit \\\"Hollywood-ul Nordului\\\".", en: "Often referred to as 'Hollywood North'." },
     descriptionAdvanced: {
       de: "",
       hu: "Vancouver Észak-Amerika egyik legfontosabb filmgyártási központja, ahol rengeteg népszerű filmet és sorozatot forgatnak. A város a kedvező forgatási körülményeknek és a tehetséges szakembereknek köszönhetően vált világhírűvé. Művészet K7 – média és kultúra.",

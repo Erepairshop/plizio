@@ -14,7 +14,20 @@ export const poiExtraNicaraguaNatureV2: POI[] = [
       hu: ["A hondurasi határ mentén folyik", "Hossza: kb. 750 km", "A Karib-tengerbe ömlik", "Fontos közlekedési útvonal a miskito népek számára"],
       ro: ["Curge de-a lungul graniței cu Honduras", "Lungime: aprox. 750 km", "Se varsă în Marea Caraibelor", "Arteră de transport importantă pentru poporul Miskito"],
       en: ["Flows along the border with Honduras", "Length: approx. 750 km", "Empties into the Caribbean Sea", "Important transportation artery for Miskito peoples"]
-    }, image: "/poi-images/rio-coco-nature-v2.webp"},
+    }, image: "/poi-images/rio-coco-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Río Coco (auch Río Segovia oder Wangki genannt) ist der längste und wohl geschichtsträchtigste Fluss Zentralamerikas. Mit einer Länge von rund 750 Kilometern entspringt er im nicaraguanischen Hochland und bildet auf seinem gewundenen Weg in die Karibik fast die gesamte natürliche Grenze zu Honduras. Er ist die unersetzliche Lebensader der indigenen Miskito-Kultur, die seine Ufer seit Jahrtausenden besiedelt. Historisch war der Fluss die wichtigste Invasionsroute für Piraten und später ein stark umkämpfter Grenzkorridor während des Contra-Krieges in den 1980er Jahren. In seinem Mittellauf schneidet sich der Río Coco durch spektakuläre Canyons (wie in Somoto), bevor er sich in der flachen Mosquitoküste verliert. Geografie K8 — Transnationale Flusssysteme und indigene Territorien.",
+      hu: "A Coco-folyó (Río Coco vagy Wangki) Közép-Amerika leghosszabb (Nicaraguában teljes egészében folyó) vízfolyása. Hondurasi határon, a Somoto-kanyonnál ered, és 680 kilométeren át kanyarog kelet felé, míg végül a Karib-tengerbe (Cabo Gracias a Dios) ömlik. A folyó nem csupán geográfiai, hanem kulturális határ is, amely a miszkító és mayangna őslakosok (a Wangki népe) legfőbb éltetője, közlekedési útvonala és spirituális központja évezredek óta. Történelmileg az ország egyik legelzártabb és legkonfliktusosabb zónája volt, ma az érintetlen, mély dzsungelek és az ősi kultúrák szimbóluma. Földrajz K8 — folyórendszerek és őslakos határok.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Der längste Fluss Zentralamerikas mit einer Gesamtlänge von schätzungsweise 750 Kilometern.", "Bildet über weite Strecken die natürliche und völkerrechtliche Grenze zwischen Nicaragua und Honduras.", "Entspringt im Departement Choluteca in Honduras und mündet am Kap Gracias a Dios in die Karibik.", "Von der indigenen Miskito-Bevölkerung wird er ehrfürchtig \"Wangki\" genannt.", "Der Fluss durchfließt den berühmten Somoto-Canyon (Cañón de Somoto) im Departement Madriz.", "Dient Dutzenden extrem isolierter indigener Gemeinden als einzige Transportroute."],
+      hu: ["Teljes hossza meghaladja a 680 kilométert, ezzel Közép-Amerika leghosszabb folyója.", "Felső szakaszán vájta ki a világhírű Somoto-kanyont (Cañón de Somoto).", "A folyó teljes középső és alsó szakasza alkotja a határt Nicaragua és Honduras között.", "Az 1980-as évek kontraháborúja alatt a folyó menti falvakat szinte teljesen evakuálták.", "Partjain nagyrészt a miszkító indiánok élnek, akik a folyót 'Wangki'-nak nevezik.", "A folyótorkolat (Cabo Gracias a Dios) a hurrikánok egyik leggyakoribb belépési pontja a térségben."],
+      ro: [],
+      en: []
+    }
+  },
   {
     id: "lago-de-nicaragua-nature-v2",
     type: "lake",
@@ -27,7 +40,20 @@ export const poiExtraNicaraguaNatureV2: POI[] = [
       hu: ["Itt található az Ometepe-sziget", "Az egyetlen hely édesvízi cápákkal", "Területe: 8.264 km²", "A San Juan folyó köti össze a Karib-tengerrel"],
       ro: ["Găzduiește Insula Ometepe", "Singurul loc cu rechini de apă dulce", "Suprafață: 8.264 km²", "Legătură cu Caraibe prin Río San Juan"],
       en: ["Contains Ometepe Island", "The only place with freshwater sharks", "Area: 8,264 km²", "Connects to the Caribbean via the San Juan River"]
-    }, image: "/poi-images/lago-de-nicaragua-nature-v2.webp"},
+    }, image: "/poi-images/lago-de-nicaragua-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Nicaraguasee, von den Einheimischen stolz Lago Cocibolca (\"Süßes Meer\") genannt, ist der größte See Mittelamerikas und das bestimmende geografische Element des Landes. Der Süßwasserriese ist so gewaltig, dass er sichtbare Gezeiten und Stürme mit gefährlichem Wellengang aufweist. Er ist weltweit einmalig für seine Fauna: Als einziger Süßwassersee der Welt beheimatet er Bullenhaie, die durch den Río San Juan aus der Karibik aufsteigen, sowie den prähistorischen Gaspar-Fisch. Im See erheben sich Hunderte von Inseln, darunter das atemberaubende Vulkan-Archipel Ometepe. Aufgrund seiner immensen Größe war der See historisch das Kernstück aller Pläne für einen transozeanischen Kanal. Geografie K8 — Große Seen, Tektonik und einzigartige Ichthyofauna.",
+      hu: "A Nicaragua-tó (Lago Cocibolca) a közép-amerikai földhíd legnagyobb, és Latin-Amerika 10. legnagyobb édesvizű tava. A spanyol hódítók mérete és erős hullámzása miatt 'Édes Tengernek' (Mar Dulce) nevezték el. A tó geológiai csoda, mivel egykor egy óceáni öböl volt, amely a vulkáni aktivitás miatt záródott el. Ez magyarázza a tó egyedülálló, endemikus faunáját, beleértve a világ egyetlen édesvízi cápáját (Carcharhinus leucas), fűrészhalakat és tarponokat. A tóban található az Ometepe-sziget (két vulkánjával), a Zapatera-sziget és a 365 kis szigetből álló Granadai Isletas. Földrajz K7 — tektonikus tavak és édesvízi tengeri állatok.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Mit einer Fläche von über 8.200 Quadratkilometern der größte See in Zentralamerika.", "Die Spanier nannten ihn \"La Mar Dulce\" (Das süße Meer) wegen seiner enormen Größe und Wellen.", "Der einzige Süßwassersee der Erde, in dem eine Population von Bullenhaien (Carcharhinus leucas) lebt.", "Über den Río San Juan ist der See direkt mit dem Karibischen Meer verbunden.", "Beherbergt das riesige Vulkan-Archipel Ometepe sowie das Zapatera-Archipel und die Isletas de Granada.", "Nicaragua nutzt den See als wichtiges Trinkwasserreservoir, Fischerquelle und Transportweg."],
+      hu: ["Felszíne 8264 négyzetkilométer, hossza 161 km, szélessége 71 km.", "Közép-Amerika ivóvíz-készletének legnagyobb természetes tározója.", "A San Juan-folyón keresztül a Karib-tengerbe ömlik.", "Az édesvízi cápa populáció az 1970-es évekbeli túlhalászás és a folyószabályozás miatt szinte eltűnt.", "Folyamatosan fújnak felette az erős keleti passzátszelek (Papagayos), ami viharos hullámokat kelt.", "A tervezett, de soha meg nem épült nicaraguai óceánközi csatorna fő útvonala lett volna."],
+      ro: [],
+      en: []
+    }
+  },
   {
     id: "lago-de-managua-nature-v2",
     type: "lake",
@@ -40,7 +66,20 @@ export const poiExtraNicaraguaNatureV2: POI[] = [
       hu: ["Xolotlán-tóként is ismert", "A Tipitapa folyó köti össze a Nicaragua-tóval", "Erősen szennyezett, de helyreállítási erőfeszítések folynak", "Partján a Momotombo vulkán"],
       ro: ["Cunoscut și ca Lacul Xolotlán", "Legat de Lacul Nicaragua prin râul Tipitapa", "Foarte poluat, dar cu eforturi de recuperare", "Vulcanul Momotombo pe mal"],
       en: ["Also known as Lake Xolotlán", "Connected to Lake Nicaragua by the Tipitapa River", "Highly polluted but with recovery efforts", "Momotombo volcano on its shore"]
-    }, image: "/poi-images/lago-de-managua-nature-v2.webp"},
+    }, image: "/poi-images/lago-de-managua-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Managuasee, offiziell Lago Xolotlán, dominiert die nördliche Skyline der nicaraguanischen Hauptstadt. Im Gegensatz zum gewaltigen Nicaraguasee, mit dem er durch den (meist trockenen) Fluss Tipitapa verbunden ist, hat der Xolotlán eine tragische Umweltgeschichte. Jahrzehntelang leiteten Fabriken (darunter eine berüchtigte Chlor-Alkali-Anlage) und die Millionenstadt Managua ihre Abwässer ungefiltert in den See, was ihn extrem kontaminierte. Erst in den letzten zwei Jahrzehnten haben staatliche Kläranlagen und massiv geförderte Sanierungsprojekte (wie der Puerto Salvador Allende) begonnen, den See zu rehabilitieren. Trotz der Verschmutzung fischen arme Bevölkerungsschichten in seinen Gewässern, und der See bietet atemberaubende Sonnenuntergänge vor der Vulkanhalbinsel Chiltepe. Geografie K7 — Urbane Umweltverschmutzung und See-Sanierung.",
+      hu: "A Managua-tó (Lago Xolotlán) Nicaragua második legnagyobb tava, amelynek déli partján a főváros, Managua terül el. A tavat a Momotombo és a Chiltepe vulkánok fenséges sziluettje uralja. A múlt század folyamán a tó rendkívül súlyos környezeti károkat szenvedett a kezeletlen városi szennyvíz és az ipari (például higany) hulladék miatt. Az elmúlt évtizedben azonban a kormány jelentős lépéseket tett a rehabilitációra (pl. a managuai szennyvíztisztító megépítésével), és a partmenti Paseo Xolotlán kiépítése újra népszerűvé tette a területet a lakosság körében. Bár fürdésre még mindig nem alkalmas, a tó ökológiai állapota lassan javul. Földrajz K8 — környezetszennyezés és tórehabilitáció.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Der zweitgrößte See Nicaraguas, direkt an dessen Südufer die Hauptstadt Managua liegt.", "Erreicht eine maximale Tiefe von etwa 20 Metern, ist jedoch extrem flach in Ufernähe.", "Wurde im 20. Jahrhundert durch Quecksilber einer Chemieanlage und Abwässer der Hauptstadt stark verseucht.", "Verbunden mit dem Nicaraguasee durch den Río Tipitapa, der nur in sehr nassen Jahren Wasser führt.", "Die Halbinsel Chiltepe mit dem Vulkan Apoyeque ragt markant in den See hinein.", "Ein massives Wasseraufbereitungsprojekt (gefördert durch Deutschland) versucht derzeit, das Wasser zu retten."],
+      hu: ["Felszíne 1024 négyzetkilométer, maximális mélysége csupán 20 méter.", "A Tipitapa-folyón keresztül kapcsolódik a nagyobb Nicaragua-tóhoz, de a folyó szárazság idején kiszárad.", "Az 1927-től a 2000-es évek végéig a város teljes szennyvize közvetlenül a tóba ömlött.", "Egy egykori vegyipari üzem (Pennwalt) a 70-es években súlyos higanyszennyezést okozott benne.", "Gyakran sújtják pusztító áradások (pl. az 1998-as Mitch hurrikán alatt), amelyek elöntik Managua partjait.", "A tóban ma is jelentős halászat zajlik, de a halak fogyasztása egészségügyi kockázatokat rejt."],
+      ro: [],
+      en: []
+    }
+  },
   {
     id: "solentiname-archipelago-nature-v2",
     type: "island",
@@ -53,7 +92,20 @@ export const poiExtraNicaraguaNatureV2: POI[] = [
       hu: ["Primitív festészetéről ismert", "Ernesto Cardenal költő otthona", "Gazdag madárvilág", "Védett nemzeti emlékmű"],
       ro: ["Cunoscut pentru pictura primitivistă", "Casa poetului Ernesto Cardenal", "Faună aviară bogată", "Monument național protejat"],
       en: ["Known for primitivist painting", "Home of poet Ernesto Cardenal", "Rich birdlife", "Protected national monument"]
-    }, image: "/poi-images/solentiname-archipelago-nature-v2.webp"},
+    }, image: "/poi-images/solentiname-archipelago-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Solentiname-Archipel besteht aus 36 tiefgrünen Inseln im entlegenen südöstlichen Teil des Nicaraguasees. Das Archipel ist weltberühmt für seinen Beitrag zur lateinamerikanischen Kunst und Theologie. In den 1960er Jahren gründete der Priester und Dichter Ernesto Cardenal hier eine christliche Kommune. Er lehrte die lokalen Bauernfamilien die primitive, naive Malerei und die Schnitzkunst, was den farbenfrohen \"Solentiname-Stil\" hervorbrachte, der heute weltweit gesammelt wird. Gleichzeitig wurde die Inselgruppe zu einem philosophischen Zentrum der Befreiungstheologie. Die unberührten Inseln, dicht bewachsen mit tropischem Dschungel und umgeben von fischreichen Gewässern, sind ein friedliches Refugium, das ohne Autos oder Straßen existiert und nur per Boot aus San Carlos erreichbar ist. Kunstgeschichte K8 — Naive Kunst, Befreiungstheologie und Inselgemeinschaften.",
+      hu: "A Solentiname-szigetcsoport 36 buja, trópusi szigetből áll a Nicaragua-tó délkeleti szegletében, Río San Juan megyében. A szigetek a primitivista (naiv) művészet és az Ernesto Cardenal költő és pap által alapított közösség révén váltak világhírűvé. Cardenal a felszabadítási teológia (teología de la liberación) szellemében bátorította a helyi halászokat és farmereket (campesinos), hogy élénk színekkel, egyszerű formákkal fessék meg mindennapi életüket és a trópusi élővilágot, valamint balzsamfából faragjanak állatfigurákat. A szigetek (Mancarron, San Fernando, La Venada) nyugodt, érintetlen környezetet, gazdag madárvilágot (kócsagok, kárókatonák) és spirituális menedéket kínálnak. Földrajz K7 — naiv művészet és szigeti közösségek.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Eine Gruppe von 36 kleinen, vulkanischen Inseln im südöstlichen Nicaraguasee.", "Die größte und wichtigste Insel des Archipels ist Mancarrón.", "Der Dichter und Priester Ernesto Cardenal gründete hier 1966 eine berühmte Künstlerkolonie.", "Der extrem farbenfrohe, primitive \"Solentiname-Malerstil\" stammt von den hiesigen Bauernfamilien.", "Wurde während der Revolution 1977 von der Somoza-Nationalgarde als Vergeltung zerstört.", "Es gibt keine Autos oder Straßen auf den Inseln; Solarstrom ist erst seit kurzem verbreitet."],
+      hu: ["A szigetcsoport vulkanikus eredetű, a harmadidőszakban alakult ki.", "Ernesto Cardenal 1966-ban érkezett a szigetekre, hogy kontemplatív közösséget alapítson.", "A Somoza-gárda 1977-ben lerombolta a közösséget Cardenal sandinista kapcsolatai miatt.", "A solentinamei naiv festmények a világ számos modern művészeti múzeumában megtalálhatók.", "A szigeteken több ősi (prekolumbián) petroglifát és kőszobrot találtak.", "Nincs kiépített úthálózat, csak gyalogösvények és csónakok biztosítják a közlekedést."],
+      ro: [],
+      en: []
+    }
+  },
   {
     id: "pearl-cays-nature-v2",
     type: "island",
@@ -66,7 +118,20 @@ export const poiExtraNicaraguaNatureV2: POI[] = [
       hu: ["Fehér homokos strandok", "Türkizkék víz", "Tengeri teknősök fészkelőhelye", "Ideális búvárkodáshoz"],
       ro: ["Plaje cu nisip alb", "Apă turcoaz", "Locuri de cuibărit pentru țestoasele marine", "Ideal pentru snorkeling"],
       en: ["White sandy beaches", "Turquoise waters", "Nesting sites for sea turtles", "Ideal for snorkeling"]
-    }, image: "/poi-images/pearl-cays-nature-v2.webp"},
+    }, image: "/poi-images/pearl-cays-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Pearl Cays (Cayos Perlas) sind ein atemberaubendes, extrem abgelegenes Archipel von 18 winzigen Koralleninseln vor der Karibikküste Nicaraguas (RACCS). Mit blendend weißen Sandstränden, wankenden Palmen und türkisblauem Wasser sehen sie aus wie der Inbegriff eines karibischen Paradieses. Geologisch und ökologisch sind sie von unschätzbarem Wert: Die Riffe um die Inseln sind Lebensraum für Delfine, Mantarochen und unzählige Fischarten. Vor allem aber sind die Cayos eines der wichtigsten Nistgebiete für die gefährdete Echte Karettschildkröte (Hawksbill). Die Inseln standen im Zentrum hitziger Rechtsstreitigkeiten, da ausländische Investoren versuchten, sie privat aufzukaufen, während sie historisch den indigenen Gemeinschaften der Perlenlagune gehören. Geografie K7 — Korallenriffe und territoriale Rechte an Küsten.",
+      hu: "A Pearl Cays (Perlas-szigetek vagy Cayos Perlas) 18 apró, fehér homokos, pálmafákkal borított korallszigetcsoport a Karib-tengeren, körülbelül 35 kilométerre Laguna de Perlas (Pearl Lagoon) partjaitól. Ezek az idilli, poszterbe illő szigetek a Karib-térség utolsó érintetlen paradicsomai közé tartoznak. A szigetek körüli zátonyok a kritikusan veszélyeztetett cserepesteknősök (Hawksbill turtle) legfontosabb fészkelőhelyei Nicaraguában. A terület nemzetközi vadvédelmi zóna, ahol szigorúan őrzik a fészkeket az orvvadászok elől. A szigetek egy része magántulajdonban van, de nyitottak az ökoturisták és a búvárok előtt. Földrajz K8 — korallzátonyok és cserepesteknősök védelme.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Ein isoliertes Archipel von 18 kleinen Inseln in der Karibischen See, ca. 30 km vor der Küste.", "Ein global kritischer Nistplatz für die vom Aussterben bedrohte Echte Karettschildkröte (Carey).", "Die Inseln sind fast ausschließlich von Palmen, Mangroven und feinem, weißen Korallensand bedeckt.", "Zentrum jahrelanger rechtlicher Konflikte zwischen indigenen Kreolen und ausländischen Immobilienmaklern.", "Das Tauchen (Snorkeling) in den umgebenden unberührten Riffen ist weltklasse.", "Die Erreichbarkeit ist oft wetterabhängig und erfordert eine raue Bootsfahrt aus der Laguna de Perlas."],
+      hu: ["A szigetek lakatlanok (nincs állandó lakosság), csak ideiglenes halászkunyhók és néhány lodge található rajtuk.", "A WCS (Wildlife Conservation Society) több évtizedes programot működtet itt a teknősök védelmére.", "A szigetek a Karib-tengeri sekély (platform) vizekből emelkednek ki.", "Az 1990-es években heves jogi viták folytak a szigetek illegális eladása miatt külföldi befektetőknek.", "A zátonyokon elképesztő gazdagságban élnek languszták és korallhalak.", "A hajóút Laguna de Perlas-ból gyakran hullámos és megközelítőleg egy órát vesz igénybe."],
+      ro: [],
+      en: []
+    }
+  },
   {
     id: "rio-escondido-nature-v2",
     type: "river",
@@ -79,7 +144,20 @@ export const poiExtraNicaraguaNatureV2: POI[] = [
       hu: ["Fontos vízi út a Karib-tenger felé", "Fő bejárat Bluefieldsbe", "Kereskedelmi szempontból jelentős", "Esőerdő veszi körül"],
       ro: ["Cale navigabilă importantă către Caraibe", "Acces principal spre Bluefields", "Important pentru comerț", "Înconjurat de pădure tropicală"],
       en: ["Important waterway to the Caribbean", "Main access to Bluefields", "Significant for trade", "Surrounded by rainforest"]
-    }, image: "/poi-images/rio-escondido-nature-v2.webp"},
+    }, image: "/poi-images/rio-escondido-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Río Escondido ist der logistische Blutkreislauf Ostnicaraguas. Entstanden aus dem Zusammenfluss der Flüsse Mico, Siquia und Rama in der Hafenstadt El Rama, fließt er als breiter, schlammiger Strom durch dichten Dschungel direkt in die Bucht von Bluefields an der Karibik. Sein Name \"Der versteckte Fluss\" rührt daher, dass seine Mündung in der weiten Bucht von Bluefields vom Ozean aus schwer zu erkennen ist. Historisch nutzten britische Piraten den Fluss, um sich vor den Spaniern zu verstecken. Heute ist er die am stärksten befahrene Wasserstraße des Landes, auf der riesige Lastkähne (Barges) und kleine Schnellboote (Pangas) die gesamte Fracht und alle Passagiere transportieren, da Bluefields jahrzehntelang keine Straßenverbindung ins Landesinnere hatte. Geografie K7 — Binnenschifffahrt und Karibik-Flüsse.",
+      hu: "Az Escondido-folyó (Río Escondido - Rejtett folyó) a Siquia, a Mico és a Rama folyók összefolyásából keletkezik El Rama városánál, majd sűrű trópusi esőerdőkön és lagúnákon keresztül 88 kilométert kanyarogva Bluefields-nél ömlik a Karib-tengerbe. Ez a folyó az ország legfontosabb kereskedelmi vízi útja az Atlanti-óceán felé (ahol az Arlen Siu kikötő is található). Neve ('Rejtett') onnan ered, hogy a kanyargós mangrovecsatornák miatt torkolata nehezen volt észrevehető a tenger felől, így a 17-18. században ideális búvóhelyet jelentett az angol kalózok számára. A folyó rendkívül gazdag tengeri és édesvízi faunában, beleértve a manátuszokat is. Földrajz K7 — hajózható folyók és mangrove torkolatok.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Der Fluss bildet sich bei der Hafenstadt El Rama durch den Zusammenfluss von drei kleineren Strömen.", "Fließt nach etwa 90 Kilometern in die Bucht von Bluefields an der Karibikküste.", "Historisch ein wichtiges Versteck für britische und niederländische Piraten (daher \"Escondido\").", "Die tiefste und navigierbarste Binnenwasserstraße für Frachtschiffe in Nicaragua.", "Dichte Mangroven und unberührter Dschungel säumen die steilen Ufer des Flusses.", "Schnellboote (Pangas) bewältigen die Strecke El Rama - Bluefields in knapp zwei Stunden."],
+      hu: ["A folyó elég mély ahhoz, hogy közepes méretű óceánjáró teherhajók (uszályok) is felhajózzanak rajta El Ramáig.", "Rendszeres motorcsónak-járatok (pangas) kötik össze El Ramát Bluefields városával, a két órás út sűrű dzsungelen át vezet.", "Évente gyakoriak a súlyos áradások a heves esőzések (hurrikánok) miatt.", "A spanyol hódítás idején a folyót nem tudták ellenőrizni, így brit kalózok és miszkító indiánok uralták.", "Partjait hatalmas, mocsaras pálma- és mangrovierdők szegélyezik.", "Az Escondido vízrendszere biztosítja a Bluefields-öböl (lagúna) édesvíz-utánpótlását."],
+      ro: [],
+      en: []
+    }
+  },
   {
     id: "indio-maiz-reserve-nature-v2",
     type: "forest",
@@ -92,7 +170,20 @@ export const poiExtraNicaraguaNatureV2: POI[] = [
       hu: ["Hatalmas esőerdő területeket foglal magában", "Rendkívül magas biodiverzitás", "Jaguárok és tapírok otthona", "A Mezoamerikai Biológiai Folyosó része"],
       ro: ["Cuprinde zone vaste de pădure tropicală", "Biodiversitate extrem de ridicată", "Habitat pentru jaguari și tapiri", "Parte a Coridorului Biologic Mesoamerican"],
       en: ["Contains vast areas of rainforest", "Extremely high biodiversity", "Home to jaguars and tapirs", "Part of the Mesoamerican Biological Corridor"]
-    }, image: "/poi-images/indio-maiz-reserve-nature-v2.webp"},
+    }, image: "/poi-images/indio-maiz-reserve-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Biologische Reservat Indio Maíz ist Nicaraguas ungezähmte grüne Lunge und das am besten erhaltene primäre Regenwaldgebiet Mittelamerikas. Im tiefen Südosten an der Grenze zu Costa Rica gelegen, ist dieser extrem dichte, regenreiche Dschungel so isoliert, dass er ein Refugium für Nicaraguas letzte verbliebene Harpyien-Adler, Jaguare und Baird-Tapire bietet. Die Artenvielfalt ist erdrückend, mit mehr Baum- und Insektenarten als in ganz Europa zusammen. Dennoch ist das Reservat unter massiver Bedrohung: In den letzten Jahren sind illegale Siedler (Colonos) tief in das Schutzgebiet eingedrungen, um Wald für Viehweiden abzuholzen, was 2018 zu einem verheerenden Waldbrand und landesweiten Protesten führte. Ökologie K8 — Primärwälder und illegale Landnahme.",
+      hu: "Az Indio Maíz Biológiai Rezervátum (Reserva Biológica Indio Maíz) a San Juan-folyó mentén, Nicaragua délkeleti csücskében fekszik, és Közép-Amerika egyik legkiterjedtebb és legérintetlenebb trópusi esőerdeje ('A dél tüdeje'). A több mint 3000 négyzetkilométeres terület a biológiai sokféleség fellegvára: otthona jaguároknak, hárpiáknak, tapíroknak és a mérgező nyílméregbékáknak (dendrobatidae). A rezervátum belsejébe tilos a belépés a turisták és a telepesek számára (csak a folyók peremén szerveznek túrákat), a belső területeken csak a Rama és a Kriol őslakos közösségek élhetnek hagyományos életmódot. A területet folyamatosan fenyegeti az illegális fakitermelés és az agrárexpanzió. Földrajz K8 — elsődleges esőerdők és őslakos rezervátumok.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Mit über 3.000 Quadratkilometern das am besten geschützte Regenwaldgebiet Mittelamerikas.", "Heimat von Großkatzen wie dem Jaguar und dem Puma, sowie dem extrem seltenen Tapir.", "Nur der äußere Rand des Reservats darf von Touristen (in Begleitung von indigenen Rama-Guides) betreten werden.", "Wird von den tiefen, schwarzen Flüssen Indio und Maíz durchschnitten.", "Ein massiver Waldbrand im Jahr 2018 zerstörte weite Flächen und löste politische Proteste in Managua aus.", "Die indigene Rama-Bevölkerung kämpft politisch und physisch gegen das illegale Eindringen von Viehzüchtern."],
+      hu: ["A park területe nagyobb, mint El Salvador egész erdeinek kiterjedése.", "Egy 2018-as hatalmas erdőtűz (amely közel 5000 hektárt pusztított el) országos politikai tiltakozásokat váltott ki a kormány környezetvédelmi politikája ellen.", "A területen több halfaj, rovar és madár él, mint egész Európában.", "A területre évente átlagosan 4000-5000 mm csapadék hullik, így igazi mély trópusi őserdő.", "Az Indio- és a Maíz-folyók érintetlen vízgyűjtő medencéit foglalja magában.", "Nicaragua leginkább védett és legkevésbé feltérképezett természetvédelmi területe."],
+      ro: [],
+      en: []
+    }
+  },
   {
     id: "peninsula-de-chiltepe-nature-v2",
     type: "mountain",
@@ -105,7 +196,20 @@ export const poiExtraNicaraguaNatureV2: POI[] = [
       hu: ["Magában foglalja az Apoyeque és Xiloá lagúnákat", "Vulkáni eredetű", "Népszerű üdülőhely Managua számára", "Nagyszerű kilátást nyújt"],
       ro: ["Include lagunele Apoyeque și Xiloá", "Origine vulcanică", "Zonă de recreere populară pentru Managua", "Oferă vederi minunate"],
       en: ["Includes the Apoyeque and Xiloá lagoons", "Of volcanic origin", "Popular recreational area for Managua", "Offers great views"]
-    }, image: "/poi-images/peninsula-de-chiltepe-nature-v2.webp"},
+    }, image: "/poi-images/peninsula-de-chiltepe-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Halbinsel Chiltepe ist ein wuchtiges vulkanisches Relikt, das dominant in den Managuasee (Xolotlán) ragt und das Panorama der Hauptstadt Managua beherrscht. Sie entstand durch eine Serie gewaltiger Eruptionen, die zwei perfekte Vulkankrater hinterließen, die heute tiefe Kraterseen bilden: die Lagune Apoyeque und die Lagune Xiloá. Während Xiloá ein beliebtes Freizeitziel ist, ist der Krater des Apoyeque schwer zugänglich und von dichtem Wald umgeben. Geologisch betrachtet ist die Chiltepe-Halbinsel eine schlafende Bedrohung; Seismologen warnen regelmäßig vor der seismischen Aktivität in der Region, da die Vulkane hier zu den explosivsten der Welt gehören könnten. Geografie K7 — Vulkanische Halbinseln und Kraterseen.",
+      hu: "A Chiltepe-félsziget a Managua-tóba nyúló hatalmas vulkanikus képződmény, amely közvetlenül a főváros északnyugati határában található. A félszigetet az Apoyeque vulkáni komplexum alkotja, amely két látványos krátertavat is magában foglal: a nagyobb Apoyeque-tavat (Laguna de Apoyeque) egy mély kráter alján, és a kisebb, könnyebben megközelíthető Xiloá-tavat. Az Apoyeque a történelem előtti időkben az egyik legpusztítóbb vulkánkitörést (VEI 6 erősségű) produkálta a világon. Ma a félsziget Természeti Rezervátum, sűrű, száraz trópusi erdőkkel, amelyek zöldellő menedéket nyújtanak iguánáknak, majmoknak és rengeteg madárfajnak, közvetlenül Managua szomszédságában. Földrajz K7 — vulkáni félszigetek és krátertavak.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Eine massiv sichtbare vulkanische Halbinsel, die in das südliche Becken des Managuasees ragt.", "Beherbergt den Vulkankomplex Apoyeque mit seinen zwei tiefen Kraterseen (Apoyeque und Xiloá).", "Der Apoyeque-Vulkan gilt laut Vulkanologen als einer der potenziell gefährlichsten weltweit.", "Wurde im Jahr 2001 als offizielles Naturschutzgebiet (Reserva Natural) ausgewiesen.", "Die Vegetation auf der Halbinsel besteht vorwiegend aus extrem trockenem Buschwald.", "Ein starkes Erdbebenepizentrum im Jahr 2014 lag exakt unterhalb der Halbinsel Chiltepe."],
+      hu: ["A félsziget csúcsa (Apoyeque vulkán) mintegy 518 méterrel magasodik a Managua-tó fölé.", "Az Apoyeque krátertava mintegy 400 méter mélyen helyezkedik el a kráter pereméhez képest.", "A vulkán legutóbbi nagy kitörése kb. i.e. 50-ben zajlott, amely globális éghajlati hatásokkal járt.", "A félsziget 2001 óta hivatalos Természeti Rezervátum.", "Népszerű túrázóhely a managuaiak körében a kráterperemre vezető meredek ösvény miatt.", "A vulkán alatt jelentős geotermikus potenciál rejlik."],
+      ro: [],
+      en: []
+    }
+  },
   {
     id: "la-flor-wildlife-refuge-nature-v2",
     type: "sea",
@@ -118,7 +222,20 @@ export const poiExtraNicaraguaNatureV2: POI[] = [
       hu: ["Teknősök tömeges érkezése ('Arribada')", "Védett csendes-óceáni part", "Fontos a fajvédelem szempontjából", "Szezonális természeti esemény"],
       ro: ["Sosirea în masă a țestoaselor ('Arribada')", "Plajă protejată la Pacific", "Important pentru conservarea speciilor", "Eveniment natural sezonier"],
       en: ["Mass nesting of turtles ('Arribada')", "Protected Pacific beach", "Important for species conservation", "Seasonal natural event"]
-    }, image: "/poi-images/la-flor-wildlife-refuge-nature-v2.webp"},
+    }, image: "/poi-images/la-flor-wildlife-refuge-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Refugio de Vida Silvestre La Flor, gelegen an der Pazifikküste südlich von San Juan del Sur, ist einer der wichtigsten Schutzorte der Erde für die Reproduktion von Meeresschildkröten. Dieses kleine, halbmondförmige Stück Sandstrand ist berühmt für die \"Arribadas\", wenn zwischen August und Januar zehntausende Oliv-Bastardschildkröten gleichzeitig an Land stürmen, um ihre Eier in mondlosen Nächten abzulegen. Wenige Wochen später schlüpfen Millionen winziger Schildkröten und kriechen hektisch zum Ozean – ein Festmahl für Raubvögel und Krebse. Nicaraguanische Soldaten und Parkranger schützen das Gebiet strengstens vor Eier-Wilderern, die den Fortbestand der Art gefährden. Naturkunde K7 — Schildkrötenmassenankünfte und Ranger-Schutz.",
+      hu: "A La Flor Vadvédelmi Terület (Refugio de Vida Silvestre La Flor) Rivas megye csendes-óceáni partvidékén, San Juan del Sur közelében található. Chacocente mellett ez a másik legfontosabb nicaraguai helyszín, ahol a veszélyeztetett olajzöld fattyúteknősök (paslamas) tömegesen, az 'arribadas' nevű szinkronizált jelenség keretében rakják le tojásaikat. A mintegy 3000 hektáros védett terület egy gyönyörű, félhold alakú, homokos öblöt és az azt övező trópusi száraz erdőt foglalja magában, ahol iguanák, bőgőmajmok és ritka trópusi madarak élnek. A teknősök fészkelési időszakában a parkot szigorúan őrzik a hadsereg és az önkéntesek. Földrajz K8 — tömeges teknősfészkelés és száraz trópusi erdők.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Ein kleines, aber global bedeutendes Wildtierschutzgebiet nahe der Grenze zu Costa Rica.", "Zählt zu den weltweit nur acht Stränden, die extrem große \"Arribadas\" (Massenankünfte) erleben.", "In der Hochsaison legen hier in einer einzigen Nacht oft über 10.000 Schildkröten ihre Eier ab.", "Bewaffnete Soldaten der nicaraguanischen Armee schützen den Strand vor Wilderern (Hueveros).", "Das Hinterland des Strandes besteht aus geschütztem, unberührtem tropischen Trockenwald.", "Auch Lederschildkröten und Echte Karettschildkröten nutzen La Flor als seltenen Nistplatz."],
+      hu: ["Egyetlen 'arribada' alatt akár 100 000 teknős is kimehet a partra néhány nap leforgása alatt.", "A fészkelési főszezon júliustól januárig tart.", "Nicaragua azon 7 hely egyike a világon, ahol ez a tömeges teknős-jelenség megfigyelhető.", "A tojásokból mintegy 45-50 nap elteltével kelnek ki a kisteknősök.", "Az erdőben pókmajmok és különféle színpompás tukánok is élnek.", "A helyi közösségek ökoturizmusból származó bevételei segítettek visszaszorítani a tojások orvvadászatát."],
+      ro: [],
+      en: []
+    }
+  },
   {
     id: "gulf-of-fonseca-nicaragua-nature-v2",
     type: "sea",
@@ -131,7 +248,20 @@ export const poiExtraNicaraguaNatureV2: POI[] = [
       hu: ["Magában foglalja a Cosigüina vulkánt", "Fontos mangroveerdők", "Gazdag tengeri élővilág", "Stratégiai tengeri fekvés"],
       ro: ["Include vulcanul Cosigüina", "Păduri importante de mangrove", "Faună marină bogată", "Poziție maritimă strategică"],
       en: ["Includes the Cosigüina volcano", "Important mangrove forests", "Rich marine fauna", "Strategic maritime location"]
-    }, image: "/poi-images/gulf-of-fonseca-nicaragua-nature-v2.webp"},
+    }, image: "/poi-images/gulf-of-fonseca-nicaragua-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Golf von Fonseca ist eine atemberaubende und geopolitisch komplexe Meeresbucht am Pazifik, deren Gewässer sich Nicaragua, Honduras und El Salvador teilen. Auf der nicaraguanischen Seite wird der Golf von dem mächtigen Vulkan Cosigüina und weiten Mangrovensümpfen (Estero Real) dominiert. Historisch gab es starke militärische und diplomatische Spannungen zwischen den drei Ländern über die Fischereirechte und die Kontrolle der Inseln im Golf. Heute ist die Bucht ein wichtiges Ökosystem für marine Biodiversität und die lokale handwerkliche Fischerei, während die Regierungen versuchen, das Gebiet in eine gemeinsame \"Zone für Frieden und nachhaltige Entwicklung\" zu transformieren. Geografie K8 — Trinationale Meeresbuchten und Grenzstreitigkeiten.",
+      hu: "A Fonseca-öböl (Golfo de Fonseca) egy hatalmas, sekély, természetes tengeri öböl a Csendes-óceán partján, amelyen három ország – Nicaragua, Honduras és El Salvador – osztozik. A nicaraguai partszakasz legmarkánsabb pontja a Cosigüina-félsziget. Az öböl egyedülálló ökológiai rendszer; partjait kiterjedt mangrovecserjések (például az Estero Real) szegélyezik, vulkanikus szigetei pedig menedéket nyújtanak a költöző madaraknak és tengeri teknősöknek. Történelmileg az öböl fontos kalóztanya volt, modern korunkban pedig a három ország közötti területi és halászati viták helyszíne, bár a gazdag rákászat és halászat miatt kulcsfontosságú a helyiek számára. Földrajz K8 — határon átnyúló öblök és mangrove-ökoszisztémák.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Eine riesige pazifische Bucht, deren Wasser und Inseln sich El Salvador, Honduras und Nicaragua teilen.", "Der Golf war Gegenstand jahrzehntelanger Territorialstreitigkeiten, die bis vor den Internationalen Gerichtshof gingen.", "Der nicaraguanische Uferabschnitt wird dominiert vom Vulkan Cosigüina und dem Estero Real.", "Das warme und flache Wasser ist ein Brutgebiet für Meeresfrüchte, was es essentiell für Fischer macht.", "Die drei Länder haben Abkommen unterzeichnet, um den Golf gemeinsam wirtschaftlich zu entwickeln.", "Historisch ein wichtiges Versteck für Piraten, darunter Sir Francis Drake, im 16. Jahrhundert."],
+      hu: ["A Fonseca-öböl vizét a történelem során gyakran nevezték 'Béke-öbölnek' a közös használati egyezmények miatt.", "A spanyol felfedező, Gil González Dávila fedezte fel 1522-ben.", "Nicaraguához tartozik az öböl partvonalának körülbelül 40%-a.", "Vizei sekélyek, az átlagos mélység 15 méter alatt van, ami ideális a ráktenyésztéshez.", "Az öböl bejáratát két vulkán, a nicaraguai Cosigüina és a salvadori Conchagua 'őrzi'.", "Nagy mennyiségben élnek itt pelikánok, fregattmadarak és halászsasok."],
+      ro: [],
+      en: []
+    }
+  },
   {
     id: "rio-tuma-nature-v2",
     type: "river",
@@ -144,7 +274,20 @@ export const poiExtraNicaraguaNatureV2: POI[] = [
       hu: ["Az Apanás-tóvá duzzasztották", "Fontos a vízenergia szempontjából", "A központi felföldön folyik keresztül", "Mezőgazdasági hasznosítás"],
       ro: ["Barat pentru a forma Lacul Apanás", "Important pentru hidroenergie", "Curge prin zonele muntoase centrale", "Utilizare agricolă"],
       en: ["Dammed to form Lake Apanás", "Important for hydropower", "Flows through the central highlands", "Agricultural use"]
-    }, image: "/poi-images/rio-tuma-nature-v2.webp"},
+    }, image: "/poi-images/rio-tuma-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Río Tuma ist das Rückgrat des Wasserkraftnetzes und der Landwirtschaft im nördlichen Zentral-Nicaragua. Entspringend im hochgelegenen Departement Jinotega, wurde sein massiver Wasserfluss in den 1960er Jahren durch den Bau eines Staudamms dramatisch verändert, wodurch der künstliche Apanás-See entstand. Nach dem Passieren der Turbinen fließt der Tuma als mächtiger Strom ostwärts, wo er sich schließlich mit dem Río Grande de Matagalpa vereinigt und in die Karibik strömt. Der wilde Lauf des Flusses durch tiefe Dschungeltäler bietet einen Lebensraum für reiche Fauna, aber die unkontrollierte Abholzung der Uferwälder durch Viehzüchter führt zu schwerer Erosion und Sedimentation. Geografie K7 — Wasserkraft und Flusserosion.",
+      hu: "A Tuma-folyó Matagalpa és Jinotega megyék hegyvidékén ered, és az ország egyik legfontosabb, a Karib-tenger (pontosabban a Río Grande de Matagalpa) felé tartó vízfolyása. Történelmi és gazdasági jelentőségét az adja, hogy ez volt Nicaragua első nagy, mesterségesen felduzzasztott folyója az 1960-as években, aminek eredményeként létrejött az Apanás-tó és az ország energiaellátásának alapját képező Centroamérica vízerőmű. A hegyvidéki szakaszon a Tuma vad és zuhatagos, meredek kanyonokat vág a sziklákba, sűrű, kávéültetvényekkel és köderdőkkel övezett vidéken folyik át. Földrajz K7 — hegyvidéki vízgyűjtők és vízerőművek.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Einer der wichtigsten Flüsse Nicaraguas für die Erzeugung von erneuerbarer Energie.", "Seine Stauung in Jinotega erschuf den Apanás-See, das Zentrum der nationalen Wasserkraft.", "Der Fluss fließt durch dichten Dschungel und raue Berglandschaften Richtung Karibikküste.", "Der Tuma mündet später in Bocana de Paiwas in den mächtigen Río Grande de Matagalpa.", "Die Wasserqualität des Flusses ist zunehmend durch Pestizide der Kaffeewirtschaft bedroht.", "Zahlreiche isolierte Dorfgemeinschaften (Comunidades) sind auf den Fluss als Wasserquelle angewiesen."],
+      hu: ["A folyó a Peñas Blancas hegység közelében, több mint 1000 méteres magasságban ered.", "A felduzzasztott vízenergia az ország tiszta energia termelésének kulcseleme.", "A Tuma a Río Grande de Matagalpa legfőbb mellékfolyója.", "Partjain olyan történelmi kávéfarmok működnek, mint a Selva Negra.", "Sodrása rendkívül erős az esős évszakban, gyakran okozva földcsuszamlásokat a völgyekben.", "A folyóban számos hegyi édesvízi halfaj és rák él."],
+      ro: [],
+      en: []
+    }
+  },
   {
     id: "tisey-estanzuela-reserve-nature-v2",
     type: "forest",
@@ -157,7 +300,20 @@ export const poiExtraNicaraguaNatureV2: POI[] = [
       hu: ["A Salto de la Estanzuela vízesésről ismert", "Hűvös éghajlat", "Túraútvonalak és kilátópontok", "Változatos növényvilág"],
       ro: ["Cunoscut pentru cascada Salto de la Estanzuela", "Climat răcoros", "Trasee de drumeție și puncte de belvedere", "Floră diversă"],
       en: ["Known for the Salto de la Estanzuela waterfall", "Cool climate", "Hiking trails and viewpoints", "Diverse flora"]
-    }, image: "/poi-images/tisey-estanzuela-reserve-nature-v2.webp"},
+    }, image: "/poi-images/tisey-estanzuela-reserve-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Naturreservat Tisey-Estanzuela ist ein faszinierender geologischer und biologischer Schatz direkt vor den Toren der Stadt Estelí. Die Landschaft hier bricht schroff ab und formt tiefe Täler und hohe Klippen. Das Reservat ist landesweit bekannt für den Salto de la Estanzuela, einen idyllischen Wasserfall, der in einen kühlen Pool stürzt. Darüber hinaus zieht der \"Cerro Apagüiz\", ein Felsen mit indigenen Petroglyphen, sowie die kuriose Farm von Alberto Gutiérrez – einem Eremiten, der Hunderte von Figuren in die Klippenwände gemeißelt hat – Touristen an. Das kühle Kiefern- und Eichenwaldklima macht Tisey zu einem Rückzugsort für vom Aussterben bedrohte Bergtierarten. Ökologie K6 — Kiefernwälder und Felsritzungen.",
+      hu: "A Tisey-Estanzuela Természetvédelmi Terület Estelí városától délre fekszik egy magasan (1000-1400 méter) elterülő fennsíkon. A rezervátum elképesztő biológiai változatossággal büszkélkedhet: megtalálhatók itt fenyvesek (pinares), tölgyerdők és kisebb kiterjedésű köderdők is. A terület legismertebb látványossága az Estanzuela-vízesés, amely mintegy 40 méter magasból zuhan alá egy bazaltmedencébe. A rezervátum emellett otthont ad az El Jalacate nevű különleges sziklafalnak is, ahová egy helyi remete, Alberto Gutiérrez évtizedek alatt több száz bibliai és történelmi figurát faragott a kőzetbe, egyedülálló sziklaművészeti galériát hozva létre. Földrajz K8 — magaslati rezervátumok és sziklaművészet.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Das Reservat (Reserva Natural) schützt Bergwälder und Quellen im Departement Estelí.", "Berühmt für den Salto de la Estanzuela, einen 35 Meter tiefen, natürlichen Wasserfall.", "Heimat des Steinkünstlers Alberto Gutiérrez (Der Einsiedler von Tisey), der Felsen behauen hat.", "Der Berg Apagüiz im Reservat gilt als alter zeremonieller Ort mit prähispanischen Steinschnitzereien.", "Die Vegetation zeichnet sich durch einen abrupten Wechsel von Kiefernwäldern zu tropischem Laubwald aus.", "Zahlreiche kleine Öko-Lodges und Kaffeefincas innerhalb des Reservats fördern den Tourismus."],
+      hu: ["A Tisey csúcs (1550 m) a hegyvidék egyik legmagasabb pontja, ahonnan a Momotombo vulkánig is ellátni.", "A rezervátum területén több mint 100 különböző orchideafajt regisztráltak.", "Alberto Gutiérrez, az 'El Ermitaño' (a remete), a 70-es évek óta faragja a sziklákat a dzsungelben.", "Az Estanzuela-vízesés környéki sziklák egy ősi vulkáni kaldera maradványai.", "A rezervátumban élő közösségek (La Garnacha) ökológiai farmokat és sajtkészítő műhelyeket üzemeltetnek.", "A terület a nicaraguai 'Tierra Fría' (Hideg Föld) éghajlati zónába tartozik."],
+      ro: [],
+      en: []
+    }
+  },
   {
     id: "rio-prinza-nature-v2",
     type: "river",
@@ -170,7 +326,20 @@ export const poiExtraNicaraguaNatureV2: POI[] = [
       hu: ["Fontos közlekedési útvonal a távoli közösségek számára", "Prinzapolkánál ömlik a Karib-tengerbe", "Sűrű esőerdőn halad át", "Történelmileg banánszállításra használták"],
       ro: ["Cale de transport importantă pentru comunitățile izolate", "Se varsă în Caraibe la Prinzapolka", "Traversează păduri tropicale dense", "Utilizat istoric pentru transportul bananelor"],
       en: ["Important transport route for remote communities", "Empties into the Caribbean at Prinzapolka", "Crosses dense rainforest", "Historically used for banana transport"]
-    }, image: "/poi-images/rio-prinza-nature-v2.webp"},
+    }, image: "/poi-images/rio-prinza-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Río Prinzapolka ist ein gewaltiger, wilder Fluss in der nördlichen Karibikregion (RACCN), der sich in weiten, braunen Schleifen durch den dichten Dschungel windet. Im 20. Jahrhundert diente dieser Fluss als kritische Logistikroute für den Transport von schweren Maschinen und abgebautem Gold aus dem Bergbau-Dreieck um Siuna an die karibische Küste. Heute ist der Prinzapolka die unverzichtbare Lebensgrundlage für Dutzende indigener Mayangna- und Miskito-Dörfer, die an seinen Ufern siedeln. Die Region ist extrem isoliert und leidet regelmäßig unter katastrophalen Überschwemmungen während der Hurrikan-Saison, wenn der Fluss weit über seine Ufer tritt und die hölzernen Pfahlbauten der Indigenen bedroht. Geografie K7 — Karibische Flusssysteme und indigene Siedlungen.",
+      hu: "A Prinzapolka-folyó (Río Prinzapolka) a Bányászati Háromszög hegyeiből (Siuna környékéről) indulva halad keleti irányba, és egy kiterjedt mangrovedeltán keresztül ömlik a Karib-tengerbe. Ez a 250 kilométer hosszú folyó egy klasszikus, trópusi dzsungelfolyó, amely a szárazföldi utak hiányában a régió – beleértve Alamikamba városát is – legfőbb közlekedési és kereskedelmi ütőere. A 19. és 20. században ezen a folyón szállították a kitermelt mahagónit és aranyat az óceán felé. A folyó mentén élő miszkító és mayangna közösségek megélhetése teljesen a vízhez kötött, gyakran építik házaikat cölöpökre a gyakori trópusi áradások miatt. Földrajz K7 — dzsungelfolyók és őslakos logisztika.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Der Prinzapolka gehört zu den längsten und wasserreichsten Flüssen der nicaraguanischen Karibikseite.", "Historisch die wichtigste Wasserstraße für den Transport von Material in die Goldminen von Siuna.", "Zahlreiche indigene Miskito- und Mayangna-Gemeinschaften siedeln in traditionellen Pfahlbauten an den Ufern.", "In der Regenzeit (insbesondere bei Hurrikanen) überschwemmt der Fluss massive Flächen des Regenwaldes.", "Der Fluss mündet am gleichnamigen Küstendorf Prinzapolka direkt in das Karibische Meer.", "Der Transport im Mittellauf des Flusses erfolgt fast ausschließlich über lange, ausgehöhlte Einbäume (Pipantes)."],
+      hu: ["A folyó teljes hossza mintegy 254 kilométer, vízgyűjtő medencéje hatalmas (több mint 11 000 km²).", "A torkolatvidéke sűrű mangrovecserjés, tele amerikai krokodilokkal és lamantinokkal.", "A torkolatnál lévő Prinzapolka városa a 20. század elején fontos arany-exportőr kikötő volt.", "A hajózás (pangas és pipantes) az egyetlen megbízható közlekedési mód a folyó mentén.", "1998-ban a Mitch hurrikán pusztító iszapáradatot zúdított a folyó völgyébe.", "Vize gyakran iszapos és barna a bányászat és a hegyi erózió miatt."],
+      ro: [],
+      en: []
+    }
+  },
   {
     id: "miskito-cays-nature-v2",
     type: "island",
@@ -183,7 +352,20 @@ export const poiExtraNicaraguaNatureV2: POI[] = [
       hu: ["Tengeri biológiai védett terület", "Fontos a miskito halászok számára", "Magas tengeri biodiverzitás", "Nehezen megközelíthető"],
       ro: ["Rezervație marină biologică", "Important pentru pescarii Miskito", "Biodiversitate marină ridicată", "Greu accesibil"],
       en: ["Marine biological reserve", "Important for Miskito fishermen", "High marine biodiversity", "Difficult to access"]
-    }, image: "/poi-images/miskito-cays-nature-v2.webp"},
+    }, image: "/poi-images/miskito-cays-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Miskito Cays (Cayos Miskitos) sind eines der unberührtesten und wildesten Meeresökosysteme Zentralamerikas. Weit vor der nordkaribischen Küste gelegen, besteht dieses Labyrinth aus winzigen Mangroveninseln, Seegraswiesen und Korallenriffen. Dieses Gebiet ist nicht nur ein Biosphärenreservat von globaler Bedeutung, sondern auch das historische Jagdrevier des indigenen Miskito-Volkes, das auf Pfahlbauten direkt über dem flachen Meeresspiegel (Tambo) lebt. Die Inseln sind das wichtigste Refugium für den massiven Grünen Leguan, Meeresschildkröten und die schwer fassbaren Seekühe (Manatis). Die extrem schwere Erreichbarkeit schützt das Archipel vor Massentourismus, nicht jedoch vor der ständigen Bedrohung durch verheerende Hurrikane. Naturkunde K8 — Marine Biosphären und indigene Meereskultur.",
+      hu: "A Miskito Cays (Cayos Miskitos) egy izolált, mintegy 130 apró, mangrove-borította szigetből és korallzátonyból álló szigetcsoport a Karib-tengeren, több tíz kilométerre Nicaragua északkeleti partjaitól. Ez a sekély (gyakran csak pár méter mély) vízterület a zöld teknősök (Chelonia mydas) világ egyik legfontosabb tengerifű-legelője és a karibi lamantinok menedéke. A szigeteknek nincs állandó, szárazföldi lakossága; a miszkító halászok víz feletti cölöpházakban élnek itt a halászati szezon (homár, teknős) alatt. 1991-ben a területet hivatalosan is Biológiai Rezervátummá nyilvánították az egyedülálló, érintetlen tengeri ökoszisztéma védelme érdekében. Földrajz K8 — tengerifű-mezők és cölöpházas halászat.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Ein großes, komplexes Korallen- und Mangrovenarchipel über 50 km vor der nicaraguanischen Nordküste.", "Ausgerufenes Biosphärenreservat (Reserva Biológica Cayos Miskitos), um einzigartige Riffe zu schützen.", "Viele indigene Miskito-Fischer leben monatelang in auf Holzpfählen gebauten Hütten direkt über dem Meer.", "Eines der wichtigsten Rückzugsgebiete für karibische Seekühe (Manatis) und Meeresschildkröten.", "Das flache Wasser und die Seegraswiesen (Pastos Marinos) sind extrem wichtig für das Ökosystem.", "Wurde durch Hurrikane (wie Felix 2007) oftmals schwer verwüstet, woraufhin die Riffe Jahre zur Erholung brauchten."],
+      hu: ["A terület a Nyugati-félteke egyik legnagyobb tengerifű (sea grass) mezőjét foglalja magában.", "A zöld teknős vadászata történelmileg a miszkító kultúra része, bár ma szigorúan kvótákhoz kötött.", "17-18. századi kalózok (köztük Henry Morgan) gyakran használták búvóhelyként a zátonyokat.", "A szigetek többsége csak alacsony mangrovecserjékből áll, amelyek dagálykor nagyrészt víz alá kerülnek.", "Az 1990-es években a dinamitos halászat komoly károkat okozott, amit azóta betiltottak.", "A 2007-es Felix hurrikán szinte az összes cölöpházat megsemmisítette a zátonyokon."],
+      ro: [],
+      en: []
+    }
+  },
   {
     id: "rio-grande-de-matagalpa-nature-v2",
     type: "river",
@@ -196,7 +378,20 @@ export const poiExtraNicaraguaNatureV2: POI[] = [
       hu: ["Matagalpa közelében ered", "A Karib-tengerbe ömlik", "Vízenergia-potenciál", "Változatos tájakon folyik keresztül"],
       ro: ["Izvorăște lângă Matagalpa", "Se varsă în Caraibe", "Potențial hidroenergetic", "Traversează peisaje diverse"],
       en: ["Originates near Matagalpa", "Empties into the Caribbean", "Potential for hydropower", "Flows through diverse landscapes"]
-    }, image: "/poi-images/rio-grande-de-matagalpa-nature-v2.webp"},
+    }, image: "/poi-images/rio-grande-de-matagalpa-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Río Grande de Matagalpa ist nach dem Río Coco der zweitlängste Fluss Nicaraguas. Er entspringt hoch in den pazifischen Bergen nahe der Stadt Matagalpa, bahnt sich seinen Weg quer durch den gesamten zentralen Teil des Landes und mündet schließlich an der wilden, karibischen Küste bei Karawala in den Ozean. Dieser Fluss ist die ultimative Brücke zwischen den zwei völlig verschiedenen kulturellen Welten Nicaraguas: den spanischsprachigen, landwirtschaftlichen Hochländern des Pazifiks und dem dschungelbewachsenen, von Indigenen und Kreolen bewohnten Karibikbecken. Staudämme im Oberlauf nutzen seine Energie, während der Unterlauf eine gewaltige, oft von Überflutungen geplagte Wildnis darstellt, die nur mit Booten bezwungen werden kann. Geografie K8 — Transversale Flüsse und Wasserstraßen.",
+      hu: "A Río Grande de Matagalpa Nicaragua második leghosszabb (Nicaraguában teljes egészében futó) folyója a Coco-folyó után. A kávétermő központi hegységben, Matagalpa városa felett ered apró hegyi patakként, majd több mint 450 kilométert tesz meg a trópusi dzsungeleken keresztül, míg Karawala mellett beleömlik a Karib-tengerbe. Ahogy a folyó leereszkedik a hegyekből, magába gyűjti a Tuma és a Murra folyókat, széles, sáros víztömeggé duzzadva. Alsó folyásánál a Río Grande az egyetlen kapcsolat a külvilággal a dzsungelben élő őslakos közösségek (ulwas és miszkítók) számára. Földrajz K8 — folyórendszerek kiterjedése és az Amazonas-jellegű dzsungelek.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Der zweitlängste Fluss des Landes (465 km), der Nicaragua von Westen nach Osten durchschneidet.", "Entspringt in der vulkanischen pazifischen Kordillere und mündet in das Karibische Meer.", "Der Flussname (Grande) verweist auf sein enormes Wassereinzugsgebiet, das 20 % des Landes abdeckt.", "Historisch eine Barriere für die Expansion der Landwirtschaft, heute Zentrum massiver Abholzung an den Ufern.", "Wichtige Wasserstraße für die extrem isolierte, indigene Gemeinde La Cruz de Río Grande.", "Diente im späten 19. und frühen 20. Jahrhundert auch als Handelsweg für den Export ins Ausland."],
+      hu: ["Teljes hossza 465 kilométer, vízgyűjtő területe pedig lefedi Nicaragua középső részének nagy részét.", "A folyót egykor az őslakosok 'Ucumulali'-nak nevezték.", "A Tuma-folyóval való összefolyás után válik mély és hajózható trópusi folyamá.", "Felső szakaszán (Sébaco-völgy) kritikus fontosságú az öntözéses mezőgazdaság számára.", "Alsó szakaszain sűrű esőerdők szegélyezik, melyekben jaguárok és hárpiák élnek.", "Torkolata (Desembocadura de Río Grande) egy elzárt, autonóm őslakos terület."],
+      ro: [],
+      en: []
+    }
+  },
   {
     id: "zapatera-island-nature-v2",
     type: "island",
@@ -209,7 +404,20 @@ export const poiExtraNicaraguaNatureV2: POI[] = [
       hu: ["Fontos régészeti lelőhely", "Számos petroglifa és szobor", "Pajzsvulkán", "Gazdag állatvilág"],
       ro: ["Situl arheologic important", "Numeroase petroglife și statui", "Vulcan scut", "Faună bogată"],
       en: ["Important archaeological site", "Numerous petroglyphs and statues", "Shield volcano", "Rich wildlife"]
-    }, image: "/poi-images/zapatera-island-nature-v2.webp"},
+    }, image: "/poi-images/zapatera-island-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Insel Zapatera ist der erloschene, wilde Zwilling des Vulkans Mombacho, der sich aus den Fluten des großen Nicaraguasees erhebt. Ein Großteil der bergigen Insel ist als offizieller Nationalpark ausgewiesen, der dichten Trockenwald und Kraterreste schützt. Im krassen Gegensatz zur touristisch erschlossenen Insel Ometepe ist Zapatera wild, kaum besiedelt und touristisch kaum entwickelt. Das macht die Insel zu einem ungestörten Paradies für Brüllaffen, Hirsche und unzählige Vogelarten. Historisch war die Vulkaninsel der heiligste Kultplatz der Chorotega-Indigenen, die hier hunderte massive Basaltstatuen meißelten. Heute verbinden sich auf Zapatera wilde Natur und unentdeckte Archäologie in extremer Isolation. Geografie K7 — Vulkaninseln und Nationalparks.",
+      hu: "A Zapatera-sziget (Isla Zapatera) a Nicaragua-tó (Cocibolca) második legnagyobb szigete Ometepe után. Valójában egy 600 méter magas, sűrű trópusi erdővel borított, kihalt pajzsvulkán. Míg Ometepe sűrűn lakott, Zapatera nagyrészt lakatlan, titokzatos és vad. A sziget a történelem során a chorotega indiánok szent temetkezési és vallási központja volt, ahol a híres bazaltból faragott (alter-ego) istenszobrokat és számtalan sziklarajzot találtak. A szigetet és a körülötte lévő apró szigetcsoportot Nemzeti Parkká nyilvánították, amely buja növényzetével majmok, ritka papagájok és csónakcsőrű gémek érintetlen menedéke. Földrajz K7 — pajzsvulkánok a tavakban és régészeti parkok.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Die zweitgrößte Insel im Nicaraguasee, bestehend aus einem erloschenen Schildvulkan.", "Das gesamte Gebiet wurde 1983 zum Nationalpark (Parque Nacional Archipiélago de Zapatera) erklärt.", "Ist weltweit berühmt als Fundort monumentaler präkolumbianischer Basaltstatuen (Götzen).", "Die Insel ist fast vollständig von dichten, schwer zugänglichen Wäldern bedeckt.", "Verfügt über keinerlei asphaltierte Straßen und ist nur über eine raue Bootsfahrt aus Granada erreichbar.", "Wenige arme Bauernfamilien siedeln an den Küsten, während das bergige Innere völlig menschenleer ist."],
+      hu: ["A Zapatera pajzsvulkán kora ellenére még láthatók kisebb vulkáni kúpok a szigeten.", "A sziget neve a spanyol 'zapatero' (cipész) szóból ered, a sziget állítólagos cipő-formája miatt.", "A sziget körül több tucat apró sziget (isletas) található, amelyeket a vulkán omlása hozott létre.", "A prekolumbián bazaltszobrok nagy részét a 19. század végén Managuába és Granadába vitték.", "A sziget belseje nehezen megközelíthető a sűrű aljnövényzet és az utak hiánya miatt.", "Élővilágában a bőgőmajmok (monos aulladores) a leginkább feltűnőek."],
+      ro: [],
+      en: []
+    }
+  },
   {
     id: "laguna-de-perlas-nature-v2",
     type: "lake",
@@ -222,7 +430,20 @@ export const poiExtraNicaraguaNatureV2: POI[] = [
       hu: ["Brakkvízi ökoszisztéma", "Kapcsolat a Karib-tengerrel", "Fontos a helyi halászat számára", "Mangroveerdőket foglal magában"],
       ro: ["Ecosistem de apă salmastră", "Legătură cu Marea Caraibilor", "Important pentru pescuitul local", "Include păduri de mangrove"],
       en: ["Brackish water ecosystem", "Connection to the Caribbean Sea", "Important for local fishing", "Includes mangrove forests"]
-    }, image: "/poi-images/laguna-de-perlas-nature-v2.webp"},
+    }, image: "/poi-images/laguna-de-perlas-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Perlenlagune (Laguna de Perlas) ist das ausgedehnteste und wichtigste Küstenlagunensystem der nicaraguanischen Karibik. Das brackige, ruhige Gewässer wird von zahlreichen Flüssen gespeist und durch eine schmale Sandbank vom tosenden Ozean getrennt. Diese geografische Besonderheit schafft ein Labyrinth aus tiefen Mangrovenwäldern, das als Kinderstube für Garnelen, Fische und Schildkröten fungiert. An den Ufern der Lagune haben sich afro-karibische (kreolische) und indigene (Miskito und Garifuna) Gemeinschaften angesiedelt, deren Kultur sich völlig um den Fischfang auf der Lagune dreht. Die Lagune bleibt ein fragiles Paradies, das zunehmend durch illegale Abholzung im Hinterland bedroht wird. Geografie K7 — Brackwasserlagunen und Küstenökologie.",
+      hu: "A Gyöngy-lagúna (Laguna de Perlas / Pearl Lagoon) egy hatalmas, sekély, sós vizű öböl (esztuárium) a Karib-tenger partján, Dél-Nicaraguában. Kiterjedt mangroveligetei, a Karib-tengerrel való folytonos vízcseréje és az ide torkolló édesvízi folyók miatt ez a térség a tengeri és édesvízi faunák lenyűgöző találkozási pontja. A lagúna az ország legfontosabb garnélarák- és halászati területe. Partjain színes, angol kreol és miszkító etnikumú közösségek (mint Pearl Lagoon városa vagy Orinoco) élnek, akik teljes mértékben a lagúna vizétől függenek. A lagúna nyugalma éles ellentétben áll a Karib-tenger viharos nyílt vizeivel. Földrajz K7 — sós vizű lagúnák és kreol kultúrák.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Die flächenmäßig größte Küstenlagune an der nicaraguanischen Karibikküste (über 500 km²).", "Ein gigantisches Brackwasser-Ökosystem, in dem sich Süßwasserflüsse mit Meerwasser mischen.", "Die umliegenden Wälder und Mangroven sind die Heimat seltener Seekühe (Trichechus manatus).", "An ihren Ufern existieren isolierte Siedlungen der bedrohten indigenen Garifuna-Kultur (z. B. Orinoco).", "Die Lagune ist das wirtschaftliche Zentrum für den hochprofitablen Fang von Krabben und Fischen.", "Der Name \"Perlenlagune\" stammt von Austern, die hier früher gefunden wurden."],
+      hu: ["A lagúna területe meghaladja a 500 négyzetkilométert, de mélysége átlagosan csak 2-4 méter.", "A 18. században kalózok (köztük Feketeszakáll) búvóhelye volt az angol protektorátus alatt.", "A vizében élnek a veszélyeztetett karibi lamantinok (tengeri tehenek).", "A part menti falvakat csak a közelmúltban, az elmúlt évtizedben kötötték össze szárazföldi utakkal.", "A lagúna neve a 16. századi spanyol felfedezők idejéből származik, akik gyöngyöket kerestek (bár ma már nem jellemző).", "Minden évben hagyományos vitorlás csónak (panga) versenyeket tartanak a lagúnán."],
+      ro: [],
+      en: []
+    }
+  },
   {
     id: "telica-volcano-nature-v2",
     type: "mountain",
@@ -235,7 +456,20 @@ export const poiExtraNicaraguaNatureV2: POI[] = [
       hu: ["Gyakori kisebb kitörések", "Éjjel látható láva a kráterben", "A Maribios vulkánlánc része", "Magasság: 1,061 m"],
       ro: ["Erupții minore frecvente", "Lavă vizibilă în crater noaptea", "Parte a lanțului vulcanic Maribios", "Altitudine: 1.061 m"],
       en: ["Frequent minor eruptions", "Visible lava in the crater at night", "Part of the Maribios volcanic chain", "Elevation: 1,061 m"]
-    }, image: "/poi-images/telica-volcano-nature-v2.webp"},
+    }, image: "/poi-images/telica-volcano-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Vulkan Telica in der Vulkankette Maribios (Departement León) ist eines der aktivsten und bedrohlichsten Naturphänomene Zentralamerikas. Was den 1.061 Meter hohen Vulkan so besonders macht, ist sein tiefer, runder Krater, in dem man fast durchgehend einen See aus flüssiger, orangeroter Magma blubbern sehen und hören kann. Der steile Aufstieg durch karges Vulkangestein belohnt mutige Wanderer mit einem surrealen, nächtlichen Blick in den \"Schlund der Erde\". Der Telica ist berüchtigt für plötzliche Ascheeruptionen, die oft die umliegenden Erdnussfelder und Dörfer in grauen Staub hüllen. Aus diesem extremen geothermischen Potenzial zieht Nicaragua zudem saubere Energie durch naheliegende Kraftwerke. Naturkunde K8 — Aktiver Vulkanismus und Lavaseen.",
+      hu: "A Telica vulkán (Volcán Telica) León megyében a Maribios vulkáni hegylánc egyik legaktívabb és leglátványosabb tagja. A 1061 méter magas hegy tetején egy hatalmas, dupla kráter található, amely szinte folyamatosan ontja magából a gőz- és kéngázokat (fumarolák). Különlegessége, hogy a sötétedés beálltával a kráter pereméről letekintve tiszta éjszakákon megpillantható a mélyben izzó magma fénye. Az állandó aktivitás és az időszakos, kisebb hamukitörések miatt a vulkán lejtői kopárak, a sziklák vöröses és sárgás (kén) színben pompáznak. A csúcsra való éjszakai túrázás a kalandturisták egyik kedvenc programja. Földrajz K8 — aktív vulkánok és magma megfigyelés.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Einer der aktivsten Schichtvulkane (Stratovulkan) im pazifischen Becken Nicaraguas (1.061 m).", "Sein Krater ist 700 Meter breit und fast 120 Meter tief, mit oft sichtbarer, glühender Lava am Grund.", "Eruptionen mit feinem Ascheregen (Ceniza) bedrohen regelmäßig die benachbarte Stadt León.", "Trotz der Gefahr ist er eines der beliebtesten Ziele für Abenteuertouristen, besonders für Nachtwanderungen.", "Die Hitze des Vulkans treibt das größte Geothermiekraftwerk des Landes (San Jacinto-Tizate) an.", "Am Fuße des Vulkans befinden sich die \"Hervideros de San Jacinto\", sprudelnde, kochende Schlammlöcher."],
+      hu: ["A vulkán kettős kráterének átmérője eléri a 700 métert.", "1527 óta több mint tucatnyi jelentős kitörését jegyezték fel a krónikákban.", "A legutóbbi nagyobb hamukilövellések (robbantásos kitörések) 2015-ben és 2021-ben történtek.", "A vulkán lábánál fekszenek a San Jacinto forró iszapmedencéi, amelyeket a hegy magmája melegít.", "A túra a csúcsra általában San Jacinto falu mellől, sűrű cserjésen keresztül indul.", "Az állandó kén-dioxid gázok miatt a kráter peremén a légzés nehézkessé válhat."],
+      ro: [],
+      en: []
+    }
+  },
   {
     id: "san-lorenzo-cloud-forest-nature-v2",
     type: "forest",
@@ -248,7 +482,20 @@ export const poiExtraNicaraguaNatureV2: POI[] = [
       hu: ["Elszigetelt ökoszisztéma", "Epifitonokban, például orchideákban gazdag", "Fontos vízforrás a régió számára", "Védett terület"],
       ro: ["Ecosistem izolat", "Bogat în epifite precum orhideele", "Sursă importantă de apă pentru regiune", "Zonă protejată"],
       en: ["Isolated ecosystem", "Rich in epiphytes like orchids", "Important water source for the region", "Protected area"]
-    }, image: "/poi-images/san-lorenzo-cloud-forest-nature-v2.webp"},
+    }, image: "/poi-images/san-lorenzo-cloud-forest-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Die nebligen Berggipfel und Nebelwälder um San Lorenzo (insbesondere der Cerro Alegre und angrenzende Gebiete) im Departement Boaco sind eine ökologische Oase inmitten einer Region, die ansonsten stark durch Rinderweiden abgeholzt wurde. Auf den höchsten Erhebungen stauen sich die feuchten Winde aus der Karibik und hüllen die dichten, mit Bromelien und Moosen bewachsenen Bäume in ständigen Nebel. Diese winzigen, fragmentierten Nebelwald-Patches sind lebenswichtig: Sie fungieren als natürliche Schwämme, die das Wasser sammeln und in der harten Trockenzeit langsam an die Täler abgeben, womit sie das Überleben der Landwirtschaft in Boaco sichern. Leider wird dieser Wald beständig durch vordringende Kaffeefincas und illegale Holzwirtschaft bedroht. Ökologie K7 — Nebelwald-Ökosysteme und Wasserscheiden.",
+      hu: "A San Lorenzo-i köderdő (Bosque Nuboso de San Lorenzo) Boaco és Matagalpa megye határán, a Cordillera Chontaleña és a Macizos de Peñas Blancas hegyeinek egy magaslati szakaszán található, kevéssé ismert, de lenyűgöző ökológiai zóna. Ezek a magasan fekvő (1200 méter feletti) erdők szinte állandóan felhőkbe és ködbe burkolóznak, amelyet a Karib-tenger felől érkező páradús szelek hoznak létre. Ennek eredményeként az erdő folyamatosan 'csepeg', a fákat vastag moha-, orchidea- és bromélia-takaró borítja. A terület kritikus fontosságú a vízgyűjtés szempontjából, és számos ritka rovarnak és madárnak (köztük a kvézálnak) biztosít menedéket. Földrajz K8 — köderdők klimatológiája és vízmegtartás.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Ein isoliertes Fleckchen Nebelwald (Bosque Nuboso) auf den höchsten Berggipfeln des Departements Boaco.", "Das Gebiet ist fast ständig in Wolken gehüllt, was die Luftfeuchtigkeit bei fast 100% hält.", "Die Bäume sind dicht bewachsen mit Epiphyten (Aufsitzerpflanzen) wie Orchideen und Bromelien.", "Das Waldgebiet ist die wichtigste hydrologische Reserve (Wasserscheide) für die umliegende Landwirtschaft.", "Wird aufgrund seiner Höhe (oft über 1.000 Meter) als Zufluchtsort für vom Klimawandel bedrohte Tierarten angesehen.", "Die Ausbreitung illegaler Viehweiden (Ganadería extensiva) schrumpft das Waldgebiet massiv."],
+      hu: ["A fák a köd lecsapódása (occult precipitation) révén a szükséges vízmennyiség jelentős részét a levegőből nyerik.", "A San Lorenzo-i erdőkben található több patak és vízesés is sosem szárad ki.", "A köderdők kiterjedését egyre inkább fenyegeti a klímaváltozás és a felmelegedés (a felhőszint emelkedése).", "Itt találhatók Közép-Amerika legnagyobb páfrányfái (helechos arborescentes), melyek dinoszaurusz-kori reliktumok.", "A területen gyakori a fákra tapadó, apró epifita orchideák virágzása.", "Az erdőt nagyrészt nehéz megközelíteni a meredek, sárga agyagos utak miatt."],
+      ro: [],
+      en: []
+    }
+  },
   {
     id: "little-corn-island-nature-v2",
     type: "island",
@@ -261,7 +508,20 @@ export const poiExtraNicaraguaNatureV2: POI[] = [
       hu: ["Nincsenek motoros járművek", "Korallzátonyok veszik körül", "Népszerű búvár- és sznorkelezési hely", "Nyugodt légkör"],
       ro: ["Fără vehicule motorizate", "Înconjurat de recife de corali", "Popular pentru scufundări și snorkeling", "Atmosferă relaxată"],
       en: ["No motorized vehicles", "Surrounded by coral reefs", "Popular for diving and snorkeling", "Relaxed atmosphere"]
-    }, image: "/poi-images/little-corn-island-nature-v2.webp"},
+    }, image: "/poi-images/little-corn-island-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Little Corn Island (Isla Pequeña del Maíz) ist das ultimative Karibik-Klischee, gelegen rund 70 Kilometer vor der östlichen Küste Nicaraguas. Mit nicht einmal drei Quadratkilometern Fläche hat sich diese kleine Koralleninsel rigoros gegen die Modernisierung entschieden: Es gibt hier keine Autos, keine Straßen und keinen ständigen Strom. Die Bewegung auf der Insel erfolgt ausschließlich zu Fuß über enge Dschungelpfade, die palmengesäumte weiße Traumstrände miteinander verbinden. Diese Abgeschiedenheit hat das umliegende Riff geschützt, was Little Corn Island zum perfekten Hub für Taucher auf der Suche nach Hammerhaien und Rochen macht. Die Kultur der Inselbewohner (Kreolen) ist englischsprachig, laid-back und stark karibisch geprägt. Geografie K6 — Autolose Karibikinseln und Riffschutz.",
+      hu: "Little Corn Island (Kis Kukorica-sziget) a Karib-tenger egyik rejtett, autómentes ékköve, amely a nagyobb szigettől (Big Corn Island) mindössze félórás motorcsónak-útra fekszik. A szigeten nincsenek aszfaltozott utak, nincsenek motoros járművek; az élet gyalogos ösvényeken (senderos) és trópusi pálmafák alatt zajlik. A mindössze 3 négyzetkilométeres területet ragyogó, fehér homokos partok és egy rendkívül egészséges korallzátony (reef) veszi körül, amely kiváló búvárkodási (scuba és snorkeling) lehetőségeket nyújt, cápákkal, rájákkal és színes trópusi halakkal. A sziget angol-kreol hangulata teljes karibi kikapcsolódást nyújt. Földrajz K7 — autómentes szigetek és korallzátonyok.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Die kleinere Schwesterinsel von Great Corn Island, erreichbar nur durch eine oft raue Überfahrt im Schnellboot (Panga).", "Auf der gesamten Insel gibt es weder Autos noch befestigte Straßen, sondern nur Sand- und Waldwege.", "Stromversorgung auf der Insel war historisch sehr begrenzt, oft nur durch Generatoren am Abend.", "Umgeben von intakten Korallenriffen, die als eines der besten Tauchgebiete in Zentralamerika gelten.", "Ein beliebtes Ziel für Backpacker und Touristen auf der Suche nach extrem abgeschiedenen Traumstränden.", "Die lokale kreolische Kultur spricht vorwiegend Englisch und lebt fast ausschließlich von Fischfang und Tourismus."],
+      hu: ["A szigeten nincsenek autók vagy robogók; minden árut kézikocsikon szállítanak.", "A sziget egészét egyetlen sétával, alig egy óra alatt körbe lehet járni.", "Áramszolgáltatás sokáig csak napi néhány órában volt, generátorokkal.", "A part menti zátony (barrier reef) védi a szigetet a heves karibi hullámoktól.", "A szigeten jelentős rákászat (languszta) folyik a helyi közösségek részéről.", "2018 előtt a szigeten a hurrikánok viszonylag ritkák voltak, de egyre gyakoribbá válnak."],
+      ro: [],
+      en: []
+    }
+  },
   {
     id: "cosiguina-lagoon-nature-v2",
     type: "lake",
@@ -274,7 +534,20 @@ export const poiExtraNicaraguaNatureV2: POI[] = [
       hu: ["Az 1835-ös kitörés után keletkezett", "Mélyzöld víz", "Elzárt fekvés", "Egy természetvédelmi terület része"],
       ro: ["Format după erupția din 1835", "Apă de un verde profund", "Locație izolată", "Parte a unei rezervații naturale"],
       en: ["Formed after the 1835 eruption", "Deep green water", "Secluded location", "Part of a nature reserve"]
-    }, image: "/poi-images/cosiguina-lagoon-nature-v2.webp"},
+    }, image: "/poi-images/cosiguina-lagoon-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Kraterlagune des Vulkans Cosigüina ist ein atemberaubendes Naturwunder, versteckt im äußersten, abgelegenen Nordwesten Nicaraguas. Der heute fast flache Vulkan explodierte 1835 in der massivsten Eruption der Geschichte beider Amerikas und hinterließ eine tiefe Caldera. Am Grund dieses gigantischen Loches stauten sich im Laufe der Jahrhunderte Regenwasser und unterirdische Quellen, die heute eine tiefe, türkisgrüne Lagune bilden. Da der Krater schwer erreichbar und von dichtem Wald umgeben ist, wirkt der See fast mystisch unberührt. Vom steilen Kraterrand aus können mutige Wanderer über den smaragdgrünen See blicken und gleichzeitig die Küsten von Nicaragua, Honduras und El Salvador bewundern. Naturkunde K8 — Eingestürzte Calderen und Kraterseen.",
+      hu: "A Cosigüina-lagúna (Laguna del Volcán Cosigüina) egy látványos, mélykék-smaragdzöld krátertó, amely a Cosigüina-vulkán beszakadt kalderájának mélyén, mintegy 500 méterrel a perem alatt rejtőzik a Fonseca-öböl félszigetén. A tó az 1835-ös apokaliptikus vulkánkitörés nyomán keletkezett mélyedésben gyűlt össze az esővízből. A lagúnát szinte függőleges, több száz méter magas bazalt sziklafalak veszik körül, ami miatt a vízfelület gyalogosan megközelíthetetlen. A kráter pereméről (ahova egy meredek túra vezet) letekintve a tó érintetlen, vad szépsége és a három szomszédos ország (Honduras, El Salvador, Nicaragua) panorámája páratlan látványt nyújt. Földrajz K8 — vulkáni kalderák és nehezen megközelíthető tavak.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Die Lagune füllt den Krater des Vulkans Cosigüina, der 1835 bei einer monströsen Explosion sein Dach verlor.", "Das Wasser liegt hunderte Meter steil unterhalb des Kraterrands und ist türkisblau gefärbt.", "Aufgrund der steilen Felswände gibt es keinen direkten Pfad hinab zum Wasserufer.", "Die Kraterwände sind ein Nistplatz für Hunderte wilder Roter Aras und Falken.", "Die umgebende Halbinsel ist eine der trockensten Regionen des Landes.", "Ein massives Erdbeben könnte laut Geologen zum katastrophalen Auslaufen der Lagune führen."],
+      hu: ["A krátertó átmérője hozzávetőlegesen 1,5 kilométer.", "Mivel nincs lefolyása, és mélyen a hegyben van, a víz enyhén savas és ásványi anyagokban gazdag.", "A tó vize a benne élő ásványi anyagok és algák miatt kapja a jellegzetes zöldes-kék színt.", "Az 1835-ös robbanás olyannyira masszív volt, hogy egy ideig a napot is elsötétítette Közép-Amerikában.", "A kráter belső sziklafalain gyakran fészkelnek trópusi vándorsólymok és ara papagájok.", "A tó vizének hőmérsékletét a mélyben található hidrotermális források tartják egyenletesen melegen."],
+      ro: [],
+      en: []
+    }
+  },
   {
     id: "estero-real-nature-v2",
     type: "sea",
@@ -287,7 +560,20 @@ export const poiExtraNicaraguaNatureV2: POI[] = [
       hu: ["Fontos költőhely madarak és halak számára", "Garnélarák-tenyésztés", "A Fonseca-öbölbe ömlik", "Nemzetközi jelentőségű védett terület (Ramsar)"],
       ro: ["Zonă importantă de reproducere pentru păsări și pești", "Creșterea creveților", "Se varsă în Golful Fonseca", "Zonă protejată de importanță internațională (Ramsar)"],
       en: ["Important breeding ground for birds and fish", "Shrimp farming", "Empties into the Gulf of Fonseca", "Protected area of international importance (Ramsar)"]
-    }, image: "/poi-images/estero-real-nature-v2.webp"},
+    }, image: "/poi-images/estero-real-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Estero Real im Departement Chinandega ist eines der komplexesten und ökologisch wichtigsten Feuchtgebiete Mittelamerikas. Diese riesige Mündung gabelt sich in ein verzweigtes System aus Mangroven, Schlammbänken und Gezeitenflüssen, das schließlich in den Golf von Fonseca fließt. Für Zugvögel ist das Estero Real ein lebensrettender Stopp, und für zahlreiche Meeresbewohner eine unverzichtbare Kinderstube. Doch die Region ist Schauplatz eines erbitterten Kampfes: Einerseits schützen NGOs den Mangrovenwald, andererseits fressen sich industrielle Garnelenfarmen (Camaroneras) rücksichtslos in das Ökosystem, um Meeresfrüchte für den globalen Export zu produzieren. Das Gebiet verdeutlicht die harte Balance zwischen Exportwirtschaft und Naturschutz. Ökologie K8 — Mangroven-Deltas und Aquakulturkonflikte.",
+      hu: "Az Estero Real (Királyi Torkolat) egy óriási, szövevényes mangrove-ökoszisztéma (esztuárium) Chinandega megyében, amely a Fonseca-öbölbe torkollik. Ez Közép-Amerika egyik legkiterjedtebb vizes élőhelye (több mint 40 000 hektár), és Ramsari területként nemzetközi jelentőségű. Az Estero Real sós és édesvíz keveredéséből álló lagúnái és csatornái tökéletes bölcsődét biztosítanak a tengeri halaknak, a Csendes-óceáni rákoknak (camarones) és kagylóknak. A vörös és fekete mangrovefák (mangles) sűrű gyökérzete áthatolhatatlan dzsungelt alkot, amely véd a part menti erózió ellen, miközben gémek, pelikánok és krokodilok ezreinek ad otthont. Földrajz K7 — esztuáriumok és mangrove-védelem.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Eine gewaltige Gezeitenmündung (Estero), anerkannt als internationales Ramsar-Schutzgebiet.", "Das dichte Netzwerk aus Mangrovenbäumen schützt die pazifische Küste vor massiver Erosion.", "Ist das wichtigste Winterquartier für hunderttausende nordamerikanische Zugvögel.", "Stark bedroht durch das Abholzen von Mangroven zugunsten riesiger Shrimp-Farmen (Camaroneras).", "Im schlammigen, flachen Wasser lebt eine sehr dichte Population amerikanischer Krokodile.", "Der Wasserspiegel steigt und fällt hier dramatisch zweimal am Tag durch die pazifischen Gezeiten."],
+      hu: ["Az Estero Real az egyik legfontosabb fészkelő- és pihenőhelye a vonuló vízimadaraknak Észak- és Dél-Amerika között.", "A régióban a 90-es évektől robbanásszerűen megnőtt a mesterséges ráktenyésztés (camaroneras), ami komolyan veszélyezteti a mangrovékat.", "Az esztuárium egy hatalmas tektonikus süllyedékben alakult ki a vulkáni hegylánc és a tenger között.", "A víz szintje az árapály hatására naponta drasztikusan változik a csatornákban.", "Történelmileg ez az útvonal kötötte össze a szárazföldi Chinandegát a tengerrel Puerto Morazánnál.", "Az itt növő vörös mangrove (Rhizophora mangle) gyökerei a tengeri só kiszűrésére specializálódtak."],
+      ro: [],
+      en: []
+    }
+  },
   {
     id: "rio-bocay-nature-v2",
     type: "river",
@@ -300,7 +586,20 @@ export const poiExtraNicaraguaNatureV2: POI[] = [
       hu: ["Érintetlen esőerdőn folyik keresztül", "Fontos folyosó a vadvilág számára", "Őslakos közösségek otthona", "Magas vízminőség"],
       ro: ["Curge prin păduri tropicale virgine", "Coridor important pentru fauna sălbatică", "Habitat pentru comunități indigene", "Calitate ridicată a apei"],
       en: ["Flows through pristine rainforest", "Important corridor for wildlife", "Home to indigenous communities", "High water quality"]
-    }, image: "/poi-images/rio-bocay-nature-v2.webp"},
+    }, image: "/poi-images/rio-bocay-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Río Bocay ist ein wilder, ungebändigter Fluss, der das extrem isolierte Departement Jinotega durchschneidet. Entspringend im hochgelegenen Nebelwald, fließt er majestätisch durch das fast undurchdringliche Bosawás-Biosphärenreservat, dem größten Regenwaldgebiet nördlich des Amazonas. Für die indigenen Mayangna-Gemeinden, die an seinen steilen Ufern leben, ist der Río Bocay das einzige Transportmittel und die wichtigste Nahrungsquelle. Der Fluss ist berüchtigt für seine tückischen, wilden Stromschnellen, die in langen Einbäumen (Pipantes) nur von erfahrenen indigenen Navigatoren bezwungen werden können. Sein klares Wasser mündet schließlich in den mächtigen Grenzfluss Río Coco. Geografie K8 — Biosphären-Flusssysteme und indigene Navigation.",
+      hu: "A Bocay-folyó (Río Bocay) egy lenyűgöző és elszigetelt dzsungelfolyó, amely Jinotega megye sűrű, hegyvidéki esőerdeiben (a Bosawás Bioszféra Rezervátumban) folyik, mielőtt a Coco-folyóba ömlene a hondurasi határnál. A Bocay völgye az őslakos mayangna és miszkító indiánok érintetlen őshazája. A folyót hatalmas mahagónifák, köderdők és meredek hegyoldalak szegélyezik, vizét tiszta hegyi patakok táplálják. Mivel aszfaltozott utak errefelé nincsenek, a folyó – bár tele van veszélyes zúgókkal (raudales) – a közlekedés egyetlen módja fatörzsből vájt kenukkal (pipantes). Földrajz K8 — esőerdei vízgyűjtők és bioszféra rezervátumok.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Ein wichtiger, reißender Flusslauf tief im Inneren des riesigen Bosawás-Biosphärenreservats.", "Erlaubt indigenen Mayangna (Sumus), tief in den Urwald zu isolierten Dörfern vorzudringen.", "Berüchtigt für extreme Stromschnellen, die eine Navigation in Einbäumen lebensgefährlich machen.", "Mündet in der Gemeinde San José de Bocay schließlich in den längsten Fluss, den Río Coco.", "Weite Teile seines Verlaufs führen durch völlig unberührten, dichten Primärwald.", "Die Uferwälder entlang des Bocay sind massiv durch illegales Goldwaschen und Holzfäller bedroht."],
+      hu: ["A Bocay-folyó a Bosawás (Közép-Amerika legnagyobb esőerdeje) nyugati határát képezi.", "Az Ayapal falu a folyó egyik legfontosabb települése, ami a 'civilizáció' utolsó határa a dzsungel előtt.", "A folyóban számos endemikus halfaj és a híres 'zöld iguána' (iguana verde) is él.", "A nyolcvanas évek kontraháborúja alatt a folyó völgye az egyik legveszélyesebb hadműveleti terület volt.", "A mayangna őslakosok számára a folyó szent; ők irányítják az itt folyó fakitermelést és vadászatot.", "A heves esőzések (hurrikánok) idején a folyó szintje órák alatt métereket emelkedhet."],
+      ro: [],
+      en: []
+    }
+  },
   {
     id: "cerro-el-arenal-nature-v2",
     type: "mountain",
@@ -313,7 +612,20 @@ export const poiExtraNicaraguaNatureV2: POI[] = [
       hu: ["Köderdő-ökoszisztéma", "Fontos vízforrás Matagalpa számára", "Kávétermesztés a lejtőkön", "Túraútvonalak"],
       ro: ["Ecosistem de pădure de ceață", "Sursă importantă de apă pentru Matagalpa", "Cultivarea cafelei pe versanți", "Trasee de drumeție"],
       en: ["Cloud forest ecosystem", "Important water source for Matagalpa", "Coffee cultivation on its slopes", "Hiking trails"]
-    }, image: "/poi-images/cerro-el-arenal-nature-v2.webp"},
+    }, image: "/poi-images/cerro-el-arenal-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Naturreservat Cerro El Arenal liegt in den hochgelegenen Bergen an der Grenze zwischen den Departements Matagalpa und Jinotega. Diese Erhebung ist von dichtem, unberührtem Nebelwald (Bosque Nuboso) bedeckt und zeichnet sich durch extrem hohe Luftfeuchtigkeit und kühle Temperaturen aus. Die dichte Vegetation, die von gigantischen Farnen, seltenen Orchideen und dicken Moosschichten dominiert wird, wirkt wie ein riesiger natürlicher Schwamm, der Regenwasser speichert und die Täler darunter in der Trockenzeit versorgt. Ökologisch ist El Arenal ein Paradies für Vogelliebhaber, da es ein wichtiges Rückzugsgebiet für den Resplendent Quetzal, Pumas und Drei-Finger-Faultiere ist. Die angrenzenden Gebiete sind für den Anbau von hochwertigem Schattenkaffee bekannt. Ökologie K7 — Nebelwald-Ökosysteme und Wasserscheiden.",
+      hu: "Az El Arenal-hegy Természeti Rezervátum (Cerro El Arenal) Matagalpa városa felett magasodik, a központi hegylánc sűrűn erdősített részén. A területet a buja, örökzöld köderdők (bosque nuboso) jellemzik, melyek több mint 1400 méteres magasságban húzódnak. Az erdőt broméliák, orchideák és sűrű páfrányok borítják, fái pedig szinte állandóan felhőben úsznak. Az El Arenal híres kávétermelő övezet (az árnyékban termesztett 'shade-grown' arabica kávé itt a legkiválóbb), de ami még fontosabb, rengeteg hegyi patak forrásvidéke, amely Matagalpa vízellátását is biztosítja. Gyakran látogatják a madarászok a ritka trópusi fajok miatt. Földrajz K6 — köderdők biodiverzitása és forrásvidékek.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Das Naturreservat Cerro El Arenal liegt auf über 1.300 Metern Höhe.", "Charakterisiert durch dichten primären Nebelwald mit nahezu konstanten Nebelschwaden.", "Ein wichtiger Zufluchtsort für den vom Aussterben bedrohten Resplendent Quetzal.", "Das kühle, feuchte Klima begünstigt ein massives Wachstum von Epiphyten (Orchideen und Farne).", "Wichtiges hydrologisches Einzugsgebiet für die Wasserversorgung der tiefer gelegenen Kaffeefincas.", "Wird von staatlichen Rangern geschützt, ist aber durch illegale Landwirtschaft und Abholzung bedroht."],
+      hu: ["A hegy neve ('homokos') egykori helyi vulkáni hamu lerakódásokra vagy homokos bányákra utal.", "A rezervátumban található a világ egyik legritkább békafaja, amely az esőerdei broméliák kelyhében él.", "A területen található az őslakosok által is használt, kanyargós 'La Macarena' hegyi ösvény.", "A köderdő 'szivacsként' működik: a ködből kicsapódó vizet a mohák felfogják és lassan adagolják a talajba.", "Több helyi eco-lodge épült a rezervátum határában, amely fenntartható turizmust kínál.", "A kvézál madár (quetzal) fészkelési időszakban gyakran megfigyelhető a hegy magasabb pontjain."],
+      ro: [],
+      en: []
+    }
+  },
   {
     id: "saslaya-national-park-nature-v2",
     type: "forest",
@@ -326,7 +638,20 @@ export const poiExtraNicaraguaNatureV2: POI[] = [
       hu: ["Magában foglalja az ország központi részének legmagasabb hegyét (Cerro Saslaya)", "A Bosawás-rezervátum központi zónája", "A quetzal otthona", "Rendkívül nehezen megközelíthető"],
       ro: ["Include cel mai înalt munte din centrul țării (Cerro Saslaya)", "Zona centrală a rezervației Bosawás", "Habitat pentru quetzal", "Extrem de inaccesibil"],
       en: ["Includes the highest mountain in the country's center (Cerro Saslaya)", "Core zone of the Bosawás Reserve", "Home of the Quetzal", "Extremely inaccessible"]
-    }, image: "/poi-images/saslaya-national-park-nature-v2.webp"},
+    }, image: "/poi-images/saslaya-national-park-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Nationalpark Saslaya ist das extrem isolierte, absolute Kernstück des gigantischen Bosawás-Biosphärenreservats in der Autonomen Karibikregion Nord (RACCN). Gekrönt vom massiven, wilden Gipfel des Cerro Saslaya, schützt dieser Nationalpark Tausende Hektar völlig unberührten, primären Regenwalds. Das Gebiet ist so abgelegen, dass es bis heute keine befestigten Straßen dorthin gibt und viele Teile des Parks noch nie von westlichen Wissenschaftlern erforscht wurden. Es ist die unangefochtene Domäne von Jaguaren, Tapiren und gewaltigen Harpyien-Adlern. Die indigene Mayangna-Bevölkerung lebt an den Rändern des Parks und kämpft erbittert gegen illegale Holzfäller und Viehzüchter, die versuchen, in diese letzte echte Wildnis Zentralamerikas vorzudringen. Ökologie K8 — Primärregenwald und Biosphären-Kernzonen.",
+      hu: "A Saslaya Nemzeti Park (Parque Nacional Saslaya) a Bosawás Bioszféra Rezervátum szigorúan védett, érintetlen központi magja (nucleo). A park a Saslaya-hegység (Cordillera Saslaya) 1600 méternél is magasabbra nyúló sziklás, dzsungellel benőtt csúcsait foglalja magában az Észak-Karib-tengeri Autonóm Régióban. Ez Nicaragua egyik legkevésbé feltérképezett, legvadabb területe, ahová sem utak, sem kiépített ösvények nem vezetnek. Az egyenlítői esőerdő otthont ad jaguároknak, ocelotoknak, pumáknak, hárpiáknak és az ország legveszélyesebb kígyóinak. A parkba való belépés komoly expedíciót igényel mayangna vezetőt (guía) bevonva a Bocay vagy a Waspuk folyón keresztül. Földrajz K8 — érintetlen esőerdők és bioszféra rezervátumok magterületei.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Der Nationalpark Saslaya ist die am strengsten geschützte Kernzone (Zona Núcleo) des Bosawás-Reservats.", "Bedeckt eine Fläche von über 630 Quadratkilometern unberührten Primärwaldes.", "Beherbergt den Cerro Saslaya (1.650 m), einen der wildesten und unzugänglichsten Berge des Landes.", "Der Zugang ist extrem schwierig und erfordert oft tagelange Fußmärsche durch dichten Dschungel.", "Das Ökosystem weist die größte Dichte an Großkatzen (Puma und Jaguar) in ganz Nicaragua auf.", "Der Park wurde 1971 gegründet, blieb aber wegen des Krieges jahrzehntelang völlig isoliert."],
+      hu: ["A Saslaya volt Nicaragua egyik legelső nemzeti parkja, melyet 1971-ben hoztak létre.", "A terület kiterjedése több mint 630 négyzetkilométer primer (érintetlen) dzsungel.", "A Saslaya csúcs (1650 m) a Karib-térség legmagasabb pontja Nicaraguában.", "A park területe az UNESCO által is elismert Bosawás Bioszféra Rezervátum legvédettebb része.", "Az éves csapadékmennyiség itt gyakran meghaladja az 5000 mm-t, így szinte lehetetlen tűzet rakni a dzsungelben.", "A helyi mayangna törzsek hitvilágában a Saslaya csúcsai a szellemek lakhelyei."],
+      ro: [],
+      en: []
+    }
+  },
   {
     id: "caribbean-sea-nicaragua-nature-v2",
     type: "sea",
@@ -339,7 +664,20 @@ export const poiExtraNicaraguaNatureV2: POI[] = [
       hu: ["Magában foglalja a Corn-szigeteket és a Pearl Cays-t", "Fontos halászati területek", "A Mezoamerikai-zátony része", "Trópusi éghajlat és víz"],
       ro: ["Include Insulele Corn și Pearl Cays", "Zone de pescuit importante", "Parte a Recifului Mesoamerican", "Climat și apă tropicale"],
       en: ["Includes the Corn Islands and Pearl Cays", "Important fishing grounds", "Part of the Mesoamerican Reef system", "Tropical climate and waters"]
-    }, image: "/poi-images/caribbean-sea-nicaragua-nature-v2.webp"},
+    }, image: "/poi-images/caribbean-sea-nicaragua-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Karibische Meer an der Ostküste Nicaraguas (Costa Caribe) unterscheidet sich geologisch, kulturell und ökologisch komplett von der rauen Pazifikküste. Die karibische Seite ist geprägt von weiten, flachen Kontinentalschelfen, ruhigen, kristallklaren Buchten und extrem ausgedehnten Korallenriffen (wie den Miskito Cays und Pearl Cays). Diese warme See ist die Lebensgrundlage der gesamten Küstenbevölkerung (Miskito, Kreolen, Garifuna), die sich auf den handwerklichen und industriellen Fang von Langusten, Garnelen und Schnappern spezialisiert hat. Im Gegensatz zum Pazifik wird die nicaraguanische Karibik in der Hurrikansaison oft von zerstörerischen Stürmen heimgesucht, die die küstennahen Mangrovenwälder und Inseln massiv verwüsten können. Geografie K7 — Karibische Riffe und marine Wirtschaft.",
+      hu: "A Karib-tenger nicaraguai szakasza (Mar Caribe) az ország keleti partvidékét mossa több mint 500 kilométer hosszan. Ez a terület teljesen különbözik a csendes-óceáni oldaltól: sekélyebb (platform tenger), melegebb, és szinte folyamatosan a passzátszelek (trade winds) hatása alatt áll. A tenger rendkívül gazdag korallzátonyokban (mint a Miskito Cays vagy a Pearl Cays), tengerifű-mezőkben és olyan értékes fajokban, mint a zöld teknős és a karibi languszta. A Karib-tenger partvidéke sűrű mangrovékkal és lagúnákkal tagolt, és az ország trópusi hurrikánjainak fő érkezési kapuja, amely formálja a helyi kreol és miszkító kultúra életét. Földrajz K7 — trópusi tengerek és korall ökoszisztémák.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Die nicaraguanische Karibikküste ist mit über 500 Kilometern deutlich länger als die Pazifikküste.", "Das Wasser ist tropisch warm, ruhig und durch breite Kontinentalschelfe sehr flach.", "Beherbergt einige der intaktesten und am wenigsten erforschten Korallenriffe Mittelamerikas.", "Die Wirtschaft der gesamten Region ist extrem abhängig vom Export von Karibik-Hummer (Langosta).", "Regelmäßig das direkte Ziel von verheerenden Hurrikanen der Kategorie 4 und 5.", "Die Küstenlinie besteht überwiegend aus dichten, undurchdringlichen Mangrovenwäldern."],
+      hu: ["A nicaraguai karibi partvidék kontinentális talapzata (platform) a legszélesebb Közép-Amerikában (akár 200 km).", "A sötét, iszapos folyótorkolatok (pl. San Juan) miatt a part menti vizek kevésbé tiszták, mint a szigeteknél.", "A tenger hőmérséklete szinte soha nem csökken 27 °C alá.", "A 20. század végéig Kolumbia és Nicaragua területi vitákat folytatott a karibi tengeri határokról (melyet Hága döntött el).", "Az angol kalózok (buccaneers) évszázadokig rejtekhelyként használták ezt a szigetekkel teli partvidéket.", "A hurrikánok (mint a Joan 1988-ban vagy a Felix 2007-ben) pusztító vihardagályokat okoznak ezen a szakaszon."],
+      ro: [],
+      en: []
+    }
+  },
   {
     id: "pacific-ocean-nicaragua-nature-v2",
     type: "sea",
@@ -352,7 +690,20 @@ export const poiExtraNicaraguaNatureV2: POI[] = [
       hu: ["Magas hullámairól ismert, amelyek ideálisak a szörfözéshez", "Vulkanikus homokos strandok", "Jelentős halászat", "Tengeri teknősök fészkelőhelyei"],
       ro: ["Cunoscut pentru valurile înalte pentru surf", "Plaje cu nisip vulcanic", "Pescuit important", "Locuri de cuibărit pentru țestoasele marine"],
       en: ["Known for high waves for surfing", "Volcanic sand beaches", "Important fisheries", "Nesting sites for sea turtles"]
-    }, image: "/poi-images/pacific-ocean-nicaragua-nature-v2.webp"},
+    }, image: "/poi-images/pacific-ocean-nicaragua-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Pazifische Ozean prägt die Westküste Nicaraguas mit roher, stürmischer Gewalt. Die Küstenlinie ist charakterisiert durch weite Strände mit dunklem Vulkansand, schroffe Klippen und extrem kräftige Brandungen, angetrieben von starken Offshore-Winden (Papagayos). Geologisch ist diese Küste von immenser Bedeutung, da hier die Cocosplatte tief unter die Karibische Platte abtaucht (Subduktionszone), was die explosive Vulkankette Maribios im Landesinneren antreibt und ständige Erdbebengefahr birgt. Wirtschaftlich wird die Küste zunehmend für den Luxustourismus und als globales Surf-Mekka (San Juan del Sur, Tola) genutzt. Gleichzeitig dient sie den Fischern als harte, gefährliche Arbeitsumgebung, in der tiefe Gewässer Thunfisch und Mahi-Mahi bieten. Geografie K8 — Plattentektonik und Pazifische Surf-Kultur.",
+      hu: "Nicaragua Csendes-óceáni partvidéke (Océano Pacífico) az ország nyugati felét határolja egy egyenesebb, több mint 300 kilométer hosszú szakaszon a Fonseca-öböltől a Costa Rica-i határig. Ezt a partvidéket a meredek sziklák, sötét, vulkanikus homokú strandok és a nyílt óceán felől érkező hatalmas, erőteljes hullámok (swell) jellemzik, amelyek a világ minden tájáról vonzzák a szörfösöket (mint San Juan del Sur és Popoyo). A víz hűvösebb és mélyebb, mint a Karib-tenger, a kontinentális talapzat (platform) keskeny, ami gyors árapályt eredményez. A part menti vizek gazdagok makrélában, marlinban és tengeri teknősökben. Földrajz K7 — óceáni áramlatok és szörf-turizmus.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Die nicaraguanische Pazifikküste ist ca. 305 Kilometer lang und von starker Brandung geprägt.", "Der dunkle Sand vieler Strände stammt aus jahrtausendealten vulkanischen Ablagerungen.", "Der starke \"Papagayo-Wind\" erzeugt Weltklasse-Wellen, die Surfer aus aller Welt anziehen.", "Tief vor der Küste verläuft der Mesoamerikanische Graben, eine aktive tektonische Subduktionszone.", "Beherbergt kritische Nistplätze für Meeresschildkröten wie Chacocente und La Flor.", "Im Gegensatz zur Karibik ist die Pazifikküste dicht besiedelt und stark touristisch erschlossen."],
+      hu: ["A Papagayo-szelek (erős keleti szelek) télen fújnak a Csendes-óceán felé, tökéletes hullámokat képezve a szörfösöknek.", "A part menti mély óceáni árkok miatt ez a régió szeizmikusan nagyon aktív (szubdukciós zóna).", "Nicaragua legnépesebb és gazdaságilag legfejlettebb régiója a Csendes-óceáni partszakasz mögötti síkság.", "Az árapály különbség (dagály és apály) elérheti a 2-3 métert is ezen a parton.", "Számos strand, mint a Playa La Flor, a tengeri teknősök millióinak költőhelye.", "Az itteni strandok homokja sötétszürke vagy fekete a Maribios hegység vulkáni hamuja miatt."],
+      ro: [],
+      en: []
+    }
+  },
   {
     id: "cerro-negro-forest-nature-v2",
     type: "forest",
@@ -365,7 +716,20 @@ export const poiExtraNicaraguaNatureV2: POI[] = [
       hu: ["Alkalmazkodott a vulkáni hamuhoz", "Speciális növény- és állatvilágnak ad otthont", "Egy nagyobb védett terület komplexum része", "Erős szezonális változások"],
       ro: ["Adaptat la cenușa vulcanică", "Găzduiește floră și faună specializată", "Parte a unui complex mai mare de arii protejate", "Schimbări sezoniere puternice"],
       en: ["Adapted to volcanic ash", "Hosts specialized flora and fauna", "Part of a larger protected area complex", "Strong seasonal changes"]
-    }, image: "/poi-images/cerro-negro-forest-nature-v2.webp"},
+    }, image: "/poi-images/cerro-negro-forest-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Wälder rund um den extrem aktiven Vulkan Cerro Negro im Departement León sind ein faszinierendes Studienobjekt für botanische Resilienz. Der Cerro Negro brach seit seiner Entstehung 1850 mehr als zwanzigmal aus und hüllte seine Umgebung regelmäßig in tödliche, heiße Asche und Lava. Dennoch existiert in der Pufferzone ein zäher tropischer Trockenwald. Die Bäume und Sträucher hier haben sich an extremen Wassermangel und nährstoffarme Vulkanschlacke angepasst. Diese karge, schwarze und grüne Landschaft bietet Lebensraum für robuste Tierarten wie Leguane, Skorpione und Kojoten. Nach jeder Eruption beginnt das raue Ökosystem bemerkenswert schnell, sich den verbrannten Boden durch Pionierpflanzen zurückzuerobern. Ökologie K7 — Vulkanische Zerstörung und Wald-Regeneration.",
+      hu: "A Cerro Negro körüli erdő és szavanna León megyében egy rendkívül zord, mégis lenyűgöző természeti képződmény. A Közép-Amerika legfiatalabb (1850-ben született) vulkánja körül elterülő vidéket folyamatosan vastag fekete vulkáni hamu (arena negra) borítja az ismétlődő kitörések miatt. Ebben az extrém, sivatag-szerű ('holdbéli') környezetben csak a legszívósabb szárazságtűrő cserjék és fűfélék képesek megélni a lejtők alján. Az erdő ezen a ponton az élet folyamatos újraindulását (primer szukcesszió) szimbolizálja a katasztrofális vulkáni pusztítás után. Földrajz K8 — primer szukcesszió és vulkáni hamu.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Der tropische Trockenwald um den Cerro Negro muss extrem widrigen vulkanischen Bedingungen trotzen.", "Der Boden besteht fast ausschließlich aus schwarzer, scharfkantiger Vulkanschlacke und Asche.", "Pionierpflanzen wie niedrige Gräser und dornige Sträucher erobern die frische Lava rasch zurück.", "Heimat von trockenresistenten Tieren wie dem Grünen Leguan (Garrobo) und Gürteltieren.", "Die Ascheeruptionen des Vulkans töten regelmäßig weite Teile der Vegetation, die sich dennoch erholt.", "Dieses Reservat (Pilas El Hoyo) zeigt den Übergang von völliger Verwüstung zu dichtem Wald."],
+      hu: ["A Cerro Negro az elmúlt 170 évben több mint 20 alkalommal tört ki, vastag hamuval borítva a vidéket.", "A vulkán fekete lejtőin ('volcano boarding') lecsúszó turisták ezt az egyedi holdbéli tájat csodálhatják meg.", "A növényzet kizárólag a vulkán tövében lévő völgyekben él túl, ahol a víz felhalmozódik.", "A forró fekete hamu miatt a talajhőmérséklet a nyári napsütésben elérheti a 60 °C-ot is.", "A pionír növények (pl. bizonyos fűfélék és zuzmók) lassan elkezdik megkötni a fekete port a hegy lábánál.", "A terület a Maribios hegylánc része, amely Nicaragua legaktívabb vulkáni övezete."],
+      ro: [],
+      en: []
+    }
+  },
   {
     id: "laguna-nejapa-nature-v2",
     type: "lake",
@@ -378,7 +742,20 @@ export const poiExtraNicaraguaNatureV2: POI[] = [
       hu: ["Egy krátertó-lánc része", "Könnyen megközelíthető Managuából", "Népszerű kilátópont", "Geológiailag érdekes"],
       ro: ["Parte a unui lanț de lacuri de crater", "Ușor accesibil din Managua", "Punct de belvedere popular", "Interesant din punct de vedere geologic"],
       en: ["Part of a chain of crater lakes", "Easily accessible from Managua", "Popular viewpoint", "Geologically interesting"]
-    }, image: "/poi-images/laguna-nejapa-nature-v2.webp"},
+    }, image: "/poi-images/laguna-nejapa-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Laguna de Nejapa ist ein markanter, aber tragischer Vulkankratersee im westlichen Stadtgebiet der Hauptstadt Managua. Einst eine tiefe, wassergefüllte Kraterlagune, hat Nejapa in den letzten Jahrzehnten fast vollständig ihr Wasser verloren. Dies ist teils auf natürliche klimatische Schwankungen, vor allem aber auf die unkontrollierte städtische Entwicklung, extreme Entwaldung an den Kraterrändern und massive Bodenerosion zurückzuführen. Heute ist die Lagune oft nur eine ausgetrocknete, flache Schlammsenke, die im Sommer von illegalen Mülldeponien bedroht wird. Das Schicksal von Nejapa dient Umweltschützern in Nicaragua als drastisches Warnbeispiel dafür, wie schnell rasante Urbanisierung ein historisches Naturmonument zerstören kann. Geografie K6 — Urbane Umweltzerstörung und ausgetrocknete Seen.",
+      hu: "A Nejapa-lagúna (Laguna de Nejapa) egy szinte teljesen kiszáradt, sötét iszapú krátertó Managua délnyugati peremén, közvetlenül a főváros mellett. Az asososca- és a Tiscapa-tavakkal ellentétben a Nejapa az elmúlt évtizedek aszályai és a klímaváltozás miatt drasztikusan elvesztette vízszintjét. A tó sekély vize erősen kénes és sós, egykor a helyiek gyógyászati célokra ('iszapfürdő') használták a sötét, ásványi anyagokban gazdag sarat. Ma a kráter peremén kanyargó Carretera Sur (Déli főút) alatt tátongó mélyedés szomorú figyelmeztetés a természeti erőforrások kimerülésére. Földrajz K7 — krátertavak kiszáradása és városi klímaváltozás.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Nejapa ist ein kollabierter Vulkankrater (Maar), der innerhalb des Stadtgebiets von Managua liegt.", "Die Lagune war historisch tief, ist heute aber während der Trockenzeit fast vollständig ausgetrocknet.", "Die massive urbane Abholzung am Kraterrand hat die Bodenerosion dramatisch beschleunigt.", "In der Vergangenheit glaubte man, das mineralreiche Wasser habe medizinische Heilkräfte.", "Der Name Nejapa stammt aus der Nahuatl-Sprache und bedeutet \"Asche-Wasser\".", "Oft als Mahnmal für die ökologischen Folgen unregulierten städtischen Wachstums genutzt."],
+      hu: ["A kráter 160 méter mély, de a tó vízszintje ma már gyakran alig éri el a néhány métert.", "A Nejapa név a navatl nyelvből származik, jelentése 'kőrises víz' vagy 'hamus víz'.", "Az aszályos években (mint a 2010-es évek El Niño jelenségei alatt) a tó többször teljesen kiszáradt.", "Az 1950-es években még csónakversenyeket és fürdőzéseket rendeztek a lagúnában.", "A kráter falai rendkívül meredekek, omlásveszélyesek, és ritkás növényzet borítja őket.", "A tó vizének eltűnése részben a managuai lakosság vízkivételének (talajvíz-csökkenés) is betudható."],
+      ro: [],
+      en: []
+    }
+  },
   {
     id: "rio-wawa-nature-v2",
     type: "river",
@@ -391,6 +768,18 @@ export const poiExtraNicaraguaNatureV2: POI[] = [
       hu: ["Összeköti az ország belsejét a parttal", "Fontos közlekedési útvonal", "Puerto Cabezas közelében ömlik a tengerbe", "Halban gazdag"],
       ro: ["Leagă interiorul țării de coastă", "Ruta de transport importantă", "Se varsă lângă Puerto Cabezas", "Bogat în pește"],
       en: ["Connects the interior to the coast", "Important transportation route", "Empties near Puerto Cabezas", "Rich in fish"]
+    },
+    descriptionAdvanced: {
+      de: "Der Río Wawa ist eine mächtige, gewundene Lebensader in der nördlichen Karibikregion (RACCN), die direkt südlich von Puerto Cabezas (Bilwi) in den Ozean mündet. Er fließt durch weite, extrem isolierte Savannen, Kiefernwälder und tiefen Regenwald. Für die indigenen Miskito, die in kleinen Dörfern an seinen Ufern leben, ist der Wawa-Fluss der einzige Transportweg und die wichtigste Nahrungsquelle. Der Fluss ist berüchtigt für seine Unberechenbarkeit: Während der Hurrikan-Saison tritt er massiv über die Ufer und schneidet die regionale Hauptstadt Bilwi tagelang vom Rest des Landes ab, da die einzige Verbindungsstraße eine einfache, oft überflutete Flussfähre (Barcaza) nutzen muss. Geografie K7 — Karibische Flüsse und indigene Logistik.",
+      hu: "A Wawa-folyó (Río Wawa) egy kanyargós, sötét vizű dzsungelfolyó az Észak-Karib-tengeri Autonóm Régióban (RACCN). A folyó Puerto Cabezas (Bilwi) városától északra ömlik a Karib-tengerbe (egy nagy lagúnán, a Laguna de Karatá-n keresztül). A Wawa rendkívül fontos közlekedési akadály: mivel nincs híd, az ország belsejéből Puerto Cabezas felé tartó teherautókat és buszokat egy öreg, motoros uszályon (ponton) kell átkelniük ('Paso del Wawa'). A folyó áradásai (hurrikánok idején) gyakran hetekre elvágják Bilwit a külvilágtól. Partjait őslakos miszkító közösségek lakják. Földrajz K7 — infrastrukturális akadályok és esőerdei logisztika.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Einer der wichtigsten Flüsse im Nordosten Nicaraguas, der südlich von Puerto Cabezas mündet.", "Die einzige Straßenverbindung nach Bilwi überquert den Fluss mit einer einfachen Kabelfähre.", "Bei starken Regenfällen und Hurrikanen überflutet der Fluss die einzige Zugangsstraße zum Pazifik.", "Die Ufervegetation reicht von ausgedehnten Kiefernsavannen (Llanos) bis zu dichten Mangroven.", "Dient zahlreichen abgelegenen Miskito-Gemeinschaften als wichtigste Quelle für Fisch und Transport.", "Die Strömung des schlammigen Wassers bringt große Mengen an Sedimenten in das Karibische Meer."],
+      hu: ["A folyó teljes hossza megközelítőleg 160 kilométer.", "A folyó torkolata ('Bocana') a Laguna de Karatá nevű sós-édesvizű mocsárba vezet.", "A 'Paso del Wawa' kompjárat gyakran órákig tartó sorban állást jelent a teherautóknak.", "A folyó vizének sötét (gyakran fekete) színét az esőerdő bomló szerves anyagaiból kioldódó tanninok okozzák.", "Az esős évszakban a folyó szélessége a duplájára nőhet, lehetetlenné téve a komp közlekedését.", "Egy modern híd építése a Wawa folyón 2021-ben kezdődött meg a régió elszigeteltségének feloldására."],
+      ro: [],
+      en: []
     }
   }
 ];

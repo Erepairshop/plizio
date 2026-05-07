@@ -1608,7 +1608,7 @@ export const poiExtraAndorraCities: POI[] = [
     factsAdvanced: {
       de: [],
       hu: ["Ordino 'nappalija'.", "Sík, füves terület.", "Helyi fesztiválok és rendezvények helyszíne.", "Népszerű a családok körében.", "Könnyű, akadálymentes sétákra alkalmas."],
-      ro: ["\"Sufrageria\" din Ordino.", "Zonă plată, cu iarbă.", "Locație pentru festivaluri și evenimente locale.", "Populară printre familii.", "Potrivită pentru plimbări ușoare, accesibile."],
+      ro: ["\\\\\\\"Sufrageria\\\\\\\" din Ordino.", "Zonă plată, cu iarbă.", "Locație pentru festivaluri și evenimente locale.", "Populară printre familii.", "Potrivită pentru plimbări ușoare, accesibile."],
       en: ["Pla d'Ordino is a fertile, relatively flat plain adjacent to the town center.", "Historically and currently, it is utilized for high-yield crops like tobacco.", "It acts as a green agricultural buffer, preserving Ordino's rural character.", "The open area offers excellent, unhindered views of the Casamanya mountain."]
     }, image: "/poi-images/city-pla-dordino-extra.webp"},
   {

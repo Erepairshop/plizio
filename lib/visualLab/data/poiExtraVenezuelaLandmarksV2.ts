@@ -999,7 +999,7 @@ export const poiExtraVenezuelaLandmarksV2: POI[] = [
     description: {
       de: "Das beeindruckende Auditorium der Universität von Venezuela, weltberühmt für seine akustischen 'Wolken' von Alexander Calder.",
       hu: "A Venezuelai Központi Egyetem lenyűgöző auditóriuma, amely Alexander Calder akusztikus 'felhőiről' világhírű.",
-      ro: "Auditoriul impresionant al Universității din Venezuela, faimos în întreaga lume pentru „norii” săi acustici de Alexander Calder.",
+      ro: "Auditoriul impresionant al Universității din Venezuela, faimos în întreaga lume pentru \"norii\" săi acustici de Alexander Calder.",
       en: "The impressive auditorium of the University of Venezuela, world-famous for its acoustic 'clouds' by Alexander Calder."
     },
     descriptionAdvanced: {

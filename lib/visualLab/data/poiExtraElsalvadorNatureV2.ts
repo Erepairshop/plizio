@@ -117,7 +117,7 @@ export const poiExtraElsalvadorNatureV2: POI[] = [
     descriptionAdvanced: {
       de: "",
       hu: "A Conchagua-vulkán fenségesen magasodik El Salvador legkeletibb pontján, mintha csak az ország őrzője lenne a Fonseca-öböl partján. Két különálló csúcsa, a Cerro del Ocote és a Cerro de la Bandera, drámai sziluettet alkot az égbolton. A vulkán tetejéről nyíló panoráma egyszerűen verhetetlen: tiszta időben egyszerre látható Salvador, Honduras és Nicaragua partvidéke, valamint az öbölben elszórt számtalan sziget. A vulkán lejtőit sűrű köderdők borítják, amelyek hűvösebb menedéket nyújtanak a tengerparti forróság elől. A túrázók számára a feljutás komoly kihívás, de a kilátás minden fáradságot megér. Conchagua neve a helyi őslakos nyelven 'vizi hegyet' jelent, utalva a közeli tenger közelségére. Ez a vulkán a természet és a stratégiai látvány tökéletes ötvözete.",
-      ro: "Vulcanul Conchagua se înalță maiestuos în cel mai estic punct al El Salvadorului, ca un gardian al țării pe malul Golfului Fonseca. Cele două vârfuri distincte ale sale, Cerro del Ocote și Cerro de la Bandera, creează o siluetă dramatică pe cerul tropical. Panorama oferită de pe vârful vulcanului este imbatabilă: în zilele senine se pot vedea simultan coastele din El Salvador, Honduras și Nicaragua. Pantele vulcanului sunt acoperite de păduri de ceață dense, care oferă un refugiu răcoros de căldura de pe coastă. Pentru drumeți, ascensiunea este o provocare serioasă, dar vederea de sus merită orice efort. Numele Conchagua înseamnă „munte de apă” în limba indigenă locală, făcând referire la proximitatea mării.",
+      ro: "Vulcanul Conchagua se înalță maiestuos în cel mai estic punct al El Salvadorului, ca un gardian al țării pe malul Golfului Fonseca. Cele două vârfuri distincte ale sale, Cerro del Ocote și Cerro de la Bandera, creează o siluetă dramatică pe cerul tropical. Panorama oferită de pe vârful vulcanului este imbatabilă: în zilele senine se pot vedea simultan coastele din El Salvador, Honduras și Nicaragua. Pantele vulcanului sunt acoperite de păduri de ceață dense, care oferă un refugiu răcoros de căldura de pe coastă. Pentru drumeți, ascensiunea este o provocare serioasă, dar vederea de sus merită orice efort. Numele Conchagua înseamnă \"munte de apă\" în limba indigenă locală, făcând referire la proximitatea mării.",
       en: "Conchagua Volcano rises majestically at El Salvador's easternmost point, acting as a guardian of the country on the shores of the Gulf of Fonseca. Its two distinct peaks, Cerro del Ocote and Cerro de la Bandera, create a dramatic silhouette against the sky. The panorama from the top of the volcano is simply unbeatable, as the coastlines of El Salvador, Honduras, and Nicaragua are all visible on clear days. The slopes of the volcano are covered with dense cloud forests that provide a cooler refuge from the coastal heat. For hikers, the ascent is a significant challenge, but the view is worth every effort. Geography K8"
     },
     facts: {
@@ -138,7 +138,7 @@ export const poiExtraElsalvadorNatureV2: POI[] = [
         "Cel mai înalt punct, Cerro del Ocote, se ridică la 1225 de metri deasupra mării.",
         "Pe pantele vulcanului se găsesc păduri extinse de pini, raritate la această latitudine.",
         "Punctele de observație spre golf sunt considerate printre cele mai frumoase panorame din lume.",
-        "Guvernul a planificat construcția modernului „Bitcoin City” în apropierea bazei vulcanului."
+        "Guvernul a planificat construcția modernului \"Bitcoin City\" în apropierea bazei vulcanului."
       ],
       en: ["The highest point, Cerro del Ocote, rises 1,225 meters above sea level.", "Extensive pine forests are found on its slopes, which is rare at this latitude.", "The viewpoints overlooking the gulf are considered among the world's most beautiful.", "Modern 'Bitcoin City' is planned to be built near the volcano."]
     }, image: "/poi-images/volcan-conchagua-nature-v2.webp"},
@@ -187,7 +187,7 @@ export const poiExtraElsalvadorNatureV2: POI[] = [
     descriptionAdvanced: {
       de: "",
       hu: "Meanguera szigete El Salvador legelszigeteltebb és legidillibb trópusi menedéke a Fonseca-öböl szívében. Ez a vulkáni eredetű sziget drámai sziklafalakkal, rejtett öblökkel és kristálytiszta vízzel várja a kalandvágyó utazókat. A helyi halászközösség barátságos vendégszeretete és a sziget lassú életritmusa segít elfelejteni a modern világ zaját. A part mentén számos kis strand található, ahol a víz csendes és hívogató, ideális a búvárkodásra és a vízi sportokra. Meanguera történelme is izgalmas, hiszen egykor kalózok búvóhelyeként és stratégiai pontként szolgált az öböl ellenőrzésében. A sziget legmagasabb pontjáról lenyűgöző kilátás nyílik a szomszédos országok partjaira és a vulkáni szigetláncra. Ez a helyszín az ország 'rejtett ékköve', ahol az idő megállni látszik. A friss tengeri ételek és a trópusi naplemente felejthetetlen élményt kínálnak.",
-      ro: "Insula Meanguera este cel mai izolat și idilic refugiu tropical al El Salvadorului, situat în inima Golfului Fonseca. Această insulă de origine vulcanică îi întâmpină pe călătorii aventuroși cu stânci dramatice, golfuri ascunse și ape cristaline. Ospitalitatea caldă a comunității de pescari și ritmul lent al vieții ajută vizitatorii să uite de zgomotul lumii moderne. De-a lungul coastei se află numeroase plaje mici unde apa este calmă, fiind ideale pentru snorkeling și sporturi nautice. Istoria insulei este fascinantă, servind în trecut ca ascunzătoare pentru pirați și punct strategic pentru controlul golfului. Apusurile de soare și fructele de mare proaspete oferă o experiență de neuitat în această „bijuterie ascunsă” a țării.",
+      ro: "Insula Meanguera este cel mai izolat și idilic refugiu tropical al El Salvadorului, situat în inima Golfului Fonseca. Această insulă de origine vulcanică îi întâmpină pe călătorii aventuroși cu stânci dramatice, golfuri ascunse și ape cristaline. Ospitalitatea caldă a comunității de pescari și ritmul lent al vieții ajută vizitatorii să uite de zgomotul lumii moderne. De-a lungul coastei se află numeroase plaje mici unde apa este calmă, fiind ideale pentru snorkeling și sporturi nautice. Istoria insulei este fascinantă, servind în trecut ca ascunzătoare pentru pirați și punct strategic pentru controlul golfului. Apusurile de soare și fructele de mare proaspete oferă o experiență de neuitat în această \"bijuterie ascunsă\" a țării.",
       en: "Meanguera Island is El Salvador's most isolated and idyllic tropical retreat in the heart of the Gulf of Fonseca. This island of volcanic origin welcomes adventurous travelers with dramatic cliffs, hidden coves, and crystal-clear water. The friendly hospitality of the local fishing community and the slow pace of island life help visitors forget the noise of the modern world. Numerous small beaches are found along the coast where the water is quiet and inviting, ideal for diving and water sports. The highest point of the island offers impressive views of neighboring countries' coasts and the volcanic island chain. Geography K7"
     },
     facts: {
@@ -222,7 +222,7 @@ export const poiExtraElsalvadorNatureV2: POI[] = [
     descriptionAdvanced: {
       de: "",
       hu: "A Río Paz, azaz a 'Béke folyója', nemcsak egy fontos vízi út, hanem El Salvador és Guatemala természetes határa is hosszú szakaszon. A folyó a guatemalai felföldekről ered, és sebesen kanyarog a trópusi síkságok felé, mielőtt a Csendes-óceánba ömlene. Partjait sűrű növényzet és mezőgazdasági területek váltják egymást, ahol a helyi lakosok a folyó vizét használják öntözésre. A folyó alsó szakasza különösen gazdag madárvilágban és vizes élőhelyekben, amelyek fontosak a regionális biodiverzitás szempontjából. A Río Paz torkolatvidéke egy vadregényes táj, ahol a folyóvíz and a tengervíz találkozása különleges ökoszisztémát hoz létre. A folyó neve a két szomszédos nemzet közötti harmóniára és együttműködésre is utal. Az utazók számára a folyó menti táj a trópusi mezőgazdaság és az érintetlen természet érdekes elegyét kínálja.",
-      ro: "Râul Paz, cunoscut și sub numele de „Râul Păcii”, nu este doar o cale navigabilă importantă, ci și granița naturală dintre El Salvador și Guatemala. Râul izvorăște din munții înalți ai Guatemalei și șerpuiește rapid spre câmpiile tropicale înainte de a se vărsa în Oceanul Pacific. Malurile sale sunt o succesiune de vegetație densă și terenuri agricole, unde localnicii folosesc apa râului pentru irigații. Secțiunea inferioară a râului este deosebit de bogată în avifaună și zone umede cruciale pentru biodiversitatea regională. Estuarul râului Paz este un peisaj sălbatic unde întâlnirea apelor dulci cu cele sărate creează un ecosistem unic. Numele său reflectă armonia și cooperarea dintre cele două națiuni vecine.",
+      ro: "Râul Paz, cunoscut și sub numele de \"Râul Păcii\", nu este doar o cale navigabilă importantă, ci și granița naturală dintre El Salvador și Guatemala. Râul izvorăște din munții înalți ai Guatemalei și șerpuiește rapid spre câmpiile tropicale înainte de a se vărsa în Oceanul Pacific. Malurile sale sunt o succesiune de vegetație densă și terenuri agricole, unde localnicii folosesc apa râului pentru irigații. Secțiunea inferioară a râului este deosebit de bogată în avifaună și zone umede cruciale pentru biodiversitatea regională. Estuarul râului Paz este un peisaj sălbatic unde întâlnirea apelor dulci cu cele sărate creează un ecosistem unic. Numele său reflectă armonia și cooperarea dintre cele două națiuni vecine.",
       en: "The Río Paz, meaning 'River of Peace', is not only an important waterway but also the natural border between El Salvador and Guatemala for a long stretch. The river originates in the Guatemalan highlands and winds rapidly toward the tropical plains before flowing into the Pacific Ocean. Its banks alternate between dense vegetation and agricultural lands where local residents use the river water for irrigation. The lower section of the river is particularly rich in birdlife and wetlands, which are important for regional biodiversity. The estuary area of the Río Paz is a wild landscape where the meeting of river and sea water creates a unique ecosystem. Geography K7"
     },
     facts: {
@@ -292,13 +292,13 @@ export const poiExtraElsalvadorNatureV2: POI[] = [
     descriptionAdvanced: {
       de: "",
       hu: "A Laguna de Alegría El Salvador egyik legféltettebb kincse, egy smaragdzölden csillogó krátertó a Tecapa-vulkán mélyén. A tavat Gabriela Mistral költőnő nevezte el 'Amerika smaragdjaként', és a látvány valóban rászolgál erre a névre. A víz kénes tartalma miatt különleges színe és gyógyhatású tulajdonságai vannak, amit a helyiek és a látogatók egyaránt kedvelnek. A kráter belső falait buja trópusi növényzet és virágzó kertek borítják, létrehozva egy misztikus, már-már tündérmesei hangulatot. A tó körüli sétányon haladva érezni lehet a vulkáni tevékenység kénes illatát, ami emlékeztet a hegy élő erejére. A csend és a nyugalom, amely ezt a helyet uralja, tökéletes a meditációra és a természetben való elmélyülésre. Alegría városa, amely a közelben fekszik, híres kávétermeléséről és vendégszeretetéről, kiegészítve a tó látogatásának élményét.",
-      ro: "Laguna de Alegría este una dintre cele mai prețioase comori ale El Salvadorului, un lac de crater de un verde smarald situat în adâncul vulcanului Tecapa. Poeta Gabriela Mistral a numit acest loc „Smaraldul Americii”, iar priveliștea justifică pe deplin această descriere. Datorită conținutului de sulf, apa are o culoare specială și proprietăți curative apreciate de localnici și vizitatori. Pereții interiori ai craterului sunt acoperiți de vegetație luxuriantă și grădini înflorite, creând o atmosferă mistică, aproape de basm. Pe traseul din jurul lacului se poate simți mirosul de sulf, o amintire constantă a forței vii a vulcanului. Orașul Alegría, situat în apropiere, este faimos pentru producția de cafea și ospitalitatea sa caldă.",
+      ro: "Laguna de Alegría este una dintre cele mai prețioase comori ale El Salvadorului, un lac de crater de un verde smarald situat în adâncul vulcanului Tecapa. Poeta Gabriela Mistral a numit acest loc \"Smaraldul Americii\", iar priveliștea justifică pe deplin această descriere. Datorită conținutului de sulf, apa are o culoare specială și proprietăți curative apreciate de localnici și vizitatori. Pereții interiori ai craterului sunt acoperiți de vegetație luxuriantă și grădini înflorite, creând o atmosferă mistică, aproape de basm. Pe traseul din jurul lacului se poate simți mirosul de sulf, o amintire constantă a forței vii a vulcanului. Orașul Alegría, situat în apropiere, este faimos pentru producția de cafea și ospitalitatea sa caldă.",
       en: "Laguna de Alegría is one of El Salvador's most prized treasures, an emerald-green shimmering crater lake deep within the Tecapa Volcano. The lake was named 'the emerald of America' by poet Gabriela Mistral, and the sight truly deserves this name. Due to its sulfur content, the water has a special color and medicinal properties enjoyed by locals and visitors alike. Lush tropical vegetation and blooming gardens cover the inner walls of the crater, creating a mystical, almost fairytale atmosphere. Walking along the path around the lake, one can smell the sulfur from volcanic activity, reminding us of the mountain's living power. Geography K7"
     },
     facts: {
       de: ["'Smaragd Amerikas' genannt.", "Wasser hat schwefelhaltige Eigenschaften.", "Umgeben von üppiger Vegetation.", "Beliebtes Ausflugsziel."],
       hu: ["'Amerika smaragdjaként' emlegetik.", "Vize kénes tulajdonságokkal rendelkezik.", "Bujja növényzet veszi körül.", "Népszerű kirándulóhely."],
-      ro: ["Numit „Smaraldul Americii”.", "Apa are proprietăți sulfuroase.", "Înconjurat de vegetație luxuriantă.", "Destinație populară."],
+      ro: ["Numit \"Smaraldul Americii\".", "Apa are proprietăți sulfuroase.", "Înconjurat de vegetație luxuriantă.", "Destinație populară."],
       en: ["Called the 'Emerald of America'.", "Water has sulfuric properties.", "Surrounded by lush vegetation.", "Popular tourist spot."]
     },
     factsAdvanced: {
@@ -333,7 +333,7 @@ export const poiExtraElsalvadorNatureV2: POI[] = [
     facts: {
       de: ["Teil der 'Sieben-Wasserfälle-Tour'.", "Kaltes, erfrischendes Wasser.", "Durch einen Tunnel erreichbar.", "Beliebt bei Wanderern."],
       hu: ["A 'Hét vízesés túra' része.", "Hideg, frissítő víz.", "Egy alagúton keresztül érhető el.", "Népszerű a túrázók körében."],
-      ro: ["Parte a „Turului celor șapte cascade”.", "Apă rece și revigorantă.", "Accesibil printr-un tunel.", "Popular printre drumeți."],
+      ro: ["Parte a \"Turului celor șapte cascade\".", "Apă rece și revigorantă.", "Accesibil printr-un tunel.", "Popular printre drumeți."],
       en: ["Part of the 'Seven Waterfalls Tour'.", "Cold, refreshing water.", "Accessible through a tunnel.", "Popular with hikers."]
     },
     factsAdvanced: {
@@ -416,7 +416,7 @@ export const poiExtraElsalvadorNatureV2: POI[] = [
       ],
       ro: [
         "Înălțimea vulcanului este de 1438 de metri deasupra nivelului mării.",
-        "În timpul războiului, a fost cunoscut sub numele de „Bastionul Roșu din Guazapa”.",
+        "În timpul războiului, a fost cunoscut sub numele de \"Bastionul Roșu din Guazapa\".",
         "Pe munte trăiesc specii de plante care supraviețuiesc doar pe solul vulcanic fertil.",
         "Astăzi este o locație populară pentru turismul ecvestru și tururile istorice memoriale."
       ],
@@ -555,7 +555,7 @@ export const poiExtraElsalvadorNatureV2: POI[] = [
         "A part mentén több helyen auch találhatók prekolumbiánus sziklarajzok."
       ],
       ro: [
-        "Unul dintre cele mai faimoase puncte ale râului este „Puente de Hierro”, un nod important de transport.",
+        "Unul dintre cele mai faimoase puncte ale râului este \"Puente de Hierro\", un nod important de transport.",
         "Bazinul său hidrografic face parte din cele mai neatinse zone naturale din Morazán.",
         "Debitul râului depinde semnificativ de precipitațiile din zonele montane.",
         "De-a lungul malurilor pot fi găsite în mai multe locuri desene rupestre precolumbiene."
@@ -626,7 +626,7 @@ export const poiExtraElsalvadorNatureV2: POI[] = [
       ],
       ro: [
         "Suprafața insulei este de aproximativ 4 kilometri pătrați.",
-        "Numele Zacatillo provine de la cuvântul „zacate” (iarbă), referindu-se la vegetația de pe dealuri.",
+        "Numele Zacatillo provine de la cuvântul \"zacate\" (iarbă), referindu-se la vegetația de pe dealuri.",
         "Insula a fost un punct important de tranzit pe rutele comerciale din perioada colonială.",
         "În apele din jur se găsește una dintre cele mai gustoase populații de creveți din țară."
       ],
@@ -871,8 +871,8 @@ export const poiExtraElsalvadorNatureV2: POI[] = [
       ],
       ro: [
         "Lungimea râului este de aproximativ 45 de kilometri.",
-        "Numele său provine din limba indigenă Nahuat și înseamnă „apă mare” sau „multă apă”.",
-        "Printre cascadele de pe parcursul său, „Salto del Hippie” este una dintre cele mai cunoscute.",
+        "Numele său provine din limba indigenă Nahuat și înseamnă \"apă mare\" sau \"multă apă\".",
+        "Printre cascadele de pe parcursul său, \"Salto del Hippie\" este una dintre cele mai cunoscute.",
         "Joacă un rol important în reglarea microclimatului din zona înconjurătoare."
       ],
       en: ["The river is approximately 45 kilometers long.", "Its name comes from the indigenous Nahuatl language, meaning 'great water'.", "The 'Salto del Hippie' is one of the most famous waterfalls along the river.", "It plays an important role in regulating the region's microclimate."]
@@ -963,7 +963,7 @@ export const poiExtraElsalvadorNatureV2: POI[] = [
     facts: {
       de: ["Teil der 'Ruta de las Flores'.", "Kaffeeplantagen an den Hängen.", "Blick auf die umliegenden Vulkane.", "Gutes Wandergebiet."],
       hu: ["A 'Ruta de las Flores' része.", "Kávéültetvények a lejtőkön.", "Kilátás a környező vulkánokra.", "Jó túraterület."],
-      ro: ["Parte a „Ruta de las Flores”.", "Plantații de cafea pe pante.", "Vedere spre vulcanii din jur.", "Zonă bună pentru drumeții."],
+      ro: ["Parte a \"Ruta de las Flores\".", "Plantații de cafea pe pante.", "Vedere spre vulcanii din jur.", "Zonă bună pentru drumeții."],
       en: ["Part of the 'Ruta de las Flores'.", "Coffee plantations on its slopes.", "Views of surrounding volcanoes.", "Good hiking area."]
     },
     factsAdvanced: {
@@ -992,7 +992,7 @@ export const poiExtraElsalvadorNatureV2: POI[] = [
     descriptionAdvanced: {
       de: "",
       hu: "El Majahual El Salvador 'népstrandja', a legnépszerűbb és legmozgalmasabb tengerparti célpont San Salvador közvetlen közelében. Ez a sötét, vulkáni homokos strand minden hétvégén és ünnepnapon élettel telik meg, ahogy a családok és baráti társaságok ide sereglenek élvezni a tenger és a napsütés örömeit. A part mentén számtalan rancho és étterem kínálja a tradicionális salvadori ételeket, a pupusától a friss koktélokig. A hangulat vibráló: zene szól a hangszórókból, gyerekek játszanak a homokban, és árusok kínálják egzotikus gyümölcseiket. A hullámok itt közepesek, ideálisak a fürdőzésre és a kezdő szörfösöknek is. Bár Majahual nem a csendes elvonulás helyszíne, autentikus bepillantást enged a salvadori népi kultúrába és az életigenlésbe. A strand közelsége a fővároshoz és a La Libertad kikötőhöz rendkívül vonzóvá teszi mindenki számára. Itt valóban érezni lehet a nemzet lüktető energiáját.",
-      ro: "El Majahual este „plaja poporului” în El Salvador, fiind cea mai populară și animată destinație de coastă din imediata apropiere a orașului San Salvador. Această plajă cu nisip vulcanic închis la culoare se umple de viață în fiecare weekend și zi de sărbătoare, pe măsură ce familiile și grupurile de prieteni vin aici să se bucure de mare. De-a lungul țărmului, nenumărate ranchos și restaurante oferă mâncăruri tradiționale salvadoriene, de la pupusas la cocktailuri proaspete de fructe de mare. Atmosfera este vibrantă: muzica răsună din difuzoare, copiii se joacă în nisip, iar vânzătorii ambulanți își oferă fructele exotice. Majahual oferă o incursiune autentică în cultura populară salvadoriană și în bucuria de a trăi. Apropierea plajei de capitală și de portul La Libertad o face extrem de atractivă pentru toți. Itt valóban érezni lehet a nemzet lüktető energiáját.",
+      ro: "El Majahual este \"plaja poporului\" în El Salvador, fiind cea mai populară și animată destinație de coastă din imediata apropiere a orașului San Salvador. Această plajă cu nisip vulcanic închis la culoare se umple de viață în fiecare weekend și zi de sărbătoare, pe măsură ce familiile și grupurile de prieteni vin aici să se bucure de mare. De-a lungul țărmului, nenumărate ranchos și restaurante oferă mâncăruri tradiționale salvadoriene, de la pupusas la cocktailuri proaspete de fructe de mare. Atmosfera este vibrantă: muzica răsună din difuzoare, copiii se joacă în nisip, iar vânzătorii ambulanți își oferă fructele exotice. Majahual oferă o incursiune autentică în cultura populară salvadoriană și în bucuria de a trăi. Apropierea plajei de capitală și de portul La Libertad o face extrem de atractivă pentru toți. Itt valóban érezni lehet a nemzet lüktető energiáját.",
       en: "El Majahual is El Salvador's 'people's beach', the most popular and busiest coastal destination near San Salvador. This dark, volcanic sand beach comes to life every weekend and holiday as families and friends gather here to enjoy the sea and sun. Numerous ranchos and restaurants along the shore offer traditional Salvadoran food, from pupusas to fresh cocktails. The atmosphere is vibrant with music, children playing in the sand, and vendors offering exotic fruits. The waves here are moderate, ideal for swimming and for beginner surfers. It offers an authentic insight into Salvadoran popular culture. Geography K7"
     },
     facts: {
@@ -1010,7 +1010,7 @@ export const poiExtraElsalvadorNatureV2: POI[] = [
         "Főszezonban naponta akár több ezer látogatót is fogad a partszakasz."
       ],
       ro: [
-        "Este una dintre cele mai vizitate și aglomerate plaje de pe așa-numita „Coastă a Balsamului”.",
+        "Este una dintre cele mai vizitate și aglomerate plaje de pe așa-numita \"Coastă a Balsamului\".",
         "Culoarea nisipului se datorează erodării rocilor bazaltice vulcanice.",
         "Majoritatea ranchos-urilor de pe coastă funcționează ca afaceri de familie de generații întregi.",
         "În sezonul de vârf, secțiunea de plajă primește chiar și câteva mii de vizitatori zilnic."

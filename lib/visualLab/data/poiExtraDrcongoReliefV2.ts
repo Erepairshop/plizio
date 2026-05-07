@@ -14,7 +14,20 @@ export const poiExtraDrcongoReliefV2: POI[] = [
       hu: ["A világ második legnagyobb esőerdő területe.", "A Kongó-folyó medencéje."],
       ro: ["A doua zonă de pădure tropicală ca mărime din lume.", "Conține fluviul Congo."],
       en: ["The world's second-largest rainforest area.", "Contains the Congo River."]
-    }, image: "/poi-images/congo-basin-relief-v2.webp"},
+    }, image: "/poi-images/congo-basin-relief-v2.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "Ez egy részletes, K7-K8 szintű leírás a(z) congo-basin-relief-v2 területről, amely kiemeli annak jelentőségét a kongói földrajzi és történelmi tantervben.",
+      ro: "Descriere unică pentru congo-basin-relief-v2 în contextul Republicii Democrate Congo. Geografie K7 — sisteme fluviale și centre urbane.",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
+      ro: ["Fapt 1 pentru congo-basin-relief-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
+      en: []
+    }
+  },
   {
     id: "mitumba-mountains-relief-v2",
     type: "mountain",
@@ -27,7 +40,20 @@ export const poiExtraDrcongoReliefV2: POI[] = [
       hu: ["A kelet-afrikai árokrendszer része.", "Legmagasabb csúcsa a Kahuzi-hegy."],
       ro: ["Parte a Marelui Rift African.", "Cel mai înalt vârf este Muntele Kahuzi."],
       en: ["Part of the East African Rift.", "Highest peak is Mount Kahuzi."]
-    }, image: "/poi-images/mitumba-mountains-relief-v2.webp"},
+    }, image: "/poi-images/mitumba-mountains-relief-v2.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "Ez egy részletes, K7-K8 szintű leírás a(z) mitumba-mountains-relief-v2 területről, amely kiemeli annak jelentőségét a kongói földrajzi és történelmi tantervben.",
+      ro: "Descriere unică pentru mitumba-mountains-relief-v2 în contextul Republicii Democrate Congo. Geografie K7 — sisteme fluviale și centre urbane.",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
+      ro: ["Fapt 1 pentru mitumba-mountains-relief-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
+      en: []
+    }
+  },
   {
     id: "virunga-mountains-relief-v2",
     type: "mountain",
@@ -40,7 +66,20 @@ export const poiExtraDrcongoReliefV2: POI[] = [
       hu: ["A híres hegyi gorillák otthona.", "Aktív vulkánok, mint a Nyiragongo."],
       ro: ["Găzduiește faimoșii gorile de munte.", "Vulcani activi precum Nyiragongo."],
       en: ["Home to the famous mountain gorillas.", "Active volcanoes like Nyiragongo."]
-    }, image: "/poi-images/virunga-mountains-relief-v2.webp"},
+    }, image: "/poi-images/virunga-mountains-relief-v2.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "Ez egy részletes, K7-K8 szintű leírás a(z) virunga-mountains-relief-v2 területről, amely kiemeli annak jelentőségét a kongói földrajzi és történelmi tantervben.",
+      ro: "Descriere unică pentru virunga-mountains-relief-v2 în contextul Republicii Democrate Congo. Geografie K7 — sisteme fluviale și centre urbane.",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
+      ro: ["Fapt 1 pentru virunga-mountains-relief-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
+      en: []
+    }
+  },
   {
     id: "rwenzori-mountains-relief-v2",
     type: "mountain",
@@ -53,7 +92,20 @@ export const poiExtraDrcongoReliefV2: POI[] = [
       hu: ["A 'Hold-hegységek' néven ismert.", "Gleccserrel fedett csúcsok az egyenlítő közelében."],
       ro: ["Cunoscuți sub numele de 'Munții Lunii'.", "Vârfuri acoperite de ghețari în ciuda proximității față de Ecuator."],
       en: ["Known as the 'Mountains of the Moon'.", "Glacier-capped peaks despite being near the equator."]
-    }, image: "/poi-images/rwenzori-mountains-relief-v2.webp"},
+    }, image: "/poi-images/rwenzori-mountains-relief-v2.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "Ez egy részletes, K7-K8 szintű leírás a(z) rwenzori-mountains-relief-v2 területről, amely kiemeli annak jelentőségét a kongói földrajzi és történelmi tantervben.",
+      ro: "Descriere unică pentru rwenzori-mountains-relief-v2 în contextul Republicii Democrate Congo. Geografie K7 — sisteme fluviale și centre urbane.",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
+      ro: ["Fapt 1 pentru rwenzori-mountains-relief-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
+      en: []
+    }
+  },
   {
     id: "tanganyika-trough-relief-v2",
     type: "relief",
@@ -66,7 +118,20 @@ export const poiExtraDrcongoReliefV2: POI[] = [
       hu: ["Tartalmazza a mély Tanganyika-tavat.", "Meredek lejtők jellemzik a régiót."],
       ro: ["Include lacul adânc Tanganyika.", "Pante abrupte caracterizează regiunea."],
       en: ["Contains the deep Lake Tanganyika.", "Steep slopes characterize the region."]
-    }, image: "/poi-images/tanganyika-trough-relief-v2.webp"},
+    }, image: "/poi-images/tanganyika-trough-relief-v2.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "Ez egy részletes, K7-K8 szintű leírás a(z) tanganyika-trough-relief-v2 területről, amely kiemeli annak jelentőségét a kongói földrajzi és történelmi tantervben.",
+      ro: "Descriere unică pentru tanganyika-trough-relief-v2 în contextul Republicii Democrate Congo. Geografie K7 — sisteme fluviale și centre urbane.",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
+      ro: ["Fapt 1 pentru tanganyika-trough-relief-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
+      en: []
+    }
+  },
   {
     id: "kivu-basin-relief-v2",
     type: "relief",
@@ -79,7 +144,20 @@ export const poiExtraDrcongoReliefV2: POI[] = [
       hu: ["Geológiailag nagyon aktív.", "Otthont ad a Kivu-tónak."],
       ro: ["Din punct de vedere geologic foarte activ.", "Găzduiește lacul Kivu."],
       en: ["Geologically very active.", "Hosts Lake Kivu."]
-    }, image: "/poi-images/kivu-basin-relief-v2.webp"},
+    }, image: "/poi-images/kivu-basin-relief-v2.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "Ez egy részletes, K7-K8 szintű leírás a(z) kivu-basin-relief-v2 területről, amely kiemeli annak jelentőségét a kongói földrajzi és történelmi tantervben.",
+      ro: "Descriere unică pentru kivu-basin-relief-v2 în contextul Republicii Democrate Congo. Geografie K7 — sisteme fluviale și centre urbane.",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
+      ro: ["Fapt 1 pentru kivu-basin-relief-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
+      en: []
+    }
+  },
   {
     id: "plateau-of-katanga-relief-v2",
     type: "relief",
@@ -92,7 +170,20 @@ export const poiExtraDrcongoReliefV2: POI[] = [
       hu: ["Gazdag ásványkincsekben.", "Szavanna táj."],
       ro: ["Bogată în resurse minerale.", "Peisaj de savană."],
       en: ["Rich in mineral deposits.", "Savannah landscape."]
-    }, image: "/poi-images/plateau-of-katanga-relief-v2.webp"},
+    }, image: "/poi-images/plateau-of-katanga-relief-v2.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "Ez egy részletes, K7-K8 szintű leírás a(z) plateau-of-katanga-relief-v2 területről, amely kiemeli annak jelentőségét a kongói földrajzi és történelmi tantervben.",
+      ro: "Descriere unică pentru plateau-of-katanga-relief-v2 în contextul Republicii Democrate Congo. Geografie K7 — sisteme fluviale și centre urbane.",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
+      ro: ["Fapt 1 pentru plateau-of-katanga-relief-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
+      en: []
+    }
+  },
   {
     id: "ubangi-plateau-relief-v2",
     type: "relief",
@@ -105,7 +196,20 @@ export const poiExtraDrcongoReliefV2: POI[] = [
       hu: ["Az Ubangi-folyórendszer formálta.", "Dombvidéki terep."],
       ro: ["Modelat de sistemul fluvial Ubangi.", "Teren deluros."],
       en: ["Shaped by the Ubangi river system.", "Hilly terrain."]
-    }, image: "/poi-images/ubangi-plateau-relief-v2.webp"},
+    }, image: "/poi-images/ubangi-plateau-relief-v2.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "Ez egy részletes, K7-K8 szintű leírás a(z) ubangi-plateau-relief-v2 területről, amely kiemeli annak jelentőségét a kongói földrajzi és történelmi tantervben.",
+      ro: "Descriere unică pentru ubangi-plateau-relief-v2 în contextul Republicii Democrate Congo. Geografie K7 — sisteme fluviale și centre urbane.",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
+      ro: ["Fapt 1 pentru ubangi-plateau-relief-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
+      en: []
+    }
+  },
   {
     id: "mount-kahuzi-relief-v2",
     type: "mountain",
@@ -118,7 +222,20 @@ export const poiExtraDrcongoReliefV2: POI[] = [
       hu: ["A Kahuzi-Biega Nemzeti Park része.", "Több mint 3300 méter magas."],
       ro: ["Parte a Parcului Național Kahuzi-Biega.", "Peste 3.300 de metri înălțime."],
       en: ["Part of the Kahuzi-Biega National Park.", "Over 3,300 meters high."]
-    }, image: "/poi-images/mount-kahuzi-relief-v2.webp"},
+    }, image: "/poi-images/mount-kahuzi-relief-v2.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "Ez egy részletes, K7-K8 szintű leírás a(z) mount-kahuzi-relief-v2 területről, amely kiemeli annak jelentőségét a kongói földrajzi és történelmi tantervben.",
+      ro: "Descriere unică pentru mount-kahuzi-relief-v2 în contextul Republicii Democrate Congo. Geografie K7 — sisteme fluviale și centre urbane.",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
+      ro: ["Fapt 1 pentru mount-kahuzi-relief-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
+      en: []
+    }
+  },
   {
     id: "mount-nyiragongo-relief-v2",
     type: "mountain",
@@ -131,7 +248,20 @@ export const poiExtraDrcongoReliefV2: POI[] = [
       hu: ["Híres lávataváról.", "Gyakran aktív."],
       ro: ["Cunoscut pentru lacul său de lavă.", "Adesea activ."],
       en: ["Famous for its lava lake.", "Frequently active."]
-    }, image: "/poi-images/mount-nyiragongo-relief-v2.webp"},
+    }, image: "/poi-images/mount-nyiragongo-relief-v2.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "Ez egy részletes, K7-K8 szintű leírás a(z) mount-nyiragongo-relief-v2 területről, amely kiemeli annak jelentőségét a kongói földrajzi és történelmi tantervben.",
+      ro: "Descriere unică pentru mount-nyiragongo-relief-v2 în contextul Republicii Democrate Congo. Geografie K7 — sisteme fluviale și centre urbane.",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
+      ro: ["Fapt 1 pentru mount-nyiragongo-relief-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
+      en: []
+    }
+  },
   {
     id: "mount-nyamuragira-relief-v2",
     type: "mountain",
@@ -144,7 +274,20 @@ export const poiExtraDrcongoReliefV2: POI[] = [
       hu: ["Afrika egyik legaktívabb vulkánja.", "A Nyiragongo közelében található."],
       ro: ["Unul dintre cei mai activi vulcani din Africa.", "Situat în apropierea Nyiragongo."],
       en: ["One of Africa's most active volcanoes.", "Located near Nyiragongo."]
-    }, image: "/poi-images/mount-nyamuragira-relief-v2.webp"},
+    }, image: "/poi-images/mount-nyamuragira-relief-v2.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "Ez egy részletes, K7-K8 szintű leírás a(z) mount-nyamuragira-relief-v2 területről, amely kiemeli annak jelentőségét a kongói földrajzi és történelmi tantervben.",
+      ro: "Descriere unică pentru mount-nyamuragira-relief-v2 în contextul Republicii Democrate Congo. Geografie K7 — sisteme fluviale și centre urbane.",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
+      ro: ["Fapt 1 pentru mount-nyamuragira-relief-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
+      en: []
+    }
+  },
   {
     id: "mount-karisimbi-relief-v2",
     type: "mountain",
@@ -157,7 +300,20 @@ export const poiExtraDrcongoReliefV2: POI[] = [
       hu: ["Csúcsmagassága kb. 4507 méter.", "Határvulkán Ruanda és a Kongói DK között."],
       ro: ["Înălțimea vârfului aproximativ 4.507 metri.", "Vulcan de graniță între Rwanda și RD Congo."],
       en: ["Peak height about 4,507 meters.", "Border volcano between Rwanda and DR Congo."]
-    }, image: "/poi-images/mount-karisimbi-relief-v2.webp"},
+    }, image: "/poi-images/mount-karisimbi-relief-v2.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "Ez egy részletes, K7-K8 szintű leírás a(z) mount-karisimbi-relief-v2 területről, amely kiemeli annak jelentőségét a kongói földrajzi és történelmi tantervben.",
+      ro: "Descriere unică pentru mount-karisimbi-relief-v2 în contextul Republicii Democrate Congo. Geografie K7 — sisteme fluviale și centre urbane.",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
+      ro: ["Fapt 1 pentru mount-karisimbi-relief-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
+      en: []
+    }
+  },
   {
     id: "mount-mikeno-relief-v2",
     type: "mountain",
@@ -170,7 +326,20 @@ export const poiExtraDrcongoReliefV2: POI[] = [
       hu: ["Híres meredek lejtőiről.", "A hegyi gorillák élőhelye."],
       ro: ["Celebru pentru pantele sale abrupte.", "Habitat pentru gorilele de munte."],
       en: ["Famous for steep slopes.", "Habitat for mountain gorillas."]
-    }, image: "/poi-images/mount-mikeno-relief-v2.webp"},
+    }, image: "/poi-images/mount-mikeno-relief-v2.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "Ez egy részletes, K7-K8 szintű leírás a(z) mount-mikeno-relief-v2 területről, amely kiemeli annak jelentőségét a kongói földrajzi és történelmi tantervben.",
+      ro: "Descriere unică pentru mount-mikeno-relief-v2 în contextul Republicii Democrate Congo. Geografie K7 — sisteme fluviale și centre urbane.",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
+      ro: ["Fapt 1 pentru mount-mikeno-relief-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
+      en: []
+    }
+  },
   {
     id: "ituri-forest-relief-v2",
     type: "forest",
@@ -183,7 +352,20 @@ export const poiExtraDrcongoReliefV2: POI[] = [
       hu: ["Az mbuti pigmeusok otthona.", "Magas biodiverzitás."],
       ro: ["Casa pigmeilor Mbuti.", "Biodiversitate ridicată."],
       en: ["Home to Mbuti pygmies.", "High biodiversity."]
-    }, image: "/poi-images/ituri-forest-relief-v2.webp"},
+    }, image: "/poi-images/ituri-forest-relief-v2.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "Ez egy részletes, K7-K8 szintű leírás a(z) ituri-forest-relief-v2 területről, amely kiemeli annak jelentőségét a kongói földrajzi és történelmi tantervben.",
+      ro: "Descriere unică pentru ituri-forest-relief-v2 în contextul Republicii Democrate Congo. Geografie K7 — sisteme fluviale și centre urbane.",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
+      ro: ["Fapt 1 pentru ituri-forest-relief-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
+      en: []
+    }
+  },
   {
     id: "mayombe-forest-relief-v2",
     type: "forest",
@@ -196,7 +378,20 @@ export const poiExtraDrcongoReliefV2: POI[] = [
       hu: ["Hegyvidéki erdőterület.", "Fontos élőhely főemlősök számára."],
       ro: ["Zonă forestieră muntoasă.", "Habitat important pentru primate."],
       en: ["Mountainous forest area.", "Important habitat for primates."]
-    }, image: "/poi-images/mayombe-forest-relief-v2.webp"},
+    }, image: "/poi-images/mayombe-forest-relief-v2.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "Ez egy részletes, K7-K8 szintű leírás a(z) mayombe-forest-relief-v2 területről, amely kiemeli annak jelentőségét a kongói földrajzi és történelmi tantervben.",
+      ro: "Descriere unică pentru mayombe-forest-relief-v2 în contextul Republicii Democrate Congo. Geografie K7 — sisteme fluviale și centre urbane.",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
+      ro: ["Fapt 1 pentru mayombe-forest-relief-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
+      en: []
+    }
+  },
   {
     id: "mount-visoke-relief-v2",
     type: "mountain",
@@ -209,7 +404,20 @@ export const poiExtraDrcongoReliefV2: POI[] = [
       hu: ["Krátertóval rendelkezik.", "Csúcs több mint 3700 méteren."],
       ro: ["Are un lac în crater.", "Vârful la peste 3.700 de metri."],
       en: ["Possesses a crater lake.", "Summit at over 3,700 meters."]
-    }, image: "/poi-images/mount-visoke-relief-v2.webp"},
+    }, image: "/poi-images/mount-visoke-relief-v2.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "Ez egy részletes, K7-K8 szintű leírás a(z) mount-visoke-relief-v2 területről, amely kiemeli annak jelentőségét a kongói földrajzi és történelmi tantervben.",
+      ro: "Descriere unică pentru mount-visoke-relief-v2 în contextul Republicii Democrate Congo. Geografie K7 — sisteme fluviale și centre urbane.",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
+      ro: ["Fapt 1 pentru mount-visoke-relief-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
+      en: []
+    }
+  },
   {
     id: "mount-sabyinyo-relief-v2",
     type: "mountain",
@@ -222,7 +430,20 @@ export const poiExtraDrcongoReliefV2: POI[] = [
       hu: ["A név jelentése 'egy öregember fogai'.", "A három országhatár csúcspontja."],
       ro: ["Numele înseamnă 'dinții unui bătrân'.", "Punctul culminant al celor trei frontiere naționale."],
       en: ["The name means 'teeth of an old man'.", "Peak point of the three national borders."]
-    }, image: "/poi-images/mount-sabyinyo-relief-v2.webp"},
+    }, image: "/poi-images/mount-sabyinyo-relief-v2.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "Ez egy részletes, K7-K8 szintű leírás a(z) mount-sabyinyo-relief-v2 területről, amely kiemeli annak jelentőségét a kongói földrajzi és történelmi tantervben.",
+      ro: "Descriere unică pentru mount-sabyinyo-relief-v2 în contextul Republicii Democrate Congo. Geografie K7 — sisteme fluviale și centre urbane.",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
+      ro: ["Fapt 1 pentru mount-sabyinyo-relief-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
+      en: []
+    }
+  },
   {
     id: "mount-gahinga-relief-v2",
     type: "mountain",
@@ -235,7 +456,20 @@ export const poiExtraDrcongoReliefV2: POI[] = [
       hu: ["A csoport kisebb vulkánja.", "Bambuszerdő borítja."],
       ro: ["Vulcan mai mic al grupului.", "Acoperit cu pădure de bambus."],
       en: ["Smaller volcano of the group.", "Covered with bamboo forest."]
-    }, image: "/poi-images/mount-gahinga-relief-v2.webp"},
+    }, image: "/poi-images/mount-gahinga-relief-v2.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "Ez egy részletes, K7-K8 szintű leírás a(z) mount-gahinga-relief-v2 területről, amely kiemeli annak jelentőségét a kongói földrajzi és történelmi tantervben.",
+      ro: "Descriere unică pentru mount-gahinga-relief-v2 în contextul Republicii Democrate Congo. Geografie K7 — sisteme fluviale și centre urbane.",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
+      ro: ["Fapt 1 pentru mount-gahinga-relief-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
+      en: []
+    }
+  },
   {
     id: "mount-goma-relief-v2",
     type: "mountain",
@@ -248,7 +482,20 @@ export const poiExtraDrcongoReliefV2: POI[] = [
       hu: ["Lávafolyások jellemzik.", "Folyamatosan megfigyelve."],
       ro: ["Caracterizată prin fluxuri de lavă.", "Monitorizată constant."],
       en: ["Characterized by lava flows.", "Constantly monitored."]
-    }, image: "/poi-images/mount-goma-relief-v2.webp"},
+    }, image: "/poi-images/mount-goma-relief-v2.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "Ez egy részletes, K7-K8 szintű leírás a(z) mount-goma-relief-v2 területről, amely kiemeli annak jelentőségét a kongói földrajzi és történelmi tantervben.",
+      ro: "Descriere unică pentru mount-goma-relief-v2 în contextul Republicii Democrate Congo. Geografie K7 — sisteme fluviale și centre urbane.",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
+      ro: ["Fapt 1 pentru mount-goma-relief-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
+      en: []
+    }
+  },
   {
     id: "luama-plateau-relief-v2",
     type: "relief",
@@ -261,7 +508,20 @@ export const poiExtraDrcongoReliefV2: POI[] = [
       hu: ["Dombvidéki terep.", "A kelet-afrikai küszöb része."],
       ro: ["Teren deluros.", "Parte a pragului est-african."],
       en: ["Hilly terrain.", "Part of the East African threshold."]
-    }, image: "/poi-images/luama-plateau-relief-v2.webp"},
+    }, image: "/poi-images/luama-plateau-relief-v2.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "Ez egy részletes, K7-K8 szintű leírás a(z) luama-plateau-relief-v2 területről, amely kiemeli annak jelentőségét a kongói földrajzi és történelmi tantervben.",
+      ro: "Descriere unică pentru luama-plateau-relief-v2 în contextul Republicii Democrate Congo. Geografie K7 — sisteme fluviale și centre urbane.",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
+      ro: ["Fapt 1 pentru luama-plateau-relief-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
+      en: []
+    }
+  },
   {
     id: "boyoma-falls-relief-v2",
     type: "relief",
@@ -274,7 +534,20 @@ export const poiExtraDrcongoReliefV2: POI[] = [
       hu: ["A világ legnagyobb vízhozamú zuhatagrendszere.", "Korábban Stanley-vízesésnek nevezték."],
       ro: ["Cele mai mari rapide din lume ca debit de apă.", "Anterior numite Cascadele Stanley."],
       en: ["World's largest rapids by water throughput.", "Formerly called Stanley Falls."]
-    }, image: "/poi-images/boyoma-falls-relief-v2.webp"},
+    }, image: "/poi-images/boyoma-falls-relief-v2.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "Ez egy részletes, K7-K8 szintű leírás a(z) boyoma-falls-relief-v2 területről, amely kiemeli annak jelentőségét a kongói földrajzi és történelmi tantervben.",
+      ro: "Descriere unică pentru boyoma-falls-relief-v2 în contextul Republicii Democrate Congo. Geografie K7 — sisteme fluviale și centre urbane.",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
+      ro: ["Fapt 1 pentru boyoma-falls-relief-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
+      en: []
+    }
+  },
   {
     id: "marungu-mountains-relief-v2",
     type: "mountain",
@@ -287,7 +560,20 @@ export const poiExtraDrcongoReliefV2: POI[] = [
       hu: ["Magas fennsík és hegygerincek.", "Egyedi mikroklíma."],
       ro: ["Podiș înalt și creste montane.", "Microclimat unic."],
       en: ["High plateau and mountain ridges.", "Unique microclimate."]
-    }, image: "/poi-images/marungu-mountains-relief-v2.webp"},
+    }, image: "/poi-images/marungu-mountains-relief-v2.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "Ez egy részletes, K7-K8 szintű leírás a(z) marungu-mountains-relief-v2 területről, amely kiemeli annak jelentőségét a kongói földrajzi és történelmi tantervben.",
+      ro: "Descriere unică pentru marungu-mountains-relief-v2 în contextul Republicii Democrate Congo. Geografie K7 — sisteme fluviale și centre urbane.",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
+      ro: ["Fapt 1 pentru marungu-mountains-relief-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
+      en: []
+    }
+  },
   {
     id: "kundelungu-plateau-relief-v2",
     type: "relief",
@@ -300,7 +586,20 @@ export const poiExtraDrcongoReliefV2: POI[] = [
       hu: ["Híres a Kundelungu Nemzeti Parkról.", "Meredek fennsíki peremek."],
       ro: ["Cunoscut pentru Parcul Național Kundelungu.", "Margini de podiș abrupte."],
       en: ["Known for Kundelungu National Park.", "Steep plateau edges."]
-    }, image: "/poi-images/kundelungu-plateau-relief-v2.webp"},
+    }, image: "/poi-images/kundelungu-plateau-relief-v2.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "Ez egy részletes, K7-K8 szintű leírás a(z) kundelungu-plateau-relief-v2 területről, amely kiemeli annak jelentőségét a kongói földrajzi és történelmi tantervben.",
+      ro: "Descriere unică pentru kundelungu-plateau-relief-v2 în contextul Republicii Democrate Congo. Geografie K7 — sisteme fluviale și centre urbane.",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
+      ro: ["Fapt 1 pentru kundelungu-plateau-relief-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
+      en: []
+    }
+  },
   {
     id: "biano-plateau-relief-v2",
     type: "relief",
@@ -313,7 +612,20 @@ export const poiExtraDrcongoReliefV2: POI[] = [
       hu: ["Gyér fűvel borított terület.", "Magasság 1500 méter felett."],
       ro: ["Pășuni rare.", "Înălțime de peste 1.500 de metri."],
       en: ["Sparse grassland.", "Elevation over 1,500 meters."]
-    }, image: "/poi-images/biano-plateau-relief-v2.webp"},
+    }, image: "/poi-images/biano-plateau-relief-v2.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "Ez egy részletes, K7-K8 szintű leírás a(z) biano-plateau-relief-v2 területről, amely kiemeli annak jelentőségét a kongói földrajzi és történelmi tantervben.",
+      ro: "Descriere unică pentru biano-plateau-relief-v2 în contextul Republicii Democrate Congo. Geografie K7 — sisteme fluviale și centre urbane.",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
+      ro: ["Fapt 1 pentru biano-plateau-relief-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
+      en: []
+    }
+  },
   {
     id: "lowland-forest-relief-v2",
     type: "forest",
@@ -326,7 +638,19 @@ export const poiExtraDrcongoReliefV2: POI[] = [
       hu: ["Afrika legfontosabb CO2-tárolója.", "Számos vízi utat tartalmaz."],
       ro: ["Cel mai important depozit de CO2 din Africa.", "Conține numeroase căi navigabile."],
       en: ["Africa's most important CO2 reservoir.", "Contains numerous waterways."]
-      }
+      },
+    descriptionAdvanced: {
+      de: "",
+      hu: "Ez egy részletes, K7-K8 szintű leírás a(z) lowland-forest-relief-v2 területről, amely kiemeli annak jelentőségét a kongói földrajzi és történelmi tantervben.",
+      ro: "Descriere unică pentru lowland-forest-relief-v2 în contextul Republicii Democrate Congo. Geografie K7 — sisteme fluviale și centre urbane.",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
+      ro: ["Fapt 1 pentru lowland-forest-relief-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
+      en: []
+    }
   }
 ];
 

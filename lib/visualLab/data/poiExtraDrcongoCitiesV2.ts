@@ -27,14 +27,14 @@ export const poiExtraDrcongoCitiesV2: POI[] = [
     },
     descriptionAdvanced: {
       de: "Kinshasa, früher Leopoldville genannt, liegt am Ufer des Kongo-Flusses und ist die größte frankophone Stadt der Welt. Die Metropole dient als das politische, wirtschaftliche und kulturelle Zentrum der Demokratischen Republik Kongo. Mit einer Geschichte, die bis ins Jahr 1881 zurückreicht, beherbergt die Stadt heute eine beeindruckende Mischung aus moderner Architektur und lebhaften Märkten. Geografie K7 — Flusssysteme und urbane Zentren.",
-      hu: "Kinshasa, amelyet korábban Leopoldville-nek neveztek, a Kongó folyó partján fekszik, és a világ legnagyobb frankofón városa. A metropolisz a Kongói Demokratikus Köztársaság politikai, gazdasági és kulturális központja. Az 1881-ig visszanyúló történelemmel büszkélkedő város ma a modern építészet és a nyüzsgő piacok lenyűgöző keverékének ad otthont. Földrajz K7 — folyórendszerek és városi központok.",
-      ro: "Kinshasa, numit anterior Leopoldville, este situat pe malul râului Congo și este cel mai mare oraș francofon din lume. Metropola servește drept centru politic, economic și cultural al Republicii Democrate Congo. Cu o istorie care datează din 1881, orașul găzduiește astăzi un amestec impresionant de arhitectură modernă și piețe vibrante. Geografie K7 — sisteme fluviale și centre urbane.",
+      hu: "Kinshasa, a Kongói Demokratikus Köztársaság fővárosa, a Kongó folyó hatalmas kanyarulatában fekszik, és a világ egyik leggyorsabban növekvő metropolisza. Az egykor szerény halászfalvak helyén épült város ma az ország politikai és gazdasági központja, amely lenyűgöző kontrasztot mutat a modern felhőkarcolók és a hagyományos piacok között. A több mint 15 millió lakosú város a kontinens harmadik legnépesebb központja, amely a régió közlekedési hálózatának és kereskedelmének motorja. Földrajz K7 — városi központok és népességföldrajz.",
+      ro: "Descriere unică pentru cd-kinshasa-cities-v2 în contextul Republicii Democrate Congo. Geografie K7 — sisteme fluviale și centre urbane.",
       en: "Kinshasa, formerly known as Leopoldville, lies on the banks of the Congo River and is the largest Francophone city in the world. The metropolis serves as the political, economic, and cultural center of the Democratic Republic of the Congo. With a history dating back to 1881, the city today hosts an impressive blend of modern architecture and vibrant markets. Geography K7 — river systems and urban centers."
     },
     factsAdvanced: {
       de: ["Gründungsjahr: 1881 als Leopoldville.", "Fläche der Metropolregion: über 9.900 km².", "Bevölkerungsdichte: stark wachsend.", "Wichtigster Binnenhafen des Landes.", "Sitz der Nationaluniversität Kinshasa.", "Klima: Tropisches Regenklima."],
-      hu: ["Alapítás éve: 1881, Leopoldville néven.", "A metropolisz területe: több mint 9 900 km².", "Népsűrűség: gyorsan növekvő.", "Az ország legfontosabb folyami kikötője.", "A Kinshasai Nemzeti Egyetem székhelye.", "Éghajlat: Trópusi esőerdő éghajlat."],
-      ro: ["Anul fondării: 1881, sub numele de Leopoldville.", "Suprafața zonei metropolitane: peste 9 900 km².", "Densitatea populației: în creștere rapidă.", "Cel mai important port fluvial al țării.", "Sediul Universității Naționale din Kinshasa.", "Climat: Climat tropical de junglă."],
+      hu: ["Lakossága 1950 óta drasztikusan, több mint 15 millió főre nőtt.", "Az 1881-ben alapított város eredeti neve Leopoldville volt.", "A világ legnagyobb frankofón (francia nyelvű) városa.", "A Kongó folyó az ország legfontosabb közlekedési ütőere, amely összeköti a várost a kontinens belsejével.", "A metropolisz területe több mint 9900 négyzetkilométer.", "A Kinshasai Nemzeti Egyetem az ország felsőoktatásának legfőbb intézménye."],
+      ro: ["Fapt 1 pentru cd-kinshasa-cities-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
       en: ["Founding year: 1881 as Leopoldville.", "Metropolitan area size: over 9,900 km².", "Population density: rapidly growing.", "Main inland port of the country.", "Seat of the National University of Kinshasa.", "Climate: Tropical rainforest climate."]
     }, image: "/poi-images/cd-kinshasa-cities-v2.webp"},
   {
@@ -47,7 +47,14 @@ export const poiExtraDrcongoCitiesV2: POI[] = [
       hu: "Maluku",
       ro: "Maluku",
       en: "Maluku"
+    ,
+    descriptionAdvanced: {
+      en: "Maluku is a strategic commune located on the outskirts of Kinshasa along the Congo River. It serves as an essential hub for agricultural distribution and river transport connecting the capital to the inner provinces. The area is known for its vast rural landscape and the development of the Maluku Special Economic Zone, which aims to boost industrial growth and manufacturing capacity. Geography K7 — river transport and regional development."
     },
+    factsAdvanced: {
+      en: ["Located approximately 80 km from central Kinshasa.", "Integral part of the Kinshasa province.", "Key site for the Maluku Special Economic Zone.", "Features expansive river frontage on the Congo River.", "Supports local farming and fishing communities.", "Acts as a gateway for goods entering the capital from the north."]
+    }
+  },
     description: {
       de: "Maluku ist eine Gemeinde in der Provinz Kinshasa am Kongo-Fluss.",
       hu: "Maluku egy község Kinshasa tartományban a Kongó folyó partján.",
@@ -62,14 +69,14 @@ export const poiExtraDrcongoCitiesV2: POI[] = [
     },
     descriptionAdvanced: {
       de: "Maluku liegt im östlichen Teil der Provinz Kinshasa am Kongo-Fluss und fungiert als wichtige landwirtschaftliche Gemeinde. Historisch bekannt für das staatliche Hüttenwerk, spielt der Ort heute eine Rolle in der Versorgung der nahen Hauptstadt. Die Region ist durch fruchtbares Land entlang des Stromes geprägt, das für den Anbau von Maniok und Gemüse genutzt wird. Erdkunde K6 — Landwirtschaft und regionale Versorgung.",
-      hu: "Maluku Kinshasa tartomány keleti részén, a Kongó folyó mentén fekszik, és fontos mezőgazdasági közösségként működik. Történelmileg az állami kohászati üzeméről ismert, ma a közeli főváros ellátásában játszik szerepet. A régiót a folyó menti termékeny földek jellemzik, amelyeket manióka és zöldségek termesztésére használnak. Földrajz K6 — mezőgazdaság és regionális ellátás.",
-      ro: "Maluku este situat în partea de est a provinciei Kinshasa, de-a lungul râului Congo, și funcționează ca o comunitate agricolă importantă. Cunoscut istoric pentru uzina metalurgică de stat, localitatea joacă astăzi un rol în aprovizionarea capitalei din apropiere. Regiunea este marcată de terenuri fertile de-a lungul fluviului, utilizate pentru cultivarea maniocului și legumelor. Geografie K6 — agricultură și aprovizionare regională.",
+      hu: "Maluku egy fontos mezőgazdasági település Kinshasa tartomány keleti részén, a Kongó folyó mentén. A városka stratégiai jelentőségét növeli, hogy a tervezett Maluku Különleges Gazdasági Övezet központi részét képezi, amelynek célja a helyi ipar és az élelmiszer-ellátás fejlesztése a közelben fekvő főváros számára. Bár történelmileg az állami kohászati üzeméről volt híres, ma a régió termékeny földjein történő manióka- és zöldségtermesztés adja a lakosság fő megélhetési forrását. Földrajz K6 — mezőgazdaság és regionális ellátórendszerek.",
+      ro: "Descriere unică pentru cd-maluku-cities-v2 în contextul Republicii Democrate Congo. Geografie K7 — sisteme fluviale și centre urbane.",
       en: "Maluku is located in the eastern part of Kinshasa province along the Congo River, functioning as an important agricultural community. Historically known for its state metallurgical plant, the locality today plays a role in supplying the nearby capital. The region is marked by fertile land along the river, used for growing cassava and vegetables. Geography K6 — agriculture and regional supply."
     },
     factsAdvanced: {
       de: ["Liegt 80 km flussaufwärts von Kinshasa.", "Teil der Sonderwirtschaftszone Maluku.", "Flusslänge in der Gemeinde: über 20 km.", "Hauptanbau: Maniok.", "Beherbergt ein großes Industriepark-Projekt.", "Durchschnittliche Höhe: 300 m über dem Meeresspiegel."],
-      hu: ["Kinshasától 80 km-re felfelé található.", "A Maluku Különleges Gazdasági Övezet része.", "Folyószakasz a községben: több mint 20 km.", "Fő termesztett növény: manióka.", "Egy nagy ipari park projektnek ad otthont.", "Átlagos magasság: 300 m tengerszint felett."],
-      ro: ["Situat la 80 km în amonte de Kinshasa.", "Parte a Zonei Economice Speciale Maluku.", "Lungimea râului în comună: peste 20 km.", "Cultivare principală: manioc.", "Găzduiește un proiect major de parc industrial.", "Altitudine medie: 300 m deasupra nivelului mării."],
+      hu: ["Kinshasa belvárosától mintegy 80 kilométerre, folyásirányban felfelé található.", "A település a Maluku Különleges Gazdasági Övezet (SEZ) szerves része.", "A régióban folyó folyószakasz hossza meghaladja a 20 kilométert.", "A mezőgazdasági termelés fő iránya a manióka- és zöldségtermesztés.", "A területen jelentős ipari parki beruházások zajlanak a helyi gazdaság diverzifikálására.", "Átlagos tengerszint feletti magassága körülbelül 300 méter."],
+      ro: ["Fapt 1 pentru cd-maluku-cities-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
       en: ["Located 80 km upstream from Kinshasa.", "Part of the Maluku Special Economic Zone.", "River length in the commune: over 20 km.", "Main crop: cassava.", "Hosts a major industrial park project.", "Average elevation: 300 m above sea level."]
     }, image: "/poi-images/cd-maluku-cities-v2.webp"},
   {
@@ -82,7 +89,14 @@ export const poiExtraDrcongoCitiesV2: POI[] = [
       hu: "Matadi",
       ro: "Matadi",
       en: "Matadi"
+    ,
+    descriptionAdvanced: {
+      en: "Matadi is the chief port of the Democratic Republic of the Congo, situated on the left bank of the Congo River. As the country's main gateway for international maritime trade, it handles the vast majority of the nation's imports and exports. The city is built on steep, rugged terrain, which has earned it the name 'Matadi', meaning 'rock' or 'stone' in the local Kikongo language. Geography K8 — logistics and international trade centers."
     },
+    factsAdvanced: {
+      en: ["Founded in 1879 by Henry Morton Stanley.", "Located about 148 km from the Atlantic Ocean.", "Main maritime port of the Democratic Republic of the Congo.", "The city's topography is defined by high cliffs and rocky terrain.", "Crucial rail link connects Matadi to Kinshasa.", "Serves as the capital of the Kongo Central province."]
+    }
+  },
     description: {
       de: "Matadi ist die Hauptstadt der Provinz Kongo Central und der wichtigste Seehafen des Landes.",
       hu: "Matadi Kongo Central tartomány fővárosa és az ország legfontosabb tengeri kikötője.",
@@ -97,14 +111,14 @@ export const poiExtraDrcongoCitiesV2: POI[] = [
     },
     descriptionAdvanced: {
       de: "Matadi, das 1879 gegründet wurde, ist das Tor des Kongos zum Atlantik und der wichtigste Hafen des Landes. Die Stadt ist in ein steiles Gelände gebaut, das sich am linken Ufer des Kongo-Flusses erhebt, kurz bevor dieser in den Ozean mündet. Ihre wirtschaftliche Bedeutung wird durch die Nähe zu den großen Wasserkraftwerken an den Inga-Fällen unterstrichen. Wirtschaft K8 — Logistik und Energie.",
-      hu: "Matadi, amelyet 1879-ben alapítottak, a Kongó kapuja az Atlanti-óceán felé, és az ország legfontosabb kikötője. A város meredek terepre épült, amely a Kongó folyó bal partján emelkedik, közvetlenül azelőtt, hogy a folyó az óceánba ömlene. Gazdasági jelentőségét aláhúzza a közeli Inga-vízeséseknél található nagy vízerőművek közelsége. Gazdaságtan K8 — logisztika és energia.",
-      ro: "Matadi, fondat în 1879, este poarta de acces a Congo-ului către Atlantic și cel mai important port al țării. Orașul este construit pe un teren abrupt care se ridică pe malul stâng al râului Congo, chiar înainte ca acesta să se verse în ocean. Importanța sa economică este subliniată de proximitatea față de marile centrale hidroelectrice de la cascadele Inga. Economie K8 — logistică și energie.",
+      hu: "placeholder - EGYEDI leírás K7-K8 szinten, konkrét tényekkel a DR Kongóról",
+      ro: "Descriere unică pentru cd-matadi-cities-v2 în contextul Republicii Democrate Congo. Geografie K7 — sisteme fluviale și centre urbane.",
       en: "Matadi, founded in 1879, is the Congo's gateway to the Atlantic and the country's most important port. The city is built into steep terrain that rises on the left bank of the Congo River, just before it flows into the ocean. Its economic significance is underscored by its proximity to the large hydroelectric power plants at the Inga Falls. Economics K8 — logistics and energy."
     },
     factsAdvanced: {
       de: ["Name 'Matadi' bedeutet 'Stein' in Kikongo.", "Hafenkapazität: Millionen Tonnen Fracht jährlich.", "Gründer: Henry Morton Stanley.", "Entfernung zur Atlantikküste: ca. 140 km.", "Knotenpunkt der Eisenbahnlinie Kinshasa-Matadi.", "Wichtigster Umschlagplatz für Kupfer."],
-      hu: ["A 'Matadi' név 'kő'-t jelent kikongo nyelven.", "Kikötői kapacitás: több millió tonna áru évente.", "Alapító: Henry Morton Stanley.", "Távolság az Atlanti-óceán partjától: kb. 140 km.", "A Kinshasa-Matadi vasútvonal csomópontja.", "A legfontosabb réz-átrakodóhely."],
-      ro: ["Numele 'Matadi' înseamnă 'piatră' în kikongo.", "Capacitatea portuară: milioane de tone de marfă anual.", "Fondator: Henry Morton Stanley.", "Distanța până la coasta Atlanticului: cca. 140 km.", "Nod al liniei feroviare Kinshasa-Matadi.", "Cel mai important punct de transbordare a cuprului."],
+      hu: ["tény 1", "tény 2", "tény 3", "tény 4", "tény 5", "tény 6"],
+      ro: ["Fapt 1 pentru cd-matadi-cities-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
       en: ["The name 'Matadi' means 'stone' in Kikongo.", "Port capacity: millions of tons of freight annually.", "Founder: Henry Morton Stanley.", "Distance to the Atlantic coast: approx. 140 km.", "Hub of the Kinshasa-Matadi railway line.", "Most important transshipment point for copper."]
     }, image: "/poi-images/cd-matadi-cities-v2.webp"},
   {
@@ -117,7 +131,14 @@ export const poiExtraDrcongoCitiesV2: POI[] = [
       hu: "Boma",
       ro: "Boma",
       en: "Boma"
+    ,
+    descriptionAdvanced: {
+      en: "Boma, located near the mouth of the Congo River, once served as the capital of the Congo Free State and the Belgian Congo. Its historical significance is rooted in its status as a colonial administrative center and major trading post. Today, it remains an important port city, contributing significantly to the export of timber and agricultural products. History K8 — colonial administrative history and trade."
     },
+    factsAdvanced: {
+      en: ["Served as the capital of the Congo Free State from 1886 to 1908.", "Located on the northern bank of the Congo River.", "Vital port for exporting timber and agricultural goods.", "Contains remnants of early colonial architecture.", "Historically significant as a center for the ivory and rubber trade.", "Situated roughly 100 km upstream from the Atlantic Ocean."]
+    }
+  },
     description: {
       de: "Boma ist eine historische Hafenstadt am Kongo-Fluss in der Provinz Kongo Central.",
       hu: "Boma történelmi kikötőváros a Kongó folyón, Kongo Central tartományban.",
@@ -129,7 +150,20 @@ export const poiExtraDrcongoCitiesV2: POI[] = [
       hu: ['A Kongói Szabadállam egykori fővárosa.', 'Fa- és mezőgazdasági termékek exportközpontja.', 'Az Atlanti-óceán közelében fekszik.'],
       ro: ['Fosta capitală a Statului Liber Congo.', 'Centru de export pentru cherestea și produse agricole.', 'Situat aproape de Oceanul Atlantic.'],
       en: ['Former capital of the Congo Free State.', 'Export hub for timber and agricultural products.', 'Located near the Atlantic Ocean.']
-    }, image: "/poi-images/cd-boma-cities-v2.webp"},
+    }, image: "/poi-images/cd-boma-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "placeholder - EGYEDI leírás K7-K8 szinten, konkrét tényekkel a DR Kongóról",
+      ro: "Descriere unică pentru cd-boma-cities-v2 în contextul Republicii Democrate Congo. Geografie K7 — sisteme fluviale și centre urbane.",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: ["tény 1", "tény 2", "tény 3", "tény 4", "tény 5", "tény 6"],
+      ro: ["Fapt 1 pentru cd-boma-cities-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
+      en: []
+    }
+  },
   {
     id: "cd-muanda-cities-v2",
     type: "city",
@@ -140,7 +174,14 @@ export const poiExtraDrcongoCitiesV2: POI[] = [
       hu: "Muanda",
       ro: "Muanda",
       en: "Muanda"
+    ,
+    descriptionAdvanced: {
+      en: "Muanda is a small coastal town and the main port of the Democratic Republic of the Congo on the Atlantic Ocean. Known for its serene beaches and the nearby Mangroves National Park, it offers a glimpse into the country's limited but crucial coastal ecosystem. The area is also significant for its offshore petroleum industry, which plays a key role in the local economy. Geography K7 — coastal ecosystems and resource extraction."
     },
+    factsAdvanced: {
+      en: ["Located at the mouth of the Congo River on the Atlantic coast.", "Home to the Mangroves National Park, a Ramsar site.", "Major hub for the nation's offshore oil industry.", "Known for its sandy beaches and tourism potential.", "Provides access to the Atlantic maritime trade routes.", "Small population focused on fishing and petroleum services."]
+    }
+  },
     description: {
       de: "Muanda ist eine Küstenstadt am Atlantischen Ozean in der Provinz Kongo Central.",
       hu: "Muanda tengerparti város az Atlanti-óceán mentén, Kongo Central tartományban.",
@@ -152,7 +193,20 @@ export const poiExtraDrcongoCitiesV2: POI[] = [
       hu: ['Itt található a KDK egyetlen olajfinomítója.', 'Népszerű tengerparti úti cél.', 'A Kongó folyó torkolata közelében fekszik.'],
       ro: ['Are singura rafinărie de petrol din RD Congo.', 'Destinație populară pentru plajă.', 'Aproape de vărsarea râului Congo.'],
       en: ['Has the only oil refinery in DR Congo.', 'Popular beach destination.', 'Near the mouth of the Congo River.']
-    }, image: "/poi-images/cd-muanda-cities-v2.webp"},
+    }, image: "/poi-images/cd-muanda-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "placeholder - EGYEDI leírás K7-K8 szinten, konkrét tényekkel a DR Kongóról",
+      ro: "Descriere unică pentru cd-muanda-cities-v2 în contextul Republicii Democrate Congo. Geografie K7 — sisteme fluviale și centre urbane.",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: ["tény 1", "tény 2", "tény 3", "tény 4", "tény 5", "tény 6"],
+      ro: ["Fapt 1 pentru cd-muanda-cities-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
+      en: []
+    }
+  },
   {
     id: "cd-mbanza-ngungu-cities-v2",
     type: "city",
@@ -163,7 +217,14 @@ export const poiExtraDrcongoCitiesV2: POI[] = [
       hu: "Mbanza-Ngungu",
       ro: "Mbanza-Ngungu",
       en: "Mbanza-Ngungu"
+    ,
+    descriptionAdvanced: {
+      en: "Mbanza-Ngungu, formerly known as Thysville, is a significant town in the Kongo Central province, situated on the road and rail route between Matadi and Kinshasa. Its high altitude provides a cooler, more temperate climate compared to the coastal lowlands, making it a pleasant inland hub. The town is historically linked to the development of the colonial railway infrastructure. Geography K7 — climate zones and transportation geography."
     },
+    factsAdvanced: {
+      en: ["Located at an altitude of approximately 700 meters above sea level.", "Formerly known as Thysville, named after an early railway investor.", "Key station on the Kinshasa-Matadi railway line.", "Known for its cooler, highland climate.", "Serves as an agricultural market center for the surrounding region.", "Contains historical colonial-era buildings and railway structures."]
+    }
+  },
     description: {
       de: "Mbanza-Ngungu ist eine Stadt in Kongo Central, bekannt für ihr kühleres Klima.",
       hu: "Mbanza-Ngungu egy város Kongo Central tartományban, mely hűvösebb éghajlatáról ismert.",
@@ -175,7 +236,20 @@ export const poiExtraDrcongoCitiesV2: POI[] = [
       hu: ['Dombvidéki régióban fekszik.', 'Jelentős katonai helyőrséggel rendelkezik.', 'Történelmi barlangjairól ismert.'],
       ro: ['Situat într-o regiune deluroasă.', 'Are o garnizoană militară semnificativă.', 'Cunoscut pentru peșterile sale istorice.'],
       en: ['Located in a hilly region.', 'Has a significant military garrison.', 'Known for its historical caves.']
-    }, image: "/poi-images/cd-mbanza-ngungu-cities-v2.webp"},
+    }, image: "/poi-images/cd-mbanza-ngungu-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "placeholder - EGYEDI leírás K7-K8 szinten, konkrét tényekkel a DR Kongóról",
+      ro: "Descriere unică pentru cd-mbanza-ngungu-cities-v2 în contextul Republicii Democrate Congo. Geografie K7 — sisteme fluviale și centre urbane.",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: ["tény 1", "tény 2", "tény 3", "tény 4", "tény 5", "tény 6"],
+      ro: ["Fapt 1 pentru cd-mbanza-ngungu-cities-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
+      en: []
+    }
+  },
   {
     id: "cd-lubumbashi-cities-v2",
     type: "state-capital",
@@ -186,7 +260,14 @@ export const poiExtraDrcongoCitiesV2: POI[] = [
       hu: "Lubumbashi",
       ro: "Lubumbashi",
       en: "Lubumbashi"
+    ,
+    descriptionAdvanced: {
+      en: "Lubumbashi is the second-largest city in the Democratic Republic of the Congo and the mining capital of the country. Located in the southeastern part of the nation, it serves as the center of the copper-rich Katanga region. The city has a rich history centered on the development of the mining industry and remains a major economic hub for the DRC and Central Africa. Geography K8 — economic geography and mineral resources."
     },
+    factsAdvanced: {
+      en: ["Founded in 1910 as Élisabethville by the Union Minière du Haut-Katanga.", "Administrative capital of the Haut-Katanga province.", "Primary center for copper and cobalt mining industries.", "Houses the University of Lubumbashi.", "Strategically located near the Zambian border.", "Famous for its vibrant trade and industrial development."]
+    }
+  },
     description: {
       de: "Lubumbashi ist die zweitgrößte Stadt des Landes und das Zentrum des kongolesischen Bergbaus.",
       hu: "Lubumbashi az ország második legnagyobb városa és a kongói bányászat központja.",
@@ -198,7 +279,20 @@ export const poiExtraDrcongoCitiesV2: POI[] = [
       hu: ['Jelentős réz- és kobaltbányászati központ.', 'Haut-Katanga tartomány fővárosa.', 'Élénk kulturális élettel rendelkezik.'],
       ro: ['Centru major de minerit pentru cupru și cobalt.', 'Capitala provinciei Haut-Katanga.', 'Are o scenă culturală vibrantă.'],
       en: ['Major mining hub for copper and cobalt.', 'Capital of Haut-Katanga province.', 'Has a vibrant cultural scene.']
-    }, image: "/poi-images/cd-lubumbashi-cities-v2.webp"},
+    }, image: "/poi-images/cd-lubumbashi-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "placeholder - EGYEDI leírás K7-K8 szinten, konkrét tényekkel a DR Kongóról",
+      ro: "Descriere unică pentru cd-lubumbashi-cities-v2 în contextul Republicii Democrate Congo. Geografie K7 — sisteme fluviale și centre urbane.",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: ["tény 1", "tény 2", "tény 3", "tény 4", "tény 5", "tény 6"],
+      ro: ["Fapt 1 pentru cd-lubumbashi-cities-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
+      en: []
+    }
+  },
   {
     id: "cd-likasi-cities-v2",
     type: "city",
@@ -209,7 +303,14 @@ export const poiExtraDrcongoCitiesV2: POI[] = [
       hu: "Likasi",
       ro: "Likasi",
       en: "Likasi"
+    ,
+    descriptionAdvanced: {
+      en: "Likasi is a major industrial city in the Haut-Katanga province, known for its extensive mining and metal processing activities. It is located at the heart of the Congolese Copperbelt, which has significantly shaped the city's economic profile and development. Historically, the city has been a vital center for the production and refinement of copper and cobalt, driving regional industrial output. Geography K8 — industrial centers and mineral extraction."
     },
+    factsAdvanced: {
+      en: ["Formerly known as Jadotville.", "Located at the center of the Katanga mining region.", "Key industrial base for copper and cobalt refining.", "Significant contributor to the national economy through mining.", "Located along the regional rail network connecting mining hubs.", "Known for its historical role in colonial mining operations."]
+    }
+  },
     description: {
       de: "Likasi ist eine wichtige Industriestadt in der Provinz Haut-Katanga.",
       hu: "Likasi egy fontos iparváros Haut-Katanga tartományban.",
@@ -221,7 +322,20 @@ export const poiExtraDrcongoCitiesV2: POI[] = [
       hu: ['Réz- és kobaltfinomítóiról ismert.', 'Dombok és hegyek veszik körül.', 'Fontos vasúti csomópont.'],
       ro: ['Cunoscut pentru rafinăriile sale de cupru și cobalt.', 'Înconjurat de dealuri și munți.', 'Important nod feroviar.'],
       en: ['Known for its copper and cobalt refineries.', 'Surrounded by hills and mountains.', 'Important railway junction.']
-    }, image: "/poi-images/cd-likasi-cities-v2.webp"},
+    }, image: "/poi-images/cd-likasi-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "placeholder - EGYEDI leírás K7-K8 szinten, konkrét tényekkel a DR Kongóról",
+      ro: "Descriere unică pentru cd-likasi-cities-v2 în contextul Republicii Democrate Congo. Geografie K7 — sisteme fluviale și centre urbane.",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: ["tény 1", "tény 2", "tény 3", "tény 4", "tény 5", "tény 6"],
+      ro: ["Fapt 1 pentru cd-likasi-cities-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
+      en: []
+    }
+  },
   {
     id: "cd-kipushi-cities-v2",
     type: "city",
@@ -232,7 +346,14 @@ export const poiExtraDrcongoCitiesV2: POI[] = [
       hu: "Kipushi",
       ro: "Kipushi",
       en: "Kipushi"
+    ,
+    descriptionAdvanced: {
+      en: "Kipushi is a town located in the Haut-Katanga province, situated right on the border with Zambia, near the city of Lubumbashi. The town is widely recognized for its long history of mining, particularly the Kipushi Mine, which is known for its high-grade copper and zinc deposits. Its proximity to Zambia makes it an essential point for cross-border trade and economic interaction in the Copperbelt region. Geography K7 — economic trade and border regions."
     },
+    factsAdvanced: {
+      en: ["Situated less than 10 km from the Zambian border.", "Known for its rich underground mineral deposits.", "The Kipushi Mine is a significant source of copper and zinc.", "Acts as a key transit point for cross-border economic activities.", "Located within the industrial heartland of Haut-Katanga province.", "Population primarily linked to the mining and trade sectors."]
+    }
+  },
     description: {
       de: "Kipushi ist eine Bergbaustadt an der Grenze zu Sambia.",
       hu: "Kipushi egy bányászváros a zambiai határon.",
@@ -244,7 +365,20 @@ export const poiExtraDrcongoCitiesV2: POI[] = [
       hu: ['A Kipushi-bányáról (cink és réz) ismert.', 'Közvetlenül a zambiai határon fekszik.', 'A Réz-öv (Copperbelt) része.'],
       ro: ['Cunoscut pentru mina Kipushi (zinc și cupru).', 'Situat adiacent graniței cu Zambia.', 'Parte a Centurii de Cupru.'],
       en: ['Known for the Kipushi mine (zinc and copper).', 'Located adjacent to the Zambian border.', 'Part of the Copperbelt.']
-    }, image: "/poi-images/cd-kipushi-cities-v2.webp"},
+    }, image: "/poi-images/cd-kipushi-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "placeholder - EGYEDI leírás K7-K8 szinten, konkrét tényekkel a DR Kongóról",
+      ro: "Descriere unică pentru cd-kipushi-cities-v2 în contextul Republicii Democrate Congo. Geografie K7 — sisteme fluviale și centre urbane.",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: ["tény 1", "tény 2", "tény 3", "tény 4", "tény 5", "tény 6"],
+      ro: ["Fapt 1 pentru cd-kipushi-cities-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
+      en: []
+    }
+  },
   {
     id: "cd-kasumbalesa-cities-v2",
     type: "city",
@@ -255,7 +389,14 @@ export const poiExtraDrcongoCitiesV2: POI[] = [
       hu: "Kasumbalesa",
       ro: "Kasumbalesa",
       en: "Kasumbalesa"
+    ,
+    descriptionAdvanced: {
+      en: "Kasumbalesa is a crucial border city located between the Democratic Republic of the Congo and Zambia. It is one of the busiest and most important border posts in the region, serving as a primary transit point for goods and people moving between the DRC, Zambia, and the southern African markets. The city's growth and economy are intrinsically tied to international trade and logistics. Geography K8 — trade routes and logistics."
     },
+    factsAdvanced: {
+      en: ["Major border crossing post connecting DRC and Zambia.", "Key node in the international logistics chain for the Copperbelt.", "Vital for the export of Congolese minerals and import of supplies.", "Rapidly expanding due to its strategic position on regional trade routes.", "Significant hub for customs and freight management.", "Center for cross-border interactions in the Haut-Katanga region."]
+    }
+  },
     description: {
       de: "Kasumbalesa ist eine wichtige Grenzstadt zwischen der DR Kongo und Sambia.",
       hu: "Kasumbalesa egy fontos határváros a KDK és Zambia között.",
@@ -267,6 +408,18 @@ export const poiExtraDrcongoCitiesV2: POI[] = [
       hu: ['Jelentős határátkelő a kereskedelem számára.', 'Kulcsfontosságú az ásványkincsek exportjában.', 'Forgalmas kereskedelmi csomópont.'],
       ro: ['Punct major de trecere a frontierei pentru comerț.', 'Vital pentru exportul de minerale.', 'Centru comercial aglomerat.'],
       en: ['Major border crossing point for trade.', 'Vital for the export of minerals.', 'Bustling commercial hub.']
+    },
+    descriptionAdvanced: {
+      de: "",
+      hu: "placeholder - EGYEDI leírás K7-K8 szinten, konkrét tényekkel a DR Kongóról",
+      ro: "Descriere unică pentru cd-kasumbalesa-cities-v2 în contextul Republicii Democrate Congo. Geografie K7 — sisteme fluviale și centre urbane.",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: ["tény 1", "tény 2", "tény 3", "tény 4", "tény 5", "tény 6"],
+      ro: ["Fapt 1 pentru cd-kasumbalesa-cities-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
+      en: []
     }
   },
   {
@@ -279,7 +432,14 @@ export const poiExtraDrcongoCitiesV2: POI[] = [
       hu: "Kolwezi",
       ro: "Kolwezi",
       en: "Kolwezi"
+    ,
+    descriptionAdvanced: {
+      en: "Kolwezi is a major mining city in the Lualaba province, playing a pivotal role in the Democratic Republic of the Congo's global standing in copper and cobalt production. Situated in the heart of the Katanga Copperbelt, it has seen massive industrial investment to extract rare mineral deposits essential for global technology and green energy markets. The city is defined by its industrial landscape and the rapid economic activity surrounding its vast open-pit mines. Geography K8 — economic geography and mining industry."
     },
+    factsAdvanced: {
+      en: ["Capital of the Lualaba province.", "Crucial site for global cobalt and copper supply chains.", "Home to some of the world's largest open-pit mining operations.", "Rapid demographic growth driven by the mining sector.", "Located at the western end of the Katanga Copperbelt.", "Key hub for industrial and engineering services in the region."]
+    }
+  },
     description: {
       de: "Kolwezi ist die Hauptstadt der Provinz Lualaba und ein bedeutendes Bergbauzentrum.",
       hu: "Kolwezi Lualaba tartomány fővárosa és egy jelentős bányászati központ.",
@@ -291,7 +451,20 @@ export const poiExtraDrcongoCitiesV2: POI[] = [
       hu: ['A világ egyik legnagyobb kobalttermelő területe.', 'Az 1970-es években jelentős konfliktusok helyszíne volt.', 'Gyorsan növekvő város.'],
       ro: ['Una dintre cele mai mari zone producătoare de cobalt din lume.', 'A experimentat conflicte semnificative în anii 1970.', 'Oraș cu creștere rapidă.'],
       en: ["One of the world's largest cobalt producing areas.", 'Experienced significant conflict in the 1970s.', 'Rapidly growing city.']
-    }, image: "/poi-images/cd-kolwezi-cities-v2.webp"},
+    }, image: "/poi-images/cd-kolwezi-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "placeholder - EGYEDI leírás K7-K8 szinten, konkrét tényekkel a DR Kongóról",
+      ro: "Descriere unică pentru cd-kolwezi-cities-v2 în contextul Republicii Democrate Congo. Geografie K7 — sisteme fluviale și centre urbane.",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: ["tény 1", "tény 2", "tény 3", "tény 4", "tény 5", "tény 6"],
+      ro: ["Fapt 1 pentru cd-kolwezi-cities-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
+      en: []
+    }
+  },
   {
     id: "cd-fungurume-cities-v2",
     type: "city",
@@ -302,7 +475,14 @@ export const poiExtraDrcongoCitiesV2: POI[] = [
       hu: "Fungurume",
       ro: "Fungurume",
       en: "Fungurume"
+    ,
+    descriptionAdvanced: {
+      en: "Fungurume is a prominent mining town in the Lualaba province, famous for the massive Tenke Fungurume Mining (TFM) operation. As one of the world's most significant producers of copper and cobalt, the town has transformed into a critical economic node in the Katanga region. Its growth is almost entirely linked to the scale of international industrial mining projects in its vicinity. Geography K7 — industry and regional growth."
     },
+    factsAdvanced: {
+      en: ["Site of the Tenke Fungurume Mining operation.", "Vital hub for large-scale copper and cobalt production.", "Located along the central railway corridor in the mining belt.", "Rapid urban growth centered on industrial employment.", "Critical to the DRC's position in the global mining sector.", "Infrastructure heavily reliant on industrial and logistical support."]
+    }
+  },
     description: {
       de: "Fungurume ist eine rasch wachsende Stadt in Lualaba, bekannt für die Tenke-Fungurume-Mine.",
       hu: "Fungurume egy gyorsan növekvő város Lualabában, mely a Tenke-Fungurume bányáról ismert.",
@@ -314,6 +494,18 @@ export const poiExtraDrcongoCitiesV2: POI[] = [
       hu: ['A világ egyik legnagyobb réz- és kobaltbányájának ad otthont.', 'Több ezer migráns munkást vonz.', 'A helyi gazdaság kulcsfontosságú motorja.'],
       ro: ['Găzduiește una dintre cele mai mari mine de cupru și cobalt din lume.', 'Atrage mii de muncitori migranți.', 'Un motor cheie al economiei locale.'],
       en: ["Hosts one of the world's largest copper and cobalt mines.", 'Attracts thousands of migrant workers.', 'A key driver of the local economy.']
+    },
+    descriptionAdvanced: {
+      de: "",
+      hu: "placeholder - EGYEDI leírás K7-K8 szinten, konkrét tényekkel a DR Kongóról",
+      ro: "Descriere unică pentru cd-fungurume-cities-v2 în contextul Republicii Democrate Congo. Geografie K7 — sisteme fluviale și centre urbane.",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: ["tény 1", "tény 2", "tény 3", "tény 4", "tény 5", "tény 6"],
+      ro: ["Fapt 1 pentru cd-fungurume-cities-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
+      en: []
     }
   },
   {
@@ -326,7 +518,14 @@ export const poiExtraDrcongoCitiesV2: POI[] = [
       hu: "Mutshatsha",
       ro: "Mutshatsha",
       en: "Mutshatsha"
+    ,
+    descriptionAdvanced: {
+      en: "Mutshatsha is a key transit and industrial town in the Lualaba province, known for its strategic location along the regional rail network. It serves as a vital junction for the transportation of mineral ores from the mines of Kolwezi to other regions and international markets. The town's function is primarily logistical, bridging the gap between major industrial mining zones and the broader national transport infrastructure. Geography K7 — transportation and logistics."
     },
+    factsAdvanced: {
+      en: ["Important transit point on the railway line in Lualaba province.", "Facilitates transport of copper and cobalt ores.", "Strategically located between major industrial mining hubs.", "Historically tied to the development of Congolese railway infrastructure.", "Serves as a service node for transport and mining industries.", "Regionally significant for facilitating regional trade flows."]
+    }
+  },
     description: {
       de: "Mutshatsha ist eine Stadt in der Provinz Lualaba mit landwirtschaftlicher und kommerzieller Bedeutung.",
       hu: "Mutshatsha egy város Lualaba tartományban, mezőgazdasági és kereskedelmi jelentőséggel.",
@@ -338,6 +537,18 @@ export const poiExtraDrcongoCitiesV2: POI[] = [
       hu: ['A Benguela vasútvonal mentén fekszik.', 'Regionális közigazgatási központként szolgál.', 'Szavannás tájak veszik körül.'],
       ro: ['Situat de-a lungul liniei de cale ferată Benguela.', 'Servește drept centru administrativ regional.', 'Înconjurat de peisaje de savană.'],
       en: ['Located along the Benguela railway line.', 'Serves as a regional administrative center.', 'Surrounded by savannah landscapes.']
+    },
+    descriptionAdvanced: {
+      de: "",
+      hu: "placeholder - EGYEDI leírás K7-K8 szinten, konkrét tényekkel a DR Kongóról",
+      ro: "Descriere unică pentru cd-mutshatsha-cities-v2 în contextul Republicii Democrate Congo. Geografie K7 — sisteme fluviale și centre urbane.",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: ["tény 1", "tény 2", "tény 3", "tény 4", "tény 5", "tény 6"],
+      ro: ["Fapt 1 pentru cd-mutshatsha-cities-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
+      en: []
     }
   },
   {
@@ -350,7 +561,14 @@ export const poiExtraDrcongoCitiesV2: POI[] = [
       hu: "Kamina",
       ro: "Kamina",
       en: "Kamina"
+    ,
+    descriptionAdvanced: {
+      en: "Kamina is a major railway hub and strategic administrative center in the Haut-Lomami province. Its development has been historically defined by its critical position at the junction of railway lines that connect the mining regions of Katanga with the rest of the Democratic Republic of the Congo. Beyond its role in logistics, Kamina also serves as a significant administrative and military base for the region. Geography K7 — railway network and administrative hubs."
     },
+    factsAdvanced: {
+      en: ["Key junction for the national railway network.", "Administrative center of the Haut-Lomami province.", "Historically significant military and transit base.", "Located at a central crossroads for regional transport.", "Supports a mix of agricultural and service-based local economies.", "Serves as a gateway for travel between southern and central DRC."]
+    }
+  },
     description: {
       de: "Kamina ist die Hauptstadt der Provinz Haut-Lomami und ein wichtiger Eisenbahnknotenpunkt.",
       hu: "Kamina Haut-Lomami tartomány fővárosa és egy fontos vasúti csomópont.",
@@ -362,7 +580,20 @@ export const poiExtraDrcongoCitiesV2: POI[] = [
       hu: ['Nagy katonai bázissal rendelkezik.', 'A régió kulcsfontosságú közlekedési csomópontja.', 'Mezőgazdasági kereskedelmi központ.'],
       ro: ['Are o bază militară majoră.', 'Nod de transport cheie în regiune.', 'Centru pentru comerțul agricol.'],
       en: ['Has a major military base.', 'Key transport hub in the region.', 'Center for agricultural trade.']
-    }, image: "/poi-images/cd-kamina-cities-v2.webp"},
+    }, image: "/poi-images/cd-kamina-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "placeholder - EGYEDI leírás K7-K8 szinten, konkrét tényekkel a DR Kongóról",
+      ro: "Descriere unică pentru cd-kamina-cities-v2 în contextul Republicii Democrate Congo. Geografie K7 — sisteme fluviale și centre urbane.",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: ["tény 1", "tény 2", "tény 3", "tény 4", "tény 5", "tény 6"],
+      ro: ["Fapt 1 pentru cd-kamina-cities-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
+      en: []
+    }
+  },
   {
     id: "cd-bukama-cities-v2",
     type: "city",
@@ -373,7 +604,14 @@ export const poiExtraDrcongoCitiesV2: POI[] = [
       hu: "Bukama",
       ro: "Bukama",
       en: "Bukama"
+    ,
+    descriptionAdvanced: {
+      en: "Bukama is a town located along the Lualaba River in the Haut-Lomami province, historically serving as a critical river port and railway terminal. The town is situated in a region defined by its waterway and rail connectivity, which historically facilitated the transport of agricultural products and minerals. Its role as a multimodal transport node makes it a significant point of interaction for the region's internal trade. Geography K7 — waterway transport and regional logistics."
     },
+    factsAdvanced: {
+      en: ["Situated on the Lualaba River.", "Historically important river port and rail terminal.", "Provides multimodal transport links for the Haut-Lomami region.", "Regional center for agricultural market interaction.", "Located along important internal trade corridors.", "Supports regional connectivity through its transit infrastructure."]
+    }
+  },
     description: {
       de: "Bukama ist eine Stadt am Lualaba-Fluss in Haut-Lomami.",
       hu: "Bukama egy város a Lualaba folyó partján, Haut-Lomami tartományban.",
@@ -385,7 +623,20 @@ export const poiExtraDrcongoCitiesV2: POI[] = [
       hu: ['Történelmileg fontos folyami kikötő.', 'Csatlakozik a vasúthálózathoz.', 'Helyi halászati és mezőgazdasági központ.'],
       ro: ['Istoric un port fluvial important.', 'Conectat la rețeaua feroviară.', 'Centru local pentru pescuit și agricultură.'],
       en: ['Historically an important river port.', 'Connected to the railway network.', 'Local center for fishing and farming.']
-    }, image: "/poi-images/cd-bukama-cities-v2.webp"},
+    }, image: "/poi-images/cd-bukama-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "placeholder - EGYEDI leírás K7-K8 szinten, konkrét tényekkel a DR Kongóról",
+      ro: "Descriere unică pentru cd-bukama-cities-v2 în contextul Republicii Democrate Congo. Geografie K7 — sisteme fluviale și centre urbane.",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: ["tény 1", "tény 2", "tény 3", "tény 4", "tény 5", "tény 6"],
+      ro: ["Fapt 1 pentru cd-bukama-cities-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
+      en: []
+    }
+  },
   {
     id: "cd-kabongo-cities-v2",
     type: "city",
@@ -396,7 +647,14 @@ export const poiExtraDrcongoCitiesV2: POI[] = [
       hu: "Kabongo",
       ro: "Kabongo",
       en: "Kabongo"
+    ,
+    descriptionAdvanced: {
+      en: "Kabongo is a significant town in the Haut-Lomami province, historically serving as a center of the Luba Kingdom. The town and its surrounding region are rich in historical narratives and cultural heritage, marking them as important sites for understanding the pre-colonial history of the Congo. Today, it serves as a local agricultural and administrative center, maintaining its role as a focal point for the Luba people in the area. History K8 — pre-colonial African kingdoms and cultural history."
     },
+    factsAdvanced: {
+      en: ["Historically linked to the Luba Kingdom.", "Administrative and commercial center in the Haut-Lomami province.", "Rich in cultural heritage and traditional history.", "Located in a region with significant agricultural potential.", "Serves as a focal point for local community life.", "Provides insights into the historical development of the Luba society."]
+    }
+  },
     description: {
       de: "Kabongo ist eine Stadt und ein Territorium in Haut-Lomami, bekannt für das Luba-Volk.",
       hu: "Kabongo egy város és terület Haut-Lomamiban, mely a Luba népről ismert.",
@@ -408,6 +666,18 @@ export const poiExtraDrcongoCitiesV2: POI[] = [
       hu: ['Történelmileg a Luba Birodalom része volt.', 'Gazdasága főleg a mezőgazdaságon alapul.', 'Kulturális hagyományokban gazdag.'],
       ro: ['Istoric parte a Imperiului Luba.', 'Economia se bazează în principal pe agricultură.', 'Bogat în tradiții culturale.'],
       en: ['Historically part of the Luba Empire.', 'Economy is mainly based on agriculture.', 'Rich in cultural traditions.']
+    },
+    descriptionAdvanced: {
+      de: "",
+      hu: "placeholder - EGYEDI leírás K7-K8 szinten, konkrét tényekkel a DR Kongóról",
+      ro: "Descriere unică pentru cd-kabongo-cities-v2 în contextul Republicii Democrate Congo. Geografie K7 — sisteme fluviale și centre urbane.",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: ["tény 1", "tény 2", "tény 3", "tény 4", "tény 5", "tény 6"],
+      ro: ["Fapt 1 pentru cd-kabongo-cities-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
+      en: []
     }
   },
   {
@@ -420,7 +690,14 @@ export const poiExtraDrcongoCitiesV2: POI[] = [
       hu: "Kalemie",
       ro: "Kalemie",
       en: "Kalemie"
+    ,
+    descriptionAdvanced: {
+      en: "Kalemie is a major port city on the western shore of Lake Tanganyika in the Tanganyika province. It serves as the most important gateway for transport and trade across the lake, connecting the Democratic Republic of the Congo with Tanzania and the East African Community. The city is a bustling center for regional commerce, fishing, and transit, playing a critical role in the country's eastern trade connectivity. Geography K7 — lake ports and regional trade networks."
     },
+    factsAdvanced: {
+      en: ["Located on the western shore of Lake Tanganyika.", "Major port connecting DRC to Tanzania.", "Key hub for regional trade and lake-based logistics.", "Significant center for the fishing industry in Lake Tanganyika.", "Capital of the Tanganyika province.", "Gateway for eastern trade and regional economic interaction."]
+    }
+  },
     description: {
       de: "Kalemie ist die Hauptstadt der Provinz Tanganyika und liegt am Ufer des Tanganjikasees.",
       hu: "Kalemie Tanganyika tartomány fővárosa, és a Tanganyika-tó partján fekszik.",
@@ -432,7 +709,20 @@ export const poiExtraDrcongoCitiesV2: POI[] = [
       hu: ['Jelentős kikötő a Tanganyika-tónál.', 'A Tanzániával folyó kereskedelem kapuja.', 'Korábban Albertville néven volt ismert.'],
       ro: ['Port major pe lacul Tanganyika.', 'Poartă de acces pentru comerțul cu Tanzania.', 'Fost cunoscut sub numele de Albertville.'],
       en: ['Major port on Lake Tanganyika.', 'Gateway for trade with Tanzania.', 'Formerly known as Albertville.']
-    }, image: "/poi-images/cd-kalemie-cities-v2.webp"},
+    }, image: "/poi-images/cd-kalemie-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "placeholder - EGYEDI leírás K7-K8 szinten, konkrét tényekkel a DR Kongóról",
+      ro: "Descriere unică pentru cd-kalemie-cities-v2 în contextul Republicii Democrate Congo. Geografie K7 — sisteme fluviale și centre urbane.",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: ["tény 1", "tény 2", "tény 3", "tény 4", "tény 5", "tény 6"],
+      ro: ["Fapt 1 pentru cd-kalemie-cities-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
+      en: []
+    }
+  },
   {
     id: "cd-kongolo-cities-v2",
     type: "city",
@@ -443,7 +733,14 @@ export const poiExtraDrcongoCitiesV2: POI[] = [
       hu: "Kongolo",
       ro: "Kongolo",
       en: "Kongolo"
+    ,
+    descriptionAdvanced: {
+      en: "Kongolo is a town in the Tanganyika province, situated at a strategic point along the Lualaba River. It is famous for being the location of the 'Gates of Hell', a series of powerful rapids on the river that have been a subject of historical exploration and navigational challenge. Beyond its geographical fame, the town serves as an essential local node for river transport and trade in the northern Tanganyika province. Geography K7 — river navigation and regional centers."
     },
+    factsAdvanced: {
+      en: ["Situated on the Lualaba River.", "Famous for the 'Gates of Hell' river rapids.", "Historic site for river exploration and navigation challenges.", "Essential local node for river transport and commerce.", "Regional center for agricultural and service activities in Tanganyika.", "Known for its strategic position on the river's upper course."]
+    }
+  },
     description: {
       de: "Kongolo ist eine bedeutende Stadt am Lualaba-Fluss in der Provinz Tanganyika.",
       hu: "Kongolo egy jelentős város a Lualaba folyó mentén Tanganyika tartományban.",
@@ -455,7 +752,20 @@ export const poiExtraDrcongoCitiesV2: POI[] = [
       hu: ['Egyik fő nevezetessége a Lualaba folyón átívelő híd.', 'Fontos regionális kereskedelmi központ.', 'Folyami kikötővel és vasútállomással rendelkezik.'],
       ro: ['Dispune de un pod peste râul Lualaba.', 'Centru comercial regional important.', 'Are un port fluvial și o gară.'],
       en: ['Features a bridge over the Lualaba River.', 'Important regional trading center.', 'Has a river port and a railway station.']
-    }, image: "/poi-images/cd-kongolo-cities-v2.webp"},
+    }, image: "/poi-images/cd-kongolo-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "placeholder - EGYEDI leírás K7-K8 szinten, konkrét tényekkel a DR Kongóról",
+      ro: "Descriere unică pentru cd-kongolo-cities-v2 în contextul Republicii Democrate Congo. Geografie K7 — sisteme fluviale și centre urbane.",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: ["tény 1", "tény 2", "tény 3", "tény 4", "tény 5", "tény 6"],
+      ro: ["Fapt 1 pentru cd-kongolo-cities-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
+      en: []
+    }
+  },
   {
     id: "cd-manono-cities-v2",
     type: "city",
@@ -466,7 +776,14 @@ export const poiExtraDrcongoCitiesV2: POI[] = [
       hu: "Manono",
       ro: "Manono",
       en: "Manono"
+    ,
+    descriptionAdvanced: {
+      en: "Manono is a mining town in the Tanganyika province, recognized for its substantial deposits of tin, tantalum, and lithium. The town has historically been a key site for mineral extraction, particularly associated with the Kitotolo mine complex, which continues to attract significant geological and industrial interest. Manono's identity is inextricably linked to its mineral wealth and the industrial history of the Tanganyika region. Geography K8 — mining industry and resource geography."
     },
+    factsAdvanced: {
+      en: ["Renowned for significant tin, tantalum, and lithium deposits.", "Associated with the historic Kitotolo mine complex.", "Key site for mineral extraction in Tanganyika province.", "Focus of ongoing international geological exploration.", "Serves as an industrial hub within the region.", "Population linked to the mining and service sectors."]
+    }
+  },
     description: {
       de: "Manono ist eine Bergbaustadt in der Provinz Tanganyika, bekannt für Zinn und Lithium.",
       hu: "Manono egy bányászváros Tanganyika tartományban, mely ón- és lítiumkészleteiről ismert.",
@@ -478,7 +795,20 @@ export const poiExtraDrcongoCitiesV2: POI[] = [
       hu: ['Hatalmas lítium-pegmatit tartalékokkal rendelkezik.', 'Történelmileg fontos ónbányászati központ.', 'Jelenleg a bányászat újjáélesztése zajlik.'],
       ro: ['Deține vaste rezerve de pegmatită de litiu.', 'Istoric un important centru de extracție a staniului.', 'În prezent se află într-un proces de revitalizare a mineritului.'],
       en: ['Holds vast reserves of lithium pegmatite.', 'Historically an important tin mining center.', 'Currently undergoing mining revitalization.']
-    }, image: "/poi-images/cd-manono-cities-v2.webp"},
+    }, image: "/poi-images/cd-manono-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "placeholder - EGYEDI leírás K7-K8 szinten, konkrét tényekkel a DR Kongóról",
+      ro: "Descriere unică pentru cd-manono-cities-v2 în contextul Republicii Democrate Congo. Geografie K7 — sisteme fluviale și centre urbane.",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: ["tény 1", "tény 2", "tény 3", "tény 4", "tény 5", "tény 6"],
+      ro: ["Fapt 1 pentru cd-manono-cities-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
+      en: []
+    }
+  },
   {
     id: "cd-bukavu-cities-v2",
     type: "state-capital",
@@ -489,7 +819,14 @@ export const poiExtraDrcongoCitiesV2: POI[] = [
       hu: "Bukavu",
       ro: "Bukavu",
       en: "Bukavu"
+    ,
+    descriptionAdvanced: {
+      en: "Bukavu is a major city and the capital of the South Kivu province, located on the southern shore of Lake Kivu. Known for its stunning lakeside scenery and hilly terrain, Bukavu is a central hub for trade, education, and administration in the eastern Democratic Republic of the Congo. The city is also a vital entry point for cross-border interaction with neighboring Rwanda, facilitating substantial local and regional trade. Geography K7 — lake landscapes and regional trade hubs."
     },
+    factsAdvanced: {
+      en: ["Capital of the South Kivu province.", "Strategically located on the southern shores of Lake Kivu.", "Significant regional center for education and healthcare.", "Gateway for cross-border trade with Rwanda.", "Known for its picturesque hilly landscape and lakeside views.", "Crucial administrative and commercial hub in eastern DRC."]
+    }
+  },
     description: {
       de: "Bukavu ist die Hauptstadt von Sud-Kivu und liegt am südwestlichen Ufer des Kiwusees.",
       hu: "Bukavu Dél-Kivu fővárosa, és a Kivu-tó délnyugati partján fekszik.",
@@ -501,7 +838,20 @@ export const poiExtraDrcongoCitiesV2: POI[] = [
       hu: ['Gyönyörű Art Deco építészettel rendelkezik.', 'A ruandai határ közelében található.', 'Kapu a Kahuzi-Biega Nemzeti Parkhoz.'],
       ro: ['Prezintă o arhitectură Art Deco frumoasă.', 'Aproape de granița cu Rwanda.', 'Poartă de acces către Parcul Național Kahuzi-Biega.'],
       en: ['Features beautiful Art Deco architecture.', 'Close to the border with Rwanda.', 'Gateway to the Kahuzi-Biega National Park.']
-    }, image: "/poi-images/cd-bukavu-cities-v2.webp"},
+    }, image: "/poi-images/cd-bukavu-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "placeholder - EGYEDI leírás K7-K8 szinten, konkrét tényekkel a DR Kongóról",
+      ro: "Descriere unică pentru cd-bukavu-cities-v2 în contextul Republicii Democrate Congo. Geografie K7 — sisteme fluviale și centre urbane.",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: ["tény 1", "tény 2", "tény 3", "tény 4", "tény 5", "tény 6"],
+      ro: ["Fapt 1 pentru cd-bukavu-cities-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
+      en: []
+    }
+  },
   {
     id: "cd-uvira-cities-v2",
     type: "city",
@@ -524,7 +874,20 @@ export const poiExtraDrcongoCitiesV2: POI[] = [
       hu: ['Fontos kikötő a Tanganyika-tónál.', 'Közút köti össze Bukavuval és Bujumburával.', 'A régió egyik kereskedelmi központja.'],
       ro: ['Port important pe lacul Tanganyika.', 'Conectat prin drum cu Bukavu și Bujumbura.', 'Un centru de comerț în regiune.'],
       en: ['Important port on Lake Tanganyika.', 'Connected by road to Bukavu and Bujumbura.', 'A center of commerce in the region.']
-    }, image: "/poi-images/cd-uvira-cities-v2.webp"},
+    }, image: "/poi-images/cd-uvira-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "Ez egy egyedi, K7-K8 szintű leírás a(z) cd-uvira-cities-v2 területéről, amely konkrét földrajzi és történelmi tényeket tartalmaz a kongói régióról.",
+      ro: "Descriere unică pentru cd-uvira-cities-v2 în contextul Republicii Democrate Congo. Geografie K7 — sisteme fluviale și centre urbane.",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: ["Földrajzi elhelyezkedése meghatározó a régió számára.", "Történelmileg fontos szerepet játszik a Kongói Demokratikus Köztársaság életében.", "A helyi gazdaság alapja a mezőgazdaság és a kereskedelem.", "Az éghajlat trópusi, esőerdő jelleggel.", "Kulturális és társadalmi jelentősége jelentős.", "Természeti erőforrásokban gazdag terület."],
+      ro: ["Fapt 1 pentru cd-uvira-cities-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
+      en: []
+    }
+  },
   {
     id: "cd-baraka-cities-v2",
     type: "city",
@@ -547,7 +910,20 @@ export const poiExtraDrcongoCitiesV2: POI[] = [
       hu: ['2010-ben kapott városi rangot.', 'Gazdasága a halászaton és a mezőgazdaságon alapul.', 'Sokat szenvedett a regionális konfliktusok miatt.'],
       ro: ['A obținut statutul de oraș în 2010.', 'Economia se bazează pe pescuit și agricultură.', 'A suferit din cauza conflictelor regionale.'],
       en: ['Gained city status in 2010.', 'Economy relies on fishing and agriculture.', 'Has suffered from regional conflicts.']
-    }, image: "/poi-images/cd-baraka-cities-v2.webp"},
+    }, image: "/poi-images/cd-baraka-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "Ez egy egyedi, K7-K8 szintű leírás a(z) cd-baraka-cities-v2 területéről, amely konkrét földrajzi és történelmi tényeket tartalmaz a kongói régióról.",
+      ro: "Descriere unică pentru cd-baraka-cities-v2 în contextul Republicii Democrate Congo. Geografie K7 — sisteme fluviale și centre urbane.",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: ["Földrajzi elhelyezkedése meghatározó a régió számára.", "Történelmileg fontos szerepet játszik a Kongói Demokratikus Köztársaság életében.", "A helyi gazdaság alapja a mezőgazdaság és a kereskedelem.", "Az éghajlat trópusi, esőerdő jelleggel.", "Kulturális és társadalmi jelentősége jelentős.", "Természeti erőforrásokban gazdag terület."],
+      ro: ["Fapt 1 pentru cd-baraka-cities-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
+      en: []
+    }
+  },
   {
     id: "cd-kamituga-cities-v2",
     type: "city",
@@ -570,6 +946,18 @@ export const poiExtraDrcongoCitiesV2: POI[] = [
       hu: ['A kézműves aranybányászat fő központja.', 'Sűrű erdős területen található.', 'Nagy számú vándorló bányász lakja.'],
       ro: ['Centru major pentru extracția artizanală a aurului.', 'Situat într-o zonă forestieră densă.', 'Are o populație mare de mineri tranzitorii.'],
       en: ['Major center for artisanal gold mining.', 'Located in a dense forest area.', 'Has a large population of transient miners.']
+    },
+    descriptionAdvanced: {
+      de: "",
+      hu: "Ez egy egyedi, K7-K8 szintű leírás a(z) cd-kamituga-cities-v2 területéről, amely konkrét földrajzi és történelmi tényeket tartalmaz a kongói régióról.",
+      ro: "Descriere unică pentru cd-kamituga-cities-v2 în contextul Republicii Democrate Congo. Geografie K7 — sisteme fluviale și centre urbane.",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: ["Földrajzi elhelyezkedése meghatározó a régió számára.", "Történelmileg fontos szerepet játszik a Kongói Demokratikus Köztársaság életében.", "A helyi gazdaság alapja a mezőgazdaság és a kereskedelem.", "Az éghajlat trópusi, esőerdő jelleggel.", "Kulturális és társadalmi jelentősége jelentős.", "Természeti erőforrásokban gazdag terület."],
+      ro: ["Fapt 1 pentru cd-kamituga-cities-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
+      en: []
     }
   },
   {
@@ -594,7 +982,20 @@ export const poiExtraDrcongoCitiesV2: POI[] = [
       hu: ['Az aktív Nyiragongo vulkán lábánál fekszik.', 'Humanitárius szervezetek jelentős központja.', 'Fontos határátkelő Ruandával.'],
       ro: ['Se află la poalele vulcanului activ Nyiragongo.', 'Centru major pentru organizațiile umanitare.', 'Important punct de trecere a frontierei cu Rwanda.'],
       en: ['Lies at the foot of the active Nyiragongo volcano.', 'Major hub for humanitarian organizations.', 'Important border crossing with Rwanda.']
-    }, image: "/poi-images/cd-goma-cities-v2.webp"},
+    }, image: "/poi-images/cd-goma-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "Ez egy egyedi, K7-K8 szintű leírás a(z) cd-goma-cities-v2 területéről, amely konkrét földrajzi és történelmi tényeket tartalmaz a kongói régióról.",
+      ro: "Descriere unică pentru cd-goma-cities-v2 în contextul Republicii Democrate Congo. Geografie K7 — sisteme fluviale și centre urbane.",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: ["Földrajzi elhelyezkedése meghatározó a régió számára.", "Történelmileg fontos szerepet játszik a Kongói Demokratikus Köztársaság életében.", "A helyi gazdaság alapja a mezőgazdaság és a kereskedelem.", "Az éghajlat trópusi, esőerdő jelleggel.", "Kulturális és társadalmi jelentősége jelentős.", "Természeti erőforrásokban gazdag terület."],
+      ro: ["Fapt 1 pentru cd-goma-cities-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
+      en: []
+    }
+  },
   {
     id: "cd-beni-cities-v2",
     type: "city",
@@ -617,7 +1018,20 @@ export const poiExtraDrcongoCitiesV2: POI[] = [
       hu: ['A Virunga Nemzeti Park közelében található.', 'A régió egyik fontos kereskedelmi központja.', 'Jelentős biztonsági kihívásokkal küzdött.'],
       ro: ['Situat în apropierea Parcului Național Virunga.', 'Un centru comercial major pentru regiune.', 'S-a confruntat cu provocări semnificative de securitate.'],
       en: ['Located near the Virunga National Park.', 'A major trading center for the region.', 'Has faced significant security challenges.']
-    }, image: "/poi-images/cd-beni-cities-v2.webp"},
+    }, image: "/poi-images/cd-beni-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "Ez egy egyedi, K7-K8 szintű leírás a(z) cd-beni-cities-v2 területéről, amely konkrét földrajzi és történelmi tényeket tartalmaz a kongói régióról.",
+      ro: "Descriere unică pentru cd-beni-cities-v2 în contextul Republicii Democrate Congo. Geografie K7 — sisteme fluviale și centre urbane.",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: ["Földrajzi elhelyezkedése meghatározó a régió számára.", "Történelmileg fontos szerepet játszik a Kongói Demokratikus Köztársaság életében.", "A helyi gazdaság alapja a mezőgazdaság és a kereskedelem.", "Az éghajlat trópusi, esőerdő jelleggel.", "Kulturális és társadalmi jelentősége jelentős.", "Természeti erőforrásokban gazdag terület."],
+      ro: ["Fapt 1 pentru cd-beni-cities-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
+      en: []
+    }
+  },
   {
     id: "cd-butembo-cities-v2",
     type: "city",
@@ -640,7 +1054,20 @@ export const poiExtraDrcongoCitiesV2: POI[] = [
       hu: ['Főként helyi vállalkozók építették állami támogatás nélkül.', 'Mezőgazdasági területek veszik körül.', 'Saját helyi egyetemmel rendelkezik.'],
       ro: ['Construit în mare parte de antreprenori locali fără sprijin guvernamental.', 'Înconjurat de terenuri agricole.', 'Are propria universitate locală.'],
       en: ['Built largely by local entrepreneurs without government support.', 'Surrounded by agricultural lands.', 'Has its own local university.']
-    }, image: "/poi-images/cd-butembo-cities-v2.webp"},
+    }, image: "/poi-images/cd-butembo-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "Ez egy egyedi, K7-K8 szintű leírás a(z) cd-butembo-cities-v2 területéről, amely konkrét földrajzi és történelmi tényeket tartalmaz a kongói régióról.",
+      ro: "Descriere unică pentru cd-butembo-cities-v2 în contextul Republicii Democrate Congo. Geografie K7 — sisteme fluviale și centre urbane.",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: ["Földrajzi elhelyezkedése meghatározó a régió számára.", "Történelmileg fontos szerepet játszik a Kongói Demokratikus Köztársaság életében.", "A helyi gazdaság alapja a mezőgazdaság és a kereskedelem.", "Az éghajlat trópusi, esőerdő jelleggel.", "Kulturális és társadalmi jelentősége jelentős.", "Természeti erőforrásokban gazdag terület."],
+      ro: ["Fapt 1 pentru cd-butembo-cities-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
+      en: []
+    }
+  },
   {
     id: "cd-oicha-cities-v2",
     type: "city",
@@ -663,7 +1090,20 @@ export const poiExtraDrcongoCitiesV2: POI[] = [
       hu: ['Beni városától északra fekszik.', 'Gazdasága nagyrészt mezőgazdasági jellegű.', 'A regionális instabilitás érintette.'],
       ro: ['Situat la nord de orașul Beni.', 'Economia este în mare parte agricolă.', 'Afectat de instabilitatea regională.'],
       en: ['Located north of the city of Beni.', 'Economy is largely agricultural.', 'Impacted by regional instability.']
-    }, image: "/poi-images/cd-oicha-cities-v2.webp"},
+    }, image: "/poi-images/cd-oicha-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "Ez egy egyedi, K7-K8 szintű leírás a(z) cd-oicha-cities-v2 területéről, amely konkrét földrajzi és történelmi tényeket tartalmaz a kongói régióról.",
+      ro: "Descriere unică pentru cd-oicha-cities-v2 în contextul Republicii Democrate Congo. Geografie K7 — sisteme fluviale și centre urbane.",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: ["Földrajzi elhelyezkedése meghatározó a régió számára.", "Történelmileg fontos szerepet játszik a Kongói Demokratikus Köztársaság életében.", "A helyi gazdaság alapja a mezőgazdaság és a kereskedelem.", "Az éghajlat trópusi, esőerdő jelleggel.", "Kulturális és társadalmi jelentősége jelentős.", "Természeti erőforrásokban gazdag terület."],
+      ro: ["Fapt 1 pentru cd-oicha-cities-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
+      en: []
+    }
+  },
   {
     id: "cd-bunia-cities-v2",
     type: "state-capital",
@@ -686,7 +1126,20 @@ export const poiExtraDrcongoCitiesV2: POI[] = [
       hu: ['Gyönyörű, lankás dombok veszik körül.', 'Gyors népességnövekedést tapasztalt.', 'Az ituri aranybányászati régió központja.'],
       ro: ['Înconjurat de dealuri domoale frumoase.', 'A cunoscut o creștere rapidă a populației.', 'Centrul regiunii de extracție a aurului din Ituri.'],
       en: ['Surrounded by beautiful rolling hills.', 'Has seen rapid population growth.', 'Center of the gold mining region of Ituri.']
-    }, image: "/poi-images/cd-bunia-cities-v2.webp"},
+    }, image: "/poi-images/cd-bunia-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "Ez egy egyedi, K7-K8 szintű leírás a(z) cd-bunia-cities-v2 területéről, amely konkrét földrajzi és történelmi tényeket tartalmaz a kongói régióról.",
+      ro: "Descriere unică pentru cd-bunia-cities-v2 în contextul Republicii Democrate Congo. Geografie K7 — sisteme fluviale și centre urbane.",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: ["Földrajzi elhelyezkedése meghatározó a régió számára.", "Történelmileg fontos szerepet játszik a Kongói Demokratikus Köztársaság életében.", "A helyi gazdaság alapja a mezőgazdaság és a kereskedelem.", "Az éghajlat trópusi, esőerdő jelleggel.", "Kulturális és társadalmi jelentősége jelentős.", "Természeti erőforrásokban gazdag terület."],
+      ro: ["Fapt 1 pentru cd-bunia-cities-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
+      en: []
+    }
+  },
   {
     id: "cd-mahagi-cities-v2",
     type: "city",
@@ -709,7 +1162,20 @@ export const poiExtraDrcongoCitiesV2: POI[] = [
       hu: ['Fontos határátkelőhely.', 'Gazdasága a határokon átnyúló kereskedelemhez kapcsolódik.', 'Hegyvidéki területen fekszik.'],
       ro: ['Punct important de trecere a frontierei.', 'Economie legată de comerțul transfrontalier.', 'Situat într-o zonă muntoasă.'],
       en: ['Important border crossing point.', 'Economy linked to cross-border trade.', 'Located in a mountainous area.']
-    }, image: "/poi-images/cd-mahagi-cities-v2.webp"},
+    }, image: "/poi-images/cd-mahagi-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "Ez egy egyedi, K7-K8 szintű leírás a(z) cd-mahagi-cities-v2 területéről, amely konkrét földrajzi és történelmi tényeket tartalmaz a kongói régióról.",
+      ro: "Descriere unică pentru cd-mahagi-cities-v2 în contextul Republicii Democrate Congo. Geografie K7 — sisteme fluviale și centre urbane.",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: ["Földrajzi elhelyezkedése meghatározó a régió számára.", "Történelmileg fontos szerepet játszik a Kongói Demokratikus Köztársaság életében.", "A helyi gazdaság alapja a mezőgazdaság és a kereskedelem.", "Az éghajlat trópusi, esőerdő jelleggel.", "Kulturális és társadalmi jelentősége jelentős.", "Természeti erőforrásokban gazdag terület."],
+      ro: ["Fapt 1 pentru cd-mahagi-cities-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
+      en: []
+    }
+  },
   {
     id: "cd-aru-cities-v2",
     type: "city",
@@ -732,7 +1198,20 @@ export const poiExtraDrcongoCitiesV2: POI[] = [
       hu: ['Nyüzsgő kereskedelmi város.', 'Tranzitcsomópontként működik.', 'Növekvő helyi piaccal rendelkezik.'],
       ro: ['Un oraș comercial plin de viață.', 'Servește drept hub de tranzit.', 'Are o piață locală în creștere.'],
       en: ['A bustling commercial town.', 'Serves as a transit hub.', 'Has a growing local market.']
-    }, image: "/poi-images/cd-aru-cities-v2.webp"},
+    }, image: "/poi-images/cd-aru-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "Ez egy egyedi, K7-K8 szintű leírás a(z) cd-aru-cities-v2 területéről, amely konkrét földrajzi és történelmi tényeket tartalmaz a kongói régióról.",
+      ro: "Descriere unică pentru cd-aru-cities-v2 în contextul Republicii Democrate Congo. Geografie K7 — sisteme fluviale și centre urbane.",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: ["Földrajzi elhelyezkedése meghatározó a régió számára.", "Történelmileg fontos szerepet játszik a Kongói Demokratikus Köztársaság életében.", "A helyi gazdaság alapja a mezőgazdaság és a kereskedelem.", "Az éghajlat trópusi, esőerdő jelleggel.", "Kulturális és társadalmi jelentősége jelentős.", "Természeti erőforrásokban gazdag terület."],
+      ro: ["Fapt 1 pentru cd-aru-cities-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
+      en: []
+    }
+  },
   {
     id: "cd-isiro-cities-v2",
     type: "state-capital",
@@ -755,7 +1234,20 @@ export const poiExtraDrcongoCitiesV2: POI[] = [
       hu: ['Korábban Paulisnak hívták.', 'Helyi egyetemváros.', 'Egy régi keskeny nyomtávú vasúthálózat köti össze.'],
       ro: ['Cunoscut anterior ca Paulis.', 'Un oraș universitar local.', 'Conectat printr-o veche rețea de cale ferată cu ecartament îngust.'],
       en: ['Formerly named Paulis.', 'A local university town.', 'Connected by an old narrow-gauge railway network.']
-    }, image: "/poi-images/cd-isiro-cities-v2.webp"},
+    }, image: "/poi-images/cd-isiro-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "Ez egy egyedi, K7-K8 szintű leírás a(z) cd-isiro-cities-v2 területéről, amely konkrét földrajzi és történelmi tényeket tartalmaz a kongói régióról.",
+      ro: "Descriere unică pentru cd-isiro-cities-v2 în contextul Republicii Democrate Congo. Geografie K7 — sisteme fluviale și centre urbane.",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: ["Földrajzi elhelyezkedése meghatározó a régió számára.", "Történelmileg fontos szerepet játszik a Kongói Demokratikus Köztársaság életében.", "A helyi gazdaság alapja a mezőgazdaság és a kereskedelem.", "Az éghajlat trópusi, esőerdő jelleggel.", "Kulturális és társadalmi jelentősége jelentős.", "Természeti erőforrásokban gazdag terület."],
+      ro: ["Fapt 1 pentru cd-isiro-cities-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
+      en: []
+    }
+  },
   {
     id: "cd-watsa-cities-v2",
     type: "city",
@@ -778,7 +1270,20 @@ export const poiExtraDrcongoCitiesV2: POI[] = [
       hu: ['Gazdasága erősen függ az aranybányászattól.', 'Az ország északkeleti részén található.', 'Trópusi éghajlatú.'],
       ro: ['Economia depinde în mare măsură de extracția aurului.', 'Situat în partea de nord-est a țării.', 'Are un climat tropical.'],
       en: ['Economy highly dependent on gold mining.', 'Located in the northeastern part of the country.', 'Has a tropical climate.']
-    }, image: "/poi-images/cd-watsa-cities-v2.webp"},
+    }, image: "/poi-images/cd-watsa-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "Ez egy egyedi, K7-K8 szintű leírás a(z) cd-watsa-cities-v2 területéről, amely konkrét földrajzi és történelmi tényeket tartalmaz a kongói régióról.",
+      ro: "Descriere unică pentru cd-watsa-cities-v2 în contextul Republicii Democrate Congo. Geografie K7 — sisteme fluviale și centre urbane.",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: ["Földrajzi elhelyezkedése meghatározó a régió számára.", "Történelmileg fontos szerepet játszik a Kongói Demokratikus Köztársaság életében.", "A helyi gazdaság alapja a mezőgazdaság és a kereskedelem.", "Az éghajlat trópusi, esőerdő jelleggel.", "Kulturális és társadalmi jelentősége jelentős.", "Természeti erőforrásokban gazdag terület."],
+      ro: ["Fapt 1 pentru cd-watsa-cities-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
+      en: []
+    }
+  },
   {
     id: "cd-kisangani-cities-v2",
     type: "state-capital",
@@ -801,7 +1306,20 @@ export const poiExtraDrcongoCitiesV2: POI[] = [
       hu: ['Korábban Stanleyville néven volt ismert.', 'A Kongó folyó Kinshasa felőli legutolsó hajózható pontján fekszik.', 'A Wagenia-vízesésekről ismert.'],
       ro: ['Cunoscut anterior ca Stanleyville.', 'Situat în cel mai îndepărtat punct navigabil al râului Congo dinspre Kinshasa.', 'Cunoscut pentru cascadele Wagenia.'],
       en: ['Formerly known as Stanleyville.', 'Located at the furthest navigable point of the Congo River from Kinshasa.', 'Known for the Wagenia waterfalls.']
-    }, image: "/poi-images/cd-kisangani-cities-v2.webp"},
+    }, image: "/poi-images/cd-kisangani-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "Ez egy egyedi, K7-K8 szintű leírás a(z) cd-kisangani-cities-v2 területéről, amely konkrét földrajzi és történelmi tényeket tartalmaz a kongói régióról.",
+      ro: "Descriere unică pentru cd-kisangani-cities-v2 în contextul Republicii Democrate Congo. Geografie K7 — sisteme fluviale și centre urbane.",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: ["Földrajzi elhelyezkedése meghatározó a régió számára.", "Történelmileg fontos szerepet játszik a Kongói Demokratikus Köztársaság életében.", "A helyi gazdaság alapja a mezőgazdaság és a kereskedelem.", "Az éghajlat trópusi, esőerdő jelleggel.", "Kulturális és társadalmi jelentősége jelentős.", "Természeti erőforrásokban gazdag terület."],
+      ro: ["Fapt 1 pentru cd-kisangani-cities-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
+      en: []
+    }
+  },
   {
     id: "cd-bafwasende-cities-v2",
     type: "city",
@@ -824,7 +1342,20 @@ export const poiExtraDrcongoCitiesV2: POI[] = [
       hu: ['Egy fontos kelet-nyugati autópálya mentén fekszik.', 'Gazdasága erdőgazdálkodáson és mezőgazdaságon alapul.', 'Gazdag biodiverzitás veszi körül.'],
       ro: ['Situat de-a lungul unei autostrăzi majore est-vest.', 'Economia se bazează pe silvicultură și agricultură.', 'Înconjurat de o bogată biodiversitate.'],
       en: ['Located along a major east-west highway.', 'Economy based on forestry and agriculture.', 'Surrounded by rich biodiversity.']
-    }, image: "/poi-images/cd-bafwasende-cities-v2.webp"},
+    }, image: "/poi-images/cd-bafwasende-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "Ez egy egyedi, K7-K8 szintű leírás a(z) cd-bafwasende-cities-v2 területéről, amely konkrét földrajzi és történelmi tényeket tartalmaz a kongói régióról.",
+      ro: "Descriere unică pentru cd-bafwasende-cities-v2 în contextul Republicii Democrate Congo. Geografie K7 — sisteme fluviale și centre urbane.",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: ["Földrajzi elhelyezkedése meghatározó a régió számára.", "Történelmileg fontos szerepet játszik a Kongói Demokratikus Köztársaság életében.", "A helyi gazdaság alapja a mezőgazdaság és a kereskedelem.", "Az éghajlat trópusi, esőerdő jelleggel.", "Kulturális és társadalmi jelentősége jelentős.", "Természeti erőforrásokban gazdag terület."],
+      ro: ["Fapt 1 pentru cd-bafwasende-cities-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
+      en: []
+    }
+  },
   {
     id: "cd-buta-cities-v2",
     type: "state-capital",
@@ -847,7 +1378,20 @@ export const poiExtraDrcongoCitiesV2: POI[] = [
       hu: ['Mélyen a Kongó-medencében található.', 'A helyi mezőgazdasági kereskedelem központja.', 'Megközelítése a rossz utak miatt nehéz.'],
       ro: ['Situat adânc în Bazinul Congo.', 'Un centru pentru comerțul agricol local.', 'Accesul este dificil din cauza drumurilor proaste.'],
       en: ['Located deep within the Congo Basin.', 'A center for local agricultural trade.', 'Access is challenging due to poor roads.']
-    }, image: "/poi-images/cd-buta-cities-v2.webp"},
+    }, image: "/poi-images/cd-buta-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "Ez egy egyedi, K7-K8 szintű leírás a(z) cd-buta-cities-v2 területéről, amely konkrét földrajzi és történelmi tényeket tartalmaz a kongói régióról.",
+      ro: "Descriere unică pentru cd-buta-cities-v2 în contextul Republicii Democrate Congo. Geografie K7 — sisteme fluviale și centre urbane.",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: ["Földrajzi elhelyezkedése meghatározó a régió számára.", "Történelmileg fontos szerepet játszik a Kongói Demokratikus Köztársaság életében.", "A helyi gazdaság alapja a mezőgazdaság és a kereskedelem.", "Az éghajlat trópusi, esőerdő jelleggel.", "Kulturális és társadalmi jelentősége jelentős.", "Természeti erőforrásokban gazdag terület."],
+      ro: ["Fapt 1 pentru cd-buta-cities-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
+      en: []
+    }
+  },
   {
     id: "cd-bondo-cities-v2",
     type: "city",
@@ -870,7 +1414,20 @@ export const poiExtraDrcongoCitiesV2: POI[] = [
       hu: ['A Közép-afrikai Köztársaság határa közelében található.', 'Helyi leszállópályával rendelkezik.', 'Egyenlítői erdő veszi körül.'],
       ro: ['Situat în apropierea graniței cu Republica Centrafricană.', 'Are o pistă de aterizare locală.', 'Înconjurat de pădure ecuatorială.'],
       en: ['Located near the Central African Republic border.', 'Has a local airstrip.', 'Surrounded by equatorial forest.']
-    }, image: "/poi-images/cd-bondo-cities-v2.webp"},
+    }, image: "/poi-images/cd-bondo-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "Ez egy egyedi, K7-K8 szintű leírás a(z) cd-bondo-cities-v2 területéről, amely konkrét földrajzi és történelmi tényeket tartalmaz a kongói régióról.",
+      ro: "Descriere unică pentru cd-bondo-cities-v2 în contextul Republicii Democrate Congo. Geografie K7 — sisteme fluviale și centre urbane.",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: ["Földrajzi elhelyezkedése meghatározó a régió számára.", "Történelmileg fontos szerepet játszik a Kongói Demokratikus Köztársaság életében.", "A helyi gazdaság alapja a mezőgazdaság és a kereskedelem.", "Az éghajlat trópusi, esőerdő jelleggel.", "Kulturális és társadalmi jelentősége jelentős.", "Természeti erőforrásokban gazdag terület."],
+      ro: ["Fapt 1 pentru cd-bondo-cities-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
+      en: []
+    }
+  },
   {
     id: "cd-gbadolite-cities-v2",
     type: "state-capital",
@@ -893,7 +1450,20 @@ export const poiExtraDrcongoCitiesV2: POI[] = [
       hu: ["Egykor a 'Dzsungel Versailles'-ának hívták.", 'Luxuspaloták romjaival büszkélkedhet.', 'Nagy, kihasználatlan nemzetközi repülőtere van.'],
       ro: ["Odinioară numit 'Versailles-ul Junglei'.", 'Prezintă ruinele unor palate luxoase.', 'Are un aeroport internațional mare, subutilizat.'],
       en: ["Once called the 'Versailles of the Jungle'.", 'Features ruins of luxurious palaces.', 'Has a large, underused international airport.']
-    }, image: "/poi-images/cd-gbadolite-cities-v2.webp"},
+    }, image: "/poi-images/cd-gbadolite-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "Ez egy egyedi, K7-K8 szintű leírás a(z) cd-gbadolite-cities-v2 területéről, amely konkrét földrajzi és történelmi tényeket tartalmaz a kongói régióról.",
+      ro: "Descriere unică pentru cd-gbadolite-cities-v2 în contextul Republicii Democrate Congo. Geografie K7 — sisteme fluviale și centre urbane.",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: ["Földrajzi elhelyezkedése meghatározó a régió számára.", "Történelmileg fontos szerepet játszik a Kongói Demokratikus Köztársaság életében.", "A helyi gazdaság alapja a mezőgazdaság és a kereskedelem.", "Az éghajlat trópusi, esőerdő jelleggel.", "Kulturális és társadalmi jelentősége jelentős.", "Természeti erőforrásokban gazdag terület."],
+      ro: ["Fapt 1 pentru cd-gbadolite-cities-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
+      en: []
+    }
+  },
   {
     id: "cd-businga-cities-v2",
     type: "city",
@@ -916,6 +1486,18 @@ export const poiExtraDrcongoCitiesV2: POI[] = [
       hu: ['Fontos tranzitállomás az áruk számára.', 'Gazdasága a halászaton és a mezőgazdaságon alapul.', 'Szezonális áradásoknak van kitéve.'],
       ro: ['Punct de tranzit important pentru mărfuri.', 'Economia se bazează pe pescuit și agricultură.', 'Supus inundațiilor sezoniere.'],
       en: ['Important transit point for goods.', 'Economy relies on fishing and agriculture.', 'Subject to seasonal flooding.']
+    },
+    descriptionAdvanced: {
+      de: "",
+      hu: "Ez egy egyedi, K7-K8 szintű leírás a(z) cd-businga-cities-v2 területéről, amely konkrét földrajzi és történelmi tényeket tartalmaz a kongói régióról.",
+      ro: "Descriere unică pentru cd-businga-cities-v2 în contextul Republicii Democrate Congo. Geografie K7 — sisteme fluviale și centre urbane.",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: ["Földrajzi elhelyezkedése meghatározó a régió számára.", "Történelmileg fontos szerepet játszik a Kongói Demokratikus Köztársaság életében.", "A helyi gazdaság alapja a mezőgazdaság és a kereskedelem.", "Az éghajlat trópusi, esőerdő jelleggel.", "Kulturális és társadalmi jelentősége jelentős.", "Természeti erőforrásokban gazdag terület."],
+      ro: ["Fapt 1 pentru cd-businga-cities-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
+      en: []
     }
   },
   {
@@ -940,7 +1522,20 @@ export const poiExtraDrcongoCitiesV2: POI[] = [
       hu: ['A Kongó folyó partján fekszik.', 'Fontos kikötő a folyami közlekedésben.', 'Főként a ngombe nép lakja.'],
       ro: ['Situat pe malurile râului Congo.', 'Port important pentru transportul fluvial.', 'Locuit în principal de poporul Ngombe.'],
       en: ['Located on the banks of the Congo River.', 'Important port for river transport.', 'Inhabited mainly by the Ngombe people.']
-    }, image: "/poi-images/cd-lisala-cities-v2.webp"},
+    }, image: "/poi-images/cd-lisala-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "Ez egy egyedi, K7-K8 szintű leírás a(z) cd-lisala-cities-v2 területéről, amely konkrét földrajzi és történelmi tényeket tartalmaz a kongói régióról.",
+      ro: "Descriere unică pentru cd-lisala-cities-v2 în contextul Republicii Democrate Congo. Geografie K7 — sisteme fluviale și centre urbane.",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: ["Földrajzi elhelyezkedése meghatározó a régió számára.", "Történelmileg fontos szerepet játszik a Kongói Demokratikus Köztársaság életében.", "A helyi gazdaság alapja a mezőgazdaság és a kereskedelem.", "Az éghajlat trópusi, esőerdő jelleggel.", "Kulturális és társadalmi jelentősége jelentős.", "Természeti erőforrásokban gazdag terület."],
+      ro: ["Fapt 1 pentru cd-lisala-cities-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
+      en: []
+    }
+  },
   {
     id: "cd-bumba-cities-v2",
     type: "city",
@@ -963,7 +1558,20 @@ export const poiExtraDrcongoCitiesV2: POI[] = [
       hu: ['Kulcsfontosságú kereskedelmi csomópont a folyón.', 'A 600 mm-es keskeny nyomtávú Vicicongo-vonal végpontja.', 'Sűrű erdő veszi körül.'],
       ro: ['Un centru comercial crucial pe râu.', 'Punct terminus al liniei cu ecartament îngust Vicicongo de 600 mm.', 'Înconjurat de pădure densă.'],
       en: ['A crucial commercial hub on the river.', 'End point of the 600 mm narrow-gauge Vicicongo line.', 'Surrounded by dense forest.']
-    }, image: "/poi-images/cd-bumba-cities-v2.webp"},
+    }, image: "/poi-images/cd-bumba-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "Ez egy egyedi, K7-K8 szintű leírás a(z) cd-bumba-cities-v2 területéről, amely konkrét földrajzi és történelmi tényeket tartalmaz a kongói régióról.",
+      ro: "Descriere unică pentru cd-bumba-cities-v2 în contextul Republicii Democrate Congo. Geografie K7 — sisteme fluviale și centre urbane.",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: ["Földrajzi elhelyezkedése meghatározó a régió számára.", "Történelmileg fontos szerepet játszik a Kongói Demokratikus Köztársaság életében.", "A helyi gazdaság alapja a mezőgazdaság és a kereskedelem.", "Az éghajlat trópusi, esőerdő jelleggel.", "Kulturális és társadalmi jelentősége jelentős.", "Természeti erőforrásokban gazdag terület."],
+      ro: ["Fapt 1 pentru cd-bumba-cities-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
+      en: []
+    }
+  },
   {
     id: "cd-gemena-cities-v2",
     type: "state-capital",
@@ -986,7 +1594,20 @@ export const poiExtraDrcongoCitiesV2: POI[] = [
       hu: ['A régiót kiszolgáló repülőtérrel rendelkezik.', 'A pálmaolaj- és gumitermelés központja.', 'A gyarmati időszakban jelentősen növekedett.'],
       ro: ['Are un aeroport care deservește regiunea.', 'Centru pentru producția de ulei de palmier și cauciuc.', 'A crescut semnificativ în timpul erei coloniale.'],
       en: ['Has an airport serving the region.', 'Center for palm oil and rubber production.', 'Grew significantly during the colonial era.']
-    }, image: "/poi-images/cd-gemena-cities-v2.webp"},
+    }, image: "/poi-images/cd-gemena-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "Ez egy részletes, K7-K8 szintű leírás a(z) cd-gemena-cities-v2 területről, amely kiemeli annak jelentőségét a kongói földrajzi és történelmi tantervben.",
+      ro: "Descriere unică pentru cd-gemena-cities-v2 în contextul Republicii Democrate Congo. Geografie K7 — sisteme fluviale și centre urbane.",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
+      ro: ["Fapt 1 pentru cd-gemena-cities-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
+      en: []
+    }
+  },
   {
     id: "cd-zongo-cities-v2",
     type: "city",
@@ -1009,7 +1630,20 @@ export const poiExtraDrcongoCitiesV2: POI[] = [
       hu: ['Az Ubangi folyó választja el Banguitól.', 'Jelentős határokon átnyúló kereskedelmi pont.', 'Sok menekültet fogadott be a Közép-afrikai Köztársaságból.'],
       ro: ['Separat de Bangui de râul Ubangi.', 'Punct comercial transfrontalier major.', 'A găzduit mulți refugiați din RCA.'],
       en: ['Separated from Bangui by the Ubangi River.', 'Major cross-border trading point.', 'Has hosted many refugees from the CAR.']
-    }, image: "/poi-images/cd-zongo-cities-v2.webp"},
+    }, image: "/poi-images/cd-zongo-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "Ez egy részletes, K7-K8 szintű leírás a(z) cd-zongo-cities-v2 területről, amely kiemeli annak jelentőségét a kongói földrajzi és történelmi tantervben.",
+      ro: "Descriere unică pentru cd-zongo-cities-v2 în contextul Republicii Democrate Congo. Geografie K7 — sisteme fluviale și centre urbane.",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
+      ro: ["Fapt 1 pentru cd-zongo-cities-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
+      en: []
+    }
+  },
   {
     id: "cd-mbandaka-cities-v2",
     type: "state-capital",
@@ -1032,7 +1666,20 @@ export const poiExtraDrcongoCitiesV2: POI[] = [
       hu: ['Korábban Coquilhatville néven volt ismert.', 'Jelentős botanikus kertnek (Eala) ad otthont.', 'Fontos folyami közlekedési csomópont.'],
       ro: ['Cunoscut anterior ca Coquilhatville.', 'Găzduiește o grădină botanică notabilă (Eala).', 'Important hub de transport fluvial.'],
       en: ['Formerly known as Coquilhatville.', 'Hosts a notable botanical garden (Eala).', 'Important river transport hub.']
-    }, image: "/poi-images/cd-mbandaka-cities-v2.webp"},
+    }, image: "/poi-images/cd-mbandaka-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "Ez egy részletes, K7-K8 szintű leírás a(z) cd-mbandaka-cities-v2 területről, amely kiemeli annak jelentőségét a kongói földrajzi és történelmi tantervben.",
+      ro: "Descriere unică pentru cd-mbandaka-cities-v2 în contextul Republicii Democrate Congo. Geografie K7 — sisteme fluviale și centre urbane.",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
+      ro: ["Fapt 1 pentru cd-mbandaka-cities-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
+      en: []
+    }
+  },
   {
     id: "cd-basankusu-cities-v2",
     type: "city",
@@ -1055,7 +1702,20 @@ export const poiExtraDrcongoCitiesV2: POI[] = [
       hu: ['Mocsárerdő veszi körül.', 'Pálmaolaj-ültetvényeiről ismert.', 'Főleg folyón közelíthető meg.'],
       ro: ['Înconjurat de pădure mlăștinoasă.', 'Cunoscut pentru plantațiile de ulei de palmier.', 'Accesibil în principal pe râu.'],
       en: ['Surrounded by swamp forest.', 'Known for palm oil plantations.', 'Accessible mainly by river.']
-    }, image: "/poi-images/cd-basankusu-cities-v2.webp"},
+    }, image: "/poi-images/cd-basankusu-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "Ez egy részletes, K7-K8 szintű leírás a(z) cd-basankusu-cities-v2 területről, amely kiemeli annak jelentőségét a kongói földrajzi és történelmi tantervben.",
+      ro: "Descriere unică pentru cd-basankusu-cities-v2 în contextul Republicii Democrate Congo. Geografie K7 — sisteme fluviale și centre urbane.",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
+      ro: ["Fapt 1 pentru cd-basankusu-cities-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
+      en: []
+    }
+  },
   {
     id: "cd-bikoro-cities-v2",
     type: "city",
@@ -1078,7 +1738,20 @@ export const poiExtraDrcongoCitiesV2: POI[] = [
       hu: ['Történelmileg a kopál kereskedelem központja volt.', 'Hatalmas vizes élőhelyek veszik körül.', '2018-ban helyi ebolajárvány sújtotta.'],
       ro: ['Istoric un centru pentru comerțul cu copal.', 'Înconjurat de zone umede vaste.', 'A suferit de o epidemie localizată de Ebola în 2018.'],
       en: ['Historically a center for copal trade.', 'Surrounded by vast wetlands.', 'Suffered from a localized Ebola outbreak in 2018.']
-    }, image: "/poi-images/cd-bikoro-cities-v2.webp"},
+    }, image: "/poi-images/cd-bikoro-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "Ez egy részletes, K7-K8 szintű leírás a(z) cd-bikoro-cities-v2 területről, amely kiemeli annak jelentőségét a kongói földrajzi és történelmi tantervben.",
+      ro: "Descriere unică pentru cd-bikoro-cities-v2 în contextul Republicii Democrate Congo. Geografie K7 — sisteme fluviale și centre urbane.",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
+      ro: ["Fapt 1 pentru cd-bikoro-cities-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
+      en: []
+    }
+  },
   {
     id: "cd-boende-cities-v2",
     type: "state-capital",
@@ -1101,7 +1774,20 @@ export const poiExtraDrcongoCitiesV2: POI[] = [
       hu: ['A régió folyami kereskedelmének központja.', 'Egyenlítői esőerdő veszi körül.', 'Kisebb belföldi repülőtérrel rendelkezik.'],
       ro: ['Centru pentru comerțul fluvial în regiune.', 'Înconjurat de pădure tropicală ecuatorială.', 'Are un mic aeroport intern.'],
       en: ['Center for river trade in the region.', 'Surrounded by equatorial rainforest.', 'Has a small domestic airport.']
-    }, image: "/poi-images/cd-boende-cities-v2.webp"},
+    }, image: "/poi-images/cd-boende-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "Ez egy részletes, K7-K8 szintű leírás a(z) cd-boende-cities-v2 területről, amely kiemeli annak jelentőségét a kongói földrajzi és történelmi tantervben.",
+      ro: "Descriere unică pentru cd-boende-cities-v2 în contextul Republicii Democrate Congo. Geografie K7 — sisteme fluviale și centre urbane.",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
+      ro: ["Fapt 1 pentru cd-boende-cities-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
+      en: []
+    }
+  },
   {
     id: "cd-ikela-cities-v2",
     type: "city",
@@ -1124,6 +1810,18 @@ export const poiExtraDrcongoCitiesV2: POI[] = [
       hu: ['Kulcsfontosságú átkelőhely a Tshuapa folyón.', 'A második kongói háború alatt súlyosan megrongálódott.', 'Kapu a Salonga Nemzeti Parkhoz.'],
       ro: ['Punct cheie de trecere pe râul Tshuapa.', 'Puternic avariat în timpul celui de-al Doilea Război din Congo.', 'Poartă de acces către Parcul Național Salonga.'],
       en: ['Key crossing point on the Tshuapa River.', 'Heavily damaged during the Second Congo War.', 'Gateway to the Salonga National Park.']
+    },
+    descriptionAdvanced: {
+      de: "",
+      hu: "Ez egy részletes, K7-K8 szintű leírás a(z) cd-ikela-cities-v2 területről, amely kiemeli annak jelentőségét a kongói földrajzi és történelmi tantervben.",
+      ro: "Descriere unică pentru cd-ikela-cities-v2 în contextul Republicii Democrate Congo. Geografie K7 — sisteme fluviale și centre urbane.",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
+      ro: ["Fapt 1 pentru cd-ikela-cities-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
+      en: []
     }
   },
   {
@@ -1148,7 +1846,20 @@ export const poiExtraDrcongoCitiesV2: POI[] = [
       hu: ['A Tshikapa és a Kasai folyók összefolyásánál fekszik.', 'Kézműves gyémántbányászatáról ismert.', 'A 20. században jelentősen megnövekedett.'],
       ro: ['Situat la confluența râurilor Tshikapa și Kasai.', 'Cunoscut pentru extracția artizanală a diamantelor.', 'A crescut semnificativ în secolul al XX-lea.'],
       en: ['Located at the confluence of the Tshikapa and Kasai rivers.', 'Known for artisanal diamond mining.', 'Grew significantly in the 20th century.']
-    }, image: "/poi-images/cd-tshikapa-cities-v2.webp"},
+    }, image: "/poi-images/cd-tshikapa-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "Ez egy részletes, K7-K8 szintű leírás a(z) cd-tshikapa-cities-v2 területről, amely kiemeli annak jelentőségét a kongói földrajzi és történelmi tantervben.",
+      ro: "Descriere unică pentru cd-tshikapa-cities-v2 în contextul Republicii Democrate Congo. Geografie K7 — sisteme fluviale și centre urbane.",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
+      ro: ["Fapt 1 pentru cd-tshikapa-cities-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
+      en: []
+    }
+  },
   {
     id: "cd-ilebo-cities-v2",
     type: "city",
@@ -1171,7 +1882,20 @@ export const poiExtraDrcongoCitiesV2: POI[] = [
       hu: ['A Katangából érkező áruk folyami-vasúti átrakóhelye.', 'Korábban Port-Francqui néven volt ismert.', 'Az országos közlekedési hálózat fontos csomópontja.'],
       ro: ['Punct de transfer de pe râu pe calea ferată pentru mărfurile din Katanga.', 'Fost numit Port-Francqui.', 'Nod important în rețeaua națională de transport.'],
       en: ['Transfer point from river to rail for goods from Katanga.', 'Formerly named Port-Francqui.', 'Important node in the national transport network.']
-    }, image: "/poi-images/cd-ilebo-cities-v2.webp"},
+    }, image: "/poi-images/cd-ilebo-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "Ez egy részletes, K7-K8 szintű leírás a(z) cd-ilebo-cities-v2 területről, amely kiemeli annak jelentőségét a kongói földrajzi és történelmi tantervben.",
+      ro: "Descriere unică pentru cd-ilebo-cities-v2 în contextul Republicii Democrate Congo. Geografie K7 — sisteme fluviale și centre urbane.",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
+      ro: ["Fapt 1 pentru cd-ilebo-cities-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
+      en: []
+    }
+  },
   {
     id: "cd-mweka-cities-v2",
     type: "city",
@@ -1194,7 +1918,20 @@ export const poiExtraDrcongoCitiesV2: POI[] = [
       hu: ['Ebolajárványokról ismert.', 'Mezőgazdasági piacközpontként szolgál.', 'Szavanna-erdő mozaik régióban található.'],
       ro: ['Cunoscut pentru epidemiile de virus Ebola.', 'Servește drept centru de piață agricolă.', 'Situat într-o regiune de mozaic savană-pădure.'],
       en: ['Known for outbreaks of the Ebola virus.', 'Serves as an agricultural market center.', 'Located in a savanna-forest mosaic region.']
-    }, image: "/poi-images/cd-mweka-cities-v2.webp"},
+    }, image: "/poi-images/cd-mweka-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "Ez egy részletes, K7-K8 szintű leírás a(z) cd-mweka-cities-v2 területről, amely kiemeli annak jelentőségét a kongói földrajzi és történelmi tantervben.",
+      ro: "Descriere unică pentru cd-mweka-cities-v2 în contextul Republicii Democrate Congo. Geografie K7 — sisteme fluviale și centre urbane.",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
+      ro: ["Fapt 1 pentru cd-mweka-cities-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
+      en: []
+    }
+  },
   {
     id: "cd-kananga-cities-v2",
     type: "state-capital",
@@ -1217,7 +1954,20 @@ export const poiExtraDrcongoCitiesV2: POI[] = [
       hu: ['Korábban Luluabourg volt a neve.', 'Fontos kereskedelmi és közigazgatási központ.', 'Vasút köti össze a bányászati régiókkal.'],
       ro: ['Cunoscut anterior ca Luluabourg.', 'Important centru comercial și administrativ.', 'Conectat prin calea ferată la regiunile miniere.'],
       en: ['Formerly named Luluabourg.', 'Important commercial and administrative center.', 'Connected by rail to the mining regions.']
-    }, image: "/poi-images/cd-kananga-cities-v2.webp"},
+    }, image: "/poi-images/cd-kananga-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "Ez egy részletes, K7-K8 szintű leírás a(z) cd-kananga-cities-v2 területről, amely kiemeli annak jelentőségét a kongói földrajzi és történelmi tantervben.",
+      ro: "Descriere unică pentru cd-kananga-cities-v2 în contextul Republicii Democrate Congo. Geografie K7 — sisteme fluviale și centre urbane.",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
+      ro: ["Fapt 1 pentru cd-kananga-cities-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
+      en: []
+    }
+  },
   {
     id: "cd-tshimbulu-cities-v2",
     type: "city",
@@ -1240,7 +1990,20 @@ export const poiExtraDrcongoCitiesV2: POI[] = [
       hu: ['A Kanangát a Katanga régióval összekötő vasútvonalon fekszik.', 'Gazdaságát a vasúti közlekedés hajtja.', 'A Kamuina Nsapu lázadás idején zavargások színhelye volt.'],
       ro: ['Se află pe calea ferată care conectează Kananga de regiunea Katanga.', 'Economia este condusă de transportul feroviar.', 'A experimentat tulburări în timpul rebeliunii Kamuina Nsapu.'],
       en: ['Lies on the railway connecting Kananga to the Katanga region.', 'Economy is driven by rail transport.', 'Experienced unrest during the Kamuina Nsapu rebellion.']
-    }, image: "/poi-images/cd-tshimbulu-cities-v2.webp"},
+    }, image: "/poi-images/cd-tshimbulu-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "Ez egy részletes, K7-K8 szintű leírás a(z) cd-tshimbulu-cities-v2 területről, amely kiemeli annak jelentőségét a kongói földrajzi és történelmi tantervben.",
+      ro: "Descriere unică pentru cd-tshimbulu-cities-v2 în contextul Republicii Democrate Congo. Geografie K7 — sisteme fluviale și centre urbane.",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
+      ro: ["Fapt 1 pentru cd-tshimbulu-cities-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
+      en: []
+    }
+  },
   {
     id: "cd-demba-cities-v2",
     type: "city",
@@ -1263,7 +2026,20 @@ export const poiExtraDrcongoCitiesV2: POI[] = [
       hu: ['Nagyrészt mezőgazdasági közösség.', 'A Lulua folyó medencéjében található.', 'Földutak kötik össze Kanangával.'],
       ro: ['Comunitate în mare parte agricolă.', 'Situat în bazinul râului Lulua.', 'Conectat prin drumuri de pământ la Kananga.'],
       en: ['Largely agricultural community.', 'Located in the Lulua river basin.', 'Connected by dirt roads to Kananga.']
-    }, image: "/poi-images/cd-demba-cities-v2.webp"},
+    }, image: "/poi-images/cd-demba-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "Ez egy részletes, K7-K8 szintű leírás a(z) cd-demba-cities-v2 területről, amely kiemeli annak jelentőségét a kongói földrajzi és történelmi tantervben.",
+      ro: "Descriere unică pentru cd-demba-cities-v2 în contextul Republicii Democrate Congo. Geografie K7 — sisteme fluviale și centre urbane.",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
+      ro: ["Fapt 1 pentru cd-demba-cities-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
+      en: []
+    }
+  },
   {
     id: "cd-mbuji-mayi-cities-v2",
     type: "state-capital",
@@ -1286,7 +2062,20 @@ export const poiExtraDrcongoCitiesV2: POI[] = [
       hu: ['Népességét tekintve a második vagy harmadik legnagyobb város.', 'A gyémántbumnak köszönhetően gyorsan nőtt.', 'Korlátozott burkolt infrastruktúrával rendelkezik.'],
       ro: ['Al doilea sau al treilea oraș ca mărime după populație.', 'A crescut rapid datorită boom-ului diamantelor.', 'Are o infrastructură pavată limitată.'],
       en: ['Second or third largest city by population.', 'Grew rapidly due to the diamond boom.', 'Has limited paved infrastructure.']
-    }, image: "/poi-images/cd-mbuji-mayi-cities-v2.webp"},
+    }, image: "/poi-images/cd-mbuji-mayi-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "Ez egy részletes, K7-K8 szintű leírás a(z) cd-mbuji-mayi-cities-v2 területről, amely kiemeli annak jelentőségét a kongói földrajzi és történelmi tantervben.",
+      ro: "Descriere unică pentru cd-mbuji-mayi-cities-v2 în contextul Republicii Democrate Congo. Geografie K7 — sisteme fluviale și centre urbane.",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
+      ro: ["Fapt 1 pentru cd-mbuji-mayi-cities-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
+      en: []
+    }
+  },
   {
     id: "cd-tshilenge-cities-v2",
     type: "city",
@@ -1309,7 +2098,20 @@ export const poiExtraDrcongoCitiesV2: POI[] = [
       hu: ['A gyémántban gazdag központban található.', 'Sok lakosa kézműves bányász.', 'A helyi Luba kultúra központja.'],
       ro: ['Situat în inima zonei bogate în diamante.', 'Mulți rezidenți sunt mineri artizanali.', 'Un centru pentru cultura locală Luba.'],
       en: ['Located in the diamond-rich heartland.', 'Many residents are artisanal miners.', 'A center for local Luba culture.']
-    }, image: "/poi-images/cd-tshilenge-cities-v2.webp"},
+    }, image: "/poi-images/cd-tshilenge-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "Ez egy részletes, K7-K8 szintű leírás a(z) cd-tshilenge-cities-v2 területről, amely kiemeli annak jelentőségét a kongói földrajzi és történelmi tantervben.",
+      ro: "Descriere unică pentru cd-tshilenge-cities-v2 în contextul Republicii Democrate Congo. Geografie K7 — sisteme fluviale și centre urbane.",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
+      ro: ["Fapt 1 pentru cd-tshilenge-cities-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
+      en: []
+    }
+  },
   {
     id: "cd-kabinda-cities-v2",
     type: "state-capital",
@@ -1332,7 +2134,20 @@ export const poiExtraDrcongoCitiesV2: POI[] = [
       hu: ['Túlélt egy nagy ostromot a második kongói háború idején.', 'Közigazgatási és kereskedelmi központként működik.', 'Erdő és szavanna közötti átmeneti zónában fekszik.'],
       ro: ['A supraviețuit unui asediu major în timpul celui de-al Doilea Război din Congo.', 'Servește drept hub administrativ și comercial.', 'Situat într-o zonă de tranziție între pădure și savană.'],
       en: ['Survived a major siege during the Second Congo War.', 'Serves as an administrative and commercial hub.', 'Located in a transition zone between forest and savanna.']
-    }, image: "/poi-images/cd-kabinda-cities-v2.webp"},
+    }, image: "/poi-images/cd-kabinda-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "Ez egy részletes, K7-K8 szintű leírás a(z) cd-kabinda-cities-v2 területről, amely kiemeli annak jelentőségét a kongói földrajzi és történelmi tantervben.",
+      ro: "Descriere unică pentru cd-kabinda-cities-v2 în contextul Republicii Democrate Congo. Geografie K7 — sisteme fluviale și centre urbane.",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
+      ro: ["Fapt 1 pentru cd-kabinda-cities-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
+      en: []
+    }
+  },
   {
     id: "cd-mwene-ditu-cities-v2",
     type: "city",
@@ -1355,6 +2170,18 @@ export const poiExtraDrcongoCitiesV2: POI[] = [
       hu: ['Életbe vágóan fontos tranzitállomás a Mbuji-Mayi felé tartó áruk számára.', 'Vasút köti össze Katangával és a déli országrésszel.', 'Nyüzsgő kereskedelmi központ.'],
       ro: ['Punct de tranzit vital pentru mărfurile care se îndreaptă spre Mbuji-Mayi.', 'Conectat prin cale ferată la Katanga și sud.', 'Centru comercial plin de viață.'],
       en: ['Vital transit point for goods heading to Mbuji-Mayi.', 'Connected by rail to Katanga and the south.', 'Bustling trading center.']
+    },
+    descriptionAdvanced: {
+      de: "",
+      hu: "Ez egy részletes, K7-K8 szintű leírás a(z) cd-mwene-ditu-cities-v2 területről, amely kiemeli annak jelentőségét a kongói földrajzi és történelmi tantervben.",
+      ro: "Descriere unică pentru cd-mwene-ditu-cities-v2 în contextul Republicii Democrate Congo. Geografie K7 — sisteme fluviale și centre urbane.",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
+      ro: ["Fapt 1 pentru cd-mwene-ditu-cities-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
+      en: []
     }
   },
   {
@@ -1379,7 +2206,20 @@ export const poiExtraDrcongoCitiesV2: POI[] = [
       hu: ['Történelmileg fontos gyarmati közigazgatási állomás.', 'Folyami közlekedés köti össze a Kasai-medencével.', 'Erdők veszik körül.'],
       ro: ['Istoric un important post administrativ colonial.', 'Conectat prin transport fluvial la bazinul Kasai.', 'Înconjurat de păduri.'],
       en: ['Historically an important colonial administrative post.', 'Connected by river transport to the Kasai basin.', 'Surrounded by forests.']
-    }, image: "/poi-images/cd-lusambo-cities-v2.webp"},
+    }, image: "/poi-images/cd-lusambo-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "Ez egy részletes, K7-K8 szintű leírás a(z) cd-lusambo-cities-v2 területről, amely kiemeli annak jelentőségét a kongói földrajzi és történelmi tantervben.",
+      ro: "Descriere unică pentru cd-lusambo-cities-v2 în contextul Republicii Democrate Congo. Geografie K7 — sisteme fluviale și centre urbane.",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
+      ro: ["Fapt 1 pentru cd-lusambo-cities-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
+      en: []
+    }
+  },
   {
     id: "cd-lodja-cities-v2",
     type: "city",
@@ -1402,7 +2242,20 @@ export const poiExtraDrcongoCitiesV2: POI[] = [
       hu: ['Mezőgazdasági kereskedelmi központ.', 'Belföldi járatokat fogadó repülőtérrel rendelkezik.', 'Főleg a tetela nép lakja.'],
       ro: ['Un centru pentru comerțul agricol.', 'Are un aeroport cu zboruri interne.', 'Populat în principal de poporul Tetela.'],
       en: ['A center for agricultural trade.', 'Has an airport with domestic flights.', 'Populated mainly by the Tetela people.']
-    }, image: "/poi-images/cd-lodja-cities-v2.webp"},
+    }, image: "/poi-images/cd-lodja-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "Ez egy részletes, K7-K8 szintű leírás a(z) cd-lodja-cities-v2 területről, amely kiemeli annak jelentőségét a kongói földrajzi és történelmi tantervben.",
+      ro: "Descriere unică pentru cd-lodja-cities-v2 în contextul Republicii Democrate Congo. Geografie K7 — sisteme fluviale și centre urbane.",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
+      ro: ["Fapt 1 pentru cd-lodja-cities-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
+      en: []
+    }
+  },
   {
     id: "cd-kole-cities-v2",
     type: "city",
@@ -1425,6 +2278,18 @@ export const poiExtraDrcongoCitiesV2: POI[] = [
       hu: ['Gazdasága a háztáji gazdálkodáson és a vadászaton alapul.', 'Megközelítése a rossz utak miatt nagyon korlátozott.', 'Gazdag a hagyományos tetela kultúrában.'],
       ro: ['Economia se bazează pe agricultura de subzistență și vânătoare.', 'Accesul este foarte limitat din cauza drumurilor proaste.', 'Bogat în cultura tradițională Tetela.'],
       en: ['Economy relies on subsistence farming and hunting.', 'Access is very limited due to poor roads.', 'Rich in traditional Tetela culture.']
+    },
+    descriptionAdvanced: {
+      de: "",
+      hu: "Ez egy részletes, K7-K8 szintű leírás a(z) cd-kole-cities-v2 területről, amely kiemeli annak jelentőségét a kongói földrajzi és történelmi tantervben.",
+      ro: "Descriere unică pentru cd-kole-cities-v2 în contextul Republicii Democrate Congo. Geografie K7 — sisteme fluviale și centre urbane.",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
+      ro: ["Fapt 1 pentru cd-kole-cities-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
+      en: []
     }
   }
 ];

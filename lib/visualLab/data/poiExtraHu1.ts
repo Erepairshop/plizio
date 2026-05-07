@@ -653,7 +653,7 @@ export const poiExtraHu1: POI[] = [
     description: {
       de: "Das 'ungarische Versailles', ein prächtiges Rokokoschloss in Fertőd.",
       hu: "A 'magyar Versailles', egy pompás rokokó kastély Fertődön.",
-      ro: "„Versailles-ul maghiar”, un castel rococo magnific în Fertőd.",
+      ro: "\"Versailles-ul maghiar\", un castel rococo magnific în Fertőd.",
       en: "The 'Hungarian Versailles', a magnificent Rococo palace in Fertőd."
     },
     descriptionAdvanced: {
@@ -932,7 +932,7 @@ export const poiExtraHu1: POI[] = [
     descriptionAdvanced: {
       de: "Das Gerecse-Gebirge ist ein Kalksteinmassiv zwischen Tatabánya und der Donau. Es ist weltberühmt für den 'roten Marmor' von Tardos, der eigentlich ein dichter Kalkstein ist und in vielen historischen Gebäuden Europas verwendet wurde. Das Gebirge ist reich an Höhlen und bietet wunderschöne Wanderwege durch Buchen- und Eichenwälder.",
       hu: "A Gerecse hegység egy mészkőhegység Tatabánya és a Duna között. Világhírű a tardosi 'vörös márványról', amely valójában egy tömör mészkő, és Európa számos történelmi épületében felhasználták. A hegység barlangokban gazdag, és gyönyörű túraútvonalakat kínál bükkösökön és tölgyeseken át.",
-      ro: "Munții Gerecse sunt un masiv calcaros între Tatabánya și Dunăre. Sunt renumiți în întreaga lume pentru „marmura roșie” de Tardos, care este de fapt un calcar dens și a fost folosită în multe clădiri istorice din Europa. Munții sunt bogați în peșteri și oferă trasee de drumeție frumoase prin păduri de fag și stejar.",
+      ro: "Munții Gerecse sunt un masiv calcaros între Tatabánya și Dunăre. Sunt renumiți în întreaga lume pentru \"marmura roșie\" de Tardos, care este de fapt un calcar dens și a fost folosită în multe clădiri istorice din Europa. Munții sunt bogați în peșteri și oferă trasee de drumeție frumoase prin păduri de fag și stejar.",
       en: "The Gerecse Mountains are a limestone massif between Tatabánya and the Danube. They are world-famous for the 'red marble' of Tardos, which is actually a dense limestone and has been used in many historic buildings across Europe. The mountains are rich in caves and offer beautiful hiking trails through beech and oak forests."
     },
     facts: {
@@ -1024,7 +1024,7 @@ export const poiExtraHu1: POI[] = [
     description: {
       de: "Der 'Olymp der Paloczen', ein markanter Berg an der ungarisch-slowakischen Grenze.",
       hu: "A 'palóc Olimposz', jellegzetes hegy a magyar-szlovák határon.",
-      ro: "„Olimpul Palocilor”, un munte distinctiv la granița ungaro-slovacă.",
+      ro: "\"Olimpul Palocilor\", un munte distinctiv la granița ungaro-slovacă.",
       en: "The 'Olympus of the Palóc', a distinctive mountain on the Hungarian-Slovak border."
     },
     descriptionAdvanced: {
@@ -1036,7 +1036,7 @@ export const poiExtraHu1: POI[] = [
     facts: {
       de: ["Höchster Gipfel des Karancs-Gebirges (729 m).", "Grenzberg zur Slowakei.", "Wird 'Olymp der Paloczen' genannt.", "Aussichtsturm auf dem Gipfel."],
       hu: ["A Karancs-hegység legmagasabb pontja (729 m).", "Határhegy Szlovákia felé.", "A 'palóc Olimposzként' ismerik.", "Kilátó a hegytetőn."],
-      ro: ["Cel mai înalt vârf din munții Karancs (729 m).", "Munte de frontieră cu Slovacia.", "Numit „Olimpul Palocilor”.", "Turn de observație în vârf."],
+      ro: ["Cel mai înalt vârf din munții Karancs (729 m).", "Munte de frontieră cu Slovacia.", "Numit \"Olimpul Palocilor\".", "Turn de observație în vârf."],
       en: ["Highest peak of the Karancs Mountains (729 m).", "Border mountain with Slovakia.", "Known as the 'Olympus of the Palóc'.", "Lookout tower on the summit."]
     }, image: "/poi-images/geo-karanc-extra.webp"},
     {
@@ -1054,7 +1054,7 @@ export const poiExtraHu1: POI[] = [
     descriptionAdvanced: {
       de: "Die Burg von Somoskő liegt auf einem steilen Basaltkegel. Obwohl die Burg heute technisch gesehen in der Slowakei liegt, ist sie vom ungarischen Dorf Somoskő aus am besten erreichbar. Weltberühmt sind die 'Basaltorgeln' – gebogene Basaltsäulen, die durch vulkanische Aktivität entstanden sind. Die Burg spielte eine wichtige Rolle in den Grenzkriegen gegen die Türken.",
       hu: "A somoskői vár egy meredek bazaltkúpon áll. Bár a vár ma technikailag Szlovákiához tartozik, a magyarországi Somoskő faluból érhető el a legkönnyebben. Világhírűek a közelében található 'bazaltorgonák' – íves bazaltoszlopok, amelyek vulkáni tevékenység hatására jöttek létre. A vár fontos szerepet játszott a török elleni végvári harcokban.",
-      ro: "Cetatea Somoskő se află pe un con de bazalt abrupt. Deși cetatea aparține astăzi tehnic Slovaciei, este cel mai ușor accesibilă din satul maghiar Somoskő. „Orga de bazalt” – coloane de bazalt curbate formate prin activitate vulcanică – este faimoasă în întreaga lume. Cetatea a jucat un rol important în luptele de frontieră împotriva turcilor.",
+      ro: "Cetatea Somoskő se află pe un con de bazalt abrupt. Deși cetatea aparține astăzi tehnic Slovaciei, este cel mai ușor accesibilă din satul maghiar Somoskő. \"Orga de bazalt\" – coloane de bazalt curbate formate prin activitate vulcanică – este faimoasă în întreaga lume. Cetatea a jucat un rol important în luptele de frontieră împotriva turcilor.",
       en: "Somoskő Castle stands on a steep basalt cone. Although the castle today technically belongs to Slovakia, it is most easily accessible from the Hungarian village of Somoskő. The 'basalt organs' – curved basalt columns formed by volcanic activity – are world-famous. The castle played an important role in the border wars against the Turks."
     },
     facts: {
@@ -1109,7 +1109,7 @@ export const poiExtraHu1: POI[] = [
     facts: {
       de: ["Barockes Savoyer Schloss.", "Einzige gotische serbische Kirche Ungarns.", "Liegt an der 'Kleinen Donau'.", "Berühmt für den Boot-Markt."],
       hu: ["Barokk Savoyai-kastély.", "Magyarország egyetlen gótikus szerb temploma.", "A Kis-Duna mentén fekszik.", "Híres a csónakos piacáról."],
-      ro: ["Castel baroc Savoyai.", "Singura biserică sârbă gotică din Ungaria.", "Situat pe „Dunărea Mică”.", "Faimos pentru piața sa cu bărci."],
+      ro: ["Castel baroc Savoyai.", "Singura biserică sârbă gotică din Ungaria.", "Situat pe \"Dunărea Mică\".", "Faimos pentru piața sa cu bărci."],
       en: ["Baroque Savoy Castle.", "Only Gothic Serbian church in Hungary.", "Located on the 'Small Danube'.", "Famous for its boat market."]
     }
     },

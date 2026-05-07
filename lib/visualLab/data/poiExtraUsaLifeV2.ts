@@ -62,7 +62,7 @@ export const poiExtraUsaLifeV2: POI[] = [
     name: { de: "Central Park Zoo", hu: "Central Park Állatkert", ro: "Grădina Zoologică Central Park", en: "Central Park Zoo" },
     description: { de: "Ein kleiner Zoo im Herzen von Manhattan, New York City.", hu: "Egy kis állatkert Manhattan szívében, New York Cityben.", ro: "O mică grădină zoologică în inima Manhattan-ului, New York City.", en: "A small zoo in the heart of Manhattan, New York City." },
     facts: {
-      de: ["Schneeleoparden", "Seelöwenbecken", "Tisch Family Children’s Zoo"],
+      de: ["Schneeleoparden", "Seelöwenbecken", "Tisch Family Children's Zoo"],
       hu: ["Hópárducok", "Fóka medence", "Tisch Családi Gyermekállatkert"],
       ro: ["Leoparzi de zăpadă", "Bazinul leilor de mare", "Grădina Zoologică pentru Copii Tisch"],
       en: ["Snow leopards", "Sea lion pool", "Tisch Family Children's Zoo"]

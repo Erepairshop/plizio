@@ -29,13 +29,13 @@ export const poiExtraGambiaNatureV2: POI[] = [
       de: "Der Gambia-Fluss erstreckt sich über 1.100 Kilometer und bildet die Lebensader des gleichnamigen Staates. Er entspringt im Fouta-Djallon-Gebirge in Guinea und fließt in westlicher Richtung in den Atlantischen Ozean. Geografie K7 — Flusssysteme und deren Einfluss auf die menschliche Ansiedlung.",
       hu: "A Gambia-folyó több mint 1100 kilométer hosszan kanyarog, az ország alapvető vízforrásaként és közlekedési útvonalaként szolgálva. A forrása Guineában, a Fouta-Djallon-hegységben található, ahonnan nyugati irányba tart az Atlanti-óceán felé. Földrajz K7 — folyórendszerek és az emberi letelepedés.",
       ro: "Râul Gambia se întinde pe o lungime de peste 1.100 de kilometri, fiind artera vitală a statului cu același nume. Acesta izvorăște din munții Fouta-Djallon din Guineea și curge spre vest până la Oceanul Atlantic. Geografie K7 — sistemele fluviale și impactul asupra așezărilor umane.",
-      en: "The Gambia River spans over 1,100 kilometers, serving as the lifeblood of the nation. Originating in the Fouta Djallon mountains of Guinea, it flows westward into the Atlantic Ocean. Geography K7 — river systems and their influence on human settlement."
+      en: "The Gambia River is the defining geographical, historical, and ecological artery of the nation; the country's borders literally mirror its meandering course. Flowing over 1,100 kilometers from the Fouta Djallon highlands in Guinea, it dominates the Gambian landscape, splitting the country into the North and South banks. The lower reaches of the river are characterized by a massive, saline estuary bordered by dense mangrove swamps, which gradually transition into freshwater gallery forests and open savannas further inland. The river is highly navigable, historically serving as a major penetration route for European explorers and slavers, and today sustains immense biodiversity and local agriculture. (Geography K6 — river systems and national geography)"
     },
     factsAdvanced: {
       de: ["Gesamtlänge ca. 1.120 km", "Entspringt auf 1.100 m Höhe", "Mündungsbreite bis zu 20 km", "Wichtigster Handelsweg seit Jahrhunderten", "Fischreiches Ökosystem", "Regelmäßige jährliche Überschwemmungen"],
       hu: ["Teljes hossz kb. 1120 km", "1100 méteres magasságban ered", "Torkolatának szélessége akár 20 km", "Századok óta a legfontosabb kereskedelmi útvonal", "Halban gazdag ökoszisztéma", "Éves rendszeres áradások jellemzik"],
       ro: ["Lungime totală de aproximativ 1.120 km", "Izvorăște de la o altitudine de 1.100 m", "Lățimea gurii de vărsare de până la 20 km", "Cea mai importantă rută comercială de secole", "Ecosistem bogat în pești", "Inundații anuale regulate"],
-      en: ["Total length approx. 1,120 km", "Source at 1,100 m altitude", "Estuary width up to 20 km", "Key trade route for centuries", "Rich aquatic ecosystem", "Regular annual flooding"]
+      en: ["The central geographical feature of The Gambia, dictating the nation's borders.", "Flows over 1,100 kilometers from its source in the Fouta Djallon highlands of Guinea.", "Splits the entire country into distinct North Bank and South Bank regions.", "The lower estuary is highly saline and bordered by immense mangrove forests.", "Historically a major navigable route for explorers, traders, and slavers.", "Transitions from saltwater mangroves to freshwater gallery forests deep inland."]
     }, image: "/poi-images/gambia-river-nature-v2.webp"},
   {
     id: "river-gambia-national-park-nature-v2",
@@ -64,13 +64,13 @@ export const poiExtraGambiaNatureV2: POI[] = [
       de: "Der River Gambia Nationalpark wurde 1978 gegründet und umfasst das Archipel der 'Baboon Islands'. Er dient vor allem der Rettung und Rehabilitation von in Gefangenschaft gehaltenen oder verwaisten Schimpansen. Sachkunde K5 — Schutz gefährdeter Tierarten in ihrem natürlichen Lebensraum.",
       hu: "A River Gambia Nemzeti Parkot 1978-ban alapították, és magában foglalja a 'Baboon-szigetek' szigetcsoportját. Fő célja a fogságban tartott vagy elárvult csimpánzok mentése és rehabilitációja. Sachkunde K5 — veszélyeztetett állatfajok védelme természetes élőhelyükön.",
       ro: "Parcul Național River Gambia a fost înființat în 1978 și include arhipelagul 'Baboon Islands'. Acesta are ca scop principal salvarea și reabilitarea cimpanzeilor ținuți în captivitate sau orfani. Sachkunde K5 — protejarea speciilor de animale pe cale de dispariție în habitatul lor natural.",
-      en: "River Gambia National Park was established in 1978 and includes the 'Baboon Islands' archipelago. Its primary purpose is the rescue and rehabilitation of captive or orphaned chimpanzees. Sachkunde K5 — protection of endangered animal species in their natural habitat."
+      en: "The River Gambia National Park, commonly referred to as the Baboon Islands, is a highly protected ecological reserve located deep in the Central River Region. Established in 1978, the park consists of a dense, lush archipelago of five islands situated in the freshwater section of the river. It is most famous globally for the Chimpanzee Rehabilitation Project, which successfully reintroduced orphaned chimpanzees into the wild; today, a thriving, wild population inhabits the islands. To protect the primates, human foot traffic is strictly forbidden on the islands, but visitors can observe the incredible wildlife, including hippos and crocodiles, from boats navigating the surrounding channels. (Science K8 — primate rehabilitation and strict conservation)"
     },
     factsAdvanced: {
       de: ["Fläche rund 585 Hektar", "Gründung im Jahr 1978", "Beherbergt über 100 Schimpansen", "Fünf Hauptinseln", "Streng geschütztes Areal", "Keine menschliche Besiedlung"],
       hu: ["Terület kb. 585 hektár", "1978-ban alapították", "Több mint 100 csimpánznak ad otthont", "Öt fő szigetből áll", "Szigorúan védett terület", "Nincs emberi lakosság"],
       ro: ["Suprafață de aproximativ 585 hectare", "Înființat în 1978", "Găzduiește peste 100 de cimpanzei", "Format din cinci insule principale", "Zonă strict protejată", "Fără așezări umane"],
-      en: ["Area around 585 hectares", "Founded in 1978", "Home to over 100 chimpanzees", "Five main islands", "Strictly protected area", "No human settlement"]
+      en: ["A highly protected reserve comprised of five islands in the Central River Region.", "Established in 1978, commonly known by locals and tourists as the Baboon Islands.", "Globally famous for its highly successful Chimpanzee Rehabilitation Project.", "Human foot traffic is strictly prohibited on the islands to protect the wildlife.", "Visitors observe thriving wild chimpanzees, hippos, and crocodiles from boats.", "Represents the premier, strictest wildlife conservation effort in The Gambia."]
     }, image: "/poi-images/river-gambia-national-park-nature-v2.webp"},
   {
     id: "kiang-west-national-park-nature-v2",
@@ -94,7 +94,20 @@ export const poiExtraGambiaNatureV2: POI[] = [
       hu: ["Több mint 11 000 hektár", "Számos ragadozómadár-faj"],
       ro: ["Peste 11.000 de hectare", "Multe specii de păsări de pradă"],
       en: ["Over 11,000 hectares", "Many species of birds of prey"]
-    }, image: "/poi-images/kiang-west-national-park-nature-v2.webp"},
+    }, image: "/poi-images/kiang-west-national-park-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "",
+      ro: "Parcul Național Kiang West este cea mai vastă și mai importantă arie naturală protejată de pe teritoriul Gambiei, acoperind peste 11.000 de hectare de-a lungul malului sudic al fluviului Gambia. Înființat în 1987, acest parc reprezintă un ecosistem intact de savană sudano-saheliană uscată, amestecată cu păduri dese de galerie de-a lungul cursurilor de apă interioare (bolongs). Este recunoscut ca fiind unul dintre ultimele sanctuare autentice pentru fauna sălbatică majoră a țării, găzduind populații timide de babuini, antilope sitatunga, facoceri și hiene pătate. Diversitatea aviară este uluitoare, cu peste 300 de specii observate, inclusiv vulturul marțial. Pentru ecologiști, parcul demonstrează efortul Gambiei de a opri defrișările și braconajul într-o regiune rurală dependentă de agricultură, oferind în schimb o resursă turistică neexploatată pe deplin. [Științe K8 — ecosisteme de savană și managementul faunei sălbatice]",
+      en: "Kiang West National Park is the largest and most ecologically diverse protected area in The Gambia, spanning over 11,000 hectares in the Lower River Region. The park features a striking transition of landscapes, from dense, impenetrable mangrove creeks along the riverbank to dry, sweeping Guinea savanna and laterite escarpments inland. It is a critical sanctuary for West African wildlife, hosting rare species such as the sitatunga, bushbucks, and a recovering population of hyenas and leopards. Due to its remote location and vast size, it remains largely undeveloped for mass tourism, offering a genuinely wild, rugged experience for dedicated naturalists and researchers. (Science K7 — biodiversity and savanna ecosystems)"
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [],
+      ro: ["Cel mai mare și mai bogat parc național din Gambia, situat în regiunea Lower River.", "Protejează peste 11.000 de hectare de savană uscată și pădure rară de galerie.", "Include zeci de kilometri de râuri de mangrove intacte (tributari).", "Adăpostește mamifere rare în țară, inclusiv hiene pătate și sitatunga.", "Găzduiește o populație impresionantă de babuini Guinea și colobus roșii.", "A fost desemnat drept o Zonă Importantă pentru Păsări (IBA) recunoscută la nivel global."],
+      en: ["The largest protected wildlife reserve in The Gambia, covering over 11,000 hectares.", "Located in the remote Kiang West district of the Lower River Region.", "Features highly diverse ecosystems, from riverine mangroves to dry savanna.", "A critical sanctuary for rare mammals including sitatunga, hyenas, and leopards.", "Remains rugged, wild, and largely undeveloped for commercial mass tourism.", "A premier location for dedicated ecological research and serious naturalists."]
+    }
+  },
   {
     id: "bao-bolong-wetland-nature-v2",
     type: "river",
@@ -117,7 +130,20 @@ export const poiExtraGambiaNatureV2: POI[] = [
       hu: ["Ramsari terület", "Fontos mangroveerdők"],
       ro: ["Zonă protejată Ramsar", "Păduri de mangrove importante"],
       en: ["Ramsar protected site", "Important mangrove forests"]
-    }, image: "/poi-images/bao-bolong-wetland-nature-v2.webp"},
+    }, image: "/poi-images/bao-bolong-wetland-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "",
+      ro: "Rezervația de Zone Umede Bao Bolong este o imensă și complexă rețea de ecosisteme situate pe malul nordic al fluviului Gambia (North Bank), fiind cel mai mare complex de acest fel din țară (peste 22.000 hectare). Dominată de mangrove falnice (care ajung până la 20 de metri înălțime), mlaștini sărate și bazine de inundații dulcege, rezervația a fost desemnată ca sit Ramsar de importanță internațională. Această labirintică rețea acvatică este absolut vitală pentru reproducerea faunei piscicole din Atlantic și din fluviu, servind ca „pepinieră” pentru mii de pești tineri. În plus, zonele izolate din nordul rezervației găzduiesc rare populații de manateea vest-africană (lamantin) și o proporție masivă de păsări acvatice migratoare. Experiența navigării cu o barcă mică printre aceste canale verzi oferă sentimentul deplin al junglei ecuatoriale africane neatinse. [Geografie K8 — zone umede Ramsar și conservarea biodiversității]",
+      en: "The Bao Bolong Wetland Reserve is a massive, internationally recognized Ramsar site located on the north bank of the Gambia River, directly opposite Kiang West National Park. Covering over 22,000 hectares, it consists of a vast, complex network of tidal creeks (bolongs), sprawling salt marshes, and seasonal freshwater swamps. The reserve is an absolutely critical sanctuary for migratory birds traveling the East Atlantic Flyway, hosting tens of thousands of waterbirds during the winter months. The dense mangrove forests also serve as vital nurseries for marine fish and provide a sustainable source of oysters and timber for the surrounding local communities. (Science K8 — Ramsar wetlands and migratory flyways)"
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [],
+      ro: ["Este cel mai extins ecosistem de zone umede din Gambia, acoperind peste 22.000 de hectare.", "Primul sit natural din Gambia recunoscut prin Convenția Ramsar (zone umede de interes internațional).", "Constă din mangrove imense, smârcuri sărate și păduri riverane dense.", "Constituie un habitat esențial și un sanctuar de reproducere pentru lamantinul vest-african.", "Protejează coasta nordică împotriva eroziunii extreme a curenților fluviali.", "Adăpostește crocodili de Nil tineri și o varietate uriașă de faună acvatică."],
+      en: ["A massive 22,000-hectare reserve recognized as an international Ramsar wetland site.", "Located on the north bank of the river, opposite the Kiang West National Park.", "Comprised of a complex network of tidal creeks, salt marshes, and mangrove forests.", "A critically important wintering site for migratory birds on the East Atlantic Flyway.", "The mangroves serve as essential breeding nurseries for regional marine life.", "Balances strict ecological protection with sustainable local foraging."]
+    }
+  },
   {
     id: "tanji-bird-reserve-nature-v2",
     type: "forest",
@@ -140,7 +166,20 @@ export const poiExtraGambiaNatureV2: POI[] = [
       hu: ["Több mint 300 madárfaj", "Közvetlenül az Atlanti-parton"],
       ro: ["Peste 300 de specii de păsări", "Direct pe malul Atlanticului"],
       en: ["Over 300 bird species", "Right on the Atlantic coast"]
-    }, image: "/poi-images/tanji-bird-reserve-nature-v2.webp"},
+    }, image: "/poi-images/tanji-bird-reserve-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "",
+      ro: "Rezervația Ornitologică Tanji, aflată pe coasta vestică atlantică în apropiere de satul pescăresc Tanji, este considerată una dintre perlele turismului ecologic din Gambia. Deși este o arie protejată relativ mică (puțin peste 600 de hectare), compactitatea ei găzduiește o diversitate fenomenală. Aici, Oceanul Atlantic se întâlnește cu râul Karinti, creând dune de nisip fin, lagune izolate, insule offshore (Isulele Bijol) și pădure tropicală costieră. Acest peisaj miniatural divers este un magnet extraordinar pentru păsările migratoare europene (peste 300 de specii), care traversează Marea Mediterană și Sahara pentru a ierna aici. Printre atracțiile vizuale de top se numără pelicanii, stârcii Goliath și sutele de rândunele de mare. Insulele Bijol sunt de asemenea un loc important de reproducere pentru broaștele țestoase verzi marine. [Științe K8 — coridoare de migrație aviară și ecosisteme costiere]",
+      en: "The Tanji Bird Reserve, officially the Karinti Tanji National Park, is a compact but incredibly rich coastal reserve located just south of the main tourist areas. Encompassing sandy beaches, coastal lagoons, and dense scrub woodland, it protects a highly dynamic transitional ecosystem. The reserve is a paradise for ornithologists, boasting over 300 recorded bird species, making it one of the most densely populated avian habitats in West Africa. The offshore Bijol Islands, included within the reserve's boundaries, serve as crucial, undisturbed breeding grounds for marine turtles and massive colonies of Caspian Terns, heavily protected from human interference. (Science K6 — coastal lagoons and avian biodiversity)"
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [],
+      ro: ["Localizată de-a lungul coastei Atlanticului, incluzând estuarul râului Karinti.", "Include în perimetrul său Insulele Bijol (Bijol Islands), situate chiar în larg.", "Este vizitată de peste 300 de specii de păsări migratoare palearctice.", "Insulele Bijol sunt un sit principal de cuibărire pentru păsările de mare și broaștele țestoase marine.", "Cuprinde un mix ecologic dens: dune de nisip, mlaștini, mangrove și pădure.", "O destinație premium la nivel mondial pentru ornitologii amatori europeni."],
+      en: ["A highly accessible coastal reserve located south of the main urban tourist zones.", "Encompasses diverse habitats including sandy beaches, lagoons, and scrub woodland.", "Internationally renowned among ornithologists with over 300 recorded bird species.", "Includes the offshore Bijol Islands, a critical breeding site for Caspian Terns.", "Provides vital, protected nesting beaches for endangered marine turtles.", "A prime example of rich biodiversity existing on the edge of urban sprawl."]
+    }
+  },
   {
     id: "bijilo-forest-park-nature-v2",
     type: "forest",
@@ -155,7 +194,7 @@ export const poiExtraGambiaNatureV2: POI[] = [
     description: {
       de: "Ein kleiner Waldpark an der Küste, der oft als 'Monkey Park' bezeichnet wird, da dort viele Affen leben.",
       hu: "Kicsi tengerparti erdőpark, amelyet gyakran 'Majomparknak' is neveznek a benne élő számos majom miatt.",
-      ro: "Un mic parc forestier de coastă, numit adesea „Parcul Maimuțelor” datorită numeroaselor maimuțe care trăiesc acolo.",
+      ro: "Un mic parc forestier de coastă, numit adesea \"Parcul Maimuțelor\" datorită numeroaselor maimuțe care trăiesc acolo.",
       en: "A small coastal forest park often referred to as 'Monkey Park' due to the many monkeys living there."
     },
     facts: {
@@ -163,7 +202,20 @@ export const poiExtraGambiaNatureV2: POI[] = [
       hu: ["Népszerű a turisták körében", "Sűrű pálmaerdők"],
       ro: ["Popular printre turiști", "Păduri dense de palmieri"],
       en: ["Popular with tourists", "Dense palm forests"]
-    }, image: "/poi-images/bijilo-forest-park-nature-v2.webp"},
+    }, image: "/poi-images/bijilo-forest-park-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "",
+      ro: "Parcul Forestier Bijilo (cunoscut de turiști sub numele de Monkey Park) este o rezervație de pădure tropicală amplasată extrem de neobișnuit, chiar pe stâncile litorale, mărginită pe o parte de plaja Oceanului Atlantic și pe cealaltă de faimoasele hoteluri ale stațiunii Senegambia. Creată în 1951, rezervația a fost salvată ca prin miracol de distrugerea imobiliară, fiind acum un refugiu critic pentru viața sălbatică izolată. Pădurea deasă este dominată de colosali palmieri rhun și baobabi, printre care se balansează populații mari și foarte curioase de maimuțe verzi (vervet monkeys), alături de speciile mult mai timide de colobus roșu (Western red colobus). Turiștii parcurg poteci bine marcate la umbra pădurii, observând cum animalele supraviețuiesc în proximitatea sufocantă a uneia dintre cele mai dens populate zone metropolitane din regiune. [Geografie K7 — rezervații urbane și coexistența uman-animală]",
+      en: "Bijilo Forest Park, affectionately known as the 'Monkey Park,' is a small, highly popular reserve perched on the coastal cliffs directly adjacent to the bustling Senegambia tourist strip. It represents one of the very last surviving patches of indigenous coastal gallery forest in the region. The park is characterized by towering Rhun palms and dense, shaded undergrowth. It is most famous for its large, highly habituated troops of Green Vervet and Western Red Colobus monkeys, which freely interact with visitors along the clearly marked walking trails. Despite its small size, it provides a crucial, accessible green lung for the heavily developed coastline. (Geography K6 — urban forest reserves and primate habituation)"
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [],
+      ro: ["Un parc de pădure de coastă poziționat direct pe stâncile atlantice din zona turistică Kololi.", "Protejat oficial din 1951, unul dintre cele mai vechi spații verzi protejate urbane.", "Este poreclit colocvial 'Monkey Park' datorită primatelor foarte sociabile.", "Protejează două specii majore de primate: maimuțele verzi și rarul colobus roșu.", "Se estimează că primește cel mai mare număr de vizitatori anuali dintre parcurile țării.", "Turiștii sunt descurajați oficial, dar adesea hrănesc maimuțele cu arahide, afectând dieta sălbatică."],
+      en: ["A small, heavily visited forest reserve located adjacent to the Senegambia tourist strip.", "Protects a rare, surviving patch of indigenous coastal gallery and palm forest.", "Widely known as the 'Monkey Park' due to its large primate populations.", "Home to highly habituated troops of Green Vervet and Western Red Colobus monkeys.", "Features well-maintained, shaded walking trails leading to coastal cliff viewpoints.", "Serves as a crucial, accessible 'green lung' amid intense coastal urban development."]
+    }
+  },
   {
     id: "abuko-nature-reserve-nature-v2",
     type: "forest",
@@ -186,7 +238,20 @@ export const poiExtraGambiaNatureV2: POI[] = [
       hu: ["1968-ban alapították", "Krokodilmedence is található itt"],
       ro: ["Fondată în 1968", "Există bazine cu crocodili"],
       en: ["Founded in 1968", "Crocodile pool on site"]
-    }, image: "/poi-images/abuko-nature-reserve-nature-v2.webp"},
+    }, image: "/poi-images/abuko-nature-reserve-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "",
+      ro: "Rezervația Naturală Abuko deține titlul mândru de a fi prima arie protejată înființată oficial în Gambia (1968). Acest petic de junglă de galerie de 105 hectare, situat la mică distanță de capitala Serekunda, este în esență o supraviețuire uimitoare a pădurii tropicale primare africane, fiind protejat inițial pentru a conserva pânza freatică din regiune. Abuko este o oază densă, întunecoasă, impenetrabilă vizual, tăiată de un singur flux de apă dulce, care menține flora luxuriantă și lianele enorme. Este locul în care vizitatorii pot avea întâlniri apropiate, dintr-un ascunziș fotografic camuflat, cu prădătorii de vârf ai țării: crocodilii de Nil uriași, șopârle varan de dimensiunea unor câini mici și o diversitate fenomenală de păsări tropicale, precum tauracos și hornbills (păsări rinocer). Rezervația gestionează de asemenea un mic orfelinat pentru animale sălbatice recuperate din captivitate ilegală. [Științe K8 — conservarea pădurilor de galerie și biodiversitatea tropicală]",
+      en: "The Abuko Nature Reserve is the oldest protected wildlife area in The Gambia, officially established in 1968. Despite its relatively small size of just over 100 hectares, it is one of the most biodiverse locations in the country. The reserve encompasses a crucial water catchment area that supports a rare stretch of dense, evergreen gallery forest, a stark contrast to the surrounding dry savanna. Abuko is renowned for its primate populations, including Red Colobus and Callithrix monkeys, as well as an incredible array of birdlife and a small population of Nile crocodiles. It serves as an essential, accessible educational resource for local schools and a premier introductory wildlife experience for international tourists. (Science K6 — gallery forests and urban nature reserves)"
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [],
+      ro: ["Este prima rezervație naturală oficială creată în Gambia, în anul 1968.", "Este deosebit de densă, reprezentând o pădure de galerie veșnic verde de neînlocuit.", "Dimensiunile sale sunt mici (105 hectare), dar găzduiește cea mai densă biodiversitate vizibilă.", "Printre atracțiile sale majore se numără crocodilii de Nil, varanii uriași și pitonii.", "A fost înființată inițial pentru a proteja rezervele critice de apă dulce ale regiunii.", "Găzduiește un faimos ascunziș (photo hide) lângă bazinul central de apă pentru observatori."],
+      en: ["The first officially protected wildlife reserve in The Gambia, established in 1968.", "Covers just over 100 hectares but features remarkably high biodiversity.", "Protects a vital water catchment and rare evergreen gallery forest ecosystem.", "Renowned for accessible sightings of Red Colobus and Callithrix monkeys.", "Serves as a primary environmental education center for local Gambian schools.", "A highly popular, easily accessible eco-tourism destination near the capital."]
+    }
+  },
   {
     id: "janjanbureh-island-nature-v2",
     type: "island",
@@ -209,7 +274,20 @@ export const poiExtraGambiaNatureV2: POI[] = [
       hu: ["Korábban MacCarthy-sziget", "A folyó öleli körül"],
       ro: ["Fosta insulă MacCarthy", "Înconjurată de râu"],
       en: ["Formerly MacCarthy Island", "Surrounded by the river"]
-    }, image: "/poi-images/janjanbureh-island-nature-v2.webp"},
+    }, image: "/poi-images/janjanbureh-island-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "",
+      ro: "Insula Janjanbureh, cunoscută anterior sub numele de Insula MacCarthy, reprezintă o formațiune geografică uimitoare, fiind o insulă uriașă în formă de fus care împarte cursul fluviului Gambia în două brațe în regiunea Central River. Dincolo de faima sa istorică colonială, insula se remarcă printr-un ecosistem predominant agrar și mlăștinos. Fiind înconjurată complet de fluviu, clima insulei are un microclimat umed distinct, perfect pentru culturile extinse de orez care domină ținuturile inferioare ale insulei pe timpul ploilor. Viața naturală și cea urbană se împletesc inevitabil; pădurile marginale sunt refugiul unei mari comunități de primate și păsări de apă, iar traversarea cu feribotul mic al insulei se face adesea pe lângă hipopotamii leneși care își fac apariția la răsărit. Acest peisaj izolat oferă una dintre cele mai romantice și brute experiențe ecoturistice din interiorul Africii de Vest. [Geografie K7 — insule fluviale și microclimate]",
+      en: "Janjanbureh Island, historically known as MacCarthy Island, is a significant riverine landmass located deep within the Central River Region. Measuring roughly 10 kilometers in length, it splits the massive Gambia River into two distinct channels. The island is characterized by a mix of historic colonial settlements, small-scale peanut farms, and dense, tangled riverine forests hugging its banks. It serves as a crucial staging ground for eco-tourists heading further upstream to the Baboon Islands. The surrounding waters are rich with hippopotamuses and West African manatees, making the island an essential geographical and ecological hub for the middle stretches of the river. (Geography K6 — river islands and inland ecology)"
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [],
+      ro: ["O insulă masivă situată pe cursul mijlociu al fluviului Gambia (250 km de la ocean).", "A fost numită Insula MacCarthy în onoarea unui fost guvernator general colonial britanic.", "Este conectată la ambele maluri ale fluviului prin mici servicii vitale de feribot.", "Apele din jurul insulei sunt faimoase pentru găzduirea turmelor de hipopotami.", "Pământurile sale joase (luncile) sunt extrem de fertile și utilizate intens pentru orez.", "Deține zone de pădure nativă în extremitățile insulei, pline de primate și păsări rare."],
+      en: ["A large riverine island located in the middle of the Gambia River.", "Historically referred to as MacCarthy Island during the colonial era.", "Splits the main flow of the Gambia River into two distinct navigable channels.", "Features a mix of historic urban settlements, agriculture, and riverine forest.", "Serves as the primary staging point for eco-tourism into the deep interior.", "The surrounding river channels are populated by hippos and West African manatees."]
+    }
+  },
   {
     id: "kunta-kinteh-island-nature-v2",
     type: "island",
@@ -232,7 +310,20 @@ export const poiExtraGambiaNatureV2: POI[] = [
       hu: ["UNESCO Világörökség", "Korábban James-sziget"],
       ro: ["Patrimoniu UNESCO", "Fosta insulă James"],
       en: ["UNESCO World Heritage", "Formerly James Island"]
-    }, image: "/poi-images/kunta-kinteh-island-nature-v2.webp"},
+    }, image: "/poi-images/kunta-kinteh-island-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "",
+      ro: "Insula Kunta Kinteh (fosta Insulă James), dincolo de valoarea sa incontestabilă ca monument UNESCO al istoriei sclaviei, este un exemplu dramatic al vulnerabilității geografice și ecologice. Această minusculă insulă de pământ și stâncă se află exact în mijlocul masivului estuar al fluviului Gambia. Datorită schimbărilor climatice, creșterii nivelului mării și eroziunii masive a apelor curgătoare puternice, insula și-a pierdut mai bine de 80% din suprafața sa originală documentată în secolul al XV-lea. Eforturile disperate actuale se axează nu doar pe restaurarea zidurilor fostului fort britanic, ci pe salvarea ecologică a restului de stâncă prin construirea de gabioane și diguri periferice din piatră. Insula este un martor tăcut dublu: a brutalității istoriei umane trecute și a amenințării implacabile a eroziunii naturale prezente. [Științe K8 — eroziunea costieră, schimbările climatice și salvarea patrimoniului]",
+      en: "Kunta Kinteh Island, formerly known as James Island, is a tiny but profoundly significant landmass located in the middle of the wide Gambia River estuary. Barely 3 kilometers from the northern bank, the island is slowly eroding due to harsh tidal currents and rising sea levels. Despite its small size, it is heavily fortified with the ruins of a colonial fort that changed hands between the British, French, and Dutch multiple times during the height of the transatlantic slave trade. Designated as a UNESCO World Heritage Site, its fragile, eroding ecology acts as a poignant metaphor for the fading, traumatic history it represents. (History K8 — colonial forts and the transatlantic slave trade)"
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [],
+      ro: ["O insulă minusculă în estuarul fluviului Gambia, adesea bătută de vânt și valuri.", "Inclusă în Patrimoniul Mondial UNESCO pentru rolul său din istoria comerțului cu sclavi.", "Inițial de șase ori mai mare, insula a fost sever distrusă de eroziunea apei.", "Guvernul a instalat recent bazine de gabioane (piatră în plasă) pentru a stopa scufundarea ei.", "Cunoscută secole la rând drept Insula James (sau St. Andrews), redenumită oficial în 2011.", "Câțiva baobabi antici se agață cu disperare de solul stâncos restant al insulei."],
+      en: ["A tiny, historically profound island located in the Gambia River estuary.", "Formerly known as James Island before being renamed to honor Kunta Kinte.", "Features the heavily ruined remains of a contested colonial-era slave fort.", "Currently suffering from severe coastal erosion and rising estuarine water levels.", "A central component of a major Senegambian UNESCO World Heritage Site.", "A powerful, albeit physically fragile, memorial to the transatlantic slave trade."]
+    }
+  },
   {
     id: "baboon-islands-nature-v2",
     type: "island",
@@ -255,7 +346,20 @@ export const poiExtraGambiaNatureV2: POI[] = [
       hu: ["A belépés tilos", "Egy nemzeti park része"],
       ro: ["Accesul interzis", "Parte a unui parc național"],
       en: ["No landing permitted", "Part of a national park"]
-    }, image: "/poi-images/baboon-islands-nature-v2.webp"},
+    }, image: "/poi-images/baboon-islands-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "",
+      ro: "Insulele Babuinilor (Baboon Islands), situate în inima Parcului Național River Gambia (Central River), reprezintă unul dintre cele mai riguroase și de succes proiecte de conservare din Africa de Vest: Proiectul de Reabilitare a Cimpanzeilor (CRP). Inițiat în 1979 de primatologul Stella Brewer, acest arhipelag de șase insule fluviale a devenit un sanctuar securizat unde cimpanzeii salvați din captivitate ilegală sunt reintegrați în sălbăticie. Pentru a proteja primatele și a evita transmiterea bolilor umane, accesul fizic pe insule este strict interzis. Turiștii pot observa cimpanzeii doar de la bordul bărcilor care navighează la distanță. Pe lângă cimpanzei, insulele adăpostesc hipopotami, crocodili, babuini Guinea și o multitudine uimitoare de specii de păsări tropicale, creând un ecosistem fluvial neîntrerupt. [Științe K8 — reabilitarea faunei și primatologie]",
+      en: "The Baboon Islands form the impenetrable core of the River Gambia National Park. This dense archipelago of five heavily forested islands sits in the freshwater section of the central river. They are globally renowned as the site of the Chimpanzee Rehabilitation Project, a pioneering conservation effort that successfully introduced orphaned chimps to a wild, predator-free environment. Because chimpanzees cannot swim, the river acts as a natural enclosure. To ensure the protection of the primates and the pristine gallery forest, humans are strictly forbidden from setting foot on the islands; all observation must be done from boats navigating the surrounding channels. (Science K8 — primate conservation and strict reserves)"
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [],
+      ro: ["Un arhipelag format din 6 insule situat pe fluviul Gambia (Parcul Național River Gambia).", "Găzduiește faimosul 'Chimpanzee Rehabilitation Project', început în 1979.", "Este strict interzisă debarcarea pe insule pentru a proteja sănătatea primatelor.", "Populația de cimpanzei a crescut de la câțiva indivizi salvați la peste 100 astăzi.", "Zona este complet izolată, fiind patrulată zilnic de pădurari.", "Reprezintă unul dintre cele mai de succes programe de acest fel din întreaga lume."],
+      en: ["An archipelago of five densely forested islands in the Central River Region.", "Forms the strictly protected core of the River Gambia National Park.", "Globally famous for the highly successful Chimpanzee Rehabilitation Project.", "The surrounding deep river waters act as a natural enclosure for the primates.", "Human foot traffic is strictly forbidden to protect the fragile ecosystem.", "Visitors can only observe the wildlife from authorized boats in the channels."]
+    }
+  },
   {
     id: "jinack-island-nature-v2",
     type: "island",
@@ -278,7 +382,20 @@ export const poiExtraGambiaNatureV2: POI[] = [
       hu: ["Madárparadicsom", "Szenegállal határos"],
       ro: ["Paradisul păsărilor", "Se învecinează cu Senegal"],
       en: ["Bird paradise", "Borders Senegal"]
-    }, image: "/poi-images/jinack-island-nature-v2.webp"},
+    }, image: "/poi-images/jinack-island-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "",
+      ro: "Insula Jinack, supranumită adesea 'Insula Paradisului' (Paradise Island), este o limbă lungă de nisip și mangrove care face parte din Parcul Național Niumi, la estuarul fluviului Gambia spre Oceanul Atlantic. Este o zonă insulară remarcabil de sălbatică și izolată, unde Oceanul Atlantic bate plaje pustii și dune virgine. Insula este un sanctuar ecologic de neprețuit, cunoscută ca un sit crucial de cuibărire pentru broaștele țestoase marine, dar și ca loc de iernare pentru sute de mii de păsări de țărm migratoare. Mica comunitate de pescari rezidentă aici, situată mai aproape de granița cu Senegal (Delta Saloum), trăiește într-o armonie tăcută cu natura, departe de asfaltul și agitația de pe malul opus, din Banjul. [Geografie K7 — conservare costieră și izolare insulară]",
+      en: "Jinack Island is a stunning, low-lying barrier island located at the very northern edge of the Gambia River estuary, bordering Senegal. Forming a critical part of the Niumi National Park, it is separated from the mainland by a narrow, dense mangrove creek. The island features incredibly diverse micro-ecosystems, including pristine, deserted sandy beaches facing the Atlantic, sprawling salt flats, and coastal scrub. Jinack is a globally recognized haven for birdwatchers and serves as a vital nesting ground for endangered green turtles. Its extreme isolation, accessible only by small boats, preserves a uniquely wild and untouched coastal environment. (Geography K7 — barrier islands and coastal biodiversity)"
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [],
+      ro: ["Situată în Parcul Național Niumi, despărțită de continent de Creek-ul Niumi.", "Separă parțial estuarul fluviului Gambia de Oceanul Atlantic.", "Are peste 10 kilometri de plaje atlantice complet nedezvoltate.", "Este un sanctuar critic de reproducere pentru țestoasa marină verde.", "Găzduiește o populație mică de pescari cu legături puternice în Senegal.", "Nu are infrastructură rutieră majoră, fiind accesibilă predominant cu barca."],
+      en: ["A low-lying barrier island located at the northern mouth of the river estuary.", "Forms a vital, highly protected component of the Niumi National Park.", "Separated from the Gambian mainland by dense, winding mangrove creeks.", "Features pristine Atlantic beaches, sprawling salt flats, and coastal scrubland.", "An internationally recognized haven for migratory birds and nesting marine turtles.", "Accessible only by small boats, preserving a wild, untouched atmosphere."]
+    }
+  },
   {
     id: "st-marys-island-nature-v2",
     type: "island",
@@ -301,7 +418,20 @@ export const poiExtraGambiaNatureV2: POI[] = [
       hu: ["Banjul helyszíne", "Homokpadok és mocsarak"],
       ro: ["Locația orașului Banjul", "Bancuri de nisip și mlaștini"],
       en: ["Location of Banjul", "Sandbars and swamps"]
-    }, image: "/poi-images/st-marys-island-nature-v2.webp"},
+    }, image: "/poi-images/st-marys-island-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "",
+      ro: "Insula St. Mary (Banjul Island) este insula pe care a fost construită însăși capitala Gambiei, o formațiune geologică precară și esențială. Apărută din acumulările de nisip pe un banc de gresie la vărsarea fluviului în ocean, insula este plată și deosebit de vulnerabilă. La momentul colonizării sale de către britanici (1816), era în mare parte o mlaștină ostilă și un habitat de mangrove. Astăzi, cu excepția zonei urbane hiper-dezvoltate a Banjulului, părțile marginilor sudice și estice sunt încă definite de nămolurile adânci ale estuarului. Faptul că insula se află la abia un metru deasupra nivelului mării ridică probleme enorme privind inundațiile cauzate de ploi și maree, făcând din ea un caz de studiu primar privind impactul schimbărilor climatice asupra capitalelor insulare vulnerabile. [Geografie K8 — vulnerabilitate climatică și urbanizare insulară]",
+      en: "St. Mary's Island is the highly strategic landmass upon which the capital city, Banjul, is built. Located at the mouth of the Gambia River, it is essentially a large sandbank that has been extensively stabilized and urbanized over the last two centuries. The island is geographically defined by its precarious relationship with water; it faces the deep, turbulent currents of the Atlantic Ocean and the river estuary on one side, and the sprawling, flood-prone Tanbi Wetland Complex on the other. The island's low elevation makes it highly susceptible to sea-level rise and extreme seasonal flooding, creating constant infrastructural challenges for the capital. (Geography K7 — urban islands and sea-level vulnerabilities)"
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [],
+      ro: ["Este insula care găzduiește întreaga capitală a Gambiei, Banjul.", "Separă cursul principal al fluviului Gambia de mlaștinile Tanbi și Ocean.", "Cea mai mare parte a teritoriului său se află la mai puțin de un metru peste nivelul mării.", "Original era un banc de nisip și mangrove considerat nesănătos (Banjul înseamnă 'fibra de frânghie').", "Este conectată la continent printr-un singur pod rutier (Denton Bridge).", "Considerată una dintre capitalele lumii cele mai expuse riscului creșterii oceanelor."],
+      en: ["The strategic island landmass upon which the capital city, Banjul, is located.", "Situated exactly where the Gambia River estuary meets the Atlantic Ocean.", "Originally a large sandbank that was extensively urbanized and stabilized.", "Bordered on its inland side by the sprawling Tanbi Wetland Complex.", "Characterized by extremely low elevation, making it highly vulnerable to flooding.", "Presents significant, ongoing urban engineering and drainage challenges."]
+    }
+  },
   {
     id: "kartong-beach-nature-v2",
     type: "sea",
@@ -324,7 +454,20 @@ export const poiExtraGambiaNatureV2: POI[] = [
       hu: ["Legdélibb pont", "Nagyon természetközeli"],
       ro: ["Cel mai sudic punct", "Foarte natural"],
       en: ["Southernmost point", "Very natural"]
-    }, image: "/poi-images/kartong-beach-nature-v2.webp"},
+    }, image: "/poi-images/kartong-beach-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "",
+      ro: "Plaja din Kartong este segmentul cel mai sudic al coastei atlantice a Gambiei, un tărâm în care nisipul alb se întâlnește cu vegetația neîmblânzită și unde turismul de masă nu a reușit să pătrundă. Aici, litoralul se prelungește până la gura de vărsare a râului Allahein, granița naturală cu Senegal. Plaja este renumită pentru serenitatea sa absolută, fiind populată doar de mici bărci artizanale de pescuit și, ocazional, de iubitori de natură. Dunele de nisip sunt neafectate de eroziunea cauzată de stațiunile mari, fiind habitatul ideal pentru crabi fantomă și păsări limicole. Kartong Beach reprezintă nucleul ecosistemului din sud, o amintire a modului în care arăta întreaga coastă a Africii de Vest înainte de boom-ul imobiliar al secolului XX. [Geografie K7 — plaje sălbatice și frontiere naturale]",
+      en: "Kartong Beach is the southernmost stretch of coastline in The Gambia, ending abruptly where the Allahein River estuary forms the border with Senegal. Unlike the heavily developed tourist beaches to the north, Kartong Beach is wild, wide, and largely deserted. It is characterized by its dynamic, shifting sandbars where the river meets the ocean, creating a nutrient-rich environment that attracts immense flocks of seabirds and waders. The beach is a focal point for eco-tourism and sustainable practices, free from large resorts, and is renowned for its spectacular sunsets and tranquil, untouched natural beauty. (Geography K6 — wild coastlines and estuarine borders)"
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [],
+      ro: ["Este cea mai sudică plajă a Gambiei, oprindu-se la râul Allahein (granița cu Senegal).", "Nu deține hoteluri masive de tip resort, păstrând o vibrație ecoturistică pură.", "Este unul dintre cele mai curate sectoare de coastă din Africa de Vest.", "Cunoscută ca un excelent punct de observare pentru migrația păsărilor costiere.", "Dunele sale masive servesc drept barieră naturală pentru satul din interior.", "Ideală pentru ecoturism, meditație și pescuit sportiv neinvaziv."],
+      en: ["The absolute southernmost stretch of Atlantic coastline in The Gambia.", "Terminates at the Allahein River estuary, forming the border with Senegal.", "Characterized by a wild, undeveloped, and largely deserted landscape.", "Features dynamic, shifting sandbars created by the meeting of river and ocean.", "A premier location for low-impact eco-tourism and intense birdwatching.", "Maintains a tranquil atmosphere, far removed from the northern resort hubs."]
+    }
+  },
   {
     id: "sanyang-beach-nature-v2",
     type: "sea",
@@ -347,7 +490,20 @@ export const poiExtraGambiaNatureV2: POI[] = [
       hu: ["Híres haléttermek", "Magas pálmafák"],
       ro: ["Restaurante de pește celebre", "Palmieri înalți"],
       en: ["Famous fish restaurants", "Tall palm trees"]
-    }, image: "/poi-images/sanyang-beach-nature-v2.webp"},
+    }, image: "/poi-images/sanyang-beach-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "",
+      ro: "Cunoscută în limbajul popular drept 'Paradise Beach', plaja Sanyang este considerată de mulți vizitatori drept cel mai pitoresc și echilibrat segment de litoral din țară. Plaja excelează printr-o întindere masivă de nisip fin, flancată de palmieri de cocos foarte înalți și de mici baruri rustice de plajă, care oferă un confort discret. Datorită așezării sale, departe de aglomerația urbană din Kololi, Sanyang Beach oferă ape atlantice excelente pentru înot și un peisaj dominat adesea de zmeie de kitesurfing. Mai spre sud de zona turistică principală, peisajul se transformă dramatic într-un hub imens și afumat de pescuit artizanal, unde sute de localnici aduc la mal prada zilnică, oferind vizitatorilor un contrast fascinant între relaxarea vestică și munca africană intensă. [Geografie K7 — turism de plajă și economie duală]",
+      en: "Sanyang Beach, widely known as Paradise Beach, is one of the most famous and visually stunning stretches of the Gambian coastline. Located in the Kombo South district, it features brilliant white sands backed by a dense fringe of swaying coconut palms. The beach is remarkably wide and relatively flat, making it ideal for the massive daily landings of traditional artisanal fishing pirogues. While the northern end is dominated by this intense, smoky fishing industry, the southern stretches host a growing number of eco-lodges and beach bars, offering a perfect, bustling cross-section of Gambian coastal life and natural beauty. (Geography K6 — coastal economies and tropical beaches)"
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [],
+      ro: ["Adesea numită 'Paradise Beach' în ghidurile turistice internaționale.", "Dispune de un nisip incredibil de larg, ideal pentru sporturi de plajă (fotbal, kitesurfing).", "Zona turistică este net separată de zona de pescuit și procesare a peștelui.", "Găzduiește anual festivalul de muzică și artă 'Sanyang International Cultural Festival'.", "Multe dintre barurile de pe plajă folosesc energie solară pentru operare.", "Accesul auto se face pe un drum care străbate o pădure de baobabi impresionantă."],
+      en: ["Widely known locally and internationally as 'Paradise Beach'.", "Features expansive, brilliant white sands backed by dense coconut palm groves.", "The northern section hosts an intense, massive traditional fishing industry.", "The southern section is increasingly popular for eco-lodges and beach bars.", "Offers a dynamic mix of raw marine industry and relaxing tropical tourism.", "Considered one of the most visually spectacular stretches of the national coastline."]
+    }
+  },
   {
     id: "kotu-beach-nature-v2",
     type: "sea",
@@ -370,7 +526,20 @@ export const poiExtraGambiaNatureV2: POI[] = [
       hu: ["Nyüzsgő turistaközpont", "Széles homokos part"],
       ro: ["Centru turistic plin de viață", "Plajă largă cu nisip"],
       en: ["Bustling tourist center", "Wide sandy beach"]
-    }, image: "/poi-images/kotu-beach-nature-v2.webp"},
+    }, image: "/poi-images/kotu-beach-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "",
+      ro: "Plaja Kotu este una dintre zonele turistice 'veterane' ale Gambiei, oferind o fâșie de nisip splendidă, largă, foarte sigură și bine supravegheată, mărginită de o multitudine de hoteluri all-inclusive cu vechime. Este plaja preferată pentru plimbările lungi dimineața, oferind o pantă lină către apele Atlanticului. Spre deosebire de caracterul sălbatic al coastei sudice, Kotu Beach este extrem de socială; aici se întâlnesc comercianți de suveniruri (bumsters), ghizi de păsări independenți și antrenori de echitație (calărie pe plajă). În capătul său nordic, plaja este mărginită de gura estuarului Kotu Stream, adăugând un element surprinzător de biodiversitate aviară la doar câțiva pași de șezlongurile turiștilor. [Sociologie K7 — dinamica turismului de resort litoral]",
+      en: "Kotu Beach is a premier, highly developed stretch of coastline located in the heart of the national tourism zone. Unlike the wild beaches of the south, Kotu is meticulously maintained, featuring wide, golden sands that gently slope into the Atlantic surf. It is backed by a continuous line of large, luxury resort hotels and a popular coastal golf course. The natural highlight of the beach is the mouth of the Kotu Stream, which cuts through the sand to enter the ocean, creating a small but vibrant wetland habitat right next to the sun loungers, heavily frequented by birdwatchers. (Geography K6 — resort coastlines and coastal streams)"
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [],
+      ro: ["Plajă majoră a zonei turistice urbane, situată în districtul Kanifing.", "Una dintre cele mai sigure plaje pentru înot din Gambia datorită valurilor blânde.", "Este flancată de terenul de golf Fajara și de cursul de apă Kotu Stream.", "Aici activează zeci de mici întreprinzători ('fruit ladies' și ghizi locali).", "Călăria la apusul soarelui este o activitate turistică extrem de populară pe acest segment.", "Beneficiază de un management activ pentru prevenirea eroziunii costiere."],
+      en: ["A highly developed, premier tourist beach located in the Kombo region.", "Characterized by meticulously maintained, wide golden sands.", "Backed by a continuous strip of large luxury resorts and a prominent golf course.", "Features the mouth of the Kotu Stream, creating a unique coastal wetland.", "The stream area is a major, highly accessible hotspot for urban birdwatching.", "Represents the core of The Gambia's traditional 'sun and sand' tourism package."]
+    }
+  },
   {
     id: "kololi-beach-nature-v2",
     type: "sea",
@@ -393,6 +562,18 @@ export const poiExtraGambiaNatureV2: POI[] = [
       hu: ["A Bijilo Park közelében", "Számos szabadidős lehetőség"],
       ro: ["Lângă Parcul Bijilo", "Multe facilități de agrement"],
       en: ["Near Bijilo Park", "Many leisure facilities"]
+    },
+    descriptionAdvanced: {
+      de: "",
+      hu: "",
+      ro: "Plaja Kololi (cunoscută și sub numele de Senegambia Beach) reprezintă centrul nevralgic al industriei hoteliere gambiene. Aceasta este porțiunea de coastă cea mai dens dezvoltată, unde se aliniază cele mai mari și luxoase hoteluri ale țării. Din punct de vedere geografic, istoria recentă a plajei Kololi este o lecție dură despre forța oceanului: eroziunea costieră a mușcat agresiv din nisip în anii 2000, forțând guvernul să implementeze proiecte masive de reabilitare și de adăugare de nisip (beach nourishment) pentru a salva industria turistică, protejând fundațiile hotelurilor cu bolovani enormi. Astăzi, plaja a fost refăcută și este mereu vibrantă, plină de sporturi nautice, terase și o viață de noapte care se revarsă pe nisip, fiind punctul unde energia umană concurează direct cu energia Atlanticului. [Geografie K8 — eroziunea plajelor și inginerie costieră]",
+      en: "Kololi Beach borders the famous Senegambia Strip, making it the most heavily utilized and commercially intense stretch of sand in The Gambia. The beach here is dynamic; it has historically suffered from severe coastal erosion, prompting massive, national engineering projects to pump sand back onto the shore to protect the multimillion-dollar hotel infrastructure sitting perilously close to the high-tide line. Despite the erosion issues, it remains the energetic heart of the tourism industry, packed with water sports, beach vendors, and tourists. It offers a stark lesson in the complex, expensive battle between coastal real estate development and natural oceanic forces. (Science K8 — coastal erosion and marine engineering)"
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [],
+      ro: ["Locația celor mai vechi și mari hoteluri din complexul Senegambia.", "A suferit o pierdere masivă de teritoriu în fața oceanului (eroziune severă).", "A beneficiat de un proiect național multimilionar de 'hrănire a plajei' cu nisip pompat din larg.", "Spre sud se învecinează direct cu parcul forestier Bijilo (Monkey Park).", "Plaja cu cel mai mare număr de vizitatori internaționali pe metru pătrat din țară.", "Dispune de bariere imense de bolovani (riprap) pentru spargerea valurilor și protejarea falezei."],
+      en: ["The most commercially intense and heavily utilized beach in The Gambia.", "Located directly adjacent to the bustling Senegambia tourist strip.", "Historically plagued by severe, threatening rates of coastal erosion.", "Has been the subject of massive, expensive national sand-pumping engineering projects.", "The beach serves as the primary playground for the adjacent luxury resorts.", "Highlights the ongoing infrastructural battle against rising sea levels and tides."]
     }
   },
   {
@@ -417,7 +598,20 @@ export const poiExtraGambiaNatureV2: POI[] = [
       hu: ["Szép kilátópontok", "Népszerű horgászhely"],
       ro: ["Puncte de belvedere frumoase", "Popular pentru pescuit"],
       en: ["Beautiful viewpoints", "Popular for fishing"]
-    }, image: "/poi-images/cape-point-nature-v2.webp"},
+    }, image: "/poi-images/cape-point-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "",
+      ro: "Cape Point este un promotoriu geografic distinctiv din districtul Bakau, marcând locul precis unde Atlanticul larg se îmbină cu gura estuarului masiv al fluviului Gambia. Această convergență unică a curenților marini și fluviali creează condiții complexe de înot, dar și o diversitate piscicolă bogată. Geologic, Cape Point este protejat parțial de bancuri de nisip subacvatice. Plaja de aici este largă, adesea liniștită și presărată cu unele dintre primele hoteluri de lux construite în Gambia în anii '70. La capătul promontoriului, falezele argiloase expun straturi de rocă lateritică roșiatică. Peisajul marin de la Cape Point este adesea animat de pirogile colorate care se întorc spre Bakau sau de vasele mari de marfă care intră greoi în portul capitalei Banjul. [Geografie K7 — promontorii și dinamica curenților de estuar]",
+      en: "Cape Point, located at the extreme northern tip of the Bakau coastline, is a dramatic geographical feature where the Atlantic Ocean physically meets the mouth of the Gambia River estuary. The coastline here transitions sharply from sandy beaches to rugged, red laterite cliffs that drop steeply into the turbulent waters. These cliffs offer sweeping, elevated views across the wide estuary towards Barra on the north bank. The unique hydrodynamics of the point, where ocean swells clash with outgoing river currents, create a nutrient-rich marine environment heavily favored by local line fishermen and a diverse array of seabirds. (Geography K7 — coastal cliffs and estuarine hydrodynamics)"
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [],
+      ro: ["Cel mai nordic punct vestic al continentului gambian (zona Bakau).", "Este locul geografic unde apele oceanului se amestecă cu estuarul fluviului Gambia.", "Valurile și curenții pot fi foarte puternici aici (condiții de înot provocatoare).", "O zonă excelentă pentru windsurfing datorită vânturilor de coastă consistente.", "La baza promontoriului pot fi văzute mici faleze stâncoase roșiatice de laterit.", "Vasele oceanice de marfă pot fi observate din apropiere cum intră pe canalul fluvial."],
+      en: ["Located at the extreme northern tip of the Bakau coastal district.", "Marks the precise geographical point where the Atlantic meets the river estuary.", "Characterized by rugged, striking red laterite cliffs dropping into the water.", "Offers expansive, elevated views across the massive estuary toward Barra.", "The clashing ocean and river currents create a turbulent, nutrient-rich marine zone.", "A highly popular spot for local line fishermen and estuarine birdwatching."]
+    }
+  },
   {
     id: "brufut-woods-nature-v2",
     type: "forest",
@@ -440,7 +634,20 @@ export const poiExtraGambiaNatureV2: POI[] = [
       hu: ["Vezetett madárlesek", "Sűrű száraz erdő"],
       ro: ["Tururi ghidate pentru păsări", "Pădure uscată densă"],
       en: ["Guided bird tours", "Dense dry forest"]
-    }, image: "/poi-images/brufut-woods-nature-v2.webp"},
+    }, image: "/poi-images/brufut-woods-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "",
+      ro: "Pădurea Brufut (Brufut Woods) este o mică dar vitală zonă de conservare forestieră condusă de comunitate, situată în regiunea Kombo North. Această pădure de savană deschisă este probabil cel mai faimos reper ecoturistic local pentru observatorii de păsări avansați, oferind șansa rară de a vedea specia Verreaux's Eagle-Owl (o bufniță uriașă) și misteriosul Long-tailed Nightjar. Spre deosebire de parcurile naționale protejate strict de guvern, Brufut Woods este rezultatul direct al asociațiilor locale (Brufut Bird Watchers Association) care au realizat valoarea economică și educativă a conservării pădurii. Ei au creat poteci și au interzis tăierea copacilor, demonstrând un succes masiv al conservării faunei în mijlocul unei zone peri-urbane expuse la speculă imobiliară intensă. [Științe K8 — conservarea condusă de comunitate și ornitologie]",
+      en: "Brufut Woods is a relatively small but absolutely critical community-protected forest located slightly inland from the Brufut coast. Unlike the government-run national parks, this woodland is fiercely protected by local environmental groups and birdwatching associations. It serves as a vital refuge for avian species that rely on dense Guinea savanna and woodland habitats, which are rapidly disappearing due to surrounding urban sprawl. The woods are particularly famous among international birders as one of the most reliable locations in West Africa to spot elusive species like the Verreaux's Eagle-Owl and the Long-tailed Nightjar, offering tranquil, shaded walking trails. (Science K7 — community conservation and woodland birds)"
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [],
+      ro: ["Un proiect forestier condus și protejat exclusiv de asociația locală din Brufut.", "Cunoscut internațional pentru habitarea bufniței lui Verreaux (Eagle-Owl).", "Refugiu pentru specii timide, într-o regiune care cunoaște o urbanizare severă.", "Locația nu este îngrădită, bazându-se pe respectul comunitar și ghidajul local.", "Include mici stații de apă artificiale create de ghizi pentru a atrage păsările timide.", "A devenit un model de afaceri sustenabil pentru ghizii de natură independenți."],
+      en: ["A highly significant community-protected woodland located slightly inland from Brufut.", "Fiercely guarded against urban encroachment by local environmental groups.", "Protects a vital, shrinking patch of authentic Guinea savanna and woodland habitat.", "Internationally renowned as a premier destination for specialized birdwatching.", "A highly reliable site for spotting rare species like the Verreaux's Eagle-Owl.", "Features tranquil, well-maintained shaded walking trails for eco-tourists."]
+    }
+  },
   {
     id: "pirang-forest-nature-v2",
     type: "forest",
@@ -463,6 +670,18 @@ export const poiExtraGambiaNatureV2: POI[] = [
       hu: ["Ritka fafajok", "Madarakban gazdag terület"],
       ro: ["Specii de arbori rare", "Zonă bogată în păsări"],
       en: ["Rare tree species", "Bird-rich area"]
+    },
+    descriptionAdvanced: {
+      de: "",
+      hu: "",
+      ro: "Pădurea Pirang (Pirang Forest Park) este un fragment extrem de valoros de pădure tropicală umedă de galerie, un ecosistem incredibil de rar în Senegambia modernă. Găzduită în regiunea Kombo East, această pădure a supraviețuit datorită izolației sale și a inițiativelor guvernamentale timpurii de a o proteja împotriva tăierii ilegale pentru lemne de foc. De îndată ce pășești în Pirang, umiditatea și temperatura se schimbă brusc; copacii seculari mahon, ficus și liane dense blochează soarele ecuatorial, amintind de junglele Africii Centrale. Este un loc legendar pentru observarea primatelor (colobusul roșu, babuinii) și a unor păsări de pădure extrem de greu de zărit (Green Turaco). Ca laborator ecologic, Pirang este neprețuit pentru cercetătorii care studiază ecosistemele forestiere primare ale Africii de Vest. [Științe K8 — pădurile de galerie și microclimate tropicale]",
+      en: "Pirang Forest, located in the Kombo East district, is a small but incredibly dense patch of mature gallery forest, a rare ecosystem in a region dominated by dry savanna and agriculture. This forest is characterized by towering indigenous trees forming a thick, dark canopy that retains moisture year-round. It is highly valued by ecologists and ornithologists as an isolated 'island' of biodiversity, hosting primate troops and rare forest-dwelling bird species like the Green Turaco. Historically utilized for sustainable traditional medicine and foraging, it now stands as a protected eco-tourism site, demonstrating the lush, ancient environment that once covered much of the river basin. (Science K6 — gallery forests and canopy ecosystems)"
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [],
+      ro: ["Arie protejată de aproximativ 64 de hectare în districtul Kombo East.", "Unul dintre ultimele fragmente de pădure de galerie (rainforest) primară din zonă.", "Are un microclimat propriu, considerabil mai răcoros și mai umed decât savana vecină.", "Adăpostește arbori seculari de esență tare (mahon, ficus) care nu au fost tăiați.", "Găzduiește colonii sănătoase de maimuțe colobus roșu (specie vulnerabilă).", "A fost apărată riguros împotriva dezvoltării rurale și a tăietorilor ilegali de lemne."],
+      en: ["A small, incredibly dense patch of mature gallery forest in the Kombo East district.", "Characterized by a towering, dark canopy that retains moisture year-round.", "Represents a rare, surviving example of the region's ancient woodland ecosystem.", "An isolated 'island' of biodiversity hosting primates and rare forest birds.", "Historically utilized by locals for sustainable foraging and traditional medicine.", "Now heavily protected as a specialized eco-tourism and ecological study site."]
     }
   },
   {
@@ -487,7 +706,20 @@ export const poiExtraGambiaNatureV2: POI[] = [
       hu: ["Határokon átnyúló", "Fontos ökoszisztéma"],
       ro: ["Transfrontalier", "Ecosistem important"],
       en: ["Transboundary park", "Important ecosystem"]
-    }, image: "/poi-images/niumi-national-park-nature-v2.webp"},
+    }, image: "/poi-images/niumi-national-park-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "",
+      ro: "Parcul Național Niumi, ocupând capătul nord-vestic al coastei atlantice a Gambiei și întinzându-se de-a lungul estuarului, este o biosferă de importanță internațională. Adiacent la Parcul Național Delta Saloum din Senegal, cu care împarte o graniță poroasă ecologic, Niumi oferă un spectru vast de habitate: insule de barieră (precum Jinack), mlaștini sărate uriașe, dune de nisip și păduri de mangrove dense. Acest mozaic natural acționează ca un amortizor climatic pentru regiunea continentală North Bank. Populațiile de faună includ zeci de mii de păsări limicole palearctice care iernează, delfini de estuar și familii evazive de lamantini vest-africani. Prin conectivitatea sa transfrontalieră, Niumi este un exemplu superb de coridor ecologic esențial pentru specii migratoare pe scara globului. [Geografie K8 — coridoare ecologice transfrontaliere și biosfere]",
+      en: "Niumi National Park occupies the extreme northwestern coastal corner of The Gambia, forming a contiguous cross-border ecological zone with Senegal's Delta du Saloum National Park. Covering roughly 5,000 hectares, the park is a complex mosaic of diverse ecosystems, including pristine Atlantic beaches, sprawling salt flats, dense mangrove creeks, and dry coastal scrubland. This immense environmental diversity makes it one of the most important Ramsar wetland sites in West Africa. It serves as a massive wintering ground for European migratory birds and a vital breeding sanctuary for endangered marine species like the Green Sea Turtle and the West African Manatee. (Science K8 — Ramsar wetlands and cross-border conservation)"
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [],
+      ro: ["Situat în extremitatea nord-vestică a Gambiei, se continuă ecologic în Senegal (Delta Saloum).", "Arie protejată recunoscută oficial în 1986, având aproape 5.000 de hectare.", "O componentă critică a complexului de biosfere Ramsar (protecția apelor umede).", "Habitatele sale variate includ uscatul dunelor și apele saline de mangrove.", "Loc de iernare pentru Sterna caspia și alte specii de rândunele de mare europene.", "Luptă constant cu fenomenul eroziunii coastei de nisip în partea atlantică."],
+      en: ["A massive 5,000-hectare national park in the extreme northwestern coastal region.", "Forms a contiguous, cross-border ecological reserve with neighboring Senegal.", "Features a diverse mosaic of Atlantic beaches, salt flats, and mangrove creeks.", "Designated as a globally significant Ramsar wetland site for migratory birds.", "A critical sanctuary for endangered Green Sea Turtles and West African Manatees.", "Provides a sprawling, highly protected wilderness far from major urban centers."]
+    }
+  },
   {
     id: "allahein-river-nature-v2",
     type: "river",
@@ -510,7 +742,20 @@ export const poiExtraGambiaNatureV2: POI[] = [
       hu: ["Határfolyó", "Madármegfigyelés lehetséges"],
       ro: ["Râu de frontieră", "Observarea păsărilor posibilă"],
       en: ["Border river", "Bird watching possible"]
-    }, image: "/poi-images/allahein-river-nature-v2.webp"},
+    }, image: "/poi-images/allahein-river-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "",
+      ro: "Râul Allahein este un curs de apă liniștit și ecologic esențial, servind drept graniță naturală sudică absolută între Gambia (orașul Kartong) și regiunea Casamance a Senegalului. De o frumusețe sălbatică uluitoare, estuarul său se varsă lent în Oceanul Atlantic, formând o rețea de mangrove labirintice și bancuri de nisip care devin vizibile la mareea joasă. Această graniță este mai degrabă un loc de uniune decât de separare; pescarii și femeile care culeg stridii din ambele națiuni lucrează aici în armonie zilnică, trecând cu pirogi simple dintr-o țară în alta. Este un paradis neșlefuit pentru iubitorii naturii, pelicanii și șoimii de pește dominând cerul. Atmosfera calmă a râului Allahein oferă un contrast imens cu estuarul principal al fluviului Gambia, marcat de trafic masiv și industrializare. [Geografie K7 — granițe hidrologice și ecosisteme transfrontaliere]",
+      en: "The Allahein River, also known as the San Pedro River, is a relatively short but highly significant waterway that forms the definitive southern border between The Gambia and the Casamance region of Senegal. The river meanders through dense, pristine mangrove forests before emptying into the Atlantic Ocean near the village of Kartong. The estuary is a dynamic, nutrient-rich environment, famous for its shifting sandbanks and vast oyster beds. It supports a thriving traditional economy; local women harvest oysters from the mangrove roots, while men operate small fishing pirogues. The river is a model of cross-border ecological harmony and sustainable, low-impact eco-tourism. (Geography K6 — border rivers and estuarine foraging)"
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [],
+      ro: ["Este un râu costier scurt, formând frontiera internațională sudică a Gambiei.", "Desparte satul gambian Kartong de teritoriile rurale ale regiunii senegaleze Casamance.", "Estuarul este o zonă tidală (influențată de maree) foarte bogată în crabi și stridii.", "Nu există poduri mari aici, traversarea se face exclusiv cu mici pirogi de lemn.", "Un mediu recunoscut internațional pentru pelicanii și vulturii pescari (Osprey).", "Apa are un grad mare de salinitate (salmastră), fiind invadată zilnic de apele oceanice."],
+      en: ["Forms the definitive southern border between The Gambia and Senegal (Casamance).", "A meandering waterway heavily lined with pristine, dense mangrove forests.", "Empties into the Atlantic Ocean near the eco-tourism hub of Kartong.", "The estuary features highly dynamic, shifting sandbars and nutrient-rich waters.", "Supports a massive traditional economy based on women harvesting mangrove oysters.", "A premier location for low-impact canoe safaris and cross-border birdwatching."]
+    }
+  },
   {
     id: "bintang-bolong-nature-v2",
     type: "river",
@@ -533,7 +778,20 @@ export const poiExtraGambiaNatureV2: POI[] = [
       hu: ["Nagy mellékfolyó", "Ideális csónaktúrákhoz"],
       ro: ["Afluent major", "Ideal pentru excursii cu barca"],
       en: ["Major tributary", "Ideal for boat trips"]
-    }, image: "/poi-images/bintang-bolong-nature-v2.webp"},
+    }, image: "/poi-images/bintang-bolong-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "",
+      ro: "Bintang Bolong este cel mai lung și mai lat afluent (tributar) de pe malul sudic al fluviului Gambia, o arteră acvatică care șerpuiește profund în regiunea West Coast, avându-și originile chiar dincolo de granița cu Senegalul. Lățimea sa, asemănătoare unui fluviu de sine stătător la vărsare, este flancată de niște pereți vegetali masivi, impenetrabili, de mangrove seculare. În epoca de aur a navigației, Bintang Bolong a fost o rută comercială esențială prin care se extrăgeau sarea și arahidele din interiorul regiunii Foni. Astăzi, de-a lungul cursurilor sale laterale, comunitățile locale, adesea izolate rutier, mențin stiluri de viață bazate exclusiv pe ecosistemul acvatic — pescuitul creveților și al somnului. De asemenea, afluentul atrage turismul durabil de aventură prin tabere ecologice care promovează observarea naturii neatinse cu barca. [Geografie K7 — rețele hidrografice tributare și ecosisteme de mangrove]",
+      en: "The Bintang Bolong is the largest and longest tributary (bolong) of the Gambia River, carving a massive, meandering path deep into the Foni districts on the south bank. Measuring over 130 kilometers, its lower reaches are heavily saline and flanked by towering, impenetrable mangrove forests, while its upper reaches stretch into freshwater agricultural plains. The bolong is an absolute lifeline for the rural interior, providing essential irrigation, a massive local fishery, and serving as a vital transport artery for remote villages. It is a stunning, sprawling ecosystem that remains largely untouched by mass tourism, fiercely protected by its sheer size and wild nature. (Geography K7 — river tributaries and mangrove ecology)"
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [],
+      ro: ["Cel mai mare tributar sudic al fluviului Gambia, situat în districtul Foni.", "Izvorăște din regiunea Casamance (Senegal) și curge aproximativ 130 km.", "Numele 'Bolong' din limba Mandinka înseamnă râu sau pârâu tidal (influențat de maree).", "Are o lățime de peste 500 de metri la punctul de confluență cu fluviul Gambia.", "Băncile sale sunt sufocate de un perete dens și continuu de mangrove masive.", "Faimos pentru Bintang Bolong Lodge, un pionier al ecoturismului ridicat pe piloni de lemn."],
+      en: ["The largest and longest tributary (bolong) feeding into the Gambia River.", "Stretches over 130 kilometers deep into the rural Foni districts on the south bank.", "The lower reaches are highly saline and flanked by massive mangrove forests.", "Provides an essential transport artery and fishery for dozens of remote villages.", "The upper reaches transition into critical freshwater agricultural irrigation zones.", "Remains a massive, wild ecosystem largely untouched by commercial tourism."]
+    }
+  },
   {
     id: "tanbi-wetland-nature-v2",
     type: "forest",
@@ -556,6 +814,18 @@ export const poiExtraGambiaNatureV2: POI[] = [
       hu: ["Banjul védelme", "Osztrigák élőhelye"],
       ro: ["Protecția orașului Banjul", "Habitat pentru stridii"],
       en: ["Protection of Banjul", "Habitat for oysters"]
+    },
+    descriptionAdvanced: {
+      de: "",
+      hu: "",
+      ro: "Complexul de Zone Umede Tanbi (Tanbi Wetland Complex) este „plămânul verde” uriaș, neoficial, al zonei metropolitane a Marelui Banjul. Ocupând peste 6.000 de hectare chiar la marginea sud-vestică a insulei St. Mary și a municipalității Kanifing, Tanbi acționează ca un burete natural enorm, care absoarbe inundațiile din timpul sezonului ploios și previne eroziunea coastei interioare, salvând astfel orașele adiacente (precum Ebo Town și Jeshwang) de la scufundare. Vizual, de sus, pare o mare vastă de frunziș verde brăzdat de canale argintii sinuoase. Este esențial pentru efortul de pescuit urban și faimoasa industrie a recoltării stridiilor. Protejarea Tanbi-ului împotriva defrișărilor și a gropilor de gunoi ilegale este o luptă ecologică cotidiană în fața unei populații urbane gambiene în expansiune masivă. [Științe K8 — servicii ecosistemice urbane și managementul zonelor umede]",
+      en: "The Tanbi Wetland Complex is a sprawling, 6,000-hectare maze of mangrove creeks, mudflats, and salt marshes that completely envelopes the southern and western flanks of the capital city, Banjul. Officially designated as a Ramsar site, this immense wetland acts as the vital 'lungs and kidneys' of the Greater Banjul Area. It naturally filters urban runoff, absorbs massive seasonal floodwaters, and protects the low-lying capital from catastrophic coastal erosion. Beyond its infrastructural importance, the Tanbi is a labyrinthine sanctuary for hundreds of bird species, monkeys, and an immense traditional oyster-harvesting industry relied upon by thousands of urban women. (Science K8 — urban wetlands and ecological infrastructure)"
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [],
+      ro: ["Sistem masiv de zone umede care limitează efectiv expansiunea urbană a Serekundei.", "Protejat ca un sit Ramsar internațional pentru valoarea sa aviară și hidrologică.", "Previne catastrofe majore atenuând inundațiile de coastă și de ploaie ale orașului.", "Aici își desfășoară activitatea asociația faimoasă TRY Oyster Women's Association.", "Formează o pădure masivă de mangrove (Rhizophora) în apă salmastră.", "Se luptă constant cu poluarea provenită din scurgerile nefiltrate ale industriei urbane."],
+      en: ["A massive 6,000-hectare mangrove and wetland complex surrounding the capital.", "Officially designated as a wetland of international importance (Ramsar site).", "Crucial for absorbing seasonal floodwaters and protecting Banjul from coastal erosion.", "Acts as a massive natural filter for urban runoff from the Serekunda metropolis.", "Supports a vast, traditional oyster-harvesting economy run predominantly by women.", "A labyrinthine sanctuary for biodiversity located literally adjacent to urban sprawl."]
     }
   },
   {
@@ -580,6 +850,18 @@ export const poiExtraGambiaNatureV2: POI[] = [
       hu: ["Aktív halpiac", "Hosszú homokos part"],
       ro: ["Piață de pește activă", "Coastă lungă cu nisip"],
       en: ["Active fish market", "Long sandy coast"]
+    },
+    descriptionAdvanced: {
+      de: "",
+      hu: "",
+      ro: "Dincolo de aspectul său puternic industrializat marcat de pescuit și fabricile de făină de pește, segmentele neatinse ale plajei Gunjur rămân unele dintre cele mai vitale coridoare naturale ale sudului. Nisipurile de aici ascund cuiburile țestoaselor marine verzi, care se bazează pe absența hotelurilor masive iluminate artificial (care pot dezorienta puii la eclozare). Plaja lungă și neîmblânzită, sprijinită de dune acoperite de ierburi târâtoare, formează un ecosistem frontalier esențial. Aerul sărat, puternic, al oceanului și curenții denși care bat acest capăt de coastă l-au transformat de asemenea într-un habitat vizitat frecvent de specii de delfini de coastă. Eforturile de a menține această plajă echilibrată între utilizarea economică agresivă (pescuit angro) și conservarea speciilor vulnerabile reprezintă o temă majoră în discursul de mediu al țării. [Științe K8 — conservarea habitatelor de cuibărire litorale]",
+      en: "Gunjur Beach is a striking, expansive stretch of the southern Atlantic coastline, known for its raw, powerful beauty and deep community connection. Unlike the manicured tourist beaches, Gunjur is heavily utilized by the local population. The northern end is anchored by a massive, chaotic traditional fishing port, while the southern stretches transition into quiet, pristine sands backed by coastal scrub and dunes. The beach is a focal point for intense local conservation efforts, particularly focused on protecting the nesting sites of marine turtles from both poachers and the creeping threat of unregulated sand mining. (Geography K6 — community beaches and coastal conservation)"
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [],
+      ro: ["Un litoral foarte activ, divizat între industria piscicolă brutală și conservarea naturii.", "Este cel mai activ focar de protecție a țestoaselor marine din Gambia (Gunjur Turtle Project).", "Nu are iluminare hotelieră masivă, ceea ce previne dezorientarea puilor de țestoasă.", "Părțile sale mai liniștite ascund mici tabere ecologice și retrageri (eco-retreats).", "Curenții atlantici puternici aduc frecvent bancuri mari de pești și, implicit, delfini.", "Acoperită de o floră dunară rară, excelentă în prevenirea furtunilor de nisip."],
+      en: ["A raw, expansive stretch of the southern Atlantic coastline in the Kombo region.", "Heavily utilized by the local community rather than international tourists.", "Features a massive, chaotic traditional fishing port at its northern end.", "The southern stretches transition into quiet, pristine dunes and coastal scrub.", "A major focal point for grassroots marine turtle conservation and beach patrols.", "Highlights the tension between local industries, conservation, and natural beauty."]
     }
   },
   {
@@ -604,6 +886,18 @@ export const poiExtraGambiaNatureV2: POI[] = [
       hu: ["Lakatlan", "Sok érintetlen természet"],
       ro: ["Nelocuită", "Multă natură virgină"],
       en: ["Uninhabited", "Much untouched nature"]
+    },
+    descriptionAdvanced: {
+      de: "",
+      hu: "",
+      ro: "Insula Elefanților, situată pe fluviul Gambia adânc în interiorul teritoriului (Central River), poartă un nume care astăzi este mai mult un ecou fantomatic al trecutului pre-colonial bogat al țării. Cândva, aceste insule inundabile au fost patria marilor turme de elefanți de savană, animale care au fost complet eradicate din Gambia de către vânătorii europeni (pentru fildeș) și de expansiunea agricolă de la începutul secolului al XX-lea. Astăzi, insula este o sălbăticie izolată, acoperită de pădure de galerie pe maluri și savană mlăștinoasă în interior, adesea inundată complet în sezonul ploios. Fără elefanți, mediul este dominat de hipopotami rezidenți, crocodili masivi de Nil și este considerat un sit ideal pentru observarea antilopelor de apă (Sitatunga). Peisajul său nealterat amintește de un ecosistem pierdut. [Științe K8 — extincția speciilor majore și habitate fluviale]",
+      en: "Elephant Island is a massive, uninhabited, and intensely wild landmass located in the middle of the Gambia River, approximately 150 kilometers upstream from the Atlantic. The island marks a critical ecological transition zone where the river shifts from saline estuarine conditions to entirely freshwater. It is entirely covered in dense, impenetrable mangrove swamps and flooded gallery forests. Although elephants have been extinct in The Gambia for over a century, the island remains a formidable sanctuary for large crocodiles, hippopotamuses, and countless aquatic birds. Its sheer density and lack of dry land make it entirely inaccessible by foot, preserving its primeval state. (Geography K7 — riverine transition zones and uninhabited islands)"
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [],
+      ro: ["O insulă fluvială nelocuită situată amonte, în regiunea Central River.", "Denumirea provine de la turmele de elefanți care locuiau aici înainte de anii 1900.", "Elefanții au dispărut complet din teritoriul Gambiei din cauza vânătorii masive (fildeș).", "Azi este un habitat perfect pentru hipopotami (hippopotamus amphibius).", "Relieful său este foarte plat, insula fiind susceptibilă la inundații majore.", "Populațiile de antilope rare (Sitatunga) se ascund în papurișurile insulei."],
+      en: ["A massive, completely uninhabited wild island located 150km up the Gambia River.", "Marks the critical ecological transition zone from saline to freshwater.", "Covered entirely by dense, impenetrable mangrove swamps and flooded forests.", "Despite its name, elephants have been extinct in the region for over a century.", "A formidable, highly protected sanctuary for hippos, crocodiles, and waterbirds.", "Entirely inaccessible by foot, ensuring the preservation of its primeval ecosystem."]
     }
   }
 ];

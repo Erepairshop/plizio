@@ -15,10 +15,7 @@ export const poiExtraPeruLandmarksV2: POI[] = [
       en: "The famous Inca citadel high in the Andes, a UNESCO World Heritage site and a wonder of the world."
     },
     descriptionAdvanced: {
-      de: "",
-      hu: "",
-      ro: "",
-      en: "Machu Picchu is the crown jewel of the Inca Empire and one of the most iconic archaeological sites on the planet. Built in the 15th century and abandoned shortly after the Spanish conquest, it remained hidden from the outside world until its rediscovery in 1911. Perched high on a mountain ridge above the Urubamba Valley, the site showcases the Incas' incredible mastery of stone masonry and astronomical alignment. Its dramatic setting between two peaks, Machu Picchu and Huayna Picchu, creates an ethereal atmosphere that captivates every visitor. Today, it stands as a UNESCO World Heritage site and one of the New Seven Wonders of the World."
+      en: "Machu Picchu, the 'Lost City of the Incas', is a breathtaking archaeological masterpiece perched on a mountain ridge high above the Urubamba Valley. Built in the 15th century under the reign of the Emperor Pachacuti, this granite citadel showcases the absolute peak of Inca stonemasonry, with temples, plazas, and terraces fitted together with incredible precision without the use of mortar. Abandoned shortly after the Spanish conquest and hidden from the outside world by dense jungle for centuries, it was dramatically brought to global attention by Hiram Bingham in 1911. The site is divided into distinct agricultural and urban sectors, featuring sacred monuments like the Intihuatana stone and the Temple of the Sun. As a UNESCO World Heritage site and one of the New Seven Wonders of the World, it remains the ultimate symbol of the Inca Empire's genius and spiritual connection to the mountains. History K6 — The peak of Inca civilization."
     },
     facts: {
       de: ["Wurde 1911 von Hiram Bingham wiederentdeckt.", "Liegt auf 2.430 Metern Höhe.", "Wurde im 15. Jahrhundert erbaut."],
@@ -27,17 +24,10 @@ export const poiExtraPeruLandmarksV2: POI[] = [
       en: ["Rediscovered by Hiram Bingham in 1911.", "Located at an altitude of 2,430 meters.", "Built in the 15th century."]
     },
     factsAdvanced: {
-      de: [],
-      hu: [],
-      ro: [],
-      en: [
-        "Built around 1450 AD during the height of the Inca Empire.",
-        "Rediscovered by American historian Hiram Bingham in 1911.",
-        "Constructed using the 'ashlar' technique—stones cut to fit together without mortar.",
-        "Located at an elevation of 2,430 meters (7,970 feet).",
-        "Voted as one of the New Seven Wonders of the World in 2007."
-      ]
-    }, image: "/poi-images/machu-picchu-landmarks-v2.webp"},
+      en: ["Built around 1450 AD at an altitude of 2,430 meters (7,970 feet).", "Rediscovered by American historian Hiram Bingham on July 24, 1911.", "Constructed using the 'ashlar' technique—stones cut to fit together perfectly without mortar.", "Voted as one of the New Seven Wonders of the World in a global poll in 2007.", "The name 'Machu Picchu' means 'Old Mountain' in the Quechua language.", "The Intihuatana stone was a ritual tool used as an astronomical clock or calendar.", "A UNESCO World Heritage site since 1983, protecting both the ruins and the surrounding forest.", "Most of the city's construction is actually underground, consisting of deep foundations and drainage systems."]
+    },
+    image: "/poi-images/machu-picchu-landmarks-v2.webp"
+  },
   {
     id: "sacsayhuaman-landmarks-v2",
     type: "landmark",
@@ -51,10 +41,7 @@ export const poiExtraPeruLandmarksV2: POI[] = [
       en: "A massive Inca fortress near Cusco, known for its massive, seamlessly fitted stone blocks."
     },
     descriptionAdvanced: {
-      de: "",
-      hu: "",
-      ro: "",
-      en: "Sacsayhuamán is a monumental Inca fortress and ceremonial center located on a steep hill overlooking the city of Cusco. It is world-renowned for its massive walls built from gigantic limestone blocks, some weighing over 100 tons, fitted together with baffling precision. The site's zigzagging terraces are said to represent the teeth of a puma, reflecting the puma-shaped layout of ancient Cusco. Beyond its military significance, it was a vital spiritual center for the Inca elite. Today, it remains a site of immense cultural pride and is the main stage for the annual Inti Raymi (Festival of the Sun) celebrations. Its sheer scale and engineering remain one of the greatest mysteries of pre-Columbian architecture."
+      en: "Sacsayhuamán is a monumental fortress and ceremonial center located on a steep hill overlooking the city of Cusco, standing as a testament to the Incas' incredible engineering prowess. It is world-renowned for its massive zigzagging walls, built from gigantic limestone blocks, the largest of which weighs over 120 tons. These stones are fitted together so tightly that not even a blade of grass can pass between them. The site's unique layout is said to represent the teeth of a puma, reflecting the puma-shaped design of ancient Cusco. Sacsayhuamán was the scene of one of the bloodiest battles of the Spanish conquest and remains a place of immense cultural pride. Every year on June 24th, it serves as the main stage for the Inti Raymi (Festival of the Sun), where thousands gather to celebrate the winter solstice and the Inca heritage. History K6 — Monumental Inca architecture."
     },
     facts: {
       de: ["Einige Steinblöcke wiegen über 100 Tonnen.", "Ort des jährlichen Inti Raymi Festivals.", "Teil des UNESCO-Welterbes Cusco."],
@@ -63,17 +50,10 @@ export const poiExtraPeruLandmarksV2: POI[] = [
       en: ["Some stone blocks weigh over 100 tons.", "Site of the annual Inti Raymi festival.", "Part of the UNESCO World Heritage site of Cusco."]
     },
     factsAdvanced: {
-      de: [],
-      hu: [],
-      ro: [],
-      en: [
-        "Features stones weighing up to 125 tons that fit together without mortar.",
-        "Was the site of a bloody battle between the Inca and Spanish in 1536.",
-        "Originally served as a royal house of the Sun and a military stronghold.",
-        "Constructed over a period of 70 to 80 years starting in the 15th century.",
-        "Offers one of the best panoramic views of the city of Cusco."
-      ]
-    }, image: "/poi-images/sacsayhuaman-landmarks-v2.webp"},
+      en: ["The largest stone at the site is 8.5 meters high and weighs approximately 128 tons.", "Its zigzagging walls extend over three levels and were once much higher.", "Originally served as both a military stronghold and a sacred house of the Sun.", "Construction began in the 15th century and required the labor of 20,000 men over 50 years.", "Offers the best panoramic view of the city of Cusco and the surrounding mountains.", "The site features a series of carved rock formations known as the 'Inca's Throne'.", "Many of its smaller stones were used by the Spanish to build colonial churches in Cusco.", "Includes the 'Suchuna' or slides, natural rock formations that have been polished by centuries of use."]
+    },
+    image: "/poi-images/sacsayhuaman-landmarks-v2.webp"
+  },
   {
     id: "coricancha-landmarks-v2",
     type: "landmark",
@@ -87,10 +67,7 @@ export const poiExtraPeruLandmarksV2: POI[] = [
       en: "The most important sun temple of the Inca Empire in Cusco, upon whose ruins the Spanish built the Church of Santo Domingo."
     },
     descriptionAdvanced: {
-      de: "",
-      hu: "",
-      ro: "",
-      en: "Coricancha, or the 'Golden Enclosure,' was the most important temple in the entire Inca Empire, dedicated primarily to Inti, the Sun God. Located in the heart of Cusco, its walls were once famously covered in solid gold plates, and its courtyards were filled with life-sized golden statues of llamas and corn. After the Spanish conquest, much of the temple was demolished, and the Convent of Santo Domingo was built directly on its masterful foundations. Today, visitors can see the striking contrast between the perfectly polished Inca stonework and the Spanish colonial architecture. This site represents the collision of two worlds and remains a powerful symbol of Cusco's dual heritage."
+      en: "Coricancha, meaning 'Golden Enclosure' in Quechua, was the most sacred and important temple in the entire Inca Empire, dedicated primarily to Inti, the Sun God. Located in the heart of Cusco, its walls were once covered in solid gold plates, and its gardens were filled with life-sized gold statues of llamas, corn, and people. The craftsmanship of the remaining Inca walls is considered the finest in the world, with stones polished and fitted with such precision they resemble a single piece of rock. After the Spanish conquest, the Church of Santo Domingo was built directly on top of the temple, creating a striking and symbolic architectural layering. Today, visitors can see the perfectly preserved Inca chambers beneath the colonial arches, a powerful reminder of the collision between two worlds. History K6 — Inca religion and the Coricancha."
     },
     facts: {
       de: ["Die Wände waren einst mit massivem Gold bedeckt.", "Ein Meisterwerk der Inka-Steinmetzkunst.", "Kombiniert Inka- und Kolonialarchitektur."],
@@ -99,17 +76,10 @@ export const poiExtraPeruLandmarksV2: POI[] = [
       en: ["The walls were once covered in solid gold.", "A masterpiece of Inca stonemasonry.", "Combines Inca and colonial architecture."]
     },
     factsAdvanced: {
-      de: [],
-      hu: [],
-      ro: [],
-      en: [
-        "Originally housed the 'Punchao,' a massive golden disc representing the sun.",
-        "Inca stonework here is considered some of the finest ever created.",
-        "Survived multiple major earthquakes that destroyed the colonial buildings above it.",
-        "Was the center of the 'Ceques' system, a network of sacred paths throughout the empire.",
-        "Its gardens once featured gold and silver replicas of the entire Inca world."
-      ]
-    }, image: "/poi-images/coricancha-landmarks-v2.webp"},
+      en: ["Originally named Intikancha or Intiwasi, the House of the Sun.", "The interior walls were reportedly lined with 700 solid gold plates, each weighing 2 kilograms.", "A massive gold disc, representing the Sun, was positioned to reflect sunlight into the temple.", "The temple served as the observatory for Inca astronomers to track solstices and equinoxes.", "Was the starting point for the 'ceque' system, a network of 41 sacred lines across the empire.", "Most of the gold was stripped by the Spanish to pay the ransom for the Emperor Atahualpa.", "Inca walls here survived major earthquakes in 1650, 1950, and 1986 that damaged the church above.", "The complex included smaller temples dedicated to the Moon, Stars, Rainbow, and Thunder."]
+    },
+    image: "/poi-images/coricancha-landmarks-v2.webp"
+  },
   {
     id: "ollantaytambo-landmarks-v2",
     type: "landmark",
@@ -123,10 +93,7 @@ export const poiExtraPeruLandmarksV2: POI[] = [
       en: "One of the best-preserved Inca towns with an impressive fortress, located in the Sacred Valley."
     },
     descriptionAdvanced: {
-      de: "",
-      hu: "",
-      ro: "",
-      en: "Ollantaytambo is a living Inca town nestled in the Sacred Valley, serving as both a formidable fortress and a highly sophisticated agricultural center. It is one of the few places where people still reside in buildings that retain their original Inca layout and stonework. The massive stone terraces climbing the hillside were the site of a rare Inca victory over the Spanish conquistadors. At the top of the fortress lies the unfinished Temple of the Sun, featuring six enormous monoliths of pink rhyolite. The town's narrow cobblestone streets and ancient water channels create a unique atmosphere of stepping back in time. It remains the primary gateway for travelers heading toward Machu Picchu by train."
+      en: "Ollantaytambo is a living Inca town and a magnificent archaeological site located at the western end of the Sacred Valley. It was a strategic fortress, a religious center, and a royal estate of the Emperor Pachacuti, who built its massive terraces and temples. The site is famous for the Temple of the Sun, featuring six colossal blocks of pink rhyolite, each weighing over 50 tons, which were transported from a quarry miles away across the Urubamba River. Ollantaytambo was the site of a major Inca victory against the Spanish in 1537, where Manco Inca used the terraces to flood the plain below. The modern town below the ruins is the only one in Peru that still follows the original Inca grid, with narrow stone streets and running water channels that have functioned for over 500 years. History K6 — Inca engineering and the resistance."
     },
     facts: {
       de: ["Ort eines wichtigen Sieges der Inkas über die Spanier.", "Wichtiger Ausgangspunkt für den Inka-Trail.", "Besitzt präzise gehauene Terrassen."],
@@ -135,17 +102,10 @@ export const poiExtraPeruLandmarksV2: POI[] = [
       en: ["Site of an important Inca victory over the Spanish.", "Important starting point for the Inca Trail.", "Features precisely carved terraces."]
     },
     factsAdvanced: {
-      de: [],
-      hu: [],
-      ro: [],
-      en: [
-        "One of the best-preserved examples of Inca urban planning.",
-        "Site of the Battle of Ollantaytambo in 1537, a major Inca victory.",
-        "The Temple of the Sun's monoliths weigh over 50 tons each.",
-        "Features the 'Princess's Bath' (Baño de la Ñusta), an intricate ritual fountain.",
-        "The mountain across the valley features the face of 'Viracocha' carved by nature and time."
-      ]
-    }, image: "/poi-images/ollantaytambo-landmarks-v2.webp"},
+      en: ["Known as the 'Living Inca Town' because its layout and houses date back to the 15th century.", "The Temple of the Sun features the 'Wall of the Six Monoliths', made of massive pink granite blocks.", "The stones were quarried at Cachiccata, 6 kilometers away on the opposite side of the valley.", "The site served as a temporary capital for Manco Inca during his rebellion against the Spanish.", "Features a 'Princess Bath' (Baño de la Ñusta), a beautifully carved ritual fountain.", "The mountain opposite the ruins, Pinkuylluna, features ancient Inca storehouses called qollcas.", "Visible on the mountain is a natural formation that resembles the face of an Inca (or the god Wiracocha).", "A primary departure point for the train to Machu Picchu."]
+    },
+    image: "/poi-images/ollantaytambo-landmarks-v2.webp"
+  },
   {
     id: "chan-chan-landmarks-v2",
     type: "landmark",
@@ -159,10 +119,7 @@ export const poiExtraPeruLandmarksV2: POI[] = [
       en: "The largest pre-Columbian city in South America and the former capital of the Chimú Empire, built entirely of mud bricks."
     },
     descriptionAdvanced: {
-      de: "",
-      hu: "",
-      ro: "",
-      en: "Chan Chan is the largest adobe city in the world and was once the flourishing capital of the Chimú Empire before its conquest by the Incas. Located on the northern coast near Trujillo, this sprawling desert metropolis covers over 20 square kilometers and is composed of ten walled citadels. The walls are intricately decorated with bas-relief carvings of sea birds, fish, and geometric patterns, reflecting the Chimú people's deep connection to the ocean. At its peak, it housed thousands of artisans, priests, and nobility in a complex network of plazas, temples, and reservoirs. Today, as a UNESCO World Heritage site, it offers a hauntingly beautiful glimpse into the grandeur of a lost coastal civilization. Its fragile mud-brick structures continue to be protected as a vital part of Peru's pre-Columbian history."
+      en: "Chan Chan, located on the desert coast near Trujillo, is the largest adobe city in the world and the former capital of the powerful Chimú Empire. This sprawling archaeological complex covers 20 square kilometers and was once home to over 30,000 people. The city is a masterpiece of desert architecture, consisting of nine massive walled citadels, or ciudadelas, each serving as the palace and burial site for a Chimú king. The walls are decorated with intricate mud-relief carvings of sea birds, fish, and geometric patterns, reflecting the importance of the ocean to the Chimú people. Despite the threats of erosion and El Niño weather patterns, Chan Chan remains a majestic symbol of pre-Inca coastal civilization and is recognized as a UNESCO World Heritage site. History K6 — The Chimú Empire and the desert city."
     },
     facts: {
       de: ["Wurde um 850 nach Christus gegründet.", "Fläche von etwa 20 Quadratkilometern.", "Seit 1986 UNESCO-Weltkulturerbe."],
@@ -171,17 +128,10 @@ export const poiExtraPeruLandmarksV2: POI[] = [
       en: ["Founded around 850 AD.", "Covers an area of about 20 square kilometers.", "UNESCO World Heritage site since 1986."]
     },
     factsAdvanced: {
-      de: [],
-      hu: [],
-      ro: [],
-      en: [
-        "The largest pre-Columbian city in South America.",
-        "Constructed entirely of sun-dried mud bricks (adobe).",
-        "The Nik An citadel is the most well-preserved and visited part of the complex.",
-        "Designated a UNESCO World Heritage site in 1986.",
-        "Fell to the Inca Empire around 1470 AD."
-      ]
-    }, image: "/poi-images/chan-chan-landmarks-v2.webp"},
+      en: ["The largest adobe city in the pre-Columbian Americas and a UNESCO World Heritage site since 1986.", "Capital of the Chimor Kingdom, which flourished from 900 AD until the Inca conquest in 1470.", "Constructed entirely from sun-dried mud bricks (adobe) and decorated with clay reliefs.", "The Nik An (formerly Tschudi) citadel is the only one open to the public.", "Features a sophisticated irrigation system that allowed agriculture in the arid desert.", "Each citadel included a large walk-in well (huachaque) to reach the groundwater.", "Chimú artisans were famous for their exceptional gold and silver work, much of which was later taken by the Incas.", "Currently on the UNESCO List of World Heritage in Danger due to its fragile material and weather threats."]
+    },
+    image: "/poi-images/chan-chan-landmarks-v2.webp"
+  },
   {
     id: "kuelap-landmarks-v2",
     type: "landmark",
@@ -195,10 +145,7 @@ export const poiExtraPeruLandmarksV2: POI[] = [
       en: "A massive fortress of the Chachapoya culture high in the Andes, often called the 'Machu Picchu of the North'."
     },
     descriptionAdvanced: {
-      de: "",
-      hu: "",
-      ro: "",
-      en: "Kuélap is a massive walled city of the Chachapoya culture, often referred to as the 'Warriors of the Clouds.' Perched on a limestone ridge high above the Utcubamba Valley in northern Peru, it is frequently compared to Machu Picchu for its spectacular setting and historical importance. The site is surrounded by colossal walls reaching up to 20 meters in height, protecting over 400 circular stone dwellings decorated with zig-zag and rhomboid patterns. Its location in the cloud forest gives it a mysterious, overgrown atmosphere that is quite different from the Inca sites of the south. Recent improvements in access, including a modern cable car system, have made this once-isolated fortress much easier for modern explorers to reach. Kuélap remains a powerful testament to the independent spirit and engineering skill of the Chachapoya people."
+      en: "Kuélap, the 'Machu Picchu of the North', is a colossal walled city built by the Chachapoyas people, the 'Warriors of the Clouds'. Perched on a limestone ridge at 3,000 meters above sea level, its most striking feature is its massive exterior walls, which reach heights of 20 meters and enclose over 400 circular stone houses. Built between the 6th and 16th centuries, the fortress is far older and larger in volume than Machu Picchu. The houses are decorated with geometric friezes and were once topped with conical thatched roofs, creating a unique and mystical atmosphere in the high-altitude cloud forest. Accessible by a modern cable car, Kuélap remains one of Peru's most spectacular yet less-visited archaeological wonders, offering a glimpse into a powerful civilization that resisted both the Incas and the Spanish. History K8 — The Chachapoyas culture and the cloud forest."
     },
     facts: {
       de: ["Erbaut im 6. Jahrhundert.", "Von einer bis zu 20 Meter hohen Mauer umgeben.", "Heute durch eine Seilbahn erreichbar."],
@@ -207,17 +154,10 @@ export const poiExtraPeruLandmarksV2: POI[] = [
       en: ["Built in the 6th century.", "Surrounded by a wall up to 20 meters high.", "Today accessible by a cable car."]
     },
     factsAdvanced: {
-      de: [],
-      hu: [],
-      ro: [],
-      en: [
-        "Built between the 6th and 16th centuries AD.",
-        "The massive outer walls contain more stone than the Great Pyramid of Giza.",
-        "Circular houses are a unique characteristic of Chachapoya architecture.",
-        "Located at an altitude of 3,000 meters in the Amazonian Andes.",
-        "Accessed by Peru's first and most modern cable car system."
-      ]
-    }, image: "/poi-images/kuelap-landmarks-v2.webp"},
+      en: ["Located in the Amazonas region of northern Peru, overlooking the Utcubamba Valley.", "Built by the Chachapoyas culture, which flourished between 800 AD and 1470 AD.", "The fortress contains more than three times the volume of stone used in the Great Pyramid of Giza.", "The entrance is a narrow, upward-sloping alleyway designed for defense.", "Includes the 'El Tintero' structure, an inverted cone-shaped building used for ritual purposes.", "Most of the 400 structures are circular, a hallmark of Chachapoyas architecture.", "Surrounded by lush vegetation, including orchids and bromeliads.", "Declared a Cultural Heritage of the Nation in 2003."]
+    },
+    image: "/poi-images/kuelap-landmarks-v2.webp"
+  },
   {
     id: "huaca-rajada-landmarks-v2",
     type: "landmark",
@@ -231,10 +171,7 @@ export const poiExtraPeruLandmarksV2: POI[] = [
       en: "The archaeological site in northern Peru where the famous tombs of the Lord of Sipán were discovered."
     },
     descriptionAdvanced: {
-      de: "",
-      hu: "",
-      ro: "",
-      en: "Huaca Rajada is an archaeological site near Chiclayo that achieved world fame in 1987 with the discovery of the Lord of Sipán's tomb. This site was a major ceremonial center of the Moche culture and consists of several adobe pyramids. The discovery was revolutionary because the main tomb was found completely intact, filled with extraordinary treasures of gold, silver, and turquoise. It provided unprecedented insights into the Moche's complex social hierarchy and their unparalleled skill in metallurgy. Today, visitors can explore the excavated platforms and see replicas of the tombs as they were found. The site is a cornerstone of northern Peru's 'Moche Route' and continues to be a focus for archaeological research."
+      en: "Huaca Rajada is one of the most significant archaeological sites in South America, where the world-famous 'Lord of Sipán' was discovered in 1987. Located in the Lambayeque valley, it consists of two massive adobe pyramids and a lower funeral platform belonging to the Moche culture. The discovery of the Lord of Sipán's tomb, which was found completely intact and filled with extraordinary gold, silver, and turquoise treasures, provided unprecedented insight into Moche royalty and religious life. Often described as the 'Tutankhamun of the Americas', the find revolutionized our understanding of pre-Inca metallurgy and social organization. Today, visitors can see the original excavation site and its impressive reconstructions, while the exquisite artifacts are housed in the nearby Royal Tombs of Sipán Museum. History K8 — Moche royalty and the Lord of Sipán."
     },
     facts: {
       de: ["Entdeckt im Jahr 1987 von Walter Alva.", "Gehört zur Moche-Kultur.", "Eine der wichtigsten archäologischen Entdeckungen Südamerikas."],
@@ -243,17 +180,10 @@ export const poiExtraPeruLandmarksV2: POI[] = [
       en: ["Discovered in 1987 by Walter Alva.", "Belongs to the Moche culture.", "One of the most important archaeological discoveries in South America."]
     },
     factsAdvanced: {
-      de: [],
-      hu: [],
-      ro: [],
-      en: [
-        "Site of the richest tomb discovery in the Americas.",
-        "The Lord of Sipán was found buried with eight other people and a dog.",
-        "Dates back to approximately 300 AD.",
-        "Helped establish the Royal Tombs of Sipán Museum in nearby Lambayeque.",
-        "The pyramids were constructed using millions of handmade adobe bricks."
-      ]
-    }, image: "/poi-images/huaca-rajada-landmarks-v2.webp"},
+      en: ["The site where the first intact tomb of a high-ranking Moche ruler was found.", "Excavated by the Peruvian archaeologist Walter Alva starting in 1987.", "The Lord of Sipán was buried with eight other people, including his wife and guards.", "The tomb contained hundreds of pieces of exquisite gold, silver, and copper jewelry.", "The discovery proved that the Moche were among the world's finest ancient goldsmiths.", "Located roughly 35 kilometers east of the city of Chiclayo.", "Consists of two weathered adobe pyramids that reach over 30 meters in height.", "A key site on the 'Moche Route' (Ruta Moche) of northern Peru."]
+    },
+    image: "/poi-images/huaca-rajada-landmarks-v2.webp"
+  },
   {
     id: "huacas-moche-landmarks-v2",
     type: "landmark",
@@ -267,10 +197,7 @@ export const poiExtraPeruLandmarksV2: POI[] = [
       en: "Two massive pyramids of the Moche culture near Trujillo, known for their colorful murals and reliefs."
     },
     descriptionAdvanced: {
-      de: "",
-      hu: "",
-      ro: "",
-      en: "The Huaca del Sol and Huaca de la Luna are two massive adobe pyramids that served as the religious and political heart of the Moche civilization near Trujillo. Huaca del Sol was once the largest man-made structure in the Americas, although much of it was destroyed during the colonial period by treasure hunters. Huaca de la Luna, however, has yielded incredible discoveries, including exceptionally well-preserved polychrome murals depicting Moche deities and sacrificial rituals. The site offers a fascinating look into the spiritual world of the Moche, where vibrant colors and complex iconography tell stories of life, death, and the supernatural. Walking through the excavated plazas of Huaca de la Luna feels like entering a lost world of ancient Peruvian mythology."
+      en: "The Huacas of Moche, located just south of Trujillo, were the religious and political center of the powerful Moche culture between 100 and 700 AD. The complex is dominated by two colossal adobe structures: the Huaca del Sol, which was the largest administrative building in the pre-Columbian Americas, and the Huaca de la Luna, a beautifully preserved ceremonial temple. While much of the Huaca del Sol was destroyed by colonial treasure hunters, the Huaca de la Luna remains a wonder of ancient art, featuring vibrant mud-relief murals of the 'Aia Paec' or Decapitator god, warriors, and spiders. These murals, still glowing with their original red, yellow, and blue pigments, offer a vivid and sometimes chilling window into the rituals and beliefs of this sophisticated coastal civilization. History K6 — Moche culture and ceremonial architecture."
     },
     facts: {
       de: ["Die Huaca del Sol ist die größte Lehmziegelpyramide Amerikas.", "Entstanden zwischen 100 und 800 nach Christus.", "Zentrum der Moche-Kultur."],
@@ -279,17 +206,10 @@ export const poiExtraPeruLandmarksV2: POI[] = [
       en: ["Huaca del Sol is the largest adobe pyramid in the Americas.", "Built between 100 and 800 AD.", "Center of the Moche culture."]
     },
     factsAdvanced: {
-      de: [],
-      hu: [],
-      ro: [],
-      en: [
-        "Huaca del Sol was built with over 130 million adobe bricks.",
-        "Huaca de la Luna features five levels of spectacular, original colored murals.",
-        "The site served as the Moche capital between 100 and 700 AD.",
-        "Located at the foot of the sacred Cerro Blanco mountain.",
-        "Displays the 'Ai Apaec' or Decapitator God in many of its reliefs."
-      ]
-    }, image: "/poi-images/huacas-moche-landmarks-v2.webp"},
+      en: ["Huaca del Sol was once the largest adobe structure in the Americas, built with an estimated 140 million bricks.", "Huaca de la Luna was a sacred temple where human sacrifices were performed to appease the gods.", "The murals in Huaca de la Luna have retained their original colors for over 1,500 years.", "Each adobe brick used in the construction bears a 'mark' from the community that donated it.", "Aia Paec, the main Moche deity, is frequently depicted with fangs and feline features.", "The site is located at the foot of the sacred mountain, Cerro Blanco.", "Includes a modern museum, the Museo Huacas de Moche, displaying fine Moche ceramics.", "The Huaca del Sol was partially washed away by the Spanish who diverted the Moche River to find gold."]
+    },
+    image: "/poi-images/huacas-moche-landmarks-v2.webp"
+  },
   {
     id: "nazca-linien-landmarks-v2",
     type: "landmark",
@@ -303,10 +223,7 @@ export const poiExtraPeruLandmarksV2: POI[] = [
       en: "Huge geoglyphs in the desert of Peru depicting geometric figures and animals, best seen from the air."
     },
     descriptionAdvanced: {
-      de: "",
-      hu: "",
-      ro: "",
-      en: "The Nazca Lines are one of the world's greatest archaeological mysteries, consisting of hundreds of enormous geoglyphs etched into the arid desert floor of southern Peru. These ancient figures, which include a monkey, a spider, a hummingbird, and various geometric shapes, are so large they can only be fully appreciated from the air. Created by the Nazca culture between 500 BC and 500 AD, they were made by removing the dark surface pebbles to reveal the lighter sand beneath. Their purpose remains a subject of intense debate, with theories ranging from astronomical calendars to water-related rituals. The extreme dryness and lack of wind in the Nazca Desert have preserved these fragile lines for nearly two millennia. Today, flying over these enigmatic symbols is a bucket-list experience for travelers from around the globe."
+      en: "The Nazca Lines are one of the world's greatest archaeological enigmas, consisting of hundreds of giant geoglyphs etched into the arid desert floor of southern Peru. Created by the Nazca culture between 500 BC and 500 AD, these massive figures include animals like a monkey, hummingbird, and spider, as well as complex geometric shapes and straight lines that stretch for miles. The lines were made by removing the dark, sun-baked stones to reveal the lighter sand beneath, and they have been preserved for centuries by the region's lack of wind and rain. Their purpose remains a subject of intense debate, with theories ranging from astronomical calendars and water-related rituals to sacred pathways. Visible only from the air, these UNESCO-listed wonders continue to captivate the world with their scale and mystery. Geography K8 — Desert geoglyphs and ancient cultures."
     },
     facts: {
       de: ["Erschaffen zwischen 500 vor und 500 nach Christus.", "Einige Figuren sind über 300 Meter lang.", "Seit 1994 UNESCO-Weltkulturerbe."],
@@ -315,17 +232,10 @@ export const poiExtraPeruLandmarksV2: POI[] = [
       en: ["Created between 500 BC and 500 AD.", "Some figures are over 300 meters long.", "UNESCO World Heritage site since 1994."]
     },
     factsAdvanced: {
-      de: [],
-      hu: [],
-      ro: [],
-      en: [
-        "Some of the largest figures are over 300 meters long.",
-        "Designated as a UNESCO World Heritage site in 1994.",
-        "First brought to international attention in the 1920s by early pilots.",
-        "Studied for decades by the famous German mathematician Maria Reiche.",
-        "Covers an area of nearly 450 square kilometers."
-      ]
-    }, image: "/poi-images/nazca-linien-landmarks-v2.webp"},
+      en: ["The geoglyphs cover an area of nearly 1,000 square kilometers.", "First brought to international attention in the 1920s by early commercial pilots.", "Maria Reiche, a German mathematician, dedicated her life to protecting and studying the lines.", "Includes over 70 identifiable animal and plant figures (biomorphs).", "The largest figures are over 300 meters (1,200 feet) long.", "Designated a UNESCO World Heritage site in 1994.", "New geoglyphs are still being discovered today using modern satellite and drone technology.", "The lines have survived for nearly 2,000 years because of the extremely dry and windless climate."]
+    },
+    image: "/poi-images/nazca-linien-landmarks-v2.webp"
+  },
   {
     id: "plaza-mayor-lima-landmarks-v2",
     type: "landmark",
@@ -339,10 +249,7 @@ export const poiExtraPeruLandmarksV2: POI[] = [
       en: "The main square and birthplace of the city of Lima, surrounded by significant historical and architectural buildings."
     },
     descriptionAdvanced: {
-      de: "",
-      hu: "",
-      ro: "",
-      en: "The Plaza Mayor, also known as the Plaza de Armas, is the historic heart and birthplace of the city of Lima. Founded by Francisco Pizarro in 1535, it is surrounded by the city's most significant institutional buildings, including the Government Palace, the Cathedral of Lima, and the Archbishop's Palace. The square's center is marked by a beautiful 17th-century bronze fountain, a symbol of the city's colonial grandeur. It has been the site of countless historical events, from the proclamation of Peru's independence to modern state ceremonies. The yellow-hued buildings with their characteristic carved wooden balconies give the plaza a distinct and elegant character. As a UNESCO World Heritage site, it remains a vibrant gathering place for both locals and tourists exploring the capital's rich history."
+      en: "The Plaza Mayor of Lima, also known as the Plaza de Armas, is the grand historical and political heart of the 'City of Kings'. It was at this very spot that Francisco Pizarro founded Lima in 1535, and it was here that the independence of Peru was proclaimed in 1821. Surrounded by some of the city's most important buildings, including the Government Palace, the Cathedral of Lima, and the Archbishop's Palace, the square is a masterpiece of colonial and neoclassical architecture. Its center is graced by a beautiful bronze fountain dating back to 1651. The plaza is not just a tourist attraction but a living center of civic life, where grand ceremonies and protests alike mark the pulse of the nation. As part of Lima's UNESCO-listed historic center, it remains a powerful symbol of Peru's colonial heritage and its republican identity. History K8 — Colonial Lima and the birth of the Republic."
     },
     facts: {
       de: ["Hier gründete Francisco Pizarro 1535 die Stadt.", "Ort des Regierungspalastes und der Kathedrale.", "Zentraler Punkt des historischen Zentrums."],
@@ -351,16 +258,7 @@ export const poiExtraPeruLandmarksV2: POI[] = [
       en: ["Francisco Pizarro founded the city here in 1535.", "Site of the Government Palace and the Cathedral.", "Central point of the historical center."]
     },
     factsAdvanced: {
-      de: [],
-      hu: [],
-      ro: [],
-      en: [
-        "The exact spot where Francisco Pizarro founded Lima on January 18, 1535.",
-        "Surrounded by some of the finest examples of colonial and neo-colonial architecture.",
-        "The bronze fountain in the center dates back to 1650.",
-        "Site of the proclamation of Peruvian Independence by San Martín in 1821.",
-        "Considered the center of the 'City of Kings'."
-      ]
+      en: ["The exact spot where Francisco Pizarro founded the city of Lima on January 18, 1535.", "General José de San Martín proclaimed the Independence of Peru here on July 28, 1821.", "The Government Palace (Palacio de Gobierno) on the north side is the official residence of the President.", "The central bronze fountain was commissioned by Viceroy García Sarmiento de Sotomayor in 1651.", "The Cathedral of Lima houses the tomb of the conquistador Francisco Pizarro.", "The Archbishop's Palace is famous for its exquisite neo-colonial carved wooden balconies.", "Was the site of Lima's first market and even served as a bullring in the early colonial era.", "Part of the Historic Center of Lima, a UNESCO World Heritage site since 1988."]
     }
   },
   {
@@ -376,10 +274,7 @@ export const poiExtraPeruLandmarksV2: POI[] = [
       en: "An impressive baroque church and monastery complex in Lima, particularly famous for its underground catacombs."
     },
     descriptionAdvanced: {
-      de: "",
-      hu: "",
-      ro: "",
-      en: "The Monastery of San Francisco is a stunning example of Spanish Baroque architecture and one of Lima's most important religious complexes. Famous for its bright yellow facade and beautifully carved wooden portals, the church and monastery house a world-class library of ancient scrolls and a collection of religious art. However, it is perhaps most famous for its vast underground catacombs, which served as the city's first cemetery until the early 19th century. Visitors can walk through the eerie but fascinating tunnels where the bones of thousands of early Limeños are arranged in geometric patterns. The monastery's serene cloisters, decorated with 17th-century Sevillian tiles, provide a peaceful escape from the city's bustle. It is a must-visit for anyone interested in the spiritual and historical layers of Lima."
+      en: "The Monastery of San Francisco in Lima is one of the most significant and beautiful examples of Spanish Baroque architecture in the New World. Founded in 1546 and rebuilt after the 1672 earthquake, the complex is famous for its striking yellow and white facade and its world-class library containing over 25,000 ancient volumes. However, its most fascinating and haunting feature lies beneath the church: the vast network of catacombs that served as Lima's first cemetery until 1808. Thousands of skulls and bones are meticulously arranged in geometric patterns within the stone chambers. The monastery's serene cloisters, decorated with exquisite 17th-century Seville tiles (azulejos), offer a peaceful contrast to the bustling city outside. It remains a vital spiritual center and a crown jewel of Lima's UNESCO-listed historic center. History K8 — Colonial religious life and architecture."
     },
     facts: {
       de: ["Die Katakomben enthalten die Gebeine von etwa 25.000 Menschen.", "Die Bibliothek besitzt tausende antike Texte.", "Ein Paradebeispiel des spanischen Barock in Peru."],
@@ -388,17 +283,10 @@ export const poiExtraPeruLandmarksV2: POI[] = [
       en: ["The catacombs contain the bones of about 25,000 people.", "The library holds thousands of antique texts.", "A prime example of Spanish Baroque in Peru."]
     },
     factsAdvanced: {
-      de: [],
-      hu: [],
-      ro: [],
-      en: [
-        "The catacombs are estimated to contain the remains of over 25,000 people.",
-        "The library houses approximately 25,000 ancient and rare volumes.",
-        "Survived the catastrophic earthquake of 1746 with minimal damage.",
-        "Famous for its 'Last Supper' painting featuring local Peruvian elements like guinea pig (cuy).",
-        "Part of the UNESCO World Heritage site of the Historic Center of Lima."
-      ]
-    }, image: "/poi-images/kloster-san-francisco-landmarks-v2.webp"},
+      en: ["Founded in 1546, the current church and convent were completed in 1774.", "Home to a world-renowned library with thousands of antique books and maps.", "The catacombs beneath the church are estimated to contain the remains of 25,000 to 70,000 people.", "Famous for its Sevillian tiles, which date back to the 1620s and 1630s.", "The complex includes the Church of San Francisco, the Chapel of Solitude, and the Chapel of the Miracle.", "Features a massive dome inspired by Moorish architecture (Mudéjar style).", "Survived the devastating earthquake of 1746 with minimal damage.", "A key part of the Historic Center of Lima, a UNESCO World Heritage site."]
+    },
+    image: "/poi-images/kloster-san-francisco-landmarks-v2.webp"
+  },
   {
     id: "fortaleza-real-felipe-landmarks-v2",
     type: "landmark",
@@ -412,10 +300,7 @@ export const poiExtraPeruLandmarksV2: POI[] = [
       en: "A massive historical fortress in Callao, built in the 18th century to protect against pirates and corsairs."
     },
     descriptionAdvanced: {
-      de: "",
-      hu: "",
-      ro: "",
-      en: "The Real Felipe Fortress is a massive 18th-century military fortification located in the port city of Callao, designed to protect Lima from pirate attacks and foreign corsairs. Shaped as an irregular pentagon with five bastions, it is one of the most important colonial defensive structures in South America. The fortress played a crucial role during the Spanish American wars of independence, being the last stronghold of the Spanish Empire in South America to surrender. Today, it serves as the Peruvian Army Museum, showcasing historical weapons, uniforms, and military history. Visitors can explore its thick stone walls, dark dungeons, and high towers that once scanned the horizon for enemy sails. It stands as a powerful reminder of Peru's strategic importance during the colonial era."
+      en: "The Real Felipe Fortress, standing guard over the Port of Callao, is the largest defensive structure built by the Spanish in the Americas. Constructed in the mid-18th century to protect Lima from pirates and rival empires, its massive stone walls and pentagonal layout were a masterpiece of military engineering. The fortress is famous for being the last Spanish stronghold in South America, holding out for over a year after the rest of Peru had gained independence. Today, it serves as a military museum, where visitors can explore its dark dungeons, climb its lookout towers, and see an impressive collection of cannons and military artifacts. The fortress remains a powerful symbol of Peru's colonial history and its fierce struggle for sovereignty. History K8 — Colonial defense and the independence struggle."
     },
     facts: {
       de: ["Wurde nach dem verheerenden Erdbeben von 1746 errichtet.", "Eines der größten spanischen Forts in Südamerika.", "Beherbergt heute ein Militärmuseum."],
@@ -424,17 +309,10 @@ export const poiExtraPeruLandmarksV2: POI[] = [
       en: ["Built after the devastating earthquake of 1746.", "One of the largest Spanish forts in South America.", "Today houses a military museum."]
     },
     factsAdvanced: {
-      de: [],
-      hu: [],
-      ro: [],
-      en: [
-        "Construction began in 1747 following the devastating earthquake and tsunami of 1746.",
-        "Named in honor of King Philip V of Spain.",
-        "Covers an area of 70,000 square meters.",
-        "The site of the famous 'Combat of the 2nd of May' in 1866 against the Spanish fleet.",
-        "The 'King's Tower' and 'Queen's Tower' are its two most prominent watchtowers."
-      ]
-    }, image: "/poi-images/fortaleza-real-felipe-landmarks-v2.webp"},
+      en: ["Built between 1747 and 1774 to replace older fortifications destroyed by a 1746 tsunami.", "Named in honor of King Philip V of Spain, the first Bourbon monarch.", "The fortress covers an area of 70,000 square meters and has a pentagonal shape.", "Features two massive towers: the King's Tower and the Queen's Tower.", "Was the site of a heroic defense during the 1866 Battle of Callao against the Spanish fleet.", "The walls are up to 4 meters thick and were built using stone, lime, and sand.", "Houses the Museum of the Peruvian Army, with exhibits on national military history.", "The fortress's dungeons were once notorious for their harsh conditions and lack of light."]
+    },
+    image: "/poi-images/fortaleza-real-felipe-landmarks-v2.webp"
+  },
   {
     id: "kloster-santa-catalina-landmarks-v2",
     type: "landmark",
@@ -448,10 +326,7 @@ export const poiExtraPeruLandmarksV2: POI[] = [
       en: "A colorful, historical monastery in Arequipa that looks like a small city of its own with streets and plazas."
     },
     descriptionAdvanced: {
-      de: "",
-      hu: "",
-      ro: "",
-      en: "The Santa Catalina Monastery in Arequipa is often described as a 'city within a city,' a walled complex of winding streets, colorful houses, and secret plazas. Founded in 1579, this Dominican convent was for centuries a strictly cloistered community where the daughters of wealthy Spanish families lived in relative luxury. The monastery is famous for its vibrant sillar stone walls painted in deep blues and terracotta oranges, creating some of the most photogenic scenes in all of Peru. Visitors can explore the former living quarters, kitchens, and laundry areas that provide a vivid look at colonial life. It is a place of profound silence and beauty, where every corner reveals a piece of spiritual history. Today, a small community of nuns still resides in a private wing of the complex."
+      en: "The Santa Catalina Monastery in Arequipa is often described as a 'city within a city,' a vast and vibrant complex of narrow streets, colorful cloisters, and secret gardens. Founded in 1579, it served for centuries as a secluded retreat for the daughters of wealthy Spanish families. The monastery is famous for its striking walls painted in deep blues and brilliant reds, creating a surreal and photogenic atmosphere. Its architecture is a perfect example of the 'Arequipeño' style, using white volcanic sillar stone to create elegant arches and sturdy walls designed to withstand earthquakes. Walking through its plazas and cells, which are still furnished with colonial antiques, offers a profound sense of peace and a unique glimpse into the spiritual and social life of colonial Peru. History K7 — Monastic life and Arequipa's sillar architecture."
     },
     facts: {
       de: ["Wurde 1579 gegründet.", "Bedeckt eine Fläche von über 20.000 Quadratmetern.", "War jahrhundertelang von der Außenwelt völlig abgeschlossen."],
@@ -460,17 +335,10 @@ export const poiExtraPeruLandmarksV2: POI[] = [
       en: ["Founded in 1579.", "Covers an area of over 20,000 square meters.", "Was completely closed off from the outside world for centuries."]
     },
     factsAdvanced: {
-      de: [],
-      hu: [],
-      ro: [],
-      en: [
-        "Opened its doors to the public for the first time in 1970.",
-        "Covers an area of over 20,000 square meters.",
-        "Most of the structure is built from white and pink volcanic sillar stone.",
-        "The 'Zocodover' plaza is its main central square.",
-        "Located in the heart of Arequipa's UNESCO-listed historic center."
-      ]
-    }, image: "/poi-images/kloster-santa-catalina-landmarks-v2.webp"},
+      en: ["Covers an area of 20,000 square meters in the heart of Arequipa's historic center.", "Founded on September 10, 1579, by Maria de Guzman, a wealthy widow.", "For nearly 400 years, it was completely closed to the public until 1970.", "The monastery had its own streets named after Spanish cities like Seville and Granada.", "Built predominantly with sillar, the local white volcanic stone.", "At its peak, it housed over 450 people, including nuns and their servants.", "Features beautiful fountains and courtyards filled with orange trees and flowers.", "A small community of nuns still lives in a private wing of the monastery today."]
+    },
+    image: "/poi-images/kloster-santa-catalina-landmarks-v2.webp"
+  },
   {
     id: "kathedrale-arequipa-landmarks-v2",
     type: "landmark",
@@ -484,10 +352,7 @@ export const poiExtraPeruLandmarksV2: POI[] = [
       en: "The most important Catholic church in Arequipa, famous for its white facade made of volcanic sillar stone."
     },
     descriptionAdvanced: {
-      de: "",
-      hu: "",
-      ro: "",
-      en: "The Basilica Cathedral of Arequipa is the most important religious building in the 'White City,' dominating the northern side of the Plaza de Armas. Built entirely of white volcanic sillar stone, its neo-Renaissance facade with imposing twin towers is a masterpiece of colonial architecture. The cathedral is unique in Peru for its immense width and for being one of the few cathedrals in the world that displays the Vatican flag, a privilege granted by its status as a Basilica. Inside, visitors can admire a magnificent Belgian organ, a finely carved wooden pulpit from France, and a vast collection of religious art. Despite suffering damage from multiple earthquakes over the centuries, it has been meticulously restored each time, remaining a symbol of the city's resilience. Its illuminated facade at night is one of the most beautiful sights in the country."
+      en: "The Cathedral of Arequipa is the grandest landmark of the 'White City', stretching along the entire north side of the Plaza de Armas. Constructed from white volcanic sillar stone, its long, elegant facade and twin towers create a majestic backdrop for the city's main square. The cathedral is unique in Peru for its neo-Renaissance style and its interior which features a massive organ brought from Belgium and a pulpit carved in France. Having survived numerous earthquakes and fires over the centuries, the current structure is a testament to the resilience and faith of the Arequipeño people. Its interior is surprisingly bright and spacious, filled with intricate artwork and silver-plated altars that reflect the city's colonial wealth and its deep spiritual traditions. History K8 — Neoclassical architecture and regional resilience."
     },
     facts: {
       de: ["Nimmt die gesamte Nordseite der Plaza de Armas ein.", "Wurde im 17. Jahrhundert erbaut und nach Bränden oft restauriert.", "Beherbergt eine riesige Orgel aus Belgien."],
@@ -496,17 +361,10 @@ export const poiExtraPeruLandmarksV2: POI[] = [
       en: ["Occupies the entire north side of the Plaza de Armas.", "Built in the 17th century and often restored after fires.", "Houses a huge organ from Belgium."]
     },
     factsAdvanced: {
-      de: [],
-      hu: [],
-      ro: [],
-      en: [
-        "The current structure largely dates back to the mid-19th century after a fire and earthquakes.",
-        "The pipe organ is the largest in South America and was brought from Belgium in 1870.",
-        "It is the only cathedral in Peru that stretches across the entire side of a plaza.",
-        "The pulpit was carved by the famous French artist Buisine-Rigot.",
-        "Its twin towers were completely rebuilt after a major earthquake in 2001."
-      ]
-    }, image: "/poi-images/kathedrale-arequipa-landmarks-v2.webp"},
+      en: ["One of the only cathedrals in the world that occupies the entire length of a city square.", "The original church was founded in 1612, but the current building was rebuilt after an 1844 fire.", "Houses a massive 12-meter-high organ, the largest in South America, donated in 1870.", "The pulpit was carved from oak in Lille, France, by the artist Buisine-Rigot.", "Its twin towers were completely rebuilt after being destroyed in the 2001 earthquake.", "Features a high altar made of Carrara marble from Italy.", "The facade is decorated with 70 columns of the Corinthian order.", "Contains a rich museum of religious art, including exquisite silver and gold jewelry."]
+    },
+    image: "/poi-images/kathedrale-arequipa-landmarks-v2.webp"
+  },
   {
     id: "chavin-huantar-landmarks-v2",
     type: "landmark",
@@ -520,10 +378,7 @@ export const poiExtraPeruLandmarksV2: POI[] = [
       en: "An archaeological site and important religious center of the pre-Hispanic Chavín culture in the Peruvian Andes."
     },
     descriptionAdvanced: {
-      de: "",
-      hu: "",
-      ro: "",
-      en: "Chavín de Huántar is an ancient archaeological site located in the Ancash region, serving as the ceremonial and religious center of the Chavín culture from roughly 1200 to 400 BC. This UNESCO World Heritage site is famous for its massive stone platforms and a complex network of underground galleries and tunnels. One of its most mysterious features is the 'Lanzón,' a five-meter-tall granite monolith carved with complex feline and serpentine motifs, located deep within the oldest part of the temple. The site's sophisticated acoustic engineering allowed the sound of water and shells to echo through the tunnels, likely creating a terrifyingly divine experience for ancient pilgrims. As the birthplace of many Andean religious concepts, it is considered one of the most important formative sites in South American history. Its stone carvings, such as the famous tenoned heads, showcase an incredibly advanced artistic style."
+      en: "Chavín de Huántar is one of the oldest and most influential archaeological sites in South America, serving as the religious and political center of the Chavín culture between 1200 and 400 BC. Located in a high Andean valley, the complex is famous for its massive stone pyramids, sunken circular plazas, and a labyrinthine network of underground galleries. The most iconic feature is the Lanzón, a 4.5-meter-high monolith carved with fierce feline and serpentine motifs, located deep within the dark tunnels. Chavín was a site of intense ritual activity, where pilgrims from across the Andes came to witness shamans use hallucinogenic plants and sound effects to communicate with the gods. Its art and architecture laid the foundation for many later Andean civilizations, including the Incas. History K8 — The Chavín culture and the dawn of Andean religion."
     },
     facts: {
       de: ["Zentrum der Kultur zwischen 1200 und 400 vor Christus.", "Bekannt für das Netzwerk von unterirdischen Labyrinthen.", "Seit 1985 UNESCO-Weltkulturerbe."],
@@ -532,17 +387,10 @@ export const poiExtraPeruLandmarksV2: POI[] = [
       en: ["Center of the culture between 1200 and 400 BC.", "Known for its network of underground labyrinths.", "UNESCO World Heritage site since 1985."]
     },
     factsAdvanced: {
-      de: [],
-      hu: [],
-      ro: [],
-      en: [
-        "Predates the Inca Empire by more than 2,000 years.",
-        "The site is located at the confluence of the Mosna and Huachecsa rivers.",
-        "Features the 'Lanzón Monolith,' the most important cult image of the Chavín.",
-        "Designated a UNESCO World Heritage site in 1985.",
-        "The 'Gallery of the Labyrinths' is one of many sophisticated underground passages."
-      ]
-    }, image: "/poi-images/chavin-huantar-landmarks-v2.webp"},
+      en: ["Located at an altitude of 3,180 meters at the confluence of the Mosna and Wacheqsa rivers.", "Designated a UNESCO World Heritage site in 1985.", "The Lanzón Monolith is a granite slab carved with the image of a 'Staff God'.", "The site features a complex drainage system that could create roaring sounds during rituals.", "Famous for its 'Tenon Heads' (Cabezas Clavas), stone carvings of human-feline transformations.", "The Chavín culture is considered one of the 'Mother Cultures' of ancient Peru.", "Used a sophisticated network of underground galleries for ritual and storage purposes.", "The site reflects an advanced understanding of acoustics and light-dark symbolism."]
+    },
+    image: "/poi-images/chavin-huantar-landmarks-v2.webp"
+  },
   {
     id: "caral-landmarks-v2",
     type: "landmark",
@@ -556,10 +404,7 @@ export const poiExtraPeruLandmarksV2: POI[] = [
       en: "The oldest known city in the Americas, featuring monumental architecture and impressive pyramids."
     },
     descriptionAdvanced: {
-      de: "",
-      hu: "",
-      ro: "",
-      en: "The Sacred City of Caral is widely recognized as the oldest city in the Americas, dating back more than 5,000 years. Located in the arid Supe Valley north of Lima, it was the capital of the Caral-Supe civilization, which flourished at the same time as ancient Mesopotamia and Egypt. The site features monumental architecture, including six massive stone pyramids, circular sunken plazas, and residential areas. Perhaps most impressively, Caral was a peaceful society that lacked defensive walls and showed no evidence of warfare, focusing instead on trade and religious ceremonies. The discovery of 'quipus' (knotted strings) at the site suggests that complex record-keeping systems were in use millennia earlier than previously thought. Today, this UNESCO World Heritage site offers a profound look at the very dawn of civilization in the Western Hemisphere."
+      en: "Caral, located in the Supe Valley, is the oldest city in the Americas and one of the oldest civilizations in the world, dating back over 5,000 years. This UNESCO World Heritage site was a thriving metropolis at the same time as the pyramids of Giza and the Sumerian cities of Mesopotamia. The complex features six massive stone pyramids, circular sunken plazas, and organized residential areas, demonstrating a level of urban planning and social complexity that was previously unknown for this time period in the New World. Interestingly, Caral was a peaceful society focused on trade, textiles, and fishing, with no evidence of warfare or defensive walls. The discovery of Caral has fundamentally rewritten the history of civilization in the Americas. History K8 — The Caral-Supe civilization and the origins of urban life."
     },
     facts: {
       de: ["Mehr als 5.000 Jahre alt.", "Gehört zur Norte-Chico-Kultur.", "Seit 2009 UNESCO-Weltkulturerbe."],
@@ -568,17 +413,10 @@ export const poiExtraPeruLandmarksV2: POI[] = [
       en: ["More than 5,000 years old.", "Belongs to the Norte Chico civilization.", "UNESCO World Heritage site since 2009."]
     },
     factsAdvanced: {
-      de: [],
-      hu: [],
-      ro: [],
-      en: [
-        "Dating back to 3000 BC, it is roughly contemporary with the Great Pyramid of Giza.",
-        "The 'Great Pyramid' of Caral is 18 meters high and covers an area the size of four football fields.",
-        "Evidence shows the city traded with distant regions in the Amazon and the Andes.",
-        "Located approximately 200 kilometers north of Lima.",
-        "Discovered and brought to prominence by Peruvian archaeologist Ruth Shady."
-      ]
-    }, image: "/poi-images/caral-landmarks-v2.webp"},
+      en: ["The 'Sacred City of Caral' dates back to approximately 3000 BC.", "One of the few places in the world where civilization developed independently.", "The largest pyramid, the Pirámide Mayor, is over 150 meters long and 28 meters high.", "Archaeologists found 32 flutes made of condor and pelican bones at the site.", "Evidence shows they used 'quipus' (knotted strings) for recording information 4,500 years ago.", "The city was built without the use of ceramics, which appeared later in the Andes.", "Trade networks stretched from the Pacific coast to the Amazon and the high Andes.", "The society was remarkably peaceful, with no weapons or defensive structures found."]
+    },
+    image: "/poi-images/caral-landmarks-v2.webp"
+  },
   {
     id: "huaca-pucllana-landmarks-v2",
     type: "landmark",
@@ -592,10 +430,7 @@ export const poiExtraPeruLandmarksV2: POI[] = [
       en: "A massive adobe pyramid of the Lima culture, which today is a fascinating relic in the middle of the modern Miraflores district."
     },
     descriptionAdvanced: {
-      de: "",
-      hu: "",
-      ro: "",
-      en: "Huaca Pucllana is a massive adobe and clay pyramid located in the heart of Lima's modern Miraflores district, serving as a striking contrast between ancient history and urban development. Built by the Lima culture between 200 and 700 AD, it was an important ceremonial and administrative center. The pyramid was constructed using a unique 'book-style' technique, with small adobe bricks placed vertically to provide greater resistance to earthquakes. Today, the site includes a museum, a lush park with native plants and animals, and a world-class restaurant that overlooks the illuminated ruins at night. It is one of the most accessible and well-preserved archaeological sites in the capital. Walking along its high platforms provides a unique perspective of Lima's long and continuous history."
+      en: "Huaca Pucllana is an extraordinary adobe pyramid that stands as a silent sentinel in the heart of Lima's modern Miraflores district. Built between 200 and 700 AD by the Lima culture, it served as a major ceremonial and administrative center. The pyramid is famous for its unique 'book-shelf' style of construction, where millions of small adobe bricks were placed vertically to allow the structure to flex during earthquakes. For the ancient Lima people, this was a sacred space dedicated to female sea deities, as evidenced by the numerous offerings found at the site. Today, Huaca Pucllana is a striking contrast to the surrounding skyscrapers and a reminder that Peru's capital was a center of power long before the arrival of the Spanish. History K6 — The Lima culture and coastal adobe monuments."
     },
     facts: {
       de: ["Wurde um 500 nach Christus erbaut.", "Diente als zeremonielles und administratives Zentrum.", "Besitzt eine einzigartige 'Bücherregal'-Bautechnik für Erdbebensicherheit."],
@@ -604,17 +439,10 @@ export const poiExtraPeruLandmarksV2: POI[] = [
       en: ["Built around 500 AD.", "Served as a ceremonial and administrative center.", "Features a unique 'bookshelf' construction technique for earthquake resistance."]
     },
     factsAdvanced: {
-      de: [],
-      hu: [],
-      ro: [],
-      en: [
-        "Built using millions of small, handmade 'book-shelf' adobe bricks.",
-        "The main pyramid is 25 meters high.",
-        "Originally served as a ritual center for a culture that worshiped the sea.",
-        "Excavations have revealed several high-status tombs from the Wari culture.",
-        "One of the few archaeological sites in the world with a high-end restaurant on its grounds."
-      ]
-    }, image: "/poi-images/huaca-pucllana-landmarks-v2.webp"},
+      en: ["A massive seven-tiered adobe pyramid that covers over 5 hectares.", "Built primarily by the Lima culture, but later used by the Wari and Ychsma people.", "The 'bookshelf' technique (vertical bricks) made the structure remarkably earthquake-resistant.", "Located in the middle of one of Lima's most modern and upscale residential districts.", "Archaeologists have discovered tombs and sacrificial remains at the top of the pyramid.", "The site includes a museum and a world-class restaurant overlooking the ruins.", "Was used for rituals involving the worship of the ocean and fertility.", "The name 'Pucllana' is thought to mean 'a place for games' or 'a place for rituals'."]
+    },
+    image: "/poi-images/huaca-pucllana-landmarks-v2.webp"
+  },
   {
     id: "moray-landmarks-v2",
     type: "landmark",
@@ -628,10 +456,7 @@ export const poiExtraPeruLandmarksV2: POI[] = [
       en: "An Inca archaeological site consisting of deep, circular terraces dug into the earth."
     },
     descriptionAdvanced: {
-      de: "",
-      hu: "",
-      ro: "",
-      en: "Moray is one of the most unusual and visually stunning Inca archaeological sites, consisting of several deep, circular terraces that look like a giant natural amphitheater. Located on a high plateau in the Sacred Valley, these concentric rings were likely used as a sophisticated agricultural laboratory. Each level of the terraces has its own microclimate, with temperature differences of up to 15 degrees Celsius from the top to the bottom. It is believed that the Incas used Moray to experiment with different crops and acclimatize plants from the Amazon and the coast to the harsh Andean environment. The engineering of the site is equally impressive, with a drainage system that prevents the circular depressions from flooding during the rainy season. Today, it remains a powerful symbol of Inca scientific ingenuity."
+      en: "Moray is one of the most enigmatic and visually stunning Inca sites, consisting of several massive circular terraces that resemble a giant amphitheater. Located on a high plateau in the Sacred Valley, these concentric terraces are believed to have been a sophisticated agricultural laboratory. Each level of the terraces has its own microclimate, with a temperature difference of up to 15 degrees Celsius between the top and the bottom, mimicking various ecological zones across the Inca Empire. Here, Inca scientists likely experimented with different crops and seeds to determine the best conditions for their growth. The precision of the engineering, including the drainage system that prevents flooding even during heavy rains, is a testament to the Incas' deep knowledge of ecology and agriculture. Geography K7 — Inca agriculture and microclimates."
     },
     facts: {
       de: ["Wurde wahrscheinlich als landwirtschaftliches Forschungslabor genutzt.", "Die Temperaturdifferenz zwischen oben und unten kann 15 °C betragen.", "Erzeugt unterschiedliche Mikroklimata auf jeder Ebene."],
@@ -640,16 +465,7 @@ export const poiExtraPeruLandmarksV2: POI[] = [
       en: ["Probably used as an agricultural research laboratory.", "The temperature difference between top and bottom can be 15 °C.", "Creates different microclimates at each level."]
     },
     factsAdvanced: {
-      de: [],
-      hu: [],
-      ro: [],
-      en: [
-        "The largest circular depression is approximately 30 meters deep.",
-        "The temperature difference between the highest and lowest terraces can be as much as 15°C (27°F).",
-        "Located at an altitude of about 3,500 meters.",
-        "The terraces are built with supporting walls and fertile soil brought from other regions.",
-        "Its precise purpose is still debated, but the agricultural laboratory theory is the most widely accepted."
-      ]
+      en: ["Consists of three large circular depressions, the largest being over 30 meters deep.", "Designed to simulate different ecological zones, from the coast to the highlands.", "The site features a sophisticated irrigation system that kept each terrace hydrated.", "The temperature difference between levels allowed for testing over 250 different plant species.", "Believed to be a key reason for the Incas' success in achieving food security.", "The perfect circular shapes were carved into a natural depression in the earth.", "Despite heavy rains, the lowest level of the terraces never floods due to excellent drainage.", "Located at an altitude of 3,500 meters, near the village of Maras."]
     }
   },
   {
@@ -665,10 +481,7 @@ export const poiExtraPeruLandmarksV2: POI[] = [
       en: "An extensive Inca site in the Sacred Valley, known for its huge agricultural terraces and ceremonial centers."
     },
     descriptionAdvanced: {
-      de: "",
-      hu: "",
-      ro: "",
-      en: "The ruins of Pisac are perched majestically on a mountain ridge overlooking the village of the same name and the fertile Sacred Valley. This expansive Inca site is famous for its breathtaking agricultural terraces, which curve around the contours of the mountain like giant green waves. The complex includes military, religious, and residential sections, featuring some of the finest Inca stonework outside of Machu Picchu. One of its most significant features is the 'Intihuatana,' a ritual stone used by Inca priests to track the movements of the sun. The site also houses a massive ancient cemetery where thousands of tombs were once carved into the steep cliffside. Hiking through the various sectors of Pisac offers some of the most spectacular views in the entire Cusco region. It is a perfect example of how the Incas harmonized their architecture with the natural landscape."
+      en: "The ruins of Pisac, perched on a dramatic mountain spur overlooking the Sacred Valley, are among the most impressive archaeological sites in Peru. The complex was a multi-purpose center, featuring massive agricultural terraces, a military fortress, and a sacred religious sector. The stonemasonry in the Intihuatana (Sun Temple) area is of the highest quality, rivaling that of Machu Picchu. Pisac is also famous for its vast cemetery, the largest in the Inca Empire, where thousands of tombs are carved into the sheer cliff faces. From the ruins, visitors can enjoy panoramic views of the valley below and the ancient town of Pisac, known for its vibrant Sunday market. The site beautifully illustrates the Inca mastery of landscape integration, where architecture and nature exist in perfect harmony. History K6 — Inca estates and agricultural mastery."
     },
     facts: {
       de: ["Erbaut auf einem Bergrücken hoch über dem Fluss Urubamba.", "Diente zur Überwachung und Verteidigung des Tals.", "Umfasst auch den Intihuatana, den Sonnentempel."],
@@ -677,17 +490,10 @@ export const poiExtraPeruLandmarksV2: POI[] = [
       en: ["Built on a mountain ridge high above the Urubamba River.", "Served to monitor and defend the valley.", "Also includes the Intihuatana, the sun temple."]
     },
     factsAdvanced: {
-      de: [],
-      hu: [],
-      ro: [],
-      en: [
-        "The name 'Pisac' is derived from the Quechua word for 'partridge' (p'isaqa).",
-        "Features the largest known Inca cemetery in the Americas.",
-        "Located at an altitude of approximately 3,350 meters.",
-        "The Intihuatana stone was used for astronomical observations and religious rites.",
-        "The agricultural terraces are still in use by local farmers today."
-      ]
-    }, image: "/poi-images/pisac-ruinen-landmarks-v2.webp"},
+      en: ["The site features some of the largest and most impressive agricultural terraces in the Andes.", "Home to the largest pre-Columbian cemetery in the Americas, with over 3,000 tombs.", "Includes a well-preserved 'Intihuatana' or sun-hitching stone used for astronomical rites.", "The ruins are divided into four main groups: P'isaqa, Kalla Q'asa, Intihuatana, and Qanchis Raqay.", "Was part of the royal estate of the Inca Emperor Pachacuti.", "Strategic location that controlled the entrance to the Sacred Valley from the Amazon.", "Features complex stone aqueducts that still provide water to the terraces.", "The town at the foot of the mountain is famous for its traditional Andean market."]
+    },
+    image: "/poi-images/pisac-ruinen-landmarks-v2.webp"
+  },
   {
     id: "choquequirao-landmarks-v2",
     type: "landmark",
@@ -701,10 +507,7 @@ export const poiExtraPeruLandmarksV2: POI[] = [
       en: "An impressive Inca city in southern Peru, architecturally very similar to Machu Picchu, but much more isolated."
     },
     descriptionAdvanced: {
-      de: "",
-      hu: "",
-      ro: "",
-      en: "Choquequirao, often called the 'Sister of Machu Picchu,' is a remote and spectacular Inca citadel hidden deep in the Vilcabamba mountain range. Because it is only accessible via a grueling multi-day trek, it receives only a fraction of the visitors that Machu Picchu does, offering a much more peaceful and adventurous experience. The site is spread across a high ridge and features impressive terraces, plazas, and temples, some of which are decorated with unique 'Llama Flame' stone mosaics. It served as one of the last strongholds of the Inca resistance against the Spanish conquest. Much of the city is still covered by dense cloud forest, and excavations are ongoing to reveal its full extent. For many travelers, the journey to Choquequirao is one of the most rewarding and challenging experiences in the Andes. Its isolation has preserved its mystical atmosphere and archaeological integrity."
+      en: "Choquequirao, often called the 'Sister City of Machu Picchu,' is one of Peru's most remote and awe-inspiring Inca citadels. Perched on a high ridge 3,000 meters above the Apurímac River, it is only accessible after a grueling two-day hike through steep canyons. Because of its isolation, it sees only a fraction of the visitors of Machu Picchu, offering a sense of true discovery. The site is famous for its massive terraces, grand plazas, and the unique 'Flame Terraces' decorated with white stone llamas. Choquequirao likely served as a strategic outpost and a royal estate, and it was one of the last strongholds of the Inca resistance after the fall of Cusco. Much of the city remains hidden beneath the dense cloud forest, waiting to be revealed. History K8 — The Inca resistance and remote citadels."
     },
     facts: {
       de: ["Wurde als 'Schwesterstadt von Machu Picchu' bezeichnet.", "Nur zu Fuß durch eine mehrtägige Wanderung erreichbar.", "Bisher ist nur ein kleiner Teil der Anlage freigelegt."],
@@ -713,17 +516,10 @@ export const poiExtraPeruLandmarksV2: POI[] = [
       en: ["Often called the 'sister city of Machu Picchu'.", "Only accessible on foot via a multi-day hike.", "So far, only a small part of the complex has been excavated."]
     },
     factsAdvanced: {
-      de: [],
-      hu: [],
-      ro: [],
-      en: [
-        "Located at an elevation of 3,050 meters, overlooking the Apurímac River canyon.",
-        "Only about 30% to 40% of the site has been fully excavated.",
-        "Famous for its 'Llamas del Sol' (Llamas of the Sun) mosaics on the agricultural terraces.",
-        "The hike to the ruins involves descending and ascending over 1,500 meters of elevation.",
-        "Likely served as a strategic link between the Amazon and the city of Cusco."
-      ]
-    }, image: "/poi-images/choquequirao-landmarks-v2.webp"},
+      en: ["The name 'Choquequirao' means 'Cradle of Gold' in the Quechua language.", "Located in the Vilcabamba range, overlooking the deep Apurímac River canyon.", "Only about 30% to 40% of the site has been fully excavated and cleared of jungle.", "Famous for the 'Llamas del Sol', 24 white stone llama shapes embedded in the terraces.", "Built during the reign of Topa Inca Yupanqui in the late 15th century.", "The trek to the ruins involves descending and then ascending over 1,500 meters.", "A key refuge for the Neo-Inca state of Vilcabamba during the Spanish conquest.", "The site features a massive main plaza and an impressive upper religious sector."]
+    },
+    image: "/poi-images/choquequirao-landmarks-v2.webp"
+  },
   {
     id: "pachacamac-landmarks-v2",
     type: "landmark",
@@ -737,10 +533,7 @@ export const poiExtraPeruLandmarksV2: POI[] = [
       en: "A massive archaeological site on the coast south of Lima that was an important religious center long before the Incas."
     },
     descriptionAdvanced: {
-      de: "",
-      hu: "",
-      ro: "",
-      en: "Pachacamac was the most important religious center on the Peruvian coast for over a thousand years, predating the Incas and later being incorporated into their empire. Located just south of Lima, this sprawling archaeological complex was dedicated to the powerful creator deity, Pachacámac, who was believed to control earthquakes. The site features several massive adobe pyramids, temples, and plazas, including the impressive Temple of the Sun and the Acllahuasi (House of the Chosen Women). For centuries, pilgrims from all over the Andes traveled here to consult the famous Pachacámac oracle. Its strategic location at the mouth of the Lurín Valley made it a vital center of power and trade. Today, a modern on-site museum displays many of the artifacts found during excavations, including the original carved wooden idol of the deity."
+      en: "Pachacamac was the most important pilgrimage center on the central Peruvian coast for over a thousand years, serving as the home of a powerful oracle. Located just south of modern Lima, the site features massive adobe pyramids, temples, and cemeteries built by the Lima, Wari, Ychsma, and finally the Inca cultures. The name comes from the god Pacha Kamaq, believed to be the 'Earth Maker' who could predict the future and cause earthquakes. Even the mighty Incas respected the power of the Pachacamac oracle, building their own Temple of the Sun and a House of the Chosen Women (Acllahuasi) at the site. Today, visitors can walk along ancient processional avenues and see the remains of the Painted Temple, where pilgrims from across the Andes once came seeking divine guidance. History K8 — Coastal oracles and multi-cultural pilgrimage."
     },
     facts: {
       de: ["Die Stätte ist dem Schöpfergott Pachacámac gewidmet.", "Besitzt beeindruckende Tempel aus Lehmziegeln.", "Wurde von verschiedenen Kulturen wie den Huari und Inkas genutzt."],
@@ -749,17 +542,10 @@ export const poiExtraPeruLandmarksV2: POI[] = [
       en: ["The site is dedicated to the creator god Pachacamac.", "Features impressive temples built of mud bricks.", "Was used by various cultures such as the Wari and Incas."]
     },
     factsAdvanced: {
-      de: [],
-      hu: [],
-      ro: [],
-      en: [
-        "Served as a major pilgrimage site for the Lima, Wari, Ychma, and Inca cultures.",
-        "The Temple of the Sun was built by the Incas using millions of red-painted adobe bricks.",
-        "Located just 31 kilometers south of Lima's city center.",
-        "The site's name means 'Earth Maker' or 'World Creator' in Quechua.",
-        "One of the largest and most important archaeological complexes in the coastal region."
-      ]
-    }, image: "/poi-images/pachacamac-landmarks-v2.webp"},
+      en: ["The main religious center on the Peruvian coast for over 1,200 years.", "The Pachacamac Oracle was one of the most powerful and feared deities in ancient Peru.", "Features structures from four different civilizations: Lima, Wari, Ychsma, and Inca.", "The 'Acllahuasi' or House of the Chosen Women is a beautifully reconstructed Inca structure.", "Located in the Lurín Valley, overlooking the Pacific Ocean and the Lurín River.", "The 'Painted Temple' still shows traces of its original red and yellow pigments.", "Hernando Pizarro, brother of Francisco, was the first Spaniard to reach and desecrate the site.", "The Pachacamac idol, a double-faced wooden carving, is housed in the site's modern museum."]
+    },
+    image: "/poi-images/pachacamac-landmarks-v2.webp"
+  },
   {
     id: "cristo-blanco-landmarks-v2",
     type: "landmark",
@@ -773,10 +559,7 @@ export const poiExtraPeruLandmarksV2: POI[] = [
       en: "A large white statue of Jesus on Pukamoqo Hill, watching over the city of Cusco with open arms."
     },
     descriptionAdvanced: {
-      de: "",
-      hu: "",
-      ro: "",
-      en: "The Cristo Blanco is a majestic white statue of Jesus Christ that stands on Pukamoqo Hill, watching over the city of Cusco with outstretched arms. Gifted to the city by a group of Palestinian Christian refugees in 1945, the statue has become one of Cusco's most beloved modern landmarks. At night, it is brightly illuminated and can be seen from almost anywhere in the historic center. The site is located just a short walk from the fortress of Sacsayhuamán, making it an easy addition to any tour of the city's upper heights. From the base of the statue, visitors can enjoy one of the most stunning panoramic views of Cusco's red-tiled roofs and the surrounding Andean peaks. It is a popular spot for both quiet reflection and for photographers looking to capture the beauty of the imperial city."
+      en: "The Cristo Blanco, or White Christ, is a majestic statue that stands atop the Pukamuqu hill, watching over the city of Cusco like a silent guardian. This 8-meter-high statue was a gift from the Palestinian refugee community in 1945, as a token of gratitude for the hospitality they received in Peru. Its brilliant white color and outstretched arms are visible from almost anywhere in Cusco's historic center, making it one of the city's most recognizable modern landmarks. Located right next to the ancient fortress of Sacsayhuamán, it offers one of the most spectacular panoramic views of the city, especially at night when both the statue and the plaza below are illuminated. It is a place where modern faith and ancient history meet, providing a serene spot for reflection and photography. History K8 — Modern Cusco and international solidarity."
     },
     facts: {
       de: ["Die Statue ist 8 Meter hoch.", "Ein Geschenk arabisch-palästinensischer Einwanderer im Jahr 1945.", "Bietet einen der besten Panoramablicke auf Cusco."],
@@ -785,17 +568,10 @@ export const poiExtraPeruLandmarksV2: POI[] = [
       en: ["The statue is 8 meters tall.", "A gift from Arab-Palestinian immigrants in 1945.", "Offers one of the best panoramic views of Cusco."]
     },
     factsAdvanced: {
-      de: [],
-      hu: [],
-      ro: [],
-      en: [
-        "The statue stands approximately 8 meters (26 feet) tall.",
-        "Located on Pukamoqo Hill, which was considered a sacred site by the Incas.",
-        "Designed by the local artist Francisco Olazo Olivera.",
-        "A gift from the Palestinian community in Cusco as a token of gratitude for their welcome.",
-        "Made of cedar wood and covered in plaster and white marble dust."
-      ]
-    }, image: "/poi-images/cristo-blanco-landmarks-v2.webp"},
+      en: ["A gift to the city of Cusco from the Palestinian community in 1945.", "The statue is 8 meters (26 feet) high and made of granite and marble dust.", "Designed by the local sculptor Francisco Olazo Allende.", "Located on the Pukamuqu hill, at an altitude of approximately 3,600 meters.", "Offers a 360-degree view of the city of Cusco and the surrounding Andes.", "The statue was built in parts and assembled on-site with the help of the local community.", "At night, the statue is brightly illuminated and serves as a beacon for the city.", "It is within walking distance of the massive Inca walls of Sacsayhuamán."]
+    },
+    image: "/poi-images/cristo-blanco-landmarks-v2.webp"
+  },
   {
     id: "estadio-nacional-peru-landmarks-v2",
     type: "landmark",
@@ -809,10 +585,7 @@ export const poiExtraPeruLandmarksV2: POI[] = [
       en: "The largest and most important multi-purpose stadium in Lima, mainly used for matches of the Peruvian national football team."
     },
     descriptionAdvanced: {
-      de: "",
-      hu: "",
-      ro: "",
-      en: "The Estadio Nacional, located in the heart of Lima, is the spiritual home of Peruvian football and the country's most important multi-purpose stadium. Known as the 'Coloso de José Díaz,' it has been the stage for countless historic matches, including many of the national team's most memorable victories. The stadium underwent a massive modernization in 2011, which added a striking metallic facade that can be illuminated in different colors and increased its capacity to over 40,000 spectators. Beyond sports, it is a major venue for international concerts and national celebrations. Its central location and modern facilities make it a symbol of Peru's passion for the 'beautiful game.' For many Peruvians, a match at the Nacional is a rite of passage filled with intense emotion and national pride."
+      en: "The Estadio Nacional of Peru, known as the 'Colossus of José Díaz', is the hallowed ground of Peruvian sports and a symbol of national pride. Located in the heart of Lima, this modern stadium is the primary home of the Peru national football team and has been the site of many historic victories and emotional moments. Originally inaugurated in 1952 and completely renovated in 2011, it now features a striking facade inspired by traditional Peruvian textiles and state-of-the-art facilities. Beyond football, the stadium is a major venue for international concerts and events, including the spectacular opening ceremony of the 2019 Pan American Games. For many Peruvians, the Estadio Nacional is more than just a sports venue; it is the place where the country unites to support its 'Blanquirroja'. Geography K8 — Urban sports infrastructure and national identity."
     },
     facts: {
       de: ["Eröffnet im Jahr 1952 und zuletzt 2011 renoviert.", "Bietet Platz für etwa 43.000 Zuschauer.", "Trägt den Spitznamen 'Der Koloss von José Díaz'."],
@@ -821,17 +594,10 @@ export const poiExtraPeruLandmarksV2: POI[] = [
       en: ["Opened in 1952 and most recently renovated in 2011.", "Has a capacity of about 43,000 spectators.", "Nicknamed 'The Colossus of José Díaz'."]
     },
     factsAdvanced: {
-      de: [],
-      hu: [],
-      ro: [],
-      en: [
-        "The original stadium on this site was a gift from the British community in 1921.",
-        "Completely rebuilt and inaugurated in its current modern form in July 2011.",
-        "Features the 'La Torre del Estadio,' a prominent tower on one of its sides.",
-        "Home to the 'Lecrín' or Walk of Fame, honoring great Peruvian athletes.",
-        "The traditional venue for the home matches of the Peruvian national football team."
-      ]
-    }, image: "/poi-images/estadio-nacional-peru-landmarks-v2.webp"},
+      en: ["The official home of the Peru national football team, with a capacity of 43,000 spectators.", "Originally donated by the British community in 1897, with the modern structure built in 1952.", "Features the 'National Sports Museum' and the 'Walk of Fame' for Peruvian athletes.", "The 2011 renovation added 134 luxury boxes and a high-tech LED facade.", "Hosts the largest athletic events and concerts in the country.", "Was a primary venue for the Lima 2019 Pan American and Parapan American Games.", "The pitch is made of high-quality natural grass, meticulously maintained.", "Known for its intense atmosphere during FIFA World Cup qualifying matches."]
+    },
+    image: "/poi-images/estadio-nacional-peru-landmarks-v2.webp"
+  },
   {
     id: "puente-de-los-suspiros-landmarks-v2",
     type: "landmark",
@@ -845,10 +611,7 @@ export const poiExtraPeruLandmarksV2: POI[] = [
       en: "A picturesque wooden bridge in the bohemian district of Barranco in Lima, which has inspired many artists, musicians, and lovers."
     },
     descriptionAdvanced: {
-      de: "",
-      hu: "",
-      ro: "",
-      en: "The Bridge of Sighs (Puente de los Suspiros) is a romantic and picturesque wooden bridge in the heart of Lima's bohemian Barranco district. Built in the late 19th century, it spans a steep walkway known as the Bajada de Baños, which leads down to the Pacific Ocean. Local legend says that those who cross the bridge for the first time without breathing will have a wish granted. The bridge has inspired countless artists, musicians, and poets, most famously the singer Chabuca Granda, who dedicated a beautiful waltz to it. Surrounded by colorful colonial houses, flowering trees, and vibrant street art, it is one of the most charming spots in the city. At night, the bridge is softly lit, making it a favorite destination for couples and strolls through the neighborhood's artistic heart."
+      en: "The Bridge of Sighs (Puente de los Suspiros) is the romantic and bohemian soul of Lima's Barranco district. This charming wooden bridge, built in 1876, crosses a steep ravine known as the 'Bajada de los Baños' that leads down to the Pacific Ocean. According to local legend, anyone who crosses the bridge for the first time while holding their breath will have a wish granted. The bridge has inspired countless artists, poets, and musicians, most notably the legendary singer Chabuca Granda, who immortalized it in one of her most famous songs. Surrounded by colorful colonial houses, flowering trees, and vibrant street art, it is the perfect spot for a sunset stroll. The bridge captures the nostalgic and artistic spirit of Lima's most creative neighborhood. History K8 — Bohemian Lima and 19th-century urbanism."
     },
     facts: {
       de: ["Erbaut im Jahr 1876.", "Nach einer Legende wird ein Wunsch wahr, wenn man beim ersten Überqueren den Atem anhält.", "Wurde durch das Lied von Chabuca Granda berühmt."],
@@ -857,17 +620,10 @@ export const poiExtraPeruLandmarksV2: POI[] = [
       en: ["Built in 1876.", "According to legend, a wish comes true if you hold your breath the first time you cross it.", "Made famous by the song of Chabuca Granda."]
     },
     factsAdvanced: {
-      de: [],
-      hu: [],
-      ro: [],
-      en: [
-        "Originally built in 1876 but had to be rebuilt after the War of the Pacific.",
-        "Spans 44 meters across a narrow ravine.",
-        "The subject of a world-famous song by the Peruvian composer Chabuca Granda.",
-        "The walkway beneath it, Bajada de Baños, was originally used by local fishermen to reach the sea.",
-        "A focal point of the Barranco district, known for its vibrant nightlife and art galleries."
-      ]
-    }, image: "/poi-images/puente-de-los-suspiros-landmarks-v2.webp"},
+      en: ["A wooden bridge originally built in 1876 to connect the streets of Ayacucho and la Ermita.", "Legend says you must hold your breath while crossing it for the first time to make a wish.", "Immortalized in the 1960 song 'El Puente de los Suspiros' by Chabuca Granda.", "It survived the War of the Pacific when it was burned by Chilean troops in 1881.", "Spans the 'Bajada de los Baños', a stone walkway used by fishermen to reach the sea.", "Located in Barranco, Lima's traditional bohemian and artistic district.", "Underwent a major restoration in 2014 to preserve its original structure.", "The surrounding area is famous for its vibrant nightlife, cafes, and street murals."]
+    },
+    image: "/poi-images/puente-de-los-suspiros-landmarks-v2.webp"
+  },
   {
     id: "kathedrale-cusco-landmarks-v2",
     type: "landmark",
@@ -881,10 +637,7 @@ export const poiExtraPeruLandmarksV2: POI[] = [
       en: "The magnificent main church on the Plaza de Armas in Cusco, built on the foundations of an ancient Inca palace."
     },
     descriptionAdvanced: {
-      de: "",
-      hu: "",
-      ro: "",
-      en: "The Cathedral of Cusco is the grand centerpiece of the Plaza de Armas and a magnificent symbol of the Spanish conquest and colonial power. Built between 1560 and 1654 on the site of the palace of the Inca Viracocha, it was constructed using stones taken from the nearby fortress of Sacsayhuamán. The cathedral's interior is a treasure trove of colonial art, featuring an incredible collection of 'Cusco School' paintings that blend European styles with indigenous symbolism. One of its most famous artworks is the 'Last Supper,' which depicts the disciples eating a roasted guinea pig (cuy). The cathedral also houses the 'Lord of the Earthquakes' (Taytacha Temblores), a revered image of Christ that is believed to protect the city. Its massive silver altar and beautifully carved choir stalls make it one of the most impressive religious buildings in the Americas."
+      en: "The Cathedral Basilica of the Virgin of the Assumption in Cusco is a majestic symbol of the city's colonial history and its complex religious identity. Constructed between 1560 and 1654 on the site of the Inca palace of Kiswarkancha, it is a masterpiece of Gothic-Renaissance and Baroque architecture. The cathedral is famous for its 'Cusco School' paintings, most notably the 'Last Supper' by Marcos Zapata, which features a roasted guinea pig (cuy) on the table—a unique Andean touch. The interior is filled with gold and silver-plated altars and a massive choir carved from cedar. Its towers house the famous Maria Angola bell, whose deep chime can be heard for miles. The cathedral stands as a powerful reminder of the Spanish attempt to replace Inca traditions with Catholicism, resulting in a unique cultural fusion. History K8 — Colonial art and religious syncretism in the Andes."
     },
     facts: {
       de: ["Der Bau dauerte fast 100 Jahre und wurde 1654 abgeschlossen.", "Viele Steine stammen aus der Festung Sacsayhuamán.", "Beherbergt ein Gemälde des Letzten Abendmahls mit einem Meerschweinchen."],
@@ -893,17 +646,10 @@ export const poiExtraPeruLandmarksV2: POI[] = [
       en: ["Construction took nearly 100 years and was completed in 1654.", "Many stones come from the Sacsayhuamán fortress.", "Houses a painting of the Last Supper featuring a guinea pig."]
     },
     factsAdvanced: {
-      de: [],
-      hu: [],
-      ro: [],
-      en: [
-        "Designated a UNESCO World Heritage site as part of the city of Cusco.",
-        "It took nearly 100 years to complete its construction.",
-        "The Maria Angola bell, cast in 1659, is one of the largest and most famous in South America.",
-        "Features a unique fusion of Gothic, Renaissance, and Baroque styles.",
-        "Houses more than 400 paintings from the famous Cusco School of art."
-      ]
-    }, image: "/poi-images/kathedrale-cusco-landmarks-v2.webp"},
+      en: ["Built using stones taken from the nearby Inca fortress of Sacsayhuamán.", "The 'Last Supper' painting shows a local guinea pig (cuy) as the main dish.", "Features the Maria Angola bell, the largest in Peru, cast in 1659 from gold and bronze.", "The cathedral's main altar is covered in solid silver, weighing over 400 kilograms.", "Houses the 'Lord of the Earthquakes' (Taytacha Temblores), the city's most revered statue.", "The building took nearly 100 years to complete due to its massive scale.", "Included in the UNESCO World Heritage site of the city of Cusco.", "Features 11 auxiliary chapels, each with its own ornate altar and artwork."]
+    },
+    image: "/poi-images/kathedrale-cusco-landmarks-v2.webp"
+  },
   {
     id: "museo-larco-landmarks-v2",
     type: "landmark",
@@ -917,10 +663,7 @@ export const poiExtraPeruLandmarksV2: POI[] = [
       en: "A privately run museum of pre-Columbian art in Lima, housed in a beautiful 18th-century building."
     },
     descriptionAdvanced: {
-      de: "",
-      hu: "",
-      ro: "",
-      en: "The Larco Museum in Lima is widely considered one of the best museums in South America, offering a comprehensive and beautifully curated journey through 5,000 years of pre-Columbian history. Housed in an 18th-century vice-royal mansion built over a 7th-century pyramid, the museum is famous for its world-class collection of gold and silver jewelry, intricate textiles, and its unique gallery of erotic pottery. Unlike many traditional museums, its storerooms are open to the public, allowing visitors to see thousands of additional archaeological pieces. The museum is surrounded by lush, flowering gardens that provide a tranquil setting for its excellent cafe and terrace. It is a must-visit for anyone wanting to understand the complex civilizations that flourished in Peru long before the Incas. The quality and presentation of its artifacts are truly world-class."
+      en: "The Larco Museum in Lima is a world-class treasure trove of pre-Columbian art, housed in a beautiful 18th-century vice-royal mansion built over a 7th-century pyramid. It is widely considered one of the best museums in the world, offering a comprehensive and fascinating journey through 5,000 years of ancient Peruvian history. The museum is famous for its extraordinary collection of Moche ceramics, particularly its unique and world-renowned erotic pottery gallery. Unlike many museums, Larco allows visitors into its 'open storage' area, where tens of thousands of cataloged pieces can be viewed. The museum's lush gardens and elegant restaurant provide a serene atmosphere to reflect on the artistic genius of cultures like the Nazca, Wari, and Inca. It is an essential stop for anyone wishing to understand the soul of ancient Peru. History K8 — Pre-Columbian art and museum science."
     },
     facts: {
       de: ["Besitzt eine der größten Sammlungen altperuanischer Kunstwerke.", "Bekannt für seine Galerie prähispanischer erotischer Keramik.", "Gegründet im Jahr 1926 von Rafael Larco Hoyle."],
@@ -929,17 +672,10 @@ export const poiExtraPeruLandmarksV2: POI[] = [
       en: ["Possesses one of the largest collections of ancient Peruvian art.", "Known for its gallery of pre-Hispanic erotic ceramics.", "Founded in 1926 by Rafael Larco Hoyle."]
     },
     factsAdvanced: {
-      de: [],
-      hu: [],
-      ro: [],
-      en: [
-        "Founded in 1926 by Rafael Larco Hoyle.",
-        "Located in a former mansion that was built on top of a pre-Columbian pyramid.",
-        "Famous for its 'Erotic Gallery,' a rare collection of pre-Columbian sexual representations.",
-        "One of the few museums in the world that allows public access to its entire storage collection.",
-        "Consistently ranked as one of the top museums in the world by TripAdvisor travelers."
-      ]
-    }, image: "/poi-images/museo-larco-landmarks-v2.webp"},
+      en: ["Founded in 1926 by Rafael Larco Hoyle, a pioneer of Peruvian archaeology.", "Housed in a colonial mansion built over a pre-Columbian adobe pyramid.", "Famous for its 'Erotic Gallery', which showcases the open attitude of ancient cultures toward sexuality.", "One of the few museums in the world with an open-access storage area for over 30,000 artifacts.", "The collection includes the world's finest gold and silver jewelry from ancient Peru.", "The museum's gardens have won awards for their beauty and variety of flowers.", "Provides a chronological tour of Peru's diverse regional cultures over five millennia.", "Consistently ranked as one of the top museums in the world by TripAdvisor."]
+    },
+    image: "/poi-images/museo-larco-landmarks-v2.webp"
+  },
   {
     id: "sillustani-landmarks-v2",
     type: "landmark",
@@ -953,10 +689,7 @@ export const poiExtraPeruLandmarksV2: POI[] = [
       en: "A pre-Hispanic cemetery on the shores of Lake Umayo in Puno, famous for its cylindrical stone tombs known as Chullpas."
     },
     descriptionAdvanced: {
-      de: "",
-      hu: "",
-      ro: "",
-      en: "Sillustani is a hauntingly beautiful pre-Inca cemetery located on a peninsula overlooking Lake Umayo, near the city of Puno. It is famous for its 'chullpas,' massive cylindrical stone towers that served as tombs for the elite of the Colla and later the Inca cultures. These towers, some reaching up to 12 meters in height, are feats of ancient engineering, with perfectly fitted stones that have survived centuries of exposure. The site's location on a windswept plateau surrounded by the deep blue waters of the lake creates a profound sense of peace and mystery. Many of the towers were damaged by tomb robbers over the centuries, but their scale and the precision of their construction are still awe-inspiring. Visitors often visit at sunset when the light casts long shadows across the ancient stones. It remains one of the most important and evocative archaeological sites in the Peruvian Altiplano."
+      en: "Sillustani is a hauntingly beautiful archaeological site located on a windswept peninsula in Lake Umayo, near Puno. It is famous for its 'chullpas'—towering stone funerary cylinders built by the Colla people and later the Incas to house the remains of noble families. Some of these structures reach heights of 12 meters and showcase some of the finest stonemasonry in the Andes, with massive blocks fitted together with surgical precision. The chullpas were designed with small openings facing east, toward the rising sun, symbolizing the cycle of life and rebirth. The site's stark, high-altitude landscape and its location overlooking the deep blue waters of the lake create a sense of profound mystery and reverence. Sillustani remains a powerful symbol of the Andean connection to the ancestors and the afterlife. History K8 — Funerary traditions and Andean cosmogony."
     },
     facts: {
       de: ["Wurde von der Colla-Kultur vor den Inkas erbaut.", "Die Gräber sind bis zu 12 Meter hoch.", "Architektur zeigt perfekte Steinmetzarbeiten."],
@@ -965,17 +698,10 @@ export const poiExtraPeruLandmarksV2: POI[] = [
       en: ["Built by the Colla culture before the Incas.", "The tombs are up to 12 meters high.", "Architecture displays perfect stonemasonry."]
     },
     factsAdvanced: {
-      de: [],
-      hu: [],
-      ro: [],
-      en: [
-        "The tallest chullpas reach a height of approximately 12 meters (39 feet).",
-        "The Colla people built these tombs before they were conquered by the Incas in the 15th century.",
-        "Some of the stones feature carvings of lizards, which were considered symbols of life.",
-        "Lake Umayo, surrounding the site, is home to various species of high-altitude birds.",
-        "Located at an altitude of nearly 3,900 meters above sea level."
-      ]
-    }, image: "/poi-images/sillustani-landmarks-v2.webp"},
+      en: ["The Colla people built the chullpas before being conquered by the Incas in the 15th century.", "The tombs were designed to hold entire families along with offerings for the afterlife.", "The 'Lizard Chullpa' is the most famous and well-preserved tower at the site.", "Stones were joined without mortar, using the same precise technique seen at Machu Picchu.", "Located at an altitude of nearly 4,000 meters in the Altiplano.", "The site offers a stunning view of the wild Lake Umayo, home to many endemic birds.", "Many towers were blown up by treasure hunters seeking gold and silver during the colonial era.", "The circular shape of the towers is thought to symbolize the womb or the cycle of life."]
+    },
+    image: "/poi-images/sillustani-landmarks-v2.webp"
+  },
   {
     id: "tambomachay-landmarks-v2",
     type: "landmark",
@@ -989,10 +715,7 @@ export const poiExtraPeruLandmarksV2: POI[] = [
       en: "An Inca archaeological site that served as a sanctuary dedicated to water or baths of the Inca."
     },
     descriptionAdvanced: {
-      de: "",
-      hu: "",
-      ro: "",
-      en: "Tambomachay, often called the 'Bath of the Inca,' is a beautiful archaeological site near Cusco that showcases the Incas' sophisticated understanding of hydraulic engineering. The site consists of a series of finely carved stone aqueducts, canals, and waterfalls that run through the terraces of a hillside. It is believed to have served as a military outpost or a sacred spa for the Inca elite, where water was used for both physical and spiritual purification. The water still flows perfectly through the ancient channels today, its source remaining hidden deep within the mountain. Its serene atmosphere and the constant sound of running water make it one of the most tranquil stops on the circuit of ruins around Cusco. The site is a perfect example of the Incas' deep reverence for water as a sacred element of life."
+      en: "Tambomachay, often called the 'Bath of the Inca,' is a beautiful archaeological site near Cusco that showcases the Incas' sophisticated understanding of hydraulic engineering. The site consists of a series of finely carved stone aqueducts, canals, and waterfalls that run through the terraces of a hillside. It is believed to have served as a military outpost or a sacred spa for the Inca elite, where water was used for both physical and spiritual purification. The water still flows perfectly through the ancient channels today, its source remaining hidden deep within the mountain. Its serene atmosphere and the constant sound of running water make it one of the most tranquil stops on the circuit of ruins around Cusco. The site is a perfect example of the Incas' deep reverence for water as a sacred element of life. Geography K8 — Inca hydraulics and sacred landscapes."
     },
     facts: {
       de: ["Liegt in der Nähe von Cusco.", "Verfügt über ein ausgeklügeltes System von Aquädukten und Wasserfällen.", "Das Wasser fließt das ganze Jahr über konstant."],
@@ -1001,17 +724,10 @@ export const poiExtraPeruLandmarksV2: POI[] = [
       en: ["Located near Cusco.", "Features an elaborate system of aqueducts and waterfalls.", "The water flows consistently throughout the year."]
     },
     factsAdvanced: {
-      de: [],
-      hu: [],
-      ro: [],
-      en: [
-        "Features a series of platforms and niches carved with incredible precision.",
-        "The water source is an underground spring that has never run dry.",
-        "Located at an altitude of 3,700 meters, just 7 km from Cusco.",
-        "Commonly used as part of a four-ruin circuit including Sacsayhuamán, Q'enqo, and Puka Pukara.",
-        "Probably served as a center for the cult of water."
-      ]
-    }, image: "/poi-images/tambomachay-landmarks-v2.webp"},
+      en: ["Features a series of platforms and niches carved with incredible precision.", "The water source is an underground spring that has never run dry.", "Located at an altitude of 3,700 meters, just 7 km from Cusco.", "Commonly used as part of a four-ruin circuit including Sacsayhuamán, Q'enqo, and Puka Pukara.", "Probably served as a center for the cult of water.", "The stones are cut in the 'Imperial' style, fitting together perfectly without mortar.", "The sound of the falling water is said to have a meditative and healing effect.", "Important stop on the Inca road system (Qhapaq Ñan) leading from Cusco."]
+    },
+    image: "/poi-images/tambomachay-landmarks-v2.webp"
+  },
   {
     id: "qenqo-landmarks-v2",
     type: "landmark",
@@ -1025,10 +741,7 @@ export const poiExtraPeruLandmarksV2: POI[] = [
       en: "One of the largest Inca sanctuaries in the Cusco region, known for its channels and altars carved into the limestone rock."
     },
     descriptionAdvanced: {
-      de: "",
-      hu: "",
-      ro: "",
-      en: "Q'enqo is one of the most enigmatic Inca sanctuaries, consisting of a massive limestone rock that has been intricately carved with channels, steps, and altars. Its name, which means 'zigzag' or 'labyrinth' in Quechua, likely refers to the winding channels carved into its surface, possibly used for ritual libations of chicha or blood. The most fascinating part of the site is its semi-enclosed underground chamber, which contains a large stone altar where mummification or other sacred ceremonies may have taken place. Unlike the massive built structures of other Inca sites, Q'enqo is an example of 'carved rock' architecture, where the natural form of the stone was modified for spiritual purposes. Surrounded by a forest of eucalyptus trees, it has a quiet and mystical feel that stands in contrast to the nearby fortress of Sacsayhuamán. It remains a key site for understanding Inca religious practices and their connection to the earth."
+      en: "Q'enqo is one of the most enigmatic Inca sanctuaries, consisting of a massive limestone rock that has been intricately carved with channels, steps, and altars. Its name, which means 'zigzag' or 'labyrinth' in Quechua, likely refers to the winding channels carved into its surface, possibly used for ritual libations of chicha or blood. The most fascinating part of the site is its semi-enclosed underground chamber, which contains a large stone altar where mummification or other sacred ceremonies may have taken place. Unlike the massive built structures of other Inca sites, Q'enqo is an example of 'carved rock' architecture, where the natural form of the stone was modified for spiritual purposes. Surrounded by a forest of eucalyptus trees, it has a quiet and mystical feel that stands in contrast to the nearby fortress of Sacsayhuamán. It remains a key site for understanding Inca religious practices and their connection to the earth. History K8 — Inca rituals and sacred stones."
     },
     facts: {
       de: ["Der Name bedeutet in Quechua 'Labyrinth'.", "Wurde vermutlich für Rituale und Opferungen genutzt.", "Verfügt über einen monolithischen Altarraum im Inneren."],
@@ -1037,17 +750,10 @@ export const poiExtraPeruLandmarksV2: POI[] = [
       en: ["The name means 'labyrinth' in Quechua.", "Was probably used for rituals and sacrifices.", "Features a monolithic altar room inside."]
     },
     factsAdvanced: {
-      de: [],
-      hu: [],
-      ro: [],
-      en: [
-        "The main rock is a massive natural limestone monolith.",
-        "Features a 'sacrificial room' located inside a natural cave within the rock.",
-        "The zigzagging channels on top may have been used to predict the future based on how liquids flowed.",
-        "Located just a few minutes' drive or a short hike from the city of Cusco.",
-        "Part of the UNESCO World Heritage listed archaeological area of Cusco."
-      ]
-    }, image: "/poi-images/qenqo-landmarks-v2.webp"},
+      en: ["The main rock is a massive natural limestone monolith.", "Features a 'sacrificial room' located inside a natural cave within the rock.", "The zigzagging channels on top may have been used to predict the future based on how liquids flowed.", "Located just a few minutes' drive or a short hike from the city of Cusco.", "Part of the UNESCO World Heritage listed archaeological area of Cusco.", "Spanish accounts mention the site was once used for the worship of the puma.", "Includes a large stone pillar that may have served as a solar observatory.", "The interior chamber remains cool and constant in temperature, ideal for ritual use."]
+    },
+    image: "/poi-images/qenqo-landmarks-v2.webp"
+  },
   {
     id: "cumbemayo-landmarks-v2",
     type: "landmark",
@@ -1061,10 +767,7 @@ export const poiExtraPeruLandmarksV2: POI[] = [
       en: "An impressive archaeological site known for its pre-Inca aqueducts and the distinctive rock formations 'Los Frailones'."
     },
     descriptionAdvanced: {
-      de: "",
-      hu: "",
-      ro: "",
-      en: "Cumbemayo is a spectacular archaeological site near Cajamarca, famous for its pre-Inca aqueduct that is considered one of the greatest engineering feats of ancient South America. Carved into solid volcanic rock over 3,000 years ago, the canal runs for several kilometers with incredible precision, including sharp 90-degree turns designed to slow the water's flow. The site is also known for 'Los Frailones,' a collection of towering, jagged rock formations that resemble a group of hooded monks. It was likely a sacred site where water was worshiped as a life-giving force, and ancient petroglyphs can still be seen on some of the rock faces. Its location at high altitude provides stunning views of the Cajamarca valley and a sense of profound isolation. Cumbemayo remains a testament to the sophisticated hydraulic knowledge of pre-Columbian cultures in northern Peru."
+      en: "Cumbemayo is a spectacular archaeological site near Cajamarca, famous for its pre-Inca aqueduct that is considered one of the greatest engineering feats of ancient South America. Carved into solid volcanic rock over 3,000 years ago, the canal runs for several kilometers with incredible precision, including sharp 90-degree turns designed to slow the water's flow. The site is also known for 'Los Frailones,' a collection of towering, jagged rock formations that resemble a group of hooded monks. It was likely a sacred site where water was worshiped as a life-giving force, and ancient petroglyphs can still be seen on some of the rock faces. Its location at high altitude provides stunning views of the Cajamarca valley and a sense of profound isolation. Cumbemayo remains a testament to the sophisticated hydraulic knowledge of pre-Columbian cultures in northern Peru. History K8 — Ancient water engineering and landscape modification."
     },
     facts: {
       de: ["Das Aquädukt ist über 3.000 Jahre alt.", "In den Fels gehauene Kanäle zeigen feine Petroglyphen.", "Auf einer Höhe von 3.500 Metern in der Region Cajamarca gelegen."],
@@ -1073,17 +776,7 @@ export const poiExtraPeruLandmarksV2: POI[] = [
       en: ["The aqueduct is over 3,000 years old.", "Channels carved into the rock display fine petroglyphs.", "Located at an altitude of 3,500 meters in the Cajamarca region."]
     },
     factsAdvanced: {
-      de: [],
-      hu: [],
-      ro: [],
-      en: [
-        "The aqueduct is approximately 9 kilometers long.",
-        "Dates back to the Cajamarca or Chavín cultures, around 1500 BC.",
-        "The name is derived from 'Kumbe Mayo,' meaning 'well-made river'.",
-        "Located at an altitude of about 3,500 meters.",
-        "The 'Los Frailones' rocks can reach heights of up to 18 meters."
-      ]
+      en: ["The aqueduct is approximately 9 kilometers long and carved directly into volcanic rock.", "Dates back to the Cajamarca or Chavín cultures, around 1500 BC.", "The name is derived from 'Kumbe Mayo,' meaning 'well-made river' in Quechua.", "Located at an altitude of about 3,500 meters in the northern Peruvian Andes.", "The 'Los Frailones' rocks can reach heights of up to 18 meters and are natural formations.", "Includes diverse 'altars' and petroglyphs with enigmatic meanings.", "The precision of the channel's 90-degree angles is still studied by modern engineers.", "A major center for the 'cult of water' that flourished in the region for millennia."]
     }
   }
 ];
-

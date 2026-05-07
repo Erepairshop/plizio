@@ -12,7 +12,14 @@ export const poiExtraEquatorialguineaHistoryV2: POI[] = [
       hu: "Szent Erzsébet-székesegyház",
       ro: "Catedrala Santa Isabel",
       en: "Santa Isabel Cathedral"
+    ,
+    descriptionAdvanced: {
+      de: "Die Kathedrale Santa Isabel in Malabo ist ein herausragendes Beispiel für die neugotische Architektur Äquatorialguineas und ein wesentliches Erbe der spanischen Kolonialzeit. Der Bau, der 1897 begann und unter der Leitung des Architekten Luis Segarra Llairadó erfolgte, prägt mit seinen zwei 40 Meter hohen Türmen die Skyline der Hauptstadt. Die Kathedrale ist nicht nur ein Ort des christlichen Glaubens, sondern auch ein architektonisches Symbol, das die historische Verbindung zwischen Äquatorialguinea und Spanien sowie den Einfluss europäischer Baustile im 19. und frühen 20. Jahrhundert widerspiegelt. Die Lage direkt an der Plaza de la Independencia unterstreicht ihre Bedeutung als religiöser und sozialer Mittelpunkt. Geschichte K8, Architektur K7."
     },
+    factsAdvanced: {
+      de: ["Grundsteinlegung im Jahr 1897.", "Wichtiger Entwurf von Luis Segarra Llairadó.", "Die zwei Türme sind markante Wahrzeichen von Malabo.", "Spiegelt den Einfluss des Neogotik-Stils in den Kolonien wider.", "Zentraler Punkt des religiösen Lebens in Äquatorialguinea.", "Liegt an der historischen Plaza de la Independencia."]
+    }
+  },
     description: {
       de: "Eine beeindruckende neugotische Kathedrale in Malabo, die als eines der bedeutendsten architektonischen Erbe der Kolonialzeit gilt.",
       hu: "Lenyűgöző neogótikus székesegyház Malabóban, amely a gyarmati korszak egyik legjelentősebb építészeti öröksége.",
@@ -55,7 +62,14 @@ export const poiExtraEquatorialguineaHistoryV2: POI[] = [
       hu: "Bata régi postaépülete",
       ro: "Vechiul Oficiu Poștal din Bata",
       en: "Old Post Office of Bata"
+    ,
+    descriptionAdvanced: {
+      de: "Das alte Postgebäude in Bata ist eines der markantesten historischen Gebäude der Stadt und dient als Zeugnis der administrativen Struktur während der spanischen Herrschaft. Mit seinem klassischen architektonischen Design spiegelt es die Art und Weise wider, wie koloniale Verwaltungen im 20. Jahrhundert die Infrastruktur der Städte entlang der Küste von Río Muni organisierten. Das Gebäude war einst das Herz der Kommunikation und ist heute ein geschätztes Denkmal, das die Geschichte Batas als Handels- und Verwaltungszentrum verkörpert. Der gut erhaltene Zustand macht es zu einem wichtigen Ziel für alle, die sich für das historische Erbe und die städtebauliche Entwicklung Batas interessieren. Geschichte K8, Sozialkunde K7."
     },
+    factsAdvanced: {
+      de: ["Repräsentiert den klassischen spanischen Kolonialstil.", "Zentraler Knotenpunkt für den Postverkehr im 20. Jahrhundert.", "Befindet sich in exponierter Lage in Küstennähe.", "Erhaltenswertes Beispiel kolonialer Architektur.", "Zeugnis der administrativen Expansion während des 20. Jahrhunderts.", "Zentrum des Austauschs von Nachrichten und Waren."]
+    }
+  },
     description: {
       de: "Ein markantes koloniales Gebäude in Bata, das die administrative Geschichte der Stadt während der spanischen Herrschaft widerspiegelt.",
       hu: "Jellegzetes gyarmati épület Batában, amely a város spanyol uralom alatti közigazgatási történelmét tükrözi.",
@@ -98,7 +112,14 @@ export const poiExtraEquatorialguineaHistoryV2: POI[] = [
       hu: "Bata szabadság-tornya",
       ro: "Turnul Libertății din Bata",
       en: "Freedom Tower of Bata"
+    ,
+    descriptionAdvanced: {
+      de: "Der Freiheitsturm (Torre Libertad) ist ein modernes Monument an der Uferpromenade von Bata, das seit seiner Einweihung im Jahr 2011 als Symbol für die nationale Souveränität und den rasanten Fortschritt Äquatorialguineas gilt. Er bietet nicht nur eine spektakuläre Rundumsicht über die größte Stadt des Landes und den Atlantischen Ozean, sondern ist auch ein markantes Wahrzeichen, das den Wandel des Landes in die Moderne verdeutlicht. Besonders bei nächtlicher Beleuchtung prägt das Monument das Stadtbild von Bata und stellt einen wichtigen Treffpunkt sowie ein Ziel für Besucher dar, die die zeitgenössische Entwicklung des Staates erleben möchten. Geschichte K8, Technologie K7."
     },
+    factsAdvanced: {
+      de: ["Eingeweiht anlässlich der nationalen Unabhängigkeit im Jahr 2011.", "Höhe erlaubt einen weiten Blick über die gesamte Küstenlinie von Bata.", "Ein Herzstück der modernen Stadtentwicklung an der Promenade.", "Prachtvolle Lichtinszenierung nach Sonnenuntergang.", "Symbol für den Fortschritt des Landes im 21. Jahrhundert.", "Wichtiges Ziel für Einheimische und Touristen."]
+    }
+  },
     description: {
       de: "Ein modernes Monument an der Uferpromenade von Bata, das die Unabhängigkeit und den Fortschritt des Landes symbolisiert.",
       hu: "Modern emlékmű Bata tengerparti sétányán, amely az ország függetlenségét és haladását szimbolizálja.",
@@ -142,7 +163,14 @@ export const poiExtraEquatorialguineaHistoryV2: POI[] = [
       hu: "Mongomói bazilika",
       ro: "Bazilica din Mongomo",
       en: "Basilica of Mongomo"
+    ,
+    descriptionAdvanced: {
+      de: "Die Basilika von Mongomo, im Jahr 2011 offiziell geweiht, ist eine der beeindruckendsten religiösen Stätten in Afrika und wurde in einem prachtvollen Baustil errichtet, der an den Petersdom im Vatikan erinnert. Als Sitz des Bistums Mongomo dominiert sie die Region und zeugt vom bedeutenden Einfluss des Christentums in der Geschichte Äquatorialguineas. Die opulente Ausstattung mit edlen Marmorelementen und die enorme Größe machen sie zu einem architektonischen Wunderwerk, das weit über die Grenzen der Provinz hinaus bekannt ist. Sie fungiert heute als geistiges Zentrum und Ort nationaler Bedeutung, an dem sowohl spirituelle als auch offizielle Zeremonien abgehalten werden. Geschichte K8, Kunst K7."
     },
+    factsAdvanced: {
+      de: ["Eine der größten Kirchen auf dem gesamten afrikanischen Kontinent.", "Der Baustil wurde von berühmten europäischen Kirchen inspiriert.", "Zentrum der lokalen Diözese Mongomo.", "Weithin sichtbar aufgrund ihrer enormen Ausmaße.", "Wichtiger Ort für nationale und religiöse Feierlichkeiten.", "Das Innere ist mit hochwertigem Marmor geschmückt."]
+    }
+  },
     description: {
       de: "Eine der größten christlichen Kirchen Afrikas, die im Stil des Petersdoms erbaut wurde und die Region Mongomo dominiert.",
       hu: "Afrika egyik legnagyobb keresztény temploma, amely a Szent Péter-bazilika stílusában épült és uralja a mongomói régiót.",
@@ -228,7 +256,14 @@ export const poiExtraEquatorialguineaHistoryV2: POI[] = [
       hu: "Riaba romjai",
       ro: "Ruinele din Riaba",
       en: "Ruins of Riaba"
+    ,
+    descriptionAdvanced: {
+      de: "Die Ruinen von Riaba, historisch als Concepción bekannt, markieren eine der ersten Stätten europäischen Einflusses auf Bioko und sind ein bedeutendes Zeugnis der frühen kolonialen Präsenz. Einst als wichtiger Hafen, unter anderem für den Sklavenhandel, genutzt, bieten die verbliebenen Lagerhäuser und Gebäude heute einen melancholischen Einblick in eine schwierige und komplexe historische Vergangenheit. Die Stätte ist von zentraler Bedeutung für das Verständnis der Inselgeschichte und dokumentiert die frühe maritime Bedeutung von Riaba. Besucher können hier die Überreste einer Epoche erkunden, die Äquatorialguinea nachhaltig geprägt hat und deren Aufarbeitung ein wichtiger Teil des kulturellen Bewusstseins der heutigen Gesellschaft ist. Geschichte K8, Geografie K7."
     },
+    factsAdvanced: {
+      de: ["Erste spanische Landungsstelle auf der Insel.", "Wichtiger Umschlagplatz während der Ära des Sklavenhandels.", "Die Ruinen sind wichtige historische Denkmäler.", "Befindet sich an der historischen Ostküste von Bioko.", "Dokumentiert die frühe koloniale Infrastruktur.", "Ein Ort von hoher Bedeutung für die lokale Geschichtsforschung."]
+    }
+  },
     description: {
       de: "Die Überreste einer der ersten europäischen Siedlungen auf Bioko, früher als Concepción bekannt.",
       hu: "Bioko egyik első európai településének maradványai, amelyet korábban Concepción néven ismertek.",
@@ -315,7 +350,14 @@ export const poiExtraEquatorialguineaHistoryV2: POI[] = [
       hu: "Elobey Chico romjai",
       ro: "Ruinele din Elobey Chico",
       en: "Ruins of Elobey Chico"
+    ,
+    descriptionAdvanced: {
+      de: "Elobey Chico, heute eine unbewohnte Insel im Mündungsbereich des Muni-Flusses, war einst die stolze Hauptstadt des spanischen Territoriums Río Muni und ein vitales Handelszentrum. Nach der Aufgabe des Standorts Ende des 19. Jahrhunderts wurde die Insel weitgehend dem Regenwald überlassen, der heute die historischen Ruinen von Gebäuden wie dem Gouverneurspalast überwuchert. Diese Überreste sind stumme Zeugen einer Ära, in der Elobey Chico eine zentrale administrative und wirtschaftliche Rolle in der Region spielte. Die Insel bietet heute eine faszinierende Kulisse für Historiker und Entdecker, die den Spuren des kolonialen Erbes inmitten einer unberührten tropischen Natur folgen möchten. Geschichte K8, Geografie K7."
     },
+    factsAdvanced: {
+      de: ["War früher Hauptstadt des spanischen Territoriums Río Muni.", "Verlassen am Ende des 19. Jahrhunderts.", "Überreste des Gouverneurspalastes sind noch erkennbar.", "Die Insel wird zunehmend vom Dschungel zurückerobert.", "Historisch einflussreiches Handelszentrum der Region.", "Ein wichtiger Ort für die Erforschung der kolonialen Geschichte."]
+    }
+  },
     description: {
       de: "Einst die Hauptstadt des spanischen Territoriums Río Muni, heute eine unbewohnte Insel voller historischer Ruinen.",
       hu: "Valaha a spanyol Río Muni terület fővárosa, ma történelmi romokkal teli lakatlan sziget.",

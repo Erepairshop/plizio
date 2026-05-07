@@ -208,11 +208,11 @@ export const poiExtraHondurasCitiesV2: POI[] = [
     parent: "HN-YO",
     coords: [-87.1292, 15.1389],
     name: { de: "Yoro", hu: "Yoro", ro: "Yoro", en: "Yoro" },
-    description: { de: "Eine Stadt, die für das Phänomen des 'Fischregens' (Lluvia de Peces) bekannt ist.", hu: "Egy város, amely a „hal-eső” (Lluvia de Peces) jelenségéről ismert.", ro: "Un oraș cunoscut pentru fenomenul „ploaia de pești” (Lluvia de Peces).", en: "A city famous for the phenomenon of 'rain of fish' (Lluvia de Peces)." },
+    description: { de: "Eine Stadt, die für das Phänomen des 'Fischregens' (Lluvia de Peces) bekannt ist.", hu: "Egy város, amely a \"hal-eső\" (Lluvia de Peces) jelenségéről ismert.", ro: "Un oraș cunoscut pentru fenomenul \"ploaia de pești\" (Lluvia de Peces).", en: "A city famous for the phenomenon of 'rain of fish' (Lluvia de Peces)." },
     facts: {
       de: ["Hauptstadt des Departements Yoro", "Jährlicher 'Fischregen'", "Landwirtschaftliches Zentrum", "Ländliche Umgebung"],
-      hu: ["Yoro megye fővárosa", "Évenkénti „hal-eső”", "Mezőgazdasági központ", "Vidéki környezet"],
-      ro: ["Capitala departamentului Yoro", "„Ploaia de pești” anuală", "Centru agricol", "Mediu rural"],
+      hu: ["Yoro megye fővárosa", "Évenkénti \"hal-eső\"", "Mezőgazdasági központ", "Vidéki környezet"],
+      ro: ["Capitala departamentului Yoro", "\"Ploaia de pești\" anuală", "Centru agricol", "Mediu rural"],
       en: ["Capital of Yoro Department", "Annual 'Rain of Fish'", "Agricultural center", "Rural surroundings"]
     },
     descriptionAdvanced: {
@@ -283,7 +283,7 @@ export const poiExtraHondurasCitiesV2: POI[] = [
     parent: "HN-CR",
     coords: [-87.9786, 15.3183],
     name: { de: "Villanueva", hu: "Villanueva", ro: "Villanueva", en: "Villanueva" },
-    description: { de: "Eine Industriestadt, bekannt als 'die Stadt, die das Land versüßt' wegen ihrer Zuckerrohrplantagen.", hu: "Iparváros, melyet cukornádültetvényei miatt „az országot megédesítő városként” ismernek.", ro: "Un oraș industrial cunoscut ca „orașul care îndulcește țara” datorită plantațiilor sale de trestie de zahăr.", en: "An industrial city known as 'the city that sweetens the country' for its sugarcane plantations." },
+    description: { de: "Eine Industriestadt, bekannt als 'die Stadt, die das Land versüßt' wegen ihrer Zuckerrohrplantagen.", hu: "Iparváros, melyet cukornádültetvényei miatt \"az országot megédesítő városként\" ismernek.", ro: "Un oraș industrial cunoscut ca \"orașul care îndulcește țara\" datorită plantațiilor sale de trestie de zahăr.", en: "An industrial city known as 'the city that sweetens the country' for its sugarcane plantations." },
     facts: {
       de: ["Zuckerrohranbau", "Industrieparks", "Nahe San Pedro Sula", "Wachsende Bevölkerung"],
       hu: ["Cukornádtermesztés", "Ipari parkok", "San Pedro Sula közelében", "Növekvő népesség"],
@@ -336,8 +336,8 @@ export const poiExtraHondurasCitiesV2: POI[] = [
     description: { de: "Eine Stadt im zentralen Hochland, bekannt für ihr angenehmes Klima und ihre Pinienwälder.", hu: "A központi felföldön fekvő város, kellemes éghajlatáról és fenyőerdőiről ismert.", ro: "Un oraș în zonele înalte centrale, cunoscut pentru clima sa plăcută și pădurile de pini.", en: "A city in the central highlands, known for its pleasant climate and pine forests." },
     facts: {
       de: ["'Stadt der Pinien'", "Angenehmes Klima", "Zwischen Tegucigalpa und San Pedro Sula", "Forstwirtschaftsschule"],
-      hu: ["„A fenyők városa”", "Kellemes éghajlat", "Tegucigalpa és San Pedro Sula között", "Erdészeti iskola"],
-      ro: ["„Orașul pinilor”", "Climă plăcută", "Între Tegucigalpa és San Pedro Sula", "Școala de silvicultură"],
+      hu: ["\"A fenyők városa\"", "Kellemes éghajlat", "Tegucigalpa és San Pedro Sula között", "Erdészeti iskola"],
+      ro: ["\"Orașul pinilor\"", "Climă plăcută", "Între Tegucigalpa és San Pedro Sula", "Școala de silvicultură"],
       en: ["'City of Pines'", "Pleasant climate", "Located between Tegucigalpa and San Pedro Sula", "Forestry school"]
     },
     descriptionAdvanced: {
@@ -408,7 +408,7 @@ export const poiExtraHondurasCitiesV2: POI[] = [
     parent: "HN-CR",
     coords: [-87.9167, 15.4333],
     name: { de: "La Lima", hu: "La Lima", ro: "La Lima", en: "La Lima" },
-    description: { de: "Historisch bekannt als 'Hauptstadt der Banane', gegründet von der United Fruit Company.", hu: "Történelmileg a „banán fővárosaként” ismert, a United Fruit Company alapította.", ro: "Cunoscut istoric drept „capitala bananelor”, fondat de United Fruit Company.", en: "Historically known as the 'Banana Capital', founded by the United Fruit Company." },
+    description: { de: "Historisch bekannt als 'Hauptstadt der Banane', gegründet von der United Fruit Company.", hu: "Történelmileg a \"banán fővárosaként\" ismert, a United Fruit Company alapította.", ro: "Cunoscut istoric drept \"capitala bananelor\", fondat de United Fruit Company.", en: "Historically known as the 'Banana Capital', founded by the United Fruit Company." },
     facts: {
       de: ["Historisches Zentrum der Bananenindustrie", "Sitz der Tela Railroad Company", "Am Chamelecón-Fluss gelegen", "Fruchtbares Sula-Tal"],
       hu: ["A banánipar történelmi központja", "A Tela Railroad Company székhelye", "A Chamelecón-folyó partján", "Termékeny Sula-völgy"],
@@ -436,8 +436,8 @@ export const poiExtraHondurasCitiesV2: POI[] = [
     description: { de: "Eine Stadt im Aguán-Tal, die für ihre landwirtschaftliche Produktion bekannt ist.", hu: "Az Aguán-völgyben fekvő város, amely mezőgazdasági termeléséről ismert.", ro: "Un oraș din Valea Aguán, cunoscut pentru producția sa agricolă.", en: "A city in the Aguán Valley known for its agricultural production." },
     facts: {
       de: ["'Die bürgerliche Stadt'", "Landwirtschaftliches Zentrum", "Bananen- und Zitrusfruchtanbau", "Historische Bedeutung"],
-      hu: ["„A polgári város”", "Mezőgazdasági központ", "Banán- és citrusfélék termesztése", "Történelmi jelentőség"],
-      ro: ["„Orașul civic”", "Centru agricol", "Cultivarea bananelor și a citricelor", "Importanță istorică"],
+      hu: ["\"A polgári város\"", "Mezőgazdasági központ", "Banán- és citrusfélék termesztése", "Történelmi jelentőség"],
+      ro: ["\"Orașul civic\"", "Centru agricol", "Cultivarea bananelor și a citricelor", "Importanță istorică"],
       en: ["'The Civic City'", "Agricultural center", "Banana and citrus cultivation", "Historical importance"]
     },
     descriptionAdvanced: {
@@ -723,8 +723,8 @@ export const poiExtraHondurasCitiesV2: POI[] = [
     description: { de: "Eine Stadt in La Paz, die für ihren hochwertigen Kaffee mit Herkunftsbezeichnung bekannt ist.", hu: "La Paz megye városa, amely eredetmegjelöléssel ellátott, kiváló minőségű kávéjáról ismert.", ro: "Un oraș din La Paz, cunoscut pentru cafeaua sa de înaltă calitate cu denumire de origine.", en: "A city in La Paz known for its high-quality coffee with a designation of origin." },
     facts: {
       de: ["Kaffee mit Herkunftsbezeichnung", "'Hauptstadt des Kaffees'", "Kühles Bergklima", "Lenca-Gemeinschaften"],
-      hu: ["Eredetmegjelölt kávé", "„A kávé fővárosa”", "Hűvös hegyi éghajlat", "Lenca közösségek"],
-      ro: ["Cafea cu denumire de origine", "„Capitala cafelei”", "Climă montană răcoroasă", "Comunități Lenca"],
+      hu: ["Eredetmegjelölt kávé", "\"A kávé fővárosa\"", "Hűvös hegyi éghajlat", "Lenca közösségek"],
+      ro: ["Cafea cu denumire de origine", "\"Capitala cafelei\"", "Climă montană răcoroasă", "Comunități Lenca"],
       en: ["Coffee with designation of origin", "'Capital of Coffee'", "Cool mountain climate", "Lenca communities"]
     }, image: "/poi-images/marcala-cities-v2.webp"},
   {
@@ -772,7 +772,7 @@ export const poiExtraHondurasCitiesV2: POI[] = [
     parent: "HN-FM",
     coords: [-87.25, 13.8],
     name: { de: "Sabanagrande", hu: "Sabanagrande", ro: "Sabanagrande", en: "Sabanagrande" },
-    description: { de: "Eine Stadt südlich von Tegucigalpa, bekannt für ihre 'Rosquillas' (Maiskekse).", hu: "Tegucigalpától délre fekvő város, amely a „Rosquillas” (kukoricakeksz) süteményéről ismert.", ro: "Un oraș la sud de Tegucigalpa, cunoscut pentru „Rosquillas” (biscuiți de porumb).", en: "A city south of Tegucigalpa known for its 'Rosquillas' (corn cookies)." },
+    description: { de: "Eine Stadt südlich von Tegucigalpa, bekannt für ihre 'Rosquillas' (Maiskekse).", hu: "Tegucigalpától délre fekvő város, amely a \"Rosquillas\" (kukoricakeksz) süteményéről ismert.", ro: "Un oraș la sud de Tegucigalpa, cunoscut pentru \"Rosquillas\" (biscuiți de porumb).", en: "A city south of Tegucigalpa known for its 'Rosquillas' (corn cookies)." },
     facts: {
       de: ["Herstellung von Rosquillas", "Traditionelle Gastronomie", "Landwirtschaftliche Gemeinde", "Koloniale Kirche"],
       hu: ["Rosquillas készítése", "Hagyományos gasztronómia", "Mezőgazdasági közösség", "Gyarmati templom"],
@@ -840,8 +840,8 @@ ro: ["Comunitate rurală", "Cultivarea cafelei", "Cascade în apropiere", "Mediu
     description: { de: "Die Hauptsiedlung der Insel Guanaja, erbaut auf einem kleinen Cay mit Kanälen statt Straßen.", hu: "Guanaja sziget fő települése, egy kis szigeten (cay) épült, utcák helyett csatornákkal.", ro: "Așezarea principală a insulei Guanaja, construită pe o mică insuliță (cay) cu canale în loc de străzi.", en: "The main settlement of Guanaja island, built on a small cay with canals instead of streets." },
     facts: {
       de: ["'Venedig von Honduras'", "Auf Stelzen gebaut", "Keine Autos", "Fischerei und Tourismus"],
-      hu: ["„Honduras Velencéje”", "Cölöpökre épült", "Nincsenek autók", "Halászat és turizmus"],
-      ro: ["„Veneția Hondurasului”", "Construit pe piloni", "Fără mașini", "Pescuit și turism"],
+      hu: ["\"Honduras Velencéje\"", "Cölöpökre épült", "Nincsenek autók", "Halászat és turizmus"],
+      ro: ["\"Veneția Hondurasului\"", "Construit pe piloni", "Fără mașini", "Pescuit și turism"],
       en: ["'Venice of Honduras'", "Built on stilts", "No cars", "Fishing and tourism"]
     }, image: "/poi-images/guanaja-city-cities-v2.webp"},
   {
@@ -919,8 +919,8 @@ ro: ["Comunitate rurală", "Cultivarea cafelei", "Cascade în apropiere", "Mediu
     description: { de: "Eine wichtige Handelsstadt im Departement Intibucá, bekannt für ihren Getreideanbau.", hu: "Fontos kereskedőváros Intibucá megyében, gabonatermesztéséről ismert.", ro: "Un oraș comercial important în departamentul Intibucá, cunoscut pentru cultivarea cerealelor.", en: "An important commercial town in the Intibucá department, known for its grain cultivation." },
     facts: {
       de: ["'Kornkammer von Intibucá'", "Handelszentrum", "Reis- und Bohnenanbau", "Religiöse Feste"],
-      hu: ["„Intibucá magtára”", "Kereskedelmi központ", "Rizs- és babtermesztés", "Vallási ünnepek"],
-      ro: ["„Grânarul din Intibucá”", "Centru comercial", "Cultivarea orezului și a fasolei", "Festivaluri religioase"],
+      hu: ["\"Intibucá magtára\"", "Kereskedelmi központ", "Rizs- és babtermesztés", "Vallási ünnepek"],
+      ro: ["\"Grânarul din Intibucá\"", "Centru comercial", "Cultivarea orezului și a fasolei", "Festivaluri religioase"],
       en: ["'Grain-loft of Intibucá'", "Commercial center", "Rice and bean cultivation", "Religious festivals"]
     }, image: "/poi-images/jesus-de-otoro-cities-v2.webp"},
   {
@@ -1115,8 +1115,8 @@ ro: ["Comunitate rurală", "Cultivarea cafelei", "Cascade în apropiere", "Mediu
     description: { de: "Eine hochgelegene Lenca-Gemeinde mit atemberaubender Landschaft und starker indigener Kultur.", hu: "Magasan fekvő Lenca község lenyűgöző tájjal és erős őslakos kultúrával.", ro: "O municipalitate Lenca de mare altitudine cu peisaje uimitoare și o cultură indigenă puternică.", en: "A high-altitude Lenca municipality with breathtaking landscapes and a strong indigenous culture." },
     facts: {
       de: ["Höchstgelegene Gemeinde in Honduras", "Starke Lenca-Kultur", "Wasserfall 'Cascada de la Lluvia'", "Anbau von Hochlandgemüse"],
-      hu: ["Honduras legmagasabban fekvő községe", "Erős Lenca-kultúra", "„Cascada de la Lluvia” vízesés", "Magaslati zöldségek termesztése"],
-      ro: ["Cea mai înaltă municipalitate din Honduras", "Cultură Lenca puternică", "Cascada „Cascada de la Lluvia”", "Cultivarea legumelor de mare altitudine"],
+      hu: ["Honduras legmagasabban fekvő községe", "Erős Lenca-kultúra", "\"Cascada de la Lluvia\" vízesés", "Magaslati zöldségek termesztése"],
+      ro: ["Cea mai înaltă municipalitate din Honduras", "Cultură Lenca puternică", "Cascada \"Cascada de la Lluvia\"", "Cultivarea legumelor de mare altitudine"],
       en: ["Highest municipality in Honduras", "Strong Lenca culture", "'Cascada de la Lluvia' waterfall", "High-altitude vegetable farming"]
     }, image: "/poi-images/belen-gualcho-cities-v2.webp"},
   {
@@ -1193,8 +1193,8 @@ ro: ["Comunitate rurală", "Cultivarea cafelei", "Cascade în apropiere", "Mediu
     description: { de: "Eine Stadt im Departement Choluteca, bekannt für ihre Mango-Produktion.", hu: "Város Choluteca megyében, mangótermeléséről ismert.", ro: "Un oraș din departamentul Choluteca, cunoscut pentru producția sa de mango.", en: "A city in the Choluteca department, known for its mango production." },
     facts: {
       de: ["'Stadt der Mangos'", "Heißes, trockenes Klima", "Koloniale Architektur", "Landwirtschaftliches Zentrum"],
-      hu: ["„A mangók városa”", "Forró, száraz éghajlat", "Gyarmati építészet", "Mezőgazdasági központ"],
-      ro: ["„Orașul mangoului”", "Climă caldă și uscată", "Arhitectură colonială", "Centru agricol"],
+      hu: ["\"A mangók városa\"", "Forró, száraz éghajlat", "Gyarmati építészet", "Mezőgazdasági központ"],
+      ro: ["\"Orașul mangoului\"", "Climă caldă și uscată", "Arhitectură colonială", "Centru agricol"],
       en: ["'City of Mangoes'", "Hot, dry climate", "Colonial architecture", "Agricultural center"]
     }, image: "/poi-images/pespire-cities-v2.webp"},
   {

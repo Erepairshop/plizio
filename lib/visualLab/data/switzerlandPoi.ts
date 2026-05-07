@@ -330,8 +330,8 @@ export const switzerlandRegions: POI[] = [
     },
     description: {
       de: "Lausanne ist eine dynamische Stadt am Genfersee, bekannt als 'Olympische Hauptstadt', für ihre steilen Gassen, die beeindruckende Kathedrale und ihre lebendige studentische Atmosphäre.",
-      hu: "Lausanne egy dinamikus város a Genfi-tó partján, amely „olimpiai fővárosként”, meredek utcáiról, lenyűgöző székesegyházáról és vibráló diákéletéről ismert.",
-      ro: "Lausanne este un oraș dinamic pe malul lacului Leman, cunoscut drept „Capitala Olimpică”, pentru străzile sale abrupte, catedrala impresionantă și atmosfera sa studențească vibrantă.",
+      hu: "Lausanne egy dinamikus város a Genfi-tó partján, amely \\\"olimpiai fővárosként\\\", meredek utcáiról, lenyűgöző székesegyházáról és vibráló diákéletéről ismert.",
+      ro: "Lausanne este un oraș dinamic pe malul lacului Leman, cunoscut drept \\\"Capitala Olimpică\\\", pentru străzile sale abrupte, catedrala impresionantă și atmosfera sa studențească vibrantă.",
       en: "Lausanne is a dynamic city on Lake Geneva, known as the 'Olympic Capital', for its steep streets, impressive cathedral, and vibrant student atmosphere."
     },
     
@@ -510,8 +510,8 @@ export const switzerlandRegions: POI[] = [
     },
     description: {
       de: "Das Jungfraujoch, bekannt als 'Top of Europe', beherbergt den höchstgelegenen Bahnhof Europas und bietet einen atemberaubenden Blick auf den Aletschgletscher und die Berner Alpen.",
-      hu: "A Jungfraujoch, az „Európa tetejeként” ismert helyszín ad otthont Európa legmagasabban fekvő vasútállomásának, és lenyűgöző kilátást nyújt az Aletsch-gleccserre és a Berni-Alpokra.",
-      ro: "Jungfraujoch, cunoscut sub numele de „Top of Europe”, găzduiește cea mai înaltă gară din Europa și oferă o vedere uluitoare asupra ghețarului Aletsch și a Alpilor Bernezi.",
+      hu: "A Jungfraujoch, az \\\"Európa tetejeként\\\" ismert helyszín ad otthont Európa legmagasabban fekvő vasútállomásának, és lenyűgöző kilátást nyújt az Aletsch-gleccserre és a Berni-Alpokra.",
+      ro: "Jungfraujoch, cunoscut sub numele de \\\"Top of Europe\\\", găzduiește cea mai înaltă gară din Europa și oferă o vedere uluitoare asupra ghețarului Aletsch și a Alpilor Bernezi.",
       en: "Jungfraujoch, known as the 'Top of Europe', is home to the highest railway station in Europe and offers breathtaking views of the Aletsch Glacier and the Bernese Alps."
     },
     
@@ -2745,7 +2745,7 @@ export const switzerlandCities: POI[] = [
       hu: [
         "Birsfelden Basel mellett, a Rajnánál található.",
         "A kikötő az északnyugat-svájci logisztika része.",
-        "Átrakodási és elosztóközpontként működik.",
+        "Átrakodási és elosztóközpontként működik.",
         "A három ország közelsége előny.",
         "A helyszín fontos a kereskedelem és a szállítás számára."
       ],

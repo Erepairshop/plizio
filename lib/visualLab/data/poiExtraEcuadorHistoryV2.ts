@@ -43,10 +43,10 @@ export const poiExtraEcuadorHistoryV2: POI[] = [
       en: "A significant Inca ruin in the heart of Cuenca that once served as a religious and administrative center."
     },
     facts: {
-      de: ["Der Name bedeutet \"Tor des Pumas\".", "Enthält Überreste von Palästen und Sonnentempeln."],
-      hu: ["A név jelentése \"A puma kapuja\".", "Paloták és naptemplomok maradványait tartalmazza."],
-      ro: ["Numele înseamnă \"Poarta Pumei\".", "Conține rămășițe de palate și temple ale soarelui."],
-      en: ["The name means \"Door of the Puma\".", "Contains remains of palaces and sun temples."]
+      de: ["Der Name bedeutet \\\"Tor des Pumas\\\".", "Enthält Überreste von Palästen und Sonnentempeln."],
+      hu: ["A név jelentése \\\"A puma kapuja\\\".", "Paloták és naptemplomok maradványait tartalmazza."],
+      ro: ["Numele înseamnă \\\"Poarta Pumei\\\".", "Conține rămășițe de palate și temple ale soarelui."],
+      en: ["The name means \\\"Door of the Puma\\\".", "Contains remains of palaces and sun temples."]
     }, image: "/poi-images/pumapungo-history-v2.webp"},
   {
     id: "la-compania-de-jesus-history-v2",
@@ -688,10 +688,10 @@ export const poiExtraEcuadorHistoryV2: POI[] = [
       en: "A monumental art complex in Quito, designed by the artist Oswaldo Guayasamín, dedicated to Latin American history."
     },
     facts: {
-      de: ["Der Name bedeutet \"Kapelle des Menschen\".", "Das Gebäude selbst ist ein Meisterwerk der modernen Architektur."],
-      hu: ["A név jelentése \"Az ember kápolnája\".", "Maga az épület a modern építészet remekműve."],
-      ro: ["Numele înseamnă \"Capela Omului\".", "Clădirea în sine este o capodoperă a arhitecturii moderne."],
-      en: ["The name means \"Chapel of Man\".", "The building itself is a masterpiece of modern architecture."]
+      de: ["Der Name bedeutet \\\"Kapelle des Menschen\\\".", "Das Gebäude selbst ist ein Meisterwerk der modernen Architektur."],
+      hu: ["A név jelentése \\\"Az ember kápolnája\\\".", "Maga az épület a modern építészet remekműve."],
+      ro: ["Numele înseamnă \\\"Capela Omului\\\".", "Clădirea în sine este o capodoperă a arhitecturii moderne."],
+      en: ["The name means \\\"Chapel of Man\\\".", "The building itself is a masterpiece of modern architecture."]
     }
   }
 ];

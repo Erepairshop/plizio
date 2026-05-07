@@ -198,10 +198,10 @@ export const poiExtraIndiaLandmarksV2: POI[] = [
       en: "Lotus Temple"
     },
     description: {
-      de: "Ein Baháʼí-Haus der Anbetung in Delhi, Indien. Bemerkenswert für seine blumenähnliche Form, ist es zu einer bedeutenden Attraktion in der Stadt geworden.",
+      de: "Ein Bahá'í-Haus der Anbetung in Delhi, Indien. Bemerkenswert für seine blumenähnliche Form, ist es zu einer bedeutenden Attraktion in der Stadt geworden.",
       hu: "Egy bahá'í imaház Delhiben, Indiában. Virágszerű formájáról nevezetes, a város egyik fő látványosságává vált.",
-      ro: "O Casă de Adorație Baháʼí situată în Delhi, India. Remarcabilă pentru forma sa asemănătoare unei flori, a devenit o atracție proeminentă în oraș.",
-      en: "A Baháʼí House of Worship located in Delhi, India. Notable for its flowerlike shape, it has become a prominent attraction in the city."
+      ro: "O Casă de Adorație Bahá'í situată în Delhi, India. Remarcabilă pentru forma sa asemănătoare unei flori, a devenit o atracție proeminentă în oraș.",
+      en: "A Bahá'í House of Worship located in Delhi, India. Notable for its flowerlike shape, it has become a prominent attraction in the city."
     },
     facts: {
       de: ["Entworfen vom iranischen Architekten Fariborz Sahba.", "Hat 27 freistehende, mit Marmor verkleidete 'Blütenblätter'."],

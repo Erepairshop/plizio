@@ -12,7 +12,18 @@ export const poiExtraEthiopiaLandmarksV2: POI[] = [
       de: "Addis Abeba Stadion",
       hu: "Addisz-Abeba Stadion",
       ro: "Stadionul Addis Abeba"
+    ,
+    descriptionAdvanced: {
+      de: "Das Addis-Ababa-Stadion ist ein historisches Sportzentrum, das Schauplatz vieler bedeutender nationaler und internationaler Sportereignisse war. Es ist ein zentraler Treffpunkt für die fußballbegeisterte Stadtbevölkerung und ein wichtiger Ort für die lokale Sportkultur. Sport K6 – Sportgeschichte.",
+      en: "The Addis Ababa Stadium, inaugurated in 1940, is a historically significant multi-purpose venue situated in the heart of Ethiopia's capital. As the city's primary stadium, it has served as a center for national football matches and athletic championships for decades. With a capacity of approximately 35,000 spectators, it is the centerpiece of the local sporting culture and has been the site of numerous national cup finals. Its central location makes it a symbol of the city's sporting development and athletic history. Sports K6 — sporting venues and stadium culture."
     },
+    factsAdvanced: {
+      en: ["Inaugurated in 1940.", "Approximate capacity of 35,000 spectators.", "Central hub for Ethiopian athletics.", "Primary venue for the Ethiopian Cup final.", "Located in the center of Addis Ababa.", "Iconic landmark of Ethiopian sport history."]
+    },
+    factsAdvanced: {
+      de: ["Status: Nationalstadion", "Erbaut: 1940er Jahre", "Bedeutung: Sportzentrum Äthiopiens", "Nutzung: Fußballspiele", "Ort: Addis Abeba"]
+    }
+  },
     description: {
       en: "A multi-purpose stadium in the heart of Addis Ababa, serving as a major venue for football matches and athletic events.",
       de: "Ein Mehrzweckstadion im Herzen von Addis Abeba, das als wichtiger Austragungsort für Fußballspiele und Leichtathletikveranstaltungen dient.",
@@ -41,7 +52,18 @@ export const poiExtraEthiopiaLandmarksV2: POI[] = [
       de: "Hauptsitz der Afrikanischen Union",
       hu: "Afrikai Unió Székháza",
       ro: "Sediul Uniunii Africane"
+    ,
+    descriptionAdvanced: {
+      de: "Das Hauptquartier der Afrikanischen Union (AU) in Addis Abeba ist ein architektonisch beeindruckender Komplex, der das politische Zentrum des afrikanischen Kontinents symbolisiert. Hier werden wichtige kontinentale Entscheidungen getroffen und afrikanische Kooperation gefördert. Politik K8 – Internationale Politik.",
+      hu: "Az Afrikai Unió (AU) székháza Addisz-Abeba egyik legimpozánsabb modern épülete, amely a kontinens diplomáciai és politikai egységét hivatott jelképezni. A 2012-ben átadott, kínai támogatással épült komplexum egy 100 méter magas toronyból és konferenciaközpontból áll. Az épület szimbolikusan is összeköti Afrika múltját és jövőjét, otthont adva a legfontosabb pán-afrikai döntéshozatali folyamatoknak. Földrajz K8 — nemzetközi szervezetek és politika."
     },
+    factsAdvanced: {
+      hu: ["Az Afrikai Unió politikai központja", "Átadás: 2012", "100 méter magas központi torony", "Kínai támogatással épült", "A diplomáciai egység szimbóluma", "Modern építészeti megoldások"]
+    },
+    factsAdvanced: {
+      de: ["Funktion: Politisches Zentrum Afrikas", "Bau: Modern, architektonisch bedeutend", "Lage: Addis Abeba", "Bedeutung: Sitz der Afrikanischen Union", "Besonderheit: Diplomatisches Zentrum"]
+    }
+  },
     description: {
       en: "The modern complex serving as the headquarters for the African Union, featuring a prominent skyscraper.",
       de: "Der moderne Komplex dient als Hauptsitz der Afrikanischen Union und verfügt über einen markanten Wolkenkratzer.",
@@ -70,7 +92,18 @@ export const poiExtraEthiopiaLandmarksV2: POI[] = [
       de: "CBE Hauptsitz",
       hu: "CBE Székház",
       ro: "Sediul CBE"
+    ,
+    descriptionAdvanced: {
+      de: "Das Hauptquartier der Commercial Bank of Ethiopia (CBE) in Addis Abeba ist ein modernes Hochhaus und ein Symbol für das wachsende wirtschaftliche Potenzial Äthiopiens. Es ist eines der höchsten Gebäude des Landes und ein neues Wahrzeichen der Hauptstadt. Wirtschaft K7 – Finanzwesen.",
+      hu: "Az Etióp Kereskedelmi Bank (CBE) új székháza Addisz-Abeba legmagasabb felhőkarcolója, amely az ország gazdasági ambícióinak jelképe. A több mint 200 méter magas épület modern üveghomlokzatával uralja a főváros látképét. A CBE mint Etiópia legnagyobb pénzintézete, ezzel az épülettel is demonstrálja dominanciáját a nemzeti pénzügyi szektorban. Földrajz K8 — modern városkép és gazdaság."
     },
+    factsAdvanced: {
+      hu: ["Etiópia legmagasabb felhőkarcolója", "Magassága meghaladja a 200 métert", "Az ország legnagyobb pénzintézete", "Addisz-Abeba modern jelképe", "Üveg és acél szerkezet", "Gazdasági dominancia szimbóluma"]
+    },
+    factsAdvanced: {
+      de: ["Status: Höchstes Gebäude Äthiopiens", "Funktion: Bankenzentrale", "Architektur: Modernes Design", "Lage: Finanzviertel von Addis Abeba", "Symbol: Wirtschaftliches Wachstum"]
+    }
+  },
     description: {
       en: "The tallest building in Ethiopia, serving as the headquarters of the Commercial Bank of Ethiopia.",
       de: "Das höchste Gebäude Äthiopiens, das als Hauptsitz der Commercial Bank of Ethiopia dient.",
@@ -93,7 +126,18 @@ export const poiExtraEthiopiaLandmarksV2: POI[] = [
       de: "Meyazia-27-Denkmal",
       hu: "Meyazia 27 Emlékmű",
       ro: "Monumentul Meyazia 27"
+    ,
+    descriptionAdvanced: {
+      de: "Das Meyazia-27-Denkmal in Addis Abeba gedenkt der Befreiung von der italienischen Besatzung während des Zweiten Weltkriegs. Es ist ein bedeutender historischer Ort, der die äthiopische Unabhängigkeit und den Widerstand gegen den Faschismus würdigt. Geschichte K8 – Zweiter Weltkrieg.",
+      hu: "A Meyazia 27 emlékmű Addisz-Abeba egyik legfontosabb történelmi szimbóluma, amely az 1974-es etióp forradalomnak állít emléket. A név arra a bizonyos dátumra utal, amikor megkezdődött a változás a császári rendszertől a katonai rezsim felé. Az emlékmű építészeti stílusa a szocialista realizmus jegyeit hordozza, és a korszak politikai átalakulását reprezentálja. Történelem K8 — forradalmak és politikai változások."
     },
+    factsAdvanced: {
+      hu: ["Az 1974-es forradalom emlékműve", "Dátum: 27. nap a forradalom kezdetén", "Politikai átalakulás szimbóluma", "Szocialista realista stílusjegyek", "Történelmi jelentőség a fővárosban", "Császárság vége, forradalom kezdete"]
+    },
+    factsAdvanced: {
+      de: ["Gedenken: Befreiung 1941", "Ort: Addis Abeba", "Bedeutung: Symbol der Unabhängigkeit", "Besonderheit: Historisches Mahnmal"]
+    }
+  },
     description: {
       en: "A historic monument in Addis Ababa commemorating the liberation of Ethiopia from Italian occupation.",
       de: "Ein historisches Denkmal in Addis Abeba, das an die Befreiung Äthiopiens von der italienischen Besatzung erinnert.",
@@ -116,7 +160,18 @@ export const poiExtraEthiopiaLandmarksV2: POI[] = [
       de: "Tiglachin-Denkmal",
       hu: "Tiglachin Emlékmű",
       ro: "Monumentul Tiglachin"
+    ,
+    descriptionAdvanced: {
+      de: "Das Tiglachin-Denkmal wurde errichtet, um an den äthiopisch-somalischen Krieg zu erinnern. Die monumentale Struktur ist ein Zeugnis der komplexen Geschichte Äthiopiens und zieht Besucher an, die sich für die politische Entwicklung des 20. Jahrhunderts interessieren. Geschichte K8 – 20. Jahrhundert.",
+      hu: "A Tiglachin emlékmű, más néven a 'Harcosok emlékműve', egy monumentális szoboregyüttes Addisz-Abebában, amely a Derg-rezsim idején épült az etióp-szomáli háborúban elesett katonák emlékére. Az építmény a korszak szovjet támogatású monumentális építészetét példázza, és szimbolikus központi figurái a harcosokat, a zászlót és a politikai eszményeket hivatottak megjeleníteni. Történelem K8 — hidegháborús konfliktusok Afrikában."
     },
+    factsAdvanced: {
+      hu: ["A 'Harcosok emlékműve'", "Az etióp-szomáli háború áldozatainak", "Derg-rezsim idején épült", "Szovjet típusú monumentális stílus", "Szimbolikus szoboregyüttes", "Politikai és katonai emlékezet"]
+    },
+    factsAdvanced: {
+      de: ["Anlass: Gedenken an gefallene Soldaten", "Stil: Monumental-Architektur", "Lage: Addis Abeba", "Historik: 1980er Jahre"]
+    }
+  },
     description: {
       en: "A prominent memorial dedicated to Ethiopian and Cuban soldiers involved in the Ogaden War.",
       de: "Ein prominentes Denkmal, das den äthiopischen und kubanischen Soldaten im Ogadenkrieg gewidmet ist.",
@@ -139,7 +194,14 @@ export const poiExtraEthiopiaLandmarksV2: POI[] = [
       de: "Yekatit-12-Denkmal",
       hu: "Yekatit 12 Emlékmű",
       ro: "Monumentul Yekatit 12"
+    ,
+    descriptionAdvanced: {
+      de: "Das Yekatit-12-Denkmal erinnert an die Gräueltaten während der italienischen Besatzungszeit im Jahr 1937, bei der Tausende Zivilisten in Addis Abeba getötet wurden. Es ist ein Ort der Trauer und der nationalen Erinnerungskultur. Geschichte K8 – Italienische Besatzung."
     },
+    factsAdvanced: {
+      de: ["Gedenken: Opfer des 12. Februar 1937", "Ort: Addis Abeba", "Bedeutung: Mahnmal des Widerstands", "Architektur: Symbolisch-traurig"]
+    }
+  },
     description: {
       en: "A monument honoring the victims of the Graziani massacre during the Italian occupation of Addis Ababa.",
       de: "Ein Denkmal zu Ehren der Opfer des Graziani-Massakers während der italienischen Besetzung von Addis Abeba.",
@@ -162,7 +224,14 @@ export const poiExtraEthiopiaLandmarksV2: POI[] = [
       de: "Menelik-II.-Denkmal",
       hu: "II. Menelik Emlékmű",
       ro: "Monumentul Menelik II"
+    ,
+    descriptionAdvanced: {
+      de: "Das Denkmal für Menelik II. in Addis Abeba würdigt den Kaiser, der Äthiopien modernisierte und gegen ausländische Aggressionen verteidigte, insbesondere in der Schlacht von Adwa. Es ist eine Ikone äthiopischer Identität. Geschichte K7 – Kaiserreich Äthiopien."
     },
+    factsAdvanced: {
+      de: ["Person: Menelik II.", "Erfolg: Sieg in der Schlacht von Adwa", "Ort: Addis Abeba", "Bedeutung: Gründungsvater der Moderne"]
+    }
+  },
     description: {
       en: "An equestrian statue of Emperor Menelik II, celebrating his victory at the Battle of Adwa.",
       de: "Eine Reiterstatue von Kaiser Menelik II., die seinen Sieg in der Schlacht von Adwa feiert.",
@@ -185,7 +254,14 @@ export const poiExtraEthiopiaLandmarksV2: POI[] = [
       de: "Abune-Petros-Denkmal",
       hu: "Abune Petros Emlékmű",
       ro: "Monumentul Abune Petros"
+    ,
+    descriptionAdvanced: {
+      de: "Das Denkmal für Abune Petros ehrt den äthiopisch-orthodoxen Bischof, der wegen seines Widerstands gegen die italienischen Besatzer hingerichtet wurde. Sein Mut machte ihn zu einem Symbol des moralischen Widerstands der Kirche. Geschichte K8 – Religionsgeschichte."
     },
+    factsAdvanced: {
+      de: ["Person: Abune Petros (Bischof)", "Bedeutung: Märtyrer des Widerstands", "Ort: Addis Abeba", "Status: Nationales Symbol der Ehre"]
+    }
+  },
     description: {
       en: "A statue commemorating Archbishop Abune Petros, an Ethiopian patriot executed during the Italian occupation.",
       de: "Eine Statue zum Gedenken an Erzbischof Abune Petros, einen äthiopischen Patrioten, der während der italienischen Besatzung hingerichtet wurde.",
@@ -208,7 +284,14 @@ export const poiExtraEthiopiaLandmarksV2: POI[] = [
       de: "Große Anwar-Moschee",
       hu: "Nagy Anwar Mecset",
       ro: "Marea Moschee Anwar"
+    ,
+    descriptionAdvanced: {
+      de: "Die Grand Anwar Moschee ist die größte Moschee in Addis Abeba und ein wichtiges religiöses Zentrum für die muslimische Gemeinschaft der Hauptstadt. Die Architektur spiegelt die islamische Kultur Äthiopiens wider und dient als Ort des Gebets und des Austauschs. Geschichte K6 – Religionsvielfalt."
     },
+    factsAdvanced: {
+      de: ["Status: Größte Moschee Addis Abebas", "Funktion: Religiöses Zentrum", "Besonderheit: Islamische Architektur", "Lage: Addis Abeba"]
+    }
+  },
     description: {
       en: "The largest and oldest mosque in Addis Ababa, located in the bustling Mercato district.",
       de: "Die größte und älteste Moschee in Addis Abeba, gelegen im belebten Mercato-Viertel.",
@@ -231,7 +314,14 @@ export const poiExtraEthiopiaLandmarksV2: POI[] = [
       de: "Medhane-Alem-Kathedrale",
       hu: "Medhane Alem Katedrális",
       ro: "Catedrala Medhane Alem"
+    ,
+    descriptionAdvanced: {
+      de: "Die Medhane-Alem-Kathedrale ist eine der größten äthiopisch-orthodoxen Kirchen des Landes und zeichnet sich durch ihre imposante architektonische Gestaltung aus. Sie ist ein bedeutender Ort für religiöse Feierlichkeiten und das spirituelle Leben in der Hauptstadt. Geschichte K7 – Orthodoxie."
     },
+    factsAdvanced: {
+      de: ["Status: Kathedrale", "Konfession: Äthiopisch-Orthodox", "Besonderheit: Monumentale Größe", "Lage: Addis Abeba"]
+    }
+  },
     description: {
       en: "An Ethiopian Orthodox Tewahedo cathedral in the Bole district, known for its massive size and architecture.",
       de: "Eine äthiopisch-orthodoxe Tewahedo-Kathedrale im Stadtteil Bole, bekannt für ihre massive Größe und Architektur.",
@@ -323,12 +413,19 @@ export const poiExtraEthiopiaLandmarksV2: POI[] = [
       de: "Nationalmuseum von Äthiopien",
       hu: "Etióp Nemzeti Múzeum",
       ro: "Muzeul Național al Etiopiei"
+    ,
+    descriptionAdvanced: {
+      hu: "Az Etióp Nemzeti Múzeum az ország legfontosabb kulturális és tudományos intézménye, amely világhírűvé vált az itt őrzött 'Lucy' (Australopithecus afarensis) fosszília révén. A gyűjtemény betekintést nyújt Etiópia történelmébe az őskortól kezdve a császári korokon át a modernitásig. A múzeum alapvető forrás mind a kutatók, mind a látogatók számára a világ történelmének megértéséhez. Történelem K7 — emberiség története és régészet."
     },
+    factsAdvanced: {
+      hu: ["Otthont ad a 'Lucy' fosszíliának", "Az ország legfontosabb múzeuma", "Betekintés az emberiség bölcsőjébe", "Széleskörű történelmi gyűjtemény", "Császári korszak relikviái", "Kiemelt tudományos jelentőség"]
+    }
+  },
     description: {
       en: "A prominent museum housing important historical artifacts, including the famous hominid fossil 'Lucy'.",
       de: "Ein bedeutendes Museum, das wichtige historische Artefakte beherbergt, darunter das berühmte Hominiden-Fossil 'Lucy'.",
       hu: "Kiemelkedő múzeum, amely fontos történelmi leleteket őriz, köztük a híres hominida fosszíliát, 'Lucy'-t.",
-      ro: "Un muzeu proeminent care găzduiește artefacte istorice importante, inclusiv faimoasa fosilă de hominid „Lucy”."
+      ro: "Un muzeu proeminent care găzduiește artefacte istorice importante, inclusiv faimoasa fosilă de hominid \"Lucy\"."
     },
     facts: {
       en: ["A notable landmark.", "Attracts many visitors."],
@@ -645,7 +742,14 @@ export const poiExtraEthiopiaLandmarksV2: POI[] = [
       de: "Stadtmauer von Harar",
       hu: "Harar Jugol Városfala",
       ro: "Zidurile Harar Jugol"
+    ,
+    descriptionAdvanced: {
+      en: "The Harar Jugol walls, a UNESCO World Heritage site, represent the historic fortification surrounding the ancient walled city of Harar. Constructed between the 13th and 16th centuries, these walls enclose 82 mosques, including the 10th-century Mosque of the Companions, and over 100 shrines. Harar is considered the fourth holiest city of Islam and features a unique architectural blend of traditional African and Islamic styles. The walls have served as a symbol of the city's independence and cultural identity for centuries. History K8 — Walled cities and Islamic architecture."
     },
+    factsAdvanced: {
+      en: ["Constructed between the 13th and 16th centuries.", "UNESCO World Heritage site.", "Encloses 82 historic mosques.", "Harar is the fourth holiest city of Islam.", "Unique blend of African and Islamic architecture.", "Significant symbol of cultural identity."]
+    }
+  },
     description: {
       en: "The historic fortified walls surrounding the ancient city of Harar, dating back to the 16th century.",
       de: "Die historischen Befestigungsmauern, die die antike Stadt Harar umgeben und aus dem 16. Jahrhundert stammen.",

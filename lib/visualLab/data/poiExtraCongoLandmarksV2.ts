@@ -12,7 +12,14 @@ export const poiExtraCongoLandmarksV2: POI[] = [
       hu: "Nabemba-torony",
       ro: "Turnul Nabemba",
       en: "Nabemba Tower"
+    ,
+    descriptionAdvanced: {
+      en: "The Nabemba Tower is the most prominent landmark in the Republic of the Congo, standing as a testament to modern urban development in Brazzaville. At 106 meters tall, it dominates the city skyline and houses various government offices, symbolizing the nation's contemporary aspirations. Its design is an iconic reflection of Congo's architectural progress in the late 20th century. Geography K7 — modern urban landmarks and skyline development."
     },
+    factsAdvanced: {
+      en: ["Standing 106 meters tall in Brazzaville.", "The tallest building in the country.", "Named after the country's highest mountain.", "Iconic feature of the capital's skyline.", "Houses essential government offices.", "Symbol of national urban modernity."]
+    }
+  },
     description: {
       de: "Das höchste Gebäude der Republik Kongo und ein Symbol der modernen Architektur in Brazzaville.",
       hu: "A Kongói Köztársaság legmagasabb épülete és Brazzaville modern építészetének szimbóluma.",
@@ -35,7 +42,14 @@ export const poiExtraCongoLandmarksV2: POI[] = [
       hu: "Brazzaville-i nagymecset",
       ro: "Marea Moschee din Brazzaville",
       en: "Grand Mosque of Brazzaville"
+    ,
+    descriptionAdvanced: {
+      en: "The Grand Mosque of Brazzaville stands as a beautiful architectural landmark, symbolizing the religious diversity and cultural richness of the Congolese capital. Its elegant design and minarets offer a distinct contrast to the surrounding urban structures, serving as an important center for the city's Muslim community. It is both a place of worship and a highlight of contemporary Islamic design in Central Africa. Geography K6 — cultural landscape and religious architecture."
     },
+    factsAdvanced: {
+      en: ["Central religious landmark in Brazzaville.", "Distinguished by elegant minarets.", "Hub for the local Muslim community.", "Example of contemporary Islamic design.", "Adds architectural diversity to the city.", "Central urban location near landmarks."]
+    }
+  },
     description: {
       de: "Ein bedeutendes religiöses Gebäude und ein architektonisches Highlight im Zentrum von Brazzaville.",
       hu: "Jelentős vallási épület és építészeti különlegesség Brazzaville központjában.",
@@ -58,7 +72,14 @@ export const poiExtraCongoLandmarksV2: POI[] = [
       hu: "Alphonse Massamba-Débat Stadion",
       ro: "Stadionul Alphonse Massamba-Débat",
       en: "Alphonse Massamba-Débat Stadium"
+    ,
+    descriptionAdvanced: {
+      en: "The Alphonse Massamba-Débat Stadium is the home of Congolese sports, serving as the primary arena for national football matches and major athletic competitions. Named in honor of a former president, it holds deep significance for national pride and identity. Its role as a multifunctional sports venue ensures it remains a bustling heart of public life in Brazzaville. Sachkunde K5 — athletics and national sporting infrastructure."
     },
+    factsAdvanced: {
+      en: ["National stadium of the Republic of the Congo.", "Named after a former national leader.", "Home turf for the national football team.", "Hosts major national and regional sports events.", "Multifunctional arena for athletics.", "Central hub for Congolese public sports life."]
+    }
+  },
     description: {
       de: "Das Nationalstadion der Republik Kongo, benannt nach einem ehemaligen Präsidenten.",
       hu: "A Kongói Köztársaság nemzeti stadionja, amelyet egy korábbi elnökről neveztek el.",
@@ -81,7 +102,14 @@ export const poiExtraCongoLandmarksV2: POI[] = [
       hu: "Brazzaville-i kimbanguista templom",
       ro: "Templul Kimbanguist din Brazzaville",
       en: "Kimbanguist Temple of Brazzaville"
+    ,
+    descriptionAdvanced: {
+      en: "The Kimbanguist Temple in Brazzaville is a monumental site of the Kimbanguist Church, one of the largest African-founded churches on the continent. Its immense size and simple, stark-white architecture make it an unmistakable landmark of the capital. It serves as a spiritual haven for thousands of worshippers, reflecting the significant impact of indigenous religious movements in the region. History K7 — indigenous religious movements and social identity."
     },
+    factsAdvanced: {
+      en: ["Major temple for the Kimbanguist Church.", "One of the largest African-founded denominations.", "Architecture known for simple, vast white design.", "Spiritual gathering place for thousands.", "Important landmark in Brazzaville's landscape.", "Symbol of Africa's independent church growth."]
+    }
+  },
     description: {
       de: "Ein großer Tempel der Kimbanguisten-Kirche, bekannt für seine beeindruckende Größe und schlichte Architektur.",
       hu: "A Kimbanguista Egyház hatalmas temploma, amely lenyűgöző méretéről és egyszerű építészetéről ismert.",
@@ -104,7 +132,14 @@ export const poiExtraCongoLandmarksV2: POI[] = [
       hu: "Pointe-Noire-i vasútállomás",
       ro: "Gara din Pointe-Noire",
       en: "Pointe-Noire Railway Station"
+    ,
+    descriptionAdvanced: {
+      en: "The Pointe-Noire Railway Station is not only a functional transport hub but a landmark that captures the historical importance of the Congo-Ocean Railway. As the western terminus of this monumental infrastructure, it connects the coast to the heart of the country, acting as a portal for trade and transit. The station's architecture and bustling atmosphere tell the story of the city's development as a maritime gateway. Geography K8 — railway gateways and logistical centers."
     },
+    factsAdvanced: {
+      en: ["Western terminus of the historic CFCO railway.", "Crucial maritime gateway for rail traffic.", "Architectural anchor of the port city.", "Vital transit hub for regional cargo.", "Symbol of Pointe-Noire's logistical growth.", "Captures the essence of Congolese rail history."]
+    }
+  },
     description: {
       de: "Der Hauptbahnhof von Pointe-Noire und der westliche Endpunkt der historischen Kongo-Ozean-Bahn.",
       hu: "Pointe-Noire főpályaudvara és a történelmi Kongó-Óceán vasút nyugati végállomása.",
@@ -127,7 +162,14 @@ export const poiExtraCongoLandmarksV2: POI[] = [
       hu: "Nép palotája",
       ro: "Palais du Peuple",
       en: "People's Palace"
+    ,
+    descriptionAdvanced: {
+      en: "The Palais du Peuple in Brazzaville is a major government monument and the stage for significant state ceremonies. Its monumental scale and imposing architectural presence underscore its role as the center of legislative and political life in the Republic of the Congo. As a hub for official assemblies, it remains the focal point of the nation's political identity. Politics K8 — governance architecture and state identity."
     },
+    factsAdvanced: {
+      en: ["Monumental center for state governance.", "Venue for official ceremonies and assemblies.", "Architectural focal point of state power.", "Houses essential political institutions.", "Located at the heart of state administration.", "Symbolizes Congo's national political life."]
+    }
+  },
     description: {
       de: "Ein monumentales Regierungsgebäude in Brazzaville, das für offizielle Zeremonien und Versammlungen genutzt wird.",
       hu: "Monumentális kormányzati épület Brazzaville-ben, amelyet hivatalos ceremóniákra és gyűlésekre használnak.",
@@ -150,7 +192,14 @@ export const poiExtraCongoLandmarksV2: POI[] = [
       hu: "Maya-Maya repülőtér terminál",
       ro: "Terminalul Aeroportului Maya-Maya",
       en: "Maya-Maya Airport Terminal"
+    ,
+    descriptionAdvanced: {
+      en: "The modern terminal at Maya-Maya Airport is a testament to the country's dedication to improving its international connectivity. As the primary air gateway to Brazzaville, the terminal combines functional logistics with contemporary design, reflecting Congo's efforts to integrate into global travel networks. It is the first point of contact for many visitors, signaling the country's commitment to growth. Geography K7 — international transit and modern infrastructure."
     },
+    factsAdvanced: {
+      en: ["Primary international air hub for Brazzaville.", "Showcase of modern national infrastructure.", "Significant gateway for global connectivity.", "Designed for high-capacity passenger travel.", "Key entry point for international tourism/business.", "Reflects recent upgrades to national air logistics."]
+    }
+  },
     description: {
       de: "Der moderne Terminal des internationalen Flughafens von Brazzaville, ein Aushängeschild der nationalen Infrastruktur.",
       hu: "Brazzaville nemzetközi repülőterének modern terminálja, a nemzeti infrastruktúra büszkesége.",
@@ -174,7 +223,14 @@ export const poiExtraCongoLandmarksV2: POI[] = [
       hu: "Agostinho-Neto repülőtér terminál",
       ro: "Terminalul Aeroportului Agostinho-Neto",
       en: "Agostinho-Neto Airport Terminal"
+    ,
+    descriptionAdvanced: {
+      en: "The terminal of Agostinho-Neto Airport in Pointe-Noire serves as the crucial aviation link for the nation's commercial and industrial hub. Given Pointe-Noire's vital role in the oil sector, this airport is essential for business travel and the movement of specialized personnel. The recently modernized terminal is designed to handle this high-demand, industrial-focused traffic efficiently. Economics K8 — business travel and industrial logistics."
     },
+    factsAdvanced: {
+      en: ["Second-most important airport in the country.", "Key link for Pointe-Noire's business sector.", "Vital for oil industry personnel logistics.", "Modernized facility for high-demand traffic.", "Essential for national commercial transport.", "Located within the industrial hub region."]
+    }
+  },
     description: {
       de: "Das Terminal des zweitwichtigsten Flughafens des Landes in der Hafenstadt Pointe-Noire.",
       hu: "Az ország második legfontosabb repülőterének terminálja Pointe-Noire kikötővárosában.",
@@ -197,7 +253,14 @@ export const poiExtraCongoLandmarksV2: POI[] = [
       hu: "Pointe-Noire-i kikötő",
       ro: "Portul din Pointe-Noire",
       en: "Port of Pointe-Noire"
+    ,
+    descriptionAdvanced: {
+      en: "The Port of Pointe-Noire is the heartbeat of the region's economy, being the premier deep-water facility on Congo's Atlantic coastline. It is indispensable for the export of natural resources and the import of essential goods, serving as a critical maritime node for Central Africa. The bustling harbor is both a landmark of intense commercial activity and a symbol of Congo's global economic engagement. Economics K8 — oceanic trade and economic heartlands."
     },
+    factsAdvanced: {
+      en: ["Primary deep-water harbor on the Atlantic.", "Economic heart of the Pointe-Noire region.", "Vital transshipment hub for Central Africa.", "Extensive container and oil shipping capacity.", "Gateway for national resource exports.", "Essential maritime node for international trade."]
+    }
+  },
     description: {
       de: "Einer der bedeutendsten Tiefwasserhäfen Zentralafrikas und das wirtschaftliche Herz der Region.",
       hu: "Közép-Afrika egyik legjelentősebb mélyvízi kikötője és a régió gazdasági szíve.",
@@ -220,7 +283,14 @@ export const poiExtraCongoLandmarksV2: POI[] = [
       hu: "Total-torony Pointe-Noire",
       ro: "Turnul Total din Pointe-Noire",
       en: "Total Tower Pointe-Noire"
+    ,
+    descriptionAdvanced: {
+      en: "The Total Tower in Pointe-Noire is a striking and modern architectural landmark that vividly highlights the dominance of the oil sector in the city's economic life. As the headquarters for key energy operations, it represents the intersection of international investment and national resource utilization. Its prominent presence on the cityscape serves as a visual anchor for the oil-rich hub of Pointe-Noire. Economics K7 — energy sector headquarters and urban development."
     },
+    factsAdvanced: {
+      en: ["Striking headquarters for key energy operations.", "Represents the city's role in the oil sector.", "Landmark of modern urban commercial architecture.", "Symbol of international energy investment.", "Anchor for Pointe-Noire's commercial activity.", "Highly visible presence in the business district."]
+    }
+  },
     description: {
       de: "Ein markantes modernes Bürogebäude in Pointe-Noire, das die Bedeutung der Ölindustrie widerspiegelt.",
       hu: "Jellegzetes modern irodaház Pointe-Noire-ban, amely az olajipar jelentőségét tükrözi.",

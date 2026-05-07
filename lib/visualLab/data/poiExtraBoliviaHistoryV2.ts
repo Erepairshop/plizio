@@ -179,25 +179,25 @@ export const poiExtraBoliviaHistoryV2: POI[] = [
     },
     facts: {
       de: [
-        "Bedeutet \"Labyrinth\" auf Quechua",
+        "Bedeutet \\\\\\\"Labyrinth\\\\\\\" auf Quechua",
         "Liegt im Norden der Isla del Sol",
         "Mit einem heiligen Felsen verbunden",
         "Komplexes Netzwerk aus Gängen"
       ],
       hu: [
-        "Jelentése \"Labirintus\" kecsua nyelven",
+        "Jelentése \\\\\\\"Labirintus\\\\\\\" kecsua nyelven",
         "A Nap-sziget északi részén található",
         "Egy szent sziklához kapcsolódik",
         "Folyosók bonyolult hálózata"
       ],
       ro: [
-        "Înseamnă \"Labirint\" în Quechua",
+        "Înseamnă \\\\\\\"Labirint\\\\\\\" în Quechua",
         "Situat în nordul Isla del Sol",
         "Asociat cu o stâncă sacră",
         "Rețea complexă de pasaje"
       ],
       en: [
-        "Means \"Labyrinth\" in Quechua",
+        "Means \\\\\\\"Labyrinth\\\\\\\" in Quechua",
         "Located in the north of Isla del Sol",
         "Associated with a sacred rock",
         "Complex network of passages"
@@ -219,8 +219,8 @@ export const poiExtraBoliviaHistoryV2: POI[] = [
       ],
       hu: [],
       ro: [
-        "Cuvântul „Chincana” înseamnă „locul unde te pierzi” în limba quechua.",
-        "Complexul este situat chiar lângă stânca sacră „Titikala”, originea numelui Titicaca.",
+        "Cuvântul \\\"Chincana\\\" înseamnă \\\"locul unde te pierzi\\\" în limba quechua.",
+        "Complexul este situat chiar lângă stânca sacră \\\"Titikala\\\", originea numelui Titicaca.",
         "Există acolo un izvor natural captat într-un bazin, considerat a fi sacru.",
         "Construcția combină pietre brute cu straturi fine de chirpici.",
         "Complexul a fost conceput astfel încât să fie aproape invizibil de pe partea lacului."
@@ -279,7 +279,7 @@ export const poiExtraBoliviaHistoryV2: POI[] = [
     descriptionAdvanced: {
       de: "Iñak Uyu ist das bedeutendste Gebäude auf der Isla de la Luna im Titicacasee und war einst ein heiliger Rückzugsort für Frauen. Dieser Ort wird oft als Acllawasi bezeichnet, ein Raum, in dem 'Acllas' oder Sonnenjungfrauen lebten und im Dienst der Inka-Gottheiten ausgebildet wurden. Die Architektur besticht durch ihre gut erhaltenen Mauern und die charakteristischen trapezförmigen Türen und Nischen. Die Frauen hier waren für die Herstellung feinster Textilien und die Zubereitung ritueller Speisen verantwortlich. Die Lage des Tempels bietet einen spektakulären Blick auf die schneebedeckten Gipfel der Cordillera Real am Horizont.",
       hu: "",
-      ro: "Iñak Uyu este cea mai importantă clădire de pe Isla de la Luna de pe Lacul Titicaca și a fost odinioară un refugiu sacru pentru femei. Acest loc este adesea numit Acllawasi, un spațiu unde trăiau „Acllas” sau fecioarele soarelui, fiind instruite în serviciul zeităților incașe. Arhitectura impresionează prin zidurile sale bine conservate și ușile și nișele trapezoidale caracteristice. Femeile de aici erau responsabile pentru fabricarea celor mai fine textile și prepararea alimentelor rituale. Locația templului oferă o vedere spectaculoasă asupra vârfurilor înzăpeziți ale Cordillerei Real de la orizont.",
+      ro: "Iñak Uyu este cea mai importantă clădire de pe Isla de la Luna de pe Lacul Titicaca și a fost odinioară un refugiu sacru pentru femei. Acest loc este adesea numit Acllawasi, un spațiu unde trăiau \\\"Acllas\\\" sau fecioarele soarelui, fiind instruite în serviciul zeităților incașe. Arhitectura impresionează prin zidurile sale bine conservate și ușile și nișele trapezoidale caracteristice. Femeile de aici erau responsabile pentru fabricarea celor mai fine textile și prepararea alimentelor rituale. Locația templului oferă o vedere spectaculoasă asupra vârfurilor înzăpeziți ale Cordillerei Real de la orizont.",
       en: "Iñak Uyu is the most prominent archaeological structure on the Isla de la Luna, serving as a sacred sanctuary for women during the Inca Empire. The site is widely identified as an 'Acllawasi,' a house for chosen women known as 'Acllas' or Virgins of the Sun, who dedicated their lives to religious service. The architecture is notable for its exceptionally well-preserved walls and the iconic trapezoidal doorways and niches typical of elite Inca design. These women were highly skilled in weaving the finest textiles and preparing ceremonial foods and drinks. The temple's location provides a breathtaking backdrop of the snow-capped Cordillera Real range."
     },
     factsAdvanced: {
@@ -292,7 +292,7 @@ export const poiExtraBoliviaHistoryV2: POI[] = [
       ],
       hu: [],
       ro: [
-        "Numele Iñak Uyu este adesea tradus ca „Casa Femeilor” sau „Casa Fecioarelor”.",
+        "Numele Iñak Uyu este adesea tradus ca \\\"Casa Femeilor\\\" sau \\\"Casa Fecioarelor\\\".",
         "Complexul cuprinde peste 30 de camere dispuse în jurul unei curți centrale.",
         "Templul a fost construit în timpul domniei lui Tupaq Inka Yupanki în secolul al XV-lea.",
         "Spre deosebire de multe alte situri incașe, multe elemente originale au fost puțin modificate.",
@@ -367,7 +367,7 @@ export const poiExtraBoliviaHistoryV2: POI[] = [
       ro: [
         "Stânca sculptată are aproximativ 220 de metri lungime și 60 de metri lățime.",
         "Se găsesc acolo reprezentări de jaguari și șerpi, sacri în cosmologia locală.",
-        "Spaniolii au ridicat mai târziu o mică așezare pe sit, ceea ce a dat numele de „El Fuerte”.",
+        "Spaniolii au ridicat mai târziu o mică așezare pe sit, ceea ce a dat numele de \\\"El Fuerte\\\".",
         "Situl marchează granița estică a Imperiului Incaș împotriva triburilor războinice Guarani.",
         "Vizitatorii pot înconjura complexul pe pasarele de lemn pentru a proteja sculpturile sensibile."
       ],
@@ -398,25 +398,25 @@ export const poiExtraBoliviaHistoryV2: POI[] = [
     },
     facts: {
       de: [
-        "Bedeutet \"Stadt der Inkas\"",
+        "Bedeutet \\\\\\\"Stadt der Inkas\\\\\\\"",
         "Errichtet um 1460",
         "Besitzt das größte Kallanka (Halle) des Inka-Reichs",
         "Auf fast 3.000 Metern Höhe"
       ],
       hu: [
-        "Jelentése \"Az inkák városa\"",
+        "Jelentése \\\\\\\"Az inkák városa\\\\\\\"",
         "Körülbelül 1460-ban épült",
         "Itt található az Inka Birodalom legnagyobb Kallankája (csarnoka)",
         "Közel 3000 méteres magasságban van"
       ],
       ro: [
-        "Înseamnă \"Orașul incașilor\"",
+        "Înseamnă \\\\\\\"Orașul incașilor\\\\\\\"",
         "Construit în jurul anului 1460",
         "Are cel mai mare Kallanka (hol) din Imperiul Incaș",
         "La o altitudine de aproape 3.000 de metri"
       ],
       en: [
-        "Means \"City of the Incas\"",
+        "Means \\\\\\\"City of the Incas\\\\\\\"",
         "Built around 1460",
         "Features the largest Kallanka (hall) of the Inca Empire",
         "At an altitude of nearly 3,000 meters"
@@ -425,7 +425,7 @@ export const poiExtraBoliviaHistoryV2: POI[] = [
     descriptionAdvanced: {
       de: "Incallajta ist das monumentalste Zeugnis der Inka-Präsenz auf bolivianischem Boden, versteckt in den Tälern von Cochabamba. Gegründet um 1460 von Tupaq Inka Yupanki, diente die Stadt als strategisches Bollwerk gegen die Invasionen der Chiriguano-Stämme aus dem Tiefland. Das bemerkenswerteste Merkmal ist die 'Kallanka', eine gigantische Versammlungshalle, die einst das größte überdachte Gebäude des gesamten Reiches war. Der Komplex umfasst auch Wohngebäude, militärische Verteidigungsmauern und einen rituellen Sektor mit einem Turm. Trotz der Zerstörung während der Eroberung vermitteln die massiven Steinmauern immer noch die Macht und Pracht von einst.",
       hu: "",
-      ro: "Incallajta este mărturia cea mai monumentală a prezenței incașe pe pământ bolivian, situată ascunsă în văile din Cochabamba. Fondat în jurul anului 1460 de către Tupaq Inka Yupanki, orașul a servit drept bastion strategic împotriva invaziilor triburilor Chiriguano din zonele joase. Caracteristica cea mai remarcabilă este „Kallanka”, o sală gigantică de adunări care a fost odinioară cea mai mare clădire cu acoperiș din întregul imperiu. Complexul cuprinde, de asemenea, locuințe, ziduri de apărare militară și un sector ritual cu un turn. În ciuda distrugerii din timpul cuceririi, zidurile masive de piatră încă transmit puterea și splendoarea de odinioară.",
+      ro: "Incallajta este mărturia cea mai monumentală a prezenței incașe pe pământ bolivian, situată ascunsă în văile din Cochabamba. Fondat în jurul anului 1460 de către Tupaq Inka Yupanki, orașul a servit drept bastion strategic împotriva invaziilor triburilor Chiriguano din zonele joase. Caracteristica cea mai remarcabilă este \\\"Kallanka\\\", o sală gigantică de adunări care a fost odinioară cea mai mare clădire cu acoperiș din întregul imperiu. Complexul cuprinde, de asemenea, locuințe, ziduri de apărare militară și un sector ritual cu un turn. În ciuda distrugerii din timpul cuceririi, zidurile masive de piatră încă transmit puterea și splendoarea de odinioară.",
       en: "Incallajta stands as the most monumental evidence of the Inca presence in Bolivia, tucked away in the fertile Cochabamba valleys. Founded around 1460 by Emperor Tupaq Inka Yupanki, the city functioned as a vital defensive bastion against the expansionist Chiriguano tribes from the eastern lowlands. Its most extraordinary feature is the 'Kallanka,' a massive great hall that was once the largest single-roofed building in the entire Inca Empire. The complex also integrates residential sectors, robust military fortifications, and a ritual area featuring an unusual star-shaped tower. Though partially ruined, its cyclopean stone walls still evoke the immense power and architectural ambition of the Inca state."
     },
     factsAdvanced: {
@@ -512,7 +512,7 @@ export const poiExtraBoliviaHistoryV2: POI[] = [
       hu: [],
       ro: [
         "Complexul se află la o altitudine de aproape 3.300 de metri deasupra nivelului mării.",
-        "Numele „Inka Rakay” înseamnă în quechua „ruinele incașului”.",
+        "Numele \\\"Inka Rakay\\\" înseamnă în quechua \\\"ruinele incașului\\\".",
         "La solstițiul de iarnă, pe 21 iunie, aici au loc mari ceremonii indigene.",
         "Unele dintre ziduri prezintă nișele trapezoidale caracteristice arhitecturii incașe.",
         "Situl face parte dintr-un coridor arheologic mai mare care leagă diversele văi."
@@ -659,7 +659,7 @@ export const poiExtraBoliviaHistoryV2: POI[] = [
       hu: [],
       ro: [
         "Clădirea are cinci curți interioare mari și ziduri masive pentru a proteja argintul valoros.",
-        "Deasupra intrării în cea de-a doua curte se află celebra mască „Mascarón”, al cărei zâmbet rămâne un mister.",
+        "Deasupra intrării în cea de-a doua curte se află celebra mască \\\"Mascarón\\\", al cărei zâmbet rămâne un mister.",
         "Roțile dințate din lemn ale mașinilor au fost realizate din lemn dur din regiunea Chaco și transportate peste Anzi.",
         "Pe lângă monede, muzeul expune picturi coloniale importante ale Școlii din Potosí, inclusiv lucrări de Melchor Pérez de Holguín.",
         "Casa de la Moneda face parte din Patrimoniul Mondial UNESCO din 1987."
@@ -791,7 +791,7 @@ export const poiExtraBoliviaHistoryV2: POI[] = [
     descriptionAdvanced: {
       de: "Die Kirche San Lorenzo de Carangas ist ein architektonisches Juwel in Potosí und repräsentiert die Blütezeit des 'Barroco Mestizo'-Stils. Ihr weltweit bekanntes, in Stein gehauenes Portal wurde von lokalen Kunsthandwerkern geschaffen und zeigt eine faszinierende Verschmelzung von christlichen Symbolen und indigenen andinen Motiven. Neben Heiligenfiguren finden sich dort Darstellungen von Sonne, Mond sowie lokaler Flora und Fauna. Die Kirche war ursprünglich für die indigene Bevölkerung aus der Carangas-Region bestimmt, die in den Minen von Potosí arbeitete. Heute gilt die Fassade als eines der künstlerischsten und detailliertesten Steinwerke in ganz Lateinamerika.",
       hu: "",
-      ro: "Biserica San Lorenzo de Carangas este o bijuterie arhitecturală din Potosí și reprezintă perioada de glorie a stilului „Barroco Mestizo”. Portalul său faimos în întreaga lume, sculptat în piatră, a fost creat de artizani locali și arată o fuziune fascinantă de simboluri creștine și motive indigene andine. Pe lângă figurile de sfinți, se găsesc acolo reprezentări ale soarelui, lunii și florei și faunei locale. Biserica a fost destinată inițial populației indigene din regiunea Carangas care lucra în minele din Potosí. Astăzi, fațada este considerată una dintre cele mai artistice și detaliate lucrări în piatră din toată America Latină.",
+      ro: "Biserica San Lorenzo de Carangas este o bijuterie arhitecturală din Potosí și reprezintă perioada de glorie a stilului \\\"Barroco Mestizo\\\". Portalul său faimos în întreaga lume, sculptat în piatră, a fost creat de artizani locali și arată o fuziune fascinantă de simboluri creștine și motive indigene andine. Pe lângă figurile de sfinți, se găsesc acolo reprezentări ale soarelui, lunii și florei și faunei locale. Biserica a fost destinată inițial populației indigene din regiunea Carangas care lucra în minele din Potosí. Astăzi, fațada este considerată una dintre cele mai artistice și detaliate lucrări în piatră din toată America Latină.",
       en: "The Church of San Lorenzo de Carangas is an architectural gem of Potosí and one of the finest examples of the 'Mestizo Baroque' style. Its world-renowned stone portal was sculpted by local master craftsmen, showcasing a brilliant fusion of Catholic iconography and ancestral Andean motifs. Among figures of saints, one can find carvings of the sun and moon, as well as indigenous flora and fauna like sirens playing the charango. Originally designated as the parish for the indigenous laborers from the Carangas region who worked the mines, the church is a testament to cultural survival. Today, its facade is celebrated as one of the most artistic and detailed stone carvings in Latin America."
     },
     factsAdvanced: {
@@ -1004,7 +1004,7 @@ export const poiExtraBoliviaHistoryV2: POI[] = [
     descriptionAdvanced: {
       de: "Das Kloster San Felipe Neri in Sucre ist eines der schönsten Beispiele für die weiße Kolonialarchitektur in Bolivien. Erbaut am Ende des 18. Jahrhunderts, strahlt das Gebäude gleichzeitig Eleganz und Strenge aus. Es ist berühmt für seine mit roten Ziegeln gepflasterten Dachterrassen, die einen spektakulären Blick auf die 'weiße Stadt' bieten. Seine Glockentürme und Kuppeln sind mit Fragmenten von altem Porzellan verziert, die unter der andinen Sonne glänzen. Das Innere des Klosters beherbergt eine wertvolle Sammlung religiöser Gemälde und einen ruhigen, blumengeschmückten Kreuzgang.",
       hu: "",
-      ro: "Mănăstirea San Felipe Neri din Sucre este unul dintre cele mai frumoase exemple de arhitectură colonială albă din Bolivia. Construită la sfârșitul secolului al XVIII-lea, clădirea emană eleganță și austeritate în același timp. Este celebră pentru terasele sale de pe acoperiș, pavate cu cărămidă roșie, care oferă o vedere spectaculoasă asupra „orașului alb”. Turnurile sale cu clopote și cupolele sunt decorate cu fragmente de porțelan vechi, strălucind sub soarele andin. Interiorul mănăstirii adăpostește o colecție valoroasă de picturi religioase și un claustru liniștit, plin de flori.",
+      ro: "Mănăstirea San Felipe Neri din Sucre este unul dintre cele mai frumoase exemple de arhitectură colonială albă din Bolivia. Construită la sfârșitul secolului al XVIII-lea, clădirea emană eleganță și austeritate în același timp. Este celebră pentru terasele sale de pe acoperiș, pavate cu cărămidă roșie, care oferă o vedere spectaculoasă asupra \\\"orașului alb\\\". Turnurile sale cu clopote și cupolele sunt decorate cu fragmente de porțelan vechi, strălucind sub soarele andin. Interiorul mănăstirii adăpostește o colecție valoroasă de picturi religioase și un claustru liniștit, plin de flori.",
       en: "The Convent of San Felipe Neri in Sucre is one of the most elegant examples of the city's signature white colonial architecture. Built in the late 18th century, the structure combines spiritual austerity with neoclassical beauty. It is most famous for its vast rooftop terraces, paved in red brick, which provide the definitive panoramic view of the 'White City'. The ornate bell towers and domes are uniquely decorated with shards of antique porcelain that glint brilliantly under the intense Andean sun. Inside, the convent preserves a significant gallery of religious art and a peaceful, flower-filled cloister that invites quiet reflection."
     },
     factsAdvanced: {
@@ -1110,10 +1110,10 @@ export const poiExtraBoliviaHistoryV2: POI[] = [
       en: "Palacio Quemado"
     },
     description: {
-      de: "Der \"Verbrannte Palast\" in La Paz war lange Zeit der offizielle Sitz des bolivianischen Präsidenten und Zeuge vieler politischer Umwälzungen.",
-      hu: "A \"Leégett Palota\" La Pazban hosszú ideig a bolíviai elnök hivatalos székhelye volt, és számos politikai megrázkódtatás tanúja.",
-      ro: "\"Palatul Ars\" din La Paz a fost mult timp sediul oficial al președintelui bolivian și martor al multor revolte politice.",
-      en: "The \"Burned Palace\" in La Paz was for a long time the official residence of the Bolivian president and a witness to many political upheavals."
+      de: "Der \\\\\\\"Verbrannte Palast\\\\\\\" in La Paz war lange Zeit der offizielle Sitz des bolivianischen Präsidenten und Zeuge vieler politischer Umwälzungen.",
+      hu: "A \\\\\\\"Leégett Palota\\\\\\\" La Pazban hosszú ideig a bolíviai elnök hivatalos székhelye volt, és számos politikai megrázkódtatás tanúja.",
+      ro: "\\\\\\\"Palatul Ars\\\\\\\" din La Paz a fost mult timp sediul oficial al președintelui bolivian și martor al multor revolte politice.",
+      en: "The \\\\\\\"Burned Palace\\\\\\\" in La Paz was for a long time the official residence of the Bolivian president and a witness to many political upheavals."
     },
     facts: {
       de: [
@@ -1144,7 +1144,7 @@ export const poiExtraBoliviaHistoryV2: POI[] = [
     descriptionAdvanced: {
       de: "Der Palacio Quemado an der Plaza Murillo in La Paz war über anderthalb Jahrhunderte lang der traditionelle Sitz der Exekutive in Bolivien. Sein Name, der 'verbrannter Palast' bedeutet, stammt von einem verheerenden Brand während eines Aufstandes im Jahr 1875. Das neoklassizistische Gebäude war Zeuge unzähliger Staatsstreiche, Revolutionen und Schlüsselmomente der bolivianischen Geschichte. Sein Inneres ist elegant eingerichtet und verfügt über prächtige Empfangssalons wie den Spiegelsaal. Obwohl der Regierungssitz 2018 in die Casa Grande del Pueblo verlegt wurde, bleibt der Palacio Quemado ein unbestreitbares historisches Symbol des bolivianischen Staates.",
       hu: "",
-      ro: "Palacio Quemado, situat în Plaza Murillo din La Paz, a fost sediul tradițional al puterii executive din Bolivia timp de peste un secol și jumătate. Numele său, care înseamnă „Palatul Ars”, provine de la un incendiu devastator în timpul unei revolte din 1875. Clădirea neoclasică a fost martora a nenumărate lovituri de stat, revoluții și momente cheie ale istoriei boliviene. Interiorul său este decorat cu eleganță, având saloane de recepție somptuoase precum Salonul Oglinzilor. Deși în 2018 sediul guvernului s-a mutat în Casa Grande del Pueblo, Palacio Quemado rămâne un simbol istoric incontestabil al statului bolivian.",
+      ro: "Palacio Quemado, situat în Plaza Murillo din La Paz, a fost sediul tradițional al puterii executive din Bolivia timp de peste un secol și jumătate. Numele său, care înseamnă \\\"Palatul Ars\\\", provine de la un incendiu devastator în timpul unei revolte din 1875. Clădirea neoclasică a fost martora a nenumărate lovituri de stat, revoluții și momente cheie ale istoriei boliviene. Interiorul său este decorat cu eleganță, având saloane de recepție somptuoase precum Salonul Oglinzilor. Deși în 2018 sediul guvernului s-a mutat în Casa Grande del Pueblo, Palacio Quemado rămâne un simbol istoric incontestabil al statului bolivian.",
       en: "The Palacio Quemado, located on the historic Plaza Murillo in La Paz, served as the traditional seat of the Bolivian presidency for over 150 years. Its name, 'The Burned Palace,' originates from a devastating fire during a violent 1875 uprising. This neoclassical structure has been a silent witness to countless coups, revolutions, and pivotal moments in the nation's turbulent political history. The interior is lavishly decorated with grand reception halls like the Hall of Mirrors. Although executive functions moved to the modern 'Casa Grande del Pueblo' in 2018, the Palacio Quemado remains a potent and indisputable historical symbol of the Bolivian state."
     },
     factsAdvanced: {
@@ -1158,7 +1158,7 @@ export const poiExtraBoliviaHistoryV2: POI[] = [
       ro: [
         "Fațada actuală a fost proiectată de arhitectul José Núñez del Prado în secolul al XIX-lea.",
         "În fața palatului a avut loc tragicul linșaj al președintelui Gualberto Villarroel în 1946.",
-        "Păstrează o pază de onoare formată din „Colorado de Bolivia”, regimentul istoric al țării.",
+        "Păstrează o pază de onoare formată din \\\"Colorado de Bolivia\\\", regimentul istoric al țării.",
         "Este conectat printr-un pasaj de Catedrala Metropolitană din La Paz."
       ],
       en: [
@@ -1354,7 +1354,7 @@ export const poiExtraBoliviaHistoryV2: POI[] = [
     descriptionAdvanced: {
       de: "Die Basilika Unserer Lieben Frau von Copacabana ist das wichtigste katholische Pilgerzentrum Boliviens und liegt direkt am Ufer des Titicacasees. Das strahlend weiße Gebäude ist bekannt für seine einzigartige Architektur mit maurischen Einflüssen, die in seinen mit bunten Keramikfliesen bedeckten Kuppeln sichtbar sind. In seinem Inneren befindet sich die Statue der 'Schwarzen Madonna', die im 16. Jahrhundert vom einheimischen Künstler Francisco Tito Yupanqui geschnitzt wurde. Pilger aus der gesamten Andenregion kommen hierher, um den Segen der Jungfrau zu erbitten, insbesondere für ihre neuen Fahrzeuge. Der Ort strahlt eine tiefe spirituelle Energie aus und verbindet den christlichen Glauben mit den alten Traditionen des heiligen Sees.",
       hu: "",
-      ro: "Bazilica Maicii Domnului din Copacabana este cel mai important centru de pelerinaj catolic din Bolivia, situat pe malul Lacului Titicaca. Clădirea albă strălucitoare este renumită pentru arhitectura sa unică, cu influențe maure vizibile în cupolele sale acoperite cu plăci ceramice colorate. În interiorul său se află statuia „Fecioarei Negre”, sculptată în secolul al XVI-lea de artistul nativ Francisco Tito Yupanqui. Pelerini din întreaga regiune andină vin aici pentru a cere binecuvântarea Fecioarei, în special pentru vehiculele lor noi. Locul emană o energie spirituală profundă, combinând credința creștină cu vechile tradiții ale lacului sacru.",
+      ro: "Bazilica Maicii Domnului din Copacabana este cel mai important centru de pelerinaj catolic din Bolivia, situat pe malul Lacului Titicaca. Clădirea albă strălucitoare este renumită pentru arhitectura sa unică, cu influențe maure vizibile în cupolele sale acoperite cu plăci ceramice colorate. În interiorul său se află statuia \\\"Fecioarei Negre\\\", sculptată în secolul al XVI-lea de artistul nativ Francisco Tito Yupanqui. Pelerini din întreaga regiune andină vin aici pentru a cere binecuvântarea Fecioarei, în special pentru vehiculele lor noi. Locul emană o energie spirituală profundă, combinând credința creștină cu vechile tradiții ale lacului sacru.",
       en: "The Basilica of Our Lady of Copacabana is Bolivia's most significant Catholic pilgrimage site, spectacularly located on the shores of Lake Titicaca. The gleaming white sanctuary is renowned for its Moorish-influenced architecture, highlighted by vibrant, tile-covered domes. At its heart is the statue of the 'Dark Virgin' of Copacabana, carved in the late 16th century by indigenous artist Francisco Tito Yupanqui. Devotees from across the Andean region journey here to seek the Virgin's blessing, most famously for their newly purchased vehicles. The site possesses a profound spiritual resonance, seamlessly blending Catholic faith with ancient indigenous traditions tied to the sacred lake."
     },
     factsAdvanced: {
@@ -1437,7 +1437,7 @@ export const poiExtraBoliviaHistoryV2: POI[] = [
       hu: [],
       ro: [
         "Biserica a fost restaurată meticulos între 1987 și 1993 sub conducerea arhitectului Hans Roth.",
-        "San Javier este cunoscut ca fiind „leagănul barocului chiquitano”.",
+        "San Javier este cunoscut ca fiind \\\"leagănul barocului chiquitano\\\".",
         "Misiunea are o școală de muzică unde tinerii învață să cânte la instrumente baroce precum vioara și violoncelul.",
         "Toate elementele de lemn ale bisericii sunt îmbinate fără a folosi cuie de fier."
       ],
@@ -1717,10 +1717,10 @@ export const poiExtraBoliviaHistoryV2: POI[] = [
       ],
       hu: [],
       ro: [
-        "Numele „Socavón” înseamnă galerie de mină, reflectând legătura strânsă cu mineritul.",
+        "Numele \\\"Socavón\\\" înseamnă galerie de mină, reflectând legătura strânsă cu mineritul.",
         "Fiecare grup de dansatori din carnaval are datoria de a aduce onoruri Fecioarei în acest sanctuar.",
         "Interiorul bisericii adăpostește o pictură murală a Fecioarei care datează din secolul al XVIII-lea.",
-        "Muzeul minier prezintă utilaje vechi și o statuie a lui „El Tío”, zeul minelor în cosmologia andină."
+        "Muzeul minier prezintă utilaje vechi și o statuie a lui \\\"El Tío\\\", zeul minelor în cosmologia andină."
       ],
       en: [
         "The term 'Socavón' refers to a mining tunnel, directly linking the church to Oruro's industrial heritage.",
@@ -1845,7 +1845,7 @@ export const poiExtraBoliviaHistoryV2: POI[] = [
     descriptionAdvanced: {
       de: "Der Palacio Portales in Cochabamba ist ein spektakuläres Zeugnis des Reichtums von Simón I. Patiño, genannt der 'Zinnkönig'. Erbaut zwischen 1915 und 1927, wurde der Palast von französischen Architekten entworfen und mit Materialien gebaut, die fast ausschließlich aus Europa importiert wurden. Sein eklektischer Stil verbindet die Eleganz der französischen Renaissance mit Details, die von der Alhambra in Granada und dem italienischen Barock inspiriert sind. Obwohl der Palast von blendendem Luxus ist, hat Patiño nie darin gelebt, da er im Ausland verstarb. Heute ist das Anwesen ein prestigeträchtiges Kulturzentrum mit einer riesigen Bibliothek und prächtigen botanischen Gärten, die besichtigt werden können.",
       hu: "",
-      ro: "Palacio Portales din Cochabamba este mărturia spectaculoasă a averii lui Simón I. Patiño, supranumit „regele staniului”. Construit între 1915 și 1927, palatul a fost proiectat de arhitecți francezi și construit cu materiale aduse aproape exclusiv din Europa. Stilul său eclectic combină eleganța renesanței franceze cu detalii inspirate de Alhambra din Granada și de barocul italian. Deși palatul este de un lux orbitor, Patiño nu a apucat să locuiască niciodată în el, murind în străinătate. Astăzi, domeniul este un centru cultural de prestigiu, cu o bibliotecă vastă și grădini botanice splendide care pot fi vizitate de public.",
+      ro: "Palacio Portales din Cochabamba este mărturia spectaculoasă a averii lui Simón I. Patiño, supranumit \\\"regele staniului\\\". Construit între 1915 și 1927, palatul a fost proiectat de arhitecți francezi și construit cu materiale aduse aproape exclusiv din Europa. Stilul său eclectic combină eleganța renesanței franceze cu detalii inspirate de Alhambra din Granada și de barocul italian. Deși palatul este de un lux orbitor, Patiño nu a apucat să locuiască niciodată în el, murind în străinătate. Astăzi, domeniul este un centru cultural de prestigiu, cu o bibliotecă vastă și grădini botanice splendide care pot fi vizitate de public.",
       en: "Palacio Portales in Cochabamba is a spectacular monument to the immense fortune of Simón I. Patiño, once known as the 'Tin King' and one of the world's wealthiest men. Built between 1915 and 1927, the mansion was designed by French architects and constructed using materials imported almost exclusively from Europe. Its eclectic design masterfully blends French Renaissance elegance with motifs inspired by the Alhambra in Spain and Italian Baroque villas. Despite its dazzling luxury, Patiño never actually lived in the palace, as he passed away abroad before its completion. Today, the estate serves as a prestigious cultural center, featuring a vast library and magnificent botanical gardens that are open to the public."
     },
     factsAdvanced: {

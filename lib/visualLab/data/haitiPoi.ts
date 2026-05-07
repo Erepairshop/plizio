@@ -607,7 +607,7 @@ export const haitiLandmarks: POI[] = [
       de: ["Der Anker der Santa Maria (Kolumbus' Schiff) wird hier aufbewahrt", "Hier ruhen die Überreste von Toussaint Louverture und Dessalines", "Das Gebäude ist von den Gärten des Place du Marron Inconnu umgeben"],
       hu: ["Itt őrzik a Santa Maria (Kolumbusz hajója) horgonyát", "Itt nyugszanak Toussaint Louverture és Dessalines földi maradványai", "Az épületet a Place du Marron Inconnu kertjei veszik körül"],
       ro: ["Ancora navei Santa Maria (nava lui Columb) este păstrată aici", "Aici se odihnesc rămășițele lui Toussaint Louverture și Dessalines", "Clădirea este înconjurată de grădinile din Place du Marron Inconnu"],
-      en: ["The original anchor from Christopher Columbus’s flagship, the Santa Maria, is on display here", "The museum serves as a mausoleum for Toussaint Louverture, Dessalines, Christophe, and Pétion", "Its unique modern architecture features white cones that rise above the surrounding parkland"]
+      en: ["The original anchor from Christopher Columbus's flagship, the Santa Maria, is on display here", "The museum serves as a mausoleum for Toussaint Louverture, Dessalines, Christophe, and Pétion", "Its unique modern architecture features white cones that rise above the surrounding parkland"]
     },
     historyYear: 1983, image: "/poi-images/ht-pantheon.webp"},
   {
@@ -874,7 +874,7 @@ export const haitiLandmarks: POI[] = [
       de: "Saut-d'Eau ist ein Ort von tiefer spiritueller Bedeutung, an dem im 19. Jahrhundert die Jungfrau Maria auf einer Palme erschienen sein soll. Der wunderschöne Wasserfall ist heute Ziel einer der wichtigsten jährlichen Wallfahrten Haitis, bei der Katholiken und Voodoo-Anhänger gemeinsam spirituelle Reinigung suchen.",
       hu: "Saut-d'Eau mély spirituális jelentőségű hely, ahol a 19. században a legenda szerint Szűz Mária megjelent egy pálmafán. A gyönyörű vízesés ma Haiti egyik legfontosabb éves zarándoklatának célpontja, ahol katolikusok és vudu-hívők együtt keresnek spirituális tisztulást.",
       ro: "Saut-d'Eau este un loc cu o profundă semnificație spirituală, unde se spune că Fecioara Maria a apărut pe un palmier în secolul al XIX-lea. Cascada superbă este astăzi destinația unuia dintre cele mai importante pelerinaje anuale din Haiti, unde catolicii și adepții voodoo caută împreună purificarea spirituală.",
-      en: "Saut-d'Eau is a place of profound mystical power where the Virgin Mary (syncretized with Erzulie Dantor) is said to have appeared in 1847. The breathtaking waterfall hosts one of Haiti’s largest annual pilgrimages, attracting thousands who bathe in its waters for healing and luck."
+      en: "Saut-d'Eau is a place of profound mystical power where the Virgin Mary (syncretized with Erzulie Dantor) is said to have appeared in 1847. The breathtaking waterfall hosts one of Haiti's largest annual pilgrimages, attracting thousands who bathe in its waters for healing and luck."
     },
     facts: {
       de: ["Heiliger Wasserfall", "Ort von Marienerscheinungen", "Wallfahrt im Juli", "Umgeben von Palmen"],

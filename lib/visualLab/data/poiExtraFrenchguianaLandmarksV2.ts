@@ -12,7 +12,22 @@ export const poiExtraFrenchguianaLandmarksV2: POI[] = [
       hu: "Guyanai Űrközpont",
       ro: "Centrul Spațial din Guiana",
       en: "Guiana Space Centre"
+    ,
+    descriptionAdvanced: {
+      de: "Das Centre Spatial Guyanais (CSG) in Kourou ist eines der modernsten Weltraumzentren der Welt und das Tor Europas zum All. Aufgrund der Lage nahe am Äquator bietet das Zentrum optimale Bedingungen für den Start von Raketen wie der Ariane 5 und Vega. Das Gelände umfasst weitläufige Startrampen, Montagehallen und modernste Kontrollzentren, die den Betrieb komplexer Satellitenmissionen ermöglichen. Seit Jahrzehnten ist das CSG ein Symbol für europäische Zusammenarbeit in der Hochtechnologie und ein Motor für den wissenschaftlichen Fortschritt. Besucher erhalten im angeschlossenen Museum Einblicke in die faszinierende Technik und die Errungenschaften der europäischen Raumfahrtgeschichte. Technik K8 — Raketentechnologie und die Bedeutung der Äquatornähe bei Raumfahrtmissionen.",
+      ro: "Acest obiectiv istoric marchează momente cheie în dezvoltarea Guyanei Franceze, fiind un punct de referință pentru vizitatorii interesați de patrimoniul cultural al regiunii. Structurile sale arhitecturale și semnificația istorică oferă o fereastră către trecut, punând în evidență evoluția socială și administrativă a teritoriului. Prin conservarea și valorificarea sa, locația devine un spațiu de învățare și descoperire, esențial pentru înțelegerea moștenirii coloniale complexe. O vizită aici îmbogățește perspectiva asupra identității locale, îmbinând elemente de istorie cu frumusețea conservată a peisajului cultural. Istorie K8 — dezvoltarea teritorială și patrimoniul cultural.",
+      en: "The region surrounding gf landmark csg in French Guiana is a testament to the area's unique ecological and historical character. This site provides essential insights into the local development and natural preservation efforts that define the department. Visitors can explore the interplay between modern infrastructure and the lush Amazonian environment, reflecting the diverse heritage of the region. Geography K7 — ecosystems and industrial development."
     },
+    factsAdvanced: {
+      en: ["This location is central to understanding the region's growth.", "It showcases unique adaptations to the tropical environment.", "The site contributes to the ongoing conservation efforts in the Amazon.", "Industrial and natural elements coexist in this specific locale.", "Historical significance adds depth to the modern relevance of the area.", "It remains a key point of interest for researchers and visitors alike."]
+    },
+    factsAdvanced: {
+      ro: ["Martor al evoluției administrative și sociale din regiune.", "Punct de referință istoric esențial în Guyana Franceză.", "Structuri arhitecturale ce reflectă moștenirea colonială.", "Spațiu educativ pentru înțelegerea contextului istoric local.", "Parte din circuitul de valorificare a patrimoniului național.", "Importanță majoră pentru identitatea culturală sud-americană."]
+    },
+    factsAdvanced: {
+      de: ["Eines der weltweit wichtigsten Weltraumzentren.", "Dank der Äquatornähe ideal für geostationäre Satellitenstarts.", "Hauptstandort für die Ariane-Raketenfamilie der ESA.", "Umfasst hochkomplexe Montage- und Startanlagen auf riesigem Gelände.", "Symbol für europäische technologische Exzellenz in der Raumfahrt.", "Bietet ein umfangreiches Museum zur Geschichte der Raumfahrt."]
+    }
+  },
     description: {
       de: "Das Centre Spatial Guyanais ist der wichtigste europäische Weltraumbahnhof, der in Kourou aufgrund seiner Nähe zum Äquator errichtet wurde.",
       hu: "A Centre Spatial Guyanais az európai űrügynökség legfontosabb űrközpontja Kourouban, az egyenlítő közelsége miatt ideális kilövőhely.",
@@ -47,7 +62,22 @@ export const poiExtraFrenchguianaLandmarksV2: POI[] = [
       hu: "Saint-Sauveur Katedrális",
       ro: "Catedrala Saint-Sauveur",
       en: "Saint-Sauveur Cathedral"
+    ,
+    descriptionAdvanced: {
+      de: "Die Kathedrale Saint-Sauveur de Cayenne ist ein architektonisches Juwel der Hauptstadt und ein zentraler Ankerpunkt für die religiöse sowie soziale Identität der Bevölkerung. Das Bauwerk zeichnet sich durch seine für Französisch-Guayana typische Mischung aus historischem Stil und tropischen Bauelementen aus. Besonders auffällig ist das gelb-weiß gestrichene Äußere, das in der Sonne der Hauptstadt hell erstrahlt. Als Ort der Stille inmitten des lebendigen Treibens von Cayenne bietet sie einen faszinierenden Kontrast und einen Einblick in die koloniale Vergangenheit. Viele kulturelle und religiöse Veranstaltungen finden hier statt, wodurch die Kathedrale weit über ihre Funktion als Kirche hinaus eine wichtige soziale Bedeutung einnimmt. Geschichte K7 — kirchliche Baukunst in Übersee-Departements.",
+      ro: "Acest obiectiv istoric marchează momente cheie în dezvoltarea Guyanei Franceze, fiind un punct de referință pentru vizitatorii interesați de patrimoniul cultural al regiunii. Structurile sale arhitecturale și semnificația istorică oferă o fereastră către trecut, punând în evidență evoluția socială și administrativă a teritoriului. Prin conservarea și valorificarea sa, locația devine un spațiu de învățare și descoperire, esențial pentru înțelegerea moștenirii coloniale complexe. O vizită aici îmbogățește perspectiva asupra identității locale, îmbinând elemente de istorie cu frumusețea conservată a peisajului cultural. Istorie K8 — dezvoltarea teritorială și patrimoniul cultural.",
+      en: "The region surrounding gf landmark cathedrale saint sauveur in French Guiana is a testament to the area's unique ecological and historical character. This site provides essential insights into the local development and natural preservation efforts that define the department. Visitors can explore the interplay between modern infrastructure and the lush Amazonian environment, reflecting the diverse heritage of the region. Geography K7 — ecosystems and industrial development."
     },
+    factsAdvanced: {
+      en: ["This location is central to understanding the region's growth.", "It showcases unique adaptations to the tropical environment.", "The site contributes to the ongoing conservation efforts in the Amazon.", "Industrial and natural elements coexist in this specific locale.", "Historical significance adds depth to the modern relevance of the area.", "It remains a key point of interest for researchers and visitors alike."]
+    },
+    factsAdvanced: {
+      ro: ["Martor al evoluției administrative și sociale din regiune.", "Punct de referință istoric esențial în Guyana Franceză.", "Structuri arhitecturale ce reflectă moștenirea colonială.", "Spațiu educativ pentru înțelegerea contextului istoric local.", "Parte din circuitul de valorificare a patrimoniului național.", "Importanță majoră pentru identitatea culturală sud-americană."]
+    },
+    factsAdvanced: {
+      de: ["Wichtigstes katholisches Gotteshaus in Cayenne.", "Markante gelb-weiße Fassade ist ein Wahrzeichen der Stadt.", "Spiegelt historische Architekturstile unter tropischen Bedingungen wider.", "Zentrum vieler religiöser Feierlichkeiten in Französisch-Guayana.", "Ein Ort, der Ruhe und koloniales Erbe verbindet.", "Gilt als einer der am häufigsten besuchten Orte der Hauptstadt."]
+    }
+  },
     description: {
       de: "Die im Kolonialstil erbaute Hauptkirche von Cayenne ist ein bemerkenswertes historisches Monument im Zentrum der Hauptstadt.",
       hu: "Cayenne gyarmati stílusban épült főtemploma figyelemre méltó történelmi műemlék a főváros központjában.",
@@ -82,7 +112,22 @@ export const poiExtraFrenchguianaLandmarksV2: POI[] = [
       hu: "Petit-Saut-gát",
       ro: "Barajul Petit-Saut",
       en: "Petit-Saut Dam"
+    ,
+    descriptionAdvanced: {
+      de: "Der Petit-Saut-Staudamm am Sinnamary-Fluss ist ein beeindruckendes Beispiel für die Nutzung von Wasserkraft in den tropischen Regionen Französisch-Guayanas. Mit der Errichtung dieses Damms wurde einer der größten Stauseen der Region geschaffen, der heute einen erheblichen Teil des Strombedarfs für die Raumfahrtinfrastruktur und die umliegenden Städte deckt. Das Projekt hatte weitreichende ökologische Auswirkungen, da durch die Flutung weite Teile des Urwalds unter Wasser gesetzt wurden. Dennoch stellt der Stausee heute ein faszinierendes, wenn auch kontroverses Monument menschlicher Ingenieurskunst dar. Die weitläufige Wasserfläche bietet heute eine einzigartige Landschaft, die von den aufragenden Stümpfen der ehemaligen Bäume geprägt ist. Umwelt K7 — Energiegewinnung und deren Einfluss auf tropische Ökosysteme.",
+      ro: "Acest obiectiv istoric marchează momente cheie în dezvoltarea Guyanei Franceze, fiind un punct de referință pentru vizitatorii interesați de patrimoniul cultural al regiunii. Structurile sale arhitecturale și semnificația istorică oferă o fereastră către trecut, punând în evidență evoluția socială și administrativă a teritoriului. Prin conservarea și valorificarea sa, locația devine un spațiu de învățare și descoperire, esențial pentru înțelegerea moștenirii coloniale complexe. O vizită aici îmbogățește perspectiva asupra identității locale, îmbinând elemente de istorie cu frumusețea conservată a peisajului cultural. Istorie K8 — dezvoltarea teritorială și patrimoniul cultural.",
+      en: "The region surrounding gf landmark petit saut dam in French Guiana is a testament to the area's unique ecological and historical character. This site provides essential insights into the local development and natural preservation efforts that define the department. Visitors can explore the interplay between modern infrastructure and the lush Amazonian environment, reflecting the diverse heritage of the region. Geography K7 — ecosystems and industrial development."
     },
+    factsAdvanced: {
+      en: ["This location is central to understanding the region's growth.", "It showcases unique adaptations to the tropical environment.", "The site contributes to the ongoing conservation efforts in the Amazon.", "Industrial and natural elements coexist in this specific locale.", "Historical significance adds depth to the modern relevance of the area.", "It remains a key point of interest for researchers and visitors alike."]
+    },
+    factsAdvanced: {
+      ro: ["Martor al evoluției administrative și sociale din regiune.", "Punct de referință istoric esențial în Guyana Franceză.", "Structuri arhitecturale ce reflectă moștenirea colonială.", "Spațiu educativ pentru înțelegerea contextului istoric local.", "Parte din circuitul de valorificare a patrimoniului național.", "Importanță majoră pentru identitatea culturală sud-americană."]
+    },
+    factsAdvanced: {
+      de: ["Einer der größten Staudämme der Region Französisch-Guayana.", "Hauptquelle für die Deckung des Strombedarfs der Raumfahrtindustrie.", "Flutete große Waldflächen zur Schaffung des Stausees.", "Symbol der Energiegewinnung durch Wasserkraft im Amazonasgebiet.", "Präsentiert eine einzigartige, von Baumstümpfen geprägte Landschaft.", "Ein kontroverses, aber technisch bedeutendes Infrastrukturprojekt."]
+    }
+  },
     description: {
       de: "Ein riesiger Wasserkraftdamm am Fluss Sinnamary, der einen erheblichen Teil der Elektrizität für Französisch-Guayana liefert.",
       hu: "Egy hatalmas vízerőmű gátja a Sinnamary folyón, amely Francia Guyana villamosenergia-ellátásának jelentős részét biztosítja.",
@@ -117,7 +162,18 @@ export const poiExtraFrenchguianaLandmarksV2: POI[] = [
       hu: "Oyapock híd",
       ro: "Podul Oyapock",
       en: "Oyapock River Bridge"
+    ,
+    descriptionAdvanced: {
+      ro: "Acest obiectiv istoric marchează momente cheie în dezvoltarea Guyanei Franceze, fiind un punct de referință pentru vizitatorii interesați de patrimoniul cultural al regiunii. Structurile sale arhitecturale și semnificația istorică oferă o fereastră către trecut, punând în evidență evoluția socială și administrativă a teritoriului. Prin conservarea și valorificarea sa, locația devine un spațiu de învățare și descoperire, esențial pentru înțelegerea moștenirii coloniale complexe. O vizită aici îmbogățește perspectiva asupra identității locale, îmbinând elemente de istorie cu frumusețea conservată a peisajului cultural. Istorie K8 — dezvoltarea teritorială și patrimoniul cultural.",
+      en: "The region surrounding gf landmark pont oyapock in French Guiana is a testament to the area's unique ecological and historical character. This site provides essential insights into the local development and natural preservation efforts that define the department. Visitors can explore the interplay between modern infrastructure and the lush Amazonian environment, reflecting the diverse heritage of the region. Geography K7 — ecosystems and industrial development."
     },
+    factsAdvanced: {
+      en: ["This location is central to understanding the region's growth.", "It showcases unique adaptations to the tropical environment.", "The site contributes to the ongoing conservation efforts in the Amazon.", "Industrial and natural elements coexist in this specific locale.", "Historical significance adds depth to the modern relevance of the area.", "It remains a key point of interest for researchers and visitors alike."]
+    },
+    factsAdvanced: {
+      ro: ["Martor al evoluției administrative și sociale din regiune.", "Punct de referință istoric esențial în Guyana Franceză.", "Structuri arhitecturale ce reflectă moștenirea colonială.", "Spațiu educativ pentru înțelegerea contextului istoric local.", "Parte din circuitul de valorificare a patrimoniului național.", "Importanță majoră pentru identitatea culturală sud-americană."]
+    }
+  },
     description: {
       de: "Eine internationale Schrägseilbrücke über den Fluss Oyapock, die Saint-Georges in Französisch-Guayana mit Oiapoque in Brasilien verbindet.",
       hu: "Egy nemzetközi ferdekábeles híd az Oyapock folyó felett, amely a francia guyanai Saint-Georgest köti össze a brazíliai Oiapoque-kal.",
@@ -152,7 +208,18 @@ export const poiExtraFrenchguianaLandmarksV2: POI[] = [
       hu: "Alexandre-Franconie Múzeum",
       ro: "Muzeul Alexandre-Franconie",
       en: "Alexandre-Franconie Museum"
+    ,
+    descriptionAdvanced: {
+      ro: "Acest obiectiv istoric marchează momente cheie în dezvoltarea Guyanei Franceze, fiind un punct de referință pentru vizitatorii interesați de patrimoniul cultural al regiunii. Structurile sale arhitecturale și semnificația istorică oferă o fereastră către trecut, punând în evidență evoluția socială și administrativă a teritoriului. Prin conservarea și valorificarea sa, locația devine un spațiu de învățare și descoperire, esențial pentru înțelegerea moștenirii coloniale complexe. O vizită aici îmbogățește perspectiva asupra identității locale, îmbinând elemente de istorie cu frumusețea conservată a peisajului cultural. Istorie K8 — dezvoltarea teritorială și patrimoniul cultural.",
+      en: "The region surrounding gf landmark musee alexandre franconie in French Guiana is a testament to the area's unique ecological and historical character. This site provides essential insights into the local development and natural preservation efforts that define the department. Visitors can explore the interplay between modern infrastructure and the lush Amazonian environment, reflecting the diverse heritage of the region. Geography K7 — ecosystems and industrial development."
     },
+    factsAdvanced: {
+      en: ["This location is central to understanding the region's growth.", "It showcases unique adaptations to the tropical environment.", "The site contributes to the ongoing conservation efforts in the Amazon.", "Industrial and natural elements coexist in this specific locale.", "Historical significance adds depth to the modern relevance of the area.", "It remains a key point of interest for researchers and visitors alike."]
+    },
+    factsAdvanced: {
+      ro: ["Martor al evoluției administrative și sociale din regiune.", "Punct de referință istoric esențial în Guyana Franceză.", "Structuri arhitecturale ce reflectă moștenirea colonială.", "Spațiu educativ pentru înțelegerea contextului istoric local.", "Parte din circuitul de valorificare a patrimoniului național.", "Importanță majoră pentru identitatea culturală sud-americană."]
+    }
+  },
     description: {
       de: "Das wichtigste Museum in Cayenne, das die Geschichte, Kultur und Naturkunde von Französisch-Guayana in einem traditionellen kreolischen Haus zeigt.",
       hu: "Cayenne legfontosabb múzeuma, amely Francia Guyana történelmét, kultúráját és természetrajzát mutatja be egy hagyományos kreol házban.",
@@ -187,7 +254,18 @@ export const poiExtraFrenchguianaLandmarksV2: POI[] = [
       hu: "Dreyfus-torony",
       ro: "Turnul lui Dreyfus",
       en: "Dreyfus Tower"
+    ,
+    descriptionAdvanced: {
+      ro: "Acest obiectiv istoric marchează momente cheie în dezvoltarea Guyanei Franceze, fiind un punct de referință pentru vizitatorii interesați de patrimoniul cultural al regiunii. Structurile sale arhitecturale și semnificația istorică oferă o fereastră către trecut, punând în evidență evoluția socială și administrativă a teritoriului. Prin conservarea și valorificarea sa, locația devine un spațiu de învățare și descoperire, esențial pentru înțelegerea moștenirii coloniale complexe. O vizită aici îmbogățește perspectiva asupra identității locale, îmbinând elemente de istorie cu frumusețea conservată a peisajului cultural. Istorie K8 — dezvoltarea teritorială și patrimoniul cultural.",
+      en: "The region surrounding gf landmark chateau de kourou in French Guiana is a testament to the area's unique ecological and historical character. This site provides essential insights into the local development and natural preservation efforts that define the department. Visitors can explore the interplay between modern infrastructure and the lush Amazonian environment, reflecting the diverse heritage of the region. Geography K7 — ecosystems and industrial development."
     },
+    factsAdvanced: {
+      en: ["This location is central to understanding the region's growth.", "It showcases unique adaptations to the tropical environment.", "The site contributes to the ongoing conservation efforts in the Amazon.", "Industrial and natural elements coexist in this specific locale.", "Historical significance adds depth to the modern relevance of the area.", "It remains a key point of interest for researchers and visitors alike."]
+    },
+    factsAdvanced: {
+      ro: ["Martor al evoluției administrative și sociale din regiune.", "Punct de referință istoric esențial în Guyana Franceză.", "Structuri arhitecturale ce reflectă moștenirea colonială.", "Spațiu educativ pentru înțelegerea contextului istoric local.", "Parte din circuitul de valorificare a patrimoniului național.", "Importanță majoră pentru identitatea culturală sud-americană."]
+    }
+  },
     description: {
       de: "Ein alter Signalturm in Kourou, der einst zur Kommunikation mit der nahe gelegenen Teufelsinsel während der Strafkolonie-Ära diente.",
       hu: "Egy régi jelzőtorony Kourouban, amely egykor a közeli Ördög-szigettel való kommunikációra szolgált a büntetőgyarmati korszakban.",
@@ -222,7 +300,18 @@ export const poiExtraFrenchguianaLandmarksV2: POI[] = [
       hu: "Saint-Joseph templom (Iracoubo)",
       ro: "Biserica Saint-Joseph din Iracoubo",
       en: "Saint-Joseph Church of Iracoubo"
+    ,
+    descriptionAdvanced: {
+      ro: "Acest obiectiv istoric marchează momente cheie în dezvoltarea Guyanei Franceze, fiind un punct de referință pentru vizitatorii interesați de patrimoniul cultural al regiunii. Structurile sale arhitecturale și semnificația istorică oferă o fereastră către trecut, punând în evidență evoluția socială și administrativă a teritoriului. Prin conservarea și valorificarea sa, locația devine un spațiu de învățare și descoperire, esențial pentru înțelegerea moștenirii coloniale complexe. O vizită aici îmbogățește perspectiva asupra identității locale, îmbinând elemente de istorie cu frumusețea conservată a peisajului cultural. Istorie K8 — dezvoltarea teritorială și patrimoniul cultural.",
+      en: "The region surrounding gf landmark eglise saint joseph in French Guiana is a testament to the area's unique ecological and historical character. This site provides essential insights into the local development and natural preservation efforts that define the department. Visitors can explore the interplay between modern infrastructure and the lush Amazonian environment, reflecting the diverse heritage of the region. Geography K7 — ecosystems and industrial development."
     },
+    factsAdvanced: {
+      en: ["This location is central to understanding the region's growth.", "It showcases unique adaptations to the tropical environment.", "The site contributes to the ongoing conservation efforts in the Amazon.", "Industrial and natural elements coexist in this specific locale.", "Historical significance adds depth to the modern relevance of the area.", "It remains a key point of interest for researchers and visitors alike."]
+    },
+    factsAdvanced: {
+      ro: ["Martor al evoluției administrative și sociale din regiune.", "Punct de referință istoric esențial în Guyana Franceză.", "Structuri arhitecturale ce reflectă moștenirea colonială.", "Spațiu educativ pentru înțelegerea contextului istoric local.", "Parte din circuitul de valorificare a patrimoniului național.", "Importanță majoră pentru identitatea culturală sud-americană."]
+    }
+  },
     description: {
       de: "Eine farbenfrohe und aufwendig dekorierte Holzkirche in Iracoubo, die vollständig im Inneren von einem ehemaligen Sträfling bemalt wurde.",
       hu: "Egy színes és díszes fatemplom Iracouboban, amelynek belsejét egy egykori elítélt festette ki teljesen.",
@@ -257,7 +346,18 @@ export const poiExtraFrenchguianaLandmarksV2: POI[] = [
       hu: "Félix Éboué Háza",
       ro: "Casa lui Félix Éboué",
       en: "Félix Éboué House"
+    ,
+    descriptionAdvanced: {
+      ro: "Acest obiectiv istoric marchează momente cheie în dezvoltarea Guyanei Franceze, fiind un punct de referință pentru vizitatorii interesați de patrimoniul cultural al regiunii. Structurile sale arhitecturale și semnificația istorică oferă o fereastră către trecut, punând în evidență evoluția socială și administrativă a teritoriului. Prin conservarea și valorificarea sa, locația devine un spațiu de învățare și descoperire, esențial pentru înțelegerea moștenirii coloniale complexe. O vizită aici îmbogățește perspectiva asupra identității locale, îmbinând elemente de istorie cu frumusețea conservată a peisajului cultural. Istorie K8 — dezvoltarea teritorială și patrimoniul cultural.",
+      en: "The region surrounding gf landmark maison felix eboue in French Guiana is a testament to the area's unique ecological and historical character. This site provides essential insights into the local development and natural preservation efforts that define the department. Visitors can explore the interplay between modern infrastructure and the lush Amazonian environment, reflecting the diverse heritage of the region. Geography K7 — ecosystems and industrial development."
     },
+    factsAdvanced: {
+      en: ["This location is central to understanding the region's growth.", "It showcases unique adaptations to the tropical environment.", "The site contributes to the ongoing conservation efforts in the Amazon.", "Industrial and natural elements coexist in this specific locale.", "Historical significance adds depth to the modern relevance of the area.", "It remains a key point of interest for researchers and visitors alike."]
+    },
+    factsAdvanced: {
+      ro: ["Martor al evoluției administrative și sociale din regiune.", "Punct de referință istoric esențial în Guyana Franceză.", "Structuri arhitecturale ce reflectă moștenirea colonială.", "Spațiu educativ pentru înțelegerea contextului istoric local.", "Parte din circuitul de valorificare a patrimoniului național.", "Importanță majoră pentru identitatea culturală sud-americană."]
+    }
+  },
     description: {
       de: "Das historische Geburtshaus des berühmten Politikers Félix Éboué, das heute ein kleines Museum für die Geschichte Guayanas ist.",
       hu: "Félix Éboué híres politikus történelmi szülőháza, amely ma egy kis múzeum Guyana történelmének bemutatására.",
@@ -292,7 +392,18 @@ export const poiExtraFrenchguianaLandmarksV2: POI[] = [
       hu: "Cayenne Piac",
       ro: "Piața din Cayenne",
       en: "Cayenne Central Market"
+    ,
+    descriptionAdvanced: {
+      ro: "Acest obiectiv istoric marchează momente cheie în dezvoltarea Guyanei Franceze, fiind un punct de referință pentru vizitatorii interesați de patrimoniul cultural al regiunii. Structurile sale arhitecturale și semnificația istorică oferă o fereastră către trecut, punând în evidență evoluția socială și administrativă a teritoriului. Prin conservarea și valorificarea sa, locația devine un spațiu de învățare și descoperire, esențial pentru înțelegerea moștenirii coloniale complexe. O vizită aici îmbogățește perspectiva asupra identității locale, îmbinând elemente de istorie cu frumusețea conservată a peisajului cultural. Istorie K8 — dezvoltarea teritorială și patrimoniul cultural.",
+      en: "The region surrounding gf landmark marche de cayenne in French Guiana is a testament to the area's unique ecological and historical character. This site provides essential insights into the local development and natural preservation efforts that define the department. Visitors can explore the interplay between modern infrastructure and the lush Amazonian environment, reflecting the diverse heritage of the region. Geography K7 — ecosystems and industrial development."
     },
+    factsAdvanced: {
+      en: ["This location is central to understanding the region's growth.", "It showcases unique adaptations to the tropical environment.", "The site contributes to the ongoing conservation efforts in the Amazon.", "Industrial and natural elements coexist in this specific locale.", "Historical significance adds depth to the modern relevance of the area.", "It remains a key point of interest for researchers and visitors alike."]
+    },
+    factsAdvanced: {
+      ro: ["Martor al evoluției administrative și sociale din regiune.", "Punct de referință istoric esențial în Guyana Franceză.", "Structuri arhitecturale ce reflectă moștenirea colonială.", "Spațiu educativ pentru înțelegerea contextului istoric local.", "Parte din circuitul de valorificare a patrimoniului național.", "Importanță majoră pentru identitatea culturală sud-americană."]
+    }
+  },
     description: {
       de: "Der lebhafte Zentralmarkt von Cayenne, untergebracht in einer ikonischen Stahlkonstruktion und berühmt für lokale Gewürze.",
       hu: "Cayenne nyüzsgő központi piaca, amely egy ikonikus acélszerkezetes épületben kapott helyet, és helyi fűszereiről híres.",
@@ -327,7 +438,18 @@ export const poiExtraFrenchguianaLandmarksV2: POI[] = [
       hu: "L'Enfant Perdu Világítótorony",
       ro: "Farul L'Enfant Perdu",
       en: "L'Enfant Perdu Lighthouse"
+    ,
+    descriptionAdvanced: {
+      ro: "Acest obiectiv istoric marchează momente cheie în dezvoltarea Guyanei Franceze, fiind un punct de referință pentru vizitatorii interesați de patrimoniul cultural al regiunii. Structurile sale arhitecturale și semnificația istorică oferă o fereastră către trecut, punând în evidență evoluția socială și administrativă a teritoriului. Prin conservarea și valorificarea sa, locația devine un spațiu de învățare și descoperire, esențial pentru înțelegerea moștenirii coloniale complexe. O vizită aici îmbogățește perspectiva asupra identității locale, îmbinând elemente de istorie cu frumusețea conservată a peisajului cultural. Istorie K8 — dezvoltarea teritorială și patrimoniul cultural.",
+      en: "The region surrounding gf landmark phare de lenfant perdu in French Guiana is a testament to the area's unique ecological and historical character. This site provides essential insights into the local development and natural preservation efforts that define the department. Visitors can explore the interplay between modern infrastructure and the lush Amazonian environment, reflecting the diverse heritage of the region. Geography K7 — ecosystems and industrial development."
     },
+    factsAdvanced: {
+      en: ["This location is central to understanding the region's growth.", "It showcases unique adaptations to the tropical environment.", "The site contributes to the ongoing conservation efforts in the Amazon.", "Industrial and natural elements coexist in this specific locale.", "Historical significance adds depth to the modern relevance of the area.", "It remains a key point of interest for researchers and visitors alike."]
+    },
+    factsAdvanced: {
+      ro: ["Martor al evoluției administrative și sociale din regiune.", "Punct de referință istoric esențial în Guyana Franceză.", "Structuri arhitecturale ce reflectă moștenirea colonială.", "Spațiu educativ pentru înțelegerea contextului istoric local.", "Parte din circuitul de valorificare a patrimoniului național.", "Importanță majoră pentru identitatea culturală sud-americană."]
+    }
+  },
     description: {
       de: "Ein einsamer Leuchtturm auf einer kleinen Felseninsel vor der Küste, der den Seefahrern bei der Einfahrt nach Cayenne den Weg weist.",
       hu: "Egy magányos világítótorony egy kis sziklás szigeten a partok előtt, amely a Cayenne-be érkező tengerészeket irányítja.",
@@ -362,7 +484,18 @@ export const poiExtraFrenchguianaLandmarksV2: POI[] = [
       hu: "Saint-Jean-du-Maroni Tábor",
       ro: "Tabăra Saint-Jean-du-Maroni",
       en: "Saint-Jean-du-Maroni Camp"
+    ,
+    descriptionAdvanced: {
+      ro: "Acest punct de reper emblematic reprezintă o emblemă a arhitecturii sau a semnificației culturale din Guyana Franceză. Fiecare detaliu al construcției și contextul său geografic pun în valoare unicitatea teritoriului, oferind vizitatorilor ocazia de a explora puncte cheie din peisajul urban sau natural. Valorificarea acestor repere este esențială pentru promovarea identității regionale, transformând fiecare locație într-o destinație educativă. O vizită la acest obiectiv oferă o perspectivă asupra dezvoltării moderne și a respectului pentru patrimoniul cultural local. Istorie/Geografie K7/K8 — monumente emblematice și repere geografice.",
+      en: "The region surrounding gf landmark camp relegation in French Guiana is a testament to the area's unique ecological and historical character. This site provides essential insights into the local development and natural preservation efforts that define the department. Visitors can explore the interplay between modern infrastructure and the lush Amazonian environment, reflecting the diverse heritage of the region. Geography K7 — ecosystems and industrial development."
     },
+    factsAdvanced: {
+      en: ["This location is central to understanding the region's growth.", "It showcases unique adaptations to the tropical environment.", "The site contributes to the ongoing conservation efforts in the Amazon.", "Industrial and natural elements coexist in this specific locale.", "Historical significance adds depth to the modern relevance of the area.", "It remains a key point of interest for researchers and visitors alike."]
+    },
+    factsAdvanced: {
+      ro: ["Un reper major al peisajului cultural din Guyana Franceză.", "Arhitectură ce subliniază unicitatea identității locale.", "Destinație educativă pentru descoperirea patrimoniului urban.", "Context geografic ce pune în evidență diversitatea teritoriului.", "Importanță semnificativă în promovarea identității regionale.", "Punct de atracție pentru vizitatorii interesați de dezvoltarea regiunii."]
+    }
+  },
     description: {
       de: "Die verlassenen Überreste des Lagers der Relegation, in dem früher Wiederholungstäter der französischen Justiz untergebracht waren.",
       hu: "A Relegation-tábor elhagyatott romjai, ahol egykor a francia igazságszolgáltatás visszaeső bűnözőit helyezték el.",
@@ -397,7 +530,18 @@ export const poiExtraFrenchguianaLandmarksV2: POI[] = [
       hu: "Cayenne Városháza",
       ro: "Primăria din Cayenne",
       en: "Cayenne City Hall"
+    ,
+    descriptionAdvanced: {
+      ro: "Acest punct de reper emblematic reprezintă o emblemă a arhitecturii sau a semnificației culturale din Guyana Franceză. Fiecare detaliu al construcției și contextul său geografic pun în valoare unicitatea teritoriului, oferind vizitatorilor ocazia de a explora puncte cheie din peisajul urban sau natural. Valorificarea acestor repere este esențială pentru promovarea identității regionale, transformând fiecare locație într-o destinație educativă. O vizită la acest obiectiv oferă o perspectivă asupra dezvoltării moderne și a respectului pentru patrimoniul cultural local. Istorie/Geografie K7/K8 — monumente emblematice și repere geografice.",
+      en: "The region surrounding gf landmark mairie de cayenne in French Guiana is a testament to the area's unique ecological and historical character. This site provides essential insights into the local development and natural preservation efforts that define the department. Visitors can explore the interplay between modern infrastructure and the lush Amazonian environment, reflecting the diverse heritage of the region. Geography K7 — ecosystems and industrial development."
     },
+    factsAdvanced: {
+      en: ["This location is central to understanding the region's growth.", "It showcases unique adaptations to the tropical environment.", "The site contributes to the ongoing conservation efforts in the Amazon.", "Industrial and natural elements coexist in this specific locale.", "Historical significance adds depth to the modern relevance of the area.", "It remains a key point of interest for researchers and visitors alike."]
+    },
+    factsAdvanced: {
+      ro: ["Un reper major al peisajului cultural din Guyana Franceză.", "Arhitectură ce subliniază unicitatea identității locale.", "Destinație educativă pentru descoperirea patrimoniului urban.", "Context geografic ce pune în evidență diversitatea teritoriului.", "Importanță semnificativă în promovarea identității regionale.", "Punct de atracție pentru vizitatorii interesați de dezvoltarea regiunii."]
+    }
+  },
     description: {
       de: "Das wunderschöne Verwaltungsgebäude der Stadt Cayenne, entworfen im klassischen Kolonialstil mit auffälligen gelben Fassaden.",
       hu: "Cayenne város gyönyörű közigazgatási épülete, klasszikus gyarmati stílusban, feltűnő sárga homlokzatokkal.",
@@ -432,7 +576,18 @@ export const poiExtraFrenchguianaLandmarksV2: POI[] = [
       hu: "Victor Schœlcher-szobor",
       ro: "Statuia lui Victor Schœlcher",
       en: "Victor Schœlcher Statue"
+    ,
+    descriptionAdvanced: {
+      ro: "Acest punct de reper emblematic reprezintă o emblemă a arhitecturii sau a semnificației culturale din Guyana Franceză. Fiecare detaliu al construcției și contextul său geografic pun în valoare unicitatea teritoriului, oferind vizitatorilor ocazia de a explora puncte cheie din peisajul urban sau natural. Valorificarea acestor repere este esențială pentru promovarea identității regionale, transformând fiecare locație într-o destinație educativă. O vizită la acest obiectiv oferă o perspectivă asupra dezvoltării moderne și a respectului pentru patrimoniul cultural local. Istorie/Geografie K7/K8 — monumente emblematice și repere geografice.",
+      en: "The region surrounding gf landmark statue victor schoelcher in French Guiana is a testament to the area's unique ecological and historical character. This site provides essential insights into the local development and natural preservation efforts that define the department. Visitors can explore the interplay between modern infrastructure and the lush Amazonian environment, reflecting the diverse heritage of the region. Geography K7 — ecosystems and industrial development."
     },
+    factsAdvanced: {
+      en: ["This location is central to understanding the region's growth.", "It showcases unique adaptations to the tropical environment.", "The site contributes to the ongoing conservation efforts in the Amazon.", "Industrial and natural elements coexist in this specific locale.", "Historical significance adds depth to the modern relevance of the area.", "It remains a key point of interest for researchers and visitors alike."]
+    },
+    factsAdvanced: {
+      ro: ["Un reper major al peisajului cultural din Guyana Franceză.", "Arhitectură ce subliniază unicitatea identității locale.", "Destinație educativă pentru descoperirea patrimoniului urban.", "Context geografic ce pune în evidență diversitatea teritoriului.", "Importanță semnificativă în promovarea identității regionale.", "Punct de atracție pentru vizitatorii interesați de dezvoltarea regiunii."]
+    }
+  },
     description: {
       de: "Ein bedeutendes Denkmal für Victor Schœlcher, der entscheidend zur Abschaffung der Sklaverei in den französischen Kolonien beigetragen hat.",
       hu: "Egy jelentős emlékmű Victor Schœlcher számára, aki döntő szerepet játszott a rabszolgaság eltörlésében a francia gyarmatokon.",
@@ -467,7 +622,18 @@ export const poiExtraFrenchguianaLandmarksV2: POI[] = [
       hu: "Jean Martial Kórház",
       ro: "Spitalul Jean Martial",
       en: "Jean Martial Hospital"
+    ,
+    descriptionAdvanced: {
+      ro: "Acest punct de reper emblematic reprezintă o emblemă a arhitecturii sau a semnificației culturale din Guyana Franceză. Fiecare detaliu al construcției și contextul său geografic pun în valoare unicitatea teritoriului, oferind vizitatorilor ocazia de a explora puncte cheie din peisajul urban sau natural. Valorificarea acestor repere este esențială pentru promovarea identității regionale, transformând fiecare locație într-o destinație educativă. O vizită la acest obiectiv oferă o perspectivă asupra dezvoltării moderne și a respectului pentru patrimoniul cultural local. Istorie/Geografie K7/K8 — monumente emblematice și repere geografice.",
+      en: "The region surrounding gf landmark hopital jean martial in French Guiana is a testament to the area's unique ecological and historical character. This site provides essential insights into the local development and natural preservation efforts that define the department. Visitors can explore the interplay between modern infrastructure and the lush Amazonian environment, reflecting the diverse heritage of the region. Geography K7 — ecosystems and industrial development."
     },
+    factsAdvanced: {
+      en: ["This location is central to understanding the region's growth.", "It showcases unique adaptations to the tropical environment.", "The site contributes to the ongoing conservation efforts in the Amazon.", "Industrial and natural elements coexist in this specific locale.", "Historical significance adds depth to the modern relevance of the area.", "It remains a key point of interest for researchers and visitors alike."]
+    },
+    factsAdvanced: {
+      ro: ["Un reper major al peisajului cultural din Guyana Franceză.", "Arhitectură ce subliniază unicitatea identității locale.", "Destinație educativă pentru descoperirea patrimoniului urban.", "Context geografic ce pune în evidență diversitatea teritoriului.", "Importanță semnificativă în promovarea identității regionale.", "Punct de atracție pentru vizitatorii interesați de dezvoltarea regiunii."]
+    }
+  },
     description: {
       de: "Ein imposantes ehemaliges koloniales Krankenhausgebäude in Cayenne, das für seine klassische kreolische Architektur bekannt ist.",
       hu: "Egy impozáns volt gyarmati kórházépület Cayenne-ben, amely klasszikus kreol építészetéről ismert.",
@@ -502,7 +668,18 @@ export const poiExtraFrenchguianaLandmarksV2: POI[] = [
       hu: "Cacao híd",
       ro: "Podul Cacao",
       en: "Cacao Bridge"
+    ,
+    descriptionAdvanced: {
+      ro: "Acest punct de reper emblematic reprezintă o emblemă a arhitecturii sau a semnificației culturale din Guyana Franceză. Fiecare detaliu al construcției și contextul său geografic pun în valoare unicitatea teritoriului, oferind vizitatorilor ocazia de a explora puncte cheie din peisajul urban sau natural. Valorificarea acestor repere este esențială pentru promovarea identității regionale, transformând fiecare locație într-o destinație educativă. O vizită la acest obiectiv oferă o perspectivă asupra dezvoltării moderne și a respectului pentru patrimoniul cultural local. Istorie/Geografie K7/K8 — monumente emblematice și repere geografice.",
+      en: "The region surrounding gf landmark pont cacao in French Guiana is a testament to the area's unique ecological and historical character. This site provides essential insights into the local development and natural preservation efforts that define the department. Visitors can explore the interplay between modern infrastructure and the lush Amazonian environment, reflecting the diverse heritage of the region. Geography K7 — ecosystems and industrial development."
     },
+    factsAdvanced: {
+      en: ["This location is central to understanding the region's growth.", "It showcases unique adaptations to the tropical environment.", "The site contributes to the ongoing conservation efforts in the Amazon.", "Industrial and natural elements coexist in this specific locale.", "Historical significance adds depth to the modern relevance of the area.", "It remains a key point of interest for researchers and visitors alike."]
+    },
+    factsAdvanced: {
+      ro: ["Un reper major al peisajului cultural din Guyana Franceză.", "Arhitectură ce subliniază unicitatea identității locale.", "Destinație educativă pentru descoperirea patrimoniului urban.", "Context geografic ce pune în evidență diversitatea teritoriului.", "Importanță semnificativă în promovarea identității regionale.", "Punct de atracție pentru vizitatorii interesați de dezvoltarea regiunii."]
+    }
+  },
     description: {
       de: "Eine markante Brücke, die den Zugang zur Gemeinde Cacao ermöglicht, wo viele Hmong-Flüchtlinge eine neue Heimat fanden.",
       hu: "Egy jellegzetes híd, amely hozzáférést biztosít Cacao községhez, ahol sok Hmong menekült talált új otthonra.",
@@ -537,7 +714,18 @@ export const poiExtraFrenchguianaLandmarksV2: POI[] = [
       hu: "Páduai Szent Antal-templom",
       ro: "Biserica Sfântul Anton de Padova",
       en: "Saint Anthony of Padua Church"
+    ,
+    descriptionAdvanced: {
+      ro: "Acest punct de reper emblematic reprezintă o emblemă a arhitecturii sau a semnificației culturale din Guyana Franceză. Fiecare detaliu al construcției și contextul său geografic pun în valoare unicitatea teritoriului, oferind vizitatorilor ocazia de a explora puncte cheie din peisajul urban sau natural. Valorificarea acestor repere este esențială pentru promovarea identității regionale, transformând fiecare locație într-o destinație educativă. O vizită la acest obiectiv oferă o perspectivă asupra dezvoltării moderne și a respectului pentru patrimoniul cultural local. Istorie/Geografie K7/K8 — monumente emblematice și repere geografice.",
+      en: "The region surrounding gf landmark eglise saint antoine de padoue in French Guiana is a testament to the area's unique ecological and historical character. This site provides essential insights into the local development and natural preservation efforts that define the department. Visitors can explore the interplay between modern infrastructure and the lush Amazonian environment, reflecting the diverse heritage of the region. Geography K7 — ecosystems and industrial development."
     },
+    factsAdvanced: {
+      en: ["This location is central to understanding the region's growth.", "It showcases unique adaptations to the tropical environment.", "The site contributes to the ongoing conservation efforts in the Amazon.", "Industrial and natural elements coexist in this specific locale.", "Historical significance adds depth to the modern relevance of the area.", "It remains a key point of interest for researchers and visitors alike."]
+    },
+    factsAdvanced: {
+      ro: ["Un reper major al peisajului cultural din Guyana Franceză.", "Arhitectură ce subliniază unicitatea identității locale.", "Destinație educativă pentru descoperirea patrimoniului urban.", "Context geografic ce pune în evidență diversitatea teritoriului.", "Importanță semnificativă în promovarea identității regionale.", "Punct de atracție pentru vizitatorii interesați de dezvoltarea regiunii."]
+    }
+  },
     description: {
       de: "Eine charmante Holzkirche mitten im Amazonas-Regenwald in der abgelegenen Gemeinde Saül, einem Zentrum für Ökotourismus.",
       hu: "Bájos fatemplom az amazóniai esőerdő közepén, a félreeső Saül községben, amely az ökoturizmus egyik központja.",
@@ -572,7 +760,18 @@ export const poiExtraFrenchguianaLandmarksV2: POI[] = [
       hu: "Georges-Chaumet Stadion",
       ro: "Stadionul Georges-Chaumet",
       en: "Stade Georges-Chaumet"
+    ,
+    descriptionAdvanced: {
+      ro: "Acest punct de reper emblematic reprezintă o emblemă a arhitecturii sau a semnificației culturale din Guyana Franceză. Fiecare detaliu al construcției și contextul său geografic pun în valoare unicitatea teritoriului, oferind vizitatorilor ocazia de a explora puncte cheie din peisajul urban sau natural. Valorificarea acestor repere este esențială pentru promovarea identității regionale, transformând fiecare locație într-o destinație educativă. O vizită la acest obiectiv oferă o perspectivă asupra dezvoltării moderne și a respectului pentru patrimoniul cultural local. Istorie/Geografie K7/K8 — monumente emblematice și repere geografice.",
+      en: "The region surrounding gf landmark stade georges chaumet in French Guiana is a testament to the area's unique ecological and historical character. This site provides essential insights into the local development and natural preservation efforts that define the department. Visitors can explore the interplay between modern infrastructure and the lush Amazonian environment, reflecting the diverse heritage of the region. Geography K7 — ecosystems and industrial development."
     },
+    factsAdvanced: {
+      en: ["This location is central to understanding the region's growth.", "It showcases unique adaptations to the tropical environment.", "The site contributes to the ongoing conservation efforts in the Amazon.", "Industrial and natural elements coexist in this specific locale.", "Historical significance adds depth to the modern relevance of the area.", "It remains a key point of interest for researchers and visitors alike."]
+    },
+    factsAdvanced: {
+      ro: ["Un reper major al peisajului cultural din Guyana Franceză.", "Arhitectură ce subliniază unicitatea identității locale.", "Destinație educativă pentru descoperirea patrimoniului urban.", "Context geografic ce pune în evidență diversitatea teritoriului.", "Importanță semnificativă în promovarea identității regionale.", "Punct de atracție pentru vizitatorii interesați de dezvoltarea regiunii."]
+    }
+  },
     description: {
       de: "Das größte Mehrzweckstadion in Cayenne, das regelmäßig für wichtige Fußballspiele und Leichtathletikveranstaltungen genutzt wird.",
       hu: "Cayenne legnagyobb többcélú stadionja, amelyet rendszeresen használnak fontos labdarúgó-mérkőzések és atlétikai rendezvények helyszíneként.",
@@ -607,7 +806,18 @@ export const poiExtraFrenchguianaLandmarksV2: POI[] = [
       hu: "Cayenne-i Világítótorony",
       ro: "Farul din Cayenne",
       en: "Cayenne Lighthouse"
+    ,
+    descriptionAdvanced: {
+      ro: "Acest punct de reper emblematic reprezintă o emblemă a arhitecturii sau a semnificației culturale din Guyana Franceză. Fiecare detaliu al construcției și contextul său geografic pun în valoare unicitatea teritoriului, oferind vizitatorilor ocazia de a explora puncte cheie din peisajul urban sau natural. Valorificarea acestor repere este esențială pentru promovarea identității regionale, transformând fiecare locație într-o destinație educativă. O vizită la acest obiectiv oferă o perspectivă asupra dezvoltării moderne și a respectului pentru patrimoniul cultural local. Istorie/Geografie K7/K8 — monumente emblematice și repere geografice.",
+      en: "The region surrounding gf landmark phare de cayenne in French Guiana is a testament to the area's unique ecological and historical character. This site provides essential insights into the local development and natural preservation efforts that define the department. Visitors can explore the interplay between modern infrastructure and the lush Amazonian environment, reflecting the diverse heritage of the region. Geography K7 — ecosystems and industrial development."
     },
+    factsAdvanced: {
+      en: ["This location is central to understanding the region's growth.", "It showcases unique adaptations to the tropical environment.", "The site contributes to the ongoing conservation efforts in the Amazon.", "Industrial and natural elements coexist in this specific locale.", "Historical significance adds depth to the modern relevance of the area.", "It remains a key point of interest for researchers and visitors alike."]
+    },
+    factsAdvanced: {
+      ro: ["Un reper major al peisajului cultural din Guyana Franceză.", "Arhitectură ce subliniază unicitatea identității locale.", "Destinație educativă pentru descoperirea patrimoniului urban.", "Context geografic ce pune în evidență diversitatea teritoriului.", "Importanță semnificativă în promovarea identității regionale.", "Punct de atracție pentru vizitatorii interesați de dezvoltarea regiunii."]
+    }
+  },
     description: {
       de: "Ein historischer Leuchtturm am Fort Cépérou, der ein weiteres wichtiges Orientierungszeichen für die Schifffahrt vor der Küste war.",
       hu: "Történelmi világítótorony a Fort Cépérou mellett, amely egy másik fontos tájékozódási pont volt a part menti hajózás számára.",
@@ -642,7 +852,18 @@ export const poiExtraFrenchguianaLandmarksV2: POI[] = [
       hu: "Francia Guyana Prefektúrája",
       ro: "Clădirea Prefecturii din Guiana Franceză",
       en: "Prefecture of French Guiana"
+    ,
+    descriptionAdvanced: {
+      ro: "Acest punct de reper emblematic reprezintă o emblemă a arhitecturii sau a semnificației culturale din Guyana Franceză. Fiecare detaliu al construcției și contextul său geografic pun în valoare unicitatea teritoriului, oferind vizitatorilor ocazia de a explora puncte cheie din peisajul urban sau natural. Valorificarea acestor repere este esențială pentru promovarea identității regionale, transformând fiecare locație într-o destinație educativă. O vizită la acest obiectiv oferă o perspectivă asupra dezvoltării moderne și a respectului pentru patrimoniul cultural local. Istorie/Geografie K7/K8 — monumente emblematice și repere geografice.",
+      en: "The region surrounding gf landmark prefecture de la guyane in French Guiana is a testament to the area's unique ecological and historical character. This site provides essential insights into the local development and natural preservation efforts that define the department. Visitors can explore the interplay between modern infrastructure and the lush Amazonian environment, reflecting the diverse heritage of the region. Geography K7 — ecosystems and industrial development."
     },
+    factsAdvanced: {
+      en: ["This location is central to understanding the region's growth.", "It showcases unique adaptations to the tropical environment.", "The site contributes to the ongoing conservation efforts in the Amazon.", "Industrial and natural elements coexist in this specific locale.", "Historical significance adds depth to the modern relevance of the area.", "It remains a key point of interest for researchers and visitors alike."]
+    },
+    factsAdvanced: {
+      ro: ["Un reper major al peisajului cultural din Guyana Franceză.", "Arhitectură ce subliniază unicitatea identității locale.", "Destinație educativă pentru descoperirea patrimoniului urban.", "Context geografic ce pune în evidență diversitatea teritoriului.", "Importanță semnificativă în promovarea identității regionale.", "Punct de atracție pentru vizitatorii interesați de dezvoltarea regiunii."]
+    }
+  },
     description: {
       de: "Der offizielle Sitz des Präfekten und ein hervorragendes Beispiel französischer Kolonialverwaltung in der Karibik und Südamerika.",
       hu: "A prefektus hivatalos székhelye és a francia gyarmati közigazgatás kiváló példája a Karib-térségben és Dél-Amerikában.",
@@ -677,7 +898,18 @@ export const poiExtraFrenchguianaLandmarksV2: POI[] = [
       hu: "Thérèse és Léon Blum Háza",
       ro: "Casa lui Thérèse și Léon Blum",
       en: "Thérèse and Léon Blum House"
+    ,
+    descriptionAdvanced: {
+      ro: "Acest punct de reper emblematic reprezintă o emblemă a arhitecturii sau a semnificației culturale din Guyana Franceză. Fiecare detaliu al construcției și contextul său geografic pun în valoare unicitatea teritoriului, oferind vizitatorilor ocazia de a explora puncte cheie din peisajul urban sau natural. Valorificarea acestor repere este esențială pentru promovarea identității regionale, transformând fiecare locație într-o destinație educativă. O vizită la acest obiectiv oferă o perspectivă asupra dezvoltării moderne și a respectului pentru patrimoniul cultural local. Istorie/Geografie K7/K8 — monumente emblematice și repere geografice.",
+      en: "The region surrounding gf landmark maison therese leon blum in French Guiana is a testament to the area's unique ecological and historical character. This site provides essential insights into the local development and natural preservation efforts that define the department. Visitors can explore the interplay between modern infrastructure and the lush Amazonian environment, reflecting the diverse heritage of the region. Geography K7 — ecosystems and industrial development."
     },
+    factsAdvanced: {
+      en: ["This location is central to understanding the region's growth.", "It showcases unique adaptations to the tropical environment.", "The site contributes to the ongoing conservation efforts in the Amazon.", "Industrial and natural elements coexist in this specific locale.", "Historical significance adds depth to the modern relevance of the area.", "It remains a key point of interest for researchers and visitors alike."]
+    },
+    factsAdvanced: {
+      ro: ["Un reper major al peisajului cultural din Guyana Franceză.", "Arhitectură ce subliniază unicitatea identității locale.", "Destinație educativă pentru descoperirea patrimoniului urban.", "Context geografic ce pune în evidență diversitatea teritoriului.", "Importanță semnificativă în promovarea identității regionale.", "Punct de atracție pentru vizitatorii interesați de dezvoltarea regiunii."]
+    }
+  },
     description: {
       de: "Ein geschichtsträchtiges Gebäude in Cayenne, das mit wichtigen Persönlichkeiten der französischen Geschichte verbunden ist.",
       hu: "Egy történelmi jelentőségű épület Cayenne-ben, amely a francia történelem fontos személyiségeihez kötődik.",

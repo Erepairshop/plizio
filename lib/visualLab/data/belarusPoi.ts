@@ -50,10 +50,10 @@ export const belarusCountry: POI = {
       "A Marc Chagall Múzeum a művész szülővárosában, Vicebszkben található."
     ],
     ro: [
-      "Belarus este adesea numit „plămânul Europei”, deoarece o treime din țară este împădurită.",
+      "Belarus este adesea numit \\\"plămânul Europei\\\", deoarece o treime din țară este împădurită.",
       "În Parcul Național Belovezhskaya Pushcha trăiește bizonul european (zimbru).",
       "Minsk a fost aproape complet distrus în cel de-al Doilea Război Mondial și reconstruit în stil stalinist.",
-      "Țara are peste 11.000 de lacuri, motiv pentru care este numită și „Belarusul cu ochi albaștri”.",
+      "Țara are peste 11.000 de lacuri, motiv pentru care este numită și \\\"Belarusul cu ochi albaștri\\\".",
       "Castelele Mir și Nesvizh fac parte din Patrimoniul Mondial UNESCO.",
       "Belarus este un exportator mondial de top de îngrășăminte cu potasiu.",
       "Cel mai înalt punct al țării este Dzyarzhynskaya Hara, cu doar 345 de metri.",
@@ -90,7 +90,7 @@ export const belarusCountry: POI = {
       "Több mint 11 000 tavával az ország Kelet-Európa egyik vízben leggazdagabb régiója."
     ],
     ro: [
-      "Belarus este considerată „plămânul Europei”, deoarece aproape 40% din suprafața țării este acoperită de păduri dense.",
+      "Belarus este considerată \\\"plămânul Europei\\\", deoarece aproape 40% din suprafața țării este acoperită de păduri dense.",
       "Belovezhskaya Pushcha găzduiește cea mai mare populație liberă de zimbri europeni.",
       "Țara deține patru situri din Patrimoniul Mondial UNESCO, inclusiv castelele Mir și Nesvizh.",
       "Capitala Minsk a fost reconstruită aproape în întregime după 1945, în stilul clasicismului sovietic monumental.",

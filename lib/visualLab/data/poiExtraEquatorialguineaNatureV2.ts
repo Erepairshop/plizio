@@ -12,7 +12,14 @@ export const poiExtraEquatorialguineaNatureV2: POI[] = [
       hu: "Pico Basile",
       ro: "Pico Basile",
       en: "Pico Basile"
+    ,
+    descriptionAdvanced: {
+      de: "Der Pico Basile, ehemals als Pico de Santa Isabel bekannt, ist mit einer beeindruckenden Höhe von 3.011 Metern der höchste Gipfel Äquatorialguineas und ein dominantes Merkmal der Vulkaninsel Bioko. Der massive Schichtvulkan bietet nicht nur spektakuläre Panoramablicke über die Insel und den Golf von Guinea, sondern beherbergt auch eine vielfältige Flora und Fauna, die in den verschiedenen Höhenstufen von tropischen Wäldern bis zu alpinen Zonen reicht. Der Berg ist ein zentrales geografisches Element der Insel und dient als wichtiges Ökosystem für viele endemische Arten, darunter seltene Primaten, die in den geschützten Waldgebieten an seinen Hängen heimisch sind. Geografie K7, Biologie K8."
     },
+    factsAdvanced: {
+      de: ["Mit 3.011 Metern der höchste Berg des Landes.", "Teil des vulkanischen 'Cameroon Volcanic Line' Systems.", "Die Hänge sind in verschiedene ökologische Zonen unterteilt.", "Wichtiger Lebensraum für seltene Affenarten.", "Der Vulkan ist geologisch aktiv, aber zurzeit in einer Ruhephase.", "Bietet bei klarem Wetter einen Blick bis zur Küste Kameruns."]
+    }
+  },
     description: {
       de: "Der höchste Berg Äquatorialguineas, ein massiver Vulkan auf der Insel Bioko mit Blick auf Malabo.",
       hu: "Egyenlítői-Guinea legmagasabb hegye, egy masszív tűzhányó Bioko szigetén, amely Malabóra néz.",
@@ -55,7 +62,14 @@ export const poiExtraEquatorialguineaNatureV2: POI[] = [
       hu: "Monte Alén Nemzeti Park",
       ro: "Parcul Național Monte Alén",
       en: "Monte Alén National Park"
+    ,
+    descriptionAdvanced: {
+      de: "Der Monte Alén Nationalpark ist das Herzstück der Naturschutzbemühungen auf dem Festland von Äquatorialguinea und schützt eine der artenreichsten Regionen Zentralafrikas. Mit einer Ausdehnung von über 2.000 Quadratkilometern umfasst das Gebiet einen riesigen Komplex aus dichtem tropischem Primärregenwald, der Lebensraum für eine spektakuläre Vielfalt an Wildtieren bietet, darunter bedrohte Arten wie Waldelefanten und westliche Flachlandgorillas. Die hügelige Topografie und die unzähligen Flüsse, die das Gebiet durchziehen, machen den Park zu einem dynamischen Ökosystem von unschätzbarem ökologischem Wert. Der Nationalpark ist ein entscheidender Rückzugsort für den Erhalt der Biodiversität der Region. Ökologie K7, Geografie K8."
     },
+    factsAdvanced: {
+      de: ["Schützt über 2.000 Quadratkilometer Regenwald.", "Etabliert im Jahr 1997 zur Sicherung der Biodiversität.", "Beheimatet bedeutende Populationen von Waldelefanten.", "Wichtiger Standort für Forschungen zu Flachlandgorillas.", "Die Region verfügt über eine hohe jährliche Niederschlagsmenge.", "Der Park umfasst auch Teile des Monte Alén Gebirgszuges."]
+    }
+  },
     description: {
       de: "Ein weitläufiges Schutzgebiet mit dichtem tropischem Regenwald und einer der bedeutendsten Biodiversitäts-Hotspots Zentralafrikas.",
       hu: "Sűrű trópusi esőerdővel borított kiterjedt védett terület, Közép-Afrika egyik legfontosabb biodiverzitási forró pontja.",
@@ -98,7 +112,14 @@ export const poiExtraEquatorialguineaNatureV2: POI[] = [
       hu: "Benito-folyó",
       ro: "Râul Benito",
       en: "Benito River"
+    ,
+    descriptionAdvanced: {
+      de: "Der Benito-Fluss, auch als Mbini bekannt, stellt die wichtigste hydrologische Ader im kontinentalen Äquatorialguinea dar und durchfließt die Region Río Muni auf einer Strecke von etwa 338 Kilometern von Osten nach Westen. Der Fluss spielt eine zentrale Rolle für die lokale Wirtschaft, indem er als Transportweg für den Holzhandel dient, und bildet ein lebenswichtiges ökologisches Rückgrat für den tropischen Regenwald. Die Uferregionen des Benito-Flusses sind geprägt von einer reichen Artenvielfalt und bieten zahlreichen Tierarten, darunter Krokodile und verschiedene Wasservögel, ein Zuhause. Der Fluss ist eng mit dem täglichen Leben und den Handelsrouten der ansässigen Bevölkerung verbunden. Geografie K6, Wirtschaft K7."
     },
+    factsAdvanced: {
+      de: ["Längster Fluss des Festlandes (ca. 338 km).", "Zentraler Transportweg für die Holzindustrie.", "Mündet bei Mbini in den Atlantischen Ozean.", "Die Flussmündung ist eine dynamische ökologische Zone.", "Lebensraum für Krokodile und eine reiche Fischwelt.", "Die Brücke bei Mbini ist ein markantes Bauwerk über den Fluss."]
+    }
+  },
     description: {
       de: "Der längste Fluss im kontinentalen Teil von Äquatorialguinea, der das Land von Osten nach Westen durchquert.",
       hu: "Egyenlítői-Guinea kontinentális részének leghosszabb folyója, amely keletről nyugatra szeli át az országot.",
@@ -141,7 +162,14 @@ export const poiExtraEquatorialguineaNatureV2: POI[] = [
       hu: "Corisco-sziget",
       ro: "Insula Corisco",
       en: "Corisco Island"
+    ,
+    descriptionAdvanced: {
+      de: "Die Insel Corisco liegt im Golf von Guinea, nur einen Steinwurf vor der Küste von Río Muni, und besticht durch ihre unberührte natürliche Schönheit mit blendend weißen Sandstränden und kristallklarem, türkisfarbenem Wasser. Der Name Corisco, was auf Portugiesisch 'Blitz' bedeutet, zeugt von der langen, bewegten Geschichte der Insel als einstiger bedeutender Handelsposten im Südatlantik. Heute ist die Insel eine Oase der Ruhe, die für ihren sanften Tourismus und ihre ökologische Bedeutung bekannt ist. Die Küstengewässer rund um Corisco sind ein bedeutender Lebensraum für Meeresschildkröten und bieten eine reiche marine Flora und Fauna, die Schutz und Erhalt verdient. Geografie K5, Meereskunde K7."
     },
+    factsAdvanced: {
+      de: ["Insel mit ca. 14 Quadratkilometern Fläche.", "Historisch ein wichtiges Zentrum für den Handel.", "Besitzt einige der schönsten weißen Sandstrände der Region.", "Die Gewässer sind für ihre hohe Transparenz bekannt.", "Wichtige Nistplätze für Meeresschildkröten.", "Die Insel ist ein Symbol für die koloniale Vergangenheit der Region."]
+    }
+  },
     description: {
       de: "Eine paradiesische Insel im Golf von Guinea, bekannt für ihre weißen Sandstrände und türkisfarbenes Wasser.",
       hu: "Paradicsomi sziget a Guineai-öbölben, amely fehér homokos strandjairól és türkizkék vizéről ismert.",
@@ -184,7 +212,14 @@ export const poiExtraEquatorialguineaNatureV2: POI[] = [
       hu: "Annobón-sziget",
       ro: "Insula Annobón",
       en: "Annobón Island"
+    ,
+    descriptionAdvanced: {
+      de: "Annobón ist die isolierteste und südlichste Provinz Äquatorialguineas, eine kleine Vulkaninsel mitten im Südatlantik, die aufgrund ihrer weiten Entfernung zum Hauptgebiet eine ganz eigene Geschichte und Kultur entwickelt hat. Die Landschaft der Insel ist durch ihre zerklüftete vulkanische Struktur geprägt, in deren Zentrum sich ein idyllischer Kratersee befindet. Diese Isolation hat zur Entstehung endemischer Arten geführt, wie dem charakteristischen Annobón-Brillenvogel, und zur Bewahrung einer einzigartigen lokalen Identität beigetragen. Die Inselbewohner pflegen eine starke Verbindung zu ihrem Erbe, das sowohl afrikanische als auch europäische Einflüsse, insbesondere aus der Zeit der portugiesischen Präsenz, widerspiegelt. Geografie K7, Geschichte K8."
     },
+    factsAdvanced: {
+      de: ["Einzige Provinz des Landes auf der Südhalbkugel.", "Die Insel ist vulkanischen Ursprungs (entstanden vor Millionen Jahren).", "Besitzt einen malerischen Kratersee im Zentrum.", "Heimat der seltenen Annobón-Brillenvögel.", "Die lokale Kultur ist stark durch isolierte Entwicklung geprägt.", "Amtssprache beinhaltet auch den Dialekt 'Fa d'Ambu'."]
+    }
+  },
     description: {
       de: "Eine abgelegene Vulkaninsel südlich des Äquators, die einzige Provinz des Landes auf der Südhalbkugel.",
       hu: "Egy távoli vulkáni sziget az Egyenlítőtől délre, az ország egyetlen tartománya a déli féltekén.",
@@ -227,7 +262,14 @@ export const poiExtraEquatorialguineaNatureV2: POI[] = [
       hu: "Bioko-sziget",
       ro: "Insula Bioko",
       en: "Bioko Island"
+    ,
+    descriptionAdvanced: {
+      de: "Bioko ist die größte Insel Äquatorialguineas und liegt strategisch im Golf von Guinea, unweit der kamerunischen Küste. Ihre Landschaft ist tiefgreifend durch den Vulkanismus geformt, mit dem imposanten Pico Basile als zentralem Gipfel, der das Bild der Insel prägt. Aufgrund des fruchtbaren vulkanischen Bodens und des feuchtheißen Klimas ist die Insel historisch als Zentrum für den Anbau hochwertiger Exportgüter wie Kakao bekannt. Bioko vereint heute das politische Zentrum des Landes in Malabo mit einer beeindruckenden natürlichen Vielfalt, die von dichten Regenwäldern bis hin zu abgelegenen Stränden reicht. Die Insel ist ein wichtiger Pfeiler der nationalen Wirtschaft und des ökologischen Erbes. Geografie K7, Wirtschaft K8."
     },
+    factsAdvanced: {
+      de: ["Größte Insel Äquatorialguineas (ca. 2.017 km²).", "Ehemals unter dem Namen Fernando Pó bekannt.", "Zentrum der nationalen Kakaoproduktion.", "Die Insel hat eine sehr fruchtbare vulkanische Erde.", "Bietet eine immense ökologische Vielfalt auf engem Raum.", "Sitz der Hauptstadt Malabo."]
+    }
+  },
     description: {
       de: "Die größte Insel Äquatorialguineas, auf der sich die Hauptstadt Malabo befindet, geprägt von vulkanischer Geographie.",
       hu: "Egyenlítői-Guinea legnagyobb szigete, ahol a főváros, Malabo található, vulkáni domborzat jellemzi.",

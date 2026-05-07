@@ -96,7 +96,7 @@ export const poiExtraDominicanrepublicCitiesV2: POI[] = [
     description: {
       de: "Bekannt als 'Die Sultana des Ostens' und Wiege vieler Baseballspieler.",
       hu: "A 'Kelet szultánájaként' ismert, és számos baseballjátékos bölcsője.",
-      ro: "Cunoscut sub numele de „Sultana Estului” și leagănul multor jucători de baseball.",
+      ro: "Cunoscut sub numele de \"Sultana Estului\" și leagănul multor jucători de baseball.",
       en: "Known as 'The Sultana of the East' and the cradle of many baseball players."
     },
     facts: {
@@ -114,7 +114,7 @@ export const poiExtraDominicanrepublicCitiesV2: POI[] = [
     description: {
       de: "Bekannt als 'La Villa Heroica' wegen seiner Rolle in der dominikanischen Geschichte.",
       hu: "A 'La Villa Heroica'-ként ismert a dominikai történelemben betöltött szerepe miatt.",
-      ro: "Cunoscut sub numele de „La Villa Heroica” pentru rolul său în istoria dominicană.",
+      ro: "Cunoscut sub numele de \"La Villa Heroica\" pentru rolul său în istoria dominicană.",
       en: "Known as 'La Villa Heroica' for its role in Dominican history."
     },
     facts: {
@@ -168,7 +168,7 @@ export const poiExtraDominicanrepublicCitiesV2: POI[] = [
     description: {
       de: "Bekannt als die 'Stadt der schönen Sonnenuntergänge'.",
       hu: "A 'gyönyörű naplementék városaként' ismert.",
-      ro: "Cunoscut ca „orașul apusurilor frumoase”.",
+      ro: "Cunoscut ca \"orașul apusurilor frumoase\".",
       en: "Known as the 'city of beautiful sunsets'."
     },
     facts: {
@@ -240,7 +240,7 @@ export const poiExtraDominicanrepublicCitiesV2: POI[] = [
     description: {
       de: "Bekannt als die 'Stadt des ewigen Frühlings' in den Bergen.",
       hu: "Az 'örök tavasz városaként' ismert a hegyekben.",
-      ro: "Cunoscut ca „orașul primăverii veșnice” în munți.",
+      ro: "Cunoscut ca \"orașul primăverii veșnice\" în munți.",
       en: "Known as the 'city of eternal spring' in the mountains."
     },
     facts: {
@@ -264,7 +264,7 @@ export const poiExtraDominicanrepublicCitiesV2: POI[] = [
     facts: {
       de: ["Hauptstadt der Provinz San Juan", "Bekannt als 'Kornkammer des Südens'", "Produziert Bohnen, Reis und Mais", "Historische und religiöse Bedeutung"],
       hu: ["San Juan tartomány fővárosa", "A 'dél magtáraként' ismert", "Babot, rizst és kukoricát termel", "Történelmi és vallási jelentőségű"],
-      ro: ["Capitala provinciei San Juan", "Cunoscut ca „grânarul sudului”", "Produce fasole, orez și porumb", "Importanță istorică și religioasă"],
+      ro: ["Capitala provinciei San Juan", "Cunoscut ca \"grânarul sudului\"", "Produce fasole, orez și porumb", "Importanță istorică și religioasă"],
       en: ["Capital of San Juan province", "Known as the 'breadbasket of the south'", "Produces beans, rice, and corn", "Historical and religious significance"]
     }, image: "/poi-images/do-san-juan-de-la-maguana-cities-v2.webp"},
   {
@@ -276,7 +276,7 @@ export const poiExtraDominicanrepublicCitiesV2: POI[] = [
     description: {
       de: "Eine Küstenstadt im Südwesten, bekannt als 'Die Perle des Südens'.",
       hu: "Part menti város délnyugaton, a 'dél gyöngyeként' ismert.",
-      ro: "Un oraș de coastă în sud-vest, cunoscut sub numele de „Perla Sudului”.",
+      ro: "Un oraș de coastă în sud-vest, cunoscut sub numele de \"Perla Sudului\".",
       en: "A coastal city in the southwest, known as 'The Pearl of the South'."
     },
     facts: {
@@ -588,7 +588,7 @@ export const poiExtraDominicanrepublicCitiesV2: POI[] = [
     facts: {
       de: ["Wichtiger Produzent von Bananen und Reis", "Teil der 'Linia Noroeste'", "Heißes, trockenes Klima", "Landwirtschaftliche Gemeinde"],
       hu: ["Fontos banán- és rizstermelő", "A 'Linia Noroeste' része", "Forró, száraz éghajlat", "Mezőgazdasági közösség"],
-      ro: ["Producător important de banane și orez", "Parte a „Linia Noroeste”", "Climat cald și uscat", "Comunitate agricolă"],
+      ro: ["Producător important de banane și orez", "Parte a \"Linia Noroeste\"", "Climat cald și uscat", "Comunitate agricolă"],
       en: ["Important producer of bananas and rice", "Part of the 'Linia Noroeste'", "Hot, dry climate", "Agricultural community"]
     }, image: "/poi-images/do-esperanza-cities-v2.webp"},
   {
@@ -714,7 +714,7 @@ export const poiExtraDominicanrepublicCitiesV2: POI[] = [
     facts: {
       de: ["Wichtiger Produzent von Bananen", "Heißes und trockenes Klima", "Teil der 'Linia Noroeste'", "Landwirtschaftlich geprägt"],
       hu: ["Jelentős banántermelő", "Forró és száraz éghajlat", "A 'Linia Noroeste' része", "Mezőgazdasági jellegű"],
-      ro: ["Producător important de banane", "Climat cald și uscat", "Parte a „Linia Noroeste”", "Dominat de agricultură"],
+      ro: ["Producător important de banane", "Climat cald și uscat", "Parte a \"Linia Noroeste\"", "Dominat de agricultură"],
       en: ["Major producer of bananas", "Hot and dry climate", "Part of the 'Linia Noroeste'", "Agriculturally focused"]
     }, image: "/poi-images/do-villa-vasquez-cities-v2.webp"},
 
@@ -969,7 +969,7 @@ export const poiExtraDominicanrepublicCitiesV2: POI[] = [
       facts: {
         de: ["Hauptproduzent von Reis", "Teil der 'Linia Noroeste'", "Heißes, flaches Land", "Landwirtschaftliche Wirtschaft"],
         hu: ["Fő rizstermelő", "A 'Linia Noroeste' része", "Forró, sík vidék", "Mezőgazdasági gazdaság"],
-        ro: ["Principalul producător de orez", "Parte a „Linia Noroeste”", "Teren fierbinte, plat", "Economie agricolă"],
+        ro: ["Principalul producător de orez", "Parte a \"Linia Noroeste\"", "Teren fierbinte, plat", "Economie agricolă"],
         en: ["Main producer of rice", "Part of the 'Linia Noroeste'", "Hot, flat land", "Agricultural economy"]
       }, image: "/poi-images/do-castanuelas-cities-v2.webp"},
     {
@@ -1253,7 +1253,7 @@ export const poiExtraDominicanrepublicCitiesV2: POI[] = [
         description: {
           de: "Bekannt als die 'Welthauptstadt der Zigarre'.",
           hu: "A 'szivar világfővárosaként' ismert.",
-          ro: "Cunoscut ca „capitala mondială a trabucului”.",
+          ro: "Cunoscut ca \"capitala mondială a trabucului\".",
           en: "Known as the 'World Capital of the Cigar'."
         },
         facts: {

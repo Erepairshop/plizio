@@ -307,10 +307,10 @@ export const poiExtraMaliReliefV2: POI[] = [
     parent: "ML-4",
     coords: [-5.0, 15.5],
     name: {
-      de: "M’Péba-Dünen",
-      hu: "M’Péba-dűnék",
-      ro: "Dunele M’Péba",
-      en: "M’Péba Dunes"
+      de: "M'Péba-Dünen",
+      hu: "M'Péba-dűnék",
+      ro: "Dunele M'Péba",
+      en: "M'Péba Dunes"
     },
     description: {
       de: "Große Sanddünen in der Region Ségou, die einen Vorposten der saharischen Wüstenlandschaft im fruchtbaren Becken bilden.",

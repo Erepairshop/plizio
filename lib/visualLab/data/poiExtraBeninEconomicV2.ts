@@ -86,7 +86,7 @@ export const poiExtraBeninEconomicV2: POI[] = [
     description: {
       de: "Eine wichtige Entkörnungsanlage im Herzen des beninischen Baumwollgürtels, die das 'weiße Gold' für den Export vorbereitet.",
       hu: "Egy fontos gyapotfeldolgozó üzem a benini gyapotöv szívében, amely az 'fehér aranyat' készíti elő exportra.",
-      ro: "O instalație importantă de egrenare în inima centurii de bumbac din Benin, care pregătește „aurul alb” pentru export.",
+      ro: "O instalație importantă de egrenare în inima centurii de bumbac din Benin, care pregătește \\\"aurul alb\\\" pentru export.",
       en: "An important ginning plant in the heart of Benin's cotton belt, preparing 'white gold' for export."
     },
     facts: {

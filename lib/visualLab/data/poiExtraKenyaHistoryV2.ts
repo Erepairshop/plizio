@@ -12,14 +12,13 @@ export const poiExtraKenyaHistoryV2: POI[] = [
       hu: "Gedi romjai",
       ro: "Ruinele Gedi",
       en: "Gedi Ruins"
-    ,
+    },
     descriptionAdvanced: {
       en: "The Gedi Ruins represent the profound, haunting remains of a highly sophisticated Swahili urban settlement located deep within the lush Arabuko-Sokoke Forest on the Kenyan coast. Founded in the 13th century and mysteriously abandoned in the early 17th century, the city was entirely constructed from coral rag stone. The extensive ruins reveal a highly advanced society, featuring a massive palace, numerous elaborate mosques, and a complex network of sunken pillar tombs and sunken courtyards. Most impressively, the city utilized a highly engineered water management system with deep wells and indoor plumbing. Extensive archaeological excavations in the mid-20th century unearthed Ming Dynasty porcelain and Venetian glass, proving Gedi was a massively wealthy node in the global Indian Ocean trade network. History K7 — Ancient Swahili urbanism."
     },
     factsAdvanced: {
       en: ["Founded in the 13th century and mysteriously abandoned by the 17th century.", "Located within the dense coastal vegetation of the Arabuko-Sokoke Forest.", "The entire ancient city was constructed using locally mined coral rag stone.", "Features highly advanced ancient plumbing, including indoor toilets and deep wells.", "Excavations revealed Ming Dynasty porcelain and Venetian beads, proving global trade links.", "The site features a massive Great Mosque and a sprawling central palace complex.", "Extensively excavated and gazetted as a national monument in the late 1940s."]
-    }
-  },
+    },
     description: {
       de: "Die Überreste einer verlassenen Swahili-Stadt, die im 13. Jahrhundert florierte und von üppigem Wald umgeben ist.",
       hu: "Egy elhagyatott szuahéli város romjai, amely a 13. században virágzott, és ma sűrű erdő veszi körül.",
@@ -54,14 +53,13 @@ export const poiExtraKenyaHistoryV2: POI[] = [
       hu: "Thimlich Ohinga",
       ro: "Thimlich Ohinga",
       en: "Thimlich Ohinga"
-    ,
+    },
     descriptionAdvanced: {
       en: "Thimlich Ohinga is an extraordinarily rare and massive dry-stone walled settlement located in the rolling landscape of Migori County near Lake Victoria. Constructed primarily in the 16th century, the complex is arguably the largest and most pristine traditional stone enclosure remaining in East Africa. The architecture is a marvel of indigenous engineering; massive, undulating walls—some reaching over 4 meters high and 3 meters thick—were built entirely without mortar, relying entirely on the highly precise interlocking of loose rocks. The settlement served as a heavily fortified communal center designed to protect inhabitants and livestock from both wild predators and rival pastoralist raids. Recognizing its profound historical and architectural uniqueness, UNESCO designated Thimlich Ohinga as a World Heritage site in 2018. History K8 — Indigenous dry-stone architecture."
     },
     factsAdvanced: {
       en: ["A massive dry-stone walled settlement constructed primarily in the 16th century.", "Located in Migori County, situated in the broader Lake Victoria basin region.", "The massive, undulating walls were built entirely without the use of any mortar.", "Some sections of the defensive walls reach up to 4.2 meters in height.", "Designed primarily as a fortified enclosure to protect communities and valuable livestock.", "The largest and best-preserved traditional stone enclosure remaining in East Africa.", "Officially inscribed as a UNESCO World Heritage site in 2018."]
-    }
-  },
+    },
     description: {
       de: "Eine beeindruckende Trockenmauer-Siedlung aus dem 16. Jahrhundert, die als eine der größten und am besten erhaltenen traditionellen Festungen Ostafrikas gilt.",
       hu: "Lenyűgöző 16. századi szárazfalazású település, amely Kelet-Afrika egyik legnagyobb és legépebben fennmaradt hagyományos erődítménye.",
@@ -96,14 +94,13 @@ export const poiExtraKenyaHistoryV2: POI[] = [
       hu: "Koobi Fora",
       ro: "Koobi Fora",
       en: "Koobi Fora"
-    ,
+    },
     descriptionAdvanced: {
       en: "Koobi Fora is a highly remote, globally critical paleoanthropological site situated on the desolate, hyper-arid eastern shores of Lake Turkana in northern Kenya. Often referred to as the 'Cradle of Mankind', the region features massive sedimentary deposits spanning millions of years, perfectly preserving the fossilized remains of early hominins. Since intensive exploration began under Richard Leakey in the late 1960s, the site has yielded highly spectacular discoveries, including fossilized skulls of Homo habilis and Homo erectus, fundamentally rewriting the timeline of human evolution. The landscape is brutally hot and unforgiving, characterized by highly eroded sandstone ridges and ancient volcanic ash layers. A small, highly isolated museum and research base operates here, serving international scientists braving the extreme desert conditions. History K8 — Paleoanthropology and human origins."
     },
     factsAdvanced: {
       en: ["Located on the highly remote eastern shores of Lake Turkana in northern Kenya.", "Globally renowned as one of the most critical paleoanthropological sites on Earth.", "Intensive fossil exploration was pioneered here by Richard Leakey in 1968.", "Yielded critical hominin fossils including Homo habilis and Homo erectus skulls.", "The geological strata here uniquely span from roughly 4 million to 1 million years ago.", "Features a highly isolated base camp and small museum for visiting researchers.", "Included within the broader Lake Turkana National Parks UNESCO World Heritage site."]
-    }
-  },
+    },
     description: {
       de: "Eine der wichtigsten paläontologischen Stätten der Welt, an der zahlreiche Fossilien früher Hominiden gefunden wurden, die die menschliche Evolution dokumentieren.",
       hu: "A világ egyik legfontosabb őslénytani lelőhelye, ahol számos korai hominida fosszíliát találtak, amelyek az emberi evolúciót dokumentálják.",
@@ -119,7 +116,7 @@ export const poiExtraKenyaHistoryV2: POI[] = [
     descriptionAdvanced: {
       de: "",
       hu: "A Turkana-tó keleti partján fekvő Koobi Fora az emberiség bölcsője; a világ egyik legfontosabb paleoantropológiai lelőhelye. Richard Leakey és csapata a 20. század második felében több száz hominida fosszíliát tárt fel itt, köztük a híres Homo habilis (1470-es koponya) és Homo erectus maradványokat. A terület száraz, kietlen klímája és az egykori vulkáni hamu tökéletesen konzerválta a 2-3 millió éves emberelődök és ősi állatok csontjait, bizonyítva, hogy a korai ember Kelet-Afrikában fejlődött ki. (Történelem K5 — az emberré válás kora)",
-      ro: "Situl paleoantropologic excepțional Koobi Fora este considerat la scară globală epicentrul inestimabil al originilor fundamentale ale rasei umane, aflându-se printre stâncile aspre și căldura chinuitoare de pe țărmul estic al Mării de Jad (Lacul Turkana). În ultimul sfert de secol, excavațiile obositoare și precise conduse de iluștrii paleontologi Richard și Meave Leakey au dezvăluit peisajul primordial cu mii de rămășițe de hominizi împietrite de milioane de ani, cele mai celebre fiind „Craniul 1470” (Homo habilis) și „Homo erectus”. În deșertul actual se află sedimente conservate impecabil care conțin dovezi incontestabile privind momentul când stramoșii noștri direcți au pășit vertical pentru prima oară.",
+      ro: "Situl paleoantropologic excepțional Koobi Fora este considerat la scară globală epicentrul inestimabil al originilor fundamentale ale rasei umane, aflându-se printre stâncile aspre și căldura chinuitoare de pe țărmul estic al Mării de Jad (Lacul Turkana). În ultimul sfert de secol, excavațiile obositoare și precise conduse de iluștrii paleontologi Richard și Meave Leakey au dezvăluit peisajul primordial cu mii de rămășițe de hominizi împietrite de milioane de ani, cele mai celebre fiind \"Craniul 1470\" (Homo habilis) și \"Homo erectus\". În deșertul actual se află sedimente conservate impecabil care conțin dovezi incontestabile privind momentul când stramoșii noștri direcți au pășit vertical pentru prima oară.",
       en: ""
     },
     factsAdvanced: {
@@ -138,14 +135,13 @@ export const poiExtraKenyaHistoryV2: POI[] = [
       hu: "Lamu óvárosa",
       ro: "Orașul vechi Lamu",
       en: "Lamu Old Town"
-    ,
+    },
     descriptionAdvanced: {
       en: "Lamu Old Town, situated on an island off Kenya's northern coast, is globally recognized as the oldest and best-preserved Swahili settlement in East Africa, with continuous habitation dating back over 700 years. The town's architecture is a stunning, unbroken testament to centuries of cultural fusion, featuring narrow, labyrinthine alleyways, massive carved wooden doors, and multi-story coral stone mansions with internal courtyards. Crucially, the town entirely lacks motorized vehicles, maintaining a highly traditional rhythm reliant on donkeys and dhow sailing boats. The imposing Lamu Fort, constructed by Omani Arabs in the early 19th century, dominates the town square. Designated a UNESCO World Heritage site in 2001, Lamu remains a deeply conservative, highly devout center for Islamic scholarship and traditional Swahili coastal culture. History K8 — Preserved Swahili civilization."
     },
     factsAdvanced: {
       en: ["The oldest continuously inhabited Swahili settlement on the East African coast.", "Officially inscribed as a UNESCO World Heritage site in 2001.", "The architecture features massive, intricately carved wooden doors and coral stone masonry.", "Motorized vehicles are strictly banned; transport relies on donkeys and foot traffic.", "The massive Lamu Fort was constructed between 1813 and 1821 by Omani rulers.", "Features the Riyadha Mosque, a highly influential center for Islamic scholarship since 1900.", "Hosts the annual Lamu Cultural Festival, celebrating traditional dhow sailing and poetry."]
-    }
-  },
+    },
     description: {
       de: "Die älteste und am besten erhaltene Swahili-Siedlung in Ostafrika, bekannt für ihre traditionelle Architektur aus Korallenstein und Mangrovenholz.",
       hu: "Kelet-Afrika legrégebbi és legépebben fennmaradt szuahéli települése, amely hagyományos korallkő és mangrovefa építészetéről ismert.",
@@ -167,7 +163,7 @@ export const poiExtraKenyaHistoryV2: POI[] = [
     factsAdvanced: {
       de: [],
       hu: ["A legrégebbi eredeti formájában megőrzött szuahéli település", "Az UNESCO 2001-ben a Világörökség részévé nyilvánította", "Az óvárosban tilos az autóforgalom, szamarakat használnak", "Korallkőből és mangrove-fából épült, belső udvaros házak jellemzik", "A város faragott faajtói státuszszimbólumok voltak a kereskedők számára", "Minden évben megrendezik az ősi Maulid iszlám fesztivált"],
-      ro: ["Orașul a fost fondat original ca un post exclusiv de comerț profitabil din aur și sclavi tocmai în timpul evului mediu târziu african.", "Întreaga suprafață a labirintului urban aparține mândrei selecții alese a Patrimoniului istoric inestimabil Mondial protejat UNESCO.", "Faimoasele uși bogat sculptate migălos din vechi lemn dens din abanos sunt semne ale marii avuții personale pentru familia rezidentă interioară.", "Singurele mijloace mecanice și cu ardere internă aflate tehnic pe teritoriul insulei sunt motocicleta personală a primarului și ambulanța.", "Festivalul Lamu „Maulidi” anual celebrează într-o mare festivitate plină de cântece sacre arabe nașterea profund slăvită a Profetului islamic.", "Populația tradiționalistă se bazează încă în exclusivitate națională pe confecționarea meșteșugărească excelentă a bărcilor oceanice antice, dhow."],
+      ro: ["Orașul a fost fondat original ca un post exclusiv de comerț profitabil din aur și sclavi tocmai în timpul evului mediu târziu african.", "Întreaga suprafață a labirintului urban aparține mândrei selecții alese a Patrimoniului istoric inestimabil Mondial protejat UNESCO.", "Faimoasele uși bogat sculptate migălos din vechi lemn dens din abanos sunt semne ale marii avuții personale pentru familia rezidentă interioară.", "Singurele mijloace mecanice și cu ardere internă aflate tehnic pe teritoriul insulei sunt motocicleta personală a primarului și ambulanța.", "Festivalul Lamu \"Maulidi\" anual celebrează într-o mare festivitate plină de cântece sacre arabe nașterea profund slăvită a Profetului islamic.", "Populația tradiționalistă se bazează încă în exclusivitate națională pe confecționarea meșteșugărească excelentă a bărcilor oceanice antice, dhow."],
       en: []
     }, image: "/poi-images/lamu-old-town-history-v2.webp"},
   {
@@ -180,14 +176,13 @@ export const poiExtraKenyaHistoryV2: POI[] = [
       hu: "Vasco da Gama-oszlop",
       ro: "Stâlpul Vasco da Gama",
       en: "Vasco da Gama Pillar"
-    ,
+    },
     descriptionAdvanced: {
       en: "The Vasco da Gama Pillar is a highly iconic, weather-beaten monument standing on a prominent coral promontory overlooking the Indian Ocean in the coastal town of Malindi. Erected in 1498 by the legendary Portuguese explorer Vasco da Gama, it is one of the oldest remaining European monuments in Africa. The pillar, constructed of local coral rag and topped with a cross carved from Lisbon limestone, was originally built as a navigational aid and a symbol of Portuguese Christian presence during da Gama's pioneering voyage to India. The monument signifies a highly pivotal moment of global historical collision, marking the violent entry of European naval power into the ancient, highly established Swahili and Arab trade networks of the Indian Ocean. History K7 — Early European exploration."
     },
     factsAdvanced: {
       en: ["Erected by the famous Portuguese explorer Vasco da Gama in 1498.", "Located on a prominent coral cliff facing the Indian Ocean in Malindi.", "One of the oldest remaining European historical monuments on the African continent.", "Constructed primarily of local coral rag stone, topped with a cross from Lisbon.", "Originally served as a crucial navigational beacon for Portuguese naval vessels.", "Marks the historical disruption of ancient Swahili-Arab Indian Ocean trade routes.", "Currently maintained and heavily reinforced by the National Museums of Kenya."]
-    }
-  },
+    },
     description: {
       de: "Ein historisches Monument in Malindi, das 1498 von Vasco da Gama als Navigationshilfe für portugiesische Seefahrer errichtet wurde.",
       hu: "Történelmi emlékmű Malindiben, amelyet Vasco da Gama állított 1498-ban, navigációs segítségként a portugál tengerészek számára.",
@@ -222,14 +217,13 @@ export const poiExtraKenyaHistoryV2: POI[] = [
       hu: "Jumba la Mtwana",
       ro: "Jumba la Mtwana",
       en: "Jumba la Mtwana"
-    ,
+    },
     descriptionAdvanced: {
       en: "Jumba la Mtwana is a highly evocative archaeological site located just north of Mombasa, featuring the ruined remains of a substantial Swahili trading settlement from the 14th century. The name roughly translates to 'the large house of the slave' in Swahili, hinting at the darker aspects of the historical Indian Ocean trade. The site is uniquely situated directly on the beachfront, shaded by massive, ancient baobab trees. The ruins include the heavily eroded remnants of four mosques, numerous coral stone houses, and elaborate pillar tombs, indicating a highly prosperous Islamic community. Curiously, like Gedi, the settlement was completely and mysteriously abandoned in the 15th century. Today, it offers a highly atmospheric, less-crowded alternative to the more famous coastal ruins, closely managed by the National Museums. History K7 — Abandoned coastal settlements."
     },
     factsAdvanced: {
       en: ["A ruined 14th-century Swahili trading settlement located just north of Mombasa.", "The name loosely translates from Swahili as 'the large house of the slave'.", "The site was mysteriously completely abandoned by its inhabitants in the 15th century.", "Features the distinct coral stone ruins of four mosques and numerous pillar tombs.", "Uniquely situated directly on the beachfront, heavily shaded by ancient baobab trees.", "Excavations revealed evidence of a highly prosperous, devoutly Islamic trading community.", "Gazetted as a highly protected national monument in 1982."]
-    }
-  },
+    },
     description: {
       de: "Eine verlassene Swahili-Küstenstadt aus dem 14. Jahrhundert, die als 'Großes Haus des Sklaven' bekannt ist und gut erhaltene Moscheen und Gräber aufweist.",
       hu: "Egy elhagyatott, 14. századi szuahéli tengerparti város, amely a 'Rabszolga nagy háza' néven ismert, és jó állapotban fennmaradt mecsetekkel és sírokkal rendelkezik.",
@@ -245,13 +239,13 @@ export const poiExtraKenyaHistoryV2: POI[] = [
     descriptionAdvanced: {
       de: "",
       hu: "Jumba la Mtwana (amely szuahéli nyelven a 'Rabszolgák nagy házát' jelenti) egy 14. századi szuahéli kereskedőváros romja a Mtwapa-patak mentén, Mombasától északra. Az egykori tengerparti falu virágzó muszlim közösség otthona volt, amit a négy feltárt mecset (köztük a Tengerparti Mecset) és a díszes fürdők maradványai is bizonyítanak. Akárcsak Gedi esetében, a várost a 15. század környékén hirtelen és rejtélyes módon elhagyták. Ma a csöndes, majmokkal teli romok az Indiai-óceán partján fekszenek. (Történelem K6 — középkori kereskedővárosok)",
-      ro: "Jumba la Mtwana, tradus sugestiv ca „Marea Casă a Sclavilor”, este o așezare swahili pitorescă și stranie, aflată într-o izolare perfectă și fermecătoare sub acoperământul palmierilor, la marginea unei plaje splendide la doar câțiva kilometri de Mtwapa. Acest sit medieval deține vestigiile uluitor de frumoase și liniștite din piatră a unui fost centru musulman extrem de activ de comerț care a funcționat pe durata de mai puțin de un secol complet. Zidurile păstrate prezintă un amestec magnific de curți labirintice vaste, o imensă și spectaculoasă Moschee „a Marelui Tavan”, alături de morminte tradiționale ciudate perfect decorate direct cu mici adâncituri dedicate adăpostirii vaselor prețioase de porțelan antic chinezesc de lux suprem.",
+      ro: "Jumba la Mtwana, tradus sugestiv ca \"Marea Casă a Sclavilor\", este o așezare swahili pitorescă și stranie, aflată într-o izolare perfectă și fermecătoare sub acoperământul palmierilor, la marginea unei plaje splendide la doar câțiva kilometri de Mtwapa. Acest sit medieval deține vestigiile uluitor de frumoase și liniștite din piatră a unui fost centru musulman extrem de activ de comerț care a funcționat pe durata de mai puțin de un secol complet. Zidurile păstrate prezintă un amestec magnific de curți labirintice vaste, o imensă și spectaculoasă Moschee \"a Marelui Tavan\", alături de morminte tradiționale ciudate perfect decorate direct cu mici adâncituri dedicate adăpostirii vaselor prețioase de porțelan antic chinezesc de lux suprem.",
       en: ""
     },
     factsAdvanced: {
       de: [],
       hu: ["Neve szuahéli nyelven 'Rabszolgák nagy házát' jelenti", "A 14. században épült, és alig száz év után elnéptelenedett", "Négy jó állapotban lévő korallkő mecset maradványát tárták fel", "Mombasától mintegy 15 km-re északra, Mtwapa közelében fekszik", "Sírkövek sora (feliratos iszlám sírok) található a romok között", "Kínai porcelánleletek bizonyítják a kiterjedt kereskedelmi kapcsolatokat"],
-      ro: ["Așezarea comercială bogată a fost prosperă exclusiv pe o perioadă scurtă de timp de-a lungul relativului liniștit și prosper secol al paisprezecelea.", "Nu se cunoaște științific istoric în mod absolut clar ce a putut provoca un dezastru masiv pentru abandonul grabnic urmat rapid în secolul al cincisprezecelea timpuriu.", "„Moscheea situată Marelui Căpitan Marin” indică absolut prezența certă, intensă, istoric dovedită, a unui grup maritim uriaș permanent de marinari persani.", "Numele orașului fantomă poate sugera, deși vag, un fel de un punct trist și dureros extrem de trafic uman ilegal al prizonierilor înainte ca aceștia să fie repede vânduți mai departe către Marea Arabie.", "A fost oficial dezgropat cu multă stăruință și pus pe harta arheologică tocmai într-un târziu an 1972, după ce fusese complet scufundat în adâncul întunecat al uriașelor dune tropicale și păduri de nepătruns mult timp.", "O particularitate curioasă a structurilor clădirilor sale vaste locuite și părăsite este existența a multor adânci cisterne largi imense extrem de adânci pentru a acumula apa extrem de proaspătă de la ploile musonice abundente estice."],
+      ro: ["Așezarea comercială bogată a fost prosperă exclusiv pe o perioadă scurtă de timp de-a lungul relativului liniștit și prosper secol al paisprezecelea.", "Nu se cunoaște științific istoric în mod absolut clar ce a putut provoca un dezastru masiv pentru abandonul grabnic urmat rapid în secolul al cincisprezecelea timpuriu.", "\"Moscheea situată Marelui Căpitan Marin\" indică absolut prezența certă, intensă, istoric dovedită, a unui grup maritim uriaș permanent de marinari persani.", "Numele orașului fantomă poate sugera, deși vag, un fel de un punct trist și dureros extrem de trafic uman ilegal al prizonierilor înainte ca aceștia să fie repede vânduți mai departe către Marea Arabie.", "A fost oficial dezgropat cu multă stăruință și pus pe harta arheologică tocmai într-un târziu an 1972, după ce fusese complet scufundat în adâncul întunecat al uriașelor dune tropicale și păduri de nepătruns mult timp.", "O particularitate curioasă a structurilor clădirilor sale vaste locuite și părăsite este existența a multor adânci cisterne largi imense extrem de adânci pentru a acumula apa extrem de proaspătă de la ploile musonice abundente estice."],
       en: []
     }, image: "/poi-images/jumba-la-mtwana-history-v2.webp"},
   {
@@ -264,14 +258,13 @@ export const poiExtraKenyaHistoryV2: POI[] = [
       hu: "Siyu Erőd",
       ro: "Fortul Siyu",
       en: "Siyu Fort"
-    ,
+    },
     descriptionAdvanced: {
       en: "Siyu Fort is a massive, highly unusual defensive structure located on Pate Island within the Lamu Archipelago. Unlike almost all other coastal forts in Kenya, which were built by foreign occupying powers like the Portuguese or Omanis, Siyu Fort was constructed in the mid-19th century by the local Swahili inhabitants specifically to defend their independence against the expanding Omani Empire of Zanzibar. Built from highly durable coral rag stone, the fort lacks the coastal positioning of Fort Jesus; instead, it is situated inland amid dense mangrove swamps, surrounded by a deep moat. The structure represents a highly defiant, fiercely independent chapter of Swahili history, as Siyu successfully resisted Omani domination far longer than neighboring coastal city-states. History K8 — Indigenous coastal resistance."
     },
     factsAdvanced: {
       en: ["Located on Pate Island in the remote Lamu Archipelago of northern Kenya.", "Uniquely constructed by local Swahili leaders, not foreign colonial powers.", "Built in the mid-19th century specifically to resist Omani Arab domination.", "Constructed from massive coral rag blocks and surrounded by a defensive moat.", "Situated uniquely inland amid dense mangrove forests rather than on the beachfront.", "Siyu town was historically a highly renowned center for Islamic scholarship and crafts.", "The fort is currently preserved and managed by the National Museums of Kenya."]
-    }
-  },
+    },
     description: {
       de: "Ein massives Fort auf der Insel Pate, das im 19. Jahrhundert erbaut wurde, um sich gegen die Vorherrschaft Omans zu wehren.",
       hu: "Pate szigetén található masszív erőd, amelyet a 19. században építettek, hogy védekezzenek az ománi uralom ellen.",
@@ -306,14 +299,13 @@ export const poiExtraKenyaHistoryV2: POI[] = [
       hu: "Takwa romjai",
       ro: "Ruinele Takwa",
       en: "Takwa Ruins"
-    ,
+    },
     descriptionAdvanced: {
       en: "The Takwa Ruins are the highly atmospheric, coral stone remnants of a thriving 15th-century Swahili trading town, located on the southeastern corner of Manda Island in the Lamu Archipelago. The settlement is highly notable for its unique urban layout; unlike the winding streets of Lamu, Takwa's houses were highly structured, all facing north towards Mecca, reflecting a deeply devout Islamic community. The site features a massive, highly preserved pillar tomb bearing an inscription dated to 1682, alongside the ruins of a prominent congregational mosque. Takwa was mysteriously abandoned in the 17th century, likely due to the salinization of its highly critical freshwater wells and escalating conflicts with the neighboring Pate Island. Today, the ruins are accessible only by a highly scenic dhow boat ride through dense mangrove channels. History K7 — Swahili urban planning and decline."
     },
     factsAdvanced: {
       en: ["The ruins of a 15th-century Swahili town located on Manda Island in the Lamu Archipelago.", "Highly unique urban layout where all house doors deliberately face north towards Mecca.", "Features a prominent, highly preserved pillar tomb inscribed with the date 1682.", "Mysteriously abandoned in the 17th century, likely due to failing freshwater wells.", "The settlement was highly prosperous, deeply engaged in Indian Ocean maritime trade.", "Accessible almost exclusively by traditional dhow boats navigating dense mangrove creeks.", "Gazetted as a protected national monument by the Kenyan government in 1982."]
-    }
-  },
+    },
     description: {
       de: "Die Überreste einer Swahili-Siedlung aus dem 15. und 16. Jahrhundert auf der Insel Manda, bekannt für ihre Säulengräber und die große Moschee.",
       hu: "A 15-16. századi szuahéli település romjai a Manda-szigeten, amely oszlopos sírjairól és nagy mecsetéről ismert.",
@@ -335,7 +327,7 @@ export const poiExtraKenyaHistoryV2: POI[] = [
     factsAdvanced: {
       de: [],
       hu: ["A Lamu-szigetvilághoz tartozó Manda-szigeten található", "Virágkorát a 15. és a 17. század között élte", "A Nagymecset egyedi 'qibla' (Mekka felé mutató fal) maradványairól híres", "Egy 17. századi díszes Oszlopos Sír a leglátványosabb épülete", "A várost az ivóvíz elapadása miatt hagyták el teljesen", "A maradványokat szinte érintetlenül vette körül a mangrove-mocsár"],
-      ro: ["Un remarcabil și fabulos „Pilon de Mormânt Central” extrem de înalt stă și astăzi mândru neatins de vreme peste ruinele întunecate și este complet și uimitor marcat cu misterioasa dată sacră complet precisă a marelui și venerabilului an calendaristic al erei islamice antice de 1682.", "Totul de jur împrejur pare un adevărat pustiu abandonat imediat datorită unui fenomen absolut colosal extrem, devastator și ireversibil cunoscut a fi chiar de salinizare tehnică a tuturor vechilor și vitalelor puțuri mari pământene subterane din care se extrăgea exclusiv bogata apă dulce pentru viață, determinând complet tot exodul fugar rapid și fatal uman către lăturalnicul mal vecin.", "La faza sa glorioasă masivă de uriaș apogeu istoric de viață civilă, micuța dar mândră comunitate extrem de bogată a orașului găzduia deopotrivă adăpostirea unui număr considerabil bogat și impresionant de lux a absolut două mii și cinci sute cincizeci plin de locuitori liberi swahili extrem de comercianți experimentați cu mirodenii.", "Singurul și extrem de îngustul mod vizitabil absolut existent posibil de acces de pătrundere umană directă fizic în acest lăcaș secret verde de ruine pierdut complet în timp și pădure se face exclusiv total folosind mici nave bărci zvelte vechi cu pânză cunoscute swahili chiar prin traversarea unui îngust mic uluitor extrem de plin cu mangrove noroioase dense și de un verde periculos doar de la valurile extrem de crescute la o mareelor absolut masive oceanice.", "Toate străzile absolut impecabil pavate cândva la începuturi fuseseră gândite planificate absolut inteligent și matematic tăiate complet special doar exact drept în direcția directă și îngustă absolut corectă ca faimoasele vânturi mari calde și proaspete musonice tropicale din est cald și nord vestic umed să bată drept în a ventila răcoritor masiv toate clădirile dense permanent și a îndepărta zăpușeala extremă zilnică caldă.", "A fost absolut declarat printr-un grandios decret național mândru guvernamental complet, ca un Monument Istoric Uriaș Național în deplin și frumos an de independență național al Africii de Est 1982, exact grație unui rol vital pe care l-a deținut constant secole întregi de focar unic central absolut extrem de bogat de diseminare educațională absolut totală direct și masiv în islamul est african regional lăturalnic al acelor ani mândri secol 15 și secol 16."],
+      ro: ["Un remarcabil și fabulos \"Pilon de Mormânt Central\" extrem de înalt stă și astăzi mândru neatins de vreme peste ruinele întunecate și este complet și uimitor marcat cu misterioasa dată sacră complet precisă a marelui și venerabilului an calendaristic al erei islamice antice de 1682.", "Totul de jur împrejur pare un adevărat pustiu abandonat imediat datorită unui fenomen absolut colosal extrem, devastator și ireversibil cunoscut a fi chiar de salinizare tehnică a tuturor vechilor și vitalelor puțuri mari pământene subterane din care se extrăgea exclusiv bogata apă dulce pentru viață, determinând complet tot exodul fugar rapid și fatal uman către lăturalnicul mal vecin.", "La faza sa glorioasă masivă de uriaș apogeu istoric de viață civilă, micuța dar mândră comunitate extrem de bogată a orașului găzduia deopotrivă adăpostirea unui număr considerabil bogat și impresionant de lux a absolut două mii și cinci sute cincizeci plin de locuitori liberi swahili extrem de comercianți experimentați cu mirodenii.", "Singurul și extrem de îngustul mod vizitabil absolut existent posibil de acces de pătrundere umană directă fizic în acest lăcaș secret verde de ruine pierdut complet în timp și pădure se face exclusiv total folosind mici nave bărci zvelte vechi cu pânză cunoscute swahili chiar prin traversarea unui îngust mic uluitor extrem de plin cu mangrove noroioase dense și de un verde periculos doar de la valurile extrem de crescute la o mareelor absolut masive oceanice.", "Toate străzile absolut impecabil pavate cândva la începuturi fuseseră gândite planificate absolut inteligent și matematic tăiate complet special doar exact drept în direcția directă și îngustă absolut corectă ca faimoasele vânturi mari calde și proaspete musonice tropicale din est cald și nord vestic umed să bată drept în a ventila răcoritor masiv toate clădirile dense permanent și a îndepărta zăpușeala extremă zilnică caldă.", "A fost absolut declarat printr-un grandios decret național mândru guvernamental complet, ca un Monument Istoric Uriaș Național în deplin și frumos an de independență național al Africii de Est 1982, exact grație unui rol vital pe care l-a deținut constant secole întregi de focar unic central absolut extrem de bogat de diseminare educațională absolut totală direct și masiv în islamul est african regional lăturalnic al acelor ani mândri secol 15 și secol 16."],
       en: []
     }, image: "/poi-images/takwa-ruins-history-v2.webp"},
   {
@@ -348,14 +340,13 @@ export const poiExtraKenyaHistoryV2: POI[] = [
       hu: "Kapenguria Múzeum",
       ro: "Muzeul Kapenguria",
       en: "Kapenguria Museum"
-    ,
+    },
     descriptionAdvanced: {
       en: "The Kapenguria Museum, located in the rugged highlands of West Pokot County, is a highly poignant historical site housed within the very detention cells where Kenya's founding fathers were imprisoned. In 1953, the British colonial government held the highly politicized, deeply flawed trial of the 'Kapenguria Six'—including Jomo Kenyatta—here, charging them with managing the Mau Mau rebellion. The museum preserves the original, highly claustrophobic cells, offering a stark, deeply emotional physical connection to the intense struggle for Kenyan independence. Beyond the political history, the museum has been highly expanded to include comprehensive ethnographic exhibits detailing the culture, artifacts, and highly adapted pastoralist lifestyle of the local Pokot and Sengwer communities. History K8 — The Mau Mau trials."
     },
     factsAdvanced: {
       en: ["Housed in the original colonial prison cells where the 'Kapenguria Six' were detained.", "The site of the highly infamous 1953 trial of Jomo Kenyatta and other nationalist leaders.", "Located in the town of Kapenguria in West Pokot County.", "Officially opened as a national museum facility in 1993.", "The cells remain highly preserved, illustrating the harsh conditions of colonial detention.", "Features an extensive ethnographic section detailing the culture of the local Pokot people.", "A highly critical historical site detailing the climax of the struggle for independence."]
-    }
-  },
+    },
     description: {
       de: "Ein ehemaliges Gefängnis, in dem Jomo Kenyatta und andere Führer der Unabhängigkeitsbewegung (die Kapenguria Six) 1952 inhaftiert wurden.",
       hu: "Egykori börtön, ahol Jomo Kenyattát és a függetlenségi mozgalom más vezetőit (a Kapenguria-hatokat) 1952-ben bebörtönözték.",
@@ -371,7 +362,7 @@ export const poiExtraKenyaHistoryV2: POI[] = [
     descriptionAdvanced: {
       de: "",
       hu: "A Kapenguria Múzeum a kenyai függetlenségi harc egyik legszentebb emlékhelye. Az épület eredetileg a brit gyarmati hatóságok börtöneként szolgált, ahol 1952-1953-ban megrendezték a hírhedt pert a 'Kapenguriai hatok' ellen (köztük volt Jomo Kenyatta, az ország későbbi első elnöke). A múzeum ma is bemutatja azokat a szűk cellákat, ahol a vezetőket fogva tartották. A politikai emlékezet mellett az intézmény külön szárnyat szentel a környező pokot nép kulturális és tárgyi hagyatékának is. (Történelem K8 — Mau Mau felkelés és függetlenség)",
-      ro: "Muzeul memorial istoric Kapenguria rămâne indiscutabil unul dintre cele mai covârșitor de profunde, extrem de tulburătoare și masiv vizitate lăcașuri de memorial de comemorare din istoria glorioasă tumultoasă, grea, complet dureroasă politică postcolonială din centrul țării africane de Est. Localizată ascuns într-o fosta pușcărie dură muntoasă veche din îndepărtatul colț nordic și verde plin de dealuri al județului vestic Pokot, clădirea uimitoare modestă a fost complet epicentrul celebrului faimosul moment judiciar complet neechitabil istoric „Kapenguria Six” din urâtul an conflictual sângeros 1952, anul marilor temute proteste din umbră Mau Mau. Vizitatorii coboară masiv plini de reculegere tăcută și evlavioasă profundă chiar exact în exact acele celule strâmte reci absolut terifiante absolut mici din oțel și cărămidă brută roșiatică înghețată unde viitorul mândru prim președinte onorific gigant „Părintele națiunii” respectatul gigant Jomo Kenyatta precum și toți ceilalți bărbați puternici co-inculpați rezistenți politici patrioți luptători au fost complet abuziv și fals sechestrați ilegal la un simulacru absurd mincinos, dur extrem, complet și mincinos masiv proces rasial penal și greu exilați pe motive colonialiste nedovedite cu nimic din realitate dureroasă istorică a libertății africane postcoloniale.",
+      ro: "Muzeul memorial istoric Kapenguria rămâne indiscutabil unul dintre cele mai covârșitor de profunde, extrem de tulburătoare și masiv vizitate lăcașuri de memorial de comemorare din istoria glorioasă tumultoasă, grea, complet dureroasă politică postcolonială din centrul țării africane de Est. Localizată ascuns într-o fosta pușcărie dură muntoasă veche din îndepărtatul colț nordic și verde plin de dealuri al județului vestic Pokot, clădirea uimitoare modestă a fost complet epicentrul celebrului faimosul moment judiciar complet neechitabil istoric \"Kapenguria Six\" din urâtul an conflictual sângeros 1952, anul marilor temute proteste din umbră Mau Mau. Vizitatorii coboară masiv plini de reculegere tăcută și evlavioasă profundă chiar exact în exact acele celule strâmte reci absolut terifiante absolut mici din oțel și cărămidă brută roșiatică înghețată unde viitorul mândru prim președinte onorific gigant \"Părintele națiunii\" respectatul gigant Jomo Kenyatta precum și toți ceilalți bărbați puternici co-inculpați rezistenți politici patrioți luptători au fost complet abuziv și fals sechestrați ilegal la un simulacru absurd mincinos, dur extrem, complet și mincinos masiv proces rasial penal și greu exilați pe motive colonialiste nedovedite cu nimic din realitate dureroasă istorică a libertății africane postcoloniale.",
       en: ""
     },
     factsAdvanced: {
@@ -390,14 +381,13 @@ export const poiExtraKenyaHistoryV2: POI[] = [
       hu: "Karen Blixen Múzeum",
       ro: "Muzeul Karen Blixen",
       en: "Karen Blixen Museum"
-    ,
+    },
     descriptionAdvanced: {
       en: "The Karen Blixen Museum, situated in the affluent leafy suburbs of Nairobi at the foot of the Ngong Hills, is the highly preserved former farmhouse of the famous Danish author Karen Blixen. Blixen lived here from 1917 to 1931, operating a massive, ultimately highly unsuccessful coffee plantation, experiences she immortalized in her iconic book 'Out of Africa'. The classic, colonial-era bungalow features extensive verandas, highly preserved period furniture, and sweeping lawns, offering a deeply romanticized yet historically complex window into the luxurious lives of early European settlers. The museum gained massive global prominence following the release of the highly successful 1985 film adaptation of her book, transforming the site into a major international tourist destination while reflecting the highly segregated realities of the colonial epoch. History K7 — Colonial settler life."
     },
     factsAdvanced: {
       en: ["The historic former farmhouse of Danish author Karen Blixen, who lived here from 1917 to 1931.", "Located in the highly affluent Karen suburb of Nairobi, named in her honor.", "Originally served as the center of a massive, 4,500-acre colonial coffee plantation.", "The author's experiences here were immortalized in her famous book 'Out of Africa'.", "The Kenyan government acquired the house in 1964 and opened it as a museum in 1986.", "Features highly preserved colonial-era furniture and original artifacts owned by Blixen.", "Gained massive global fame following the highly successful 1985 Hollywood film adaptation."]
-    }
-  },
+    },
     description: {
       de: "Das ehemalige Farmhaus der dänischen Autorin Karen Blixen, berühmt für ihr Buch 'Jenseits von Afrika', das heute Einblicke in die Kolonialzeit bietet.",
       hu: "Karen Blixen dán írónő egykori parasztháza, aki a 'Távol Afrikától' című könyvéről híres, amely ma a gyarmati időkbe enged bepillantást.",
@@ -413,7 +403,7 @@ export const poiExtraKenyaHistoryV2: POI[] = [
     descriptionAdvanced: {
       de: "",
       hu: "A Karen Blixen Múzeum a dán írónő egykori nairobi birtoka, amely a 'Volt egy farmom Afrikában' című könyv (és Oscar-díjas film) révén vált világhírűvé. A Ngong-hegyek lábánál épült elegáns gyarmati stílusú farmház megőrizte az 1920-as és 30-as évek brit telepes atmoszféráját, bemutatva Blixen eredeti bútorait és a korai kávétermesztés gépeit. A múzeum bepillantást enged a kenyai fehér elit (a 'Happy Valley set') fényűző, mégis kihívásokkal teli életébe, a gyarmati rendszer ellentmondásaival együtt. (Történelem K7 — az európai telepesek élete Afrikában)",
-      ro: "Situat romantic, magic, izolat în mijlocul celebrelor dealuri coline împădurite răcoroase verzi Ngong ce se conturează departe pe marele fundal orizont spectaculos perfect albastru direct din curtea frumoasei și celebrei bogate suburbii așezare liniștită colosală și liniștită sud-vestică extremă Karen a metropolei mândre de beton a marelui și forfotitului urban Nairobi de afaceri, celebrul romantic absolut și faimos pe plan mondial Muzeul cu numele respectat scriitoarei recunoscute daneze aristocrate antice mândre Karen Blixen care deținea o uriașă și pitorească exploatare masivă colonială veche gigantă exclusiv cu uriașă de cafea. Casa mare frumoasă perfect pietruită ridicată superb impunătoare în stil rustic tipic colonial la 1912 a păstrat fidel la perfecție originalitatea și esența clasică englezească cu tot mobilerul masiv rustic impecabil de origine care spune o faimoasă și amară uriașă mare profundă neașteptată tulburătoare complet reală profund legendară pe întregul mapamond incredibilă istorie romantică plină de aventuri a absolut clasicului complet colosal mondial succes literar suprem de la Hollywood cu un film celebru care a obținut titlul „Din Inima Africii” (faimos cu englezescul original profund faimos „Out of Africa”). Turiștii plimbă ușor admirativ absolut cu enorm mult fascinație de-a lungul pe mari alei cu frunze de o verdeață uriașă din vaste curți frumos verzi unde se dezvăluie complet viața luxuriantă masivă a coloniei africane elitiste aspre.",
+      ro: "Situat romantic, magic, izolat în mijlocul celebrelor dealuri coline împădurite răcoroase verzi Ngong ce se conturează departe pe marele fundal orizont spectaculos perfect albastru direct din curtea frumoasei și celebrei bogate suburbii așezare liniștită colosală și liniștită sud-vestică extremă Karen a metropolei mândre de beton a marelui și forfotitului urban Nairobi de afaceri, celebrul romantic absolut și faimos pe plan mondial Muzeul cu numele respectat scriitoarei recunoscute daneze aristocrate antice mândre Karen Blixen care deținea o uriașă și pitorească exploatare masivă colonială veche gigantă exclusiv cu uriașă de cafea. Casa mare frumoasă perfect pietruită ridicată superb impunătoare în stil rustic tipic colonial la 1912 a păstrat fidel la perfecție originalitatea și esența clasică englezească cu tot mobilerul masiv rustic impecabil de origine care spune o faimoasă și amară uriașă mare profundă neașteptată tulburătoare complet reală profund legendară pe întregul mapamond incredibilă istorie romantică plină de aventuri a absolut clasicului complet colosal mondial succes literar suprem de la Hollywood cu un film celebru care a obținut titlul \"Din Inima Africii\" (faimos cu englezescul original profund faimos \"Out of Africa\"). Turiștii plimbă ușor admirativ absolut cu enorm mult fascinație de-a lungul pe mari alei cu frunze de o verdeață uriașă din vaste curți frumos verzi unde se dezvăluie complet viața luxuriantă masivă a coloniei africane elitiste aspre.",
       en: ""
     },
     factsAdvanced: {
@@ -432,14 +422,13 @@ export const poiExtraKenyaHistoryV2: POI[] = [
       hu: "Mnarani romjai",
       ro: "Ruinele Mnarani",
       en: "Mnarani Ruins"
-    ,
+    },
     descriptionAdvanced: {
       en: "Perched high on a bluff overlooking the deep Kilifi Creek, the Mnarani Ruins represent a classic, heavily fortified Swahili settlement dating back to the early 14th century. Established originally by Arab and Persian merchants, the town flourished as a crucial node in the Indian Ocean dhow trade networks, exporting timber and ivory. The site's most prominent surviving feature is the Great Mosque, which features a highly unusual carved mihrab containing eleven inset bowls, believed to be imported Ming Dynasty porcelain. The surrounding landscape features massive, ancient baobab trees that shade a complex of deeply carved pillar tombs. Like many coastal settlements of its era, Mnarani was violently destroyed and subsequently abandoned in the late 16th century following devastating attacks by the nomadic Galla (Oromo) tribes. History K7 — Swahili coastal trade."
     },
     factsAdvanced: {
       en: ["A heavily ruined Swahili trading settlement founded in the early 14th century.", "Located strategically on a high bluff overlooking the Kilifi Creek estuary.", "The Great Mosque features a deeply carved mihrab originally decorated with Ming porcelain.", "Features numerous elaborate coral stone pillar tombs shaded by massive baobab trees.", "Flourished by trading ivory and timber with merchants from Oman and Persia.", "Violently attacked and permanently abandoned in the late 16th century due to Galla raids.", "Gazetted and protected as a national historical monument by the Kenyan government."]
-    }
-  },
+    },
     description: {
       de: "Die Ruinen einer alten arabischen Siedlung mit zwei historischen Moscheen und mehreren komplexen Säulengräbern am Kilifi Creek.",
       hu: "Egy ősi arab település romjai két történelmi mecsettel és több összetett oszlopos sírral a Kilifi-öbölben.",
@@ -474,14 +463,13 @@ export const poiExtraKenyaHistoryV2: POI[] = [
       hu: "Pate-szigeti romok",
       ro: "Ruinele Insulei Pate",
       en: "Pate Island Ruins"
-    ,
+    },
     descriptionAdvanced: {
       en: "The Pate Island Ruins constitute the scattered, haunting remains of what was once one of the most powerful and fiercely independent city-states in the entire Lamu Archipelago. Founded in the 8th century, Pate reached the absolute zenith of its military and economic power in the 14th century under the Nabahani dynasty, which aggressively expanded its influence down the East African coast. The ruins are characterized by massive, labyrinthine coral stone walls and sprawling palaces, reflecting a highly developed, intensely prosperous Islamic civilization. However, Pate's history is deeply defined by relentless, centuries-long warfare—first fighting off Portuguese incursions, and later engaged in a bitter, ultimately fatal struggle against the Omani Sultanate of Zanzibar. The city's harbor eventually silted up, leading to a slow, irreversible decline. History K8 — Swahili city-state empires."
     },
     factsAdvanced: {
       en: ["Historically one of the most powerful Islamic city-states on the Swahili coast.", "Located on the highly remote Pate Island within the Lamu Archipelago.", "Founded by Arab immigrants, reaching its zenith under the Nabahani dynasty in the 14th century.", "Fought relentless, bitter wars against the Portuguese and the Omani Empire of Zanzibar.", "The ruins feature massive, highly intricate coral stone palaces and defensive walls.", "The city's economic collapse was accelerated when its crucial deep-water harbor silted up.", "Remains a highly isolated, deeply traditional archaeological site accessible only by boat."]
-    }
-  },
+    },
     description: {
       de: "Weitläufige archäologische Überreste auf der Insel Pate, die einst ein bedeutendes Zentrum des Swahili-Handels im Indischen Ozean war.",
       hu: "Kiterjedt régészeti maradványok a Pate-szigeten, amely egykor a szuahéli kereskedelem fontos központja volt az Indiai-óceánon.",
@@ -516,14 +504,13 @@ export const poiExtraKenyaHistoryV2: POI[] = [
       hu: "Shanga romjai",
       ro: "Ruinele Shanga",
       en: "Shanga Ruins"
-    ,
+    },
     descriptionAdvanced: {
       en: "The Shanga Ruins, located on the remote southern coast of Pate Island, represent an extraordinary, deeply layered archaeological site that radically changed the understanding of early Islamic expansion in East Africa. Excavated extensively in the 1980s by Mark Horton, the site revealed an unprecedented continuous sequence of occupation from the 8th century to its sudden abandonment in the 15th century. Crucially, beneath the visible coral rag ruins, archaeologists discovered the post-holes of a timber mosque dating to roughly 780 AD, making it one of the absolute oldest known Islamic structures in sub-Saharan Africa. The settlement grew into a massively wealthy trading hub, evidenced by the discovery of vast quantities of imported Islamic ceramics, glass beads, and Chinese porcelain, before being mysteriously deserted. History K8 — Early Islamic archaeology."
     },
     factsAdvanced: {
       en: ["A highly significant archaeological site located on Pate Island in the Lamu Archipelago.", "Features a continuous, deeply layered sequence of occupation from the 8th to 15th centuries.", "Extensive excavations in the 1980s revealed one of Africa's oldest timber mosques (circa 780 AD).", "The later coral stone city featured massive walls, numerous mosques, and pillar tombs.", "Unearthed thousands of artifacts including early Islamic ceramics and Chinese porcelain.", "Provides massive empirical evidence of early, peaceful Islamic integration on the Swahili coast.", "The town was suddenly and mysteriously abandoned during the 15th century."]
-    }
-  },
+    },
     description: {
       de: "Eine bedeutende archäologische Stätte auf der Insel Pate, die eine frühe und kontinuierliche Besiedlung der Swahili-Küste ab dem 8. Jahrhundert zeigt.",
       hu: "Jelentős régészeti lelőhely a Pate-szigeten, amely a szuahéli partok korai és folyamatos betelepülését mutatja be a 8. századtól kezdve.",
@@ -558,14 +545,13 @@ export const poiExtraKenyaHistoryV2: POI[] = [
       hu: "Uhuru Kertek",
       ro: "Grădinile Uhuru",
       en: "Uhuru Gardens"
-    ,
+    },
     descriptionAdvanced: {
       en: "Uhuru Gardens, located just outside the bustling center of Nairobi, is Kenya's largest and most profoundly significant memorial park. The site marks the exact location where the British Union Jack was lowered, and the new Kenyan flag was raised for the very first time on midnight of December 12, 1963, symbolizing the absolute birth of the independent nation. The massive, meticulously landscaped 35-acre park is dominated by a towering 24-meter commemorative monument, erected in 1973 to celebrate a decade of independence. In recent years, the park underwent a colossal, highly secure modernization spearheaded by the Kenya Defence Forces, transforming it into a massive, state-of-the-art national museum and heritage complex detailing Kenya's pre-colonial, colonial, and modern political history. History K8 — National independence."
     },
     factsAdvanced: {
       en: ["The exact site where Kenya's independence was officially declared on December 12, 1963.", "Features a massive 24-meter tall monument commemorating ten years of independence.", "Located in the Lang'ata area of Nairobi, sprawling across 35 acres.", "The name 'Uhuru' translates to 'Freedom' or 'Independence' in the Swahili language.", "Underwent a massive, multi-billion-shilling redevelopment directed by the military in 2021.", "Now hosts a highly advanced, expansive national history and heritage museum.", "Serves as a deeply revered site for national political and military ceremonies."]
-    }
-  },
+    },
     description: {
       de: "Der größte Gedenkpark in Kenia, der den Ort markiert, an dem am 12. Dezember 1963 die kenianische Flagge zum ersten Mal gehisst wurde.",
       hu: "A legnagyobb emlékpark Kenyában, amely azt a helyet jelöli, ahol 1963. december 12-én először vonták fel a kenyai zászlót.",
@@ -600,14 +586,13 @@ export const poiExtraKenyaHistoryV2: POI[] = [
       hu: "Olorgesailie",
       ro: "Olorgesailie",
       en: "Olorgesailie"
-    ,
+    },
     descriptionAdvanced: {
       en: "Olorgesailie is a stark, geologically spectacular prehistoric site located deep within the floor of the Great Rift Valley, approximately 70 kilometers southwest of Nairobi. Discovered in 1919 by geologist J.W. Gregory and later excavated extensively by Mary and Louis Leakey in the 1940s, the site is globally famous as the 'factory of stone tools'. It features the absolute highest concentration of Acheulean hand axes ever found, perfectly preserved in ancient lakebed sediments dating back over 1.2 million years. These massive accumulations of meticulously knapped stone tools provide profound, highly localized evidence of the cognitive evolution and hunting strategies of Homo erectus. The surrounding hyper-arid landscape, dominated by Mount Suswa, vividly illustrates the dramatic tectonic forces that shaped human evolution. History K8 — Paleolithic stone tool industries."
     },
     factsAdvanced: {
       en: ["A globally critical prehistoric site situated on the floor of the Great Rift Valley.", "Globally renowned for having the highest known concentration of Acheulean hand axes.", "Extensively excavated by the famous paleoanthropologists Louis and Mary Leakey in the 1940s.", "The massive tool accumulations date between roughly 1.2 million and 400,000 years ago.", "Provides massive empirical evidence of the behavioral patterns of Homo erectus.", "Located in a highly arid basin that was formerly an ancient, massive freshwater lake.", "The site features a raised wooden walkway allowing visitors to view artifacts in situ."]
-    }
-  },
+    },
     description: {
       de: "Eine weltberühmte prähistorische Stätte im Rift Valley, bekannt als 'Fabrik der Steinwerkzeuge', wo unzählige Faustkeile von Urmenschen gefunden wurden.",
       hu: "Világhírű történelem előtti lelőhely a Hasadékvölgyben, amelyet 'kőszerszámgyárként' ismernek, ahol számtalan ősemberi szakócát találtak.",
@@ -642,14 +627,13 @@ export const poiExtraKenyaHistoryV2: POI[] = [
       hu: "Kariandusi",
       ro: "Kariandusi",
       en: "Kariandusi"
-    ,
+    },
     descriptionAdvanced: {
       en: "The Kariandusi Prehistoric Site, located near Gilgil in the Great Rift Valley, is one of the earliest and most spectacularly preserved Acheulean hand axe sites discovered in East Africa. Unearthed by Louis Leakey in 1928, the site is positioned on an ancient raised lake terrace, indicating that early hominins, primarily Homo erectus, camped along the fluctuating shores of a massive Pleistocene lake roughly 1 million years ago. What makes Kariandusi highly unique is the sheer abundance of heavy cleavers and hand axes fashioned exclusively from deeply dark, locally sourced obsidian and trachyte rocks. The site vividly demonstrates early human exploitation of volcanic geology for tool-making. A small, highly informative museum on-site preserves these massive stone tools exactly as they were excavated from the pumice-rich soil. History K8 — Obsidian tool making."
     },
     factsAdvanced: {
       en: ["Discovered in 1928 by the pioneering paleoanthropologist Louis Leakey.", "Located near the town of Gilgil in the central Great Rift Valley.", "An incredibly rich Acheulean site dating back approximately 1 million years.", "Famous for massive hand axes and cleavers made almost entirely from volcanic obsidian.", "Positioned on the ancient, raised shoreline of a massive Pleistocene-era lake.", "Demonstrates the highly selective use of specific local volcanic rocks by Homo erectus.", "Operates as a highly accessible national monument managed by the National Museums."]
-    }
-  },
+    },
     description: {
       de: "Eine frühe Acheuléen-Ausgrabungsstätte, an der Louis Leakey 1928 zahlreiche Obsidian-Werkzeuge entdeckte.",
       hu: "Egy korai acheuli ásatási lelőhely, ahol Louis Leakey 1928-ban számos obszidián szerszámot fedezett fel.",
@@ -685,14 +669,13 @@ export const poiExtraKenyaHistoryV2: POI[] = [
       hu: "Hyrax Hill",
       ro: "Hyrax Hill",
       en: "Hyrax Hill"
-    ,
+    },
     descriptionAdvanced: {
       en: "Hyrax Hill is a highly prominent, multi-layered archaeological site located just on the outskirts of Nakuru city. Discovered in 1926 by Mary Leakey, the site is absolutely crucial for understanding the transition from late Stone Age hunter-gatherers to early Iron Age pastoralist and agricultural communities in the Rift Valley. The rocky, lava-dome hill features a massive complex of ancient stone-walled enclosures, deeply stratified settlement mounds, and numerous burial pits dating back roughly 3,000 years. The site is uniquely famous for unearthing the Sirikwa holes—highly distinct, sunken circular hollows built by early Kalenjin ancestors specifically to pen and protect livestock at night. The on-site museum, housed in a former colonial farmhouse, displays an incredibly rich collection of ancient pottery, iron tools, and beads. History K7 — Iron Age pastoralism."
     },
     factsAdvanced: {
       en: ["A deeply stratified archaeological site located immediately adjacent to Nakuru city.", "Discovered and initially excavated by the legendary Mary Leakey in 1926.", "Provides massive evidence of the transition from Stone Age hunting to Iron Age pastoralism.", "Features highly distinctive 'Sirikwa holes' used historically for penning livestock.", "The settlement mounds and massive burial sites date back approximately 3,000 years.", "Named after the numerous rock hyraxes that naturally inhabit the rocky lava dome.", "Gazetted as a deeply protected national monument in 1943."]
-    }
-  },
+    },
     description: {
       de: "Eine wichtige prähistorische Ausgrabungsstätte in der Nähe von Nakuru, die Besiedlungen von der Jungsteinzeit bis in die Eisenzeit dokumentiert.",
       hu: "Egy fontos őskori ásatási terület Nakuru közelében, amely a neolitikumtól a vaskorig tartó településeket dokumentálja.",
@@ -727,14 +710,13 @@ export const poiExtraKenyaHistoryV2: POI[] = [
       hu: "Kenyatta Ház Maralal",
       ro: "Casa Kenyatta Maralal",
       en: "Kenyatta House Maralal"
-    ,
+    },
     descriptionAdvanced: {
       en: "The Kenyatta House in Maralal is a highly unassuming yet profoundly historical bungalow located deep in the remote, arid highlands of Samburu County. This modest, three-roomed colonial residence was the final detention site of Jomo Kenyatta, the founding father of the Kenyan nation. After being moved from the harsh desert prison of Lodwar, Kenyatta was held here in relative isolation from 1959 until his ultimate release in August 1961. The site is deeply significant as it was here that he famously negotiated the final framework for Kenya's independence with British colonial authorities. Today, the highly preserved house operates as a national monument, retaining the original, austere furniture and personal artifacts from Kenyatta's detention, symbolizing the quiet, tense culmination of the national liberation struggle. History K8 — The final days of detention."
     },
     factsAdvanced: {
       en: ["Located in the remote highland town of Maralal within Samburu County.", "Served as the final colonial detention site for Kenya's founding father, Jomo Kenyatta.", "Kenyatta was detained in this relatively isolated house from 1959 to August 1961.", "The exact site where final independence negotiations with British authorities occurred.", "A highly modest, three-roomed colonial bungalow transformed into a national monument.", "Maintains the highly preserved original furniture and historical artifacts from the 1960s.", "Symbolizes the quiet, tense transition from colonial rule to national independence."]
-    }
-  },
+    },
     description: {
       de: "Das Haus, in dem Jomo Kenyatta vor seiner Freilassung und der kenianischen Unabhängigkeit in den Jahren 1960 und 1961 unter Hausarrest stand.",
       hu: "Az a ház, ahol Jomo Kenyatta 1960-ban és 1961-ben házi őrizetben volt szabadon bocsátása és a kenyai függetlenség előtt.",
@@ -769,14 +751,13 @@ export const poiExtraKenyaHistoryV2: POI[] = [
       hu: "Rabai Múzeum",
       ro: "Muzeul Rabai",
       en: "Rabai Museum"
-    ,
+    },
     descriptionAdvanced: {
       en: "The Rabai Museum, located in the lush, hilly hinterland just northwest of Mombasa, represents the absolute geographical starting point of modern Christianity and formal Western education in Kenya. Established in 1846 by the pioneering German missionary Johann Ludwig Krapf, it was the very first Christian mission station built in the country. The highly preserved site features the original, deeply historic church building, which remains an active place of worship today. Historically, the mission was a deeply disruptive force, offering an incredibly rare safe haven for rescued slaves fleeing the massive Arab-led coastal slave trade, fundamentally altering local demographics. The museum meticulously details the complex, highly impactful intersection of early European missionary zeal, local Mijikenda culture, and the abolitionist movement. History K8 — Early missions and abolition."
     },
     factsAdvanced: {
       en: ["The very first Christian mission station established in Kenya, founded in 1846.", "Built by the pioneering German CMS missionary Johann Ludwig Krapf.", "Located in the lush, hilly Rabai region, roughly 25 kilometers northwest of Mombasa.", "Historically served as a highly crucial, fortified sanctuary for rescued slaves.", "Features Kenya's oldest functioning Christian church building, heavily preserved.", "Marks the absolute starting point of formal Western education in the country.", "The museum details the profound cultural clash between missionaries and the Mijikenda people."]
-    }
-  },
+    },
     description: {
       de: "Der Ort der ersten christlichen Kirche in Kenia, gegründet von den Missionaren Krapf und Rebmann im Jahr 1846.",
       hu: "Az első kenyai keresztény templom helyszíne, amelyet Krapf és Rebmann misszionáriusok alapítottak 1846-ban.",
@@ -811,14 +792,13 @@ export const poiExtraKenyaHistoryV2: POI[] = [
       hu: "Krapf-emlékmű",
       ro: "Memorialul Krapf",
       en: "Krapf Memorial"
-    ,
+    },
     descriptionAdvanced: {
       en: "The Krapf Memorial is a deeply poignant historical monument located near the bustling coastal hub of Mombasa, dedicated to the extraordinary life and tragic losses of the German missionary Johann Ludwig Krapf. Operating under the Church Missionary Society (CMS), Krapf arrived on the Kenyan coast in 1844, becoming the very first European to systematically document the Swahili language and famously translating the book of Genesis into Swahili. The highly solemn memorial marks the gravesite of his wife Rosine and their infant daughter, both of whom died of severe malaria just months after arriving on the coast. Despite this massive personal tragedy, Krapf remained, mapping the interior and becoming the first European to officially report the snow-capped peak of Mount Kenya to a highly skeptical Europe. History K7 — Missionary exploration."
     },
     factsAdvanced: {
       en: ["A monument dedicated to the pioneering German missionary Johann Ludwig Krapf.", "Marks the tragic gravesite of Krapf's wife and infant daughter, who died in 1844.", "Located in the coastal region near Mombasa, where Krapf initially landed.", "Krapf was the very first European to systematically document the Swahili language.", "He famously produced the first translation of the Book of Genesis into Swahili.", "Despite his massive losses, he continued inland, 'discovering' Mount Kenya in 1849.", "Maintained as a deeply historical symbol of early European missionary perseverance."]
-    }
-  },
+    },
     description: {
       de: "Ein Gedenkort in Mombasa, der dem deutschen Missionar Dr. Johann Ludwig Krapf gewidmet ist, der die erste Swahili-Grammatik schrieb.",
       hu: "Emlékhely Mombasában, amelyet Dr. Johann Ludwig Krapf német misszionáriusnak szenteltek, aki az első szuahéli nyelvtant írta.",
@@ -853,14 +833,13 @@ export const poiExtraKenyaHistoryV2: POI[] = [
       hu: "Fort Ternan",
       ro: "Fort Ternan",
       en: "Fort Ternan"
-    ,
+    },
     descriptionAdvanced: {
       en: "Fort Ternan is an incredibly significant paleontological and historical site located in the rolling, incredibly lush tea-growing highlands of Kericho County. Discovered by a local farmer in 1961 and subsequently excavated by the legendary Louis Leakey, the site yielded massive fossil evidence of Kenyapithecus wickeri, an ancient ape species dating back roughly 14 million years to the Miocene epoch. This discovery was an absolute breakthrough, providing crucial evolutionary links between early apes and later hominins. Beyond its deep prehistoric gravity, the town of Fort Ternan was also the site of a highly fortified British colonial military outpost established to secure the massively strategic route of the Uganda Railway against local resistance. Today, it remains a quiet agricultural hub steeped in deep historical layers. History K8 — Miocene paleontology and colonial forts."
     },
     factsAdvanced: {
       en: ["Located in the deeply lush, high-altitude tea-growing region of Kericho County.", "Yielded the massive 1961 discovery of Kenyapithecus wickeri fossils by Louis Leakey.", "The highly critical Miocene-era fossils date back approximately 14 million years.", "Provided a massive, crucial evolutionary link between ancient apes and hominins.", "Historically the site of a heavily fortified British colonial military outpost.", "The fort was established to militarily secure the construction of the Uganda Railway.", "The area is now dominated by massive, highly manicured commercial tea estates."]
-    }
-  },
+    },
     description: {
       de: "Eine bedeutende prähistorische Stätte, an der Fossilien von Kenyapithecus wickeri, einem frühen Vorfahren der Menschenaffen, entdeckt wurden.",
       hu: "Jelentős történelem előtti lelőhely, ahol a Kenyapithecus wickeri, az emberszabású majmok korai ősének kövületeit fedezték fel.",
@@ -895,14 +874,13 @@ export const poiExtraKenyaHistoryV2: POI[] = [
       hu: "Songhor",
       ro: "Songhor",
       en: "Songhor"
-    ,
+    },
     descriptionAdvanced: {
       en: "The Songhor Prehistoric Site is a highly specialized, deeply critical paleontological reserve situated at the foot of the Nandi Escarpment in Kisumu County. Covering roughly 78 acres of deeply eroded, heavily fossilized terrain, the site is globally famous for yielding massive quantities of Early Miocene fossils dating back nearly 19 million years. Since systematic excavations began in the 1930s, Songhor has produced incredibly well-preserved fossils of various ancient hominoids, most notably Proconsul africanus, an absolutely fundamental species in the evolutionary tree of modern apes and humans. The site also contains massive deposits of fossilized rhinos, ancient elephants, and primitive carnivores, providing a highly vivid, incredibly detailed reconstruction of the lush, forested ecosystem that dominated the Rift Valley millions of years ago. History K8 — Early Miocene hominoids."
     },
     factsAdvanced: {
       en: ["A highly critical Early Miocene paleontological site located in Kisumu County.", "Situated at the base of the dramatic Nandi Escarpment in the Rift Valley basin.", "Yielded massive fossil evidence of Proconsul africanus, a crucial ancient hominoid.", "The deeply stratified fossil beds date back an astonishing 19 million years.", "Excavations have unearthed massive deposits of ancient rhinos and primitive elephants.", "Provides massive empirical data on the ancient, densely forested Rift Valley ecosystem.", "Gazetted as a highly protected national monument by the Kenyan government in 1982."]
-    }
-  },
+    },
     description: {
       de: "Ein wichtiger miozäner Fundort von Hominoiden-Fossilien, der einen Einblick in die Evolution der Primaten vor etwa 19 Millionen Jahren bietet.",
       hu: "A hominoida fosszíliák fontos miocén kori lelőhelye, amely bepillantást nyújt a főemlősök mintegy 19 millió évvel ezelőtti evolúciójába.",
@@ -937,14 +915,13 @@ export const poiExtraKenyaHistoryV2: POI[] = [
       hu: "Olasz háborús emléktemplom",
       ro: "Biserica memorială italiană de război",
       en: "Italian War Memorial Church"
-    ,
+    },
     descriptionAdvanced: {
       en: "The Italian War Memorial Church is a deeply evocative, beautifully constructed monument located just outside the bustling town of Nyeri, resting at the foothills of Mount Kenya. Built in 1952, this highly solemn brick sanctuary serves as the final resting place for 676 Italian prisoners of war captured by British forces during the intense East African Campaign of World War II. These prisoners were heavily utilized as forced labor for massive regional infrastructure projects, including the construction of the extremely treacherous road over the Aberdare Escarpment. The church's architecture features stunning, highly detailed vaulted ceilings and a massive central altar, offering a quiet, deeply respectful atmosphere that sharply contrasts with the brutal conflict that brought these men to East Africa. History K8 — World War II in East Africa."
     },
     factsAdvanced: {
       en: ["Located near Nyeri town at the foothills of the Mount Kenya massif.", "Built in 1952 as a highly solemn memorial and ossuary for Italian Prisoners of War.", "Contains the remains of 676 Italian soldiers captured during World War II.", "The prisoners were utilized heavily for massive colonial infrastructure projects.", "The architecture features highly detailed brickwork and stunning vaulted ceilings.", "The Duke of Aosta, a prominent Italian general, was historically interred here before repatriation.", "Maintained closely by the Italian government as a deeply significant war memorial."]
-    }
-  },
+    },
     description: {
       de: "Eine Kirche in Mai Mahiu, die während des Zweiten Weltkriegs 1942 von italienischen Kriegsgefangenen erbaut wurde.",
       hu: "Egy templom Mai Mahiuban, amelyet olasz hadifoglyok építettek a második világháború alatt, 1942-ben.",
@@ -979,14 +956,13 @@ export const poiExtraKenyaHistoryV2: POI[] = [
       hu: "Lokitaung-szurdok",
       ro: "Cheile Lokitaung",
       en: "Lokitaung Gorge"
-    ,
+    },
     descriptionAdvanced: {
       en: "Lokitaung Gorge is an incredibly remote, deeply rugged geographical formation situated in the hyper-arid, extreme northwestern corner of Turkana County near the Ethiopian border. Historically, this deeply unforgiving landscape was the site of the highly isolated Lokitaung Prison, where British colonial authorities banished the most prominent leaders of the Mau Mau rebellion, including Jomo Kenyatta, in 1953. The prisoners endured intensely brutal conditions, tasked with performing highly punitive, agonizing hard labor, explicitly designed to break their political will. The sheer isolation of the gorge, surrounded by baking hot, impassable desert terrain, made it an absolute fortress of colonial containment. Today, the ruins of the prison stand as a highly stark, deeply emotional monument to the immense suffering endured during the struggle for national liberation. History K8 — Colonial penal colonies."
     },
     factsAdvanced: {
       en: ["Located in the extreme, hyper-arid northwestern corner of Turkana County.", "Historically the site of an incredibly remote, heavily fortified colonial prison camp.", "Jomo Kenyatta and the 'Kapenguria Six' were exiled here in 1953.", "The prisoners endured massively brutal conditions and intensely punitive hard labor.", "Surrounded by extremely hostile, baking hot desert terrain to prevent escapes.", "The physical isolation was a highly calculated strategy to silence the nationalist leaders.", "The ruined structures remain a deeply significant symbol of the independence struggle."]
-    }
-  },
+    },
     description: {
       de: "Ein historisches Gebiet im Norden Kenias, das während der Kolonialzeit als abgelegenes Gefängnis für politische Häftlinge genutzt wurde.",
       hu: "Történelmi terület Észak-Kenyában, amelyet a gyarmati időkben politikai foglyok elszigetelt börtöneként használtak.",
@@ -1021,14 +997,13 @@ export const poiExtraKenyaHistoryV2: POI[] = [
       hu: "Wajir Erőd",
       ro: "Fortul Wajir",
       en: "Wajir Fort"
-    ,
+    },
     descriptionAdvanced: {
       en: "Wajir Fort, situated in the deep, highly arid heartland of Kenya's North Eastern Province, is a massive, incredibly striking piece of colonial military architecture. Constructed entirely from locally quarried limestone by Italian prisoners of war in the 1920s, the fort resembles a classic Saharan desert garrison, complete with high, whitewashed defensive walls and prominent watchtowers. Historically, the fort was established by the British to project military power over the fiercely independent, highly nomadic Somali pastoralists and to secure the highly strategic local groundwater wells. The structure has witnessed intense, highly localized conflict, including the brutal Shifta War of the 1960s. Today, it serves as a deeply imposing historical landmark, reflecting the complex, often violent history of state control in Kenya's most remote frontier. History K7 — Desert military garrisons."
     },
     factsAdvanced: {
       en: ["A massive colonial military fort located in the arid heart of Wajir County.", "Constructed in the 1920s using forced labor from Italian prisoners of war.", "Built entirely from locally quarried limestone in a classic Saharan defensive style.", "Established to militarily secure the highly vital local groundwater wells.", "Served as a highly critical base during the brutal Shifta War in the 1960s.", "Features high, heavily fortified whitewashed walls and distinct defensive watchtowers.", "Stands as a highly prominent symbol of historical state control in the northern frontier."]
-    }
-  },
+    },
     description: {
       de: "Eine koloniale Festung in Nordost-Kenia, die in den 1920er Jahren von den Briten zur Kontrolle der Region erbaut wurde.",
       hu: "Egy gyarmati erődítmény Északkelet-Kenyában, amelyet a britek építettek az 1920-as években a régió ellenőrzésére.",
@@ -1063,14 +1038,13 @@ export const poiExtraKenyaHistoryV2: POI[] = [
       hu: "Nandi-hegyek",
       ro: "Dealurile Nandi",
       en: "Nandi Hills"
-    ,
+    },
     descriptionAdvanced: {
       en: "The Nandi Hills represent a massive, deeply undulating highland region in western Kenya, fiercely defined by both its intense modern tea production and its profound anti-colonial history. Located at a commanding elevation averaging 2,000 meters, the region is the ancestral and spiritual heartland of the Nandi people. In the late 19th and early 20th centuries, the hills were the epicenter of the highly organized, massive Nandi Resistance against the encroaching British Empire and the construction of the Uganda Railway. Led by the deeply revered supreme chief, Koitalel Arap Samoei, the Nandi fought a highly effective guerrilla war for over a decade. The conflict only ended when Samoei was deceitfully assassinated under the guise of a peace truce in 1905, an event still intensely commemorated locally. History K8 — Armed indigenous resistance."
     },
     factsAdvanced: {
       en: ["A highly elevated, intensely green highland region located in western Kenya.", "The absolute ancestral and spiritual heartland of the Nandi community.", "The epicenter of the massive, decade-long Nandi Resistance (1895-1905).", "The resistance was led by the highly revered Orkoiyot (supreme chief) Koitalel Arap Samoei.", "The Nandi forces fought a highly effective guerrilla war against the British railway construction.", "The resistance ended with the highly controversial assassination of Samoei in 1905.", "The region is today globally renowned for massive, highly productive commercial tea estates."]
-    }
-  },
+    },
     description: {
       de: "Ein historisches Gebiet, das für den Widerstand der Nandi gegen die britische Kolonialherrschaft unter der Führung von Koitalel Arap Samoei bekannt ist.",
       hu: "Történelmi terület, amely a nandik brit gyarmati uralom elleni ellenállásáról ismert Koitalel Arap Samoei vezetésével.",
@@ -1105,14 +1079,13 @@ export const poiExtraKenyaHistoryV2: POI[] = [
       hu: "Makupa-gát",
       ro: "Barajul Makupa",
       en: "Makupa Causeway"
-    ,
+    },
     descriptionAdvanced: {
       en: "The Makupa Causeway is a massive, deeply historic land bridge connecting the bustling Mombasa Island to the Kenyan mainland. Constructed in 1929 by the British colonial administration, the causeway replaced an earlier, highly inadequate pontoon bridge, fundamentally revolutionizing the logistics of the entire region. The massive engineering feat successfully carried the critical Uganda Railway line, the primary road highway, and the massive water pipelines supplying the island. For nearly a century, it was the absolute, congested bottleneck for all overland freight entering or exiting the colossal Port of Mombasa. Recently, acknowledging the severe ecological damage the solid causeway caused to the surrounding tidal creeks, the government undertook a massive infrastructure project to replace it with a modern, highly elevated bridge, restoring natural ocean flows. History K7 — Colonial transport engineering."
     },
     factsAdvanced: {
       en: ["A massive artificial land bridge connecting Mombasa Island to the western mainland.", "Constructed in 1929 by the British colonial government to replace a pontoon bridge.", "Carried the highly critical Uganda Railway line and the primary national highway.", "Acted as the absolute chokepoint for all overland freight entering the Port of Mombasa.", "The solid structure caused massive, long-term ecological damage to the local tidal creeks.", "A massive modern bridge was recently completed to replace the solid earth causeway.", "The new bridge design aims to restore the ancient, highly critical tidal ocean flows."]
-    }
-  },
+    },
     description: {
       de: "Eine historische Straßen- und Eisenbahnverbindung, die 1929 erbaut wurde, um die Insel Mombasa mit dem kenianischen Festland zu verbinden.",
       hu: "Történelmi közúti és vasúti összeköttetés, amely 1929-ben épült Mombasa szigetének és a kenyai szárazföldnek az összekapcsolására.",
@@ -1147,14 +1120,13 @@ export const poiExtraKenyaHistoryV2: POI[] = [
       hu: "Pwani Mecset",
       ro: "Moscheea Pwani",
       en: "Pwani Mosque"
-    ,
+    },
     descriptionAdvanced: {
       en: "The Pwani Mosque is a deeply historical, highly revered Islamic sanctuary located within the labyrinthine alleyways of Mombasa's Old Town. Often cited as the oldest functioning mosque in the city, its architectural foundations date back to the early 14th century, though it has undergone massive, repeated renovations over the centuries. The structure is a highly vivid representation of classical Swahili coastal architecture, constructed from massive blocks of coral rag and featuring highly intricate, deeply carved wooden doors and an elegantly simple, unadorned minaret. Positioned exceptionally close to the old dhow harbor, the mosque historically served as the primary, deeply spiritual focal point for arriving Omani and Persian merchants. Today, it remains an intensely active, highly prestigious center of daily worship and Islamic scholarship for the coastal community. History K7 — Early Islamic architecture."
     },
     factsAdvanced: {
       en: ["Widely recognized as the oldest functioning Islamic mosque in Mombasa city.", "The original architectural foundations date back to the early 14th century.", "Constructed using massive blocks of local coral rag in the classic Swahili style.", "Located deep within the highly dense, labyrinthine alleyways of Mombasa Old Town.", "Historically served the massive influx of Omani and Persian maritime merchants.", "Features highly intricate, deeply carved wooden doors typical of Swahili craftsmanship.", "Remains an intensely active, highly revered center for daily worship and religious study."]
-    }
-  },
+    },
     description: {
       de: "Eine der ältesten Moscheen in Mombasa, deren architektonische Überreste bis ins 14. Jahrhundert zurückreichen.",
       hu: "Mombasa egyik legrégebbi mecsete, amelynek építészeti maradványai a 14. századra nyúlnak vissza.",
@@ -1190,14 +1162,13 @@ export const poiExtraKenyaHistoryV2: POI[] = [
       hu: "Fort Smith",
       ro: "Fort Smith",
       en: "Fort Smith"
-    ,
+    },
     descriptionAdvanced: {
       en: "Fort Smith is a highly significant, though heavily ruined, colonial military outpost located in the rapidly suburbanizing area of Kabete, just west of Nairobi. Established in 1891 by the Imperial British East Africa Company (IBEAC), it was constructed specifically to militarily secure the crucial caravan route running between Mombasa and Uganda. Surrounded by a massive, deep defensive trench, the fort became a highly intense flashpoint of conflict during the early colonial pacification campaigns against the local Kikuyu population, particularly under the command of the notoriously brutal Captain Francis Hall. Today, the massive trench and scattered earthworks are all that remain, quietly persisting amidst the massive real estate development of modern Kiambu County, serving as a stark reminder of the violent origins of colonial land acquisition. History K8 — Early colonial pacification."
     },
     factsAdvanced: {
       en: ["A highly strategic colonial military outpost established in 1891 in Kabete.", "Built by the Imperial British East Africa Company (IBEAC) to secure the Uganda caravan route.", "The primary defensive structure featured a massive, deeply dug surrounding trench.", "A highly intense flashpoint for early colonial conflicts against the local Kikuyu people.", "Commanded historically by the notoriously brutal British officer Captain Francis Hall.", "The site is currently heavily encroached upon by massive modern suburban development.", "The remaining massive earthworks stand as a stark monument to violent colonial expansion."]
-    }
-  },
+    },
     description: {
       de: "Ein ehemaliger britischer Militärstützpunkt in Kabete aus den 1890er Jahren, der eine Schlüsselrolle in den frühen Tagen des kolonialen Kenia spielte.",
       hu: "Egykori brit katonai bázis Kabetében az 1890-es évekből, amely kulcsszerepet játszott a gyarmati Kenya korai napjaiban.",
@@ -1232,14 +1203,13 @@ export const poiExtraKenyaHistoryV2: POI[] = [
       hu: "Ishakani romjai",
       ro: "Ruinele Ishakani",
       en: "Ishakani Ruins"
-    ,
+    },
     descriptionAdvanced: {
       en: "The Ishakani Ruins represent an incredibly remote, deeply mysterious archaeological site situated on the extreme northern coast of Kenya, literally straddling the Somali border. Dating from the 15th to the 17th centuries, the site is globally renowned for containing the highest concentration of highly elaborate Swahili pillar tombs in East Africa. These massive coral stone structures are uniquely adorned with inset Ming Dynasty porcelain bowls and feature highly complex, deeply carved geometric motifs. Unlike other major Swahili settlements, Ishakani lacks massive palace structures, suggesting it may have served primarily as a highly venerated, deeply sacred burial ground or a specialized outpost for the coastal ivory trade. The extreme geographical isolation of the site has kept it highly preserved, yet deeply under-researched. History K8 — Coastal burial architecture."
     },
     factsAdvanced: {
       en: ["An incredibly remote archaeological site located exactly on the Kenya-Somalia border.", "Dates primarily from the highly prosperous Swahili period of the 15th to 17th centuries.", "Features the absolute highest concentration of elaborate Swahili pillar tombs in East Africa.", "The massive coral tombs are highly decorated with inset Chinese Ming Dynasty porcelain.", "Lacks the massive palace ruins typical of other major Swahili city-states like Gedi.", "Likely served as a highly specialized, deeply sacred regional burial ground.", "Remains heavily unexcavated and highly preserved due to its extreme geographical isolation."]
-    }
-  },
+    },
     description: {
       de: "Archäologische Überreste nahe der somalischen Grenze, bekannt für ihre reich verzierten Swahili-Säulengräber aus dem 16. Jahrhundert.",
       hu: "Régészeti maradványok a szomáliai határ közelében, amelyek a 16. századi, gazdagon díszített szuahéli oszlopos sírjaikról ismertek.",

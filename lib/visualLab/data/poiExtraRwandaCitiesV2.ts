@@ -129,6 +129,18 @@ export const poiExtraRwandaCitiesV2: POI[] = [
       hu: ["Történelmileg Kibuye néven volt ismert.", "Népszerű hétvégi úti cél a Kigaliból érkezők számára."],
       ro: ["A fost cunoscut istoric sub numele de Kibuye.", "O destinație populară pentru escapade de weekend din Kigali."],
       en: ["Was historically referred to as Kibuye.", "A popular destination for weekend getaways from Kigali."]
+    },
+    descriptionAdvanced: {
+      de: "",
+      hu: "",
+      ro: "",
+      en: "Karongi, formerly known as Kibuye, is one of the most enchanting lakeside towns in Rwanda, situated on the eastern shores of Lake Kivu. The town is characterized by its steep, emerald-green hills that plunge into the deep blue waters, creating numerous secluded bays and forested peninsulas. It serves as a premier resort destination, offering visitors spectacular sunsets and boat excursions to unique islands like Napoleon Island, famous for its massive colony of fruit bats, and Amahoro Island. Karongi is also home to the Museum of Environment, which highlights Rwanda's commitment to sustainable energy and biodiversity. The surrounding highland areas are renowned for producing high-quality Arabica coffee and tea, benefitting from the lake's temperate microclimate. Geography K7 — lake systems and landforms."
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [],
+      ro: [],
+      en: ["Situated at an altitude of approximately 1,460 meters.", "Home to the only Museum of Environment in Rwanda.", "Known for the historic 'Napoleon Island' fruit bat colony.", "A major station along the 227km Congo Nile Trail.", "Serves as the administrative capital of the Western Province.", "Famous for its high-altitude coffee washing stations.", "Features a distinctive coastline with numerous deep bays.", "The town was a focal point for historic regional trade."]
     }
   },
   {

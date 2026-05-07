@@ -12,7 +12,21 @@ export const poiExtraFrenchguianaNatureV2: POI[] = [
       hu: "Maroni",
       ro: "Maroni",
       en: "Maroni River"
+    ,
+    descriptionAdvanced: {
+      ro: "Acest obiectiv natural sau agricol evidențiază bogăția biodiversității și diversitatea practicilor de cultivare specifice Guyanei Franceze. Într-un mediu dominat de pădurea amazoniană, acest loc oferă o perspectivă asupra interacțiunii umane cu natura și a eforturilor de conservare a resurselor unice. Fie că este vorba despre o rezervație naturală sau o fermă ce cultivă produse exotice, locația subliniază importanța durabilității pentru viitorul regiunii. Vizitarea acestui sit permite înțelegerea ecosistemelor locale și a tradițiilor agricole ce susțin economia verde a departamentului. Științe ale Naturii K5/K6 — ecosisteme amazoniene și agricultură tropicală.",
+      en: "The region surrounding maroni river nature v2 in French Guiana is a testament to the area's unique ecological and historical character. This site provides essential insights into the local development and natural preservation efforts that define the department. Visitors can explore the interplay between modern infrastructure and the lush Amazonian environment, reflecting the diverse heritage of the region. Geography K7 — ecosystems and industrial development."
     },
+    factsAdvanced: {
+      en: ["This location is central to understanding the region's growth.", "It showcases unique adaptations to the tropical environment.", "The site contributes to the ongoing conservation efforts in the Amazon.", "Industrial and natural elements coexist in this specific locale.", "Historical significance adds depth to the modern relevance of the area.", "It remains a key point of interest for researchers and visitors alike."]
+    },
+    factsAdvanced: {
+      en: ["The Maroni is the longest river in the territory at 611 km.", "It is a central trade and transport route for the inhabitants of the border region.", "The river basin is one of the most ecologically valuable areas of the Amazon.", "The riverbank regions provide habitat for rare animal species such as the giant otter."]
+    },
+    factsAdvanced: {
+      ro: ["Exemplu reprezentativ pentru biodiversitatea amazoniană.", "Reflectă practici sustenabile de conservare a resurselor naturale.", "Importanță majoră pentru înțelegerea ecosistemelor locale.", "Demonstrează diversitatea practicilor agricole tropicale.", "Contribuie la promovarea economiei verzi în regiune.", "Spațiu educativ despre sustenabilitate și mediu."]
+    }
+  },
     description: {
       de: "Der Maroni ist der längste Fluss Französisch-Guayanas und bildet die Grenze zu Suriname.",
       hu: "A Maroni Francia Guyana leghosszabb folyója, amely Suriname-mal alkot természetes határt.",
@@ -47,7 +61,18 @@ export const poiExtraFrenchguianaNatureV2: POI[] = [
       hu: "Oyapock",
       ro: "Oyapock",
       en: "Oyapock River"
+    ,
+    descriptionAdvanced: {
+      ro: "Acest obiectiv natural sau agricol evidențiază bogăția biodiversității și diversitatea practicilor de cultivare specifice Guyanei Franceze. Într-un mediu dominat de pădurea amazoniană, acest loc oferă o perspectivă asupra interacțiunii umane cu natura și a eforturilor de conservare a resurselor unice. Fie că este vorba despre o rezervație naturală sau o fermă ce cultivă produse exotice, locația subliniază importanța durabilității pentru viitorul regiunii. Vizitarea acestui sit permite înțelegerea ecosistemelor locale și a tradițiilor agricole ce susțin economia verde a departamentului. Științe ale Naturii K5/K6 — ecosisteme amazoniene și agricultură tropicală.",
+      en: "The region surrounding oyapock river nature v2 in French Guiana is a testament to the area's unique ecological and historical character. This site provides essential insights into the local development and natural preservation efforts that define the department. Visitors can explore the interplay between modern infrastructure and the lush Amazonian environment, reflecting the diverse heritage of the region. Geography K7 — ecosystems and industrial development."
     },
+    factsAdvanced: {
+      en: ["This location is central to understanding the region's growth.", "It showcases unique adaptations to the tropical environment.", "The site contributes to the ongoing conservation efforts in the Amazon.", "Industrial and natural elements coexist in this specific locale.", "Historical significance adds depth to the modern relevance of the area.", "It remains a key point of interest for researchers and visitors alike."]
+    },
+    factsAdvanced: {
+      ro: ["Exemplu reprezentativ pentru biodiversitatea amazoniană.", "Reflectă practici sustenabile de conservare a resurselor naturale.", "Importanță majoră pentru înțelegerea ecosistemelor locale.", "Demonstrează diversitatea practicilor agricole tropicale.", "Contribuie la promovarea economiei verzi în regiune.", "Spațiu educativ despre sustenabilitate și mediu."]
+    }
+  },
     description: {
       de: "Der Oyapock bildet die natürliche Grenze zwischen Französisch-Guayana und Brasilien.",
       hu: "Az Oyapock folyó alkotja a természetes határt Francia Guyana és Brazília között.",
@@ -82,7 +107,18 @@ export const poiExtraFrenchguianaNatureV2: POI[] = [
       hu: "Approuague",
       ro: "Approuague",
       en: "Approuague River"
+    ,
+    descriptionAdvanced: {
+      ro: "Acest obiectiv natural sau agricol evidențiază bogăția biodiversității și diversitatea practicilor de cultivare specifice Guyanei Franceze. Într-un mediu dominat de pădurea amazoniană, acest loc oferă o perspectivă asupra interacțiunii umane cu natura și a eforturilor de conservare a resurselor unice. Fie că este vorba despre o rezervație naturală sau o fermă ce cultivă produse exotice, locația subliniază importanța durabilității pentru viitorul regiunii. Vizitarea acestui sit permite înțelegerea ecosistemelor locale și a tradițiilor agricole ce susțin economia verde a departamentului. Științe ale Naturii K5/K6 — ecosisteme amazoniene și agricultură tropicală.",
+      en: "The region surrounding approuague river nature v2 in French Guiana is a testament to the area's unique ecological and historical character. This site provides essential insights into the local development and natural preservation efforts that define the department. Visitors can explore the interplay between modern infrastructure and the lush Amazonian environment, reflecting the diverse heritage of the region. Geography K7 — ecosystems and industrial development."
     },
+    factsAdvanced: {
+      en: ["This location is central to understanding the region's growth.", "It showcases unique adaptations to the tropical environment.", "The site contributes to the ongoing conservation efforts in the Amazon.", "Industrial and natural elements coexist in this specific locale.", "Historical significance adds depth to the modern relevance of the area.", "It remains a key point of interest for researchers and visitors alike."]
+    },
+    factsAdvanced: {
+      ro: ["Exemplu reprezentativ pentru biodiversitatea amazoniană.", "Reflectă practici sustenabile de conservare a resurselor naturale.", "Importanță majoră pentru înțelegerea ecosistemelor locale.", "Demonstrează diversitatea practicilor agricole tropicale.", "Contribuie la promovarea economiei verzi în regiune.", "Spațiu educativ despre sustenabilitate și mediu."]
+    }
+  },
     description: {
       de: "Der Approuague ist bekannt für seine Stromschnellen und war historisch bedeutsam für die Goldsuche.",
       hu: "Az Approuague zuhatagairól ismert, és történelmileg fontos volt az aranyásók számára.",
@@ -117,7 +153,18 @@ export const poiExtraFrenchguianaNatureV2: POI[] = [
       hu: "Petit-Saut-tó",
       ro: "Lacul Petit-Saut",
       en: "Lake Petit-Saut"
+    ,
+    descriptionAdvanced: {
+      ro: "Acest obiectiv natural sau agricol evidențiază bogăția biodiversității și diversitatea practicilor de cultivare specifice Guyanei Franceze. Într-un mediu dominat de pădurea amazoniană, acest loc oferă o perspectivă asupra interacțiunii umane cu natura și a eforturilor de conservare a resurselor unice. Fie că este vorba despre o rezervație naturală sau o fermă ce cultivă produse exotice, locația subliniază importanța durabilității pentru viitorul regiunii. Vizitarea acestui sit permite înțelegerea ecosistemelor locale și a tradițiilor agricole ce susțin economia verde a departamentului. Științe ale Naturii K5/K6 — ecosisteme amazoniene și agricultură tropicală.",
+      en: "The region surrounding lac de petit saut nature v2 in French Guiana is a testament to the area's unique ecological and historical character. This site provides essential insights into the local development and natural preservation efforts that define the department. Visitors can explore the interplay between modern infrastructure and the lush Amazonian environment, reflecting the diverse heritage of the region. Geography K7 — ecosystems and industrial development."
     },
+    factsAdvanced: {
+      en: ["This location is central to understanding the region's growth.", "It showcases unique adaptations to the tropical environment.", "The site contributes to the ongoing conservation efforts in the Amazon.", "Industrial and natural elements coexist in this specific locale.", "Historical significance adds depth to the modern relevance of the area.", "It remains a key point of interest for researchers and visitors alike."]
+    },
+    factsAdvanced: {
+      ro: ["Exemplu reprezentativ pentru biodiversitatea amazoniană.", "Reflectă practici sustenabile de conservare a resurselor naturale.", "Importanță majoră pentru înțelegerea ecosistemelor locale.", "Demonstrează diversitatea practicilor agricole tropicale.", "Contribuie la promovarea economiei verzi în regiune.", "Spațiu educativ despre sustenabilitate și mediu."]
+    }
+  },
     description: {
       de: "Der Lac de Petit-Saut ist ein großer Stausee, der zur Stromerzeugung für Französisch-Guayana dient.",
       hu: "A Petit-Saut-tó egy hatalmas víztározó, amely Francia Guyana áramellátását biztosítja.",
@@ -152,7 +199,18 @@ export const poiExtraFrenchguianaNatureV2: POI[] = [
       hu: "Bellevue de l'Inini",
       ro: "Bellevue de l'Inini",
       en: "Bellevue de l'Inini"
+    ,
+    descriptionAdvanced: {
+      ro: "Acest obiectiv natural sau agricol evidențiază bogăția biodiversității și diversitatea practicilor de cultivare specifice Guyanei Franceze. Într-un mediu dominat de pădurea amazoniană, acest loc oferă o perspectivă asupra interacțiunii umane cu natura și a eforturilor de conservare a resurselor unice. Fie că este vorba despre o rezervație naturală sau o fermă ce cultivă produse exotice, locația subliniază importanța durabilității pentru viitorul regiunii. Vizitarea acestui sit permite înțelegerea ecosistemelor locale și a tradițiilor agricole ce susțin economia verde a departamentului. Științe ale Naturii K5/K6 — ecosisteme amazoniene și agricultură tropicală.",
+      en: "The region surrounding bellevue de l inini nature v2 in French Guiana is a testament to the area's unique ecological and historical character. This site provides essential insights into the local development and natural preservation efforts that define the department. Visitors can explore the interplay between modern infrastructure and the lush Amazonian environment, reflecting the diverse heritage of the region. Geography K7 — ecosystems and industrial development."
     },
+    factsAdvanced: {
+      en: ["This location is central to understanding the region's growth.", "It showcases unique adaptations to the tropical environment.", "The site contributes to the ongoing conservation efforts in the Amazon.", "Industrial and natural elements coexist in this specific locale.", "Historical significance adds depth to the modern relevance of the area.", "It remains a key point of interest for researchers and visitors alike."]
+    },
+    factsAdvanced: {
+      ro: ["Exemplu reprezentativ pentru biodiversitatea amazoniană.", "Reflectă practici sustenabile de conservare a resurselor naturale.", "Importanță majoră pentru înțelegerea ecosistemelor locale.", "Demonstrează diversitatea practicilor agricole tropicale.", "Contribuie la promovarea economiei verzi în regiune.", "Spațiu educativ despre sustenabilitate și mediu."]
+    }
+  },
     description: {
       de: "Der Bellevue de l'Inini ist der höchste Berg in Französisch-Guayana und liegt im Amazonas-Regenwald.",
       hu: "A Bellevue de l'Inini Francia Guyana legmagasabb hegye, amely az amazonasi esőerdőben található.",
@@ -188,7 +246,18 @@ export const poiExtraFrenchguianaNatureV2: POI[] = [
       hu: "Montagne des Singes",
       ro: "Montagne des Singes",
       en: "Monkey Mountain"
+    ,
+    descriptionAdvanced: {
+      ro: "Acest obiectiv natural sau agricol evidențiază bogăția biodiversității și diversitatea practicilor de cultivare specifice Guyanei Franceze. Într-un mediu dominat de pădurea amazoniană, acest loc oferă o perspectivă asupra interacțiunii umane cu natura și a eforturilor de conservare a resurselor unice. Fie că este vorba despre o rezervație naturală sau o fermă ce cultivă produse exotice, locația subliniază importanța durabilității pentru viitorul regiunii. Vizitarea acestui sit permite înțelegerea ecosistemelor locale și a tradițiilor agricole ce susțin economia verde a departamentului. Științe ale Naturii K5/K6 — ecosisteme amazoniene și agricultură tropicală.",
+      en: "The region surrounding montagne des singes nature v2 in French Guiana is a testament to the area's unique ecological and historical character. This site provides essential insights into the local development and natural preservation efforts that define the department. Visitors can explore the interplay between modern infrastructure and the lush Amazonian environment, reflecting the diverse heritage of the region. Geography K7 — ecosystems and industrial development."
     },
+    factsAdvanced: {
+      en: ["This location is central to understanding the region's growth.", "It showcases unique adaptations to the tropical environment.", "The site contributes to the ongoing conservation efforts in the Amazon.", "Industrial and natural elements coexist in this specific locale.", "Historical significance adds depth to the modern relevance of the area.", "It remains a key point of interest for researchers and visitors alike."]
+    },
+    factsAdvanced: {
+      ro: ["Exemplu reprezentativ pentru biodiversitatea amazoniană.", "Reflectă practici sustenabile de conservare a resurselor naturale.", "Importanță majoră pentru înțelegerea ecosistemelor locale.", "Demonstrează diversitatea practicilor agricole tropicale.", "Contribuie la promovarea economiei verzi în regiune.", "Spațiu educativ despre sustenabilitate și mediu."]
+    }
+  },
     description: {
       de: "Die Montagne des Singes in der Nähe von Kourou bietet Wanderwege und eine gute Aussicht auf den Weltraumbahnhof.",
       hu: "A Kourou közelében található Montagne des Singes túraútvonalakat és kiváló kilátást kínál az űrközpontra.",
@@ -223,7 +292,18 @@ export const poiExtraFrenchguianaNatureV2: POI[] = [
       hu: "Montagne de Kaw",
       ro: "Montagne de Kaw",
       en: "Kaw Mountain"
+    ,
+    descriptionAdvanced: {
+      ro: "Acest obiectiv natural sau agricol evidențiază bogăția biodiversității și diversitatea practicilor de cultivare specifice Guyanei Franceze. Într-un mediu dominat de pădurea amazoniană, acest loc oferă o perspectivă asupra interacțiunii umane cu natura și a eforturilor de conservare a resurselor unice. Fie că este vorba despre o rezervație naturală sau o fermă ce cultivă produse exotice, locația subliniază importanța durabilității pentru viitorul regiunii. Vizitarea acestui sit permite înțelegerea ecosistemelor locale și a tradițiilor agricole ce susțin economia verde a departamentului. Științe ale Naturii K5/K6 — ecosisteme amazoniene și agricultură tropicală.",
+      en: "The region surrounding montagne de kaw nature v2 in French Guiana is a testament to the area's unique ecological and historical character. This site provides essential insights into the local development and natural preservation efforts that define the department. Visitors can explore the interplay between modern infrastructure and the lush Amazonian environment, reflecting the diverse heritage of the region. Geography K7 — ecosystems and industrial development."
     },
+    factsAdvanced: {
+      en: ["This location is central to understanding the region's growth.", "It showcases unique adaptations to the tropical environment.", "The site contributes to the ongoing conservation efforts in the Amazon.", "Industrial and natural elements coexist in this specific locale.", "Historical significance adds depth to the modern relevance of the area.", "It remains a key point of interest for researchers and visitors alike."]
+    },
+    factsAdvanced: {
+      ro: ["Exemplu reprezentativ pentru biodiversitatea amazoniană.", "Reflectă practici sustenabile de conservare a resurselor naturale.", "Importanță majoră pentru înțelegerea ecosistemelor locale.", "Demonstrează diversitatea practicilor agricole tropicale.", "Contribuie la promovarea economiei verzi în regiune.", "Spațiu educativ despre sustenabilitate și mediu."]
+    }
+  },
     description: {
       de: "Die Montagne de Kaw ist Teil eines großen Naturschutzgebiets und bekannt für ihre Sumpfgebiete.",
       hu: "A Montagne de Kaw egy hatalmas természetvédelmi terület része, és mocsaras vidékeiről ismert.",
@@ -258,7 +338,18 @@ export const poiExtraFrenchguianaNatureV2: POI[] = [
       hu: "Sommet Tabulaire",
       ro: "Sommet Tabulaire",
       en: "Sommet Tabulaire"
+    ,
+    descriptionAdvanced: {
+      ro: "Acest obiectiv natural sau agricol evidențiază bogăția biodiversității și diversitatea practicilor de cultivare specifice Guyanei Franceze. Într-un mediu dominat de pădurea amazoniană, acest loc oferă o perspectivă asupra interacțiunii umane cu natura și a eforturilor de conservare a resurselor unice. Fie că este vorba despre o rezervație naturală sau o fermă ce cultivă produse exotice, locația subliniază importanța durabilității pentru viitorul regiunii. Vizitarea acestui sit permite înțelegerea ecosistemelor locale și a tradițiilor agricole ce susțin economia verde a departamentului. Științe ale Naturii K5/K6 — ecosisteme amazoniene și agricultură tropicală.",
+      en: "The region surrounding sommet tabulaire nature v2 in French Guiana is a testament to the area's unique ecological and historical character. This site provides essential insights into the local development and natural preservation efforts that define the department. Visitors can explore the interplay between modern infrastructure and the lush Amazonian environment, reflecting the diverse heritage of the region. Geography K7 — ecosystems and industrial development."
     },
+    factsAdvanced: {
+      en: ["This location is central to understanding the region's growth.", "It showcases unique adaptations to the tropical environment.", "The site contributes to the ongoing conservation efforts in the Amazon.", "Industrial and natural elements coexist in this specific locale.", "Historical significance adds depth to the modern relevance of the area.", "It remains a key point of interest for researchers and visitors alike."]
+    },
+    factsAdvanced: {
+      ro: ["Exemplu reprezentativ pentru biodiversitatea amazoniană.", "Reflectă practici sustenabile de conservare a resurselor naturale.", "Importanță majoră pentru înțelegerea ecosistemelor locale.", "Demonstrează diversitatea practicilor agricole tropicale.", "Contribuie la promovarea economiei verzi în regiune.", "Spațiu educativ despre sustenabilitate și mediu."]
+    }
+  },
     description: {
       de: "Der Sommet Tabulaire ist ein markanter Tafelberg im Zentrum von Französisch-Guayana.",
       hu: "A Sommet Tabulaire egy jellegzetes táblahegy Francia Guyana központjában.",

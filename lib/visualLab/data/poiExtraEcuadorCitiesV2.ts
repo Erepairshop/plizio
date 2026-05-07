@@ -13,7 +13,18 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
       hu: "Ecuador legnagyobb városa és legfontosabb gazdasági központja a csendes-óceáni partvidéken.",
       ro: "Cel mai mare oraș din Ecuador și principalul centru economic de pe coasta Pacificului.",
       en: "The largest city in Ecuador and the main economic center on the Pacific coast."
+    ,
+    descriptionAdvanced: {
+      de: "Guayaquil ist als wichtigstes Wirtschaftszentrum und größte Stadt Ecuadors bekannt. Gelegen am Ufer des Rio Guayas, bietet sie eine dynamische Mischung aus modernem Handel und historischen Sehenswürdigkeiten wie dem Barrio Las Peñas. Die Stadt fungiert als Haupttor für Reisende auf dem Weg zu den Galapagosinseln. Mit ihrem tropischen Klima und der lebendigen Malecón 2000 Uferpromenade zieht sie Besucher aus aller Welt an. Geografie K7 – Küstenstädte und Wirtschaftsräume.",
+      ro: "Guayaquil este inima economică a Ecuadorului, situată strategic pe râul Guayas. Ca cel mai mare port maritim al țării, aici se gestionează majoritatea comerțului internațional. Orașul oferă infrastructuri moderne precum Malecón 2000, o promenadă de 2,5 km care îmbină atracțiile turistice cu spațiile de recreere. Fondat oficial în 1538, Guayaquil a evoluat de la un port colonial la o metropolă urbană. Geografia este definită de proximitatea față de Pacific și de pădurile tropicale umede, menținând o climă caldă pe tot parcursul anului. Pentru elevii de la cursurile Plizio (Geografie K7), Guayaquil este un studiu de caz central privind rolul orașelor portuare în dezvoltarea economică."
     },
+    factsAdvanced: {
+      ro: ["Cel mai mare oraș din Ecuador cu peste 2,5 milioane de locuitori.", "Anul oficial de fondare este 1538.", "Malecón 2000 se întinde pe 2,5 kilometri.", "Principalele produse de export sunt bananele și cacao.", "Situat la doar câțiva metri deasupra nivelului mării.", "Cel mai important nod pentru comerțul exterior al Ecuadorului."]
+    },
+    factsAdvanced: {
+      de: ["Größte Stadt Ecuadors", "Wichtigster Hafen des Landes", "Gegründet im Jahr 1538", "Bekannt für die Malecón 2000", "Tropisches Savannenklima", "Heimat des Parque Seminario mit Leguanen"]
+    }
+  },
     facts: {
       de: ["Wichtigster Seehafen des Landes.", "Liegt am Río Guayas.", "Heimat des berühmten Malecón 2000.", "Wurde 1538 offiziell gegründet."],
       hu: ["Az ország legfontosabb tengeri kikötője.", "A Guayas folyó partján fekszik.", "Itt található a híres Malecón 2000 sétány.", "Hivatalosan 1538-ban alapították."],
@@ -43,7 +54,18 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
       hu: "Ecuador magasan fekvő fővárosa, amely jól megőrzött gyarmati óvárosáról híres.",
       ro: "Capitala la mare altitudine a Ecuadorului, cunoscută pentru centrul său vechi colonial bine conservat.",
       en: "The high-altitude capital of Ecuador, known for its well-preserved colonial historic center."
+    ,
+    descriptionAdvanced: {
+      de: "Quito, die Hauptstadt Ecuadors, beeindruckt durch ihre Lage in den Anden auf fast 2.850 Metern Höhe. Als eine der ersten Städte wurde ihr historisches Zentrum von der UNESCO zum Weltkulturerbe ernannt. Sie ist bekannt für ihre gut erhaltenen kolonialen Gebäude und Kirchen wie die Iglesia de la Compañía de Jesús. Die Nähe zum Äquator macht sie zu einem einzigartigen geografischen Punkt. Geografie K6 – Gebirgsstädte und Höhenklima.",
+      ro: "Quito, capitala Ecuadorului, este una dintre cele mai înalte capitale din lume, situată într-o vale îngustă a Anzilor la 2.850 de metri. Orașul este celebru pentru centrul său vechi colonial excepțional conservat, care în 1978 a devenit primul sit din lume înscris în Patrimoniul Mondial UNESCO. Geografia este definită de lanțurile vulcanice ale Anzilor, impunătorul Pichincha dominând orașul. Quito se află la doar 25 de kilometri de Ecuator, ceea ce duce la o incidență solară unică. În seria educațională Plizio (Geografie K7), Quito este adesea analizat în contextul orașelor de mare altitudine și al adaptărilor lor climatice. Pe lângă importanța istorică, Quito este un centru pentru cultură și politică în Anzi."
     },
+    factsAdvanced: {
+      ro: ["Capitala Ecuadorului", "A doua cea mai înaltă capitală din lume", "Centrul istoric este Patrimoniu Mondial UNESCO", "Situat în apropierea Ecuatorului", "Fondat peste ruine incașe în secolul al XVI-lea", "Biserica La Compañía de Jesús renumită pentru decorul din aur"]
+    },
+    factsAdvanced: {
+      de: ["Hauptstadt von Ecuador", "Zweithöchste Hauptstadt der Welt", "Historisches Zentrum UNESCO-Weltkulturerbe", "In der Nähe der Äquatorlinie gelegen", "Gründung durch Inka-Ruinen im 16. Jahrhundert", "Hauptkirche La Compañía de Jesús mit Golddekor"]
+    }
+  },
     facts: {
       de: ["Liegt auf 2.850 Metern Höhe.", "War das erste UNESCO-Weltkulturerbe.", "Befindet sich nahe dem Äquator.", "Der Vulkan Pichincha überragt die Stadt."],
       hu: ["2850 méteres magasságban fekszik.", "Ez volt az első UNESCO világörökségi helyszín.", "Az Egyenlítő közelében található.", "A Pichincha vulkán magasodik a város fölé."],
@@ -73,7 +95,18 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
       hu: "Festői andesi város, amely macskaköves utcáiról és történelmi templomairól híres.",
       ro: "Un oraș pitoresc andin, renumit pentru străzile sale pietruite și bisericile istorice.",
       en: "A picturesque Andean city famous for its cobblestone streets and historical churches."
+    ,
+    descriptionAdvanced: {
+      de: "Cuenca, die drittgrößte Stadt Ecuadors, ist berühmt für ihre koloniale Architektur und die charmante Atmosphäre am Rio Tomebamba. Die Stadt zieht viele internationale Besucher durch ihre kulturelle Vielfalt und Kunsthandwerksszene an. Das historische Zentrum mit seinen Kopfsteinpflasterstraßen und kunstvollen Kathedralen ist besonders sehenswert. Cuenca ist bekannt für die Herstellung von hochwertigen Panama-Hüten. Geografie K7 – Kulturelle Zentren in den Anden.",
+      ro: "Cuenca, numit oficial Santa Ana de los Cuatro Ríos de Cuenca, este situat în zona înaltă din sudul Ecuadorului, la 2.560 de metri. Orașul se distinge prin frumusețea sa arhitecturală, caracterizată de clădiri coloniale spaniole și străzi pietruite, ceea ce i-a adus statutul de Patrimoniu Mondial UNESCO în 1999. Din punct de vedere geografic, regiunea este definită de patru râuri care curg prin oraș: Tomebamba, Yanuncay, Tarqui și Machángara. Istoric, înainte de sosirea spaniolilor, regiunea a fost un centru al culturii Cañari și al incașilor, ale căror rămășițe pot fi găsite în apropiere (Ingapirca). Pentru pasionații de istorie (curriculum Plizio K8), Cuenca reprezintă un amestec fascinant de trecut precolumbian și planificare urbană europeană."
     },
+    factsAdvanced: {
+      ro: ["Al treilea oraș ca mărime din Ecuador", "Patrimoniu Mondial UNESCO din 1999", "Situat la 2.500 de metri altitudine", "Celebru pentru pălăriile Panama", "Centru de artizanat", "Climă blândă pe tot parcursul anului"]
+    },
+    factsAdvanced: {
+      de: ["Drittgrößte Stadt Ecuadors", "UNESCO-Welterbe seit 1999", "Gelegen auf 2.500 Metern Höhe", "Bekannt für Panama-Hüte", "Zentrum des Kunsthandwerks", "Klimatisch mild das ganze Jahr"]
+    }
+  },
     facts: {
       de: ["Zentrum der Panama-Hut-Produktion.", "Die Altstadt ist UNESCO-Weltkulturerbe.", "Wird von vier Flüssen durchquert.", "Drittgrößte Stadt Ecuadors."],
       hu: ["A panamakalap-gyártás központja.", "Az óváros UNESCO világörökség.", "Négy folyó szeli át.", "Ecuador harmadik legnagyobb városa."],
@@ -103,7 +136,18 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
       hu: "Fontos kereskedelmi csomópont Ecuador partvidéke és a hegyvidék között.",
       ro: "Un nod comercial important între coasta și regiunea muntoasă a Ecuadorului.",
       en: "A major commercial hub between the coast and the highlands of Ecuador."
+    ,
+    descriptionAdvanced: {
+      de: "Santo Domingo ist ein wichtiges Handelszentrum im Tiefland Ecuadors und dient als Knotenpunkt für die Verbindung zwischen den Anden und der Pazifikküste. Die Stadt ist bekannt für ihre landwirtschaftliche Bedeutung und ihre kulturelle Verbindung zum Volk der Tsáchila, das in der Region ansässig ist. Die Umgebung zeichnet sich durch üppige Vegetation und ein feuchtes Klima aus, das ideal für den Anbau tropischer Produkte ist. Geografie K7 – Landwirtschaftliche Regionen und Verkehrsknotenpunkte.",
+      ro: "Santo Domingo este un centru comercial vital în zonele joase ale Ecuadorului, servind drept punct de legătură între Anzi și coasta Pacificului. Orașul este recunoscut pentru importanța sa agricolă și pentru legătura sa culturală cu poporul Tsáchila, stabilit în regiune. Împrejurimile se caracterizează prin vegetație luxuriantă și o climă umedă, ideală pentru cultivarea produselor tropicale. Pentru elevii de la cursurile Plizio (Geografie K7), Santo Domingo reprezintă un studiu de caz esențial pentru înțelegerea rolului nodurilor de transport și al regiunilor agricole în dezvoltarea urbană."
     },
+    factsAdvanced: {
+      ro: ["Centru comercial important în zona joasă", "Punct de legătură între Anzi și coastă", "Căminul poporului indigen Tsáchila", "Cunoscut pentru cultivarea fructelor tropicale", "Regiune cu climă tropical-umedă", "Poziție strategică pentru transport"]
+    },
+    factsAdvanced: {
+      de: ["Wichtiges Handelszentrum im Tiefland", "Knotenpunkt zwischen Anden und Küste", "Heimat des indigenen Volks der Tsáchila", "Bekannt für den Anbau tropischer Früchte", "Klima: Tropisch-humide Region", "Strategische Verkehrslage"]
+    }
+  },
     facts: {
       de: ["Heimat der Tsáchila-Kultur.", "Viertgrößte Stadt des Landes.", "Hat ein tropisches Regenwaldklima.", "Ein wichtiges landwirtschaftliches Zentrum."],
       hu: ["A Tsáchila kultúra otthona.", "Az ország negyedik legnagyobb városa.", "Trópusi esőerdei éghajlata van.", "Jelentős mezőgazdasági központ."],
@@ -121,7 +165,18 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
       hu: "Gyakran a világ banánfővárosaként is emlegetik.",
       ro: "Adesea numită capitala mondială a bananelor.",
       en: "Often referred to as the banana capital of the world."
+    ,
+    descriptionAdvanced: {
+      de: "Machala, die Hauptstadt der Provinz El Oro, gilt als Welthauptstadt der Bananen aufgrund ihrer massiven Exporte. Sie liegt in einer fruchtbaren Küstenebene und ist das wirtschaftliche Herz des südlichen Ecuadors. Die Nähe zum Hafen Puerto Bolívar macht sie zu einem zentralen Umschlagplatz für internationale Handelswaren. Die Stadt ist durch ein lebhaftes Klima und den Einfluss des Bananenanbaus auf den Alltag der Bewohner geprägt. Industrie K8 – Exportwirtschaft und Agrarproduktion.",
+      ro: "Machala, capitala provinciei El Oro, este considerată „Capitala Mondială a Bananelor” datorită exporturilor masive. Este situată într-o câmpie fertilă de coastă și reprezintă inima economică a sudului Ecuadorului. Proximitatea față de portul Puerto Bolívar o transformă într-un centru central pentru tranzitul mărfurilor internaționale. Orașul este marcat de o climă vibrantă și de influența cultivării bananelor asupra vieții de zi cu zi a locuitorilor. În cadrul educațional Plizio (Industrie K8), Machala ilustrează perfect mecanismele economiei de export și ale producției agricole intensive."
     },
+    factsAdvanced: {
+      ro: ["Cunoscută drept Capitala Mondială a Bananelor", "Capitala provinciei El Oro", "Port central: Puerto Bolívar", "Centrul economic al sudului", "Câmpie fertilă de coastă", "Economie de export dominantă"]
+    },
+    factsAdvanced: {
+      de: ["Bekannt als Welthauptstadt der Bananen", "Hauptstadt der Provinz El Oro", "Zentraler Hafen: Puerto Bolívar", "Wirtschaftliches Zentrum des Südens", "Fruchtbare Küstenebene", "Dominante Exportwirtschaft"]
+    }
+  },
     facts: {
       de: ["Hauptstadt der Provinz El Oro.", "Wichtiger Exporthafen in der Nähe (Puerto Bolívar).", "Das jährliche Bananenfest zieht viele Besucher an.", "Die Landwirtschaft dominiert die lokale Wirtschaft."],
       hu: ["El Oro tartomány fővárosa.", "Fontos exportkikötő a közelben (Puerto Bolívar).", "Az éves banánfesztivál sok látogatót vonz.", "A mezőgazdaság dominálja a helyi gazdaságot."],
@@ -139,7 +194,18 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
       hu: "Ipari város, amelyet egy híd köt össze Guayaquillal a Guayas folyó felett.",
       ro: "Un oraș industrial conectat la Guayaquil printr-un pod peste râul Guayas.",
       en: "An industrial city connected to Guayaquil by a bridge over the Guayas River."
+    ,
+    descriptionAdvanced: {
+      de: "Duran liegt strategisch günstig am östlichen Ufer des Rio Guayas gegenüber von Guayaquil und ist ein bedeutender Industriestandort. Die Stadt ist ein wichtiger logistischer Hub, der das Schienennetz mit dem Flusshafen verbindet. Durch ihre Lage fungiert sie als Pendlerstadt für das benachbarte Guayaquil. Die industrielle Entwicklung der letzten Jahrzehnte hat Duran zu einem wichtigen Wirtschaftszentrum in der Küstenregion geformt. Industrie K8 – Logistik und urbane Zentren.",
+      ro: "Duran este situat strategic pe malul estic al râului Guayas, vizavi de Guayaquil, fiind un important centru industrial. Orașul funcționează ca un nod logistic vital, care conectează rețeaua feroviară cu portul fluvial. Datorită locației sale, servește ca oraș-dormitor pentru Guayaquil. Dezvoltarea industrială din ultimele decenii a transformat Duran într-un centru economic major în regiunea de coastă. Pentru elevii de la cursurile Plizio (Industrie K8), orașul oferă perspective valoroase asupra logisticii și dezvoltării centrelor urbane moderne."
     },
+    factsAdvanced: {
+      ro: ["Locație industrială importantă", "Nod logistic pe râul Guayas", "Punct de legătură între cale ferată și port", "Oraș vecin cu Guayaquil", "Dezvoltare industrială puternică", "Nod major pentru navetiști"]
+    },
+    factsAdvanced: {
+      de: ["Wichtiger Industriestandort", "Logistik-Hub am Rio Guayas", "Verbindungspunkt für Schiene und Hafen", "Nachbarstadt von Guayaquil", "Starke industrielle Entwicklung", "Bedeutender Pendlerknotenpunkt"]
+    }
+  },
     facts: {
       de: ["Wichtiger Eisenbahnknotenpunkt in der Vergangenheit.", "Teil der Metropolregion Guayaquil.", "Stark industrialisiert.", "Schnell wachsende Bevölkerung."],
       hu: ["A múltban fontos vasúti csomópont volt.", "A guayaquili nagyvárosi régió része.", "Erősen iparosodott város.", "Gyorsan növekvő népességgel rendelkezik."],
@@ -157,7 +223,18 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
       hu: "Ecuador egyik legnagyobb kikötővárosa, amely a tonhalhalászatról és szép strandjairól híres.",
       ro: "Unul dintre cele mai mari porturi din Ecuador, faimos pentru pescuitul de ton și plajele frumoase.",
       en: "One of the largest port cities in Ecuador, famous for tuna fishing and beautiful beaches."
+    ,
+    descriptionAdvanced: {
+      de: "Manta ist eine der wichtigsten Hafenstädte an der Pazifikküste Ecuadors und ist weithin für ihre Fischereiindustrie, insbesondere den Thunfischfang, bekannt. Die Stadt bietet zahlreiche Strände, von denen der Playa Murciélago besonders beliebt ist. Manta dient als bedeutendes Tor für den internationalen Handel und ist ein Anlaufpunkt für Kreuzfahrtschiffe. Das dynamische Wachstum der Stadt in den letzten Jahrzehnten hat sie zu einem touristischen Anziehungspunkt an der sogenannten Sonnenroute gemacht. Geografie K7 – Küstenwirtschaft und Tourismus.",
+      ro: "Manta este unul dintre cele mai importante orașe portuare de pe coasta Pacificului din Ecuador și este renumit pentru industria sa pescărească, în special pentru pescuitul de ton. Orașul oferă numeroase plaje, printre care Playa Murciélago este deosebit de populară. Manta servește ca o poartă semnificativă pentru comerțul internațional și este o oprire frecventă pentru navele de croazieră. Creșterea dinamică a orașului în ultimele decenii l-a transformat într-un punct de atracție turistică de-a lungul așa-numitei „Rute a Soarelui”. Pentru elevii Plizio (Geografie K7), Manta este un exemplu excelent al interacțiunii dintre economia maritimă și turism."
     },
+    factsAdvanced: {
+      ro: ["Centrul industriei de pescuit de ton", "Port semnificativ la Pacific", "Destinație turistică populară (Ruta Soarelui)", "Cunoscut pentru Playa Murciélago", "Punct de oprire pentru navele de croazieră", "Dezvoltare industrială puternică"]
+    },
+    factsAdvanced: {
+      de: ["Zentrum der Thunfischindustrie", "Bedeutender Pazifikhafen", "Beliebtes Touristenziel (Sonnenroute)", "Bekannt für den Playa Murciélago", "Anlaufstelle für Kreuzfahrtschiffe", "Starke industrielle Entwicklung"]
+    }
+  },
     facts: {
       de: ["Zentrum der ecuadorianischen Thunfischindustrie.", "Zweitgrößter Seehafen des Landes.", "Ein beliebtes Ziel für Kreuzfahrtschiffe.", "Die Kultur der Manteño florierte hier vor der Kolonialisierung."],
       hu: ["Az ecuadori tonhalipar központja.", "Az ország második legnagyobb tengeri kikötője.", "Népszerű célpont a tengerjáró hajók számára.", "A Manteño kultúra virágzott itt a gyarmatosítás előtt."],
@@ -175,7 +252,18 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
       hu: "A királyi tamarinduszok városaként is ismert a környéken található sok fa miatt.",
       ro: "Cunoscut ca orașul Tamarindelor Regale datorită numeroșilor copaci din zonă.",
       en: "Known as the City of the Royal Tamarinds due to the many trees in the area."
+    ,
+    descriptionAdvanced: {
+      de: "Portoviejo ist die Hauptstadt der Provinz Manabí und wird aufgrund ihrer landschaftlichen Schönheit als 'Stadt der königlichen Tamarinden' bezeichnet. Sie liegt in einer landwirtschaftlich geprägten Region und spielt eine zentrale Rolle für den Handel mit agrarischen Erzeugnissen im Landesinneren von Manabí. Trotz ihrer Lage im Binnenland ist sie kulturell eng mit der gesamten Provinz verbunden und fungiert als Verwaltungszentrum. Das Klima ist tropisch und begünstigt eine vielfältige Flora. Landwirtschaft K6 – Regionale Handelszentren.",
+      ro: "Portoviejo este capitala provinciei Manabí și, datorită frumuseții sale peisagistice, este numit „Orașul Tamarindelor Regale”. Este situat într-o regiune marcată de agricultură și joacă un rol central în comerțul cu produse agricole în interiorul provinciei Manabí. În ciuda locației sale interioare, orașul este strâns legat cultural de întreaga provincie și funcționează ca centru administrativ. Clima este tropicală, favorizând o floră diversificată. În programa Plizio (Agricultură K6), Portoviejo este studiat ca un nod comercial regional vital pentru economia agrară."
     },
+    factsAdvanced: {
+      ro: ["Capitala provinciei Manabí", "Numit 'Orașul Tamarindelor Regale'", "Centru comercial regional pentru produse agricole", "Centru administrativ al regiunii", "Climă tropicală", "Semnificativ pentru cultura locală"]
+    },
+    factsAdvanced: {
+      de: ["Hauptstadt der Provinz Manabí", "Genannt 'Stadt der königlichen Tamarinden'", "Regionales Handelszentrum für Agrarprodukte", "Verwaltungszentrum der Region", "Tropisches Klima", "Bedeutend für lokale Kultur"]
+    }
+  },
     facts: {
       de: ["Hauptstadt der Provinz Manabí.", "Eine der ältesten Städte an der Küste Ecuadors.", "Wichtiges landwirtschaftliches Zentrum für Kaffee und Kakao.", "Wurde 1535 gegründet."],
       hu: ["Manabí tartomány fővárosa.", "Az ecuadori partvidék egyik legrégebbi városa.", "Fontos kávé- és kakaótermesztő központ.", "1535-ben alapították."],
@@ -193,7 +281,18 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
       hu: "A fehér várost gyarmati fehér homlokzatai és kellemes klímája miatt kedvelik.",
       ro: "Orașul alb este apreciat pentru fațadele sale coloniale albe și clima plăcută.",
       en: "The white city is appreciated for its colonial white facades and pleasant climate."
+    ,
+    descriptionAdvanced: {
+      de: "Ibarra, gelegen im Norden Ecuadors am Fuße des Vulkans Imbabura, ist berühmt als die 'Stadt der weißen Türme' aufgrund ihrer kolonialen Architektur. Die Stadt liegt in einem fruchtbaren Tal und ist umgeben von zahlreichen Seen, darunter der berühmte Yaguarcocha-See. Aufgrund ihrer angenehmen klimatischen Bedingungen wird sie oft als 'Stadt des ewigen Frühlings' bezeichnet. Sie dient als wichtiges kulturelles Zentrum für die indigene Bevölkerung der Region Imbabura. Geografie K7 – Hochlandtäler und Vulkanlandschaften.",
+      ro: "Ibarra, situat în nordul Ecuadorului la poalele vulcanului Imbabura, este faimos ca „Orașul Turnurilor Albe” datorită arhitecturii sale coloniale. Orașul este situat într-o vale fertilă și este înconjurat de numeroase lacuri, inclusiv celebrul lac Yaguarcocha. Datorită condițiilor climatice plăcute, este adesea numit „Orașul Primăverii Eterne”. Ibarra servește drept centru cultural important pentru populația indigenă din regiunea Imbabura. Pentru cursurile Plizio (Geografie K7), orașul oferă perspective asupra văilor din zonele montane înalte și a peisajelor vulcanice."
     },
+    factsAdvanced: {
+      ro: ["Numit 'Orașul Turnurilor Albe'", "Situat la poalele vulcanului Imbabura", "Aproape de celebrul lac Yaguarcocha", "Cunoscut ca 'Orașul Primăverii Eterne'", "Centru cultural important", "Situat într-o vale fertilă"]
+    },
+    factsAdvanced: {
+      de: ["Genannt 'Stadt der weißen Türme'", "Gelegen am Fuße des Imbabura-Vulkans", "Nahe dem berühmten Yaguarcocha-See", "Bekannt als 'Stadt des ewigen Frühlings'", "Wichtiges kulturelles Zentrum", "Fruchtbare Tal-Lage"]
+    }
+  },
     facts: {
       de: ["Hauptstadt der Provinz Imbabura.", "Liegt am Fuß des Vulkans Imbabura.", "Berühmt für das Eis Helados de Paila.", "Wurde 1606 gegründet."],
       hu: ["Imbabura tartomány fővárosa.", "Az Imbabura vulkán lábánál fekszik.", "Híres a Helados de Paila nevű fagylaltjáról.", "1606-ban alapították."],
@@ -211,7 +310,18 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
       hu: "Dinamikus kereskedelmi központ, amely egy gazdag mezőgazdasági régió mélyén fekszik.",
       ro: "Un centru comercial dinamic situat adânc într-o regiune agricolă bogată.",
       en: "A dynamic commercial center set deep within a rich agricultural region."
+    ,
+    descriptionAdvanced: {
+      de: "Quevedo ist ein bedeutendes landwirtschaftliches Handelszentrum in der Provinz Los Ríos und gilt als einer der wichtigsten Knotenpunkte für den Handel mit Bananen, Kakao und Kaffee. Die Stadt wuchs rasch durch den wirtschaftlichen Aufschwung der Agrarprodukte und zieht viele Menschen aus der Region an. Durch ihre zentrale Lage in der Küstenebene ist sie ein wichtiger Umschlagplatz für Waren, die für den Export bestimmt sind. Quevedo ist für sein geschäftiges Treiben und seinen großen Markt bekannt. Geografie K7 – Agrarwirtschaftszentren.",
+      ro: "Quevedo este un centru comercial agricol semnificativ în provincia Los Ríos și este considerat unul dintre cele mai importante puncte de tranzit pentru comerțul cu banane, cacao și cafea. Orașul a crescut rapid datorită avântului economic al produselor agricole și atrage mulți oameni din regiune. Datorită locației sale centrale în câmpia de coastă, este un punct de transbordare vital pentru mărfurile destinate exportului. Quevedo este cunoscut pentru activitatea sa comercială intensă și pentru piața sa vastă. În programa educațională Plizio (Geografie K7), Quevedo servește drept studiu de caz pentru centrele de economie agrară."
     },
+    factsAdvanced: {
+      ro: ["Punct comercial important pentru banane", "Centru de comerț cu cacao și cafea", "Oraș în creștere rapidă în Los Ríos", "Locație centrală în câmpia de coastă", "Punct de transbordare vital", "Cunoscut pentru piața sa locală"]
+    },
+    factsAdvanced: {
+      de: ["Wichtiger Handelsplatz für Bananen", "Zentrum des Kakao- und Kaffeehandels", "Wachstumsstarke Stadt in Los Ríos", "Zentrale Lage in der Küstenebene", "Bedeutender Umschlagplatz", "Bekannt für den lokalen Markt"]
+    }
+  },
     facts: {
       de: ["Eines der wichtigsten landwirtschaftlichen Zentren des Landes.", "Liegt am Río Quevedo.", "Hat eine große chinesische Gemeinde.", "Bekannt für die Produktion von Kakao und Bananen."],
       hu: ["Az ország egyik legfontosabb mezőgazdasági központja.", "A Quevedo folyó partján fekszik.", "Jelentős kínai közösséggel rendelkezik.", "Kakaó- és banántermesztéséről ismert."],
@@ -229,7 +339,18 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
       hu: "Ecuador zenei és kulturális fővárosának tartják.",
       ro: "Considerată capitala muzicală și culturală a Ecuadorului.",
       en: "Considered the musical and cultural capital of Ecuador."
+    ,
+    descriptionAdvanced: {
+      de: "Loja, im Süden Ecuadors gelegen, ist bekannt als die Musik- und Kulturhauptstadt des Landes. Die Stadt zeichnet sich durch ihre hügelige Lage und ihre sauberen, gut gepflegten Parks aus. Als eine der ältesten Städte Ecuadors bewahrt sie stolz ihre koloniale Geschichte und ihre Traditionen. In der Umgebung befinden sich einzigartige Ökosysteme, darunter der Nationalpark Podocarpus, der für seine Artenvielfalt geschätzt wird. Die Musiktradition der Stadt ist landesweit bekannt. Kulturelle Identität K8 – Musik und Geschichte.",
+      ro: "Loja, situată în sudul Ecuadorului, este cunoscută drept capitala muzicii și a culturii din țară. Orașul se caracterizează prin locația sa deluroasă și prin parcurile sale curate și bine întreținute. Fiind unul dintre cele mai vechi orașe din Ecuador, păstrează cu mândrie istoria sa colonială și tradițiile. În împrejurimi se află ecosisteme unice, inclusiv Parcul Național Podocarpus, apreciat pentru biodiversitatea sa. Tradiția muzicală a orașului este cunoscută la nivel național. În cadrul educațional Plizio (Cultură K8), Loja este studiată pentru identitatea sa muzicală și istorică."
     },
+    factsAdvanced: {
+      ro: ["Capitala muzicii și culturii din Ecuador", "Unul dintre cele mai vechi orașe ale țării", "Aproape de Parcul Național Podocarpus", "Celebră pentru tradițiile coloniale", "Cunoscută pentru parcurile urbane curate", "Centru cultural în sudul țării"]
+    },
+    factsAdvanced: {
+      de: ["Musik- und Kulturhauptstadt Ecuadors", "Eine der ältesten Städte des Landes", "Nähe zum Nationalpark Podocarpus", "Berühmt für koloniale Traditionen", "Bekannt für saubere Stadtparks", "Kulturelles Zentrum im Süden"]
+    }
+  },
     facts: {
       de: ["Eine der ältesten Städte in Ecuador (gegründet 1548).", "Pionier bei der Nutzung von erneuerbarer Energie.", "Gastgeber des internationalen Kunstfestivals von Loja.", "In der Nähe liegt das Langlebigkeits-Dorf Vilcabamba."],
       hu: ["Ecuador egyik legrégebbi városa (1548-ban alapították).", "Úttörő a megújuló energia használatában.", "A lojai nemzetközi művészeti fesztivál házigazdája.", "A közelben fekszik a hosszú élet falva, Vilcabamba."],
@@ -247,7 +368,18 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
       hu: "A virágok és gyümölcsök városa, amely az azonos nevű éves fesztiváljáról híres.",
       ro: "Orașul florilor și fructelor, faimos pentru festivalul anual cu același nume.",
       en: "The city of flowers and fruits, famous for its annual festival of the same name."
+    ,
+    descriptionAdvanced: {
+      de: "Ambato, die Hauptstadt der Provinz Tungurahua, liegt im zentralen Hochland und ist berühmt für das jährliche Festival der Früchte und Blumen. Die Stadt wurde nach einem schweren Erdbeben im Jahr 1949 weitgehend neu aufgebaut und präsentiert sich heute als modernes wirtschaftliches Zentrum der Region. Sie ist bekannt für ihre Schuhindustrie und den Handel mit Lederwaren. Ambato fungiert als wichtiges kulturelles und kommerzielles Bindeglied zwischen den Anden und dem Amazonasbecken. Industrie K8 – Wirtschaftliche Entwicklung nach Naturereignissen.",
+      ro: "Ambato, capitala provinciei Tungurahua, este situată în zonele înalte centrale și este celebră pentru Festivalul anual al Fructelor și Florilor. Orașul a fost în mare parte reconstruit după un cutremur devastator în 1949 și se prezintă astăzi ca un centru economic modern al regiunii. Este cunoscut pentru industria încălțămintei și comerțul cu articole din piele. Ambato servește ca o legătură culturală și comercială importantă între Anzi și bazinul Amazonului. În programa Plizio (Industrie K8), Ambato este un exemplu despre dezvoltarea economică post-catastrofe naturale."
     },
+    factsAdvanced: {
+      ro: ["Capitala provinciei Tungurahua", "Cunoscut pentru 'Festivalul Fructelor și Florilor'", "Reconstrucție după cutremurul din 1949", "Centru al industriei încălțămintei", "Comerț cu articole din piele", "Legătură economică între Anzi și Amazon"]
+    },
+    factsAdvanced: {
+      de: ["Hauptstadt der Provinz Tungurahua", "Bekannt für das 'Festival der Früchte und Blumen'", "Wiederaufbau nach Erdbeben 1949", "Zentrum der Schuhindustrie", "Handel mit Lederwaren", "Wirtschaftliches Bindeglied zwischen Anden und Amazonas"]
+    }
+  },
     facts: {
       de: ["Wurde 1949 durch ein schweres Erdbeben fast zerstört.", "Ein wichtiges industrielles Zentrum.", "Die Fiesta de las Flores y las Frutas ist weltbekannt.", "Liegt im Tal des Río Ambato."],
       hu: ["1949-ben egy súlyos földrengés majdnem elpusztította.", "Fontos ipari központ.", "A Fiesta de las Flores y las Frutas világszerte ismert.", "Az Ambato folyó völgyében fekszik."],
@@ -265,7 +397,14 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
       hu: "Fontos tengerparti város, amely afro-ecuadori kultúrájáról és olajfinomítóiról ismert.",
       ro: "Un important oraș de coastă cunoscut pentru cultura sa afro-ecuadoriană și rafinării.",
       en: "An important coastal town known for its Afro-Ecuadorian culture and oil refineries."
+    ,
+    descriptionAdvanced: {
+      de: "Esmeraldas, eine der wichtigsten Küstenstädte im Norden Ecuadors, ist geprägt durch ihre afro-ecuadorianische Kultur und ihre lebendige Geschichte. Die Stadt liegt in einer Region, die für ihre Dschungellandschaften und Strände bekannt ist, wie etwa den berühmten Strand von Atacames in der Nähe. Sie dient als wichtiger Hafen für den Export von Erdöl und landwirtschaftlichen Produkten. Die kulturelle Identität der Bewohner, die stark durch Musik und Tanz wie die Marimba geprägt ist, zieht viele Besucher an, die die authentische Seite der ecuadorianischen Küste erleben möchten. Geografie K7 – Küstenkulturen und Industrie."
     },
+    factsAdvanced: {
+      de: ["Wichtiger Hafen für Erdölexport", "Zentrum der afro-ecuadorianischen Kultur", "Bekannt für Marimba-Musik und Tanz", "Region mit ausgedehnten Dschungellandschaften", "Nähe zum beliebten Strand von Atacames", "Strategisch bedeutende Küstenlage"]
+    }
+  },
     facts: {
       de: ["Hat den wichtigsten Ölhafen des Landes.", "Zentrum der Marimba-Musik.", "Wurde 1526 von Spaniern entdeckt.", "Das Klima ist heiß und feucht."],
       hu: ["Itt található az ország legfontosabb olajkikötője.", "A marimba zene központja.", "1526-ban fedezték fel a spanyolok.", "Az éghajlat forró és párás."],
@@ -283,7 +422,14 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
       hu: "Gyakran az Andok szultánájának nevezik, amelyet hóval borított vulkánok vesznek körül.",
       ro: "Adesea numit Sultana Anzilor, înconjurat de vulcani acoperiți de zăpadă.",
       en: "Often called the Sultana of the Andes, surrounded by snow-capped volcanoes."
+    ,
+    descriptionAdvanced: {
+      de: "Riobamba, das im Zentrum des ecuadorianischen Hochlands liegt, wird oft als die 'Stadt der Sultanin' bezeichnet und ist von mehreren Vulkanen umgeben, darunter der Chimborazo, der höchste Berg Ecuadors. Die Stadt ist ein wichtiger Knotenpunkt für den Handel in der Region und bietet einen atemberaubenden Blick auf die Anden-Gipfel. Sie ist bekannt für ihre historische Bedeutung als erste spanische Stadt, die in der ecuadorianischen Sierra gegründet wurde. Riobamba ist ein Ausgangspunkt für Abenteuertouristen, die Bergsteigen oder Trekking in den umliegenden Nationalparks unternehmen möchten. Geografie K7 – Hochgebirge und Bergsteigerregionen."
     },
+    factsAdvanced: {
+      de: ["In der Nähe des Chimborazo (höchster Gipfel)", "Erste spanische Stadtgründung in der Sierra", "Bedeutender Knotenpunkt für den Handel", "Ausgangspunkt für Trekking und Bergsteigen", "Panoramablick auf mehrere Vulkane", "Kulturelles Zentrum des Hochlands"]
+    }
+  },
     facts: {
       de: ["Der Chimborazo, Ecuadors höchster Berg, ist nahe.", "Die erste ecuadorianische Verfassung wurde hier 1830 unterzeichnet.", "Ein wichtiger Knotenpunkt für den Zugverkehr.", "Bekannt für den bunten indigenen Markt."],
       hu: ["A Chimborazo, Ecuador legmagasabb hegye a közelben található.", "Az első ecuadori alkotmányt itt írták alá 1830-ban.", "Fontos vasúti csomópont.", "Színes őslakos piacáról ismert."],
@@ -301,7 +447,14 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
       hu: "Ecuador legédesebb városa, amelyet a kiterjedt cukornádtermesztésről neveztek el így.",
       ro: "Cel mai dulce oraș din Ecuador, numit astfel datorită producției extinse de trestie de zahăr.",
       en: "The sweetest city in Ecuador, named after its extensive sugarcane production."
+    ,
+    descriptionAdvanced: {
+      de: "Milagro, gelegen in der fruchtbaren Küstenebene in der Nähe von Guayaquil, ist als die 'Stadt des Zuckers' bekannt, da sie das Zentrum der ecuadorianischen Zuckerrohrproduktion bildet. Die Stadt ist umgeben von weitläufigen Plantagen und ist ein wichtiges Zentrum für die Verarbeitung landwirtschaftlicher Erzeugnisse. Milagro profitiert von seiner Lage in der Region Guayas, was sie zu einem bedeutenden Handelsort macht. Das Klima ist heiß und feucht, was die landwirtschaftliche Produktivität in diesem Gebiet erheblich begünstigt. Landwirtschaft K8 – Zuckerrohr- und Agrarwirtschaft."
     },
+    factsAdvanced: {
+      de: ["Genannt 'Stadt des Zuckers'", "Zentrum der Zuckerrohrproduktion", "Umgeben von großen Plantagen", "Wichtiger Ort für Agrarverarbeitung", "Strategische Lage in der Region Guayas", "Heißes und feuchtes Klima"]
+    }
+  },
     facts: {
       de: ["Einer der Hauptproduzenten von Zucker und Ananas.", "Befindet sich im Guayas-Becken.", "Sehr fruchtbare Böden umgeben die Stadt.", "Wächst aufgrund seiner Nähe zu Guayaquil schnell."],
       hu: ["A cukor és az ananász egyik fő termelője.", "A Guayas-medencében található.", "Nagyon termékeny talajok veszik körül a várost.", "Gyorsan növekszik Guayaquil közelsége miatt."],
@@ -319,7 +472,14 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
       hu: "Gyarmati város a Cotopaxi vulkán közelében, amely a Mama Negra fesztiválról ismert.",
       ro: "Un oraș colonial aproape de vulcanul Cotopaxi, faimos pentru festivalul Mama Negra.",
       en: "A colonial town near the Cotopaxi volcano, known for the Mama Negra festival."
+    ,
+    descriptionAdvanced: {
+      de: "Latacunga, die Hauptstadt der Provinz Cotopaxi, liegt im Andenhochland und ist berühmt für das farbenfrohe Festival der 'Mama Negra'. Die Stadt ist ein bedeutendes Zentrum für den Handel und dient als wichtiger Ausgangspunkt für den Besuch des Cotopaxi-Nationalparks, einem der bekanntesten Reiseziele in Ecuador mit dem aktiven Vulkan Cotopaxi. Latacunga hat ein kühles Andenklima und ist bekannt für seine koloniale Architektur sowie seine Märkte, die traditionelle Kunsthandwerke der Region präsentieren. Geografie K7 – Hochlandstädte und Vulkanismus."
     },
+    factsAdvanced: {
+      de: ["Hauptstadt der Provinz Cotopaxi", "Berühmt für das Festival 'Mama Negra'", "Ausgangspunkt zum Cotopaxi-Nationalpark", "Aktiver Vulkan Cotopaxi in der Nähe", "Kühles Andenklima", "Traditionelles Kunsthandwerk auf den Märkten"]
+    }
+  },
     facts: {
       de: ["Mehrfach durch Vulkanausbrüche zerstört und wieder aufgebaut.", "Zentrum der Rosenzucht für den Export.", "Die Architektur weist viel dunkles Vulkangestein auf.", "Das Mama Negra Fest vereint indigene, spanische und afrikanische Kulturen."],
       hu: ["Vulkánkitörések többször elpusztították, majd újjáépítették.", "Az exportra szánt rózsatermesztés központja.", "Az építészet sok sötét vulkáni kőzetet használ.", "A Mama Negra fesztivál ötvözi az őslakos, spanyol és afrikai kultúrákat."],
@@ -337,7 +497,14 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
       hu: "A Santa Elena-félsziget gazdasági központja és a tengerpart fontos csomópontja.",
       ro: "Centrul economic al peninsulei Santa Elena și un nod important de pe coastă.",
       en: "The economic center of the Santa Elena Peninsula and an important coastal hub."
+    ,
+    descriptionAdvanced: {
+      de: "La Libertad liegt auf der Santa-Elena-Halbinsel an der Pazifikküste und ist ein wichtiges Zentrum für den Handel und die Ölindustrie in der Region. Die Stadt zeichnet sich durch ihre Nähe zu den bekannten Stränden von Salinas aus, was sie zu einem beliebten Knotenpunkt für Touristen macht, die die Küstenregion besuchen. La Libertad hat eine lebendige lokale Atmosphäre mit bedeutenden Fischereimärkten und einer wachsenden städtischen Infrastruktur. Das Klima ist durch den Einfluss des Pazifiks mild und trocken. Geografie K7 – Küstenentwicklung und Fischerei."
     },
+    factsAdvanced: {
+      de: ["Gelegen auf der Santa-Elena-Halbinsel", "Wichtiges Zentrum der Ölindustrie", "Knotenpunkt in der Nähe von Salinas", "Bedeutende Fischereimärkte", "Mildes, trockenes Küstenklima", "Wachsende urbane Infrastruktur"]
+    }
+  },
     facts: {
       de: ["Größte Stadt in der Provinz Santa Elena.", "Wichtiger Ort für Ölraffinerien und Handel.", "Hat belebte Märkte nahe dem Strand.", "Wurde 1993 eine unabhängige Gemeinde."],
       hu: ["A legnagyobb város Santa Elena tartományban.", "Olajfinomítók és a kereskedelem fontos központja.", "Nyüzsgő piacokkal rendelkezik a strand közelében.", "1993-ban lett független önkormányzat."],
@@ -355,7 +522,14 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
       hu: "Folyóparti város, amelyet buja természet és nagy rizsföldek vesznek körül.",
       ro: "Un oraș pe râu înconjurat de natură luxuriantă și mari câmpuri de orez.",
       en: "A river city surrounded by lush nature and large rice fields."
+    ,
+    descriptionAdvanced: {
+      de: "Babahoyo, die Hauptstadt der Provinz Los Ríos, liegt im Tiefland der Küstenregion und wird oft als 'Hauptstadt des Flusses' bezeichnet, da sie durch mehrere Wasserwege verbunden ist. Die Stadt ist ein zentraler Umschlagplatz für die landwirtschaftliche Produktion, insbesondere für Reis, Bananen und tropische Früchte. Die Region zeichnet sich durch fruchtbare Ebenen und ein feuchtes tropisches Klima aus, das ideal für die intensive Agrarwirtschaft ist. Die Stadt spielt eine wichtige Rolle bei der Versorgung der umliegenden Regionen mit landwirtschaftlichen Gütern. Landwirtschaft K6 – Fluvial-Handelszentren."
     },
+    factsAdvanced: {
+      de: ["Hauptstadt der Provinz Los Ríos", "Genannt 'Hauptstadt des Flusses'", "Zentraler Umschlagplatz für Agrarprodukte", "Produktion von Reis und Bananen", "Fruchtbare Tiefland-Ebene", "Feuchtes tropisches Klima"]
+    }
+  },
     facts: {
       de: ["Hauptstadt der Provinz Los Ríos.", "Liegt an den Ufern des Río Babahoyo.", "Traditionelle Schwimmhäuser sind hier noch zu sehen.", "Wichtiger Produzent von Reis und Kakao."],
       hu: ["Los Ríos tartomány fővárosa.", "A Babahoyo folyó partján fekszik.", "A hagyományos úszó házak még mindig láthatók itt.", "Jelentős rizs- és kakaótermelő."],
@@ -373,7 +547,14 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
       hu: "Quito csendes külvárosa, amely hagyományos sertéshúsételéről, a Hornadóról híres.",
       ro: "O suburbie liniștită a orașului Quito, faimoasă pentru preparatul său tradițional din carne de porc, Hornado.",
       en: "A quiet suburb of Quito, famous for its traditional pork dish Hornado."
+    ,
+    descriptionAdvanced: {
+      de: "Sangolquí ist ein schnell wachsender Vorort der Hauptstadt Quito und liegt im malerischen Tal von Los Chillos. Die Stadt ist für ihre kulinarischen Spezialitäten bekannt, insbesondere das traditionelle Gericht 'Hornado', ein geschmorter Schweinebraten, das Besucher aus dem ganzen Land anlockt. Aufgrund seiner angenehmen Höhenlage und der Nähe zur Hauptstadt hat sich Sangolquí zu einem attraktiven Wohnort und einem wichtigen kommerziellen Zentrum in der Provinz Pichincha entwickelt. Die Umgebung bietet zudem schöne Möglichkeiten für Wanderungen in der vorandinen Landschaft. Geografie K6 – Urbane Entwicklung im Umland."
     },
+    factsAdvanced: {
+      de: ["Vorort der Hauptstadt Quito", "Gelegen im Tal von Los Chillos", "Berühmt für das Gericht 'Hornado'", "Wichtiges kommerzielles Zentrum in Pichincha", "Angenehmes Klima durch Höhenlage", "Attraktiver Wohnort nahe Quito"]
+    }
+  },
     facts: {
       de: ["Teil des Rumiñahui-Kantons.", "Sehr beliebt als Wochenendausflug für die Einwohner von Quito.", "Gastgeber zahlreicher farbenfroher Straßenmärkte.", "Nahe dem Pasochoa-Naturreservat gelegen."],
       hu: ["A Rumiñahui kanton része.", "Nagyon népszerű hétvégi kirándulóhely a quitóiak körében.", "Számos színes utcai piacnak ad otthont.", "A Pasochoa Természetvédelmi Terület közelében fekszik."],
@@ -391,7 +572,14 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
       hu: "Ecuador rizsfővárosaként ismert e gabona hatalmas termelése miatt.",
       ro: "Cunoscută drept capitala orezului din Ecuador datorită producției enorme a acestei cereale.",
       en: "Known as the rice capital of Ecuador due to the enormous production of this grain."
+    ,
+    descriptionAdvanced: {
+      de: "Daule, in der Provinz Guayas gelegen, ist ein wichtiges agrarisches Zentrum, das vor allem für seinen Reisbau bekannt ist. Die Stadt befindet sich am Ufer des Rio Daule und profitiert von den fruchtbaren Böden entlang des Flusses. Aufgrund ihres wirtschaftlichen Wachstums und der Nähe zu Guayaquil hat sich Daule zu einer der am schnellsten wachsenden Städte der Region entwickelt. Sie dient als zentraler Handelsplatz für die landwirtschaftliche Produktion des umliegenden Tieflandes. Landwirtschaft K7 – Reisproduktion und regionale Ökonomie."
     },
+    factsAdvanced: {
+      de: ["Zentrum des Reisbaus in der Provinz Guayas", "Gelegen am Ufer des Rio Daule", "Fruchtbare Böden entlang des Flusses", "Eine der am schnellsten wachsenden Städte", "Zentraler Handelsplatz für Agrarprodukte", "Wirtschaftlich eng verbunden mit Guayaquil"]
+    }
+  },
     facts: {
       de: ["Liegt am Río Daule.", "Hat historische ländliche Haciendas.", "Ein bedeutender Teil der Wirtschaft beruht auf der Landwirtschaft.", "Die Stadt verzeichnet in letzter Zeit ein starkes städtisches Wachstum."],
       hu: ["A Daule folyó partján fekszik.", "Történelmi vidéki haciendái vannak.", "A gazdaság jelentős része a mezőgazdaságon alapul.", "A város az utóbbi időben erős városi növekedést mutat."],

@@ -145,7 +145,7 @@ export const poiExtraIrelandCities: POI[] = [
         "Wichtiger Standort nahe dem internationalen Flughafen Dublin.",
         "Seit den 1990er Jahren starkes Bevölkerungswachstum.",
         "Beherbergt das Fingal County Council als Sitz der Verwaltung.",
-        "Die St. Columba’s Church besitzt einen seltenen Rundturm."
+        "Die St. Columba's Church besitzt einen seltenen Rundturm."
       ],
       hu: [
         "Szerzetesi településként jött létre 560 körül.",

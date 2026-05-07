@@ -409,7 +409,7 @@ export const poiExtraDemocraticrepublicofcongoHistoryV2: POI[] = [
     description: {
       de: "Gbadolite, bekannt als 'Versailles im Dschungel', war die luxuriöse Residenz von Mobutu Sese Seko, die heute eine verfallene Ruine ist.",
       hu: "A 'dzsungel Versailles-aként' ismert Gbadolite Mobutu Sese Seko luxusrezidenciája volt, amely ma már csak egy romos épület.",
-      ro: "Gbadolite, cunoscut sub numele de „Versailles în junglă”, a fost reședința luxoasă a lui Mobutu Sese Seko, acum o ruină degradată.",
+      ro: "Gbadolite, cunoscut sub numele de \"Versailles în junglă\", a fost reședința luxoasă a lui Mobutu Sese Seko, acum o ruină degradată.",
       en: "Gbadolite, known as the 'Versailles in the jungle,' was the luxurious residence of Mobutu Sese Seko, which is now a derelict ruin."
     },
     facts: {

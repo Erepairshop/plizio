@@ -13,6 +13,18 @@ export const poiExtraEcuadorNatureV2: POI[] = [
       ro: "Chimborazo",
       en: "Chimborazo"
     },
+    descriptionAdvanced: {
+      en: "Chimborazo is the highest mountain in Ecuador, with its peak being the point on Earth closest to the Sun due to the equatorial bulge. It is an inactive stratovolcano that anchors the central Andean volcanic chain. The mountain is home to a unique high-altitude ecosystem, featuring rare flora like the Andean condor's nesting grounds and specialized paramo grasses. Its massive glaciers are of critical importance to the regional hydrology, feeding several river systems. Geography K7 — volcanic mountain ecosystems and Earth's geography."
+    },
+    factsAdvanced: {
+      en: ["Elevation: 6,263 meters", "Significance: Point closest to space", "Geology: Inactive stratovolcano", "Ecosystem: High-altitude paramo", "Fauna: Andean condor habitat", "Glaciation: Critical water source"]
+    },
+    descriptionAdvanced: {
+      hu: "A Chimborazo az Ecuadori-Andokban található rétegvulkán, amelynek csúcsa a Föld középpontjától mért legtávolabbi pont a bolygónk felszínén, mivel Ecuador az Egyenlítőn helyezkedik el. A hegycsúcs eléri a 6263 méteres tengerszint feletti magasságot, örök hó fedi, és a környező táj jellegzetes páramó növényzettel rendelkezik. Földrajz K7 — vulkanizmus és magashegységek témakörhöz kapcsolódik."
+    },
+    factsAdvanced: {
+      hu: ["Magasság: 6263 méter", "Típusa: Rétegvulkán", "Elhelyezkedés: Cordillera Occidental", "Földrajzi érdekesség: A Föld középpontjától mért legtávolabbi pont", "Első megmászás: Edward Whymper, 1880", "Növényzet: Páramó"]
+    },
     description: {
       de: "Der Chimborazo ist der höchste Berg in Ecuador und der am weitesten vom Erdmittelpunkt entfernte Punkt der Erde.",
       hu: "A Chimborazo Ecuador legmagasabb hegye, és a Föld középpontjától legtávolabb eső pont a bolygón.",
@@ -55,6 +67,19 @@ export const poiExtraEcuadorNatureV2: POI[] = [
       hu: "Cotopaxi",
       ro: "Cotopaxi",
       en: "Cotopaxi"
+    },
+    descriptionAdvanced: {
+      hu: "A Cotopaxi az egyik legaktívabb és legszimmetrikusabb rétegvulkán a világon, amely több mint 5897 méterrel magasodik a tengerszint fölé. Az Andok vulkáni övezetében fekszik, és csúcsát állandó gleccserek borítják, amelyek olvadéka kulcsfontosságú a környék vízellátásában. A vulkán a Cotopaxi Nemzeti Park központi eleme. Földrajz K7 — az Andok hegységrendszere.",
+      en: "Cotopaxi is one of the world's highest active volcanoes and the most iconic peak in Ecuador. Located in the Cordillera Oriental of the Andes, it is known for its near-symmetrical snow-capped cone. The park surrounding it protects a vast area of volcanic moorland and alpine meadows, vital for preserving biodiversity, including endangered Andean species like the spectacled bear. It is a major site for glaciological study as its ice cap is one of the few equatorial glaciers. Geography K7 — active volcanoes and alpine biodiversity."
+    },
+    factsAdvanced: {
+      en: ["Elevation: 5,897 meters", "Type: Active stratovolcano", "Eruptive frequency: Very frequent", "Ecosystem: Alpine volcanic meadows", "Fauna: Andean spectacled bear", "Glacial status: Equitorial ice cap"]
+    },
+    factsAdvanced: {
+      hu: ["Magasság: 5897 méter", "Státusz: Aktív rétegvulkán", "Nemzeti Park területe: 33 393 hektár", "Jelentős kitörések: 1877, 2015", "Gleccserek: Állandó jégsapka", "Jellemzője: Tökéletes kúpforma"]
+    },
+    factsAdvanced: {
+      hu: ["Magasság: 5897 méter", "Státusz: Aktív rétegvulkán", "Nemzeti Park területe: 33 393 hektár", "Jelentős kitörések: 1877, 2015", "Gleccserek: Állandó jégsapka", "Jellemzője: Tökéletes kúpforma"]
     },
     description: {
       de: "Der Cotopaxi ist einer der höchsten aktiven Vulkane der Welt und ein Wahrzeichen Ecuadors mit seiner perfekten Kegelform.",
@@ -99,6 +124,12 @@ export const poiExtraEcuadorNatureV2: POI[] = [
       ro: "Cayambe",
       en: "Cayambe"
     },
+    descriptionAdvanced: {
+      en: "Cayambe is a massive stratovolcano located in the northern Andes, uniquely situated exactly on the equator. It is the only place on Earth where the equator crosses the top of a snow-capped mountain. The volcano has a permanent ice cap, which feeds extensive river systems in the northern Ecuadorian highlands. Its slopes are covered by high-altitude paramo ecosystems, home to hardy vegetation adapted to extreme conditions. Geography K7 — equatorial geography and glacial landforms."
+    },
+    factsAdvanced: {
+      en: ["Elevation: 5,790 meters", "Equatorial crossing: Exactly on the equator", "Glacial status: Permanent ice cap", "Region: Northern Andes", "Hydrology: Feeds northern river systems", "Ecological zone: High-altitude paramo"]
+    },
     description: {
       de: "Der Vulkan Cayambe ist der dritthöchste Berg Ecuadors und sein Gipfel wird vom Äquator überquert.",
       hu: "A Cayambe vulkán Ecuador harmadik legmagasabb hegye, és a csúcsán halad át az Egyenlítő.",
@@ -141,6 +172,12 @@ export const poiExtraEcuadorNatureV2: POI[] = [
       hu: "Antisana",
       ro: "Antisana",
       en: "Antisana"
+    },
+    descriptionAdvanced: {
+      en: "Antisana is a massive, complex stratovolcano in the northern Andes, widely considered one of the most difficult and majestic mountains in Ecuador. It is renowned for its vast, intricate network of glaciers and high-altitude wetlands, which are crucial for the water supply of the capital, Quito. The area is a protected nature reserve, renowned for being a haven for the Andean condor. Its geological history involves complex eruptive phases that have shaped the rugged surrounding landscape. Geography K7 — glaciology and essential water services."
+    },
+    factsAdvanced: {
+      en: ["Elevation: 5,704 meters", "Type: Complex stratovolcano", "Hydrological role: Water supply for Quito", "Fauna: Andean condor nesting", "Feature: Vast glacier network", "Protected status: Nature reserve"]
     },
     description: {
       de: "Der Antisana ist ein massiver Stratovulkan, der für seine großen Gletscherfelder und die reiche Vogelwelt an seinen Hängen bekannt ist.",
@@ -185,6 +222,12 @@ export const poiExtraEcuadorNatureV2: POI[] = [
       ro: "El Altar",
       en: "El Altar"
     },
+    descriptionAdvanced: {
+      en: "El Altar is an extinct, eroded stratovolcano whose main peak collapsed, leaving behind a jagged, horseshoe-shaped caldera filled with high-altitude lakes. Its spectacular summits include names like 'The Bishop' and 'The Virgin', reflecting its majestic and awe-inspiring presence. The interior of the caldera is home to one of the most stunning alpine lakes in the Andes, known as the Laguna Amarilla. It is a masterpiece of volcanic erosion and glacial activity. Geography K7 — caldera erosion and alpine lakes."
+    },
+    factsAdvanced: {
+      en: ["Elevation: 5,319 meters", "Type: Extinct eroded stratovolcano", "Summit structure: Jagged horseshoe crater", "Key feature: Laguna Amarilla (yellow lake)", "Erosion: Massive volcanic collapse", "Alpine status: High-altitude wilderness"]
+    },
     description: {
       de: "El Altar ist ein erloschener Vulkan, dessen eingestürzte Caldera neun scharfe Gipfel bildet, die eine atemberaubende Lagune umschließen.",
       hu: "Az El Altar egy kialudt vulkán, melynek beomlott kalderája kilenc éles csúcsot alkot, amelyek egy lélegzetelállító lagúnát vesznek körül.",
@@ -227,6 +270,12 @@ export const poiExtraEcuadorNatureV2: POI[] = [
       hu: "Illiniza",
       ro: "Illiniza",
       en: "Illiniza"
+    },
+    descriptionAdvanced: {
+      en: "The Illinizas are a pair of prominent volcanic peaks—Illiniza Norte and Illiniza Sur—located in the Western Cordillera of the Andes. Unlike most nearby mountains, Illiniza Norte is a jagged, non-glaciated peak popular with mountaineers for technical climbing, while Illiniza Sur retains a permanent ice cap. The ecological zone surrounding these peaks contains high-altitude wetlands and unique Andean alpine species, forming a crucial natural habitat for regional wildlife. Geography K7 — volcanic twin peaks and ecological diversity."
+    },
+    factsAdvanced: {
+      en: ["Elevation: Norte (5,126m), Sur (5,248m)", "Structure: Twin volcanic peaks", "Geology: Extinct eroded stratovolcanoes", "Ecology: High-altitude wetlands", "Mountain type: Technical climb", "Regional significance: Andean biodiversity"]
     },
     description: {
       de: "Die Illinizas sind Zwillingsvulkane in den Anden; Illiniza Sur ist gletscherbedeckt und technisch anspruchsvoll, während Illiniza Norte ein Felsgipfel ist.",
@@ -271,6 +320,12 @@ export const poiExtraEcuadorNatureV2: POI[] = [
       ro: "Tungurahua",
       en: "Tungurahua"
     },
+    descriptionAdvanced: {
+      en: "Tungurahua, known as the 'Throat of Fire' in Quichua, is one of Ecuador's most active stratovolcanoes. It dominates the landscape above the city of Baños, which is nestled at its base in a dramatic valley. The volcano's persistent activity has profoundly shaped the region's geography, periodically depositing volcanic ash and influencing the surrounding fertile cloud forests. It serves as a vital case study for volcanology and community-based disaster management. Geography K7 — volcanic activity and natural hazards."
+    },
+    factsAdvanced: {
+      en: ["Elevation: 5,023 meters", "Nickname: Throat of Fire", "Status: Highly active stratovolcano", "Proximity: Located near Baños city", "Ecology: Cloud forest ecosystems", "Region: Central Andean volcanic chain"]
+    },
     description: {
       de: "Der Tungurahua ist ein hochaktiver Vulkan über der Stadt Baños, bekannt für seine häufigen Ascheausbrüche und Lavaströme.",
       hu: "A Tungurahua egy rendkívül aktív vulkán Baños városa felett, amely gyakori hamukitöréseiről és lávafolyásairól ismert.",
@@ -313,6 +368,12 @@ export const poiExtraEcuadorNatureV2: POI[] = [
       hu: "Pichincha",
       ro: "Pichincha",
       en: "Pichincha"
+    },
+    descriptionAdvanced: {
+      en: "Guagua Pichincha is an active stratovolcano that looms directly over the capital city of Quito. Its historical eruptions have significantly influenced the topography of the Quito valley and continue to be a primary concern for urban safety. The mountain includes several summits, with Guagua being the youngest and most active. The slopes protect important fragments of high-altitude ecosystems, though they are under threat from urban encroachment. Geography K7 — active volcanoes and urban geography."
+    },
+    factsAdvanced: {
+      en: ["Elevation: 4,784 meters", "Location: Directly overlooking Quito", "Type: Active stratovolcano", "Summit: Guagua Pichincha", "History: Frequent eruptions", "Ecology: Threatened alpine habitat"]
     },
     description: {
       de: "Der Pichincha ist ein aktiver Stratovulkan, der sich direkt über der Hauptstadt Quito erhebt und aus mehreren Gipfeln besteht.",
@@ -357,6 +418,12 @@ export const poiExtraEcuadorNatureV2: POI[] = [
       ro: "Lacul de crater Quilotoa",
       en: "Quilotoa Crater Lake"
     },
+    descriptionAdvanced: {
+      en: "Quilotoa is a stunning caldera lake situated in the Andes of Cotopaxi province, formed by the catastrophic collapse of a stratovolcano approximately 800 years ago. The lake, famous for its turquoise, mineral-rich waters, fills the nearly 3-kilometer-wide crater. Its surroundings are dominated by rural indigenous communities who maintain traditional highland agricultural practices on the surrounding steep volcanic slopes. It is one of the most visited and visually striking volcanic landmarks in Ecuador. Geography K7 — caldera formation and human-landscape interaction."
+    },
+    factsAdvanced: {
+      en: ["Elevation: 3,914 meters", "Formation: Volcanic collapse (800 years ago)", "Feature: 3km wide caldera lake", "Lake water: Turquoise, mineral-rich", "Region: Cotopaxi province", "Land use: Highland indigenous agriculture"]
+    },
     description: {
       de: "Quilotoa ist eine wassergefüllte Caldera und der westlichste Vulkan der ecuadorianischen Anden, berühmt für sein smaragdgrünes Wasser.",
       hu: "A Quilotoa egy vízzel teli kaldera, az ecuadori Andok legnyugatibb vulkánja, amely smaragdzöld vizéről híres.",
@@ -399,6 +466,12 @@ export const poiExtraEcuadorNatureV2: POI[] = [
       hu: "Cuicocha-tó",
       ro: "Lacul Cuicocha",
       en: "Cuicocha Lake"
+    },
+    descriptionAdvanced: {
+      en: "Cuicocha is a scenic caldera lake located at the foot of the Cotacachi volcano in the Imbabura province. The crater contains two large, lush, forested islands which are the remains of lava domes from the caldera's collapse. The name is derived from the indigenous Quichua word for 'Lake of the Guinea Pigs,' owing to the islands' shape. It is a critical protected area, serving as a sanctuary for diverse flora and fauna of the northern Ecuadorian Andes. Geography K7 — caldera lake systems and volcanic islands."
+    },
+    factsAdvanced: {
+      en: ["Elevation: 3,246 meters", "Type: Volcanic caldera lake", "Feature: Two large lava dome islands", "Name origin: Quichua 'Lake of the Guinea Pigs'", "Protected status: Biological sanctuary", "Region: Imbabura province"]
     },
     description: {
       de: "Cuicocha ist ein beeindruckender Kratersee am Fuße des Cotacachi-Vulkans, in dessen Mitte sich zwei kleine Inseln erheben.",
@@ -443,6 +516,12 @@ export const poiExtraEcuadorNatureV2: POI[] = [
       ro: "Lacul San Pablo",
       en: "Lake San Pablo"
     },
+    descriptionAdvanced: {
+      en: "San Pablo Lake is a prominent high-altitude lake situated near the town of Otavalo in Imbabura province. Nestled between the Imbabura and Mojanda volcanoes, its basin is a major hub for both local agriculture and traditional textile industries. The lake is culturally significant to the Kichwa Otavalo community, who have sustainably managed its surrounding fertile landscape for centuries. It serves as a vital recreational and ecological anchor for the northern Ecuadorian highlands. Geography K7 — highland lake basins and cultural landscapes."
+    },
+    factsAdvanced: {
+      en: ["Elevation: 2,660 meters", "Location: Near Otavalo, Imbabura", "Feature: High-altitude highland basin", "Significance: Traditional indigenous hub", "Activity: Regional agriculture and tourism", "Ecology: Highland wetland protection"]
+    },
     description: {
       de: "Der San-Pablo-See ist Ecuadors größter See und liegt am Fuße des majestätischen Imbabura-Vulkans in der Nähe von Otavalo.",
       hu: "A San Pablo-tó Ecuador legnagyobb tava, amely a fenséges Imbabura vulkán lábánál fekszik, Otavalo közelében.",
@@ -485,6 +564,12 @@ export const poiExtraEcuadorNatureV2: POI[] = [
       hu: "Yahuarcocha",
       ro: "Yahuarcocha",
       en: "Yahuarcocha"
+    },
+    descriptionAdvanced: {
+      en: "Yahuarcocha, which means 'Lake of Blood' in the Kichwa language, is a scenic lake situated near Ibarra. It is renowned for its historical significance, marking the site of a final, bloody resistance of the local indigenous population against the Inca conquest. Today, the area is better known for its race track that encircles the lake, serving as a hub for motorsport and tourism. The surrounding volcanic hills are primarily used for small-scale agriculture. Geography K7 — historical geography and modern recreational land use."
+    },
+    factsAdvanced: {
+      en: ["Elevation: 2,190 meters", "Significance: Ancient Inca-indigenous battle site", "Name meaning: Lake of Blood (Kichwa)", "Location: Near Ibarra, Imbabura", "Feature: Race track encircling lake", "Ecology: Highland volcanic drainage"]
     },
     description: {
       de: "Yahuarcocha ist ein historisch bedeutender See, umgeben von Legenden einer großen Schlacht, und verfügt heute über eine berühmte Autorennstrecke.",
@@ -529,6 +614,12 @@ export const poiExtraEcuadorNatureV2: POI[] = [
       ro: "Râul Napo",
       en: "Napo River"
     },
+    descriptionAdvanced: {
+      en: "The Napo River is one of the principal tributaries of the upper Amazon, originating in the eastern Andes of Ecuador. It is a critical artery for navigation, biodiversity, and indigenous communities in the Ecuadorian Amazon rainforest. The river's basin is characterized by its immense rainforest biodiversity, including thousands of species of flora and fauna found nowhere else on Earth. It serves as the primary gateway for scientific research into tropical rainforest ecosystems. Geography K7 — tropical river systems and biodiversity hotspots."
+    },
+    factsAdvanced: {
+      en: ["Source: Eastern Andes, Ecuador", "Destination: Tributary of the Amazon River", "Region: Ecuadorian Amazon (Oriente)", "Significance: Major navigation artery", "Biodiversity: Global hotspot", "Environment: Tropical lowland rainforest"]
+    },
     description: {
       de: "Der Rio Napo ist einer der wichtigsten Nebenflüsse des Amazonas in Ecuador und eine wichtige Lebensader für den Regenwald.",
       hu: "A Río Napo az Amazonas egyik legfontosabb mellékfolyója Ecuadorban, és az esőerdő létfontosságú ütőere.",
@@ -571,6 +662,12 @@ export const poiExtraEcuadorNatureV2: POI[] = [
       hu: "Pastaza-folyó",
       ro: "Râul Pastaza",
       en: "Pastaza River"
+    },
+    descriptionAdvanced: {
+      en: "The Pastaza River is a major river system that flows eastward from the high Andes, carving through dramatic canyons before traversing the Amazonian lowland. It is particularly known for its powerful water volume and the spectacular waterfalls that dot its upper course near Baños, such as the Pailon del Diablo. The river system is central to the regional hydroelectric power production and the ecological stability of the Ecuadorian cloud forest. Geography K7 — river hydrography and alpine-to-tropical drainage."
+    },
+    factsAdvanced: {
+      en: ["Region: Andes to Amazonian basin", "Hydrography: High-volume drainage", "Key feature: Major Andean waterfalls", "Hydroelectric role: Power production hub", "Ecological zone: Cloud forest/Lowland transition", "Significance: Geographic Andean barrier"]
     },
     description: {
       de: "Der Rio Pastaza fließt von den ecuadorianischen Anden bis ins Amazonasbecken und ist für seine tiefen Schluchten und Wasserfälle bekannt.",
@@ -615,6 +712,12 @@ export const poiExtraEcuadorNatureV2: POI[] = [
       ro: "Râul Guayas",
       en: "Guayas River"
     },
+    descriptionAdvanced: {
+      en: "The Guayas River is the most critical river system on the Ecuadorian coast, forming a large estuarine network that flows into the Gulf of Guayaquil. It drains the entire western lowland region, creating a massive alluvial basin that supports intense agricultural activity, particularly banana and rice production. The river is the historic economic heart of the country, facilitating trade and transportation to the port of Guayaquil. Its estuarine mangroves are vital for coastal ecological health. Geography K7 — river estuaries and economic geography."
+    },
+    factsAdvanced: {
+      en: ["Region: Ecuadorian coast", "Basin: Massive lowland alluvial system", "Significance: Principal trade waterway", "Economy: Supports banana/rice agriculture", "Estuary: Gulf of Guayaquil network", "Ecology: Coastal mangrove health"]
+    },
     description: {
       de: "Der Río Guayas ist der wichtigste Fluss an der Pazifikküste Südamerikas und mündet im riesigen Golf von Guayaquil.",
       hu: "A Río Guayas Dél-Amerika csendes-óceáni partvidékének legfontosabb folyója, amely a hatalmas Guayaquil-öbölbe torkollik.",
@@ -657,6 +760,12 @@ export const poiExtraEcuadorNatureV2: POI[] = [
       hu: "Esmeraldas-folyó",
       ro: "Râul Esmeraldas",
       en: "Esmeraldas River"
+    },
+    descriptionAdvanced: {
+      en: "The Esmeraldas River is a major coastal waterway in northwestern Ecuador, formed by the confluence of the Guayllabamba and Blanco rivers. It plays a significant role in the drainage of the coastal Andean foothills and the tropical forests of Esmeraldas province. The river's basin is historically known for its high levels of humidity and rich biodiversity, supporting various tropical agricultural activities. It is a vital transport link for local wood and agricultural products moving toward the Pacific port. Geography K7 — coastal drainage systems and tropical agriculture."
+    },
+    factsAdvanced: {
+      en: ["Region: Northwestern Ecuador", "Confluence: Guayllabamba and Blanco rivers", "Basin: Coastal Andean foothills", "Significance: Local agricultural transport", "Ecology: Tropical rainforest foothills", "Environment: High humidity basin"]
     },
     description: {
       de: "Der Esmeraldas ist ein bedeutender Fluss im Nordwesten Ecuadors, der durch dichte Küstenregenwälder zum Pazifik fließt.",
@@ -701,6 +810,12 @@ export const poiExtraEcuadorNatureV2: POI[] = [
       ro: "Râul Aguarico",
       en: "Aguarico River"
     },
+    descriptionAdvanced: {
+      en: "The Aguarico River is a prominent tributary of the Napo River in the northeastern Ecuadorian Amazon region. Its basin is exceptionally rich in rainforest biodiversity and contains large protected territories, including parts of the Cuyabeno Wildlife Reserve. The river is a vital artery for local indigenous communities and is a key location for scientific studies on the complex hydrology of the Amazonian lowlands. The surrounding riverbanks are dynamic, constantly shifting due to the high sediment transport common in Amazonian river networks. Geography K7 — Amazonian hydrology and biodiversity preservation."
+    },
+    factsAdvanced: {
+      en: ["Region: Northeastern Ecuadorian Amazon", "Destination: Tributary of the Napo River", "Protected status: Cuyabeno Wildlife Reserve", "Ecology: Lowland rainforest river", "Dynamics: High sediment transport", "Significance: Indigenous river artery"]
+    },
     description: {
       de: "Der Aguarico ist ein wilder Schwarzwasserfluss, der das Naturschutzgebiet Cuyabeno speist und in den Rio Napo mündet.",
       hu: "Az Aguarico egy vad feketevizű folyó, amely a Cuyabeno Természetvédelmi Területet táplálja, és a Río Napo-ba torkollik.",
@@ -743,6 +858,12 @@ export const poiExtraEcuadorNatureV2: POI[] = [
       hu: "Yasuní Nemzeti Park",
       ro: "Parcul Național Yasuní",
       en: "Yasuní National Park"
+    },
+    descriptionAdvanced: {
+      en: "Yasuní National Park is the most biodiverse location on the planet, protecting a vast expanse of lowland tropical rainforest in eastern Ecuador. It sits at the intersection of the Andes, the Equator, and the Amazon, creating a unique ecological convergence point. The park provides sanctuary for thousands of unique species of flora and fauna, including endangered large mammals and birds. It is also home to several uncontacted indigenous tribes who maintain ancestral lifestyles within its deep jungle expanses. Geography K7 — global biodiversity hotspots and rainforest ecosystems."
+    },
+    factsAdvanced: {
+      en: ["Status: Most biodiverse place on Earth", "Location: Eastern Amazonian Ecuador", "Ecosystem: Primary tropical rainforest", "Protection: National Park status", "Inhabitants: Uncontacted indigenous tribes", "Feature: Global species convergence"]
     },
     description: {
       de: "Der Yasuní-Nationalpark ist einer der artenreichsten Orte der Welt, ein riesiges unberührtes Regenwaldgebiet im ecuadorianischen Amazonasbecken.",
@@ -787,6 +908,12 @@ export const poiExtraEcuadorNatureV2: POI[] = [
       ro: "Rezervația Faunistică Cuyabeno",
       en: "Cuyabeno Wildlife Reserve"
     },
+    descriptionAdvanced: {
+      en: "The Cuyabeno Wildlife Reserve is a unique Amazonian floodplain ecosystem characterized by a complex network of blackwater lakes and seasonal flooded forests. Located in northeastern Ecuador, the reserve experiences annual flooding that creates a rich, interconnected aquatic and terrestrial habitat. This cyclic environment supports diverse wildlife, from pink dolphins and giant otters to an extraordinary range of tropical bird species. It is a crucial site for ecotourism and local conservation efforts aimed at preserving the delicate Amazonian balance. Geography K7 — Amazonian floodplain ecosystems and seasonal water cycles."
+    },
+    factsAdvanced: {
+      en: ["Ecosystem: Flooded blackwater rainforest", "Hydrology: Seasonal floodplain cycle", "Fauna: Pink dolphins, giant otters", "Location: Northeastern Ecuador", "Conservation: Wildlife reserve status", "Activity: Ecotourism and research"]
+    },
     description: {
       de: "Das Cuyabeno-Reservat ist berühmt für sein Netzwerk aus überschwemmten Wäldern, Seen und einer unglaublichen Vielfalt an aquatischem Leben.",
       hu: "A Cuyabeno-rezervátum az elárasztott erdők és tavak hálózatáról, valamint elképesztő vízi élővilágáról híres.",
@@ -829,6 +956,12 @@ export const poiExtraEcuadorNatureV2: POI[] = [
       hu: "Podocarpus Nemzeti Park",
       ro: "Parcul Național Podocarpus",
       en: "Podocarpus National Park"
+    },
+    descriptionAdvanced: {
+      en: "Podocarpus National Park is located in the southern Andes of Ecuador, known as the 'Botanical Garden of America' due to its high levels of endemic plant species. The park covers both high-altitude paramo and subtropical cloud forests, creating a diverse landscape that spans a significant altitudinal range. It is particularly famed for preserving native species of Podocarpus, the only native conifer genus in the Ecuadorian Andes. The park's varied climate and geography support a wide array of high-altitude species found nowhere else. Geography K7 — altitudinal ecological zones and endemic plants."
+    },
+    factsAdvanced: {
+      en: ["Nickname: Botanical Garden of America", "Location: Southern Ecuadorian Andes", "Ecosystems: Paramo to subtropical cloud forest", "Flora: Native Podocarpus conifers", "Status: Biodiversity hotspot", "Significance: High endemism levels"]
     },
     description: {
       de: "Der Podocarpus-Nationalpark schützt dichte Nebelwälder und Hochebenen im Süden Ecuadors und ist nach der einzigen heimischen Nadelbaumart benannt.",
@@ -873,6 +1006,12 @@ export const poiExtraEcuadorNatureV2: POI[] = [
       ro: "Pădurea de nori Mindo",
       en: "Mindo Cloud Forest"
     },
+    descriptionAdvanced: {
+      en: "Mindo is a world-renowned cloud forest region located in the western slopes of the Andes, northwest of Quito. It is a critical biodiversity hub, famous for its incredibly high concentration of avian species, making it a premier destination for birdwatchers globally. The region's unique microclimate, characterized by constant mist and high humidity, supports an extraordinary diversity of orchids, bromeliads, and butterflies. It is a central location for research and ecotourism focused on cloud forest conservation. Geography K7 — cloud forest microclimates and bird biodiversity."
+    },
+    factsAdvanced: {
+      en: ["Region: Western Andean cloud forest", "Significance: Global birdwatching hub", "Climate: Constant mist/high humidity", "Flora: Rich in orchids and bromeliads", "Fauna: Exceptional butterfly diversity", "Activity: Ecotourism and conservation research"]
+    },
     description: {
       de: "Der Mindo-Nebelwald in den Tälern der Anden ist ein globales Zentrum der Vogelbeobachtung, bekannt für seine zahlreichen Kolibriarten und Orchideen.",
       hu: "A Mindo köderdő az Andok völgyeiben a madármegfigyelés globális központja, amely számos kolibrifajáról és orchideájáról ismert.",
@@ -915,6 +1054,12 @@ export const poiExtraEcuadorNatureV2: POI[] = [
       hu: "Machalilla Nemzeti Park",
       ro: "Parcul Național Machalilla",
       en: "Machalilla National Park"
+    },
+    descriptionAdvanced: {
+      en: "Machalilla National Park is one of the few protected dry tropical forests along the Ecuadorian coast. Its landscape spans from dry desert-like forest terrain to beautiful coastal beaches and marine environments, creating a rare ecological transition zone. The park protects unique arid-adapted flora and fauna, such as the tropical dry forest cactus and endemic bird species. It also holds significant archeological importance, as it was home to the ancient Manteño-Huancavilca culture. Geography K7 — tropical dry forest and coastal geography."
+    },
+    factsAdvanced: {
+      en: ["Ecosystem: Rare tropical dry forest", "Coastal zone: Beach and marine habitats", "Flora: Arid-adapted tropical cactus", "History: Site of ancient Manteño culture", "Region: Ecuadorian Pacific coast", "Diversity: Ecological transition zone"]
     },
     description: {
       de: "Dieser Park schützt den einzigartigen tropischen Trockenwald an Ecuadors Küste sowie atemberaubende Strände und küstennahe Meeresökosysteme.",
@@ -959,6 +1104,12 @@ export const poiExtraEcuadorNatureV2: POI[] = [
       ro: "Parcul Național Llanganates",
       en: "Llanganates National Park"
     },
+    descriptionAdvanced: {
+      en: "The Llanganates National Park is a rugged, mysterious, and high-altitude region in the central Andes, renowned for its challenging, untamed wilderness. The park features a complex landscape of glacial valleys, high-altitude moorlands, and steep mountain terrain that remains largely unexplored. It is infamous in local lore for being the site of the 'Lost Treasure of Atahualpa,' said to be hidden somewhere in its treacherous terrain. Ecologically, it is a key area for high-altitude paramo preservation and water regulation for the surrounding valleys. Geography K7 — high-altitude wilderness and topographic complexity."
+    },
+    factsAdvanced: {
+      en: ["Region: Central Andean moorlands", "Topography: Glacial valleys and steep ridges", "Lore: Fabled 'Lost Treasure of Atahualpa'", "Ecology: High-altitude paramo preservation", "Significance: Major hydrological catchment", "Environment: Untamed wilderness"]
+    },
     description: {
       de: "Die geheimnisvollen Anden-Páramos und Nebelwälder der Llanganates sind berühmt für die Legende des verlorenen Inka-Goldes von Atahualpa.",
       hu: "A Llanganates rejtélyes andoki páramói és köderdei Atahualpa elveszett inka aranyának legendájáról híresek.",
@@ -1001,6 +1152,12 @@ export const poiExtraEcuadorNatureV2: POI[] = [
       hu: "Isabela-sziget",
       ro: "Insula Isabela",
       en: "Isabela Island"
+    },
+    descriptionAdvanced: {
+      en: "Isabela Island is the largest island in the Galapagos archipelago, formed by the merger of five active shield volcanoes. It offers an incredible geological landscape with vast lava fields and high-altitude calderas that rise directly from the Pacific Ocean. The island's geography supports a unique set of environments, ranging from coastal mangroves and brackish lagoons to arid volcanic uplands, hosting iconic Galapagos species like giant tortoises and penguins. It is a living laboratory for evolutionary studies and geological processes. Geography K7 — island formation and shield volcanoes."
+    },
+    factsAdvanced: {
+      en: ["Feature: Largest island in Galapagos", "Geology: Merger of five shield volcanoes", "Habitats: Ranges from mangroves to lava fields", "Fauna: Galapagos giant tortoises, penguins", "Significance: Evolutionary research site", "Ecology: Unique volcanic maritime ecosystem"]
     },
     description: {
       de: "Isabela ist die größte Insel der Galapagos-Inseln, geformt von sechs Vulkanen, und Heimat zahlreicher Riesenschildkröten und Meerechsen.",
@@ -1045,6 +1202,12 @@ export const poiExtraEcuadorNatureV2: POI[] = [
       ro: "Insula Santa Cruz",
       en: "Santa Cruz Island"
     },
+    descriptionAdvanced: {
+      en: "Santa Cruz is the second-largest island in the Galapagos and serves as the central hub for tourism and science in the archipelago. It is home to the Charles Darwin Research Station, a global center for conservation and evolutionary research. The island's diverse geography includes lush highland fern forests and expansive low-lying lava tunnels created by historic volcanic activity. It provides a unique habitat for highland giant tortoises and hosts diverse maritime species along its rocky shores. Geography K7 — island conservation and volcanic lava tunnels."
+    },
+    factsAdvanced: {
+      en: ["Significance: Hub for Galapagos science/tourism", "Research: Charles Darwin Research Station", "Geology: Historic volcanic lava tunnels", "Ecosystem: Lush highland fern forests", "Fauna: Highland giant tortoise habitat", "Status: Central archipelago gateway"]
+    },
     description: {
       de: "Santa Cruz ist das touristische Zentrum von Galapagos, bekannt für die Charles-Darwin-Forschungsstation und das grüne Hochland.",
       hu: "A Santa Cruz a Galápagos turisztikai központja, amely a Charles Darwin Kutatóállomásról és zöldellő felföldjéről ismert.",
@@ -1087,6 +1250,12 @@ export const poiExtraEcuadorNatureV2: POI[] = [
       hu: "San Cristóbal-sziget",
       ro: "Insula San Cristóbal",
       en: "San Cristóbal Island"
+    },
+    descriptionAdvanced: {
+      en: "San Cristóbal is the easternmost island in the Galapagos archipelago and houses the provincial capital, Puerto Baquerizo Moreno. Geologically, it is one of the oldest islands in the chain, characterized by its dramatic volcanic cliffs and wind-swept highlands. It is home to a large colony of endemic Galapagos sea lions and is famous for being the first island visited by Charles Darwin during his historic voyage on the HMS Beagle. The island's geography includes a rare highland freshwater lake, El Junco, which is a key watering site for island wildlife. Geography K7 — island geography and evolutionary history."
+    },
+    factsAdvanced: {
+      en: ["Feature: Easternmost Galapagos island", "Significance: Charles Darwin's first visit site", "Geology: One of the oldest Galapagos islands", "Feature: El Junco (highland freshwater lake)", "Fauna: Large Galapagos sea lion colony", "Status: Provincial capital host"]
     },
     description: {
       de: "San Cristóbal ist die östlichste der Galapagos-Inseln und beheimatet die Provinzhauptstadt Puerto Baquerizo Moreno sowie reiche Seelöwenkolonien.",
@@ -1131,6 +1300,12 @@ export const poiExtraEcuadorNatureV2: POI[] = [
       ro: "Insula Fernandina",
       en: "Fernandina Island"
     },
+    descriptionAdvanced: {
+      en: "Fernandina Island is the youngest and most volcanically active island in the Galapagos, offering an untamed, pristine landscape largely untouched by human interference. Dominated by a massive central volcano, La Cumbre, the island features dramatic expanses of sharp 'a'a lava flows stretching to the sea. It is a critical habitat for specialized species that have adapted to its extreme, rugged environment, such as the marine iguana and the Flightless Cormorant. It serves as a vital natural laboratory for studying active volcanic island formation and pristine ecological succession. Geography K7 — volcanic island formation and ecological succession."
+    },
+    factsAdvanced: {
+      en: ["Status: Youngest/most active Galapagos island", "Feature: Untouched wilderness", "Geology: Dominated by La Cumbre volcano", "Fauna: Marine iguana, Flightless Cormorant", "Terrain: Expansive 'a'a lava fields", "Significance: Primary natural lab site"]
+    },
     description: {
       de: "Fernandina ist die jüngste und aktivste Vulkaninsel der Galapagos-Gruppe, mit riesigen Lavafeldern und völlig unberührter Natur.",
       hu: "A Fernandina a Galápagos-csoport legfiatalabb és legaktívabb vulkáni szigete, hatalmas lávamezőkkel és teljesen érintetlen természettel.",
@@ -1173,6 +1348,12 @@ export const poiExtraEcuadorNatureV2: POI[] = [
       hu: "Santiago-sziget",
       ro: "Insula Santiago",
       en: "Santiago Island"
+    },
+    descriptionAdvanced: {
+      en: "Santiago Island is a large, central island in the Galapagos, known for its diverse and visible volcanic history. Its shores feature fascinating geological formations, including solidified lava flows and salt-encrusted tidal pools that attract a wide array of marine wildlife. Inland, the island boasts rich highland forests and arid lowlands, housing a varied ecosystem that supports Galapagos fur seals and flamingos in its coastal brackish ponds. It has a complex geological past with numerous small volcanic cones dotting its surface. Geography K7 — volcanic landforms and coastal biodiversity."
+    },
+    factsAdvanced: {
+      en: ["Region: Central Galapagos island", "Geology: Solidified lava and tidal pools", "Fauna: Galapagos fur seals, flamingos", "Feature: Numerous small volcanic cones", "Ecosystem: Rich highland/arid lowlands", "Biodiversity: Diverse coastal wildlife"]
     },
     description: {
       de: "Die Insel Santiago besticht durch dramatische schwarze Lavaküsten, an denen Pelzrobben, Seelöwen und unzählige Klippenkrabben leben.",
@@ -1217,6 +1398,12 @@ export const poiExtraEcuadorNatureV2: POI[] = [
       ro: "Insula Floreana",
       en: "Floreana Island"
     },
+    descriptionAdvanced: {
+      en: "Floreana is a historically enigmatic island in the Galapagos, famous for its early human settlement stories and unique biological diversity. Its shores feature diverse coastal environments, from black sand beaches created by volcanic minerals to peaceful bays that host large green sea turtle nesting grounds. Historically, the island was a key stop for whalers and pirates, and it retains a mysterious reputation due to past disappearances of early island settlers. The island is ecologically critical for protecting endemic plant species and threatened marine wildlife. Geography K7 — island human history and coastal biodiversity."
+    },
+    factsAdvanced: {
+      en: ["Feature: Famous early human settlement stories", "Geology: Unique black sand beaches", "Significance: Historical stop for pirates/whalers", "Fauna: Green sea turtle nesting sites", "Ecology: Critical endemic plant habitat", "Region: Southern Galapagos archipelago"]
+    },
     description: {
       de: "Floreana hat eine faszinierende Geschichte voller Piraten und Walfänger und beheimatet heute rosa Flamingos an der Punta Cormorant.",
       hu: "A Floreana lenyűgöző, kalózokkal és bálnavadászokkal teli történelemmel rendelkezik, ma pedig rózsaszín flamingók élnek a Punta Cormorant-on.",
@@ -1259,6 +1446,12 @@ export const poiExtraEcuadorNatureV2: POI[] = [
       hu: "Guayaquil-öböl",
       ro: "Golful Guayaquil",
       en: "Gulf of Guayaquil"
+    },
+    descriptionAdvanced: {
+      en: "The Gulf of Guayaquil is a major Pacific inlet and the most important estuarine and coastal marine zone in Ecuador. It is formed by the convergence of several major river systems, creating a unique brackish water ecosystem that is exceptionally rich in biodiversity. The Gulf contains the largest mangrove forests in the country, which are essential for spawning fish, protecting the coast from erosion, and sequestering carbon. The area is a vital center for the Ecuadorian aquaculture industry, particularly shrimp production. Geography K7 — coastal estuaries and aquatic ecosystem management."
+    },
+    factsAdvanced: {
+      en: ["Feature: Major Pacific estuarine inlet", "Ecology: Largest mangrove forest system", "Significance: Vital aquaculture (shrimp) hub", "Environment: Brackish water ecosystem", "Geology: Major river convergence zone", "Role: Coastal protection and carbon sequestration"]
     },
     description: {
       de: "Der riesige Golf von Guayaquil ist die größte Wasserfläche an der pazifischen Küste Südamerikas und Heimat ausgedehnter Mangrovenwälder.",

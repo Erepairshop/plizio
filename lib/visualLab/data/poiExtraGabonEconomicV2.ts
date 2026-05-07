@@ -12,7 +12,14 @@ export const poiExtraGabonEconomicV2: POI[] = [
       hu: "Gamba olajterminál",
       ro: "Terminalul petrolier Gamba",
       en: "Gamba Oil Terminal"
+    ,
+    descriptionAdvanced: {
+      de: "Das Gamba-Ölterminal ist eine wesentliche Einrichtung für die Erdölförderung im Südwesten Gabuns. Die Anlage dient der Konsolidierung und dem Export von Rohöl, das in den angrenzenden Onshore- und Offshore-Ölfeldern gefördert wird. Der Betrieb des Terminals hat die Entwicklung der Stadt Gamba maßgeblich beeinflusst und zeigt, wie Ölförderung und Infrastruktur in einer ökologisch sensiblen Zone funktionieren können. Die Logistik hinter diesem Terminal ist hochkomplex und muss strengen Umweltauflagen genügen. Energieversorgung K7 — Erdöl in Gabun."
     },
+    factsAdvanced: {
+      de: ["Das Gamba-Terminal ist ein zentraler Umschlagort für Erdöl.", "Es dient den Förderfeldern im Südwesten des Landes.", "Gamba ist ein Knotenpunkt für Offshore- und Onshore-Öl.", "Der Betrieb muss hohen Umweltstandards entsprechen.", "Das Terminal ist entscheidend für den nationalen Erdölexport.", "Die Anlage ist eng mit der ökonomischen Struktur von Gamba verknüpft."]
+    }
+  },
     description: {
       de: "Ein wichtiger Knotenpunkt für den Export von Rohöl im Süden Gabuns.",
       hu: "Fontos nyersolaj-exportőr csomópont Gabon déli részén.",
@@ -105,7 +112,14 @@ export const poiExtraGabonEconomicV2: POI[] = [
       hu: "Cap Lopez olajterminál",
       ro: "Terminalul petrolier Cap Lopez",
       en: "Cap Lopez Oil Terminal"
+    ,
+    descriptionAdvanced: {
+      de: "Das Cap-Lopez-Terminal in der Nähe von Port-Gentil ist einer der wichtigsten Erdöl-Umschlagplätze Gabuns. Hier wird das in verschiedenen Ölfeldern geförderte Rohöl gesammelt und auf Tanker verladen, um in die weltweiten Raffinerien transportiert zu werden. Die strategische Bedeutung dieses Terminals ist enorm, da ein großer Teil des gabunischen Staatshaushalts vom Erdölexport abhängt. Die Anlage am Cap Lopez ist eine technologische Hochleistungseinheit zur sicheren Abwicklung dieser Mengen. Industrie K8 — Globaler Handel und Energieversorgung."
     },
+    factsAdvanced: {
+      de: ["Cap Lopez liegt nahe der Hafenstadt Port-Gentil.", "Das Terminal dient als zentrale Verladestelle für Rohöl.", "Erdöl ist das Hauptexportgut Gabuns.", "Die Anlage spielt eine kritische Rolle im Staatshaushalt.", "Das Terminal ist für den Empfang großer Tanker ausgelegt.", "Sicherheit und technologische Überwachung haben höchste Priorität."]
+    }
+  },
     description: {
       de: "Ein wichtiges Exportterminal für Erdöl an der Spitze der Halbinsel Mandji.",
       hu: "Fontos kőolaj-exportterminál a Mandji-félsziget csúcsán.",
@@ -151,7 +165,14 @@ export const poiExtraGabonEconomicV2: POI[] = [
       hu: "Belinga vasércprojekt",
       ro: "Proiectul de minereu de fier Belinga",
       en: "Belinga Iron Ore Project"
+    ,
+    descriptionAdvanced: {
+      de: "Die Belinga-Mine ist eine der bedeutendsten Eisenerzlagerstätten Gabuns, gelegen in einer abgelegenen Waldregion im Nordosten. Das Vorkommen ist eines der größten der Welt und steht im Zentrum großer industrieller Erschließungspläne. Die Gewinnung dieses Erzes stellt aufgrund der logistischen Herausforderungen in den dichten Regenwäldern eine komplexe Aufgabe dar. Der geplante Abbau soll langfristig die industrielle Entwicklung im Landesinneren Gabuns ankurbeln. Geografie K8 — Rohstoffgewinnung und nachhaltige Entwicklung."
     },
+    factsAdvanced: {
+      de: ["Die Belinga-Mine liegt in der Provinz Ogooué-Ivindo.", "Das Vorkommen gehört zu den größten Eisenerzreserven weltweit.", "Der Abbau erfordert den Bau umfangreicher Infrastruktur.", "Die Mine befindet sich in einer Region mit hohem ökologischem Wert.", "Die industrielle Erschließung ist ein zentraler Pfeiler der Wirtschaftspläne.", "Das Projekt beeinflusst maßgeblich die logistische Planung im Norden."]
+    }
+  },
     description: {
       de: "Eines der weltweit größten unerschlossenen Eisenerzvorkommen im Nordosten Gabuns.",
       hu: "A világ egyik legnagyobb feltáratlan vasérckészlete Gabon északkeleti részén.",
@@ -174,7 +195,14 @@ export const poiExtraGabonEconomicV2: POI[] = [
       hu: "Mabounié niobiom-projekt",
       ro: "Proiectul de niobiu Mabounié",
       en: "Mabounié Niobium Project"
+    ,
+    descriptionAdvanced: {
+      de: "Die Mabounie-Mine ist ein bedeutendes Bergbauprojekt in Gabun, das vor allem für seine Niob- und Phosphatlagerstätten bekannt ist. Diese Metalle und Mineralien sind für moderne Hochtechnologien, wie etwa die Batterieproduktion oder Elektronik, von wachsender Bedeutung. Die Erschließung von Mabounie zeigt das Potenzial Gabuns, über Mangan und Erdöl hinaus zu diversifizieren und zum Zulieferer für technologische Rohstoffe zu werden. Das Projekt steht exemplarisch für die strategische Neuorientierung der gabunischen Bergbauindustrie. Industrie K8 — Hochtechnologie-Rohstoffe."
     },
+    factsAdvanced: {
+      de: ["Mabounie ist für Niob- und Phosphatvorkommen bekannt.", "Die Rohstoffe sind essenziell für die Elektronikindustrie.", "Das Projekt diversifiziert die gabunische Bergbauwirtschaft.", "Die Mine ist ein Beispiel für den Fokus auf Technologierohstoffe.", "Gabun positioniert sich als Zulieferer für globale Märkte.", "Das Projekt fördert die regionale wirtschaftliche Diversität."]
+    }
+  },
     description: {
       de: "Ein Bergbauprojekt zur Gewinnung von Niob und Seltenen Erden nahe Lambaréné.",
       hu: "Bányászati projekt niobiom és ritkaföldfémek kitermelésére Lambaréné közelében.",
@@ -220,7 +248,14 @@ export const poiExtraGabonEconomicV2: POI[] = [
       hu: "Kinguélé vízerőmű",
       ro: "Centrala hidroelectrică Kinguélé",
       en: "Kinguélé Hydroelectric Power Station"
+    ,
+    descriptionAdvanced: {
+      de: "Das Kinguele-Wasserkraftwerk ist eine wichtige Anlage zur Stromerzeugung in der Nähe von Libreville. Die Nutzung der Wasserkraft des Flusses Mbei ist eine nachhaltige Methode, um die wachsende Hauptstadt und ihre industrielle Basis mit Energie zu versorgen. Gabun verfügt über ein großes Potenzial an Wasserkraft, das jedoch erst teilweise genutzt wird. Das Kinguele-Werk ist ein Meilenstein für die Elektrifizierung und die Reduktion fossiler Energieträger im Land. Energie K6 — Erneuerbare Energien in Gabun."
     },
+    factsAdvanced: {
+      de: ["Kinguele nutzt Wasserkraft zur Stromerzeugung.", "Das Kraftwerk befindet sich nahe dem Fluss Mbei.", "Libreville ist der Hauptabnehmer des produzierten Stroms.", "Wasserkraft ist eine wichtige Säule der gabunischen Energiepolitik.", "Das Projekt trägt zur Reduktion fossiler Brennstoffe bei.", "Die Anlage unterstützt die industrielle Entwicklung der Region."]
+    }
+  },
     description: {
       de: "Ein weiteres bedeutendes Kraftwerk im System der Kristallberge zur Energieerzeugung.",
       hu: "A Kristály-hegység rendszerének egy másik jelentős erőműve az energiatermeléshez.",
@@ -243,7 +278,14 @@ export const poiExtraGabonEconomicV2: POI[] = [
       hu: "Mayumba kikötője",
       ro: "Portul Mayumba",
       en: "Port of Mayumba"
+    ,
+    descriptionAdvanced: {
+      de: "Der Hafen von Mayumba ist ein strategisch wichtiges Projekt zur Erschließung des südlichen Teils von Gabun. Er ist als Tiefwasserhafen konzipiert, um vor allem den Export von Rohstoffen, insbesondere von Eisenerz und Holz, aus dem Süden des Landes und dem Hinterland zu ermöglichen. Die Entwicklung dieses Hafens ist ein Schlüssel zur wirtschaftlichen Öffnung der Provinz Nyanga. Mit der Infrastruktur des Hafens soll eine ganze Region industriell aufgewertet und für internationale Handelspartner besser erreichbar gemacht werden. Wirtschaft K7 — Infrastrukturprojekte."
     },
+    factsAdvanced: {
+      de: ["Mayumba ist ein geplanter Tiefwasserhafen im Süden.", "Der Fokus liegt auf dem Export von Eisenerz und Holz.", "Das Projekt soll die Provinz Nyanga wirtschaftlich öffnen.", "Der Hafen dient als Tor zum globalen Markt.", "Infrastruktur ist ein Schlüssel zum Wirtschaftswachstum.", "Mayumba wird ein zentraler Knotenpunkt für den Südexport."]
+    }
+  },
     description: {
       de: "Ein strategischer Hafen im Süden, der für den Export von Holz und Mineralien ausgebaut wird.",
       hu: "Stratégiai kikötő délen, amelyet fa és ásványi anyagok exportjára fejlesztenek.",
@@ -313,7 +355,14 @@ export const poiExtraGabonEconomicV2: POI[] = [
       hu: "Biniomi mangánbánya",
       ro: "Mina de mangan din Biniomi",
       en: "Biniomi Manganese Mine"
+    ,
+    descriptionAdvanced: {
+      de: "Biniomi ist ein bekannter Standort für Manganabbau in der Provinz Haut-Ogooué. Mangan ist ein entscheidendes Metall für die Stahlproduktion weltweit, und Gabun gehört zu den führenden Exporteuren dieses Rohstoffs. Die Aktivitäten in Biniomi tragen maßgeblich zur wirtschaftlichen Stabilität der Region bei und schaffen zahlreiche Arbeitsplätze. Der Abbau erfolgt in offenen Gruben, was eine weitreichende Flächennutzung und infrastrukturelle Erschließung voraussetzt. Industrie K7 — Rohstoffe in Gabun."
     },
+    factsAdvanced: {
+      de: ["Biniomi ist für Manganvorkommen in Haut-Ogooué bekannt.", "Gabun ist ein global bedeutender Produzent von Mangan.", "Der Abbau ist ein zentraler wirtschaftlicher Faktor für die Region.", "Mangan wird primär in der Stahlherstellung benötigt.", "Die Aktivitäten in Biniomi umfassen modernste Abbaumethoden.", "Der Transport des Erzes erfolgt über das Eisenbahnnetz."]
+    }
+  },
     description: {
       de: "Eine neue Abbaustätte für Mangan zur Erweiterung der Kapazitäten in der Region Moanda.",
       hu: "Új mangánbánya a kapacitások bővítésére Moanda régióban.",
@@ -405,7 +454,14 @@ export const poiExtraGabonEconomicV2: POI[] = [
       hu: "Lucina olajterminál",
       ro: "Terminalul petrolier Lucina",
       en: "Lucina Oil Terminal"
+    ,
+    descriptionAdvanced: {
+      de: "Das Lucina-Terminal ist ein wichtiger Offshore-Ölumschlagplatz vor der Küste Gabuns. Es ist mit verschiedenen Ölplattformen im Lucina-Feld verbunden und dient dazu, das geförderte Rohöl direkt auf Tanker zu leiten. Dieser Terminal-Typ ist eine technologische Notwendigkeit, um Ölressourcen zu erschließen, die weit vor der Küste unter dem Meeresboden liegen. Die effiziente Steuerung dieser Offshore-Logistik ist ein zentraler Bestandteil des Ölsektors Gabuns. Energie K8 — Offshore-Technologien."
     },
+    factsAdvanced: {
+      de: ["Lucina ist ein bedeutender Offshore-Terminalstandort.", "Das Terminal unterstützt die Ölförderung vor der Küste.", "Das Rohöl wird direkt auf Tanker verladen.", "Lucina verbindet mehrere Offshore-Plattformen.", "Die Anlage ist ein Paradebeispiel für moderne Offshore-Logistik.", "Offshore-Förderung ist ein bedeutender Teil der nationalen Ölbilanz."]
+    }
+  },
     description: {
       de: "Ein Offshore-Terminal für die Verladung von Rohöl aus den küstennahen Ölfeldern.",
       hu: "Offshore terminál a part menti olajmezőkről származó nyersolaj berakodására.",
@@ -451,7 +507,14 @@ export const poiExtraGabonEconomicV2: POI[] = [
       hu: "Lastoursville-i fafeldolgozó központ",
       ro: "Centrul de prelucrare a lemnului Lastoursville",
       en: "Lastoursville Timber Processing Hub"
+    ,
+    descriptionAdvanced: {
+      de: "Lastoursville ist ein bedeutendes Zentrum der Holzindustrie im zentralen Gabun. Die Stadt fungiert als Knotenpunkt für den Transport und die Verarbeitung von Tropenholz, das aus den weitläufigen Wäldern der Provinz Ogooué-Lolo gewonnen wird. Durch die Eisenbahnanbindung können große Mengen Holz effizient zu den Exporthäfen transportiert werden. Die Holzindustrie ist neben dem Bergbau ein Eckpfeiler der gabunischen Exportwirtschaft und trägt zur wirtschaftlichen Entwicklung abgelegener Regionen bei. Wirtschaft K7 — Forstwirtschaft und Transport."
     },
+    factsAdvanced: {
+      de: ["Lastoursville ist ein zentraler Hub für den Holzhandel.", "Die Region Ogooué-Lolo ist reich an nutzbaren Edelhölzern.", "Der Holztransport erfolgt per Bahn und LKW.", "Die Stadt hat sich zu einem Zentrum der Holzverarbeitung entwickelt.", "Forstwirtschaft ist ein Hauptarbeitgeber in der Region.", "Der Export erfolgt über die großen Küstenhäfen."]
+    }
+  },
     description: {
       de: "Ein bedeutendes Zentrum im Landesinneren für die erste Verarbeitung von Baumstämmen.",
       hu: "Jelentős belföldi központ a rönkök elsődleges feldolgozására.",
@@ -474,7 +537,14 @@ export const poiExtraGabonEconomicV2: POI[] = [
       hu: "Franceville-i kohászati komplexum",
       ro: "Complexul metalurgic Franceville",
       en: "Franceville Metallurgical Complex"
+    ,
+    descriptionAdvanced: {
+      de: "Der metallurgische Komplex in der Nähe von Franceville ist auf die Weiterverarbeitung von Mangan ausgerichtet. Diese Anlage ist entscheidend, um den Wert der exportierten Rohstoffe vor Ort zu steigern, statt nur rohes Manganerz zu verkaufen. Durch industrielle Aufbereitung können hochwertige Manganlegierungen gewonnen werden, die international stark nachgefragt sind. Der Komplex ist ein Symbol für Gabuns Bemühen, die eigene Industrie zu diversifizieren und lokale industrielle Wertschöpfungsketten aufzubauen. Wirtschaft K8 — Industrielle Weiterverarbeitung."
     },
+    factsAdvanced: {
+      de: ["Die Anlage befindet sich in der Nähe von Franceville.", "Der Fokus liegt auf der Veredelung von Mangan.", "Ziel ist eine lokale Wertschöpfungssteigerung.", "Der Komplex ist ein Schlüsselfaktor der industriellen Strategie Gabuns.", "Manganlegierungen haben einen höheren Marktwert als das Erz.", "Die Anlage bietet qualifizierte Arbeitsplätze in der Provinz."]
+    }
+  },
     description: {
       de: "Industrieanlagen zur Weiterverarbeitung von Manganerz zu Ferromangan.",
       hu: "Ipari létesítmények mangánérc ferromangánná történő feldolgozására.",

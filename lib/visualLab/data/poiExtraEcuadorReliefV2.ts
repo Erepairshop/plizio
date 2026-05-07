@@ -12,7 +12,14 @@ export const poiExtraEcuadorReliefV2: POI[] = [
       hu: "Reventador vulkán",
       ro: "Vulcanul Reventador",
       en: "Reventador Volcano"
+    ,
+    descriptionAdvanced: {
+      en: "El Reventador is an active stratovolcano situated in the eastern Andes, known for its frequent and spectacular eruptions. Standing at approximately 3,562 meters, its activity significantly influences the surrounding ecosystem in the remote cloud forest. Geologically, it is part of the volcanic arc formed by the subduction of the Nazca Plate beneath the South American Plate. This region is a vital area for volcanological research due to its constant activity. Geography K7 — volcanic landforms and plate tectonics."
     },
+    factsAdvanced: {
+      en: ["Elevation: 3,562 meters", "Type: Stratovolcano", "Region: Eastern Andean volcanic arc", "First recorded eruption: 1541", "Primary hazard: Pyroclastic flows", "Geological context: Subduction zone"]
+    }
+  },
     description: {
       de: "Ein hochaktiver Stratovulkan in den östlichen Anden, der häufig Asche und Lava ausstößt.",
       hu: "A keleti Andokban található rendkívül aktív rétegvulkán, amely gyakran lövell ki hamut és lávát.",
@@ -35,7 +42,14 @@ export const poiExtraEcuadorReliefV2: POI[] = [
       hu: "Carihuairazo",
       ro: "Carihuairazo",
       en: "Carihuairazo"
+    ,
+    descriptionAdvanced: {
+      en: "Carihuairazo is an eroded, extinct volcano located near the iconic Chimborazo. Although it is smaller than its famous neighbor, its three peaks—Central, Northern, and Southern—offer a challenging terrain for high-altitude trekking. The mountain features a significant glacier remnant, which is rapidly receding due to climate change. It serves as a stark reminder of the glacial history of the Ecuadorian Andes. Geography K7 — glacial erosion and volcanic formations."
     },
+    factsAdvanced: {
+      en: ["Elevation: 5,018 meters", "Peaks: Three main summits", "Proximity: Located near Chimborazo", "Geological status: Extinct volcano", "Glacial status: Receding glaciers", "Climbing difficulty: High altitude"]
+    }
+  },
     description: {
       de: "Eine stark erodierte vulkanische Caldera in unmittelbarer Nähe des mächtigen Chimborazo.",
       hu: "Egy erősen erodált vulkáni kaldera a hatalmas Chimborazo közvetlen szomszédságában.",
@@ -58,7 +72,14 @@ export const poiExtraEcuadorReliefV2: POI[] = [
       hu: "Sincholagua",
       ro: "Sincholagua",
       en: "Sincholagua"
+    ,
+    descriptionAdvanced: {
+      en: "Sincholagua is a rugged, extinct stratovolcano positioned south of Quito within the Cotopaxi National Park area. It is one of the oldest volcanoes in the region and is characterized by its dramatic, sharp, and jagged peaks which contrast with the smooth slopes of the nearby Cotopaxi. The surrounding highlands are primarily alpine paramo, providing essential water resources and unique flora for the region. Geography K7 — volcanic peaks and paramo ecosystems."
     },
+    factsAdvanced: {
+      en: ["Elevation: 4,893 meters", "Type: Extinct stratovolcano", "Age: Over 2 million years old", "Location: Cotopaxi National Park", "Ecosystem: High-altitude paramo", "Summit structure: Jagged volcanic rock"]
+    }
+  },
     description: {
       de: "Ein inaktiver Vulkan südöstlich von Quito mit einem markanten, felsigen und steilen Gipfel.",
       hu: "Egy inaktív vulkán Quitótól délkeletre, jellegzetes és meredek sziklás csúccsal.",
@@ -81,7 +102,14 @@ export const poiExtraEcuadorReliefV2: POI[] = [
       hu: "Corazón vulkán",
       ro: "Vulcanul Corazón",
       en: "Corazón Volcano"
+    ,
+    descriptionAdvanced: {
+      en: "Corazon is an extinct, eroded volcano named for the heart-shaped appearance of its volcanic caldera when viewed from certain angles. It is located in the Western Cordillera of the Andes and offers panoramic views of the surrounding volcanic avenue. The peak is a popular destination for hikers seeking acclimatization before attempting higher summits in the region. It is a prime example of a caldera collapse structure. Geography K7 — caldera formation and volcanic landscapes."
     },
+    factsAdvanced: {
+      en: ["Elevation: 4,790 meters", "Type: Extinct eroded volcano", "Caldera: Heart-shaped structure", "Location: Western Cordillera", "Access: Popular hiking route", "Terrain: High-altitude volcanic ridge"]
+    }
+  },
     description: {
       de: "Ein ruhender Vulkan, der seinen Namen von seinem herzförmigen Profil bei Betrachtung aus dem Westen hat.",
       hu: "Egy alvó vulkán, amely nyugatról nézve szív alakú profiljáról kapta a nevét.",
@@ -104,7 +132,14 @@ export const poiExtraEcuadorReliefV2: POI[] = [
       hu: "Rumiñahui vulkán",
       ro: "Vulcanul Rumiñahui",
       en: "Rumiñahui Volcano"
+    ,
+    descriptionAdvanced: {
+      en: "Ruminahui is a prominent, ancient volcano consisting of three distinct peaks, located near the Cotopaxi massif. Named after an Inca general, the mountain offers technical trekking opportunities and spectacular views of Cotopaxi and the nearby Sincholagua. Its rocky slopes are covered in paramo grasslands, which are critical for water retention in the central Ecuadorian highlands. It is geologically complex due to multiple past eruptive stages. Geography K7 — volcanic massif and paramo hydrology."
     },
+    factsAdvanced: {
+      en: ["Elevation: 4,722 meters", "Summits: Central, Northern, Southern", "Name origin: Inca general Ruminahui", "Location: Near Cotopaxi National Park", "Ecology: High-altitude grasslands", "History: Ancient eruptive activity"]
+    }
+  },
     description: {
       de: "Ein stark erodierter, ruhender Stratovulkan, der sich majestätisch im Cotopaxi-Nationalpark erhebt.",
       hu: "Egy erősen erodált, alvó rétegvulkán, amely fenségesen magasodik a Cotopaxi Nemzeti Parkban.",

@@ -223,7 +223,7 @@ export const poiExtraTunisiaLandmarksV2: POI[] = [
     description: {
       de: "Das 'Tor zum Meer' bildet die historische Grenze zwischen der mittelalterlichen Medina von Tunis und der modernen Neustadt.",
       hu: "A 'Tenger kapuja' alkotja a történelmi határt Tunisz középkori medinája és a modern újváros között.",
-      ro: "„Poarta Mării” formează granița istorică dintre medina medievală din Tunis și orașul nou modern.",
+      ro: "\"Poarta Mării\" formează granița istorică dintre medina medievală din Tunis și orașul nou modern.",
       en: "The 'Gate to the Sea' forms the historical boundary between the medieval medina of Tunis and the modern new town."
     },
     facts: {

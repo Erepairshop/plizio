@@ -12,7 +12,14 @@ export const poiExtraDemocraticrepublicofcongoEconomicV2: POI[] = [
       hu: "Manono bánya",
       ro: "Mina Manono",
       en: "Manono Mine"
+    ,
+    descriptionAdvanced: {
+      de: "Manono ist weltweit bekannt für seine bedeutenden Lithium-Vorkommen, die eine Schlüsselrolle in der modernen Batterieproduktion spielen. Der Bergbau in dieser Region treibt die lokale wirtschaftliche Entwicklung massiv voran. Wirtschaft K8 — Moderne Rohstoffe."
     },
+    factsAdvanced: {
+      de: ["Weltweit bedeutende Lithium-Vorkommen", "Zentrum für moderne Batterie-Rohstoffe", "Wirtschaftsmotor für die Provinz Tanganyika", "Historische Bedeutung durch Zinnabbau", "Zukünftige Schlüsselrolle in der Elektromobilität", "Intensives industrielle Entwicklungspotenzial"]
+    }
+  },
     description: {
       de: "Die Manono-Mine ist eine der weltweit größten Lagerstätten für Lithium und Zinn und befindet sich in der Provinz Tanganyika.",
       hu: "A Manono bánya a világ egyik legnagyobb lítium- és ónlelőhelye, amely Tanganyika tartományban található.",
@@ -35,7 +42,14 @@ export const poiExtraDemocraticrepublicofcongoEconomicV2: POI[] = [
       hu: "Pharmakina gyár",
       ro: "Fabrica Pharmakina",
       en: "Pharmakina Factory"
+    ,
+    descriptionAdvanced: {
+      de: "Pharmakina ist ein bedeutender Industriestandort in Bukavu, der sich auf die Verarbeitung von Chinarinde zur Herstellung von Chinin spezialisiert hat. Das Unternehmen ist ein wichtiger Exporteur und trägt zur globalen Gesundheitsversorgung bei. Wirtschaft K8 — Pharmazeutische Industrie."
     },
+    factsAdvanced: {
+      de: ["Spezialisierung auf Chinin-Herstellung", "Verarbeitung von Chinarinde", "Wichtiger Industriestandort in Bukavu", "Bedeutender Exporteur für den pharmazeutischen Markt", "Beitrag zur globalen Malariabekämpfung", "Wichtiger lokaler Arbeitgeber"]
+    }
+  },
     description: {
       de: "Pharmakina in Bukavu ist die größte Fabrik in Afrika zur Herstellung von Chinin aus Cinchona-Rinde zur Bekämpfung von Malaria.",
       hu: "A bukavui Pharmakina Afrika legnagyobb gyára, amely kínafa kérgéből állít elő kinint a malária elleni küzdelemhez.",
@@ -58,7 +72,14 @@ export const poiExtraDemocraticrepublicofcongoEconomicV2: POI[] = [
       hu: "Sotexki üzem",
       ro: "Fabrica Sotexki",
       en: "Sotexki Plant"
+    ,
+    descriptionAdvanced: {
+      de: "Sotexki in Kisangani ist eine der größten Textilfabriken des Landes. Die Fabrik ist ein Symbol für die industrielle Kapazität der Provinz Tshopo und spielt eine wichtige Rolle bei der Herstellung von Baumwolltextilien für den Binnenmarkt. Wirtschaft K7 — Industrieproduktion."
     },
+    factsAdvanced: {
+      de: ["Eine der größten Textilfabriken des Landes", "Standort in Kisangani", "Produktion von Baumwolltextilien", "Wichtige industrielle Kapazität in der Provinz Tshopo", "Versorgung des Binnenmarktes", "Bedeutung für die lokale Arbeitsmarktstruktur"]
+    }
+  },
     description: {
       de: "Die Sotexki-Textilfabrik in Kisangani ist eines der wenigen verbliebenen großen Textilunternehmen im Norden des Landes.",
       hu: "A kisangani Sotexki textilgyár az ország északi részének egyik utolsó megmaradt nagy textilipari vállalata.",
@@ -81,7 +102,14 @@ export const poiExtraDemocraticrepublicofcongoEconomicV2: POI[] = [
       hu: "Katana cementgyár",
       ro: "Fabrica de ciment Katana",
       en: "Katana Cement Plant"
+    ,
+    descriptionAdvanced: {
+      de: "Die Zementproduktion in Katana spielt eine entscheidende Rolle bei der Versorgung der Baubranche in Ost-Kongo. Angesichts des wachsenden Baubedarfs in Städten wie Bukavu und Goma ist diese Industrie von zentraler Bedeutung für die Region. Wirtschaft K7 — Baustoffe."
     },
+    factsAdvanced: {
+      de: ["Zementproduktion für die Region Ost-Kongo", "Wichtiger Baustofflieferant", "Versorgung der Baubranche in Bukavu und Goma", "Regionale Bedeutung für Infrastrukturprojekte", "Wachsender Industriestandort", "Beitrag zum städtischen Ausbau"]
+    }
+  },
     description: {
       de: "Das Zementwerk in Katana am westlichen Ufer des Kivusees versorgt die Region Süd-Kivu mit wichtigen Baumaterialien.",
       hu: "A Kivu-tó nyugati partján, Katanában található cementgyár fontos építőanyagokkal látja el a Dél-Kivu régiót.",
@@ -105,7 +133,14 @@ export const poiExtraDemocraticrepublicofcongoEconomicV2: POI[] = [
       hu: "Brasimba sörfőzde",
       ro: "Berăria Brasimba",
       en: "Brasimba Brewery"
+    ,
+    descriptionAdvanced: {
+      de: "Brasimba ist eine der bedeutendsten Brauereigruppen des Landes mit Standorten in verschiedenen Provinzen, darunter Haut-Katanga. Die Gruppe trägt signifikant zur industriellen Produktion und zum regionalen Wirtschaftswachstum durch Arbeitsplätze und Steuern bei. Wirtschaft K7 — Getränkeindustrie."
     },
+    factsAdvanced: {
+      de: ["Bedeutende Brauereigruppe", "Produktion von Getränken für den nationalen Markt", "Wichtige Standorte in der Katanga-Region", "Beitrag zum Wirtschaftswachstum", "Signifikante industrielle Produktion", "Wichtiger lokaler Arbeitgeber"]
+    }
+  },
     description: {
       de: "Die Brasimba-Brauerei in Lubumbashi ist ein führendes Unternehmen in der Getränkeindustrie des südlichen Kongo.",
       hu: "A lubumbashi Brasimba sörfőzde Dél-Kongó italiparának egyik vezető vállalata.",
@@ -128,7 +163,14 @@ export const poiExtraDemocraticrepublicofcongoEconomicV2: POI[] = [
       hu: "Marsavco üzem",
       ro: "Fabrica Marsavco",
       en: "Marsavco Plant"
+    ,
+    descriptionAdvanced: {
+      de: "Marsavco mit Sitz in Kinshasa ist ein führendes Unternehmen im Bereich der Produktion von Konsumgütern, insbesondere Speiseölen und Seifen. Das Unternehmen ist ein zentraler Akteur in der städtischen Wirtschaft und der Versorgung des Binnenmarktes. Wirtschaft K7 — Konsumgüter."
     },
+    factsAdvanced: {
+      de: ["Führender Produzent von Speiseölen und Seifen", "Sitz in Kinshasa", "Zentraler Akteur der städtischen Wirtschaft", "Versorgung des Binnenmarktes mit Konsumgütern", "Industrielle Produktion im Bereich Haushaltsbedarf", "Wichtige Rolle im städtischen Handel"]
+    }
+  },
     description: {
       de: "Marsavco ist ein bedeutendes Industrieunternehmen in Kinshasa, das Seifen, Speiseöle und Margarine für den nationalen Markt herstellt.",
       hu: "A Marsavco Kinshasa egyik jelentős ipari vállalata, amely szappant, étolajat és margarint gyárt a hazai piacra.",
@@ -151,7 +193,14 @@ export const poiExtraDemocraticrepublicofcongoEconomicV2: POI[] = [
       hu: "Midema malom, Matadi",
       ro: "Moara Midema Matadi",
       en: "Midema Mill Matadi"
+    ,
+    descriptionAdvanced: {
+      de: "Midema in Matadi ist ein bedeutender Akteur in der Müllereiindustrie und die wichtigste Getreidemühle des Landes. Die strategische Lage im Hafen Matadi ermöglicht die Verarbeitung von Weizenimporten für den nationalen Markt. Wirtschaft K7 — Ernährungssicherheit."
     },
+    factsAdvanced: {
+      de: ["Bedeutende Müllereiindustrie", "Wichtigste Getreidemühle des Landes", "Standort: Hafen von Matadi", "Verarbeitung von Weizenimporten", "Beitrag zur Ernährungssicherheit", "Logistische Bedeutung am Hafen"]
+    }
+  },
     description: {
       de: "Die Minoterie de Matadi (Midema) ist eine der größten Weizenmühlen des Landes und sichert die Mehlversorgung von Kinshasa.",
       hu: "A Minoterie de Matadi (Midema) az ország egyik legnagyobb búzamalma, amely biztosítja Kinshasa lisztellátását.",
@@ -174,7 +223,14 @@ export const poiExtraDemocraticrepublicofcongoEconomicV2: POI[] = [
       hu: "Uvira kikötője",
       ro: "Portul Uvira",
       en: "Port of Uvira"
+    ,
+    descriptionAdvanced: {
+      de: "Der Hafen von Uvira am Tanganjika-See ist ein entscheidendes Tor für den Handel mit den östlichen Nachbarländern. Er verbindet den Kongo über den See effizient mit den Handelswegen in Richtung Ostafrika. Geografie K7 — See-Logistik."
     },
+    factsAdvanced: {
+      de: ["Hafen am Tanganjika-See", "Tor für den Handel mit Nachbarländern", "Verbindung zu ostafrikanischen Handelswegen", "Regionale logistische Bedeutung", "Wichtiger Umschlagplatz für Waren", "Strategische Lage in Süd-Kivu"]
+    }
+  },
     description: {
       de: "Der Hafen von Uvira, auch Kalundu genannt, ist ein strategischer Binnenhafen am Nordufer des Tanganjikasees.",
       hu: "Uvira kikötője, más néven Kalundu, stratégiai jelentőségű belföldi kikötő a Tanganyika-tó északi partján.",
@@ -197,7 +253,14 @@ export const poiExtraDemocraticrepublicofcongoEconomicV2: POI[] = [
       hu: "Goma kikötője",
       ro: "Portul Goma",
       en: "Port of Goma"
+    ,
+    descriptionAdvanced: {
+      de: "Der Hafen von Goma am Kivu-See ist ein unverzichtbarer Knotenpunkt für die Versorgung der Stadt und die Vernetzung innerhalb der Region Nord-Kivu. Er spielt eine zentrale Rolle im Transport von Lebensmitteln und Baustoffen. Geografie K7 — See-Transport."
     },
+    factsAdvanced: {
+      de: ["Hafen am Kivu-See", "Versorgungsknotenpunkt für Goma", "Vernetzung innerhalb der Region Nord-Kivu", "Transport von Lebensmitteln und Baustoffen", "Wichtige logistische Rolle", "Zentral für die regionale Infrastruktur"]
+    }
+  },
     description: {
       de: "Der Hafen von Goma verbindet die Provinzhauptstadt von Nord-Kivu über den Kivusee mit Bukavu und Ruanda.",
       hu: "Goma kikötője a Kivu-tavon keresztül köti össze Észak-Kivu tartományi fővárosát Bukavuval és Ruandával.",
@@ -220,7 +283,14 @@ export const poiExtraDemocraticrepublicofcongoEconomicV2: POI[] = [
       hu: "Bukavu kikötője",
       ro: "Portul Bukavu",
       en: "Port of Bukavu"
+    ,
+    descriptionAdvanced: {
+      de: "Der Hafen von Bukavu ist das logistische Rückgrat der Stadt am Südufer des Kivu-Sees. Er ermöglicht den Personen- und Warentransport, der für das tägliche Leben und die wirtschaftliche Dynamik der Provinz Süd-Kivu unabdingbar ist. Geografie K7 — See-Infrastruktur."
     },
+    factsAdvanced: {
+      de: ["Hafen am Südufer des Kivu-Sees", "Logistisches Rückgrat von Bukavu", "Personen- und Warentransport", "Bedeutung für die wirtschaftliche Dynamik", "Zentrum für den regionalen Austausch", "Wichtige Hafenanlage"]
+    }
+  },
     description: {
       de: "Der Hafen von Bukavu am südlichen Ende des Kivusees ist ein zentraler Anlaufpunkt für Schiffe aus Goma und Idjwi.",
       hu: "A Kivu-tó déli végén található bukavui kikötő a Gomából és Idjwiből érkező hajók központi kikötője.",
@@ -243,7 +313,14 @@ export const poiExtraDemocraticrepublicofcongoEconomicV2: POI[] = [
       hu: "Bumba kikötője",
       ro: "Portul Bumba",
       en: "Port of Bumba"
+    ,
+    descriptionAdvanced: {
+      de: "Bumba am Kongo-Fluss fungiert als wichtiger Umschlagplatz für landwirtschaftliche Produkte aus dem nördlichen Kongobecken. Der Hafen ist das Herzstück des Handels in der Provinz Mongala und entscheidend für die Anbindung an die Flusshauptrouten. Geografie K7 — Flusshandel."
     },
+    factsAdvanced: {
+      de: ["Hafen am Kongo-Fluss", "Wichtiger Umschlagplatz für Agrarprodukte", "Handelsherz der Provinz Mongala", "Anbindung an Hauptflusshauptrouten", "Regionale logistische Bedeutung", "Wichtiger Standort für Flusskähne"]
+    }
+  },
     description: {
       de: "Bumba ist ein bedeutender Flusshafen am Kongo-Fluss, der als wichtigster Exportpunkt für landwirtschaftliche Produkte der Mongala-Region dient.",
       hu: "Bumba jelentős folyami kikötő a Kongó folyón, amely a Mongala régió mezőgazdasági termékeinek legfontosabb exportpontjaként szolgál.",
@@ -266,7 +343,14 @@ export const poiExtraDemocraticrepublicofcongoEconomicV2: POI[] = [
       hu: "Kindu kikötője",
       ro: "Portul Kindu",
       en: "Port of Kindu"
+    ,
+    descriptionAdvanced: {
+      de: "Kindu ist ein wichtiger Fluss- und Bahnhafen. Seine strategische Lage am Lualaba-Fluss macht ihn zu einem entscheidenden Glied in der Logistikkette, die die östlichen Provinzen mit dem restlichen Land vernetzt. Geografie K7 — Multimodaler Verkehr."
     },
+    factsAdvanced: {
+      de: ["Fluss- und Bahnhafen", "Lage am Lualaba-Fluss", "Entscheidendes Glied der Logistikkette", "Vernetzung der östlichen Provinzen", "Regionale logistische Kapazität", "Wichtiger Umschlagpunkt"]
+    }
+  },
     description: {
       de: "Der Hafen von Kindu am Lualaba-Fluss ist der nördliche Endpunkt der Eisenbahnlinie aus dem Süden und ein wichtiger Umschlagplatz.",
       hu: "A Lualaba folyó partján fekvő Kindu kikötője a délről érkező vasútvonal északi végpontja és egy fontos átrakodóhely.",
@@ -289,7 +373,14 @@ export const poiExtraDemocraticrepublicofcongoEconomicV2: POI[] = [
       hu: "Bandundu kikötője",
       ro: "Portul Bandundu",
       en: "Port of Bandundu"
+    ,
+    descriptionAdvanced: {
+      de: "Der Hafen von Bandundu am Kwango-Fluss ist ein zentraler Umschlagplatz für die Warenströme, die von den Provinzen Kwango und Kwilu in Richtung Kinshasa transportiert werden. Die effiziente Flussschifffahrt ist hier der Motor des regionalen Handels. Geografie K7 — Flusslogistik."
     },
+    factsAdvanced: {
+      de: ["Hafen am Kwango-Fluss", "Zentraler Umschlagplatz für Warenströme", "Verbindung in Richtung Kinshasa", "Bedeutung für die Provinzen Kwango und Kwilu", "Motor des regionalen Handels", "Zentrum für Flusskähne"]
+    }
+  },
     description: {
       de: "Der Hafen von Bandundu liegt am Zusammenfluss von Kwilu und Kwango und ist ein entscheidender Versorgungspunkt für Kinshasa.",
       hu: "Bandundu kikötője a Kwilu és a Kwango folyók összefolyásánál található, és Kinshasa ellátásának döntő pontja.",
@@ -312,7 +403,14 @@ export const poiExtraDemocraticrepublicofcongoEconomicV2: POI[] = [
       hu: "Basankusu kikötője",
       ro: "Portul Basankusu",
       en: "Port of Basankusu"
+    ,
+    descriptionAdvanced: {
+      de: "Basankusu am Zusammenfluss von Lopori und Maringa ist ein wichtiger Hafenstandort in der Provinz Équateur. Er ist der Sammelpunkt für die landwirtschaftliche Produktion der Region, die von dort aus auf dem Flussweg transportiert wird. Geografie K7 — Flusshandel."
     },
+    factsAdvanced: {
+      de: ["Lage am Zusammenfluss von Lopori und Maringa", "Wichtiger Hafenstandort in der Provinz Équateur", "Sammelpunkt für landwirtschaftliche Produkte", "Transportweg auf den Flüssen", "Regionale Bedeutung für den Handel", "Standort für Flusslogistik"]
+    }
+  },
     description: {
       de: "Der Hafen von Basankusu ist ein wichtiges Zentrum für den Transport von Palmöl aus den umliegenden Plantagen der Provinz Équateur.",
       hu: "Basankusu kikötője az Équateur tartomány környező ültetvényeiről származó pálmaolaj szállításának fontos központja.",
@@ -335,7 +433,14 @@ export const poiExtraDemocraticrepublicofcongoEconomicV2: POI[] = [
       hu: "Aketi kikötője",
       ro: "Portul Aketi",
       en: "Port of Aketi"
+    ,
+    descriptionAdvanced: {
+      de: "Der Hafen von Aketi ist ein entscheidender Knotenpunkt zwischen der nördlichen Schieneninfrastruktur und dem Flussverkehr. Er dient als wichtiges logistisches Tor für den Export von Agrarprodukten aus den nördlichen Regionen in den Kongo-Flusskorridor. Geografie K7 — Multimodal."
     },
+    factsAdvanced: {
+      de: ["Knotenpunkt zwischen Schiene und Fluss", "Logistisches Tor für Agrarprodukte", "Region: Bas-Uélé", "Bedeutung für den nördlichen Kongo-Flusskorridor", "Zentrum für Gütertransport", "Wichtige Infrastrukturanbindung"]
+    }
+  },
     description: {
       de: "Der Hafen von Aketi am Itimbiri-Fluss war historisch ein bedeutender Knotenpunkt für den Export landwirtschaftlicher Produkte aus dem Norden.",
       hu: "Az Itimbiri folyó partján fekvő Aketi kikötője történelmileg jelentős csomópont volt az északi mezőgazdasági termékek exportjában.",
@@ -359,7 +464,14 @@ export const poiExtraDemocraticrepublicofcongoEconomicV2: POI[] = [
       hu: "SICOMINES bánya",
       ro: "Mina SICOMINES",
       en: "SICOMINES Mine"
+    ,
+    descriptionAdvanced: {
+      de: "Sicomines ist eines der größten Bergbauprojekte im Kongo. Das Gemeinschaftsunternehmen im Bereich des Kupfer- und Kobaltabbaus hat eine enorme Bedeutung für die nationale Infrastruktur und die industrielle Entwicklung der Provinz Lualaba. Wirtschaft K8 — Industrieprojekte."
     },
+    factsAdvanced: {
+      de: ["Eines der größten Bergbauprojekte im Land", "Schwerpunkt: Kupfer- und Kobaltabbau", "Bedeutung für die nationale Infrastruktur", "Region: Lualaba", "Wichtige industrielle Entwicklung", "Wirtschaftliches Großprojekt"]
+    }
+  },
     description: {
       de: "SICOMINES ist ein massives Gemeinschaftsunternehmen in Kolwezi, das zu den größten Kupfer- und Kobaltproduzenten des Landes zählt.",
       hu: "A SICOMINES egy hatalmas vegyesvállalat Kolweziben, amely az ország legnagyobb réz- és kobalttermelői közé tartozik.",
@@ -383,7 +495,14 @@ export const poiExtraDemocraticrepublicofcongoEconomicV2: POI[] = [
       hu: "Mongbwalu aranybánya",
       ro: "Mina de aur Mongbwalu",
       en: "Mongbwalu Gold Mine"
+    ,
+    descriptionAdvanced: {
+      de: "Mongbwalu ist historisch und gegenwärtig ein wichtiges Goldabbaugebiet in der Provinz Ituri. Die Bergbauaktivitäten hier sind eine wesentliche Einnahmequelle und prägen die wirtschaftliche Landschaft der gesamten Region maßgeblich. Wirtschaft K8 — Rohstoffe."
     },
+    factsAdvanced: {
+      de: ["Bedeutendes Goldabbaugebiet", "Region: Ituri", "Wesentliche Einnahmequelle der Region", "Historische Bergbautradition", "Wirtschaftlicher Motor des Gebiets", "Bergbauinfrastruktur"]
+    }
+  },
     description: {
       de: "Die Mongbwalu-Goldmine in der Provinz Ituri ist ein bedeutendes Zentrum für den Goldabbau im Nordosten des Kongo.",
       hu: "Az Ituri tartományban található Mongbwalu aranybánya a Kongó északkeleti részének jelentős aranybányászati központja.",
@@ -406,7 +525,14 @@ export const poiExtraDemocraticrepublicofcongoEconomicV2: POI[] = [
       hu: "Musonoie bánya",
       ro: "Mina Musonoie",
       en: "Musonoie Mine"
+    ,
+    descriptionAdvanced: {
+      de: "Musonoie ist ein bedeutender Standort innerhalb des Bergbaukomplexes von Kolwezi. Die Kupfer- und Kobaltförderung hier trägt maßgeblich zur Produktion in einer der industriereichsten Zonen des Landes bei. Wirtschaft K8 — Industriezone."
     },
+    factsAdvanced: {
+      de: ["Standort im Bergbaukomplex von Kolwezi", "Kupfer- und Kobaltförderung", "Teil einer der industriereichsten Zonen", "Region: Lualaba", "Bedeutung für den Export", "Standort moderner Abbaumethoden"]
+    }
+  },
     description: {
       de: "Die Musonoie-Mine bei Kolwezi ist ein wichtiger Standort für die Gewinnung von Kupfer- und Kobalterzen im kongolesischen Kupfergürtel.",
       hu: "A Kolwezi melletti Musonoie bánya a réz- és kobaltérc kitermelésének fontos helyszíne a kongói rézövben.",
@@ -429,7 +555,14 @@ export const poiExtraDemocraticrepublicofcongoEconomicV2: POI[] = [
       hu: "Kimpere mangánbánya",
       ro: "Mina de mangan Kimpere",
       en: "Kimpere Manganese Mine"
+    ,
+    descriptionAdvanced: {
+      de: "Kimpere steht exemplarisch für die Bergbauaktivitäten im Süden des Landes, bei denen verschiedene Mineralien abgebaut werden. Diese Projekte sind von zentraler Bedeutung für die wirtschaftliche Belebung der betroffenen Provinzen. Wirtschaft K8 — Rohstoffabbau."
     },
+    factsAdvanced: {
+      de: ["Standort für Bergbauaktivitäten", "Vorkommen verschiedener Mineralien", "Wirtschaftliche Bedeutung für den Süden", "Wichtiger lokaler Arbeitgeber", "Beitrag zur regionalen Belebung", "Teil der industriellen Rohstofflandschaft"]
+    }
+  },
     description: {
       de: "Die Kimpere-Mine in der Region Kisenge ist bekannt für ihre bedeutenden Manganvorkommen im Süden des Landes.",
       hu: "A Kisenge régióban található Kimpere bánya az ország déli részének jelentős mangánlelőhelyeiről ismert.",
@@ -452,7 +585,14 @@ export const poiExtraDemocraticrepublicofcongoEconomicV2: POI[] = [
       hu: "Lisala kikötője",
       ro: "Portul Lisala",
       en: "Port of Lisala"
+    ,
+    descriptionAdvanced: {
+      de: "Lisala am Kongo-Fluss ist ein wichtiger regionaler Hafenstandort in der Provinz Mongala. Die Stadt fungiert als Sammelstelle für die landwirtschaftliche Produktion der Umgebung und spielt eine Schlüsselrolle für den lokalen Handel entlang des Flusses. Geografie K7 — Flusshandel."
     },
+    factsAdvanced: {
+      de: ["Hafen am Kongo-Fluss", "Sammelstelle für landwirtschaftliche Produkte", "Region: Mongala", "Schlüsselrolle für den lokalen Handel", "Wichtiger Standort für Flusslogistik", "Standort am Flussufer"]
+    }
+  },
     description: {
       de: "Der Hafen von Lisala am Kongo-Fluss ist ein zentraler Handelsstützpunkt für den Transport von Agrarprodukten in der Provinz Mongala.",
       hu: "A Kongó folyó partján fekvő Lisala kikötője a mezőgazdasági termékek szállításának központi kereskedelmi bázisa Mongala tartományban.",

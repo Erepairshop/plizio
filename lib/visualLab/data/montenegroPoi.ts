@@ -85,7 +85,7 @@ export const montenegroAllPoi: POI[] = [
     description: {
       de: "Das 'verwunschene Gebirge', bekannt für seine schroffe und dramatische Landschaft.",
       hu: "Az 'elátkozott hegyek', melyek zord és drámai tájukról ismertek.",
-      ro: "„Munții Blestemați”, cunoscuți pentru peisajul lor accidentat și dramatic.",
+      ro: "\\\"Munții Blestemați\\\", cunoscuți pentru peisajul lor accidentat și dramatic.",
       en: "The 'Accursed Mountains', known for their rugged and dramatic landscape."
     },
     descriptionAdvanced: {

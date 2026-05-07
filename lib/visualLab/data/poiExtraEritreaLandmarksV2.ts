@@ -9,7 +9,13 @@ export const poiExtraEritreaLandmarksV2: POI[] = [
     coords: [38.9328, 15.3385],
     name: { de: "Asmara Opernhaus", hu: "Aszmara Operaház", ro: "Opera din Asmara", en: "Asmara Opera House" },
     description: { de: "Ein historisches Opernhaus in Asmara aus der italienischen Kolonialzeit, das für seine elegante Architektur bekannt ist.", hu: "Történelmi operaház Aszmarában az olasz gyarmati időszakból, mely elegáns építészetéről ismert.", ro: "O operă istorică din Asmara din perioada colonială italiană, cunoscută pentru arhitectura sa elegantă.", en: "A historical opera house in Asmara from the Italian colonial period, known for its elegant architecture." },
-    facts: { de: ["Erbaut im Jahr 1918.", "Zeigt klassische Stilelemente.", "Wichtiges kulturelles Zentrum.", "Gut erhaltene Fassade."], hu: ["1918-ban épült.", "Klasszikus stílusjegyeket mutat.", "Fontos kulturális központ.", "Jól megőrzött homlokzat."], ro: ["Construit în anul 1918.", "Prezintă elemente de stil clasic.", "Centru cultural important.", "Fațadă bine conservată."], en: ["Built in 1918.", "Shows classical style elements.", "Important cultural center.", "Well-preserved facade."] }, image: "/poi-images/er-asmara-opera-house-landmarks-v2.webp"},
+    facts: { de: ["Erbaut im Jahr 1918.", "Zeigt klassische Stilelemente.", "Wichtiges kulturelles Zentrum.", "Gut erhaltene Fassade."], hu: ["1918-ban épült.", "Klasszikus stílusjegyeket mutat.", "Fontos kulturális központ.", "Jól megőrzött homlokzat."], ro: ["Construit în anul 1918.", "Prezintă elemente de stil clasic.", "Centru cultural important.", "Fațadă bine conservată."], en: ["Built in 1918.", "Shows classical style elements.", "Important cultural center.", "Well-preserved facade."] },
+    descriptionAdvanced: {
+      de: "Das Opernhaus von Asmara, das Teatro Asmara, ist ein architektonisches Meisterwerk im italienischen Stil, das 1918 fertiggestellt wurde. Es ist eines der elegantesten Gebäude der Stadt und vereint neoklassizistische Elemente mit lokalen Stileinflüssen der Zeit. Heute dient das Gebäude als wichtiges Kulturzentrum für Theateraufführungen und öffentliche Veranstaltungen. Es ist ein lebendiges Beispiel für die architektonische Vielfalt, die den UNESCO-Welterbestatus von Asmara mitbegründet hat. Kunst K6 – Architektur und kulturelle Identität."
+    },
+    factsAdvanced: {
+      de: ["Fertigstellung im Jahr 1918.", "Repräsentatives Beispiel für die koloniale Architektur in Asmara.", "Kombination aus neoklassizistischem Stil und lokaler Ästhetik.", "Zentraler Veranstaltungsort für Kultur und Theater.", "Bestandteil des UNESCO-Weltkulturerbes von Asmara.", "Architektonisches Wahrzeichen im Stadtzentrum."]
+    }, image: "/poi-images/er-asmara-opera-house-landmarks-v2.webp"},
   {
     id: "er-kino-roma-landmarks-v2",
     type: "landmark",
@@ -17,7 +23,13 @@ export const poiExtraEritreaLandmarksV2: POI[] = [
     coords: [38.9351, 15.3340],
     name: { de: "Kino Roma", hu: "Roma Mozi", ro: "Cinema Roma", en: "Cinema Roma" },
     description: { de: "Ein ikonisches Art-déco-Kino in Asmara, das noch heute Filme zeigt und ein beliebtes Café beherbergt.", hu: "Ikonikus art deco mozi Aszmarában, amely ma is vetít filmeket és egy népszerű kávézónak ad otthont.", ro: "Un cinematograf iconic Art Deco din Asmara, care prezintă încă filme și găzduiește o cafenea populară.", en: "An iconic Art Deco cinema in Asmara that still shows movies and houses a popular cafe." },
-    facts: { de: ["Typisches Art-déco-Design.", "Eröffnet in den 1930er Jahren.", "Ursprünglich Cinema Excelsior genannt.", "Beliebter Treffpunkt in der Stadt."], hu: ["Tipikus art deco dizájn.", "Az 1930-as években nyílt meg.", "Eredeti neve Cinema Excelsior volt.", "Népszerű találkozóhely a városban."], ro: ["Design tipic Art Deco.", "Deschis în anii 1930.", "Numit inițial Cinema Excelsior.", "Loc de întâlnire popular în oraș."], en: ["Typical Art Deco design.", "Opened in the 1930s.", "Originally named Cinema Excelsior.", "Popular meeting place in the city."] }, image: "/poi-images/er-kino-roma-landmarks-v2.webp"},
+    facts: { de: ["Typisches Art-déco-Design.", "Eröffnet in den 1930er Jahren.", "Ursprünglich Cinema Excelsior genannt.", "Beliebter Treffpunkt in der Stadt."], hu: ["Tipikus art deco dizájn.", "Az 1930-as években nyílt meg.", "Eredeti neve Cinema Excelsior volt.", "Népszerű találkozóhely a városban."], ro: ["Design tipic Art Deco.", "Deschis în anii 1930.", "Numit inițial Cinema Excelsior.", "Loc de întâlnire popular în oraș."], en: ["Typical Art Deco design.", "Opened in the 1930s.", "Originally named Cinema Excelsior.", "Popular meeting place in the city."] },
+    descriptionAdvanced: {
+      de: "Das Kino Roma in Asmara ist eines der beeindruckendsten Filmtheater aus der Kolonialzeit und zeugt von der Bedeutung, die das Kino für die städtische Gesellschaft hatte. Mit seiner markanten Fassade und dem aufwendigen Interieur im Stil des Art Déco spiegelt es den Zeitgeist der 1930er Jahre wider. Es ist nach wie vor in Betrieb und bietet einen nostalgischen Einblick in die Unterhaltungskultur früherer Jahrzehnte. Die Erhaltung dieses Gebäudes ist ein wesentlicher Teil des kulturellen Erbes von Asmara. Kunst K7 – Filmgeschichte und Architektur."
+    },
+    factsAdvanced: {
+      de: ["Gebaut während der 1930er Jahre im Art-Déco-Stil.", "Eines der am besten erhaltenen historischen Kinos in Asmara.", "Architektonisches Beispiel für die koloniale Unterhaltungskultur.", "Noch immer in Betrieb als Filmtheater.", "Markante Fassade und aufwendiges Interieur.", "Kulturelles Wahrzeichen der Stadt Asmara."]
+    }, image: "/poi-images/er-kino-roma-landmarks-v2.webp"},
   {
     id: "er-synagogue-asmara-landmarks-v2",
     type: "landmark",
@@ -25,7 +37,13 @@ export const poiExtraEritreaLandmarksV2: POI[] = [
     coords: [38.9392, 15.3333],
     name: { de: "Synagoge von Asmara", hu: "Aszmarai Zsinagóga", ro: "Sinagoga din Asmara", en: "Asmara Synagogue" },
     description: { de: "Das einzige erhaltene jüdische Gotteshaus in Eritrea, das von der einst blühenden jüdischen Gemeinde der Stadt zeugt.", hu: "Az egyetlen fennmaradt zsidó imahely Eritreában, amely a város egykor virágzó zsidó közösségéről tanúskodik.", ro: "Singurul lăcaș de cult evreiesc supraviețuitor din Eritreea, care stă mărturie a comunității evreiești odinioară înfloritoare din oraș.", en: "The only surviving Jewish place of worship in Eritrea, testifying to the city's once thriving Jewish community." },
-    facts: { de: ["Erbaut im Jahr 1906.", "Zentrum der jüdischen Gemeinde.", "Klassische Architektur.", "Heute ein wichtiges historisches Denkmal."], hu: ["1906-ban épült.", "A zsidó közösség központja.", "Klasszikus építészet.", "Ma fontos történelmi műemlék."], ro: ["Construită în anul 1906.", "Centrul comunității evreiești.", "Arhitectură clasică.", "Astăzi un monument istoric important."], en: ["Built in 1906.", "Center of the Jewish community.", "Classical architecture.", "Today an important historical monument."] }, image: "/poi-images/er-synagogue-asmara-landmarks-v2.webp"},
+    facts: { de: ["Erbaut im Jahr 1906.", "Zentrum der jüdischen Gemeinde.", "Klassische Architektur.", "Heute ein wichtiges historisches Denkmal."], hu: ["1906-ban épült.", "A zsidó közösség központja.", "Klasszikus építészet.", "Ma fontos történelmi műemlék."], ro: ["Construită în anul 1906.", "Centrul comunității evreiești.", "Arhitectură clasică.", "Astăzi un monument istoric important."], en: ["Built in 1906.", "Center of the Jewish community.", "Classical architecture.", "Today an important historical monument."] },
+    descriptionAdvanced: {
+      de: "Die Synagoge in Asmara ist ein seltenes architektonisches Zeugnis der jüdischen Gemeinde, die einst ein wichtiger Bestandteil des multikulturellen Mosaiks der Stadt war. Das Gebäude wurde 1906 errichtet und besticht durch eine schlichte, aber würdevolle Architektur, die sich harmonisch in das Stadtbild einfügt. Obwohl die Gemeinde heute kaum noch existiert, bleibt die Synagoge ein bedeutendes Symbol für die religiöse Toleranz und Geschichte Eritreas. Es bietet einen tiefen Einblick in die religiöse Diversität der frühen Kolonialgeschichte. Geschichte K8 – Religiöse Gemeinschaften in der Diaspora."
+    },
+    factsAdvanced: {
+      de: ["Erbaut im Jahr 1906 für die jüdische Gemeinde.", "Zeugnis der religiösen Vielfalt in der Geschichte von Asmara.", "Architektonisch schlichte und würdevolle Gestaltung.", "Symbol für das multikulturelle Erbe der Stadt.", "Wichtiger Ort für die Erforschung der Diaspora-Geschichte.", "Bestandteil des historischen Stadtbildes."]
+    }, image: "/poi-images/er-synagogue-asmara-landmarks-v2.webp"},
   {
     id: "er-kidane-mehret-cathedral-landmarks-v2",
     type: "landmark",
@@ -33,7 +51,13 @@ export const poiExtraEritreaLandmarksV2: POI[] = [
     coords: [38.9315, 15.3378],
     name: { de: "Kidane-Mehret-Kathedrale", hu: "Kidane Mehret Katedrális", ro: "Catedrala Kidane Mehret", en: "Kidane Mehret Cathedral" },
     description: { de: "Eine markante katholische Kathedrale des eritreischen Ritus in Asmara, bekannt für ihre beeindruckende Ziegelarchitektur.", hu: "Az eritreai rítusú katolikus egyház lenyűgöző téglatemploma Aszmarában.", ro: "O catedrală catolică proeminentă de rit eritreean din Asmara, cunoscută pentru arhitectura sa impresionantă din cărămidă.", en: "A striking Catholic cathedral of the Eritrean rite in Asmara, known for its impressive brick architecture." },
-    facts: { de: ["Erbaut im Jahr 1969.", "Zentrum der eritreisch-katholischen Kirche.", "Auffällige Backsteinfassade.", "Wahrzeichen von Asmara."], hu: ["1969-ben épült.", "Az eritreai katolikus egyház központja.", "Feltűnő tégla homlokzat.", "Aszmara egyik jelképe."], ro: ["Construită în anul 1969.", "Centrul Bisericii Catolice Eritreene.", "Fațadă izbitoare din cărămidă.", "Punct de reper al orașului Asmara."], en: ["Built in 1969.", "Center of the Eritrean Catholic Church.", "Striking brick facade.", "Landmark of Asmara."] }, image: "/poi-images/er-kidane-mehret-cathedral-landmarks-v2.webp"},
+    facts: { de: ["Erbaut im Jahr 1969.", "Zentrum der eritreisch-katholischen Kirche.", "Auffällige Backsteinfassade.", "Wahrzeichen von Asmara."], hu: ["1969-ben épült.", "Az eritreai katolikus egyház központja.", "Feltűnő tégla homlokzat.", "Aszmara egyik jelképe."], ro: ["Construită în anul 1969.", "Centrul Bisericii Catolice Eritreene.", "Fațadă izbitoare din cărămidă.", "Punct de reper al orașului Asmara."], en: ["Built in 1969.", "Center of the Eritrean Catholic Church.", "Striking brick facade.", "Landmark of Asmara."] },
+    descriptionAdvanced: {
+      de: "Die Kidane-Mehret-Kathedrale in Asmara ist ein herausragendes sakrales Gebäude und ein Zentrum des äthiopisch-orthodoxen Glaubens in der Stadt. Die Kathedrale zeichnet sich durch ihre imposante Kuppel und reich verzierten Innenräume aus, die religiöse Kunst und Architektur vereinen. Sie dient als wichtiger Ort für spirituelle Zusammenkünfte und religiöse Feierlichkeiten. Ihre Bauweise ist ein Beispiel für den kulturellen Austausch und die künstlerische Ausdruckskraft der Region. Religion K7 – Christliche Architektur und Sakralkunst."
+    },
+    factsAdvanced: {
+      de: ["Zentrum des orthodoxen Glaubens in Asmara.", "Bekannt für die imposante Kuppelbauweise.", "Reich verzierte Innenräume mit religiöser Kunst.", "Bedeutender Ort für spirituelle Zeremonien.", "Architektonisches Beispiel für regionalen Kulturaustausch.", "Herausragendes religiöses Wahrzeichen."]
+    }, image: "/poi-images/er-kidane-mehret-cathedral-landmarks-v2.webp"},
   {
     id: "er-mai-jah-jah-fountain-landmarks-v2",
     type: "landmark",
@@ -41,7 +65,13 @@ export const poiExtraEritreaLandmarksV2: POI[] = [
     coords: [38.9288, 15.3355],
     name: { de: "Mai-Jah-Jah-Brunnen", hu: "Mai Jah Jah Szökőkút", ro: "Fântâna Mai Jah Jah", en: "Mai Jah Jah Fountain" },
     description: { de: "Ein stufenförmiger Brunnen in Asmara, der ein beliebtes architektonisches Fotomotiv ist und das Stadtbild prägt.", hu: "Lépcsőzetes szökőkút Aszmarában, amely népszerű építészeti fotótéma és meghatározza a városképet.", ro: "O fântână în trepte în Asmara, care este un motiv foto arhitectural popular și modelează peisajul urban.", en: "A stepped fountain in Asmara that is a popular architectural photo motif and shapes the cityscape." },
-    facts: { de: ["Architektur aus der Kolonialzeit.", "Beliebter Treffpunkt.", "Besteht aus mehreren Kaskaden.", "Im Herzen von Asmara gelegen."], hu: ["Gyarmati korból származó építészet.", "Népszerű találkozóhely.", "Több kaszkádból áll.", "Aszmara szívében található."], ro: ["Arhitectură din perioada colonială.", "Loc de întâlnire popular.", "Constă din mai multe cascade.", "Situat în inima orașului Asmara."], en: ["Architecture from the colonial era.", "Popular meeting point.", "Consists of several cascades.", "Located in the heart of Asmara."] }, image: "/poi-images/er-mai-jah-jah-fountain-landmarks-v2.webp"},
+    facts: { de: ["Architektur aus der Kolonialzeit.", "Beliebter Treffpunkt.", "Besteht aus mehreren Kaskaden.", "Im Herzen von Asmara gelegen."], hu: ["Gyarmati korból származó építészet.", "Népszerű találkozóhely.", "Több kaszkádból áll.", "Aszmara szívében található."], ro: ["Arhitectură din perioada colonială.", "Loc de întâlnire popular.", "Constă din mai multe cascade.", "Situat în inima orașului Asmara."], en: ["Architecture from the colonial era.", "Popular meeting point.", "Consists of several cascades.", "Located in the heart of Asmara."] },
+    descriptionAdvanced: {
+      de: "Der Mai-Jah-Jah-Brunnen in Asmara ist nicht nur ein architektonisches Detail, sondern ein wichtiger Ort der Begegnung für die Bewohner der Hauptstadt. Er ist umgeben von einer gepflegten Parkanlage und bietet eine kleine Oase der Ruhe inmitten des hektischen Stadtlebens. In der Architektur von Asmara nehmen Brunnen und öffentliche Plätze einen zentralen Platz ein, da sie den sozialen Zusammenhalt in der städtischen Planung widerspiegeln. Der Brunnen steht sinnbildlich für das urbane Leben in Asmara. Geografie K5 – Stadtplanung und Lebensqualität."
+    },
+    factsAdvanced: {
+      de: ["Beliebter Treffpunkt für Einwohner in Asmara.", "Umgeben von öffentlicher Grünanlage.", "Architektonisches Element städtischer Planung.", "Ort für soziale Interaktion in der Hauptstadt.", "Symbol für urbane Lebensqualität in Asmara.", "Bestandteil des historischen Stadtbildes."]
+    }, image: "/poi-images/er-mai-jah-jah-fountain-landmarks-v2.webp"},
   {
     id: "er-pushkin-monument-landmarks-v2",
     type: "landmark",

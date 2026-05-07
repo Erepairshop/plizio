@@ -12,14 +12,13 @@ export const poiExtraLibyaLandmarksV2: POI[] = [
       hu: "Tripoli Torony",
       ro: "Turnul Tripoli",
       en: "Tripoli Tower"
-    ,
+    },
     descriptionAdvanced: {
       en: "Tripoli Tower is the tallest and most recognizable skyscraper in Libya, soaring over the capital's central business district. Completed in the early 2000s, this modern glass-and-steel structure houses the headquarters for major national corporations, international embassies, and luxury commercial spaces. The tower was designed to project an image of a modern, economically booming Libya to the international community. Its top floors offer unparalleled, panoramic views of the entire city and the Mediterranean coastline. Geography K7 — modern urban skylines."
     },
     factsAdvanced: {
       en: ["The tallest skyscraper in Libya, dominating the Tripoli skyline.", "Completed in the early 2000s as a symbol of economic modernization.", "Houses major corporate headquarters and international diplomatic missions.", "Features a distinctly modern, curved glass-and-steel architectural design.", "Located in the heart of Tripoli's central business district.", "Offers the highest panoramic vantage point over the Mediterranean coast."]
-    }
-  },
+    },
     description: {
       de: "Eines der höchsten Gebäude in Tripolis, das ursprünglich Al-Fateh Tower hieß.",
       hu: "Tripoli egyik legmagasabb épülete, melyet eredetileg Al-Fateh Toronynak hívtak.",
@@ -55,14 +54,13 @@ export const poiExtraLibyaLandmarksV2: POI[] = [
       hu: "Corinthia Hotel Tripoli",
       ro: "Hotelul Corinthia Tripoli",
       en: "Corinthia Hotel Tripoli"
-    ,
+    },
     descriptionAdvanced: {
       en: "The Corinthia Hotel Tripoli is the premier luxury hotel in Libya, located right at the edge of the Mediterranean Sea near the historic central business district. Opened in 2003, its twin curved towers are a major landmark, designed specifically to host international diplomats, journalists, and high-level business executives. The hotel features extensive high-security measures and operates almost as a self-contained diplomatic compound during times of unrest. It represents the focal point of international interaction within the country. Economics K7 — international diplomacy and luxury infrastructure."
     },
     factsAdvanced: {
       en: ["A massive, five-star luxury hotel complex located in central Tripoli.", "Opened in 2003, featuring distinct, twin curved architectural towers.", "The primary accommodation for international diplomats and journalists.", "Features extensive, highly fortified security perimeters.", "Offers panoramic views directly overlooking the Mediterranean Sea.", "Has been the site of major geopolitical meetings and unfortunate militant attacks."]
-    }
-  },
+    },
     description: {
       de: "Ein 28-stöckiges Fünf-Sterne-Luxushotel im Stadtzentrum, das zu den Wahrzeichen der modernen Architektur gehört.",
       hu: "Egy 28 emeletes, ötcsillagos luxusszálloda a városközpontban, a modern építészet egyik jelképe.",
@@ -98,14 +96,13 @@ export const poiExtraLibyaLandmarksV2: POI[] = [
       hu: "Dat El Imad Tornyok",
       ro: "Turnurile Dat El Imad",
       en: "Dat El Imad Towers"
-    ,
+    },
     descriptionAdvanced: {
       en: "The Dat El Imad Towers constitute a massive, highly distinctive commercial complex in Tripoli, consisting of five identical, towering cylindrical skyscrapers. Built during the economic boom of the 1980s, the complex was designed to serve as the premier administrative hub for the nation's oil and banking sectors. The brutalist, concrete-heavy design makes them incredibly resilient and highly visible from almost anywhere in the city. The complex remains one of the most vital corporate centers in North Africa. Geography K8 — brutalist architecture and corporate hubs."
     },
     factsAdvanced: {
       en: ["A massive commercial complex consisting of five identical cylindrical towers.", "Constructed during the Libyan oil-driven economic boom of the 1980s.", "Houses the headquarters for numerous major national banks and oil firms.", "Features a resilient, highly distinctive brutalist concrete design.", "Located in the prime central business district of Tripoli.", "A defining, instantly recognizable feature of the capital's skyline."]
-    }
-  },
+    },
     description: {
       de: "Ein Komplex aus fünf Hochhäusern, die im zentralen Geschäftsviertel von Tripolis stehen.",
       hu: "Öt toronyból álló irodakomplexum Tripoli központi üzleti negyedében.",
@@ -141,14 +138,13 @@ export const poiExtraLibyaLandmarksV2: POI[] = [
       hu: "Gamal Abdan-Nasszer Mecset",
       ro: "Moscheea Gamal Abdel Nasser",
       en: "Gamal Abdel Nasser Mosque"
-    ,
+    },
     descriptionAdvanced: {
       en: "The Gamal Abdel Nasser Mosque is a massive, visually stunning religious structure located in the heart of Tripoli, dominating the area near Martyrs' Square. Interestingly, the building was originally designed and constructed as a massive Catholic cathedral during the Italian colonial era. After the 1969 revolution, it was heavily modified, its crosses replaced by crescents, and repurposed into one of the city's largest mosques. The towering architecture beautifully illustrates the complex, layered history of modern Libya. Sociology K8 — architectural repurposing and national identity."
     },
     factsAdvanced: {
       en: ["Located prominently near Martyrs' Square in central Tripoli.", "Originally built as a massive Catholic cathedral by Italian colonists in 1928.", "Repurposed into a major Islamic mosque following the 1969 revolution.", "Named in honor of the highly influential Egyptian President Gamal Abdel Nasser.", "Features a towering central structure that dominates the immediate skyline.", "A profound physical example of post-colonial architectural repurposing."]
-    }
-  },
+    },
     description: {
       de: "Eine große Moschee in Tripolis, die ursprünglich als katholische Kathedrale in der Kolonialzeit erbaut wurde.",
       hu: "Egy nagy mecset Tripoliban, amelyet eredetileg katolikus katedrálisként építettek a gyarmati időkben.",
@@ -184,14 +180,13 @@ export const poiExtraLibyaLandmarksV2: POI[] = [
       hu: "Mártírok Tere",
       ro: "Piața Martirilor",
       en: "Martyrs' Square"
-    ,
+    },
     descriptionAdvanced: {
       en: "Martyrs' Square is the absolute epicenter of Tripoli, a massive public plaza that connects the historic walled Medina to the modern commercial districts. Historically known as Green Square during the Gaddafi era and Piazza Italia during colonial times, the square has always been the stage for the nation's most important political rallies, military parades, and public celebrations. It is bordered by the imposing Red Castle and elegant Italianate arcades, making it the vibrant, bustling heart of the nation. Sociology K8 — public squares and political history."
     },
     factsAdvanced: {
       en: ["The primary, massive public plaza in the absolute center of Tripoli.", "Historically known as Green Square and Piazza Italia.", "Bordered directly by the Red Castle and the historic Medina.", "The traditional site for massive national political rallies and celebrations.", "Features elegant, Italian-built colonnaded arcades on its edges.", "Serves as the main transportation and social hub for the capital."]
-    }
-  },
+    },
     description: {
       de: "Der zentrale Platz und ein historisches Wahrzeichen in Tripolis, Schauplatz zahlreicher politischer Ereignisse.",
       hu: "Tripoli központi tere és történelmi nevezetessége, számos politikai esemény helyszíne.",
@@ -227,14 +222,13 @@ export const poiExtraLibyaLandmarksV2: POI[] = [
       hu: "Tripoli Stadion",
       ro: "Stadionul Tripoli",
       en: "Tripoli Stadium"
-    ,
+    },
     descriptionAdvanced: {
       en: "Tripoli Stadium is the largest and most important sporting venue in Libya, serving as the home ground for the national football team. With a massive seating capacity, the stadium is a cauldron of intense national pride and local athletic rivalry. Built as a multi-purpose venue, it has hosted numerous major African athletic tournaments and international matches. When a major derby or national game is played, the atmosphere and noise inside the stadium are genuinely deafening. Sociology K7 — national sports and stadium culture."
     },
     factsAdvanced: {
       en: ["The largest dedicated sporting venue in the nation of Libya.", "Serves as the primary home stadium for the Libyan national football team.", "Can hold tens of thousands of deeply passionate local fans.", "Has historically hosted major Pan-African athletic tournaments.", "Features a massive, open-air bowl design typical of the late 20th century.", "A major cultural hub for national pride and local club rivalries."]
-    }
-  },
+    },
     description: {
       de: "Ein großes Mehrzweckstadion, das für Fußballspiele und Leichtathletikwettbewerbe genutzt wird.",
       hu: "Nagy többcélú stadion, amelyet labdarúgó-mérkőzésekre és atlétikai versenyekre használnak.",
@@ -270,14 +264,13 @@ export const poiExtraLibyaLandmarksV2: POI[] = [
       hu: "Benina Repülőtér Terminál",
       ro: "Terminalul Aeroportului Benina",
       en: "Benina Airport Terminal"
-    ,
+    },
     descriptionAdvanced: {
       en: "The Benina International Airport Terminal serves as the absolute critical aviation gateway for Benghazi and the entire eastern Cyrenaica region. Despite suffering massive structural damage during the 2014 civil conflict, rapid reconstruction efforts have restored its operational capacity, making it a symbol of regional resilience. The terminal handles both domestic flights connecting to Tripoli and vital international routes to Egypt and Tunisia. The constant hum of aircraft here is a daily indicator of the east's economic pulse. Geography K8 — regional aviation infrastructure."
     },
     factsAdvanced: {
       en: ["The primary international aviation hub for eastern Libya.", "Located in the town of Benina, just east of Benghazi.", "Suffered extensive damage during intense urban combat in 2014.", "Recently reconstructed to handle both domestic and international flights.", "Shares runway infrastructure with a major national air force base.", "Crucial for connecting Cyrenaica to neighboring North African countries."]
-    }
-  },
+    },
     description: {
       de: "Das Hauptterminal des internationalen Flughafens Benina, der die Region um Bengasi bedient.",
       hu: "A Bengázi régiót kiszolgáló Benina Nemzetközi Repülőtér fő terminálja.",
@@ -313,14 +306,13 @@ export const poiExtraLibyaLandmarksV2: POI[] = [
       hu: "Tibesti Hotel",
       ro: "Hotel Tibesti",
       en: "Tibesti Hotel"
-    ,
+    },
     descriptionAdvanced: {
       en: "The Tibesti Hotel is the undisputed architectural icon of modern Benghazi, an imposing skyscraper dominating the city's skyline. Overlooking the central lake and the Mediterranean Sea, it has historically been the primary accommodation for visiting dignitaries, international journalists, and business executives. During periods of national crisis, the hotel frequently transforms into a highly secure, ad-hoc media and political center. Its massive, unmissable profile makes it a key navigational landmark within the city. Sociology K7 — urban landmarks and political hubs."
     },
     factsAdvanced: {
       en: ["The tallest and most famous hotel building in Benghazi.", "Offers commanding, panoramic views of the city's central lake.", "Serves as the premier accommodation for international journalists and diplomats.", "Frequently utilized as an ad-hoc media center during national crises.", "Features a prominent, multi-story modern architectural design.", "Located in the heart of Benghazi's central commercial district."]
-    }
-  },
+    },
     description: {
       de: "Eines der bekanntesten und größten Hotels in Bengasi, benannt nach dem Tibesti-Gebirge.",
       hu: "Bengázi egyik legismertebb és legnagyobb szállodája, amely a Tibeszti-hegységről kapta a nevét.",
@@ -356,14 +348,13 @@ export const poiExtraLibyaLandmarksV2: POI[] = [
       hu: "Bengázi Világítótorony",
       ro: "Farul din Benghazi",
       en: "Benghazi Lighthouse"
-    ,
+    },
     descriptionAdvanced: {
       en: "The Benghazi Lighthouse is a striking, elegant colonial-era structure that has guided Mediterranean shipping into the city's harbor for nearly a century. Built by Italian authorities in the 1920s, its crisp white exterior and classic cylindrical design stand out sharply against the deep blue sea. Miraculously surviving decades of severe urban warfare that destroyed many surrounding buildings, it remains a beloved symbol of continuity for the city's residents. It continues to function as a vital navigational aid for maritime traffic. History K6 — colonial maritime infrastructure."
     },
     factsAdvanced: {
       en: ["Constructed by Italian colonial authorities in the 1920s.", "A highly recognizable, classic white cylindrical lighthouse.", "Guides commercial and naval shipping into the Port of Benghazi.", "Miraculously survived extensive urban combat relatively unscathed.", "Stands as a beloved symbol of historical continuity for local residents.", "Located prominently on the Mediterranean coastal promenade."]
-    }
-  },
+    },
     description: {
       de: "Ein historischer Leuchtturm in Bengasi, erbaut während der italienischen Kolonialzeit.",
       hu: "Történelmi világítótorony Bengáziban, az olasz gyarmati időszakban épült.",
@@ -399,14 +390,13 @@ export const poiExtraLibyaLandmarksV2: POI[] = [
       hu: "Al-Szahába Mecset",
       ro: "Moscheea Al-Sahaba",
       en: "Al-Sahaba Mosque"
-    ,
+    },
     descriptionAdvanced: {
       en: "The Al-Sahaba Mosque is the spiritual and architectural heart of Derna, renowned for its massive, imposing domes and towering twin minarets. It is deeply revered because it houses the tombs of over seventy companions (Sahaba) of the Prophet Muhammad, who purportedly died during the early Islamic conquest of North Africa. The mosque suffered catastrophic, heartbreaking damage during the devastating 2023 floods that swept through the city. Despite the tragedy, it remains the most profound symbol of Derna's enduring religious heritage. Sociology K8 — religious landmarks and natural disasters."
     },
     factsAdvanced: {
       en: ["The largest and most spiritually significant mosque in Derna.", "Houses the reputed tombs of over seventy of the Prophet Muhammad's companions.", "Features massive central domes and highly visible twin minarets.", "Suffered catastrophic structural damage during the September 2023 floods.", "Serves as the primary center for local Islamic education and gathering.", "A profound symbol of historical resilience for the city's population."]
-    }
-  },
+    },
     description: {
       de: "Eine prominente Moschee in Derna, die Gräber mehrerer Gefährten des Propheten Muhammad beherbergt.",
       hu: "Kiemelkedő mecset Dernában, ahol Mohamed próféta több társának sírja is található.",
@@ -442,14 +432,13 @@ export const poiExtraLibyaLandmarksV2: POI[] = [
       hu: "Miszratai Központi Mecset",
       ro: "Moscheea Centrală din Misrata",
       en: "Misrata Central Mosque"
-    ,
+    },
     descriptionAdvanced: {
       en: "The Misrata Central Mosque serves as the massive, unifying spiritual center for Libya's booming commercial capital. Located in the bustling downtown area, the mosque's expansive prayer halls can accommodate thousands of worshippers, particularly during Friday prayers and Eid celebrations. Its architecture blends traditional North African Islamic motifs with distinctly modern, robust construction, reflecting the city's industrial wealth. The surrounding plaza is a major focal point for community gatherings and civic life. Sociology K7 — urban religious centers."
     },
     factsAdvanced: {
       en: ["The primary, largest Islamic worship center in the city of Misrata.", "Designed to accommodate thousands of worshippers simultaneously.", "Features a blend of traditional Islamic and modern, robust architecture.", "Located centrally within Misrata's bustling downtown commercial district.", "The surrounding plaza serves as a major hub for civic engagement.", "Reflects the immense civic wealth generated by the city's port and industries."]
-    }
-  },
+    },
     description: {
       de: "Die Hauptmoschee von Misrata, bekannt für ihre modernen Minarette und die große Gebetshalle.",
       hu: "Miszrata fő mecsete, amely modern minaretjeiről és nagy imaterméről ismert.",
@@ -485,14 +474,13 @@ export const poiExtraLibyaLandmarksV2: POI[] = [
       hu: "Ouagadougou Konferenciaközpont",
       ro: "Centrul de Conferințe Ouagadougou",
       en: "Ouagadougou Conference Center"
-    ,
+    },
     descriptionAdvanced: {
       en: "The Ouagadougou Conference Center in Sirte is a colossal, sprawling complex originally built to host massive Pan-African and international summits. Designed to project Libyan diplomatic power, the complex features massive auditoriums, luxury accommodations, and highly fortified security perimeters. Following the 2011 revolution, it became infamous as a heavily fortified militant stronghold, suffering devastating damage during intense urban combat. Today, its pockmarked, massive concrete walls stand as a stark monument to Libya's turbulent modern political history. History K8 — modern political architecture and warfare."
     },
     factsAdvanced: {
       en: ["A massive, sprawling conference and diplomatic complex in Sirte.", "Originally constructed to host massive Pan-African political summits.", "Features colossal auditoriums and extensive luxury facilities.", "Became a heavily fortified militant stronghold during recent civil conflicts.", "Suffered immense structural damage from heavy artillery and airstrikes.", "Stands today as a monumental, stark ruin of modern political ambition."]
-    }
-  },
+    },
     description: {
       de: "Ein massiver architektonischer Komplex in Sirte, der für internationale afrikanische Gipfeltreffen gebaut wurde.",
       hu: "Hatalmas építészeti komplexum Szirtben, amelyet nemzetközi afrikai csúcstalálkozókra építettek.",
@@ -528,14 +516,13 @@ export const poiExtraLibyaLandmarksV2: POI[] = [
       hu: "Zavija Nagymecset",
       ro: "Marea Moscheea din Zawiya",
       en: "Zawiya Grand Mosque"
-    ,
+    },
     descriptionAdvanced: {
       en: "The Zawiya Grand Mosque dominates the central square of this vital western coastal city, serving as both a religious sanctuary and a prominent civic landmark. With its towering minaret visible from miles away, it acts as a primary navigational point for travelers moving along the coastal highway. The mosque gained profound historical significance during the 2011 revolution, as its surrounding square became a focal point for intense local resistance. Its modern, expansive design accommodates the city's rapidly growing population. Sociology K7 — civic landmarks and modern history."
     },
     factsAdvanced: {
       en: ["The largest and most prominent religious structure in Zawiya.", "Features a towering minaret visible from the main coastal highway.", "Located directly on the city's bustling central square.", "Served as a major focal point for local resistance during the 2011 revolution.", "Designed with modern, expansive architecture to serve a large population.", "A critical hub for community organizing and civic life in the west."]
-    }
-  },
+    },
     description: {
       de: "Ein bedeutendes islamisches Bauwerk und religiöses Zentrum in der Küstenstadt Zawiya.",
       hu: "Jelentős iszlám építmény és vallási központ a tengerparti Zavija városában.",
@@ -571,14 +558,13 @@ export const poiExtraLibyaLandmarksV2: POI[] = [
       hu: "Al-Khums Világítótorony",
       ro: "Farul Al Khums",
       en: "Al Khums Lighthouse"
-    ,
+    },
     descriptionAdvanced: {
       en: "The Al Khums Lighthouse is a vital, functional piece of maritime infrastructure located on the rugged coastline near the ancient ruins of Leptis Magna. Built to guide heavy shipping traffic into the specialized Al Khums port, the lighthouse features a stark, high-contrast paint scheme to remain visible against the often hazy Mediterranean horizon. It stands as a modern counterpoint to the ancient Roman columns located just down the beach. The structure is essential for the safety of the massive RoRo vehicle carriers frequenting the area. Geography K7 — modern maritime safety infrastructure."
     },
     factsAdvanced: {
       en: ["Located on the Mediterranean coast near the city of Al Khums.", "Essential for guiding massive commercial vessels into the local port.", "Positioned in close proximity to the ancient Roman ruins of Leptis Magna.", "Features a high-contrast exterior for maximum daytime visibility.", "Ensures the safety of the heavy 'Roll-on/Roll-off' vehicle carrier traffic.", "A purely functional, modern industrial maritime landmark."]
-    }
-  },
+    },
     description: {
       de: "Ein markanter Leuchtturm am Hafen von Al-Chums, der die Schifffahrt an der historischen Küste leitet.",
       hu: "Jellegzetes világítótorony Al-Khums kikötőjében, amely a hajózást irányítja a történelmi partoknál.",
@@ -614,14 +600,13 @@ export const poiExtraLibyaLandmarksV2: POI[] = [
       hu: "Brega Olajterminál",
       ro: "Terminalul Petrolier Brega",
       en: "Brega Oil Terminal"
-    ,
+    },
     descriptionAdvanced: {
       en: "The Brega Oil Terminal is not just an economic asset; its massive, sprawling infrastructure makes it one of the most defining visual landmarks of the Gulf of Sidra. The complex is characterized by a dizzying array of colossal storage tanks, intricate pipe networks, and towering flare stacks that burn off excess gas, illuminating the night sky. For travelers moving along the coastal highway, the sheer scale of the Brega complex serves as a profound physical manifestation of Libya's immense hydrocarbon wealth. Geography K8 — industrial landscapes and hydrocarbons."
     },
     factsAdvanced: {
       en: ["A massive, visually dominant industrial complex on the Gulf of Sidra.", "Features a sprawling network of colossal crude oil and LNG storage tanks.", "Towering flare stacks continuously burn, illuminating the coastal night sky.", "Serves as a profound physical monument to Libya's national oil wealth.", "The complex's sheer scale makes it a major navigational landmark.", "Heavily fortified and guarded due to its extreme economic importance."]
-    }
-  },
+    },
     description: {
       de: "Eine große und wirtschaftlich entscheidende Industrieanlage und Hafen für den Ölexport Libyens.",
       hu: "Hatalmas és gazdaságilag létfontosságú ipari létesítmény és kikötő Líbia olajexportjához.",
@@ -657,14 +642,13 @@ export const poiExtraLibyaLandmarksV2: POI[] = [
       hu: "Rasz Lanuf Finomító",
       ro: "Rafinăria Ras Lanuf",
       en: "Ras Lanuf Refinery"
-    ,
+    },
     descriptionAdvanced: {
       en: "The Ras Lanuf Refinery is a monumental feat of industrial engineering that dominates the central Libyan coastline. As the largest petrochemical complex in the country, its skyline is defined by massive distillation columns, cooling towers, and a vast labyrinth of pipelines. The facility is so large that it functions practically as its own enclosed city, complete with internal transport networks and dedicated power generation. It stands as a stark, metallic contrast to the barren, flat desert plains surrounding it. Economics K8 — mega-scale petrochemical engineering."
     },
     factsAdvanced: {
       en: ["The largest and most visually imposing oil refinery complex in Libya.", "Skyline is dominated by towering distillation columns and cooling towers.", "Functions almost as an independent, enclosed industrial city.", "Produces a massive visual contrast against the flat, barren desert coast.", "Features dedicated internal power generation and transport networks.", "A highly strategic landmark constantly monitored for national security."]
-    }
-  },
+    },
     description: {
       de: "Eine der größten Ölraffinerien Libyens, deren Fackeltürme schon von weitem sichtbar sind.",
       hu: "Líbia egyik legnagyobb olajfinomítója, melynek fáklyatornyai már messziről láthatóak.",
@@ -700,14 +684,13 @@ export const poiExtraLibyaLandmarksV2: POI[] = [
       hu: "Fortezza Margherita",
       ro: "Fortezza Margherita",
       en: "Fortezza Margherita"
-    ,
+    },
     descriptionAdvanced: {
       en: "Fortezza Margherita, known locally as Fort Elena, is a massive, commanding fortification perched on a high ridge overlooking the desert city of Sabha. Built by Italian colonial forces in the 1920s to exert control over the rebellious Fezzan region, its thick stone walls and imposing watchtowers are visible from miles away. The fort was later famously featured on the reverse side of the ten-dinar banknote. Today, it stands as a stark, highly visible reminder of the region's turbulent colonial past and military history. History K8 — colonial desert fortifications."
     },
     factsAdvanced: {
       en: ["A massive colonial-era fortress overlooking the southern city of Sabha.", "Constructed by Italian military forces in the 1920s.", "Known locally as Fort Elena or the Sabha Castle.", "Famously depicted on the reverse side of the Libyan ten-dinar banknote.", "Built specifically to project military power over the rebellious Fezzan region.", "Features thick, robust stone walls designed to withstand artillery fire."]
-    }
-  },
+    },
     description: {
       de: "Eine Festung aus der italienischen Kolonialzeit auf einem Hügel über Sabha, die heute als militärische Anlage genutzt wird.",
       hu: "Olasz gyarmati korszakból származó erőd Szabha felett egy dombon, ma is katonai funkciót tölt be.",
@@ -743,14 +726,13 @@ export const poiExtraLibyaLandmarksV2: POI[] = [
       hu: "Szabha Repülőtér Terminál",
       ro: "Terminalul Aeroportului Sabha",
       en: "Sabha Airport Terminal"
-    ,
+    },
     descriptionAdvanced: {
       en: "The Sabha Airport Terminal is a vital logistical lifeline for the deeply isolated southern Fezzan region, connecting it to the coastal capital of Tripoli. The terminal architecture is functional and robust, designed to withstand the brutal, sand-blasting winds of the deep Sahara. It is a critical hub not just for civilian travel, but for the complex logistics required to supply the massive, remote oil fields further south. The constant activity here highlights the profound difficulty of traversing the Libyan desert by road. Geography K7 — remote aviation logistics."
     },
     factsAdvanced: {
       en: ["The primary civilian and logistical aviation hub for the southern Fezzan region.", "Connects the highly isolated city of Sabha directly to Tripoli.", "Designed to withstand intense, abrasive Saharan sandstorms.", "Crucial for transporting personnel to the deep desert oil fields.", "Provides a critical alternative to the dangerous, massive overland desert routes.", "Shares extensive runway infrastructure with a significant military airbase."]
-    }
-  },
+    },
     description: {
       de: "Das Hauptgebäude des Sabha International Airport, der als wichtiges Luftfahrtdrehkreuz für Südlibyen dient.",
       hu: "A Szabha Nemzetközi Repülőtér főépülete, amely Dél-Líbia légi közlekedésének fontos csomópontja.",
@@ -786,14 +768,13 @@ export const poiExtraLibyaLandmarksV2: POI[] = [
       hu: "Al-Aszmaríja Mecset",
       ro: "Moscheea Al-Asmariya",
       en: "Al-Asmariya Mosque"
-    ,
+    },
     descriptionAdvanced: {
       en: "The Al-Asmariya Mosque in Zliten is one of the most deeply venerated spiritual landmarks in all of Libya, drawing thousands of pilgrims annually. It houses the magnificent tomb of Sidi Abd as-Salam al-Asmar, a highly revered 16th-century Sufi saint and scholar. The mosque complex is expansive, featuring stunning traditional tile work, a massive library, and a bustling adjacent university dedicated to Islamic jurisprudence. It remains a powerful bastion of traditional Libyan Sufi culture despite various historical challenges. Sociology K8 — Sufi heritage and religious pilgrimage."
     },
     factsAdvanced: {
       en: ["The most venerated religious and spiritual landmark in the city of Zliten.", "Houses the grand tomb of the 16th-century Sufi saint Sidi Abd as-Salam al-Asmar.", "A major destination for religious pilgrims from across North Africa.", "The complex includes a massive, historically significant Islamic university.", "Features exquisite, highly detailed traditional Moroccan-style tile work.", "A powerful, enduring symbol of traditional Libyan Sufi Islamic heritage."]
-    }
-  },
+    },
     description: {
       de: "Ein wichtiges spirituelles Zentrum in Zliten, das der islamischen Gelehrsamkeit gewidmet ist.",
       hu: "Jelentős spirituális központ Zlitenben, az iszlám tudományok otthona.",
@@ -829,14 +810,13 @@ export const poiExtraLibyaLandmarksV2: POI[] = [
       hu: "Shahat Nagymecset",
       ro: "Marea Moschee din Shahat",
       en: "Shahat Grand Mosque"
-    ,
+    },
     descriptionAdvanced: {
       en: "The Shahat Grand Mosque is a beautiful, relatively modern religious structure situated in the lush, elevated environment of the Jabal al Akhdar. Located right on the edge of the ancient Greek ruins of Cyrene, the mosque provides a fascinating visual contrast between contemporary Islamic architecture and ancient Hellenic columns. Its pristine white domes and elegant minaret stand out sharply against the deep green pine and juniper forests that surround the town. It serves as the primary spiritual center for the local agricultural community. Sociology K7 — modern religious architecture in historic settings."
     },
     factsAdvanced: {
       en: ["The primary, central mosque for the modern town of Shahat.", "Located in extreme proximity to the ancient Greek ruins of Cyrene.", "Features striking, pristine white domes and an elegant, tall minaret.", "Provides a stark visual contrast to the surrounding ancient stone columns.", "Set against the lush, green backdrop of the Jabal al Akhdar mountains.", "Serves as the main communal gathering point for local residents."]
-    }
-  },
+    },
     description: {
       de: "Die moderne Hauptmoschee in der Nähe der antiken Ruinen von Kyrene.",
       hu: "A modern fő mecset, amely Küréné ókori romjainak közelében található.",
@@ -872,14 +852,13 @@ export const poiExtraLibyaLandmarksV2: POI[] = [
       hu: "Al-Baida Nagymecset",
       ro: "Marea Moschee din Al-Baida",
       en: "Al-Baida Grand Mosque"
-    ,
+    },
     descriptionAdvanced: {
       en: "The Al-Baida Grand Mosque is a massive, architecturally imposing structure located in the heart of Al Bayda, historically known as the city of the Senussi movement. The mosque is characterized by its sheer scale, featuring multiple vast domes and soaring minarets that dominate the city's relatively low skyline. It reflects the city's historical importance, as Al Bayda was originally slated to be Libya's capital in the 1950s. The mosque remains a major center for religious scholarship in the eastern region. Sociology K8 — regional religious centers."
     },
     factsAdvanced: {
       en: ["The largest and most visually imposing mosque in the city of Al Bayda.", "Reflects the city's deep historical ties to the Senussi religious movement.", "Features a massive, multi-domed roof and highly visible, soaring minarets.", "Built to accommodate a massive congregation, reflecting the city's former capital status.", "A major regional center for Islamic theology and scholarship.", "Dominates the skyline of the Jabal al Akhdar's largest urban center."]
-    }
-  },
+    },
     description: {
       de: "Ein prominentes religiöses Bauwerk in der hochgelegenen Stadt Al-Baida.",
       hu: "Kiemelkedő vallási építmény a magasan fekvő Al-Baida városában.",
@@ -895,13 +874,13 @@ export const poiExtraLibyaLandmarksV2: POI[] = [
     descriptionAdvanced: {
       de: "Die Große Moschee von Al Bayda ist eines der eindrucksvollsten religiösen Gebäude im Dschabal al-Achdar. Sie zeugt von der reichen Geschichte der Stadt, die einst als Hauptquartier des islamischen Senussi-Ordens diente und während der Senussi-Revolte gegen die Italiener ein geistiges Zentrum für die lokale Bevölkerung bildete. Geschichte K8 — Senussi-Bewegung.",
       hu: "Az Al-Bajda Nagymecset a Zöld-hegységben (Jabal al-Akhdar) fekvő város, Al-Bajda legfontosabb iszlám közösségi és spirituális épülete. A város történelmileg szorosan kötődik a szanúszi vallási rendhez, amely a 19. században ezen a vidéken is megalapította első 'zawiya'-ját (kolostorát és iskoláját). Bár az eredeti szentély már a múlté, a modern Nagymecset impozáns méreteivel és jellegzetes kupoláival hűen őrzi a város hagyományos vallási identitását a hűvös, hegyvidéki környezetben. Vallástörténet K7 — a szanúszi rend hegyvidéki központjai.",
-      ro: "Moscheea uluitoare complet impunătoare și masiv fin elegantă curată Marea colosală curajoasă și onorantă absolut spiritual faimos Marea fin sfântă mare Moschee mândră onorifică Grand Mosque din inima faimoasă administrativ administrativă mare capitală veche curajoasă de est estică așezare rece Al-Baida (sau Bayda) a servit istoric uluitor onorific clar ca un enorm recunoscut masiv și uriaș centru faimos politic religios islamic din era curată monarhică faimoasă fin regală de est nord africană libiană. Având fațade de un uimitor faimos alb clar strălucitor (precum sugerează și numele fin al așezării mândre „Cea Albă”), cu proporții clasice fine otomane combinate complet fin absolut curajos izolat modern cu mândria arhitecturală națională curată, lăcașul domină complet elegant peisajul stradal al marilor funcționari guvernamentali retrași sud onorant fin curat est faimos din regiune. Arhitectură K8 — monumente naționale sacre africane regale și arhitectură statală modernă urbană estică.",
+      ro: "Moscheea uluitoare complet impunătoare și masiv fin elegantă curată Marea colosală curajoasă și onorantă absolut spiritual faimos Marea fin sfântă mare Moschee mândră onorifică Grand Mosque din inima faimoasă administrativ administrativă mare capitală veche curajoasă de est estică așezare rece Al-Baida (sau Bayda) a servit istoric uluitor onorific clar ca un enorm recunoscut masiv și uriaș centru faimos politic religios islamic din era curată monarhică faimoasă fin regală de est nord africană libiană. Având fațade de un uimitor faimos alb clar strălucitor (precum sugerează și numele fin al așezării mândre \"Cea Albă\"), cu proporții clasice fine otomane combinate complet fin absolut curajos izolat modern cu mândria arhitecturală națională curată, lăcașul domină complet elegant peisajul stradal al marilor funcționari guvernamentali retrași sud onorant fin curat est faimos din regiune. Arhitectură K8 — monumente naționale sacre africane regale și arhitectură statală modernă urbană estică.",
       en: ""
     },
     factsAdvanced: {
       de: ["Zentrale Moschee in der Stadt Al Bayda", "Historisch verbunden mit dem Senussi-Orden", "Eindrucksvolle Architektur im Dschabal al-Achdar", "Symbol der religiösen und politischen Unabhängigkeit", "Zentrum für theologische Versammlungen", "Große Kuppel und hohe Minarette"],
       hu: ["Al-Bajda (Bayda) városának legnagyobb iszlám imahelye.", "A város történelmileg a szanúszi vallási mozgalom egyik első központja volt.", "A mecsetet modern iszlám stílusban építették újjá a növekvő lakosság számára.", "Kiemelkedő szerepet játszik a város pénteki (Jumu'ah) imádságaiban.", "A Zöld-hegység magaslati klímája (hűvös, gyakran ködös) veszi körül.", "A város eredeti neve (Zawiya al-Bayda) a 'fehér kolostor' szóból ered."],
-      ro: ["Așezarea faimoasă Bayda își poartă oficial faimos mândru onorant absolut curajos faimos extrem uluitor mândru originea numelui ei complet fin de „cea curată complet mândră și albă uluitor fin recunoscută colosal” onorant direct inspirată masiv istoric uluitor de la vechea și curata așezare faimoasă religioasă (zawiya veche faimoasă) din sud albă faimoasă onorifică mândră est curajoasă nord est.", "Moscheea actuală imensă modernă a faimos fost ridicată parțial fin masiv faimos peste recunoscuta mândră și onoranta așezare faimoasă curat istoric fin uriaș fondată originar faimos curajos izolat complet faimos de masiv extrem uriaș mișcarea spirituală masiv fin faimos Sanussi istoric de mare sud faimos nord africană izolat sud curajos est.", "Are o cupolă mare centrală masivă elegantă și două faimoase fine minarete extrem zvelte curajoase faimoase fine curat masiv care au uluitor clar onorific și fin masiv forme extrem fine complet absolut clasic faimos inspirate uluitor est mediteraneene sud clar onorante mândre din est curat sudic arab faimos izolat.", "Include absolut complet și adiacent curat uriaș masiv pe mândra curte un imens și faimos curajos campus frumos universitar faimos teologic fin onorific izolat al marii Universități faimoasă Omar Al-Mukhtar de est mediteranean mândru faimos de onoare mediteranean curat est.", "Fațada a fost adesea extrem recent modernizată curat pentru faimos a suporta faimos marile umidități montane uluitoare onorante faimos care cauzează curat masiv faimos extrem exfolieri uriaș onorific masive la rând ale uriaș fine straturi mediteraneene clare vopsite complet albe de var extrem nordic mediteraneana.", "Locul faimos izolat din jurul moscheii a reprezentat absolut complet recunoscut istoric epicentrul politic masiv complet oficial guvernamental al faimoasei Libiei regale uriaș masiv curat pentru onoranta perioadă absolut faimos uluitor de timp izolat curajos scurtă faimos extrem de capitală națională curat nord estică mediteraneana curat."],
+      ro: ["Așezarea faimoasă Bayda își poartă oficial faimos mândru onorant absolut curajos faimos extrem uluitor mândru originea numelui ei complet fin de \"cea curată complet mândră și albă uluitor fin recunoscută colosal\" onorant direct inspirată masiv istoric uluitor de la vechea și curata așezare faimoasă religioasă (zawiya veche faimoasă) din sud albă faimoasă onorifică mândră est curajoasă nord est.", "Moscheea actuală imensă modernă a faimos fost ridicată parțial fin masiv faimos peste recunoscuta mândră și onoranta așezare faimoasă curat istoric fin uriaș fondată originar faimos curajos izolat complet faimos de masiv extrem uriaș mișcarea spirituală masiv fin faimos Sanussi istoric de mare sud faimos nord africană izolat sud curajos est.", "Are o cupolă mare centrală masivă elegantă și două faimoase fine minarete extrem zvelte curajoase faimoase fine curat masiv care au uluitor clar onorific și fin masiv forme extrem fine complet absolut clasic faimos inspirate uluitor est mediteraneene sud clar onorante mândre din est curat sudic arab faimos izolat.", "Include absolut complet și adiacent curat uriaș masiv pe mândra curte un imens și faimos curajos campus frumos universitar faimos teologic fin onorific izolat al marii Universități faimoasă Omar Al-Mukhtar de est mediteranean mândru faimos de onoare mediteranean curat est.", "Fațada a fost adesea extrem recent modernizată curat pentru faimos a suporta faimos marile umidități montane uluitoare onorante faimos care cauzează curat masiv faimos extrem exfolieri uriaș onorific masive la rând ale uriaș fine straturi mediteraneene clare vopsite complet albe de var extrem nordic mediteraneana.", "Locul faimos izolat din jurul moscheii a reprezentat absolut complet recunoscut istoric epicentrul politic masiv complet oficial guvernamental al faimoasei Libiei regale uriaș masiv curat pentru onoranta perioadă absolut faimos uluitor de timp izolat curajos scurtă faimos extrem de capitală națională curat nord estică mediteraneana curat."],
       en: []
     }
   },
@@ -915,14 +894,13 @@ export const poiExtraLibyaLandmarksV2: POI[] = [
       hu: "Omar Mukhtar Mauzóleum",
       ro: "Mausoleul lui Omar Mukhtar",
       en: "Omar Mukhtar Mausoleum"
-    ,
+    },
     descriptionAdvanced: {
       en: "The Omar Mukhtar Mausoleum, originally located in Benghazi and later moved to Suluq, is a profound monument dedicated to Libya's greatest national hero. Mukhtar, known as the 'Lion of the Desert', led the fierce, decades-long resistance against Italian colonization before his execution in 1931. The monument is stark and deeply reverent, serving as a site of intense national pride and historical pilgrimage for Libyans. It stands as a permanent, powerful symbol of the nation's struggle for independence. History K8 — national heroes and anti-colonial resistance."
     },
     factsAdvanced: {
       en: ["Dedicated to Omar Mukhtar, Libya's most famous anti-colonial resistance leader.", "Mukhtar famously fought against Italian occupation for over twenty years.", "The site serves as a profound monument of national pride and unity.", "Originally located in Benghazi, the remains were later relocated to Suluq.", "A site of deep, emotional historical pilgrimage for Libyan citizens.", "Symbolizes the ultimate sacrifice made for Libyan national independence."]
-    }
-  },
+    },
     description: {
       de: "Ein Gedenkort in Bengasi für den berühmten libyschen Widerstandskämpfer gegen die italienische Kolonisation.",
       hu: "Emlékhely Bengáziban, amely a híres líbiai ellenállónak állít emléket, aki az olasz gyarmatosítás ellen küzdött.",
@@ -938,13 +916,13 @@ export const poiExtraLibyaLandmarksV2: POI[] = [
     descriptionAdvanced: {
       de: "Das Omar Mukhtar Mausoleum in Bengasi ist eine heilige Pilgerstätte für libysche Nationalisten und ehrt den berühmtesten Freiheitskämpfer des Landes, den 'Löwen der Wüste'. Omar Mukhtar führte den erbitterten bewaffneten Widerstand der Beduinen gegen die brutale italienische Kolonialbesatzung an, bis er 1931 hingerichtet wurde. Geschichte K8 — Antikolonialer Widerstand.",
       hu: "Az Omar Mukhtar Mauzóleum Líbia egyik legfontosabb nemzeti zarándokhelye, amely eredetileg Bengáziban állt, tisztelegve a líbiai ellenállás legendás vezetője előtt. Omar Mukhtar – a 'Sivatag Oroszlánja' – két évtizeden át vezette a beduin törzsek fegyveres harcát a brutális olasz gyarmatosítókkal szemben a Zöld-hegységben, mígnem 1931-ben Szulúkban kivégezték. Sírja és a hozzá tartozó emlékmű a líbiai függetlenség, a kitartás és a szabadságvágy örök szimbóluma, amely a mai napig tiszteletet parancsol minden líbiai számára. Történelem K8 — a líbiai ellenállás és Omar Mukhtar.",
-      ro: "Mausoleul solemn faimos de o tăcere faimoasă extrem onorifică și grandios comemorativ recunoscut uluitor național curajos memorial al Marelui Erou curajos național sud estic libian recunoscut faimos Omar al-Mukhtar, transferat târziu și absolut fin curajos reconstruit clar izolat mândru cu profund respect și glorie în marea așezare modernă faimos estică Benghazi, este, fără doar și poate clar absolut, inima necontestată onorantă complet a marelui curajos patriotism fin african din est libian anti-colonial est mediteranean curat fin din sud de mândră recunoscută națiune. Cu forma sa onorifică grandioasă de cupolă neagră fin faimoasă clar pe uluitoare stâlpi mari liberi simpli curat albi uimitor curajoși faimoși onoranți estici, adăpostește onorant mândru pe marele lider curajos faimos „Leul Deșertului” izolat onorific, atrăgând uimitor omagiile tăcute extrem oficiale și rugăciunile profunde ale mândrilor patrioți libieni. Istorie K8 — memorialele africane post-coloniale urbane naționale uimitoare și cultul eroilor independenței moderne faimoase nordice fine mediteraneene libiene.",
+      ro: "Mausoleul solemn faimos de o tăcere faimoasă extrem onorifică și grandios comemorativ recunoscut uluitor național curajos memorial al Marelui Erou curajos național sud estic libian recunoscut faimos Omar al-Mukhtar, transferat târziu și absolut fin curajos reconstruit clar izolat mândru cu profund respect și glorie în marea așezare modernă faimos estică Benghazi, este, fără doar și poate clar absolut, inima necontestată onorantă complet a marelui curajos patriotism fin african din est libian anti-colonial est mediteranean curat fin din sud de mândră recunoscută națiune. Cu forma sa onorifică grandioasă de cupolă neagră fin faimoasă clar pe uluitoare stâlpi mari liberi simpli curat albi uimitor curajoși faimoși onoranți estici, adăpostește onorant mândru pe marele lider curajos faimos \"Leul Deșertului\" izolat onorific, atrăgând uimitor omagiile tăcute extrem oficiale și rugăciunile profunde ale mândrilor patrioți libieni. Istorie K8 — memorialele africane post-coloniale urbane naționale uimitoare și cultul eroilor independenței moderne faimoase nordice fine mediteraneene libiene.",
       en: ""
     },
     factsAdvanced: {
       de: ["Ruhestätte des libyschen Nationalhelden Omar Mukhtar", "Führer des Widerstands gegen Italien (1911-1931)", "Bekannt als der 'Löwe der Wüste'", "Zentrale Pilgerstätte für libysche Patrioten", "Verlegt von Soluq nach Bengasi", "Symbol für Freiheit und Unabhängigkeit"],
       hu: ["Omar Mukhtar, a líbiai gyarmatellenes harc hősének emlékműve és nyughelye.", "Omar Mukhtart 1931-ben végezték ki az olaszok Szulúk (Suluq) városában.", "Eredetileg Bengáziban állt a síremlék, amelyet az 1980-as években áthelyeztek Szulúkba.", "A 'Sivatag Oroszlánjának' is nevezett Mukhtar a Zöld-hegység harcosa volt.", "Az emlékmű Líbia egyik legtiszteltebb nemzeti szimbóluma.", "Anthony Quinn legendás alakítást nyújtott Mukhtar szerepében 'A sivatag oroszlánja' című filmben."],
-      ro: ["Mausoleul actual modern a fost absolut extrem faimos mutat și uluitor clar onorific și absolut complet recunoscut istoric ridicat faimos și masiv clar solemn onorific absolut din extrem mândru fin faimos oficial 1980 complet faimos din estulu faimos în marea faimoasă așezare clară faimoasă Benghazi faimos masiv estic mediteraneana izolat sud faimos nord de coastă.", "Corpul legendarului martir faimos „Leul mândru al faimos Deșertului faimos curajos izolat” onorific Omar fin Al-Mukhtar a fost deshumat onorant masiv și reîngropat cu uriaș oficial onorant fast uluitor complet militar onorant de la vechiul cimitir mândru faimos izolat sângeros din satul de onoare rural masiv Suluq faimoasă sud est mediteraneana.", "Structura clară minimalistă a mausoleului cuprinde clar complet o mare și faimos fin curat onorantă frumoasă faimoasă onorifică cupolă neagră faimoasă masiv uluitor extrem frumos complet susținută de stâlpi grațioși de clar izolat mediteranean onorant pur marmură fin clar faimos extrem de onoare estică uriaș masiv albă curată nord africană.", "S-a numărat clar onorific absolut de foarte uluitor multe decenii faimos lungi uriaș onorante masiv și extrem recunoscut rând faimos oficial complet onorific vizualizat absolut clar masiv izolat printre fin rarele mari locuri sacre urbane libiene fin complet neafectate deloc de onorant niciun curent de luptă armată stradală est mediteraneana uriaș faimos.", "Este înconjurat de un mic spațiu faimos de onoare tăcut frumos curajos liniștit curat și larg spațiu pavat curat onorant izolat menit strict onorific uriaș mândru faimos solemnităților izolate mari naționale africane extrem ceremoniale masiv militare de uriaș onorant și tăcut omagiu curajos național sud faimos est.", "Vizitatorii recunosc uluitor deseori portretul mare faimosului erou martir complet faimos onorific deșertic pe aproape faimos complet fiecare uluitoare absolut de bancnotă oficială curat libiană faimoasă de uriaș onorific mare 10 clar faimos izolat dinari moderni uriaș naționali onoranți vest africani faimoși izolat sud."],
+      ro: ["Mausoleul actual modern a fost absolut extrem faimos mutat și uluitor clar onorific și absolut complet recunoscut istoric ridicat faimos și masiv clar solemn onorific absolut din extrem mândru fin faimos oficial 1980 complet faimos din estulu faimos în marea faimoasă așezare clară faimoasă Benghazi faimos masiv estic mediteraneana izolat sud faimos nord de coastă.", "Corpul legendarului martir faimos \"Leul mândru al faimos Deșertului faimos curajos izolat\" onorific Omar fin Al-Mukhtar a fost deshumat onorant masiv și reîngropat cu uriaș oficial onorant fast uluitor complet militar onorant de la vechiul cimitir mândru faimos izolat sângeros din satul de onoare rural masiv Suluq faimoasă sud est mediteraneana.", "Structura clară minimalistă a mausoleului cuprinde clar complet o mare și faimos fin curat onorantă frumoasă faimoasă onorifică cupolă neagră faimoasă masiv uluitor extrem frumos complet susținută de stâlpi grațioși de clar izolat mediteranean onorant pur marmură fin clar faimos extrem de onoare estică uriaș masiv albă curată nord africană.", "S-a numărat clar onorific absolut de foarte uluitor multe decenii faimos lungi uriaș onorante masiv și extrem recunoscut rând faimos oficial complet onorific vizualizat absolut clar masiv izolat printre fin rarele mari locuri sacre urbane libiene fin complet neafectate deloc de onorant niciun curent de luptă armată stradală est mediteraneana uriaș faimos.", "Este înconjurat de un mic spațiu faimos de onoare tăcut frumos curajos liniștit curat și larg spațiu pavat curat onorant izolat menit strict onorific uriaș mândru faimos solemnităților izolate mari naționale africane extrem ceremoniale masiv militare de uriaș onorant și tăcut omagiu curajos național sud faimos est.", "Vizitatorii recunosc uluitor deseori portretul mare faimosului erou martir complet faimos onorific deșertic pe aproape faimos complet fiecare uluitoare absolut de bancnotă oficială curat libiană faimoasă de uriaș onorific mare 10 clar faimos izolat dinari moderni uriaș naționali onoranți vest africani faimoși izolat sud."],
       en: []
     }
   },
@@ -958,14 +936,13 @@ export const poiExtraLibyaLandmarksV2: POI[] = [
       hu: "Tripoli Központi Posta",
       ro: "Oficiul Poștal Central din Tripoli",
       en: "Tripoli Central Post Office"
-    ,
+    },
     descriptionAdvanced: {
       en: "The Tripoli Central Post Office is a magnificent example of Italian colonial architecture situated right on Algeria Square in the heart of the capital. Built in the 1930s, its grand, sweeping facade and elegant arched entryways reflect the grandiose, imperial style of the era. Beyond its architectural beauty, it remains a highly functional hub for the city's communications and administrative services. The building is a classic, highly recognizable landmark that anchors the historic downtown district. History K7 — colonial civic architecture."
     },
     factsAdvanced: {
       en: ["A prominent, grand civic building located on Algeria Square in Tripoli.", "Constructed by Italian colonial architects in the 1930s.", "Features a sweeping, highly elegant imperial-style facade and arcades.", "Continues to function as a major administrative and communications hub.", "One of the most recognizable and photographed buildings in the downtown area.", "Represents the massive civic infrastructure projects of the colonial era."]
-    }
-  },
+    },
     description: {
       de: "Ein historisches und architektonisch bedeutendes Gebäude im Stadtzentrum von Tripolis.",
       hu: "Történelmi és építészetileg is jelentős épület Tripoli városközpontjában.",
@@ -1001,14 +978,13 @@ export const poiExtraLibyaLandmarksV2: POI[] = [
       hu: "Ghadamesz Nagymecset",
       ro: "Marea Moschee din Ghadames",
       en: "Ghadames Grand Mosque"
-    ,
+    },
     descriptionAdvanced: {
       en: "The Ghadames Grand Mosque is seamlessly integrated into the labyrinthine, mud-brick architecture of the ancient 'Pearl of the Desert'. Unlike traditional freestanding mosques, its structure blends perfectly with the surrounding covered walkways and terraced roofs of the UNESCO World Heritage site. The mosque features a highly distinct, subtly tapered mud-brick minaret that rises above the dense cluster of historic homes. It has served as the spiritual and communal anchor for trans-Saharan traders for centuries. Sociology K8 — integrated desert architecture."
     },
     factsAdvanced: {
       en: ["Located within the ancient, UNESCO-listed Old Town of Ghadames.", "Seamlessly integrated into the surrounding mud-brick architectural labyrinth.", "Features a highly distinctive, tapering mud-brick minaret.", "Constructed using traditional desert materials like lime and palm wood.", "Served historically as the spiritual anchor for trans-Saharan merchants.", "Provides a cool, naturally insulated sanctuary from the extreme desert heat."]
-    }
-  },
+    },
     description: {
       de: "Ein spirituelles Zentrum in der Oasenstadt Ghadames, das südlich der historischen Altstadt liegt.",
       hu: "Spirituális központ Ghadamesz oázisvárosában, a történelmi óvárostól délre.",
@@ -1044,14 +1020,13 @@ export const poiExtraLibyaLandmarksV2: POI[] = [
       hu: "Bengázi Egyetem Campus",
       ro: "Campusul Universității din Benghazi",
       en: "Benghazi University Campus"
-    ,
+    },
     descriptionAdvanced: {
       en: "The Benghazi University Campus is a massive, sprawling educational complex that serves as the premier institution of higher learning in eastern Libya. Originally founded in 1955, the modern campus features distinctive, brutalist-inspired concrete architecture spread across a massive footprint in the Garyounis district. The university has a profound political history, often acting as the intellectual epicenter for student activism and political movements. Despite suffering severe damage during recent urban conflicts, it remains a vital pillar of the city's future. Sociology K8 — higher education and student activism."
     },
     factsAdvanced: {
       en: ["The largest and most prestigious university campus in eastern Libya.", "Located in the expansive Garyounis district of Benghazi.", "Features highly distinctive, late 20th-century brutalist concrete architecture.", "Historically a major epicenter for national student activism and political thought.", "Suffered massive, heartbreaking structural damage during the 2014 civil conflict.", "Currently undergoing extensive rehabilitation to restore its educational capacity."]
-    }
-  },
+    },
     description: {
       de: "Ein riesiger Bildungs- und Forschungskomplex, der ursprünglich Garyounis-Universität hieß.",
       hu: "Hatalmas oktatási és kutatási komplexum, melynek eredeti neve Garyounis Egyetem volt.",
@@ -1087,14 +1062,13 @@ export const poiExtraLibyaLandmarksV2: POI[] = [
       hu: "Al-Madzsidija Mecset",
       ro: "Moscheea Al-Majidiya",
       en: "Al-Majidiya Mosque"
-    ,
+    },
     descriptionAdvanced: {
       en: "The Al-Majidiya Mosque is a beautiful, historically rich religious structure located within the ancient walls of Tripoli's Medina. Built during the Ottoman period, it is renowned for its highly detailed, ornate stucco work and deeply traditional courtyard design. The mosque provides a serene, quiet sanctuary, entirely insulated from the chaotic, bustling souks just outside its doors. It is frequently visited by architectural historians studying the unique blend of local Libyan and imperial Ottoman design elements. History K7 — Ottoman religious architecture."
     },
     factsAdvanced: {
       en: ["A highly ornate, historic mosque located inside the Tripoli Medina.", "Constructed during the period of Ottoman imperial rule in Libya.", "Renowned for its exceptionally detailed, intricate interior stucco carvings.", "Features a traditional, serene central courtyard to provide natural cooling.", "Offers a quiet, insulated sanctuary away from the bustling adjacent markets.", "Represents a beautiful fusion of local Libyan and Ottoman imperial styles."]
-    }
-  },
+    },
     description: {
       de: "Eine elegante historische Moschee nahe der Altstadt von Tripolis, bekannt für ihre detaillierte Verzierung.",
       hu: "Elegáns történelmi mecset Tripoli óvárosának közelében, mely részletes díszítéséről ismert.",
@@ -1130,14 +1104,13 @@ export const poiExtraLibyaLandmarksV2: POI[] = [
       hu: "Tobruk Nagymecset",
       ro: "Marea Moschee din Tobruk",
       en: "Tobruk Grand Mosque"
-    ,
+    },
     descriptionAdvanced: {
       en: "The Tobruk Grand Mosque is the spiritual center of the far eastern Cyrenaica region, standing as a prominent landmark in the city's historic center. Known for its elegant, slender minarets and brilliant white facade, it provides a striking contrast to the dusty, arid environment typical of the Tobruk area. The mosque is not just a place of worship but a critical community center where local tribal and civic leaders frequently gather. Its sweeping courtyard can accommodate thousands during major Islamic holidays. Sociology K7 — urban religious architecture."
     },
     factsAdvanced: {
       en: ["The largest and most important Islamic worship center in Tobruk.", "Features a brilliant white facade and multiple slender minarets.", "Serves as the primary communal gathering space for local civic leaders.", "Located in the heart of Tobruk's historic commercial district.", "Can accommodate thousands of worshippers during Eid and Friday prayers.", "Provides a stark visual contrast to the surrounding arid desert landscape."]
-    }
-  },
+    },
     description: {
       de: "Das wichtigste islamische Zentrum in der östlichen Küstenstadt Tobruk.",
       hu: "A legfontosabb iszlám központ a keleti tengerparti Tobruk városában.",
@@ -1173,14 +1146,13 @@ export const poiExtraLibyaLandmarksV2: POI[] = [
       hu: "Miszrata Repülőtér Terminál",
       ro: "Terminalul Aeroportului Misrata",
       en: "Misrata Airport Terminal"
-    ,
+    },
     descriptionAdvanced: {
       en: "The Misrata Airport Terminal is a vital civilian and logistical hub that underscores the city's status as Libya's commercial capital. Originally a military airbase, the civilian terminal was rapidly expanded to handle international business flights, primarily connecting to Turkey, Tunisia, and Egypt. The architecture is highly functional, designed to process large volumes of commercial travelers efficiently. During times when Tripoli's airport has been compromised, Misrata often takes over as the primary international gateway for western Libya. Geography K8 — commercial aviation infrastructure."
     },
     factsAdvanced: {
       en: ["A critical commercial aviation hub for the city of Misrata.", "Originally functioned primarily as a military airbase before civilian expansion.", "Handles frequent international flights to Turkey, Tunisia, and Egypt.", "Features functional, high-capacity terminal architecture.", "Frequently acts as the main western gateway when Tripoli's airports are closed.", "Directly supports the massive international trade flowing through the city."]
-    }
-  },
+    },
     description: {
       de: "Das zivile Passagierterminal am Misrata Airport, einem wichtigen Luftfahrtzentrum für den Handel.",
       hu: "A civil utasterminál Miszrata repülőterén, amely fontos légi csomópont a kereskedelem számára.",
@@ -1216,14 +1188,13 @@ export const poiExtraLibyaLandmarksV2: POI[] = [
       hu: "Al-Kis Tér Mecset",
       ro: "Moscheea din Piața Al-Kish",
       en: "Al-Kish Square Mosque"
-    ,
+    },
     descriptionAdvanced: {
       en: "The Al-Kish Square Mosque is a highly recognizable religious structure located in one of Benghazi's most politically significant public spaces. The mosque's modern, expansive design accommodates the massive crowds that often gather in the adjacent square for protests, celebrations, and civic events. It gained profound national prominence during the 2011 revolution, serving as a rallying point for initial uprisings. The mosque remains deeply intertwined with the modern political identity of Benghazi's residents. Sociology K8 — religious spaces and political activism."
     },
     factsAdvanced: {
       en: ["Located on the highly prominent Al-Kish Square in Benghazi.", "Features a modern, expansive architectural design to hold large crowds.", "Gained massive historical significance during the 2011 Libyan revolution.", "Served as a primary rallying point for early political uprisings.", "The adjacent square is frequently used for massive civic gatherings.", "Deeply tied to the modern political identity of eastern Libya."]
-    }
-  },
+    },
     description: {
       de: "Eine gut sichtbare Moschee am beliebten Al-Kish-Platz in Bengasi.",
       hu: "Jól látható mecset Bengázi népszerű Al-Kis terén.",
@@ -1259,14 +1230,13 @@ export const poiExtraLibyaLandmarksV2: POI[] = [
       hu: "Bengázi Nagymecset",
       ro: "Marea Moschee din Benghazi",
       en: "Benghazi Great Mosque"
-    ,
+    },
     descriptionAdvanced: {
       en: "The Benghazi Great Mosque, historically known as the Atik Mosque, is the oldest existing Islamic structure in the city. Located in the historic Medina, its deeply traditional architecture reflects centuries of North African Islamic design, featuring a modest, unadorned exterior and a serene internal courtyard. Unlike the massive, modern mosques built during the oil boom, this structure offers a quiet, profound link to Benghazi's pre-colonial past. It remains a beloved, active place of worship for the city's oldest families. History K7 — historic urban mosques."
     },
     factsAdvanced: {
       en: ["The oldest continuously functioning mosque in the city of Benghazi.", "Located within the historic, narrow streets of the city's Medina.", "Also widely known locally as the Atik Mosque.", "Features deeply traditional, unpretentious North African architecture.", "Provides a serene, quiet central courtyard for worshippers.", "A profound surviving link to Benghazi's pre-colonial history."]
-    }
-  },
+    },
     description: {
       de: "Die zentrale und älteste Moschee der Stadt Bengasi, ein Ort großer spiritueller Bedeutung.",
       hu: "Bengázi városának központi és legrégebbi mecsete, a spirituális élet központja.",

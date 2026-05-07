@@ -53,8 +53,8 @@ export const mexicoCities: POI[] = [
     name: { de: "Guadalajara", hu: "Guadalajara", ro: "Guadalajara", en: "Guadalajara" },
     descriptionAdvanced: {
       de: "Guadalajara ist das Zentrum der Region Bajío und ein kulturelles Kraftzentrum, das tief in der mexikanischen Identität verwurzelt ist. Während die Stadt ihre traditionellen Wurzeln wie den Mariachi-Stil pflegt, ist sie gleichzeitig ein global bedeutendes Innovationszentrum, das als 'Silicon Valley Mexikos' bekannt ist.",
-      hu: "Guadalajara a mexikói Bajío régió kulturális és gazdasági központja, amely büszkén őrzi a mariachi zene és a tequila tradicionális gyökereit. A város technológiai fejlődése révén ma már Mexikó „Szilícium-völgyeként” ismert, ahol a modern elektronikai ipar és a klasszikus gyarmati építészet békésen megfér egymás mellett. A katedrális ikertornyai és a város körüli történelmi terek betekintést nyújtanak a gazdag mexikói identitásba. Történelem K8 — technológiai fejlődés és hagyomány.",
-      ro: "Guadalajara este centrul regiunii Bajío și un motor cultural profund înrădăcinat în identitatea mexicană. În timp ce orașul își cultivă rădăcinile tradiționale, precum stilul Mariachi, este totodată un centru de inovare important la nivel mondial, cunoscut drept „Silicon Valley” al Mexicului.",
+      hu: "Guadalajara a mexikói Bajío régió kulturális és gazdasági központja, amely büszkén őrzi a mariachi zene és a tequila tradicionális gyökereit. A város technológiai fejlődése révén ma már Mexikó \\\"Szilícium-völgyeként\\\" ismert, ahol a modern elektronikai ipar és a klasszikus gyarmati építészet békésen megfér egymás mellett. A katedrális ikertornyai és a város körüli történelmi terek betekintést nyújtanak a gazdag mexikói identitásba. Történelem K8 — technológiai fejlődés és hagyomány.",
+      ro: "Guadalajara este centrul regiunii Bajío și un motor cultural profund înrădăcinat în identitatea mexicană. În timp ce orașul își cultivă rădăcinile tradiționale, precum stilul Mariachi, este totodată un centru de inovare important la nivel mondial, cunoscut drept \\\"Silicon Valley\\\" al Mexicului.",
       en: "Guadalajara serves as a key cultural anchor in the Bajío region and is deeply tied to quintessential Mexican traditions like Mariachi music and tequila production. Beyond its heritage, the city has evolved into a major technological powerhouse, frequently referred to as the 'Silicon Valley of Mexico' due to its flourishing electronics and software industries. Its historical center remains preserved, while its surrounding metropolitan area continues to push forward with rapid industrial and academic growth. Geography K7 — culture and regional development."
     },
     factsAdvanced: {
@@ -67,7 +67,7 @@ export const mexicoCities: POI[] = [
         "Hospicio Cabañas este un sit din Patrimoniul Mondial UNESCO.",
         "Orașul este un bastion al industriei tehnologice mexicane.",
         "Există cinci piețe istorice în jurul catedralei.",
-        "Guadalajara a fost desemnată „Capitala Mondială a Cărții” în 2022.",
+        "Guadalajara a fost desemnată \\\"Capitala Mondială a Cărții\\\" în 2022.",
         "Festivalul Internațional de Film anual este unul dintre cele mai importante din America Latină."
       ],
       en: [

@@ -48,8 +48,8 @@ export const costaricaCities: POI[] = [
     description: { de: "Zweitgrößte Stadt, in der Nähe des internationalen Flughafens gelegen.", hu: "A második legnagyobb város a nemzetközi repülőtér közelében.", ro: "Al doilea oraș ca mărime, situat în apropierea aeroportului internațional.", en: "Second largest city, located near the main international airport." },
     descriptionAdvanced: {
       de: "Alajuela ist als 'Stadt der Mangos' bekannt und war der Geburtsort des Nationalhelden Juan Santamaría. Die Stadt genießt ein wärmeres Klima als San José und ist ein wichtiger Knotenpunkt für den Handel.",
-      hu: "Alajuelát a „mangók városaként” ismerik, és itt született a nemzeti hős, Juan Santamaría. A város éghajlata melegebb, mint San Joséé, és fontos kereskedelmi csomópont.",
-      ro: "Alajuela este cunoscut sub numele de „orașul mangos” și a fost locul de naștere al eroului național Juan Santamaría. Orașul are un climat mai cald decât San José și este un nod comercial important.",
+      hu: "Alajuelát a \\\"mangók városaként\\\" ismerik, és itt született a nemzeti hős, Juan Santamaría. A város éghajlata melegebb, mint San Joséé, és fontos kereskedelmi csomópont.",
+      ro: "Alajuela este cunoscut sub numele de \\\"orașul mangos\\\" și a fost locul de naștere al eroului național Juan Santamaría. Orașul are un climat mai cald decât San José și este un nod comercial important.",
       en: "Nicknamed the 'City of Mangoes', Alajuela was the birthplace of national hero Juan Santamaría. It enjoys a warmer climate than the capital and serves as a vital commercial hub."
     },
     facts: {
@@ -87,7 +87,7 @@ export const costaricaCities: POI[] = [
     factsAdvanced: {
       de: ["Beherbergt die Basilika 'Nuestra Señora de los Ángeles'", "Wurde durch das Erdbeben von 1910 schwer getroffen", "Am Fuße des Vulkans Irazú"],
       hu: ["Itt áll az Angyalok Szűzanyja bazilika", "Az 1910-es földrengés súlyos károkat okozott", "Az Irazú-vulkán lábánál fekszik"],
-      ro: ["Găzduiește Bazilica „Nuestra Señora de los Ángeles”", "Grav afectat de cutremurul din 1910", "La poalele vulcanului Irazú"],
+      ro: ["Găzduiește Bazilica \\\"Nuestra Señora de los Ángeles\\\"", "Grav afectat de cutremurul din 1910", "La poalele vulcanului Irazú"],
       en: ["Home to the Basilica of Our Lady of the Angels", "Severely impacted by the 1910 earthquake", "Situated at the base of the Irazú Volcano"]
     },
     historyYear: 1563, image: "/poi-images/cr-cartago.webp"},
@@ -100,8 +100,8 @@ export const costaricaCities: POI[] = [
     description: { de: "Die 'Stadt der Blumen', bekannt für koloniale Architektur und Universität.", hu: "A 'Virágok városa', gyarmati építészetéről és egyeteméről ismert.", ro: "'Orașul Florilor', cunoscut pentru arhitectura colonială și universitate.", en: "The 'City of Flowers', known for colonial architecture and its university." },
     descriptionAdvanced: {
       de: "Heredia liegt inmitten von Kaffeeplantagen und bewahrt einen Teil seiner kolonialen Eleganz. Die Stadt ist Sitz der Nationalen Universität und bekannt für den 'Fortín', einen historischen Wehrturm.",
-      hu: "Heredia kávéültetvények gyűrűjében fekszik, és máig őrzi gyarmati eleganciáját. Itt található a Nemzeti Egyetem és a város jelképe, a „Fortín” nevű történelmi bástya.",
-      ro: "Heredia este situat în mijlocul plantațiilor de cafea și păstrează o parte din eleganța sa colonială. Orașul găzduiește Universitatea Națională și este cunoscut pentru „Fortín”, un turn istoric de apărare.",
+      hu: "Heredia kávéültetvények gyűrűjében fekszik, és máig őrzi gyarmati eleganciáját. Itt található a Nemzeti Egyetem és a város jelképe, a \\\"Fortín\\\" nevű történelmi bástya.",
+      ro: "Heredia este situat în mijlocul plantațiilor de cafea și păstrează o parte din eleganța sa colonială. Orașul găzduiește Universitatea Națională și este cunoscut pentru \\\"Fortín\\\", un turn istoric de apărare.",
       en: "Surrounded by sprawling coffee plantations, Heredia retains much of its colonial elegance. It is home to the National University and the iconic 'Fortín', a historic brick fortification tower."
     },
     facts: {
@@ -126,8 +126,8 @@ export const costaricaCities: POI[] = [
     description: { de: "Die Hauptstadt der Provinz Guanacaste, Tor zu Stränden und Nationalparks.", hu: "Guanacaste tartomány fővárosa, kapu a strandokhoz és nemzeti parkokhoz.", ro: "Capitala provinciei Guanacaste, poarta către plaje și parcuri naționale.", en: "Capital of Guanacaste province, gateway to beaches and national parks." },
     descriptionAdvanced: {
       de: "Liberia wird wegen seiner weißen Lehmstraßen der Vergangenheit oft als 'Weiße Stadt' bezeichnet. Sie ist das Tor zur Provinz Guanacaste und bietet einfachen Zugang zu den schönsten Stränden und Vulkanen des Nordens.",
-      hu: "Liberiát a múltbeli fehér agyagútjai miatt gyakran „fehér városnak” hívják. Guanacaste tartomány kapuja, ahonnan könnyen elérhetők az északi rész legszebb strandjai és vulkánjai.",
-      ro: "Liberia este adesea numit „orașul alb” datorită străzilor sale din lut alb din trecut. Este poarta către provincia Guanacaste și oferă acces facil la cele mai frumoase plaje și vulcani din nord.",
+      hu: "Liberiát a múltbeli fehér agyagútjai miatt gyakran \\\"fehér városnak\\\" hívják. Guanacaste tartomány kapuja, ahonnan könnyen elérhetők az északi rész legszebb strandjai és vulkánjai.",
+      ro: "Liberia este adesea numit \\\"orașul alb\\\" datorită străzilor sale din lut alb din trecut. Este poarta către provincia Guanacaste și oferă acces facil la cele mai frumoase plaje și vulcani din nord.",
       en: "Known as the 'White City' for its historic whitewashed adobe buildings, Liberia is the hub of Guanacaste. It serves as the primary gateway to northern beaches and volcanic national parks."
     },
     facts: {
@@ -217,7 +217,7 @@ export const costaricaCities: POI[] = [
     factsAdvanced: {
       de: ["Tiefe: bis zu 60 m", "Wurde durch einen Staudamm geschaffen", "Heimat des schmackhaften Regenbogen-Buntbarschs"],
       hu: ["Mélység: akár 60 m", "Völgyzáró gát építésével jött létre", "A szivárványos sügér lakhelye"],
-      ro: ["Adâncime: până la 60 m", "Creat prin construirea unui baraj", "Găzduiește peștele „guapote”"],
+      ro: ["Adâncime: până la 60 m", "Creat prin construirea unui baraj", "Găzduiește peștele \\\"guapote\\\""],
       en: ["Maximum depth: 60 m", "Tripled in size by the 1979 dam", "Home to the prized Rainbow Bass (Guapote)"]
     },
     area: 85, image: "/poi-images/cr-arenal-lake.webp"},
@@ -438,8 +438,8 @@ export const costaricaLandmarks: POI[] = [
     description: { de: "Einer der artenreichsten Orte der Welt auf der Osa-Halbinsel.", hu: "A világ egyik biológiailag legdiverzebb helye az Osa-félszigeten.", ro: "Unul dintre cele mai bogate locuri în biodiversitate din lume.", en: "One of the most biologically intense places on Earth on the Osa Peninsula." },
     descriptionAdvanced: {
       de: "National Geographic bezeichnete Corcovado als 'den biologisch intensivsten Ort der Erde'. Der Park schützt den letzten ursprünglichen Tieflandregenwald an der mittelamerikanischen Pazifikküste.",
-      hu: "A National Geographic Corcovadót „a világ biológiailag legintenzívebb helyének” nevezte. A park Közép-Amerika csendes-óceáni partvidékének utolsó eredeti síkvidéki esőerdőjét védi.",
-      ro: "National Geographic a numit Corcovado „cel mai intens loc biologic de pe Pământ”. Parcul protejează ultima pădure tropicală de câmpie virgină de pe coasta Pacificului din America Centrală.",
+      hu: "A National Geographic Corcovadót \\\"a világ biológiailag legintenzívebb helyének\\\" nevezte. A park Közép-Amerika csendes-óceáni partvidékének utolsó eredeti síkvidéki esőerdőjét védi.",
+      ro: "National Geographic a numit Corcovado \\\"cel mai intens loc biologic de pe Pământ\\\". Parcul protejează ultima pădure tropicală de câmpie virgină de pe coasta Pacificului din America Centrală.",
       en: "National Geographic described Corcovado as 'the most biologically intense place on Earth'. It protects the last remaining old-growth lowland rainforest on Central America's Pacific coast."
     },
     facts: {
@@ -552,7 +552,7 @@ export const costaricaLandmarks: POI[] = [
     factsAdvanced: {
       de: ["Deckengemälde 'Allegorie von Kaffee und Bananen'", "Aus italienischem Marmor gebaut", "Nationales Symbol"],
       hu: ["Híres 'Kávé és banán allegóriája' mennyezetkép", "Olasz márványból épült", "Nemzeti szimbólum"],
-      ro: ["Pictură murală „Alegoria cafelei și bananelor”", "Construit cu marmură italiană", "Simbol național"],
+      ro: ["Pictură murală \\\"Alegoria cafelei și bananelor\\\"", "Construit cu marmură italiană", "Simbol național"],
       en: ["Features the famous 'Allegory of Coffee' mural", "Built using Carrara marble from Italy", "Considered a symbol of national pride"]
     },
     historyYear: 1891
@@ -579,7 +579,7 @@ export const costaricaLandmarks: POI[] = [
     factsAdvanced: {
       de: ["Blick auf beide Ozeane an klaren Tagen", "Name bedeutet 'Grollen' in indigener Sprache", "Wichtiger Nationalpark"],
       hu: ["Tiszta időben mindkét óceán látható", "A név jelentése 'morajlás' indián nyelven", "Fontos nemzeti park"],
-      ro: ["Vedere spre ambele oceane în zile senine", "Numele înseamnă „bubuit” în limbă indigenă", "Parc național major"],
+      ro: ["Vedere spre ambele oceane în zile senine", "Numele înseamnă \\\"bubuit\\\" în limbă indigenă", "Parc național major"],
       en: ["Possible to see both oceans on clear days", "Name means 'thunder' in indigenous tongue", "Premier high-altitude national park"]
     },
     elevation: 3432, image: "/poi-images/cr-irazu.webp"},
@@ -619,7 +619,7 @@ export const costaricaLandmarks: POI[] = [
     descriptionAdvanced: {
       de: "Dieser Meeresnationalpark ist berühmt für die 'Punta Uvita', eine natürliche Sand- und Felsbank, die bei Ebbe genau die Form einer Walflosse hat – und genau hierher kommen Buckelwale zur Paarung.",
       hu: "Ez a tengeri nemzeti park a 'Punta Uvita' miatt híres, ami egy olyan homok- és sziklapad, amely apálykor pontosan egy bálnafarok alakját veszi fel – ráadásul épp ide járnak a hosszúszárnyú bálnák szaporodni.",
-      ro: "Acest parc marin este faimos pentru „Punta Uvita”, un banc de nisip și stâncă care, la reflux, are exact forma unei cozi de balenă – chiar în locul unde vin balenele cu cocoașă pentru împerechere.",
+      ro: "Acest parc marin este faimos pentru \\\"Punta Uvita\\\", un banc de nisip și stâncă care, la reflux, are exact forma unei cozi de balenă – chiar în locul unde vin balenele cu cocoașă pentru împerechere.",
       en: "This marine park features the extraordinary 'Whale Tail' sandbar, which naturally forms the shape of a fluke at low tide. Fittingly, the area is a major breeding ground for humpback whales."
     },
     facts: {
@@ -719,8 +719,8 @@ export const costaricaLandmarks: POI[] = [
     description: { de: "Ein Fluss bekannt für seine leuchtend hellblaue Farbe aufgrund vulkanischer Mineralien.", hu: "Folyó, amely vulkáni ásványoknak köszönhető élénk világoskék színéről ismert.", ro: "Un râu faimos pentru culoarea sa albastru-azuriu, cauzată de mineralele vulcanice.", en: "A river known for its bright light blue color caused by volcanic minerals." },
     descriptionAdvanced: {
       de: "Die magische Farbe des Rio Celeste entsteht durch eine chemische Reaktion an der Stelle, wo zwei klare Flüsse aufeinandertreffen. Das Phänomen wird 'Los Teñideros' genannt und verzaubert jeden Besucher.",
-      hu: "A Rio Celeste mágikus színe egy kémiai reakciónak köszönhető azon a ponton, ahol két tiszta folyó találkozik. A jelenséget „Los Teñideros”-nak hívják, és minden látogatót elvarázsol.",
-      ro: "Culoarea magică a râului Celeste este rezultatul unei reacții chimice în locul unde se întâlnesc două râuri limpezi. Fenomenul se numește „Los Teñideros” și fascinează orice vizitator.",
+      hu: "A Rio Celeste mágikus színe egy kémiai reakciónak köszönhető azon a ponton, ahol két tiszta folyó találkozik. A jelenséget \\\"Los Teñideros\\\"-nak hívják, és minden látogatót elvarázsol.",
+      ro: "Culoarea magică a râului Celeste este rezultatul unei reacții chimice în locul unde se întâlnesc două râuri limpezi. Fenomenul se numește \\\"Los Teñideros\\\" și fascinează orice vizitator.",
       en: "The surreal blue hue of Rio Celeste is created by a chemical reaction where two clear rivers merge. This phenomenon, known as 'Los Teñideros', creates one of the country's most stunning natural sights."
     },
     facts: {

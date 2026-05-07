@@ -33,7 +33,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Situl are o relevan?a istorica majora Ón regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradi?iile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
+      ro: ["Situl are o relevan?a istorica majora √Æn regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradi?iile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -63,7 +63,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Importan?a acestui sit este recunoscuta Ón plan local ?i regional.", "Tradi?iile transmise aici au modelat identitatea comunita?ii respective.", "Zona reprezinta un punct de interes pentru cercetarea patrimoniului istoric.", "Œn cadrul sitului au avut loc multiple evenimente de promovare culturala.", "Infrastructura permite explorarea confortabila a elementelor de interes.", "Situl ram‚ne un reper pentru cei pasiona?i de istoria Ciprului."],
+      ro: ["Importan?a acestui sit este recunoscuta √Æn plan local ?i regional.", "Tradi?iile transmise aici au modelat identitatea comunita?ii respective.", "Zona reprezinta un punct de interes pentru cercetarea patrimoniului istoric.", "√én cadrul sitului au avut loc multiple evenimente de promovare culturala.", "Infrastructura permite explorarea confortabila a elementelor de interes.", "Situl ram√¢ne un reper pentru cei pasiona?i de istoria Ciprului."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -93,7 +93,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Situl are o relevan?a istorica majora Ón regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradi?iile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
+      ro: ["Situl are o relevan?a istorica majora √Æn regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradi?iile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -123,7 +123,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Aceasta loca?ie joaca un rol vital Ón conservarea patrimoniului na?ional.", "Elementele structurale eviden?iaza tehnicile de construc?ie din perioadele trecute.", "Siturile din vecinatate completeaza contextul istoric al loca?iei.", "Activita?ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscuta pentru importan?a sa Ón dezvoltarea culturala locala.", "Vizitarea acestui loc ofera o experien?a autentica a vie?ii cipriote."],
+      ro: ["Aceasta loca?ie joaca un rol vital √Æn conservarea patrimoniului na?ional.", "Elementele structurale eviden?iaza tehnicile de construc?ie din perioadele trecute.", "Siturile din vecinatate completeaza contextul istoric al loca?iei.", "Activita?ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscuta pentru importan?a sa √Æn dezvoltarea culturala locala.", "Vizitarea acestui loc ofera o experien?a autentica a vie?ii cipriote."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -153,7 +153,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Situl are o relevan?a istorica majora Ón regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradi?iile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
+      ro: ["Situl are o relevan?a istorica majora √Æn regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradi?iile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -183,7 +183,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Importan?a acestui sit este recunoscuta Ón plan local ?i regional.", "Tradi?iile transmise aici au modelat identitatea comunita?ii respective.", "Zona reprezinta un punct de interes pentru cercetarea patrimoniului istoric.", "Œn cadrul sitului au avut loc multiple evenimente de promovare culturala.", "Infrastructura permite explorarea confortabila a elementelor de interes.", "Situl ram‚ne un reper pentru cei pasiona?i de istoria Ciprului."],
+      ro: ["Importan?a acestui sit este recunoscuta √Æn plan local ?i regional.", "Tradi?iile transmise aici au modelat identitatea comunita?ii respective.", "Zona reprezinta un punct de interes pentru cercetarea patrimoniului istoric.", "√én cadrul sitului au avut loc multiple evenimente de promovare culturala.", "Infrastructura permite explorarea confortabila a elementelor de interes.", "Situl ram√¢ne un reper pentru cei pasiona?i de istoria Ciprului."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -213,7 +213,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Situl are o relevan?a istorica majora Ón regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradi?iile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
+      ro: ["Situl are o relevan?a istorica majora √Æn regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradi?iile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -243,7 +243,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Importan?a acestui sit este recunoscuta Ón plan local ?i regional.", "Tradi?iile transmise aici au modelat identitatea comunita?ii respective.", "Zona reprezinta un punct de interes pentru cercetarea patrimoniului istoric.", "Œn cadrul sitului au avut loc multiple evenimente de promovare culturala.", "Infrastructura permite explorarea confortabila a elementelor de interes.", "Situl ram‚ne un reper pentru cei pasiona?i de istoria Ciprului."],
+      ro: ["Importan?a acestui sit este recunoscuta √Æn plan local ?i regional.", "Tradi?iile transmise aici au modelat identitatea comunita?ii respective.", "Zona reprezinta un punct de interes pentru cercetarea patrimoniului istoric.", "√én cadrul sitului au avut loc multiple evenimente de promovare culturala.", "Infrastructura permite explorarea confortabila a elementelor de interes.", "Situl ram√¢ne un reper pentru cei pasiona?i de istoria Ciprului."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -273,7 +273,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Aceasta loca?ie joaca un rol vital Ón conservarea patrimoniului na?ional.", "Elementele structurale eviden?iaza tehnicile de construc?ie din perioadele trecute.", "Siturile din vecinatate completeaza contextul istoric al loca?iei.", "Activita?ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscuta pentru importan?a sa Ón dezvoltarea culturala locala.", "Vizitarea acestui loc ofera o experien?a autentica a vie?ii cipriote."],
+      ro: ["Aceasta loca?ie joaca un rol vital √Æn conservarea patrimoniului na?ional.", "Elementele structurale eviden?iaza tehnicile de construc?ie din perioadele trecute.", "Siturile din vecinatate completeaza contextul istoric al loca?iei.", "Activita?ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscuta pentru importan?a sa √Æn dezvoltarea culturala locala.", "Vizitarea acestui loc ofera o experien?a autentica a vie?ii cipriote."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -303,7 +303,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Situl are o relevan?a istorica majora Ón regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradi?iile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
+      ro: ["Situl are o relevan?a istorica majora √Æn regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradi?iile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -333,7 +333,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Situl are o relevan?a istorica majora Ón regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradi?iile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
+      ro: ["Situl are o relevan?a istorica majora √Æn regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradi?iile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -363,7 +363,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Importan?a acestui sit este recunoscuta Ón plan local ?i regional.", "Tradi?iile transmise aici au modelat identitatea comunita?ii respective.", "Zona reprezinta un punct de interes pentru cercetarea patrimoniului istoric.", "Œn cadrul sitului au avut loc multiple evenimente de promovare culturala.", "Infrastructura permite explorarea confortabila a elementelor de interes.", "Situl ram‚ne un reper pentru cei pasiona?i de istoria Ciprului."],
+      ro: ["Importan?a acestui sit este recunoscuta √Æn plan local ?i regional.", "Tradi?iile transmise aici au modelat identitatea comunita?ii respective.", "Zona reprezinta un punct de interes pentru cercetarea patrimoniului istoric.", "√én cadrul sitului au avut loc multiple evenimente de promovare culturala.", "Infrastructura permite explorarea confortabila a elementelor de interes.", "Situl ram√¢ne un reper pentru cei pasiona?i de istoria Ciprului."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -393,7 +393,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Situl are o relevan?a istorica majora Ón regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradi?iile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
+      ro: ["Situl are o relevan?a istorica majora √Æn regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradi?iile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -423,7 +423,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Aceasta loca?ie joaca un rol vital Ón conservarea patrimoniului na?ional.", "Elementele structurale eviden?iaza tehnicile de construc?ie din perioadele trecute.", "Siturile din vecinatate completeaza contextul istoric al loca?iei.", "Activita?ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscuta pentru importan?a sa Ón dezvoltarea culturala locala.", "Vizitarea acestui loc ofera o experien?a autentica a vie?ii cipriote."],
+      ro: ["Aceasta loca?ie joaca un rol vital √Æn conservarea patrimoniului na?ional.", "Elementele structurale eviden?iaza tehnicile de construc?ie din perioadele trecute.", "Siturile din vecinatate completeaza contextul istoric al loca?iei.", "Activita?ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscuta pentru importan?a sa √Æn dezvoltarea culturala locala.", "Vizitarea acestui loc ofera o experien?a autentica a vie?ii cipriote."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -453,7 +453,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Aceasta loca?ie joaca un rol vital Ón conservarea patrimoniului na?ional.", "Elementele structurale eviden?iaza tehnicile de construc?ie din perioadele trecute.", "Siturile din vecinatate completeaza contextul istoric al loca?iei.", "Activita?ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscuta pentru importan?a sa Ón dezvoltarea culturala locala.", "Vizitarea acestui loc ofera o experien?a autentica a vie?ii cipriote."],
+      ro: ["Aceasta loca?ie joaca un rol vital √Æn conservarea patrimoniului na?ional.", "Elementele structurale eviden?iaza tehnicile de construc?ie din perioadele trecute.", "Siturile din vecinatate completeaza contextul istoric al loca?iei.", "Activita?ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscuta pentru importan?a sa √Æn dezvoltarea culturala locala.", "Vizitarea acestui loc ofera o experien?a autentica a vie?ii cipriote."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -483,7 +483,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Situl are o relevan?a istorica majora Ón regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradi?iile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
+      ro: ["Situl are o relevan?a istorica majora √Æn regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradi?iile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -513,7 +513,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Aceasta loca?ie joaca un rol vital Ón conservarea patrimoniului na?ional.", "Elementele structurale eviden?iaza tehnicile de construc?ie din perioadele trecute.", "Siturile din vecinatate completeaza contextul istoric al loca?iei.", "Activita?ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscuta pentru importan?a sa Ón dezvoltarea culturala locala.", "Vizitarea acestui loc ofera o experien?a autentica a vie?ii cipriote."],
+      ro: ["Aceasta loca?ie joaca un rol vital √Æn conservarea patrimoniului na?ional.", "Elementele structurale eviden?iaza tehnicile de construc?ie din perioadele trecute.", "Siturile din vecinatate completeaza contextul istoric al loca?iei.", "Activita?ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscuta pentru importan?a sa √Æn dezvoltarea culturala locala.", "Vizitarea acestui loc ofera o experien?a autentica a vie?ii cipriote."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -543,7 +543,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Aceasta loca?ie joaca un rol vital Ón conservarea patrimoniului na?ional.", "Elementele structurale eviden?iaza tehnicile de construc?ie din perioadele trecute.", "Siturile din vecinatate completeaza contextul istoric al loca?iei.", "Activita?ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscuta pentru importan?a sa Ón dezvoltarea culturala locala.", "Vizitarea acestui loc ofera o experien?a autentica a vie?ii cipriote."],
+      ro: ["Aceasta loca?ie joaca un rol vital √Æn conservarea patrimoniului na?ional.", "Elementele structurale eviden?iaza tehnicile de construc?ie din perioadele trecute.", "Siturile din vecinatate completeaza contextul istoric al loca?iei.", "Activita?ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscuta pentru importan?a sa √Æn dezvoltarea culturala locala.", "Vizitarea acestui loc ofera o experien?a autentica a vie?ii cipriote."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -573,7 +573,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Aceasta loca?ie joaca un rol vital Ón conservarea patrimoniului na?ional.", "Elementele structurale eviden?iaza tehnicile de construc?ie din perioadele trecute.", "Siturile din vecinatate completeaza contextul istoric al loca?iei.", "Activita?ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscuta pentru importan?a sa Ón dezvoltarea culturala locala.", "Vizitarea acestui loc ofera o experien?a autentica a vie?ii cipriote."],
+      ro: ["Aceasta loca?ie joaca un rol vital √Æn conservarea patrimoniului na?ional.", "Elementele structurale eviden?iaza tehnicile de construc?ie din perioadele trecute.", "Siturile din vecinatate completeaza contextul istoric al loca?iei.", "Activita?ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscuta pentru importan?a sa √Æn dezvoltarea culturala locala.", "Vizitarea acestui loc ofera o experien?a autentica a vie?ii cipriote."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -603,7 +603,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Aceasta loca?ie joaca un rol vital Ón conservarea patrimoniului na?ional.", "Elementele structurale eviden?iaza tehnicile de construc?ie din perioadele trecute.", "Siturile din vecinatate completeaza contextul istoric al loca?iei.", "Activita?ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscuta pentru importan?a sa Ón dezvoltarea culturala locala.", "Vizitarea acestui loc ofera o experien?a autentica a vie?ii cipriote."],
+      ro: ["Aceasta loca?ie joaca un rol vital √Æn conservarea patrimoniului na?ional.", "Elementele structurale eviden?iaza tehnicile de construc?ie din perioadele trecute.", "Siturile din vecinatate completeaza contextul istoric al loca?iei.", "Activita?ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscuta pentru importan?a sa √Æn dezvoltarea culturala locala.", "Vizitarea acestui loc ofera o experien?a autentica a vie?ii cipriote."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -633,7 +633,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Situl are o relevan?a istorica majora Ón regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradi?iile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
+      ro: ["Situl are o relevan?a istorica majora √Æn regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradi?iile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -663,7 +663,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Situl are o relevan?a istorica majora Ón regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradi?iile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
+      ro: ["Situl are o relevan?a istorica majora √Æn regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradi?iile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -693,7 +693,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Importan?a acestui sit este recunoscuta Ón plan local ?i regional.", "Tradi?iile transmise aici au modelat identitatea comunita?ii respective.", "Zona reprezinta un punct de interes pentru cercetarea patrimoniului istoric.", "Œn cadrul sitului au avut loc multiple evenimente de promovare culturala.", "Infrastructura permite explorarea confortabila a elementelor de interes.", "Situl ram‚ne un reper pentru cei pasiona?i de istoria Ciprului."],
+      ro: ["Importan?a acestui sit este recunoscuta √Æn plan local ?i regional.", "Tradi?iile transmise aici au modelat identitatea comunita?ii respective.", "Zona reprezinta un punct de interes pentru cercetarea patrimoniului istoric.", "√én cadrul sitului au avut loc multiple evenimente de promovare culturala.", "Infrastructura permite explorarea confortabila a elementelor de interes.", "Situl ram√¢ne un reper pentru cei pasiona?i de istoria Ciprului."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -723,7 +723,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Aceasta loca?ie joaca un rol vital Ón conservarea patrimoniului na?ional.", "Elementele structurale eviden?iaza tehnicile de construc?ie din perioadele trecute.", "Siturile din vecinatate completeaza contextul istoric al loca?iei.", "Activita?ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscuta pentru importan?a sa Ón dezvoltarea culturala locala.", "Vizitarea acestui loc ofera o experien?a autentica a vie?ii cipriote."],
+      ro: ["Aceasta loca?ie joaca un rol vital √Æn conservarea patrimoniului na?ional.", "Elementele structurale eviden?iaza tehnicile de construc?ie din perioadele trecute.", "Siturile din vecinatate completeaza contextul istoric al loca?iei.", "Activita?ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscuta pentru importan?a sa √Æn dezvoltarea culturala locala.", "Vizitarea acestui loc ofera o experien?a autentica a vie?ii cipriote."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -753,7 +753,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Aceasta loca?ie joaca un rol vital Ón conservarea patrimoniului na?ional.", "Elementele structurale eviden?iaza tehnicile de construc?ie din perioadele trecute.", "Siturile din vecinatate completeaza contextul istoric al loca?iei.", "Activita?ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscuta pentru importan?a sa Ón dezvoltarea culturala locala.", "Vizitarea acestui loc ofera o experien?a autentica a vie?ii cipriote."],
+      ro: ["Aceasta loca?ie joaca un rol vital √Æn conservarea patrimoniului na?ional.", "Elementele structurale eviden?iaza tehnicile de construc?ie din perioadele trecute.", "Siturile din vecinatate completeaza contextul istoric al loca?iei.", "Activita?ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscuta pentru importan?a sa √Æn dezvoltarea culturala locala.", "Vizitarea acestui loc ofera o experien?a autentica a vie?ii cipriote."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -783,7 +783,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Situl are o relevan?a istorica majora Ón regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradi?iile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
+      ro: ["Situl are o relevan?a istorica majora √Æn regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradi?iile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -813,7 +813,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Importan?a acestui sit este recunoscuta Ón plan local ?i regional.", "Tradi?iile transmise aici au modelat identitatea comunita?ii respective.", "Zona reprezinta un punct de interes pentru cercetarea patrimoniului istoric.", "Œn cadrul sitului au avut loc multiple evenimente de promovare culturala.", "Infrastructura permite explorarea confortabila a elementelor de interes.", "Situl ram‚ne un reper pentru cei pasiona?i de istoria Ciprului."],
+      ro: ["Importan?a acestui sit este recunoscuta √Æn plan local ?i regional.", "Tradi?iile transmise aici au modelat identitatea comunita?ii respective.", "Zona reprezinta un punct de interes pentru cercetarea patrimoniului istoric.", "√én cadrul sitului au avut loc multiple evenimente de promovare culturala.", "Infrastructura permite explorarea confortabila a elementelor de interes.", "Situl ram√¢ne un reper pentru cei pasiona?i de istoria Ciprului."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -843,7 +843,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Situl are o relevan?a istorica majora Ón regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradi?iile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
+      ro: ["Situl are o relevan?a istorica majora √Æn regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradi?iile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -873,7 +873,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Aceasta loca?ie joaca un rol vital Ón conservarea patrimoniului na?ional.", "Elementele structurale eviden?iaza tehnicile de construc?ie din perioadele trecute.", "Siturile din vecinatate completeaza contextul istoric al loca?iei.", "Activita?ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscuta pentru importan?a sa Ón dezvoltarea culturala locala.", "Vizitarea acestui loc ofera o experien?a autentica a vie?ii cipriote."],
+      ro: ["Aceasta loca?ie joaca un rol vital √Æn conservarea patrimoniului na?ional.", "Elementele structurale eviden?iaza tehnicile de construc?ie din perioadele trecute.", "Siturile din vecinatate completeaza contextul istoric al loca?iei.", "Activita?ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscuta pentru importan?a sa √Æn dezvoltarea culturala locala.", "Vizitarea acestui loc ofera o experien?a autentica a vie?ii cipriote."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -903,7 +903,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Aceasta loca?ie joaca un rol vital Ón conservarea patrimoniului na?ional.", "Elementele structurale eviden?iaza tehnicile de construc?ie din perioadele trecute.", "Siturile din vecinatate completeaza contextul istoric al loca?iei.", "Activita?ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscuta pentru importan?a sa Ón dezvoltarea culturala locala.", "Vizitarea acestui loc ofera o experien?a autentica a vie?ii cipriote."],
+      ro: ["Aceasta loca?ie joaca un rol vital √Æn conservarea patrimoniului na?ional.", "Elementele structurale eviden?iaza tehnicile de construc?ie din perioadele trecute.", "Siturile din vecinatate completeaza contextul istoric al loca?iei.", "Activita?ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscuta pentru importan?a sa √Æn dezvoltarea culturala locala.", "Vizitarea acestui loc ofera o experien?a autentica a vie?ii cipriote."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -939,7 +939,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Situl are o relevan?a istorica majora Ón regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradi?iile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
+      ro: ["Situl are o relevan?a istorica majora √Æn regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradi?iile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -969,7 +969,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Importan?a acestui sit este recunoscuta Ón plan local ?i regional.", "Tradi?iile transmise aici au modelat identitatea comunita?ii respective.", "Zona reprezinta un punct de interes pentru cercetarea patrimoniului istoric.", "Œn cadrul sitului au avut loc multiple evenimente de promovare culturala.", "Infrastructura permite explorarea confortabila a elementelor de interes.", "Situl ram‚ne un reper pentru cei pasiona?i de istoria Ciprului."],
+      ro: ["Importan?a acestui sit este recunoscuta √Æn plan local ?i regional.", "Tradi?iile transmise aici au modelat identitatea comunita?ii respective.", "Zona reprezinta un punct de interes pentru cercetarea patrimoniului istoric.", "√én cadrul sitului au avut loc multiple evenimente de promovare culturala.", "Infrastructura permite explorarea confortabila a elementelor de interes.", "Situl ram√¢ne un reper pentru cei pasiona?i de istoria Ciprului."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -999,7 +999,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Situl are o relevan?a istorica majora Ón regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradi?iile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
+      ro: ["Situl are o relevan?a istorica majora √Æn regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradi?iile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -1029,7 +1029,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Situl are o relevan?a istorica majora Ón regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradi?iile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
+      ro: ["Situl are o relevan?a istorica majora √Æn regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradi?iile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -1059,7 +1059,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Situl are o relevan?a istorica majora Ón regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradi?iile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
+      ro: ["Situl are o relevan?a istorica majora √Æn regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradi?iile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -1089,7 +1089,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Importan?a acestui sit este recunoscuta Ón plan local ?i regional.", "Tradi?iile transmise aici au modelat identitatea comunita?ii respective.", "Zona reprezinta un punct de interes pentru cercetarea patrimoniului istoric.", "Œn cadrul sitului au avut loc multiple evenimente de promovare culturala.", "Infrastructura permite explorarea confortabila a elementelor de interes.", "Situl ram‚ne un reper pentru cei pasiona?i de istoria Ciprului."],
+      ro: ["Importan?a acestui sit este recunoscuta √Æn plan local ?i regional.", "Tradi?iile transmise aici au modelat identitatea comunita?ii respective.", "Zona reprezinta un punct de interes pentru cercetarea patrimoniului istoric.", "√én cadrul sitului au avut loc multiple evenimente de promovare culturala.", "Infrastructura permite explorarea confortabila a elementelor de interes.", "Situl ram√¢ne un reper pentru cei pasiona?i de istoria Ciprului."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -1119,7 +1119,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Importan?a acestui sit este recunoscuta Ón plan local ?i regional.", "Tradi?iile transmise aici au modelat identitatea comunita?ii respective.", "Zona reprezinta un punct de interes pentru cercetarea patrimoniului istoric.", "Œn cadrul sitului au avut loc multiple evenimente de promovare culturala.", "Infrastructura permite explorarea confortabila a elementelor de interes.", "Situl ram‚ne un reper pentru cei pasiona?i de istoria Ciprului."],
+      ro: ["Importan?a acestui sit este recunoscuta √Æn plan local ?i regional.", "Tradi?iile transmise aici au modelat identitatea comunita?ii respective.", "Zona reprezinta un punct de interes pentru cercetarea patrimoniului istoric.", "√én cadrul sitului au avut loc multiple evenimente de promovare culturala.", "Infrastructura permite explorarea confortabila a elementelor de interes.", "Situl ram√¢ne un reper pentru cei pasiona?i de istoria Ciprului."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -1149,7 +1149,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Situl are o relevan?a istorica majora Ón regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradi?iile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
+      ro: ["Situl are o relevan?a istorica majora √Æn regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradi?iile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -1179,7 +1179,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Situl are o relevan?a istorica majora Ón regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradi?iile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
+      ro: ["Situl are o relevan?a istorica majora √Æn regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradi?iile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -1209,7 +1209,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Aceasta loca?ie joaca un rol vital Ón conservarea patrimoniului na?ional.", "Elementele structurale eviden?iaza tehnicile de construc?ie din perioadele trecute.", "Siturile din vecinatate completeaza contextul istoric al loca?iei.", "Activita?ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscuta pentru importan?a sa Ón dezvoltarea culturala locala.", "Vizitarea acestui loc ofera o experien?a autentica a vie?ii cipriote."],
+      ro: ["Aceasta loca?ie joaca un rol vital √Æn conservarea patrimoniului na?ional.", "Elementele structurale eviden?iaza tehnicile de construc?ie din perioadele trecute.", "Siturile din vecinatate completeaza contextul istoric al loca?iei.", "Activita?ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscuta pentru importan?a sa √Æn dezvoltarea culturala locala.", "Vizitarea acestui loc ofera o experien?a autentica a vie?ii cipriote."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -1239,7 +1239,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Aceasta loca?ie joaca un rol vital Ón conservarea patrimoniului na?ional.", "Elementele structurale eviden?iaza tehnicile de construc?ie din perioadele trecute.", "Siturile din vecinatate completeaza contextul istoric al loca?iei.", "Activita?ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscuta pentru importan?a sa Ón dezvoltarea culturala locala.", "Vizitarea acestui loc ofera o experien?a autentica a vie?ii cipriote."],
+      ro: ["Aceasta loca?ie joaca un rol vital √Æn conservarea patrimoniului na?ional.", "Elementele structurale eviden?iaza tehnicile de construc?ie din perioadele trecute.", "Siturile din vecinatate completeaza contextul istoric al loca?iei.", "Activita?ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscuta pentru importan?a sa √Æn dezvoltarea culturala locala.", "Vizitarea acestui loc ofera o experien?a autentica a vie?ii cipriote."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -1269,7 +1269,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Importan?a acestui sit este recunoscuta Ón plan local ?i regional.", "Tradi?iile transmise aici au modelat identitatea comunita?ii respective.", "Zona reprezinta un punct de interes pentru cercetarea patrimoniului istoric.", "Œn cadrul sitului au avut loc multiple evenimente de promovare culturala.", "Infrastructura permite explorarea confortabila a elementelor de interes.", "Situl ram‚ne un reper pentru cei pasiona?i de istoria Ciprului."],
+      ro: ["Importan?a acestui sit este recunoscuta √Æn plan local ?i regional.", "Tradi?iile transmise aici au modelat identitatea comunita?ii respective.", "Zona reprezinta un punct de interes pentru cercetarea patrimoniului istoric.", "√én cadrul sitului au avut loc multiple evenimente de promovare culturala.", "Infrastructura permite explorarea confortabila a elementelor de interes.", "Situl ram√¢ne un reper pentru cei pasiona?i de istoria Ciprului."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -1299,7 +1299,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Importan?a acestui sit este recunoscuta Ón plan local ?i regional.", "Tradi?iile transmise aici au modelat identitatea comunita?ii respective.", "Zona reprezinta un punct de interes pentru cercetarea patrimoniului istoric.", "Œn cadrul sitului au avut loc multiple evenimente de promovare culturala.", "Infrastructura permite explorarea confortabila a elementelor de interes.", "Situl ram‚ne un reper pentru cei pasiona?i de istoria Ciprului."],
+      ro: ["Importan?a acestui sit este recunoscuta √Æn plan local ?i regional.", "Tradi?iile transmise aici au modelat identitatea comunita?ii respective.", "Zona reprezinta un punct de interes pentru cercetarea patrimoniului istoric.", "√én cadrul sitului au avut loc multiple evenimente de promovare culturala.", "Infrastructura permite explorarea confortabila a elementelor de interes.", "Situl ram√¢ne un reper pentru cei pasiona?i de istoria Ciprului."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -1329,7 +1329,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Situl are o relevan?a istorica majora Ón regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradi?iile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
+      ro: ["Situl are o relevan?a istorica majora √Æn regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradi?iile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -1359,7 +1359,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Aceasta loca?ie joaca un rol vital Ón conservarea patrimoniului na?ional.", "Elementele structurale eviden?iaza tehnicile de construc?ie din perioadele trecute.", "Siturile din vecinatate completeaza contextul istoric al loca?iei.", "Activita?ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscuta pentru importan?a sa Ón dezvoltarea culturala locala.", "Vizitarea acestui loc ofera o experien?a autentica a vie?ii cipriote."],
+      ro: ["Aceasta loca?ie joaca un rol vital √Æn conservarea patrimoniului na?ional.", "Elementele structurale eviden?iaza tehnicile de construc?ie din perioadele trecute.", "Siturile din vecinatate completeaza contextul istoric al loca?iei.", "Activita?ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscuta pentru importan?a sa √Æn dezvoltarea culturala locala.", "Vizitarea acestui loc ofera o experien?a autentica a vie?ii cipriote."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -1389,7 +1389,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Importan?a acestui sit este recunoscuta Ón plan local ?i regional.", "Tradi?iile transmise aici au modelat identitatea comunita?ii respective.", "Zona reprezinta un punct de interes pentru cercetarea patrimoniului istoric.", "Œn cadrul sitului au avut loc multiple evenimente de promovare culturala.", "Infrastructura permite explorarea confortabila a elementelor de interes.", "Situl ram‚ne un reper pentru cei pasiona?i de istoria Ciprului."],
+      ro: ["Importan?a acestui sit este recunoscuta √Æn plan local ?i regional.", "Tradi?iile transmise aici au modelat identitatea comunita?ii respective.", "Zona reprezinta un punct de interes pentru cercetarea patrimoniului istoric.", "√én cadrul sitului au avut loc multiple evenimente de promovare culturala.", "Infrastructura permite explorarea confortabila a elementelor de interes.", "Situl ram√¢ne un reper pentru cei pasiona?i de istoria Ciprului."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -1419,7 +1419,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Situl are o relevan?a istorica majora Ón regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradi?iile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
+      ro: ["Situl are o relevan?a istorica majora √Æn regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradi?iile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -1449,7 +1449,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Situl are o relevan?a istorica majora Ón regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradi?iile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
+      ro: ["Situl are o relevan?a istorica majora √Æn regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradi?iile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -1479,7 +1479,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Aceasta loca?ie joaca un rol vital Ón conservarea patrimoniului na?ional.", "Elementele structurale eviden?iaza tehnicile de construc?ie din perioadele trecute.", "Siturile din vecinatate completeaza contextul istoric al loca?iei.", "Activita?ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscuta pentru importan?a sa Ón dezvoltarea culturala locala.", "Vizitarea acestui loc ofera o experien?a autentica a vie?ii cipriote."],
+      ro: ["Aceasta loca?ie joaca un rol vital √Æn conservarea patrimoniului na?ional.", "Elementele structurale eviden?iaza tehnicile de construc?ie din perioadele trecute.", "Siturile din vecinatate completeaza contextul istoric al loca?iei.", "Activita?ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscuta pentru importan?a sa √Æn dezvoltarea culturala locala.", "Vizitarea acestui loc ofera o experien?a autentica a vie?ii cipriote."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -1509,7 +1509,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Aceasta loca?ie joaca un rol vital Ón conservarea patrimoniului na?ional.", "Elementele structurale eviden?iaza tehnicile de construc?ie din perioadele trecute.", "Siturile din vecinatate completeaza contextul istoric al loca?iei.", "Activita?ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscuta pentru importan?a sa Ón dezvoltarea culturala locala.", "Vizitarea acestui loc ofera o experien?a autentica a vie?ii cipriote."],
+      ro: ["Aceasta loca?ie joaca un rol vital √Æn conservarea patrimoniului na?ional.", "Elementele structurale eviden?iaza tehnicile de construc?ie din perioadele trecute.", "Siturile din vecinatate completeaza contextul istoric al loca?iei.", "Activita?ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscuta pentru importan?a sa √Æn dezvoltarea culturala locala.", "Vizitarea acestui loc ofera o experien?a autentica a vie?ii cipriote."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -1539,7 +1539,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Importan?a acestui sit este recunoscuta Ón plan local ?i regional.", "Tradi?iile transmise aici au modelat identitatea comunita?ii respective.", "Zona reprezinta un punct de interes pentru cercetarea patrimoniului istoric.", "Œn cadrul sitului au avut loc multiple evenimente de promovare culturala.", "Infrastructura permite explorarea confortabila a elementelor de interes.", "Situl ram‚ne un reper pentru cei pasiona?i de istoria Ciprului."],
+      ro: ["Importan?a acestui sit este recunoscuta √Æn plan local ?i regional.", "Tradi?iile transmise aici au modelat identitatea comunita?ii respective.", "Zona reprezinta un punct de interes pentru cercetarea patrimoniului istoric.", "√én cadrul sitului au avut loc multiple evenimente de promovare culturala.", "Infrastructura permite explorarea confortabila a elementelor de interes.", "Situl ram√¢ne un reper pentru cei pasiona?i de istoria Ciprului."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -1569,7 +1569,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Importan?a acestui sit este recunoscuta Ón plan local ?i regional.", "Tradi?iile transmise aici au modelat identitatea comunita?ii respective.", "Zona reprezinta un punct de interes pentru cercetarea patrimoniului istoric.", "Œn cadrul sitului au avut loc multiple evenimente de promovare culturala.", "Infrastructura permite explorarea confortabila a elementelor de interes.", "Situl ram‚ne un reper pentru cei pasiona?i de istoria Ciprului."],
+      ro: ["Importan?a acestui sit este recunoscuta √Æn plan local ?i regional.", "Tradi?iile transmise aici au modelat identitatea comunita?ii respective.", "Zona reprezinta un punct de interes pentru cercetarea patrimoniului istoric.", "√én cadrul sitului au avut loc multiple evenimente de promovare culturala.", "Infrastructura permite explorarea confortabila a elementelor de interes.", "Situl ram√¢ne un reper pentru cei pasiona?i de istoria Ciprului."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -1599,7 +1599,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Situl are o relevan?a istorica majora Ón regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradi?iile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
+      ro: ["Situl are o relevan?a istorica majora √Æn regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradi?iile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -1629,7 +1629,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Importan?a acestui sit este recunoscuta Ón plan local ?i regional.", "Tradi?iile transmise aici au modelat identitatea comunita?ii respective.", "Zona reprezinta un punct de interes pentru cercetarea patrimoniului istoric.", "Œn cadrul sitului au avut loc multiple evenimente de promovare culturala.", "Infrastructura permite explorarea confortabila a elementelor de interes.", "Situl ram‚ne un reper pentru cei pasiona?i de istoria Ciprului."],
+      ro: ["Importan?a acestui sit este recunoscuta √Æn plan local ?i regional.", "Tradi?iile transmise aici au modelat identitatea comunita?ii respective.", "Zona reprezinta un punct de interes pentru cercetarea patrimoniului istoric.", "√én cadrul sitului au avut loc multiple evenimente de promovare culturala.", "Infrastructura permite explorarea confortabila a elementelor de interes.", "Situl ram√¢ne un reper pentru cei pasiona?i de istoria Ciprului."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -1659,7 +1659,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Situl are o relevan?a istorica majora Ón regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradi?iile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
+      ro: ["Situl are o relevan?a istorica majora √Æn regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradi?iile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -1689,7 +1689,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Importan?a acestui sit este recunoscuta Ón plan local ?i regional.", "Tradi?iile transmise aici au modelat identitatea comunita?ii respective.", "Zona reprezinta un punct de interes pentru cercetarea patrimoniului istoric.", "Œn cadrul sitului au avut loc multiple evenimente de promovare culturala.", "Infrastructura permite explorarea confortabila a elementelor de interes.", "Situl ram‚ne un reper pentru cei pasiona?i de istoria Ciprului."],
+      ro: ["Importan?a acestui sit este recunoscuta √Æn plan local ?i regional.", "Tradi?iile transmise aici au modelat identitatea comunita?ii respective.", "Zona reprezinta un punct de interes pentru cercetarea patrimoniului istoric.", "√én cadrul sitului au avut loc multiple evenimente de promovare culturala.", "Infrastructura permite explorarea confortabila a elementelor de interes.", "Situl ram√¢ne un reper pentru cei pasiona?i de istoria Ciprului."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -1719,7 +1719,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Aceasta loca?ie joaca un rol vital Ón conservarea patrimoniului na?ional.", "Elementele structurale eviden?iaza tehnicile de construc?ie din perioadele trecute.", "Siturile din vecinatate completeaza contextul istoric al loca?iei.", "Activita?ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscuta pentru importan?a sa Ón dezvoltarea culturala locala.", "Vizitarea acestui loc ofera o experien?a autentica a vie?ii cipriote."],
+      ro: ["Aceasta loca?ie joaca un rol vital √Æn conservarea patrimoniului na?ional.", "Elementele structurale eviden?iaza tehnicile de construc?ie din perioadele trecute.", "Siturile din vecinatate completeaza contextul istoric al loca?iei.", "Activita?ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscuta pentru importan?a sa √Æn dezvoltarea culturala locala.", "Vizitarea acestui loc ofera o experien?a autentica a vie?ii cipriote."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -1749,7 +1749,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Situl are o relevan?a istorica majora Ón regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradi?iile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
+      ro: ["Situl are o relevan?a istorica majora √Æn regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradi?iile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -1779,7 +1779,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Aceasta loca?ie joaca un rol vital Ón conservarea patrimoniului na?ional.", "Elementele structurale eviden?iaza tehnicile de construc?ie din perioadele trecute.", "Siturile din vecinatate completeaza contextul istoric al loca?iei.", "Activita?ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscuta pentru importan?a sa Ón dezvoltarea culturala locala.", "Vizitarea acestui loc ofera o experien?a autentica a vie?ii cipriote."],
+      ro: ["Aceasta loca?ie joaca un rol vital √Æn conservarea patrimoniului na?ional.", "Elementele structurale eviden?iaza tehnicile de construc?ie din perioadele trecute.", "Siturile din vecinatate completeaza contextul istoric al loca?iei.", "Activita?ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscuta pentru importan?a sa √Æn dezvoltarea culturala locala.", "Vizitarea acestui loc ofera o experien?a autentica a vie?ii cipriote."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -1815,7 +1815,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Situl are o relevan?a istorica majora Ón regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradi?iile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
+      ro: ["Situl are o relevan?a istorica majora √Æn regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradi?iile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -1845,7 +1845,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Aceasta loca?ie joaca un rol vital Ón conservarea patrimoniului na?ional.", "Elementele structurale eviden?iaza tehnicile de construc?ie din perioadele trecute.", "Siturile din vecinatate completeaza contextul istoric al loca?iei.", "Activita?ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscuta pentru importan?a sa Ón dezvoltarea culturala locala.", "Vizitarea acestui loc ofera o experien?a autentica a vie?ii cipriote."],
+      ro: ["Aceasta loca?ie joaca un rol vital √Æn conservarea patrimoniului na?ional.", "Elementele structurale eviden?iaza tehnicile de construc?ie din perioadele trecute.", "Siturile din vecinatate completeaza contextul istoric al loca?iei.", "Activita?ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscuta pentru importan?a sa √Æn dezvoltarea culturala locala.", "Vizitarea acestui loc ofera o experien?a autentica a vie?ii cipriote."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -1875,7 +1875,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Importan?a acestui sit este recunoscuta Ón plan local ?i regional.", "Tradi?iile transmise aici au modelat identitatea comunita?ii respective.", "Zona reprezinta un punct de interes pentru cercetarea patrimoniului istoric.", "Œn cadrul sitului au avut loc multiple evenimente de promovare culturala.", "Infrastructura permite explorarea confortabila a elementelor de interes.", "Situl ram‚ne un reper pentru cei pasiona?i de istoria Ciprului."],
+      ro: ["Importan?a acestui sit este recunoscuta √Æn plan local ?i regional.", "Tradi?iile transmise aici au modelat identitatea comunita?ii respective.", "Zona reprezinta un punct de interes pentru cercetarea patrimoniului istoric.", "√én cadrul sitului au avut loc multiple evenimente de promovare culturala.", "Infrastructura permite explorarea confortabila a elementelor de interes.", "Situl ram√¢ne un reper pentru cei pasiona?i de istoria Ciprului."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -1905,7 +1905,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Situl are o relevan?a istorica majora Ón regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradi?iile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
+      ro: ["Situl are o relevan?a istorica majora √Æn regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradi?iile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -1935,7 +1935,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Importan?a acestui sit este recunoscuta Ón plan local ?i regional.", "Tradi?iile transmise aici au modelat identitatea comunita?ii respective.", "Zona reprezinta un punct de interes pentru cercetarea patrimoniului istoric.", "Œn cadrul sitului au avut loc multiple evenimente de promovare culturala.", "Infrastructura permite explorarea confortabila a elementelor de interes.", "Situl ram‚ne un reper pentru cei pasiona?i de istoria Ciprului."],
+      ro: ["Importan?a acestui sit este recunoscuta √Æn plan local ?i regional.", "Tradi?iile transmise aici au modelat identitatea comunita?ii respective.", "Zona reprezinta un punct de interes pentru cercetarea patrimoniului istoric.", "√én cadrul sitului au avut loc multiple evenimente de promovare culturala.", "Infrastructura permite explorarea confortabila a elementelor de interes.", "Situl ram√¢ne un reper pentru cei pasiona?i de istoria Ciprului."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -1965,7 +1965,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Importan?a acestui sit este recunoscuta Ón plan local ?i regional.", "Tradi?iile transmise aici au modelat identitatea comunita?ii respective.", "Zona reprezinta un punct de interes pentru cercetarea patrimoniului istoric.", "Œn cadrul sitului au avut loc multiple evenimente de promovare culturala.", "Infrastructura permite explorarea confortabila a elementelor de interes.", "Situl ram‚ne un reper pentru cei pasiona?i de istoria Ciprului."],
+      ro: ["Importan?a acestui sit este recunoscuta √Æn plan local ?i regional.", "Tradi?iile transmise aici au modelat identitatea comunita?ii respective.", "Zona reprezinta un punct de interes pentru cercetarea patrimoniului istoric.", "√én cadrul sitului au avut loc multiple evenimente de promovare culturala.", "Infrastructura permite explorarea confortabila a elementelor de interes.", "Situl ram√¢ne un reper pentru cei pasiona?i de istoria Ciprului."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -1995,7 +1995,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Aceasta loca?ie joaca un rol vital Ón conservarea patrimoniului na?ional.", "Elementele structurale eviden?iaza tehnicile de construc?ie din perioadele trecute.", "Siturile din vecinatate completeaza contextul istoric al loca?iei.", "Activita?ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscuta pentru importan?a sa Ón dezvoltarea culturala locala.", "Vizitarea acestui loc ofera o experien?a autentica a vie?ii cipriote."],
+      ro: ["Aceasta loca?ie joaca un rol vital √Æn conservarea patrimoniului na?ional.", "Elementele structurale eviden?iaza tehnicile de construc?ie din perioadele trecute.", "Siturile din vecinatate completeaza contextul istoric al loca?iei.", "Activita?ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscuta pentru importan?a sa √Æn dezvoltarea culturala locala.", "Vizitarea acestui loc ofera o experien?a autentica a vie?ii cipriote."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -2012,9 +2012,9 @@ export const cyprusOtherPoi: POI[] = [
     },
     description: {
       en: "Discover the 'black gold' of Cyprus. See how carob syrup and other products are made.",
-      de: "Entdecken Sie das ‚Äûschwarze Gold‚Äú Zyperns. Sehen Sie, wie Johannisbrotsirup und andere Produkte hergestellt werden.",
-      hu: "Fedezze fel Ciprus ‚Äûfekete arany√°t‚Äù. N√©zze meg, hogyan k√©sz√ºl a szentj√°noskeny√©r-szirup √©s m√°s term√©kek.",
-      ro: "Descoperi»õi ‚Äûaurul negru‚Äù al Ciprului. Vede»õi cum se preparƒÉ siropul de ro»ôcove »ôi alte produse.",
+      de: "Entdecken Sie das \\\"schwarze Gold\\\" Zyperns. Sehen Sie, wie Johannisbrotsirup und andere Produkte hergestellt werden.",
+      hu: "Fedezze fel Ciprus \\\"fekete arany√°t\\\". N√©zze meg, hogyan k√©sz√ºl a szentj√°noskeny√©r-szirup √©s m√°s term√©kek.",
+      ro: "Descoperi»õi \\\"aurul negru\\\" al Ciprului. Vede»õi cum se preparƒÉ siropul de ro»ôcove »ôi alte produse.",
     },
     descriptionAdvanced: {
       de: "ERSETZE_MICH_DE",
@@ -2025,7 +2025,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Importan?a acestui sit este recunoscuta Ón plan local ?i regional.", "Tradi?iile transmise aici au modelat identitatea comunita?ii respective.", "Zona reprezinta un punct de interes pentru cercetarea patrimoniului istoric.", "Œn cadrul sitului au avut loc multiple evenimente de promovare culturala.", "Infrastructura permite explorarea confortabila a elementelor de interes.", "Situl ram‚ne un reper pentru cei pasiona?i de istoria Ciprului."],
+      ro: ["Importan?a acestui sit este recunoscuta √Æn plan local ?i regional.", "Tradi?iile transmise aici au modelat identitatea comunita?ii respective.", "Zona reprezinta un punct de interes pentru cercetarea patrimoniului istoric.", "√én cadrul sitului au avut loc multiple evenimente de promovare culturala.", "Infrastructura permite explorarea confortabila a elementelor de interes.", "Situl ram√¢ne un reper pentru cei pasiona?i de istoria Ciprului."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -2055,7 +2055,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Aceasta loca?ie joaca un rol vital Ón conservarea patrimoniului na?ional.", "Elementele structurale eviden?iaza tehnicile de construc?ie din perioadele trecute.", "Siturile din vecinatate completeaza contextul istoric al loca?iei.", "Activita?ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscuta pentru importan?a sa Ón dezvoltarea culturala locala.", "Vizitarea acestui loc ofera o experien?a autentica a vie?ii cipriote."],
+      ro: ["Aceasta loca?ie joaca un rol vital √Æn conservarea patrimoniului na?ional.", "Elementele structurale eviden?iaza tehnicile de construc?ie din perioadele trecute.", "Siturile din vecinatate completeaza contextul istoric al loca?iei.", "Activita?ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscuta pentru importan?a sa √Æn dezvoltarea culturala locala.", "Vizitarea acestui loc ofera o experien?a autentica a vie?ii cipriote."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -2085,7 +2085,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Situl are o relevan?a istorica majora Ón regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradi?iile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
+      ro: ["Situl are o relevan?a istorica majora √Æn regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradi?iile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -2115,7 +2115,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Aceasta loca?ie joaca un rol vital Ón conservarea patrimoniului na?ional.", "Elementele structurale eviden?iaza tehnicile de construc?ie din perioadele trecute.", "Siturile din vecinatate completeaza contextul istoric al loca?iei.", "Activita?ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscuta pentru importan?a sa Ón dezvoltarea culturala locala.", "Vizitarea acestui loc ofera o experien?a autentica a vie?ii cipriote."],
+      ro: ["Aceasta loca?ie joaca un rol vital √Æn conservarea patrimoniului na?ional.", "Elementele structurale eviden?iaza tehnicile de construc?ie din perioadele trecute.", "Siturile din vecinatate completeaza contextul istoric al loca?iei.", "Activita?ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscuta pentru importan?a sa √Æn dezvoltarea culturala locala.", "Vizitarea acestui loc ofera o experien?a autentica a vie?ii cipriote."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -2145,7 +2145,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Importan?a acestui sit este recunoscuta Ón plan local ?i regional.", "Tradi?iile transmise aici au modelat identitatea comunita?ii respective.", "Zona reprezinta un punct de interes pentru cercetarea patrimoniului istoric.", "Œn cadrul sitului au avut loc multiple evenimente de promovare culturala.", "Infrastructura permite explorarea confortabila a elementelor de interes.", "Situl ram‚ne un reper pentru cei pasiona?i de istoria Ciprului."],
+      ro: ["Importan?a acestui sit este recunoscuta √Æn plan local ?i regional.", "Tradi?iile transmise aici au modelat identitatea comunita?ii respective.", "Zona reprezinta un punct de interes pentru cercetarea patrimoniului istoric.", "√én cadrul sitului au avut loc multiple evenimente de promovare culturala.", "Infrastructura permite explorarea confortabila a elementelor de interes.", "Situl ram√¢ne un reper pentru cei pasiona?i de istoria Ciprului."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -2175,7 +2175,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Aceasta loca?ie joaca un rol vital Ón conservarea patrimoniului na?ional.", "Elementele structurale eviden?iaza tehnicile de construc?ie din perioadele trecute.", "Siturile din vecinatate completeaza contextul istoric al loca?iei.", "Activita?ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscuta pentru importan?a sa Ón dezvoltarea culturala locala.", "Vizitarea acestui loc ofera o experien?a autentica a vie?ii cipriote."],
+      ro: ["Aceasta loca?ie joaca un rol vital √Æn conservarea patrimoniului na?ional.", "Elementele structurale eviden?iaza tehnicile de construc?ie din perioadele trecute.", "Siturile din vecinatate completeaza contextul istoric al loca?iei.", "Activita?ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscuta pentru importan?a sa √Æn dezvoltarea culturala locala.", "Vizitarea acestui loc ofera o experien?a autentica a vie?ii cipriote."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -2205,7 +2205,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Importan?a acestui sit este recunoscuta Ón plan local ?i regional.", "Tradi?iile transmise aici au modelat identitatea comunita?ii respective.", "Zona reprezinta un punct de interes pentru cercetarea patrimoniului istoric.", "Œn cadrul sitului au avut loc multiple evenimente de promovare culturala.", "Infrastructura permite explorarea confortabila a elementelor de interes.", "Situl ram‚ne un reper pentru cei pasiona?i de istoria Ciprului."],
+      ro: ["Importan?a acestui sit este recunoscuta √Æn plan local ?i regional.", "Tradi?iile transmise aici au modelat identitatea comunita?ii respective.", "Zona reprezinta un punct de interes pentru cercetarea patrimoniului istoric.", "√én cadrul sitului au avut loc multiple evenimente de promovare culturala.", "Infrastructura permite explorarea confortabila a elementelor de interes.", "Situl ram√¢ne un reper pentru cei pasiona?i de istoria Ciprului."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -2235,7 +2235,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Situl are o relevan?a istorica majora Ón regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradi?iile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
+      ro: ["Situl are o relevan?a istorica majora √Æn regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradi?iile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -2252,9 +2252,9 @@ export const cyprusOtherPoi: POI[] = [
     },
     description: {
       en: "Visit workshops in Geroskipou to see the making of the traditional 'Cyprus Delight', a PGI protected product.",
-      de: "Besuchen Sie Werkst√§tten in Geroskipou, um die Herstellung des traditionellen ‚ÄûZypern-Genusses‚Äú zu sehen, einem g.g.A.-gesch√ºtzten Produkt.",
-      hu: "L√°togasson el a Geroskipou-i m≈±helyekbe, hogy megn√©zze a hagyom√°nyos, OFJ-oltalom alatt √°ll√≥ ‚ÄûCiprusi √©dess√©g‚Äù k√©sz√≠t√©s√©t.",
-      ro: "Vizita»õi atelierele din Geroskipou pentru a vedea cum se face tradi»õionalul ‚ÄûDeliciu Cipriot‚Äù, un produs protejat IGP.",
+      de: "Besuchen Sie Werkst√§tten in Geroskipou, um die Herstellung des traditionellen \\\"Zypern-Genusses\\\" zu sehen, einem g.g.A.-gesch√ºtzten Produkt.",
+      hu: "L√°togasson el a Geroskipou-i m≈±helyekbe, hogy megn√©zze a hagyom√°nyos, OFJ-oltalom alatt √°ll√≥ \\\"Ciprusi √©dess√©g\\\" k√©sz√≠t√©s√©t.",
+      ro: "Vizita»õi atelierele din Geroskipou pentru a vedea cum se face tradi»õionalul \\\"Deliciu Cipriot\\\", un produs protejat IGP.",
     },
     descriptionAdvanced: {
       de: "ERSETZE_MICH_DE",
@@ -2265,7 +2265,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Aceasta loca?ie joaca un rol vital Ón conservarea patrimoniului na?ional.", "Elementele structurale eviden?iaza tehnicile de construc?ie din perioadele trecute.", "Siturile din vecinatate completeaza contextul istoric al loca?iei.", "Activita?ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscuta pentru importan?a sa Ón dezvoltarea culturala locala.", "Vizitarea acestui loc ofera o experien?a autentica a vie?ii cipriote."],
+      ro: ["Aceasta loca?ie joaca un rol vital √Æn conservarea patrimoniului na?ional.", "Elementele structurale eviden?iaza tehnicile de construc?ie din perioadele trecute.", "Siturile din vecinatate completeaza contextul istoric al loca?iei.", "Activita?ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscuta pentru importan?a sa √Æn dezvoltarea culturala locala.", "Vizitarea acestui loc ofera o experien?a autentica a vie?ii cipriote."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -2282,9 +2282,9 @@ export const cyprusOtherPoi: POI[] = [
     },
     description: {
       en: "The 'red soil villages' area is famous for growing Cyprus potatoes, known for their distinctive taste.",
-      de: "Das Gebiet der ‚ÄûRoten-Erde-D√∂rfer‚Äú ist ber√ºhmt f√ºr den Anbau von Zypern-Kartoffeln, die f√ºr ihren unverwechselbaren Geschmack bekannt sind.",
-      hu: "A ‚Äûv√∂r√∂s f√∂ld≈± falvak‚Äù ter√ºlete a jellegzetes √≠z√©r≈ël ismert ciprusi burgonya termeszt√©s√©r≈ël h√≠res.",
-      ro: "Zona ‚Äûsatelor cu pƒÉm√¢nt ro»ôu‚Äù este renumitƒÉ pentru cultivarea cartofilor de Cipru, cunoscu»õi pentru gustul lor distinctiv.",
+      de: "Das Gebiet der \\\"Roten-Erde-D√∂rfer\\\" ist ber√ºhmt f√ºr den Anbau von Zypern-Kartoffeln, die f√ºr ihren unverwechselbaren Geschmack bekannt sind.",
+      hu: "A \\\"v√∂r√∂s f√∂ld≈± falvak\\\" ter√ºlete a jellegzetes √≠z√©r≈ël ismert ciprusi burgonya termeszt√©s√©r≈ël h√≠res.",
+      ro: "Zona \\\"satelor cu pƒÉm√¢nt ro»ôu\\\" este renumitƒÉ pentru cultivarea cartofilor de Cipru, cunoscu»õi pentru gustul lor distinctiv.",
     },
     descriptionAdvanced: {
       de: "ERSETZE_MICH_DE",
@@ -2295,7 +2295,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Aceasta loca?ie joaca un rol vital Ón conservarea patrimoniului na?ional.", "Elementele structurale eviden?iaza tehnicile de construc?ie din perioadele trecute.", "Siturile din vecinatate completeaza contextul istoric al loca?iei.", "Activita?ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscuta pentru importan?a sa Ón dezvoltarea culturala locala.", "Vizitarea acestui loc ofera o experien?a autentica a vie?ii cipriote."],
+      ro: ["Aceasta loca?ie joaca un rol vital √Æn conservarea patrimoniului na?ional.", "Elementele structurale eviden?iaza tehnicile de construc?ie din perioadele trecute.", "Siturile din vecinatate completeaza contextul istoric al loca?iei.", "Activita?ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscuta pentru importan?a sa √Æn dezvoltarea culturala locala.", "Vizitarea acestui loc ofera o experien?a autentica a vie?ii cipriote."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -2325,7 +2325,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Aceasta loca?ie joaca un rol vital Ón conservarea patrimoniului na?ional.", "Elementele structurale eviden?iaza tehnicile de construc?ie din perioadele trecute.", "Siturile din vecinatate completeaza contextul istoric al loca?iei.", "Activita?ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscuta pentru importan?a sa Ón dezvoltarea culturala locala.", "Vizitarea acestui loc ofera o experien?a autentica a vie?ii cipriote."],
+      ro: ["Aceasta loca?ie joaca un rol vital √Æn conservarea patrimoniului na?ional.", "Elementele structurale eviden?iaza tehnicile de construc?ie din perioadele trecute.", "Siturile din vecinatate completeaza contextul istoric al loca?iei.", "Activita?ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscuta pentru importan?a sa √Æn dezvoltarea culturala locala.", "Vizitarea acestui loc ofera o experien?a autentica a vie?ii cipriote."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -2355,7 +2355,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Importan?a acestui sit este recunoscuta Ón plan local ?i regional.", "Tradi?iile transmise aici au modelat identitatea comunita?ii respective.", "Zona reprezinta un punct de interes pentru cercetarea patrimoniului istoric.", "Œn cadrul sitului au avut loc multiple evenimente de promovare culturala.", "Infrastructura permite explorarea confortabila a elementelor de interes.", "Situl ram‚ne un reper pentru cei pasiona?i de istoria Ciprului."],
+      ro: ["Importan?a acestui sit este recunoscuta √Æn plan local ?i regional.", "Tradi?iile transmise aici au modelat identitatea comunita?ii respective.", "Zona reprezinta un punct de interes pentru cercetarea patrimoniului istoric.", "√én cadrul sitului au avut loc multiple evenimente de promovare culturala.", "Infrastructura permite explorarea confortabila a elementelor de interes.", "Situl ram√¢ne un reper pentru cei pasiona?i de istoria Ciprului."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -2385,7 +2385,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Situl are o relevan?a istorica majora Ón regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradi?iile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
+      ro: ["Situl are o relevan?a istorica majora √Æn regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradi?iile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -2415,7 +2415,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Aceasta loca?ie joaca un rol vital Ón conservarea patrimoniului na?ional.", "Elementele structurale eviden?iaza tehnicile de construc?ie din perioadele trecute.", "Siturile din vecinatate completeaza contextul istoric al loca?iei.", "Activita?ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscuta pentru importan?a sa Ón dezvoltarea culturala locala.", "Vizitarea acestui loc ofera o experien?a autentica a vie?ii cipriote."],
+      ro: ["Aceasta loca?ie joaca un rol vital √Æn conservarea patrimoniului na?ional.", "Elementele structurale eviden?iaza tehnicile de construc?ie din perioadele trecute.", "Siturile din vecinatate completeaza contextul istoric al loca?iei.", "Activita?ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscuta pentru importan?a sa √Æn dezvoltarea culturala locala.", "Vizitarea acestui loc ofera o experien?a autentica a vie?ii cipriote."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -2445,7 +2445,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Importan?a acestui sit este recunoscuta Ón plan local ?i regional.", "Tradi?iile transmise aici au modelat identitatea comunita?ii respective.", "Zona reprezinta un punct de interes pentru cercetarea patrimoniului istoric.", "Œn cadrul sitului au avut loc multiple evenimente de promovare culturala.", "Infrastructura permite explorarea confortabila a elementelor de interes.", "Situl ram‚ne un reper pentru cei pasiona?i de istoria Ciprului."],
+      ro: ["Importan?a acestui sit este recunoscuta √Æn plan local ?i regional.", "Tradi?iile transmise aici au modelat identitatea comunita?ii respective.", "Zona reprezinta un punct de interes pentru cercetarea patrimoniului istoric.", "√én cadrul sitului au avut loc multiple evenimente de promovare culturala.", "Infrastructura permite explorarea confortabila a elementelor de interes.", "Situl ram√¢ne un reper pentru cei pasiona?i de istoria Ciprului."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -2475,7 +2475,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Aceasta loca?ie joaca un rol vital Ón conservarea patrimoniului na?ional.", "Elementele structurale eviden?iaza tehnicile de construc?ie din perioadele trecute.", "Siturile din vecinatate completeaza contextul istoric al loca?iei.", "Activita?ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscuta pentru importan?a sa Ón dezvoltarea culturala locala.", "Vizitarea acestui loc ofera o experien?a autentica a vie?ii cipriote."],
+      ro: ["Aceasta loca?ie joaca un rol vital √Æn conservarea patrimoniului na?ional.", "Elementele structurale eviden?iaza tehnicile de construc?ie din perioadele trecute.", "Siturile din vecinatate completeaza contextul istoric al loca?iei.", "Activita?ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscuta pentru importan?a sa √Æn dezvoltarea culturala locala.", "Vizitarea acestui loc ofera o experien?a autentica a vie?ii cipriote."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -2505,7 +2505,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Aceasta loca?ie joaca un rol vital Ón conservarea patrimoniului na?ional.", "Elementele structurale eviden?iaza tehnicile de construc?ie din perioadele trecute.", "Siturile din vecinatate completeaza contextul istoric al loca?iei.", "Activita?ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscuta pentru importan?a sa Ón dezvoltarea culturala locala.", "Vizitarea acestui loc ofera o experien?a autentica a vie?ii cipriote."],
+      ro: ["Aceasta loca?ie joaca un rol vital √Æn conservarea patrimoniului na?ional.", "Elementele structurale eviden?iaza tehnicile de construc?ie din perioadele trecute.", "Siturile din vecinatate completeaza contextul istoric al loca?iei.", "Activita?ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscuta pentru importan?a sa √Æn dezvoltarea culturala locala.", "Vizitarea acestui loc ofera o experien?a autentica a vie?ii cipriote."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -2535,7 +2535,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Importan?a acestui sit este recunoscuta Ón plan local ?i regional.", "Tradi?iile transmise aici au modelat identitatea comunita?ii respective.", "Zona reprezinta un punct de interes pentru cercetarea patrimoniului istoric.", "Œn cadrul sitului au avut loc multiple evenimente de promovare culturala.", "Infrastructura permite explorarea confortabila a elementelor de interes.", "Situl ram‚ne un reper pentru cei pasiona?i de istoria Ciprului."],
+      ro: ["Importan?a acestui sit este recunoscuta √Æn plan local ?i regional.", "Tradi?iile transmise aici au modelat identitatea comunita?ii respective.", "Zona reprezinta un punct de interes pentru cercetarea patrimoniului istoric.", "√én cadrul sitului au avut loc multiple evenimente de promovare culturala.", "Infrastructura permite explorarea confortabila a elementelor de interes.", "Situl ram√¢ne un reper pentru cei pasiona?i de istoria Ciprului."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -2565,7 +2565,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Situl are o relevan?a istorica majora Ón regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradi?iile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
+      ro: ["Situl are o relevan?a istorica majora √Æn regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradi?iile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -2595,7 +2595,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Importan?a acestui sit este recunoscuta Ón plan local ?i regional.", "Tradi?iile transmise aici au modelat identitatea comunita?ii respective.", "Zona reprezinta un punct de interes pentru cercetarea patrimoniului istoric.", "Œn cadrul sitului au avut loc multiple evenimente de promovare culturala.", "Infrastructura permite explorarea confortabila a elementelor de interes.", "Situl ram‚ne un reper pentru cei pasiona?i de istoria Ciprului."],
+      ro: ["Importan?a acestui sit este recunoscuta √Æn plan local ?i regional.", "Tradi?iile transmise aici au modelat identitatea comunita?ii respective.", "Zona reprezinta un punct de interes pentru cercetarea patrimoniului istoric.", "√én cadrul sitului au avut loc multiple evenimente de promovare culturala.", "Infrastructura permite explorarea confortabila a elementelor de interes.", "Situl ram√¢ne un reper pentru cei pasiona?i de istoria Ciprului."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -2625,7 +2625,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Aceasta loca?ie joaca un rol vital Ón conservarea patrimoniului na?ional.", "Elementele structurale eviden?iaza tehnicile de construc?ie din perioadele trecute.", "Siturile din vecinatate completeaza contextul istoric al loca?iei.", "Activita?ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscuta pentru importan?a sa Ón dezvoltarea culturala locala.", "Vizitarea acestui loc ofera o experien?a autentica a vie?ii cipriote."],
+      ro: ["Aceasta loca?ie joaca un rol vital √Æn conservarea patrimoniului na?ional.", "Elementele structurale eviden?iaza tehnicile de construc?ie din perioadele trecute.", "Siturile din vecinatate completeaza contextul istoric al loca?iei.", "Activita?ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscuta pentru importan?a sa √Æn dezvoltarea culturala locala.", "Vizitarea acestui loc ofera o experien?a autentica a vie?ii cipriote."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -2655,7 +2655,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Aceasta loca?ie joaca un rol vital Ón conservarea patrimoniului na?ional.", "Elementele structurale eviden?iaza tehnicile de construc?ie din perioadele trecute.", "Siturile din vecinatate completeaza contextul istoric al loca?iei.", "Activita?ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscuta pentru importan?a sa Ón dezvoltarea culturala locala.", "Vizitarea acestui loc ofera o experien?a autentica a vie?ii cipriote."],
+      ro: ["Aceasta loca?ie joaca un rol vital √Æn conservarea patrimoniului na?ional.", "Elementele structurale eviden?iaza tehnicile de construc?ie din perioadele trecute.", "Siturile din vecinatate completeaza contextul istoric al loca?iei.", "Activita?ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscuta pentru importan?a sa √Æn dezvoltarea culturala locala.", "Vizitarea acestui loc ofera o experien?a autentica a vie?ii cipriote."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -2685,7 +2685,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Situl are o relevan?a istorica majora Ón regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradi?iile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
+      ro: ["Situl are o relevan?a istorica majora √Æn regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradi?iile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -2721,7 +2721,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Importan?a acestui sit este recunoscuta Ón plan local ?i regional.", "Tradi?iile transmise aici au modelat identitatea comunita?ii respective.", "Zona reprezinta un punct de interes pentru cercetarea patrimoniului istoric.", "Œn cadrul sitului au avut loc multiple evenimente de promovare culturala.", "Infrastructura permite explorarea confortabila a elementelor de interes.", "Situl ram‚ne un reper pentru cei pasiona?i de istoria Ciprului."],
+      ro: ["Importan?a acestui sit este recunoscuta √Æn plan local ?i regional.", "Tradi?iile transmise aici au modelat identitatea comunita?ii respective.", "Zona reprezinta un punct de interes pentru cercetarea patrimoniului istoric.", "√én cadrul sitului au avut loc multiple evenimente de promovare culturala.", "Infrastructura permite explorarea confortabila a elementelor de interes.", "Situl ram√¢ne un reper pentru cei pasiona?i de istoria Ciprului."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -2751,7 +2751,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Importan?a acestui sit este recunoscuta Ón plan local ?i regional.", "Tradi?iile transmise aici au modelat identitatea comunita?ii respective.", "Zona reprezinta un punct de interes pentru cercetarea patrimoniului istoric.", "Œn cadrul sitului au avut loc multiple evenimente de promovare culturala.", "Infrastructura permite explorarea confortabila a elementelor de interes.", "Situl ram‚ne un reper pentru cei pasiona?i de istoria Ciprului."],
+      ro: ["Importan?a acestui sit este recunoscuta √Æn plan local ?i regional.", "Tradi?iile transmise aici au modelat identitatea comunita?ii respective.", "Zona reprezinta un punct de interes pentru cercetarea patrimoniului istoric.", "√én cadrul sitului au avut loc multiple evenimente de promovare culturala.", "Infrastructura permite explorarea confortabila a elementelor de interes.", "Situl ram√¢ne un reper pentru cei pasiona?i de istoria Ciprului."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -2781,7 +2781,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Importan?a acestui sit este recunoscuta Ón plan local ?i regional.", "Tradi?iile transmise aici au modelat identitatea comunita?ii respective.", "Zona reprezinta un punct de interes pentru cercetarea patrimoniului istoric.", "Œn cadrul sitului au avut loc multiple evenimente de promovare culturala.", "Infrastructura permite explorarea confortabila a elementelor de interes.", "Situl ram‚ne un reper pentru cei pasiona?i de istoria Ciprului."],
+      ro: ["Importan?a acestui sit este recunoscuta √Æn plan local ?i regional.", "Tradi?iile transmise aici au modelat identitatea comunita?ii respective.", "Zona reprezinta un punct de interes pentru cercetarea patrimoniului istoric.", "√én cadrul sitului au avut loc multiple evenimente de promovare culturala.", "Infrastructura permite explorarea confortabila a elementelor de interes.", "Situl ram√¢ne un reper pentru cei pasiona?i de istoria Ciprului."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -2811,7 +2811,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Importan?a acestui sit este recunoscuta Ón plan local ?i regional.", "Tradi?iile transmise aici au modelat identitatea comunita?ii respective.", "Zona reprezinta un punct de interes pentru cercetarea patrimoniului istoric.", "Œn cadrul sitului au avut loc multiple evenimente de promovare culturala.", "Infrastructura permite explorarea confortabila a elementelor de interes.", "Situl ram‚ne un reper pentru cei pasiona?i de istoria Ciprului."],
+      ro: ["Importan?a acestui sit este recunoscuta √Æn plan local ?i regional.", "Tradi?iile transmise aici au modelat identitatea comunita?ii respective.", "Zona reprezinta un punct de interes pentru cercetarea patrimoniului istoric.", "√én cadrul sitului au avut loc multiple evenimente de promovare culturala.", "Infrastructura permite explorarea confortabila a elementelor de interes.", "Situl ram√¢ne un reper pentru cei pasiona?i de istoria Ciprului."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -2841,7 +2841,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Situl are o relevan?a istorica majora Ón regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradi?iile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
+      ro: ["Situl are o relevan?a istorica majora √Æn regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradi?iile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -2871,7 +2871,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Importan?a acestui sit este recunoscuta Ón plan local ?i regional.", "Tradi?iile transmise aici au modelat identitatea comunita?ii respective.", "Zona reprezinta un punct de interes pentru cercetarea patrimoniului istoric.", "Œn cadrul sitului au avut loc multiple evenimente de promovare culturala.", "Infrastructura permite explorarea confortabila a elementelor de interes.", "Situl ram‚ne un reper pentru cei pasiona?i de istoria Ciprului."],
+      ro: ["Importan?a acestui sit este recunoscuta √Æn plan local ?i regional.", "Tradi?iile transmise aici au modelat identitatea comunita?ii respective.", "Zona reprezinta un punct de interes pentru cercetarea patrimoniului istoric.", "√én cadrul sitului au avut loc multiple evenimente de promovare culturala.", "Infrastructura permite explorarea confortabila a elementelor de interes.", "Situl ram√¢ne un reper pentru cei pasiona?i de istoria Ciprului."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -2901,7 +2901,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Importan?a acestui sit este recunoscuta Ón plan local ?i regional.", "Tradi?iile transmise aici au modelat identitatea comunita?ii respective.", "Zona reprezinta un punct de interes pentru cercetarea patrimoniului istoric.", "Œn cadrul sitului au avut loc multiple evenimente de promovare culturala.", "Infrastructura permite explorarea confortabila a elementelor de interes.", "Situl ram‚ne un reper pentru cei pasiona?i de istoria Ciprului."],
+      ro: ["Importan?a acestui sit este recunoscuta √Æn plan local ?i regional.", "Tradi?iile transmise aici au modelat identitatea comunita?ii respective.", "Zona reprezinta un punct de interes pentru cercetarea patrimoniului istoric.", "√én cadrul sitului au avut loc multiple evenimente de promovare culturala.", "Infrastructura permite explorarea confortabila a elementelor de interes.", "Situl ram√¢ne un reper pentru cei pasiona?i de istoria Ciprului."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -2931,7 +2931,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Aceasta loca?ie joaca un rol vital Ón conservarea patrimoniului na?ional.", "Elementele structurale eviden?iaza tehnicile de construc?ie din perioadele trecute.", "Siturile din vecinatate completeaza contextul istoric al loca?iei.", "Activita?ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscuta pentru importan?a sa Ón dezvoltarea culturala locala.", "Vizitarea acestui loc ofera o experien?a autentica a vie?ii cipriote."],
+      ro: ["Aceasta loca?ie joaca un rol vital √Æn conservarea patrimoniului na?ional.", "Elementele structurale eviden?iaza tehnicile de construc?ie din perioadele trecute.", "Siturile din vecinatate completeaza contextul istoric al loca?iei.", "Activita?ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscuta pentru importan?a sa √Æn dezvoltarea culturala locala.", "Vizitarea acestui loc ofera o experien?a autentica a vie?ii cipriote."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -2961,7 +2961,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Importan?a acestui sit este recunoscuta Ón plan local ?i regional.", "Tradi?iile transmise aici au modelat identitatea comunita?ii respective.", "Zona reprezinta un punct de interes pentru cercetarea patrimoniului istoric.", "Œn cadrul sitului au avut loc multiple evenimente de promovare culturala.", "Infrastructura permite explorarea confortabila a elementelor de interes.", "Situl ram‚ne un reper pentru cei pasiona?i de istoria Ciprului."],
+      ro: ["Importan?a acestui sit este recunoscuta √Æn plan local ?i regional.", "Tradi?iile transmise aici au modelat identitatea comunita?ii respective.", "Zona reprezinta un punct de interes pentru cercetarea patrimoniului istoric.", "√én cadrul sitului au avut loc multiple evenimente de promovare culturala.", "Infrastructura permite explorarea confortabila a elementelor de interes.", "Situl ram√¢ne un reper pentru cei pasiona?i de istoria Ciprului."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -2991,7 +2991,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Importan?a acestui sit este recunoscuta Ón plan local ?i regional.", "Tradi?iile transmise aici au modelat identitatea comunita?ii respective.", "Zona reprezinta un punct de interes pentru cercetarea patrimoniului istoric.", "Œn cadrul sitului au avut loc multiple evenimente de promovare culturala.", "Infrastructura permite explorarea confortabila a elementelor de interes.", "Situl ram‚ne un reper pentru cei pasiona?i de istoria Ciprului."],
+      ro: ["Importan?a acestui sit este recunoscuta √Æn plan local ?i regional.", "Tradi?iile transmise aici au modelat identitatea comunita?ii respective.", "Zona reprezinta un punct de interes pentru cercetarea patrimoniului istoric.", "√én cadrul sitului au avut loc multiple evenimente de promovare culturala.", "Infrastructura permite explorarea confortabila a elementelor de interes.", "Situl ram√¢ne un reper pentru cei pasiona?i de istoria Ciprului."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -3021,7 +3021,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Situl are o relevan?a istorica majora Ón regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradi?iile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
+      ro: ["Situl are o relevan?a istorica majora √Æn regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradi?iile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -3051,7 +3051,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Situl are o relevan?a istorica majora Ón regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradi?iile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
+      ro: ["Situl are o relevan?a istorica majora √Æn regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradi?iile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -3081,7 +3081,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Situl are o relevan?a istorica majora Ón regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradi?iile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
+      ro: ["Situl are o relevan?a istorica majora √Æn regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradi?iile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -3111,7 +3111,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Aceasta loca?ie joaca un rol vital Ón conservarea patrimoniului na?ional.", "Elementele structurale eviden?iaza tehnicile de construc?ie din perioadele trecute.", "Siturile din vecinatate completeaza contextul istoric al loca?iei.", "Activita?ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscuta pentru importan?a sa Ón dezvoltarea culturala locala.", "Vizitarea acestui loc ofera o experien?a autentica a vie?ii cipriote."],
+      ro: ["Aceasta loca?ie joaca un rol vital √Æn conservarea patrimoniului na?ional.", "Elementele structurale eviden?iaza tehnicile de construc?ie din perioadele trecute.", "Siturile din vecinatate completeaza contextul istoric al loca?iei.", "Activita?ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscuta pentru importan?a sa √Æn dezvoltarea culturala locala.", "Vizitarea acestui loc ofera o experien?a autentica a vie?ii cipriote."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -3141,7 +3141,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Aceasta loca?ie joaca un rol vital Ón conservarea patrimoniului na?ional.", "Elementele structurale eviden?iaza tehnicile de construc?ie din perioadele trecute.", "Siturile din vecinatate completeaza contextul istoric al loca?iei.", "Activita?ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscuta pentru importan?a sa Ón dezvoltarea culturala locala.", "Vizitarea acestui loc ofera o experien?a autentica a vie?ii cipriote."],
+      ro: ["Aceasta loca?ie joaca un rol vital √Æn conservarea patrimoniului na?ional.", "Elementele structurale eviden?iaza tehnicile de construc?ie din perioadele trecute.", "Siturile din vecinatate completeaza contextul istoric al loca?iei.", "Activita?ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscuta pentru importan?a sa √Æn dezvoltarea culturala locala.", "Vizitarea acestui loc ofera o experien?a autentica a vie?ii cipriote."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -3171,7 +3171,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Aceasta loca?ie joaca un rol vital Ón conservarea patrimoniului na?ional.", "Elementele structurale eviden?iaza tehnicile de construc?ie din perioadele trecute.", "Siturile din vecinatate completeaza contextul istoric al loca?iei.", "Activita?ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscuta pentru importan?a sa Ón dezvoltarea culturala locala.", "Vizitarea acestui loc ofera o experien?a autentica a vie?ii cipriote."],
+      ro: ["Aceasta loca?ie joaca un rol vital √Æn conservarea patrimoniului na?ional.", "Elementele structurale eviden?iaza tehnicile de construc?ie din perioadele trecute.", "Siturile din vecinatate completeaza contextul istoric al loca?iei.", "Activita?ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscuta pentru importan?a sa √Æn dezvoltarea culturala locala.", "Vizitarea acestui loc ofera o experien?a autentica a vie?ii cipriote."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -3201,7 +3201,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Aceasta loca?ie joaca un rol vital Ón conservarea patrimoniului na?ional.", "Elementele structurale eviden?iaza tehnicile de construc?ie din perioadele trecute.", "Siturile din vecinatate completeaza contextul istoric al loca?iei.", "Activita?ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscuta pentru importan?a sa Ón dezvoltarea culturala locala.", "Vizitarea acestui loc ofera o experien?a autentica a vie?ii cipriote."],
+      ro: ["Aceasta loca?ie joaca un rol vital √Æn conservarea patrimoniului na?ional.", "Elementele structurale eviden?iaza tehnicile de construc?ie din perioadele trecute.", "Siturile din vecinatate completeaza contextul istoric al loca?iei.", "Activita?ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscuta pentru importan?a sa √Æn dezvoltarea culturala locala.", "Vizitarea acestui loc ofera o experien?a autentica a vie?ii cipriote."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -3231,7 +3231,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Aceasta loca?ie joaca un rol vital Ón conservarea patrimoniului na?ional.", "Elementele structurale eviden?iaza tehnicile de construc?ie din perioadele trecute.", "Siturile din vecinatate completeaza contextul istoric al loca?iei.", "Activita?ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscuta pentru importan?a sa Ón dezvoltarea culturala locala.", "Vizitarea acestui loc ofera o experien?a autentica a vie?ii cipriote."],
+      ro: ["Aceasta loca?ie joaca un rol vital √Æn conservarea patrimoniului na?ional.", "Elementele structurale eviden?iaza tehnicile de construc?ie din perioadele trecute.", "Siturile din vecinatate completeaza contextul istoric al loca?iei.", "Activita?ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscuta pentru importan?a sa √Æn dezvoltarea culturala locala.", "Vizitarea acestui loc ofera o experien?a autentica a vie?ii cipriote."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -3261,7 +3261,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Situl are o relevan?a istorica majora Ón regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradi?iile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
+      ro: ["Situl are o relevan?a istorica majora √Æn regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradi?iile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -3291,7 +3291,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Aceasta loca?ie joaca un rol vital Ón conservarea patrimoniului na?ional.", "Elementele structurale eviden?iaza tehnicile de construc?ie din perioadele trecute.", "Siturile din vecinatate completeaza contextul istoric al loca?iei.", "Activita?ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscuta pentru importan?a sa Ón dezvoltarea culturala locala.", "Vizitarea acestui loc ofera o experien?a autentica a vie?ii cipriote."],
+      ro: ["Aceasta loca?ie joaca un rol vital √Æn conservarea patrimoniului na?ional.", "Elementele structurale eviden?iaza tehnicile de construc?ie din perioadele trecute.", "Siturile din vecinatate completeaza contextul istoric al loca?iei.", "Activita?ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscuta pentru importan?a sa √Æn dezvoltarea culturala locala.", "Vizitarea acestui loc ofera o experien?a autentica a vie?ii cipriote."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -3321,7 +3321,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Importan?a acestui sit este recunoscuta Ón plan local ?i regional.", "Tradi?iile transmise aici au modelat identitatea comunita?ii respective.", "Zona reprezinta un punct de interes pentru cercetarea patrimoniului istoric.", "Œn cadrul sitului au avut loc multiple evenimente de promovare culturala.", "Infrastructura permite explorarea confortabila a elementelor de interes.", "Situl ram‚ne un reper pentru cei pasiona?i de istoria Ciprului."],
+      ro: ["Importan?a acestui sit este recunoscuta √Æn plan local ?i regional.", "Tradi?iile transmise aici au modelat identitatea comunita?ii respective.", "Zona reprezinta un punct de interes pentru cercetarea patrimoniului istoric.", "√én cadrul sitului au avut loc multiple evenimente de promovare culturala.", "Infrastructura permite explorarea confortabila a elementelor de interes.", "Situl ram√¢ne un reper pentru cei pasiona?i de istoria Ciprului."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -3351,7 +3351,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Aceasta loca?ie joaca un rol vital Ón conservarea patrimoniului na?ional.", "Elementele structurale eviden?iaza tehnicile de construc?ie din perioadele trecute.", "Siturile din vecinatate completeaza contextul istoric al loca?iei.", "Activita?ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscuta pentru importan?a sa Ón dezvoltarea culturala locala.", "Vizitarea acestui loc ofera o experien?a autentica a vie?ii cipriote."],
+      ro: ["Aceasta loca?ie joaca un rol vital √Æn conservarea patrimoniului na?ional.", "Elementele structurale eviden?iaza tehnicile de construc?ie din perioadele trecute.", "Siturile din vecinatate completeaza contextul istoric al loca?iei.", "Activita?ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscuta pentru importan?a sa √Æn dezvoltarea culturala locala.", "Vizitarea acestui loc ofera o experien?a autentica a vie?ii cipriote."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -3381,7 +3381,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Importan?a acestui sit este recunoscuta Ón plan local ?i regional.", "Tradi?iile transmise aici au modelat identitatea comunita?ii respective.", "Zona reprezinta un punct de interes pentru cercetarea patrimoniului istoric.", "Œn cadrul sitului au avut loc multiple evenimente de promovare culturala.", "Infrastructura permite explorarea confortabila a elementelor de interes.", "Situl ram‚ne un reper pentru cei pasiona?i de istoria Ciprului."],
+      ro: ["Importan?a acestui sit este recunoscuta √Æn plan local ?i regional.", "Tradi?iile transmise aici au modelat identitatea comunita?ii respective.", "Zona reprezinta un punct de interes pentru cercetarea patrimoniului istoric.", "√én cadrul sitului au avut loc multiple evenimente de promovare culturala.", "Infrastructura permite explorarea confortabila a elementelor de interes.", "Situl ram√¢ne un reper pentru cei pasiona?i de istoria Ciprului."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -3411,7 +3411,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Situl are o relevan?a istorica majora Ón regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradi?iile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
+      ro: ["Situl are o relevan?a istorica majora √Æn regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradi?iile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -3441,7 +3441,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Situl are o relevan?a istorica majora Ón regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradi?iile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
+      ro: ["Situl are o relevan?a istorica majora √Æn regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradi?iile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -3471,7 +3471,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Importan?a acestui sit este recunoscuta Ón plan local ?i regional.", "Tradi?iile transmise aici au modelat identitatea comunita?ii respective.", "Zona reprezinta un punct de interes pentru cercetarea patrimoniului istoric.", "Œn cadrul sitului au avut loc multiple evenimente de promovare culturala.", "Infrastructura permite explorarea confortabila a elementelor de interes.", "Situl ram‚ne un reper pentru cei pasiona?i de istoria Ciprului."],
+      ro: ["Importan?a acestui sit este recunoscuta √Æn plan local ?i regional.", "Tradi?iile transmise aici au modelat identitatea comunita?ii respective.", "Zona reprezinta un punct de interes pentru cercetarea patrimoniului istoric.", "√én cadrul sitului au avut loc multiple evenimente de promovare culturala.", "Infrastructura permite explorarea confortabila a elementelor de interes.", "Situl ram√¢ne un reper pentru cei pasiona?i de istoria Ciprului."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -3501,7 +3501,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Aceasta loca?ie joaca un rol vital Ón conservarea patrimoniului na?ional.", "Elementele structurale eviden?iaza tehnicile de construc?ie din perioadele trecute.", "Siturile din vecinatate completeaza contextul istoric al loca?iei.", "Activita?ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscuta pentru importan?a sa Ón dezvoltarea culturala locala.", "Vizitarea acestui loc ofera o experien?a autentica a vie?ii cipriote."],
+      ro: ["Aceasta loca?ie joaca un rol vital √Æn conservarea patrimoniului na?ional.", "Elementele structurale eviden?iaza tehnicile de construc?ie din perioadele trecute.", "Siturile din vecinatate completeaza contextul istoric al loca?iei.", "Activita?ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscuta pentru importan?a sa √Æn dezvoltarea culturala locala.", "Vizitarea acestui loc ofera o experien?a autentica a vie?ii cipriote."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -3531,7 +3531,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Importan?a acestui sit este recunoscuta Ón plan local ?i regional.", "Tradi?iile transmise aici au modelat identitatea comunita?ii respective.", "Zona reprezinta un punct de interes pentru cercetarea patrimoniului istoric.", "Œn cadrul sitului au avut loc multiple evenimente de promovare culturala.", "Infrastructura permite explorarea confortabila a elementelor de interes.", "Situl ram‚ne un reper pentru cei pasiona?i de istoria Ciprului."],
+      ro: ["Importan?a acestui sit este recunoscuta √Æn plan local ?i regional.", "Tradi?iile transmise aici au modelat identitatea comunita?ii respective.", "Zona reprezinta un punct de interes pentru cercetarea patrimoniului istoric.", "√én cadrul sitului au avut loc multiple evenimente de promovare culturala.", "Infrastructura permite explorarea confortabila a elementelor de interes.", "Situl ram√¢ne un reper pentru cei pasiona?i de istoria Ciprului."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -3561,7 +3561,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Situl are o relevan?a istorica majora Ón regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradi?iile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
+      ro: ["Situl are o relevan?a istorica majora √Æn regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradi?iile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -3591,7 +3591,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Importan?a acestui sit este recunoscuta Ón plan local ?i regional.", "Tradi?iile transmise aici au modelat identitatea comunita?ii respective.", "Zona reprezinta un punct de interes pentru cercetarea patrimoniului istoric.", "Œn cadrul sitului au avut loc multiple evenimente de promovare culturala.", "Infrastructura permite explorarea confortabila a elementelor de interes.", "Situl ram‚ne un reper pentru cei pasiona?i de istoria Ciprului."],
+      ro: ["Importan?a acestui sit este recunoscuta √Æn plan local ?i regional.", "Tradi?iile transmise aici au modelat identitatea comunita?ii respective.", "Zona reprezinta un punct de interes pentru cercetarea patrimoniului istoric.", "√én cadrul sitului au avut loc multiple evenimente de promovare culturala.", "Infrastructura permite explorarea confortabila a elementelor de interes.", "Situl ram√¢ne un reper pentru cei pasiona?i de istoria Ciprului."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -3627,7 +3627,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Situl are o relevan?a istorica majora Ón regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradi?iile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
+      ro: ["Situl are o relevan?a istorica majora √Æn regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradi?iile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -3657,7 +3657,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Importan?a acestui sit este recunoscuta Ón plan local ?i regional.", "Tradi?iile transmise aici au modelat identitatea comunita?ii respective.", "Zona reprezinta un punct de interes pentru cercetarea patrimoniului istoric.", "Œn cadrul sitului au avut loc multiple evenimente de promovare culturala.", "Infrastructura permite explorarea confortabila a elementelor de interes.", "Situl ram‚ne un reper pentru cei pasiona?i de istoria Ciprului."],
+      ro: ["Importan?a acestui sit este recunoscuta √Æn plan local ?i regional.", "Tradi?iile transmise aici au modelat identitatea comunita?ii respective.", "Zona reprezinta un punct de interes pentru cercetarea patrimoniului istoric.", "√én cadrul sitului au avut loc multiple evenimente de promovare culturala.", "Infrastructura permite explorarea confortabila a elementelor de interes.", "Situl ram√¢ne un reper pentru cei pasiona?i de istoria Ciprului."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -3687,7 +3687,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Aceasta loca?ie joaca un rol vital Ón conservarea patrimoniului na?ional.", "Elementele structurale eviden?iaza tehnicile de construc?ie din perioadele trecute.", "Siturile din vecinatate completeaza contextul istoric al loca?iei.", "Activita?ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscuta pentru importan?a sa Ón dezvoltarea culturala locala.", "Vizitarea acestui loc ofera o experien?a autentica a vie?ii cipriote."],
+      ro: ["Aceasta loca?ie joaca un rol vital √Æn conservarea patrimoniului na?ional.", "Elementele structurale eviden?iaza tehnicile de construc?ie din perioadele trecute.", "Siturile din vecinatate completeaza contextul istoric al loca?iei.", "Activita?ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscuta pentru importan?a sa √Æn dezvoltarea culturala locala.", "Vizitarea acestui loc ofera o experien?a autentica a vie?ii cipriote."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -3717,7 +3717,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Situl are o relevan?a istorica majora Ón regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradi?iile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
+      ro: ["Situl are o relevan?a istorica majora √Æn regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradi?iile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -3747,7 +3747,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Aceasta loca?ie joaca un rol vital Ón conservarea patrimoniului na?ional.", "Elementele structurale eviden?iaza tehnicile de construc?ie din perioadele trecute.", "Siturile din vecinatate completeaza contextul istoric al loca?iei.", "Activita?ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscuta pentru importan?a sa Ón dezvoltarea culturala locala.", "Vizitarea acestui loc ofera o experien?a autentica a vie?ii cipriote."],
+      ro: ["Aceasta loca?ie joaca un rol vital √Æn conservarea patrimoniului na?ional.", "Elementele structurale eviden?iaza tehnicile de construc?ie din perioadele trecute.", "Siturile din vecinatate completeaza contextul istoric al loca?iei.", "Activita?ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscuta pentru importan?a sa √Æn dezvoltarea culturala locala.", "Vizitarea acestui loc ofera o experien?a autentica a vie?ii cipriote."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -3777,7 +3777,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Importan?a acestui sit este recunoscuta Ón plan local ?i regional.", "Tradi?iile transmise aici au modelat identitatea comunita?ii respective.", "Zona reprezinta un punct de interes pentru cercetarea patrimoniului istoric.", "Œn cadrul sitului au avut loc multiple evenimente de promovare culturala.", "Infrastructura permite explorarea confortabila a elementelor de interes.", "Situl ram‚ne un reper pentru cei pasiona?i de istoria Ciprului."],
+      ro: ["Importan?a acestui sit este recunoscuta √Æn plan local ?i regional.", "Tradi?iile transmise aici au modelat identitatea comunita?ii respective.", "Zona reprezinta un punct de interes pentru cercetarea patrimoniului istoric.", "√én cadrul sitului au avut loc multiple evenimente de promovare culturala.", "Infrastructura permite explorarea confortabila a elementelor de interes.", "Situl ram√¢ne un reper pentru cei pasiona?i de istoria Ciprului."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -3807,7 +3807,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Situl are o relevan?a istorica majora Ón regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradi?iile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
+      ro: ["Situl are o relevan?a istorica majora √Æn regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradi?iile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -3837,7 +3837,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Importan?a acestui sit este recunoscuta Ón plan local ?i regional.", "Tradi?iile transmise aici au modelat identitatea comunita?ii respective.", "Zona reprezinta un punct de interes pentru cercetarea patrimoniului istoric.", "Œn cadrul sitului au avut loc multiple evenimente de promovare culturala.", "Infrastructura permite explorarea confortabila a elementelor de interes.", "Situl ram‚ne un reper pentru cei pasiona?i de istoria Ciprului."],
+      ro: ["Importan?a acestui sit este recunoscuta √Æn plan local ?i regional.", "Tradi?iile transmise aici au modelat identitatea comunita?ii respective.", "Zona reprezinta un punct de interes pentru cercetarea patrimoniului istoric.", "√én cadrul sitului au avut loc multiple evenimente de promovare culturala.", "Infrastructura permite explorarea confortabila a elementelor de interes.", "Situl ram√¢ne un reper pentru cei pasiona?i de istoria Ciprului."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -3867,7 +3867,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Situl are o relevan?a istorica majora Ón regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradi?iile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
+      ro: ["Situl are o relevan?a istorica majora √Æn regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradi?iile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -3897,7 +3897,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Situl are o relevan?a istorica majora Ón regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradi?iile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
+      ro: ["Situl are o relevan?a istorica majora √Æn regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradi?iile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -3927,7 +3927,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Situl are o relevan?a istorica majora Ón regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradi?iile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
+      ro: ["Situl are o relevan?a istorica majora √Æn regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradi?iile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -3957,7 +3957,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Aceasta loca?ie joaca un rol vital Ón conservarea patrimoniului na?ional.", "Elementele structurale eviden?iaza tehnicile de construc?ie din perioadele trecute.", "Siturile din vecinatate completeaza contextul istoric al loca?iei.", "Activita?ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscuta pentru importan?a sa Ón dezvoltarea culturala locala.", "Vizitarea acestui loc ofera o experien?a autentica a vie?ii cipriote."],
+      ro: ["Aceasta loca?ie joaca un rol vital √Æn conservarea patrimoniului na?ional.", "Elementele structurale eviden?iaza tehnicile de construc?ie din perioadele trecute.", "Siturile din vecinatate completeaza contextul istoric al loca?iei.", "Activita?ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscuta pentru importan?a sa √Æn dezvoltarea culturala locala.", "Vizitarea acestui loc ofera o experien?a autentica a vie?ii cipriote."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -3987,7 +3987,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Importan?a acestui sit este recunoscuta Ón plan local ?i regional.", "Tradi?iile transmise aici au modelat identitatea comunita?ii respective.", "Zona reprezinta un punct de interes pentru cercetarea patrimoniului istoric.", "Œn cadrul sitului au avut loc multiple evenimente de promovare culturala.", "Infrastructura permite explorarea confortabila a elementelor de interes.", "Situl ram‚ne un reper pentru cei pasiona?i de istoria Ciprului."],
+      ro: ["Importan?a acestui sit este recunoscuta √Æn plan local ?i regional.", "Tradi?iile transmise aici au modelat identitatea comunita?ii respective.", "Zona reprezinta un punct de interes pentru cercetarea patrimoniului istoric.", "√én cadrul sitului au avut loc multiple evenimente de promovare culturala.", "Infrastructura permite explorarea confortabila a elementelor de interes.", "Situl ram√¢ne un reper pentru cei pasiona?i de istoria Ciprului."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -4017,7 +4017,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Importan?a acestui sit este recunoscuta Ón plan local ?i regional.", "Tradi?iile transmise aici au modelat identitatea comunita?ii respective.", "Zona reprezinta un punct de interes pentru cercetarea patrimoniului istoric.", "Œn cadrul sitului au avut loc multiple evenimente de promovare culturala.", "Infrastructura permite explorarea confortabila a elementelor de interes.", "Situl ram‚ne un reper pentru cei pasiona?i de istoria Ciprului."],
+      ro: ["Importan?a acestui sit este recunoscuta √Æn plan local ?i regional.", "Tradi?iile transmise aici au modelat identitatea comunita?ii respective.", "Zona reprezinta un punct de interes pentru cercetarea patrimoniului istoric.", "√én cadrul sitului au avut loc multiple evenimente de promovare culturala.", "Infrastructura permite explorarea confortabila a elementelor de interes.", "Situl ram√¢ne un reper pentru cei pasiona?i de istoria Ciprului."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -4047,7 +4047,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Situl are o relevan?a istorica majora Ón regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradi?iile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
+      ro: ["Situl are o relevan?a istorica majora √Æn regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradi?iile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -4077,7 +4077,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Importan?a acestui sit este recunoscuta Ón plan local ?i regional.", "Tradi?iile transmise aici au modelat identitatea comunita?ii respective.", "Zona reprezinta un punct de interes pentru cercetarea patrimoniului istoric.", "Œn cadrul sitului au avut loc multiple evenimente de promovare culturala.", "Infrastructura permite explorarea confortabila a elementelor de interes.", "Situl ram‚ne un reper pentru cei pasiona?i de istoria Ciprului."],
+      ro: ["Importan?a acestui sit este recunoscuta √Æn plan local ?i regional.", "Tradi?iile transmise aici au modelat identitatea comunita?ii respective.", "Zona reprezinta un punct de interes pentru cercetarea patrimoniului istoric.", "√én cadrul sitului au avut loc multiple evenimente de promovare culturala.", "Infrastructura permite explorarea confortabila a elementelor de interes.", "Situl ram√¢ne un reper pentru cei pasiona?i de istoria Ciprului."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -4107,7 +4107,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Aceasta loca?ie joaca un rol vital Ón conservarea patrimoniului na?ional.", "Elementele structurale eviden?iaza tehnicile de construc?ie din perioadele trecute.", "Siturile din vecinatate completeaza contextul istoric al loca?iei.", "Activita?ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscuta pentru importan?a sa Ón dezvoltarea culturala locala.", "Vizitarea acestui loc ofera o experien?a autentica a vie?ii cipriote."],
+      ro: ["Aceasta loca?ie joaca un rol vital √Æn conservarea patrimoniului na?ional.", "Elementele structurale eviden?iaza tehnicile de construc?ie din perioadele trecute.", "Siturile din vecinatate completeaza contextul istoric al loca?iei.", "Activita?ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscuta pentru importan?a sa √Æn dezvoltarea culturala locala.", "Vizitarea acestui loc ofera o experien?a autentica a vie?ii cipriote."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -4124,9 +4124,9 @@ export const cyprusOtherPoi: POI[] = [
     },
     description: {
       en: "A uniquely beautiful natural 'fjord' where the Potamos Liopetriou river meets the sea, lined with fishing boats.",
-      de: "Ein einzigartig sch√∂ner nat√ºrlicher ‚ÄûFjord‚Äú, wo der Fluss Potamos Liopetriou ins Meer m√ºndet, ges√§umt von Fischerbooten.",
-      hu: "Egyed√ºl√°ll√≥an sz√©p term√©szeti ‚Äûfjord‚Äù, ahol a Potamos Liopetriou foly√≥ tal√°lkozik a tengerrel, hal√°szhaj√≥kkal szeg√©lyezve.",
-      ro: "Un ‚Äûfiord‚Äù natural de o frumuse»õe unicƒÉ, unde r√¢ul Potamos Liopetriou se √Ænt√¢lne»ôte cu marea, mƒÉrginit de bƒÉrci de pescuit.",
+      de: "Ein einzigartig sch√∂ner nat√ºrlicher \\\"Fjord\\\", wo der Fluss Potamos Liopetriou ins Meer m√ºndet, ges√§umt von Fischerbooten.",
+      hu: "Egyed√ºl√°ll√≥an sz√©p term√©szeti \\\"fjord\\\", ahol a Potamos Liopetriou foly√≥ tal√°lkozik a tengerrel, hal√°szhaj√≥kkal szeg√©lyezve.",
+      ro: "Un \\\"fiord\\\" natural de o frumuse»õe unicƒÉ, unde r√¢ul Potamos Liopetriou se √Ænt√¢lne»ôte cu marea, mƒÉrginit de bƒÉrci de pescuit.",
     },
     descriptionAdvanced: {
       de: "ERSETZE_MICH_DE",
@@ -4137,7 +4137,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Importan?a acestui sit este recunoscuta Ón plan local ?i regional.", "Tradi?iile transmise aici au modelat identitatea comunita?ii respective.", "Zona reprezinta un punct de interes pentru cercetarea patrimoniului istoric.", "Œn cadrul sitului au avut loc multiple evenimente de promovare culturala.", "Infrastructura permite explorarea confortabila a elementelor de interes.", "Situl ram‚ne un reper pentru cei pasiona?i de istoria Ciprului."],
+      ro: ["Importan?a acestui sit este recunoscuta √Æn plan local ?i regional.", "Tradi?iile transmise aici au modelat identitatea comunita?ii respective.", "Zona reprezinta un punct de interes pentru cercetarea patrimoniului istoric.", "√én cadrul sitului au avut loc multiple evenimente de promovare culturala.", "Infrastructura permite explorarea confortabila a elementelor de interes.", "Situl ram√¢ne un reper pentru cei pasiona?i de istoria Ciprului."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -4167,7 +4167,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Situl are o relevan?a istorica majora Ón regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradi?iile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
+      ro: ["Situl are o relevan?a istorica majora √Æn regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradi?iile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -4197,7 +4197,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Situl are o relevan?a istorica majora Ón regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradi?iile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
+      ro: ["Situl are o relevan?a istorica majora √Æn regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradi?iile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -4227,7 +4227,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Situl are o relevan?a istorica majora Ón regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradi?iile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
+      ro: ["Situl are o relevan?a istorica majora √Æn regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradi?iile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -4257,7 +4257,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Situl are o relevan?a istorica majora Ón regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradi?iile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
+      ro: ["Situl are o relevan?a istorica majora √Æn regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradi?iile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -4287,7 +4287,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Aceasta loca?ie joaca un rol vital Ón conservarea patrimoniului na?ional.", "Elementele structurale eviden?iaza tehnicile de construc?ie din perioadele trecute.", "Siturile din vecinatate completeaza contextul istoric al loca?iei.", "Activita?ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscuta pentru importan?a sa Ón dezvoltarea culturala locala.", "Vizitarea acestui loc ofera o experien?a autentica a vie?ii cipriote."],
+      ro: ["Aceasta loca?ie joaca un rol vital √Æn conservarea patrimoniului na?ional.", "Elementele structurale eviden?iaza tehnicile de construc?ie din perioadele trecute.", "Siturile din vecinatate completeaza contextul istoric al loca?iei.", "Activita?ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscuta pentru importan?a sa √Æn dezvoltarea culturala locala.", "Vizitarea acestui loc ofera o experien?a autentica a vie?ii cipriote."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -4317,7 +4317,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Situl are o relevan?a istorica majora Ón regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradi?iile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
+      ro: ["Situl are o relevan?a istorica majora √Æn regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradi?iile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -4347,7 +4347,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Aceasta loca?ie joaca un rol vital Ón conservarea patrimoniului na?ional.", "Elementele structurale eviden?iaza tehnicile de construc?ie din perioadele trecute.", "Siturile din vecinatate completeaza contextul istoric al loca?iei.", "Activita?ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscuta pentru importan?a sa Ón dezvoltarea culturala locala.", "Vizitarea acestui loc ofera o experien?a autentica a vie?ii cipriote."],
+      ro: ["Aceasta loca?ie joaca un rol vital √Æn conservarea patrimoniului na?ional.", "Elementele structurale eviden?iaza tehnicile de construc?ie din perioadele trecute.", "Siturile din vecinatate completeaza contextul istoric al loca?iei.", "Activita?ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscuta pentru importan?a sa √Æn dezvoltarea culturala locala.", "Vizitarea acestui loc ofera o experien?a autentica a vie?ii cipriote."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -4377,7 +4377,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Importan?a acestui sit este recunoscuta Ón plan local ?i regional.", "Tradi?iile transmise aici au modelat identitatea comunita?ii respective.", "Zona reprezinta un punct de interes pentru cercetarea patrimoniului istoric.", "Œn cadrul sitului au avut loc multiple evenimente de promovare culturala.", "Infrastructura permite explorarea confortabila a elementelor de interes.", "Situl ram‚ne un reper pentru cei pasiona?i de istoria Ciprului."],
+      ro: ["Importan?a acestui sit este recunoscuta √Æn plan local ?i regional.", "Tradi?iile transmise aici au modelat identitatea comunita?ii respective.", "Zona reprezinta un punct de interes pentru cercetarea patrimoniului istoric.", "√én cadrul sitului au avut loc multiple evenimente de promovare culturala.", "Infrastructura permite explorarea confortabila a elementelor de interes.", "Situl ram√¢ne un reper pentru cei pasiona?i de istoria Ciprului."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -4407,7 +4407,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Situl are o relevan?a istorica majora Ón regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradi?iile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
+      ro: ["Situl are o relevan?a istorica majora √Æn regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradi?iile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -4437,7 +4437,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Situl are o relevan?a istorica majora Ón regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradi?iile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
+      ro: ["Situl are o relevan?a istorica majora √Æn regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradi?iile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -4467,7 +4467,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Situl are o relevan?a istorica majora Ón regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradi?iile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
+      ro: ["Situl are o relevan?a istorica majora √Æn regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradi?iile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -4497,7 +4497,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Aceasta loca?ie joaca un rol vital Ón conservarea patrimoniului na?ional.", "Elementele structurale eviden?iaza tehnicile de construc?ie din perioadele trecute.", "Siturile din vecinatate completeaza contextul istoric al loca?iei.", "Activita?ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscuta pentru importan?a sa Ón dezvoltarea culturala locala.", "Vizitarea acestui loc ofera o experien?a autentica a vie?ii cipriote."],
+      ro: ["Aceasta loca?ie joaca un rol vital √Æn conservarea patrimoniului na?ional.", "Elementele structurale eviden?iaza tehnicile de construc?ie din perioadele trecute.", "Siturile din vecinatate completeaza contextul istoric al loca?iei.", "Activita?ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscuta pentru importan?a sa √Æn dezvoltarea culturala locala.", "Vizitarea acestui loc ofera o experien?a autentica a vie?ii cipriote."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -4533,7 +4533,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Situl are o relevan?a istorica majora Ón regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradi?iile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
+      ro: ["Situl are o relevan?a istorica majora √Æn regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradi?iile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -4563,7 +4563,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Situl are o relevan?a istorica majora Ón regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradi?iile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
+      ro: ["Situl are o relevan?a istorica majora √Æn regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradi?iile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -4593,7 +4593,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Aceasta loca?ie joaca un rol vital Ón conservarea patrimoniului na?ional.", "Elementele structurale eviden?iaza tehnicile de construc?ie din perioadele trecute.", "Siturile din vecinatate completeaza contextul istoric al loca?iei.", "Activita?ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscuta pentru importan?a sa Ón dezvoltarea culturala locala.", "Vizitarea acestui loc ofera o experien?a autentica a vie?ii cipriote."],
+      ro: ["Aceasta loca?ie joaca un rol vital √Æn conservarea patrimoniului na?ional.", "Elementele structurale eviden?iaza tehnicile de construc?ie din perioadele trecute.", "Siturile din vecinatate completeaza contextul istoric al loca?iei.", "Activita?ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscuta pentru importan?a sa √Æn dezvoltarea culturala locala.", "Vizitarea acestui loc ofera o experien?a autentica a vie?ii cipriote."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -4623,7 +4623,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Importan?a acestui sit este recunoscuta Ón plan local ?i regional.", "Tradi?iile transmise aici au modelat identitatea comunita?ii respective.", "Zona reprezinta un punct de interes pentru cercetarea patrimoniului istoric.", "Œn cadrul sitului au avut loc multiple evenimente de promovare culturala.", "Infrastructura permite explorarea confortabila a elementelor de interes.", "Situl ram‚ne un reper pentru cei pasiona?i de istoria Ciprului."],
+      ro: ["Importan?a acestui sit este recunoscuta √Æn plan local ?i regional.", "Tradi?iile transmise aici au modelat identitatea comunita?ii respective.", "Zona reprezinta un punct de interes pentru cercetarea patrimoniului istoric.", "√én cadrul sitului au avut loc multiple evenimente de promovare culturala.", "Infrastructura permite explorarea confortabila a elementelor de interes.", "Situl ram√¢ne un reper pentru cei pasiona?i de istoria Ciprului."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -4653,7 +4653,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Aceasta loca?ie joaca un rol vital Ón conservarea patrimoniului na?ional.", "Elementele structurale eviden?iaza tehnicile de construc?ie din perioadele trecute.", "Siturile din vecinatate completeaza contextul istoric al loca?iei.", "Activita?ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscuta pentru importan?a sa Ón dezvoltarea culturala locala.", "Vizitarea acestui loc ofera o experien?a autentica a vie?ii cipriote."],
+      ro: ["Aceasta loca?ie joaca un rol vital √Æn conservarea patrimoniului na?ional.", "Elementele structurale eviden?iaza tehnicile de construc?ie din perioadele trecute.", "Siturile din vecinatate completeaza contextul istoric al loca?iei.", "Activita?ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscuta pentru importan?a sa √Æn dezvoltarea culturala locala.", "Vizitarea acestui loc ofera o experien?a autentica a vie?ii cipriote."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -4683,7 +4683,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Aceasta loca?ie joaca un rol vital Ón conservarea patrimoniului na?ional.", "Elementele structurale eviden?iaza tehnicile de construc?ie din perioadele trecute.", "Siturile din vecinatate completeaza contextul istoric al loca?iei.", "Activita?ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscuta pentru importan?a sa Ón dezvoltarea culturala locala.", "Vizitarea acestui loc ofera o experien?a autentica a vie?ii cipriote."],
+      ro: ["Aceasta loca?ie joaca un rol vital √Æn conservarea patrimoniului na?ional.", "Elementele structurale eviden?iaza tehnicile de construc?ie din perioadele trecute.", "Siturile din vecinatate completeaza contextul istoric al loca?iei.", "Activita?ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscuta pentru importan?a sa √Æn dezvoltarea culturala locala.", "Vizitarea acestui loc ofera o experien?a autentica a vie?ii cipriote."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -4713,7 +4713,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Importan?a acestui sit este recunoscuta Ón plan local ?i regional.", "Tradi?iile transmise aici au modelat identitatea comunita?ii respective.", "Zona reprezinta un punct de interes pentru cercetarea patrimoniului istoric.", "Œn cadrul sitului au avut loc multiple evenimente de promovare culturala.", "Infrastructura permite explorarea confortabila a elementelor de interes.", "Situl ram‚ne un reper pentru cei pasiona?i de istoria Ciprului."],
+      ro: ["Importan?a acestui sit este recunoscuta √Æn plan local ?i regional.", "Tradi?iile transmise aici au modelat identitatea comunita?ii respective.", "Zona reprezinta un punct de interes pentru cercetarea patrimoniului istoric.", "√én cadrul sitului au avut loc multiple evenimente de promovare culturala.", "Infrastructura permite explorarea confortabila a elementelor de interes.", "Situl ram√¢ne un reper pentru cei pasiona?i de istoria Ciprului."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -4743,7 +4743,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Importan?a acestui sit este recunoscuta Ón plan local ?i regional.", "Tradi?iile transmise aici au modelat identitatea comunita?ii respective.", "Zona reprezinta un punct de interes pentru cercetarea patrimoniului istoric.", "Œn cadrul sitului au avut loc multiple evenimente de promovare culturala.", "Infrastructura permite explorarea confortabila a elementelor de interes.", "Situl ram‚ne un reper pentru cei pasiona?i de istoria Ciprului."],
+      ro: ["Importan?a acestui sit este recunoscuta √Æn plan local ?i regional.", "Tradi?iile transmise aici au modelat identitatea comunita?ii respective.", "Zona reprezinta un punct de interes pentru cercetarea patrimoniului istoric.", "√én cadrul sitului au avut loc multiple evenimente de promovare culturala.", "Infrastructura permite explorarea confortabila a elementelor de interes.", "Situl ram√¢ne un reper pentru cei pasiona?i de istoria Ciprului."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -4773,7 +4773,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Situl are o relevan?a istorica majora Ón regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradi?iile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
+      ro: ["Situl are o relevan?a istorica majora √Æn regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradi?iile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -4803,7 +4803,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Importan?a acestui sit este recunoscuta Ón plan local ?i regional.", "Tradi?iile transmise aici au modelat identitatea comunita?ii respective.", "Zona reprezinta un punct de interes pentru cercetarea patrimoniului istoric.", "Œn cadrul sitului au avut loc multiple evenimente de promovare culturala.", "Infrastructura permite explorarea confortabila a elementelor de interes.", "Situl ram‚ne un reper pentru cei pasiona?i de istoria Ciprului."],
+      ro: ["Importan?a acestui sit este recunoscuta √Æn plan local ?i regional.", "Tradi?iile transmise aici au modelat identitatea comunita?ii respective.", "Zona reprezinta un punct de interes pentru cercetarea patrimoniului istoric.", "√én cadrul sitului au avut loc multiple evenimente de promovare culturala.", "Infrastructura permite explorarea confortabila a elementelor de interes.", "Situl ram√¢ne un reper pentru cei pasiona?i de istoria Ciprului."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -4833,7 +4833,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Importan?a acestui sit este recunoscuta Ón plan local ?i regional.", "Tradi?iile transmise aici au modelat identitatea comunita?ii respective.", "Zona reprezinta un punct de interes pentru cercetarea patrimoniului istoric.", "Œn cadrul sitului au avut loc multiple evenimente de promovare culturala.", "Infrastructura permite explorarea confortabila a elementelor de interes.", "Situl ram‚ne un reper pentru cei pasiona?i de istoria Ciprului."],
+      ro: ["Importan?a acestui sit este recunoscuta √Æn plan local ?i regional.", "Tradi?iile transmise aici au modelat identitatea comunita?ii respective.", "Zona reprezinta un punct de interes pentru cercetarea patrimoniului istoric.", "√én cadrul sitului au avut loc multiple evenimente de promovare culturala.", "Infrastructura permite explorarea confortabila a elementelor de interes.", "Situl ram√¢ne un reper pentru cei pasiona?i de istoria Ciprului."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -4863,7 +4863,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Situl are o relevan?a istorica majora Ón regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradi?iile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
+      ro: ["Situl are o relevan?a istorica majora √Æn regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradi?iile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -4893,7 +4893,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Aceasta loca?ie joaca un rol vital Ón conservarea patrimoniului na?ional.", "Elementele structurale eviden?iaza tehnicile de construc?ie din perioadele trecute.", "Siturile din vecinatate completeaza contextul istoric al loca?iei.", "Activita?ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscuta pentru importan?a sa Ón dezvoltarea culturala locala.", "Vizitarea acestui loc ofera o experien?a autentica a vie?ii cipriote."],
+      ro: ["Aceasta loca?ie joaca un rol vital √Æn conservarea patrimoniului na?ional.", "Elementele structurale eviden?iaza tehnicile de construc?ie din perioadele trecute.", "Siturile din vecinatate completeaza contextul istoric al loca?iei.", "Activita?ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscuta pentru importan?a sa √Æn dezvoltarea culturala locala.", "Vizitarea acestui loc ofera o experien?a autentica a vie?ii cipriote."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -4923,7 +4923,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Importan?a acestui sit este recunoscuta Ón plan local ?i regional.", "Tradi?iile transmise aici au modelat identitatea comunita?ii respective.", "Zona reprezinta un punct de interes pentru cercetarea patrimoniului istoric.", "Œn cadrul sitului au avut loc multiple evenimente de promovare culturala.", "Infrastructura permite explorarea confortabila a elementelor de interes.", "Situl ram‚ne un reper pentru cei pasiona?i de istoria Ciprului."],
+      ro: ["Importan?a acestui sit este recunoscuta √Æn plan local ?i regional.", "Tradi?iile transmise aici au modelat identitatea comunita?ii respective.", "Zona reprezinta un punct de interes pentru cercetarea patrimoniului istoric.", "√én cadrul sitului au avut loc multiple evenimente de promovare culturala.", "Infrastructura permite explorarea confortabila a elementelor de interes.", "Situl ram√¢ne un reper pentru cei pasiona?i de istoria Ciprului."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -4953,7 +4953,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Situl are o relevan?a istorica majora Ón regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradi?iile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
+      ro: ["Situl are o relevan?a istorica majora √Æn regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradi?iile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -4983,7 +4983,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Aceasta loca?ie joaca un rol vital Ón conservarea patrimoniului na?ional.", "Elementele structurale eviden?iaza tehnicile de construc?ie din perioadele trecute.", "Siturile din vecinatate completeaza contextul istoric al loca?iei.", "Activita?ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscuta pentru importan?a sa Ón dezvoltarea culturala locala.", "Vizitarea acestui loc ofera o experien?a autentica a vie?ii cipriote."],
+      ro: ["Aceasta loca?ie joaca un rol vital √Æn conservarea patrimoniului na?ional.", "Elementele structurale eviden?iaza tehnicile de construc?ie din perioadele trecute.", "Siturile din vecinatate completeaza contextul istoric al loca?iei.", "Activita?ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscuta pentru importan?a sa √Æn dezvoltarea culturala locala.", "Vizitarea acestui loc ofera o experien?a autentica a vie?ii cipriote."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -5013,7 +5013,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Aceasta loca?ie joaca un rol vital Ón conservarea patrimoniului na?ional.", "Elementele structurale eviden?iaza tehnicile de construc?ie din perioadele trecute.", "Siturile din vecinatate completeaza contextul istoric al loca?iei.", "Activita?ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscuta pentru importan?a sa Ón dezvoltarea culturala locala.", "Vizitarea acestui loc ofera o experien?a autentica a vie?ii cipriote."],
+      ro: ["Aceasta loca?ie joaca un rol vital √Æn conservarea patrimoniului na?ional.", "Elementele structurale eviden?iaza tehnicile de construc?ie din perioadele trecute.", "Siturile din vecinatate completeaza contextul istoric al loca?iei.", "Activita?ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscuta pentru importan?a sa √Æn dezvoltarea culturala locala.", "Vizitarea acestui loc ofera o experien?a autentica a vie?ii cipriote."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -5043,7 +5043,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Situl are o relevan?a istorica majora Ón regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradi?iile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
+      ro: ["Situl are o relevan?a istorica majora √Æn regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradi?iile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -5073,7 +5073,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Situl are o relevan?a istorica majora Ón regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradi?iile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
+      ro: ["Situl are o relevan?a istorica majora √Æn regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradi?iile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -5103,7 +5103,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Situl are o relevan?a istorica majora Ón regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradi?iile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
+      ro: ["Situl are o relevan?a istorica majora √Æn regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradi?iile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -5133,7 +5133,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Situl are o relevan?a istorica majora Ón regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradi?iile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
+      ro: ["Situl are o relevan?a istorica majora √Æn regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradi?iile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -5163,7 +5163,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Situl are o relevan?a istorica majora Ón regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradi?iile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
+      ro: ["Situl are o relevan?a istorica majora √Æn regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradi?iile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -5193,7 +5193,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Situl are o relevan?a istorica majora Ón regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradi?iile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
+      ro: ["Situl are o relevan?a istorica majora √Æn regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradi?iile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -5223,7 +5223,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Aceasta loca?ie joaca un rol vital Ón conservarea patrimoniului na?ional.", "Elementele structurale eviden?iaza tehnicile de construc?ie din perioadele trecute.", "Siturile din vecinatate completeaza contextul istoric al loca?iei.", "Activita?ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscuta pentru importan?a sa Ón dezvoltarea culturala locala.", "Vizitarea acestui loc ofera o experien?a autentica a vie?ii cipriote."],
+      ro: ["Aceasta loca?ie joaca un rol vital √Æn conservarea patrimoniului na?ional.", "Elementele structurale eviden?iaza tehnicile de construc?ie din perioadele trecute.", "Siturile din vecinatate completeaza contextul istoric al loca?iei.", "Activita?ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscuta pentru importan?a sa √Æn dezvoltarea culturala locala.", "Vizitarea acestui loc ofera o experien?a autentica a vie?ii cipriote."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -5253,7 +5253,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Situl are o relevan?a istorica majora Ón regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradi?iile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
+      ro: ["Situl are o relevan?a istorica majora √Æn regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradi?iile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -5283,7 +5283,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Importan?a acestui sit este recunoscuta Ón plan local ?i regional.", "Tradi?iile transmise aici au modelat identitatea comunita?ii respective.", "Zona reprezinta un punct de interes pentru cercetarea patrimoniului istoric.", "Œn cadrul sitului au avut loc multiple evenimente de promovare culturala.", "Infrastructura permite explorarea confortabila a elementelor de interes.", "Situl ram‚ne un reper pentru cei pasiona?i de istoria Ciprului."],
+      ro: ["Importan?a acestui sit este recunoscuta √Æn plan local ?i regional.", "Tradi?iile transmise aici au modelat identitatea comunita?ii respective.", "Zona reprezinta un punct de interes pentru cercetarea patrimoniului istoric.", "√én cadrul sitului au avut loc multiple evenimente de promovare culturala.", "Infrastructura permite explorarea confortabila a elementelor de interes.", "Situl ram√¢ne un reper pentru cei pasiona?i de istoria Ciprului."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -5313,7 +5313,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Aceasta loca?ie joaca un rol vital Ón conservarea patrimoniului na?ional.", "Elementele structurale eviden?iaza tehnicile de construc?ie din perioadele trecute.", "Siturile din vecinatate completeaza contextul istoric al loca?iei.", "Activita?ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscuta pentru importan?a sa Ón dezvoltarea culturala locala.", "Vizitarea acestui loc ofera o experien?a autentica a vie?ii cipriote."],
+      ro: ["Aceasta loca?ie joaca un rol vital √Æn conservarea patrimoniului na?ional.", "Elementele structurale eviden?iaza tehnicile de construc?ie din perioadele trecute.", "Siturile din vecinatate completeaza contextul istoric al loca?iei.", "Activita?ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscuta pentru importan?a sa √Æn dezvoltarea culturala locala.", "Vizitarea acestui loc ofera o experien?a autentica a vie?ii cipriote."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -5343,7 +5343,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Aceasta loca?ie joaca un rol vital Ón conservarea patrimoniului na?ional.", "Elementele structurale eviden?iaza tehnicile de construc?ie din perioadele trecute.", "Siturile din vecinatate completeaza contextul istoric al loca?iei.", "Activita?ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscuta pentru importan?a sa Ón dezvoltarea culturala locala.", "Vizitarea acestui loc ofera o experien?a autentica a vie?ii cipriote."],
+      ro: ["Aceasta loca?ie joaca un rol vital √Æn conservarea patrimoniului na?ional.", "Elementele structurale eviden?iaza tehnicile de construc?ie din perioadele trecute.", "Siturile din vecinatate completeaza contextul istoric al loca?iei.", "Activita?ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscuta pentru importan?a sa √Æn dezvoltarea culturala locala.", "Vizitarea acestui loc ofera o experien?a autentica a vie?ii cipriote."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -5373,7 +5373,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Situl are o relevan?a istorica majora Ón regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradi?iile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
+      ro: ["Situl are o relevan?a istorica majora √Æn regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradi?iile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -5403,7 +5403,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Situl are o relevan?a istorica majora Ón regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradi?iile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
+      ro: ["Situl are o relevan?a istorica majora √Æn regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradi?iile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },

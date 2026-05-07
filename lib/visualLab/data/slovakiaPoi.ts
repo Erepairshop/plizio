@@ -73,7 +73,7 @@ export const slovakiaCountry: POI = {
       "Az országnak kilenc nemzeti parkja és 14 tájvédelmi körzete van.",
       "Szlovákia a világ legnagyobb egy főre jutó autógyártója.",
       "A Szepesi vár Közép-Európa egyik legnagyobb váregyüttese.",
-      "A szlovák nyelvet gyakran a „szláv nyelvek eszperantójának” nevezik.",
+      "A szlovák nyelvet gyakran a \"szláv nyelvek eszperantójának\" nevezik.",
       "A Magas-Tátra Nemzeti Park az ország legrégebbi védett területe.",
       "Szlovákiában található a világon a legtöbb fatemplom egy négyzetkilométerre vetítve.",
       "Csicsmány (Čičmany) falu híres fehér díszítésű hagyományos házairól."
@@ -85,7 +85,7 @@ export const slovakiaCountry: POI = {
       "Țara are nouă parcuri naționale și 14 zone peisajere protejate.",
       "Slovacia este cel mai mare producător de automobile pe cap de locuitor din lume.",
       "Cetatea Spiš este unul dintre cele mai mari ansambluri de castele din Europa Centrală.",
-      "Limba slovacă este adesea numită „esperanto a limbilor slave”.",
+      "Limba slovacă este adesea numită \"esperanto a limbilor slave\".",
       "Parcul Național Tatra Înaltă este cea mai veche zonă protejată din țară.",
       "Slovacia deține cel mai mare număr de biserici de lemn pe kilometru pătrat din lume.",
       "Satul Čičmany este faimos pentru casele sale tradiționale cu ornamente albe."

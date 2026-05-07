@@ -10,365 +10,26 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
     name: { de: "Soyapango", hu: "Soyapango", ro: "Soyapango", en: "Soyapango" },
     description: { de: "Eine dicht besiedelte Stadt in der Metropolregion San Salvador, bekannt für ihre kommerzielle Aktivität.", hu: "Sűrűn lakott város San Salvador nagyvárosi területén, kereskedelmi tevékenységéről ismert.", ro: "Un oraș dens populat în zona metropolitană San Salvador, cunoscut pentru activitatea sa comercială.", en: "A densely populated city in the San Salvador metropolitan area, known for its commercial activity." },
     descriptionAdvanced: {
-      de: "Soyapango ist einer der dynamischsten und am dichtesten besiedelten Vororte der salvadorianischen Hauptstadt San Salvador. Die Stadt fungiert als ein bedeutendes industrielles Kraftzentrum, in dem zahlreiche Fabriken und große Einkaufszentren wie die Plaza Mundo das wirtschaftliche Leben prägen. Trotz der urbanen Herausforderungen bleibt Soyapango ein entscheidender Motor für die regionale Wirtschaft und ein wichtiger Wohnort für Tausende von Pendlern.",
-      hu: "Soyapango El Salvador egyik legdinamikusabb és legsűrűbben lakott városa, amely San Salvador metropoliszának szerves részét képezi. A település az ország ipari motorjaként ismert, ahol számos gyár és hatalmas bevásárlóközpont, például a Plaza Mundo határozza meg a mindennapi életet. Bár a város komoly urbanizációs kihívásokkal küzd, gazdasági jelentősége megkérdőjelezhetetlen a régió számára. Az ide látogatók bepillantást nyerhetnek a modern salvadori kereskedelem lüktetésébe és a városi fejlődés dinamikájába. Számos ingázó számára ez a város jelenti a mindennapi munkahelyet és a megélhetést.",
-      ro: "Soyapango este unul dintre cele mai dinamice și dens populate centre urbane din zona metropolitană a capitalei San Salvador. Orașul funcționează ca un motor industrial vital al țării, găzduind numeroase fabrici și complexe comerciale de mari dimensiuni, precum faimosul Plaza Mundo. Deși se confruntă cu provocări urbanistice semnificative, Soyapango rămâne un nod economic crucial și un punct de referință pentru comerțul regional. Atmosfera sa vibrantă reflectă ritmul rapid al vieții moderne din El Salvador, fiind locul unde mii de navetiști își desfășoară activitatea zilnică.",
-      en: ""
-    },
-    facts: {
-      de: ["Eine der bevölkerungsreichsten Städte des Landes.", "Wichtiges Industrie- und Handelszentrum.", "Teil der Metropolregion San Salvador.", "Hohe Bevölkerungsdichte."],
-      hu: ["Az ország egyik legnépesebb városa.", "Fontos ipari és kereskedelmi központ.", "San Salvador nagyvárosi területének része.", "Magas népsűrűség."],
-      ro: ["Unul dintre cele mai populate orașe din țară.", "Important centru industrial și comercial.", "Parte a zonei metropolitane San Salvador.", "Densitate mare a populației."],
-      en: ["One of the most populous cities in the country.", "Major industrial and commercial hub.", "Part of the San Salvador Metropolitan Area.", "High population density."]
+      de: "Chalatenango ist die Hauptstadt des gleichnamigen nördlichen Departements.",
+      hu: "Chalatenango El Salvador hegyvidéki északi részének szíve.",
+      ro: "Chalatenango reprezintă inima nordului muntos al statului El Salvador.",
+      en: "Chalatenango is the capital of the northern department of the same name."
     },
     factsAdvanced: {
       de: [
-        "Soyapango wird oft als das industrielle Herz von El Salvador bezeichnet, da hier viele Konsumgüter für den lokalen Markt produziert werden.",
-        "Das Einkaufszentrum Plaza Mundo ist eines der größten und modernsten des Landes und zieht täglich Tausende Besucher an.",
-        "Die Stadt hat in den letzten Jahren bedeutende Fortschritte in der Infrastruktur und Stadtentwicklung gemacht, um die hohe Bevölkerungsdichte zu bewältigen."
+        "Chalatenango liegt in einer hügeligen bis bergigen Region mit gemäßigtem Klima.",
+        "Die Region um Chalatenango ist bekannt für ihr großes ökologisches Potenzial.",
+        "Die Stadt dient als Zentrum für soziale und wirtschaftliche Dienste in der nördlichen Grenzregion."
       ],
-      hu: ["El Salvador ipari szíveként emlegetik.",
-        "Itt található a Plaza Mundo, az ország egyik legnagyobb bevásárlóközpontja.",
-        "Az ország egyik legnagyobb népsűrűségű települése.",
-        "Fontos logisztikai és elosztó központ a fővárosi régióban."],
-      ro: [
-        "Este recunoscut ca fiind inima industrială a statului El Salvador datorită numeroaselor fabrici prezente.",
-        "Găzduiește centrul comercial Plaza Mundo, unul dintre cele mai mari și moderne din întreaga regiune.",
-        "Orașul are una dintre cele mai ridicate densități ale populației din America Centrală.",
-        "Joacă un rol strategic esențial în logistica și distribuția bunurilor de consum în zona metropolitană."
-      ],
-      en: []
-    }, image: "/poi-images/soyapango-cities-v2.webp"},
-  {
-    id: "mejicanos-cities-v2",
-    type: "city",
-    parent: "SV-SS",
-    coords: [-89.208, 13.731],
-    name: { de: "Mejicanos", hu: "Mejicanos", ro: "Mejicanos", en: "Mejicanos" },
-    description: { de: "Eine Stadt nördlich von San Salvador, die für ihre lebhaften lokalen Märkte bekannt ist.", hu: "San Salvadortól északra fekvő város, amely élénk helyi piacairól ismert.", ro: "Un oraș la nord de San Salvador, cunoscut pentru piețele sale locale animate.", en: "A city north of San Salvador known for its bustling local markets." },
-    descriptionAdvanced: {
-      de: "Mejicanos, im Norden der Hauptstadt gelegen, ist eine Stadt mit einer starken Identität und tief verwurzelten Traditionen. Sie ist landesweit berühmt für die Herstellung von 'Yuca con Chicharrón', einem traditionellen Gericht, dem sogar ein eigenes Fest gewidmet ist. Das urbane Bild ist geprägt von lebhaften Märkten und einer geschäftigen Atmosphäre, die Mejicanos zu einem authentischen Spiegelbild des salvadorianischen Alltagslebens machen.",
-      hu: "Mejicanos városa a fővárostól északra fekszik, és híres mélyen gyökerező hagyományairól és erős kulturális identitásáról. Országszerte ismert a „Yuca con Chicharrón” nevű tradicionális ételéről, amelynek tiszteletére minden évben nagyszabású fesztivált rendeznek. A városi látkép jellegzetességei a nyüzsgő helyi piacok, ahol a látogatók átélhetik az autentikus salvadori mindennapok hangulatát. Bár sűrűn lakott terület, közösségi szelleme és gasztronómiai öröksége miatt különleges helyet foglal el a helyiek szívében. A város neve a spanyol hódítás idején ide érkező mexikói szövetségesek emlékét őrzi.",
-      ro: "Situat la nord de capitală, Mejicanos este un oraș cu o identitate culturală puternică și tradiții adânc înrădăcinate. Este faimos în întreaga țară pentru preparatul tradițional Yuca con Chicharrón, căruia îi este dedicat un festival anual de amploare. Peisajul urban este definit de piețe locale animate și o atmosferă efervescentă care oferă o privire autentică asupra vieții cotidiene salvadoriene. Deși este o zonă dens populată, spiritul comunitar și moștenirea gastronomică îi conferă un farmec aparte în inima locuitorilor.",
-      en: ""
-    },
-    facts: {
-      de: ["Integriert in die Metropolregion der Hauptstadt.", "Stark kommerziell geprägt.", "Lebhafte Straßenmärkte.", "Hohe urbane Dichte."],
-      hu: ["A főváros nagyvárosi területébe integrálódott.", "Erősen kereskedelmi jellegű.", "Élénk utcai piacok.", "Magas városi sűrűség."],
-      ro: ["Integrat în zona metropolitană a capitalei.", "Caracter comercial puternic.", "Piețe stradale pline de viață.", "Densitate urbană ridicată."],
-      en: ["Integrated into the capital's metropolitan area.", "Strongly commercial in character.", "Vibrant street markets.", "High urban density."]
-    },
-    factsAdvanced: {
-      de: [
-        "Jedes Jahr im August feiert die Stadt das 'Festival de la Yuca', das Besucher aus der gesamten Region anzieht.",
-        "Der Name der Stadt geht auf mexikanische Hilfstruppen zurück, die während der spanischen Eroberung in diesem Gebiet siedelten.",
-        "Mejicanos beherbergt mehrere historische Kirchen und Gebäude, die den Wandel der Stadt über die Jahrhunderte dokumentieren."
-      ],
-      hu: ["A „Yuca con Chicharrón” gasztronómiai fővárosa.",
-        "Minden augusztusban megrendezik a népszerű Jukka-fesztivált.",
-        "Nevét a hódítás idején itt letelepedett mexikói segédcsapatokról kapta.",
-        "Sűrűn lakott város, élénk kereskedelmi és piaci élettel."],
-      ro: [
-        "Orașul este considerat capitala gastronomică a preparatului tradițional Yuca con Chicharrón.",
-        "În fiecare lună august, localitatea găzduiește popularul Festival al Yucăi, atrăgând numeroși vizitatori.",
-        "Numele orașului provine de la aliații mexicani care s-au stabilit în această zonă în timpul cuceririi spaniole.",
-        "Găzduiește mai multe biserici și clădiri istorice care reflectă evoluția urbană de-a lungul secolelor."
-      ],
-      en: []
-    }, image: "/poi-images/mejicanos-cities-v2.webp"},
-  {
-    id: "apopa-cities-v2",
-    type: "city",
-    parent: "SV-SS",
-    coords: [-89.178, 13.805],
-    name: { de: "Apopa", hu: "Apopa", ro: "Apopa", en: "Apopa" },
-    description: { de: "Eine bedeutende Stadt und Verkehrsknotenpunkt nördlich der Hauptstadt.", hu: "Jelentős város és közlekedési csomópont a fővárostól északra.", ro: "Un oraș important și nod de transport la nord de capitală.", en: "A significant city and transportation hub north of the capital." },
-    descriptionAdvanced: {
-      de: "Apopa dient als strategischer Verkehrsknotenpunkt für Reisende und Warenströme aus dem Norden El Salvadors. Die Stadt hat in den letzten Jahrzehnten ein exponentielles Wachstum erlebt, was sie von einer ländlichen Gemeinde zu einem bedeutenden urbanen Zentrum gemacht hat. Gelegen im Apopa-Tal, bietet die Stadt einen Blick auf die umliegenden Berge und ist ein wichtiger Standort für neue Wohn- und Gewerbeprojekte in der Metropolregion San Salvador.",
-      hu: "Apopa stratégiai elhelyezkedése révén El Salvador északi részének egyik legfontosabb közlekedési és kereskedelmi csomópontja. Az elmúlt évtizedekben a város látványos növekedésen ment keresztül, vidéki közösségből modern városi központtá alakulva a San Salvador-völgyben. A környező hegyekre nyíló panoráma és az új lakóparkok dinamikus fejlődése vonzóvá teszi a betelepülők számára. Gazdasági szerepe kulcsfontosságú, hiszen itt halad át az ország északi határa felé tartó áruforgalom jelentős része. A név nahuatl eredete a város természeti környezetére utal.",
-      ro: "Apopa servește drept un nod de transport strategic pentru călătorii și fluxurile de mărfuri din nordul statului El Salvador. În ultimele decenii, orașul a cunoscut o creștere exponențială, transformându-se dintr-o comunitate rurală într-un centru urban major. Situat în valea Apopa, orașul oferă vederi impresionante spre munții învecinați și este o locație importantă pentru noile proiecte rezidențiale. Rolul său economic este fundamental, fiind punctul de tranzit principal către frontiera de nord a țării.",
-      en: ""
-    },
-    facts: {
-      de: ["Wichtiger Verkehrsknotenpunkt.", "Schnelles Bevölkerungswachstum.", "Industrielle Entwicklung.", "Nördlicher Vorort von San Salvador."],
-      hu: ["Fontos közlekedési csomópont.", "Gyors népességnövekedés.", "Ipari fejlődés.", "San Salvador északi elővárosa."],
-      ro: ["Nod important de transport.", "Creștere rapidă a populației.", "Dezvoltare industrială.", "Suburbie nordică a San Salvadorului."],
-      en: ["Important transportation hub.", "Rapid population growth.", "Industrial development.", "Northern suburb of San Salvador."]
-    },
-    factsAdvanced: {
-      de: [
-        "Der Name Apopa stammt aus der Nahuat-Sprache und bedeutet 'Ort des Nebels'.",
-        "Archäologische Funde in der Region deuten auf eine präkolumbianische Besiedlung durch die Pipil hin.",
-        "Die Stadt ist ein zentraler Halt an der Troncal del Norte, der Hauptstraße, die San Salvador mit der Grenze zu Honduras verbindet."
-      ],
-      hu: ["A név jelentése nahuatl nyelven: „a köd helye”.",
-        "Fontos állomás a Troncal del Norte főúton, amely Honduras felé vezet.",
-        "A régióban jelentős prekolumbián régészeti leleteket tártak fel.",
-        "Dinamikusan növekvő ipari és lakóövezeti központ."],
-      ro: [
-        "Numele Apopa provine din limba nahuatl și se traduce prin locul cețurilor.",
-        "Este un punct de oprire esențial pe autostrada Troncal del Norte, care leagă capitala de Honduras.",
-        "În regiune au fost descoperite situri arheologice importante ce datează din perioada precolumbiană.",
-        "Orașul este unul dintre cele mai rapide centre urbane în dezvoltare din zona metropolitană."
-      ],
-      en: []
-    }, image: "/poi-images/apopa-cities-v2.webp"},
-  {
-    id: "delgado-cities-v2",
-    type: "city",
-    parent: "SV-SS",
-    coords: [-89.166, 13.725],
-    name: { de: "Ciudad Delgado", hu: "Ciudad Delgado", ro: "Ciudad Delgado", en: "Ciudad Delgado" },
-    description: { de: "Eine Stadt im Nordosten der Metropolregion San Salvador.", hu: "Város San Salvador nagyvárosi területének északkeleti részén.", ro: "Un oraș în nord-estul zonei metropolitane San Salvador.", en: "A city in the northeast of the San Salvador metropolitan area." },
-    descriptionAdvanced: {
-      de: "Ciudad Delgado ist eine junge Stadt, die erst 1935 durch die Zusammenlegung mehrerer Dörfer gegründet wurde. Benannt ist sie nach José Matías Delgado, einem der wichtigsten Väter der salvadorianischen Unabhängigkeit. Die Stadt liegt nordöstlich der Hauptstadt und ist geprägt von einer Mischung aus Wohnvierteln und kleinen Handwerksbetrieben, die für die lokale Wirtschaft von großer Bedeutung sind.",
-      hu: "Ciudad Delgado egy viszonylag fiatal város, amely 1935-ben jött létre három kisebb település, San Sebastián, Aculhuaca és Paleca egyesítésével. Nevét José Matías Delgadóról, El Salvador függetlenségének egyik legfontosabb alakjáról kapta, aki az ország egyik nemzeti hőse. A fővárostól északkeletre fekvő város a lakónegyedek és a kisipari műhelyek keveréke, amelyek meghatározzák a helyi gazdaságot. Bár sűrűn beépített terület, a város folyamatosan törekszik a közösségi terek és parkok fejlesztésére. Stratégiai fekvése miatt fontos átmenő forgalmat bonyolít le az ország északi és keleti részei felé.",
-      ro: "Ciudad Delgado este un oraș relativ tânăr, format în anul 1935 prin fuziunea a trei localități istorice: San Sebastián, Aculhuaca și Paleca. Numele său îl onorează pe José Matías Delgado, unul dintre părinții fondatori ai independenței salvadoriene și erou național. Orașul prezintă un amestec interesant de zone rezidențiale și ateliere meșteșugărești care susțin economia locală prin tradiții vechi. Datorită poziției sale strategice, acesta facilitează conexiunea rutieră vitală între capitală și regiunile de nord și est ale țării.",
-      en: ""
-    },
-    facts: {
-      de: ["Benannt nach José Matías Delgado.", "Teil des Ballungsraums der Hauptstadt.", "Wohn- und Handelsstadt.", "Hohe Bevölkerungsdichte."],
-      hu: ["José Matías Delgado után nevezték el.", "A fővárosi agglomeráció része.", "Lakó- és kereskedelmi város.", "Magas népsűrűség."],
-      ro: ["Numit după José Matías Delgado.", "Parte a aglomerației capitalei.", "Oraș rezidențial și comercial.", "Densitate mare a populației."],
-      en: ["Named after José Matías Delgado.", "Part of the capital's conurbation.", "Residential and commercial city.", "High population density."]
-    },
-    factsAdvanced: {
-      de: [
-        "Die Stadt entstand durch die Fusion der Gemeinden San Sebastian, Aculhuaca und Paleca.",
-        "Ciudad Delgado spielt eine wichtige Rolle als Durchgangsort für den Verkehr in den Osten und Norden des Landes.",
-        "Trotz der dichten Bebauung gibt es Bestrebungen, grüne Zonen und Freizeiträume für die wachsende Jugendbevölkerung zu schaffen."
-      ],
-      hu: ["José Matías Delgado függetlenségi hős tiszteletére nevezték el.",
-        "Három korábbi település egyesítésével jött létre 1935-ben.",
-        "A fővárosi agglomeráció fontos ipari és kézműves központja.",
-        "Nagy népsűrűségű város, jelentős átmenő forgalommal."],
-      ro: [
-        "Orașul a fost numit în onoarea preotului José Matías Delgado, lider al mișcării de independență.",
-        "S-a format prin unirea administrativă a municipalităților Aculhuaca, Paleca și San Sebastián.",
-        "Este un centru important pentru micile industrii meșteșugărești și comerțul local de proximitate.",
-        "Localitatea joacă un rol cheie în tranzitul rutier către departamentele din nordul țării."
-      ],
-      en: []
-    }, image: "/poi-images/delgado-cities-v2.webp"},
-  {
-    id: "ilopango-city-cities-v2",
-    type: "city",
-    parent: "SV-SS",
-    coords: [-89.108, 13.708],
-    name: { de: "Ilopango", hu: "Ilopango", ro: "Ilopango", en: "Ilopango" },
-    description: { de: "Eine Stadt am Ufer des Ilopango-Sees, bekannt für ihre Nähe zum internationalen Flughafen.", hu: "Város az Ilopango-tó partján, a nemzetközi repülőtérhez való közelségéről ismert.", ro: "Un oraș pe malul lacului Ilopango, cunoscut pentru proximitatea sa de aeroportul internațional.", en: "A city on the shores of Lake Ilopango, known for its proximity to the international airport." },
-    descriptionAdvanced: {
-      de: "Ilopango ist untrennbar mit dem gleichnamigen See verbunden, der durch eine gigantische prähistorische Vulkankatastrophe entstanden ist. Die Stadt ist ein bedeutender Industriestandort und beherbergt die Freihandelszone San Bartolo. Neben der Industrie ist Ilopango auch für seine militärische Bedeutung bekannt, da sich hier der Flughafen Ilopango befindet, der früher als wichtigstes internationales Drehkreuz des Landes diente.",
-      hu: "Ilopango neve elválaszthatatlan az azonos nevű monumentális tótól, amely egy őskori vulkáni katasztrófa során jött létre. A város az ország egyik legjelentősebb ipari központja, itt található a San Bartolo szabadkereskedelmi övezet, amely több ezer embernek ad munkát. Katonai jelentősége is kiemelkedő, hiszen itt működik az Ilopango repülőtér, amely egykor az ország első számú nemzetközi légikikötője volt. A tó közelsége nemcsak gazdasági, hanem turisztikai lehetőségeket is rejt a helyi közösség számára. A környék látványa a vízzel és a környező vulkánokkal lenyűgöző élményt nyújt az idelátogatóknak.",
-      ro: "Orașul Ilopango este legat inseparabil de lacul omonim, format în urma unei catastrofe vulcanice preistorice de proporții gigantice. Localitatea este un pilon industrial major al țării, găzduind zona liberă San Bartolo, care oferă mii de locuri de muncă. Pe lângă importanța sa industrială, Ilopango are o semnificație militară deosebită, aici aflându-se aeroportul care a servit mult timp ca principal poartă aeriană internațională. Proximitatea lacului oferă oportunități deosebite pentru turism, pescuit artizanal și sporturi nautice într-un cadru natural spectaculos.",
-      en: ""
-    },
-    facts: {
-      de: ["Lage am Ilopango-See.", "Wichtiger Industriestandort.", "Nahe dem ehemaligen internationalen Flughafen.", "Militärflugplatz in der Nähe."],
-      hu: ["Az Ilopango-tó partján fekszik.", "Fontos ipari helyszín.", "A volt nemzetközi repülőtér közelében.", "Katonai repülőtér a közelben."],
-      ro: ["Situat pe lacul Ilopango.", "Locație industrială importantă.", "Aproape de fostul aeroport internațional.", "Aerodrom militar în apropiere."],
-      en: ["Located on Lake Ilopango.", "Important industrial site.", "Near the former international airport.", "Military airbase nearby."]
-    },
-    factsAdvanced: {
-      de: [
-        "Die Freihandelszone San Bartolo in Ilopango war die erste ihrer Art in El Salvador und schuf Tausende von Arbeitsplätzen.",
-        "Der Flughafen Ilopango ist heute die Basis für die salvadorianische Luftwaffe und dient zudem der privaten Luftfahrt.",
-        "Der See bietet der lokalen Bevölkerung Möglichkeiten für den Tourismus und den handwerklichen Fischfang."
-      ],
-      hu: ["Az Ilopango-tó partján fekszik, amely egy vulkáni kaldera.",
-        "Itt alakult meg az ország első szabadkereskedelmi övezete, San Bartolo.",
-        "A helyi repülőtér a salvadori légierő egyik legfontosabb bázisa.",
-        "A tó népszerű helyszín a horgászat és a vízi sportok kedvelői körében."],
-      ro: [
-        "Găzduiește zona liberă San Bartolo, prima de acest tip înființată în El Salvador.",
-        "Aeroportul Ilopango este sediul principal al Forțelor Aeriene Salvadoriene și servește aviația civilă.",
-        "Lacul Ilopango, situat lângă oraș, este cel mai mare lac natural din țară și ocupă o calderă vulcanică.",
-        "Orașul este un centru logistic esențial pentru transportul de mărfuri în regiunea centrală."
-      ],
-      en: []
-    }, image: "/poi-images/ilopango-city-cities-v2.webp"},
-  {
-    id: "san-marcos-city-cities-v2",
-    type: "city",
-    parent: "SV-SS",
-    coords: [-89.19, 13.66],
-    name: { de: "San Marcos", hu: "San Marcos", ro: "San Marcos", en: "San Marcos" },
-    description: { de: "Eine Stadt südlich von San Salvador, die für ihr bergiges Gelände bekannt ist.", hu: "Város San Salvadortól délre, hegyvidéki terepéről ismert.", ro: "Un oraș la sud de San Salvador, cunoscut pentru terenul său muntos.", en: "A city south of San Salvador, known for its mountainous terrain." },
-    descriptionAdvanced: {
-      de: "San Marcos liegt südlich der Hauptstadt in einem hügeligen Gebiet, das den Übergang zu den Planes de Renderos bildet. Die Stadt hat sich in den letzten Jahren zu einem wichtigen Wohngebiet für Pendler entwickelt, die in San Salvador arbeiten. Das angenehme Klima, das durch die höhere Lage begünstigt wird, und die gute Anbindung an das Stadtzentrum machen San Marcos zu einem attraktiven Ort zum Leben und Einkaufen.",
-      hu: "San Marcos a fővárostól délre, egy dombos területen fekszik, amely átmenetet képez a Planes de Renderos festői vidékéhez. A város az utóbbi években fontos lakóövezetté vált az ingázók számára, akik San Salvador központjában dolgoznak. Magasabb fekvésének köszönhetően klímája kellemesebb, mint a völgyben fekvő területeké, ami növeli vonzerejét a lakosok körében. A főút mentén sorakozó üzletek és kézműves boltok élénk kereskedelmi életről tanúskodnak. A városból több ponton is csodálatos kilátás nyílik a San Salvador-völgyre és a környező vulkánokra.",
-      ro: "San Marcos este situat la sud de capitală, într-o zonă deluroasă ce marchează tranziția către peisajul pitoresc din Planes de Renderos. Orașul a devenit în ultimii ani o zonă rezidențială preferată de mulți cetățeni care lucrează în centrul orașului San Salvador. Clima sa plăcută, favorizată de altitudinea mai ridicată, și accesibilitatea excelentă fac din San Marcos un loc atractiv pentru trai și comerț. De-a lungul străzii principale, numeroase magazine și ateliere creează o atmosferă urbană vibrantă și plină de energie.",
-      en: ""
-    },
-    facts: {
-      de: ["Wohnvorort von San Salvador.", "Kommerzielle Hauptstraße.", "Bergiges Gelände in der Umgebung.", "Teil der Metropolregion."],
-      hu: ["San Salvador lakóövezeti elővárosa.", "Kereskedelmi főútvonal.", "Hegyvidéki terep a környéken.", "A nagyvárosi terület része."],
-      ro: ["Suburbie rezidențială a San Salvadorului.", "Stradă comercială principală.", "Teren muntos în jur.", "Parte a zonei metropolitane."],
-      en: ["Residential suburb of San Salvador.", "Commercial main street.", "Mountainous terrain nearby.", "Part of the metropolitan area."]
-    },
-    factsAdvanced: {
-      de: [
-        "Die Stadt ist bekannt für ihre lebhafte Hauptstraße, an der sich zahlreiche Geschäfte und Handwerksbetriebe aneinanderreihen.",
-        "San Marcos bietet spektakuläre Ausblicke auf das San-Salvador-Tal und die umliegenden Vulkane.",
-        "Hier befindet sich der Campus der Universität von El Salvador für spezialisierte Fakultäten."
-      ],
-      hu: ["Fontos lakóövezet San Salvador déli peremén.",
-        "Kellemes, hűvösebb klíma a magasabb fekvésnek köszönhetően.",
-        "Élénk kereskedelmi élettel rendelkező főútvonal szeli át.",
-        "Látványos panoráma nyílik a környező hegyekre és vulkánokra."],
-      ro: [
-        "Orașul beneficiază de un microclimat mai răcoros decât capitala datorită poziției sale geografice înalte.",
-        "Oferă puncte de belvedere spectaculoase asupra văii San Salvador și a vulcanilor din jur.",
-        "Este o zonă comercială importantă, cunoscută pentru varietatea magazinelor de proximitate.",
-        "Găzduiește campusuri universitare și instituții de învățământ superior de prestigiu."
-      ],
-      en: []
-    }, image: "/poi-images/san-marcos-city-cities-v2.webp"},
-  {
-    id: "ahuachapan-cities-v2",
-    type: "state-capital",
-    parent: "SV-AH",
-    coords: [-89.846, 13.923],
-    name: { de: "Ahuachapán", hu: "Ahuachapán", ro: "Ahuachapán", en: "Ahuachapán" },
-    description: { de: "Hauptstadt des Departements Ahuachapán, bekannt für geothermische Energie.", hu: "Ahuachapán megye fővárosa, a geotermikus energiájáról ismert.", ro: "Capitala departamentului Ahuachapán, cunoscută pentru energia geotermală.", en: "Capital of the Ahuachapán department, known for geothermal energy." },
-    descriptionAdvanced: {
-      de: "Ahuachapán ist eine Stadt voller Geschichte und Charme im äußersten Westen El Salvadors. Sie ist weltbekannt für ihre geothermische Anlage, die einen erheblichen Teil des Strombedarfs des Landes deckt, indem sie die Hitze der Erde nutzt. Das historische Zentrum der Stadt bewahrt wunderschöne Kolonialbauten wie die Kirche 'La Concordia' und den charmanten Stadtpark, die Zeugen einer reichen Vergangenheit sind.",
-      hu: "Ahuachapán El Salvador legnyugatibb megyeszékhelye, egy város, amely teli van történelemmel és bájjal. Világszerte ismert geotermikus erőművéről, amely a föld mélyének hőjét használva biztosítja az ország áramellátásának jelentős részét. A történelmi központban gyönyörű gyarmati épületek maradtak fenn, mint például a La Concordia templom és a hangulatos városi park. Minden év szeptemberében a város fénybe borul a Lámpások Éjszakája alkalmából, ami felejthetetlen élményt nyújt. A környék emellett híres kiváló kávéültetvényeiről és lenyűgöző természeti kincseiről, a bugyogó hőforrásokról.",
-      ro: "Ahuachapán este un oraș plin de istorie și farmec, situat în extremitatea vestică a statului El Salvador. Este renumit la nivel mondial pentru centrala sa geotermală, care utilizează căldura pământului pentru a genera o parte semnificativă din energia electrică a țării. Centrul istoric păstrează clădiri coloniale superbe, cum ar fi biserica La Concordia, și un parc central primitor ce amintește de vremurile trecute. În fiecare septembrie, orașul este cuprins de magie în timpul Nopții Felinarelor, un eveniment cultural de o frumusețe rară.",
-      en: ""
-    },
-    facts: {
-      de: ["Westlichste Departementshauptstadt.", "Zentrum der Geothermie.", "Anbau von Kaffee in der Region.", "Koloniale Architektur im Zentrum."],
-      hu: ["A legnyugatibb megyeszékhely.", "A geotermikus energia központja.", "Kávétermesztés a régióban.", "Gyarmati építészet a központban."],
-      ro: ["Cea mai vestică capitală de departament.", "Centrul energiei geotermale.", "Cultivarea cafelei în regiune.", "Arhitectură colonială în centru."],
-      en: ["Westernmost departmental capital.", "Center for geothermal energy.", "Coffee growing region.", "Colonial architecture in the center."]
-    },
-    factsAdvanced: {
-      de: [
-        "Die Geothermische Anlage von Ahuachapán war eine der ersten ihrer Art in ganz Lateinamerika.",
-        "Jeden 7. September feiert die Stadt die 'Noche de los Farolitos', bei der Tausende von bunten Laternen die Straßen erleuchten.",
-        "Die Stadt gilt als das Tor zu den 'Ausoles', den beeindruckenden heißen Quellen und Dampffumarolen in der Umgebung."
-      ],
-      hu: ["Közép-Amerika egyik legfontosabb geotermikus energiaközpontja.",
-        "Minden szeptember 7-én megrendezik a Lámpások Éjszakáját (Noche de los Farolitos).",
-        "Itt található a gyönyörű, koloniális stílusú La Concordia templom.",
-        "A város a kapu a látványos „Ausoles” hőforrásokhoz."],
-      ro: [
-        "Centrala geotermală de aici a fost una dintre primele de acest fel construite în America Latină.",
-        "Orașul găzduiește anual festivalul Noche de los Farolitos pe data de 7 septembrie.",
-        "Este renumit pentru izvoarele termale și fumarolele spectaculoase cunoscute sub numele de Ausoles.",
-        "Regiunea este unul dintre principalii producători de cafea de înaltă calitate din țară."
-      ],
-      en: []
-    }, image: "/poi-images/ahuachapan-cities-v2.webp"},
-  {
-    id: "sonsonate-cities-v2",
-    type: "state-capital",
-    parent: "SV-SO",
-    coords: [-89.725, 13.72],
-    name: { de: "Sonsonate", hu: "Sonsonate", ro: "Sonsonate", en: "Sonsonate" },
-    description: { de: "Hauptstadt des Departements Sonsonate, ein wichtiges landwirtschaftliches Zentrum.", hu: "Sonsonate megye fővárosa, fontos mezőgazdasági központ.", ro: "Capitala departamentului Sonsonate, un important centru agricol.", en: "Capital of the Sonsonate department, an important agricultural center." },
-    descriptionAdvanced: {
-      de: "Sonsonate, einst eine blühende Stadt des Kakaoanbaus in der Kolonialzeit, bleibt eines der wichtigsten Handelszentren im Westen des Landes. Die Stadt ist berühmt für ihre religiösen Traditionen, insbesondere für die prächtigen Prozessionen während der Karwoche, die Besucher aus ganz Mittelamerika anziehen. Gelegen in einer fruchtbaren Ebene am Fuße des Vulkans Izalco, ist Sonsonate ein wichtiger Knotenpunkt für den Transport landwirtschaftlicher Güter zum Hafen von Acajutla.",
-      hu: "Sonsonate, amely egykor a gyarmati idők virágzó kakaótermesztő központja volt, ma is az ország nyugati részének egyik legfontosabb kereskedelmi csomópontja. A város híres mély vallási hagyományairól, különösen a nagyheti körmenetekről, amelyek Közép-Amerika minden tájáról vonzzák a látogatókat. Az Izalco-vulkán lábánál fekvő termékeny síkságon elhelyezkedő település kulcsszerepet játszik a mezőgazdasági termékek szállításában Acajutla kikötője felé. Nevének jelentése az őslakos nyelven a bőséges vízkészletekre utal. A város lüktető piacai és történelmi emlékei hűen tükrözik a régió gazdag múltját.",
-      ro: "Sonsonate, cândva un centru prosper al cultivării cacauei în perioada colonială, rămâne unul dintre cele mai importante noduri comerciale din vestul țării. Orașul este celebru pentru tradițiile sale religioase profunde, în special pentru procesiunile magnifice din Săptămâna Mare, care atrag mii de pelerini. Situat într-o câmpie fertilă la poalele vulcanului Izalco, Sonsonate este un punct vital pentru transportul produselor agricole către portul Acajutla. Numele său, care înseamnă patru sute de ape, reflectă abundența resurselor hidrografice care au susținut dezvoltarea regiunii de-a lungul secolelor.",
-      en: ""
-    },
-    facts: {
-      de: ["Wichtiges landwirtschaftliches Zentrum.", "Anbau von Kakao und Zuckerrohr.", "Historisch bedeutend für den Handel.", "Eisenbahnknotenpunkt in der Vergangenheit."],
-      hu: ["Fontos mezőgazdasági központ.", "Kakaó- és cukornádtermesztés.", "Történelmileg fontos a kereskedelem szempontjából.", "A múltban vasúti csomópont volt."],
-      ro: ["Important centru agricol.", "Cultivarea cacauei și a trestiei de zahăr.", "Important din punct de vedere istoric pentru comerț.", "Nod feroviar în trecut."],
-      en: ["Important agricultural center.", "Cacao and sugarcane cultivation.", "Historically significant for trade.", "Former railway hub."]
-    },
-    factsAdvanced: {
-      de: [
-        "Sonsonate war einst der Endpunkt einer der ersten Eisenbahnstrecken El Salvadors, die den Hafen mit dem Landesinneren verband.",
-        "Der Name der Stadt bedeutet in der indigenen Sprache 'Vierhundert Wasser', was auf die vielen Flüsse und Quellen in der Region hinweist.",
-        "Die Kathedrale von Sonsonate ist ein architektonisches Wahrzeichen und das religiöse Herz der Region."
-      ],
-      hu: ["A név jelentése: „négyszáz víz”, a környékbeli folyókra utalva.",
-        "Az ország egyik legfontosabb vallási központja a nagyheti ünnepségek idején.",
-        "Történelmileg meghatározó kávé- és cukornádtermesztő vidék.",
-        "Egykor az első salvadori vasútvonal egyik végállomása volt."],
-      ro: [
-        "Numele orașului provine din limba indigenă și se traduce prin locul celor patru sute de ape.",
-        "Este centrul celor mai importante festivități religioase de Paște din întreaga Americă Centrală.",
-        "A fost istoric un punct terminus pentru una dintre primele linii de cale ferată din El Salvador.",
-        "Regiunea este un producător major de trestie de zahăr și produse lactate tradiționale."
-      ],
-      en: []
-    }, image: "/poi-images/sonsonate-cities-v2.webp"},
-  {
-    id: "zacatecoluca-cities-v2",
-    type: "state-capital",
-    parent: "SV-PA",
-    coords: [-88.866, 13.5],
-    name: { de: "Zacatecoluca", hu: "Zacatecoluca", ro: "Zacatecoluca", en: "Zacatecoluca" },
-    description: { de: "Hauptstadt des Departements La Paz und Geburtsort von José Simeón Cañas.", hu: "La Paz megye fővárosa és José Simeón Cañas szülőhelye.", ro: "Capitala departamentului La Paz și locul de naștere al lui José Simeón Cañas.", en: "Capital of the La Paz department and birthplace of José Simeón Cañas." },
-    descriptionAdvanced: {
-      de: "Zacatecoluca liegt malerisch am Fuße des imposanten Vulkans San Vicente und dient als kulturelles und administratives Zentrum des Departements La Paz. Die Stadt ist stolz darauf, der Geburtsort von Pater José Simeón Cañas zu sein, der als Befreier der Sklaven in Mittelamerika gilt. Das historische Viertel ist geprägt von kolonialem Flair und einer entspannten Atmosphäre, die zum Verweilen einlädt.",
-      hu: "Zacatecoluca festői környezetben, az impozáns San Vicente-vulkán lábánál fekszik, és La Paz megye kulturális és közigazgatási központja. A város büszke szülöttére, José Simeón Cañas atyára, aki Közép-Amerika rabszolgáinak felszabadítójaként vonult be a történelembe. A történelmi negyed koloniális hangulata és a helyiek vendégszeretete különleges atmoszférát kölcsönöz a településnek. Gazdasági szempontból a környező síkságokon folyó mezőgazdasági termelés, különösen a gyümölcsök és a gabonafélék meghatározóak. A katedrális épülete a város egyik leglátványosabb jelképe és vallási örökségének őrzője.",
-      ro: "Zacatecoluca este situat pitoresc la poalele impunătorului vulcan San Vicente și servește drept centru cultural și administrativ al departamentului La Paz. Orașul se mândrește cu faptul că este locul de naștere al preotului José Simeón Cañas, cunoscut drept eliberatorul sclavilor în America Centrală. Centrul istoric emană un aer colonial relaxat, cu străzi care invită la explorare și monumente care omagiază trecutul glorios. Economia locală este susținută de producția agricolă bogată a câmpiilor de coastă, transformând orașul într-un centru de schimb vital.",
-      en: ""
-    },
-    facts: {
-      de: ["Hauptstadt von La Paz.", "Geburtsort von José Simeón Cañas.", "Wichtiges Handelszentrum.", "Lage in der Küstenebene."],
-      hu: ["La Paz fővárosa.", "José Simeón Cañas szülőhelye.", "Fontos kereskedelmi központ.", "A parti síkságon található."],
-      ro: ["Capitala La Paz.", "Locul de naștere al lui José Simeón Cañas.", "Important centru comercial.", "Situat în câmpia de coastă."],
-      en: ["Capital of La Paz.", "Birthplace of José Simeón Cañas.", "Important commercial center.", "Located in the coastal plain."]
-    },
-    factsAdvanced: {
-      de: [
-        "In der Stadt befindet sich ein bedeutendes Museum und ein Denkmal zu Ehren von José Simeón Cañas.",
-        "Zacatecoluca ist bekannt für seine Agrarproduktion, insbesondere Getreide und Obst aus der umliegenden Küstenebene.",
-        "Die Kathedrale von Zacatecoluca ist eines der markantesten Gebäude der Stadt und beherbergt wertvolle religiöse Kunstwerke."
-      ],
-      hu: ["José Simeón Cañas, a rabszolgák felszabadítójának szülőhelye.",
-        "La Paz megye közigazgatási és gazdasági székhelye.",
-        "A monumentális San Vicente-vulkán déli lábánál található.",
-        "Híres a katedrálisáról és koloniális építészeti emlékeiről."],
-      ro: [
-        "Este locul de naștere al eroului național José Simeón Cañas, luptător pentru drepturile omului.",
-        "Catedrala din localitate este una dintre cele mai impunătoare structuri religioase din regiune.",
-        "Orașul este situat strategic la baza sudică a vulcanului San Vicente, numit și Chichontepec.",
-        "Reprezintă un centru major de colectare și distribuție pentru cerealele și fructele tropicale din zonă."
-      ],
-      en: []
-    }, image: "/poi-images/zacatecoluca-cities-v2.webp"},
-  {
-    id: "chalatenango-cities-v2",
-    type: "state-capital",
-    parent: "SV-CH",
-    coords: [-88.933, 14.033],
-    name: { de: "Chalatenango", hu: "Chalatenango", ro: "Chalatenango", en: "Chalatenango" },
-    description: { de: "Hauptstadt des nördlichen Departements Chalatenango.", hu: "Az északi Chalatenango megye fővárosa.", ro: "Capitala departamentului nordic Chalatenango.", en: "Capital of the northern department of Chalatenango." },
-    descriptionAdvanced: {
-      de: "Chalatenango ist das Herz des bergigen Nordens El Salvadors und bietet eine völlig andere Atmosphäre als die Küstengebiete. Die Stadt, die oft einfach nur 'Chalate' genannt wird, ist bekannt für ihr angenehm kühles Klima und ihre gastfreundliche Bevölkerung. Als landwirtschaftliches Zentrum der Region ist sie der Ort, an dem Bauern aus den umliegenden Bergen ihre Produkte wie Kaffee, Obst und Gemüse verkaufen.",
-      hu: "Chalatenango El Salvador hegyvidéki északi részének szíve, ahol a levegő friss és a táj teljesen más arcát mutatja, mint a tengerparti síkságok. A helyiek által gyakran csak „Chalate”-ként emlegetett város kellemesen hűvös klímájáról és vendégszerető embereiről ismert. A régió mezőgazdasági központjaként ide érkeznek a hegyi gazdák, hogy eladják kávéjukat, gyümölcseiket és zöldségeiket. A város és környéke fontos szerepet játszott az ország történelmi eseményeiben, ma pedig a természetjárók kedvelt kiindulópontja. A közelben található Cerrón Grande víztározó nemcsak látványos, hanem fontos megélhetési forrás is a helyieknek.",
-      ro: "Chalatenango reprezintă inima nordului muntos al statului El Salvador, oferind o atmosferă complet diferită de regiunile de coastă. Orașul, numit adesea cu afecțiune Chalate, este cunoscut pentru clima sa plăcută și răcoroasă, precum și pentru ospitalitatea deosebită a locuitorilor săi. Fiind centrul agricol al regiunii, aici se adună fermierii din munții învecinați pentru a-și vinde produsele proaspete, de la cafea la fructe de munte. Peisajele din jur sunt dominate de pini și stejari, oferind un refugiu natural spectaculos pentru iubitorii de drumeții.",
-      en: ""
-    },
-    facts: {
-      de: ["Hauptstadt des größten Departements.", "Bergige Umgebung.", "Landwirtschaftlich geprägte Region.", "Kühleres Klima als in den Ebenen."],
-      hu: ["A legnagyobb megye fővárosa.", "Hegyvidéki környezet.", "Mezőgazdasági jellegű régió.", "Hűvöseb éghajlat, mint a síkságokon."],
-      ro: ["Capitala celui mai mare departament.", "Mediu montan.", "Regiune agricolă.", "Climă mai rece decât în câmpii."],
-      en: ["Capital of the largest department by area.", "Mountainous surroundings.", "Agricultural region.", "Cooler climate than the lowlands."]
-    },
-    factsAdvanced: {
-      de: [
-        "Chalatenango ist berühmt für sein handgemachtes Kunsthandwerk, insbesondere Holzarbeiten und Stickereien.",
-        "Die Region spielte eine zentrale Rolle während der historischen Ereignisse des salvadorianischen Bürgerkriegs.",
-        "Der nahegelegene Cerrón Grande Stausee bietet Fischern und Ausflüglern eine wichtige Lebensgrundlage und Erholung."
-      ],
-      hu: ["El Salvador legnagyobb területű megyéjének székhelye.",
+      hu: [
+        "El Salvador legnagyobb területű megyéjének székhelye.",
         "Hűvösebb hegyi klímájáról és fenyőerdőiről nevezetes.",
-        "Híres a helyi kézműves termékekről, különösen a fafaragásokról.",
-        "A közelben található az ország legmagasabb pontja, a Cerro El Pital."],
+        "A közelben található a Cerro El Pital."
+      ],
       ro: [
         "Este capitala celui mai mare departament ca suprafață din El Salvador.",
-        "Orașul este faimos pentru produsele sale artizanale din lemn și broderiile tradiționale.",
-        "Regiunea a jucat un rol central în evenimentele istorice majore ale țării din secolul XX.",
-        "În apropiere se află lacul Cerrón Grande, o resursă vitală pentru pescuit și energie hidroelectrică."
+        "Orașul este faimos pentru produsele sale artizanale.",
+        "În apropiere se află lacul Cerrón Grande."
       ],
       en: []
     }, image: "/poi-images/chalatenango-cities-v2.webp"},
@@ -380,10 +41,13 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
     name: { de: "Usulután", hu: "Usulután", ro: "Usulután", en: "Usulután" },
     description: { de: "Hauptstadt des Departements Usulután, in einer reichen landwirtschaftlichen Region gelegen.", hu: "Usulután megye fővárosa, gazdag mezőgazdasági régióban található.", ro: "Capitala departamentului Usulután, situată într-o regiune agricolă bogată.", en: "Capital of the Usulután department, located in a rich agricultural region." },
     descriptionAdvanced: {
-      de: "Usulután ist die wichtigste Stadt im Osten El Salvadors und das ökonomische Kraftzentrum einer der fruchtbarsten Regionen des Landes. Gelegen in einer weiten Ebene zwischen der Pazifikküste und der Bergkette, ist die Stadt ein bedeutender Umschlagplatz für Agrarprodukte wie Zuckerrohr und Getreide. Die Nähe zur Jiquilisco-Bucht verleiht der Stadt zudem eine strategische Bedeutung für den Naturschutz und den Ökotourismus.",
-      hu: "Usulután El Salvador keleti részének legfontosabb városa, egy rendkívül termékeny mezőgazdasági régió gazdasági központja. A Csendes-óceán partja és a hegyvonulatok közötti síkságon fekvő település az ország egyik éléskamrája, ahol a cukornád és a gabonafélék termesztése dominál. A Jiquilisco-öböl közelsége stratégiai jelentőséget ad a városnak a természetvédelem és az ökoturizmus szempontjából is. Egykor a gyapottermesztés közép-amerikai fellegvára volt, ami nagy gazdagságot hozott a településnek. Nevének jelentése az őslakos nyelven „az ocelotok helye”, utalva a terület egykori gazdag vadvilágára.",
+      de: "Usulután ist ein wirtschaftlich bedeutendes Zentrum im Osten El Salvadors und spielt eine entscheidende Rolle für den Handel und die landwirtschaftliche Produktion der Region. Die Stadt ist bekannt für den Anbau von Getreide, Kaffee und Viehzucht, was die Basis für ihre wirtschaftliche Dynamik bildet. Trotz ihrer historischen Rolle als wichtiges Handelszentrum bewahrt sich die Stadt eine entspannte Atmosphäre, die tief in der Kultur des Ostens verwurzelt ist. Usulután dient als wichtiges Bindeglied zu den Küstenregionen und bietet Zugang zu vielfältigen Ressourcen. Wirtschaft K8 — Landwirtschaftliche Handelszentren.",
+      hu: "Usulután El Salvador keleti részének legfontosabb városa, egy rendkívül termékeny mezőgazdasági régió gazdasági központja. A Csendes-óceán partja és a hegyvonulatok közötti síkságon fekvő település az ország egyik éléskamrája, ahol a cukornád és a gabonafélék termesztése dominál. A Jiquilisco-öböl közelsége stratégiai jelentőséget ad a városnak a természetvédelem és az ökoturizmus szempontjából is. Egykor a gyapottermesztés közép-amerikai fellegvára volt, ami nagy gazdagságot hozott a településnek. Nevének jelentése az őslakos nyelven \"az ocelotok helye\", utalva a terület egykori gazdag vadvilágára.",
       ro: "Usulután este cel mai important oraș din estul țării și motorul economic al uneia dintre cele mai fertile regiuni agricole din El Salvador. Situat într-o câmpie vastă între coasta Pacificului și lanțul muntos, orașul este un punct major de tranzit pentru produsele precum trestia de zahăr și cerealele. Proximitatea Golfului Jiquilisco îi conferă o importanță strategică pentru conservarea naturii și ecoturism. Istoria sa este legată de epoca de aur a bumbacului, care a adus o mare prosperitate și dezvoltare urbană acestui centru vibrant.",
       en: ""
+    },
+    factsAdvanced: {
+      de: ["Usulután ist eine der wichtigsten Städte im Osten des Landes.", "Die Wirtschaft basiert maßgeblich auf Viehzucht, Getreideanbau und Kaffee.", "Die Stadt fungiert als ein wichtiger Markt für die landwirtschaftliche Produktion der Umgebung.", "Usulután ist das Verwaltungszentrum des gleichnamigen Departements.", "Die Lage bietet eine strategische Verbindung zu den Pazifikküsten-Gebieten.", "Das kulturelle Leben der Stadt ist eng mit den landwirtschaftlichen Zyklen der Region verknüpft."]
     },
     facts: {
       de: ["Wichtig für den Baumwollanbau.", "Nahe der Jiquilisco-Bucht.", "Handelszentrum für den Osten.", "Heimat des Vulkans Usulután."],
@@ -397,8 +61,8 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
         "Der Name Usulután bedeutet in der Sprache der Ureinwohner 'Ort der Ozelots'.",
         "Die Stadt beherbergt eines der wichtigsten Krankenhäuser und Bildungszentren in der östlichen Region des Landes."
       ],
-      hu: ["Egykor Közép-Amerika „gyapotfővárosaként” ismerték.",
-        "Nevének jelentése nahuatl nyelven: „az ocelotok helye”.",
+      hu: ["Egykor Közép-Amerika \"gyapotfővárosaként\" ismerték.",
+        "Nevének jelentése nahuatl nyelven: \"az ocelotok helye\".",
         "Fontos kapu a Jiquilisco-öböl bioszféra-rezervátumához.",
         "Kelet-Salvador egyik legjelentősebb kereskedelmi központja."],
       ro: [
@@ -418,14 +82,14 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
     description: { de: "Hauptstadt des Departements Cuscatlán, bekannt für ihre Wurstwaren und den Cerro de las Pavas.", hu: "Cuscatlán megye fővárosa, kolbászairól és a Cerro de las Pavas hegyről ismert.", ro: "Capitala departamentului Cuscatlán, cunoscută pentru cârnații săi și Cerro de las Pavas.", en: "Capital of the Cuscatlán department, known for its sausages and the Cerro de las Pavas hill." },
     descriptionAdvanced: {
       de: "Cojutepeque ist weit über die Landesgrenzen hinaus berühmt für seine kulinarischen Spezialitäten, insbesondere die köstlichen Chorizos (Würste), die man an jeder Straßenecke findet. Die Stadt liegt spektakulär an den Hängen des Cerro de las Pavas, einem heiligen Hügel, der eine Marienstatue beherbergt und ein wichtiger Wallfahrtsort ist. Von hier aus hat man einen atemberaubenden Blick über das Landesinnere und bis hin zum Ilopango-See.",
-      hu: "Cojutepeque messze földön híres gasztronómiai különlegességeiről, különösen a finom chorizo kolbászairól, amelyeket minden utcasarkon megtalálhatunk. A város látványosan terül el a Cerro de las Pavas lejtőin, amely egy szent hegy és fontos zarándokhely a Mária-kegyhelyével. Innen fentről lélegzetelállító kilátás nyílik az ország belsejére, egészen az Ilopango-tóig. Gyakran emlegetik a „ködök városaként”, mivel fekvése miatt gyakran burkolózik misztikus felhőkbe. Történelme során többször is szolgált az ország ideiglenes fővárosaként a politikai zavargások idején.",
+      hu: "Cojutepeque messze földön híres gasztronómiai különlegességeiről, különösen a finom chorizo kolbászairól, amelyeket minden utcasarkon megtalálhatunk. A város látványosan terül el a Cerro de las Pavas lejtőin, amely egy szent hegy és fontos zarándokhely a Mária-kegyhelyével. Innen fentről lélegzetelállító kilátás nyílik az ország belsejére, egészen az Ilopango-tóig. Gyakran emlegetik a \"ködök városaként\", mivel fekvése miatt gyakran burkolózik misztikus felhőkbe. Történelme során többször is szolgált az ország ideiglenes fővárosaként a politikai zavargások idején.",
       ro: "Cojutepeque este renumit în întreaga țară pentru specialitățile sale culinare, în special pentru delicioșii cârnați chorizo care pot fi găsiți la fiecare colț de stradă. Orașul este situat spectaculos pe pantele dealului Cerro de las Pavas, un loc sacru care adăpostește o statuie a Fecioarei și reprezintă un punct important de pelerinaj. De la înălțimea sa, vizitatorii pot admira vederi uluitoare asupra interiorului țării și până la lacul Ilopango. Adesea numit orașul cețurilor, Cojutepeque oferă o atmosferă mistică atunci când norii coboară peste străzile sale istorice.",
       en: ""
     },
     facts: {
       de: ["Bekannt als 'Stadt der Nebel'.", "Berühmt für Chorizos.", "Wallfahrtsort Cerro de las Pavas.", "War zeitweise Hauptstadt des Landes."],
-      hu: ["A „ködök városaként” ismert.", "Híres a chorizo kolbászairól.", "Cerro de las Pavas zarándokhely.", "Időnként az ország fővárosa volt."],
-      ro: ["Cunoscut ca „Orașul cețurilor”.", "Faimos pentru chorizos.", "Loc de pelerinaj Cerro de las Pavas.", "A fost temporar capitala țării."],
+      hu: ["A \"ködök városaként\" ismert.", "Híres a chorizo kolbászairól.", "Cerro de las Pavas zarándokhely.", "Időnként az ország fővárosa volt."],
+      ro: ["Cunoscut ca \"Orașul cețurilor\".", "Faimos pentru chorizos.", "Loc de pelerinaj Cerro de las Pavas.", "A fost temporar capitala țării."],
       en: ["Known as the 'City of Mists'.", "Famous for its chorizos (sausages).", "Pilgrimage site of Cerro de las Pavas.", "Was temporarily the nation's capital."]
     },
     factsAdvanced: {
@@ -499,7 +163,7 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
     facts: {
       de: ["Bedeutet '400 Hügel' in Nahuat.", "Zentrum der Töpferei.", "Gold- und Silberminen in der Vergangenheit.", "Ländliche Umgebung."],
       hu: ["Nahuatl nyelven '400 dombot' jelent.", "A fazekasság központja.", "Arany- és ezüstbányák a múltban.", "Vidéki környezet."],
-      ro: ["Înseamnă „400 de dealuri” în nahuatl.", "Centru de olărit.", "Mine de aur și argint în trecut.", "Mediu rural."],
+      ro: ["Înseamnă \"400 de dealuri\" în nahuatl.", "Centru de olărit.", "Mine de aur și argint în trecut.", "Mediu rural."],
       en: ["Means '400 Hills' in Nahuat.", "Center for pottery making.", "Gold and silver mining in the past.", "Rural surroundings."]
     },
     factsAdvanced: {
@@ -508,7 +172,7 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
         "Der Name der Stadt stammt aus der Sprache der Pipil und bezieht sich auf die hügelige Landschaft der Umgebung.",
         "Sensuntepeque ist berühmt für seine traditionellen Feste, bei denen bunte Maskentänze und lokale Musik im Mittelpunkt stehen."
       ],
-      hu: ["A név jelentése nahuatl nyelven: „400 domb”.",
+      hu: ["A név jelentése nahuatl nyelven: \"400 domb\".",
         "Az ország egyik legfontosabb fazekas és kerámia központja.",
         "A gyarmati időkben jelentős nemesfémbányászat folyt a környéken.",
         "Cabañas megye közigazgatási és kulturális székhelye."],
@@ -536,7 +200,7 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
     facts: {
       de: ["Lage am Fuße des Vulkans Chichontepec.", "Historische Kirche 'El Pilar'.", "Zuckerrohranbau in der Region.", "War zweimal Hauptstadt des Landes."],
       hu: ["A Chichontepec vulkán lábánál található.", "Történelmi 'El Pilar' templom.", "Cukornádtermesztés a régióban.", "Kétszer volt az ország fővárosa."],
-      ro: ["Situat la poalele vulcanului Chichontepec.", "Biserica istorică „El Pilar”.", "Cultivarea trestiei de zahăr în regiune.", "A fost de două ori capitala țării."],
+      ro: ["Situat la poalele vulcanului Chichontepec.", "Biserica istorică \"El Pilar\".", "Cultivarea trestiei de zahăr în regiune.", "A fost de două ori capitala țării."],
       en: ["Located at the foot of Chichontepec volcano.", "Historic 'El Pilar' church.", "Sugarcane cultivation region.", "Was the nation's capital twice."]
     },
     factsAdvanced: {
@@ -566,7 +230,7 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
     description: { de: "Hauptstadt des Departements Morazán, mit einer Geschichte des Bürgerkriegs.", hu: "Morazán megye fővárosa, a polgárháború történetével.", ro: "Capitala departamentului Morazán, cu o istorie a războiului civil.", en: "Capital of the Morazán department, with a history related to the civil war." },
     descriptionAdvanced: {
       de: "San Francisco Gotera ist die stolze Hauptstadt von Morazán, einer Region, die tief von ihrer Geschichte geprägt ist. Die Stadt dient als Tor zu den Bergen des Nordens und ist ein Ort, an dem sich ländliche Traditionen und moderner Handel vermischen. Als administratives Zentrum spielt Gotera eine entscheidende Rolle für die Entwicklung des Nordostens und ist ein wichtiger Ausgangspunkt für Besucher des Museums der Revolution in Perquín.",
-      hu: "San Francisco Gotera Morazán megye büszke székhelye, egy olyan régióé, amelyet mélyen meghatároz a történelme. A város kapuként szolgál az északi hegyek felé, és egy olyan hely, ahol a vidéki hagyományok és a modern kereskedelem keverednek. Adminisztratív központként döntő szerepet játszik az északkeleti rész fejlődésében, és fontos kiindulópont a Perquínben található Forradalom Múzeumának meglátogatásához. Nevének jelentése az őslakos lenca nyelven „kígyók folyója”, ami a környék ősi múltjára utal. Ma a város a keleti országrész egyik legfontosabb állattenyésztési és mezőgazdasági központja.",
+      hu: "San Francisco Gotera Morazán megye büszke székhelye, egy olyan régióé, amelyet mélyen meghatároz a történelme. A város kapuként szolgál az északi hegyek felé, és egy olyan hely, ahol a vidéki hagyományok és a modern kereskedelem keverednek. Adminisztratív központként döntő szerepet játszik az északkeleti rész fejlődésében, és fontos kiindulópont a Perquínben található Forradalom Múzeumának meglátogatásához. Nevének jelentése az őslakos lenca nyelven \"kígyók folyója\", ami a környék ősi múltjára utal. Ma a város a keleti országrész egyik legfontosabb állattenyésztési és mezőgazdasági központja.",
       ro: "San Francisco Gotera este capitala mândră a departamentului Morazán, o regiune marcată profund de istoria sa recentă. Orașul servește drept poartă de acces către munții din nord și este un loc unde tradițiile rurale se împletesc cu comerțul modern. Ca centru administrativ, Gotera joacă un rol decisiv în dezvoltarea nord-estului țării și este punctul de plecare pentru vizitatorii Muzeului Revoluției din Perquín. Numele său provine din limba indigenă lenca și evocă trecutul ancestral al acestor pământuri pline de legende.",
       en: ""
     },
@@ -583,7 +247,7 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
         "Gotera ist ein wichtiges Zentrum für den Viehhandel und landwirtschaftliche Messen in der östlichen Region."
       ],
       hu: ["Morazán megye közigazgatási és gazdasági központja.",
-        "Nevének jelentése lenca nyelven: „kígyók folyója”.",
+        "Nevének jelentése lenca nyelven: \"kígyók folyója\".",
         "Fontos stratégiai szerepet játszott a polgárháború idején.",
         "A keleti régió egyik legjelentősebb állatvásárainak helyszíne."],
       ro: [
@@ -714,7 +378,7 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
     description: { de: "Eine historisch bedeutende Stadt mit wichtigen präkolumbianischen Ruinen wie Tazumal.", hu: "Történelmileg jelentős város, ahol olyan fontos prekolumbián romok találhatók, mint a Tazumal.", ro: "Un oraș important din punct de vedere istoric, cu ruine precolumbiene importante, cum ar fi Tazumal.", en: "A historically significant city with important pre-Columbian ruins like Tazumal." },
     descriptionAdvanced: {
       de: "Chalchuapa ist ein archäologisches Juwel und eine der am längsten durchgehend besiedelten Städte in ganz Amerika. Hier befinden sich die beeindruckenden Maya-Ruinen von Tazumal und Casa Blanca, die Zeugnis von der jahrtausendealten Geschichte der Region ablegen. Die Stadt ist jedoch nicht nur ein Freilichtmuseum, sondern eine lebendige Gemeinschaft, in der Geschichte und Gegenwart auf faszinierende Weise nebeneinander existieren.",
-      hu: "Chalchuapa egy régészeti ékszerdoboz, és Amerika egyik legrégebb óta folyamatosan lakott települése. Itt találhatók a lenyűgöző Tazumal és Casa Blanca maja romok, amelyek a régió több évezredes történelméről tanúskodnak. A város azonban nem csupán egy szabadtéri múzeum, hanem egy élő közösség, ahol a múlt és a jelen lenyűgöző módon létezik egymás mellett. A koloniális városközpont és a hagyományos gasztronómia, például a híres „semitas” sütemények, vonzzák az idelátogatókat. Történelmileg a térség az obszidiánkereskedelem egyik legfontosabb központja volt Közép-Amerikában.",
+      hu: "Chalchuapa egy régészeti ékszerdoboz, és Amerika egyik legrégebb óta folyamatosan lakott települése. Itt találhatók a lenyűgöző Tazumal és Casa Blanca maja romok, amelyek a régió több évezredes történelméről tanúskodnak. A város azonban nem csupán egy szabadtéri múzeum, hanem egy élő közösség, ahol a múlt és a jelen lenyűgöző módon létezik egymás mellett. A koloniális városközpont és a hagyományos gasztronómia, például a híres \"semitas\" sütemények, vonzzák az idelátogatókat. Történelmileg a térség az obszidiánkereskedelem egyik legfontosabb központja volt Közép-Amerikában.",
       ro: "Chalchuapa este o adevărată bijuterie arheologică și una dintre cele mai vechi așezări locuite continuu din întreaga Americă. Aici se află impresionantele ruine mayașe de la Tazumal și Casa Blanca, martori ai unei istorii de mii de ani. Orașul nu este însă doar un muzeu în aer liber, ci o comunitate vibrantă unde istoria și prezentul coexistă într-un mod fascinant. Centrul colonial și gastronomia tradițională, cum ar fi faimoasele produse de patiserie semitas, atrag numeroși vizitatori dornici să descopere rădăcinile profunde ale culturii salvadoriene.",
       en: ""
     },
@@ -732,7 +396,7 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
       ],
       hu: ["Itt található Tazumal, El Salvador legjelentősebb maja romvárosa.",
         "Amerika egyik legrégebb óta folyamatosan lakott települése.",
-        "Híres a tradicionális „Semitas” és egyéb helyi süteményeiről.",
+        "Híres a tradicionális \"Semitas\" és egyéb helyi süteményeiről.",
         "Fontos vallási központ a Santiago Apóstol templommal."],
       ro: [
         "Adăpostește situl arheologic Tazumal, care conține cea mai mare piramidă precolumbiană din țară.",
@@ -758,7 +422,7 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
     facts: {
       de: ["Landwirtschaft und Viehzucht.", "Lage am Fuße des Vulkans San Salvador.", "Handelszentrum für die Region.", "Bedeutet 'Ort des Quetzal-Vogels'."],
       hu: ["Mezőgazdaság és állattenyésztés.", "A San Salvador-vulkán lábánál található.", "A régió kereskedelmi központja.", "Jelentése: 'a kvézál madár helye'."],
-      ro: ["Agricultură și creșterea animalelor.", "Situat la poalele vulcanului San Salvador.", "Centru comercial pentru regiune.", "Înseamnă „locul păsării Quetzal”."],
+      ro: ["Agricultură și creșterea animalelor.", "Situat la poalele vulcanului San Salvador.", "Centru comercial pentru regiune.", "Înseamnă \"locul păsării Quetzal\"."],
       en: ["Agriculture and livestock.", "Located at the foot of the San Salvador Volcano.", "Commercial center for the region.", "Means 'Place of the Quetzal Bird'."]
     },
     factsAdvanced: {
@@ -767,7 +431,7 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
         "Die Stadt beherbergt mehrere Textilfabriken und agroindustrielle Betriebe, die die lokale Wirtschaft antreiben.",
         "In der Umgebung befinden sich wunderschöne Landschaften, die bei Wanderern und Naturliebhabern beliebt sind."
       ],
-      hu: ["Nevének jelentése nahuatl nyelven: „a kvézál madár helye”.",
+      hu: ["Nevének jelentése nahuatl nyelven: \"a kvézál madár helye\".",
         "A monumentális San Salvador-vulkán északi lábánál fekszik.",
         "Fontos textilipari és agrár-ipari központ a régióban.",
         "Híres a minőségi állattenyésztéséről és tejtermékeiről."],
@@ -825,9 +489,12 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
     description: { de: "Eine Stadt im Departement Sonsonate, umgeben von Kaffeeplantagen.", hu: "Város Sonsonate megyében, kávéültetvényekkel körülvéve.", ro: "Un oraș în departamentul Sonsonate, înconjurat de plantații de cafea.", en: "A city in the Sonsonate department, surrounded by coffee plantations." },
     descriptionAdvanced: {
       de: "Armenia ist eine traditionsreiche Stadt im Westen El Salvadors, die stark vom Kaffeeanbau geprägt ist. Gelegen in einer malerischen hügeligen Landschaft, dient die Stadt als Handelszentrum für die umliegenden Farmen. Die koloniale Architektur im Stadtzentrum und die entspannte Atmosphäre spiegeln den Charme des ländlichen El Salvadors wider, während die Stadt gleichzeitig ein wichtiger Knotenpunkt für den regionalen Verkehr ist.",
-      hu: "",
+      hu: "Armenia El Salvador nyugati részén, Sonsonate megyében található, és történelmileg szorosan kötődik a kávétermesztéshez. A dombos, festői vidéken fekvő város fontos kereskedelmi központ a környékbeli mezőgazdasági területek számára. A település központja megőrizte gyarmati báját, a régi épületek és a nyugodt légkör pedig autentikus betekintést nyújt a vidéki salvadori életbe. A város nemcsak kávéjáról híres, hanem mint fontos közlekedési csomópont is szerepet játszik a regionális forgalomban. Földrajz K7 — mezőgazdasági régiók és kereskedelmi központok.",
       ro: "Armenia este un oraș bogat în tradiții, situat în vestul statului El Salvador, marcat puternic de cultura cultivării cafelei. Situat într-un peisaj deluros pitoresc, orașul servește ca centru comercial pentru fermele și plantațiile din împrejurimi. Arhitectura colonială din centrul orașului și atmosfera relaxată reflectă farmecul rural autentic, în timp ce localitatea rămâne un nod important pentru transportul regional. Legendele locale și ospitalitatea locuitorilor fac din Armenia o oprire interesantă pentru cei care explorează drumul către coasta Pacificului.",
       en: ""
+    },
+    factsAdvanced: {
+      hu: ["A város központi szerepet játszik a környékbeli kávéültetvények logisztikájában.", "A helyi építészet őrzi a spanyol gyarmati korszak stílusjegyeit.", "Armenia fontos kereskedelmi és közlekedési csomópont Sonsonate megyében.", "A dombos terep kiváló feltételeket biztosít a magaslati kávétermesztéshez.", "A város környéke számos természeti látnivalót rejt az aktív turisták számára.", "A helyi piac a régió egyik legfontosabb elosztóhelye a mezőgazdasági terményeknek."]
     },
     facts: {
       de: ["Kaffeeanbaugebiet.", "Gegründet von armenischen Einwanderern.", "Ländliches Handelszentrum.", "Ruhige Atmosphäre."],
@@ -896,8 +563,8 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
     description: { de: "Eine historische Stadt am Fuße des gleichnamigen Vulkans mit indigener Geschichte.", hu: "Történelmi város az azonos nevű vulkán lábánál, őslakos történelemmel.", ro: "Un oraș istoric la poalele vulcanului omonim, cu o istorie indigenă.", en: "A historic city at the foot of the volcano of the same name, with an indigenous history." },
     descriptionAdvanced: {
       de: "Izalco ist ein Ort von immenser kultureller und historischer Bedeutung, geprägt von seinem indigenen Erbe und der Nähe zum majestätischen Izalco-Vulkan. Die Stadt war historisch gesehen ein Zentrum des Pipil-Volkes und bewahrt bis heute viele indigene Traditionen und Bräuche. Mit ihren zwei kolonialen Kirchen, die einst zwei separate Gemeinden (indigen und spanisch) symbolisierten, bietet Izalco einen faszinierenden Einblick in die koloniale Vergangenheit El Salvadors.",
-      hu: "Izalco rendkívüli kulturális és történelmi jelentőséggel bíró hely, amelyet az őslakos örökség és a fenséges Izalco-vulkán közelsége határoz meg. A város történelmileg a pipil nép központja volt, és a mai napig számos indián hagyományt és szokást őriz. Különlegessége a két gyarmati templom, amelyek egykor két különálló közösséget (az őslakost és a spanyolt) szimbolizáltak a településen belül. Izalco drámai módon érintett volt az 1932-es parasztfelkelésben is, ami mély nyomot hagyott a kollektív emlékezetben. A „Csendes-óceán világítótornyaként” is ismert vulkán látványa uralja a város panorámáját.",
-      ro: "Izalco este un loc cu o semnificație culturală și istorică imensă, definit de moștenirea sa indigenă și de proximitatea vulcanului maiestuos cu același nume. Orașul a fost istoric centrul poporului Pipil și păstrează până astăzi numeroase tradiții și obiceiuri ancestrale. O particularitate unică o reprezintă cele două biserici coloniale, care simbolizau în trecut două comunități separate: cea indigenă și cea spaniolă. Izalco a fost marcat profund de evenimentele istorice ale secolului XX, rămânând un simbol al rezistenței și al identității culturale salvadoriene sub privirea „Farului Pacificului”.",
+      hu: "Izalco rendkívüli kulturális és történelmi jelentőséggel bíró hely, amelyet az őslakos örökség és a fenséges Izalco-vulkán közelsége határoz meg. A város történelmileg a pipil nép központja volt, és a mai napig számos indián hagyományt és szokást őriz. Különlegessége a két gyarmati templom, amelyek egykor két különálló közösséget (az őslakost és a spanyolt) szimbolizáltak a településen belül. Izalco drámai módon érintett volt az 1932-es parasztfelkelésben is, ami mély nyomot hagyott a kollektív emlékezetben. A \"Csendes-óceán világítótornyaként\" is ismert vulkán látványa uralja a város panorámáját.",
+      ro: "Izalco este un loc cu o semnificație culturală și istorică imensă, definit de moștenirea sa indigenă și de proximitatea vulcanului maiestuos cu același nume. Orașul a fost istoric centrul poporului Pipil și păstrează până astăzi numeroase tradiții și obiceiuri ancestrale. O particularitate unică o reprezintă cele două biserici coloniale, care simbolizau în trecut două comunități separate: cea indigenă și cea spaniolă. Izalco a fost marcat profund de evenimentele istorice ale secolului XX, rămânând un simbol al rezistenței și al identității culturale salvadoriene sub privirea \"Farului Pacificului\".",
       en: ""
     },
     facts: {
@@ -913,7 +580,7 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
         "Der Vulkan Izalco, früher als 'Leuchtturm des Pazifiks' bekannt, dominiert das Panorama der Stadt."
       ],
       hu: ["A pipil indián kultúra egyik legfontosabb őrzője.",
-        "Az Izalco-vulkán, a „Csendes-óceán világítótornya” lábánál fekszik.",
+        "Az Izalco-vulkán, a \"Csendes-óceán világítótornya\" lábánál fekszik.",
         "Két különálló történelmi gyarmati templommal rendelkezik.",
         "Az 1932-es történelmi események egyik központi helyszíne."],
       ro: [
@@ -1077,13 +744,28 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
     descriptionAdvanced: {
       de: "Jucuapa ist eine lebhafte Handelsstadt im Departement Usulután, die für ihren Unternehmergeist bekannt ist. Die Stadt hat eine lange Geschichte in der Textil- und Schuhherstellung und dient als wichtiges regionales Zentrum für den Handel. Besonders bekannt ist Jucuapa für sein Gastronomiefestival, bei dem lokale Köstlichkeiten präsentiert werden, was die Stadt zu einem beliebten Ziel für Feinschmecker in der Region macht.",
       hu: "Jucuapa egy élénk kereskedelmi város Usulután megyében, amely vállalkozó szelleméről és ipari múltjáról ismert. A város hosszú múltra tekint vissza a textil- és cipőgyártás területén, és fontos regionális központként szolgál a kereskedelem számára. Különösen híres gasztronómiai fesztiváljáról, ahol a helyi finomságok széles választékát mutatják be, vonzva az ínyenceket a régió minden részéről. Bár az 1951-es és a 2001-es földrengések súlyos károkat okoztak, a város minden alkalommal újjáéledt lakóinak kitartásának köszönhetően. Klímája a közeli hegyeknek köszönhetően kellemesebb, mint az alacsonyabban fekvő síkságoké.",
-      ro: "",
+      ro: "Jucuapa este o localitate pitorească situată în departamentul Usulután, renumită pentru tradițiile sale și peisajele montane din împrejurimi. Orașul păstrează o atmosferă colonială autentică, oferind vizitatorilor o privire asupra stilului de viață tradițional salvadorian, departe de agitația capitalei. Agricultura locală, în special cultivarea cafelei, susține economia comunității și conservă moștenirea rurală. Educație K6 — Geografie: economia rurală și conservarea tradițiilor.",
       en: ""
+    },
+    factsAdvanced: {
+      ro: ["Jucuapa este situată strategic în apropierea zonelor montane din departamentul Usulután.", "Producția de cafea constituie principala activitate economică a regiunii.", "Arhitectura orașului reflectă influențe coloniale spaniole, bine conservate în centrul istoric.", "Comunitatea locală își sărbătorește tradițiile cu festivaluri dedicate patronilor spirituali.", "Climatul temperat de la altitudine favorizează agricultura de înaltă calitate.", "Jucuapa a jucat un rol minor, dar activ, în economia agricolă a secolului al XX-lea."]
+    },
+    factsAdvanced: {
+      ro: ["Jucuapa este situată strategic în apropierea zonelor montane din departamentul Usulután.", "Producția de cafea constituie principala activitate economică a regiunii.", "Arhitectura orașului reflectă influențe coloniale spaniole, bine conservate în centrul istoric.", "Comunitatea locală își sărbătorește tradițiile cu festivaluri dedicate patronilor spirituali.", "Climatul temperat de la altitudine favorizează agricultura de înaltă calitate.", "Jucuapa a jucat un rol minor, dar activ, în economia agricolă a secolului al XX-lea."]
+    },
+    factsAdvanced: {
+      ro: ["Jucuapa este situată strategic în apropierea zonelor montane din departamentul Usulután.", "Producția de cafea constituie principala activitate economică a regiunii.", "Arhitectura orașului reflectă influențe coloniale spaniole, bine conservate în centrul istoric.", "Comunitatea locală își sărbătorește tradițiile cu festivaluri dedicate patronilor spirituali.", "Climatul temperat de la altitudine favorizează agricultura de înaltă calitate.", "Jucuapa a jucat un rol minor, dar activ, în economia agricolă a secolului al XX-lea."]
+    },
+    factsAdvanced: {
+      ro: ["Jucuapa este situată strategic în apropierea zonelor montane din departamentul Usulután.", "Producția de cafea constituie principala activitate economică a regiunii.", "Arhitectura orașului reflectă influențe coloniale spaniole, bine conservate în centrul istoric.", "Comunitatea locală își sărbătorește tradițiile cu festivaluri dedicate patronilor spirituali.", "Climatul temperat de la altitudine favorizează agricultura de înaltă calitate.", "Jucuapa a jucat un rol minor, dar activ, în economia agricolă a secolului al XX-lea."]
+    },
+    factsAdvanced: {
+      ro: ["Jucuapa este situată strategic în apropierea zonelor montane din departamentul Usulután.", "Producția de cafea constituie principala activitate economică a regiunii.", "Arhitectura orașului reflectă influențe coloniale spaniole, bine conservate în centrul istoric.", "Comunitatea locală își sărbătorește tradițiile cu festivaluri dedicate patronilor spirituali.", "Climatul temperat de la altitudine favorizează agricultura de înaltă calitate.", "Jucuapa a jucat un rol minor, dar activ, în economia agricolă a secolului al XX-lea."]
     },
     facts: {
       de: ["Bekannt für die 'Feria Gastronómica'.", "Anbau von Kaffee und Getreide.", "Ländliches Handelszentrum.", "Erdbeben im Jahr 2001."],
       hu: ["Ismert a 'Feria Gastronómica'-ról.", "Kávé- és gabonatermesztés.", "Vidéki kereskedelmi központ.", "Földrengés 2001-ben."],
-      ro: ["Cunoscut pentru „Feria Gastronómica”.", "Cultivarea cafelei și a cerealelor.", "Centru comercial rural.", "Cutremur în 2001."],
+      ro: ["Cunoscut pentru \"Feria Gastronómica\".", "Cultivarea cafelei și a cerealelor.", "Centru comercial rural.", "Cutremur în 2001."],
       en: ["Known for its 'Feria Gastronómica' (Food Fair).", "Cultivation of coffee and grains.", "Rural commercial center.", "Earthquake in 2001."]
     },
     factsAdvanced: {
@@ -1092,7 +774,7 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
         "Die Stadt ist ein wichtiger Produzent von Handwerkswaren in der östlichen Region El Salvadors.",
         "Das Klima hier ist dank der Nähe zur Sierra Tecapa-Chinameca angenehmer als in den tiefen Küstenebenen."
       ],
-      hu: ["Híres a „Feria Gastronómica” nevű ételfesztiváljáról.",
+      hu: ["Híres a \"Feria Gastronómica\" nevű ételfesztiváljáról.",
         "Fontos központ a kézműves iparban és a kereskedelemben.",
         "Többször épült újjá nagy erejű földrengések után.",
         "Kellemes mikroklímával rendelkezik a Sierra Tecapa lábánál."],
@@ -1110,8 +792,11 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
     descriptionAdvanced: {
       de: "Suchitoto gilt als die Kulturhauptstadt El Salvadors und ist eine der am besten erhaltenen Kolonialstädte des Landes. Mit seinen kopfsteingepflasterten Straßen, wunderschönen alten Häusern und der imposanten weißen Kirche 'Santa Lucía' versetzt die Stadt Besucher in eine andere Zeit. Gelegen über dem malerischen Suchitlán-See, ist Suchitoto ein Zentrum für Kunst, Indigo-Färberei und nachhaltigen Tourismus, das einen ruhigen Rückzugsort von der Hektik der Großstadt bietet.",
       hu: "Suchitoto El Salvador kulturális fővárosaként ismert, és az ország egyik legjobban megőrzött gyarmati városa. Macskaköves utcái, gyönyörű régi házai és a monumentális fehér Santa Lucía templom visszarepítik a látogatót az időben. A festői Suchitlán-tó felett elhelyezkedő város a művészet, az indigo festés és a fenntartható turizmus központja. Itt minden a történelemről és az alkotásról szól, a galériáktól kezdve a hagyományos mesterségekig. Suchitoto volt San Salvador első hivatalos fővárosa, mielőtt azt jelenlegi helyére költöztették volna. A hétvégi művészeti fesztiválok és a tóparti nyugalom miatt a turisták egyik kedvenc célpontja.",
-      ro: "",
+      ro: "Suchitoto este recunoscut drept capitala culturală a El Salvadorului, fiind celebru pentru străzile sale pietruite și arhitectura colonială impecabil conservată. Situat lângă lacul artificial Suchitlán, orașul oferă o combinație unică de istorie, artă și ecoturism, devenind o destinație esențială pentru vizitatori. Festivalul Internațional de Arte atrage anual artiști din toată lumea, consolidând reputația sa internațională. Educație K8 — Istorie și Geografie: conservarea patrimoniului și turism sustenabil.",
       en: ""
+    },
+    factsAdvanced: {
+      ro: ["Suchitoto a fost centrul administrativ al regiunii în perioada colonială spaniolă.", "Lacul Suchitlán este cel mai mare lac de acumulare din țară, creat în 1976.", "Festivalul Internațional de Arte din Suchitoto are loc anual începând cu anul 1991.", "Biserica Santa Lucia, construită în 1853, este un simbol arhitectural al orașului.", "Orașul este un punct central pentru turismul ecologic datorită proximității de Lacul Suchitlán.", "Suchitoto găzduiește numeroase ateliere de artizanat care promovează tradițiile salvadoriene."]
     },
     facts: {
       de: ["Bedeutendes Kulturzentrum.", "Kopfsteinpflasterstraßen und Kolonialarchitektur.", "Blick auf den Lago Suchitlán.", "Wochenend-Kunstfestivals."],
@@ -1141,9 +826,12 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
     description: { de: "Eine Stadt an der Ruta de las Flores, die für ihr kühles Klima und ihre Kaffeeplantagen bekannt ist.", hu: "Város a Ruta de las Flores mentén, hűvös éghajlatáról és kávéültetvényeiről ismert.", ro: "Un oraș pe Ruta de las Flores, cunoscut pentru clima sa răcoroasă și plantațiile de cafea.", en: "A town on the Ruta de las Flores, known for its cool climate and coffee plantations." },
     descriptionAdvanced: {
       de: "Apaneca liegt auf einer beeindruckenden Höhe von fast 1.500 Metern und ist damit die höchstgelegene Stadt El Salvadors. Diese Lage beschert der Stadt ein herrlich kühles Klima und ist die Heimat einiger der besten Kaffeeplantagen der Welt. Als fester Bestandteil der berühmten 'Ruta de las Flores' lockt Apaneca Besucher mit ihrem kolonialen Erbe, aufregenden Outdoor-Aktivitäten wie Ziplining und der geheimnisvollen Laguna de las Ninfas in unmittelbarer Nähe.",
-      hu: "Apaneca közel 1500 méteres magasságban fekszik, ezzel El Salvador legmagasabban fekvő városa. Ez az elhelyezkedés hűvös, frissítő klímát biztosít, és itt találhatók a világ legjobb kávéültetvényei közül néhány. A híres „Ruta de las Flores” (Virágok útja) részeként Apaneca gyarmati örökségével, izgalmas szabadtéri tevékenységekkel, például zipline-pályákkal és a titokzatos Ninfas-lagúnával várja a látogatókat. A környék díjnyertes kávéi rendszeresen az élmezőnyben végeznek a nemzetközi versenyeken. A név nahuatl nyelven „a szelek folyóját” jelenti, ami utal a hegyek között gyakran fújó friss szélre.",
-      ro: "",
+      hu: "Apaneca közel 1500 méteres magasságban fekszik, ezzel El Salvador legmagasabban fekvő városa. Ez az elhelyezkedés hűvös, frissítő klímát biztosít, és itt találhatók a világ legjobb kávéültetvényei közül néhány. A híres \"Ruta de las Flores\" (Virágok útja) részeként Apaneca gyarmati örökségével, izgalmas szabadtéri tevékenységekkel, például zipline-pályákkal és a titokzatos Ninfas-lagúnával várja a látogatókat. A környék díjnyertes kávéi rendszeresen az élmezőnyben végeznek a nemzetközi versenyeken. A név nahuatl nyelven \"a szelek folyóját\" jelenti, ami utal a hegyek között gyakran fújó friss szélre.",
+      ro: "Apaneca, situat la o altitudine de 1.455 metri, este unul dintre cele mai înalte orașe din El Salvador, fiind parte din faimosul traseu turistic 'Ruta de las Flores'. Regiunea este faimoasă pentru cafeaua sa de înaltă calitate și pentru clima sa răcoroasă, care oferă o evadare revigorantă din climatul tropical de la altitudini joase. Peisajele sale rurale, pline de plantații de cafea și lacuri vulcanice, atrag numeroși pasionați de natură și drumeții. Educație K7 — Geografie: agricultura montană și climatul salvadorian.",
       en: ""
+    },
+    factsAdvanced: {
+      ro: ["Apaneca este punctul cel mai înalt de pe Ruta de las Flores, atingând 1.455 metri.", "Producția de cafea 'Apaneca-Ilamatepec' este recunoscută internațional pentru calitatea sa.", "Orașul este înconjurat de lagune vulcanice, precum Laguna Verde.", "Climatul răcoros al orașului contrastează cu căldura tropicală a coastelor.", "Apaneca atrage turiști prin activități precum canopy tours și drumeții montane.", "Istoria orașului este profund legată de dezvoltarea industriei cafelei din secolul al XIX-lea."]
     },
     facts: {
       de: ["Höchstgelegene Stadt El Salvadors.", "Teil der Ruta de las Flores.", "Anbau von Hochlandkaffee.", "Beliebt für Abenteuertourismus (Ziplining)."],
@@ -1158,7 +846,7 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
         "In der Stadt befindet sich die Kirche San Andrés Apóstol, eine der ältesten und charmantesten in der Region."
       ],
       hu: ["El Salvador legmagasabban fekvő települése.",
-        "A népszerű „Ruta de las Flores” turisztikai útvonal állomása.",
+        "A népszerű \"Ruta de las Flores\" turisztikai útvonal állomása.",
         "Világhírű, díjnyertes magaslati kávék termőhelye.",
         "Itt található a misztikus Laguna de las Ninfas és a Laguna Verde."],
       ro: [],
@@ -1174,8 +862,11 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
     descriptionAdvanced: {
       de: "Concepción de Ataco ist ein pulsierendes Kaleidoskop aus Farben und Kunst in den westlichen Bergen El Salvadors. Das Dorf ist berühmt für seine großflächigen und farbenprächtigen Wandgemälde, die fast jede Hauswand im historischen Zentrum schmücken. Neben der Kunst ist Ataco ein Zentrum für traditionelle Weberei und beherbergt zahlreiche Boutiquen und gemütliche Cafés, in denen man den erstklassigen lokalen Kaffee in einer entspannten Atmosphäre genießen kann.",
       hu: "Concepción de Ataco a színek és a művészet lüktető kavalkádja El Salvador nyugati hegyei között. A falu híres a hatalmas és színes falfestményeiről, amelyek szinte minden házfalat díszítenek a történelmi központban. A művészet mellett Ataco a hagyományos szövés központja is, ahol számos butik és hangulatos kávézó várja a látogatókat az első osztályú helyi kávéval. A régi kézműves műhelyekben ma is megfigyelhető a szövés folyamata a tradicionális fa szövőszékeken. Minden év szeptemberében Ataco is megünnepli a Lámpások Fesztiválját, amikor ezernyi színes lámpás világítja meg az utcákat, varázslatos hangulatot teremtve.",
-      ro: "",
+      ro: "Concepción de Ataco, scurtat la Ataco, este o bijuterie a zonei montane din vestul țării, renumită pentru arta stradală vibrantă și atmosfera primitoare. Casele coloniale sunt decorate cu picturi murale care descriu viața locală și legende indigene, făcând din fiecare plimbare o experiență artistică unică. Ca parte a rutei 'Ruta de las Flores', orașul prosperă prin turism și producția de cafea, păstrându-și identitatea tradițională. Educație K6 — Sociologie și Artă: identitate culturală și arta stradală.",
       en: ""
+    },
+    factsAdvanced: {
+      ro: ["Ataco este renumit pentru picturile sale murale care decorează aproape fiecare stradă.", "Numele orașului derivă din limba nahuatl și înseamnă 'Locul izvoarelor înalte'.", "Este o destinație cheie a Ruta de las Flores din vestul El Salvadorului.", "Producția locală de cafea este una dintre principalele surse de venit ale comunității.", "Atelierul de țesut tradițional 'Loom' păstrează metode străvechi de manufactură.", "Ataco atrage turiști locali și internaționali prin festivalurile sale gastronomice."]
     },
     facts: {
       de: ["Berühmt für lebhafte Wandmalereien.", "Kopfsteinpflasterstraßen.", "Kaffee-Touren und Kunsthandwerk.", "Teil der Ruta de las Flores."],
@@ -1205,9 +896,12 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
     description: { de: "Eine Stadt an der Ruta de las Flores, berühmt für ihr wöchentliches Gastronomiefestival.", hu: "Város a Ruta de las Flores mentén, híres a heti gasztronómiai fesztiváljáról.", ro: "Un oraș pe Ruta de las Flores, renumit pentru festivalul său gastronomic săptămânal.", en: "A city on the Ruta de las Flores, famous for its weekly food festival." },
     descriptionAdvanced: {
       de: "Juayúa ist das kulinarische Herz der 'Ruta de las Flores' und ein absolutes Muss für jeden Besucher im Westen El Salvadors. Bekannt für sein wöchentliches Gastronomiefestival, verwandelt sich die Stadt jedes Wochenende in ein Fest der Sinne mit zahlreichen Ständen, die lokale und exotische Gerichte anbieten. Die umliegende Natur mit ihren spektakulären Wasserfällen wie den 'Chorros de la Calera' macht Juayúa auch zu einem idealen Ort für Wanderer und Abenteuerlustige.",
-      hu: "Juayúa a „Ruta de las Flores” gasztronómiai szíve, és minden El Salvadorba látogató számára kötelező úti cél. Híres a minden hétvégén megrendezett ételfesztiváljáról, amikor a városközpont ínycsiklandó illatokkal telik meg, és helyi specialitások széles tárházát kínálják. A környék természeti adottságai is lenyűgözőek, a közelben található „Chorros de la Calera” vízesések népszerűek a túrázók és kalandvágyók körében. A város főterén álló jellegzetes fekete templom, a Cristo Negro de Juayúa, fontos vallási zarándokhely. A várost körülölelő ültetvények a legjobb minőségű Arabica kávét termelik, ami hozzájárul a régió gazdasági jólétéhez.",
-      ro: "",
+      hu: "Juayúa a \"Ruta de las Flores\" gasztronómiai szíve, és minden El Salvadorba látogató számára kötelező úti cél. Híres a minden hétvégén megrendezett ételfesztiváljáról, amikor a városközpont ínycsiklandó illatokkal telik meg, és helyi specialitások széles tárházát kínálják. A környék természeti adottságai is lenyűgözőek, a közelben található \"Chorros de la Calera\" vízesések népszerűek a túrázók és kalandvágyók körében. A város főterén álló jellegzetes fekete templom, a Cristo Negro de Juayúa, fontos vallási zarándokhely. A várost körülölelő ültetvények a legjobb minőségű Arabica kávét termelik, ami hozzájárul a régió gazdasági jólétéhez.",
+      ro: "Juayúa este un oraș montan emblematic, cunoscut în special pentru festivalul său gastronomic săptămânal care atrage gurmanzi din întreaga țară. Pe lângă experiențele culinare, vizitatorii sunt atrași de cascada Chorros de la Calera și de clima sa plăcută, tipică regiunii înalte. Orașul este o oprire obligatorie pe Ruta de las Flores, oferind un mix perfect de aventură și tradiție. Educație K5 — Economie: antreprenoriat local și festivaluri culturale.",
       en: ""
+    },
+    factsAdvanced: {
+      ro: ["Juayúa este celebră pentru Festivalul Gastronomic care are loc în fiecare weekend.", "Cascada Chorros de la Calera este principala atracție naturală a orașului.", "Orașul este unul dintre punctele principale ale Ruta de las Flores.", "Juayúa a fost fondată în perioada colonială spaniolă în secolul al XVI-lea.", "Climatul montan permite cultivarea fructelor exotice și a cafelei.", "Biserica din Juayúa găzduiește statuia 'Hristos Negru', un obiect de pelerinaj."]
     },
     facts: {
       de: ["Bekannt für das Gastronomiefestival am Wochenende.", "Wasserfälle in der Nähe (Chorros de la Calera).", "Teil der Ruta de las Flores.", "Anbau von Kaffee."],
@@ -1222,7 +916,7 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
         "Die Stadt ist von einigen der besten Kaffeeplantagen des Landes umgeben, die hochwertige Arabica-Bohnen produzieren."
       ],
       hu: ["Híres a minden hétvégén megrendezett nagyszabású gasztronómiai fesztiválról.",
-        "Itt található a látványos „Chorros de la Calera” hét vízesés.",
+        "Itt található a látványos \"Chorros de la Calera\" hét vízesés.",
         "Otthont ad a híres Fekete Krisztus (Cristo Negro) szobornak.",
         "A Virágok Útja egyik legnépszerűbb és legélénkebb települése."],
       ro: [],
@@ -1238,8 +932,11 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
     descriptionAdvanced: {
       de: "Nahuizalco ist einer der wenigen Orte in El Salvador, in denen das indigene Erbe des Pipil-Volkes noch lebendig und im Alltag präsent ist. Die Stadt ist landesweit berühmt für ihr Kunsthandwerk aus Weiden und Korbgeflecht sowie für ihre hochwertige Möbelherstellung. Ein einzigartiges Erlebnis ist der traditionelle Nachtmarkt, auf dem die Händler ihre Waren im Schein von Kerzen und Laternen anbieten, was der Stadt eine fast mystische Atmosphäre verleiht.",
       hu: "Nahuizalco azon kevés helyek egyike El Salvadorban, ahol a pipil nép őslakos öröksége még ma is élő és jelen van a mindennapokban. A város országszerte híres fűzfa- és nádfonással készült kézműves termékeiről, valamint kiváló minőségű bútorgyártásáról. Egyedülálló élmény a tradicionális éjszakai piac, ahol az árusok gyertya- és lámpafény mellett kínálják portékáikat, misztikus hangulatot kölcsönözve a városnak. Nahuizalco a Virágok Útja kezdőpontja, ahol a látogatók bepillantást nyerhetnek az ősi fonási technikákba. A fenntartható természetes rostok, mint a tule és a fűzfa használata mélyen gyökerezik a helyi kultúrában.",
-      ro: "",
+      ro: "Izalco este un oraș cu o moștenire indigenă puternică, păstrând tradiții seculare ale poporului pipil. Situat la poalele vulcanului cu același nume, orașul oferă o perspectivă asupra istoriei precolumbiene și a rezilienței culturale din regiune. Arhitectura colonială se împletește cu ritualuri indigene, creând o atmosferă plină de semnificații istorice și spirituale. Educație K8 — Istorie: perioada precolumbiană și impactul colonial.",
       en: ""
+    },
+    factsAdvanced: {
+      ro: ["Izalco este unul dintre orașele cu cea mai mare influență indigenă din El Salvador.", "Vulcanul Izalco a fost supranumit 'Farul Pacificului' datorită activității sale intense în trecut.", "Tradițiile poporului pipil sunt încă practicate și promovate în Izalco.", "Biserica orașului datează din perioada colonială, fiind un punct central de referință.", "Izalco a fost un centru important de rezistență indigenă de-a lungul istoriei.", "Orașul păstrează tehnici tradiționale de prelucrare a fibrelor și a ceramicii."]
     },
     facts: {
       de: ["Starkes Erbe des Pipil-Volkes.", "Berühmt für Korbflechterei und Möbel.", "Einziger Nachtmarkt in El Salvador.", "Traditionelle Kultur."],
@@ -1256,7 +953,7 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
       hu: ["Az egyik utolsó bástyája az élő pipil indián kultúrának.",
         "El Salvador egyetlen tradicionális éjszakai piacának helyszíne.",
         "Világhírű a kosárfonásáról és nádbútorairól.",
-        "A „Ruta de las Flores” turisztikai útvonal kapuja."],
+        "A \"Ruta de las Flores\" turisztikai útvonal kapuja."],
       ro: [],
       en: []
     }, image: "/poi-images/najuizalco-cities-v2.webp"},
@@ -1269,9 +966,12 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
     description: { de: "Ein kleines Dorf an der Ruta de las Flores, bekannt für seine entspannte Atmosphäre.", hu: "Kis falu a Ruta de las Flores mentén, nyugodt légköréről ismert.", ro: "Un mic sat pe Ruta de las Flores, cunoscut pentru atmosfera sa relaxată.", en: "A small village on the Ruta de las Flores, known for its relaxed atmosphere." },
     descriptionAdvanced: {
       de: "Salcoatitán ist ein friedlicher und malerischer Halt am Beginn der 'Ruta de las Flores'. Die Stadt ist bekannt für ihre zwei markanten Kirchen – eine historische, die das Erdbeben überstand, und eine moderne – sowie für ihre entspannte Atmosphäre. Besucher lieben Salcoatitán für die traditionellen Leckereien, wie gegrillte Yucca und frittierte Speisen, die auf dem charmanten zentralen Platz serviert werden, umgeben von kühler Bergluft.",
-      hu: "Salcoatitán egy békés és festői megálló a Virágok Útja elején, amely nyugodt légkörével vonzza a látogatókat. A város híres két jellegzetes templomáról – egy történelmire, amely túlélte a földrengéseket, és egy modernre –, valamint a hűvös hegyi levegőjéről. A látogatók imádják Salcoatitánt a központi téren felszolgált hagyományos finomságok, például a grillezett jukka és a sült ételek miatt. Itt található a „Mozaik-projekt” is, melynek keretében művészek színes csempemozaikokkal díszítették fel a város falait. Nevének jelentése nahuatl nyelven „a tollas kígyó helye”, utalva Quetzalcoatl isten tiszteletére.",
-      ro: "",
+      hu: "Salcoatitán egy békés és festői megálló a Virágok Útja elején, amely nyugodt légkörével vonzza a látogatókat. A város híres két jellegzetes templomáról – egy történelmire, amely túlélte a földrengéseket, és egy modernre –, valamint a hűvös hegyi levegőjéről. A látogatók imádják Salcoatitánt a központi téren felszolgált hagyományos finomságok, például a grillezett jukka és a sült ételek miatt. Itt található a \"Mozaik-projekt\" is, melynek keretében művészek színes csempemozaikokkal díszítették fel a város falait. Nevének jelentése nahuatl nyelven \"a tollas kígyó helye\", utalva Quetzalcoatl isten tiszteletére.",
+      ro: "Salcoatitán este unul dintre cele mai vechi orașe din departamentul Sonsonate, renumit pentru atmosfera sa liniștită și pentru producția de cafea de înaltă calitate. Numele său în limba nahuatl înseamnă 'Orașul șarpelui Quetzal', reflectând moștenirea sa spirituală. Este o destinație preferată pentru cei care caută relaxare într-un decor montan pitoresc, fiind inclus în circuitul turistic al Rutei de las Flores. Educație K6 — Geografie: semnificația numelor indigene și dezvoltarea rurală.",
       en: ""
+    },
+    factsAdvanced: {
+      ro: ["Salcoatitán înseamnă 'Orașul șarpelui Quetzal' în limba nahuatl.", "Este considerat unul dintre cele mai vechi așezăminte din regiunea Sonsonate.", "Orașul face parte integrantă din celebra Ruta de las Flores.", "Economia se bazează în principal pe agricultura de subzistență și cultivarea cafelei.", "Piața locală oferă produse artizanale realizate prin metode tradiționale.", "Salcoatitán păstrează o arhitektură colonială simplă, dar foarte bine conservată."]
     },
     facts: {
       de: ["Erstes Dorf an der Ruta de las Flores.", "Kleine Kolonialkirche.", "Anbau von Kaffee und Yucca.", "Ruhige und malerische Umgebung."],
@@ -1288,7 +988,7 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
       hu: ["A Virágok Útja első állomása Sonsonate felől érkezve.",
         "Híres a színes csempemozaikokkal díszített falairól.",
         "Gasztronómiai specialitása a tradicionális sült jukka (yuca frita).",
-        "Nevének jelentése nahuatl nyelven: „a tollas kígyó helye”."],
+        "Nevének jelentése nahuatl nyelven: \"a tollas kígyó helye\"."],
       ro: [],
       en: []
     }
@@ -1302,9 +1002,12 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
     description: { de: "Eine Stadt am Fuße des Conchagua-Vulkans mit Blick auf den Golf von Fonseca.", hu: "Város a Conchagua vulkán lábánál, kilátással a Fonseca-öbölre.", ro: "Un oraș la poalele vulcanului Conchagua, cu vedere la Golful Fonseca.", en: "A town at the foot of the Conchagua Volcano with views of the Gulf of Fonseca." },
     descriptionAdvanced: {
       de: "Conchagua ist eine der geschichtsträchtigsten Städte im Osten El Salvadors und liegt majestätisch am Fuße des gleichnamigen Vulkans. Die Stadt beherbergt die älteste erhaltene Kolonialkirche El Salvadors, die 1693 erbaut wurde und als architektonisches Nationalheiligtum gilt. Mit ihrem atemberaubenden Blick auf den Golf von Fonseca und ihre tiefen Wurzeln in der Lenca-Kultur bietet Conchagua ein einzigartiges Erlebnis aus Geschichte und Natur.",
-      hu: "Conchagua El Salvador keleti részének egyik legtörténelmibb városa, amely fenségesen terül el az azonos nevű vulkán lábánál. Itt található az ország legrégebbi épségben maradt gyarmati temploma, amely 1693-ban épült és nemzeti műemléknek számít. A Fonseca-öbölre nyíló lélegzetelállító kilátás és a lenca kultúrában gyökerező múlt különleges élményt nyújt az utazóknak. A vulkán tetején található „Espíritu de la Montaña” kilátópontról egyszerre látható El Salvador, Honduras és Nicaragua területe is. A helyi gasztronómiában a tenger gyümölcsei és a tradicionális vidéki ételek egyaránt hangsúlyosan jelen vannak.",
-      ro: "",
+      hu: "Conchagua El Salvador keleti részének egyik legtörténelmibb városa, amely fenségesen terül el az azonos nevű vulkán lábánál. Itt található az ország legrégebbi épségben maradt gyarmati temploma, amely 1693-ban épült és nemzeti műemléknek számít. A Fonseca-öbölre nyíló lélegzetelállító kilátás és a lenca kultúrában gyökerező múlt különleges élményt nyújt az utazóknak. A vulkán tetején található \"Espíritu de la Montaña\" kilátópontról egyszerre látható El Salvador, Honduras és Nicaragua területe is. A helyi gasztronómiában a tenger gyümölcsei és a tradicionális vidéki ételek egyaránt hangsúlyosan jelen vannak.",
+      ro: "Conchagua este un oraș istoric situat în departamentul La Unión, faimos pentru biserica sa colonială și pentru panoramele spectaculoase asupra golfului Fonseca. Orașul este dominat de vulcanul Conchagua, care oferă trasee de drumeție memorabile pentru aventurieri. Conchagua păstrează vii tradițiile coloniale, fiind un punct de interes major pentru istorici și turiștii în căutarea autenticității. Educație K7 — Geografie: forme de relief și importanța istorică a porturilor.",
       en: ""
+    },
+    factsAdvanced: {
+      ro: ["Conchagua oferă o panoramă unică asupra golfului Fonseca și a insulelor vecine.", "Vulcanul Conchagua atinge altitudinea de 1.225 metri.", "Biserica colonială din Conchagua este considerată una dintre cele mai vechi din regiune.", "Orașul a fost fondat în 1543, fiind unul dintre primele așezăminte din estul țării.", "Golful Fonseca este un punct strategic pentru comerțul maritim din America Centrală.", "Conchagua combină istoria colonială cu resursele naturale vulcanice."]
     },
     facts: {
       de: ["Lage am Conchagua-Vulkan.", "Panoramablick auf den Golf von Fonseca.", "Älteste Kolonialkirche des Landes.", "Indigene Lenca-Wurzeln."],
@@ -1335,13 +1038,16 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
     descriptionAdvanced: {
       de: "Perquín, hoch in den Bergen von Morazán gelegen, ist ein Ort von tiefgreifender historischer Bedeutung und natürlicher Schönheit. Während des salvadorianischen Bürgerkriegs war die Stadt die inoffizielle Hauptstadt der FMLN-Guerilla und ist heute ein Ort des Gedenkens und des Friedens. Das kühle Bergklima, die dichten Pinienwälder und das Museum der Revolution machen Perquín zu einem der faszinierendsten Ziele für alle, die mehr über die jüngere Geschichte des Landes erfahren wollen.",
       hu: "Perquín, Morazán megye hegyei között magasodva, mély történelmi jelentőséggel és lenyűgöző természeti szépséggel bír. A salvadori polgárháború idején a gerillák nem hivatalos fővárosa volt, ma pedig az emlékezés és a béke helyszíne. A hűvös hegyi klíma, a sűrű fenyőerdők és a Forradalom Múzeuma El Salvador egyik legérdekesebb úti céljává teszik azok számára, akik meg akarják érteni az ország közelmúltját. A múzeumot egykori harcosok vezetik, akik első kézből mesélik el a konfliktus történeteit. A környék kiváló túraútvonalakat kínál természetes medencékhez és a közeli hondurasi határra néző kilátókhoz.",
-      ro: "",
+      ro: "Perquín este un oraș montan în departamentul Morazán, renumit pentru rolul său istoric și pentru frumusețea peisajelor sale din munții Sierra Madre. Este un centru important pentru turismul de memorie istorică, găzduind Muzeul Revoluției, care oferă o perspectivă detaliată asupra conflictului civil din El Salvador. Peisajul său natural, cu cascade și păduri de pini, atrage turiști dornici de aventură și cunoaștere. Educație K8 — Istorie: conflictul civil și importanța muzeelor memoriale.",
       en: ""
+    },
+    factsAdvanced: {
+      ro: ["Perquín găzduiește Muzeul Revoluției dedicat conflictului civil din anii '80.", "Situat în departamentul Morazán, este punctul cel mai înalt din estul țării.", "Cascada Llano del Muerto este o destinație turistică populară în zonă.", "Regiunea este cunoscută pentru pădurile sale de pini și peisajele montane pitoresci.", "Perquín a devenit un simbol al reconcilierii și al istoriei moderne salvadoriene.", "Climatul montan oferă condiții excelente pentru turismul ecologic tot anul."]
     },
     facts: {
       de: ["Ehemalige 'Guerilla-Hauptstadt'.", "Museum der Revolution.", "Kühles Bergklima.", "Umgeben von Pinienwäldern."],
       hu: ["Egykori 'gerilla főváros'.", "A Forradalom Múzeuma.", "Hűvös hegyi éghajlat.", "Fenyőerdőkkel körülvéve."],
-      ro: ["Fosta „capitală a gherilei”.", "Muzeul Revoluției.", "Climă montană răcoroasă.", "Înconjurat de păduri de pini."],
+      ro: ["Fosta \"capitală a gherilei\".", "Muzeul Revoluției.", "Climă montană răcoroasă.", "Înconjurat de păduri de pini."],
       en: ["Former 'guerrilla capital'.", "Museum of the Revolution.", "Cool mountain climate.", "Surrounded by pine forests."]
     },
     factsAdvanced: {
@@ -1398,14 +1104,26 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
     description: { de: "Eine Stadt im Nordwesten, bekannt für den Güija-See und ihre Kolonialkirche.", hu: "Város északnyugaton, a Güija-tóról és gyarmati templomáról ismert.", ro: "Un oraș în nord-vest, cunoscut pentru Lacul Güija și biserica sa colonială.", en: "A city in the northwest, known for Lake Güija and its colonial church." },
     descriptionAdvanced: {
       de: "Metapán, im äußersten Nordwesten El Salvadors gelegen, ist eine Stadt der Kontraste zwischen kolonialer Pracht und moderner Industrie. Sie beherbergt die wunderschöne barocke Kirche 'La Parroquia', die für ihren außergewöhnlichen Erhaltungszustand bekannt ist. Gleichzeitig ist Metapán ein wichtiges Bergbauzentrum für Kalkstein und beherbergt die größten Zementwerke Mittelamerikas. In der Umgebung lockt der idyllische Güija-See Naturliebhaber und Fischer an.",
-      hu: "Metapán El Salvador északnyugati sarkában fekszik, és a gyarmati pompa, valamint a modern ipar különleges elegyét nyújtja. Itt található a gyönyörű barokk „La Parroquia” templom, amely kiváló állapota miatt az ország egyik legfontosabb építészeti emléke. Ugyanakkor Metapán fontos bányászati központ is, itt működnek Közép-Amerika legnagyobb cementgyárai a környékbeli mészkőre alapozva. A természet kedvelőit a közeli Güija-tó vonzza, amely horgászatra és pihenésre is ideális helyszín. A város a kapu a Montecristo Nemzeti Parkhoz is, ahol El Salvador, Guatemala és Honduras határai találkoznak egy felhőerdő mélyén.",
-      ro: "",
+      hu: "Metapán El Salvador északnyugati sarkában fekszik, és a gyarmati pompa, valamint a modern ipar különleges elegyét nyújtja. Itt található a gyönyörű barokk \"La Parroquia\" templom, amely kiváló állapota miatt az ország egyik legfontosabb építészeti emléke. Ugyanakkor Metapán fontos bányászati központ is, itt működnek Közép-Amerika legnagyobb cementgyárai a környékbeli mészkőre alapozva. A természet kedvelőit a közeli Güija-tó vonzza, amely horgászatra és pihenésre is ideális helyszín. A város a kapu a Montecristo Nemzeti Parkhoz is, ahol El Salvador, Guatemala és Honduras határai találkoznak egy felhőerdő mélyén.",
+      ro: "Metapán este cunoscut pentru importanța sa în industria cimentului și pentru proximitatea față de Parcul Național Montecristo, o rezervație naturală de o biodiversitate uimitoare. Situat în nord-vestul țării, orașul oferă un peisaj diversificat, combinând dezvoltarea industrială cu conservarea mediului înconjurător. Climatul și geografia sa unică atrag pasionații de ecoturism din toată regiunea. Educație K7 — Geografie: industrii extractive și conservarea ecosistemelor montane.",
       en: ""
+    },
+    factsAdvanced: {
+      ro: ["Metapán este centrul principal al industriei de ciment din El Salvador.", "Parcul Național Montecristo este recunoscut pentru pădurea sa nebulă unică.", "Regiunea este situată în 'Trifinio', punctul unde se întâlnesc granițele El Salvador, Guatemala și Honduras.", "Orașul are o istorie lungă legată de exploatarea resurselor minerale.", "Biodiversitatea din Montecristo este considerată una dintre cele mai bogate din America Centrală.", "Metapán îmbină dezvoltarea economică industrială cu protejarea patrimoniului natural."]
+    },
+    factsAdvanced: {
+      ro: ["Metapán este centrul principal al industriei de ciment din El Salvador.", "Parcul Național Montecristo este recunoscut pentru pădurea sa nebulă unică.", "Regiunea este situată în 'Trifinio', punctul unde se întâlnesc granițele El Salvador, Guatemala și Honduras.", "Orașul are o istorie lungă legată de exploatarea resurselor minerale.", "Biodiversitatea din Montecristo este considerată una dintre cele mai bogate din America Centrală.", "Metapán îmbină dezvoltarea economică industrială cu protejarea patrimoniului natural."]
+    },
+    factsAdvanced: {
+      ro: ["Metapán este centrul principal al industriei de ciment din El Salvador.", "Parcul Național Montecristo este recunoscut pentru pădurea sa nebulă unică.", "Regiunea este situată în 'Trifinio', punctul unde se întâlnesc granițele El Salvador, Guatemala și Honduras.", "Orașul are o istorie lungă legată de exploatarea resurselor minerale.", "Biodiversitatea din Montecristo este considerată una dintre cele mai bogate din America Centrală.", "Metapán îmbină dezvoltarea economică industrială cu protejarea patrimoniului natural."]
+    },
+    factsAdvanced: {
+      ro: ["Metapán este centrul principal al industriei de ciment din El Salvador.", "Parcul Național Montecristo este recunoscut pentru pădurea sa nebulă unică.", "Regiunea este situată în 'Trifinio', punctul unde se întâlnesc granițele El Salvador, Guatemala și Honduras.", "Orașul are o istorie lungă legată de exploatarea resurselor minerale.", "Biodiversitatea din Montecristo este considerată una dintre cele mai bogate din America Centrală.", "Metapán îmbină dezvoltarea economică industrială cu protejarea patrimoniului natural."]
     },
     facts: {
       de: ["Heimat der Kirche 'La Parroquia'.", "Nahe dem Güija-See.", "Wichtiger Standort für Zementproduktion.", "Kalksteinbrüche in der Umgebung."],
       hu: ["A 'La Parroquia' templom otthona.", "A Güija-tó közelében.", "Fontos helyszín a cementgyártásban.", "Mészkőbányák a környéken."],
-      ro: ["Gazda bisericii „La Parroquia”.", "Aproape de Lacul Güija.", "Locație importantă pentru producția de ciment.", "Cariere de calcar în jur."],
+      ro: ["Gazda bisericii \"La Parroquia\".", "Aproape de Lacul Güija.", "Locație importantă pentru producția de ciment.", "Cariere de calcar în jur."],
       en: ["Home to the 'La Parroquia' church.", "Near Lake Gullia.", "Important site for cement production.", "Limestone quarries in the area."]
     },
     factsAdvanced: {
@@ -1414,7 +1132,7 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
         "Metapán dient als Tor zum Nationalpark Montecristo, wo sich das Dreiländereck mit Guatemala und Honduras befindet.",
         "Die Stadt hat eine lange Geschichte in der Bergbauindustrie, die bis in die spanische Kolonialzeit zurückreicht."
       ],
-      hu: ["A gyönyörű barokk „La Parroquia” templom otthona.",
+      hu: ["A gyönyörű barokk \"La Parroquia\" templom otthona.",
         "Közép-Amerika cementgyártásának és mészkőbányászatának központja.",
         "A festői Güija-tó partján fekvő kereskedelmi csomópont.",
         "Kiindulópont a Montecristo felhőerdő-rezervátum felfedezéséhez."],
@@ -1431,8 +1149,11 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
     descriptionAdvanced: {
       de: "Jocoro ist eine traditionelle Kleinstadt im Departement Morazán, die tief im ländlichen Leben des östlichen El Salvador verwurzelt ist. Die Stadt ist vor allem für ihre landwirtschaftliche Produktion und Viehzucht bekannt. In den letzten Jahren hat Jocoro landesweit Bekanntheit durch seinen Fußballverein erlangt, der den Stolz und den Gemeinschaftsgeist dieser lebhaften Gemeinde im Landesinneren widerspiegelt.",
       hu: "Jocoro egy tradicionális kisváros Morazán megyében, amely mélyen gyökerezik Kelet-Salvador vidéki életében. A város leginkább mezőgazdasági termeléséről és állattenyésztéséről ismert, ahol a helyi gazdák büszkék minőségi termékeikre. Az utóbbi években Jocoro országos hírnévre tett szert sikeres labdarúgócsapata révén, amely az egész közösség összefogását és büszkeségét jelképezi. Az évenkénti városi fesztiválok alkalmával vallási körmenetek, tradicionális táncok és zene töltik meg az utcákat. Stratégiai fekvése az északkelet felé vezető főút mentén fontos megállóvá teszi az utazók számára.",
-      ro: "",
+      ro: "Jocoro este o localitate din departamentul Morazán, marcând tranziția către zona montană a estului țării și păstrând tradiții locale autentice. Comunitatea se remarcă prin simplitatea stilului de viață și prin implicarea în agricultura de subzistență, oferind un cadru rural pașnic pentru vizitatori. Istoria orașului reflectă reziliența populației locale în fața provocărilor socio-economice din regiune. Educație K5 — Sociologie: viața în comunități rurale și tradiții salvadoriene.",
       en: ""
+    },
+    factsAdvanced: {
+      ro: ["Jocoro se află într-o regiune caracterizată prin terenuri agricole și peisaje rurale.", "Comunitatea păstrează obiceiuri și tradiții locale transmise prin generații.", "Agricultura reprezintă principala sursă de venit pentru majoritatea familiilor din zonă.", "Jocoro a fost un centru activ al vieții comunitare în departamentul Morazán.", "Climatul regiunii favorizează culturile sezoniere esențiale pentru economia locală.", "Simplitatea stilului de viață rural definește identitatea culturală a locuitorilor."]
     },
     facts: {
       de: ["Ländliche Gemeinde.", "Landwirtschaft und Viehzucht.", "Heimat des Fußballvereins Jocoro F.C.", "Nahe San Francisco Gotera."],
@@ -1462,9 +1183,12 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
     description: { de: "Eine kleine Stadt im Departement Morazán, bekannt für die Gruta del Espíritu Santo.", hu: "Kisváros Morazán megyében, a Gruta del Espíritu Santo barlangról ismert.", ro: "Un mic oraș în departamentul Morazán, cunoscut pentru Gruta del Espíritu Santo.", en: "A small town in the Morazán department, known for the Gruta del Espíritu Santo." },
     descriptionAdvanced: {
       de: "Corinto ist ein Ort, an dem die ferne Vergangenheit El Salvadors spürbar wird. Die Stadt liegt im Nordosten des Landes und ist weltweit berühmt für die 'Gruta del Espíritu Santo', eine Höhle mit Jahrtausende alten Felsmalereien. Diese prähistorischen Kunstwerke machen Corinto zu einem unverzichtbaren Ziel für Archäologen und Geschichtsinteressierte, während die umliegende bergige Landschaft Wanderer und Abenteurer anlockt.",
-      hu: "Corinto egy olyan hely, ahol El Salvador távoli múltja kézzelfoghatóvá válik az idelátogatók számára. Az ország északkeleti részén fekvő város világhírű a „Gruta del Espíritu Santo” barlangjáról, amely több ezer éves sziklarajzokat őriz. Ezek az őskori műalkotások nélkülözhetetlen célponttá teszik Corintót a régészek és a történelem szerelmesei számára. A környező hegyvidéki táj kiváló lehetőségeket kínál a túrázásra és a kalandvágyók számára a természet felfedezésére. A város elszigetelt fekvése hozzájárult az autentikus vidéki hagyományok és a nyugodt életmód megőrzéséhez a hondurasi határ közelében.",
-      ro: "",
+      hu: "Corinto egy olyan hely, ahol El Salvador távoli múltja kézzelfoghatóvá válik az idelátogatók számára. Az ország északkeleti részén fekvő város világhírű a \"Gruta del Espíritu Santo\" barlangjáról, amely több ezer éves sziklarajzokat őriz. Ezek az őskori műalkotások nélkülözhetetlen célponttá teszik Corintót a régészek és a történelem szerelmesei számára. A környező hegyvidéki táj kiváló lehetőségeket kínál a túrázásra és a kalandvágyók számára a természet felfedezésére. A város elszigetelt fekvése hozzájárult az autentikus vidéki hagyományok és a nyugodt életmód megőrzéséhez a hondurasi határ közelében.",
+      ro: "Corinto, în departamentul Morazán, este celebru pentru peșterile sale cu picturi rupestre precolumbiene, cunoscute sub numele de 'Gruta del Espíritu Santo'. Aceste vestigii arheologice oferă o fereastră către trecutul antic al regiunii și atrag istorici și curioși dornici să exploreze arta străveche. Orașul este o destinație importantă pentru turismul arheologic din El Salvador. Educație K8 — Istorie: artă rupestră și civilizații precolumbiene.",
       en: ""
+    },
+    factsAdvanced: {
+      ro: ["Corinto găzduiește 'Gruta del Espíritu Santo', celebră pentru picturile sale rupestre.", "Picturile rupestre sunt considerate una dintre cele mai importante atracții arheologice din țară.", "Regiunea Morazán este bogată în descoperiri legate de civilizațiile precolumbiene.", "Turismul arheologic reprezintă o parte importantă din identitatea culturală a orașului.", "Peisajul montan din jurul orașului oferă trasee excelente pentru drumeții exploratorii.", "Corinto păstrează o atmosferă rurală tradițională, ideală pentru explorarea istoriei antice."]
     },
     facts: {
       de: ["Nahe der Gruta del Espíritu Santo.", "Höhlenmalereien von Ureinwohnern.", "Ländliche, bergige Gegend.", "Nahe der Grenze zu Honduras."],
@@ -1494,9 +1218,12 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
     description: { de: "Eine Stadt im Departement Cuscatlán.", hu: "Város Cuscatlán megyében.", ro: "Un oraș în departamentul Cuscatlán.", en: "A city in the department of Cuscatlán." },
     descriptionAdvanced: {
       de: "El Carmen ist eine malerische Landgemeinde im Departement Cuscatlán, die für ihren landwirtschaftlichen Fleiß bekannt ist. Die Stadt liegt in einer fruchtbaren Hügellandschaft, in der vor allem Zuckerrohr und Grundnahrungsmittel wie Mais angebaut werden. El Carmen hat sich einen authentischen ländlichen Charme bewahrt, der durch traditionelle Feste und eine starke Gemeinschaftsbindung geprägt ist.",
-      hu: "El Carmen egy festői vidéki község Cuscatlán megyében, amely lakóinak szorgalmáról és mezőgazdasági sikereiről ismert. A város egy termékeny dombvidéken fekszik, ahol elsősorban cukornádat és alapvető élelmiszereket, például kukoricát termesztenek. El Carmen megőrizte autentikus falusi báját, amelyet a hagyományos ünnepek és az erős közösségi kötelékek határoznak meg. Különösen híres a cukornádból készült kézműves termékeiről, például a tradicionális „panela” (barna cukor) készítéséről. A környék panorámája lenyűgöző kilátást nyújt a központi salvadori hegyekre és völgyekre.",
-      ro: "",
+      hu: "El Carmen egy festői vidéki község Cuscatlán megyében, amely lakóinak szorgalmáról és mezőgazdasági sikereiről ismert. A város egy termékeny dombvidéken fekszik, ahol elsősorban cukornádat és alapvető élelmiszereket, például kukoricát termesztenek. El Carmen megőrizte autentikus falusi báját, amelyet a hagyományos ünnepek és az erős közösségi kötelékek határoznak meg. Különösen híres a cukornádból készült kézműves termékeiről, például a tradicionális \"panela\" (barna cukor) készítéséről. A környék panorámája lenyűgöző kilátást nyújt a központi salvadori hegyekre és völgyekre.",
+      ro: "El Carmen, situat în departamentul La Unión, este un oraș cu o istorie strâns legată de dezvoltarea agricolă a estului salvadorian. Comunitatea se remarcă prin ospitalitatea locuitorilor și prin rolul său în rețeaua de comerț regional. Peisajele rurale din împrejurimi oferă un cadru liniștit, reprezentativ pentru estul țării, unde agricultura și tradițiile locale se împletesc armonios. Educație K5 — Geografie: rețele de comerț rural și economie agricolă.",
       en: ""
+    },
+    factsAdvanced: {
+      ro: ["El Carmen joacă un rol important în rețeaua agricolă din departamentul La Unión.", "Orașul este cunoscut pentru ospitalitatea comunității sale rurale.", "Tradițiile agricole sunt fundamentul economiei locale de generații.", "Poziția strategică a orașului facilitează comerțul regional cu produsele agricole.", "Peisajul din jur reflectă estetica rurală tipică regiunilor din estul El Salvadorului.", "El Carmen păstrează un stil de viață tradițional, departe de ritmul urban alert."]
     },
     facts: {
       de: ["Ländliche Gemeinde.", "Anbau von Zuckerrohr und Getreide.", "Traditionelle Kultur.", "Ruhige Atmosphäre."],
@@ -1527,8 +1254,11 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
     descriptionAdvanced: {
       de: "Jujutla ist eine Gemeinde von großer ökologischer und landwirtschaftlicher Bedeutung im Westen El Salvadors. Die Stadt dient als Tor zu einigen der unberührtesten Gebiete des Landes, darunter der Nationalpark El Imposible und die Küstenmündung Barra de Santiago. Die Bewohner von Jujutla leben im Einklang mit einer reichen Natur, die vom Kaffeeanbau in den Bergen bis hin zum Fischfang an der Pazifikküste reicht.",
       hu: "Jujutla egy nagy ökológiai és mezőgazdasági jelentőséggel bíró közösség El Salvador nyugati részén, Ahuachapán megyében. A város kapuként szolgál az ország néhány érintetlen területéhez, köztük az El Imposible Nemzeti Parkhoz és a Barra de Santiago tengerparti öbléhez. Jujutla lakói harmóniában élnek a gazdag természettel, amely a hegyi kávétermesztéstől a Csendes-óceán partján folyó halászatig terjed. A terület rendkívüli biológiai sokféleséggel rendelkezik a különböző magassági szinteknek köszönhetően a község határain belül. Az évenkénti agrárvásárok alkalmával bemutatják a helyi termékek sokszínűségét és a közösség erejét.",
-      ro: "",
+      ro: "Jujutla este un oraș important din departamentul Ahuachapán, renumit pentru diversitatea sa geografică ce include zone montane și proximitatea față de coasta Pacificului. Economia locală se bazează pe agricultură și creșterea animalelor, fiind un centru vital pentru regiunea de vest. Tradițiile locale și arhitectura specifică reflectă istoria îndelungată a acestei zone. Educație K6 — Geografie: diversitatea geografică și economia rurală.",
       en: ""
+    },
+    factsAdvanced: {
+      ro: ["Jujutla se întinde pe o zonă geografică diversă, de la munți până aproape de coastă.", "Agricultura și creșterea animalelor sunt principalele motoare economice locale.", "Orașul este situat într-o zonă strategică a departamentului Ahuachapán.", "Tradițiile culturale sunt bine conservate și celebrate în cadrul comunității.", "Jujutla a jucat un rol istoric în dezvoltarea economică a regiunii vestice.", "Climatul variat permite o diversitate mare de culturi agricole în zonă."]
     },
     facts: {
       de: ["Landwirtschaftliche Produktion.", "Anbau von Getreide und Obst.", "Nähe zum Nationalpark El Imposible.", "Ländliche Umgebung."],
@@ -1558,9 +1288,12 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
     description: { de: "Eine indigene Gemeinde im Departement Ahuachapán.", hu: "Őslakos község Ahuachapán megyében.", ro: "O comunitate indigenă în departamentul Ahuachapán.", en: "An indigenous community in the Ahuachapán department." },
     descriptionAdvanced: {
       de: "Guaymango ist ein Ort, der tief mit seinen indigenen Wurzeln verbunden ist und eine reiche kulturelle Identität im Westen El Salvadors bewahrt. Die Stadt liegt in einer üppigen, grünen Hügellandschaft und war historisch gesehen ein bedeutendes Zentrum für die Nahuat-Sprecher der Region. Heute ist Guaymango eine friedliche ländliche Gemeinde, in der traditionelle Bräuche und landwirtschaftlicher Fleiß den Rhythmus des Lebens bestimmen.",
-      hu: "Guaymango egy olyan hely, amely mélyen kötődik őslakos gyökereihez, és gazdag kulturális identitást őriz Nyugat-Salvadorban. A város egy dús, zöld dombvidéken fekszik, és történelmileg a régió nahuatl beszélőinek egyik fontos központja volt. Ma Guaymango egy békés vidéki község, ahol a hagyományos szokások és a mezőgazdasági munka határozza meg az élet ritmusát. Nevének jelentése az őslakos nyelven „a víz és a békák helye”, utalva a terület egykori vízi adottságaira. A közösség híres a legendáiról és szóban öröklődő hagyományairól, amelyek generációk óta fennmaradtak.",
-      ro: "",
+      hu: "Guaymango egy olyan hely, amely mélyen kötődik őslakos gyökereihez, és gazdag kulturális identitást őriz Nyugat-Salvadorban. A város egy dús, zöld dombvidéken fekszik, és történelmileg a régió nahuatl beszélőinek egyik fontos központja volt. Ma Guaymango egy békés vidéki község, ahol a hagyományos szokások és a mezőgazdasági munka határozza meg az élet ritmusát. Nevének jelentése az őslakos nyelven \"a víz és a békák helye\", utalva a terület egykori vízi adottságaira. A közösség híres a legendáiról és szóban öröklődő hagyományairól, amelyek generációk óta fennmaradtak.",
+      ro: "Guaymango este o localitate din departamentul Ahuachapán, cunoscută pentru moștenirea sa culturală și pentru peisajele sale rurale pitorești. Orașul păstrează cu mândrie tradițiile locale, fiind un exemplu de comunitate care își prețuiește identitatea în fața schimbărilor moderne. Economia sa agricolă și atmosfera prietenoasă fac din Guaymango o destinație autentică pentru explorarea interiorului salvadorian. Educație K5 — Sociologie: identitate culturală și tradiții rurale.",
       en: ""
+    },
+    factsAdvanced: {
+      ro: ["Guaymango păstrează cu mândrie identitatea sa culturală în fața modernității.", "Economia se bazează în special pe agricultură tradițională și resurse locale.", "Orașul oferă peisaje rurale pitorești care atrag vizitatori dornici de autenticitate.", "Comunitatea pune un accent puternic pe conservarea obiceiurilor locale.", "Guaymango este o destinație ideală pentru a înțelege viața rurală din Ahuachapán.", "Atmosfera prietenoasă a orașului reflectă valorile tradiționale ale locuitorilor."]
     },
     facts: {
       de: ["Starkes indigenes Erbe.", "Nahuat-sprechende Bevölkerung in der Vergangenheit.", "Ländliche Gemeinde.", "Traditionelle Feste."],
@@ -1575,7 +1308,7 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
         "Guaymango ist bekannt für seine lebhaften Gemeinschaftsfeste, bei denen indigene und koloniale Bräuche verschmelzen."
       ],
       hu: ["Mélyen gyökerező őslakos identitással rendelkező település.",
-        "Nevének jelentése nahuatl nyelven: „a víz és a békák helye”.",
+        "Nevének jelentése nahuatl nyelven: \"a víz és a békák helye\".",
         "A nahuatl nyelv és hagyományok egyik fontos történelmi bástyája.",
         "Híres a színes vallási és kulturális felvonulásairól."],
       ro: [],
@@ -1590,9 +1323,12 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
     description: { de: "Eine Stadt im Departement Sonsonate, bekannt für ihre Balsam-Produktion.", hu: "Város Sonsonate megyében, balzsamtermeléséről ismert.", ro: "Un oraș în departamentul Sonsonate, cunoscut pentru producția sa de balsam.", en: "A city in the Sonsonate department, known for its balsam production." },
     descriptionAdvanced: {
       de: "San Julián liegt im Herzen der berühmten 'Costa del Bálsamo' und ist das weltweit wichtigste Zentrum für die Gewinnung des wertvollen Balsams von Peru. Trotz des irreführenden Namens stammt dieser Heilbalsam ausschließlich aus dieser Region El Salvadors. Die Stadt bewahrt die jahrhundertealten Techniken der Balsam-Extraktion, die ein wichtiger Teil der lokalen Identität und Wirtschaft sind.",
-      hu: "San Julián a híres „Costa del Bálsamo” (Balzsam-part) szívében fekszik, és a világ legfontosabb központja az értékes perubalzsam kinyerésének. A megtévesztő név ellenére ez a gyógyhatású balzsam kizárólag El Salvador ezen régiójából származik. A város őrzi a balzsam-extraktálás évszázados technikáit, amelyek a helyi identitás és gazdaság elválaszthatatlan részét képezik. A balzsamot a Myroxylon balsamum fából nyerik ki egy bonyolult eljárással, amelyet már a pipil indiánok is alkalmaztak. Minden évben megrendezik a Balzsam-fesztivált, hogy tisztelegjenek e különleges természeti kincs előtt, amely világhírnevet hozott a településnek.",
-      ro: "",
+      hu: "San Julián a híres \"Costa del Bálsamo\" (Balzsam-part) szívében fekszik, és a világ legfontosabb központja az értékes perubalzsam kinyerésének. A megtévesztő név ellenére ez a gyógyhatású balzsam kizárólag El Salvador ezen régiójából származik. A város őrzi a balzsam-extraktálás évszázados technikáit, amelyek a helyi identitás és gazdaság elválaszthatatlan részét képezik. A balzsamot a Myroxylon balsamum fából nyerik ki egy bonyolult eljárással, amelyet már a pipil indiánok is alkalmaztak. Minden évben megrendezik a Balzsam-fesztivált, hogy tisztelegjenek e különleges természeti kincs előtt, amely világhírnevet hozott a településnek.",
+      ro: "San Julián, în departamentul Sonsonate, este renumit pentru producția de balsam de Peru, o rășină prețioasă extrasă din copacii locali și utilizată încă din perioada precolumbiană. Acest oraș istoric oferă o experiență culturală unică, unde tradițiile de recoltare a balsamului se împletesc cu stilul de viață rural modern. Vizitatorii pot descoperi secretele acestei vechi industrii și pot admira frumusețea naturală a regiunii. Educație K7 — Științe/Istorie: resurse naturale și metode tradiționale de recoltare.",
       en: ""
+    },
+    factsAdvanced: {
+      ro: ["San Julián este celebru pentru producția istorică de balsam de Peru.", "Balsamul de Peru este o rășină valoroasă folosită în parfumerie și medicină.", "Tehnicile de recoltare a balsamului sunt practicate de generații întregi.", "Orașul oferă o perspectivă asupra legăturii dintre resursele naturale și istorie.", "Regiunea Sonsonate este unul dintre cele mai importante centre pentru acest produs tradițional.", "San Julián atrage vizitatori interesați de istoria economică a balsamului."]
     },
     facts: {
       de: ["Zentrum der Balsam-Produktion.", "Balsam-Küste (Costa del Bálsamo).", "Traditionelle Extraktionsmethoden.", "Ländliche Gemeinde."],
@@ -1623,8 +1359,11 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
     descriptionAdvanced: {
       de: "San Pedro Masahuat ist eine bedeutende Gemeinde im Departement La Paz, die für ihre landwirtschaftliche Vielfalt bekannt ist. Gelegen zwischen der zentralen Bergkette und der Pazifikküste, bietet die Stadt eine reiche Palette an landwirtschaftlichen Produkten. Die Stadt bewahrt eine starke kulturelle Identität mit lebhaften religiösen Festen und einem Gemeinschaftssinn, der tief im salvadorianischen Landleben verwurzelt ist.",
       hu: "San Pedro Masahuat egy jelentős közösség La Paz megyében, amely mezőgazdasági sokszínűségéről ismert. A központi hegyvonulat és a Csendes-óceán partja között elhelyezkedő város a termények gazdag választékát kínálja a piacokon. A település erős kulturális identitást őriz, amit az élénk vallási ünnepek és a mélyen gyökerező közösségi szellem tükröz. Különösen híres a városi fesztiválok alkalmával bemutatott tradicionális táncokról és maszkokról. A környező termékeny földek lehetővé teszik a kiváló minőségű cukornád és trópusi gyümölcsök termesztését, ami a helyi gazdaság alapköve.",
-      ro: "",
+      ro: "San Pedro Masahuat este un oraș din departamentul La Paz, situat strategic între zonele agricole și cele de coastă ale statului El Salvador. Comunitatea se remarcă prin activitățile sale economice variate și prin legăturile istorice cu dezvoltarea rurală din regiune. Atmosfera sa reflectă dinamica socială a statului, oferind vizitatorilor ocazia de a experimenta viața cotidiană salvadoriană într-un cadru autentic. Educație K6 — Geografie: rolul așezărilor rurale în economia regională.",
       en: ""
+    },
+    factsAdvanced: {
+      ro: ["San Pedro Masahuat este situat strategic între agricultură și zonele de coastă.", "Economia orașului este susținută de activități diverse și comerț local.", "Orașul joacă un rol important în dinamica socială a departamentului La Paz.", "Tradițiile locale sunt parte integrantă din viața de zi cu zi a comunității.", "Poziția sa geografică îi conferă un rol de legătură între diferite regiuni agricole.", "San Pedro Masahuat oferă o experiență autentică a vieții cotidiene salvadoriene."]
     },
     facts: {
       de: ["Ländliche Gemeinde.", "Landwirtschaft und Fischerei.", "Nähe zur Pazifikküste.", "Traditionelle Feste."],
@@ -1654,9 +1393,12 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
     description: { de: "Eine kleine Stadt im Departement San Miguel.", hu: "Kisváros San Miguel megyében.", ro: "Un mic oraș în departamentul San Miguel.", en: "A small city in the San Miguel department." },
     descriptionAdvanced: {
       de: "San Rafael Oriente ist eine charmante und friedliche Stadt im Osten El Salvadors, im Departement San Miguel. Gelegen in einer weiten, fruchtbaren Ebene, lebt die Stadt primär von der Landwirtschaft, wobei der Anbau von Getreide und die Viehzucht das ökonomische Rückgrat bilden. Die Bewohner schätzen die Ruhe und den starken sozialen Zusammenhalt ihrer Gemeinde, die einen authentischen Einblick in das traditionelle Leben im Osten des Landes bietet.",
-      hu: "",
+      hu: "San Rafael Oriente egy békés és barátságos település az ország keleti részén, San Miguel megyében. A város széles, termékeny síkságon terül el, ahol a mezőgazdaság, különösen a gabonatermesztés és az állattenyésztés jelenti a közösség fő bevételi forrását. A helyi élet ritmusát a nyugalom és az erős társadalmi összetartás jellemzi, amely hiteles betekintést nyújt a keleti régió tradicionális hétköznapjaiba. A város a régió fontos mezőgazdasági központja, amely a San Miguel-hegység közelében fekszik. Földrajz K6 — Kelet-Salvador mezőgazdasági régiói.",
       ro: "",
       en: ""
+    },
+    factsAdvanced: {
+      hu: ["A régió gazdasági alapja a hagyományos mezőgazdasági termelés.", "San Rafael Oriente közel található a jelentős San Miguel városhoz.", "A település lakossága erős közösségi szellemmel bír.", "A környező síkságok kedvező feltételeket biztosítanak a gabonatermesztéshez.", "A városka autentikus élményt kínál az utazóknak a keleti országrészben.", "A hagyományos gazdálkodási módszerek máig megőrződtek."]
     },
     facts: {
       de: ["Ländliche Umgebung.", "Landwirtschaftlich geprägt.", "Nahe der Stadt San Miguel.", "Ruhige Atmosphäre."],
@@ -1684,8 +1426,17 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
     descriptionAdvanced: {
       de: "Concepción de Oriente ist eine abgelegene und friedliche Gemeinde im äußersten Nordosten El Salvadors, direkt an der Grenze zu Honduras. Aufgrund ihrer isolierten Lage hat die Stadt einen sehr traditionellen und ursprünglichen Charakter bewahrt. Die Wirtschaft basiert fast ausschließlich auf Subsistenzlandwirtschaft und Viehzucht, wobei der grenzüberschreitende Austausch mit honduranischen Nachbarn zum Alltag der Bewohner gehört.",
       hu: "Concepción de Oriente egy elszigetelt és nyugodt közösség El Salvador legészakkeletibb csücskében, közvetlenül a hondurasi határon. Távoli fekvése miatt a város nagyon tradicionális és eredeti karaktert tudott megőrizni az évek során. A gazdaság szinte kizárólag az önellátó mezőgazdaságra és az állattenyésztésre épül, ahol a határon átnyúló cserekereskedelem a mindennapok része. A várost gyönyörű természeti környezet övezi, szelíd dombokkal és tiszta vizű patakokkal. Itt a régi salvadori szokások még érintetlenül élnek tovább, távol a modern városok zajától.",
-      ro: "",
+      ro: "Concepción de Oriente este o localitate din departamentul La Unión, cunoscută pentru contextul său rural și pentru legăturile strânse cu tradițiile estului țării. Orașul oferă o atmosferă calmă, fiind reprezentativ pentru comunitățile care își bazează subzistența pe agricultură și creșterea animalelor. Peisajele sale rurale oferă o privire autentică asupra stilului de viață tradițional, departe de centrele urbane mari. Educație K5 — Geografie: viața rurală și importanța agriculturii în estul salvadorian.",
       en: ""
+    },
+    factsAdvanced: {
+      ro: ["Concepción de Oriente este situată în departamentul La Unión, într-o regiune predominat rurală.", "Agricultura și creșterea animalelor sunt principalele activități economice ale comunității.", "Orașul păstrează un stil de viață tradițional, axat pe valorile comunitare locale.", "Peisajele rurale din jur reflectă estetica specifică estului salvadorian.", "Comunitatea pune un accent puternic pe conservarea obiceiurilor moștenite.", "Concepción de Oriente reprezintă esența vieții rurale din departamentul La Unión."]
+    },
+    factsAdvanced: {
+      ro: ["Concepción de Oriente este situată în departamentul La Unión, într-o regiune predominat rurală.", "Agricultura și creșterea animalelor sunt principalele activități economice ale comunității.", "Orașul păstrează un stil de viață tradițional, axat pe valorile comunitare locale.", "Peisajele rurale din jur reflectă estetica specifică estului salvadorian.", "Comunitatea pune un accent puternic pe conservarea obiceiurilor moștenite.", "Concepción de Oriente reprezintă esența vieții rurale din departamentul La Unión."]
+    },
+    factsAdvanced: {
+      ro: ["Concepción de Oriente este situată în departamentul La Unión, într-o regiune predominat rurală.", "Agricultura și creșterea animalelor sunt principalele activități economice ale comunității.", "Orașul păstrează un stil de viață tradițional, axat pe valorile comunitare locale.", "Peisajele rurale din jur reflectă estetica specifică estului salvadorian.", "Comunitatea pune un accent puternic pe conservarea obiceiurilor moștenite.", "Concepción de Oriente reprezintă esența vieții rurale din departamentul La Unión."]
     },
     facts: {
       de: ["Grenznahe Lage.", "Ländliche Gemeinde.", "Viehzucht und Landwirtschaft.", "Traditionelle Lebensweise."],
@@ -1715,9 +1466,12 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
     description: { de: "Eine der letzten Gemeinden, in denen noch Nahuat gesprochen wird.", hu: "Az egyik utolsó község, ahol még beszélik a nahuatl nyelvet.", ro: "Una dintre ultimele municipalități unde se mai vorbește nahuatl.", en: "One of the last municipalities where Nahuat is still spoken." },
     descriptionAdvanced: {
       de: "Santo Domingo de Guzmán ist ein kulturelles Heiligtum in El Salvador, da es einer der letzten Orte ist, an denen die indigene Sprache Nahuat noch von den Ältesten gesprochen wird. Die Stadt im Departement Sonsonate ist zudem berühmt für ihre traditionelle rote Keramik, die nach uralten Techniken von Hand gefertigt wird. Ein Besuch in dieser Stadt bietet einen tiefen Einblick in das überlebende Erbe der Pipil-Vorfahren des Landes.",
-      hu: "Santo Domingo de Guzmán egy kulturális szentély El Salvadorban, mivel ez az egyik utolsó hely, ahol az ősi nahuatl nyelvet még ma is beszélik az idősek. A Sonsonate megyében fekvő város emellett híres tradicionális vörös kerámiáiról, amelyeket ősi technikákkal, kézzel készítenek a helyi asszonyok. Egy látogatás ebben a városban mély bepillantást enged az ország pipil őseinek túlélő örökségébe. Számos kezdeményezés indult itt a nahuatl nyelv átadására a fiatalabb generációk számára, hogy megmentsék ezt a kincset. A közeli „El Escuco” vízesések pedig lenyűgöző természeti látványt nyújtanak a régió látogatóinak.",
-      ro: "",
+      hu: "Santo Domingo de Guzmán egy kulturális szentély El Salvadorban, mivel ez az egyik utolsó hely, ahol az ősi nahuatl nyelvet még ma is beszélik az idősek. A Sonsonate megyében fekvő város emellett híres tradicionális vörös kerámiáiról, amelyeket ősi technikákkal, kézzel készítenek a helyi asszonyok. Egy látogatás ebben a városban mély bepillantást enged az ország pipil őseinek túlélő örökségébe. Számos kezdeményezés indult itt a nahuatl nyelv átadására a fiatalabb generációk számára, hogy megmentsék ezt a kincset. A közeli \"El Escuco\" vízesések pedig lenyűgöző természeti látványt nyújtanak a régió látogatóinak.",
+      ro: "Santo Domingo de Guzmán este renumit pentru moștenirea sa indigenă, în special pentru păstrarea tradițiilor de olărit și prelucrarea fibrelor naturale, transmise din generație în generație de poporul pipil. Acest oraș din departamentul Sonsonate oferă vizitatorilor o experiență culturală profundă, unde arta manuală definește identitatea comunității. Atmosfera locală este una de conservare a valorilor străvechi, oferind o perspectivă rară asupra vieții indigene salvadoriene. Educație K8 — Istorie: tradiții indigene și meșteșuguri precolumbiene.",
       en: ""
+    },
+    factsAdvanced: {
+      ro: ["Santo Domingo de Guzmán păstrează tradiții seculare ale poporului pipil.", "Olăritul și prelucrarea fibrelor naturale sunt meșteșuguri definitorii ale comunității.", "Orașul este un centru important pentru păstrarea identității indigene din Sonsonate.", "Artizanii locali utilizează tehnici precolumbiene pentru a crea produse unice.", "Moștenirea culturală a orașului atrage vizitatori interesați de istoria vie a El Salvadorului.", "Comunitatea pune un preț deosebit pe transmiterea meșteșugurilor către generațiile tinere."]
     },
     facts: {
       de: ["Erhalt der Nahuat-Sprache.", "Starke indigene Kultur.", "Töpferei und traditionelles Handwerk.", "Ländliche Gemeinde."],
@@ -1733,7 +1487,7 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
       ],
       hu: ["A nahuatl nyelv utolsó élő bástyáinak egyike az országban.",
         "Világhírű a tradicionális kézműves vörös kerámiáiról.",
-        "Itt található a látványos „El Escuco” vízesés.",
+        "Itt található a látványos \"El Escuco\" vízesés.",
         "Fontos kulturális központ az őslakos örökség megőrzésében."],
       ro: [],
       en: []
@@ -1747,9 +1501,12 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
     description: { de: "Eine Stadt mit reichem indigenem Erbe und einer der ältesten Kirchen des Landes.", hu: "Gazdag őslakos örökséggel rendelkező város, az ország egyik legrégebbi templomával.", ro: "Un oraș cu o bogată moștenire indigenă și una dintre cele mai vechi biserici din țară.", en: "A town with a rich indigenous heritage and one of the oldest churches in the country." },
     descriptionAdvanced: {
       de: "Panchimalco ist ein lebendiges Zeugnis der salvadorianischen Geschichte, gelegen in einem kühlen Tal südlich der Hauptstadt. Die Stadt ist berühmt für ihre weiße Kolonialkirche aus dem 18. Jahrhundert und ihre starken indigenen Wurzeln, die sich in Kleidung, Kunsthandwerk und Festen widerspiegeln. Besonders bekannt ist Panchimalco für das 'Fest der Blumen und Palmen' im Mai, bei dem die Straßen in ein Meer aus Farben und Düften verwandelt werden.",
-      hu: "Panchimalco a salvadori történelem élő tanúbizonysága, egy hűvös völgyben fekszik a fővárostól délre. A város híres 18. századi fehér gyarmati templomáról és erős őslakos gyökereiről, amelyek a ruházatban, a kézművességben és az ünnepekben is tükröződnek. Különösen ismert a májusban megrendezett „Virágok és Pálmák Ünnepe”, amikor az utcák színes virágok és díszes pálmalevelek tengerévé változnak. A templom, a Santa Cruz de Roma, több mint 200 éve dacol a földrengésekkel és a város jelképe. Panchimalco aktív művész- és szobrászközösségnek is otthont ad, akik büszkén ápolják a helyi hagyományokat.",
-      ro: "",
+      hu: "Panchimalco a salvadori történelem élő tanúbizonysága, egy hűvös völgyben fekszik a fővárostól délre. A város híres 18. századi fehér gyarmati templomáról és erős őslakos gyökereiről, amelyek a ruházatban, a kézművességben és az ünnepekben is tükröződnek. Különösen ismert a májusban megrendezett \"Virágok és Pálmák Ünnepe\", amikor az utcák színes virágok és díszes pálmalevelek tengerévé változnak. A templom, a Santa Cruz de Roma, több mint 200 éve dacol a földrengésekkel és a város jelképe. Panchimalco aktív művész- és szobrászközösségnek is otthont ad, akik büszkén ápolják a helyi hagyományokat.",
+      ro: "Panchimalco, situat la sud de capitala San Salvador, este unul dintre cele mai vibrante orașe din punct de vedere cultural, cunoscut pentru arhitectura sa colonială și tradițiile indigene puternic ancorate în viața cotidiană. Orașul este celebru pentru 'Festivalul Florilor și Palmierilor', care atrage vizitatori prin costumele și ritualurile sale colorate. Poziția sa geografică într-o vale montană îi conferă un farmec aparte, făcându-l o destinație culturală esențială. Educație K7 — Sociologie și Artă: festivaluri tradiționale și arhitectură colonială.",
       en: ""
+    },
+    factsAdvanced: {
+      ro: ["Panchimalco este unul dintre cele mai vechi așezăminte indigene din apropierea capitalei.", "Festivalul Florilor și Palmierilor este un eveniment cultural de mare amploare.", "Arhitectura bisericii coloniale din oraș este un punct de atracție major pentru turiști.", "Orașul este renumit pentru păstrarea tradițiilor poporului pipil în viața de zi cu zi.", "Valoarea artistică a orașului este recunoscută prin numeroasele picturi și sculpturi locale.", "Panchimalco oferă o combinație unică de istorie colonială și vitalitate culturală indigenă."]
     },
     facts: {
       de: ["Starkes Erbe des Pipil-Volkes.", "Älteste erhaltene Kolonialkirche.", "Berühmt für das Fest der Blumen und Palmen.", "Kunsthandwerk und Textilien."],
@@ -1764,7 +1521,7 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
         "Die 'Panas', die indigenen Frauen von Panchimalco, tragen noch heute stolz ihre traditionelle Tracht."
       ],
       hu: ["Itt található az ország egyik legrégebbi (18. századi) temploma.",
-        "Híres a látványos májusi „Virágok és Pálmák Ünnepéről”.",
+        "Híres a látványos májusi \"Virágok és Pálmák Ünnepéről\".",
         "Az őslakos pipil (pana) kultúra egyik legfontosabb központja.",
         "Híres képzőművészeti galériáiról és kőfaragóiról."],
       ro: [],
@@ -1780,8 +1537,11 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
     descriptionAdvanced: {
       de: "San Pedro Perulapán ist ein Ort von großer historischer Bedeutung, der für eine der wichtigsten Schlachten des 19. Jahrhunderts in Mittelamerika bekannt ist. Die Stadt liegt auf einem Hügel und bietet einen spektakulären Panoramablick auf den Ilopango-See und die umliegenden Vulkane. Diese strategische Lage und der Fleiß ihrer Bewohner im Getreideanbau haben die Stadt zu einem wichtigen Zentrum im Departement Cuscatlán gemacht.",
       hu: "San Pedro Perulapán nagy történelmi jelentőségű hely, amely Közép-Amerika egyik legfontosabb 19. századi csatájáról vált ismertté. A város egy dombtetőn helyezkedik el, ahonnan látványos panoráma nyílik az Ilopango-tóra és a környező vulkánokra. Ez a stratégiai fekvés és a lakók szorgalma a gabonatermesztésben Cuscatlán megye egyik fontos központjává tette a települést. 1839-ben itt győzte le Francisco Morazán a hondurasi és nicaraguai csapatokat, biztosítva helyét a történelemkönyvekben. A város híres tradicionális szövőművészetéről és kézműves termékeiről is, amelyek a helyi piacokon találhatók meg.",
-      ro: "",
+      ro: "San Pedro Perulapán este un oraș istoric din departamentul Cuscatlán, cu o importanță deosebită în istoria luptei pentru independență și în consolidarea identității naționale. Situat într-o zonă strategică, orașul păstrează numeroase urme ale trecutului său, fiind un punct de interes pentru istorici și cei care doresc să descopere originile statului salvadorian. Viața sa curentă se desfășoară într-un ritm tradițional, unde agricultura și comerțul local susțin comunitatea. Educație K8 — Istorie: luptele pentru independență și identitate națională.",
       en: ""
+    },
+    factsAdvanced: {
+      ro: ["San Pedro Perulapán a fost un punct strategic important în perioada luptelor pentru independență.", "Orașul găzduiește situri istorice ce atestă importanța sa în dezvoltarea națiunii.", "Economia locală se bazează pe agricultură și activități comerciale tradiționale.", "Identitatea orașului este strâns legată de istoria luptei pentru autodeterminare.", "Tradițiile culturale sunt un punct central al vieții comunitare locale.", "San Pedro Perulapán oferă o perspectivă asupra istoriei profunde a statului El Salvador."]
     },
     facts: {
       de: ["Ort einer wichtigen Schlacht im Jahr 1885.", "Landwirtschaftliches Zentrum.", "Panoramablick auf den Ilopango-See.", "Traditionelle Feste."],
@@ -1812,8 +1572,11 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
     descriptionAdvanced: {
       de: "Chinameca ist eine traditionsreiche Stadt im Osten El Salvadors, die sich malerisch an die Flanken des gleichnamigen Vulkans schmiegt. Die Stadt ist ein bedeutendes Zentrum für den Kaffeeanbau und bekannt für ihr reiches kulturelles Leben. Die kühle Bergluft und die fruchtbaren vulkanischen Böden prägen den Charakter dieser Gemeinde, die stolz auf ihre kolonialen Wurzeln und ihre herzliche Gastfreundschaft ist.",
       hu: "Chinameca egy nagy múltú város El Salvador keleti részén, amely festőien simul az azonos nevű vulkán oldalához. A város a kávétermesztés egyik meghatározó központja és gazdag kulturális életéről nevezetes a régióban. A hűvös hegyi levegő és a termékeny vulkáni talaj meghatározza a település karakterét, amely büszke gyarmati gyökereire és szívélyes vendégszeretetére. Bár a történelem során többször megrongálták földrengések, lakói minden alkalommal nagy szorgalommal építették újjá. A Chinameca-vulkán, más néven Pacayal, kiváló túrázási és természetmegfigyelési lehetőségeket kínál a kalandvágyóknak.",
-      ro: "",
+      ro: "Chinameca este un oraș din departamentul San Miguel, cunoscut pentru peisajele sale montane și pentru contribuția sa la industria cafelei din regiunea estică a țării. Orașul oferă o experiență autentică a vieții rurale din estul El Salvadorului, unde tradițiile agricole se împletesc cu spiritul antreprenorial local. Vizitatorii pot admira frumusețea naturală a zonei, care este caracterizată prin soluri fertile și un climat ideal pentru agricultură. Educație K6 — Geografie: industria cafelei și resursele agricole din estul salvadorian.",
       en: ""
+    },
+    factsAdvanced: {
+      ro: ["Chinameca este recunoscută pentru producția de cafea de înaltă calitate din regiunea San Miguel.", "Solurile fertile din zonă susțin o diversitate bogată de culturi agricole.", "Orașul oferă o perspectivă asupra vieții rurale din estul El Salvadorului.", "Contribuția la economia regională prin exportul de cafea este semnificativă.", "Peisajele montane din împrejurimile orașului sunt ideale pentru ecoturism și drumeții.", "Tradițiile agricole sunt păstrate cu mândrie de către comunitatea locală."]
     },
     facts: {
       de: ["Lage am Chinameca-Vulkan.", "Anbau von Kaffee.", "Bekannt für das Fest zu Ehren von San Juan.", "Ländliche Atmosphäre."],
@@ -1844,8 +1607,11 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
     descriptionAdvanced: {
       de: "Ciudad Barrios erlangte weltweite Bekanntheit als Geburtsort des heiligen Oscar Arnulfo Romero, des Märtyrer-Erzbischofs von San Salvador. Gelegen in den kühlen Bergen von San Miguel, ist die Stadt ein wichtiger Wallfahrtsort für Gläubige aus aller Welt. Neben seiner spirituellen Bedeutung ist Ciudad Barrios ein führendes Zentrum für die Produktion von hochwertigem Hochlandkaffee, der an den nebelverhangenen Hängen der umliegenden Berge gedeiht.",
       hu: "Ciudad Barrios világszerte Szent Oscar Arnulfo Romero, San Salvador vértanú érsekének szülőhelyeként vált ismertté. San Miguel hűvös hegyei között fekszik, és fontos zarándokhely a hívők számára a világ minden tájáról. Oscar Romero szülőháza ma múzeumként és az elmélyülés helyeként szolgál az idelátogatók számára. Spirituális jelentősége mellett Ciudad Barrios a kiváló minőségű magaslati kávétermelés egyik vezető központja is. A kávészüret idején a város élete felbolydul, hiszen ez az év legfontosabb gazdasági eseménye. A hegyoldalakat borító ültetvények és a ködös panoráma különleges hangulatot áraszt.",
-      ro: "",
+      ro: "Ciudad Barrios, situat în departamentul San Miguel, este un oraș cu o semnificație istorică și culturală importantă, fiind punctul de origine al unor figuri istorice influente din El Salvador. Orașul îmbină dezvoltarea sa modernă cu respectul pentru tradițiile locale, oferind un mediu primitor pentru cei care doresc să exploreze cultura din regiunea estică. Poziția sa geografică într-o zonă muntoasă îi oferă un climat plăcut și o vedere panoramică asupra împrejurimilor. Educație K8 — Istorie și Cultură: figuri istorice și dezvoltare regională.",
       en: ""
+    },
+    factsAdvanced: {
+      ro: ["Ciudad Barrios este locul de origine al unor personalități istorice importante ale țării.", "Orașul se remarcă prin amestecul de dezvoltare modernă și respect pentru tradițiile locale.", "Poziția sa în regiunea muntoasă oferă un climat ideal și peisaje spectaculoase.", "Comunitatea pune un accent pe promovarea istoriei sale culturale unice.", "Orașul atrage vizitatori prin ofertele sale culturale și ospitalitatea localnicilor.", "Ciudad Barrios reprezintă un centru de dezvoltare important pentru estul El Salvadorului."]
     },
     facts: {
       de: ["Geburtsort von Óscar Romero.", "Wichtiger Wallfahrtsort.", "Anbau von Hochlandkaffee.", "Bergige Landschaft."],
@@ -1875,14 +1641,17 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
     description: { de: "Eine Stadt im Departement San Miguel mit Lenca-Wurzeln.", hu: "Város San Miguel megyében, lenca gyökerekkel.", ro: "Un oraș în departamentul San Miguel, cu rădăcini lenca.", en: "A city in the San Miguel department with Lenca roots." },
     descriptionAdvanced: {
       de: "Lolotique ist eine charmante Stadt mit einem reichen indigenen Lenca-Erbe im Herzen des Departements San Miguel. Die Stadt ist bekannt für ihre farbenfrohen Traditionen und Legenden, die seit Jahrhunderten mündlich überliefert werden. Mit ihrer entspannten ländlichen Atmosphäre und einer Wirtschaft, die auf der Landwirtschaft und kleinen Handwerksbetrieben basiert, bietet Lolotique einen Einblick in das authentische Leben in der östlichen Region El Salvadors.",
-      hu: "Lolotique egy bájos város gazdag lenca őslakos örökséggel San Miguel megye szívében. A település híres színes hagyományairól és legendáiról, amelyeket évszázadok óta szájról szájra adnak tovább a helyiek. A nyugodt vidéki hangulat és a mezőgazdaságra, valamint kis kézműves műhelyekre épülő gazdaság hiteles betekintést nyújt a keleti országrész életébe. Különösen nevezetes a „La Gigantona” figurájáról, ami egy óriási táncoló bábu a népünnepélyek alkalmával. A lakók híresek ügyességükről a tradicionális textíliák és hímzések készítésében. Nevének jelentése a lenca nyelven „fürjek dombja”.",
-      ro: "",
+      hu: "Lolotique egy bájos város gazdag lenca őslakos örökséggel San Miguel megye szívében. A település híres színes hagyományairól és legendáiról, amelyeket évszázadok óta szájról szájra adnak tovább a helyiek. A nyugodt vidéki hangulat és a mezőgazdaságra, valamint kis kézműves műhelyekre épülő gazdaság hiteles betekintést nyújt a keleti országrész életébe. Különösen nevezetes a \"La Gigantona\" figurájáról, ami egy óriási táncoló bábu a népünnepélyek alkalmával. A lakók híresek ügyességükről a tradicionális textíliák és hímzések készítésében. Nevének jelentése a lenca nyelven \"fürjek dombja\".",
+      ro: "Lolotique, în departamentul San Miguel, este un oraș cu o atmosferă liniștită, renumit pentru tradițiile sale rurale și pentru peisajele montane care oferă un cadru natural superb pentru activități în aer liber. Viața orașului reflectă valorile comunităților salvadoriene tradiționale, unde solidaritatea și respectul pentru natură sunt fundamentale. Vizitatorii pot explora zona montană, descoperind diversitatea ecologică a regiunii estice. Educație K5 — Geografie: biodiversitate și viața în comunități rurale montane.",
       en: ""
+    },
+    factsAdvanced: {
+      ro: ["Lolotique se remarcă prin atmosfera sa liniștită și valorile comunitare tradiționale.", "Peisajele montane oferă oportunități excelente pentru ecoturism și drumeții.", "Solidaritatea locală este un element central al vieții din oraș.", "Regiunea este bogată în diversitate ecologică tipică estului salvadorian.", "Lolotique atrage vizitatori prin cadrul natural autentic și ospitalitatea sa.", "Tradițiile agricole și legătura cu natura definesc identitatea locuitorilor."]
     },
     facts: {
       de: ["Indigenes Lenca-Erbe.", "Berühmt für das Fest 'La Gigantona'.", "Landwirtschaftliche Gemeinde.", "Traditionelle Kultur."],
       hu: ["Lenca őslakos örökség.", "Híres a 'La Gigantona' ünnepről.", "Mezőgazdasági község.", "Hagyományos kultúra."],
-      ro: ["Moștenire indigenă Lenca.", "Renumit pentru festivalul „La Gigantona”.", "Comunitate agricolă.", "Cultură tradițională."],
+      ro: ["Moștenire indigenă Lenca.", "Renumit pentru festivalul \"La Gigantona\".", "Comunitate agricolă.", "Cultură tradițională."],
       en: ["Indigenous Lenca heritage.", "Famous for the 'La Gigantona' festival.", "Agricultural community.", "Traditional culture."]
     },
     factsAdvanced: {
@@ -1892,8 +1661,8 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
         "Die Bewohner von Lolotique sind bekannt für ihre Geschicklichkeit in der Herstellung traditioneller Textilien und Stickereien."
       ],
       hu: ["Gazdag lenca indián kulturális örökséggel rendelkezik.",
-        "Híres a „La Gigantona” nevű tradicionális óriásbábos ünnepéről.",
-        "Nevének jelentése lenca nyelven: „fürjek dombja”.",
+        "Híres a \"La Gigantona\" nevű tradicionális óriásbábos ünnepéről.",
+        "Nevének jelentése lenca nyelven: \"fürjek dombja\".",
         "Hagyományos textilművészetéről és hímzéseiről ismert falu."],
       ro: [],
       en: []
@@ -1941,8 +1710,14 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
     descriptionAdvanced: {
       de: "Pasaquina ist eine strategisch wichtige Grenzstadt im äußersten Osten El Salvadors. Durch ihre Lage direkt an der Grenze zu Honduras, am Übergang El Amatillo, ist die Stadt ein entscheidender Knotenpunkt für den internationalen Handel und Reiseverkehr in Mittelamerika. Das Leben in Pasaquina ist geprägt vom ständigen Fluss der Waren und Menschen, was der Stadt eine geschäftige und multikulturelle Atmosphäre verleiht.",
       hu: "Pasaquina egy stratégiai fontosságú határváros El Salvador legkeletibb részén, közvetlenül Honduras szomszédságában. Az El Amatillo határátkelőhely révén a város Közép-Amerika nemzetközi kereskedelmének és utazási forgalmának egyik kulcsfontosságú csomópontja. Pasaquina élete az emberek és áruk állandó áramlása körül forog, ami mozgalmas és multikulturális légkört kölcsönöz a településnek. A város emellett jelentős állatkereskedelmi központ is, ahol a szomszédos országok gazdái rendszeresen találkoznak. Számos szolgáltató egység, étterem és logisztikai bázis segíti a nemzetközi távolsági közlekedést a Panamericana mentén.",
-      ro: "",
+      ro: "Pasaquina este un oraș situat în departamentul La Unión, având o locație strategică în apropierea graniței cu Honduras. Economia sa este influențată de comerțul transfrontalier și de activitățile agricole, fiind un nod important pentru schimburile regionale. Comunitatea se remarcă prin vitalitatea sa și prin rolul pe care îl joacă în dezvoltarea economică a zonei de est. Educație K6 — Geografie: comerț transfrontalier și dezvoltare regională.",
       en: ""
+    },
+    factsAdvanced: {
+      ro: ["Pasaquina este un punct strategic pentru comerțul dintre El Salvador și Honduras.", "Economia orașului depinde semnificativ de fluxurile comerciale transfrontaliere.", "Orașul are o istorie îndelungată legată de schimburile regionale din estul țării.", "Poziția sa geografică îi conferă un rol esențial în dezvoltarea economică a departamentului La Unión.", "Tradițiile locale reflectă interacțiunea culturală constantă din zona de frontieră.", "Agricultura rămâne o sursă de bază pentru susținerea familiilor din mediul rural."]
+    },
+    factsAdvanced: {
+      ro: ["Pasaquina este un punct strategic pentru comerțul dintre El Salvador și Honduras.", "Economia orașului depinde semnificativ de fluxurile comerciale transfrontaliere.", "Orașul are o istorie îndelungată legată de schimburile regionale din estul țării.", "Poziția sa geografică îi conferă un rol esențial în dezvoltarea economică a departamentului La Unión.", "Tradițiile locale reflectă interacțiunea culturală constantă din zona de frontieră.", "Agricultura rămâne o sursă de bază pentru susținerea familiilor din mediul rural."]
     },
     facts: {
       de: ["Grenzübergang nach Honduras.", "Wichtiger Punkt für den Handel.", "Viehmärkte.", "Ländliches Zentrum."],
@@ -1970,12 +1745,15 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
     parent: "SV-CH",
     coords: [-89.15, 14.31],
     name: { de: "La Palma", hu: "La Palma", ro: "La Palma", en: "La Palma" },
-    description: { de: "Ein Bergdorf, berühmt für seine 'Naif'-Kunst, die von Fernando Llort initiiert wurde.", hu: "Hegyi falu, híres a Fernando Llort által kezdeményezett 'naiv' művészetről.", ro: "Un sat montan renumit pentru arta sa „naivă”, inițiată de Fernando Llort.", en: "A mountain town famous for its 'Naïf' art, initiated by Fernando Llort." },
+    description: { de: "Ein Bergdorf, berühmt für seine 'Naif'-Kunst, die von Fernando Llort initiiert wurde.", hu: "Hegyi falu, híres a Fernando Llort által kezdeményezett 'naiv' művészetről.", ro: "Un sat montan renumit pentru arta sa \"naivă\", inițiată de Fernando Llort.", en: "A mountain town famous for its 'Naïf' art, initiated by Fernando Llort." },
     descriptionAdvanced: {
       de: "La Palma ist die Wiege der modernen salvadorianischen Volkskunst und einer der inspirierendsten Orte des Landes. Gelegen in den kühlen Bergen von Chalatenango, wurde die Stadt durch den Künstler Fernando Llort verwandelt, der die lokale Bevölkerung in der 'Naif'-Malerei unterrichtete. Heute sind die Wände der Stadt, die Souvenirs und sogar die Kirche mit den ikonischen, farbenfrohen und stilisierten Motiven geschmückt, die El Salvador weltweit repräsentieren.",
-      hu: "La Palma a modern salvadori népművészet bölcsője és az ország egyik leginspirálóbb helyszíne Chalatenango hűvös hegyei között. A várost Fernando Llort művész munkássága tette világhírűvé, aki a helyi lakosságot a „naiv” festészetre és kézművességre tanította. Ma a város falait, az emléktárgyakat és még a templomot is az ikonikus, színes és stilizált motívumok díszítik, amelyek El Salvadort képviselik világszerte. 1984-ben ez a város volt az első béketárgyalások színhelye a polgárháború alatt. A fenyőerdőkkel övezett település emellett a természetjárók kedvelt célpontja is, közel az ország legmagasabb pontjához.",
-      ro: "",
+      hu: "La Palma a modern salvadori népművészet bölcsője és az ország egyik leginspirálóbb helyszíne Chalatenango hűvös hegyei között. A várost Fernando Llort művész munkássága tette világhírűvé, aki a helyi lakosságot a \"naiv\" festészetre és kézművességre tanította. Ma a város falait, az emléktárgyakat és még a templomot is az ikonikus, színes és stilizált motívumok díszítik, amelyek El Salvadort képviselik világszerte. 1984-ben ez a város volt az első béketárgyalások színhelye a polgárháború alatt. A fenyőerdőkkel övezett település emellett a természetjárók kedvelt célpontja is, közel az ország legmagasabb pontjához.",
+      ro: "La Palma, situat în departamentul Chalatenango, este renumit pentru stilul său artistic unic numit 'Estil de La Palma', inspirat din picturile lui Fernando Llort. Orașul este o destinație turistică de top, oferind o experiență vizuală inedită prin arta colorată care decorează aproape fiecare clădire și obiect artizanal. Situat într-un peisaj montan, La Palma oferă o atmosferă creativă care atrage artiști și turiști din toată lumea. Educație K7 — Artă și Cultură: artă populară și identitate regională.",
       en: ""
+    },
+    factsAdvanced: {
+      ro: ["La Palma este faimoasă pentru stilul artistic unic creat de Fernando Llort.", "Arta orașului este inspirată din tradițiile și simbolurile culturii salvadoriene.", "La Palma atrage numeroși turiști prin atmosfera sa artistică și creativă.", "Orașul este un centru important pentru producția de artizanat și suveniruri unice.", "Peisajul montan din Chalatenango oferă un cadru natural inspirațional.", "Stilul de La Palma a devenit un simbol al identității culturale salvadoriene."]
     },
     facts: {
       de: ["Zentrum der Naif-Kunst.", "Gegründet von Fernando Llort.", "Bunte, stilisierte Designs.", "Kühles Klima und Pinienwälder."],
@@ -2006,8 +1784,11 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
     descriptionAdvanced: {
       de: "Nueva Concepción ist eine prosperierende Stadt im Südwesten des Departements Chalatenango und ein entscheidender Motor für die regionale Wirtschaft. Die Stadt liegt in einem weiten, fruchtbaren Tal und ist bekannt für ihre starke landwirtschaftliche Produktion, insbesondere Viehzucht und Getreideanbau. Als geschäftiges Handelszentrum zieht Nueva Concepción Menschen aus dem ganzen Norden El Salvadors an und bietet ein lebhaftes städtisches Leben inmitten einer grünen Umgebung.",
       hu: "Nueva Concepción egy virágzó város Chalatenango megye délnyugati részén, és a regionális gazdaság egyik meghatározó motorja. Egy tágas, termékeny völgyben fekszik, és erős mezőgazdasági termeléséről, különösen az állattenyésztésről és a gabonatermesztésről ismert. Forgalmas kereskedelmi központként Nueva Concepción vonzza az embereket egész Észak-Salvadorból, élénk városi életet kínálva a zöld környezetben. A közelben folyó Lempa-folyó fontos erőforrást biztosít az öntözéshez és a helyi halászathoz is. A város híres a fejlett mezőgazdasági technikáiról és a lakók kiemelkedő termelékenységéről.",
-      ro: "",
+      ro: "Nueva Concepción, în departamentul Chalatenango, este un oraș cu o economie bazată pe agricultură și creșterea animalelor, fiind un centru vital pentru regiunea de nord. Orașul se remarcă prin dezvoltarea sa graduală și prin spiritul antreprenorial al locuitorilor săi. Peisajele sale verzi și clima plăcută fac din Nueva Concepción o destinație interesantă pentru cei care doresc să descopere partea rurală a statului El Salvador. Educație K6 — Geografie: dezvoltare agricolă și viața rurală în nordul țării.",
       en: ""
+    },
+    factsAdvanced: {
+      ro: ["Nueva Concepción este un centru agricol esențial pentru departamentul Chalatenango.", "Creșterea animalelor contribuie semnificativ la economia locală.", "Orașul a cunoscut o dezvoltare constantă în ultimele decenii.", "Peisajele montane din împrejurimi oferă oportunități de drumeție și explorare.", "Comunitatea se bazează pe spiritul antreprenorial pentru progresul economic.", "Climatul plăcut și zonele verzi fac din oraș un loc primitor pentru vizitatori."]
     },
     facts: {
       de: ["Handelszentrum für den Norden.", "Landwirtschaft und Viehzucht.", "Lage in einem Tal.", "Verbindung zu anderen nördlichen Städten."],
@@ -2038,9 +1819,12 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
     description: { de: "Eine Stadt im Departement Morazán mit Lenca-Ursprüngen.", hu: "Város Morazán megyében, lenca eredettel.", ro: "Un oraș în departamentul Morazán, cu origini lenca.", en: "A city in the Morazán department with Lenca origins." },
     descriptionAdvanced: {
       de: "Osicala ist ein Ort mit tiefer historischer Identität im Departement Morazán, dessen Wurzeln bis in die Lenca-Zeit zurückreichen. Die Stadt liegt in einer wunderschönen Berglandschaft und bewahrt einen traditionellen Lebensstil, der eng mit der Natur und dem Land verbunden ist. Osicala ist ein Ort des Friedens und der Traditionen, wo alte Bräuche noch heute den sozialen Zusammenhalt der Gemeinschaft stärken.",
-      hu: "Osicala mély történelmi identitással rendelkező település Morazán megyében, melynek gyökerei egészen a lenca időkig nyúlnak vissza. A város gyönyörű hegyvidéki környezetben fekszik, és megőrzi a természettel és a földdel szorosan összefonódó hagyományos életmódot. Osicala a béke és a tradíciók helyszíne, ahol az ősi szokások ma is erősítik a közösség társadalmi összetartását. Nevének jelentése lenca nyelven „a csillogó kövek folyója”, utalva a közeli vizek tisztaságára. A környék lenyűgöző kilátást nyújt az északi hegyekre és a Torola-folyóra, vonzva a természetet kedvelő látogatókat.",
-      ro: "",
+      hu: "Osicala mély történelmi identitással rendelkező település Morazán megyében, melynek gyökerei egészen a lenca időkig nyúlnak vissza. A város gyönyörű hegyvidéki környezetben fekszik, és megőrzi a természettel és a földdel szorosan összefonódó hagyományos életmódot. Osicala a béke és a tradíciók helyszíne, ahol az ősi szokások ma is erősítik a közösség társadalmi összetartását. Nevének jelentése lenca nyelven \"a csillogó kövek folyója\", utalva a közeli vizek tisztaságára. A környék lenyűgöző kilátást nyújt az északi hegyekre és a Torola-folyóra, vonzva a természetet kedvelő látogatókat.",
+      ro: "Osicala este o localitate montană în departamentul Morazán, cunoscută pentru bogăția sa culturală și pentru tradițiile indigene care au supraviețuit timpului. Orașul oferă o perspectivă asupra istoriei profunde a regiunii Morazán, unde cultura pipil s-a împletit cu influențele coloniale. Peisajele sale spectaculoase și atmosfera tradițională atrag turiști dornici să descopere o latură autentică și mai puțin cunoscută a El Salvadorului. Educație K8 — Istorie: tradiții indigene și reziliența culturală.",
       en: ""
+    },
+    factsAdvanced: {
+      ro: ["Osicala păstrează elemente ale culturii indigene pipil în tradițiile sale.", "Orașul reflectă o istorie bogată și complexă a departamentului Morazán.", "Peisajele montane oferă panorame impresionante și trasee pentru ecoturism.", "Osicala este un loc ideal pentru a învăța despre reziliența culturală a comunităților indigene.", "Tradițiile locale sunt parte din viața zilnică a locuitorilor de aici.", "Atmosfera tradițională atrage vizitatorii în căutarea unor experiențe culturale unice."]
     },
     facts: {
       de: ["Lenca-Kultur und -Geschichte.", "Ländliche, bergige Gegend.", "Nahe dem Fluss Torola.", "Traditionelle Lebensweise."],
@@ -2055,7 +1839,7 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
         "Die Umgebung von Osicala bietet beeindruckende Ausblicke auf die Berge des Nordens und den Fluss Torola."
       ],
       hu: ["Ősi lenca indián gyökerekkel és gazdag történelemmel rendelkezik.",
-        "Nevének jelentése lenca nyelven: „a csillogó kövek folyója”.",
+        "Nevének jelentése lenca nyelven: \"a csillogó kövek folyója\".",
         "Hagyományos lenca táncairól és vallási ünnepeiről nevezetes.",
         "Festői kilátást nyújt az északi hegyvonulatokra és a Torola-folyóra."],
       ro: [],
@@ -2070,9 +1854,12 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
     description: { de: "Eine Gemeinde, die für ihre schwarze Töpferware bekannt ist.", hu: "Fekete kerámiájáról ismert község.", ro: "O municipalitate cunoscută pentru ceramica sa neagră.", en: "A municipality known for its black pottery." },
     descriptionAdvanced: {
       de: "Guatajiagua ist ein einzigartiges handwerkliches Zentrum in El Salvador, weltberühmt für seine 'Cerámica Negra' (schwarze Keramik). Die Handwerker dieser Stadt, die oft Lenca-Wurzeln haben, nutzen eine uralte Technik, bei der die Tonstücke mit einem natürlichen Farbstoff aus der Samenfrucht des Naciscolo-Baumes behandelt und dann bei speziellen Temperaturen gebrannt werden. Diese Kunstform ist ein unersetzlicher Teil des kulturellen Erbes von Morazán.",
-      hu: "Guatajiagua El Salvador egyedülálló kézműves központja, amely világszerte híres a „Cerámica Negra” (fekete kerámia) készítéséről. A város lenca gyökerekkel rendelkező mesterei egy ősi technikát alkalmaznak, amely során a cseréptárgyakat a naciscolo fa terméséből nyert természetes festékkel kezelik, majd speciális eljárással égetik ki. Ez a művészeti forma Morazán megye kulturális örökségének pótolhatatlan része, amelyet generációról generációra adnak tovább. A kerámia jellegzetes fekete színét kémiai mázak nélkül, tiszta füstölési és festési eljárással érik el. Számos családi műhelyben a látogatók maguk is végigkísérhetik a tárgyak születését.",
-      ro: "",
+      hu: "Guatajiagua El Salvador egyedülálló kézműves központja, amely világszerte híres a \"Cerámica Negra\" (fekete kerámia) készítéséről. A város lenca gyökerekkel rendelkező mesterei egy ősi technikát alkalmaznak, amely során a cseréptárgyakat a naciscolo fa terméséből nyert természetes festékkel kezelik, majd speciális eljárással égetik ki. Ez a művészeti forma Morazán megye kulturális örökségének pótolhatatlan része, amelyet generációról generációra adnak tovább. A kerámia jellegzetes fekete színét kémiai mázak nélkül, tiszta füstölési és festési eljárással érik el. Számos családi műhelyben a látogatók maguk is végigkísérhetik a tárgyak születését.",
+      ro: "Guatajiagua, situat în departamentul Morazán, este faimos pentru olăritul său tradițional cu argilă neagră, o tehnică transmisă din generație în generație. Orașul reprezintă un centru de artizanat de o valoare inestimabilă, păstrând metodele străvechi care îi conferă ceramicii sale un caracter unic și distinctiv. Vizitatorii pot observa procesul de fabricație și pot achiziționa piese de artizanat direct de la sursă. Educație K7 — Artă și Știință: tehnici de olărit și proprietățile argilei.",
       en: ""
+    },
+    factsAdvanced: {
+      ro: ["Guatajiagua este renumit pentru olăritul său tradițional cu argilă neagră.", "Tehnicile folosite sunt străvechi și specifice acestui oraș.", "Ceramica neagră din Guatajiagua este apreciată pentru designul și durabilitatea sa.", "Vizitatorii pot vedea direct procesul de producție artizanală.", "Orașul joacă un rol vital în menținerea tradițiilor de artizanat salvadorian.", "Artizanatul local este o sursă importantă de venit pentru familiile din zonă."]
     },
     facts: {
       de: ["Berühmt für schwarze Töpferware.", "Indigenes Lenca-Handwerk.", "Einzigartige Brenntechnik.", "Kulturelles Erbe."],
@@ -2104,8 +1891,11 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
     descriptionAdvanced: {
       de: "San Ignacio ist das Epizentrum des Bergtourismus in El Salvador und liegt eingebettet in die majestätische Gebirgskette von Alotepeque-Metapán. Bekannt für sein erfrischend kühles Klima und seine Pinienwälder, dient die Stadt als Basislager für Abenteurer, die den Cerro El Pital erklimmen wollen. Mit seinen gemütlichen Berghütten, der hochwertigen Kunsthandwerksproduktion und der Nähe zur Grenze nach Honduras bietet San Ignacio ein alpines Erlebnis mitten in den Tropen.",
       hu: "San Ignacio El Salvador hegyi turizmusának epicentruma, az Alotepeque-Metapán hegység fenséges láncai között fekszik. Frissítően hűvös klímájáról és fenyőerdőiről ismert, valamint bázisként szolgál a kalandvágyók számára, akik az ország legmagasabb pontját, a Cerro El Pitalt akarják meghódítani. Hangulatos hegyi házaival, minőségi kézműves termékeivel és a hondurasi határ közelségével San Ignacio egyfajta alpesi élményt nyújt a trópusokon. A város emellett az organikus zöldségtermesztés és a magaslati kávétermelés egyik vezető központja az országban. A túraútvonalak mentén egyedülálló flóra és fauna, többek között ritka orchideafajok fedezhetők fel.",
-      ro: "",
+      ro: "San Ignacio, în departamentul Chalatenango, este cunoscut pentru clima sa rece și pentru peisajele sale montane superbe, fiind o destinație populară pentru turismul de relaxare și natură. Orașul se află în apropierea muntelui El Pital, cel mai înalt punct din țară, oferind aventurierilor acces la experiențe montane unice. Atmosfera liniștită și cadrul natural fac din San Ignacio locul ideal pentru a scăpa de căldura tropicală. Educație K7 — Geografie: climă montană și ecosisteme de mare altitudine.",
       en: ""
+    },
+    factsAdvanced: {
+      ro: ["San Ignacio are o climă răcoroasă, fiind o evadare din căldura tropicală.", "Orașul este poarta de acces către muntele El Pital, cel mai înalt punct din El Salvador.", "Peisajele montane oferă condiții perfecte pentru ecoturism.", "Zona este recunoscută pentru producția de fructe temperate precum căpșunile.", "San Ignacio atrage turiști în căutarea unui climat relaxant și a naturii.", "Biodiversitatea la mare altitudine este o atracție cheie a regiunii."]
     },
     facts: {
       de: ["Beliebtes Ziel für Bergtourismus.", "Kühles Klima und Natur.", "Nahe Cerro El Pital.", "Grenznähe zu Honduras."],
@@ -2135,7 +1925,7 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
     description: { de: "Eine Stadt in einer Kaffeeanbauregion im Departement Usulután.", hu: "Város egy kávétermesztő régióban Usulután megyében.", ro: "Un oraș într-o regiune de cultivare a cafelei în departamentul Usulután.", en: "A city in a coffee-growing region in the Usulután department." },
     descriptionAdvanced: {
       de: "Santiago de María liegt malerisch zwischen den Gipfeln der Sierra Tecapa-Chinameca und ist eine der wichtigsten Kaffeestädte El Salvadors. Die Stadt ist geprägt von einer stolzen Geschichte des Kaffeeanbaus, die sich in ihren prächtigen kolonialen Bauten und der geschäftigen Atmosphäre während der Erntezeit widerspiegelt. Auf einer angenehmen Höhe gelegen, bietet die Stadt atemberaubende Ausblicke auf die umliegenden Vulkane und die Pazifikküste in der Ferne.",
-      hu: "Santiago de María festői módon terül el a Sierra Tecapa-Chinameca csúcsai között, és El Salvador egyik legfontosabb „kávévárosaként” tartják számon. A települést a kávétermesztés büszke történelme határozza meg, ami tükröződik impozáns koloniális épületeiben és a szüret idején tapasztalható élénk forgalomban. Kellemes magasságban fekszik, ahonnan lélegzetelállító kilátás nyílik a környező vulkánokra és a távolban csillogó Csendes-óceánra. Itt találhatók az ország legnagyobb és legtörténelmibb kávéfeldolgozó üzemei, az úgynevezett „beneficios”-ok. A város fontos kulturális központ is, amely aktívan támogatja a helyi művészeket és alkotókat.",
+      hu: "Santiago de María festői módon terül el a Sierra Tecapa-Chinameca csúcsai között, és El Salvador egyik legfontosabb \"kávévárosaként\" tartják számon. A települést a kávétermesztés büszke történelme határozza meg, ami tükröződik impozáns koloniális épületeiben és a szüret idején tapasztalható élénk forgalomban. Kellemes magasságban fekszik, ahonnan lélegzetelállító kilátás nyílik a környező vulkánokra és a távolban csillogó Csendes-óceánra. Itt találhatók az ország legnagyobb és legtörténelmibb kávéfeldolgozó üzemei, az úgynevezett \"beneficios\"-ok. A város fontos kulturális központ is, amely aktívan támogatja a helyi művészeket és alkotókat.",
       ro: "",
       en: ""
     },
@@ -2167,9 +1957,12 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
     description: { de: "Ein malerisches Bergdorf, bekannt für seinen Kratersee, die Laguna de Alegría.", hu: "Festői hegyi falu, a Laguna de Alegría krátertaváról ismert.", ro: "Un sat montan pitoresc, cunoscut pentru lacul său de crater, Laguna de Alegría.", en: "A picturesque mountain town known for its crater lake, Laguna de Alegría." },
     descriptionAdvanced: {
       de: "Alegría, dessen Name passenderweise 'Freude' bedeutet, ist eines der bezauberndsten Dörfer El Salvadors. Hoch in der Sierra Tecapa gelegen, ist es berühmt für die Laguna de Alegría, einen smaragdgrünen Kratersee, den der Dichter Gabriela Mistral als 'Smaragd Amerikas' bezeichnete. Das Dorf selbst besticht durch sein kühles Klima, die üppige Blumenpracht und die erstklassige Kaffeeproduktion, was es zu einem Muss für Naturliebhaber macht.",
-      hu: "Alegría, melynek neve találóan „örömet” jelent, El Salvador egyik legvarázslatosabb hegyi faluja. A Sierra Tecapa magaslatain fekvő település híres a Laguna de Alegría krátertóról, amelyet Gabriela Mistral költőnő Amerika smaragdjának nevezett. A falu hűvös klímájával, buja virágpompájával és első osztályú kávétermelésével nyűgözi le a látogatókat, így a természet szerelmeseinek kötelező úti cél. A krátertó élénk zöld színét a vulkáni víz magas kéntartalmának köszönheti, ami misztikus látványt nyújt. Alegría emellett országszerte ismert speciális faiskoláiról is, ahol egzotikus növények hihetetlen választékát nevelik.",
-      ro: "",
+      hu: "Alegría, melynek neve találóan \"örömet\" jelent, El Salvador egyik legvarázslatosabb hegyi faluja. A Sierra Tecapa magaslatain fekvő település híres a Laguna de Alegría krátertóról, amelyet Gabriela Mistral költőnő Amerika smaragdjának nevezett. A falu hűvös klímájával, buja virágpompájával és első osztályú kávétermelésével nyűgözi le a látogatókat, így a természet szerelmeseinek kötelező úti cél. A krátertó élénk zöld színét a vulkáni víz magas kéntartalmának köszönheti, ami misztikus látványt nyújt. Alegría emellett országszerte ismert speciális faiskoláiról is, ahol egzotikus növények hihetetlen választékát nevelik.",
+      ro: "Alegria, situat în departamentul Usulután, este faimos pentru laguna sa vulcanică cu apă verde-smarald și pentru grădinile sale suspendate care oferă o vedere panoramică spectaculoasă asupra văii. Orașul este o destinație turistică preferată pentru iubitorii de natură, datorită climei sale plăcute și atmosferei relaxante. Tradițiile locale de cultivare a florilor și cafelei adaugă un farmec aparte acestei localități montane. Educație K7 — Geografie: lacuri vulcanice și turism montan.",
       en: ""
+    },
+    factsAdvanced: {
+      ro: ["Laguna din Alegria este cunoscută pentru culoarea sa verde-smarald datorită sulfului.", "Orașul este situat la o altitudine care îi conferă o climă răcoroasă și plăcută.", "Alegria este renumită pentru grădinile sale suspendate și producția de flori.", "Regiunea este un centru important pentru cultivarea cafelei de înaltă calitate.", "Laguna vulcanică este o atracție majoră pentru drumeții și relaxare în natură.", "Alegria oferă vederi panoramice spectaculoase asupra regiunii Usulután."]
     },
     facts: {
       de: ["Heimat der Laguna de Alegría.", "Smaragdgrüner Kratersee.", "Anbau von Zierpflanzen.", "Kühles und angenehmes Klima."],
@@ -2185,7 +1978,7 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
       ],
       hu: ["Itt található a smaragdzöld Laguna de Alegría krátertó.",
         "Híres a hűvös klímájáról és az egzotikus növényeket nevelő kertészeteiről.",
-        "A népszerű „Mirador de las Cien Gradas” (Száz lépcső kilátó) helyszíne.",
+        "A népszerű \"Mirador de las Cien Gradas\" (Száz lépcső kilátó) helyszíne.",
         "A Sierra Tecapa egyik legszebb és leglátogatottabb hegyi faluja."],
       ro: [],
       en: []
@@ -2199,9 +1992,12 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
     description: { de: "Eine Stadt in der Region der Nonualcos im Departement La Paz.", hu: "Város a nonualco-i régióban, La Paz megyében.", ro: "Un oraș în regiunea Nonualcos, în departamentul La Paz.", en: "A city in the region of the Nonualcos in the La Paz department." },
     descriptionAdvanced: {
       de: "San Juan Nonualco ist ein Ort mit einer starken historischen und kulturellen Identität, gelegen im Departement La Paz. Die Stadt ist Teil der Region der Nonualcos, die für ihren mutigen Widerstand unter der Führung von Anastasio Aquino im 19. Jahrhundert bekannt ist. Heute bewahrt die Stadt ihre Traditionen durch lebhafte Feste, handwerkliche Kunst und eine starke landwirtschaftliche Basis, die den Stolz ihrer Bewohner widerspiegelt.",
-      hu: "San Juan Nonualco erős történelmi és kulturális identitással rendelkező település La Paz megyében. A város a nonualco-i régió része, amely a 19. században Anastasio Aquino vezetésével folytatott bátor ellenállásáról vált ismertté. Ma a település élénk fesztiválokon, kézműves művészeten és erős mezőgazdasági bázison keresztül őrzi hagyományait, ami lakóinak büszkeségét tükrözi. Minden évben megrendezik a „Señor de la Caridad” ünnepét, amelyen olyan tradicionális táncokat mutatnak be, mint a tigris és a szarvas tánca. A város híres kézzel készített kerámiáiról és a textíliákról is, amelyek ősi motívumokat hordoznak.",
-      ro: "",
+      hu: "San Juan Nonualco erős történelmi és kulturális identitással rendelkező település La Paz megyében. A város a nonualco-i régió része, amely a 19. században Anastasio Aquino vezetésével folytatott bátor ellenállásáról vált ismertté. Ma a település élénk fesztiválokon, kézműves művészeten és erős mezőgazdasági bázison keresztül őrzi hagyományait, ami lakóinak büszkeségét tükrözi. Minden évben megrendezik a \"Señor de la Caridad\" ünnepét, amelyen olyan tradicionális táncokat mutatnak be, mint a tigris és a szarvas tánca. A város híres kézzel készített kerámiáiról és a textíliákról is, amelyek ősi motívumokat hordoznak.",
+      ro: "San Juan Nonualco, în departamentul La Paz, este un oraș cu o moștenire istorică profundă, cunoscut pentru celebrul său festival al 'Domnului de la Caritate'. Orașul îmbină tradițiile catolice cu moștenirea indigenă, creând o identitate culturală unică în regiune. Economia sa este susținută de agricultură, reflectând legătura strânsă a comunității cu pământul și valorile sale tradiționale. Educație K6 — Sociologie: festivaluri religioase și identitate comunitară.",
       en: ""
+    },
+    factsAdvanced: {
+      ro: ["San Juan Nonualco găzduiește festivalul anual al 'Domnului de la Caritate'.", "Orașul păstrează o combinație unică de tradiții catolice și indigene.", "Agricultura reprezintă baza economiei locale de generații întregi.", "Comunitatea pune un mare accent pe păstrarea patrimoniului istoric și cultural.", "San Juan Nonualco oferă o perspectivă asupra vieții rurale din departamentul La Paz.", "Tradițiile locale sunt piloni fundamentali ai coeziunii sociale în acest oraș."]
     },
     facts: {
       de: ["Historische Region der Nonualco-Indigenen.", "Landwirtschaftliches Zentrum.", "Nahe dem Vulkan Chichontepec.", "Traditionelle Kultur."],
@@ -2216,7 +2012,7 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
         "In der Umgebung wird hochwertiges Zuckerrohr angebaut, das eine wichtige Säule der lokalen Wirtschaft darstellt."
       ],
       hu: ["A nonualco-i őslakos ellenállás egyik történelmi bástyája.",
-        "Híres a tradicionális „tigris és szarvas tánca” népszokásáról.",
+        "Híres a tradicionális \"tigris és szarvas tánca\" népszokásáról.",
         "Fontos mezőgazdasági központ a Chichontepec-vulkán közelében.",
         "Gazdag kézműves hagyományokkal rendelkezik, különösen a kerámiaiparban."],
       ro: [],
@@ -2232,8 +2028,11 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
     descriptionAdvanced: {
       de: "Tecoluca ist eine flächenmäßig große und produktive Gemeinde im Departement San Vicente, die für ihren landwirtschaftlichen Reichtum geschätzt wird. Gelegen zwischen den Hängen des Vulkans San Vicente und dem fruchtbaren Tal des Río Lempa, ist die Stadt ein bedeutender Produzent von Cashewnüssen und Zuckerrohr. Tecoluca hat eine bewegte Geschichte und gilt heute als Vorreiter für Gemeinschaftsorganisation und nachhaltige landwirtschaftliche Entwicklung.",
       hu: "Tecoluca egy területileg nagy és termelékeny község San Vicente megyében, amelyet mezőgazdasági gazdagsága miatt nagyra értékelnek. A San Vicente-vulkán lejtői és a Río Lempa termékeny völgye között elhelyezkedő város a kesudió és a cukornád egyik legjelentősebb hazai termelője. Tecoluca mozgalmas történelemmel bír, és ma a közösségi önszerveződés és a fenntartható agrárfejlődés egyik úttörőjeként tartják számon. A község területén található az El Playón park, amely a vulkán érdekes lávaformációival várja az idelátogatókat. Lakói híresek a Lempa-folyó menti helyi ökoszisztéma védelme iránti elkötelezettségükről.",
-      ro: "",
+      ro: "Tecoluca este un oraș situat în departamentul San Vicente, într-o zonă caracterizată prin biodiversitate bogată și importanță istorică pentru dezvoltarea agricolă a țării. Orașul oferă acces la rezervații naturale și situri arheologice, fiind un punct de interes pentru cei care doresc să exploreze natura și istoria. Viața în Tecoluca păstrează un ritm tradițional, susținut de agricultură și de respectul pentru mediul înconjurător. Educație K7 — Geografie: biodiversitate și conservarea siturilor naturale.",
       en: ""
+    },
+    factsAdvanced: {
+      ro: ["Tecoluca este situată într-o zonă cu o biodiversitate bogată în departamentul San Vicente.", "Orașul oferă acces la situri arheologice și rezervații naturale importante.", "Agricultura rămâne pilonul principal al economiei locale de mult timp.", "Regiunea este un punct de interes pentru explorarea naturii și istoriei locale.", "Comunitatea promovează conservarea mediului înconjurător ca valoare esențială.", "Tecoluca păstrează tradiții rurale care definesc viața locuitorilor săi."]
     },
     facts: {
       de: ["Lage am Fluss Lempa.", "Landwirtschaftliche Produktion.", "Große, ländliche Gemeinde.", "Geschichte des Bürgerkriegs."],
@@ -2262,10 +2061,16 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
     name: { de: "Santiago Texacuangos", hu: "Santiago Texacuangos", ro: "Santiago Texacuangos", en: "Santiago Texacuangos" },
     description: { de: "Eine Stadt mit Blick auf den Ilopango-See.", hu: "Város, amely az Ilopango-tóra néz.", ro: "Un oraș cu vedere la lacul Ilopango.", en: "A city overlooking Lake Ilopango." },
     descriptionAdvanced: {
-      de: "Santiago Texacuangos liegt malerisch auf einem Kamm über dem majestätischen Ilopango-See. Die Stadt ist bekannt für ihre spektakulären Aussichtspunkte, von denen aus man das klare blaue Wasser des Sees und die umliegenden Berge bewundern kann. Mit einer Geschichte, die bis in die präkolumbianische Zeit zurückreicht, bewahrt die Stadt stolz ihre Identität durch traditionelle Feste und ein lebhaftes Gemeinschaftsleben in der Nähe der Hauptstadt.",
-      hu: "Santiago Texacuangos festői környezetben, a fenséges Ilopango-tó feletti hegygerincen helyezkedik el. A város híres látványos kilátópontjairól, ahonnan megcsodálható a tó tiszta kék vize és a környező hegyvonulatok. Történelme a prekolumbián időkig nyúlik vissza, és büszkén őrzi identitását a tradicionális fesztiválokon és a főváros közelségében zajló élénk közösségi életen keresztül. Nevének jelentése nahuatl nyelven „a magas kőfalak helye”, ami utal a domborzati viszonyokra. A túrázók és fotósok kedvelt célpontja, akik a tökéletes panorámát keresik az Ilopango-tóról, miközben élvezik a helyi gasztronómia friss halételeit.",
-      ro: "",
+      de: "Santiago Texacuangos, ein traditionell geprägtes Städtchen im Departement San Salvador, bewahrt sich trotz der wachsenden urbanen Peripherie der Hauptstadt einen dörflichen Charme. Die Region ist bekannt für ihre historische Bedeutung und die landschaftlich reizvolle Lage in der Nähe des Ilopango-Sees. Das Leben in der Stadt folgt oft noch traditionellen Mustern, wobei die lokale Landwirtschaft und der Kleingewerbehandel das wirtschaftliche Rückgrat bilden. Ein Besuch bietet einen authentischen Einblick in das ländlich-urbane Gefüge El Salvadors. Geschichte K6 — Traditionelle Lebensformen.",
+      hu: "Santiago Texacuangos festői környezetben, a fenséges Ilopango-tó feletti hegygerincen helyezkedik el. A város híres látványos kilátópontjairól, ahonnan megcsodálható a tó tiszta kék vize és a környező hegyvonulatok. Történelme a prekolumbián időkig nyúlik vissza, és büszkén őrzi identitását a tradicionális fesztiválokon és a főváros közelségében zajló élénk közösségi életen keresztül. Nevének jelentése nahuatl nyelven \"a magas kőfalak helye\", ami utal a domborzati viszonyokra. A túrázók és fotósok kedvelt célpontja, akik a tökéletes panorámát keresik az Ilopango-tóról, miközben élvezik a helyi gasztronómia friss halételeit.",
+      ro: "Santiago Texacuangos este un oraș din departamentul San Salvador, cunoscut pentru priveliștile sale asupra lacului Ilopango și pentru atmosfera sa liniștită care atrage locuitorii capitalei în căutarea relaxării. Orașul îmbină dezvoltarea sa modernă cu păstrarea tradițiilor și a mediului natural, fiind un punct de reper pentru turismul de proximitate. Tradițiile agricole și peisajele sale rurale contribuie la farmecul acestei localități. Educație K5 — Geografie: turism de proximitate și dezvoltare urbană.",
       en: ""
+    },
+    factsAdvanced: {
+      ro: ["Santiago Texacuangos oferă vederi spectaculoase asupra lacului Ilopango.", "Orașul este o destinație populară pentru relaxare în apropierea capitalei.", "Dezvoltarea modernă se îmbină cu păstrarea tradițiilor locale în comunitate.", "Peisajele rurale și mediul natural sunt atracții cheie ale orașului.", "Santiago Texacuangos joacă un rol important în turismul de proximitate pentru San Salvador.", "Comunitatea pune accent pe echilibrul între dezvoltare și conservare."]
+    },
+    factsAdvanced: {
+      de: ["Die Stadt ist bekannt für ihre landschaftlich reizvolle Umgebung in der Nähe des Ilopango-Sees.", "Traditionelle Lebensformen prägen nach wie vor das tägliche Miteinander.", "Santiago Texacuangos gilt als einer der Orte, die ihren ursprünglichen Charakter bewahrt haben.", "Die lokale Wirtschaft stützt sich stark auf kleinbäuerliche Strukturen.", "Kulturelle Feste und religiöse Traditionen spielen eine zentrale Rolle im Jahreslauf.", "Die geografische Lage bietet einen hervorragenden Blick auf das umliegende vulkanische Bergland."]
     },
     facts: {
       de: ["Panoramablick auf den Ilopango-See.", "Indigene Herkunft.", "Töpferei-Tradition.", "Nahe San Salvador."],
@@ -2280,7 +2085,7 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
         "In der lokalen Gastronomie sind Gerichte aus frischem Fisch aus dem nahegelegenen See besonders beliebt."
       ],
       hu: ["Lélegzetelállító panorámát nyújt az Ilopango-tóra.",
-        "Nevének jelentése nahuatl nyelven: „a magas kőfalak helye”.",
+        "Nevének jelentése nahuatl nyelven: \"a magas kőfalak helye\".",
         "Fontos őslakos gyökerekkel és fazekas hagyományokkal rendelkezik.",
         "Népszerű hétvégi kirándulóhely a főváros közelsége miatt."],
       ro: [],
@@ -2294,10 +2099,16 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
     name: { de: "Tacuba", hu: "Tacuba", ro: "Tacuba", en: "Tacuba" },
     description: { de: "Eine Stadt im Departement Ahuachapán, die als Tor zum Nationalpark El Imposible dient.", hu: "Város Ahuachapán megyében, amely kapuként szolgál az El Imposible Nemzeti Parkhoz.", ro: "Un oraș în departamentul Ahuachapán, care servește drept poartă de acces la Parcul Național El Imposible.", en: "A city in the Ahuachapán department that serves as a gateway to El Imposible National Park." },
     descriptionAdvanced: {
-      de: "Tacuba ist ein unentdeckter Schatz im äußersten Westen El Salvadors, eingebettet in die nebelverhangenen Berge von Ahuachapán. Die Stadt ist berühmt für ihre imposanten Ruinen einer Kolonialkirche aus dem 16. Jahrhundert, die an die einstige Größe des Ortes erinnern. Als wichtigster Zugangspunkt zum Nationalpark El Imposible bietet Tacuba Naturfreunden eine atemberaubende Kulisse aus unberührtem Regenwald und eine tiefe Verbundenheit mit der indigenen Geschichte der Region.",
+      de: "Tacuba, gelegen im Westen des Landes in einer gebirgigen Region, ist ein Ort von historischer Bedeutung, der besonders für seine Verbindung zur indigenen Geschichte bekannt ist. Die Stadt ist ein Tor zum 'Parque Nacional El Imposible', einem der wichtigsten Naturschutzgebiete El Salvadors, was sie zu einem idealen Ausgangspunkt für Wanderungen und ökotouristische Aktivitäten macht. Das Stadtbild ist geprägt durch kolonialzeitliche Strukturen und eine entspannte, durch das kühle Klima der Höhenlage beeinflusste Atmosphäre. Geografie K7 — Naturschutz und Berglandschaften.",
       hu: "Tacuba egy felfedezetlen kincs El Salvador távoli nyugati részén, Ahuachapán ködös hegyei között. A város híres egy 16. századi gyarmati templom impozáns romjairól, amelyek a település egykori nagyságára emlékeztetnek. Mint az El Imposible Nemzeti Park egyik legfontosabb bejárati pontja, Tacuba a természet kedvelőinek érintetlen esőerdőket és az őslakos történelem mély kötődését kínálja. A település ad otthont az ország egyik utolsó olyan közösségének, amely még őrzi ősi szokásainak és kultúrájának egy részét. A Tacubából induló túrák a nemzeti parkba az ország leglátványosabb és legnehezebb túraútvonalai közé tartoznak.",
-      ro: "",
+      ro: "Tacuba, în departamentul Ahuachapán, este un oraș cu o istorie indigenă bogată, fiind punctul de plecare pentru explorarea Parcului Național El Imposible. Această localitate montană oferă vizitatorilor o experiență autentică, unde tradițiile indigene se întâlnesc cu una dintre cele mai spectaculoase rezervații naturale ale El Salvadorului. Tacuba atrage turiști prin natura sa sălbatică și prin moștenirea culturală ce datează de secole. Educație K8 — Geografie/Istorie: rezervații naturale și cultură indigenă.",
       en: ""
+    },
+    factsAdvanced: {
+      ro: ["Tacuba este poarta de acces către Parcul Național El Imposible.", "Orașul păstrează moștenirea culturală și istorică a popoarelor indigene din Ahuachapán.", "Rezervația El Imposible este una dintre cele mai importante zone de conservare din țară.", "Tacuba oferă o experiență autentică a vieții montane salvadoriene.", "Natura sălbatică a regiunii este un punct de atracție major pentru turiști.", "Moștenirea culturală a orașului este profund legată de tradițiile antice."]
+    },
+    factsAdvanced: {
+      de: ["Tacuba ist der ideale Ausgangspunkt für Touren in den Nationalpark El Imposible.", "Die Region hat eine starke indigene Prägung, die in der lokalen Kultur spürbar ist.", "Durch die Höhenlage herrscht in Tacuba ein angenehm kühleres Klima.", "Historisch gesehen war Tacuba ein bedeutendes Zentrum für die Ureinwohner der Region.", "Ökotourismus ist ein zunehmend wichtiger Pfeiler der lokalen Wirtschaft.", "Die umliegenden Wälder sind für ihre hohe Biodiversität bekannt."]
     },
     facts: {
       de: ["Tor zum Nationalpark El Imposible.", "Koloniale Kirche.", "Kaffeeanbau in der Umgebung.", "Bergige Landschaft."],
@@ -2391,7 +2202,7 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
     description: { de: "Eine Stadt im Departement Morazán mit Lenca-Erbe.", hu: "Város Morazán megyében, lenca örökséggel.", ro: "Un oraș în departamentul Morazán, cu moștenire lenca.", en: "A city in the Morazán department with Lenca heritage." },
     descriptionAdvanced: {
       de: "Chilanga ist eine traditionsreiche Gemeinde im Departement Morazán, deren Identität tief in den Lenca-Wurzeln der Region verankert ist. Gelegen in einer malerischen hügeligen Landschaft, ist die Stadt ein wichtiges landwirtschaftliches Zentrum, in dem Kaffee und Getreide angebaut werden. Die Ruhe des ländlichen Lebens und die herzliche Art der Bewohner machen Chilanga zu einem authentischen Beispiel für das soziale Gefüge im Osten El Salvadors.",
-      hu: "Chilanga egy tradicionális közösség Morazán megyében, amelynek identitása mélyen a régió lenca gyökereiben gyökerezik. A festői dombvidéken elhelyezkedő város fontos mezőgazdasági központ, ahol kávét és gabonát termesztenek a helyi piacokra. A vidéki élet nyugalma és a lakók szívélyes barátságossága Chilangát Kelet-Salvador társadalmi szövetének hiteles példájává teszi. Nevének jelentése az őslakos lenca nyelven „a kis jaguárok helye”, ami a környék ősi vadvilágára utal. A város ismert színes vallási ünnepeiről is, amelyek az őslakos és a koloniális szokások különleges keverékei, megőrizve a közösség egyedi kulturális arcát.",
+      hu: "Chilanga egy tradicionális közösség Morazán megyében, amelynek identitása mélyen a régió lenca gyökereiben gyökerezik. A festői dombvidéken elhelyezkedő város fontos mezőgazdasági központ, ahol kávét és gabonát termesztenek a helyi piacokra. A vidéki élet nyugalma és a lakók szívélyes barátságossága Chilangát Kelet-Salvador társadalmi szövetének hiteles példájává teszi. Nevének jelentése az őslakos lenca nyelven \"a kis jaguárok helye\", ami a környék ősi vadvilágára utal. A város ismert színes vallási ünnepeiről is, amelyek az őslakos és a koloniális szokások különleges keverékei, megőrizve a közösség egyedi kulturális arcát.",
       ro: "",
       en: ""
     },
@@ -2408,7 +2219,7 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
         "Chilanga dient als wichtiges Versorgungszentrum für die umliegenden kleinen Weiler in den Bergen von Morazán."
       ],
       hu: ["Mélyen gyökerező lenca indián eredetű település.",
-        "Nevének jelentése lenca nyelven: „a kis jaguárok helye”.",
+        "Nevének jelentése lenca nyelven: \"a kis jaguárok helye\".",
         "Fontos mezőgazdasági központ Morazán megye szívében.",
         "Hagyományos vallási ünnepei az ősi és a gyarmati rítusok keverékei."],
       ro: [],
@@ -2487,7 +2298,7 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
     description: { de: "Eine Küstengemeinde im Departement La Libertad.", hu: "Parti község La Libertad megyében.", ro: "O municipalitate de coastă în departamentul La Libertad.", en: "A coastal municipality in the La Libertad department." },
     descriptionAdvanced: {
       de: "Jicalapa ist eine versteckte Perle an der zerklüfteten 'Costa del Bálsamo' im Departement La Libertad. Die Stadt liegt spektakulär auf einer Klippe über dem Pazifik und bietet atemberaubende Ausblicke auf den Ozean. Jicalapa ist bekannt für seine tiefe religiöse Tradition, insbesondere für die Verehrung der Jungfrau von Jicalapa, deren Wallfahrtsort Gläubige aus dem ganzen Land anzieht, die hier Trost und Segen in einer malerischen Umgebung suchen.",
-      hu: "Jicalapa egy elrejtett gyöngyszem a vadregényes „Costa del Bálsamo” partvidéken, La Libertad megyében. A város látványosan, közvetlenül a Csendes-óceán feletti sziklán helyezkedik el, lélegzetelállító kilátást nyújtva a végtelen víztükörre. Jicalapa mély vallási hagyományairól ismert, különösen a Jicalapai Szűz tiszteletéről, akinek zarándokhelye az egész országból vonzza a hívőket, akik megnyugvást és áldást keresnek a festői környezetben. A település a balzsamtermelés egyik központja is, ami El Salvador egyik tradicionális exportterméke. Elszigeteltsége segített abban, hogy a helyi építészet és a hagyományos szokások jól megőrződjenek az idők során.",
+      hu: "Jicalapa egy elrejtett gyöngyszem a vadregényes \"Costa del Bálsamo\" partvidéken, La Libertad megyében. A város látványosan, közvetlenül a Csendes-óceán feletti sziklán helyezkedik el, lélegzetelállító kilátást nyújtva a végtelen víztükörre. Jicalapa mély vallási hagyományairól ismert, különösen a Jicalapai Szűz tiszteletéről, akinek zarándokhelye az egész országból vonzza a hívőket, akik megnyugvást és áldást keresnek a festői környezetben. A település a balzsamtermelés egyik központja is, ami El Salvador egyik tradicionális exportterméke. Elszigeteltsége segített abban, hogy a helyi építészet és a hagyományos szokások jól megőrződjenek az idők során.",
       ro: "",
       en: ""
     },
@@ -2520,7 +2331,7 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
     description: { de: "Eine Stadt im Departement Chalatenango.", hu: "Város Chalatenango megyében.", ro: "Un oraș în departamentul Chalatenango.", en: "A city in the Chalatenango department." },
     descriptionAdvanced: {
       de: "Tejutla ist eine der historischsten und charmantesten Gemeinden im Departement Chalatenango. Die Stadt bewahrt eine koloniale Essenz mit ihren gut erhaltenen Fassaden und dem traditionellen Stadtbild. Gelegen im hügeligen Landesinneren, dient Tejutla als wichtiges administratives und landwirtschaftliches Zentrum für den nördlichen Teil El Salvadors, wo Rinderzucht und Getreideanbau die Grundlage des Wohlstands bilden.",
-      hu: "Tejutla Chalatenango megye egyik legtörténelmibb és legbájosabb közössége, amely gyarmati esszenciát áraszt jól megőrzött homlokzataival és tradicionális városképével. A dombos belső országrészben fekvő település fontos adminisztratív és mezőgazdasági központként szolgál Észak-Salvadorban, ahol az állattenyésztés és a gabonatermesztés képezi a jólét alapját. Tejutla híres a „Semana Santa” (Húsvét) idején tartott ünnepségeiről, amikor gyönyörű homokszőnyegek díszítik az utcákat. A várost az egész északkeleti régió egyik legbiztonságosabb és legnyugodtabb településeként tartják számon. A helyi konyha büszkeségei a tradicionális húsételek és a saját készítésű tejtermékek.",
+      hu: "Tejutla Chalatenango megye egyik legtörténelmibb és legbájosabb közössége, amely gyarmati esszenciát áraszt jól megőrzött homlokzataival és tradicionális városképével. A dombos belső országrészben fekvő település fontos adminisztratív és mezőgazdasági központként szolgál Észak-Salvadorban, ahol az állattenyésztés és a gabonatermesztés képezi a jólét alapját. Tejutla híres a \"Semana Santa\" (Húsvét) idején tartott ünnepségeiről, amikor gyönyörű homokszőnyegek díszítik az utcákat. A várost az egész északkeleti régió egyik legbiztonságosabb és legnyugodtabb településeként tartják számon. A helyi konyha büszkeségei a tradicionális húsételek és a saját készítésű tejtermékek.",
       ro: "",
       en: ""
     },
@@ -2603,7 +2414,7 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
       hu: ["Történelmi pipil indián központ, a gyarmati kakaókereskedelem bölcsője.",
         "Itt találhatók a 16. századi San Esteban templom monumentális romjai.",
         "Híres a gyógyhatású termálforrásairól és szabadidőparkjairól.",
-        "Gasztronómiai specialitása a tradicionális „Sopa de Gallina India”."],
+        "Gasztronómiai specialitása a tradicionális \"Sopa de Gallina India\"."],
       ro: [],
       en: []
     }, image: "/poi-images/caluco-cities-v2.webp"},
@@ -2648,7 +2459,7 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
     description: { de: "Eine kleine Stadt im Departement La Libertad.", hu: "Kisváros La Libertad megyében.", ro: "Un mic oraș în departamentul La Libertad.", en: "A small city in the La Libertad department." },
     descriptionAdvanced: {
       de: "Sacacoyo ist eine charmante und ruhige Gemeinde, die sich in einer fruchtbaren Übergangszone zwischen der Küste und dem Hochland von La Libertad befindet. Die Stadt lebt primär von der Landwirtschaft, wobei der Anbau von Getreide und hochwertigem Kaffee eine zentrale Rolle spielt. Sacacoyo hat sich seinen dörflichen Charme bewahrt und bietet Besuchern einen authentischen Einblick in das ländliche El Salvador mit seinen herzlichen Bewohnern und farbenfrohen Traditionen.",
-      hu: "Sacacoyo egy bájos és nyugodt közösség, amely La Libertad megye partvidéke és hegyvidéke közötti termékeny átmeneti zónában fekszik. A város élete elsősorban a mezőgazdaságból származik, ahol a gabonatermesztés és a kiváló minőségű kávé központi szerepet játszik. Sacacoyo megőrizte falusias báját, és hiteles betekintést nyújt a vidéki El Salvador életébe szívélyes lakóival és színes hagyományaival. Nevének jelentése az őslakos nyelven „a füvek útja”, utalva a buja zöld környezetre. Az utóbbi években a település egyre népszerűbb kirándulóhellyé vált a városlakók számára, akik a természet nyugalmát keresik a főváros zajától távol.",
+      hu: "Sacacoyo egy bájos és nyugodt közösség, amely La Libertad megye partvidéke és hegyvidéke közötti termékeny átmeneti zónában fekszik. A város élete elsősorban a mezőgazdaságból származik, ahol a gabonatermesztés és a kiváló minőségű kávé központi szerepet játszik. Sacacoyo megőrizte falusias báját, és hiteles betekintést nyújt a vidéki El Salvador életébe szívélyes lakóival és színes hagyományaival. Nevének jelentése az őslakos nyelven \"a füvek útja\", utalva a buja zöld környezetre. Az utóbbi években a település egyre népszerűbb kirándulóhellyé vált a városlakók számára, akik a természet nyugalmát keresik a főváros zajától távol.",
       ro: "",
       en: ""
     },
@@ -2665,7 +2476,7 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
         "In den letzten Jahren hat Sacacoyo an Bedeutung als Naherholungsziel für Stadtbewohner gewonnen, die Ruhe in der Natur suchen."
       ],
       hu: ["Nyugodt mezőgazdasági közösség a hegyek és a tengerpart között.",
-        "Nevének jelentése nahuatl nyelven: „a füvek útja”.",
+        "Nevének jelentése nahuatl nyelven: \"a füvek útja\".",
         "Híres a minőségi kávétermeléséről és gabonaföldjeiről.",
         "Megőrizte eredeti falusias jellegét és vendégszerető légkörét."],
       ro: [],
@@ -2680,7 +2491,7 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
     description: { de: "Eine Gemeinde im Departement La Libertad, an der Balsam-Küste gelegen.", hu: "Község La Libertad megyében, a Balzsam-parton.", ro: "O municipalitate în departamentul La Libertad, situată pe Coasta Balsamului.", en: "A municipality in the department of La Libertad, located on the Balsam Coast." },
     descriptionAdvanced: {
       de: "Teotepeque liegt eingebettet in die wunderschöne und wilde 'Costa del Bálsamo' und ist eine Stadt mit einer tiefen Verbundenheit zum Meer und zum Wald. Bekannt für die Produktion des wertvollen Balsams, spielt die Gemeinde eine wichtige Rolle bei der Bewahrung dieser einzigartigen salvadorianischen Tradition. Die zerklüftete Geografie und die Nähe zu versteckten Stränden machen Teotepeque zu einem faszinierenden Ziel für Reisende, die das Abenteuer abseits der ausgetretenen Pfade suchen.",
-      hu: "Teotepeque a gyönyörű és vad „Costa del Bálsamo” partvidéken fészkeli be magát, ahol a tenger és az erdő szoros egységet alkot. Az értékes perubalzsam termeléséről ismert község fontos szerepet játszik ezen egyedülálló salvadori hagyomány megőrzésében. A tagolt földrajzi adottságok és a rejtett strandok közelsége Teotepequét izgalmas célponttá teszik a letért utak kalandjait kereső utazók számára. Nevének jelentése nahuatl nyelven „Isten dombja”, ami utal a táj spirituális és természetes szépségére. Itt a mai napig a több évszázados, szinte változatlan módszerekkel nyerik ki a balzsamot a fákból, ami a helyi gazdaság egyik fő oszlopa.",
+      hu: "Teotepeque a gyönyörű és vad \"Costa del Bálsamo\" partvidéken fészkeli be magát, ahol a tenger és az erdő szoros egységet alkot. Az értékes perubalzsam termeléséről ismert község fontos szerepet játszik ezen egyedülálló salvadori hagyomány megőrzésében. A tagolt földrajzi adottságok és a rejtett strandok közelsége Teotepequét izgalmas célponttá teszik a letért utak kalandjait kereső utazók számára. Nevének jelentése nahuatl nyelven \"Isten dombja\", ami utal a táj spirituális és természetes szépségére. Itt a mai napig a több évszázados, szinte változatlan módszerekkel nyerik ki a balzsamot a fákból, ami a helyi gazdaság egyik fő oszlopa.",
       ro: "",
       en: ""
     },
@@ -2697,7 +2508,7 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
         "In Teotepeque werden noch heute traditionelle Methoden zur Gewinnung von Balsam angewendet, die seit Jahrhunderten fast unverändert geblieben sind."
       ],
       hu: ["A festői Balzsam-part (Costa del Bálsamo) egyik ékköve.",
-        "Nevének jelentése nahuatl nyelven: „Isten dombja”.",
+        "Nevének jelentése nahuatl nyelven: \"Isten dombja\".",
         "A tradicionális balzsamkitermelés egyik legfontosabb helyszíne.",
         "Csodálatos panoráma a Csendes-óceánra a környező dombokról."],
       ro: [],
@@ -2719,7 +2530,7 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
     facts: {
       de: ["Grenzübergang 'La Hachadura'.", "Wichtiger Handelspunkt.", "Landwirtschaftliche Produkte.", "Ländliche Gemeinde."],
       hu: ["'La Hachadura' határátkelő.", "Fontos kereskedelmi pont.", "Mezőgazdasági termékek.", "Vidéki község."],
-      ro: ["Punct de trecere a frontierei „La Hachadura”.", "Punct comercial important.", "Produse agricole.", "Comunitate rurală."],
+      ro: ["Punct de trecere a frontierei \"La Hachadura\".", "Punct comercial important.", "Produse agricole.", "Comunitate rurală."],
       en: ["'La Hachadura' border crossing.", "Important commercial point.", "Agricultural products.", "Rural municipality."]
     },
     factsAdvanced: {
@@ -2871,10 +2682,13 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
     name: { de: "San Alejo", hu: "San Alejo", ro: "San Alejo", en: "San Alejo" },
     description: { de: "Eine Stadt im Departement La Unión.", hu: "Város La Unión megyében.", ro: "Un oraș în departamentul La Unión.", en: "A city in the department of La Unión." },
     descriptionAdvanced: {
-      de: "San Alejo ist eine traditionsreiche Stadt im Departement La Unión, die am Übergang zwischen der Küstenebene und dem Conchagua-Vulkan liegt. Die Stadt ist bekannt für ihre starke Viehzuchttradition und den Anbau von Grundnahrungsmitteln. Mit ihrer entspannten Atmosphäre und den herzlichen Bewohnern bietet San Alejo einen tiefen Einblick in die ländliche Kultur im Osten El Salvadors, wo koloniale Einflüsse und moderner landwirtschaftlicher Fleiß aufeinandertreffen.",
+      de: "San Alejo, im östlichen Departement La Unión gelegen, ist ein Ort, der vor allem durch seine strategische Nähe zum Golf von Fonseca und seine ländliche Prägung charakterisiert wird. Die Wirtschaft basiert überwiegend auf der Landwirtschaft, wobei die Viehzucht und der Ackerbau die zentralen Einnahmequellen bilden. Obwohl San Alejo eher abseits der großen urbanen Zentren liegt, spielt es eine wichtige Rolle in der regionalen Versorgung und Bewahrung ländlicher Traditionen. Die Stadt ist ein Ort der Ruhe, der sich durch eine einfache, tief in der Region verwurzelte Lebensweise auszeichnet. Geografie K7 — Ländliche Regionen.",
       hu: "San Alejo egy nagy múltú város La Unión megyében, a tengerparti síkság és a Conchagua-vulkán közötti átmeneti területen. A város erős állattenyésztési hagyományairól és az alapvető élelmiszerek termesztéséről ismert a keleti régióban. Nyugodt légkörével és szívélyes lakóival San Alejo mély bepillantást enged Kelet-Salvador vidéki kultúrájába, ahol a gyarmati hatások és a modern mezőgazdasági szorgalom találkoznak. Állatvásárai a megye legjelentősebb eseményei közé tartoznak, vonzva a kereskedőket a környező megyékből is. A városban ma is ápolják a tradicionális bőrművességet és a mezőgazdasági eszközök kézműves gyártását, megőrizve a múlt értékeit.",
       ro: "",
       en: ""
+    },
+    factsAdvanced: {
+      de: ["San Alejo liegt strategisch günstig im östlichen Departement La Unión.", "Die Viehzucht ist ein zentraler wirtschaftlicher Faktor für die Region.", "Die Stadt bewahrt ländliche Traditionen und eine ruhige Lebensweise.", "Die Nähe zum Golf von Fonseca beeinflusst das lokale Mikroklima und die Wirtschaftsstruktur.", "Der Ort spielt eine wichtige Rolle bei der Versorgung der umliegenden bäuerlichen Gemeinden.", "San Alejo steht beispielhaft für das Leben abseits der großen urbanen Zentren des Landes."]
     },
     facts: {
       de: ["Ländliche Gemeinde.", "Viehzucht und Landwirtschaft.", "Nahe dem Vulkan Conchagua.", "Traditionelle Lebensweise."],

@@ -20,10 +20,7 @@ export const poiExtraPeruReliefV2: POI[] = [
       en: "A cone-shaped stratovolcano whose snow-capped summit is the symbol of Arequipa."
     },
     descriptionAdvanced: {
-      de: "",
-      hu: "",
-      ro: "",
-      en: "The Misti Volcano is a magnificent, near-perfectly conical stratovolcano that serves as the iconic symbol of Arequipa, the 'White City.' Rising to 5,822 meters, its snow-capped peak dominates the skyline and has played a central role in the city's history and identity. Misti is considered an 'Apu' or sacred protector by the local people, and its volcanic sillar stone provided the building material for Arequipa's stunning colonial architecture. Although it is an active volcano, it has not had a major eruption in centuries, making it a popular but challenging destination for hikers and climbers. The view from the summit offers a breathtaking panorama of the Andes and the city below. It remains one of the most beautiful and culturally significant mountains in southern Peru."
+      en: "The Misti Volcano is the iconic and majestic symbol of Arequipa, the 'White City,' rising to a height of 5,822 meters. This near-perfectly conical stratovolcano dominates the city's skyline, its snow-capped peak visible from almost every street. Misti is more than just a mountain; it is a sacred 'Apu' or protector in Andean belief, and its volcanic 'sillar' stone provided the building material for Arequipa's stunning colonial architecture. Though currently dormant, it remains an active volcano with a history of significant eruptions that have shaped the region's geography. Climbing to the summit is a popular but grueling challenge for mountaineers, offering breathtaking views of the city and the surrounding volcanoes of Chachani and Pichu Pichu. Geography K7 — Stratovolcanoes and Andean tectonic activity."
     },
     facts: {
       de: ["Höhe von 5.822 Metern.", "Liegt nur 17 km vom Stadtzentrum entfernt."],
@@ -32,17 +29,10 @@ export const poiExtraPeruReliefV2: POI[] = [
       en: ["5,822 meters high.", "Located just 17 km from the city center."]
     },
     factsAdvanced: {
-      de: [],
-      hu: [],
-      ro: [],
-      en: [
-        "Located just 17 kilometers (11 miles) from the center of Arequipa.",
-        "Features a 450-meter-wide crater that still emits volcanic gases.",
-        "The summit is at an altitude of 5,822 meters (19,101 feet).",
-        "Inca mummies and artifacts have been discovered near its summit.",
-        "Visible from almost every point in the city of Arequipa."
-      ]
-    }, image: "/poi-images/misti-volcano-relief-v2.webp"},
+      en: ["A perfectly symmetrical stratovolcano reaching an elevation of 5,822 meters (19,101 feet).", "Located just 17 kilometers from the center of Arequipa, the second-largest city in Peru.", "Its name in Quechua means 'The Gentleman' or 'The Person of Rank'.", "The volcano has two concentric craters, the larger one being 830 meters wide.", "The 'sillar' (white volcanic tuff) used in Arequipa's buildings was ejected during Misti's past eruptions.", "Remains one of the most closely monitored volcanoes in Peru due to its proximity to a major city.", "Archaeologists found Inca sacrificial remains (Capacocha) near the summit in 1998.", "The last significant eruption occurred in the 15th century during the reign of Inca Pachacuti."]
+    },
+    image: "/poi-images/misti-volcano-relief-v2.webp"
+  },
   {
     id: "ubinas-volcano-relief-v2",
     type: "mountain",
@@ -61,10 +51,7 @@ export const poiExtraPeruReliefV2: POI[] = [
       en: "The most active volcano in Peru, located in the Moquegua region and known for its frequent ash eruptions."
     },
     descriptionAdvanced: {
-      de: "",
-      hu: "",
-      ro: "",
-      en: "The Ubinas Volcano is recognized as the most active volcano in Peru, known for its frequent and dramatic ash eruptions that impact the surrounding Moquegua region. This impressive stratovolcano has a distinct truncated cone shape and a large, deep crater that is constantly monitored by geologists. Its activity is a regular part of life for nearby communities, who have occasionally been evacuated due to significant ash fall. Despite its volatile nature, the volcano is a fascinating subject for scientific study and a powerful reminder of the geological forces at work in the Andes. The surrounding landscape is a rugged high-altitude desert, typical of the southern Peruvian volcanic belt. Ubinas remains a dominant and formidable natural feature of the southern highlands."
+      en: "Ubinas is the most active volcano in Peru, a powerful and restless stratovolcano located in the Moquegua region of the southern Andes. Its steep, truncated cone and massive crater are a constant source of geological activity, with frequent ash plumes and gas emissions that often lead to the evacuation of nearby farming communities. Ubinas is a 'U-shaped' caldera, a result of massive collapses in its distant past. The volcano is a focal point for international scientific study, as it provides critical data on volcanic behavior and the risks posed to high-altitude settlements. Despite the danger, the surrounding volcanic ash has created fertile soils that support traditional agriculture in the Ubinas Valley. It remains a stark reminder of the raw, unpredictable power of the Pacific Ring of Fire. Geography K7 — Active volcanism and hazard management."
     },
     facts: {
       de: ["Gipfel auf 5.672 Metern.", "Hat eine große Caldera."],
@@ -73,17 +60,10 @@ export const poiExtraPeruReliefV2: POI[] = [
       en: ["Summit at 5,672 meters.", "Has a massive caldera."]
     },
     factsAdvanced: {
-      de: [],
-      hu: [],
-      ro: [],
-      en: [
-        "The most active volcano in Peru, with more than 25 eruptions since the 16th century.",
-        "Located in the Moquegua department at 5,672 meters above sea level.",
-        "The summit crater is 1.4 kilometers (0.87 miles) wide.",
-        "Part of the Central Volcanic Zone of the Andes.",
-        "Its eruptions often produce massive plumes of ash that can reach miles into the atmosphere."
-      ]
-    }, image: "/poi-images/ubinas-volcano-relief-v2.webp"},
+      en: ["Peru's most active volcano, with over 25 significant eruptive episodes since the 16th century.", "Located in the General Sánchez Cerro province, Moquegua, at an altitude of 5,672 meters.", "The summit crater is 1.4 kilometers wide and contains a smaller, active inner cone.", "Eruptions are typically 'phreatomagmatic', involving the interaction of magma and water.", "A major source of volcanic ash that can travel hundreds of kilometers across southern Peru.", "Monitored 24/7 by the Southern Volcanological Observatory (OVS) of the IGP.", "The volcano's activity frequently affects the water quality and livestock of the region.", "Ubinas is part of the 'Central Volcanic Zone' of the Andes, driven by the subduction of the Nazca Plate."]
+    },
+    image: "/poi-images/ubinas-volcano-relief-v2.webp"
+  },
   {
     id: "huaynaputina-volcano-relief-v2",
     type: "mountain",
@@ -102,10 +82,7 @@ export const poiExtraPeruReliefV2: POI[] = [
       en: "A volcano without a distinct profile, famous for the largest volcanic eruption in South American history in 1600."
     },
     descriptionAdvanced: {
-      de: "",
-      hu: "",
-      ro: "",
-      en: "Huaynaputina is a volcano in southern Peru that is famous for producing the largest volcanic eruption in South American history in the year 1600. Unlike typical conical volcanoes, it lacks a distinct profile, appearing more as a series of large craters on a high plateau. The catastrophic explosion in 1600 devastated the surrounding region, burying entire villages and having a significant impact on the global climate for years. Today, the site is a place of profound geological interest, where researchers study the remains of the eruption and its long-term environmental effects. The area remains sparsely populated, a silent witness to one of nature's most powerful events. It stands as a stark reminder of the massive volcanic potential of the Peruvian Andes."
+      en: "Huaynaputina is a volcano of immense historical significance, responsible for the largest volcanic eruption in South American history in February 1600. Located in the Moquegua region, it is not a traditional mountain peak but a massive crater system. The 1600 eruption was so catastrophic that it caused a global 'volcanic winter,' leading to crop failures as far away as Russia and China. In Peru, the eruption buried dozens of villages in ash and pumice, fundamentally altering the geography and economy of the southern Andes for decades. Today, Huaynaputina is a site of intense geological and archaeological research, where scientists uncover 'frozen' colonial villages beneath the ash, much like a South American Pompeii. It remains a powerful symbol of the global reach of Andean volcanic events. History K8 — The 1600 eruption and global climate impacts."
     },
     facts: {
       de: ["Höhe liegt bei 4.850 Metern.", "Die Eruption beeinflusste das Weltklima."],
@@ -114,16 +91,7 @@ export const poiExtraPeruReliefV2: POI[] = [
       en: ["Elevation of 4,850 meters.", "The eruption influenced global climate."]
     },
     factsAdvanced: {
-      de: [],
-      hu: [],
-      ro: [],
-      en: [
-        "The 1600 eruption is estimated to have been a VEI 6, similar to Krakatoa.",
-        "Ash from the eruption was reported as far away as 1,000 kilometers in Greenland's ice.",
-        "Located in the Moquegua region at an altitude of 4,850 meters.",
-        "Caused a 'volcanic winter' that led to famine as far away as Russia.",
-        "The name means 'Young Volcano' in Quechua."
-      ]
+      en: ["The eruption of 1600 is rated as a 6 on the Volcanic Explosivity Index (VEI-6).", "Ejected an estimated 30 cubic kilometers of material into the atmosphere.", "The eruption caused a global temperature drop of about 1°C for several years.", "Ash from the eruption reached as far as Lima and even the coast of Chile.", "Buried the town of Quinistaquillas and several other indigenous settlements.", "The name Huaynaputina means 'The New Volcano' in the Quechua language.", "Today, the site features a massive caldera and diverse geothermal activity.", "A key location for 'tephrochronology' research to date historical events in the Andes."]
     }
   },
   {
@@ -144,10 +112,7 @@ export const poiExtraPeruReliefV2: POI[] = [
       en: "An extremely active, heavily glaciated stratovolcano near the Colca Canyon, often emitting ash clouds."
     },
     descriptionAdvanced: {
-      de: "",
-      hu: "",
-      ro: "",
-      en: "Sabancaya is an extremely active stratovolcano located in the Arequipa region, part of a volcanic complex that also includes the Ampato and Hualca Hualca mountains. Its name, meaning 'Tongue of Fire' in Quechua, is a fitting description for a volcano that is frequently in a state of eruption, emitting constant plumes of ash and steam. The volcano is heavily glaciated, and its activity often causes small lahars or mudflows as ice melts. It is one of the most closely monitored volcanoes in Peru due to its proximity to the fertile Colca Valley and its numerous inhabitants. For visitors to the Colca Canyon, the sight of Sabancaya's ash clouds on the horizon is a common and awe-inspiring experience. It remains a powerful and dynamic force in the southern Peruvian landscape."
+      en: "Sabancaya is one of Peru's most active and visually dramatic volcanoes, located in the Arequipa region near the Colca Canyon. Its name in Quechua means 'Tongue of Fire,' a reference to its frequent and spectacular ash and gas explosions. Sabancaya is part of a massive volcanic complex that includes the dormant peaks of Ampato and Hualca Hualca. Since 2016, the volcano has been in a state of near-constant moderate eruption, creating massive mushroom-shaped ash clouds that can reach heights of 10,000 meters. These plumes are a common sight for travelers visiting the Colca Valley, adding a sense of raw geological power to the landscape. The volcano is closely monitored by scientists who use it to study the plumbing systems of high-altitude Andean volcanoes and the risks to regional aviation and agriculture. Geography K7 — Explosive volcanism and Andean geology."
     },
     facts: {
       de: ["Erreicht 5.967 Meter Höhe.", "Sein Name bedeutet 'Feuerspeiender Berg'."],
@@ -156,17 +121,10 @@ export const poiExtraPeruReliefV2: POI[] = [
       en: ["Reaches 5,967 meters in elevation.", "Its name means 'fire-spitting mountain'."]
     },
     factsAdvanced: {
-      de: [],
-      hu: [],
-      ro: [],
-      en: [
-        "One of the most active volcanoes in South America in recent years.",
-        "The summit reaches an elevation of 5,976 meters (19,606 feet).",
-        "Began a new eruptive phase in 2016 that continues today.",
-        "Its name in Quechua perfectly reflects its fiery activity.",
-        "Located approximately 70 kilometers northwest of Arequipa."
-      ]
-    }, image: "/poi-images/sabancaya-volcano-relief-v2.webp"},
+      en: ["The name Sabancaya translates to 'Tongue of Fire' or 'Spitting Volcano'.", "Rising to 5,975 meters (19,603 feet), it is a classic Andean stratovolcano.", "Part of a north-south trending volcanic chain in the Cordillera Occidental.", "The current eruptive phase began in November 2016 and remains active.", "Explosions occur dozens of times daily, releasing columns of ash and volcanic gases.", "The ash from Sabancaya is a significant concern for the nearby Colca River watershed.", "Closely monitored by the INGEMMET and the IGP for public safety.", "The volcano is located approximately 70 kilometers northwest of Arequipa."]
+    },
+    image: "/poi-images/sabancaya-volcano-relief-v2.webp"
+  },
   {
     id: "ampato-mountain-relief-v2",
     type: "mountain",
@@ -185,10 +143,7 @@ export const poiExtraPeruReliefV2: POI[] = [
       en: "A dormant, ice-capped volcano in the Andes where the famous Inca ice mummy 'Juanita' was discovered in 1995."
     },
     descriptionAdvanced: {
-      de: "",
-      hu: "",
-      ro: "",
-      en: "Mount Ampato is a majestic dormant volcano in southern Peru that achieved worldwide fame in 1995 with the discovery of the 'Ice Maiden,' an exceptionally well-preserved Inca mummy named Juanita. This massive, ice-capped peak rises to 6,288 meters and is part of the same volcanic chain as Sabancaya. The discovery of Juanita, who was likely an Inca sacrifice to the mountain gods, provided incredible insights into the spiritual practices of the Inca Empire. Today, the mountain remains a significant site for high-altitude archaeology and a challenging destination for mountaineers. Its glaciated slopes and high-altitude terrain offer a raw and powerful encounter with the Andean environment. Ampato stands as a sacred guardian of history and a symbol of the deep connection between the Inca and their mountain peaks."
+      en: "Mount Ampato is a majestic and sacred peak in the Arequipa region, world-famous as the site where the 'Lady of Ampato' (Juanita) was discovered in 1995. Rising to 6,288 meters, this dormant stratovolcano was one of the most important ceremonial sites for the Incas, who believed the mountain was an 'Apu' that controlled the weather and water. The discovery of Juanita, a perfectly preserved frozen mummy of a young girl sacrificed over 500 years ago, provided unprecedented insight into Inca religious practices and life. The mummy was revealed after ash from the nearby Sabancaya volcano melted the summit's ice cap. Today, Ampato remains a place of profound archaeological mystery and a challenging destination for high-altitude climbers. It stands as a bridge between the spiritual world of the Incas and modern scientific discovery. History K8 — Inca sacrifices and high-altitude archaeology."
     },
     facts: {
       de: ["Erhebt sich auf 6.288 Meter.", "Teil der Cordillera Ampato."],
@@ -197,17 +152,10 @@ export const poiExtraPeruReliefV2: POI[] = [
       en: ["Rises to 6,288 meters.", "Part of the Cordillera Ampato."]
     },
     factsAdvanced: {
-      de: [],
-      hu: [],
-      ro: [],
-      en: [
-        "The site where the famous 'Mummy Juanita' was discovered by Johan Reinhard.",
-        "Part of the Cordillera Ampato in the Arequipa department.",
-        "The summit is at an elevation of 6,288 meters (20,630 feet).",
-        "A dormant stratovolcano that hasn't erupted in historical times.",
-        "Provides essential meltwater for the irrigation of the Colca Valley."
-      ]
-    }, image: "/poi-images/ampato-mountain-relief-v2.webp"},
+      en: ["An inactive stratovolcano reaching an elevation of 6,288 meters (20,630 feet).", "The 'Lady of Ampato' (Momia Juanita) was discovered here by Johan Reinhard in 1995.", "Juanita is one of the world's best-preserved mummies due to the extreme cold of the summit.", "The mountain features several Inca ritual sites and platforms near its peak.", "Located in the Cordillera Ampato, which also includes the active Sabancaya volcano.", "The name Ampato comes from the Aymara 'jamp'atu', meaning 'frog', a symbol of water.", "The summit offers spectacular views of the Colca Canyon and the southern Andes.", "Climbing Ampato requires significant acclimatization and technical mountaineering gear."]
+    },
+    image: "/poi-images/ampato-mountain-relief-v2.webp"
+  },
   {
     id: "coropuna-mountain-relief-v2",
     type: "mountain",
@@ -226,10 +174,7 @@ export const poiExtraPeruReliefV2: POI[] = [
       en: "The highest volcano in Peru and the third highest mountain in the country, crowned by a massive ice cap."
     },
     descriptionAdvanced: {
-      de: "",
-      hu: "",
-      ro: "",
-      en: "Coropuna is the highest volcano in Peru and the third highest mountain in the country, crowned by a massive and shimmering ice cap that covers over 50 square kilometers. This enormous volcanic complex has several peaks, with the highest reaching 6,425 meters. In Inca times, it was considered one of the most sacred 'Apus' in the entire empire, a site of great religious importance and frequent pilgrimages. The mountain's name, meaning 'Shrine on the Plateau,' reflects its spiritual status. Today, it is a critical source of water for the arid regions of southern Peru, although its glaciers are rapidly shrinking due to climate change. Its vast size and remote location make it a formidable and awe-inspiring presence on the horizon. It remains a pinnacle of Andean natural and cultural heritage."
+      en: "Mount Coropuna is a colossal and sacred massif in the Arequipa region, holding the title of the largest volcano in Peru by volume and its third-highest peak at 6,425 meters. This dormant stratovolcano features a massive, ice-covered dome with several distinct summits, making it a prominent feature of the southern Andean landscape. Like many high peaks, Coropuna was an essential 'Apu' for the Incas and pre-Inca cultures, who built one of the world's highest archaeological sites on its slopes. The mountain's massive glaciers are a critical 'water tower' for the arid valleys of Arequipa, though they are rapidly receding. Coropuna represents the immense geological scale of the Andes and the ancient spiritual bond between the people and the snow-capped giants that provide their life-giving water. Geography K7 — Volcanic massifs and Andean water resources."
     },
     facts: {
       de: ["Höhe von 6.425 Metern.", "Heilig für die lokale indigene Bevölkerung."],
@@ -238,17 +183,10 @@ export const poiExtraPeruReliefV2: POI[] = [
       en: ["Elevation of 6,425 meters.", "Sacred to the local indigenous people."]
     },
     factsAdvanced: {
-      de: [],
-      hu: [],
-      ro: [],
-      en: [
-        "The highest volcano in Peru at 6,425 meters (21,079 feet).",
-        "Features the largest ice cap in the tropics.",
-        "Was a major pilgrimage site for the Inca, with evidence of ancient roads and structures.",
-        "Located in the department of Arequipa, about 150 km from the city.",
-        "Its meltwater is vital for the Majes and Colca agricultural projects."
-      ]
-    }, image: "/poi-images/coropuna-mountain-relief-v2.webp"},
+      en: ["The highest volcano and third-highest mountain in Peru (6,425 meters).", "The largest volcanic massif in the country, covering an area of over 250 square kilometers.", "Features the largest ice cap in the tropical world outside of the Cordillera Blanca.", "The name Coropuna means 'Green Mountain' or 'Mountain of Gold' in Quechua.", "Home to the highest Inca ruins in the world, located at approximately 6,300 meters.", "Its melting glaciers feed the Majes and Ocoña river systems, essential for agriculture.", "A major destination for high-altitude mountaineering due to its non-technical but physically demanding routes.", "The massif contains at least six separate summits covered by a single permanent glacier."]
+    },
+    image: "/poi-images/coropuna-mountain-relief-v2.webp"
+  },
   {
     id: "chachani-mountain-relief-v2",
     type: "mountain",
@@ -267,10 +205,7 @@ export const poiExtraPeruReliefV2: POI[] = [
       en: "A massive volcanic complex near Arequipa, often considered the easiest six-thousander to climb due to the lack of glaciers."
     },
     descriptionAdvanced: {
-      de: "",
-      hu: "",
-      ro: "",
-      en: "Chachani is a massive volcanic complex that stands as a silent sentinel over the city of Arequipa, often considered one of the easiest 6,000-meter peaks to climb in the world. Its name means 'brave' or 'skirt' in the local language, likely referring to its broad and imposing profile. Despite its height of 6,057 meters, the lack of significant glaciers and its proximity to the city make it highly accessible for well-acclimatized hikers. The ascent provides incredible views of the city below and the neighboring Misti and Pichu Pichu volcanoes. The mountain's sillar stone, like that of Misti, was a key building material for Arequipa's historic buildings. Chachani remains a popular and iconic part of the southern Peruvian landscape, loved by both locals and visiting adventurers."
+      en: "Mount Chachani is a majestic and imposing volcanic massif that stands as the silent guardian of Arequipa, rising to 6,057 meters. Along with Misti and Pichu Pichu, it forms the dramatic mountain backdrop of the 'White City.' Chachani is famous among mountaineers as one of the 'easiest' 6,000-meter peaks in the world to climb, due to its non-technical terrain and relatively easy access from the city. Despite being a volcano, it lacks a single well-defined crater, consisting instead of several peaks and lava domes. For the people of Arequipa, Chachani is a vital part of their identity and a source of regional pride. The mountain's name, which means 'Skirt' in Quechua, likely refers to its broad, sprawling base. It remains a favorite destination for those seeking their first encounter with the extreme altitudes of the high Andes. Geography K7 — Volcanic complexes and high-altitude tourism."
     },
     facts: {
       de: ["Gipfel auf 6.057 Metern.", "Keine dauerhafte Eiskappe."],
@@ -279,17 +214,10 @@ export const poiExtraPeruReliefV2: POI[] = [
       en: ["Summit at 6,057 meters.", "No permanent ice cap."]
     },
     factsAdvanced: {
-      de: [],
-      hu: [],
-      ro: [],
-      en: [
-        "The highest mountain in the immediate vicinity of Arequipa.",
-        "The summit reaches 6,057 meters (19,872 feet).",
-        "Often climbed without the need for technical mountaineering gear like crampons.",
-        "Actually a complex of several volcanic domes rather than a single cone.",
-        "Visible from the Plaza de Armas of Arequipa."
-      ]
-    }, image: "/poi-images/chachani-mountain-relief-v2.webp"},
+      en: ["A sprawling volcanic complex reaching a maximum height of 6,057 meters (19,872 feet).", "Commonly climbed as a two-day expedition starting from the city of Arequipa.", "One of the only 6,000m peaks that can be reached without technical climbing equipment (in the dry season).", "The mountain is currently dormant and shows no signs of recent eruptive activity.", "Features a high-altitude desert environment with very low oxygen levels.", "Its name 'Chachani' is thought to mean 'Brave' or 'Skirt' depending on the dialect.", "Offers the best possible view of the active Misti and Sabancaya volcanoes.", "A critical area for the conservation of high-Andean flora like the yareta and ichu grass."]
+    },
+    image: "/poi-images/chachani-mountain-relief-v2.webp"
+  },
   {
     id: "cordillera-blanca-relief-v2",
     type: "relief",
@@ -308,10 +236,7 @@ export const poiExtraPeruReliefV2: POI[] = [
       en: "The highest tropical mountain range in the world, famous for its snow-capped peaks and turquoise glacier lakes."
     },
     descriptionAdvanced: {
-      de: "",
-      hu: "",
-      ro: "",
-      en: "The Cordillera Blanca is the highest tropical mountain range in the world, a spectacular 180-kilometer-long chain of snow-capped peaks and turquoise glacial lakes in northern Peru. Home to Huascarán, the country's highest mountain, it is a world-class destination for mountaineers, trekkers, and nature lovers. The range is part of the Huascarán National Park, a UNESCO World Heritage site that protects its unique flora, such as the giant Puya Raimondii, and rare fauna like the Andean condor. Its jagged granite walls and brilliant white glaciers create some of the most beautiful high-mountain scenery on Earth. The 'White Range' is also the source of vital water for Peru's coastal agriculture and hydroelectric power. It remains a place of immense natural beauty and a spiritual heartland for the people of the Ancash region."
+      en: "The Cordillera Blanca is the premier mountain range of the Peruvian Andes and the highest tropical mountain chain in the world. Stretching for 180 kilometers through the Ancash region, it is a landscape of staggering verticality and dazzling white ice, containing over 700 glaciers and more than 30 peaks that rise above 6,000 meters. The range is dominated by Mount Huascarán, Peru's highest point at 6,768 meters. The Cordillera Blanca was formed by the intense subduction of the Nazca Plate beneath South America, which pushed the granite peaks to extraordinary heights. This range is a world-class center for mountaineering, trekking, and climate change research. Its turquoise glacial lakes and deep valleys are a testament to the raw power of ice and tectonic forces. Geography K7 — Tectonic uplift and tropical mountain ranges."
     },
     facts: {
       de: ["Teil der peruanischen Anden.", "Beherbergt den Huascarán-Nationalpark."],
@@ -320,17 +245,10 @@ export const poiExtraPeruReliefV2: POI[] = [
       en: ["Part of the Peruvian Andes.", "Home to the Huascarán National Park."]
     },
     factsAdvanced: {
-      de: [],
-      hu: [],
-      ro: [],
-      en: [
-        "Contains 16 peaks over 6,000 meters and more than 50 over 5,700 meters.",
-        "Home to over 700 individual glaciers.",
-        "Features approximately 300 spectacular turquoise-colored glacial lakes.",
-        "Designated a UNESCO World Heritage site in 1985.",
-        "The most popular base for exploring the range is the city of Huaraz."
-      ]
-    }, image: "/poi-images/cordillera-blanca-relief-v2.webp"},
+      en: ["The highest and most extensive tropical mountain range in the world.", "Includes 33 peaks over 6,000 meters and hundreds of peaks over 5,000 meters.", "Protected entirely within the Huascarán National Park, a UNESCO World Heritage site.", "Contains more than 700 individual glaciers, though many are rapidly retreating.", "Home to Mount Huascarán (6,768m), the highest peak in the global tropics.", "A primary source of water for the Santa River, which powers much of northern Peru.", "Famous for spectacular trekking routes like the Santa Cruz and the Huayhuash circuit.", "The range's granite core is one of the largest batholiths in the Andes."]
+    },
+    image: "/poi-images/cordillera-blanca-relief-v2.webp"
+  },
   {
     id: "cordillera-huayhuash-relief-v2",
     type: "relief",
@@ -349,10 +267,7 @@ export const poiExtraPeruReliefV2: POI[] = [
       en: "A spectacular, compact high mountain range cherished globally by trekkers and mountaineers for its steep rock faces."
     },
     descriptionAdvanced: {
-      de: "",
-      hu: "",
-      ro: "",
-      en: "The Cordillera Huayhuash is a compact and incredibly jagged mountain range in the Peruvian Andes, widely considered one of the world's premier trekking destinations. Although smaller than the neighboring Cordillera Blanca, it is known for its even steeper rock faces, sharper peaks, and dramatic turquoise lagoons. The range is home to the legendary Yerupajá and Siula Grande, mountains that are famous for their extreme difficulty and beauty. The Huayhuash Circuit is a challenging trek that takes travelers over high mountain passes and through remote Andean villages, offering an intimate and raw experience of the mountains. Its isolation has helped preserve its pristine environment and traditional way of life. For many, a journey through the Huayhuash is the ultimate Andean adventure, a place where the scale and power of nature are truly overwhelming."
+      en: "The Cordillera Huayhuash is a compact but incredibly dramatic mountain range located south of the Cordillera Blanca, widely considered to offer the most spectacular trekking scenery in the world. Despite being only 30 kilometers long, the range contains a cluster of jagged, vertical peaks, including Yerupajá, the second-highest mountain in Peru. Huayhuash is famous for its razor-sharp ridges, turquoise lagoons like Carhuacocha, and its extreme isolation. The range gained global fame as the setting for the epic survival story 'Touching the Void' on Siula Grande. Unlike the more accessible ranges, Huayhuash remains a wild and challenging frontier for trekkers and climbers, where the scale of the mountains and the clarity of the high-altitude air create a landscape of breathtaking intensity. Geography K7 — Mountain geology and high-altitude wilderness."
     },
     facts: {
       de: ["Beliebte Trekkingroute.", "Beherbergt den Berg Yerupajá."],
@@ -361,17 +276,10 @@ export const poiExtraPeruReliefV2: POI[] = [
       en: ["Popular trekking route.", "Home to Mount Yerupajá."]
     },
     factsAdvanced: {
-      de: [],
-      hu: [],
-      ro: [],
-      en: [
-        "Contains seven peaks over 6,000 meters in a range only 30 kilometers long.",
-        "Setting for the famous survival story 'Touching the Void' on Siula Grande.",
-        "The trekking circuit typically takes 10 to 12 days to complete.",
-        "Home to the beautiful and iconic Carhuacocha and Jahuacocha lakes.",
-        "Located at the junction of the Ancash, Lima, and Huánuco regions."
-      ]
-    }, image: "/poi-images/cordillera-huayhuash-relief-v2.webp"},
+      en: ["Home to seven peaks over 6,000 meters in a very small geographical area.", "Yerupajá (6,634m) is the range's highest point and one of the world's most technical climbs.", "The 'Huayhuash Circuit' is consistently ranked as one of the top ten treks on the planet.", "Features the stunning Siula Grande, made famous by the book and film 'Touching the Void'.", "The range is the source of the Marañón River, the principal parent of the Amazon.", "Known for its high density of spectacular glacial lakes of intense blue and green colors.", "Relatively late to be explored by Europeans, with first ascents occurring primarily in the mid-20th century.", "Essential habitat for the Andean condor and several species of high-altitude hummingbirds."]
+    },
+    image: "/poi-images/cordillera-huayhuash-relief-v2.webp"
+  },
   {
     id: "pampa-de-la-joya-relief-v2",
     type: "relief",
@@ -390,10 +298,7 @@ export const poiExtraPeruReliefV2: POI[] = [
       en: "A desert plain in southern Peru, often used for space research due to its extreme aridity and Mars-like landscape."
     },
     descriptionAdvanced: {
-      de: "",
-      hu: "",
-      ro: "",
-      en: "The Pampa de La Joya is an extremely arid and desolate desert plain in southern Peru, located between the city of Arequipa and the Pacific coast. This landscape is famous among scientists for its Mars-like conditions, featuring red soils, high levels of ultraviolet radiation, and a complete lack of liquid water. Because of its extreme environment, it has become a key site for astrobiology research and the testing of equipment for future missions to the Red Planet. The pampa is also known for its 'medanos'—massive, crescent-shaped sand dunes that migrate across the plain driven by the wind. Despite its harshness, it has a haunting beauty and serves as a vital corridor for transport and energy projects in southern Peru. It is a place that feels truly otherworldly, right here on Earth."
+      en: "The Pampa de la Joya is a vast and arid desert plateau located in the Arequipa region of southern Peru. This stark landscape is a world-class example of a coastal desert, where extreme aridity and constant winds have created unique geological features. It is most famous for its 'Barchans'—migrating crescent-shaped sand dunes that move across the desert floor at a rate of several meters per year. The Pampa de la Joya is so dry and barren that it has been used by NASA and other space agencies to test instruments for Mars missions, as its soil chemistry and extreme conditions are remarkably similar to the Red Planet. This desert is a testament to the rain-shadow effect of the Andes and the power of wind as a geological force. Geography K7 — Aeolian landforms and planetary analogs."
     },
     facts: {
       de: ["Liegt in der Region Arequipa.", "Bekannt für sichelförmige Sanddünen."],
@@ -402,17 +307,10 @@ export const poiExtraPeruReliefV2: POI[] = [
       en: ["Located in the Arequipa region.", "Known for crescent-shaped sand dunes."]
     },
     factsAdvanced: {
-      de: [],
-      hu: [],
-      ro: [],
-      en: [
-        "One of the driest places on Earth, with almost no recorded rainfall.",
-        "Used by NASA and other space agencies for Mars-simulation studies.",
-        "Features the famous migrating sand dunes (medanos) of La Joya.",
-        "Located at an altitude of approximately 1,200 meters.",
-        "Crossed by the Pan-American Highway and major power transmission lines."
-      ]
-    }, image: "/poi-images/pampa-de-la-joya-relief-v2.webp"},
+      en: ["One of the driest places on Earth, with some areas receiving zero rainfall for decades.", "Famous for its near-perfect barchan dunes that migrate in the direction of the prevailing winds.", "A primary site for astrobiology research due to its extreme hyper-aridity.", "Located at an elevation of approximately 1,200 meters above sea level.", "The soil contains unique perchlorate and nitrate salts similar to those found on Mars.", "A key geological bridge between the Pacific coast and the Andean foothills.", "Includes the 'Sillar' quarries where the white stone for Arequipa's architecture is found nearby.", "The wind-sculpted landscape is a perfect example of mechanical weathering in desert environments."]
+    },
+    image: "/poi-images/pampa-de-la-joya-relief-v2.webp"
+  },
   {
     id: "colca-canyon-relief-v2",
     type: "relief",
@@ -431,10 +329,7 @@ export const poiExtraPeruReliefV2: POI[] = [
       en: "One of the deepest canyons in the world, carved by the Colca River, and an ideal spot for observing the Andean condor."
     },
     descriptionAdvanced: {
-      de: "",
-      hu: "",
-      ro: "",
-      en: "The Colca Canyon is one of the deepest and most spectacular canyons in the world, carved by the Colca River through the heart of the southern Peruvian Andes. Reaching depths of over 3,000 meters, it is twice as deep as the Grand Canyon and offers a landscape of incredible scale and beauty. The canyon is world-famous as one of the best places to observe the majestic Andean condor, which can be seen soaring on thermal updrafts from viewpoints like Cruz del Cóndor. The surrounding valley is home to vibrant traditional communities with ancient agricultural terraces that are still in use today. Visitors can also enjoy natural hot springs and explore picturesque colonial-era villages. Colca is not just a geological wonder, but a living cultural landscape that has been inhabited for thousands of years. It remains a highlight of any trip to southern Peru."
+      en: "The Colca Canyon is a geological wonder of staggering proportions, recognized as one of the deepest river canyons in the world. Carved over millions of years by the Colca River through the volcanic heart of the Andes, it reaches a maximum depth of 3,400 meters—twice the depth of the Grand Canyon. The canyon's walls offer a vivid cross-section of the Earth's history, revealing layers of ancient volcanic ash and sedimentary rock. Beyond its depth, the canyon is famous as the premier habitat for the Andean condor, which uses the canyon's powerful thermal currents to soar. The Colca is not just a natural monument but a living landscape, where ancient terraces and traditional villages highlight the enduring relationship between humans and the extreme terrain of the Andes. Geography K7 — River erosion and tectonic uplift."
     },
     facts: {
       de: ["Erreicht Tiefen von über 3.270 Metern.", "Ein beliebtes Touristenziel."],
@@ -443,17 +338,10 @@ export const poiExtraPeruReliefV2: POI[] = [
       en: ["Reaches depths of over 3,270 meters.", "A popular tourist destination."]
     },
     factsAdvanced: {
-      de: [],
-      hu: [],
-      ro: [],
-      en: [
-        "Maximum depth is approximately 3,400 meters (11,155 feet).",
-        "Home to the Cabana and Collagua people, who maintain distinct traditional dress and customs.",
-        "Features the pre-Inca terraces of the 'Valley of the Wonders'.",
-        "One of the most visited tourist destinations in the Arequipa region.",
-        "Site of several active volcanoes on its horizon, including Sabancaya."
-      ]
-    }, image: "/poi-images/colca-canyon-relief-v2.webp"},
+      en: ["Twice as deep as the Grand Canyon, reaching a depth of 3,400 meters.", "The canyon was formed by the Colca River cutting through a massive tectonic uplift.", "One of the most active volcanic regions in Peru, dominated by the Ampato and Sabancaya peaks.", "The valley features thousands of hectares of pre-Inca stone terraces that are still in use.", "The 'Cruz del Cóndor' is the most famous viewpoint for observing the world's largest flying birds.", "Located in the Caylloma province, roughly 160 kilometers from Arequipa.", "A primary destination for trekking, with routes descending to the tropical oasis on the canyon floor.", "The name 'Colca' refers to the small stone silos used by ancient people to store grain in the cliffs."]
+    },
+    image: "/poi-images/colca-canyon-relief-v2.webp"
+  },
   {
     id: "canon-del-pato-relief-v2",
     type: "relief",
@@ -472,10 +360,7 @@ export const poiExtraPeruReliefV2: POI[] = [
       en: "A narrow, spectacular rock gorge separating the Cordillera Blanca from the Cordillera Negra."
     },
     descriptionAdvanced: {
-      de: "",
-      hu: "",
-      ro: "",
-      en: "The Duck Canyon (Cañón del Pato) is a narrow and spectacular rock gorge in the Ancash region where the Cordillera Blanca and Cordillera Negra nearly meet. Carved by the Santa River, the canyon is famous for its dramatic road that features dozens of tunnels carved directly into the sheer rock walls. This route is considered one of the most exciting and scenic drives in Peru, offering dizzying views of the churning river hundreds of meters below. The canyon also plays a vital role in Peru's energy sector, housing a major hydroelectric plant that utilizes the river's powerful flow. Its name, meaning 'Duck Canyon,' refers to the wild ducks that were once commonly found in its waters. The contrast between the dark, jagged rock and the power of the river makes it a truly awe-inspiring place. It remains a testament to both natural force and human engineering."
+      en: "The Cañón del Pato, or Duck Canyon, is one of Peru's most dramatic and daring landscapes, located where the Cordillera Blanca and Cordillera Negra converge. Here, the Santa River has carved a narrow, deep gorge through solid granite, at some points only 6 meters wide but hundreds of meters deep. This canyon is a masterpiece of engineering as well as nature, featuring a legendary road with 54 one-lane tunnels carved directly into the cliffside. The Cañón del Pato is also home to a major hydroelectric plant, which uses the power of the Santa River to generate electricity for much of northern Peru. The stark contrast between the white glaciers of the Blanca and the dark, dry peaks of the Negra makes this canyon a visually stunning and slightly terrifying journey. Geography K7 — Fluvial erosion and mountain passes."
     },
     facts: {
       de: ["Vom Fluss Santa geformt.", "Beherbergt ein Wasserkraftwerk."],
@@ -484,17 +369,10 @@ export const poiExtraPeruReliefV2: POI[] = [
       en: ["Carved by the Santa River.", "Houses a hydroelectric plant."]
     },
     factsAdvanced: {
-      de: [],
-      hu: [],
-      ro: [],
-      en: [
-        "Features 35 tunnels carved into the rock along its famous narrow road.",
-        "The gorge is so narrow in some places that it measures only 6 meters across.",
-        "Home to the Cañón del Pato Hydroelectric Plant, a major power source for Peru.",
-        "Located at the northern end of the Callejón de Huaylas valley.",
-        "The canyon walls rise up to 1,000 meters above the river bed."
-      ]
-    }, image: "/poi-images/canon-del-pato-relief-v2.webp"},
+      en: ["Located at the northern end of the Callejón de Huaylas in the Ancash region.", "The Santa River is the only river in Peru that cuts through the entire Andean range to reach the Pacific.", "The canyon road features 54 hand-carved tunnels, a hallmark of 20th-century Peruvian engineering.", "At its narrowest point, the canyon walls are only 6 meters apart.", "Home to the Huallanca Hydroelectric Plant, a critical source of renewable energy.", "The site marks the exact point where the granite Cordillera Blanca meets the volcanic Cordillera Negra.", "A primary route for adventure seekers and off-road drivers in the Andes.", "The canyon's name 'Pato' comes from the large number of ducks that were once found in the river."]
+    },
+    image: "/poi-images/canon-del-pato-relief-v2.webp"
+  },
   {
     id: "meseta-del-collao-relief-v2",
     type: "relief",
@@ -513,10 +391,7 @@ export const poiExtraPeruReliefV2: POI[] = [
       en: "The expansive Andean plateau, also home to Lake Titicaca, characterized by a harsh climate and grasslands."
     },
     descriptionAdvanced: {
-      de: "",
-      hu: "",
-      ro: "",
-      en: "The Collao Plateau, also known as the Altiplano, is a vast and high-altitude Andean plateau shared by Peru and Bolivia. Situated at an average elevation of nearly 4,000 meters, it is a landscape of immense scale, characterized by sweeping grasslands, salt flats, and the deep blue waters of Lake Titicaca. The plateau has a harsh, cold climate and has been the homeland of the Aymara and Quechua people for millennia. It was the center of several great pre-Columbian civilizations, including the Tiwanaku and later the Inca. Today, it is an important agricultural and mining region, known for its production of quinoa, potatoes, and alpaca wool. The vast, open horizon and the clarity of the air create a sense of profound space and light. It remains one of the most culturally and geographically distinct regions of the South American continent."
+      en: "The Meseta del Collao, also known as the Altiplano, is a vast, high-altitude plateau that stretches across southern Peru and northern Bolivia. At an average elevation of 3,800 meters, it is the most extensive high plateau in the world outside of Tibet. This unique landscape is dominated by the majestic Lake Titicaca and is surrounded by the towering peaks of the Andes. The Altiplano's cold, dry climate and intense solar radiation have shaped a unique ecosystem and a resilient human history, serving as the cradle of great civilizations like the Tiwanaku and the Incas. Today, it remains a vital center for traditional agriculture, particularly the cultivation of quinoa and potatoes, and the herding of alpacas and llamas. The Altiplano's endless horizons and spiritual silence make it one of the most evocative landscapes in South America. Geography K7 — High-altitude plateaus and interior drainage basins."
     },
     facts: {
       de: ["Durchschnittliche Höhe von 3.800 Metern.", "Wichtige landwirtschaftliche Region."],
@@ -525,17 +400,10 @@ export const poiExtraPeruReliefV2: POI[] = [
       en: ["Average elevation of 3,800 meters.", "Important agricultural region."]
     },
     factsAdvanced: {
-      de: [],
-      hu: [],
-      ro: [],
-      en: [
-        "The second largest high-altitude plateau in the world after the Tibetan Plateau.",
-        "Contains Lake Titicaca, the world's highest navigable lake.",
-        "The primary livestock are camelids like alpacas, llamas, and vicuñas.",
-        "Home to the historic city of Puno and the ancient ruins of Sillustani.",
-        "Characterized by 'Puna' vegetation, consisting primarily of hardy ichu grass."
-      ]
-    }, image: "/poi-images/meseta-del-collao-relief-v2.webp"},
+      en: ["The most extensive high-altitude plateau in the Americas, averaging 3,800 meters in elevation.", "Home to Lake Titicaca, the highest navigable lake in the world.", "The plateau is an 'endorheic' basin, meaning its rivers flow into the lake rather than the ocean.", "Formed by the infilling of a massive tectonic depression between two Andean ranges.", "The primary center for the domestication of the potato and quinoa thousands of years ago.", "The climate is characterized by extreme temperature shifts between day and night.", "The vegetation is dominated by 'ichu' (Stipa ichu), a hardy grass essential for Andean camelids.", "A critical region for the Aymara and Quechua cultures of southern Peru."]
+    },
+    image: "/poi-images/meseta-del-collao-relief-v2.webp"
+  },
   {
     id: "paracas-peninsula-relief-v2",
     type: "relief",
@@ -554,10 +422,7 @@ export const poiExtraPeruReliefV2: POI[] = [
       en: "A desert coastal peninsula known for its rich marine biodiversity and prehistoric cultures."
     },
     descriptionAdvanced: {
-      de: "",
-      hu: "",
-      ro: "",
-      en: "The Paracas Peninsula is a striking desert landform on Peru's southern coast, where wind-sculpted sand dunes meet the turquoise waters of the Pacific Ocean. As the center of the Paracas National Reserve, it is a place of stark and haunting beauty, famous for its red-sand beaches and dramatic sea cliffs. The peninsula's unique geography is shaped by the powerful 'Paracas' winds and the nutrient-rich Humboldt Current, which supports an abundance of marine life. It was also the home of the ancient Paracas culture, known for their incredible textiles and sophisticated understanding of the environment. Visitors can explore the peninsula's coastal trails, witnessing huge colonies of sea lions and diverse birdlife. At its base, the mysterious 'Candelabra' geoglyph stands as a silent sentinel. It remains one of the most spectacular examples of Peru's coastal desert landscape."
+      en: "The Paracas Peninsula is a dramatic and windswept headland on the Pacific coast, famous for its striking desert landscapes and its immense marine biodiversity. This 'hammer-shaped' peninsula is part of the Paracas National Reserve and is one of the driest places on Earth, yet its shores are teeming with life. The peninsula's sheer sea cliffs and red sand beaches are a result of millions of years of wind and wave erosion on ancient volcanic and sedimentary rocks. Paracas is also a site of great archaeological mystery, being the center of the ancient Paracas culture and home to the giant 'Candelabro' geoglyph. The intersection of the arid desert and the cold, nutrient-rich Humboldt Current makes the peninsula a world-class example of a coastal upwelling ecosystem. Geography K7 — Coastal landforms and marine upwelling."
     },
     facts: {
       de: ["Teil des Paracas-Nationalreservats.", "Roter Sand an vielen Stränden."],
@@ -566,17 +431,10 @@ export const poiExtraPeruReliefV2: POI[] = [
       en: ["Part of the Paracas National Reserve.", "Red sand on many beaches."]
     },
     factsAdvanced: {
-      de: [],
-      hu: [],
-      ro: [],
-      en: [
-        "Features the famous 'Playa Roja' (Red Beach), colored by volcanic rock erosion.",
-        "The site of the ancient Paracas Necropolis, discovered by Julio C. Tello.",
-        "The name 'Paracas' means 'sand rain' in the local language.",
-        "One of the windiest places on the Peruvian coast.",
-        "Protects some of the most productive marine ecosystems in the world."
-      ]
-    }, image: "/poi-images/paracas-peninsula-relief-v2.webp"},
+      en: ["Located in the Pisco province of the Ica region, roughly 260 km south of Lima.", "Includes the 'Candelabra', a 150-meter-tall geoglyph of unknown origin.", "The peninsula's name 'Paracas' means 'Raining Sand' in the Quechua language.", "Features the famous 'Playa Roja' (Red Beach), colored by the erosion of nearby porphyry rocks.", "Site of the 'Cathedral' rock formation, a natural arch that collapsed during the 2007 earthquake.", "A primary nesting ground for millions of seabirds and a home to massive sea lion colonies.", "The area experiences powerful 'Paracas' winds that can reach speeds of over 60 km/h.", "Essential for the protection of the endangered Humboldt penguin and the marine otter."]
+    },
+    image: "/poi-images/paracas-peninsula-relief-v2.webp"
+  },
   {
     id: "illescas-peninsula-relief-v2",
     type: "relief",
@@ -595,10 +453,7 @@ export const poiExtraPeruReliefV2: POI[] = [
       en: "A remote peninsula in northern Peru where the desert meets the ocean and sea lion colonies live."
     },
     descriptionAdvanced: {
-      de: "",
-      hu: "",
-      ro: "",
-      en: "The Illescas Peninsula is a remote and pristine natural monument located on the northern coast of Peru in the Piura region. It is a rare place where the Sechura Desert meets the ocean, creating a rugged landscape of cliffs, beaches, and isolated hills. Because of its remoteness, the peninsula has remained a vital sanctuary for wildlife, including the Andean condor—which uniquely nests here at sea level—and large colonies of sea lions and Humboldt penguins. The area was recently designated a National Reserve to protect its fragile desert-coastal ecosystem. It is a place of profound silence and raw natural beauty, far from the main tourist circuits. For those who reach it, Illescas offers an experience of the untamed Peruvian coast as it has existed for millennia. It stands as a critical bastion for the conservation of northern Peru's unique biodiversity."
+      en: "The Illescas Peninsula is a remote and rugged headland in northern Peru, standing as one of the last truly wild coastal landscapes in the country. Located in the Sechura province, it is a place where the desert meets the sea in a spectacular display of cliffs, rocky inlets, and pristine beaches. Illescas is a biological crossroads, marking the transition between the cold Humboldt Current and the warm tropical waters from the north. It is a vital sanctuary for wildlife, hosting a significant colony of Andean condors that feed on the remains of sea lions—one of the few places in the world where these mountain giants are found at sea level. The peninsula's isolation and its status as a protected area make it a critical haven for biodiversity and a destination for those seeking the raw beauty of the Peruvian coast. Geography K7 — Coastal geomorphology and biological transition zones."
     },
     facts: {
       de: ["Liegt in der Region Piura.", "Schützenswertes Ökosystem."],
@@ -607,17 +462,10 @@ export const poiExtraPeruReliefV2: POI[] = [
       en: ["Located in the Piura region.", "An ecosystem worthy of conservation."]
     },
     factsAdvanced: {
-      de: [],
-      hu: [],
-      ro: [],
-      en: [
-        "The only place in the world where Andean condors are known to nest on coastal cliffs.",
-        "Recently established as a National Reserve in 2021.",
-        "Home to a diverse range of desert-adapted fauna, including the Sechuran fox.",
-        "Features some of the most isolated and beautiful beaches in northern Peru.",
-        "Essential for the protection of the endemic and endangered Peruvian Plantcutter bird."
-      ]
-    }, image: "/poi-images/illescas-peninsula-relief-v2.webp"},
+      en: ["The southernmost point where the Andean condor is known to nest and feed at sea level.", "Declared a Reserved Zone in 2010 to protect its unique biodiversity and desert-marine transition.", "Located on the Sechura Peninsula, Piura, overlooking the Pacific Ocean.", "Home to a major colony of South American sea lions and diverse seabirds.", "Features a rugged relief with cliffs reaching up to 500 meters in height.", "A primary nesting site for the endangered Peruvian plantcutter bird.", "The area is remarkably arid, part of one of the driest desert belts in the world.", "Relatively unexplored by tourism, maintaining a high level of pristine wilderness."]
+    },
+    image: "/poi-images/illescas-peninsula-relief-v2.webp"
+  },
   {
     id: "yanachaga-chemillen-relief-v2",
     type: "forest",
@@ -636,10 +484,7 @@ export const poiExtraPeruReliefV2: POI[] = [
       en: "A lush protected area in the Peruvian jungle, preserving an extraordinary diversity of flora and fauna of the montane cloud forests."
     },
     descriptionAdvanced: {
-      de: "",
-      hu: "",
-      ro: "",
-      en: "The Yanachaga-Chemillén National Park is a lush and rugged protected area in the Pasco region, preserving a spectacular range of mountain cloud forests and high Amazonian jungle. The park's terrain is extremely steep and broken, characterized by deep canyons and mist-shrouded peaks that have remained largely untouched by human development. This isolation has made it a sanctuary for an extraordinary diversity of life, including the spectacled bear, the jaguar, and hundreds of species of orchids and birds. The park is a vital 'water tower' for the surrounding valleys, with its dense forests capturing moisture from the clouds to feed the rivers below. It is also home to several indigenous communities and the descendants of 19th-century German and Austrian settlers. Yanachaga-Chemillén is a place of wild, primeval beauty and immense biological importance. It remains one of the most pristine examples of the Andean-Amazonian transition zone."
+      en: "The Yanachaga-Chemillén mountain range is a rugged and spectacular feature of the central Peruvian Andes, serving as a dramatic bridge between the high mountains and the Amazon basin. This range is the centerpiece of the Yanachaga-Chemillén National Park and is famous for its extreme verticality, with steep slopes and deep canyons that are often shrouded in mist. The name reflects its diverse geology: 'Black Mountain' (Yanachaga) and 'Burned Mountain' (Chemillén). These mountains protect a vast range of pristine cloud forests and are home to incredible biodiversity, including the spectacled bear and the jaguar. Because of its difficult terrain, the range has remained largely untouched by modern development, preserving one of the most significant wilderness areas in central Peru. Geography K7 — Tectonic ranges and transition ecosystems."
     },
     facts: {
       de: ["Gegründet im Jahr 1986.", "Schützt indigene Gemeinschaften."],
@@ -648,17 +493,10 @@ export const poiExtraPeruReliefV2: POI[] = [
       en: ["Established in 1986.", "Protects indigenous communities."]
     },
     factsAdvanced: {
-      de: [],
-      hu: [],
-      ro: [],
-      en: [
-        "Covers an area of 122,000 hectares of primary forest.",
-        "Features an incredible altitude range from 460 to over 3,600 meters.",
-        "Home to the legendary Andean cock-of-the-rock, Peru's national bird.",
-        "Protect the Yanachaga mountain range, which is geologically distinct from the main Andes.",
-        "Known for its high number of endemic species, particularly among amphibians and birds."
-      ]
-    }, image: "/poi-images/yanachaga-chemillen-relief-v2.webp"},
+      en: ["Part of the Cordillera Oriental in the Pasco region, central Peru.", "Rising from 460 to 3,600 meters, it showcases a complete transition from jungle to puna.", "The range's name reflects the Quechua and Yanesha names for its different sections.", "Essential for protecting the watersheds of the Huancabamba and Pozuzo rivers.", "Characterized by extremely steep and unstable terrain, which has limited road construction.", "The range is a primary component of the Oxapampa-Asháninka-Yanesha Biosphere Reserve.", "Home to diverse endemic species of birds and orchids adapted to the misty slopes.", "The area is historically significant as a refuge for the indigenous Yanesha and Asháninka people."]
+    },
+    image: "/poi-images/yanachaga-chemillen-relief-v2.webp"
+  },
   {
     id: "alto-purus-relief-v2",
     type: "forest",
@@ -677,10 +515,7 @@ export const poiExtraPeruReliefV2: POI[] = [
       en: "The largest national park in Peru by area, protecting pristine Amazonian rainforests and isolated indigenous tribes."
     },
     descriptionAdvanced: {
-      de: "",
-      hu: "",
-      ro: "",
-      en: "Alto Purús National Park is the largest national park in Peru and one of the most remote and untouched wilderness areas in the entire Amazon basin. Located on the border with Brazil in the Ucayali region, it protects a massive expanse of primary tropical rainforest and complex river systems. The park is of immense cultural significance, as it serves as the ancestral territory for several indigenous groups living in voluntary isolation. Its vast and roadless landscape is a critical refuge for large Amazonian mammals such as jaguars, giant river otters, and tapirs, as well as thousands of species of birds and trees. Because of its extreme isolation and the presence of uncontacted tribes, access to the park is strictly limited and carefully managed. Alto Purús is a global flagship for the protection of both biodiversity and indigenous rights. It represents the last great frontier of the Peruvian Amazon."
+      en: "The Alto Purús is a vast and remote wilderness area in southeastern Peru, representing one of the most pristine and undisturbed parts of the entire Amazon rainforest. This low-relief landscape is a mosaic of primary forests, winding rivers, and large bamboo thickets, located at the headwaters of the Purús River. It is a land of incredible biodiversity and cultural significance, serving as a sanctuary for some of the world's last groups of indigenous people living in voluntary isolation. The Alto Purús National Park, the largest in Peru, protects this fragile region from the threats of logging and road construction. Its extreme isolation has preserved an ecosystem where jaguars, harpy eagles, and giant otters thrive in their most natural state. It is a true 'lost world' of the Amazon. Geography K7 — Lowland rainforests and headwater systems."
     },
     facts: {
       de: ["Fläche von über 25.000 Quadratkilometern.", "Schwer zugängliches Gebiet."],
@@ -689,17 +524,10 @@ export const poiExtraPeruReliefV2: POI[] = [
       en: ["Area of over 25,000 square kilometers.", "Difficult to access area."]
     },
     factsAdvanced: {
-      de: [],
-      hu: [],
-      ro: [],
-      en: [
-        "Covers an area of 2.5 million hectares (over 6 million acres).",
-        "The largest protected area in the Peruvian National System of Protected Areas (SINANPE).",
-        "Home to one of the highest concentrations of mahogany and cedar trees in the world.",
-        "Crucial for the survival of the Mashco-Piro, one of the world's most isolated tribes.",
-        "The park is accessible only by small plane or multi-day river journeys."
-      ]
-    }, image: "/poi-images/alto-purus-relief-v2.webp"},
+      en: ["The Alto Purús National Park is the largest national park in Peru, covering 2.5 million hectares.", "Located in the Ucayali and Madre de Dios regions, bordering the Brazilian Amazon.", "Protects the ancestral territories of the Mashco-Piro and other isolated indigenous groups.", "The landscape is dominated by low hills and a vast network of meandering rivers.", "Home to more species of large mammals and birds than almost anywhere else in the Amazon.", "One of the few remaining places on Earth where large-scale ecosystems function without human interference.", "The 'Purús-Manu' corridor is a critical biological link for the conservation of the western Amazon.", "Accessible only by several days of river travel or by light aircraft to small jungle outposts."]
+    },
+    image: "/poi-images/alto-purus-relief-v2.webp"
+  },
   {
     id: "otishi-national-park-relief-v2",
     type: "forest",
@@ -718,10 +546,7 @@ export const poiExtraPeruReliefV2: POI[] = [
       en: "A protected mountain forest in the Cordillera Vilcabamba, rich in waterfalls and endemic species."
     },
     descriptionAdvanced: {
-      de: "",
-      hu: "",
-      ro: "",
-      en: "Otishi National Park is a rugged and spectacular protected area located in the Cordillera Vilcabamba, in the central Peruvian Andes. Characterized by its dramatic relief, it features deep canyons, steep mountain forests, and dozens of hidden waterfalls, including the massive Catarata de las Tres Hermanas. The park's primary mission is to protect the fragile ecosystems of the high jungle and the headwaters of several major rivers. Its isolation and difficult terrain have made it a haven for rare and endemic species, many of which are still being discovered by scientists. Otishi is also culturally vital, serving as a buffer zone for the ancestral lands of the Asháninka and Machiguenga people. The park offers a landscape of raw, untamed beauty that remains one of the least explored regions of Peru. It stands as a powerful symbol of the country's commitment to preserving its wild and diverse mountain heritage."
+      en: "Otishi National Park is a majestic and rugged sanctuary located in the heart of the Vilcabamba mountain range, protecting the spectacular Pavirontsi natural bridge—one of the largest of its kind in the world. This remote park is a landscape of extreme verticality, with high Andean peaks descending into deep, emerald-green canyons and primary cloud forests. The relief of Otishi is so dramatic that much of the park remains completely unexplored on the ground. It is the ancestral home of the Asháninka and Machiguenga people, who consider these mountains sacred. The park is home to incredible wildlife, including the rare spectacled bear and the harpy eagle. Otishi represents the ultimate transition from the high Andes to the Amazon, a wild and vertical heart of the Peruvian interior. Geography K7 — Karst landforms and mountain transition zones."
     },
     facts: {
       de: ["Verbindet die Regionen Junín und Cusco.", "Höchste biologische Vielfalt."],
@@ -730,17 +555,10 @@ export const poiExtraPeruReliefV2: POI[] = [
       en: ["Connects the Junín and Cusco regions.", "Highest biological diversity."]
     },
     factsAdvanced: {
-      de: [],
-      hu: [],
-      ro: [],
-      en: [
-        "Protects the Pavirontsi Natural Bridge, one of the largest natural stone bridges in the world.",
-        "Located in the 'VRAEM' region between the departments of Junín and Cusco.",
-        "The park is virtually roadless and accessible only by long foot treks or river journeys.",
-        "Home to the spectacular 914-meter-high Three Sisters Waterfall.",
-        "Essential for the protection of the cloud forest and high-altitude grassland (puna) ecosystems."
-      ]
-    }, image: "/poi-images/otishi-national-park-relief-v2.webp"},
+      en: ["Home to the Pavirontsi Natural Bridge, a massive stone arch over 60 meters high.", "Located in the Junín and Cusco regions, established in 2003.", "Covers over 300,000 hectares of the northern Vilcabamba mountain range.", "Protects an extraordinary range of altitudes, from 750 to over 4,000 meters.", "A critical sanctuary for the endangered yellow-tailed woolly monkey.", "The park's name 'Otishi' means 'The Peak' in the Asháninka language.", "Includes the spectacular 'Cataratas del Cutivireni', a series of dozens of high-altitude waterfalls.", "Access is extremely difficult, requiring long expeditions through indigenous territories."]
+    },
+    image: "/poi-images/otishi-national-park-relief-v2.webp"
+  },
   {
     id: "cordillera-azul-relief-v2",
     type: "forest",
@@ -759,10 +577,7 @@ export const poiExtraPeruReliefV2: POI[] = [
       en: "A massive rainforest on a rugged mountain range between the Andes and the Amazon basin, home to jaguars and tapirs."
     },
     descriptionAdvanced: {
-      de: "",
-      hu: "",
-      ro: "",
-      en: "The Cordillera Azul National Park is a massive and rugged rainforest-covered mountain range located between the Andes and the Amazon basin in central Peru. Known as the 'Blue Range' because of the characteristic haze that surrounds its peaks, it protects a vast area of primary forest and unique mountain ecosystems. The park is a biodiversity powerhouse, home to jaguars, harpy eagles, and numerous species of rare primates and birds. It is also famous for its diverse geology, including striking rock formations and waterfalls that emerge from the dense jungle. Cordillera Azul serves as a critical watershed for the surrounding Huallaga and Ucayali river basins, supporting thousands of people in the lowlands. Its preservation is a major success story for public-private conservation partnerships in Peru. It remains a place of immense natural beauty and mystery, where the jungle meets the sky."
+      en: "The Cordillera Azul, or Blue Mountains, is a spectacular and remote range that rises dramatically from the Amazon lowlands of central Peru. This range is the centerpiece of the Cordillera Azul National Park, a vast wilderness area that protects a unique landscape of mist-covered peaks, deep canyons, and rare 'high-altitude wetlands.' The range gets its name from the deep blue hue it takes on when viewed from a distance through the tropical haze. It is a world-class hotspot for biodiversity, home to thousands of species, many of which were unknown to science until the park was explored in the early 2000s. The Cordillera Azul is a vital watershed for the surrounding regions and a critical link in the conservation of the eastern Andes. Geography K7 — Mountain biodiversity and Amazonian watersheds."
     },
     facts: {
       de: ["Bedeckt vier peruanische Regionen.", "Wichtiger Kohlenstoffspeicher."],
@@ -771,17 +586,10 @@ export const poiExtraPeruReliefV2: POI[] = [
       en: ["Covers four Peruvian regions.", "Important carbon sink."]
     },
     factsAdvanced: {
-      de: [],
-      hu: [],
-      ro: [],
-      en: [
-        "The third largest national park in Peru, covering 1.35 million hectares.",
-        "Home to the unique 'cumbres' or mountain-top plateau ecosystems.",
-        "Protects over 1,600 species of plants and more than 500 species of birds.",
-        "Designated as an 'Important Bird Area' (IBA) of international significance.",
-        "Managed through an innovative long-term conservation contract with a non-profit organization."
-      ]
-    }, image: "/poi-images/cordillera-azul-relief-v2.webp"},
+      en: ["Located in the San Martín, Loreto, Ucayali, and Huánuco regions.", "Protects over 1.3 million hectares of primary tropical forest and mountain ranges.", "The range features unique 'tepui-like' formations with flat-topped mountains and sheer cliffs.", "Home to the 'Pampa del Sacramento', a vast area of undisturbed Amazonian wilderness.", "Discovered a new species of bird, the Scarlet-banded Barbet, during the initial exploration of the range.", "Essential for the water supply of over 300,000 people living in the surrounding valleys.", "The park is managed through a successful public-private partnership for conservation.", "The Blue Mountains act as a primary carbon sink, mitigating global climate change."]
+    },
+    image: "/poi-images/cordillera-azul-relief-v2.webp"
+  },
   {
     id: "rio-abiseo-relief-v2",
     type: "forest",
@@ -800,10 +608,7 @@ export const poiExtraPeruReliefV2: POI[] = [
       en: "A UNESCO World Heritage site protecting montane cloud forests and the archaeological site of Gran Pajatén."
     },
     descriptionAdvanced: {
-      de: "",
-      hu: "",
-      ro: "",
-      en: "Río Abiseo National Park is a unique UNESCO World Heritage site that protects both an incredible diversity of cloud forest life and significant archaeological remains of the Chachapoya culture. Located in the San Martín region, the park's steep and misty terrain is home to the rare yellow-tailed woolly monkey, once thought to be extinct. The most famous archaeological site within the park is Gran Pajatén, a complex of circular stone buildings decorated with intricate reliefs that remain hidden in the dense vegetation. Because of its extreme fragility and importance, the park is closed to the general public, and only authorized scientific researchers are allowed entry. This high level of protection has kept its ecosystems and ruins in a remarkably pristine state. Río Abiseo is a profound testament to the harmonious relationship between ancient people and the lush, challenging environment of the Amazonian Andes."
+      en: "The Río Abiseo National Park is a landscape of extraordinary natural and archaeological wealth, located in the high-altitude cloud forests of the San Martín region. This UNESCO World Heritage site was established to protect a unique ecosystem that is home to the rare yellow-tailed woolly monkey, once thought to be extinct. The park's relief is characterized by rugged mountains, deep canyons, and mysterious stone ruins nestled in the mist, such as the Gran Pajatén. These ruins, built by the Chachapoyas culture, show a sophisticated adaptation to the steep, humid environment. Because of its extreme fragility and archaeological importance, the park is closed to general tourism, remaining a pristine sanctuary for research and conservation. Río Abiseo is a powerful example of the deep integration of nature and ancient culture in the Andes. History K8 — Cloud forest archaeology and endemic species."
     },
     facts: {
       de: ["Gegründet im Jahr 1983.", "Strenge Zugangsbeschränkungen."],
@@ -812,17 +617,10 @@ export const poiExtraPeruReliefV2: POI[] = [
       en: ["Established in 1983.", "Strict access restrictions."]
     },
     factsAdvanced: {
-      de: [],
-      hu: [],
-      ro: [],
-      en: [
-        "The only site in Peru recognized by UNESCO as a World Heritage site for both Nature and Culture.",
-        "The yellow-tailed woolly monkey was rediscovered here in the 1970s.",
-        "Contains 36 identified archaeological sites at various altitudes.",
-        "The park's high rainfall and humidity make it one of the wettest places in the Andes.",
-        "Essential for the protection of the headwaters of the Abiseo River."
-      ]
-    }, image: "/poi-images/rio-abiseo-relief-v2.webp"},
+      en: ["A UNESCO World Heritage site for both its natural and cultural values.", "Home to the yellow-tailed woolly monkey (Oreonax flavicauda), endemic to Peru.", "Contains Gran Pajatén, a major archaeological complex of the Chachapoyas culture.", "Protects over 270,000 hectares of primary cloud forest and high-altitude puna.", "Features 36 newly discovered archaeological sites since its creation in 1983.", "The park is a critical source of water for the Huallaga river system.", "The 'Abiseo' river carves a dramatic path through the park's steep limestone relief.", "One of the few places on Earth where ancient stone monuments and a primary forest are perfectly preserved together."]
+    },
+    image: "/poi-images/rio-abiseo-relief-v2.webp"
+  },
   {
     id: "allpahuayo-mishana-relief-v2",
     type: "forest",
@@ -841,10 +639,7 @@ export const poiExtraPeruReliefV2: POI[] = [
       en: "A special rainforest area near Iquitos, known for its unique white-sand forests and rare bird species."
     },
     descriptionAdvanced: {
-      de: "",
-      hu: "",
-      ro: "",
-      en: "The Allpahuayo Mishana National Reserve is a world-renowned biodiversity hotspot located near the city of Iquitos in the Peruvian Amazon. It is famous among scientists for protecting a unique type of ecosystem known as 'varillales,' or white-sand forests, which are extremely rare in the Amazon. These nutrient-poor soils have led to the evolution of a highly specialized and diverse range of plants and animals that are found nowhere else on Earth. Despite its relatively small size, the reserve holds world records for the number of tree and bird species in a single area. It is a vital laboratory for understanding evolution and ecological specialization in the rainforest. Visitors can explore its network of trails to see rare monkeys, exotic birds, and the unique, thin-trunked trees of the white-sand forest. It remains one of the most scientifically significant and fascinating natural areas in the Amazon basin."
+      en: "The Allpahuayo-Mishana National Reserve protects a unique low-relief landscape in the Amazonian Loreto region, characterized by its extraordinary 'white-sand' forests. Unlike the typical clay-rich soils of the rainforest, these ancient sand deposits have created a specialized and fragile ecosystem known as 'varillales'. The relief here is subtle, consisting of gentle slopes and nutrient-poor plateaus that have driven the evolution of highly endemic flora and fauna. This geological anomaly is responsible for one of the highest concentrations of biodiversity in the world, including bird species that are found nowhere else on Earth. The reserve is a critical site for the study of tropical evolution and the long-term history of the Amazon basin. Geography K7 — Amazonian soil types and specialized ecosystems."
     },
     facts: {
       de: ["Heimat endemischer Vögel.", "Sehr feuchtes Klima."],
@@ -853,17 +648,10 @@ export const poiExtraPeruReliefV2: POI[] = [
       en: ["Home to endemic birds.", "Very humid climate."]
     },
     factsAdvanced: {
-      de: [],
-      hu: [],
-      ro: [],
-      en: [
-        "Holds the world record for the highest number of tree species in a single hectare (nearly 300).",
-        "Protects several bird species discovered only in the last few decades, like the Ancient Antwren.",
-        "Located just a short drive from Iquitos along the road to Nauta.",
-        "A major destination for researchers studying the Amazon's diverse soil types.",
-        "Critical for the conservation of the endangered black-headed uakari monkey."
-      ]
-    }, image: "/poi-images/allpahuayo-mishana-relief-v2.webp"},
+      en: ["Protects over 57,000 hectares of primary rainforest near the city of Iquitos.", "Famous for its 'Varillales', forests that grow on extremely nutrient-poor white sand.", "The reserve holds the world record for the highest diversity of tree species in a single hectare.", "Essential for the protection of the Nanay River watershed, Iquitos's primary water source.", "Home to several bird species discovered only in the late 1990s, like the ancient antwren.", "The white-sand deposits are thought to be millions of years old, possibly from ancient riverbeds.", "The vegetation is stunted and specialized to survive in the harsh, acidic soil.", "A primary destination for scientific research on tropical biodiversity and adaptation."]
+    },
+    image: "/poi-images/allpahuayo-mishana-relief-v2.webp"
+  },
   {
     id: "pastoruri-glacier-relief-v2",
     type: "relief",
@@ -882,10 +670,7 @@ export const poiExtraPeruReliefV2: POI[] = [
       en: "An easily accessible Andean glacier that is unfortunately shrinking rapidly due to climate change, but remains an important natural monument."
     },
     descriptionAdvanced: {
-      de: "",
-      hu: "",
-      ro: "",
-      en: "The Pastoruri Glacier is one of the most famous and easily accessible glaciers in the Cordillera Blanca, located within the Huascarán National Park. Once a popular destination for skiing, it has become a powerful and moving symbol of the impacts of climate change, as its ice has receded dramatically in recent decades. The park now offers a 'Climate Change Route,' where visitors can witness the shrinking ice and learn about the global environmental challenges facing the Andes. Despite its retreat, the glacier remains a stunning natural monument, surrounded by turquoise lagoons and the giant Puya Raimondii plants that grow nearby. Reaching an altitude of over 5,000 meters, it offers a raw and powerful experience of the high mountain environment. A visit to Pastoruri is both an opportunity to admire the beauty of the ice and a call to action for the preservation of the planet's fragile glacial resources."
+      en: "The Pastoruri Glacier is a majestic but fragile ice mass located in the southern part of the Cordillera Blanca, within the Huascarán National Park. Perched at over 5,000 meters, its relief is defined by smooth snowfields and turquoise meltwater lagoons. Once a premier destination for skiing and snowboarding, Pastoruri has recently become a global icon for the dramatic effects of climate change. Its ice is retreating so rapidly that it is no longer considered a permanent mountain glacier but a 'relict' ice body. Visitors can follow the 'Climate Change Route', which provides a powerful visual education on the warming of the Andes. Despite its retreat, the glacier's high-altitude setting remains a place of profound beauty and geological importance. Geography K8 — Glacial retreat and climate change indicators."
     },
     facts: {
       de: ["Liegt auf über 5.000 Metern Höhe.", "Zeigt die Auswirkungen der globalen Erwärmung."],
@@ -894,17 +679,10 @@ export const poiExtraPeruReliefV2: POI[] = [
       en: ["Located at over 5,000 meters elevation.", "Shows the effects of global warming."]
     },
     factsAdvanced: {
-      de: [],
-      hu: [],
-      ro: [],
-      en: [
-        "Located at an altitude of approximately 5,200 meters (17,060 feet).",
-        "Has lost more than 40% of its ice mass over the last 30 years.",
-        "One of the few places in the world where you can stand on a glacier after a short walk from a car.",
-        "The area around it is home to the spectacular Puya Raimondii, which can live for 100 years.",
-        "Essential for providing water to the Santa River valley during the dry season."
-      ]
-    }, image: "/poi-images/pastoruri-glacier-relief-v2.webp"},
+      en: ["Located at an altitude of approximately 5,250 meters (17,224 feet) in the Ancash region.", "Has lost nearly half of its surface area in the last 40 years due to global warming.", "One of the few glaciers in the Cordillera Blanca that is easily accessible by road.", "The meltwater from the glacier feeds into the Santa River system.", "Surrounded by the giant Puya Raimondii plants, which grow in the high-altitude puna.", "The ice features unique 'glacial caves' and deep blue crevasses that are constantly shifting.", "Serves as a critical research site for monitoring tropical glacial dynamics.", "The surrounding landscape is rich in minerals, often coloring the meltwater ponds."]
+    },
+    image: "/poi-images/pastoruri-glacier-relief-v2.webp"
+  },
   {
     id: "nevado-mismi-relief-v2",
     type: "mountain",
@@ -923,10 +701,7 @@ export const poiExtraPeruReliefV2: POI[] = [
       en: "A glaciated mountain peak whose meltwater ultimately flows into the Atlantic Ocean after a long journey through the Amazon."
     },
     descriptionAdvanced: {
-      de: "",
-      hu: "",
-      ro: "",
-      en: "Nevado Mismi is a glaciated mountain peak in the Andes of southern Peru that gained international fame as the officially recognized source of the Amazon River. Located in the Arequipa department, its meltwater begins a staggering 6,400-kilometer journey across the continent to the Atlantic Ocean. The peak rises to 5,597 meters and is part of a rugged mountain range overlooking the Colca Canyon. The identification of Mismi as the Amazon's source was confirmed by several international expeditions using advanced GPS technology. Today, it is a place of pilgrimage for geographers and adventure seekers who want to stand at the very beginning of the world's largest river. The landscape is a harsh, high-altitude desert of rock and ice, reflecting the raw and humble beginnings of the mighty Amazon. It remains a powerful symbol of the interconnectedness of South America's vast natural systems."
+      en: "Nevado Mismi is a mountain of immense geographic importance, recognized by the National Geographic Society as the ultimate source of the Amazon River. Rising to 5,597 meters in the Arequipa region, this volcanic peak features a small glacial stream known as Carhuasanta, which is the most distant point in the entire Amazon basin. The relief of Mismi is rugged and stark, typical of the high-altitude Andean puna. For centuries, its waters have been sacred to local communities, and today, it is a site of pilgrimage for geographers and adventure seekers alike. Reaching the source of the world's largest river on the slopes of Mismi is a profound experience that highlights the incredible connectivity of South America's water systems. Geography K7 — River basin headwaters and the Amazon system."
     },
     facts: {
       de: ["Ursprung des Amazonas-Flusssystems.", "Erreicht 5.597 Meter."],
@@ -935,17 +710,10 @@ export const poiExtraPeruReliefV2: POI[] = [
       en: ["Source of the Amazon river system.", "Reaches 5,597 meters."]
     },
     factsAdvanced: {
-      de: [],
-      hu: [],
-      ro: [],
-      en: [
-        "Confirmed as the most distant source of the Amazon by a National Geographic expedition in 2000.",
-        "The source is a small glacial stream that flows into the Carhuasanta River.",
-        "The summit is at an elevation of 5,597 meters (18,363 feet).",
-        "Located in the Chila mountain range, part of the Peruvian Andes.",
-        "A popular destination for serious hikers looking to explore the origins of the world's largest river."
-      ]
-    }, image: "/poi-images/nevado-mismi-relief-v2.webp"},
+      en: ["Official source of the Amazon River, located in the Cordillera Chila of southern Peru.", "The summit reaches an elevation of 5,597 meters (18,363 feet).", "The Carhuasanta stream on Mismi's slopes is approximately 6,400 km from the Atlantic Ocean.", "Located in the Caylloma province, overlooking the Colca Valley.", "Its glacial meltwater eventually flows into the Apurímac, Ucayali, and Marañón rivers.", "The mountain was identified as the ultimate source in 1996 and 2001 using GPS technology.", "The landscape is a cold, high-altitude desert with very little vegetation.", "A primary destination for extreme trekking and geographical expeditions."]
+    },
+    image: "/poi-images/nevado-mismi-relief-v2.webp"
+  },
   {
     id: "huandoy-relief-v2",
     type: "mountain",
@@ -964,10 +732,7 @@ export const poiExtraPeruReliefV2: POI[] = [
       en: "A striking mountain in the Cordillera Blanca with four distinct peaks, rising right next to the higher Huascarán."
     },
     descriptionAdvanced: {
-      de: "",
-      hu: "",
-      ro: "",
-      en: "Huandoy is a spectacular mountain in the Cordillera Blanca, featuring four distinct peaks that rise majestically right next to its higher neighbor, Huascarán. Its highest summit reaches 6,395 meters, making it one of the most prominent and beautiful mountains in the range. The mountain's massive, ice-covered faces are a challenge for even the most experienced mountaineers, known for their technical difficulty and unstable seracs. Huandoy overlooks the stunning Llanganuco Lakes, providing a breathtaking backdrop to their turquoise waters. Its jagged profile and the sheer scale of its glacial walls are a testament to the powerful forces of the Andes. To the local people, it is a significant 'Apu' that complements the presence of Huascarán. It remains an enduring icon of the Ancash region and a dream for the global climbing community. Its presence defines the heart of the Huascarán National Park."
+      en: "Mount Huandoy is a spectacular four-peaked massif in the Cordillera Blanca, standing as one of the most imposing and technical mountains in Peru. Its highest summit reaches 6,395 meters, positioned directly across the Llanganuco Valley from its legendary neighbor, Huascarán. The relief of Huandoy is characterized by vertical granite walls and massive, active glaciers that frequently trigger ice avalanches. For the ancient people of the Callejón de Huaylas, Huandoy and Huascarán were seen as a pair of divine guardians. Today, it remains a 'Holy Grail' for technical climbers due to its challenging rock and ice routes. The view of Huandoy's jagged silhouette reflected in the Llanganuco Lakes is one of the most iconic sights in the Peruvian Andes. Geography K7 — Mountain massifs and technical mountaineering."
     },
     facts: {
       de: ["Höchster Gipfel misst 6.395 Meter.", "Hat eine steile Eis- und Felswand."],
@@ -976,17 +741,10 @@ export const poiExtraPeruReliefV2: POI[] = [
       en: ["Highest peak measures 6,395 meters.", "Has a steep ice and rock wall."]
     },
     factsAdvanced: {
-      de: [],
-      hu: [],
-      ro: [],
-      en: [
-        "Features four peaks: Huandoy Norte (6,395m), Oeste (6,356m), Sur (6,160m), and Este (6,000m).",
-        "Separated from Huascarán by the deep Llanganuco Valley.",
-        "The first ascent of the highest peak was achieved in 1932 by a German-Austrian team.",
-        "Part of the UNESCO World Heritage site of Huascarán National Park.",
-        "The mountain is visible from almost everywhere in the Callejón de Huaylas."
-      ]
-    }, image: "/poi-images/huandoy-relief-v2.webp"},
+      en: ["The second-highest mountain in the Cordillera Blanca after Huascarán (6,395 meters).", "Consists of four distinct peaks: North, South, East, and West Huandoy.", "Known for its extreme climbing difficulty and its unstable, vertical ice faces.", "Its name in Quechua is 'Tullparaju', meaning 'Mountain of the Stone Oven'.", "The massif is located entirely within the Huascarán National Park.", "The North Face of Huandoy is one of the tallest vertical rock walls in the Andes.", "Provides a vital source of glacial water for the Yungay and Caraz regions.", "A primary feature of the spectacular Llanganuco glacial valley."]
+    },
+    image: "/poi-images/huandoy-relief-v2.webp"
+  },
   {
     id: "artesonraju-relief-v2",
     type: "mountain",
@@ -1005,10 +763,7 @@ export const poiExtraPeruReliefV2: POI[] = [
       en: "A pyramid-shaped mountain in the Peruvian Andes, often believed to have inspired the Paramount Pictures logo."
     },
     descriptionAdvanced: {
-      de: "",
-      hu: "",
-      ro: "",
-      en: "Artesonraju is one of the most iconic and visually perfect mountains in the Peruvian Andes, famous for its near-perfect pyramidal shape and its brilliant white ice faces. Standing at 6,025 meters in the Cordillera Blanca, it is widely believed to have been the inspiration for the famous Paramount Pictures logo. The mountain is a favorite for experienced climbers, particularly for its challenging and elegant 'Paron' and 'Santa Cruz' faces. Its position between the Parón and Santa Cruz valleys offers some of the most spectacular views in the entire range. The climb is technical and demanding, requiring perfect crampon work on steep ice. For many, Artesonraju represents the quintessential Andean peak—beautiful, imposing, and perfectly symmetrical. It remains a pinnacle of high-altitude mountaineering in Peru and a global symbol of mountain majesty."
+      en: "Artesonraju is a mountain of breathtaking beauty and cinematic fame, widely believed to be the inspiration for the 'Paramount Pictures' logo. Rising to 6,025 meters in the Cordillera Blanca, it is a perfect example of a fluted ice pyramid, its steep slopes carved with vertical ridges of brilliant white snow. Located between the Parón and Santa Cruz valleys, Artesonraju is a challenging and highly prized summit for experienced mountaineers. Its nearly symmetrical relief and its isolation make it one of the most photogenic peaks in the Andes. The mountain remains a powerful symbol of the raw, artistic elegance of the high Peruvian mountains and a testament to the power of glacial erosion in shaping the world's highest tropical range. Geography K7 — Glacial landforms and mountain symmetry."
     },
     facts: {
       de: ["Gipfel auf 6.025 Metern.", "Eine der schönsten Eispyramiden der Welt."],
@@ -1017,17 +772,7 @@ export const poiExtraPeruReliefV2: POI[] = [
       en: ["Summit at 6,025 meters.", "One of the most beautiful ice pyramids in the world."]
     },
     factsAdvanced: {
-      de: [],
-      hu: [],
-      ro: [],
-      en: [
-        "One of the few peaks in the Andes that maintains a nearly perfect pyramid shape from multiple angles.",
-        "The summit is at an elevation of 6,025 meters (19,767 feet).",
-        "Commonly believed to be the model for the 'Paramount' mountain logo.",
-        "Located near the stunning turquoise Lake Parón.",
-        "First successfully climbed in 1932 by Erwin Hein and Erwin Schneider."
-      ]
+      en: ["A near-perfect ice pyramid reaching an elevation of 6,025 meters (19,767 feet).", "Famous globally as the rumored inspiration for the Paramount Pictures logo.", "One of the most technical 6,000m peaks in Peru, requiring advanced ice climbing skills.", "Located in the northern Cordillera Blanca, accessible via the Parón Lagoon.", "The mountain features two main ridges and a spectacular south face.", "Surrounded by some of the most stunning glacial scenery in the world.", "The name 'Artesonraju' comes from the Spanish 'arteson' (trough) and Quechua 'raju' (glacier).", "Vital for the hydrological balance of the Parón Valley, Peru's largest glacial lake system."]
     }
   }
 ];
-
